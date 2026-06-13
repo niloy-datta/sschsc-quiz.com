@@ -1,0 +1,3802 @@
+[
+  {
+    "setNumber": 1,
+    "questions": [
+      {
+        "questionNumber": 1,
+        "passage": "একটি কার্নো ইঞ্জিন 500 K ও 300 K তাপমাত্রার মধ্যে কাজ করে এবং প্রতি চক্রে 4000 J তাপ গ্রহণ করে।",
+        "questionText": "ইঞ্জিনটির দক্ষতা কত?",
+        "options": [
+          "ক) 60%",
+          "খ) 40%",
+          "গ) 50%",
+          "ঘ) 30%"
+        ],
+        "correctOption": "খ",
+        "explanation": "η = 1 - (300/500) = 0.4 = 40%",
+        "topic": "তাপগতিবিদ্যা",
+        "probability": "Mega Hot"
+      },
+      {
+        "questionNumber": 2,
+        "passage": "একটি কার্নো ইঞ্জিন 500 K ও 300 K তাপমাত্রার মধ্যে কাজ করে এবং প্রতি চক্রে 4000 J তাপ গ্রহণ করে।",
+        "questionText": "ইঞ্জিনটি প্রতি চক্রে কত তাপ বর্জন করে?",
+        "options": [
+          "ক) 2400 J",
+          "খ) 1600 J",
+          "গ) 2000 J",
+          "ঘ) 1200 J"
+        ],
+        "correctOption": "ক",
+        "explanation": "Q₂ = Q₁ × (T₂/T₁) = 4000×(300/500) = 2400 J",
+        "topic": "কার্নো ইঞ্জিন",
+        "probability": "Very Hot"
+      },
+      {
+        "questionNumber": 3,
+        "passage": "একটি ব্যাটারির তড়িচ্চালক বল 12 V এবং অভ্যন্তরীণ রোধ 1 Ω। ব্যাটারিটিকে একটি 5 Ω রোধের সাথে সংযুক্ত করা হলো।",
+        "questionText": "বর্তনীর প্রবাহ কত?",
+        "options": [
+          "ক) 2 A",
+          "খ) 2.4 A",
+          "গ) 1.5 A",
+          "ঘ) 3 A"
+        ],
+        "correctOption": "ক",
+        "explanation": "I = E/(R+r) = 12/(5+1) = 2 A",
+        "topic": "চল তড়িৎ",
+        "probability": "Mega Hot"
+      },
+      {
+        "questionNumber": 4,
+        "passage": "একটি ব্যাটারির তড়িচ্চালক বল 12 V এবং অভ্যন্তরীণ রোধ 1 Ω। ব্যাটারিটিকে একটি 5 Ω রোধের সাথে সংযুক্ত করা হলো।",
+        "questionText": "ব্যাটারির প্রান্তীয় বিভব পার্থক্য কত?",
+        "options": [
+          "ক) 10 V",
+          "খ) 12 V",
+          "গ) 8 V",
+          "ঘ) 11 V"
+        ],
+        "correctOption": "ক",
+        "explanation": "V = E - I r = 12 - 2×1 = 10 V",
+        "topic": "চল তড়িৎ",
+        "probability": "Board Favourite"
+      },
+      {
+        "questionNumber": 5,
+        "passage": null,
+        "questionText": "একটি ইলেকট্রনের ডি-ব্রগলি তরঙ্গদৈর্ঘ্য 0.1 nm হলে এর গতিশক্তি প্রায়— (h = 6.63×10⁻³⁴ Js, mₑ = 9.1×10⁻³¹ kg)",
+        "options": [
+          "ক) 150 eV",
+          "খ) 15 eV",
+          "গ) 1.5 keV",
+          "ঘ) 37.5 eV"
+        ],
+        "correctOption": "ক",
+        "explanation": "E = h²/(2mλ²) ≈ 151 eV",
+        "topic": "আধুনিক পদার্থবিজ্ঞান",
+        "probability": "Mega Hot"
+      },
+      {
+        "questionNumber": 6,
+        "passage": null,
+        "questionText": "একটি ট্রান্সফরমারের মুখ্য কুণ্ডলীতে পাকসংখ্যা 500, গৌণ কুণ্ডলীতে 50। মুখ্য বিভব 220 V হলে গৌণ বিভব কত?",
+        "options": [
+          "ক) 22 V",
+          "খ) 44 V",
+          "গ) 11 V",
+          "ঘ) 2200 V"
+        ],
+        "correctOption": "ক",
+        "explanation": "V_s/V_p = N_s/N_p → V_s = 220×(50/500)=22 V",
+        "topic": "তড়িৎচুম্বকীয় আবেশ",
+        "probability": "Board Favourite"
+      },
+      {
+        "questionNumber": 7,
+        "passage": null,
+        "questionText": "ফটোইলেকট্রিক ক্রিয়ায় আপতিত আলোর কম্পাঙ্ক সূচন কম্পাঙ্কের দ্বিগুণ করলে নির্গত ইলেকট্রনের সর্বোচ্চ গতিশক্তি—",
+        "options": [
+          "ক) দ্বিগুণ হয়",
+          "খ) অর্ধেক হয়",
+          "গ) অপরিবর্তিত থাকে",
+          "ঘ) সূচন কম্পাঙ্কের ফোটন শক্তির সমান হয়"
+        ],
+        "correctOption": "ঘ",
+        "explanation": "K_max = h(2f₀) - hf₀ = hf₀",
+        "topic": "ফটোইলেকট্রিক ক্রিয়া",
+        "probability": "Conceptual Trap"
+      },
+      {
+        "questionNumber": 8,
+        "passage": null,
+        "questionText": "একটি ফাঁপা পরিবাহী গোলকের ব্যাসার্ধ R এবং তড়িৎ আধান Q। গোলকের কেন্দ্র থেকে r (r < R) দূরত্বে তড়িৎ ক্ষেত্র কত?",
+        "options": [
+          "ক) kQ/r²",
+          "খ) kQ/R²",
+          "গ) 0",
+          "ঘ) kQ/R"
+        ],
+        "correctOption": "গ",
+        "explanation": "ফাঁপা পরিবাহীর অভ্যন্তরে তড়িৎ ক্ষেত্র শূন্য।",
+        "topic": "স্থির তড়িৎ",
+        "probability": "Mega Hot"
+      },
+      {
+        "questionNumber": 9,
+        "passage": null,
+        "questionText": "ইয়ং-এর দ্বি-চিড় পরীক্ষায় চিড় দুইটির মধ্যবর্তী দূরত্ব d, পর্দার দূরত্ব D, আলোর তরঙ্গদৈর্ঘ্য λ। ডোরাকাটা ব্যবধান β =?",
+        "options": [
+          "ক) λD/d",
+          "খ) dD/λ",
+          "গ) λd/D",
+          "ঘ) D/(λd)"
+        ],
+        "correctOption": "ক",
+        "explanation": "β = λD/d",
+        "topic": "তরঙ্গ ও আলোকবিজ্ঞান",
+        "probability": "Board Favourite"
+      },
+      {
+        "questionNumber": 10,
+        "passage": null,
+        "questionText": "নিচের কোনটি সঠিক নয়? i. জেনার ডায়োড বিপরীত বায়াসে ভোল্টেজ নিয়ন্ত্রক হিসেবে ব্যবহৃত হয়। ii. ফটোডায়োড বিপরীত বায়াসে আলো সনাক্ত করে। iii. এলইডি অল্টারনেটিং কারেন্টকে ডিরেক্ট কারেন্টে রূপান্তর করে।",
+        "options": [
+          "ক) i ও ii",
+          "খ) i ও iii",
+          "গ) ii ও iii",
+          "ঘ) iii"
+        ],
+        "correctOption": "ঘ",
+        "explanation": "LED আলো নিঃসরণ করে, সংশোধন করে না।",
+        "topic": "অর্ধপরিবাহী",
+        "probability": "Conceptual Trap"
+      },
+      {
+        "questionNumber": 11,
+        "passage": null,
+        "questionText": "একটি সমান্তরাল পাত ধারকের ধারকত্ব C = ε₀A/d। পাতদ্বয়ের মধ্যবর্তী দূরত্ব দ্বিগুণ করলে ধারকত্ব কত হবে?",
+        "options": [
+          "ক) C/2",
+          "খ) 2C",
+          "গ) C/4",
+          "ঘ) C"
+        ],
+        "correctOption": "ক",
+        "explanation": "C ∝ 1/d",
+        "topic": "স্থির তড়িৎ",
+        "probability": "Mega Hot"
+      },
+      {
+        "questionNumber": 12,
+        "passage": null,
+        "questionText": "রাদারফোর্ডের α-কণা বিক্ষেপণ পরীক্ষায় বেশিরভাগ α-কণা সরলপথে চলে যায়, কারণ—",
+        "options": [
+          "ক) নিউক্লিয়াস ধনাত্মক",
+          "খ) পরমাণুর বেশিরভাগ স্থান ফাঁকা",
+          "গ) ইলেকট্রনের ভর কম",
+          "ঘ) α-কণা আধানহীন"
+        ],
+        "correctOption": "খ",
+        "explanation": "পরমাণুর বেশিরভাগ স্থান ফাঁকা, তাই বেশিরভাগ α-কণা বাধাহীন ভাবে চলে।",
+        "topic": "আধুনিক পদার্থবিজ্ঞান",
+        "probability": "Board Favourite"
+      },
+      {
+        "questionNumber": 13,
+        "passage": null,
+        "questionText": "একটি তারের মধ্য দিয়ে তড়িৎ প্রবাহ দ্বিগুণ করলে উৎপন্ন তাপ কত গুণ হবে?",
+        "options": [
+          "ক) 2 গুণ",
+          "খ) 4 গুণ",
+          "গ) অর্ধেক",
+          "ঘ) একই"
+        ],
+        "correctOption": "খ",
+        "explanation": "H ∝ I²",
+        "topic": "চল তড়িৎ (জুল উত্তাপ)",
+        "probability": "Mega Hot"
+      },
+      {
+        "questionNumber": 14,
+        "passage": null,
+        "questionText": "তড়িৎচুম্বকীয় আবেশে লেনজের সূত্র কী নির্দেশ করে?",
+        "options": [
+          "ক) আবিষ্ট তড়িচ্চালক বলের মান",
+          "খ) আবিষ্ট তড়িচ্চালক বলের দিক",
+          "গ) চৌম্বক ক্ষেত্রের মান",
+          "ঘ) তড়িৎ প্রবাহের মান"
+        ],
+        "correctOption": "খ",
+        "explanation": "লেনজের সূত্র আবিষ্ট তড়িচ্চালক বলের দিক নির্দেশ করে।",
+        "topic": "চৌম্বকত্ব ও আবেশ",
+        "probability": "Board Favourite"
+      },
+      {
+        "questionNumber": 15,
+        "passage": null,
+        "questionText": "কার্নো চক্রের বিভিন্ন প্রক্রিয়ার ক্ষেত্রে— i. সমোষ্ণ প্রসারণে গ্যাস তাপ গ্রহণ করে ii. রুদ্ধতাপীয় প্রসারণে তাপমাত্রা হ্রাস পায় iii. সমোষ্ণ সংকোচনে গ্যাস তাপ বর্জন করে নিচের কোনটি সঠিক?",
+        "options": [
+          "ক) i ও ii",
+          "খ) ii ও iii",
+          "গ) i ও iii",
+          "ঘ) i, ii ও iii"
+        ],
+        "correctOption": "ঘ",
+        "explanation": "কার্নো চক্রের প্রতিটি ধাপ সঠিক বিবৃত।",
+        "topic": "তাপগতিবিদ্যা",
+        "probability": "Mega Hot"
+      },
+      {
+        "questionNumber": 16,
+        "passage": null,
+        "questionText": "একটি আদর্শ গ্যাসের রুদ্ধতাপীয় প্রক্রিয়ায়— i. PV^γ = ধ্রুবক ii. TV^(γ-1) = ধ্রুবক iii. T^γ P^(1-γ) = ধ্রুবক নিচের কোনটি সঠিক?",
+        "options": [
+          "ক) i ও ii",
+          "খ) i ও iii",
+          "গ) ii ও iii",
+          "ঘ) i, ii ও iii"
+        ],
+        "correctOption": "ঘ",
+        "explanation": "রুদ্ধতাপীয় প্রক্রিয়ার তিনটি রূপই সঠিক।",
+        "topic": "তাপগতিবিদ্যা",
+        "probability": "Very Hot"
+      },
+      {
+        "questionNumber": 17,
+        "passage": null,
+        "questionText": "ইয়ং-এর দ্বি-চিড় পরীক্ষায়— i. আলোক তরঙ্গের ব্যতিচার ঘটে ii. ডোরার ব্যবধান λ-এর সমানুপাতিক iii. পর্দার দূরত্ব বাড়ালে ডোরার ব্যবধান বাড়ে নিচের কোনটি সঠিক?",
+        "options": [
+          "ক) i ও ii",
+          "খ) i ও iii",
+          "গ) ii ও iii",
+          "ঘ) i, ii ও iii"
+        ],
+        "correctOption": "ঘ",
+        "explanation": "সবগুলো সঠিক। β ∝ λ, β ∝ D, এবং ব্যতিচার ঘটে।",
+        "topic": "আলোকবিজ্ঞান",
+        "probability": "Board Favourite"
+      },
+      {
+        "questionNumber": 18,
+        "passage": null,
+        "questionText": "ফটোইলেকট্রিক ক্রিয়ার ক্ষেত্রে— i. নিবৃত্তি বিভব আপতিত আলোর কম্পাঙ্কের সাথে রৈখিকভাবে বৃদ্ধি পায় ii. সম্পৃক্ত প্রবাহ আলোর তীব্রতার সমানুপাতিক iii. সূচন কম্পাঙ্কের নিচে কোনো ইলেকট্রন নির্গত হয় না নিচের কোনটি সঠিক?",
+        "options": [
+          "ক) i ও ii",
+          "খ) i ও iii",
+          "গ) ii ও iii",
+          "ঘ) i, ii ও iii"
+        ],
+        "correctOption": "ঘ",
+        "explanation": "তিনটি সূত্রই ফটোইলেকট্রিক ক্রিয়ার জন্য প্রযোজ্য।",
+        "topic": "আধুনিক পদার্থবিজ্ঞান",
+        "probability": "Mega Hot"
+      },
+      {
+        "questionNumber": 19,
+        "passage": null,
+        "questionText": "একটি গতিশীল আধান কণার জন্য— i. চৌম্বকক্ষেত্রে ক্রিয়াশীল বল F = qvB sinθ ii. গতিশীল ইলেকট্রনের ডি-ব্রগলি তরঙ্গদৈর্ঘ্য λ = h/(mv) iii. তড়িৎক্ষেত্রে ত্বরণ a = qE/m নিচের কোনটি সঠিক?",
+        "options": [
+          "ক) i ও ii",
+          "খ) i ও iii",
+          "গ) ii ও iii",
+          "ঘ) i, ii ও iii"
+        ],
+        "correctOption": "ঘ",
+        "explanation": "তিনটি সূত্রই সঠিক।",
+        "topic": "মিশ্র (চৌম্বক, আধুনিক, স্থির তড়িৎ)",
+        "probability": "Very Hot"
+      },
+      {
+        "questionNumber": 20,
+        "passage": null,
+        "questionText": "ট্রান্সফরমার সম্পর্কে— i. এটি ফ্যারাডের তড়িৎচুম্বকীয় আবেশ সূত্রের ওপর ভিত্তি করে কাজ করে ii. এর সাহায্যে এসি বিভব পরিবর্তন করা যায় iii. আইডিয়াল ট্রান্সফরমারে P_in = P_out নিচের কোনটি সঠিক?",
+        "options": [
+          "ক) i ও ii",
+          "খ) i ও iii",
+          "গ) ii ও iii",
+          "ঘ) i, ii ও iii"
+        ],
+        "correctOption": "ঘ",
+        "explanation": "ট্রান্সফরমার সংক্রান্ত সব তথ্য সঠিক।",
+        "topic": "তড়িৎচুম্বকীয় আবেশ",
+        "probability": "Board Favourite"
+      },
+      {
+        "questionNumber": 21,
+        "passage": null,
+        "questionText": "একটি ধারকের ধারকত্ব C। ধারকটির সাথে অপর একটি সমান ধারকত্বের ধারক সিরিজে যুক্ত করলে তুল্য ধারকত্ব কত?",
+        "options": [
+          "ক) 2C",
+          "খ) C/2",
+          "গ) C",
+          "ঘ) C/4"
+        ],
+        "correctOption": "খ",
+        "explanation": "সিরিজে 1/C_eq = 1/C + 1/C → C_eq = C/2",
+        "topic": "স্থির তড়িৎ",
+        "probability": "Mega Hot"
+      },
+      {
+        "questionNumber": 22,
+        "passage": null,
+        "questionText": "নিচের কোনটি ভেক্টর রাশি?",
+        "options": [
+          "ক) তড়িৎ বিভব",
+          "খ) তড়িৎ ফ্লাক্স",
+          "গ) তড়িৎ ক্ষেত্র",
+          "ঘ) তড়িৎ ধারকত্ব"
+        ],
+        "correctOption": "গ",
+        "explanation": "তড়িৎ ক্ষেত্র ভেক্টর, বাকিগুলো স্কেলার।",
+        "topic": "স্থির তড়িৎ",
+        "probability": "Conceptual Trap"
+      },
+      {
+        "questionNumber": 23,
+        "passage": null,
+        "questionText": "তেজস্ক্রিয়তার ক্ষেত্রে, β⁻ ক্ষয়ের ফলে—",
+        "options": [
+          "ক) ভর সংখ্যা 4 হ্রাস পায়",
+          "খ) পারমাণবিক সংখ্যা 1 বৃদ্ধি পায়",
+          "গ) পারমাণবিক সংখ্যা 1 হ্রাস পায়",
+          "ঘ) ভর সংখ্যা 1 হ্রাস পায়"
+        ],
+        "correctOption": "খ",
+        "explanation": "β⁻ ক্ষয়ে নিউট্রন → প্রোটন + ইলেকট্রন, ফলে পারমাণবিক সংখ্যা 1 বাড়ে।",
+        "topic": "আধুনিক পদার্থবিজ্ঞান",
+        "probability": "Board Favourite"
+      },
+      {
+        "questionNumber": 24,
+        "passage": null,
+        "questionText": "একটি ইলেকট্রন ও একটি প্রোটনের ডি-ব্রগলি তরঙ্গদৈর্ঘ্য সমান। কোনটির গতিশক্তি বেশি?",
+        "options": [
+          "ক) ইলেকট্রন",
+          "খ) প্রোটন",
+          "গ) উভয়ের সমান",
+          "ঘ) নির্ভর করে না"
+        ],
+        "correctOption": "ক",
+        "explanation": "λ সমান হলে E ∝ 1/m, ইলেকট্রন হালকা তাই গতিশক্তি বেশি।",
+        "topic": "আধুনিক পদার্থবিজ্ঞান",
+        "probability": "Conceptual Trap"
+      },
+      {
+        "questionNumber": 25,
+        "passage": null,
+        "questionText": "একটি বর্তনীতে দুটি রোধ R₁ ও R₂ সমান্তরালে যুক্ত। তুল্য রোধ R হলে, নিচের কোন সম্পর্কটি সঠিক নয়?",
+        "options": [
+          "ক) 1/R = 1/R₁ + 1/R₂",
+          "খ) R < R₁, R < R₂",
+          "গ) R = R₁ + R₂",
+          "ঘ) R = (R₁R₂)/(R₁+R₂)"
+        ],
+        "correctOption": "গ",
+        "explanation": "R = R₁+R₂ শ্রেণি সংযোগের সূত্র, সমান্তরালে প্রযোজ্য নয়।",
+        "topic": "চল তড়িৎ",
+        "probability": "Mega Hot"
+      }
+    ]
+  },
+  {
+    "setNumber": 2,
+    "questions": [
+      {
+        "questionNumber": 1,
+        "passage": "একটি রেফ্রিজারেটরের কার্যনির্বাহক তাপমাত্রা 263 K ও 303 K।",
+        "questionText": "রেফ্রিজারেটরটির কার্যকারিতা সহগ (COP) কত?",
+        "options": [
+          "ক) 6.6",
+          "খ) 5.5",
+          "গ) 7.6",
+          "ঘ) 4.5"
+        ],
+        "correctOption": "ক",
+        "explanation": "COP = T_c/(T_h - T_c) = 263/(40) ≈ 6.6",
+        "topic": "তাপগতিবিদ্যা",
+        "probability": "Mega Hot"
+      },
+      {
+        "questionNumber": 2,
+        "passage": "একটি রেফ্রিজারেটরের কার্যনির্বাহক তাপমাত্রা 263 K ও 303 K।",
+        "questionText": "প্রতি চক্রে 200 J কাজ সম্পন্ন করলে, শীতল তাপাধার থেকে অপসারিত তাপ কত?",
+        "options": [
+          "ক) 1200 J",
+          "খ) 1315 J",
+          "গ) 1500 J",
+          "ঘ) 1100 J"
+        ],
+        "correctOption": "খ",
+        "explanation": "Q_c = COP × W = 6.575 × 200 ≈ 1315 J",
+        "topic": "রেফ্রিজারেটর",
+        "probability": "Very Hot"
+      },
+      {
+        "questionNumber": 3,
+        "passage": "একটি ব্যাটারির তড়িচ্চালক বল 6 V, অভ্যন্তরীণ রোধ 0.5 Ω। দুটি রোধ 2 Ω ও 3 Ω সমান্তরালে সংযুক্ত করে ব্যাটারিটির সাথে যুক্ত করা হলো।",
+        "questionText": "সমান্তরাল সংযোগের তুল্য রোধ কত?",
+        "options": [
+          "ক) 5 Ω",
+          "খ) 1.2 Ω",
+          "গ) 1.5 Ω",
+          "ঘ) 2.5 Ω"
+        ],
+        "correctOption": "খ",
+        "explanation": "R_eq = (2×3)/(2+3) = 1.2 Ω",
+        "topic": "চল তড়িৎ",
+        "probability": "Mega Hot"
+      },
+      {
+        "questionNumber": 4,
+        "passage": "একটি ব্যাটারির তড়িচ্চালক বল 6 V, অভ্যন্তরীণ রোধ 0.5 Ω। দুটি রোধ 2 Ω ও 3 Ω সমান্তরালে সংযুক্ত করে ব্যাটারিটির সাথে যুক্ত করা হলো।",
+        "questionText": "ব্যাটারি থেকে প্রবাহিত তড়িৎ প্রবাহ কত?",
+        "options": [
+          "ক) 3 A",
+          "খ) 4 A",
+          "গ) 3.53 A",
+          "ঘ) 5 A"
+        ],
+        "correctOption": "গ",
+        "explanation": "I = 6/(1.2+0.5) ≈ 3.53 A",
+        "topic": "চল তড়িৎ",
+        "probability": "Board Favourite"
+      },
+      {
+        "questionNumber": 5,
+        "passage": null,
+        "questionText": "কোনো ধাতুর কার্যাপেক্ষক 2.48 eV, আপতিত আলোর তরঙ্গদৈর্ঘ্য 400 nm। নির্গত ইলেকট্রনের সর্বোচ্চ গতিশক্তির জন্য নিবৃত্তি বিভব কত? (hc = 1240 eV nm)",
+        "options": [
+          "ক) 0.62 V",
+          "খ) 0.50 V",
+          "গ) 1.00 V",
+          "ঘ) 1.50 V"
+        ],
+        "correctOption": "ক",
+        "explanation": "K_max = 1240/400 - 2.48 = 0.62 eV, নিবৃত্তি বিভব = 0.62 V",
+        "topic": "ফটোইলেকট্রিক ক্রিয়া",
+        "probability": "Very Hot"
+      },
+      {
+        "questionNumber": 6,
+        "passage": null,
+        "questionText": "কোনো আধান কণা সুষম চৌম্বক ক্ষেত্রের সমান্তরালে চললে তার উপর ক্রিয়াশীল চৌম্বক বল—",
+        "options": [
+          "ক) সর্বোচ্চ",
+          "খ) শূন্য",
+          "গ) qvB",
+          "ঘ) vB"
+        ],
+        "correctOption": "খ",
+        "explanation": "F = qvB sinθ, θ = 0° হলে বল শূন্য।",
+        "topic": "চৌম্বকত্ব",
+        "probability": "Conceptual Trap"
+      },
+      {
+        "questionNumber": 7,
+        "passage": null,
+        "questionText": "দুটি ধারক 2 μF ও 6 μF সিরিজে যুক্ত করলে তুল্য ধারকত্ব কত?",
+        "options": [
+          "ক) 8 μF",
+          "খ) 1.5 μF",
+          "গ) 4 μF",
+          "ঘ) 12 μF"
+        ],
+        "correctOption": "খ",
+        "explanation": "সিরিজে C_eq = (2×6)/(2+6) = 1.5 μF",
+        "topic": "স্থির তড়িৎ",
+        "probability": "Mega Hot"
+      },
+      {
+        "questionNumber": 8,
+        "passage": null,
+        "questionText": "নিচের কোন গেটটির আউটপুট শুধুমাত্র তখনই 0 যখন সকল ইনপুট 1?",
+        "options": [
+          "ক) OR",
+          "খ) AND",
+          "গ) NAND",
+          "ঘ) NOR"
+        ],
+        "correctOption": "গ",
+        "explanation": "NAND গেট আউটপুট 0 দেয় শুধু যখন সব ইনপুট 1।",
+        "topic": "অর্ধপরিবাহী/লজিক গেট",
+        "probability": "Board Favourite"
+      },
+      {
+        "questionNumber": 9,
+        "passage": null,
+        "questionText": "নিচের কোনটি সঠিক নয়? i. ডায়নামো যান্ত্রিক শক্তিকে তড়িৎ শক্তিতে রূপান্তরিত করে ii. ট্রান্সফরমার ডিসি বিভব পরিবর্তন করতে পারে iii. মোটর তড়িৎ শক্তিকে যান্ত্রিক শক্তিতে রূপান্তরিত করে",
+        "options": [
+          "ক) i",
+          "খ) ii",
+          "গ) iii",
+          "ঘ) i ও iii"
+        ],
+        "correctOption": "খ",
+        "explanation": "ট্রান্সফরমার কেবল এসি-তে কাজ করে, ডিসিতে নয়।",
+        "topic": "তড়িৎচুম্বকীয় আবেশ",
+        "probability": "Conceptual Trap"
+      },
+      {
+        "questionNumber": 10,
+        "passage": null,
+        "questionText": "ইয়ং-এর দ্বি-চিড় পরীক্ষায় ডোরার ব্যবধান বাড়াতে চাইলে—",
+        "options": [
+          "ক) চিড় দুটির দূরত্ব d বাড়াতে হবে",
+          "খ) আলোর তরঙ্গদৈর্ঘ্য কমাতে হবে",
+          "গ) পর্দার দূরত্ব D কমাতে হবে",
+          "ঘ) চিড় দুটির দূরত্ব d কমাতে হবে"
+        ],
+        "correctOption": "ঘ",
+        "explanation": "β = λD/d, d হ্রাস করলে β বৃদ্ধি পায়।",
+        "topic": "আলোকবিজ্ঞান",
+        "probability": "Board Favourite"
+      },
+      {
+        "questionNumber": 11,
+        "passage": null,
+        "questionText": "নিচের কোনটি নিউক্লীয় ফিউশন বিক্রিয়া?",
+        "options": [
+          "ক) ইউরেনিয়ামের বিভাজন",
+          "খ) পোলোনিয়ামের আলফা ক্ষয়",
+          "গ) ডিউটেরিয়াম-ট্রিটিয়াম বিক্রিয়া",
+          "ঘ) কার্বনের বিটা ক্ষয়"
+        ],
+        "correctOption": "গ",
+        "explanation": "D-T বিক্রিয়া ফিউশনের উদাহরণ।",
+        "topic": "আধুনিক পদার্থবিজ্ঞান",
+        "probability": "Mega Hot"
+      },
+      {
+        "questionNumber": 12,
+        "passage": null,
+        "questionText": "একটি পোটেনশিওমিটারে দুটি কোষের জন্য ভারসাম্য দৈর্ঘ্য যথাক্রমে l₁ ও l₂। কোষদ্বয়ের তড়িচ্চালক বলের অনুপাত E₁/E₂ =?",
+        "options": [
+          "ক) l₂/l₁",
+          "খ) l₁/l₂",
+          "গ) l₁ l₂",
+          "ঘ) ধ্রুবক"
+        ],
+        "correctOption": "খ",
+        "explanation": "E ∝ l, তাই E₁/E₂ = l₁/l₂",
+        "topic": "চল তড়িৎ",
+        "probability": "Board Favourite"
+      },
+      {
+        "questionNumber": 13,
+        "passage": null,
+        "questionText": "চৌম্বক ফ্লাক্সের একক কোনটি?",
+        "options": [
+          "ক) টেসলা",
+          "খ) ওয়েবার",
+          "গ) হেনরি",
+          "ঘ) অ্যাম্পিয়ার"
+        ],
+        "correctOption": "খ",
+        "explanation": "চৌম্বক ফ্লাক্সের SI একক ওয়েবার।",
+        "topic": "চৌম্বকত্ব",
+        "probability": "Board Favourite"
+      },
+      {
+        "questionNumber": 14,
+        "passage": null,
+        "questionText": "100 V বিভব পার্থক্যে ত্বরিত ইলেকট্রনের ডি-ব্রগলি তরঙ্গদৈর্ঘ্য প্রায়—",
+        "options": [
+          "ক) 1.23 Å",
+          "খ) 0.123 Å",
+          "গ) 12.3 Å",
+          "ঘ) 0.0123 Å"
+        ],
+        "correctOption": "ক",
+        "explanation": "λ = 12.27/√V ≈ 1.23 Å",
+        "topic": "আধুনিক পদার্থবিজ্ঞান",
+        "probability": "Mega Hot"
+      },
+      {
+        "questionNumber": 15,
+        "passage": null,
+        "questionText": "গাউসের সূত্র সম্পর্কে— i. মোট তড়িৎ ফ্লাক্স = q/ε₀ ii. ফ্লাক্স বদ্ধতলের আকারের উপর নির্ভর করে না iii. ফ্লাক্স আধানের মান ও চিহ্নের উপর নির্ভর করে নিচের কোনটি সঠিক?",
+        "options": [
+          "ক) i ও ii",
+          "খ) i ও iii",
+          "গ) ii ও iii",
+          "ঘ) i, ii ও iii"
+        ],
+        "correctOption": "ঘ",
+        "explanation": "গাউসের সূত্রের সব বিবৃতিই সঠিক।",
+        "topic": "স্থির তড়িৎ",
+        "probability": "Mega Hot"
+      },
+      {
+        "questionNumber": 16,
+        "passage": null,
+        "questionText": "ধারকের সিরিজ ও সমান্তরাল সংযোগে— i. সিরিজে তুল্য ধারকত্ব হ্রাস পায় ii. সমান্তরালে তুল্য ধারকত্ব বৃদ্ধি পায় iii. সিরিজে বিভব বিভক্ত হয়, সমান্তরালে বিভব একই থাকে নিচের কোনটি সঠিক?",
+        "options": [
+          "ক) i ও ii",
+          "খ) i ও iii",
+          "গ) ii ও iii",
+          "ঘ) i, ii ও iii"
+        ],
+        "correctOption": "ঘ",
+        "explanation": "সিরিজ ও সমান্তরাল ধারকের বৈশিষ্ট্য তিনটিই সঠিক।",
+        "topic": "স্থির তড়িৎ",
+        "probability": "Very Hot"
+      },
+      {
+        "questionNumber": 17,
+        "passage": null,
+        "questionText": "একটি আধান কণা সুষম চৌম্বক ক্ষেত্রে গতিশীল থাকলে— i. চৌম্বক বল সর্বদা গতির লম্বদিকে ক্রিয়া করে ii. চৌম্বক বল কোনো কাজ করে না iii. বৃত্তাকার পথে চললে F = mv²/r নিচের কোনটি সঠিক?",
+        "options": [
+          "ক) i ও ii",
+          "খ) i ও iii",
+          "গ) ii ও iii",
+          "ঘ) i, ii ও iii"
+        ],
+        "correctOption": "ঘ",
+        "explanation": "চৌম্বক বলের বৈশিষ্ট্য তিনটিই সঠিক।",
+        "topic": "চৌম্বকত্ব",
+        "probability": "Board Favourite"
+      },
+      {
+        "questionNumber": 18,
+        "passage": null,
+        "questionText": "তাপগতিবিদ্যার প্রথম সূত্র dU = dQ - dW প্রসঙ্গে— i. dU অভ্যন্তরীণ শক্তির পরিবর্তন ii. সমোষ্ণ প্রক্রিয়ায় dU=0 iii. রুদ্ধতাপীয় প্রক্রিয়ায় dQ=0 নিচের কোনটি সঠিক?",
+        "options": [
+          "ক) i ও ii",
+          "খ) i ও iii",
+          "গ) ii ও iii",
+          "ঘ) i, ii ও iii"
+        ],
+        "correctOption": "ঘ",
+        "explanation": "সবগুলো সঠিক।",
+        "topic": "তাপগতিবিদ্যা",
+        "probability": "Mega Hot"
+      },
+      {
+        "questionNumber": 19,
+        "passage": null,
+        "questionText": "জুলের তাপীয় সূত্রানুসারে H = I² R t — i. H ∝ I² ii. H ∝ R iii. H ∝ t নিচের কোনটি সঠিক?",
+        "options": [
+          "ক) i ও ii",
+          "খ) i ও iii",
+          "গ) ii ও iii",
+          "ঘ) i, ii ও iii"
+        ],
+        "correctOption": "ঘ",
+        "explanation": "তিনটি সম্পর্কই সঠিক।",
+        "topic": "চল তড়িৎ",
+        "probability": "Board Favourite"
+      },
+      {
+        "questionNumber": 20,
+        "passage": null,
+        "questionText": "ফ্যারাডের তড়িৎচুম্বকীয় আবেশ সূত্র— i. ε = -dΦ/dt ii. ঋণাত্মক চিহ্ন লেনজের সূত্র নির্দেশ করে iii. কুণ্ডলীর পাকসংখ্যা বাড়ালে আবিষ্ট তড়িচ্চালক বল বৃদ্ধি পায় নিচের কোনটি সঠিক?",
+        "options": [
+          "ক) i ও ii",
+          "খ) i ও iii",
+          "গ) ii ও iii",
+          "ঘ) i, ii ও iii"
+        ],
+        "correctOption": "ঘ",
+        "explanation": "সবগুলো সঠিক।",
+        "topic": "তড়িৎচুম্বকীয় আবেশ",
+        "probability": "Mega Hot"
+      },
+      {
+        "questionNumber": 21,
+        "passage": null,
+        "questionText": "100 W, 220 V বৈদ্যুতিক বাল্বের ফিলামেন্টের রোধ কত?",
+        "options": [
+          "ক) 242 Ω",
+          "খ) 484 Ω",
+          "গ) 100 Ω",
+          "ঘ) 44 Ω"
+        ],
+        "correctOption": "খ",
+        "explanation": "R = V²/P = 220²/100 = 484 Ω",
+        "topic": "চল তড়িৎ",
+        "probability": "Mega Hot"
+      },
+      {
+        "questionNumber": 22,
+        "passage": null,
+        "questionText": "নিচের কোনটি তড়িৎচুম্বকীয় তরঙ্গ নয়?",
+        "options": [
+          "ক) গামা রশ্মি",
+          "খ) আল্ট্রাভায়োলেট",
+          "গ) আলট্রাসাউন্ড",
+          "ঘ) মাইক্রোওয়েভ"
+        ],
+        "correctOption": "গ",
+        "explanation": "আলট্রাসাউন্ড শব্দ তরঙ্গ, তড়িৎচুম্বকীয় নয়।",
+        "topic": "আধুনিক/তরঙ্গ",
+        "probability": "Conceptual Trap"
+      },
+      {
+        "questionNumber": 23,
+        "passage": null,
+        "questionText": "PN জংশন ডায়োডকে অগ্রদিক বায়াসে যুক্ত করলে বিভব পর্দার মান—",
+        "options": [
+          "ক) বৃদ্ধি পায়",
+          "খ) হ্রাস পায়",
+          "গ) অপরিবর্তিত থাকে",
+          "ঘ) শূন্য হয়"
+        ],
+        "correctOption": "খ",
+        "explanation": "ফরওয়ার্ড বায়াসে বিভব পর্দা হ্রাস পায়।",
+        "topic": "অর্ধপরিবাহী",
+        "probability": "Board Favourite"
+      },
+      {
+        "questionNumber": 24,
+        "passage": null,
+        "questionText": "পারমাণবিক চুল্লীতে মডারেটর হিসেবে ব্যবহৃত হয়— i. হেভি ওয়াটার ii. গ্রাফাইট iii. ক্যাডমিয়াম নিচের কোনটি সঠিক?",
+        "options": [
+          "ক) i ও ii",
+          "খ) i ও iii",
+          "গ) ii ও iii",
+          "ঘ) i, ii ও iii"
+        ],
+        "correctOption": "ক",
+        "explanation": "ক্যাডমিয়াম নিয়ন্ত্রণ দণ্ড, মডারেটর নয়।",
+        "topic": "আধুনিক পদার্থবিজ্ঞান",
+        "probability": "Very Hot"
+      },
+      {
+        "questionNumber": 25,
+        "passage": null,
+        "questionText": "যে লজিক গেটের আউটপুট শুধুমাত্র তখনই 1 যখন সব ইনপুট 1, সেটি—",
+        "options": [
+          "ক) OR",
+          "খ) AND",
+          "গ) NAND",
+          "ঘ) NOR"
+        ],
+        "correctOption": "খ",
+        "explanation": "AND গেটের আউটপুট 1 কেবল যখন সব ইনপুট 1।",
+        "topic": "লজিক গেট",
+        "probability": "Board Favourite"
+      }
+    ]
+  },
+  {
+    "setNumber": 3,
+    "questions": [
+      {
+        "questionNumber": 1,
+        "passage": "ইয়ং-এর দ্বি-চিড় পরীক্ষায় চিড় দুইটির মধ্যবর্তী দূরত্ব 0.5 mm, পর্দার দূরত্ব 1 m, আলোর তরঙ্গদৈর্ঘ্য 600 nm।",
+        "questionText": "ডোরার ব্যবধান (fringe width) কত?",
+        "options": [
+          "ক) 0.6 mm",
+          "খ) 1.2 mm",
+          "গ) 0.3 mm",
+          "ঘ) 2.4 mm"
+        ],
+        "correctOption": "খ",
+        "explanation": "β = λD/d = (600×10⁻⁹×1)/(0.5×10⁻³) = 1.2 mm",
+        "topic": "আলোকবিজ্ঞান",
+        "probability": "Mega Hot"
+      },
+      {
+        "questionNumber": 2,
+        "passage": "ইয়ং-এর দ্বি-চিড় পরীক্ষায় চিড় দুইটির মধ্যবর্তী দূরত্ব 0.5 mm, পর্দার দূরত্ব 1 m, আলোর তরঙ্গদৈর্ঘ্য 600 nm।",
+        "questionText": "কেন্দ্রীয় চমকপ্রদ ডোরা থেকে তৃতীয় চমকপ্রদ ডোরার দূরত্ব কত?",
+        "options": [
+          "ক) 1.8 mm",
+          "খ) 2.4 mm",
+          "গ) 3.6 mm",
+          "ঘ) 4.8 mm"
+        ],
+        "correctOption": "গ",
+        "explanation": "y₃ = 3β = 3×1.2 = 3.6 mm",
+        "topic": "আলোকবিজ্ঞান",
+        "probability": "Very Hot"
+      },
+      {
+        "questionNumber": 3,
+        "passage": "+4 μC ও +9 μC মানের দুটি বিন্দু আধান পরস্পর থেকে 0.5 m দূরে স্থাপিত।",
+        "questionText": "+4 μC আধান থেকে কত দূরে তড়িৎ ক্ষেত্রের মান শূন্য হবে?",
+        "options": [
+          "ক) 0.2 m",
+          "খ) 0.3 m",
+          "গ) 0.25 m",
+          "ঘ) 0.15 m"
+        ],
+        "correctOption": "ক",
+        "explanation": "4/x² = 9/(0.5-x)² → x = 0.2 m",
+        "topic": "স্থির তড়িৎ",
+        "probability": "Mega Hot"
+      },
+      {
+        "questionNumber": 4,
+        "passage": "+4 μC ও +9 μC মানের দুটি বিন্দু আধান পরস্পর থেকে 0.5 m দূরে স্থাপিত।",
+        "questionText": "ঐ বিন্দুতে তড়িৎ বিভবের মান কত? (k = 9×10⁹ Nm²C⁻²)",
+        "options": [
+          "ক) 4.5×10⁵ V",
+          "খ) 2.25×10⁵ V",
+          "গ) 9×10⁵ V",
+          "ঘ) 0"
+        ],
+        "correctOption": "ক",
+        "explanation": "V = k(4×10⁻⁶/0.2 + 9×10⁻⁶/0.3) = 4.5×10⁵ V",
+        "topic": "স্থির তড়িৎ",
+        "probability": "Very Hot"
+      },
+      {
+        "questionNumber": 5,
+        "passage": null,
+        "questionText": "একটি সলিনয়েডের প্রতি মিটারে পাকসংখ্যা 1000, তড়িৎ প্রবাহ 2 A। এর অভ্যন্তরে চৌম্বকক্ষেত্রের মান প্রায়— (μ₀ = 4π×10⁻⁷ TmA⁻¹)",
+        "options": [
+          "ক) 2.5×10⁻³ T",
+          "খ) 5×10⁻³ T",
+          "গ) 1.25×10⁻³ T",
+          "ঘ) 8π×10⁻⁴ T"
+        ],
+        "correctOption": "ক",
+        "explanation": "B = μ₀ n I = 4π×10⁻⁷×1000×2 ≈ 2.5×10⁻³ T",
+        "topic": "চৌম্বকত্ব",
+        "probability": "Mega Hot"
+      },
+      {
+        "questionNumber": 6,
+        "passage": null,
+        "questionText": "নিচের কোনটি শক্তির একক নয়?",
+        "options": [
+          "ক) জুল",
+          "খ) ইলেকট্রন-ভোল্ট",
+          "গ) ওয়াট-ঘণ্টা",
+          "ঘ) ওয়াট"
+        ],
+        "correctOption": "ঘ",
+        "explanation": "ওয়াট ক্ষমতার একক, শক্তির নয়।",
+        "topic": "একক ও পরিমাপ",
+        "probability": "Conceptual Trap"
+      },
+      {
+        "questionNumber": 7,
+        "passage": null,
+        "questionText": "পানির প্রতিসরাঙ্ক 1.33 হলে, এর সংকট কোণ প্রায়—",
+        "options": [
+          "ক) 42°",
+          "খ) 45°",
+          "গ) 49°",
+          "ঘ) 52°"
+        ],
+        "correctOption": "গ",
+        "explanation": "sin c = 1/1.33 ≈ 0.75 → c ≈ 49°",
+        "topic": "আলোকবিজ্ঞান",
+        "probability": "Board Favourite"
+      },
+      {
+        "questionNumber": 8,
+        "passage": null,
+        "questionText": "চলকুণ্ডলী গ্যালভানোমিটারের কারেন্ট সেনসিটিভিটি বৃদ্ধি পায়— i. চৌম্বকক্ষেত্র B বাড়ালে ii. কুণ্ডলীর পাকসংখ্যা N বাড়ালে iii. কুণ্ডলীর ক্ষেত্রফল A বাড়ালে iv. সাসপেনশনের টরশন ধ্রুবক k কমালে নিচের কোনটি সঠিক?",
+        "options": [
+          "ক) i, ii ও iii",
+          "খ) i, iii ও iv",
+          "গ) ii, iii ও iv",
+          "ঘ) i, ii, iii ও iv"
+        ],
+        "correctOption": "ঘ",
+        "explanation": "চারটি উপাদানই কারেন্ট সেনসিটিভিটি বাড়ায়।",
+        "topic": "চৌম্বকত্ব",
+        "probability": "Board Favourite"
+      },
+      {
+        "questionNumber": 9,
+        "passage": null,
+        "questionText": "কির্শপের প্রথম সূত্র (কারেন্ট সূত্র) কোন নীতির ভিত্তিতে প্রতিষ্ঠিত?",
+        "options": [
+          "ক) শক্তির সংরক্ষণশীলতা",
+          "খ) আধানের সংরক্ষণশীলতা",
+          "গ) ভরের সংরক্ষণশীলতা",
+          "ঘ) ভরবেগের সংরক্ষণশীলতা"
+        ],
+        "correctOption": "খ",
+        "explanation": "কির্শপের ১ম সূত্র আধানের নিত্যতা থেকে আসে।",
+        "topic": "চল তড়িৎ",
+        "probability": "Mega Hot"
+      },
+      {
+        "questionNumber": 10,
+        "passage": null,
+        "questionText": "কোন ডায়োডটি ভোল্টেজ নিয়ন্ত্রক হিসেবে ব্যবহৃত হয়?",
+        "options": [
+          "ক) LED",
+          "খ) ফটোডায়োড",
+          "গ) জেনার ডায়োড",
+          "ঘ) রেকটিফায়ার ডায়োড"
+        ],
+        "correctOption": "গ",
+        "explanation": "জেনার ডায়োড বিপরীত বায়াসে ভোল্টেজ রেগুলেশনে ব্যবহৃত।",
+        "topic": "অর্ধপরিবাহী",
+        "probability": "Board Favourite"
+      },
+      {
+        "questionNumber": 11,
+        "passage": null,
+        "questionText": "হাইড্রোজেন বর্ণালির দৃশ্যমান অঞ্চলের সিরিজ কোনটি?",
+        "options": [
+          "ক) লাইম্যান",
+          "খ) বালমার",
+          "গ) প্যাশেন",
+          "ঘ) ব্র্যাকেট"
+        ],
+        "correctOption": "খ",
+        "explanation": "বালমার সিরিজ দৃশ্যমান অঞ্চলে পড়ে।",
+        "topic": "আধুনিক পদার্থবিজ্ঞান",
+        "probability": "Board Favourite"
+      },
+      {
+        "questionNumber": 12,
+        "passage": null,
+        "questionText": "সমান গতিশক্তির একটি ইলেকট্রন ও একটি আলফা কণার মধ্যে কার ডি-ব্রগলি তরঙ্গদৈর্ঘ্য বড়?",
+        "options": [
+          "ক) ইলেকট্রন",
+          "খ) আলফা কণা",
+          "গ) সমান",
+          "ঘ) নির্ণয় করা যায় না"
+        ],
+        "correctOption": "ক",
+        "explanation": "λ ∝ 1/√m, ইলেকট্রন হালকা তাই λ বড়।",
+        "topic": "আধুনিক পদার্থবিজ্ঞান",
+        "probability": "Conceptual Trap"
+      },
+      {
+        "questionNumber": 13,
+        "passage": null,
+        "questionText": "1 amu ভর শক্তিতে রূপান্তর করলে প্রাপ্ত শক্তির পরিমাণ—",
+        "options": [
+          "ক) 931.5 eV",
+          "খ) 931.5 MeV",
+          "গ) 1 eV",
+          "ঘ) 1 MeV"
+        ],
+        "correctOption": "খ",
+        "explanation": "E = 1 u × c² = 931.5 MeV",
+        "topic": "আধুনিক পদার্থবিজ্ঞান",
+        "probability": "Mega Hot"
+      },
+      {
+        "questionNumber": 14,
+        "passage": null,
+        "questionText": "কোনো আদর্শ গ্যাসের সমোষ্ণ প্রসারণে অভ্যন্তরীণ শক্তির পরিবর্তন ΔU =?",
+        "options": [
+          "ক) Cᵥ ΔT",
+          "খ) 0",
+          "গ) P ΔV",
+          "ঘ) nR ΔT"
+        ],
+        "correctOption": "খ",
+        "explanation": "সমোষ্ণ প্রক্রিয়ায় ΔT = 0 → ΔU = 0।",
+        "topic": "তাপগতিবিদ্যা",
+        "probability": "Board Favourite"
+      },
+      {
+        "questionNumber": 15,
+        "passage": null,
+        "questionText": "কৃষ্ণবস্তু বিকিরণ সম্পর্কে— i. কৃষ্ণবস্তু সকল তরঙ্গদৈর্ঘ্যের তড়িৎচুম্বকীয় তরঙ্গ শোষণ করে ii. তাপমাত্রা বাড়ালে বিকিরণের সর্বোচ্চ তীব্রতার তরঙ্গদৈর্ঘ্য হ্রাস পায় iii. কৃষ্ণবস্তু শুধু দৃশ্যমান আলো বিকিরণ করে নিচের কোনটি সঠিক?",
+        "options": [
+          "ক) i ও ii",
+          "খ) i ও iii",
+          "গ) ii ও iii",
+          "ঘ) i, ii ও iii"
+        ],
+        "correctOption": "ক",
+        "explanation": "কৃষ্ণবস্তু সকল তরঙ্গদৈর্ঘ্যে বিকিরণ করে, iii ভুল।",
+        "topic": "আধুনিক/তাপগতিবিদ্যা",
+        "probability": "Very Hot"
+      },
+      {
+        "questionNumber": 16,
+        "passage": null,
+        "questionText": "রেখা বর্ণালী সম্পর্কে— i. নির্গমন বর্ণালী উজ্জ্বল রেখা দিয়ে গঠিত ii. এটি পারমাণবিক শক্তিস্তরের ইলেকট্রন ট্রানজিশনের ফলে সৃষ্টি iii. প্রতিটি মৌলের স্বতন্ত্র রেখা বর্ণালী থাকে নিচের কোনটি সঠিক?",
+        "options": [
+          "ক) i ও ii",
+          "খ) i ও iii",
+          "গ) ii ও iii",
+          "ঘ) i, ii ও iii"
+        ],
+        "correctOption": "ঘ",
+        "explanation": "রেখা বর্ণালীর সব বৈশিষ্ট্য সঠিক।",
+        "topic": "আধুনিক পদার্থবিজ্ঞান",
+        "probability": "Mega Hot"
+      },
+      {
+        "questionNumber": 17,
+        "passage": null,
+        "questionText": "বৈদ্যুতিক দ্বিমেরুর জন্য— i. অক্ষীয় বিন্দুতে তড়িৎক্ষেত্র E = 2kp/r³ ii. নিরক্ষীয় বিন্দুতে তড়িৎক্ষেত্র অক্ষীয় বিন্দুর অর্ধেক iii. উভয় ক্ষেত্রেই E ∝ 1/r³ নিচের কোনটি সঠিক?",
+        "options": [
+          "ক) i ও ii",
+          "খ) i ও iii",
+          "গ) ii ও iii",
+          "ঘ) i, ii ও iii"
+        ],
+        "correctOption": "ঘ",
+        "explanation": "তিনটি বিবৃতি দ্বিমেরুর জন্য সঠিক।",
+        "topic": "স্থির তড়িৎ",
+        "probability": "Board Favourite"
+      },
+      {
+        "questionNumber": 18,
+        "passage": null,
+        "questionText": "কার্নো ইঞ্জিন সম্পর্কে— i. এটি দুটি সমোষ্ণ ও দুটি রুদ্ধতাপীয় প্রক্রিয়া নিয়ে গঠিত ii. দক্ষতা তাপাধারদ্বয়ের তাপমাত্রার উপর নির্ভর করে iii. একই তাপমাত্রা সীমায় অন্য যেকোনো ইঞ্জিনের তুলনায় এর দক্ষতা সর্বোচ্চ নিচের কোনটি সঠিক?",
+        "options": [
+          "ক) i ও ii",
+          "খ) i ও iii",
+          "গ) ii ও iii",
+          "ঘ) i, ii ও iii"
+        ],
+        "correctOption": "ঘ",
+        "explanation": "কার্নো ইঞ্জিন ও কার্নোর উপপাদ্য সঠিক।",
+        "topic": "তাপগতিবিদ্যা",
+        "probability": "Mega Hot"
+      },
+      {
+        "questionNumber": 19,
+        "passage": null,
+        "questionText": "দীর্ঘ সোজা তারের চৌম্বকক্ষেত্র সম্পর্কে— i. তার থেকে দূরত্বের ব্যস্তানুপাতিক ii. দিক ডানহস্ত নীতি দ্বারা নির্ধারিত হয় iii. মান B = (μ₀ I)/(2π r) নিচের কোনটি সঠিক?",
+        "options": [
+          "ক) i ও ii",
+          "খ) i ও iii",
+          "গ) ii ও iii",
+          "ঘ) i, ii ও iii"
+        ],
+        "correctOption": "ঘ",
+        "explanation": "তিনটিই সঠিক।",
+        "topic": "চৌম্বকত্ব",
+        "probability": "Board Favourite"
+      },
+      {
+        "questionNumber": 20,
+        "passage": null,
+        "questionText": "NAND গেট সম্পর্কে— i. আউটপুট Y = A·B̄ ii. সব ইনপুট 1 হলে আউটপুট 0 iii. এটি একটি সর্বজনীন গেট নিচের কোনটি সঠিক?",
+        "options": [
+          "ক) i ও ii",
+          "খ) i ও iii",
+          "গ) ii ও iii",
+          "ঘ) i, ii ও iii"
+        ],
+        "correctOption": "ঘ",
+        "explanation": "NAND গেটের বৈশিষ্ট্য তিনটিই সঠিক।",
+        "topic": "অর্ধপরিবাহী",
+        "probability": "Very Hot"
+      },
+      {
+        "questionNumber": 21,
+        "passage": null,
+        "questionText": "2 μF ও 4 μF ধারক সিরিজে যুক্ত করে 10 V বিভব দেয়া হলে, 2 μF ধারকটির প্রান্তীয় বিভব কত?",
+        "options": [
+          "ক) 3.33 V",
+          "খ) 5 V",
+          "গ) 6.67 V",
+          "ঘ) 10 V"
+        ],
+        "correctOption": "গ",
+        "explanation": "V₁ = (C₂/(C₁+C₂)) × V = (4/6)×10 = 6.67 V",
+        "topic": "স্থির তড়িৎ",
+        "probability": "Mega Hot"
+      },
+      {
+        "questionNumber": 22,
+        "passage": null,
+        "questionText": "নিচের কোনটি স্কেলার রাশি?",
+        "options": [
+          "ক) চৌম্বক আবেশ",
+          "খ) চৌম্বক ফ্লাক্স",
+          "গ) তড়িৎ ক্ষেত্র",
+          "ঘ) চৌম্বক বল"
+        ],
+        "correctOption": "খ",
+        "explanation": "চৌম্বক ফ্লাক্স স্কেলার, বাকি ভেক্টর।",
+        "topic": "চৌম্বকত্ব",
+        "probability": "Conceptual Trap"
+      },
+      {
+        "questionNumber": 23,
+        "passage": null,
+        "questionText": "একটি তারের রোধ R, দৈর্ঘ্য দ্বিগুণ করলে (আয়তন স্থির রেখে) রোধ কত হবে?",
+        "options": [
+          "ক) R/2",
+          "খ) 2R",
+          "গ) 4R",
+          "ঘ) R"
+        ],
+        "correctOption": "গ",
+        "explanation": "আয়তন স্থির, L দ্বিগুণ → A অর্ধেক → R' = 4R",
+        "topic": "চল তড়িৎ",
+        "probability": "Mega Hot"
+      },
+      {
+        "questionNumber": 24,
+        "passage": null,
+        "questionText": "β⁻ (বিটা মাইনাস) ক্ষয়ের ফলে নিউক্লিয়াসের—",
+        "options": [
+          "ক) ভর সংখ্যা 1 হ্রাস পায়",
+          "খ) পারমাণবিক সংখ্যা 1 বৃদ্ধি পায়",
+          "গ) পারমাণবিক সংখ্যা 1 হ্রাস পায়",
+          "ঘ) ভর সংখ্যা 4 হ্রাস পায়"
+        ],
+        "correctOption": "খ",
+        "explanation": "β⁻ ক্ষয়ে নিউট্রন → প্রোটন, Z 1 বাড়ে।",
+        "topic": "আধুনিক পদার্থবিজ্ঞান",
+        "probability": "Board Favourite"
+      },
+      {
+        "questionNumber": 25,
+        "passage": null,
+        "questionText": "220 V, 60 W বৈদ্যুতিক বাল্বের ফিলামেন্টের রোধ প্রায়—",
+        "options": [
+          "ক) 807 Ω",
+          "খ) 484 Ω",
+          "গ) 100 Ω",
+          "ঘ) 367 Ω"
+        ],
+        "correctOption": "ক",
+        "explanation": "R = V²/P = 220²/60 ≈ 807 Ω",
+        "topic": "চল তড়িৎ",
+        "probability": "Mega Hot"
+      }
+    ]
+  },
+  {
+    "setNumber": 4,
+    "questions": [
+      {
+        "questionNumber": 1,
+        "passage": "একটি কার্নো ইঞ্জিনের দক্ষতা 40%, তাপগ্রাহকের তাপমাত্রা 300 K।",
+        "questionText": "উৎসের তাপমাত্রা কত?",
+        "options": [
+          "ক) 400 K",
+          "খ) 500 K",
+          "গ) 750 K",
+          "ঘ) 600 K"
+        ],
+        "correctOption": "খ",
+        "explanation": "η = 1 - T₂/T₁ → 0.4 = 1 - 300/T₁ → T₁ = 500 K",
+        "topic": "তাপগতিবিদ্যা",
+        "probability": "Mega Hot"
+      },
+      {
+        "questionNumber": 2,
+        "passage": "একটি কার্নো ইঞ্জিনের দক্ষতা 40%, তাপগ্রাহকের তাপমাত্রা 300 K।",
+        "questionText": "ইঞ্জিনটি প্রতি চক্রে 500 J কাজ করলে, উৎস থেকে গৃহীত তাপ কত?",
+        "options": [
+          "ক) 833 J",
+          "খ) 1000 J",
+          "গ) 1250 J",
+          "ঘ) 1500 J"
+        ],
+        "correctOption": "গ",
+        "explanation": "Q₁ = W/η = 500/0.4 = 1250 J",
+        "topic": "কার্নো ইঞ্জিন",
+        "probability": "Very Hot"
+      },
+      {
+        "questionNumber": 3,
+        "passage": "100 পাকবিশিষ্ট একটি কুণ্ডলীর ক্ষেত্রফল 0.01 m²। কুণ্ডলীটি সুষম চৌম্বকক্ষেত্র 0.5 T এর সাথে লম্বভাবে অবস্থিত। 0.1 s এ ক্ষেত্রটির মান 0 হয়ে যায়।",
+        "questionText": "আবিষ্ট তড়িচ্চালক বলের মান কত?",
+        "options": [
+          "ক) 0.5 V",
+          "খ) 2.5 V",
+          "গ) 5 V",
+          "ঘ) 10 V"
+        ],
+        "correctOption": "গ",
+        "explanation": "ε = N A (ΔB/Δt) = 100×0.01×(0.5/0.1) = 5 V",
+        "topic": "তড়িৎচুম্বকীয় আবেশ",
+        "probability": "Mega Hot"
+      },
+      {
+        "questionNumber": 4,
+        "passage": "100 পাকবিশিষ্ট একটি কুণ্ডলীর ক্ষেত্রফল 0.01 m²। কুণ্ডলীটি সুষম চৌম্বকক্ষেত্র 0.5 T এর সাথে লম্বভাবে অবস্থিত। 0.1 s এ ক্ষেত্রটির মান 0 হয়ে যায়।",
+        "questionText": "আবিষ্ট তড়িচ্চালক বলের দিক নির্ণয়ে কোন সূত্র ব্যবহৃত হয়?",
+        "options": [
+          "ক) ফ্যারাডের সূত্র",
+          "খ) লেনজের সূত্র",
+          "গ) কুলম্বের সূত্র",
+          "ঘ) ওহমের সূত্র"
+        ],
+        "correctOption": "খ",
+        "explanation": "লেনজের সূত্র দিক নির্দেশ করে।",
+        "topic": "চৌম্বকত্ব ও আবেশ",
+        "probability": "Board Favourite"
+      },
+      {
+        "questionNumber": 5,
+        "passage": null,
+        "questionText": "সিলিকন PN জংশন ডায়োডের অগ্র বায়াসে বিভব পর্দা প্রায়—",
+        "options": [
+          "ক) 0.3 V",
+          "খ) 0.7 V",
+          "গ) 1.1 V",
+          "ঘ) 1.5 V"
+        ],
+        "correctOption": "খ",
+        "explanation": "সিলিকনের জন্য থ্রেশহোল্ড ভোল্টেজ ≈ 0.7 V",
+        "topic": "অর্ধপরিবাহী",
+        "probability": "Board Favourite"
+      },
+      {
+        "questionNumber": 6,
+        "passage": null,
+        "questionText": "1 eV গতিশক্তি সম্পন্ন প্রোটনের ডি-ব্রগলি তরঙ্গদৈর্ঘ্য প্রায়—",
+        "options": [
+          "ক) 0.29 Å",
+          "খ) 1.23 Å",
+          "গ) 12.3 Å",
+          "ঘ) 0.029 Å"
+        ],
+        "correctOption": "ক",
+        "explanation": "λ ≈ 0.286/√E ≈ 0.29 Å",
+        "topic": "আধুনিক পদার্থবিজ্ঞান",
+        "probability": "Mega Hot"
+      },
+      {
+        "questionNumber": 7,
+        "passage": null,
+        "questionText": "2 Ω ও 3 Ω রোধ সমান্তরালে যুক্ত, মোট প্রবাহ 5 A। 2 Ω রোধের মধ্য দিয়ে প্রবাহ কত?",
+        "options": [
+          "ক) 2 A",
+          "খ) 3 A",
+          "গ) 2.5 A",
+          "ঘ) 5 A"
+        ],
+        "correctOption": "খ",
+        "explanation": "I₂ = (3/(2+3))×5 = 3 A",
+        "topic": "চল তড়িৎ",
+        "probability": "Very Hot"
+      },
+      {
+        "questionNumber": 8,
+        "passage": null,
+        "questionText": "লেনজের সূত্র নিচের কোন নীতির সমর্থন করে?",
+        "options": [
+          "ক) আধানের নিত্যতা",
+          "খ) ভরের নিত্যতা",
+          "গ) শক্তির নিত্যতা",
+          "ঘ) ভরবেগের নিত্যতা"
+        ],
+        "correctOption": "গ",
+        "explanation": "লেনজের সূত্র শক্তির সংরক্ষণ নীতির সমর্থক।",
+        "topic": "তড়িৎচুম্বকীয় আবেশ",
+        "probability": "Conceptual Trap"
+      },
+      {
+        "questionNumber": 9,
+        "passage": null,
+        "questionText": "কাচের প্রতিসরাঙ্ক 1.5 হলে, ব্রিউস্টার কোণ প্রায়—",
+        "options": [
+          "ক) 45°",
+          "খ) 50°",
+          "গ) 56°",
+          "ঘ) 60°"
+        ],
+        "correctOption": "গ",
+        "explanation": "tan θ_p = 1.5 → θ_p ≈ 56°",
+        "topic": "আলোকবিজ্ঞান",
+        "probability": "Board Favourite"
+      },
+      {
+        "questionNumber": 10,
+        "passage": null,
+        "questionText": "10 μF ধারককে 100 V এ চার্জ করলে সঞ্চিত শক্তি কত?",
+        "options": [
+          "ক) 0.05 J",
+          "খ) 0.1 J",
+          "গ) 0.5 J",
+          "ঘ) 1 J"
+        ],
+        "correctOption": "ক",
+        "explanation": "U = ½ C V² = 0.5×10⁻⁵×10000 = 0.05 J",
+        "topic": "স্থির তড়িৎ",
+        "probability": "Mega Hot"
+      },
+      {
+        "questionNumber": 11,
+        "passage": null,
+        "questionText": "ট্রানজিস্টরের সাধারণ নিঃসারক সংযোগে β = 100 এবং বেস প্রবাহ I_B = 10 μA হলে, সংগ্রাহক প্রবাহ I_C কত?",
+        "options": [
+          "ক) 0.1 mA",
+          "খ) 1 mA",
+          "গ) 10 mA",
+          "ঘ) 100 mA"
+        ],
+        "correctOption": "খ",
+        "explanation": "I_C = β I_B = 100×10 μA = 1 mA",
+        "topic": "অর্ধপরিবাহী/ইলেকট্রনিক্স",
+        "probability": "Board Favourite"
+      },
+      {
+        "questionNumber": 12,
+        "passage": null,
+        "questionText": "নিচের কোনটি ফেরোচুম্বক নয়?",
+        "options": [
+          "ক) লোহা",
+          "খ) নিকেল",
+          "গ) কপার",
+          "ঘ) কোবাল্ট"
+        ],
+        "correctOption": "গ",
+        "explanation": "কপার ডায়াম্যাগনেটিক, ফেরোচুম্বক নয়।",
+        "topic": "চৌম্বকত্ব",
+        "probability": "Conceptual Trap"
+      },
+      {
+        "questionNumber": 13,
+        "passage": null,
+        "questionText": "শূন্যস্থানে তড়িৎচুম্বকীয় তরঙ্গের বেগ c =?",
+        "options": [
+          "ক) √(μ₀ε₀)",
+          "খ) 1/√(μ₀ε₀)",
+          "গ) μ₀/ε₀",
+          "ঘ) μ₀ε₀"
+        ],
+        "correctOption": "খ",
+        "explanation": "c = 1/√(μ₀ε₀)",
+        "topic": "তড়িৎচুম্বকীয় তরঙ্গ",
+        "probability": "Mega Hot"
+      },
+      {
+        "questionNumber": 14,
+        "passage": null,
+        "questionText": "একটি তেজস্ক্রিয় পদার্থের অর্ধায়ু 10 দিন। 20 দিন পর অবশিষ্ট অংশের ভগ্নাংশ কত?",
+        "options": [
+          "ক) 1/2",
+          "খ) 1/4",
+          "গ) 1/8",
+          "ঘ) 1/16"
+        ],
+        "correctOption": "খ",
+        "explanation": "20 দিন = 2 অর্ধায়ু → অবশিষ্ট = (1/2)² = 1/4",
+        "topic": "আধুনিক পদার্থবিজ্ঞান",
+        "probability": "Board Favourite"
+      },
+      {
+        "questionNumber": 15,
+        "passage": null,
+        "questionText": "পোলারায়ণ সম্পর্কে— i. আলো একটি অনুপ্রস্থ তরঙ্গ ii. অনুপ্রস্থ তরঙ্গের পোলারায়ণ সম্ভব iii. ব্রিউস্টার কোণে প্রতিফলিত আলো সম্পূর্ণ সমতল পোলারায়িত নিচের কোনটি সঠিক?",
+        "options": [
+          "ক) i ও ii",
+          "খ) i ও iii",
+          "গ) ii ও iii",
+          "ঘ) i, ii ও iii"
+        ],
+        "correctOption": "ঘ",
+        "explanation": "পোলারায়ণ ও ব্রিউস্টার সূত্র তিনটিই সঠিক।",
+        "topic": "আলোকবিজ্ঞান",
+        "probability": "Mega Hot"
+      },
+      {
+        "questionNumber": 16,
+        "passage": null,
+        "questionText": "ট্রান্সফরমারের ক্ষয়/অপচয়— i. তাম্রক্ষয় ii. শৈথিল্য ক্ষয় iii. এডি প্রবাহ ক্ষয় নিচের কোনটি সঠিক?",
+        "options": [
+          "ক) i ও ii",
+          "খ) i ও iii",
+          "গ) ii ও iii",
+          "ঘ) i, ii ও iii"
+        ],
+        "correctOption": "ঘ",
+        "explanation": "ট্রান্সফরমারের তিন ধরনের ক্ষয়ই সঠিক।",
+        "topic": "তড়িৎচুম্বকীয় আবেশ",
+        "probability": "Very Hot"
+      },
+      {
+        "questionNumber": 17,
+        "passage": null,
+        "questionText": "তেজস্ক্রিয় রশ্মি সম্পর্কে— i. α রশ্মি ধনাত্মক আধানযুক্ত ii. β রশ্মি ঋণাত্মক আধানযুক্ত iii. γ রশ্মি আধানহীন নিচের কোনটি সঠিক?",
+        "options": [
+          "ক) i ও ii",
+          "খ) i ও iii",
+          "গ) ii ও iii",
+          "ঘ) i, ii ও iii"
+        ],
+        "correctOption": "ঘ",
+        "explanation": "তিনটি রশ্মির আধান বৈশিষ্ট্য সঠিক।",
+        "topic": "আধুনিক পদার্থবিজ্ঞান",
+        "probability": "Mega Hot"
+      },
+      {
+        "questionNumber": 18,
+        "passage": null,
+        "questionText": "ফটোইলেকট্রিক ক্রিয়ার সূত্র— i. সর্বোচ্চ গতিশক্তি আপতিত আলোর কম্পাঙ্কের উপর নির্ভরশীল ii. সূচন কম্পাঙ্কের নিচে ইলেকট্রন নির্গত হয় না iii. সম্পৃক্ত তড়িৎপ্রবাহ আলোর তীব্রতার সমানুপাতিক নিচের কোনটি সঠিক?",
+        "options": [
+          "ক) i ও ii",
+          "খ) i ও iii",
+          "গ) ii ও iii",
+          "ঘ) i, ii ও iii"
+        ],
+        "correctOption": "ঘ",
+        "explanation": "তিনটি ফটোইলেকট্রিক সূত্র সঠিক।",
+        "topic": "আধুনিক পদার্থবিজ্ঞান",
+        "probability": "Mega Hot"
+      },
+      {
+        "questionNumber": 19,
+        "passage": null,
+        "questionText": "সমান্তরাল পাত ধারকের ধারকত্ব— i. পাতের ক্ষেত্রফলের সমানুপাতিক ii. মধ্যবর্তী ডাইইলেকট্রিক ধ্রুবকের সমানুপাতিক iii. পাতদ্বয়ের দূরত্বের ব্যস্তানুপাতিক নিচের কোনটি সঠিক?",
+        "options": [
+          "ক) i ও ii",
+          "খ) i ও iii",
+          "গ) ii ও iii",
+          "ঘ) i, ii ও iii"
+        ],
+        "correctOption": "ঘ",
+        "explanation": "C = ε₀ k A/d, তিনটি নির্ভরশীলতা সঠিক।",
+        "topic": "স্থির তড়িৎ",
+        "probability": "Board Favourite"
+      },
+      {
+        "questionNumber": 20,
+        "passage": null,
+        "questionText": "বৈদ্যুতিক বাল্বের ফিলামেন্ট টাংস্টেনের তৈরি, কারণ— i. উচ্চ গলনাঙ্ক ii. উচ্চ রোধাঙ্ক iii. সহজে জারিত হয় না নিচের কোনটি সঠিক?",
+        "options": [
+          "ক) i ও ii",
+          "খ) i ও iii",
+          "গ) ii ও iii",
+          "ঘ) i, ii ও iii"
+        ],
+        "correctOption": "ঘ",
+        "explanation": "টাংস্টেনের তিনটি বৈশিষ্ট্যই ফিলামেন্টের জন্য প্রয়োজনীয়।",
+        "topic": "চল তড়িৎ/পদার্থের ধর্ম",
+        "probability": "Board Favourite"
+      },
+      {
+        "questionNumber": 21,
+        "passage": null,
+        "questionText": "10 Ω রোধের একটি তারকে বৃত্তাকারে বাঁকালে এর ব্যাসের দুই প্রান্তের মধ্যকার তুল্য রোধ কত?",
+        "options": [
+          "ক) 2.5 Ω",
+          "খ) 5 Ω",
+          "গ) 10 Ω",
+          "ঘ) 20 Ω"
+        ],
+        "correctOption": "ক",
+        "explanation": "প্রতিটি অর্ধবৃত্ত 5 Ω, সমান্তরালে তুল্য রোধ = 5/2 = 2.5 Ω",
+        "topic": "চল তড়িৎ",
+        "probability": "Conceptual Trap"
+      },
+      {
+        "questionNumber": 22,
+        "passage": null,
+        "questionText": "প্ল্যাঙ্কের ধ্রুবক h-এর একক নিচের কোন রাশির এককের সমান?",
+        "options": [
+          "ক) শক্তি",
+          "খ) কৌণিক ভরবেগ",
+          "গ) ভরবেগ",
+          "ঘ) বল"
+        ],
+        "correctOption": "খ",
+        "explanation": "h-এর একক J·s, কৌণিক ভরবেগের এককও J·s।",
+        "topic": "আধুনিক পদার্থবিজ্ঞান",
+        "probability": "Conceptual Trap"
+      },
+      {
+        "questionNumber": 23,
+        "passage": null,
+        "questionText": "চৌম্বকক্ষেত্রের সমান্তরালে গতিশীল ইলেকট্রনের পথ কেমন হবে?",
+        "options": [
+          "ক) বৃত্তাকার",
+          "খ) প্যারাবোলিক",
+          "গ) সরলরৈখিক",
+          "ঘ) কণ্টকীয়"
+        ],
+        "correctOption": "গ",
+        "explanation": "চৌম্বকক্ষেত্রের সমান্তরালে বল শূন্য, তাই সরলরৈখিক।",
+        "topic": "চৌম্বকত্ব",
+        "probability": "Board Favourite"
+      },
+      {
+        "questionNumber": 24,
+        "passage": null,
+        "questionText": "শ্রেণি LCR বর্তনীতে অনুনাদ অবস্থায় পাওয়ার ফ্যাক্টর কত?",
+        "options": [
+          "ক) 0",
+          "খ) 0.5",
+          "গ) 1",
+          "ঘ) √2"
+        ],
+        "correctOption": "গ",
+        "explanation": "অনুনাদে X_L = X_C, ইম্পিড্যান্স R, পাওয়ার ফ্যাক্টর = 1",
+        "topic": "চল তড়িৎ (AC)",
+        "probability": "Very Hot"
+      },
+      {
+        "questionNumber": 25,
+        "passage": null,
+        "questionText": "ইউরেনিয়ামের একটি নিউক্লীয় বিভাজন বিক্রিয়ায় প্রায় কত শক্তি নির্গত হয়?",
+        "options": [
+          "ক) 20 MeV",
+          "খ) 200 MeV",
+          "গ) 2 MeV",
+          "ঘ) 2000 MeV"
+        ],
+        "correctOption": "খ",
+        "explanation": "প্রতি ফিশনে প্রায় 200 MeV শক্তি নির্গত হয়।",
+        "topic": "আধুনিক পদার্থবিজ্ঞান",
+        "probability": "Mega Hot"
+      }
+    ]
+  },
+  {
+    "setNumber": 5,
+    "questions": [
+      {
+        "questionNumber": 1,
+        "passage": "সোডিয়ামের কার্যাপেক্ষক 2.3 eV, এর ওপর 400 nm তরঙ্গদৈর্ঘ্যের আলো ফেলা হলো। (hc = 1240 eV nm)",
+        "questionText": "ফোটনের শক্তি কত?",
+        "options": [
+          "ক) 2.3 eV",
+          "খ) 3.1 eV",
+          "গ) 4.0 eV",
+          "ঘ) 1.8 eV"
+        ],
+        "correctOption": "খ",
+        "explanation": "E = 1240/400 = 3.1 eV",
+        "topic": "আধুনিক পদার্থবিজ্ঞান",
+        "probability": "Mega Hot"
+      },
+      {
+        "questionNumber": 2,
+        "passage": "সোডিয়ামের কার্যাপেক্ষক 2.3 eV, এর ওপর 400 nm তরঙ্গদৈর্ঘ্যের আলো ফেলা হলো। (hc = 1240 eV nm)",
+        "questionText": "নির্গত ইলেকট্রনের সর্বোচ্চ গতিশক্তি কত?",
+        "options": [
+          "ক) 0.8 eV",
+          "খ) 2.3 eV",
+          "গ) 3.1 eV",
+          "ঘ) 5.4 eV"
+        ],
+        "correctOption": "ক",
+        "explanation": "K_max = 3.1 - 2.3 = 0.8 eV",
+        "topic": "ফটোইলেকট্রিক ক্রিয়া",
+        "probability": "Very Hot"
+      },
+      {
+        "questionNumber": 3,
+        "passage": "দুটি কোষের তড়িচ্চালক বল E₁=2 V, E₂=1 V, অভ্যন্তরীণ রোধ প্রতিটি 0.1 Ω। কোষ দুটি শ্রেণি-সহায়ক সংযোগে একটি 2 Ω বাহ্যিক রোধের সাথে যুক্ত করা হলো।",
+        "questionText": "বর্তনীর তড়িৎ প্রবাহ কত?",
+        "options": [
+          "ক) 1 A",
+          "খ) 1.36 A",
+          "গ) 1.5 A",
+          "ঘ) 2 A"
+        ],
+        "correctOption": "খ",
+        "explanation": "মোট E = 3 V, মোট r = 0.2 Ω, I = 3/(2+0.2) ≈ 1.36 A",
+        "topic": "চল তড়িৎ",
+        "probability": "Mega Hot"
+      },
+      {
+        "questionNumber": 4,
+        "passage": "দুটি কোষের তড়িচ্চালক বল E₁=2 V, E₂=1 V, অভ্যন্তরীণ রোধ প্রতিটি 0.1 Ω। কোষ দুটি শ্রেণি-সহায়ক সংযোগে একটি 2 Ω বাহ্যিক রোধের সাথে যুক্ত করা হলো।",
+        "questionText": "প্রথম কোষটির প্রান্তীয় বিভব পার্থক্য কত?",
+        "options": [
+          "ক) 1.86 V",
+          "খ) 2 V",
+          "গ) 2.14 V",
+          "ঘ) 1.5 V"
+        ],
+        "correctOption": "ক",
+        "explanation": "V = E₁ - I r₁ = 2 - 1.36×0.1 ≈ 1.86 V",
+        "topic": "চল তড়িৎ",
+        "probability": "Very Hot"
+      },
+      {
+        "questionNumber": 5,
+        "passage": null,
+        "questionText": "220 V থেকে 1100 V স্টেপ-আপ ট্রান্সফরমারে মুখ্য প্রবাহ 1 A হলে গৌণ প্রবাহ কত? (ক্ষয়হীন ধরে)",
+        "options": [
+          "ক) 5 A",
+          "খ) 2 A",
+          "গ) 0.5 A",
+          "ঘ) 0.2 A"
+        ],
+        "correctOption": "ঘ",
+        "explanation": "I_s = I_p × (V_p/V_s) = 1 × (220/1100) = 0.2 A",
+        "topic": "তড়িৎচুম্বকীয় আবেশ",
+        "probability": "Board Favourite"
+      },
+      {
+        "questionNumber": 6,
+        "passage": null,
+        "questionText": "নিচের কোনটি ভেক্টর রাশি নয়?",
+        "options": [
+          "ক) চৌম্বক ফ্লাক্স ঘনত্ব",
+          "খ) চৌম্বক ভ্রামক",
+          "গ) চৌম্বক ফ্লাক্স",
+          "ঘ) তড়িৎ ক্ষেত্র"
+        ],
+        "correctOption": "গ",
+        "explanation": "চৌম্বক ফ্লাক্স স্কেলার।",
+        "topic": "চৌম্বকত্ব",
+        "probability": "Conceptual Trap"
+      },
+      {
+        "questionNumber": 7,
+        "passage": null,
+        "questionText": "শব্দ তরঙ্গ পোলারায়িত হয় না, কারণ এটি—",
+        "options": [
+          "ক) যান্ত্রিক তরঙ্গ",
+          "খ) অনুদৈর্ঘ্য তরঙ্গ",
+          "গ) উচ্চ কম্পাঙ্কের তরঙ্গ",
+          "ঘ) স্থিতিস্থাপক তরঙ্গ"
+        ],
+        "correctOption": "খ",
+        "explanation": "শব্দ অনুদৈর্ঘ্য, পোলারায়ণ কেবল অনুপ্রস্থ তরঙ্গের।",
+        "topic": "তরঙ্গ",
+        "probability": "Board Favourite"
+      },
+      {
+        "questionNumber": 8,
+        "passage": null,
+        "questionText": "ইয়ং-এর দ্বি-চিড় পরীক্ষায় পর্দার দূরত্ব দ্বিগুণ করলে ডোরার ব্যবধান—",
+        "options": [
+          "ক) অর্ধেক হয়",
+          "খ) দ্বিগুণ হয়",
+          "গ) চারগুণ হয়",
+          "ঘ) অপরিবর্তিত থাকে"
+        ],
+        "correctOption": "খ",
+        "explanation": "β ∝ D",
+        "topic": "আলোকবিজ্ঞান",
+        "probability": "Mega Hot"
+      },
+      {
+        "questionNumber": 9,
+        "passage": null,
+        "questionText": "কির্শপের দ্বিতীয় সূত্র (লুপ সূত্র) লেখা হয়—",
+        "options": [
+          "ক) Σ I = 0",
+          "খ) Σ E = Σ I R",
+          "গ) V = I R",
+          "ঘ) P = V I"
+        ],
+        "correctOption": "খ",
+        "explanation": "কির্শপের ভোল্টেজ সূত্র Σ E = Σ I R",
+        "topic": "চল তড়িৎ",
+        "probability": "Mega Hot"
+      },
+      {
+        "questionNumber": 10,
+        "passage": null,
+        "questionText": "ফোটনের শক্তি 2.1 eV হলে এর তরঙ্গদৈর্ঘ্য প্রায়—",
+        "options": [
+          "ক) 400 nm",
+          "খ) 500 nm",
+          "গ) 590 nm",
+          "ঘ) 700 nm"
+        ],
+        "correctOption": "গ",
+        "explanation": "λ = 1240/2.1 ≈ 590 nm",
+        "topic": "আধুনিক পদার্থবিজ্ঞান",
+        "probability": "Very Hot"
+      },
+      {
+        "questionNumber": 11,
+        "passage": null,
+        "questionText": "রেডিয়ামের অর্ধায়ু 1600 বছর হলে, গড় আয়ু কত?",
+        "options": [
+          "ক) 1600 বছর",
+          "খ) 2304 বছর",
+          "গ) 800 বছর",
+          "ঘ) 3200 বছর"
+        ],
+        "correctOption": "খ",
+        "explanation": "গড় আয়ু = 1.44 × T₁/₂ = 1.44 × 1600 = 2304 বছর",
+        "topic": "আধুনিক পদার্থবিজ্ঞান",
+        "probability": "Board Favourite"
+      },
+      {
+        "questionNumber": 12,
+        "passage": null,
+        "questionText": "হাইড্রোজেন পরমাণুর ইলেকট্রন n=3 থেকে n=2 শক্তিস্তরে স্থানান্তরিত হলে কোন সিরিজের বর্ণালী রেখা সৃষ্টি হয়?",
+        "options": [
+          "ক) লাইম্যান",
+          "খ) বালমার",
+          "গ) প্যাশেন",
+          "ঘ) ব্র্যাকেট"
+        ],
+        "correctOption": "খ",
+        "explanation": "n=3→2 বালমার সিরিজের H-alpha রেখা।",
+        "topic": "আধুনিক পদার্থবিজ্ঞান",
+        "probability": "Board Favourite"
+      },
+      {
+        "questionNumber": 13,
+        "passage": null,
+        "questionText": "তড়িৎ স্থিতিশক্তি সাম্যাবস্থায় কোনো পরিবাহীর অভ্যন্তরে তড়িৎ ক্ষেত্রের মান—",
+        "options": [
+          "ক) সর্বোচ্চ",
+          "খ) শূন্য",
+          "গ) পৃষ্ঠের সমান",
+          "ঘ) বিভবের সমান"
+        ],
+        "correctOption": "খ",
+        "explanation": "স্থির তড়িৎ সাম্যাবস্থায় পরিবাহীর ভিতরে E=0।",
+        "topic": "স্থির তড়িৎ",
+        "probability": "Mega Hot"
+      },
+      {
+        "questionNumber": 14,
+        "passage": null,
+        "questionText": "2 μF ধারককে 10 V বিভবে চার্জ করলে এতে জমাকৃত আধান কত?",
+        "options": [
+          "ক) 20 μC",
+          "খ) 5 μC",
+          "গ) 2 μC",
+          "ঘ) 10 μC"
+        ],
+        "correctOption": "ক",
+        "explanation": "Q = C V = 2×10 = 20 μC",
+        "topic": "স্থির তড়িৎ",
+        "probability": "Board Favourite"
+      },
+      {
+        "questionNumber": 15,
+        "passage": null,
+        "questionText": "কার্নো ইঞ্জিনের দক্ষতা— i. η = 1 - T₂/T₁ ii. তাপ গ্রাহকের তাপমাত্রা 0 K হলে দক্ষতা 100% iii. তাপ গ্রাহকের তাপমাত্রা যত কম, দক্ষতা তত বেশি নিচের কোনটি সঠিক?",
+        "options": [
+          "ক) i ও ii",
+          "খ) i ও iii",
+          "গ) ii ও iii",
+          "ঘ) i, ii ও iii"
+        ],
+        "correctOption": "ঘ",
+        "explanation": "কার্নো দক্ষতার সূত্র ও বৈশিষ্ট্য তিনটিই সঠিক।",
+        "topic": "তাপগতিবিদ্যা",
+        "probability": "Mega Hot"
+      },
+      {
+        "questionNumber": 16,
+        "passage": null,
+        "questionText": "দ্বি-চিড় ব্যতিচারের জন্য প্রয়োজন— i. আলো সুসঙ্গত হতে হবে ii. চিড় দুটি কাছাকাছি ও সরু হতে হবে iii. আলো একবর্ণী হতে হবে নিচের কোনটি সঠিক?",
+        "options": [
+          "ক) i ও ii",
+          "খ) i ও iii",
+          "গ) ii ও iii",
+          "ঘ) i, ii ও iii"
+        ],
+        "correctOption": "ঘ",
+        "explanation": "তিনটি শর্তই প্রয়োজন।",
+        "topic": "আলোকবিজ্ঞান",
+        "probability": "Very Hot"
+      },
+      {
+        "questionNumber": 17,
+        "passage": null,
+        "questionText": "ট্রানজিস্টর সাধারণ নিঃসারক সংযোগে— i. নিবেশ বেস-নিঃসারকে দেওয়া হয় ii. নির্গত বিভব সংগ্রাহক-নিঃসারক থেকে নেওয়া হয় iii. নিবেশ ও নির্গত বিভবের মধ্যে 180° দশা পার্থক্য থাকে নিচের কোনটি সঠিক?",
+        "options": [
+          "ক) i ও ii",
+          "খ) i ও iii",
+          "গ) ii ও iii",
+          "ঘ) i, ii ও iii"
+        ],
+        "correctOption": "ঘ",
+        "explanation": "সাধারণ নিঃসারক সংযোগের তিনটি বৈশিষ্ট্যই সঠিক।",
+        "topic": "অর্ধপরিবাহী/ইলেকট্রনিক্স",
+        "probability": "Board Favourite"
+      },
+      {
+        "questionNumber": 18,
+        "passage": null,
+        "questionText": "তড়িৎচুম্বকীয় আবেশের সূত্র— i. ε = -N dΦ/dt ii. লেনজের সূত্র আবিষ্ট তড়িচ্চালক বলের দিক নির্ণয় করে iii. গতীয় তড়িচ্চালক বল ε = B l v নিচের কোনটি সঠিক?",
+        "options": [
+          "ক) i ও ii",
+          "খ) i ও iii",
+          "গ) ii ও iii",
+          "ঘ) i, ii ও iii"
+        ],
+        "correctOption": "ঘ",
+        "explanation": "ফ্যারাড ও লেনজের সূত্র এবং গতীয় তড়িচ্চালক বল সঠিক।",
+        "topic": "তড়িৎচুম্বকীয় আবেশ",
+        "probability": "Mega Hot"
+      },
+      {
+        "questionNumber": 19,
+        "passage": null,
+        "questionText": "অর্ধপরিবাহী সম্পর্কে— i. বিশুদ্ধ সিলিকনে চারটি যোজনী ইলেকট্রন থাকে ii. ফসফরাস ডোপিং করলে N-type তৈরি হয় iii. বোরন ডোপিং করলে P-type তৈরি হয় নিচের কোনটি সঠিক?",
+        "options": [
+          "ক) i ও ii",
+          "খ) i ও iii",
+          "গ) ii ও iii",
+          "ঘ) i, ii ও iii"
+        ],
+        "correctOption": "ঘ",
+        "explanation": "অর্ধপরিবাহীর ডোপিং সংক্রান্ত সব তথ্য সঠিক।",
+        "topic": "অর্ধপরিবাহী",
+        "probability": "Board Favourite"
+      },
+      {
+        "questionNumber": 20,
+        "passage": null,
+        "questionText": "রেডিয়ামের তেজস্ক্রিয়তা— i. α কণা নির্গত হয় ii. রেডন গ্যাসে পরিণত হয় iii. অর্ধায়ু 1600 বছর নিচের কোনটি সঠিক?",
+        "options": [
+          "ক) i ও ii",
+          "খ) i ও iii",
+          "গ) ii ও iii",
+          "ঘ) i, ii ও iii"
+        ],
+        "correctOption": "ঘ",
+        "explanation": "রেডিয়ামের তেজস্ক্রিয় ধর্ম তিনটিই সঠিক।",
+        "topic": "আধুনিক পদার্থবিজ্ঞান",
+        "probability": "Mega Hot"
+      },
+      {
+        "questionNumber": 21,
+        "passage": null,
+        "questionText": "100 W ও 60 W এর দুটি বাল্বকে 220 V সরবরাহের সাথে সিরিজে যুক্ত করলে কোন বাল্বটি বেশি উজ্জ্বল হবে?",
+        "options": [
+          "ক) 100 W",
+          "খ) 60 W",
+          "গ) উভয় সমান",
+          "ঘ) কোনোটিই জ্বলবে না"
+        ],
+        "correctOption": "খ",
+        "explanation": "সিরিজে রোধ বেশি (60 W বাল্ব) তাই বেশি উজ্জ্বল।",
+        "topic": "চল তড়িৎ",
+        "probability": "Conceptual Trap"
+      },
+      {
+        "questionNumber": 22,
+        "passage": null,
+        "questionText": "একই বিভব পার্থক্যে ত্বরিত ইলেকট্রন ও প্রোটনের ডি-ব্রগলি তরঙ্গদৈর্ঘ্যের অনুপাত λₑ : λₚ প্রায়—",
+        "options": [
+          "ক) 43 : 1",
+          "খ) 1 : 43",
+          "গ) 1836 : 1",
+          "ঘ) 1 : 1836"
+        ],
+        "correctOption": "ক",
+        "explanation": "λ ∝ 1/√m, √(m_p/m_e) ≈ √1836 ≈ 43, তাই λₑ : λₚ = 43 : 1",
+        "topic": "আধুনিক পদার্থবিজ্ঞান",
+        "probability": "Conceptual Trap"
+      },
+      {
+        "questionNumber": 23,
+        "passage": null,
+        "questionText": "সর্বজনীন লজিক গেট হিসেবে পরিচিত কোনটি?",
+        "options": [
+          "ক) OR",
+          "খ) AND",
+          "গ) NAND",
+          "ঘ) XOR"
+        ],
+        "correctOption": "গ",
+        "explanation": "NAND (এবং NOR) সর্বজনীন গেট।",
+        "topic": "অর্ধপরিবাহী",
+        "probability": "Mega Hot"
+      },
+      {
+        "questionNumber": 24,
+        "passage": null,
+        "questionText": "একটি বৃত্তাকার কুণ্ডলীর কেন্দ্রে চৌম্বকক্ষেত্র B। প্রবাহ দ্বিগুণ ও ব্যাসার্ধ অর্ধেক করলে কেন্দ্রে চৌম্বকক্ষেত্র কত হবে?",
+        "options": [
+          "ক) B/2",
+          "খ) B",
+          "গ) 2B",
+          "ঘ) 4B"
+        ],
+        "correctOption": "ঘ",
+        "explanation": "B = μ₀ I/(2r), I'=2I, r'=r/2 → B' = 4B",
+        "topic": "চৌম্বকত্ব",
+        "probability": "Very Hot"
+      },
+      {
+        "questionNumber": 25,
+        "passage": null,
+        "questionText": "নিউক্লীয় ফিউশন বিক্রিয়া ঘটাতে উচ্চ তাপমাত্রার প্রয়োজন হয়, কারণ—",
+        "options": [
+          "ক) নিউক্লীয় বল দুর্বল",
+          "খ) নিউক্লিয়াসের ধনাত্মক আধানজনিত বিকর্ষণ জয় করতে",
+          "গ) ইলেকট্রন অপসারণ করতে",
+          "ঘ) চৌম্বক ক্ষেত্র তৈরি করতে"
+        ],
+        "correctOption": "খ",
+        "explanation": "কুলম্ব বিকর্ষণ অতিক্রম করতেই উচ্চ তাপমাত্রা প্রয়োজন।",
+        "topic": "আধুনিক পদার্থবিজ্ঞান",
+        "probability": "Board Favourite"
+      }
+    ]
+  },
+  {
+    "setNumber": 6,
+    "questions": [
+      {
+        "questionNumber": 1,
+        "passage": "একটি স্থির তড়িৎ ক্ষেত্রে দুটি বিন্দু A ও B এর বিভব যথাক্রমে 20 V ও 5 V। একটি ইলেকট্রনকে A থেকে B বিন্দুতে নেওয়া হলো।",
+        "questionText": "বিভব পার্থক্য V_AB কত?",
+        "options": [
+          "ক) 25 V",
+          "খ) 15 V",
+          "গ) -15 V",
+          "ঘ) -25 V"
+        ],
+        "correctOption": "খ",
+        "explanation": "V_AB = 20 - 5 = 15 V",
+        "topic": "স্থির তড়িৎ",
+        "probability": "Mega Hot"
+      },
+      {
+        "questionNumber": 2,
+        "passage": "একটি স্থির তড়িৎ ক্ষেত্রে দুটি বিন্দু A ও B এর বিভব যথাক্রমে 20 V ও 5 V। একটি ইলেকট্রনকে A থেকে B বিন্দুতে নেওয়া হলো।",
+        "questionText": "ইলেকট্রনের বিভব শক্তির পরিবর্তন কত?",
+        "options": [
+          "ক) 15 eV",
+          "খ) -15 eV",
+          "গ) -1.6×10⁻¹⁸ J",
+          "ঘ) 1.6×10⁻¹⁸ J"
+        ],
+        "correctOption": "ক",
+        "explanation": "ΔU = e × 15 = 15 eV",
+        "topic": "বিভব শক্তি",
+        "probability": "Very Hot"
+      },
+      {
+        "questionNumber": 3,
+        "passage": "একটি তারের রোধ 10 Ω। তারটিকে সমান দৈর্ঘ্যে টেনে দ্বিগুণ করা হলো।",
+        "questionText": "নতুন রোধ কত হবে? (আয়তন অপরিবর্তিত ধরে)",
+        "options": [
+          "ক) 5 Ω",
+          "খ) 10 Ω",
+          "গ) 20 Ω",
+          "ঘ) 40 Ω"
+        ],
+        "correctOption": "ঘ",
+        "explanation": "স্থির আয়তনে দৈর্ঘ্য দ্বিগুণ, ক্ষেত্রফল অর্ধেক → R' = 4R = 40 Ω",
+        "topic": "চল তড়িৎ",
+        "probability": "Mega Hot"
+      },
+      {
+        "questionNumber": 4,
+        "passage": "একটি তারের রোধ 10 Ω। তারটিকে সমান দৈর্ঘ্যে টেনে দ্বিগুণ করা হলো।",
+        "questionText": "যদি মূল তারটির মধ্য দিয়ে 2 A তড়িৎ পাঠানো হয়, তাহলে মূল তারের উৎপন্ন তাপ ও নতুন তারের উৎপন্ন তাপের অনুপাত (একই বিভবে) কত?",
+        "options": [
+          "ক) 1:1",
+          "খ) 1:2",
+          "গ) 1:4",
+          "ঘ) 4:1"
+        ],
+        "correctOption": "গ",
+        "explanation": "একই বিভবে H ∝ 1/R, পুরাতন R=10 Ω, নতুন R=40 Ω → H_new/H_old = 10/40 = 1/4",
+        "topic": "জুল উত্তাপ",
+        "probability": "Very Hot"
+      },
+      {
+        "questionNumber": 5,
+        "passage": null,
+        "questionText": "একটি ফটোইলেকট্রিক কোষে আলোর তরঙ্গদৈর্ঘ্য λ থেকে λ/2 করা হলো। নির্গত ইলেকট্রনের সর্বোচ্চ গতিশক্তি—",
+        "options": [
+          "ক) দ্বিগুণ হবে",
+          "খ) অর্ধেক হবে",
+          "গ) দ্বিগুণের বেশি বাড়বে",
+          "ঘ) একই থাকবে"
+        ],
+        "correctOption": "গ",
+        "explanation": "K_max = hc/λ - φ, λ অর্ধেক করলে hc/λ দ্বিগুণ হয়, কিন্তু φ বিয়োগ করার ফলে বৃদ্ধি দ্বিগুণের বেশি।",
+        "topic": "ফটোইলেকট্রিক ক্রিয়া",
+        "probability": "Conceptual Trap"
+      },
+      {
+        "questionNumber": 6,
+        "passage": null,
+        "questionText": "নিচের কোনটি সঠিক নয়? i. ডায়নামো যান্ত্রিক শক্তিকে তড়িৎ শক্তিতে রূপান্তরিত করে ii. জেনার ডায়োড সম্মুখ বায়াসে ভোল্টেজ নিয়ন্ত্রণ করে iii. ট্রান্সফরমার আবেশের উপর ভিত্তি করে কাজ করে",
+        "options": [
+          "ক) i ও ii",
+          "খ) ii ও iii",
+          "গ) i ও iii",
+          "ঘ) ii"
+        ],
+        "correctOption": "ঘ",
+        "explanation": "জেনার ডায়োড বিপরীত বায়াসে কাজ করে, সম্মুখে নয়।",
+        "topic": "অর্ধপরিবাহী",
+        "probability": "Board Favourite"
+      },
+      {
+        "questionNumber": 7,
+        "passage": null,
+        "questionText": "দুইটি ধারকের ধারকত্ব যথাক্রমে 3 μF ও 6 μF। এদেরকে সিরিজে যুক্ত করলে তুল্য ধারকত্ব কত?",
+        "options": [
+          "ক) 9 μF",
+          "খ) 2 μF",
+          "গ) 4.5 μF",
+          "ঘ) 1 μF"
+        ],
+        "correctOption": "খ",
+        "explanation": "C_eq = (3×6)/(3+6) = 2 μF",
+        "topic": "স্থির তড়িৎ",
+        "probability": "Mega Hot"
+      },
+      {
+        "questionNumber": 8,
+        "passage": null,
+        "questionText": "একটি আদর্শ গ্যাসের রুদ্ধতাপীয় প্রসারণে তাপমাত্রা—",
+        "options": [
+          "ক) বৃদ্ধি পায়",
+          "খ) হ্রাস পায়",
+          "গ) অপরিবর্তিত থাকে",
+          "ঘ) কখনো বাড়ে, কখনো কমে"
+        ],
+        "correctOption": "খ",
+        "explanation": "রুদ্ধতাপীয় প্রসারণে তাপমাত্রা হ্রাস পায়।",
+        "topic": "তাপগতিবিদ্যা",
+        "probability": "Board Favourite"
+      },
+      {
+        "questionNumber": 9,
+        "passage": null,
+        "questionText": "হাইড্রোজেন পরমাণুর ইলেকট্রন প্রথম বোর কক্ষপথে ঘূর্ণায়মান। এর কক্ষীয় কৌণিক ভরবেগ—",
+        "options": [
+          "ক) h/2π",
+          "খ) h/π",
+          "গ) 2h/π",
+          "ঘ) h/4π"
+        ],
+        "correctOption": "ক",
+        "explanation": "বোরের স্বীকার্য mvr = h/(2π)",
+        "topic": "আধুনিক পদার্থ",
+        "probability": "Mega Hot"
+      },
+      {
+        "questionNumber": 10,
+        "passage": null,
+        "questionText": "ফ্যারাডের তড়িৎচুম্বকীয় আবেশ সূত্রে আবিষ্ট তড়িচ্চালক বল ε =?",
+        "options": [
+          "ক) -dΦ/dt",
+          "খ) dΦ/dt",
+          "গ) -dB/dt",
+          "ঘ) dB/dt"
+        ],
+        "correctOption": "ক",
+        "explanation": "ফ্যারাডের সূত্র ε = -dΦ/dt",
+        "topic": "তড়িৎচুম্বকীয় আবেশ",
+        "probability": "Board Favourite"
+      },
+      {
+        "questionNumber": 11,
+        "passage": null,
+        "questionText": "220 V, 100 W বাল্বের ফিলামেন্টের রোধ কত?",
+        "options": [
+          "ক) 484 Ω",
+          "খ) 242 Ω",
+          "গ) 100 Ω",
+          "ঘ) 44 Ω"
+        ],
+        "correctOption": "ক",
+        "explanation": "R = V²/P = 220²/100 = 484 Ω",
+        "topic": "চল তড়িৎ",
+        "probability": "Mega Hot"
+      },
+      {
+        "questionNumber": 12,
+        "passage": null,
+        "questionText": "একটি আদর্শ কার্নো ইঞ্জিন 500 K ও 300 K তাপাধারের মধ্যে কাজ করে। ইঞ্জিনটির দক্ষতা ও একটি বাস্তব ইঞ্জিনের দক্ষতার মধ্যে সম্পর্ক—",
+        "options": [
+          "ক) কার্নো ইঞ্জিনের দক্ষতা সর্বোচ্চ",
+          "খ) বাস্তব ইঞ্জিনের দক্ষতা বেশি",
+          "গ) উভয়ের দক্ষতা সমান",
+          "ঘ) নির্ভর করে না"
+        ],
+        "correctOption": "ক",
+        "explanation": "কার্নো ইঞ্জিন একই তাপমাত্রা সীমায় সর্বোচ্চ দক্ষ।",
+        "topic": "তাপগতিবিদ্যা",
+        "probability": "Board Favourite"
+      },
+      {
+        "questionNumber": 13,
+        "passage": null,
+        "questionText": "সমান্তরাল পাত ধারকের ধারকত্ব—",
+        "options": [
+          "ক) পাতদ্বয়ের মধ্যবর্তী মাধ্যমের উপর নির্ভর করে না",
+          "খ) বিভব পার্থক্যের সমানুপাতিক",
+          "গ) পাতদ্বয়ের দূরত্বের ব্যস্তানুপাতিক",
+          "ঘ) পাতে সঞ্চিত আধানের সমানুপাতিক"
+        ],
+        "correctOption": "গ",
+        "explanation": "C = ε₀ A/d, দূরত্বের ব্যস্তানুপাতিক।",
+        "topic": "স্থির তড়িৎ",
+        "probability": "Mega Hot"
+      },
+      {
+        "questionNumber": 14,
+        "passage": null,
+        "questionText": "α কণা মূলত কী?",
+        "options": [
+          "ক) ইলেকট্রন",
+          "খ) প্রোটন",
+          "গ) হিলিয়াম নিউক্লিয়াস",
+          "ঘ) নিউট্রন"
+        ],
+        "correctOption": "গ",
+        "explanation": "α কণা = হিলিয়াম নিউক্লিয়াস (2p + 2n)",
+        "topic": "আধুনিক পদার্থ",
+        "probability": "Board Favourite"
+      },
+      {
+        "questionNumber": 15,
+        "passage": null,
+        "questionText": "একটি ফাঁপা গোলকীয় পরিবাহীর ক্ষেত্রে— i. ভিতরে তড়িৎক্ষেত্র শূন্য ii. পৃষ্ঠের বিভব kQ/R iii. ভিতরে আধান শূন্য নিচের কোনটি সঠিক?",
+        "options": [
+          "ক) i ও ii",
+          "খ) i ও iii",
+          "গ) ii ও iii",
+          "ঘ) i, ii ও iii"
+        ],
+        "correctOption": "ঘ",
+        "explanation": "ফাঁপা গোলকের তিনটি ধর্মই সঠিক।",
+        "topic": "স্থির তড়িৎ",
+        "probability": "Very Hot"
+      },
+      {
+        "questionNumber": 16,
+        "passage": null,
+        "questionText": "ইয়ং-এর দ্বি-চিড় পরীক্ষায়— i. পর্দার দূরত্ব বাড়ালে ডোরার ব্যবধান বাড়ে ii. আলোর তরঙ্গদৈর্ঘ্য বাড়ালে ডোরার ব্যবধান বাড়ে iii. চিড় দুইটির মধ্যবর্তী দূরত্ব বাড়ালে ডোরার ব্যবধান বাড়ে নিচের কোনটি সঠিক?",
+        "options": [
+          "ক) i ও ii",
+          "খ) i ও iii",
+          "গ) ii ও iii",
+          "ঘ) i, ii ও iii"
+        ],
+        "correctOption": "ক",
+        "explanation": "β = λD/d, d বাড়ালে β কমে, তাই iii ভুল।",
+        "topic": "আলোকবিজ্ঞান",
+        "probability": "Board Favourite"
+      },
+      {
+        "questionNumber": 17,
+        "passage": null,
+        "questionText": "ট্রানজিস্টরের সাধারণ নিঃসারক সংযোগে— i. নিবেশ রোধ কম ii. নির্গত রোধ উচ্চ iii. ভোল্টেজ লাভ > 1 নিচের কোনটি সঠিক?",
+        "options": [
+          "ক) i ও ii",
+          "খ) i ও iii",
+          "গ) ii ও iii",
+          "ঘ) i, ii ও iii"
+        ],
+        "correctOption": "ঘ",
+        "explanation": "সবগুলো বৈশিষ্ট্য সঠিক।",
+        "topic": "অর্ধপরিবাহী",
+        "probability": "Board Favourite"
+      },
+      {
+        "questionNumber": 18,
+        "passage": null,
+        "questionText": "চৌম্বক ক্ষেত্রের একক টেসলা নিচের কোনটির সমান?",
+        "options": [
+          "ক) N A⁻¹ m⁻¹",
+          "খ) N A m",
+          "গ) N A⁻¹ m",
+          "ঘ) N A m⁻¹"
+        ],
+        "correctOption": "ক",
+        "explanation": "B = F/(I L) → T = N/(A·m)",
+        "topic": "চৌম্বকত্ব",
+        "probability": "Board Favourite"
+      },
+      {
+        "questionNumber": 19,
+        "passage": null,
+        "questionText": "তাপগতিবিদ্যার দ্বিতীয় সূত্র সম্পর্কে— i. তাপ স্বতঃস্ফূর্তভাবে নিম্ন তাপমাত্রা থেকে উচ্চ তাপমাত্রায় প্রবাহিত হয় না ii. সম্পূর্ণরূপে তাপকে কাজে রূপান্তর করা যায় iii. কার্নো ইঞ্জিনের দক্ষতা কখনো 100% হয় না নিচের কোনটি সঠিক?",
+        "options": [
+          "ক) i ও iii",
+          "খ) i ও ii",
+          "গ) ii ও iii",
+          "ঘ) i, ii ও iii"
+        ],
+        "correctOption": "ক",
+        "explanation": "ii ভুল, পূর্ণ রূপান্তর সম্ভব নয়।",
+        "topic": "তাপগতিবিদ্যা",
+        "probability": "Mega Hot"
+      },
+      {
+        "questionNumber": 20,
+        "passage": null,
+        "questionText": "নিচের কোনটি সঠিক? i. লজিক গেট NOR একটি সর্বজনীন গেট ii. NAND গেট আউটপুট 1 দেয় যখন কমপক্ষে একটি ইনপুট 0 iii. AND গেট আউটপুট 0 দেয় যখন সব ইনপুট 1",
+        "options": [
+          "ক) i ও ii",
+          "খ) i ও iii",
+          "গ) ii ও iii",
+          "ঘ) i, ii ও iii"
+        ],
+        "correctOption": "ক",
+        "explanation": "iii ভুল, AND সব ইনপুট 1 হলে আউটপুট 1 দেয়।",
+        "topic": "লজিক গেট",
+        "probability": "Very Hot"
+      },
+      {
+        "questionNumber": 21,
+        "passage": null,
+        "questionText": "রেডন গ্যাসের তেজস্ক্রিয় রূপান্তরে α কণা নির্গত হয়। α ক্ষয়ের ফলে মূল নিউক্লিয়াসের—",
+        "options": [
+          "ক) ভর সংখ্যা 4 কমে, পারমাণবিক সংখ্যা 2 কমে",
+          "খ) ভর সংখ্যা 2 কমে, পারমাণবিক সংখ্যা 4 কমে",
+          "গ) ভর সংখ্যা অপরিবর্তিত থাকে",
+          "ঘ) পারমাণবিক সংখ্যা 1 বাড়ে"
+        ],
+        "correctOption": "ক",
+        "explanation": "α ক্ষয়ে ভর সংখ্যা 4, পারমাণবিক সংখ্যা 2 হ্রাস।",
+        "topic": "আধুনিক পদার্থ",
+        "probability": "Mega Hot"
+      },
+      {
+        "questionNumber": 22,
+        "passage": null,
+        "questionText": "5 Ω ও 10 Ω রোধ সমান্তরালে যুক্ত করে 6 V ব্যাটারির সাথে যুক্ত করা হলো। ব্যাটারি থেকে প্রবাহ কত? (অভ্যন্তরীণ রোধ উপেক্ষা করো)",
+        "options": [
+          "ক) 1.8 A",
+          "খ) 0.6 A",
+          "গ) 1.2 A",
+          "ঘ) 0.4 A"
+        ],
+        "correctOption": "ক",
+        "explanation": "R_eq = (5×10)/15 = 3.33 Ω, I = 6/3.33 ≈ 1.8 A",
+        "topic": "চল তড়িৎ",
+        "probability": "Board Favourite"
+      },
+      {
+        "questionNumber": 23,
+        "passage": null,
+        "questionText": "একটি ইলেকট্রন ও একটি প্রোটন একই গতিতে গতিশীল। কোনটির ডি-ব্রগলি তরঙ্গদৈর্ঘ্য বড়?",
+        "options": [
+          "ক) ইলেকট্রন",
+          "খ) প্রোটন",
+          "গ) সমান",
+          "ঘ) বলা যায় না"
+        ],
+        "correctOption": "ক",
+        "explanation": "λ ∝ 1/m, ইলেকট্রন হালকা তাই λ বড়।",
+        "topic": "আধুনিক পদার্থ",
+        "probability": "Conceptual Trap"
+      },
+      {
+        "questionNumber": 24,
+        "passage": null,
+        "questionText": "100 V বিভবে একটি ধারকে 10 μC আধান জমা হয়। ধারকটির ধারকত্ব কত?",
+        "options": [
+          "ক) 0.1 μF",
+          "খ) 1 μF",
+          "গ) 10 μF",
+          "ঘ) 100 μF"
+        ],
+        "correctOption": "ক",
+        "explanation": "C = Q/V = 10/100 = 0.1 μF",
+        "topic": "স্থির তড়িৎ",
+        "probability": "Mega Hot"
+      },
+      {
+        "questionNumber": 25,
+        "passage": null,
+        "questionText": "নিচের কোনটি তড়িৎ চুম্বকীয় তরঙ্গ নয়?",
+        "options": [
+          "ক) দৃশ্যমান আলো",
+          "খ) এক্স-রে",
+          "গ) বিটা রশ্মি",
+          "ঘ) অবলোহিত রশ্মি"
+        ],
+        "correctOption": "গ",
+        "explanation": "বিটা রশ্মি কণা, তড়িৎচুম্বকীয় তরঙ্গ নয়।",
+        "topic": "তড়িৎচুম্বকীয় তরঙ্গ",
+        "probability": "Conceptual Trap"
+      }
+    ]
+  },
+  {
+    "setNumber": 7,
+    "questions": [
+      {
+        "questionNumber": 1,
+        "passage": "একটি তড়িৎ দ্বিমেরুতে আধানদ্বয় ±q এবং এদের মধ্যবর্তী দূরত্ব 2a। দ্বিমেরুর অক্ষ বরাবর মধ্যবিন্দু থেকে r দূরত্বে (r≫a) একটি বিন্দু P অবস্থিত।",
+        "questionText": "P বিন্দুতে তড়িৎক্ষেত্রের মান কত?",
+        "options": [
+          "ক) kq/r²",
+          "খ) k·2qa/r³",
+          "গ) k·4qa/r³",
+          "ঘ) kq/r³"
+        ],
+        "correctOption": "গ",
+        "explanation": "অক্ষীয় বিন্দুতে E = 2kp/r³, p = q·2a → E = 4kqa/r³",
+        "topic": "তড়িৎ দ্বিমেরু",
+        "probability": "Mega Hot"
+      },
+      {
+        "questionNumber": 2,
+        "passage": "একটি তড়িৎ দ্বিমেরুতে আধানদ্বয় ±q এবং এদের মধ্যবর্তী দূরত্ব 2a। দ্বিমেরুর অক্ষ বরাবর মধ্যবিন্দু থেকে r দূরত্বে (r≫a) একটি বিন্দু P অবস্থিত।",
+        "questionText": "যদি q = 1 µC, 2a = 1 mm, r = 10 cm হয়, তাহলে P বিন্দুতে তড়িৎক্ষেত্রের মান প্রায়—",
+        "options": [
+          "ক) 1.8×10⁴ N/C",
+          "খ) 1.8×10⁵ N/C",
+          "গ) 9×10⁴ N/C",
+          "ঘ) 9×10⁵ N/C"
+        ],
+        "correctOption": "ক",
+        "explanation": "E = 4kqa/r³ = 4×9×10⁹×10⁻⁶×0.0005/(0.1)³ = 1.8×10⁴ N/C",
+        "topic": "স্থির তড়িৎ",
+        "probability": "Very Hot"
+      },
+      {
+        "questionNumber": 3,
+        "passage": "একটি রেফ্রিজারেটরের কার্যকারিতা সহগ 5 এবং এটি প্রতি মিনিটে 600 J তাপ শীতল বস্তু থেকে অপসারণ করে।",
+        "questionText": "রেফ্রিজারেটরটি প্রতি মিনিটে কত কাজ সম্পাদন করে?",
+        "options": [
+          "ক) 120 J",
+          "খ) 3000 J",
+          "গ) 100 J",
+          "ঘ) 600 J"
+        ],
+        "correctOption": "ক",
+        "explanation": "W = Q_c / COP = 600/5 = 120 J",
+        "topic": "রেফ্রিজারেটর",
+        "probability": "Very Hot"
+      },
+      {
+        "questionNumber": 4,
+        "passage": "একটি রেফ্রিজারেটরের কার্যকারিতা সহগ 5 এবং এটি প্রতি মিনিটে 600 J তাপ শীতল বস্তু থেকে অপসারণ করে।",
+        "questionText": "তাপ গ্রাহকের তাপমাত্রা 300 K হলে, শীতল তাপাধারের তাপমাত্রা প্রায়— (COP = T_c/(T_h-T_c) ব্যবহার করো)",
+        "options": [
+          "ক) 250 K",
+          "খ) 275 K",
+          "গ) 200 K",
+          "ঘ) 225 K"
+        ],
+        "correctOption": "ক",
+        "explanation": "5 = T_c/(300-T_c) → T_c = 250 K",
+        "topic": "তাপগতিবিদ্যা",
+        "probability": "Mega Hot"
+      },
+      {
+        "questionNumber": 5,
+        "passage": null,
+        "questionText": "একটি দীর্ঘ সোজা তার থেকে 0.1 m দূরে চৌম্বকক্ষেত্রের মান 2×10⁻⁵ T। তারটির মধ্য দিয়ে প্রবাহিত তড়িৎ কত? (μ₀ = 4π×10⁻⁷ TmA⁻¹)",
+        "options": [
+          "ক) 10 A",
+          "খ) 5 A",
+          "গ) 20 A",
+          "ঘ) 1 A"
+        ],
+        "correctOption": "ক",
+        "explanation": "I = 2πrB/μ₀ = (2π×0.1×2×10⁻⁵)/(4π×10⁻⁷) = 10 A",
+        "topic": "চৌম্বকত্ব",
+        "probability": "Mega Hot"
+      },
+      {
+        "questionNumber": 6,
+        "passage": null,
+        "questionText": "নিচের কোনটি ভেক্টর রাশি?",
+        "options": [
+          "ক) তড়িৎ ফ্লাক্স",
+          "খ) তড়িৎ বিভব",
+          "গ) চৌম্বক দ্বিমেরু ভ্রামক",
+          "ঘ) তড়িৎ ধারকত্ব"
+        ],
+        "correctOption": "গ",
+        "explanation": "চৌম্বক দ্বিমেরু ভ্রামক ভেক্টর, বাকি স্কেলার।",
+        "topic": "ভেক্টর/স্কেলার",
+        "probability": "Conceptual Trap"
+      },
+      {
+        "questionNumber": 7,
+        "passage": null,
+        "questionText": "একটি পূর্ণ তরঙ্গ সংশোধনকারীতে প্রতি সাইকেলে কয়টি ডায়োড পরিবাহী হয়?",
+        "options": [
+          "ক) 1",
+          "খ) 2",
+          "গ) 3",
+          "ঘ) 4"
+        ],
+        "correctOption": "খ",
+        "explanation": "পূর্ণ তরঙ্গ রেকটিফায়ারে দুটি ডায়োড পর্যায়ক্রমে পরিবাহী হয়।",
+        "topic": "অর্ধপরিবাহী (রেকটিফায়ার)",
+        "probability": "Board Favourite"
+      },
+      {
+        "questionNumber": 8,
+        "passage": null,
+        "questionText": "নিচের কোনটি সঠিক? i. আইসোটোপের ভর সংখ্যা সমান ii. আইসোবারের নিউট্রন সংখ্যা সমান iii. আইসোটোনের নিউট্রন সংখ্যা সমান",
+        "options": [
+          "ক) i",
+          "খ) iii",
+          "গ) i ও ii",
+          "ঘ) ii ও iii"
+        ],
+        "correctOption": "খ",
+        "explanation": "আইসোটোনের নিউট্রন সংখ্যা সমান, বাকি ভুল।",
+        "topic": "আইসোটোপ",
+        "probability": "Board Favourite"
+      },
+      {
+        "questionNumber": 9,
+        "passage": null,
+        "questionText": "60 W, 220 V বৈদ্যুতিক বাল্বের ফিলামেন্টের রোধ নির্ণয় করো।",
+        "options": [
+          "ক) 807 Ω",
+          "খ) 484 Ω",
+          "গ) 367 Ω",
+          "ঘ) 242 Ω"
+        ],
+        "correctOption": "ক",
+        "explanation": "R = 220²/60 ≈ 807 Ω",
+        "topic": "চল তড়িৎ",
+        "probability": "Mega Hot"
+      },
+      {
+        "questionNumber": 10,
+        "passage": null,
+        "questionText": "নিচের কোন গেটের আউটপুট 0 হয় কেবল যখন উভয় ইনপুট 1?",
+        "options": [
+          "ক) AND",
+          "খ) OR",
+          "গ) NAND",
+          "ঘ) NOR"
+        ],
+        "correctOption": "গ",
+        "explanation": "NAND আউটপুট 0 দেয় শুধুমাত্র A=1, B=1।",
+        "topic": "লজিক গেট",
+        "probability": "Board Favourite"
+      },
+      {
+        "questionNumber": 11,
+        "passage": null,
+        "questionText": "পটাসিয়ামের কার্যাপেক্ষক 2.0 eV। 300 nm তরঙ্গদৈর্ঘ্যের আলোতে ইলেকট্রন নির্গত হবে কি?",
+        "options": [
+          "ক) হবে না, কারণ শক্তি কম",
+          "খ) হবে, কারণ শক্তি যথেষ্ট",
+          "গ) হবে না, কারণ তীব্রতা কম",
+          "ঘ) বলা যাবে না"
+        ],
+        "correctOption": "খ",
+        "explanation": "E = 1240/300 ≈ 4.13 eV > 2.0 eV, তাই নির্গত হবে।",
+        "topic": "ফটোইলেকট্রিক",
+        "probability": "Very Hot"
+      },
+      {
+        "questionNumber": 12,
+        "passage": null,
+        "questionText": "একটি কণা সরলরেখায় গতিশীল। এর ডি-ব্রগলি তরঙ্গদৈর্ঘ্য λ। ভরবেগ দ্বিগুণ করলে λ কত হবে?",
+        "options": [
+          "ক) 2λ",
+          "খ) λ/2",
+          "গ) λ/4",
+          "ঘ) 4λ"
+        ],
+        "correctOption": "খ",
+        "explanation": "λ = h/p, p দ্বিগুণ → λ অর্ধেক।",
+        "topic": "আধুনিক পদার্থ",
+        "probability": "Board Favourite"
+      },
+      {
+        "questionNumber": 13,
+        "passage": null,
+        "questionText": "1 g তুল্য ওজনের তামা সঞ্চয়ের জন্য কত চার্জ প্রয়োজন? (Cu²⁺)",
+        "options": [
+          "ক) 96500 C",
+          "খ) 48250 C",
+          "গ) 193000 C",
+          "ঘ) 24125 C"
+        ],
+        "correctOption": "ক",
+        "explanation": "তুল্য ওজন = 31.75 g, 1g তুল্য ওজন = 1 eq, প্রয়োজনীয় চার্জ = F = 96500 C",
+        "topic": "তড়িৎ রসায়ন",
+        "probability": "Very Hot"
+      },
+      {
+        "questionNumber": 14,
+        "passage": null,
+        "questionText": "5 Ω ও 10 Ω রোধ শ্রেণিতে যুক্ত করলে তুল্য রোধ কত?",
+        "options": [
+          "ক) 15 Ω",
+          "খ) 3.33 Ω",
+          "গ) 50 Ω",
+          "ঘ) 7.5 Ω"
+        ],
+        "correctOption": "ক",
+        "explanation": "শ্রেণিতে R_eq = 5+10 = 15 Ω",
+        "topic": "চল তড়িৎ",
+        "probability": "Mega Hot"
+      },
+      {
+        "questionNumber": 15,
+        "passage": null,
+        "questionText": "একটি চৌম্বক ক্ষেত্রে গতিশীল আধান কণার ক্ষেত্রে— i. চৌম্বক বল গতি ও চৌম্বক ক্ষেত্রের সমতলের লম্বদিকে ক্রিয়া করে ii. বল মান F = qvB sinθ iii. কণাটি বৃত্তাকার পথে চলতে পারে নিচের কোনটি সঠিক?",
+        "options": [
+          "ক) i ও ii",
+          "খ) i ও iii",
+          "গ) ii ও iii",
+          "ঘ) i, ii ও iii"
+        ],
+        "correctOption": "ঘ",
+        "explanation": "তিনটিই সঠিক।",
+        "topic": "চৌম্বকত্ব",
+        "probability": "Board Favourite"
+      },
+      {
+        "questionNumber": 16,
+        "passage": null,
+        "questionText": "নিউক্লীয় ফিশন বিক্রিয়ায়— i. ভারী নিউক্লিয়াস ভেঙে ছোট নিউক্লিয়াস তৈরি হয় ii. প্রচুর শক্তি নির্গত হয় iii. নিউট্রন নির্গত হয় নিচের কোনটি সঠিক?",
+        "options": [
+          "ক) i ও ii",
+          "খ) i ও iii",
+          "গ) ii ও iii",
+          "ঘ) i, ii ও iii"
+        ],
+        "correctOption": "ঘ",
+        "explanation": "ফিশনের বৈশিষ্ট্য তিনটিই সঠিক।",
+        "topic": "আধুনিক পদার্থ",
+        "probability": "Mega Hot"
+      },
+      {
+        "questionNumber": 17,
+        "passage": null,
+        "questionText": "অর্ধপরিবাহী সম্পর্কে— i. N-টাইপে সংখ্যাগরিষ্ঠ আধান বাহক ইলেকট্রন ii. P-টাইপে সংখ্যাগরিষ্ঠ আধান বাহক হোল iii. বিশুদ্ধ অর্ধপরিবাহীতে তড়িৎ পরিবাহিতা তাপমাত্রা বৃদ্ধির সাথে বাড়ে নিচের কোনটি সঠিক?",
+        "options": [
+          "ক) i ও ii",
+          "খ) i ও iii",
+          "গ) ii ও iii",
+          "ঘ) i, ii ও iii"
+        ],
+        "correctOption": "ঘ",
+        "explanation": "তিনটি তথ্যই সঠিক।",
+        "topic": "অর্ধপরিবাহী",
+        "probability": "Board Favourite"
+      },
+      {
+        "questionNumber": 18,
+        "passage": null,
+        "questionText": "ইয়ং-এর দ্বি-চিড় পরীক্ষায় আলোর উৎস সাদা হলে কী দেখা যাবে? i. কেন্দ্রীয় চমকপ্রদ ডোরা সাদা হবে ii. অন্যান্য ডোরাগুলো বর্ণালী হবে iii. ব্যতিচার ঘটবে না নিচের কোনটি সঠিক?",
+        "options": [
+          "ক) i ও ii",
+          "খ) i ও iii",
+          "গ) ii ও iii",
+          "ঘ) i, ii ও iii"
+        ],
+        "correctOption": "ক",
+        "explanation": "সাদা আলোতে ব্যতিচার ঘটে, কেন্দ্র সাদা, পাশে বর্ণালী।",
+        "topic": "আলোকবিজ্ঞান",
+        "probability": "Board Favourite"
+      },
+      {
+        "questionNumber": 19,
+        "passage": null,
+        "questionText": "ট্রান্সফরমার কোর ল্যামিনেটেড করা হয়— i. এডি প্রবাহ ক্ষয় কমাতে ii. হিস্টেরেসিস ক্ষয় কমাতে iii. তাম্র ক্ষয় কমাতে নিচের কোনটি সঠিক?",
+        "options": [
+          "ক) i",
+          "খ) i ও ii",
+          "গ) iii",
+          "ঘ) i, ii ও iii"
+        ],
+        "correctOption": "ক",
+        "explanation": "ল্যামিনেশন কেবল এডি প্রবাহ ক্ষয় কমায়।",
+        "topic": "ট্রান্সফরমার",
+        "probability": "Very Hot"
+      },
+      {
+        "questionNumber": 20,
+        "passage": null,
+        "questionText": "কৃষ্ণবস্তু বিকিরণ থেকে প্ল্যাঙ্কের ধ্রুবক নির্ণয় করা যায়, কারণ— i. বিকিরণের শক্তি কম্পাঙ্কের সাথে পরিবর্তিত হয় ii. শক্তির প্যাকেট hf ধারণা প্রয়োগ করা হয় iii. বিকিরণ তরঙ্গদৈর্ঘ্যের উপর নির্ভরশীল নিচের কোনটি সঠিক?",
+        "options": [
+          "ক) i ও ii",
+          "খ) i ও iii",
+          "গ) ii ও iii",
+          "ঘ) i, ii ও iii"
+        ],
+        "correctOption": "ঘ",
+        "explanation": "তিনটিই কারণ।",
+        "topic": "আধুনিক/কৃষ্ণবস্তু",
+        "probability": "Very Hot"
+      },
+      {
+        "questionNumber": 21,
+        "passage": null,
+        "questionText": "একটি ইলেকট্রন 100 V বিভব পার্থক্যে ত্বরিত হলে এর গতিশক্তি কত জুল?",
+        "options": [
+          "ক) 1.6×10⁻¹⁷ J",
+          "খ) 1.6×10⁻¹⁹ J",
+          "গ) 1.6×10⁻²⁰ J",
+          "ঘ) 100 J"
+        ],
+        "correctOption": "ক",
+        "explanation": "K = e×100 = 1.6×10⁻¹⁹×100 = 1.6×10⁻¹⁷ J",
+        "topic": "আধুনিক পদার্থ",
+        "probability": "Board Favourite"
+      },
+      {
+        "questionNumber": 22,
+        "passage": null,
+        "questionText": "2 H আবেশক এবং 5 Ω রোধ সমান্তরালে যুক্ত। DC উৎসের সাথে সংযুক্ত করলে স্থির অবস্থায় ইন্ডাক্টরের মধ্য দিয়ে প্রবাহ—",
+        "options": [
+          "ক) উৎস থেকে আসা মোট প্রবাহের চেয়ে বেশি",
+          "খ) শূন্য",
+          "গ) অসীম",
+          "ঘ) ডিসিতে ইন্ডাক্টর শর্ট সার্কিটের মতো কাজ করে"
+        ],
+        "correctOption": "ঘ",
+        "explanation": "ডিসিতে ইন্ডাক্টর রিঅ্যাক্ট্যান্স শূন্য, শর্টের মতো।",
+        "topic": "ইলেকট্রনিক্স",
+        "probability": "Conceptual Trap"
+      },
+      {
+        "questionNumber": 23,
+        "passage": null,
+        "questionText": "NAND গেটের আউটপুট 1 হবে যখন—",
+        "options": [
+          "ক) A=0, B=0",
+          "খ) A=1, B=0",
+          "গ) A=0, B=1",
+          "ঘ) উপরের সবগুলোই"
+        ],
+        "correctOption": "ঘ",
+        "explanation": "NAND আউটপুট 1 দেয় যে কোনো ইনপুট 0 থাকলে।",
+        "topic": "লজিক গেট",
+        "probability": "Board Favourite"
+      },
+      {
+        "questionNumber": 24,
+        "passage": null,
+        "questionText": "10 g ভরের একটি বস্তু 100 m/s বেগে চললে ডি-ব্রগলি তরঙ্গদৈর্ঘ্য কত?",
+        "options": [
+          "ক) 6.63×10⁻³⁴ m",
+          "খ) 6.63×10⁻³⁶ m",
+          "গ) 6.63×10⁻³⁵ m",
+          "ঘ) অতি ক্ষুদ্র, পরিমাপযোগ্য নয়"
+        ],
+        "correctOption": "ক",
+        "explanation": "λ = h/mv = 6.63×10⁻³⁴/(0.01×100) = 6.63×10⁻³⁴ m",
+        "topic": "আধুনিক পদার্থ",
+        "probability": "Very Hot"
+      },
+      {
+        "questionNumber": 25,
+        "passage": null,
+        "questionText": "একটি ব্যাটারির তড়িচ্চালক বল 12 V, অভ্যন্তরীণ রোধ 2 Ω। ব্যাটারি থেকে 3 A প্রবাহ নিলে প্রান্তীয় বিভব পার্থক্য কত?",
+        "options": [
+          "ক) 6 V",
+          "খ) 12 V",
+          "গ) 18 V",
+          "ঘ) 3 V"
+        ],
+        "correctOption": "ক",
+        "explanation": "V = E - I r = 12 - 3×2 = 6 V",
+        "topic": "চল তড়িৎ",
+        "probability": "Mega Hot"
+      }
+    ]
+  },
+  {
+    "setNumber": 8,
+    "questions": [
+      {
+        "questionNumber": 1,
+        "passage": "একটি ইলেকট্রন একটি সুষম চৌম্বক ক্ষেত্র 0.2 T-এ লম্বভাবে 10⁶ m/s বেগে প্রবেশ করে। (m_e=9.1×10⁻³¹ kg, e=1.6×10⁻¹⁹ C)",
+        "questionText": "ইলেকট্রনের উপর ক্রিয়াশীল চৌম্বক বল কত?",
+        "options": [
+          "ক) 3.2×10⁻¹⁴ N",
+          "খ) 3.2×10⁻¹³ N",
+          "গ) 1.6×10⁻¹⁴ N",
+          "ঘ) 1.6×10⁻¹³ N"
+        ],
+        "correctOption": "ক",
+        "explanation": "F = qvB = 1.6×10⁻¹⁹×10⁶×0.2 = 3.2×10⁻¹⁴ N",
+        "topic": "চৌম্বকত্ব",
+        "probability": "Mega Hot"
+      },
+      {
+        "questionNumber": 2,
+        "passage": "একটি ইলেকট্রন একটি সুষম চৌম্বক ক্ষেত্র 0.2 T-এ লম্বভাবে 10⁶ m/s বেগে প্রবেশ করে। (m_e=9.1×10⁻³¹ kg, e=1.6×10⁻¹⁹ C)",
+        "questionText": "ইলেকট্রনের বৃত্তাকার পথের ব্যাসার্ধ কত?",
+        "options": [
+          "ক) 2.84×10⁻³ m",
+          "খ) 5.68×10⁻³ m",
+          "গ) 2.84×10⁻⁴ m",
+          "ঘ) 1.42×10⁻³ m"
+        ],
+        "correctOption": "গ",
+        "explanation": "r = mv/(qB) = (9.1×10⁻³¹×10⁶)/(1.6×10⁻¹⁹×0.2) ≈ 2.84×10⁻⁴ m",
+        "topic": "চৌম্বকত্ব",
+        "probability": "Very Hot"
+      },
+      {
+        "questionNumber": 3,
+        "passage": "একটি সমান্তরাল পাত ধারকের ধারকত্ব 5 μF, পাতদ্বয়ের দূরত্ব 2 mm, বিভব পার্থক্য 100 V।",
+        "questionText": "ধারকটিতে সঞ্চিত শক্তি কত?",
+        "options": [
+          "ক) 0.025 J",
+          "খ) 0.05 J",
+          "গ) 0.1 J",
+          "ঘ) 0.25 J"
+        ],
+        "correctOption": "ক",
+        "explanation": "U = ½ C V² = 0.5×5×10⁻⁶×100² = 0.025 J",
+        "topic": "স্থির তড়িৎ (ধারক)",
+        "probability": "Mega Hot"
+      },
+      {
+        "questionNumber": 4,
+        "passage": "একটি সমান্তরাল পাত ধারকের ধারকত্ব 5 μF, পাতদ্বয়ের দূরত্ব 2 mm, বিভব পার্থক্য 100 V।",
+        "questionText": "পাতদ্বয়ের মধ্যবর্তী স্থানের তড়িৎক্ষেত্রের মান কত?",
+        "options": [
+          "ক) 5×10³ V/m",
+          "খ) 5×10⁴ V/m",
+          "গ) 2×10⁵ V/m",
+          "ঘ) 5×10⁵ V/m"
+        ],
+        "correctOption": "খ",
+        "explanation": "E = V/d = 100/(0.002) = 5×10⁴ V/m",
+        "topic": "স্থির তড়িৎ",
+        "probability": "Board Favourite"
+      },
+      {
+        "questionNumber": 5,
+        "passage": null,
+        "questionText": "একটি তারের দৈর্ঘ্য দ্বিগুণ ও ব্যাসার্ধ অর্ধেক করলে রোধ কত গুণ হবে? (উপাদান একই)",
+        "options": [
+          "ক) 2 গুণ",
+          "খ) 4 গুণ",
+          "গ) 8 গুণ",
+          "ঘ) 16 গুণ"
+        ],
+        "correctOption": "গ",
+        "explanation": "R ∝ L/A, L দ্বিগুণ, r অর্ধেক → A চারগুণ কম → R' = 2×4 = 8R",
+        "topic": "চল তড়িৎ",
+        "probability": "Mega Hot"
+      },
+      {
+        "questionNumber": 6,
+        "passage": null,
+        "questionText": "হাইড্রোজেন পরমাণুর বোর মডেলে প্রথম কক্ষের শক্তি -13.6 eV। ইলেকট্রনকে দ্বিতীয় কক্ষে উত্তেজিত করতে প্রয়োজনীয় শক্তি কত?",
+        "options": [
+          "ক) 3.4 eV",
+          "খ) 10.2 eV",
+          "গ) 13.6 eV",
+          "ঘ) 1.51 eV"
+        ],
+        "correctOption": "খ",
+        "explanation": "E₂ = -3.4 eV, প্রয়োজনীয় শক্তি = -3.4 - (-13.6) = 10.2 eV",
+        "topic": "আধুনিক পদার্থ",
+        "probability": "Mega Hot"
+      },
+      {
+        "questionNumber": 7,
+        "passage": null,
+        "questionText": "জেনার ডায়োড কোন অঞ্চলে ব্যবহৃত হয়?",
+        "options": [
+          "ক) সম্মুখ বায়াস",
+          "খ) বিপরীত বায়াস ব্রেকডাউন অঞ্চলে",
+          "গ) সম্মুখ বায়াস ব্রেকডাউন অঞ্চলে",
+          "ঘ) যে কোনো বায়াসে"
+        ],
+        "correctOption": "খ",
+        "explanation": "জেনার ডায়োড বিপরীত বায়াস ব্রেকডাউন অঞ্চলে ভোল্টেজ রেগুলেশনে ব্যবহৃত।",
+        "topic": "অর্ধপরিবাহী",
+        "probability": "Board Favourite"
+      },
+      {
+        "questionNumber": 8,
+        "passage": null,
+        "questionText": "একটি ইন্ডাক্টরের স্বকীয় আবেশ 0.1 H, এর ভিতর দিয়ে 5 A প্রবাহ 0.1 s-এ শূন্য হয়ে গেলে আবিষ্ট তড়িচ্চালক বল কত?",
+        "options": [
+          "ক) 5 V",
+          "খ) 0.5 V",
+          "গ) 50 V",
+          "ঘ) 2.5 V"
+        ],
+        "correctOption": "ক",
+        "explanation": "ε = L (ΔI/Δt) = 0.1 × (5/0.1) = 5 V",
+        "topic": "তড়িৎচুম্বকীয় আবেশ",
+        "probability": "Board Favourite"
+      },
+      {
+        "questionNumber": 9,
+        "passage": null,
+        "questionText": "পোলারয়েড ব্যবহার করে কী করা যায়?",
+        "options": [
+          "ক) আলোর ব্যতিচার",
+          "খ) আলোর অপবর্তন",
+          "গ) আলোর সমতল পোলারায়ণ",
+          "ঘ) আলোর প্রতিসরণ"
+        ],
+        "correctOption": "গ",
+        "explanation": "পোলারয়েড সমতল পোলারায়িত আলো তৈরি করে।",
+        "topic": "আলোকবিজ্ঞান",
+        "probability": "Board Favourite"
+      },
+      {
+        "questionNumber": 10,
+        "passage": null,
+        "questionText": "একটি রেডিও অ্যাক্টিভ নমুনার 3/4 অংশ ক্ষয় হতে 20 দিন লাগে। এর অর্ধায়ু কত?",
+        "options": [
+          "ক) 10 দিন",
+          "খ) 15 দিন",
+          "গ) 20 দিন",
+          "ঘ) 5 দিন"
+        ],
+        "correctOption": "ক",
+        "explanation": "3/4 ক্ষয় → 2 অর্ধায়ু → 20/2 = 10 দিন।",
+        "topic": "আধুনিক পদার্থ",
+        "probability": "Mega Hot"
+      },
+      {
+        "questionNumber": 11,
+        "passage": null,
+        "questionText": "নিচের কোনটি স্কেলার রাশি?",
+        "options": [
+          "ক) তড়িৎ দ্বিমেরু ভ্রামক",
+          "খ) তড়িৎ ক্ষেত্র",
+          "গ) তড়িৎ ফ্লাক্স",
+          "ঘ) চৌম্বক আবেশ"
+        ],
+        "correctOption": "গ",
+        "explanation": "তড়িৎ ফ্লাক্স স্কেলার, বাকি ভেক্টর।",
+        "topic": "ভেক্টর/স্কেলার",
+        "probability": "Conceptual Trap"
+      },
+      {
+        "questionNumber": 12,
+        "passage": null,
+        "questionText": "নিচের কোনটি সঠিক নয়? i. NOR গেট আউটপুট 1 দেয় যখন সব ইনপুট 0 ii. XOR গেট আউটপুট 1 দেয় যখন ইনপুট ভিন্ন iii. AND গেট আউটপুট 1 দেয় যখন অন্তত একটি ইনপুট 1",
+        "options": [
+          "ক) i",
+          "খ) ii",
+          "গ) iii",
+          "ঘ) ii ও iii"
+        ],
+        "correctOption": "গ",
+        "explanation": "AND আউটপুট 1 দেয় কেবল যখন সব ইনপুট 1, iii ভুল।",
+        "topic": "লজিক গেট",
+        "probability": "Board Favourite"
+      },
+      {
+        "questionNumber": 13,
+        "passage": null,
+        "questionText": "কার্নো ইঞ্জিনের দক্ষতা 50% করতে তাপগ্রাহকের তাপমাত্রা 300 K হলে উৎসের তাপমাত্রা কত?",
+        "options": [
+          "ক) 600 K",
+          "খ) 450 K",
+          "গ) 400 K",
+          "ঘ) 500 K"
+        ],
+        "correctOption": "ক",
+        "explanation": "η = 1 - T₂/T₁ → 0.5 = 1 - 300/T₁ → T₁ = 600 K",
+        "topic": "তাপগতিবিদ্যা",
+        "probability": "Mega Hot"
+      },
+      {
+        "questionNumber": 14,
+        "passage": null,
+        "questionText": "দুটি আধানের মধ্যবর্তী দূরত্ব দ্বিগুণ করলে তাদের মধ্যকার কুলম্ব বল কত গুণ হবে?",
+        "options": [
+          "ক) 2 গুণ",
+          "খ) 1/2 গুণ",
+          "গ) 1/4 গুণ",
+          "ঘ) 4 গুণ"
+        ],
+        "correctOption": "গ",
+        "explanation": "F ∝ 1/r², r দ্বিগুণ → F 1/4 গুণ।",
+        "topic": "স্থির তড়িৎ",
+        "probability": "Mega Hot"
+      },
+      {
+        "questionNumber": 15,
+        "passage": null,
+        "questionText": "তাপগতিবিদ্যার প্রথম সূত্র অনুসারে— i. dU = dQ - dW ii. রুদ্ধতাপীয় প্রক্রিয়ায় dQ=0 iii. সমোষ্ণ প্রক্রিয়ায় dU=0 নিচের কোনটি সঠিক?",
+        "options": [
+          "ক) i ও ii",
+          "খ) i ও iii",
+          "গ) ii ও iii",
+          "ঘ) i, ii ও iii"
+        ],
+        "correctOption": "ঘ",
+        "explanation": "সবগুলো সঠিক।",
+        "topic": "তাপগতিবিদ্যা",
+        "probability": "Board Favourite"
+      },
+      {
+        "questionNumber": 16,
+        "passage": null,
+        "questionText": "ট্রানজিস্টর— i. প্রবাহ বিবর্ধক হিসেবে কাজ করতে পারে ii. তড়িৎ প্রবাহ নিয়ন্ত্রণে ব্যবহৃত হয় iii. আউটপুট বিভব নিবেশ বিভবের সাথে দশা পার্থক্য সৃষ্টি করতে পারে নিচের কোনটি সঠিক?",
+        "options": [
+          "ক) i ও ii",
+          "খ) i ও iii",
+          "গ) ii ও iii",
+          "ঘ) i, ii ও iii"
+        ],
+        "correctOption": "ঘ",
+        "explanation": "ট্রানজিস্টরের সব বৈশিষ্ট্য সঠিক।",
+        "topic": "ট্রানজিস্টর",
+        "probability": "Board Favourite"
+      },
+      {
+        "questionNumber": 17,
+        "passage": null,
+        "questionText": "পূর্ণ তরঙ্গ সংশোধনকারীতে— i. দুটি ডায়োড ব্যবহৃত হয় ii. ট্রান্সফরমার সেন্টার ট্যাপযুক্ত iii. আউটপুট স্পন্দনশীল ডিসি নিচের কোনটি সঠিক?",
+        "options": [
+          "ক) i ও ii",
+          "খ) i ও iii",
+          "গ) ii ও iii",
+          "ঘ) i, ii ও iii"
+        ],
+        "correctOption": "ঘ",
+        "explanation": "পূর্ণ তরঙ্গ রেকটিফায়ারের বৈশিষ্ট্য তিনটিই সঠিক।",
+        "topic": "রেকটিফায়ার",
+        "probability": "Very Hot"
+      },
+      {
+        "questionNumber": 18,
+        "passage": null,
+        "questionText": "স্থির তড়িৎ ক্ষেত্রের ক্ষেত্রে— i. বলরেখা ধনাত্মক আধান থেকে নির্গত হয়ে ঋণাত্মক আধানে শেষ হয় ii. বলরেখা কখনো পরস্পরকে ছেদ করে না iii. বলরেখার ঘনত্ব তড়িৎ ক্ষেত্রের মান নির্দেশ করে নিচের কোনটি সঠিক?",
+        "options": [
+          "ক) i ও ii",
+          "খ) i ও iii",
+          "গ) ii ও iii",
+          "ঘ) i, ii ও iii"
+        ],
+        "correctOption": "ঘ",
+        "explanation": "তড়িৎ বলরেখার ধর্ম তিনটিই সঠিক।",
+        "topic": "স্থির তড়িৎ",
+        "probability": "Board Favourite"
+      },
+      {
+        "questionNumber": 19,
+        "passage": null,
+        "questionText": "তেজস্ক্রিয়তার একক— i. বেকারেল ii. কুরি iii. গ্রে (Gray) নিচের কোনটি সঠিক?",
+        "options": [
+          "ক) i ও ii",
+          "খ) i ও iii",
+          "গ) ii ও iii",
+          "ঘ) i, ii ও iii"
+        ],
+        "correctOption": "ক",
+        "explanation": "বেকারেল ও কুরি তেজস্ক্রিয়তার একক; গ্রে শোষিত ডোজের একক।",
+        "topic": "আধুনিক পদার্থ",
+        "probability": "Very Hot"
+      },
+      {
+        "questionNumber": 20,
+        "passage": null,
+        "questionText": "চৌম্বক ক্ষেত্র ও তড়িৎ ক্ষেত্রের সম্পর্কিত সঠিক উক্তি— i. তড়িৎ ক্ষেত্র স্থির আধানের জন্য, চৌম্বক ক্ষেত্র গতিশীল আধানের জন্য ii. স্থির আধান চৌম্বক ক্ষেত্র সৃষ্টি করে না iii. চৌম্বক ক্ষেত্র আধানের উপর বল প্রয়োগ করতে পারে শুধু যদি আধানটি গতিশীল থাকে নিচের কোনটি সঠিক?",
+        "options": [
+          "ক) i ও ii",
+          "খ) i ও iii",
+          "গ) ii ও iii",
+          "ঘ) i, ii ও iii"
+        ],
+        "correctOption": "ঘ",
+        "explanation": "তিনটিই সঠিক।",
+        "topic": "চৌম্বকত্ব",
+        "probability": "Board Favourite"
+      },
+      {
+        "questionNumber": 21,
+        "passage": null,
+        "questionText": "1 Ω ও 2 Ω রোধ সিরিজে যুক্ত, তাদের তুল্য রোধ R₁; একই রোধদ্বয় সমান্তরালে থাকলে তুল্য রোধ R₂। R₁ : R₂ কত?",
+        "options": [
+          "ক) 9:2",
+          "খ) 2:9",
+          "গ) 3:1",
+          "ঘ) 1:3"
+        ],
+        "correctOption": "ক",
+        "explanation": "R₁ = 3 Ω, R₂ = 2/3 Ω → R₁:R₂ = 3 : 2/3 = 9:2",
+        "topic": "চল তড়িৎ",
+        "probability": "Mega Hot"
+      },
+      {
+        "questionNumber": 22,
+        "passage": null,
+        "questionText": "একটি ইলেকট্রনের ডি-ব্রগলি তরঙ্গদৈর্ঘ্য 0.5 nm হলে এর গতিশক্তি প্রায়—",
+        "options": [
+          "ক) 6.0 eV",
+          "খ) 3.0 eV",
+          "গ) 1.5 eV",
+          "ঘ) 12.0 eV"
+        ],
+        "correctOption": "ক",
+        "explanation": "λ = 0.5 nm = 5 Å → E ≈ (12.27/5)² ≈ 6.0 eV",
+        "topic": "আধুনিক পদার্থ",
+        "probability": "Very Hot"
+      },
+      {
+        "questionNumber": 23,
+        "passage": null,
+        "questionText": "এক্স-রে নল থেকে নির্গত এক্স-রে-র সর্বনিম্ন তরঙ্গদৈর্ঘ্য নির্ভর করে—",
+        "options": [
+          "ক) ফিলামেন্ট তাপমাত্রার উপর",
+          "খ) টার্গেট ধাতুর উপর",
+          "গ) প্রয়োগকৃত বিভবের উপর",
+          "ঘ) নলের আকারের উপর"
+        ],
+        "correctOption": "গ",
+        "explanation": "λ_min = hc/eV, প্রয়োগকৃত বিভবের উপর নির্ভরশীল।",
+        "topic": "আধুনিক পদার্থ",
+        "probability": "Board Favourite"
+      },
+      {
+        "questionNumber": 24,
+        "passage": null,
+        "questionText": "দুটি সমান রোধ সমান্তরালে যুক্ত করলে তুল্য রোধ 2 Ω। রোধ দুটি সিরিজে যুক্ত করলে তুল্য রোধ কত?",
+        "options": [
+          "ক) 2 Ω",
+          "খ) 4 Ω",
+          "গ) 8 Ω",
+          "ঘ) 1 Ω"
+        ],
+        "correctOption": "গ",
+        "explanation": "সমান্তরালে R/2 = 2 → R = 4 Ω, সিরিজে 4+4 = 8 Ω",
+        "topic": "চল তড়িৎ",
+        "probability": "Mega Hot"
+      },
+      {
+        "questionNumber": 25,
+        "passage": null,
+        "questionText": "সৌর কোষের কার্যপ্রণালী কোন নীতির উপর ভিত্তি করে?",
+        "options": [
+          "ক) ফটোইলেকট্রিক ক্রিয়া",
+          "খ) ফটোভোলটেইক ক্রিয়া",
+          "গ) তাপীয় আয়নীকরণ",
+          "ঘ) তড়িৎচুম্বকীয় আবেশ"
+        ],
+        "correctOption": "খ",
+        "explanation": "সৌর কোষ ফটোভোলটেইক ক্রিয়ায় কাজ করে।",
+        "topic": "অর্ধপরিবাহী",
+        "probability": "Board Favourite"
+      }
+    ]
+  },
+  {
+    "setNumber": 9,
+    "questions": [
+      {
+        "questionNumber": 1,
+        "passage": "একটি সার্কিটে 2 Ω ও 3 Ω রোধ সমান্তরালে যুক্ত এবং তাদের সাথে সিরিজে 4 Ω রোধ আছে। পুরো নেটওয়ার্ক 10 V ব্যাটারির সাথে যুক্ত (অভ্যন্তরীণ রোধ 0)।",
+        "questionText": "4 Ω রোধের মধ্য দিয়ে তড়িৎ প্রবাহ কত?",
+        "options": [
+          "ক) 1 A",
+          "খ) 1.92 A",
+          "গ) 2 A",
+          "ঘ) 2.5 A"
+        ],
+        "correctOption": "খ",
+        "explanation": "R_eq = 1.2 + 4 = 5.2 Ω, I = 10/5.2 ≈ 1.92 A",
+        "topic": "চল তড়িৎ",
+        "probability": "Mega Hot"
+      },
+      {
+        "questionNumber": 2,
+        "passage": "একটি সার্কিটে 2 Ω ও 3 Ω রোধ সমান্তরালে যুক্ত এবং তাদের সাথে সিরিজে 4 Ω রোধ আছে। পুরো নেটওয়ার্ক 10 V ব্যাটারির সাথে যুক্ত (অভ্যন্তরীণ রোধ 0)।",
+        "questionText": "2 Ω রোধের প্রান্তীয় বিভব পার্থক্য কত?",
+        "options": [
+          "ক) 2.31 V",
+          "খ) 3.46 V",
+          "গ) 4.62 V",
+          "ঘ) 5.77 V"
+        ],
+        "correctOption": "ক",
+        "explanation": "V_parallel = I × 1.2 ≈ 2.31 V",
+        "topic": "চল তড়িৎ",
+        "probability": "Very Hot"
+      },
+      {
+        "questionNumber": 3,
+        "passage": "সোডিয়ামের জন্য সূচন কম্পাঙ্ক 5.5×10¹⁴ Hz। একটি অতিবেগুনী আলো 8.0×10¹⁴ Hz কম্পাঙ্কে আপতিত হয়। (h = 6.63×10⁻³⁴ Js)",
+        "questionText": "আপতিত ফোটনের শক্তি কত?",
+        "options": [
+          "ক) 3.31 eV",
+          "খ) 2.07 eV",
+          "গ) 5.30 eV",
+          "ঘ) 1.66 eV"
+        ],
+        "correctOption": "ক",
+        "explanation": "E = hf = 6.63×10⁻³⁴ × 8×10¹⁴ = 5.304×10⁻¹⁹ J = 3.31 eV",
+        "topic": "ফটোইলেকট্রিক",
+        "probability": "Mega Hot"
+      },
+      {
+        "questionNumber": 4,
+        "passage": "সোডিয়ামের জন্য সূচন কম্পাঙ্ক 5.5×10¹⁴ Hz। একটি অতিবেগুনী আলো 8.0×10¹⁴ Hz কম্পাঙ্কে আপতিত হয়। (h = 6.63×10⁻³⁴ Js)",
+        "questionText": "নির্গত ইলেকট্রনের সর্বোচ্চ গতিশক্তি কত?",
+        "options": [
+          "ক) 1.04 eV",
+          "খ) 3.65 eV",
+          "গ) 2.28 eV",
+          "ঘ) 0.52 eV"
+        ],
+        "correctOption": "ক",
+        "explanation": "φ = h×5.5×10¹⁴ ≈ 2.28 eV, K_max = 3.31 - 2.28 ≈ 1.04 eV",
+        "topic": "ফটোইলেকট্রিক",
+        "probability": "Very Hot"
+      },
+      {
+        "questionNumber": 5,
+        "passage": null,
+        "questionText": "একটি ধারকের ধারকত্ব 2 μF। একে 10 V বিভবে চার্জ করলে সঞ্চিত শক্তি কত?",
+        "options": [
+          "ক) 0.0001 J",
+          "খ) 0.0002 J",
+          "গ) 0.001 J",
+          "ঘ) 0.01 J"
+        ],
+        "correctOption": "ক",
+        "explanation": "U = ½ C V² = 0.5×2×10⁻⁶×100 = 1×10⁻⁴ J",
+        "topic": "স্থির তড়িৎ",
+        "probability": "Mega Hot"
+      },
+      {
+        "questionNumber": 6,
+        "passage": null,
+        "questionText": "নিচের কোনটি চৌম্বক ফ্লাক্সের একক?",
+        "options": [
+          "ক) টেসলা",
+          "খ) ওয়েবার",
+          "গ) হেনরি",
+          "ঘ) অ্যাম্পিয়ার-মিটার"
+        ],
+        "correctOption": "খ",
+        "explanation": "চৌম্বক ফ্লাক্সের SI একক ওয়েবার।",
+        "topic": "চৌম্বকত্ব",
+        "probability": "Board Favourite"
+      },
+      {
+        "questionNumber": 7,
+        "passage": null,
+        "questionText": "একটি ট্রান্সফরমারে মুখ্য ও গৌণ কুণ্ডলীর পাক সংখ্যা যথাক্রমে 1000 ও 200। মুখ্য বিভব 220 V হলে গৌণ বিভব কত?",
+        "options": [
+          "ক) 1100 V",
+          "খ) 44 V",
+          "গ) 22 V",
+          "ঘ) 440 V"
+        ],
+        "correctOption": "খ",
+        "explanation": "V_s = V_p × (N_s/N_p) = 220 × (200/1000) = 44 V",
+        "topic": "ট্রান্সফরমার",
+        "probability": "Board Favourite"
+      },
+      {
+        "questionNumber": 8,
+        "passage": null,
+        "questionText": "বোরের পরমাণু মডেল অনুসারে, ইলেকট্রনের কক্ষপথের ব্যাসার্ধ r_n ∝ n²। দ্বিতীয় কক্ষপথের ব্যাসার্ধ প্রথম কক্ষপথের কত গুণ?",
+        "options": [
+          "ক) 2 গুণ",
+          "খ) 4 গুণ",
+          "গ) 8 গুণ",
+          "ঘ) 16 গুণ"
+        ],
+        "correctOption": "খ",
+        "explanation": "n=2 → r₂ ∝ 4, তাই 4 গুণ।",
+        "topic": "আধুনিক পদার্থ",
+        "probability": "Board Favourite"
+      },
+      {
+        "questionNumber": 9,
+        "passage": null,
+        "questionText": "ফটোইলেকট্রিক ক্রিয়ায় নিবৃত্তি বিভব 2 V হলে ইলেকট্রনের সর্বোচ্চ গতিশক্তি—",
+        "options": [
+          "ক) 2 J",
+          "খ) 2 eV",
+          "গ) 3.2 eV",
+          "ঘ) 1 eV"
+        ],
+        "correctOption": "খ",
+        "explanation": "K_max = e × V_stop = 2 eV",
+        "topic": "ফটোইলেকট্রিক",
+        "probability": "Board Favourite"
+      },
+      {
+        "questionNumber": 10,
+        "passage": null,
+        "questionText": "একটি চলকুণ্ডলী গ্যালভানোমিটারে বিক্ষেপ θ সমানুপাতিক—",
+        "options": [
+          "ক) তড়িৎ প্রবাহ I",
+          "খ) I²",
+          "গ) √I",
+          "ঘ) 1/I"
+        ],
+        "correctOption": "ক",
+        "explanation": "বিক্ষেপ তড়িৎ প্রবাহের সমানুপাতিক।",
+        "topic": "চৌম্বকত্ব (গ্যালভানোমিটার)",
+        "probability": "Board Favourite"
+      },
+      {
+        "questionNumber": 11,
+        "passage": null,
+        "questionText": "লজিক গেট AND এর আউটপুট 1 হবে যখন—",
+        "options": [
+          "ক) যেকোনো একটি ইনপুট 1",
+          "খ) উভয় ইনপুট 1",
+          "গ) উভয় ইনপুট 0",
+          "ঘ) অন্তত একটি ইনপুট 0"
+        ],
+        "correctOption": "খ",
+        "explanation": "AND আউটপুট 1 কেবল A=1 এবং B=1।",
+        "topic": "লজিক গেট",
+        "probability": "Board Favourite"
+      },
+      {
+        "questionNumber": 12,
+        "passage": null,
+        "questionText": "একটি রেফ্রিজারেটর 270 K ও 300 K তাপমাত্রার মধ্যে কাজ করে। COP কত?",
+        "options": [
+          "ক) 9",
+          "খ) 10",
+          "গ) 0.9",
+          "ঘ) 0.1"
+        ],
+        "correctOption": "ক",
+        "explanation": "COP = T_c/(T_h - T_c) = 270/30 = 9",
+        "topic": "তাপগতিবিদ্যা",
+        "probability": "Mega Hot"
+      },
+      {
+        "questionNumber": 13,
+        "passage": null,
+        "questionText": "নিচের কোনটি সঠিক নয়? i. আলোর অপবর্তন তরঙ্গ প্রকৃতি প্রমাণ করে ii. আলোর পোলারায়ণ অনুপ্রস্থ তরঙ্গ প্রমাণ করে iii. ব্যতিচার কণা প্রকৃতি প্রমাণ করে",
+        "options": [
+          "ক) i",
+          "খ) ii",
+          "গ) iii",
+          "ঘ) i ও ii"
+        ],
+        "correctOption": "গ",
+        "explanation": "ব্যতিচার তরঙ্গ প্রকৃতি প্রমাণ করে, কণা নয়।",
+        "topic": "আলোকবিজ্ঞান",
+        "probability": "Conceptual Trap"
+      },
+      {
+        "questionNumber": 14,
+        "passage": null,
+        "questionText": "100 W, 220 V বাল্ব এবং 60 W, 220 V বাল্ব সিরিজে যুক্ত করলে কোনটি বেশি উজ্জ্বল হবে?",
+        "options": [
+          "ক) 100 W",
+          "খ) 60 W",
+          "গ) উভয় সমান",
+          "ঘ) কোনোটিই জ্বলবে না"
+        ],
+        "correctOption": "খ",
+        "explanation": "সিরিজে রোধ বেশি (60 W) বাল্বে বেশি ভোল্টেজ ড্রপ, বেশি উজ্জ্বল।",
+        "topic": "চল তড়িৎ",
+        "probability": "Conceptual Trap"
+      },
+      {
+        "questionNumber": 15,
+        "passage": null,
+        "questionText": "তড়িৎ ক্ষেত্রের প্রভাবে P-N জংশনে— i. ইলেকট্রন N থেকে P-তে ধাবিত হয় না বিভব পর্দার কারণে ii. সম্মুখ বায়াসে বিভব পর্দা হ্রাস পায় iii. বিপরীত বায়াসে সংখ্যালঘু বাহক প্রবাহ থাকে নিচের কোনটি সঠিক?",
+        "options": [
+          "ক) i ও ii",
+          "খ) i ও iii",
+          "গ) ii ও iii",
+          "ঘ) i, ii ও iii"
+        ],
+        "correctOption": "ঘ",
+        "explanation": "P-N জংশনের তিনটি বৈশিষ্ট্যই সঠিক।",
+        "topic": "অর্ধপরিবাহী",
+        "probability": "Mega Hot"
+      },
+      {
+        "questionNumber": 16,
+        "passage": null,
+        "questionText": "সমোষ্ণ প্রক্রিয়ায়— i. তাপমাত্রা স্থির থাকে ii. PV = ধ্রুবক iii. কৃত কাজ = nRT ln(V₂/V₁) নিচের কোনটি সঠিক?",
+        "options": [
+          "ক) i ও ii",
+          "খ) i ও iii",
+          "গ) ii ও iii",
+          "ঘ) i, ii ও iii"
+        ],
+        "correctOption": "ঘ",
+        "explanation": "সমোষ্ণ প্রক্রিয়ার সব বৈশিষ্ট্য সঠিক।",
+        "topic": "তাপগতিবিদ্যা",
+        "probability": "Board Favourite"
+      },
+      {
+        "questionNumber": 17,
+        "passage": null,
+        "questionText": "ফ্যারাডের তড়িৎচুম্বকীয় আবেশ সূত্র— i. ε = -N dΦ/dt ii. পরিবর্তনশীল চৌম্বক ফ্লাক্স প্রয়োজন iii. আবিষ্ট তড়িচ্চালক বল কুণ্ডলীর পাকসংখ্যার সমানুপাতিক নিচের কোনটি সঠিক?",
+        "options": [
+          "ক) i ও ii",
+          "খ) i ও iii",
+          "গ) ii ও iii",
+          "ঘ) i, ii ও iii"
+        ],
+        "correctOption": "ঘ",
+        "explanation": "ফ্যারাডের সূত্রের সব বিবৃতি সঠিক।",
+        "topic": "তড়িৎচুম্বকীয় আবেশ",
+        "probability": "Mega Hot"
+      },
+      {
+        "questionNumber": 18,
+        "passage": null,
+        "questionText": "একটি নিউক্লীয় বিক্রিয়ায় ভর ত্রুটি Δm হলে নির্গত শক্তি— i. ΔE = Δm c² ii. বন্ধন শক্তি হিসাবে প্রকাশ করা হয় iii. শক্তির একক MeV ব্যবহৃত হয় নিচের কোনটি সঠিক?",
+        "options": [
+          "ক) i ও ii",
+          "খ) i ও iii",
+          "গ) ii ও iii",
+          "ঘ) i, ii ও iii"
+        ],
+        "correctOption": "ঘ",
+        "explanation": "তিনটিই সঠিক।",
+        "topic": "আধুনিক পদার্থ",
+        "probability": "Mega Hot"
+      },
+      {
+        "questionNumber": 19,
+        "passage": null,
+        "questionText": "তড়িৎ ফ্লাক্সের একক—",
+        "options": [
+          "ক) N·m²/C",
+          "খ) N·m/C",
+          "গ) C/m²",
+          "ঘ) N/C"
+        ],
+        "correctOption": "ক",
+        "explanation": "ফ্লাক্স = E·A, একক N·m²/C।",
+        "topic": "স্থির তড়িৎ",
+        "probability": "Board Favourite"
+      },
+      {
+        "questionNumber": 20,
+        "passage": null,
+        "questionText": "ট্রানজিস্টরের গঠনে— i. নিঃসারক উচ্চ ডোপড ii. বেস অঞ্চল পাতলা ও হালকা ডোপড iii. সংগ্রাহক অঞ্চল বড় নিচের কোনটি সঠিক?",
+        "options": [
+          "ক) i ও ii",
+          "খ) i ও iii",
+          "গ) ii ও iii",
+          "ঘ) i, ii ও iii"
+        ],
+        "correctOption": "ঘ",
+        "explanation": "ট্রানজিস্টরের গঠনগত বৈশিষ্ট্য তিনটিই সঠিক।",
+        "topic": "ট্রানজিস্টর",
+        "probability": "Board Favourite"
+      },
+      {
+        "questionNumber": 21,
+        "passage": null,
+        "questionText": "একই উপাদানের দুটি তারের ব্যাসার্ধ r₁:r₂ = 1:2 এবং দৈর্ঘ্য সমান। রোধের অনুপাত R₁:R₂ কত?",
+        "options": [
+          "ক) 1:2",
+          "খ) 2:1",
+          "গ) 1:4",
+          "ঘ) 4:1"
+        ],
+        "correctOption": "ঘ",
+        "explanation": "R ∝ 1/r², r₁/r₂=1/2 → R₁/R₂ = (2/1)² = 4:1",
+        "topic": "চল তড়িৎ",
+        "probability": "Mega Hot"
+      },
+      {
+        "questionNumber": 22,
+        "passage": null,
+        "questionText": "1 eV সমতুল্য—",
+        "options": [
+          "ক) 1.6×10⁻¹⁹ J",
+          "খ) 1.6×10⁻¹⁹ erg",
+          "গ) 9.1×10⁻³¹ J",
+          "ঘ) 1.6×10⁻¹³ J"
+        ],
+        "correctOption": "ক",
+        "explanation": "1 eV = 1.6×10⁻¹⁹ J",
+        "topic": "একক",
+        "probability": "Board Favourite"
+      },
+      {
+        "questionNumber": 23,
+        "passage": null,
+        "questionText": "একটি স্থির তড়িৎ ক্ষেত্রে বিভবের একক—",
+        "options": [
+          "ক) জুল/কুলম্ব",
+          "খ) নিউটন/কুলম্ব",
+          "গ) ভোল্ট/মিটার",
+          "ঘ) কুলম্ব/ভোল্ট"
+        ],
+        "correctOption": "ক",
+        "explanation": "বিভব = শক্তি/আধান, একক J/C বা ভোল্ট।",
+        "topic": "একক",
+        "probability": "Board Favourite"
+      },
+      {
+        "questionNumber": 24,
+        "passage": null,
+        "questionText": "জুল উত্তাপের সূত্র H = I² R t ব্যবহার করে বলা যায়, একই তড়িৎ প্রবাহ ও সময়ের জন্য উৎপন্ন তাপ—",
+        "options": [
+          "ক) রোধের ব্যস্তানুপাতিক",
+          "খ) রোধের সমানুপাতিক",
+          "গ) রোধের উপর নির্ভরশীল নয়",
+          "ঘ) বিভবের সমানুপাতিক"
+        ],
+        "correctOption": "খ",
+        "explanation": "H ∝ R, একই I ও t এর জন্য।",
+        "topic": "চল তড়িৎ",
+        "probability": "Board Favourite"
+      },
+      {
+        "questionNumber": 25,
+        "passage": null,
+        "questionText": "নিউক্লীয় ফিউশনের ক্ষেত্রে—",
+        "options": [
+          "ক) নিম্ন তাপমাত্রা প্রয়োজন",
+          "খ) কোন শক্তি নির্গত হয় না",
+          "গ) ছোট নিউক্লিয়াস যুক্ত হয়ে বড় নিউক্লিয়াস গঠন করে",
+          "ঘ) তেজস্ক্রিয় বর্জ্য তৈরি হয় না"
+        ],
+        "correctOption": "গ",
+        "explanation": "ফিউশনে ছোট নিউক্লিয়াস মিলে বড় নিউক্লিয়াস গঠন করে।",
+        "topic": "আধুনিক পদার্থ",
+        "probability": "Mega Hot"
+      }
+    ]
+  },
+  {
+    "setNumber": 10,
+    "questions": [
+      {
+        "questionNumber": 1,
+        "passage": "একটি ট্রান্সফরমারের মুখ্য কুণ্ডলীর পাকসংখ্যা 500, গৌণ কুণ্ডলীর পাকসংখ্যা 50। মুখ্য কুণ্ডলীকে 220 V এসি উৎসের সাথে যুক্ত করা হলো।",
+        "questionText": "গৌণ কুণ্ডলীর প্রাপ্ত বিভব কত?",
+        "options": [
+          "ক) 22 V",
+          "খ) 44 V",
+          "গ) 11 V",
+          "ঘ) 2200 V"
+        ],
+        "correctOption": "ক",
+        "explanation": "V_s = 220 × (50/500) = 22 V",
+        "topic": "ট্রান্সফরমার",
+        "probability": "Mega Hot"
+      },
+      {
+        "questionNumber": 2,
+        "passage": "একটি ট্রান্সফরমারের মুখ্য কুণ্ডলীর পাকসংখ্যা 500, গৌণ কুণ্ডলীর পাকসংখ্যা 50। মুখ্য কুণ্ডলীকে 220 V এসি উৎসের সাথে যুক্ত করা হলো।",
+        "questionText": "গৌণ কুণ্ডলীতে 5 Ω রোধের লোড যুক্ত করলে গৌণ বর্তনীর প্রবাহ কত? (ট্রান্সফরমার আদর্শ ধরে)",
+        "options": [
+          "ক) 4.4 A",
+          "খ) 8.8 A",
+          "গ) 22 A",
+          "ঘ) 2.2 A"
+        ],
+        "correctOption": "ক",
+        "explanation": "I_s = V_s / R = 22/5 = 4.4 A",
+        "topic": "ট্রান্সফরমার",
+        "probability": "Very Hot"
+      },
+      {
+        "questionNumber": 3,
+        "passage": "একটি ইয়ং-এর দ্বি-চিড় পরীক্ষায় চিড় দুইটির দূরত্ব 0.8 mm, পর্দা 2 m দূরে, আলোর তরঙ্গদৈর্ঘ্য 500 nm।",
+        "questionText": "কেন্দ্রীয় চমকপ্রদ ডোরা থেকে প্রথম চমকপ্রদ ডোরার দূরত্ব কত?",
+        "options": [
+          "ক) 0.5 mm",
+          "খ) 1.0 mm",
+          "গ) 1.25 mm",
+          "ঘ) 2.5 mm"
+        ],
+        "correctOption": "গ",
+        "explanation": "β = λD/d = (500×10⁻⁹×2)/(0.8×10⁻³) = 1.25 mm",
+        "topic": "আলোকবিজ্ঞান",
+        "probability": "Mega Hot"
+      },
+      {
+        "questionNumber": 4,
+        "passage": "একটি ইয়ং-এর দ্বি-চিড় পরীক্ষায় চিড় দুইটির দূরত্ব 0.8 mm, পর্দা 2 m দূরে, আলোর তরঙ্গদৈর্ঘ্য 500 nm।",
+        "questionText": "একই বিন্যাসে 500 nm এর পরিবর্তে 400 nm আলো ব্যবহার করলে ডোরার ব্যবধান কত হবে?",
+        "options": [
+          "ক) 0.625 mm",
+          "খ) 1.0 mm",
+          "গ) 1.25 mm",
+          "ঘ) 2.0 mm"
+        ],
+        "correctOption": "খ",
+        "explanation": "β' = (400/500)×1.25 = 1.0 mm",
+        "topic": "আলোকবিজ্ঞান",
+        "probability": "Very Hot"
+      },
+      {
+        "questionNumber": 5,
+        "passage": null,
+        "questionText": "একই তাপমাত্রায় একটি ইলেকট্রন ও একটি প্রোটনের গড় গতিশক্তি—",
+        "options": [
+          "ক) ইলেকট্রনের বেশি",
+          "খ) প্রোটনের বেশি",
+          "গ) সমান",
+          "ঘ) তুলনা করা যায় না"
+        ],
+        "correctOption": "গ",
+        "explanation": "তাপীয় সাম্যাবস্থায় গড় গতিশক্তি = (3/2)kT, ভরের উপর নির্ভর করে না।",
+        "topic": "তাপগতিবিদ্যা/গতিতত্ত্ব",
+        "probability": "Conceptual Trap"
+      },
+      {
+        "questionNumber": 6,
+        "passage": null,
+        "questionText": "নিচের কোনটি সঠিক? i. ট্রানজিস্টর আবিস্কার করেন ব্রাটেইন, বারডিন ও শকলে ii. তড়িৎ আবেশ মটর ডিসিকে এসিতে রূপান্তর করে iii. ডায়োড রেকটিফায়ার হিসেবে কাজ করে",
+        "options": [
+          "ক) i ও ii",
+          "খ) i ও iii",
+          "গ) ii ও iii",
+          "ঘ) i, ii ও iii"
+        ],
+        "correctOption": "খ",
+        "explanation": "ii ভুল, মোটর ডিসিকে এসিতে রূপান্তর করে না।",
+        "topic": "অর্ধপরিবাহী ইতিহাস",
+        "probability": "Board Favourite"
+      },
+      {
+        "questionNumber": 7,
+        "passage": null,
+        "questionText": "রাদারফোর্ড পরমাণু মডেলের সীমাবদ্ধতা—",
+        "options": [
+          "ক) নিউক্লিয়াসের আকার ছোট",
+          "খ) ইলেকট্রনের কক্ষপথ ব্যাখ্যা করতে পারেনি",
+          "গ) তড়িৎচুম্বকীয় তত্ত্বমতে ইলেকট্রন নিউক্লিয়াসে পতিত হবে",
+          "ঘ) ভরবেগ নিত্যতা ব্যাখ্যা করতে পারেনি"
+        ],
+        "correctOption": "গ",
+        "explanation": "ত্বরণশীল ইলেকট্রন শক্তি বিকিরণ করে নিউক্লিয়াসে পতিত হবে।",
+        "topic": "আধুনিক পদার্থ",
+        "probability": "Mega Hot"
+      },
+      {
+        "questionNumber": 8,
+        "passage": null,
+        "questionText": "1 kWh শক্তি সমান কত জুল?",
+        "options": [
+          "ক) 3.6×10⁵ J",
+          "খ) 3.6×10⁶ J",
+          "গ) 1.6×10⁶ J",
+          "ঘ) 36×10⁵ J"
+        ],
+        "correctOption": "খ",
+        "explanation": "1 kWh = 1000×3600 = 3.6×10⁶ J",
+        "topic": "একক",
+        "probability": "Board Favourite"
+      },
+      {
+        "questionNumber": 9,
+        "passage": null,
+        "questionText": "পোলারায়িত আলোতে কম্পন—",
+        "options": [
+          "ক) সব দিকে সমানভাবে হয়",
+          "খ) শুধুমাত্র একটি নির্দিষ্ট তলে হয়",
+          "গ) অনুদৈর্ঘ্য",
+          "ঘ) কোনোটিই নয়"
+        ],
+        "correctOption": "খ",
+        "explanation": "সমতল পোলারায়িত আলোতে কম্পন একটিমাত্র তলে।",
+        "topic": "আলোকবিজ্ঞান",
+        "probability": "Board Favourite"
+      },
+      {
+        "questionNumber": 10,
+        "passage": null,
+        "questionText": "নিচের কোনটি সঠিক নয়? i. γ রশ্মি চৌম্বক ক্ষেত্রে বিক্ষিপ্ত হয় ii. α রশ্মি ধনাত্মক আধানযুক্ত iii. β রশ্মি ইলেকট্রন",
+        "options": [
+          "ক) i",
+          "খ) ii",
+          "গ) iii",
+          "ঘ) i ও iii"
+        ],
+        "correctOption": "ক",
+        "explanation": "γ রশ্মি আধানহীন, চৌম্বক ক্ষেত্রে বিক্ষিপ্ত হয় না।",
+        "topic": "আধুনিক পদার্থ",
+        "probability": "Conceptual Trap"
+      },
+      {
+        "questionNumber": 11,
+        "passage": null,
+        "questionText": "একটি তারের ভিতর দিয়ে 10 A তড়িৎ প্রবাহিত হচ্ছে। তারটি থেকে 2 cm দূরে চৌম্বকক্ষেত্রের মান—",
+        "options": [
+          "ক) 1×10⁻⁴ T",
+          "খ) 5×10⁻⁵ T",
+          "গ) 2×10⁻⁴ T",
+          "ঘ) 1×10⁻³ T"
+        ],
+        "correctOption": "ক",
+        "explanation": "B = μ₀I/(2πr) = (4π×10⁻⁷×10)/(2π×0.02) = 1×10⁻⁴ T",
+        "topic": "চৌম্বকত্ব",
+        "probability": "Mega Hot"
+      },
+      {
+        "questionNumber": 12,
+        "passage": null,
+        "questionText": "তাপ ইঞ্জিনের দক্ষতা বৃদ্ধি করা যায়—",
+        "options": [
+          "ক) তাপ গ্রাহকের তাপমাত্রা বাড়িয়ে",
+          "খ) উৎসের তাপমাত্রা কমিয়ে",
+          "গ) তাপ গ্রাহকের তাপমাত্রা কমিয়ে",
+          "ঘ) উৎস ও তাপ গ্রাহকের তাপমাত্রা একই রেখে"
+        ],
+        "correctOption": "গ",
+        "explanation": "η = 1 - T_c/T_h, T_c কমালে η বাড়ে।",
+        "topic": "তাপগতিবিদ্যা",
+        "probability": "Mega Hot"
+      },
+      {
+        "questionNumber": 13,
+        "passage": null,
+        "questionText": "একটি জেনার ডায়োডের ব্রেকডাউন ভোল্টেজ 6 V। এটি একটি 10 V ডিসি সোর্সের সাথে সিরিজে 1 kΩ রোধের সাথে সংযুক্ত। লোড ভোল্টেজ কত?",
+        "options": [
+          "ক) 10 V",
+          "খ) 6 V",
+          "গ) 0 V",
+          "ঘ) 4 V"
+        ],
+        "correctOption": "খ",
+        "explanation": "জেনার ডায়োড তার ব্রেকডাউন ভোল্টেজ বজায় রাখে, তাই লোডে 6 V।",
+        "topic": "অর্ধপরিবাহী",
+        "probability": "Board Favourite"
+      },
+      {
+        "questionNumber": 14,
+        "passage": null,
+        "questionText": "একটি ধারকের উপর আধান দ্বিগুণ করলে সঞ্চিত শক্তি কত গুণ হবে?",
+        "options": [
+          "ক) 2 গুণ",
+          "খ) 4 গুণ",
+          "গ) অর্ধেক",
+          "ঘ) একই"
+        ],
+        "correctOption": "খ",
+        "explanation": "U ∝ Q², Q দ্বিগুণ করলে U 4 গুণ।",
+        "topic": "স্থির তড়িৎ",
+        "probability": "Mega Hot"
+      },
+      {
+        "questionNumber": 15,
+        "passage": null,
+        "questionText": "ইলেকট্রনের ডি-ব্রগলি তরঙ্গদৈর্ঘ্য— i. ভরবেগের ব্যস্তানুপাতিক ii. λ = h/p iii. গতিশক্তির বর্গমূলের ব্যস্তানুপাতিক নিচের কোনটি সঠিক?",
+        "options": [
+          "ক) i ও ii",
+          "খ) i ও iii",
+          "গ) ii ও iii",
+          "ঘ) i, ii ও iii"
+        ],
+        "correctOption": "ঘ",
+        "explanation": "তিনটি সম্পর্কই সঠিক।",
+        "topic": "আধুনিক পদার্থ",
+        "probability": "Mega Hot"
+      },
+      {
+        "questionNumber": 16,
+        "passage": null,
+        "questionText": "একটি কৃষ্ণবস্তু 127°C তাপমাত্রায় বিকিরণ করছে। কত তাপমাত্রায় এর বিকিরণের হার দ্বিগুণ হবে?",
+        "options": [
+          "ক) 203°C",
+          "খ) 254°C",
+          "গ) 400 K",
+          "ঘ) 800 K"
+        ],
+        "correctOption": "ক",
+        "explanation": "P ∝ T⁴, T₁=400 K, T₂=400×2^(1/4)≈476 K = 203°C",
+        "topic": "তাপগতিবিদ্যা",
+        "probability": "Very Hot"
+      },
+      {
+        "questionNumber": 17,
+        "passage": null,
+        "questionText": "লেনজের সূত্র— i. শক্তির সংরক্ষণ নীতির সমর্থক ii. আবিষ্ট তড়িচ্চালক বলের দিক নির্দেশ করে iii. আবিষ্ট তড়িচ্চালক বলের মান নির্দেশ করে নিচের কোনটি সঠিক?",
+        "options": [
+          "ক) i ও ii",
+          "খ) i ও iii",
+          "গ) ii ও iii",
+          "ঘ) i, ii ও iii"
+        ],
+        "correctOption": "ক",
+        "explanation": "iii ভুল, লেনজের সূত্র দিক নির্দেশ করে, মান নয়।",
+        "topic": "তড়িৎচুম্বকীয় আবেশ",
+        "probability": "Board Favourite"
+      },
+      {
+        "questionNumber": 18,
+        "passage": null,
+        "questionText": "P-N জংশন ডায়োড— i. একমুখী তড়িৎ পরিবাহী ii. সম্মুখ বায়াসে পরিবহন করে iii. বিপরীত বায়াসে খুব কম প্রবাহ থাকে নিচের কোনটি সঠিক?",
+        "options": [
+          "ক) i ও ii",
+          "খ) i ও iii",
+          "গ) ii ও iii",
+          "ঘ) i, ii ও iii"
+        ],
+        "correctOption": "ঘ",
+        "explanation": "ডায়োডের তিনটি বৈশিষ্ট্যই সঠিক।",
+        "topic": "অর্ধপরিবাহী",
+        "probability": "Mega Hot"
+      },
+      {
+        "questionNumber": 19,
+        "passage": null,
+        "questionText": "তড়িৎ চুম্বকীয় তরঙ্গের বৈশিষ্ট্য— i. এরা অনুপ্রস্থ তরঙ্গ ii. এদের গতি শূন্যে 3×10⁸ m/s iii. এদের কোনো মাধ্যমের প্রয়োজন হয় না নিচের কোনটি সঠিক?",
+        "options": [
+          "ক) i ও ii",
+          "খ) i ও iii",
+          "গ) ii ও iii",
+          "ঘ) i, ii ও iii"
+        ],
+        "correctOption": "ঘ",
+        "explanation": "তড়িৎচুম্বকীয় তরঙ্গের সব বৈশিষ্ট্য সঠিক।",
+        "topic": "তড়িৎচুম্বকীয় তরঙ্গ",
+        "probability": "Board Favourite"
+      },
+      {
+        "questionNumber": 20,
+        "passage": null,
+        "questionText": "কার্নো ইঞ্জিন সম্পর্কে কোন উক্তিটি সঠিক নয়? i. এটি একটি বাস্তব ইঞ্জিন ii. এর দক্ষতা উৎস ও গ্রাহকের তাপমাত্রার উপর নির্ভর করে iii. এটি সর্বোচ্চ দক্ষতা সম্পন্ন ইঞ্জিন",
+        "options": [
+          "ক) i",
+          "খ) ii",
+          "গ) iii",
+          "ঘ) ii ও iii"
+        ],
+        "correctOption": "ক",
+        "explanation": "কার্নো ইঞ্জিন একটি আদর্শ ইঞ্জিন, বাস্তব নয়।",
+        "topic": "তাপগতিবিদ্যা",
+        "probability": "Mega Hot"
+      },
+      {
+        "questionNumber": 21,
+        "passage": null,
+        "questionText": "10 Ω রোধকে 5 ভাগে ভাগ করে সমান্তরালে যুক্ত করলে তুল্য রোধ কত?",
+        "options": [
+          "ক) 0.4 Ω",
+          "খ) 2 Ω",
+          "গ) 50 Ω",
+          "ঘ) 10 Ω"
+        ],
+        "correctOption": "ক",
+        "explanation": "প্রতি ভাগ 2 Ω, 5টি 2 Ω সমান্তরালে → R_eq = 2/5 = 0.4 Ω",
+        "topic": "চল তড়িৎ",
+        "probability": "Mega Hot"
+      },
+      {
+        "questionNumber": 22,
+        "passage": null,
+        "questionText": "নিচের কোনটি ফ্যারাডের ধ্রুবকের মান?",
+        "options": [
+          "ক) 96500 C/mol",
+          "খ) 9650 C",
+          "গ) 1.6×10⁻¹⁹ C",
+          "ঘ) 6.02×10²³"
+        ],
+        "correctOption": "ক",
+        "explanation": "ফ্যারাডের ধ্রুবক F = 96500 C/mol",
+        "topic": "তড়িৎ রসায়ন",
+        "probability": "Board Favourite"
+      },
+      {
+        "questionNumber": 23,
+        "passage": null,
+        "questionText": "NAND গেটের আউটপুট 1 পাওয়ার শর্ত—",
+        "options": [
+          "ক) A=1, B=1",
+          "খ) A=0, B=0",
+          "গ) A=0, B=1",
+          "ঘ) খ ও গ উভয়ই"
+        ],
+        "correctOption": "ঘ",
+        "explanation": "NAND আউটপুট 1 দেয় যদি কোনো ইনপুট 0 থাকে।",
+        "topic": "লজিক গেট",
+        "probability": "Board Favourite"
+      },
+      {
+        "questionNumber": 24,
+        "passage": null,
+        "questionText": "200 V থেকে 1000 V স্টেপ-আপ ট্রান্সফরমারে মুখ্য প্রবাহ 2 A হলে গৌণ প্রবাহ (ক্ষয়হীন ধরে)—",
+        "options": [
+          "ক) 0.4 A",
+          "খ) 10 A",
+          "গ) 4 A",
+          "ঘ) 0.2 A"
+        ],
+        "correctOption": "ক",
+        "explanation": "I_s = I_p × (V_p/V_s) = 2 × (200/1000) = 0.4 A",
+        "topic": "ট্রান্সফরমার",
+        "probability": "Mega Hot"
+      },
+      {
+        "questionNumber": 25,
+        "passage": null,
+        "questionText": "α কণার ভর সংখ্যা 4, আধান +2e। এটি একটি নির্দিষ্ট বিভব পার্থক্যে ত্বরিত করলে গতিশক্তি E। একই বিভব পার্থক্যে প্রোটন ত্বরিত করলে গতিশক্তি—",
+        "options": [
+          "ক) E/2",
+          "খ) E",
+          "গ) E/4",
+          "ঘ) 2E"
+        ],
+        "correctOption": "ক",
+        "explanation": "K = qV, α এর আধান 2e, প্রোটনের e → প্রোটনের গতিশক্তি = E/2",
+        "topic": "আধুনিক পদার্থ",
+        "probability": "Mega Hot"
+      }
+    ]
+  }
+]

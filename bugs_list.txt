@@ -1,0 +1,58 @@
+================================================================================
+DEV-QUIZ-DASHBOARD: AUDIT AND BUG REPORT
+================================================================================
+
+We ran both the Next.js frontend server (pnpm dev) and the FastAPI backend server 
+(uvicorn app.main:app) and performed compilation check via 'pnpm build' and unit
+testing via 'npx vitest run'.
+
+Here is the list of bugs, missing configurations, and setup issues found:
+
+--------------------------------------------------------------------------------
+1. MISSING BACKEND ENVIRONMENT VARIABLES (CRITICAL CONFIGURATION ERROR)
+--------------------------------------------------------------------------------
+* Location: backend/.env
+* Bug Description: The backend uvicorn logs show:
+  "[ERROR] Failed to fetch leaderboard: FIREBASE_SERVICE_ACCOUNT env is required for Firestore access"
+  Firestore reads/writes (user profiles, attempts, leaderboard) fail on localhost if
+  the 'FIREBASE_SERVICE_ACCOUNT' environment variable is missing or empty.
+* Fix:
+  The developer must generate a Service Account JSON key from the Firebase Console 
+  (Project Settings -> Service Accounts -> Generate new private key).
+  Compress the JSON into a single-line string and add it to the 'backend/.env' file:
+  FIREBASE_SERVICE_ACCOUNT={"type":"service_account","project_id":"...",...}
+
+--------------------------------------------------------------------------------
+2. MISSING PYTHON SYSTEM MODULES (RESOLVED)
+--------------------------------------------------------------------------------
+* Location: Python UCRT64 Environment
+* Bug Description: Uvicorn startup crashed because:
+  - 'google-auth' was not installed in the active environment.
+  - 'requests' was not installed (required by google-auth transport).
+* Fix: 
+  We successfully resolved this by installing both modules in the environment:
+  pip install google-auth requests --break-system-packages
+
+--------------------------------------------------------------------------------
+3. FRONTEND CORS ORIGIN RESTRICTIONS (DEVELOPMENT NOTE)
+--------------------------------------------------------------------------------
+* Location: backend/app/core/config.py
+* Bug Description: The backend relies on 'FRONTEND_URL' environment variable to whitelist
+  cross-origin requests. If 'FRONTEND_URL' is missing or misconfigured in production, 
+  browser will block student submissions.
+* Fix:
+  Ensure 'FRONTEND_URL' is set to the Vercel domain in your deployment env settings.
+  (In development, it automatically falls back to http://localhost:3000).
+
+--------------------------------------------------------------------------------
+4. ALL UNIT TESTS PASSING (STABLE CORE)
+--------------------------------------------------------------------------------
+* Vitest Status: 9/9 tests passed successfully!
+* Route Compilation: 85/85 Next.js pages compiled successfully.
+
+--------------------------------------------------------------------------------
+Summary:
+No TypeScript or backend python syntax errors were found in the codebase.
+The app is fully compile-stable. The only runtime blockers are local environment
+configurations (missing FIREBASE_SERVICE_ACCOUNT key).
+================================================================================

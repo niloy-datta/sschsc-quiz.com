@@ -1,0 +1,352 @@
+[
+  {
+    "id": "ssc-higher-math-ch09-set03-q01",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-09-model-test-03",
+    "text": "\\\\(A=\\\\{x:x\\\\in N, x^2+9x+20=0\\\\}\\\\) হলে \\\\(n(A)\\\\) কত?",
+    "options": [
+      "4",
+      "2",
+      "1",
+      "0"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-higher-math-ch09-set03-q02",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-09-model-test-03",
+    "text": "যদি \\\\(p=3\\\\) এবং \\\\(q=2\\\\) হয়, তবে \\\\(f(x)\\\\)-এর ডোমেইন কত?",
+    "options": [
+      "\\\\(R-{\\\\frac32}\\\\)",
+      "\\\\(R-\\\\{-\\\\frac23\\\\}\\\\)",
+      "\\\\(R-\\\\{3\\\\}\\\\)",
+      "\\\\(R\\\\)"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-higher-math-ch09-set03-q03",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-09-model-test-03",
+    "text": "$a > b$ এবং $c < 0$ হলে, নিচের কোনটি সঠিক?",
+    "options": [
+      "$ac > bc$",
+      "$ac \\ge bc$",
+      "$ac \\le bc$",
+      "$ac < bc$"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-higher-math-ch09-set03-q04",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-09-model-test-03",
+    "text": "$\\frac{x + 3}{x^2 - 6x + 5} = \\frac{A}{x - 5} - \\frac{1}{x - 1}$ হলে, $A =$ কত?",
+    "options": [
+      "-2",
+      "-1",
+      "1",
+      "2"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-higher-math-ch09-set03-q05",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-09-model-test-03",
+    "text": "$\\triangle ABC$ এর ভরকেন্দ্র $G$ হলে নিচের কোনটি সঠিক?",
+    "options": [
+      "$\\vec{AB} - \\vec{AC} = \\vec{BC}$",
+      "$\\vec{AB} + \\vec{AC} = \\vec{BC}$",
+      "$\\vec{AB} + \\vec{AC} = 2\\vec{AD}$",
+      "$\\vec{AD} + \\vec{BE} - \\vec{CF} = \\vec{0}$"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-higher-math-ch09-set03-q06",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-09-model-test-03",
+    "text": "$a > b$ এবং $c < 0$ হলে— i. $ac < bc$ ii. $ac > bc$ iii. $\\frac{a}{c} < \\frac{b}{c}$ নিচের কোনটি সঠিক?",
+    "options": [
+      "i ও ii",
+      "i ও iii",
+      "ii ও iii",
+      "i, ii ও iii"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-higher-math-ch09-set03-q07",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-09-model-test-03",
+    "text": "$3^{2x+5} = 3 \\cdot 5^{2x+4}$ হলে, $x = ?$",
+    "options": [
+      "-2",
+      "$-\\frac{3}{2}$",
+      "$\\frac{3}{2}$",
+      "2"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-higher-math-ch09-set03-q08",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-09-model-test-03",
+    "text": "দুইটি ধনাত্মক সংখ্যার বর্গের সমষ্টি 170 এবং সংখ্যাদ্বয়ের গুণফল 77 হলে, ঐ সংখ্যাদ্বয়ের বর্গের অন্তর কত?",
+    "options": [
+      "18",
+      "51",
+      "72",
+      "85"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-higher-math-ch09-set03-q09",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-09-model-test-03",
+    "text": "$\\vec{PQ} = m \\vec{RS}$ হলে— i. $\\vec{PQ} \\parallel \\vec{RS}$ ii. $\\vec{PQ}$ ও $\\vec{RS}$ সমমুখী হবে যখন $m > 0$ iii. $\\vec{PQ}$ ও $\\vec{RS}$ বিপরীতমুখী হবে যখন $m < 0$ নিচের কোনটি সঠিক?",
+    "options": [
+      "i ও ii",
+      "i ও iii",
+      "ii ও iii",
+      "i, ii ও iii"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-higher-math-ch09-set03-q10",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-09-model-test-03",
+    "text": "যদি $m, n, x > 0$ এবং $m \\neq 1, n \\neq 1$ হয়, তবে— i. $2\\log_m m + 3\\log_n n = 5$ ii. $\\log m + \\log n - \\log x = \\log \\frac{mn}{x}$ iii. $m^x = \\sqrt[3]{m^2}$ যেখানে $x = \\frac{2}{3}$ নিচের কোনটি সঠিক?",
+    "options": [
+      "i ও ii",
+      "i ও iii",
+      "ii ও iii",
+      "i, ii ও iii"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-higher-math-ch09-set03-q11",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-09-model-test-03",
+    "text": "$5^{\\log_5 \\frac{3}{2}}$ এর মান কত?",
+    "options": [
+      "2",
+      "3",
+      "5",
+      "9"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-higher-math-ch09-set03-q12",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-09-model-test-03",
+    "text": "$\\log_2 \\sqrt{8}$ এর মান কত?",
+    "options": [
+      "3",
+      "$4\\sqrt{2}$",
+      "6",
+      "$8\\sqrt{2}$"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-higher-math-ch09-set03-q13",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-09-model-test-03",
+    "text": "x এর ঘাতের ঊর্ধ্বক্রম অনুসারে বিস্তৃতিতে ২য় পদ 72 হলে, x= কত হবে?",
+    "options": [
+      "3",
+      "4",
+      "5",
+      "6"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-higher-math-ch09-set03-q14",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-09-model-test-03",
+    "text": "log 2 2 400 2 এর মান কত?",
+    "options": [
+      "2",
+      "4",
+      "6",
+      "8"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-higher-math-ch09-set03-q15",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-09-model-test-03",
+    "text": "Three circles with diameters 8 cm, 10 cm and 14 cm touch each other externally. What is the perimeter of the triangle formed by their centers?",
+    "options": [
+      "64 cm",
+      "32 cm",
+      "24 cm",
+      "16 cm"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-higher-math-ch09-set03-q16",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-09-model-test-03",
+    "text": "What is the domain of F(x) = 1/(2 - 5x)?",
+    "options": [
+      "{x in R : x >= 2/5}",
+      "{x in R : x <= 2/5}",
+      "{x in R : x > 2/5}",
+      "{x in R : x < 2/5}"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-higher-math-ch09-set03-q17",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-09-model-test-03",
+    "text": "If M = {x : x in Z and 16 < x^2 < 100}, how many subsets does M have?",
+    "options": [
+      "64",
+      "32",
+      "31",
+      "16"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-higher-math-ch09-set03-q18",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-09-model-test-03",
+    "text": "Solve l/sqrt(l^2 + n^2) + n/sqrt(l^2 + n^2) = sqrt(2), where 0 < theta < pi/2.",
+    "options": [
+      "pi/2",
+      "pi/3",
+      "pi/4",
+      "pi/6"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-higher-math-ch09-set03-q19",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-09-model-test-03",
+    "text": "If (512)^x = (64)^y, what is y : x?",
+    "options": [
+      "3 : 2",
+      "2 : 3",
+      "1 : 1",
+      "1 : 8"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-higher-math-ch09-set03-q20",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-09-model-test-03",
+    "text": "If P(x) = x^3 - x^2 - 10x - 8, which one is a factor of P(x)?",
+    "options": [
+      "x + 4",
+      "x + 2",
+      "x - 1",
+      "x - 2"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-higher-math-ch09-set03-q21",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-09-model-test-03",
+    "text": "What is the solution set of the inequality x <= 4 - x/3?",
+    "options": [
+      "{x in R : x > 3}",
+      "{x in R : x < 3}",
+      "{x in R : x <= 3}",
+      "{x in R : x >= 3}"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-higher-math-ch09-set03-q22",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-09-model-test-03",
+    "text": "What is the shape of the graph of f(x) = x^2 + 2x + 6?",
+    "options": [
+      "Parabola",
+      "Circle",
+      "Ellipse",
+      "Straight line"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-higher-math-ch09-set03-q23",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-09-model-test-03",
+    "text": "What is the inverse function of f(y) = 5^y?",
+    "options": [
+      "log_5 y",
+      "log_5 x",
+      "log_y 5",
+      "log_x 5"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-higher-math-ch09-set03-q24",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-09-model-test-03",
+    "text": "If slope = -1/5 and y-intercept = 3, what is the equation of the line?",
+    "options": [
+      "5y - x = 3",
+      "5y - x = 15",
+      "5y + x = 3",
+      "5y + x = 15"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-higher-math-ch09-set03-q25",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-09-model-test-03",
+    "text": "If vector AB = a, then vector AB + vector BA = ?",
+    "options": [
+      "2a",
+      "-2a",
+      "0",
+      "2"
+    ],
+    "image": null,
+    "timeLimit": 45
+  }
+]

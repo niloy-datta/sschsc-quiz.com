@@ -1,0 +1,1905 @@
+{
+  "level": "ssc",
+  "subject": "biology",
+  "examYear": 2026,
+  "title": "SSC Biology Board Standard Model Tests",
+  "description": "Converted from uploaded SSC Biology board-standard MCQ text into implementation-ready JSON.",
+  "source": {
+    "uploadedFile": "Pasted text(8).txt",
+    "note": "User-provided Biology MCQ text converted to JSON."
+  },
+  "schemaVersion": "1.0",
+  "totalModelTests": 2,
+  "totalQuestions": 50,
+  "modelTests": [
+    {
+      "setNo": 1,
+      "id": "ssc-biology-board-standard-set-01",
+      "displayTitle": "Model Test 01",
+      "title": "SET 01 — SSC Biology Board Standard MCQ",
+      "durationMinutes": 25,
+      "questionCount": 25,
+      "questions": [
+        {
+          "id": "ssc-biology-board-standard-set-01-q01",
+          "questionNo": 1,
+          "question": "অঙ্গাণু 'A' এর নাম কী?",
+          "options": [
+            {
+              "label": "ক",
+              "text": "রাইবোজোম"
+            },
+            {
+              "label": "খ",
+              "text": "মাইটোকন্ড্রিয়া"
+            },
+            {
+              "label": "গ",
+              "text": "লাইসোজোম"
+            },
+            {
+              "label": "ঘ",
+              "text": "গলজি বডি"
+            }
+          ],
+          "correctOption": "খ",
+          "answerIndex": 1,
+          "chapter": "2",
+          "topic": "Cell organelles",
+          "difficulty": "Easy",
+          "whyImportant": "শক্তির উৎস হিসেবে মাইটোকন্ড্রিয়া সম্পর্কিত প্রশ্ন প্রায় প্রতিটি বোর্ড পরীক্ষায় আসে।",
+          "stimulusId": "set-01-stimulus-01",
+          "stimulus": "উদ্দীপক ১: নিচের উদ্দীপকটি পড়ো এবং ১ ও ২ নং প্রশ্নের উত্তর দাও:\nশিক্ষক ক্লাসে এমন দুটি কোষীয় অঙ্গাণুর কথা বললেন, যার একটি (A) কোষে শক্তি উৎপাদন করে এবং অপরটি (B) উদ্ভিদ কোষে খাদ্য তৈরিতে সাহায্য করে।",
+          "questionType": "stimulus",
+          "marks": 1
+        },
+        {
+          "id": "ssc-biology-board-standard-set-01-q02",
+          "questionNo": 2,
+          "question": "জীবজগতে 'B' অঙ্গাণুটির ভূমিকা বিশ্লেষণ করলে দেখা যায়—\ni. এটি সৌরশক্তিকে রাসায়নিক শক্তিতে রূপান্তর করে\nii. এটি প্রাণী কোষে শর্করা জাতীয় খাদ্য সঞ্চয় করে\niii. এটি পরিবেশের O2 ও CO2 এর ভারসাম্য রক্ষায় সাহায্য করে\nনিচের কোনটি সঠিক?",
+          "options": [
+            {
+              "label": "ক",
+              "text": "i ও ii"
+            },
+            {
+              "label": "খ",
+              "text": "i ও iii"
+            },
+            {
+              "label": "গ",
+              "text": "ii ও iii"
+            },
+            {
+              "label": "ঘ",
+              "text": "i, ii ও iii"
+            }
+          ],
+          "correctOption": "খ",
+          "answerIndex": 1,
+          "chapter": "2 & 4",
+          "topic": "Chloroplast & Photosynthesis",
+          "difficulty": "Application",
+          "whyImportant": "অঙ্গাণুর কাজ এবং পরিবেশের সাথে এর আন্তঃসম্পর্ক যাচাই করার জন্য এটি একটি স্ট্যান্ডার্ড উচ্চতর দক্ষতার প্রশ্ন।",
+          "stimulusId": "set-01-stimulus-01",
+          "stimulus": "উদ্দীপক ১: নিচের উদ্দীপকটি পড়ো এবং ১ ও ২ নং প্রশ্নের উত্তর দাও:\nশিক্ষক ক্লাসে এমন দুটি কোষীয় অঙ্গাণুর কথা বললেন, যার একটি (A) কোষে শক্তি উৎপাদন করে এবং অপরটি (B) উদ্ভিদ কোষে খাদ্য তৈরিতে সাহায্য করে।",
+          "questionType": "stimulus",
+          "marks": 1
+        },
+        {
+          "id": "ssc-biology-board-standard-set-01-q03",
+          "questionNo": 3,
+          "question": "মানবদেহের রক্তের স্বাভাবিক pH মান কত?",
+          "options": [
+            {
+              "label": "ক",
+              "text": "৬.৮"
+            },
+            {
+              "label": "খ",
+              "text": "৭.০"
+            },
+            {
+              "label": "গ",
+              "text": "৭.৪"
+            },
+            {
+              "label": "ঘ",
+              "text": "৮.৪"
+            }
+          ],
+          "correctOption": "গ",
+          "answerIndex": 2,
+          "chapter": "6",
+          "topic": "Blood properties",
+          "difficulty": "Easy",
+          "whyImportant": "২০২২ ও ২০২৩ সালে সিলেট, কুমিল্লা ও বরিশাল বোর্ডে এটি একাধিকবার এসেছে।",
+          "questionType": "regular",
+          "marks": 1
+        },
+        {
+          "id": "ssc-biology-board-standard-set-01-q04",
+          "questionNo": 4,
+          "question": "মানবদেহে রক্ত সঞ্চালনের সঠিক গতিপথ কোনটি?",
+          "options": [
+            {
+              "label": "ক",
+              "text": "হৃৎপিণ্ড → শিরা → কৈশিকনালি → ধমনি → হৃৎপিণ্ড"
+            },
+            {
+              "label": "খ",
+              "text": "হৃৎপিণ্ড → ধমনি → কৈশিকনালি → শিরা → হৃৎপিণ্ড"
+            },
+            {
+              "label": "গ",
+              "text": "শিরা → হৃৎপিণ্ড → ধমনি → কৈশিকনালি → শিরা"
+            },
+            {
+              "label": "ঘ",
+              "text": "ধমনি → শিরা → হৃৎপিণ্ড → কৈশিকনালি → ধমনি"
+            }
+          ],
+          "correctOption": "খ",
+          "answerIndex": 1,
+          "chapter": "6",
+          "topic": "Blood circulation",
+          "difficulty": "Medium",
+          "whyImportant": "মানবদেহে রক্ত কীভাবে পরিবাহিত হয়, তার সিকোয়েন্স বা ক্রমভিত্তিক প্রশ্ন এটি।",
+          "questionType": "regular",
+          "marks": 1
+        },
+        {
+          "id": "ssc-biology-board-standard-set-01-q05",
+          "questionNo": 5,
+          "question": "মানবদেহের সাধারণ দেহকোষে কত জোড়া ক্রোমোজোম থাকে?",
+          "options": [
+            {
+              "label": "ক",
+              "text": "২২ জোড়া"
+            },
+            {
+              "label": "খ",
+              "text": "২৩ জোড়া"
+            },
+            {
+              "label": "গ",
+              "text": "৪৪ জোড়া"
+            },
+            {
+              "label": "ঘ",
+              "text": "৪৬ জোড়া"
+            }
+          ],
+          "correctOption": "খ",
+          "answerIndex": 1,
+          "chapter": "12",
+          "topic": "Chromosome",
+          "difficulty": "Easy",
+          "whyImportant": "ক্রোমোজোম সংখ্যা সম্পর্কিত অত্যন্ত বেসিক এবং কমন কনসেপ্ট।",
+          "questionType": "regular",
+          "marks": 1
+        },
+        {
+          "id": "ssc-biology-board-standard-set-01-q06",
+          "questionNo": 6,
+          "question": "চিত্রে যদি মানব নেফ্রনের গঠন দেখানো থাকে, তবে রক্ত ছাঁকনির কাজ (Ultrafiltration) কোথায় ঘটে?",
+          "options": [
+            {
+              "label": "ক",
+              "text": "হেনলির লুপ"
+            },
+            {
+              "label": "খ",
+              "text": "গ্লোমেরুলাস"
+            },
+            {
+              "label": "গ",
+              "text": "সংগ্রাহক নালিকা"
+            },
+            {
+              "label": "ঘ",
+              "text": "প্রক্সিমাল প্যাঁচানো নালিকা"
+            }
+          ],
+          "correctOption": "খ",
+          "answerIndex": 1,
+          "chapter": "8",
+          "topic": "Nephron structure",
+          "difficulty": "Medium",
+          "whyImportant": "চিত্রভিত্তিক প্রশ্নে নেফ্রনের বিভিন্ন অংশের কাজ শনাক্ত করতে বলা হয়।",
+          "questionType": "regular",
+          "marks": 1
+        },
+        {
+          "id": "ssc-biology-board-standard-set-01-q07",
+          "questionNo": 7,
+          "question": "জাইলেম টিস্যুর কাজ সম্পর্কে নিচের কোনটি সঠিক?\ni. মূল থেকে পানি ও খনিজ লবণ পাতায় পরিবহন করে\nii. পাতায় তৈরি খাদ্য উদ্ভিদের বিভিন্ন অংশে পৌঁছে দেয়\niii. উদ্ভিদকে যান্ত্রিক দৃঢ়তা প্রদান করে\nনিচের কোনটি সঠিক?",
+          "options": [
+            {
+              "label": "ক",
+              "text": "i ও ii"
+            },
+            {
+              "label": "খ",
+              "text": "i ও iii"
+            },
+            {
+              "label": "গ",
+              "text": "ii ও iii"
+            },
+            {
+              "label": "ঘ",
+              "text": "i, ii ও iii"
+            }
+          ],
+          "correctOption": "খ",
+          "answerIndex": 1,
+          "chapter": "2",
+          "topic": "Plant tissue (Xylem)",
+          "difficulty": "Medium",
+          "whyImportant": "জাইলেম ও ফ্লোয়েম টিস্যুর কাজের পার্থক্য বোর্ড পরীক্ষার অন্যতম প্রিয় টপিক।",
+          "questionType": "multi-statement",
+          "marks": 1
+        },
+        {
+          "id": "ssc-biology-board-standard-set-01-q08",
+          "questionNo": 8,
+          "question": "শফিক সাহেবের হৃৎপিণ্ডের প্রাচীরে রক্ত সরবরাহকারী ধমনিটির নাম কী?",
+          "options": [
+            {
+              "label": "ক",
+              "text": "পালমোনারি ধমনি"
+            },
+            {
+              "label": "খ",
+              "text": "রেনাল ধমনি"
+            },
+            {
+              "label": "গ",
+              "text": "করোনারি ধমনি"
+            },
+            {
+              "label": "ঘ",
+              "text": "হেপাটিক ধমনি"
+            }
+          ],
+          "correctOption": "গ",
+          "answerIndex": 2,
+          "chapter": "6",
+          "topic": "Heart diseases (Coronary artery)",
+          "difficulty": "Medium",
+          "whyImportant": "করোনারি থ্রম্বোসিস বা হার্ট অ্যাটাকের কারণ হিসেবে ২০২৩ সালের বরিশাল বোর্ডে প্রশ্নটি এসেছে।",
+          "stimulusId": "set-01-stimulus-02",
+          "stimulus": "উদ্দীপক ২: নিচের উদ্দীপকটি পড়ো এবং ৮ ও ৯ নং প্রশ্নের উত্তর দাও:\nশফিক সাহেব হঠাৎ একদিন বুকে প্রচণ্ড ব্যথা অনুভব করলেন। ডাক্তার তাকে পরীক্ষা করে জানালেন যে, তার হৃৎপিণ্ডের প্রাচীরে রক্ত সরবরাহকারী ধমনিটি চর্বি জমে সংকুচিত হয়ে গেছে।",
+          "questionType": "stimulus",
+          "marks": 1
+        },
+        {
+          "id": "ssc-biology-board-standard-set-01-q09",
+          "questionNo": 9,
+          "question": "শফিক সাহেবের এই শারীরিক অবস্থা থেকে পরিত্রাণ পেতে করণীয়—\ni. নিয়মিত ব্যায়াম করা\nii. চর্বিযুক্ত খাবার বেশি খাওয়া\niii. ধূমপান থেকে বিরত থাকা\nনিচের কোনটি সঠিক?",
+          "options": [
+            {
+              "label": "ক",
+              "text": "i ও ii"
+            },
+            {
+              "label": "খ",
+              "text": "i ও iii"
+            },
+            {
+              "label": "গ",
+              "text": "ii ও iii"
+            },
+            {
+              "label": "ঘ",
+              "text": "i, ii ও iii"
+            }
+          ],
+          "correctOption": "খ",
+          "answerIndex": 1,
+          "chapter": "6",
+          "topic": "Heart disease prevention",
+          "difficulty": "Application",
+          "whyImportant": "হৃদরোগ প্রতিরোধের উপায় সম্পর্কিত প্রয়োগমূলক প্রশ্ন।",
+          "stimulusId": "set-01-stimulus-02",
+          "stimulus": "উদ্দীপক ২: নিচের উদ্দীপকটি পড়ো এবং ৮ ও ৯ নং প্রশ্নের উত্তর দাও:\nশফিক সাহেব হঠাৎ একদিন বুকে প্রচণ্ড ব্যথা অনুভব করলেন। ডাক্তার তাকে পরীক্ষা করে জানালেন যে, তার হৃৎপিণ্ডের প্রাচীরে রক্ত সরবরাহকারী ধমনিটি চর্বি জমে সংকুচিত হয়ে গেছে।",
+          "questionType": "stimulus",
+          "marks": 1
+        },
+        {
+          "id": "ssc-biology-board-standard-set-01-q10",
+          "questionNo": 10,
+          "question": "কোন রক্তের গ্রুপকে 'সার্বজনীন দাতা' (Universal Donor) বলা হয়?",
+          "options": [
+            {
+              "label": "ক",
+              "text": "A"
+            },
+            {
+              "label": "খ",
+              "text": "B"
+            },
+            {
+              "label": "গ",
+              "text": "AB"
+            },
+            {
+              "label": "ঘ",
+              "text": "O"
+            }
+          ],
+          "correctOption": "ঘ",
+          "answerIndex": 3,
+          "chapter": "6",
+          "topic": "Blood group",
+          "difficulty": "Easy",
+          "whyImportant": "ব্লাড গ্রুপ সম্পর্কিত খুব সাধারণ ও গুরুত্বপূর্ণ তথ্য।",
+          "questionType": "regular",
+          "marks": 1
+        },
+        {
+          "id": "ssc-biology-board-standard-set-01-q11",
+          "questionNo": 11,
+          "question": "রাতকানা রোগ প্রতিরোধে কোন খাবারটি বেশি খাওয়া প্রয়োজন?",
+          "options": [
+            {
+              "label": "ক",
+              "text": "লেবু"
+            },
+            {
+              "label": "খ",
+              "text": "গাজর"
+            },
+            {
+              "label": "গ",
+              "text": "মাংস"
+            },
+            {
+              "label": "ঘ",
+              "text": "ডাল"
+            }
+          ],
+          "correctOption": "খ",
+          "answerIndex": 1,
+          "chapter": "5",
+          "topic": "Vitamin deficiency",
+          "difficulty": "Application",
+          "whyImportant": "ভিটামিন 'এ'-এর অভাবে রাতকানা রোগ হয়, এর বাস্তব প্রয়োগমূলক প্রশ্ন (ঢাকা ২০২৩)।",
+          "questionType": "application",
+          "marks": 1
+        },
+        {
+          "id": "ssc-biology-board-standard-set-01-q12",
+          "questionNo": 12,
+          "question": "পাকস্থলীর গ্যাস্ট্রিক গ্রন্থি থেকে কোন এসিড নিঃসৃত হয় যা জীবাণু ধ্বংস করে?",
+          "options": [
+            {
+              "label": "ক",
+              "text": "H2SO4"
+            },
+            {
+              "label": "খ",
+              "text": "HNO3"
+            },
+            {
+              "label": "গ",
+              "text": "HCl"
+            },
+            {
+              "label": "ঘ",
+              "text": "CH3COOH"
+            }
+          ],
+          "correctOption": "গ",
+          "answerIndex": 2,
+          "chapter": "5",
+          "topic": "Digestive system",
+          "difficulty": "Easy",
+          "whyImportant": "২০২২ সালের প্রায় সব বোর্ডে এই প্রশ্নটি এসেছে।",
+          "questionType": "regular",
+          "marks": 1
+        },
+        {
+          "id": "ssc-biology-board-standard-set-01-q13",
+          "questionNo": 13,
+          "question": "মানুষের সবচেয়ে বড় গ্রন্থি কোনটি?",
+          "options": [
+            {
+              "label": "ক",
+              "text": "অগ্ন্যাশয়"
+            },
+            {
+              "label": "খ",
+              "text": "পিটুইটারি"
+            },
+            {
+              "label": "গ",
+              "text": "থাইরয়েড"
+            },
+            {
+              "label": "ঘ",
+              "text": "যকৃৎ"
+            }
+          ],
+          "correctOption": "ঘ",
+          "answerIndex": 3,
+          "chapter": "5",
+          "topic": "Glands",
+          "difficulty": "Easy",
+          "whyImportant": "মানবদেহের অঙ্গসংস্থান সম্পর্কিত ডিরেক্ট কনসেপ্ট।",
+          "questionType": "regular",
+          "marks": 1
+        },
+        {
+          "id": "ssc-biology-board-standard-set-01-q14",
+          "questionNo": 14,
+          "question": "মিয়োসিস কোষ বিভাজন সাধারণত কোন কোষে ঘটে?",
+          "options": [
+            {
+              "label": "ক",
+              "text": "দেহকোষে"
+            },
+            {
+              "label": "খ",
+              "text": "জনন মাতৃকোষে"
+            },
+            {
+              "label": "গ",
+              "text": "স্নায়ুকোষে"
+            },
+            {
+              "label": "ঘ",
+              "text": "শ্বেত রক্তকণিকায়"
+            }
+          ],
+          "correctOption": "খ",
+          "answerIndex": 1,
+          "chapter": "3",
+          "topic": "Meiosis",
+          "difficulty": "Medium",
+          "whyImportant": "মাইটোসিস ও মিয়োসিসের অবস্থানের পার্থক্য।",
+          "questionType": "regular",
+          "marks": 1
+        },
+        {
+          "id": "ssc-biology-board-standard-set-01-q15",
+          "questionNo": 15,
+          "question": "মূত্র তৈরির সঠিক প্রধান ধাপসমূহের ক্রম কোনটি?",
+          "options": [
+            {
+              "label": "ক",
+              "text": "পুনঃশোষণ → পরিস্রবণ → ক্ষরণ"
+            },
+            {
+              "label": "খ",
+              "text": "ক্ষরণ → পরিস্রবণ → পুনঃশোষণ"
+            },
+            {
+              "label": "গ",
+              "text": "পরিস্রবণ → পুনঃশোষণ → ক্ষরণ"
+            },
+            {
+              "label": "ঘ",
+              "text": "পরিস্রবণ → ক্ষরণ → পুনঃশোষণ"
+            }
+          ],
+          "correctOption": "গ",
+          "answerIndex": 2,
+          "chapter": "8",
+          "topic": "Excretion",
+          "difficulty": "Tricky/Higher Thinking",
+          "whyImportant": "শারীরবৃত্তীয় প্রক্রিয়ার সঠিক ধারাবাহিকতা যাচাই করার প্রশ্ন।",
+          "questionType": "application",
+          "marks": 1
+        },
+        {
+          "id": "ssc-biology-board-standard-set-01-q16",
+          "questionNo": 16,
+          "question": "উদ্দীপকে উল্লেখিত বিশেষ অণুটির নাম কী?",
+          "options": [
+            {
+              "label": "ক",
+              "text": "RNA"
+            },
+            {
+              "label": "খ",
+              "text": "DNA"
+            },
+            {
+              "label": "গ",
+              "text": "প্রোটিন"
+            },
+            {
+              "label": "ঘ",
+              "text": "এনজাইম"
+            }
+          ],
+          "correctOption": "খ",
+          "answerIndex": 1,
+          "chapter": "12",
+          "topic": "Genetics (DNA)",
+          "difficulty": "Easy",
+          "whyImportant": "গঠনের বর্ণনা থেকে DNA অণুকে শনাক্তকরণ।",
+          "stimulusId": "set-01-stimulus-03",
+          "stimulus": "উদ্দীপক ৩: নিচের উদ্দীপকটি পড়ো এবং ১৬ ও ১৭ নং প্রশ্নের উত্তর দাও:\nবিজ্ঞানী মেন্ডেল মটরগাছ নিয়ে গবেষণার মাধ্যমে বংশগতির দুটি সূত্র প্রদান করেন। তার পরীক্ষার প্রধান উপাদান ছিল ক্রোমোজোমে অবস্থিত একটি বিশেষ অণু, যা দ্বিসূত্রক প্যাঁচানো সিঁড়ির মতো।",
+          "questionType": "stimulus",
+          "marks": 1
+        },
+        {
+          "id": "ssc-biology-board-standard-set-01-q17",
+          "questionNo": 17,
+          "question": "উক্ত অণুটির গঠনে অ্যাডেনিনের (A) পরিপূরক ক্ষারক কোনটি?",
+          "options": [
+            {
+              "label": "ক",
+              "text": "গুয়ানিন (G)"
+            },
+            {
+              "label": "খ",
+              "text": "সাইটোসিন (C)"
+            },
+            {
+              "label": "গ",
+              "text": "থায়ামিন (T)"
+            },
+            {
+              "label": "ঘ",
+              "text": "ইউরাসিল (U)"
+            }
+          ],
+          "correctOption": "গ",
+          "answerIndex": 2,
+          "chapter": "12",
+          "topic": "DNA structure",
+          "difficulty": "Medium",
+          "whyImportant": "DNA বেস পেয়ারিং রুলস (A=T, C≡G) অত্যন্ত গুরুত্বপূর্ণ।",
+          "stimulusId": "set-01-stimulus-03",
+          "stimulus": "উদ্দীপক ৩: নিচের উদ্দীপকটি পড়ো এবং ১৬ ও ১৭ নং প্রশ্নের উত্তর দাও:\nবিজ্ঞানী মেন্ডেল মটরগাছ নিয়ে গবেষণার মাধ্যমে বংশগতির দুটি সূত্র প্রদান করেন। তার পরীক্ষার প্রধান উপাদান ছিল ক্রোমোজোমে অবস্থিত একটি বিশেষ অণু, যা দ্বিসূত্রক প্যাঁচানো সিঁড়ির মতো।",
+          "questionType": "stimulus",
+          "marks": 1
+        },
+        {
+          "id": "ssc-biology-board-standard-set-01-q18",
+          "questionNo": 18,
+          "question": "মানুষের লালারসে কোন এনজাইমটি থাকে যা শর্করা পরিপাকে অংশ নেয়?",
+          "options": [
+            {
+              "label": "ক",
+              "text": "পেপসিন"
+            },
+            {
+              "label": "খ",
+              "text": "টায়ালিন"
+            },
+            {
+              "label": "গ",
+              "text": "ট্রিপসিন"
+            },
+            {
+              "label": "ঘ",
+              "text": "লাইপেজ"
+            }
+          ],
+          "correctOption": "খ",
+          "answerIndex": 1,
+          "chapter": "5",
+          "topic": "Digestion",
+          "difficulty": "Medium",
+          "whyImportant": "পরিপাকতন্ত্রে এনজাইমের কাজ সম্পর্কিত সরাসরি প্রশ্ন।",
+          "questionType": "regular",
+          "marks": 1
+        },
+        {
+          "id": "ssc-biology-board-standard-set-01-q19",
+          "questionNo": 19,
+          "question": "ডেঙ্গু জ্বর ছড়ায় কোন মশার মাধ্যমে?",
+          "options": [
+            {
+              "label": "ক",
+              "text": "কিউলেক্স"
+            },
+            {
+              "label": "খ",
+              "text": "অ্যানোফিলিস"
+            },
+            {
+              "label": "গ",
+              "text": "এডিস"
+            },
+            {
+              "label": "ঘ",
+              "text": "ম্যানসোনিয়া"
+            }
+          ],
+          "correctOption": "গ",
+          "answerIndex": 2,
+          "chapter": "1",
+          "topic": "Disease vector",
+          "difficulty": "Easy",
+          "whyImportant": "রোগ ও এর বাহক সম্পর্কিত প্রচলিত প্রশ্ন।",
+          "questionType": "regular",
+          "marks": 1
+        },
+        {
+          "id": "ssc-biology-board-standard-set-01-q20",
+          "questionNo": 20,
+          "question": "শালোকসংশ্লেষণ প্রক্রিয়ায় উৎপন্ন প্রধান উপজাত (By-product) গ্যাস কোনটি?",
+          "options": [
+            {
+              "label": "ক",
+              "text": "কার্বন ডাই অক্সাইড"
+            },
+            {
+              "label": "খ",
+              "text": "অক্সিজেন"
+            },
+            {
+              "label": "গ",
+              "text": "নাইট্রোজেন"
+            },
+            {
+              "label": "ঘ",
+              "text": "মিথেন"
+            }
+          ],
+          "correctOption": "খ",
+          "answerIndex": 1,
+          "chapter": "4",
+          "topic": "Photosynthesis",
+          "difficulty": "Easy",
+          "whyImportant": "উদ্ভিদ শারীরতত্ত্বের সবচেয়ে বেসিক প্রশ্ন।",
+          "questionType": "regular",
+          "marks": 1
+        },
+        {
+          "id": "ssc-biology-board-standard-set-01-q21",
+          "questionNo": 21,
+          "question": "বায়বীয় শ্বসনে (Aerobic respiration) এক অণু গ্লুকোজ সম্পূর্ণ জারিত হয়ে মোট কয়টি ATP উৎপন্ন করে?",
+          "options": [
+            {
+              "label": "ক",
+              "text": "২টি"
+            },
+            {
+              "label": "খ",
+              "text": "৮টি"
+            },
+            {
+              "label": "গ",
+              "text": "৩৬টি"
+            },
+            {
+              "label": "ঘ",
+              "text": "৩৮টি"
+            }
+          ],
+          "correctOption": "ঘ",
+          "answerIndex": 3,
+          "chapter": "4",
+          "topic": "Respiration",
+          "difficulty": "Medium",
+          "whyImportant": "শ্বসনের শক্তির হিসাব বোর্ড পরীক্ষার জন্য খুব কমন।",
+          "questionType": "regular",
+          "marks": 1
+        },
+        {
+          "id": "ssc-biology-board-standard-set-01-q22",
+          "questionNo": 22,
+          "question": "উদ্দীপকের চিত্রে যদি মানব চক্ষুর লম্বচ্ছেদ দেখানো হয়, তবে কোন অংশে আলোর সাহায্যে প্রতিবিম্ব গঠিত হয়?",
+          "options": [
+            {
+              "label": "ক",
+              "text": "কর্নিয়া"
+            },
+            {
+              "label": "খ",
+              "text": "আইরিস"
+            },
+            {
+              "label": "গ",
+              "text": "পিউপিল"
+            },
+            {
+              "label": "ঘ",
+              "text": "রেটিনা"
+            }
+          ],
+          "correctOption": "ঘ",
+          "answerIndex": 3,
+          "chapter": "10",
+          "topic": "Eye structure",
+          "difficulty": "Medium",
+          "whyImportant": "চোখের ডায়াগ্রাম থেকে রেটিনাকে শনাক্ত করা।",
+          "questionType": "regular",
+          "marks": 1
+        },
+        {
+          "id": "ssc-biology-board-standard-set-01-q23",
+          "questionNo": 23,
+          "question": "প্রতিবর্ত ক্রিয়ার (Reflex Action) উদ্দীপনা প্রবাহের সঠিক ক্রম কোনটি?",
+          "options": [
+            {
+              "label": "ক",
+              "text": "গ্রাহক অঙ্গ → সংবেদী স্নায়ু → সুষুম্নাকাণ্ড → মোটর স্নায়ু → কার্যকর অঙ্গ"
+            },
+            {
+              "label": "খ",
+              "text": "মোটর স্নায়ু → গ্রাহক অঙ্গ → সুষুম্নাকাণ্ড → কার্যকর অঙ্গ"
+            },
+            {
+              "label": "গ",
+              "text": "গ্রাহক অঙ্গ → মোটর স্নায়ু → মস্তিষ্ক → সংবেদী স্নায়ু"
+            },
+            {
+              "label": "ঘ",
+              "text": "কার্যকর অঙ্গ → সংবেদী স্নায়ু → সুষুম্নাকাণ্ড → মোটর স্নায়ু → গ্রাহক অঙ্গ"
+            }
+          ],
+          "correctOption": "ক",
+          "answerIndex": 0,
+          "chapter": "10",
+          "topic": "Nervous system",
+          "difficulty": "Tricky/Higher Thinking",
+          "whyImportant": "স্নায়বিক উদ্দীপনার সিকোয়েন্স নির্ণয়।",
+          "questionType": "application",
+          "marks": 1
+        },
+        {
+          "id": "ssc-biology-board-standard-set-01-q24",
+          "questionNo": 24,
+          "question": "কোন ভিটামিনের অভাবে স্কার্ভি রোগ হয়?",
+          "options": [
+            {
+              "label": "ক",
+              "text": "ভিটামিন এ"
+            },
+            {
+              "label": "খ",
+              "text": "ভিটামিন বি"
+            },
+            {
+              "label": "গ",
+              "text": "ভিটামিন সি"
+            },
+            {
+              "label": "ঘ",
+              "text": "ভিটামিন ডি"
+            }
+          ],
+          "correctOption": "গ",
+          "answerIndex": 2,
+          "chapter": "5",
+          "topic": "Vitamins",
+          "difficulty": "Easy",
+          "whyImportant": "ভিটামিনের অভাবজনিত রোগের সরাসরি প্রশ্ন।",
+          "questionType": "regular",
+          "marks": 1
+        },
+        {
+          "id": "ssc-biology-board-standard-set-01-q25",
+          "questionNo": 25,
+          "question": "একটি পুকুরের বাস্তুতন্ত্রে ব্যাঙ সাধারণত কোন স্তরের খাদক?",
+          "options": [
+            {
+              "label": "ক",
+              "text": "উৎপাদক"
+            },
+            {
+              "label": "খ",
+              "text": "প্রথম স্তরের খাদক"
+            },
+            {
+              "label": "গ",
+              "text": "দ্বিতীয় স্তরের খাদক"
+            },
+            {
+              "label": "ঘ",
+              "text": "সর্বোচ্চ স্তরের খাদক"
+            }
+          ],
+          "correctOption": "গ",
+          "answerIndex": 2,
+          "chapter": "13",
+          "topic": "Ecosystem",
+          "difficulty": "Application",
+          "whyImportant": "খাদ্যশৃঙ্খল গঠন এবং প্রাণীর অবস্থান নির্ণয়।",
+          "questionType": "application",
+          "marks": 1
+        }
+      ],
+      "answerKey": [
+        {
+          "questionNo": 1,
+          "answer": "খ",
+          "answerIndex": 1
+        },
+        {
+          "questionNo": 2,
+          "answer": "খ",
+          "answerIndex": 1
+        },
+        {
+          "questionNo": 3,
+          "answer": "গ",
+          "answerIndex": 2
+        },
+        {
+          "questionNo": 4,
+          "answer": "খ",
+          "answerIndex": 1
+        },
+        {
+          "questionNo": 5,
+          "answer": "খ",
+          "answerIndex": 1
+        },
+        {
+          "questionNo": 6,
+          "answer": "খ",
+          "answerIndex": 1
+        },
+        {
+          "questionNo": 7,
+          "answer": "খ",
+          "answerIndex": 1
+        },
+        {
+          "questionNo": 8,
+          "answer": "গ",
+          "answerIndex": 2
+        },
+        {
+          "questionNo": 9,
+          "answer": "খ",
+          "answerIndex": 1
+        },
+        {
+          "questionNo": 10,
+          "answer": "ঘ",
+          "answerIndex": 3
+        },
+        {
+          "questionNo": 11,
+          "answer": "খ",
+          "answerIndex": 1
+        },
+        {
+          "questionNo": 12,
+          "answer": "গ",
+          "answerIndex": 2
+        },
+        {
+          "questionNo": 13,
+          "answer": "ঘ",
+          "answerIndex": 3
+        },
+        {
+          "questionNo": 14,
+          "answer": "খ",
+          "answerIndex": 1
+        },
+        {
+          "questionNo": 15,
+          "answer": "গ",
+          "answerIndex": 2
+        },
+        {
+          "questionNo": 16,
+          "answer": "খ",
+          "answerIndex": 1
+        },
+        {
+          "questionNo": 17,
+          "answer": "গ",
+          "answerIndex": 2
+        },
+        {
+          "questionNo": 18,
+          "answer": "খ",
+          "answerIndex": 1
+        },
+        {
+          "questionNo": 19,
+          "answer": "গ",
+          "answerIndex": 2
+        },
+        {
+          "questionNo": 20,
+          "answer": "খ",
+          "answerIndex": 1
+        },
+        {
+          "questionNo": 21,
+          "answer": "ঘ",
+          "answerIndex": 3
+        },
+        {
+          "questionNo": 22,
+          "answer": "ঘ",
+          "answerIndex": 3
+        },
+        {
+          "questionNo": 23,
+          "answer": "ক",
+          "answerIndex": 0
+        },
+        {
+          "questionNo": 24,
+          "answer": "গ",
+          "answerIndex": 2
+        },
+        {
+          "questionNo": 25,
+          "answer": "গ",
+          "answerIndex": 2
+        }
+      ],
+      "stimuli": [
+        {
+          "id": "set-01-stimulus-01",
+          "text": "উদ্দীপক ১: নিচের উদ্দীপকটি পড়ো এবং ১ ও ২ নং প্রশ্নের উত্তর দাও:\nশিক্ষক ক্লাসে এমন দুটি কোষীয় অঙ্গাণুর কথা বললেন, যার একটি (A) কোষে শক্তি উৎপাদন করে এবং অপরটি (B) উদ্ভিদ কোষে খাদ্য তৈরিতে সাহায্য করে।"
+        },
+        {
+          "id": "set-01-stimulus-02",
+          "text": "উদ্দীপক ২: নিচের উদ্দীপকটি পড়ো এবং ৮ ও ৯ নং প্রশ্নের উত্তর দাও:\nশফিক সাহেব হঠাৎ একদিন বুকে প্রচণ্ড ব্যথা অনুভব করলেন। ডাক্তার তাকে পরীক্ষা করে জানালেন যে, তার হৃৎপিণ্ডের প্রাচীরে রক্ত সরবরাহকারী ধমনিটি চর্বি জমে সংকুচিত হয়ে গেছে।"
+        },
+        {
+          "id": "set-01-stimulus-03",
+          "text": "উদ্দীপক ৩: নিচের উদ্দীপকটি পড়ো এবং ১৬ ও ১৭ নং প্রশ্নের উত্তর দাও:\nবিজ্ঞানী মেন্ডেল মটরগাছ নিয়ে গবেষণার মাধ্যমে বংশগতির দুটি সূত্র প্রদান করেন। তার পরীক্ষার প্রধান উপাদান ছিল ক্রোমোজোমে অবস্থিত একটি বিশেষ অণু, যা দ্বিসূত্রক প্যাঁচানো সিঁড়ির মতো।"
+        }
+      ]
+    },
+    {
+      "setNo": 2,
+      "id": "ssc-biology-board-standard-set-02",
+      "displayTitle": "Model Test 02",
+      "title": "SET 02 — SSC Biology Board Standard MCQ",
+      "durationMinutes": 25,
+      "questionCount": 25,
+      "questions": [
+        {
+          "id": "ssc-biology-board-standard-set-02-q01",
+          "questionNo": 1,
+          "question": "'P' বিভাজনটি মূলত কী?",
+          "options": [
+            {
+              "label": "ক",
+              "text": "অ্যামাইটোসিস"
+            },
+            {
+              "label": "খ",
+              "text": "মাইটোসিস"
+            },
+            {
+              "label": "গ",
+              "text": "মিয়োসিস"
+            },
+            {
+              "label": "ঘ",
+              "text": "দ্বি-বিভাজন"
+            }
+          ],
+          "correctOption": "খ",
+          "answerIndex": 1,
+          "chapter": "3",
+          "topic": "Mitosis",
+          "difficulty": "Easy",
+          "whyImportant": "কোষ বিভাজনের সাধারণ উদ্দেশ্য থেকে বিভাজন শনাক্তকরণ।",
+          "stimulusId": "set-02-stimulus-01",
+          "stimulus": "উদ্দীপক ১: নিচের উদ্দীপকটি পড়ো এবং ১ ও ২ নং প্রশ্নের উত্তর দাও:\nশিক্ষক বললেন, আমাদের দেহে দুই ধরনের কোষ বিভাজন ঘটে। 'P' বিভাজনের মাধ্যমে জীবদেহের বৃদ্ধি ঘটে এবং ক্ষতস্থান পূরণ হয়, আর 'Q' বিভাজনের মাধ্যমে জননকোষ উৎপন্ন হয়।",
+          "questionType": "stimulus",
+          "marks": 1
+        },
+        {
+          "id": "ssc-biology-board-standard-set-02-q02",
+          "questionNo": 2,
+          "question": "'Q' বিভাজনের ক্ষেত্রে নিচের কোন তথ্যটি সঠিক?\ni. ক্রোমোজোম সংখ্যা মাতৃকোষের অর্ধেক হয়ে যায়\nii. এই বিভাজনে ক্রসিং ওভার ঘটে\niii. এটি এককোষী জীবে বংশবৃদ্ধির প্রধান উপায়\nনিচের কোনটি সঠিক?",
+          "options": [
+            {
+              "label": "ক",
+              "text": "i ও ii"
+            },
+            {
+              "label": "খ",
+              "text": "i ও iii"
+            },
+            {
+              "label": "গ",
+              "text": "ii ও iii"
+            },
+            {
+              "label": "ঘ",
+              "text": "i, ii ও iii"
+            }
+          ],
+          "correctOption": "ক",
+          "answerIndex": 0,
+          "chapter": "3",
+          "topic": "Meiosis",
+          "difficulty": "Application",
+          "whyImportant": "মিয়োসিস বিভাজনের তাৎপর্য ও বৈশিষ্ট্য যাচাই।",
+          "stimulusId": "set-02-stimulus-01",
+          "stimulus": "উদ্দীপক ১: নিচের উদ্দীপকটি পড়ো এবং ১ ও ২ নং প্রশ্নের উত্তর দাও:\nশিক্ষক বললেন, আমাদের দেহে দুই ধরনের কোষ বিভাজন ঘটে। 'P' বিভাজনের মাধ্যমে জীবদেহের বৃদ্ধি ঘটে এবং ক্ষতস্থান পূরণ হয়, আর 'Q' বিভাজনের মাধ্যমে জননকোষ উৎপন্ন হয়।",
+          "questionType": "stimulus",
+          "marks": 1
+        },
+        {
+          "id": "ssc-biology-board-standard-set-02-q03",
+          "questionNo": 3,
+          "question": "চিত্রে একটি স্নায়ুকোষ বা নিউরন দেখানো হলো। উদ্দীপনা গ্রহণ করে কোষদেহের দিকে প্রেরণ করে নিউরনের কোন অংশ?",
+          "options": [
+            {
+              "label": "ক",
+              "text": "অ্যাক্সন"
+            },
+            {
+              "label": "খ",
+              "text": "ডেনড্রাইট"
+            },
+            {
+              "label": "গ",
+              "text": "মায়েলিন শিথ"
+            },
+            {
+              "label": "ঘ",
+              "text": "সিন্যাপস"
+            }
+          ],
+          "correctOption": "খ",
+          "answerIndex": 1,
+          "chapter": "10",
+          "topic": "Neuron",
+          "difficulty": "Medium",
+          "whyImportant": "ডায়াগ্রাম বা বর্ণনা থেকে নিউরনের অংশের কাজ নির্ণয়।",
+          "questionType": "regular",
+          "marks": 1
+        },
+        {
+          "id": "ssc-biology-board-standard-set-02-q04",
+          "questionNo": 4,
+          "question": "মাইটোসিস কোষ বিভাজনের পর্যায়গুলোর সঠিক ক্রম কোনটি?",
+          "options": [
+            {
+              "label": "ক",
+              "text": "প্রোফেজ → মেটাফেজ → প্রো-মেটাফেজ → অ্যানাফেজ → টেলোফেজ"
+            },
+            {
+              "label": "খ",
+              "text": "প্রোফেজ → প্রো-মেটাফেজ → অ্যানাফেজ → মেটাফেজ → টেলোফেজ"
+            },
+            {
+              "label": "গ",
+              "text": "প্রোফেজ → প্রো-মেটাফেজ → মেটাফেজ → অ্যানাফেজ → টেলোফেজ"
+            },
+            {
+              "label": "ঘ",
+              "text": "মেটাফেজ → প্রোফেজ → প্রো-মেটাফেজ → অ্যানাফেজ → টেলোফেজ"
+            }
+          ],
+          "correctOption": "গ",
+          "answerIndex": 2,
+          "chapter": "3",
+          "topic": "Mitosis stages",
+          "difficulty": "Easy",
+          "whyImportant": "মাইটোসিসের ধাপগুলোর সিকোয়েন্স খুব বেসিক এবং জরুরি।",
+          "questionType": "regular",
+          "marks": 1
+        },
+        {
+          "id": "ssc-biology-board-standard-set-02-q05",
+          "questionNo": 5,
+          "question": "শ্বেত রক্তকণিকার (WBC) প্রধান কাজ কী?",
+          "options": [
+            {
+              "label": "ক",
+              "text": "রক্ত জমাট বাঁধতে সাহায্য করা"
+            },
+            {
+              "label": "খ",
+              "text": "রোগজীবাণু ধ্বংস করা"
+            },
+            {
+              "label": "গ",
+              "text": "অক্সিজেন পরিবহন করা"
+            },
+            {
+              "label": "ঘ",
+              "text": "কার্বন ডাই অক্সাইড পরিবহন করা"
+            }
+          ],
+          "correctOption": "খ",
+          "answerIndex": 1,
+          "chapter": "6",
+          "topic": "Blood cells",
+          "difficulty": "Easy",
+          "whyImportant": "রক্তের কণিকার কাজের সরাসরি প্রশ্ন।",
+          "questionType": "regular",
+          "marks": 1
+        },
+        {
+          "id": "ssc-biology-board-standard-set-02-q06",
+          "questionNo": 6,
+          "question": "মানবদেহের কোন অঙ্গটি একই সাথে বহিঃক্ষরা (Exocrine) ও অন্তঃক্ষরা (Endocrine) গ্রন্থি বা 'মিশ্র গ্রন্থি' হিসেবে কাজ করে?",
+          "options": [
+            {
+              "label": "ক",
+              "text": "যকৃৎ"
+            },
+            {
+              "label": "খ",
+              "text": "অগ্ন্যাশয়"
+            },
+            {
+              "label": "গ",
+              "text": "থাইরয়েড"
+            },
+            {
+              "label": "ঘ",
+              "text": "পিটুইটারি"
+            }
+          ],
+          "correctOption": "খ",
+          "answerIndex": 1,
+          "chapter": "10",
+          "topic": "Hormones",
+          "difficulty": "Medium",
+          "whyImportant": "মিশ্র গ্রন্থি হিসেবে অগ্ন্যাশয়ের ভূমিকা বোর্ড পরীক্ষার প্রিয় টপিক।",
+          "questionType": "regular",
+          "marks": 1
+        },
+        {
+          "id": "ssc-biology-board-standard-set-02-q07",
+          "questionNo": 7,
+          "question": "যকৃতের (Liver) কাজ সম্পর্কে নিচের কোনটি সঠিক?\ni. এটি পিত্তরস তৈরি করে যা চর্বি পরিপাকে সাহায্য করে\nii. এটি রক্তে গ্লুকোজের মাত্রা নিয়ন্ত্রণে ভূমিকা রাখে\niii. এটি ইনসুলিন হরমোন নিঃসরণ করে\nনিচের কোনটি সঠিক?",
+          "options": [
+            {
+              "label": "ক",
+              "text": "i ও ii"
+            },
+            {
+              "label": "খ",
+              "text": "i ও iii"
+            },
+            {
+              "label": "গ",
+              "text": "ii ও iii"
+            },
+            {
+              "label": "ঘ",
+              "text": "i, ii ও iii"
+            }
+          ],
+          "correctOption": "ক",
+          "answerIndex": 0,
+          "chapter": "5",
+          "topic": "Liver functions",
+          "difficulty": "Medium",
+          "whyImportant": "যকৃত এবং অগ্ন্যাশয়ের কাজের মধ্যে পার্থক্য নির্ণয় করা।",
+          "questionType": "multi-statement",
+          "marks": 1
+        },
+        {
+          "id": "ssc-biology-board-standard-set-02-q08",
+          "questionNo": 8,
+          "question": "উদ্দীপকে বর্ণিত ছিদ্রপথটিকে কী বলা হয়?",
+          "options": [
+            {
+              "label": "ক",
+              "text": "লেন্টিসেল"
+            },
+            {
+              "label": "খ",
+              "text": "হাইডাথোড"
+            },
+            {
+              "label": "গ",
+              "text": "পত্ররন্ধ্র (Stomata)"
+            },
+            {
+              "label": "ঘ",
+              "text": "কিউটিকল"
+            }
+          ],
+          "correctOption": "গ",
+          "answerIndex": 2,
+          "chapter": "6",
+          "topic": "Transpiration",
+          "difficulty": "Easy",
+          "whyImportant": "প্রস্বেদন বা পত্ররন্ধ্র সম্পর্কিত সহজ শনাক্তকরণ।",
+          "stimulusId": "set-02-stimulus-02",
+          "stimulus": "উদ্দীপক ২: নিচের উদ্দীপকটি পড়ো এবং ৮ ও ৯ নং প্রশ্নের উত্তর দাও:\nগ্রীষ্মের দুপুরে একটি বিশাল বটগাছের নিচে দাঁড়ালে বেশ শীতল অনুভব হয়। শিক্ষক জানালেন, উদ্ভিদের পাতায় অবস্থিত একটি বিশেষ ছিদ্রপথের মাধ্যমে অতিরিক্ত পানি বাষ্পাকারে বের হয়ে যাওয়ার কারণেই এমনটা ঘটে।",
+          "questionType": "stimulus",
+          "marks": 1
+        },
+        {
+          "id": "ssc-biology-board-standard-set-02-q09",
+          "questionNo": 9,
+          "question": "উক্ত শারীরবৃত্তীয় প্রক্রিয়াটির (প্রস্বেদন) গুরুত্ব হলো—\ni. উদ্ভিদ দেহকে শীতল রাখে\nii. কোষরসের ঘনত্ব বৃদ্ধি করে মূল দ্বারা পানি শোষণে সাহায্য করে\niii. এটি বায়ুমণ্ডলে প্রচুর মিথেন গ্যাস ছড়ায়\nনিচের কোনটি সঠিক?",
+          "options": [
+            {
+              "label": "ক",
+              "text": "i ও ii"
+            },
+            {
+              "label": "খ",
+              "text": "i ও iii"
+            },
+            {
+              "label": "গ",
+              "text": "ii ও iii"
+            },
+            {
+              "label": "ঘ",
+              "text": "i, ii ও iii"
+            }
+          ],
+          "correctOption": "ক",
+          "answerIndex": 0,
+          "chapter": "6",
+          "topic": "Transpiration",
+          "difficulty": "Higher-thinking/Application",
+          "whyImportant": "প্রস্বেদনের পরিবেশগত ও শারীরবৃত্তীয় গুরুত্ব বিশ্লেষণ।",
+          "stimulusId": "set-02-stimulus-02",
+          "stimulus": "উদ্দীপক ২: নিচের উদ্দীপকটি পড়ো এবং ৮ ও ৯ নং প্রশ্নের উত্তর দাও:\nগ্রীষ্মের দুপুরে একটি বিশাল বটগাছের নিচে দাঁড়ালে বেশ শীতল অনুভব হয়। শিক্ষক জানালেন, উদ্ভিদের পাতায় অবস্থিত একটি বিশেষ ছিদ্রপথের মাধ্যমে অতিরিক্ত পানি বাষ্পাকারে বের হয়ে যাওয়ার কারণেই এমনটা ঘটে।",
+          "questionType": "stimulus",
+          "marks": 1
+        },
+        {
+          "id": "ssc-biology-board-standard-set-02-q10",
+          "questionNo": 10,
+          "question": "দ্বিপদ নামকরণের (Binomial Nomenclature) প্রবর্তক কে?",
+          "options": [
+            {
+              "label": "ক",
+              "text": "গ্রেগর জোহান মেন্ডেল"
+            },
+            {
+              "label": "খ",
+              "text": "ক্যারোলাস লিনিয়াস"
+            },
+            {
+              "label": "গ",
+              "text": "চার্লস ডারউইন"
+            },
+            {
+              "label": "ঘ",
+              "text": "রবার্ট হুক"
+            }
+          ],
+          "correctOption": "খ",
+          "answerIndex": 1,
+          "chapter": "1",
+          "topic": "Taxonomy",
+          "difficulty": "Easy",
+          "whyImportant": "জীববিজ্ঞান পাঠের মৌলিক জ্ঞান।",
+          "questionType": "regular",
+          "marks": 1
+        },
+        {
+          "id": "ssc-biology-board-standard-set-02-q11",
+          "questionNo": 11,
+          "question": "জীবের জিনগত বৈচিত্র্য বা ভ্যারিয়েশন (Variation) সৃষ্টিতে নিচের কোনটির ভূমিকা সবচেয়ে বেশি?",
+          "options": [
+            {
+              "label": "ক",
+              "text": "মাইটোসিস"
+            },
+            {
+              "label": "খ",
+              "text": "ক্রসিং ওভার"
+            },
+            {
+              "label": "গ",
+              "text": "অ্যামাইটোসিস"
+            },
+            {
+              "label": "ঘ",
+              "text": "সাইটোকাইনেসিস"
+            }
+          ],
+          "correctOption": "খ",
+          "answerIndex": 1,
+          "chapter": "3 & 12",
+          "topic": "Genetics/Meiosis",
+          "difficulty": "Medium",
+          "whyImportant": "ক্রসিং ওভারের মাধ্যমে জিনের আদান-প্রদান ও বৈচিত্র্য আসে।",
+          "questionType": "regular",
+          "marks": 1
+        },
+        {
+          "id": "ssc-biology-board-standard-set-02-q12",
+          "questionNo": 12,
+          "question": "মানুষের লোহিত রক্তকণিকার গড় আয়ু কত দিন?",
+          "options": [
+            {
+              "label": "ক",
+              "text": "২০ দিন"
+            },
+            {
+              "label": "খ",
+              "text": "৪৫ দিন"
+            },
+            {
+              "label": "গ",
+              "text": "১২০ দিন"
+            },
+            {
+              "label": "ঘ",
+              "text": "১৮০ দিন"
+            }
+          ],
+          "correctOption": "গ",
+          "answerIndex": 2,
+          "chapter": "6",
+          "topic": "Blood",
+          "difficulty": "Easy",
+          "whyImportant": "রক্তের সাধারণ ও গুরুত্বপূর্ণ তথ্য।",
+          "questionType": "regular",
+          "marks": 1
+        },
+        {
+          "id": "ssc-biology-board-standard-set-02-q13",
+          "questionNo": 13,
+          "question": "DNA-এর ডাবল হেলিক্স (Double helix) মডেল আবিষ্কারের জন্য কারা নোবেল পুরস্কার পান?",
+          "options": [
+            {
+              "label": "ক",
+              "text": "রবার্ট হুক ও লিনিয়াস"
+            },
+            {
+              "label": "খ",
+              "text": "ওয়াটসন ও ক্রিক"
+            },
+            {
+              "label": "গ",
+              "text": "লুই পাস্তুর ও কখ"
+            },
+            {
+              "label": "ঘ",
+              "text": "মেন্ডেল ও মরগান"
+            }
+          ],
+          "correctOption": "খ",
+          "answerIndex": 1,
+          "chapter": "12",
+          "topic": "DNA",
+          "difficulty": "Medium",
+          "whyImportant": "বিজ্ঞানীদের নাম ও অবদান থেকে আসা নিশ্চিত প্রশ্ন।",
+          "questionType": "regular",
+          "marks": 1
+        },
+        {
+          "id": "ssc-biology-board-standard-set-02-q14",
+          "questionNo": 14,
+          "question": "শিশুদের হাড় নরম হয়ে বেঁকে যায় (রিকেটস) কোন ভিটামিনের অভাবে?",
+          "options": [
+            {
+              "label": "ক",
+              "text": "ভিটামিন এ"
+            },
+            {
+              "label": "খ",
+              "text": "ভিটামিন বি"
+            },
+            {
+              "label": "গ",
+              "text": "ভিটামিন সি"
+            },
+            {
+              "label": "ঘ",
+              "text": "ভিটামিন ডি"
+            }
+          ],
+          "correctOption": "ঘ",
+          "answerIndex": 3,
+          "chapter": "5",
+          "topic": "Vitamins",
+          "difficulty": "Easy",
+          "whyImportant": "ভিটামিন 'ডি' এর অভাবজনিত রোগের ডিরেক্ট প্রশ্ন।",
+          "questionType": "regular",
+          "marks": 1
+        },
+        {
+          "id": "ssc-biology-board-standard-set-02-q15",
+          "questionNo": 15,
+          "question": "মানবদেহে খাদ্য পরিপাকের ক্ষেত্রে সঠিক গতিপথ কোনটি?",
+          "options": [
+            {
+              "label": "ক",
+              "text": "মুখগহ্বর → পাকস্থলী → অন্ননালি → ক্ষুদ্রান্ত্র → বৃহদান্ত্র"
+            },
+            {
+              "label": "খ",
+              "text": "মুখগহ্বর → অন্ননালি → পাকস্থলী → ক্ষুদ্রান্ত্র → বৃহদান্ত্র"
+            },
+            {
+              "label": "গ",
+              "text": "অন্ননালি → মুখগহ্বর → পাকস্থলী → বৃহদান্ত্র → ক্ষুদ্রান্ত্র"
+            },
+            {
+              "label": "ঘ",
+              "text": "মুখগহ্বর → অন্ননালি → ক্ষুদ্রান্ত্র → পাকস্থলী → বৃহদান্ত্র"
+            }
+          ],
+          "correctOption": "খ",
+          "answerIndex": 1,
+          "chapter": "5",
+          "topic": "Digestive System",
+          "difficulty": "Medium",
+          "whyImportant": "পরিপাকতন্ত্রের অঙ্গসমূহের ধারাবাহিক অবস্থান।",
+          "questionType": "regular",
+          "marks": 1
+        },
+        {
+          "id": "ssc-biology-board-standard-set-02-q16",
+          "questionNo": 16,
+          "question": "রহিম সাহেব কোন রোগে ভুগছেন বলে ধারণা করা যায়?",
+          "options": [
+            {
+              "label": "ক",
+              "text": "উচ্চ রক্তচাপ"
+            },
+            {
+              "label": "খ",
+              "text": "ডায়াবেটিস"
+            },
+            {
+              "label": "গ",
+              "text": "যক্ষ্মা"
+            },
+            {
+              "label": "ঘ",
+              "text": "অ্যানিমিয়া"
+            }
+          ],
+          "correctOption": "খ",
+          "answerIndex": 1,
+          "chapter": "10",
+          "topic": "Endocrine diseases",
+          "difficulty": "Application",
+          "whyImportant": "বাস্তব জীবনের লক্ষণের সাথে রোগের সম্পর্ক স্থাপন।",
+          "stimulusId": "set-02-stimulus-03",
+          "stimulus": "উদ্দীপক ৩: নিচের উদ্দীপকটি পড়ো এবং ১৬ ও ১৭ নং প্রশ্নের উত্তর দাও:\nরহিম সাহেবের বয়স ৫০ বছর। ইদানীং তিনি খুব দুর্বল বোধ করছেন, ঘন ঘন প্রস্রাব হচ্ছে এবং ক্ষতস্থান সহজে শুকাচ্ছে না। ডাক্তার রক্ত পরীক্ষা করে জানালেন, তার অগ্ন্যাশয় থেকে একটি বিশেষ হরমোন পর্যাপ্ত পরিমাণে তৈরি হচ্ছে না।",
+          "questionType": "stimulus",
+          "marks": 1
+        },
+        {
+          "id": "ssc-biology-board-standard-set-02-q17",
+          "questionNo": 17,
+          "question": "উদ্দীপকে উল্লেখিত বিশেষ হরমোনটির নাম কী?",
+          "options": [
+            {
+              "label": "ক",
+              "text": "থাইরক্সিন"
+            },
+            {
+              "label": "খ",
+              "text": "অ্যাড্রেনালিন"
+            },
+            {
+              "label": "গ",
+              "text": "ইনসুলিন"
+            },
+            {
+              "label": "ঘ",
+              "text": "ইস্ট্রোজেন"
+            }
+          ],
+          "correctOption": "গ",
+          "answerIndex": 2,
+          "chapter": "10",
+          "topic": "Endocrine system",
+          "difficulty": "Easy",
+          "whyImportant": "ডায়াবেটিস ও ইনসুলিনের সম্পর্ক নিয়ে বোর্ড পরীক্ষায় প্রচুর প্রশ্ন হয়।",
+          "stimulusId": "set-02-stimulus-03",
+          "stimulus": "উদ্দীপক ৩: নিচের উদ্দীপকটি পড়ো এবং ১৬ ও ১৭ নং প্রশ্নের উত্তর দাও:\nরহিম সাহেবের বয়স ৫০ বছর। ইদানীং তিনি খুব দুর্বল বোধ করছেন, ঘন ঘন প্রস্রাব হচ্ছে এবং ক্ষতস্থান সহজে শুকাচ্ছে না। ডাক্তার রক্ত পরীক্ষা করে জানালেন, তার অগ্ন্যাশয় থেকে একটি বিশেষ হরমোন পর্যাপ্ত পরিমাণে তৈরি হচ্ছে না।",
+          "questionType": "stimulus",
+          "marks": 1
+        },
+        {
+          "id": "ssc-biology-board-standard-set-02-q18",
+          "questionNo": 18,
+          "question": "ফুলের কোন অংশটি নিষেক প্রক্রিয়ার পর ফলে (Fruit) পরিণত হয়?",
+          "options": [
+            {
+              "label": "ক",
+              "text": "গর্ভমুণ্ড"
+            },
+            {
+              "label": "খ",
+              "text": "পরাগধানী"
+            },
+            {
+              "label": "গ",
+              "text": "ডিম্বক"
+            },
+            {
+              "label": "ঘ",
+              "text": "গর্ভাশয়"
+            }
+          ],
+          "correctOption": "ঘ",
+          "answerIndex": 3,
+          "chapter": "11",
+          "topic": "Plant reproduction",
+          "difficulty": "Medium",
+          "whyImportant": "নিষেকের পর ডিম্বক বীজে এবং গর্ভাশয় ফলে পরিণত হয়।",
+          "questionType": "regular",
+          "marks": 1
+        },
+        {
+          "id": "ssc-biology-board-standard-set-02-q19",
+          "questionNo": 19,
+          "question": "বায়ুপরাগী (Anemophilous) ফুলের বৈশিষ্ট্য কোনটি?\ni. ফুলগুলো বড় ও উজ্জ্বল রঙের হয়\nii. পরাগরেণু হালকা, অসংখ্য ও মসৃণ হয়\niii. ফুলে প্রচুর মধু বা নেকটার থাকে\nনিচের কোনটি সঠিক?",
+          "options": [
+            {
+              "label": "ক",
+              "text": "শুধু i"
+            },
+            {
+              "label": "খ",
+              "text": "শুধু ii"
+            },
+            {
+              "label": "গ",
+              "text": "i ও iii"
+            },
+            {
+              "label": "ঘ",
+              "text": "ii ও iii"
+            }
+          ],
+          "correctOption": "খ",
+          "answerIndex": 1,
+          "chapter": "11",
+          "topic": "Pollination",
+          "difficulty": "Medium",
+          "whyImportant": "পতঙ্গপরাগী ও বায়ুপরাগী ফুলের বৈশিষ্ট্যের পার্থক্য নির্ণয়।",
+          "questionType": "multi-statement",
+          "marks": 1
+        },
+        {
+          "id": "ssc-biology-board-standard-set-02-q20",
+          "questionNo": 20,
+          "question": "বৃক্কের (Kidney) গঠন ও কাজের একককে কী বলা হয়?",
+          "options": [
+            {
+              "label": "ক",
+              "text": "নিউরন"
+            },
+            {
+              "label": "খ",
+              "text": "নেফ্রন"
+            },
+            {
+              "label": "গ",
+              "text": "অ্যালভিওলাস"
+            },
+            {
+              "label": "ঘ",
+              "text": "ভিলাই"
+            }
+          ],
+          "correctOption": "খ",
+          "answerIndex": 1,
+          "chapter": "8",
+          "topic": "Excretion",
+          "difficulty": "Easy",
+          "whyImportant": "রেচনতন্ত্রের ভিত্তি।",
+          "questionType": "regular",
+          "marks": 1
+        },
+        {
+          "id": "ssc-biology-board-standard-set-02-q21",
+          "questionNo": 21,
+          "question": "যক্ষ্মা (Tuberculosis) রোগ সাধারণত কোন অণুজীবের আক্রমণে হয়?",
+          "options": [
+            {
+              "label": "ক",
+              "text": "ভাইরাস"
+            },
+            {
+              "label": "খ",
+              "text": "ব্যাকটেরিয়া"
+            },
+            {
+              "label": "গ",
+              "text": "ছত্রাক"
+            },
+            {
+              "label": "ঘ",
+              "text": "প্রোটোজোয়া"
+            }
+          ],
+          "correctOption": "খ",
+          "answerIndex": 1,
+          "chapter": "4/1",
+          "topic": "Diseases",
+          "difficulty": "Medium",
+          "whyImportant": "জীবাণুর প্রকৃতি চিহ্নিতকরণ (Mycobacterium tuberculosis)।",
+          "questionType": "regular",
+          "marks": 1
+        },
+        {
+          "id": "ssc-biology-board-standard-set-02-q22",
+          "questionNo": 22,
+          "question": "চিত্রে দুটি নিউরনের সংযোগস্থল দেখানো হলে, এই ফাঁকা স্থানটিকে কী বলা হয় যার মাধ্যমে স্নায়ু উদ্দীপনা পরিবাহিত হয়?",
+          "options": [
+            {
+              "label": "ক",
+              "text": "অ্যাক্সন"
+            },
+            {
+              "label": "খ",
+              "text": "ডেনড্রাইট"
+            },
+            {
+              "label": "গ",
+              "text": "সিন্যাপস"
+            },
+            {
+              "label": "ঘ",
+              "text": "মেনিনজেস"
+            }
+          ],
+          "correctOption": "গ",
+          "answerIndex": 2,
+          "chapter": "10",
+          "topic": "Nervous system",
+          "difficulty": "Medium",
+          "whyImportant": "স্নায়ুতন্ত্রের মাইক্রো-অ্যানাটমি ও ডায়াগ্রাম ভিত্তিক প্রশ্ন।",
+          "questionType": "regular",
+          "marks": 1
+        },
+        {
+          "id": "ssc-biology-board-standard-set-02-q23",
+          "questionNo": 23,
+          "question": "পানি ফুটিয়ে পান করা স্বাস্থ্যসম্মত, কারণ এর ফলে—",
+          "options": [
+            {
+              "label": "ক",
+              "text": "পানির খনিজ লবণ দূর হয়"
+            },
+            {
+              "label": "খ",
+              "text": "পানিতে দ্রবীভূত অক্সিজেন বেড়ে যায়"
+            },
+            {
+              "label": "গ",
+              "text": "পানিবাহিত রোগের জীবাণু ধ্বংস হয়"
+            },
+            {
+              "label": "ঘ",
+              "text": "পানির স্বাদ মিষ্টি হয়"
+            }
+          ],
+          "correctOption": "গ",
+          "answerIndex": 2,
+          "chapter": "Health/General Bio",
+          "topic": "Public health",
+          "difficulty": "Easy",
+          "whyImportant": "স্বাস্থ্যরক্ষার প্রায়োগিক জ্ঞান।",
+          "questionType": "regular",
+          "marks": 1
+        },
+        {
+          "id": "ssc-biology-board-standard-set-02-q24",
+          "questionNo": 24,
+          "question": "সপুষ্পক উদ্ভিদে যৌন প্রজননের সঠিক পর্যায়ক্রম কোনটি?",
+          "options": [
+            {
+              "label": "ক",
+              "text": "পরাগায়ন → পরাগনালির বৃদ্ধি → নিষেক → জাইগোট গঠন"
+            },
+            {
+              "label": "খ",
+              "text": "নিষেক → পরাগায়ন → পরাগনালির বৃদ্ধি → জাইগোট গঠন"
+            },
+            {
+              "label": "গ",
+              "text": "পরাগনালির বৃদ্ধি → পরাগায়ন → জাইগোট গঠন → নিষেক"
+            },
+            {
+              "label": "ঘ",
+              "text": "জাইগোট গঠন → পরাগায়ন → নিষেক → পরাগনালির বৃদ্ধি"
+            }
+          ],
+          "correctOption": "ক",
+          "answerIndex": 0,
+          "chapter": "11",
+          "topic": "Reproduction",
+          "difficulty": "Tricky/Higher Thinking",
+          "whyImportant": "উদ্ভিদের প্রজননের যৌক্তিক ধারাবাহিকতা।",
+          "questionType": "application",
+          "marks": 1
+        },
+        {
+          "id": "ssc-biology-board-standard-set-02-q25",
+          "questionNo": 25,
+          "question": "একটি বাস্তুতন্ত্রে (Ecosystem) উৎপাদক থেকে সর্বোচ্চ খাদক পর্যন্ত শক্তি স্থানান্তরের সময় শক্তির পরিমাণ কীরূপ পরিবর্তিত হয়?",
+          "options": [
+            {
+              "label": "ক",
+              "text": "ধাপে ধাপে বৃদ্ধি পায়"
+            },
+            {
+              "label": "খ",
+              "text": "ধাপে ধাপে হ্রাস পায়"
+            },
+            {
+              "label": "গ",
+              "text": "একই থাকে"
+            },
+            {
+              "label": "ঘ",
+              "text": "প্রথমে কমে পরে বাড়ে"
+            }
+          ],
+          "correctOption": "খ",
+          "answerIndex": 1,
+          "chapter": "13",
+          "topic": "Energy flow",
+          "difficulty": "Application",
+          "whyImportant": "খাদ্যশৃঙ্খলে শক্তির ১০% নিয়ম (10% Rule) এর প্রয়োগ।",
+          "questionType": "application",
+          "marks": 1
+        }
+      ],
+      "answerKey": [
+        {
+          "questionNo": 1,
+          "answer": "খ",
+          "answerIndex": 1
+        },
+        {
+          "questionNo": 2,
+          "answer": "ক",
+          "answerIndex": 0
+        },
+        {
+          "questionNo": 3,
+          "answer": "খ",
+          "answerIndex": 1
+        },
+        {
+          "questionNo": 4,
+          "answer": "গ",
+          "answerIndex": 2
+        },
+        {
+          "questionNo": 5,
+          "answer": "খ",
+          "answerIndex": 1
+        },
+        {
+          "questionNo": 6,
+          "answer": "খ",
+          "answerIndex": 1
+        },
+        {
+          "questionNo": 7,
+          "answer": "ক",
+          "answerIndex": 0
+        },
+        {
+          "questionNo": 8,
+          "answer": "গ",
+          "answerIndex": 2
+        },
+        {
+          "questionNo": 9,
+          "answer": "ক",
+          "answerIndex": 0
+        },
+        {
+          "questionNo": 10,
+          "answer": "খ",
+          "answerIndex": 1
+        },
+        {
+          "questionNo": 11,
+          "answer": "খ",
+          "answerIndex": 1
+        },
+        {
+          "questionNo": 12,
+          "answer": "গ",
+          "answerIndex": 2
+        },
+        {
+          "questionNo": 13,
+          "answer": "খ",
+          "answerIndex": 1
+        },
+        {
+          "questionNo": 14,
+          "answer": "ঘ",
+          "answerIndex": 3
+        },
+        {
+          "questionNo": 15,
+          "answer": "খ",
+          "answerIndex": 1
+        },
+        {
+          "questionNo": 16,
+          "answer": "খ",
+          "answerIndex": 1
+        },
+        {
+          "questionNo": 17,
+          "answer": "গ",
+          "answerIndex": 2
+        },
+        {
+          "questionNo": 18,
+          "answer": "ঘ",
+          "answerIndex": 3
+        },
+        {
+          "questionNo": 19,
+          "answer": "খ",
+          "answerIndex": 1
+        },
+        {
+          "questionNo": 20,
+          "answer": "খ",
+          "answerIndex": 1
+        },
+        {
+          "questionNo": 21,
+          "answer": "খ",
+          "answerIndex": 1
+        },
+        {
+          "questionNo": 22,
+          "answer": "গ",
+          "answerIndex": 2
+        },
+        {
+          "questionNo": 23,
+          "answer": "গ",
+          "answerIndex": 2
+        },
+        {
+          "questionNo": 24,
+          "answer": "ক",
+          "answerIndex": 0
+        },
+        {
+          "questionNo": 25,
+          "answer": "খ",
+          "answerIndex": 1
+        }
+      ],
+      "stimuli": [
+        {
+          "id": "set-02-stimulus-01",
+          "text": "উদ্দীপক ১: নিচের উদ্দীপকটি পড়ো এবং ১ ও ২ নং প্রশ্নের উত্তর দাও:\nশিক্ষক বললেন, আমাদের দেহে দুই ধরনের কোষ বিভাজন ঘটে। 'P' বিভাজনের মাধ্যমে জীবদেহের বৃদ্ধি ঘটে এবং ক্ষতস্থান পূরণ হয়, আর 'Q' বিভাজনের মাধ্যমে জননকোষ উৎপন্ন হয়।"
+        },
+        {
+          "id": "set-02-stimulus-02",
+          "text": "উদ্দীপক ২: নিচের উদ্দীপকটি পড়ো এবং ৮ ও ৯ নং প্রশ্নের উত্তর দাও:\nগ্রীষ্মের দুপুরে একটি বিশাল বটগাছের নিচে দাঁড়ালে বেশ শীতল অনুভব হয়। শিক্ষক জানালেন, উদ্ভিদের পাতায় অবস্থিত একটি বিশেষ ছিদ্রপথের মাধ্যমে অতিরিক্ত পানি বাষ্পাকারে বের হয়ে যাওয়ার কারণেই এমনটা ঘটে।"
+        },
+        {
+          "id": "set-02-stimulus-03",
+          "text": "উদ্দীপক ৩: নিচের উদ্দীপকটি পড়ো এবং ১৬ ও ১৭ নং প্রশ্নের উত্তর দাও:\nরহিম সাহেবের বয়স ৫০ বছর। ইদানীং তিনি খুব দুর্বল বোধ করছেন, ঘন ঘন প্রস্রাব হচ্ছে এবং ক্ষতস্থান সহজে শুকাচ্ছে না। ডাক্তার রক্ত পরীক্ষা করে জানালেন, তার অগ্ন্যাশয় থেকে একটি বিশেষ হরমোন পর্যাপ্ত পরিমাণে তৈরি হচ্ছে না।"
+        }
+      ]
+    }
+  ],
+  "revisionFocus": [
+    "Cell and tissue",
+    "Cell division",
+    "Photosynthesis and respiration",
+    "Nutrition and digestion",
+    "Blood circulation",
+    "Excretion",
+    "Nervous system and hormone",
+    "Reproduction",
+    "Genetics",
+    "Ecosystem",
+    "Biotechnology"
+  ]
+}

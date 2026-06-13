@@ -1,0 +1,2619 @@
+{
+  "level": "ssc",
+  "subject": "biology",
+  "modelTests": {
+    "ssc-biology-high-common-set-1": {
+      "questionCount": 25,
+      "scope": "paper",
+      "displayTitle": "Paper Model Test 01",
+      "durationMinutes": 25,
+      "tags": [
+        "paper-wise"
+      ]
+    },
+    "ssc-biology-high-common-set-7": {
+      "questionCount": 25,
+      "scope": "paper",
+      "displayTitle": "Paper Model Test 07",
+      "durationMinutes": 25,
+      "tags": [
+        "paper-wise"
+      ]
+    },
+    "ssc-biology-high-common-sets-2-6": {
+      "questionCount": 87,
+      "scope": "paper",
+      "displayTitle": "Paper Model Test 06",
+      "durationMinutes": 25,
+      "tags": [
+        "paper-wise"
+      ]
+    },
+    "ssc-biology-board-standard-set-01": {
+      "questionCount": 25,
+      "scope": "board",
+      "displayTitle": "Paper Model Test 01",
+      "durationMinutes": 25,
+      "tags": [
+        "paper-wise",
+        "board-wise"
+      ]
+    },
+    "ssc-biology-board-standard-set-02": {
+      "questionCount": 25,
+      "scope": "board",
+      "displayTitle": "Paper Model Test 02",
+      "durationMinutes": 25,
+      "tags": [
+        "paper-wise",
+        "board-wise"
+      ]
+    },
+    "ssc-biology-chapter-01-model-test-01": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "Chapter 01 Model Test 01",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "high-priority",
+        "tier-a"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "01",
+          "chapterName": "জীব পাঠ"
+        }
+      ]
+    },
+    "ssc-biology-chapter-01-model-test-02": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "Chapter 01 Model Test 02",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "high-priority",
+        "tier-a"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "01",
+          "chapterName": "জীব পাঠ"
+        }
+      ]
+    },
+    "ssc-biology-chapter-01-model-test-03": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "Chapter 01 Model Test 03",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "high-priority",
+        "tier-a"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "01",
+          "chapterName": "জীব পাঠ"
+        }
+      ]
+    },
+    "ssc-biology-chapter-01-model-test-04": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "Chapter 01 Model Test 04",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "high-priority",
+        "tier-a"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "01",
+          "chapterName": "জীব পাঠ"
+        }
+      ]
+    },
+    "ssc-biology-chapter-01-model-test-05": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "Chapter 01 Model Test 05",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "high-priority",
+        "tier-a"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "01",
+          "chapterName": "জীব পাঠ"
+        }
+      ]
+    },
+    "ssc-biology-chapter-01-model-test-06": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "Chapter 01 Model Test 06",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "high-priority",
+        "tier-a"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "01",
+          "chapterName": "জীব পাঠ"
+        }
+      ]
+    },
+    "ssc-biology-chapter-01-model-test-07": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "Chapter 01 Model Test 07",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "high-priority",
+        "tier-a"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "01",
+          "chapterName": "জীব পাঠ"
+        }
+      ]
+    },
+    "ssc-biology-chapter-01-model-test-08": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "Chapter 01 Model Test 08",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "high-priority",
+        "tier-a"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "01",
+          "chapterName": "জীব পাঠ"
+        }
+      ]
+    },
+    "ssc-biology-chapter-01-model-test-09": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "Chapter 01 Model Test 09",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "high-priority",
+        "tier-a"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "01",
+          "chapterName": "জীব পাঠ"
+        }
+      ]
+    },
+    "ssc-biology-chapter-01-model-test-10": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "Chapter 01 Model Test 10",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "high-priority",
+        "tier-a"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "01",
+          "chapterName": "জীব পাঠ"
+        }
+      ]
+    },
+    "ssc-biology-chapter-02-model-test-01": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "Chapter 02 Model Test 01",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "high-priority",
+        "tier-a"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "02",
+          "chapterName": "জীবকোষ ও টিস্যু"
+        }
+      ]
+    },
+    "ssc-biology-chapter-02-model-test-02": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "Chapter 02 Model Test 02",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "high-priority",
+        "tier-a"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "02",
+          "chapterName": "জীবকোষ ও টিস্যু"
+        }
+      ]
+    },
+    "ssc-biology-chapter-02-model-test-03": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "Chapter 02 Model Test 03",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "high-priority",
+        "tier-a"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "02",
+          "chapterName": "জীবকোষ ও টিস্যু"
+        }
+      ]
+    },
+    "ssc-biology-chapter-02-model-test-04": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "Chapter 02 Model Test 04",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "high-priority",
+        "tier-a"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "02",
+          "chapterName": "জীবকোষ ও টিস্যু"
+        }
+      ]
+    },
+    "ssc-biology-chapter-02-model-test-05": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "Chapter 02 Model Test 05",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "high-priority",
+        "tier-a"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "02",
+          "chapterName": "জীবকোষ ও টিস্যু"
+        }
+      ]
+    },
+    "ssc-biology-chapter-02-model-test-06": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "Chapter 02 Model Test 06",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "high-priority",
+        "tier-a"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "02",
+          "chapterName": "জীবকোষ ও টিস্যু"
+        }
+      ]
+    },
+    "ssc-biology-chapter-02-model-test-07": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "Chapter 02 Model Test 07",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "high-priority",
+        "tier-a"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "02",
+          "chapterName": "জীবকোষ ও টিস্যু"
+        }
+      ]
+    },
+    "ssc-biology-chapter-02-model-test-08": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "Chapter 02 Model Test 08",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "high-priority",
+        "tier-a"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "02",
+          "chapterName": "জীবকোষ ও টিস্যু"
+        }
+      ]
+    },
+    "ssc-biology-chapter-02-model-test-09": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "Chapter 02 Model Test 09",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "high-priority",
+        "tier-a"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "02",
+          "chapterName": "জীবকোষ ও টিস্যু"
+        }
+      ]
+    },
+    "ssc-biology-chapter-02-model-test-10": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "Chapter 02 Model Test 10",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "high-priority",
+        "tier-a"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "02",
+          "chapterName": "জীবকোষ ও টিস্যু"
+        }
+      ]
+    },
+    "ssc-biology-chapter-03-model-test-01": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "Chapter 03 Model Test 01",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "high-priority",
+        "tier-a"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "03",
+          "chapterName": "কোষ বিভাজন"
+        }
+      ]
+    },
+    "ssc-biology-chapter-03-model-test-02": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "Chapter 03 Model Test 02",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "high-priority",
+        "tier-a"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "03",
+          "chapterName": "কোষ বিভাজন"
+        }
+      ]
+    },
+    "ssc-biology-chapter-03-model-test-03": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "Chapter 03 Model Test 03",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "high-priority",
+        "tier-a"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "03",
+          "chapterName": "কোষ বিভাজন"
+        }
+      ]
+    },
+    "ssc-biology-chapter-03-model-test-04": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "Chapter 03 Model Test 04",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "high-priority",
+        "tier-a"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "03",
+          "chapterName": "কোষ বিভাজন"
+        }
+      ]
+    },
+    "ssc-biology-chapter-03-model-test-05": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "Chapter 03 Model Test 05",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "high-priority",
+        "tier-a"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "03",
+          "chapterName": "কোষ বিভাজন"
+        }
+      ]
+    },
+    "ssc-biology-chapter-03-model-test-06": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "Chapter 03 Model Test 06",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "high-priority",
+        "tier-a"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "03",
+          "chapterName": "কোষ বিভাজন"
+        }
+      ]
+    },
+    "ssc-biology-chapter-03-model-test-07": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "Chapter 03 Model Test 07",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "high-priority",
+        "tier-a"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "03",
+          "chapterName": "কোষ বিভাজন"
+        }
+      ]
+    },
+    "ssc-biology-chapter-03-model-test-08": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "Chapter 03 Model Test 08",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "high-priority",
+        "tier-a"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "03",
+          "chapterName": "কোষ বিভাজন"
+        }
+      ]
+    },
+    "ssc-biology-chapter-03-model-test-09": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "Chapter 03 Model Test 09",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "high-priority",
+        "tier-a"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "03",
+          "chapterName": "কোষ বিভাজন"
+        }
+      ]
+    },
+    "ssc-biology-chapter-03-model-test-10": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "Chapter 03 Model Test 10",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "high-priority",
+        "tier-a"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "03",
+          "chapterName": "কোষ বিভাজন"
+        }
+      ]
+    },
+    "ssc-biology-chapter-04-model-test-01": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "Chapter 04 Model Test 01",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "high-priority",
+        "tier-a"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "04",
+          "chapterName": "জীবনীশক্তি"
+        }
+      ]
+    },
+    "ssc-biology-chapter-04-model-test-02": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "Chapter 04 Model Test 02",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "high-priority",
+        "tier-a"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "04",
+          "chapterName": "জীবনীশক্তি"
+        }
+      ]
+    },
+    "ssc-biology-chapter-04-model-test-03": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "Chapter 04 Model Test 03",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "high-priority",
+        "tier-a"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "04",
+          "chapterName": "জীবনীশক্তি"
+        }
+      ]
+    },
+    "ssc-biology-chapter-04-model-test-04": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "Chapter 04 Model Test 04",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "high-priority",
+        "tier-a"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "04",
+          "chapterName": "জীবনীশক্তি"
+        }
+      ]
+    },
+    "ssc-biology-chapter-04-model-test-05": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "Chapter 04 Model Test 05",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "high-priority",
+        "tier-a"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "04",
+          "chapterName": "জীবনীশক্তি"
+        }
+      ]
+    },
+    "ssc-biology-chapter-04-model-test-06": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "Chapter 04 Model Test 06",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "high-priority",
+        "tier-a"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "04",
+          "chapterName": "জীবনীশক্তি"
+        }
+      ]
+    },
+    "ssc-biology-chapter-04-model-test-07": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "Chapter 04 Model Test 07",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "high-priority",
+        "tier-a"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "04",
+          "chapterName": "জীবনীশক্তি"
+        }
+      ]
+    },
+    "ssc-biology-chapter-04-model-test-08": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "Chapter 04 Model Test 08",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "high-priority",
+        "tier-a"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "04",
+          "chapterName": "জীবনীশক্তি"
+        }
+      ]
+    },
+    "ssc-biology-chapter-04-model-test-09": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "Chapter 04 Model Test 09",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "high-priority",
+        "tier-a"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "04",
+          "chapterName": "জীবনীশক্তি"
+        }
+      ]
+    },
+    "ssc-biology-chapter-04-model-test-10": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "Chapter 04 Model Test 10",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "high-priority",
+        "tier-a"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "04",
+          "chapterName": "জীবনীশক্তি"
+        }
+      ]
+    },
+    "ssc-biology-chapter-05-model-test-01": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "Chapter 05 Model Test 01",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "high-priority",
+        "tier-a"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "05",
+          "chapterName": "খাদ্য, পুষ্টি ও পরিপাক"
+        }
+      ]
+    },
+    "ssc-biology-chapter-05-model-test-02": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "Chapter 05 Model Test 02",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "high-priority",
+        "tier-a"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "05",
+          "chapterName": "খাদ্য, পুষ্টি ও পরিপাক"
+        }
+      ]
+    },
+    "ssc-biology-chapter-05-model-test-03": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "Chapter 05 Model Test 03",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "high-priority",
+        "tier-a"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "05",
+          "chapterName": "খাদ্য, পুষ্টি ও পরিপাক"
+        }
+      ]
+    },
+    "ssc-biology-chapter-05-model-test-04": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "Chapter 05 Model Test 04",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "high-priority",
+        "tier-a"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "05",
+          "chapterName": "খাদ্য, পুষ্টি ও পরিপাক"
+        }
+      ]
+    },
+    "ssc-biology-chapter-05-model-test-05": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "Chapter 05 Model Test 05",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "high-priority",
+        "tier-a"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "05",
+          "chapterName": "খাদ্য, পুষ্টি ও পরিপাক"
+        }
+      ]
+    },
+    "ssc-biology-chapter-05-model-test-06": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "Chapter 05 Model Test 06",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "high-priority",
+        "tier-a"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "05",
+          "chapterName": "খাদ্য, পুষ্টি ও পরিপাক"
+        }
+      ]
+    },
+    "ssc-biology-chapter-05-model-test-07": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "Chapter 05 Model Test 07",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "high-priority",
+        "tier-a"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "05",
+          "chapterName": "খাদ্য, পুষ্টি ও পরিপাক"
+        }
+      ]
+    },
+    "ssc-biology-chapter-05-model-test-08": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "Chapter 05 Model Test 08",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "high-priority",
+        "tier-a"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "05",
+          "chapterName": "খাদ্য, পুষ্টি ও পরিপাক"
+        }
+      ]
+    },
+    "ssc-biology-chapter-05-model-test-09": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "Chapter 05 Model Test 09",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "high-priority",
+        "tier-a"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "05",
+          "chapterName": "খাদ্য, পুষ্টি ও পরিপাক"
+        }
+      ]
+    },
+    "ssc-biology-chapter-05-model-test-10": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "Chapter 05 Model Test 10",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "high-priority",
+        "tier-a"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "05",
+          "chapterName": "খাদ্য, পুষ্টি ও পরিপাক"
+        }
+      ]
+    },
+    "ssc-biology-chapter-06-model-test-01": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "Chapter 06 Model Test 01",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "high-priority",
+        "tier-a"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "06",
+          "chapterName": "জীবে পরিবহন"
+        }
+      ]
+    },
+    "ssc-biology-chapter-06-model-test-02": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "Chapter 06 Model Test 02",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "high-priority",
+        "tier-a"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "06",
+          "chapterName": "জীবে পরিবহন"
+        }
+      ]
+    },
+    "ssc-biology-chapter-06-model-test-03": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "Chapter 06 Model Test 03",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "high-priority",
+        "tier-a"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "06",
+          "chapterName": "জীবে পরিবহন"
+        }
+      ]
+    },
+    "ssc-biology-chapter-06-model-test-04": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "Chapter 06 Model Test 04",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "high-priority",
+        "tier-a"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "06",
+          "chapterName": "জীবে পরিবহন"
+        }
+      ]
+    },
+    "ssc-biology-chapter-06-model-test-05": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "Chapter 06 Model Test 05",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "high-priority",
+        "tier-a"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "06",
+          "chapterName": "জীবে পরিবহন"
+        }
+      ]
+    },
+    "ssc-biology-chapter-06-model-test-06": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "Chapter 06 Model Test 06",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "high-priority",
+        "tier-a"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "06",
+          "chapterName": "জীবে পরিবহন"
+        }
+      ]
+    },
+    "ssc-biology-chapter-06-model-test-07": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "Chapter 06 Model Test 07",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "high-priority",
+        "tier-a"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "06",
+          "chapterName": "জীবে পরিবহন"
+        }
+      ]
+    },
+    "ssc-biology-chapter-06-model-test-08": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "Chapter 06 Model Test 08",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "high-priority",
+        "tier-a"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "06",
+          "chapterName": "জীবে পরিবহন"
+        }
+      ]
+    },
+    "ssc-biology-chapter-06-model-test-09": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "Chapter 06 Model Test 09",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "high-priority",
+        "tier-a"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "06",
+          "chapterName": "জীবে পরিবহন"
+        }
+      ]
+    },
+    "ssc-biology-chapter-06-model-test-10": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "Chapter 06 Model Test 10",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "high-priority",
+        "tier-a"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "06",
+          "chapterName": "জীবে পরিবহন"
+        }
+      ]
+    },
+    "ssc-biology-chapter-07-model-test-01": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "Chapter 07 Model Test 01",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "high-priority",
+        "tier-a"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "07",
+          "chapterName": "গ্যাসীয় বিনিময়"
+        }
+      ]
+    },
+    "ssc-biology-chapter-07-model-test-02": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "Chapter 07 Model Test 02",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "high-priority",
+        "tier-a"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "07",
+          "chapterName": "গ্যাসীয় বিনিময়"
+        }
+      ]
+    },
+    "ssc-biology-chapter-07-model-test-03": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "Chapter 07 Model Test 03",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "high-priority",
+        "tier-a"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "07",
+          "chapterName": "গ্যাসীয় বিনিময়"
+        }
+      ]
+    },
+    "ssc-biology-chapter-07-model-test-04": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "Chapter 07 Model Test 04",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "high-priority",
+        "tier-a"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "07",
+          "chapterName": "গ্যাসীয় বিনিময়"
+        }
+      ]
+    },
+    "ssc-biology-chapter-07-model-test-05": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "Chapter 07 Model Test 05",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "high-priority",
+        "tier-a"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "07",
+          "chapterName": "গ্যাসীয় বিনিময়"
+        }
+      ]
+    },
+    "ssc-biology-chapter-07-model-test-06": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "Chapter 07 Model Test 06",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "high-priority",
+        "tier-a"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "07",
+          "chapterName": "গ্যাসীয় বিনিময়"
+        }
+      ]
+    },
+    "ssc-biology-chapter-07-model-test-07": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "Chapter 07 Model Test 07",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "high-priority",
+        "tier-a"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "07",
+          "chapterName": "গ্যাসীয় বিনিময়"
+        }
+      ]
+    },
+    "ssc-biology-chapter-07-model-test-08": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "Chapter 07 Model Test 08",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "high-priority",
+        "tier-a"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "07",
+          "chapterName": "গ্যাসীয় বিনিময়"
+        }
+      ]
+    },
+    "ssc-biology-chapter-07-model-test-09": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "Chapter 07 Model Test 09",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "high-priority",
+        "tier-a"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "07",
+          "chapterName": "গ্যাসীয় বিনিময়"
+        }
+      ]
+    },
+    "ssc-biology-chapter-07-model-test-10": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "Chapter 07 Model Test 10",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "high-priority",
+        "tier-a"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "07",
+          "chapterName": "গ্যাসীয় বিনিময়"
+        }
+      ]
+    },
+    "ssc-biology-chapter-08-model-test-01": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "Chapter 08 Model Test 01",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "high-priority",
+        "tier-a"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "08",
+          "chapterName": "রেচন প্রক্রিয়া"
+        }
+      ]
+    },
+    "ssc-biology-chapter-08-model-test-02": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "Chapter 08 Model Test 02",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "high-priority",
+        "tier-a"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "08",
+          "chapterName": "রেচন প্রক্রিয়া"
+        }
+      ]
+    },
+    "ssc-biology-chapter-08-model-test-03": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "Chapter 08 Model Test 03",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "high-priority",
+        "tier-a"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "08",
+          "chapterName": "রেচন প্রক্রিয়া"
+        }
+      ]
+    },
+    "ssc-biology-chapter-08-model-test-04": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "Chapter 08 Model Test 04",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "high-priority",
+        "tier-a"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "08",
+          "chapterName": "রেচন প্রক্রিয়া"
+        }
+      ]
+    },
+    "ssc-biology-chapter-08-model-test-05": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "Chapter 08 Model Test 05",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "high-priority",
+        "tier-a"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "08",
+          "chapterName": "রেচন প্রক্রিয়া"
+        }
+      ]
+    },
+    "ssc-biology-chapter-08-model-test-06": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "Chapter 08 Model Test 06",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "high-priority",
+        "tier-a"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "08",
+          "chapterName": "রেচন প্রক্রিয়া"
+        }
+      ]
+    },
+    "ssc-biology-chapter-08-model-test-07": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "Chapter 08 Model Test 07",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "high-priority",
+        "tier-a"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "08",
+          "chapterName": "রেচন প্রক্রিয়া"
+        }
+      ]
+    },
+    "ssc-biology-chapter-08-model-test-08": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "Chapter 08 Model Test 08",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "high-priority",
+        "tier-a"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "08",
+          "chapterName": "রেচন প্রক্রিয়া"
+        }
+      ]
+    },
+    "ssc-biology-chapter-08-model-test-09": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "Chapter 08 Model Test 09",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "high-priority",
+        "tier-a"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "08",
+          "chapterName": "রেচন প্রক্রিয়া"
+        }
+      ]
+    },
+    "ssc-biology-chapter-08-model-test-10": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "Chapter 08 Model Test 10",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "high-priority",
+        "tier-a"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "08",
+          "chapterName": "রেচন প্রক্রিয়া"
+        }
+      ]
+    },
+    "ssc-biology-chapter-09-model-test-01": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "Chapter 09 Model Test 01",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "high-priority",
+        "tier-a"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "09",
+          "chapterName": "দৃঢ়তা প্রদান ও চলন"
+        }
+      ]
+    },
+    "ssc-biology-chapter-09-model-test-02": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "Chapter 09 Model Test 02",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "high-priority",
+        "tier-a"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "09",
+          "chapterName": "দৃঢ়তা প্রদান ও চলন"
+        }
+      ]
+    },
+    "ssc-biology-chapter-09-model-test-03": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "Chapter 09 Model Test 03",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "high-priority",
+        "tier-a"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "09",
+          "chapterName": "দৃঢ়তা প্রদান ও চলন"
+        }
+      ]
+    },
+    "ssc-biology-chapter-09-model-test-04": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "Chapter 09 Model Test 04",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "high-priority",
+        "tier-a"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "09",
+          "chapterName": "দৃঢ়তা প্রদান ও চলন"
+        }
+      ]
+    },
+    "ssc-biology-chapter-09-model-test-05": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "Chapter 09 Model Test 05",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "high-priority",
+        "tier-a"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "09",
+          "chapterName": "দৃঢ়তা প্রদান ও চলন"
+        }
+      ]
+    },
+    "ssc-biology-chapter-09-model-test-06": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "Chapter 09 Model Test 06",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "high-priority",
+        "tier-a"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "09",
+          "chapterName": "দৃঢ়তা প্রদান ও চলন"
+        }
+      ]
+    },
+    "ssc-biology-chapter-09-model-test-07": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "Chapter 09 Model Test 07",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "high-priority",
+        "tier-a"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "09",
+          "chapterName": "দৃঢ়তা প্রদান ও চলন"
+        }
+      ]
+    },
+    "ssc-biology-chapter-09-model-test-08": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "Chapter 09 Model Test 08",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "high-priority",
+        "tier-a"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "09",
+          "chapterName": "দৃঢ়তা প্রদান ও চলন"
+        }
+      ]
+    },
+    "ssc-biology-chapter-09-model-test-09": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "Chapter 09 Model Test 09",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "high-priority",
+        "tier-a"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "09",
+          "chapterName": "দৃঢ়তা প্রদান ও চলন"
+        }
+      ]
+    },
+    "ssc-biology-chapter-09-model-test-10": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "Chapter 09 Model Test 10",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "high-priority",
+        "tier-a"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "09",
+          "chapterName": "দৃঢ়তা প্রদান ও চলন"
+        }
+      ]
+    },
+    "ssc-biology-chapter-10-model-test-01": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "Chapter 10 Model Test 01",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "high-priority",
+        "tier-a"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "10",
+          "chapterName": "সমন্বয়"
+        }
+      ]
+    },
+    "ssc-biology-chapter-10-model-test-02": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "Chapter 10 Model Test 02",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "high-priority",
+        "tier-a"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "10",
+          "chapterName": "সমন্বয়"
+        }
+      ]
+    },
+    "ssc-biology-chapter-10-model-test-03": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "Chapter 10 Model Test 03",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "high-priority",
+        "tier-a"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "10",
+          "chapterName": "সমন্বয়"
+        }
+      ]
+    },
+    "ssc-biology-chapter-10-model-test-04": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "Chapter 10 Model Test 04",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "high-priority",
+        "tier-a"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "10",
+          "chapterName": "সমন্বয়"
+        }
+      ]
+    },
+    "ssc-biology-chapter-10-model-test-05": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "Chapter 10 Model Test 05",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "high-priority",
+        "tier-a"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "10",
+          "chapterName": "সমন্বয়"
+        }
+      ]
+    },
+    "ssc-biology-chapter-10-model-test-06": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "Chapter 10 Model Test 06",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "high-priority",
+        "tier-a"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "10",
+          "chapterName": "সমন্বয়"
+        }
+      ]
+    },
+    "ssc-biology-chapter-10-model-test-07": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "Chapter 10 Model Test 07",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "high-priority",
+        "tier-a"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "10",
+          "chapterName": "সমন্বয়"
+        }
+      ]
+    },
+    "ssc-biology-chapter-10-model-test-08": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "Chapter 10 Model Test 08",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "high-priority",
+        "tier-a"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "10",
+          "chapterName": "সমন্বয়"
+        }
+      ]
+    },
+    "ssc-biology-chapter-10-model-test-09": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "Chapter 10 Model Test 09",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "high-priority",
+        "tier-a"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "10",
+          "chapterName": "সমন্বয়"
+        }
+      ]
+    },
+    "ssc-biology-chapter-10-model-test-10": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "Chapter 10 Model Test 10",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "high-priority",
+        "tier-a"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "10",
+          "chapterName": "সমন্বয়"
+        }
+      ]
+    },
+    "ssc-biology-chapter-11-model-test-01": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "Chapter 11 Model Test 01",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "high-priority",
+        "tier-a"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "11",
+          "chapterName": "জীবের প্রজনন"
+        }
+      ]
+    },
+    "ssc-biology-chapter-11-model-test-02": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "Chapter 11 Model Test 02",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "high-priority",
+        "tier-a"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "11",
+          "chapterName": "জীবের প্রজনন"
+        }
+      ]
+    },
+    "ssc-biology-chapter-11-model-test-03": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "Chapter 11 Model Test 03",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "high-priority",
+        "tier-a"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "11",
+          "chapterName": "জীবের প্রজনন"
+        }
+      ]
+    },
+    "ssc-biology-chapter-11-model-test-04": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "Chapter 11 Model Test 04",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "high-priority",
+        "tier-a"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "11",
+          "chapterName": "জীবের প্রজনন"
+        }
+      ]
+    },
+    "ssc-biology-chapter-11-model-test-05": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "Chapter 11 Model Test 05",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "high-priority",
+        "tier-a"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "11",
+          "chapterName": "জীবের প্রজনন"
+        }
+      ]
+    },
+    "ssc-biology-chapter-11-model-test-06": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "Chapter 11 Model Test 06",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "high-priority",
+        "tier-a"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "11",
+          "chapterName": "জীবের প্রজনন"
+        }
+      ]
+    },
+    "ssc-biology-chapter-11-model-test-07": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "Chapter 11 Model Test 07",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "high-priority",
+        "tier-a"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "11",
+          "chapterName": "জীবের প্রজনন"
+        }
+      ]
+    },
+    "ssc-biology-chapter-11-model-test-08": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "Chapter 11 Model Test 08",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "high-priority",
+        "tier-a"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "11",
+          "chapterName": "জীবের প্রজনন"
+        }
+      ]
+    },
+    "ssc-biology-chapter-11-model-test-09": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "Chapter 11 Model Test 09",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "high-priority",
+        "tier-a"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "11",
+          "chapterName": "জীবের প্রজনন"
+        }
+      ]
+    },
+    "ssc-biology-chapter-11-model-test-10": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "Chapter 11 Model Test 10",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "high-priority",
+        "tier-a"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "11",
+          "chapterName": "জীবের প্রজনন"
+        }
+      ]
+    },
+    "ssc-biology-chapter-12-model-test-01": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "Chapter 12 Model Test 01",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "high-priority",
+        "tier-a"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "12",
+          "chapterName": "জীবের বংশগতি ও বিবর্তন"
+        }
+      ]
+    },
+    "ssc-biology-chapter-12-model-test-02": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "Chapter 12 Model Test 02",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "high-priority",
+        "tier-a"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "12",
+          "chapterName": "জীবের বংশগতি ও বিবর্তন"
+        }
+      ]
+    },
+    "ssc-biology-chapter-12-model-test-03": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "Chapter 12 Model Test 03",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "high-priority",
+        "tier-a"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "12",
+          "chapterName": "জীবের বংশগতি ও বিবর্তন"
+        }
+      ]
+    },
+    "ssc-biology-chapter-12-model-test-04": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "Chapter 12 Model Test 04",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "high-priority",
+        "tier-a"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "12",
+          "chapterName": "জীবের বংশগতি ও বিবর্তন"
+        }
+      ]
+    },
+    "ssc-biology-chapter-12-model-test-05": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "Chapter 12 Model Test 05",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "high-priority",
+        "tier-a"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "12",
+          "chapterName": "জীবের বংশগতি ও বিবর্তন"
+        }
+      ]
+    },
+    "ssc-biology-chapter-12-model-test-06": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "Chapter 12 Model Test 06",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "high-priority",
+        "tier-a"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "12",
+          "chapterName": "জীবের বংশগতি ও বিবর্তন"
+        }
+      ]
+    },
+    "ssc-biology-chapter-12-model-test-07": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "Chapter 12 Model Test 07",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "high-priority",
+        "tier-a"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "12",
+          "chapterName": "জীবের বংশগতি ও বিবর্তন"
+        }
+      ]
+    },
+    "ssc-biology-chapter-12-model-test-08": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "Chapter 12 Model Test 08",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "high-priority",
+        "tier-a"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "12",
+          "chapterName": "জীবের বংশগতি ও বিবর্তন"
+        }
+      ]
+    },
+    "ssc-biology-chapter-12-model-test-09": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "Chapter 12 Model Test 09",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "high-priority",
+        "tier-a"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "12",
+          "chapterName": "জীবের বংশগতি ও বিবর্তন"
+        }
+      ]
+    },
+    "ssc-biology-chapter-12-model-test-10": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "Chapter 12 Model Test 10",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "high-priority",
+        "tier-a"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "12",
+          "chapterName": "জীবের বংশগতি ও বিবর্তন"
+        }
+      ]
+    },
+    "ssc-biology-chapter-13-model-test-01": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "Chapter 13 Model Test 01",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "high-priority",
+        "tier-a"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "13",
+          "chapterName": "জীবের পরিবেশ"
+        }
+      ]
+    },
+    "ssc-biology-chapter-13-model-test-02": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "Chapter 13 Model Test 02",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "high-priority",
+        "tier-a"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "13",
+          "chapterName": "জীবের পরিবেশ"
+        }
+      ]
+    },
+    "ssc-biology-chapter-13-model-test-03": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "Chapter 13 Model Test 03",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "high-priority",
+        "tier-a"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "13",
+          "chapterName": "জীবের পরিবেশ"
+        }
+      ]
+    },
+    "ssc-biology-chapter-13-model-test-04": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "Chapter 13 Model Test 04",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "high-priority",
+        "tier-a"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "13",
+          "chapterName": "জীবের পরিবেশ"
+        }
+      ]
+    },
+    "ssc-biology-chapter-13-model-test-05": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "Chapter 13 Model Test 05",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "high-priority",
+        "tier-a"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "13",
+          "chapterName": "জীবের পরিবেশ"
+        }
+      ]
+    },
+    "ssc-biology-chapter-13-model-test-06": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "Chapter 13 Model Test 06",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "high-priority",
+        "tier-a"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "13",
+          "chapterName": "জীবের পরিবেশ"
+        }
+      ]
+    },
+    "ssc-biology-chapter-13-model-test-07": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "Chapter 13 Model Test 07",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "high-priority",
+        "tier-a"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "13",
+          "chapterName": "জীবের পরিবেশ"
+        }
+      ]
+    },
+    "ssc-biology-chapter-13-model-test-08": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "Chapter 13 Model Test 08",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "high-priority",
+        "tier-a"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "13",
+          "chapterName": "জীবের পরিবেশ"
+        }
+      ]
+    },
+    "ssc-biology-chapter-13-model-test-09": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "Chapter 13 Model Test 09",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "high-priority",
+        "tier-a"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "13",
+          "chapterName": "জীবের পরিবেশ"
+        }
+      ]
+    },
+    "ssc-biology-chapter-13-model-test-10": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "Chapter 13 Model Test 10",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "high-priority",
+        "tier-a"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "13",
+          "chapterName": "জীবের পরিবেশ"
+        }
+      ]
+    },
+    "ssc-biology-chapter-14-model-test-01": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "Chapter 14 Model Test 01",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "high-priority",
+        "tier-a"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "14",
+          "chapterName": "জীবপ্রযুক্তি"
+        }
+      ]
+    },
+    "ssc-biology-chapter-14-model-test-02": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "Chapter 14 Model Test 02",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "high-priority",
+        "tier-a"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "14",
+          "chapterName": "জীবপ্রযুক্তি"
+        }
+      ]
+    },
+    "ssc-biology-chapter-14-model-test-03": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "Chapter 14 Model Test 03",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "high-priority",
+        "tier-a"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "14",
+          "chapterName": "জীবপ্রযুক্তি"
+        }
+      ]
+    },
+    "ssc-biology-chapter-14-model-test-04": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "Chapter 14 Model Test 04",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "high-priority",
+        "tier-a"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "14",
+          "chapterName": "জীবপ্রযুক্তি"
+        }
+      ]
+    },
+    "ssc-biology-chapter-14-model-test-05": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "Chapter 14 Model Test 05",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "high-priority",
+        "tier-a"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "14",
+          "chapterName": "জীবপ্রযুক্তি"
+        }
+      ]
+    },
+    "ssc-biology-chapter-14-model-test-06": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "Chapter 14 Model Test 06",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "high-priority",
+        "tier-a"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "14",
+          "chapterName": "জীবপ্রযুক্তি"
+        }
+      ]
+    },
+    "ssc-biology-chapter-14-model-test-07": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "Chapter 14 Model Test 07",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "high-priority",
+        "tier-a"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "14",
+          "chapterName": "জীবপ্রযুক্তি"
+        }
+      ]
+    },
+    "ssc-biology-chapter-14-model-test-08": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "Chapter 14 Model Test 08",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "high-priority",
+        "tier-a"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "14",
+          "chapterName": "জীবপ্রযুক্তি"
+        }
+      ]
+    },
+    "ssc-biology-chapter-14-model-test-09": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "Chapter 14 Model Test 09",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "high-priority",
+        "tier-a"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "14",
+          "chapterName": "জীবপ্রযুক্তি"
+        }
+      ]
+    },
+    "ssc-biology-chapter-14-model-test-10": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "Chapter 14 Model Test 10",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "high-priority",
+        "tier-a"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "14",
+          "chapterName": "জীবপ্রযুক্তি"
+        }
+      ]
+    },
+    "ssc-biology-board-standard-model-test-01": {
+      "questionCount": 25,
+      "scope": "paper",
+      "displayTitle": "Model Test 01",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "ssc-2026",
+        "biology",
+        "board-standard",
+        "high-priority"
+      ],
+      "chaptersCovered": [
+        "জীবকোষ ও টিস্যু",
+        "কোষ বিভাজন",
+        "জীবনীশক্তি",
+        "খাদ্য, পুষ্টি ও পরিপাক",
+        "জীবে পরিবহন",
+        "রেচন প্রক্রিয়া",
+        "সমন্বয়",
+        "জীবের বংশগতি ও বিবর্তন",
+        "জীবের পরিবেশ"
+      ]
+    },
+    "ssc-biology-board-standard-model-test-02": {
+      "questionCount": 25,
+      "scope": "paper",
+      "displayTitle": "Model Test 02",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "ssc-2026",
+        "biology",
+        "board-standard",
+        "high-priority"
+      ],
+      "chaptersCovered": [
+        "জীবন পাঠ",
+        "জীবকোষ ও টিস্যু",
+        "কোষ বিভাজন",
+        "খাদ্য, পুষ্টি ও পরিপাক",
+        "জীবে পরিবহন",
+        "সমন্বয়",
+        "জীবের বংশগতি ও বিবর্তন"
+      ]
+    }
+  }
+}

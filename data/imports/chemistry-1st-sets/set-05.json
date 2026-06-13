@@ -1,0 +1,381 @@
+{
+  "setNumber": 5,
+  "subject": "Chemistry 1st Paper",
+  "questions": [
+    {
+      "questionNumber": 1,
+      "passage": "একটি মৌল Y এর পারমাণবিক সংখ্যা 13। এটি অক্সিজেনের সাথে বিক্রিয়ায় একটি উভধর্মী অক্সাইড গঠন করে।",
+      "questionText": "Y কোন মৌল?",
+      "options": [
+        "ক) Al",
+        "খ) Si",
+        "গ) Mg",
+        "ঘ) B"
+      ],
+      "correctOption": "ক",
+      "explanation": "Z=13 → Al, Al₂O₃ উভধর্মী।",
+      "topic": "পর্যায় সারণি ও মৌলের ধর্ম",
+      "probability": "Mega Hot"
+    },
+    {
+      "questionNumber": 2,
+      "passage": "Y এর ক্লোরাইড পানিতে দ্রবীভূত করলে অম্লীয় দ্রবণ উৎপন্ন করে।",
+      "questionText": "এর কারণ—",
+      "options": [
+        "ক) AlCl₃ এর আয়নিক বন্ধন",
+        "খ) AlCl₃ পানিতে আর্দ্র বিশ্লেষণ হয়ে HCl উৎপন্ন করে",
+        "গ) AlCl₃ ক্ষারীয়",
+        "ঘ) AlCl₃ পানিতে দ্রবীভূত হয় না"
+      ],
+      "correctOption": "খ",
+      "explanation": "AlCl₃ + 3H₂O → Al(OH)₃ + 3HCl, অম্লীয়।",
+      "topic": "মৌলের যৌগসমূহ",
+      "probability": "Very Hot"
+    },
+    {
+      "questionNumber": 3,
+      "passage": "একটি গ্যাসের ব্যাপন হার নির্ণয়ে দেখা গেল 50 mL গ্যাস নির্গত হতে 40 সেকেন্ড লাগে। একই অবস্থায় সমআয়তন O₂ নির্গত হতে 25 সেকেন্ড লাগে।",
+      "questionText": "গ্যাসটির আণবিক ভর কত? (O₂=32)",
+      "options": [
+        "ক) 64",
+        "খ) 16",
+        "গ) 128",
+        "ঘ) 32"
+      ],
+      "correctOption": "গ",
+      "explanation": "গ্রাহামের সূত্র: r₁/r₂ = t₂/t₁ = 25/40 = 5/8; √(M₂/M₁) = 5/8 → M₁ = 32×(8/5)² = 128 g/mol (HI)।",
+      "topic": "গ্যাসের ব্যাপন",
+      "probability": "Mega Hot"
+    },
+    {
+      "questionNumber": 4,
+      "passage": "গ্যাসটির পরিচয় নির্ণয়ে দেখা গেল এটি একটি হ্যালোজেন।",
+      "questionText": "এটি কোন গ্যাস?",
+      "options": [
+        "ক) HI (M=128)",
+        "খ) HBr (M=81)",
+        "গ) HCl (M=36.5)",
+        "ঘ) HF (M=20)"
+      ],
+      "correctOption": "ক",
+      "explanation": "আণবিক ভর 128 → HI (হাইড্রোজেন আয়োডাইড)।",
+      "topic": "মৌলের ধর্ম",
+      "probability": "Very Hot"
+    },
+    {
+      "questionNumber": 5,
+      "passage": null,
+      "questionText": "কোন মৌলের তড়িৎ ঋণাত্মকতা সবচেয়ে কম?",
+      "options": [
+        "ক) Cs",
+        "খ) F",
+        "গ) O",
+        "ঘ) Li"
+      ],
+      "correctOption": "ক",
+      "explanation": "Cs ক্ষার ধাতু, সর্বনিম্ন তড়িৎ ঋণাত্মকতা (~0.79)।",
+      "topic": "পর্যায়বৃত্ত ধর্ম",
+      "probability": "Board Favourite"
+    },
+    {
+      "questionNumber": 6,
+      "passage": null,
+      "questionText": "1 mol জলে 1 mol NaCl দ্রবীভূত করলে বাষ্পচাপ কী হবে?",
+      "options": [
+        "ক) অপরিবর্তিত",
+        "খ) কমবে",
+        "গ) বাড়বে",
+        "ঘ) শূন্য হবে"
+      ],
+      "correctOption": "খ",
+      "explanation": "দ্রাব যোগে বাষ্পচাপ হ্রাস পায় (রাউল্টের সূত্র)।",
+      "topic": "দ্রবণের ধর্ম",
+      "probability": "Very Hot"
+    },
+    {
+      "questionNumber": 7,
+      "passage": null,
+      "questionText": "H₂SO₄ প্রস্তুতির কন্টাক্ট প্রক্রিয়ায় SO₂ থেকে SO₃ উৎপাদনের শর্ত—",
+      "options": [
+        "ক) উচ্চ তাপ ও অনুঘটক",
+        "খ) নিম্ন তাপ ও উচ্চ চাপ",
+        "গ) 450°C ও V₂O₅ অনুঘটক",
+        "ঘ) 200°C ও Pt অনুঘটক"
+      ],
+      "correctOption": "গ",
+      "explanation": "কন্টাক্ট প্রক্রিয়ায় 450°C, V₂O₅।",
+      "topic": "শিল্প রসায়ন",
+      "probability": "Mega Hot"
+    },
+    {
+      "questionNumber": 8,
+      "passage": null,
+      "questionText": "একটি বাফারের ক্ষমতা সর্বোচ্চ হয় যখন—",
+      "options": [
+        "ক) [লবণ] = [অ্যাসিড]",
+        "খ) [লবণ] > [অ্যাসিড]",
+        "গ) [অ্যাসিড] > [লবণ]",
+        "ঘ) তাপমাত্রা বেশি"
+      ],
+      "correctOption": "ক",
+      "explanation": "সমান ঘনত্বে বাফার ক্ষমতা সর্বোচ্চ।",
+      "topic": "বাফার",
+      "probability": "Very Hot"
+    },
+    {
+      "questionNumber": 9,
+      "passage": null,
+      "questionText": "কোন অণুতে π বন্ধন আছে কিন্তু σ বন্ধন নেই?",
+      "options": [
+        "ক) C₂H₄",
+        "খ) N₂",
+        "গ) O₂",
+        "ঘ) উপরের সবগুলোতেই σ বন্ধন আছে"
+      ],
+      "correctOption": "ঘ",
+      "explanation": "প্রত্যেক অণুতে σ বন্ধন বিদ্যমান।",
+      "topic": "রাসায়নিক বন্ধন",
+      "probability": "Conceptual Trap"
+    },
+    {
+      "questionNumber": 10,
+      "passage": null,
+      "questionText": "জারণ-বিজারণ টাইট্রেশনে KMnO₄ এর বর্ণ পরিবর্তন—",
+      "options": [
+        "ক) বর্ণহীন → বেগুনি",
+        "খ) বেগুনি → বর্ণহীন",
+        "গ) সবুজ → লাল",
+        "ঘ) হলুদ → নীল"
+      ],
+      "correctOption": "খ",
+      "explanation": "MnO₄⁻ (বেগুনি) → Mn²⁺ (বর্ণহীন)।",
+      "topic": "জারণ-বিজারণ",
+      "probability": "Board Favourite"
+    },
+    {
+      "questionNumber": 11,
+      "passage": null,
+      "questionText": "1 L দ্রবণে 4.0 g NaOH দ্রবীভূত করলে দ্রবণের pH কত? (NaOH=40)",
+      "options": [
+        "ক) 13",
+        "খ) 12",
+        "গ) 10",
+        "ঘ) 11"
+      ],
+      "correctOption": "ক",
+      "explanation": "[NaOH]=0.1 M, [OH⁻]=0.1 M, pOH=1, pH=13।",
+      "topic": "pH ও pOH",
+      "probability": "Mega Hot"
+    },
+    {
+      "questionNumber": 12,
+      "passage": null,
+      "questionText": "সবচেয়ে বড় পারমাণবিক ব্যাসার্ধ কোন মৌলের?",
+      "options": [
+        "ক) Cs",
+        "খ) Rb",
+        "গ) K",
+        "ঘ) Na"
+      ],
+      "correctOption": "ক",
+      "explanation": "ক্ষার ধাতুতে নিচের দিকে ব্যাসার্ধ বাড়ে, Cs বৃহত্তম।",
+      "topic": "পর্যায়বৃত্ত ধর্ম",
+      "probability": "Board Favourite"
+    },
+    {
+      "questionNumber": 13,
+      "passage": null,
+      "questionText": "CH₃COOH দুর্বল অ্যাসিড কারণ—",
+      "options": [
+        "ক) আংশিক বিয়োজিত হয়",
+        "খ) সম্পূর্ণ বিয়োজিত হয়",
+        "গ) H⁺ দেয় না",
+        "ঘ) শক্তিশালী"
+      ],
+      "correctOption": "ক",
+      "explanation": "আংশিক বিয়োজন (Ka ছোট)।",
+      "topic": "অ্যাসিড-ক্ষার তত্ত্ব",
+      "probability": "Board Favourite"
+    },
+    {
+      "questionNumber": 14,
+      "passage": null,
+      "questionText": "উপগৃহ কোয়ান্টাম সংখ্যা l = 2 নির্দেশ করে কোন অরবিটাল?",
+      "options": [
+        "ক) s",
+        "খ) p",
+        "গ) d",
+        "ঘ) f"
+      ],
+      "correctOption": "গ",
+      "explanation": "l=0(s), 1(p), 2(d), 3(f)।",
+      "topic": "পারমাণবিক গঠন",
+      "probability": "Board Favourite"
+    },
+    {
+      "questionNumber": 15,
+      "passage": null,
+      "questionText": "আয়নিক যৌগের বৈশিষ্ট্য— i. উচ্চ গলনাঙ্ক ii. কঠিন অবস্থায় বিদ্যুৎ পরিবহী iii. জলে দ্রবীভূত হয়ে আয়ন উৎপন্ন করে নিচের কোনটি সঠিক?",
+      "options": [
+        "ক) i ও ii",
+        "খ) i ও iii",
+        "গ) ii ও iii",
+        "ঘ) i, ii ও iii"
+      ],
+      "correctOption": "খ",
+      "explanation": "কঠিন অবস্থায় আয়নিক যৌগ বিদ্যুৎ পরিবহী নয়, ii ভুল।",
+      "topic": "রাসায়নিক বন্ধন",
+      "probability": "Very Hot"
+    },
+    {
+      "questionNumber": 16,
+      "passage": null,
+      "questionText": "পরমাণুর স্থায়ী ইলেকট্রন বিন্যাসে— i. অরবিটাল শক্তির ক্রম অনুযায়ী ইলেকট্রন প্রবেশ করে ii. হুন্ডের নীতি মানা হয় iii. পলির বর্জন নীতি মানা হয় নিচের কোনটি সঠিক?",
+      "options": [
+        "ক) i ও ii",
+        "খ) i ও iii",
+        "গ) ii ও iii",
+        "ঘ) i, ii ও iii"
+      ],
+      "correctOption": "ঘ",
+      "explanation": "তিনটি নীতিই প্রযোজ্য।",
+      "topic": "পারমাণবিক গঠন",
+      "probability": "Mega Hot"
+    },
+    {
+      "questionNumber": 17,
+      "passage": null,
+      "questionText": "একটি গ্যাস সিলিন্ডারে N₂ ও O₂ এর মোল সংখ্যা যথাক্রমে 2 ও 3। মোট চাপ 500 torr। O₂ এর আংশিক চাপ— i. 300 torr ii. মোল ভগ্নাংশ 0.6 iii. 200 torr নিচের কোনটি সঠিক?",
+      "options": [
+        "ক) i ও ii",
+        "খ) i ও iii",
+        "গ) ii ও iii",
+        "ঘ) i, ii ও iii"
+      ],
+      "correctOption": "ক",
+      "explanation": "O₂ মোল ভগ্নাংশ = 3/5=0.6; আংশিক চাপ = 0.6×500=300 torr। iii ভুল।",
+      "topic": "গ্যাসের সূত্র",
+      "probability": "Very Hot"
+    },
+    {
+      "questionNumber": 18,
+      "passage": null,
+      "questionText": "কঠিন জলের খরতা দূরীকরণে জিওলাইট পদ্ধতি— i. আয়ন বিনিময় ii. Na⁺ বিনিময় করে Ca²⁺/Mg²⁺ iii. রাসায়নিক অধঃক্ষেপ নিচের কোনটি সঠিক?",
+      "options": [
+        "ক) i ও ii",
+        "খ) i ও iii",
+        "গ) ii ও iii",
+        "ঘ) i, ii ও iii"
+      ],
+      "correctOption": "ক",
+      "explanation": "জিওলাইট আয়ন বিনিময় করে, অধঃক্ষেপ নয়। iii ভুল।",
+      "topic": "পানি ও পরিবেশ রসায়ন",
+      "probability": "Mega Hot"
+    },
+    {
+      "questionNumber": 19,
+      "passage": null,
+      "questionText": "H₂SO₄ এর ধর্ম— i. পানিগ্রাহী ii. জারক iii. ডাইবেসিক অ্যাসিড নিচের কোনটি সঠিক?",
+      "options": [
+        "ক) i ও ii",
+        "খ) i ও iii",
+        "গ) ii ও iii",
+        "ঘ) i, ii ও iii"
+      ],
+      "correctOption": "ঘ",
+      "explanation": "H₂SO₄ ডাইবেসিক (2H⁺ দেয়), জারক ও পানিগ্রাহী।",
+      "topic": "মৌলের যৌগসমূহ",
+      "probability": "Very Hot"
+    },
+    {
+      "questionNumber": 20,
+      "passage": null,
+      "questionText": "0.1 M CH₃COOH (Ka=1.8×10⁻⁵) ও 0.1 M CH₃COONa মিশ্রণের— i. pH = 4.74 ii. বাফার দ্রবণ iii. pH = 7 নিচের কোনটি সঠিক?",
+      "options": [
+        "ক) i ও ii",
+        "খ) i ও iii",
+        "গ) ii ও iii",
+        "ঘ) i, ii ও iii"
+      ],
+      "correctOption": "ক",
+      "explanation": "বাফার, pH = pKa + log(1) = 4.74। iii ভুল।",
+      "topic": "বাফার",
+      "probability": "Board Favourite"
+    },
+    {
+      "questionNumber": 21,
+      "passage": null,
+      "questionText": "একটি মৌলের ইলেকট্রন বিন্যাস [Kr]4d¹⁰5s², এটি—",
+      "options": [
+        "ক) Zn",
+        "খ) Cd",
+        "গ) Hg",
+        "ঘ) Sr"
+      ],
+      "correctOption": "খ",
+      "explanation": "[Kr]4d¹⁰5s² → Cd (Z=48)।",
+      "topic": "পর্যায় সারণি",
+      "probability": "Very Hot"
+    },
+    {
+      "questionNumber": 22,
+      "passage": null,
+      "questionText": "1 mol KMnO₄ এসিডীয় মাধ্যমে FeSO₄ দ্বারা সম্পূর্ণ বিজারিত করলে FeSO₄ এর কত mol প্রয়োজন?",
+      "options": [
+        "ক) 5",
+        "খ) 1",
+        "গ) 2",
+        "ঘ) 10"
+      ],
+      "correctOption": "ক",
+      "explanation": "MnO₄⁻ + 5Fe²⁺ + 8H⁺ → Mn²⁺ + 5Fe³⁺ + 4H₂O। 1:5 অনুপাত।",
+      "topic": "জারণ-বিজারণ",
+      "probability": "Mega Hot"
+    },
+    {
+      "questionNumber": 23,
+      "passage": null,
+      "questionText": "গ্রিনহাউস গ্যাস নয় কোনটি?",
+      "options": [
+        "ক) CO₂",
+        "খ) CH₄",
+        "গ) N₂",
+        "ঘ) CFC"
+      ],
+      "correctOption": "গ",
+      "explanation": "N₂ গ্রিনহাউস গ্যাস নয়।",
+      "topic": "পরিবেশ রসায়ন",
+      "probability": "Board Favourite"
+    },
+    {
+      "questionNumber": 24,
+      "passage": null,
+      "questionText": "PV = nRT সমীকরণে R এর একক কোনটি?",
+      "options": [
+        "ক) J·mol⁻¹·K⁻¹",
+        "খ) L·atm·mol⁻¹·K⁻¹",
+        "গ) cal·mol⁻¹·K⁻¹",
+        "ঘ) উপরের সবগুলো"
+      ],
+      "correctOption": "ঘ",
+      "explanation": "R বিভিন্ন এককে প্রকাশ করা যায়, সব।",
+      "topic": "গ্যাসের সূত্র",
+      "probability": "Board Favourite"
+    },
+    {
+      "questionNumber": 25,
+      "passage": null,
+      "questionText": "একটি রাসায়নিক বিক্রিয়ার হার তাপমাত্রা 10°C বাড়ালে দ্বিগুণ হয়। 20°C বাড়ালে হার কত গুণ হবে?",
+      "options": [
+        "ক) 2",
+        "খ) 4",
+        "গ) 8",
+        "ঘ) 16"
+      ],
+      "correctOption": "খ",
+      "explanation": "10°C এ 2 গুণ, 20°C এ 2² = 4 গুণ।",
+      "topic": "রাসায়নিক গতিবিদ্যা",
+      "probability": "Very Hot"
+    }
+  ]
+}

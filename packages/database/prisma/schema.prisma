@@ -1,0 +1,83 @@
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "sqlite"
+  url      = "file:./dev.db"
+}
+
+model User {
+  id        String   @id @default(uuid())
+  email     String   @unique
+  name      String?
+  picture   String?
+  role      String   @default("STUDENT") // STUDENT, ADMIN
+  createdAt DateTime @default(now())
+  updatedAt DateTime @updatedAt
+  attempts  ExamAttempt[]
+}
+
+model ClassLevel {
+  id        String   @id @default(uuid())
+  slug      String   @unique // e.g., hsc, ssc
+  name      String
+  subjects  Subject[]
+}
+
+model Subject {
+  id           String      @id @default(uuid())
+  slug         String      @unique // e.g., physics, chemistry
+  name         String
+  classLevelId String
+  classLevel   ClassLevel  @relation(fields: [classLevelId], references: [id])
+  chapters     Chapter[]
+  questions    Question[]
+}
+
+model Chapter {
+  id        String     @id @default(uuid())
+  slug      String     @unique // e.g., chapter-1
+  title     String
+  subjectId String
+  subject   Subject    @relation(fields: [subjectId], references: [id])
+  questions Question[]
+}
+
+model Question {
+  id            String   @id @default(uuid())
+  questionText  String
+  optionA       String
+  optionB       String
+  optionC       String
+  optionD       String
+  correctOption String   // A, B, C, D
+  explanation   String?
+  subjectId     String
+  chapterId     String?
+  category      String?
+  isLive        Boolean  @default(false)
+  
+  subject       Subject  @relation(fields: [subjectId], references: [id])
+  chapter       Chapter? @relation(fields: [chapterId], references: [id])
+  
+  createdAt     DateTime @default(now())
+}
+
+model ExamAttempt {
+  id             String   @id @default(uuid())
+  userId         String
+  examSlug       String
+  examName       String
+  mode           String?  // practice, actual
+  score          Int
+  totalQuestions Int
+  correctAnswers Int
+  wrongAnswers   Int
+  skippedAnswers Int
+  percentage     Float
+  timeTaken      Int      // in seconds
+  createdAt      DateTime @default(now())
+  
+  user           User     @relation(fields: [userId], references: [id])
+}

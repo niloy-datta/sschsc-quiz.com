@@ -1,0 +1,352 @@
+[
+  {
+    "id": "ssc-higher-math-ch01-set03-q01",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-01-model-test-03",
+    "text": "6টি উপাদানবিশিষ্ট সেটের power set-এ কয়টি উপাদান থাকে?",
+    "options": [
+      "36",
+      "64",
+      "12",
+      "7"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-higher-math-ch01-set03-q02",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-01-model-test-03",
+    "text": "6টি উপাদানবিশিষ্ট সেটের power set-এ কয়টি উপাদান থাকে?",
+    "options": [
+      "12",
+      "7",
+      "64",
+      "36"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-higher-math-ch01-set03-q03",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-01-model-test-03",
+    "text": "6টি উপাদানবিশিষ্ট সেটের power set-এ কয়টি উপাদান থাকে?",
+    "options": [
+      "36",
+      "12",
+      "7",
+      "64"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-higher-math-ch01-set03-q04",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-01-model-test-03",
+    "text": "6টি উপাদানবিশিষ্ট সেটের power set-এ কয়টি উপাদান থাকে?",
+    "options": [
+      "12",
+      "64",
+      "36",
+      "7"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-higher-math-ch01-set03-q05",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-01-model-test-03",
+    "text": "নিচের কোনটি ফাংশন? *(অপশনগুলোতে চিত্র/গ্রাফ ছিল যা এখানে অনুপস্থিত)*",
+    "options": [
+      "(অস্পষ্ট)",
+      "(অস্পষ্ট)",
+      "(অস্পষ্ট)",
+      "(অস্পষ্ট)"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-higher-math-ch01-set03-q06",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-01-model-test-03",
+    "text": "সার্বিক সেট $U$ এর উপসেট $A, B$ এবং $C$ হলে— i. $(A \\cup B)' = A' \\cap B'$ ii. $(A \\cap B)' = A' \\cap B'$ iii. $A \\cup (B \\cap C) = (A \\cup B) \\cap (A \\cup C)$ নিচের কোনটি সঠিক?",
+    "options": [
+      "i ও ii",
+      "i ও iii",
+      "ii ও iii",
+      "i, ii ও iii"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-higher-math-ch01-set03-q07",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-01-model-test-03",
+    "text": "$f(x) = 5^{-x}$ হলে— i. ডোম $f = (-\\infty, \\infty)$ ii. রেঞ্জ $f = (0, \\infty)$ iii. $f^{-1}(x) = -1.43 \\log_{10} x$ নিচের কোনটি সঠিক?",
+    "options": [
+      "i ও ii",
+      "i ও iii",
+      "ii ও iii",
+      "i, ii ও iii"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-higher-math-ch01-set03-q08",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-01-model-test-03",
+    "text": "$A$ ও $B$ সেট হলে $A \\setminus B$ এর সেট গঠন পদ্ধতিতে প্রকাশ কোনটি?",
+    "options": [
+      "$\\{x : x \\in A \\text{ এবং } x \\in B\\}$",
+      "$\\{x : x \\in A \\text{ অথবা } x \\in B\\}$",
+      "$\\{x : x \\in A \\text{ এবং } x \\notin B\\}$",
+      "$\\{x : x \\in A \\text{ অথবা } x \\notin B\\}$"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-higher-math-ch01-set03-q09",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-01-model-test-03",
+    "text": "$f(x) = x^2$ হলে— i. ডোম $f = \\mathbb{R}$ ii. রেঞ্জ $f = \\{y \\in \\mathbb{R} : y \\ge 0\\}$ iii. $f$ এক-এক ফাংশন নিচের কোনটি সঠিক?",
+    "options": [
+      "i ও ii",
+      "i ও iii",
+      "ii ও iii",
+      "i, ii ও iii"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-higher-math-ch01-set03-q10",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-01-model-test-03",
+    "text": "\\\\(|2x-5|+3=2\\\\) সমীকরণের সমাধান সেট কোনটি?",
+    "options": [
+      "\\\\(\\\\varnothing\\\\)",
+      "\\\\(\\\\{3\\\\}\\\\)",
+      "\\\\(\\\\{-3\\\\}\\\\)",
+      "\\\\(\\\\{\\\\pm3\\\\}\\\\)"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-higher-math-ch01-set03-q11",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-01-model-test-03",
+    "text": "$S = \\{(x, y) : x^2 + y^2 = 25\\}$ হলে— i. $S$ এর লেখচিত্রটি একটি বৃত্ত ii. $-5 \\le y \\le 0$ শর্তে, $S$ একটি ফাংশন iii. $0 \\le y \\le 5$ শর্তে $S$ একটি ফাংশন নিচের কোনটি সঠিক?",
+    "options": [
+      "i ও ii",
+      "i ও iii",
+      "ii ও iii",
+      "i, ii ও iii"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-higher-math-ch01-set03-q12",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-01-model-test-03",
+    "text": "যদি $n(A) = 4$ এবং $n(B) = 7$ যেখানে, $A$ ও $B$ নিশ্ছেদ সেট, তবে $n(A \\cup B) =$ কত?",
+    "options": [
+      "3",
+      "4",
+      "11",
+      "28"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-higher-math-ch01-set03-q13",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-01-model-test-03",
+    "text": "$y = x^2 + 4x + 1$ ফাংশনের লেখচিত্র কীরূপ?",
+    "options": [
+      "বৃত্ত",
+      "পরাবৃত্ত",
+      "উপবৃত্ত",
+      "অধিবৃত্ত"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-higher-math-ch01-set03-q14",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-01-model-test-03",
+    "text": "$y = \\log_5 x$ এর বিপরীত ফাংশন কোনটি?",
+    "options": [
+      "$y = \\log_x 5$",
+      "$y = 5^x$",
+      "$y = \\log_x \\frac{1}{5}$",
+      "$y = 5^{-x}$"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-higher-math-ch01-set03-q15",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-01-model-test-03",
+    "text": "$y = 3^{x-1}$ ফাংশনের— i. ডোমেন = $(-\\infty, \\infty)$ ii. রেঞ্জ = $(0, \\infty)$ iii. বিপরীত ফাংশন $\\log_3(x+3)$ নিচের কোনটি সঠিক?",
+    "options": [
+      "i ও ii",
+      "i ও iii",
+      "ii ও iii",
+      "i, ii ও iii"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-higher-math-ch01-set03-q16",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-01-model-test-03",
+    "text": "সার্বিক সেট $U = \\{3, 4, 5, 6\\}$ হলে, $S = \\{x : x+2 \\le 7\\}$ এর প্রকৃত উপসেট কোনটি?",
+    "options": [
+      "$\\{3, 6\\}$",
+      "$\\{3, 5\\}$",
+      "$\\{3, 4, 5\\}$",
+      "$\\{3, 5, 6\\}$"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-higher-math-ch01-set03-q17",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-01-model-test-03",
+    "text": "$f(x) = \\ln(x - 2)$ ফাংশনটি— i. একটি লগারিদমিক ফাংশন ii. $x > 2$ এর জন্য সংজ্ঞায়িত iii. রেঞ্জ $R_f = (0, \\infty)$ নিচের কোনটি সঠিক?",
+    "options": [
+      "i ও ii",
+      "i ও iii",
+      "ii ও iii",
+      "i, ii ও iii"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-higher-math-ch01-set03-q18",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-01-model-test-03",
+    "text": "$f(x) = 3^x$ এর বিপরীত ফাংশন কোনটি?",
+    "options": [
+      "$\\log_3 x$",
+      "$\\log_3 y$",
+      "$\\log_y 3$",
+      "$\\log_x 3$"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-higher-math-ch01-set03-q19",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-01-model-test-03",
+    "text": "$f(x) = \\frac{2}{\\sqrt{2-x}}$ ফাংশনের ডোমেন কত?",
+    "options": [
+      "$\\{x \\in \\mathbb{R} : x < -2\\}$",
+      "$\\{x \\in \\mathbb{R} : x \\le -2\\}$",
+      "$\\{x \\in \\mathbb{R} : x < 2\\}$",
+      "$\\{x \\in \\mathbb{R} : x \\le 2\\}$"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-higher-math-ch01-set03-q20",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-01-model-test-03",
+    "text": "$f(x) = 5^x$ ফাংশনের রেঞ্জ কত?",
+    "options": [
+      "$(0, -\\infty)$",
+      "$(0, \\infty)$",
+      "$(-\\infty, 0)$",
+      "$(\\infty, 0)$"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-higher-math-ch01-set03-q21",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-01-model-test-03",
+    "text": "\\\\(f(x)=\\\\ln\\\\frac{8+x}{8-x}\\\\) ফাংশনের রেঞ্জ কত?",
+    "options": [
+      "\\\\((-8,\\\\infty)\\\\)",
+      "\\\\((8,\\\\infty)\\\\)",
+      "\\\\((-8,8)\\\\)",
+      "\\\\(R\\\\)"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-higher-math-ch01-set03-q22",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-01-model-test-03",
+    "text": "\\\\(F(x)=\\\\frac{3}{2x-1}\\\\) ফাংশনটির ডোমেইন কত?",
+    "options": [
+      "\\\\(\\\\{x\\\\in R:x\\\\ne-\\\\frac12\\\\}\\\\)",
+      "\\\\(\\\\{x\\\\in R:x\\\\ne\\\\frac12\\\\}\\\\)",
+      "\\\\(\\\\{x\\\\in R:x<\\\\frac12\\\\}\\\\)",
+      "\\\\(\\\\{x\\\\in R:x>\\\\frac12\\\\}\\\\)"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-higher-math-ch01-set03-q23",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-01-model-test-03",
+    "text": "$f(x) = \\ln(x - 2)$ এর ডোমেন কোনটি?",
+    "options": [
+      "$\\mathbb{R} - \\{2\\}$",
+      "$\\{x \\in \\mathbb{R} : x \\le -2\\}$",
+      "$\\{x \\in \\mathbb{R} : x \\le 2\\}$",
+      "$\\{x \\in \\mathbb{R} : x > 2\\}$"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-higher-math-ch01-set03-q24",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-01-model-test-03",
+    "text": "$f(x) = \\frac{x - 3}{2x - 3}$ এর বিপরীত ফাংশন নিচের কোনটি?",
+    "options": [
+      "$\\frac{3x - 1}{2x - 1}$",
+      "$\\frac{3x - 1}{x - 2}$",
+      "$\\frac{3(x - 1)}{x - 2}$",
+      "$\\frac{3(x - 1)}{2x - 1}$"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-higher-math-ch01-set03-q25",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-01-model-test-03",
+    "text": "$F(x) = e^{\\frac{|x|}{2}}$ ফাংশনটির ডোমেন কত?",
+    "options": [
+      "$(-\\infty, 0)$",
+      "$[0, \\infty)$",
+      "$\\mathbb{R}-\\{2\\}$",
+      "$\\mathbb{R}$"
+    ],
+    "image": null,
+    "timeLimit": 45
+  }
+]

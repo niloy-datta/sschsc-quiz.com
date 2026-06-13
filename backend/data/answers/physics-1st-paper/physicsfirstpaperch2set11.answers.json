@@ -1,0 +1,177 @@
+{
+  "physics-1st-paper-hsc-science-physics-1st-paper-extra-physicsFirstPaperCh2Set11-ts-0": {
+    "answer": "10√2 m/s",
+    "answerIndex": 2,
+    "difficulty": 1200,
+    "explanation": "আদি বেগ v1 = 10i, শেষ বেগ v2 = 10j। বেগের পরিবর্তন Δv = v2 - v1 = 10j - 10i। এর মান |Δv| = √(10² + (-10)²) = √200 = 10√2 m/s. (এটি সবচেয়ে বেশি ভুল হওয়া ট্র্যাপ, অনেকেই উত্তর 0 দাগায়)।",
+    "topic": "physicsfirstpaperch2set11"
+  },
+  "physics-1st-paper-hsc-science-physics-1st-paper-extra-physicsFirstPaperCh2Set11-ts-1": {
+    "answer": "((A.B)/|A|²) A",
+    "answerIndex": 1,
+    "difficulty": 1200,
+    "explanation": "'লম্ব অভিক্ষেপ' হলো স্কেলার (B cos θ)। কিন্তু 'উপাংশ' হলো একটি ভেক্টর। তাই অভিক্ষেপকে A এর দিকের একক ভেক্টর (A/|A|) দিয়ে গুণ করতে হয়। ((A.B)/|A|) * (A/|A|) = ((A.B)/|A|²) A.",
+    "topic": "physicsfirstpaperch2set11"
+  },
+  "physics-1st-paper-hsc-science-physics-1st-paper-extra-physicsFirstPaperCh2Set11-ts-2": {
+    "answer": "সলিনয়ডাল (Solenoidal)",
+    "answerIndex": 1,
+    "difficulty": 1200,
+    "explanation": "ডাইভারজেন্স শূন্য হওয়ার অর্থ হলো ক্ষেত্রটিতে কোনো উৎস (source) বা সিঙ্ক (sink) নেই, অর্থাৎ আগত ও নির্গত ফ্লাক্স সমান। একে Solenoidal বলে। (কার্ল শূন্য হলে অঘূর্ণনশীল হয়)।",
+    "topic": "physicsfirstpaperch2set11"
+  },
+  "physics-1st-paper-hsc-science-physics-1st-paper-extra-physicsFirstPaperCh2Set11-ts-3": {
+    "answer": "120°",
+    "answerIndex": 2,
+    "difficulty": 1200,
+    "explanation": "সোজাসুজি পার হওয়ার শর্ত α = cos⁻¹(-v/u) = cos⁻¹(-2/4) = cos⁻¹(-1/2) = 120°। (যেখানে v স্রোতের বেগ, u নৌকার বেগ)।",
+    "topic": "physicsfirstpaperch2set11"
+  },
+  "physics-1st-paper-hsc-science-physics-1st-paper-extra-physicsFirstPaperCh2Set11-ts-4": {
+    "answer": "60°",
+    "answerIndex": 2,
+    "difficulty": 1200,
+    "explanation": "AB sin θ = √3 AB cos θ => tan θ = √3 => θ = 60°.",
+    "topic": "physicsfirstpaperch2set11"
+  },
+  "physics-1st-paper-hsc-science-physics-1st-paper-extra-physicsFirstPaperCh2Set11-ts-5": {
+    "answer": "৩টি",
+    "answerIndex": 1,
+    "difficulty": 1200,
+    "explanation": "দুটি সমান ও বিপরীতমুখী ভেক্টরের লব্ধি শূন্য হতে পারে। কিন্তু অসম মানের ক্ষেত্রে একটি ত্রিভুজ গঠন করতে ন্যূনতম ৩টি ভেক্টর প্রয়োজন।",
+    "topic": "physicsfirstpaperch2set11"
+  },
+  "physics-1st-paper-hsc-science-physics-1st-paper-extra-physicsFirstPaperCh2Set11-ts-6": {
+    "answer": "45°",
+    "answerIndex": 2,
+    "difficulty": 1200,
+    "explanation": "cos α = Px / |P| = 1 / √(1² + 1²) = 1 / √2 => α = 45°.",
+    "topic": "physicsfirstpaperch2set11"
+  },
+  "physics-1st-paper-hsc-science-physics-1st-paper-extra-physicsFirstPaperCh2Set11-ts-7": {
+    "answer": "উলম্বের সাথে ৪৫° কোণে",
+    "answerIndex": 2,
+    "difficulty": 1200,
+    "explanation": "tan θ = v_man / v_rain = v/v = 1 => θ = 45° (উলম্বের সাথে)।",
+    "topic": "physicsfirstpaperch2set11"
+  },
+  "physics-1st-paper-hsc-science-physics-1st-paper-extra-physicsFirstPaperCh2Set11-ts-8": {
+    "answer": "1",
+    "answerIndex": 1,
+    "difficulty": 1200,
+    "explanation": "i × j = k। সুতরাং সমীকরণটি দাঁড়ায় k . k = 1.",
+    "topic": "physicsfirstpaperch2set11"
+  },
+  "physics-1st-paper-hsc-science-physics-1st-paper-extra-physicsFirstPaperCh2Set11-ts-9": {
+    "answer": "ভেক্টর রাশি",
+    "answerIndex": 1,
+    "difficulty": 1200,
+    "explanation": "গ্রাডিয়েন্ট একটি স্কেলার ক্ষেত্রকে ভেক্টর ক্ষেত্রে রূপান্তরিত করে এবং এটি স্কেলার রাশির সর্বাধিক বৃদ্ধির হার নির্দেশ করে।",
+    "topic": "physicsfirstpaperch2set11"
+  },
+  "physics-1st-paper-hsc-science-physics-1st-paper-extra-physicsFirstPaperCh2Set11-ts-10": {
+    "answer": "১/২ |A × B|",
+    "answerIndex": 2,
+    "difficulty": 1200,
+    "explanation": "সামান্তরিকের ক্ষেত্রফল |A × B|, আর ত্রিভুজের ক্ষেত্রফল তার অর্ধেক।",
+    "topic": "physicsfirstpaperch2set11"
+  },
+  "physics-1st-paper-hsc-science-physics-1st-paper-extra-physicsFirstPaperCh2Set11-ts-11": {
+    "answer": "১/২ |P × Q|",
+    "answerIndex": 1,
+    "difficulty": 1200,
+    "explanation": "বাহু দেওয়া থাকলে ক্ষেত্রফল |P × Q| হয়, কিন্তু কর্ণ দেওয়া থাকলে ক্ষেত্রফল অর্ধেক হয় ১/২ |P × Q|। (খুবই কমন ট্র্যাপ)।",
+    "topic": "physicsfirstpaperch2set11"
+  },
+  "physics-1st-paper-hsc-science-physics-1st-paper-extra-physicsFirstPaperCh2Set11-ts-12": {
+    "answer": "A × B = 0 vecor",
+    "answerIndex": 1,
+    "difficulty": 1200,
+    "explanation": "সমান্তরাল হলে মধ্যবর্তী কোণ 0° বা 180° হয়। sin(0°) = 0, তাই ক্রস গুণফল শূন্য ভেক্টর (0) হয়। (উত্তরের অপশন খ সঠিক)",
+    "topic": "physicsfirstpaperch2set11"
+  },
+  "physics-1st-paper-hsc-science-physics-1st-paper-extra-physicsFirstPaperCh2Set11-ts-13": {
+    "answer": "90°",
+    "answerIndex": 2,
+    "difficulty": 1200,
+    "explanation": "উভয়পাশে বর্গ করলে A² + B² + 2AB cos θ = A² + B² - 2AB cos θ => 4AB cos θ = 0 => cos θ = 0 => θ = 90°.",
+    "topic": "physicsfirstpaperch2set11"
+  },
+  "physics-1st-paper-hsc-science-physics-1st-paper-extra-physicsFirstPaperCh2Set11-ts-14": {
+    "answer": "A . (B × C) = 0",
+    "answerIndex": 2,
+    "difficulty": 1200,
+    "explanation": "স্কেলার ত্রিগুণনের মান সামান্তরিক ঘনবস্তুর আয়তন নির্দেশ করে। ভেক্টর তিনটি একই তলে থাকলে আয়তন শূন্য হবে।",
+    "topic": "physicsfirstpaperch2set11"
+  },
+  "physics-1st-paper-hsc-science-physics-1st-paper-extra-physicsFirstPaperCh2Set11-ts-15": {
+    "answer": "4i + 3j",
+    "answerIndex": 1,
+    "difficulty": 1200,
+    "explanation": "বেগ v = dr/dt = d/dt(2t²i + 3tj) = 4ti + 3j। t=1 বসালে v = 4i + 3j.",
+    "topic": "physicsfirstpaperch2set11"
+  },
+  "physics-1st-paper-hsc-science-physics-1st-paper-extra-physicsFirstPaperCh2Set11-ts-16": {
+    "answer": "2",
+    "answerIndex": 2,
+    "difficulty": 1200,
+    "explanation": "আমরা জানি, cos²α + cos²β + cos²γ = 1। (1 - sin²α) + (1 - sin²β) + (1 - sin²γ) = 1 => 3 - (sin²α + sin²β + sin²γ) = 1 => 2.",
+    "topic": "physicsfirstpaperch2set11"
+  },
+  "physics-1st-paper-hsc-science-physics-1st-paper-extra-physicsFirstPaperCh2Set11-ts-17": {
+    "answer": "A² - B²",
+    "answerIndex": 1,
+    "difficulty": 1200,
+    "explanation": "ডট গুণন বণ্টন সূত্র মেনে চলে: A.A - A.B + B.A - B.B। যেহেতু A.B = B.A, পদ দুটি কাটা যায়। বাকি থাকে A² - B².",
+    "topic": "physicsfirstpaperch2set11"
+  },
+  "physics-1st-paper-hsc-science-physics-1st-paper-extra-physicsFirstPaperCh2Set11-ts-18": {
+    "answer": "১/√৩",
+    "answerIndex": 2,
+    "difficulty": 1200,
+    "explanation": "ভেক্টরের মান 1 হতে হবে। √(c² + c² + c²) = 1 => √(3c²) = 1 => 3c² = 1 => c = 1/√3.",
+    "topic": "physicsfirstpaperch2set11"
+  },
+  "physics-1st-paper-hsc-science-physics-1st-paper-extra-physicsFirstPaperCh2Set11-ts-19": {
+    "answer": "A × B = - (B × A)",
+    "answerIndex": 2,
+    "difficulty": 1200,
+    "explanation": "ডট গুণন বিনিময় সূত্র মানে (A . B = B . A)। কিন্তু ক্রস গুণনের ক্ষেত্রে দিক বিপরীত হয়ে যায়, তাই এটি অ্যান্টি-কমিউটেটিভ।",
+    "topic": "physicsfirstpaperch2set11"
+  },
+  "physics-1st-paper-hsc-science-physics-1st-paper-extra-physicsFirstPaperCh2Set11-ts-20": {
+    "answer": "ডানহাতি স্ক্রু নিয়ম",
+    "answerIndex": 1,
+    "difficulty": 1200,
+    "explanation": "দুটি ভেক্টরের ক্রস গুণফলের দিক ডানহাতি স্ক্রু নিয়ম (Right-hand screw rule) বা ডানহাতি মুষ্টি নিয়মের সাহায্যে নির্ণয় করা হয়।",
+    "topic": "physicsfirstpaperch2set11"
+  },
+  "physics-1st-paper-hsc-science-physics-1st-paper-extra-physicsFirstPaperCh2Set11-ts-21": {
+    "answer": "ভেক্টর অপারেটর",
+    "answerIndex": 1,
+    "difficulty": 1200,
+    "explanation": "∇ = (∂/∂x)i + (∂/∂y)j + (∂/∂z)k। এটি একটি ভেক্টর ডিফারেন্সিয়াল অপারেটর।",
+    "topic": "physicsfirstpaperch2set11"
+  },
+  "physics-1st-paper-hsc-science-physics-1st-paper-extra-physicsFirstPaperCh2Set11-ts-22": {
+    "answer": "P + Q + R = 0",
+    "answerIndex": 1,
+    "difficulty": 1200,
+    "explanation": "একই ক্রমে (cyclic order) গৃহীত ভেক্টরগুলো একটি বদ্ধ বহুভুজ গঠন করলে তাদের লব্ধি শূন্য হয়।",
+    "topic": "physicsfirstpaperch2set11"
+  },
+  "physics-1st-paper-hsc-science-physics-1st-paper-extra-physicsFirstPaperCh2Set11-ts-23": {
+    "answer": "90°",
+    "answerIndex": 2,
+    "difficulty": 1200,
+    "explanation": "কর্ণ দুটি হলো d1 = i + j এবং d2 = i - j। এদের ডট গুণফল d1 . d2 = (1)(1) + (1)(-1) = 0। ডট গুণফল শূন্য হওয়ায় এরা পরস্পর লম্ব (90°)। এটি একটি ক্লাসিক ব্রেইন-টিজার।",
+    "topic": "physicsfirstpaperch2set11"
+  },
+  "physics-1st-paper-hsc-science-physics-1st-paper-extra-physicsFirstPaperCh2Set11-ts-24": {
+    "answer": "সাম্যাবস্থায় থাকা বস্তু",
+    "answerIndex": 2,
+    "difficulty": 1200,
+    "explanation": "লামির উপপাদ্য কেবল তখনই প্রযোজ্য যখন তিনটি সমতলীয় বল কোনো বিন্দুতে ক্রিয়া করে বস্তুটিকে সাম্যাবস্থায় (Equilibrium) রাখে।",
+    "topic": "physicsfirstpaperch2set11"
+  }
+}

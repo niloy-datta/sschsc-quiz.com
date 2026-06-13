@@ -1,0 +1,44 @@
+[
+    {
+        "name": "DeepSeek V3",
+        "vendor": "customendpoint",
+        "apiKey": "sk-85a0e29eda2e434ba4bf505fccb27363",
+        "apiType": "chat-completions",
+        "apiBase": "https://api.deepseek.com/v1",
+        "models": [
+            {
+                "id": "deepseek-chat",
+                "name": "deepseek-chat",
+                "url": "https://api.deepseek.com/v1/chat/completions",
+                "toolCalling": true,
+                "maxInputTokens": 128000,
+                "maxOutputTokens": 8000
+            }
+        ]
+    },
+    {
+        "name": "Ollama Local",
+        "vendor": "ollama",
+        "url": "http://localhost:11434",
+        "models": [
+            {
+                "id": "deepseek-coder:6.7b",
+                "name": "DeepSeek Coder 6.7B",
+                "maxInputTokens": 16384,
+                "maxOutputTokens": 4096
+            },
+            {
+                "id": "qwen2.5-coder:7b",
+                "name": "Qwen Coder 7B",
+                "maxInputTokens": 32768,
+                "maxOutputTokens": 8192
+            },
+            {
+                "id": "qwen2.5-coder:0.5b",
+                "name": "Qwen Coder 0.5B (Fast)",
+                "maxInputTokens": 32768,
+                "maxOutputTokens": 8192
+            }
+        ]
+    }
+]

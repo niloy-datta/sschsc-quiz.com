@@ -1,0 +1,62 @@
+[
+  {
+    "text": "x² + y² - 4x + 6y - 12 = 0 বৃত্তের কেন্দ্র কোনটি?",
+    "options": ["(4, -6)", "(2, -3)", "(-2, 3)", "(-4, 6)"],
+    "correctIndex": 1,
+    "explanation": "(-g, -f) = (-(-4/2), -(6/2)) = (2, -3)."
+  },
+  {
+    "text": "2x² + 2y² - 12x + 16y - 10 = 0 বৃত্তের ব্যাসার্ধ কত?",
+    "options": ["10", "6", "sqrt(34)", "4"],
+    "correctIndex": 2,
+    "explanation": "x²+y²-6x+8y-5=0; r=sqrt(3²+(-4)²-(-5))=sqrt(34)."
+  },
+  {
+    "text": "বৃত্ত x-অক্ষকে স্পর্শ করার শর্ত কী?",
+    "options": ["g²=f²", "f²=c", "g²=c", "c=0"],
+    "correctIndex": 2,
+    "explanation": "x-অক্ষকে স্পর্শ করলে g²=c।"
+  },
+  {
+    "text": "বৃত্ত y-অক্ষকে স্পর্শ করার শর্ত কী?",
+    "options": ["f²=c", "g²=c", "c=0", "g=f"],
+    "correctIndex": 0,
+    "explanation": "y-অক্ষকে স্পর্শ করলে f²=c।"
+  },
+  {
+    "text": "x² + y² = 36 বৃত্তের ব্যাসার্ধ কত?",
+    "options": ["36", "6", "18", "4"],
+    "correctIndex": 1,
+    "explanation": "r²=36 => r=6"
+  },
+  {
+    "text": "বৃত্তের সাধারণ সমীকরণে xy যুক্ত পদের সহগ কত?",
+    "options": ["1", "-1", "0", "ধ্রুবক"],
+    "correctIndex": 2,
+    "explanation": "বৃত্তের সমীকরণে xy যুক্ত পদ থাকে না।"
+  },
+  {
+    "text": "বিন্দুবৃত্তের (Point Circle) ব্যাসার্ধ কত?",
+    "options": ["infinity", "1", "0", "অবাস্তব"],
+    "correctIndex": 2,
+    "explanation": "r=0 হলে তাকে বিন্দুবৃত্ত বলে।"
+  },
+  {
+    "text": "ax² + by² + 4x - 6y + c = 0 বৃত্ত হলে কোনটি সত্য?",
+    "options": ["a = b", "a != b", "a = -b", "a = 0"],
+    "correctIndex": 0,
+    "explanation": "x² ও y² এর সহগ সমান হতে হয়।"
+  },
+  {
+    "text": "x² + y² = a² বৃত্তে (x1, y1) বিন্দুতে স্পর্শকের সমীকরণ কোনটি?",
+    "options": ["xx1 + yy1 = a²", "xx1 - yy1 = a²", "x/x1 + y/y1 = 1", "xx1 + yy1 = a"],
+    "correctIndex": 0,
+    "explanation": "Standard tangent equation."
+  },
+  {
+    "text": "দুটি বৃত্ত পরস্পরকে বাইরের দিকে স্পর্শ করার শর্ত কী?",
+    "options": ["d = r1-r2", "d = r1+r2", "d = 0", "d > r1+r2"],
+    "correctIndex": 1,
+    "explanation": "d = কেন্দ্রদ্বয়ের দূরত্ব = ব্যাসার্ধের যোগফল।"
+  }
+]

@@ -1,0 +1,734 @@
+{
+  "metadata": {
+    "title": "HSC Higher Mathematics 1st Paper - Hyper Mega Hot Exclusive Model Test (Sets 6-8)",
+    "subject_code": 265,
+    "target_exam": "HSC Board Exam",
+    "time": "25 minutes per set",
+    "full_marks": "25 per set",
+    "note": "These sets contain carefully curated board-standard questions focusing on high-probability patterns, shortcuts, and conceptual traps."
+  },
+  "model_tests": [
+    {
+      "set_number": 6,
+      "questions": [
+        {
+          "question_no": 1,
+          "stem": "উদ্দীপক: একটি বৃত্তের সমীকরণ $x^2 + y^2 - 4x - 6y + c = 0$ যা $x$-অক্ষকে স্পর্শ করে।",
+          "question": "$c$ এর মান কত?",
+          "options": { "ক": "$4$", "খ": "$9$", "গ": "$16$", "ঘ": "$36$" },
+          "correct_option": "ক",
+          "explanation": "বৃত্তটি $x$-অক্ষকে স্পর্শ করলে $g^2 = c$ হয়। এখানে $2g = -4 \\Rightarrow g = -2$। সুতরাং $c = (-2)^2 = 4$।",
+          "topic": "Circle",
+          "probability": "Mega Hot"
+        },
+        {
+          "question_no": 2,
+          "stem": "উদ্দীপক: একটি বৃত্তের সমীকরণ $x^2 + y^2 - 4x - 6y + c = 0$ যা $x$-অক্ষকে স্পর্শ করে।",
+          "question": "বৃত্তটি $y$-অক্ষ থেকে কী পরিমাণ অংশ ছেদ করে?",
+          "options": { "ক": "$2\\sqrt{5}$", "খ": "$4\\sqrt{5}$", "গ": "$5$", "ঘ": "$2\\sqrt{13}$" },
+          "correct_option": "ক",
+          "explanation": "$y$-অক্ষের খণ্ডিতাংশ $= 2\\sqrt{f^2 - c}$। এখানে $f = -3$ এবং $c = 4$। মান বসালে $2\\sqrt{(-3)^2 - 4} = 2\\sqrt{9 - 4} = 2\\sqrt{5}$।",
+          "topic": "Circle",
+          "probability": "Board Favourite"
+        },
+        {
+          "question_no": 3,
+          "stem": "উদ্দীপক: $\\vec{A} = 2\\hat{i} + 3\\hat{j} - \\hat{k}$ এবং $\\vec{B} = m\\hat{i} - 6\\hat{j} + 2\\hat{k}$ দুটি ভেক্টর।",
+          "question": "$m$ এর মান কত হলে ভেক্টরদ্বয় সমান্তরাল হবে?",
+          "options": { "ক": "$4$", "খ": "$-4$", "গ": "$3$", "ঘ": "$-3$" },
+          "correct_option": "খ",
+          "explanation": "সমান্তরাল হওয়ার শর্ত: $\\frac{2}{m} = \\frac{3}{-6} = \\frac{-1}{2}$। এখান থেকে $\\frac{2}{m} = -\\frac{1}{2} \\Rightarrow m = -4$।",
+          "topic": "Vector",
+          "probability": "Highest Probability"
+        },
+        {
+          "question_no": 4,
+          "stem": "উদ্দীপক: $\\vec{A} = 2\\hat{i} + 3\\hat{j} - \\hat{k}$ এবং $\\vec{B} = m\\hat{i} - 6\\hat{j} + 2\\hat{k}$ দুটি ভেক্টর।",
+          "question": "$m=1$ হলে ভেক্টর দুটির ডট গুণন ($\\vec{A} \\cdot \\vec{B}$) কত হবে?",
+          "options": { "ক": "$-18$", "খ": "$-16$", "গ": "$-14$", "ঘ": "$18$" },
+          "correct_option": "ক",
+          "explanation": "$m=1$ হলে $\\vec{B} = \\hat{i} - 6\\hat{j} + 2\\hat{k}$। ডট গুণন $= (2)(1) + (3)(-6) + (-1)(2) = 2 - 18 - 2 = -18$।",
+          "topic": "Vector",
+          "probability": "Board Favourite"
+        },
+        {
+          "question_no": 5,
+          "question": "$\\begin{pmatrix} 4 & 5 \\\\ 2 & 3 \\end{pmatrix}$ ম্যাট্রিক্সটির বিপরীত ম্যাট্রিক্স (Inverse Matrix) কোনটি?",
+          "options": {
+            "ক": "$\\begin{pmatrix} 3/2 & -5/2 \\\\ -1 & 2 \\end{pmatrix}$",
+            "খ": "$\\begin{pmatrix} 3 & -5 \\\\ -2 & 4 \\end{pmatrix}$",
+            "গ": "$\\begin{pmatrix} 1/2 & 5/2 \\\\ 1 & 2 \\end{pmatrix}$",
+            "ঘ": "$\\begin{pmatrix} 4/2 & 5/2 \\\\ 2 & 3/2 \\end{pmatrix}$"
+          },
+          "correct_option": "ক",
+          "explanation": "$|A| = 12 - 10 = 2$। Adjoint Matrix $= \\begin{pmatrix} 3 & -5 \\\\ -2 & 4 \\end{pmatrix}$। $A^{-1} = \\frac{1}{2} \\begin{pmatrix} 3 & -5 \\\\ -2 & 4 \\end{pmatrix} = \\begin{pmatrix} 3/2 & -5/2 \\\\ -1 & 2 \\end{pmatrix}$।",
+          "topic": "Matrix",
+          "probability": "Mega Hot"
+        },
+        {
+          "question_no": 6,
+          "question": "$(-1, \\sqrt{3})$ বিন্দুর পোলার স্থানাঙ্ক কোনটি?",
+          "options": { "ক": "$(2, 60^\\circ)$", "খ": "$(2, 120^\\circ)$", "গ": "$(2, 150^\\circ)$", "ঘ": "$(2, 240^\\circ)$" },
+          "correct_option": "খ",
+          "explanation": "$r = \\sqrt{(-1)^2 + (\\sqrt{3})^2} = 2$। বিন্দুটি ২য় চতুর্ভাগে, তাই $\\theta = 180^\\circ - \\tan^{-1}(\\frac{\\sqrt{3}}{1}) = 180^\\circ - 60^\\circ = 120^\\circ$।",
+          "topic": "Straight Line",
+          "probability": "Board Favourite"
+        },
+        {
+          "question_no": 7,
+          "question": "$\\frac{d}{dx} (\\ln \\cos x)$ এর মান কত?",
+          "options": { "ক": "$\\tan x$", "খ": "$-\\tan x$", "গ": "$\\cot x$", "ঘ": "$-\\cot x$" },
+          "correct_option": "খ",
+          "explanation": "চেইন রুল (Chain Rule) অনুযায়ী, $\\frac{1}{\\cos x} \\times \\frac{d}{dx}(\\cos x) = \\frac{-\\sin x}{\\cos x} = -\\tan x$।",
+          "topic": "Differential Calculus",
+          "probability": "Very Hot"
+        },
+        {
+          "question_no": 8,
+          "question": "$10$ জন খেলোয়াড় থেকে $11$ জনের ক্রিকেট দল গঠন করা সম্ভব কত উপায়ে?",
+          "options": { "ক": "$0$", "খ": "$1$", "গ": "$10!$", "ঘ": "অসংজ্ঞায়িত" },
+          "correct_option": "ক",
+          "explanation": "১০ জন থেকে ১১ জন বাছাই করা সম্ভব নয়। তাই উপায় সংখ্যা ০। এটি একটি ট্রিক প্রশ্ন।",
+          "topic": "Permutation and Combination",
+          "probability": "Conceptual Trap"
+        },
+        {
+          "question_no": 9,
+          "question": "$\\lim_{x \\to 0} \\frac{1 - \\cos x}{x^2}$ এর মান কত?",
+          "options": { "ক": "$0$", "খ": "$1$", "গ": "$\\frac{1}{2}$", "ঘ": "$2$" },
+          "correct_option": "গ",
+          "explanation": "শর্টকাট সূত্র $\\lim_{x \\to 0} \\frac{1 - \\cos ax}{x^2} = \\frac{a^2}{2}$। এখানে $a=1$, তাই উত্তর $\\frac{1}{2}$।",
+          "topic": "Differential Calculus",
+          "probability": "Mega Hot Shortcut"
+        },
+        {
+          "question_no": 10,
+          "question": "$\\int_{0}^{1} \\frac{dx}{1+x^2}$ এর মান কত?",
+          "options": { "ক": "$\\frac{\\pi}{4}$", "খ": "$\\frac{\\pi}{2}$", "গ": "$\\pi$", "ঘ": "$1$" },
+          "correct_option": "ক",
+          "explanation": "$\\int \\frac{dx}{1+x^2} = \\tan^{-1} x$। লিমিট বসালে $\\tan^{-1}(1) - \\tan^{-1}(0) = \\frac{\\pi}{4} - 0 = \\frac{\\pi}{4}$।",
+          "topic": "Integral Calculus",
+          "probability": "Highest Probability"
+        },
+        {
+          "question_no": 11,
+          "question": "$x + \\sqrt{3}y + 4 = 0$ সরলরেখাটি $x$-অক্ষের ধনাত্মক দিকের সাথে কত কোণ উৎপন্ন করে?",
+          "options": { "ক": "$30^\\circ$", "খ": "$60^\\circ$", "গ": "$120^\\circ$", "ঘ": "$150^\\circ$" },
+          "correct_option": "ঘ",
+          "explanation": "রেখাটির ঢাল $m = -\\frac{1}{\\sqrt{3}}$। $m = \\tan\\theta = -\\frac{1}{\\sqrt{3}} \\Rightarrow \\theta = 150^\\circ$।",
+          "topic": "Straight Line",
+          "probability": "Board Favourite"
+        },
+        {
+          "question_no": 12,
+          "question": "$y = x^2$ এবং $y = x$ দ্বারা আবদ্ধ ক্ষেত্রের ক্ষেত্রফল কত?",
+          "options": { "ক": "$\\frac{1}{2}$", "খ": "$\\frac{1}{3}$", "গ": "$\\frac{1}{6}$", "ঘ": "$1$" },
+          "correct_option": "গ",
+          "explanation": "ছেদবিন্দু $x^2 = x \\Rightarrow x(x-1) = 0 \\Rightarrow x=0, 1$। ক্ষেত্রফল $= \\int_0^1 (x - x^2) dx = \\left[ \\frac{x^2}{2} - \\frac{x^3}{3} \\right]_0^1 = \\frac{1}{2} - \\frac{1}{3} = \\frac{1}{6}$।",
+          "topic": "Integral Calculus",
+          "probability": "Mega Hot"
+        },
+        {
+          "question_no": 13,
+          "question": "$\\tan\\theta + \\cot\\theta = 2$ হলে, $\\theta$ এর মান কত? (যেখানে $0^\\circ < \\theta < 90^\\circ$)",
+          "options": { "ক": "$30^\\circ$", "খ": "$45^\\circ$", "গ": "$60^\\circ$", "ঘ": "$90^\\circ$" },
+          "correct_option": "খ",
+          "explanation": "$\\tan\\theta + \\frac{1}{\\tan\\theta} = 2 \\Rightarrow \\tan^2\\theta - 2\\tan\\theta + 1 = 0 \\Rightarrow (\\tan\\theta - 1)^2 = 0 \\Rightarrow \\tan\\theta = 1 \\Rightarrow \\theta = 45^\\circ$।",
+          "topic": "Trigonometry",
+          "probability": "Very Hot"
+        },
+        {
+          "question_no": 14,
+          "question": "কোনো ম্যাট্রিক্স $A$ এর মাত্রা $4 \\times 3$ এবং $B$ এর মাত্রা $3 \\times 5$ হলে $AB$ ম্যাট্রিক্সের মাত্রা কত?",
+          "options": { "ক": "$4 \\times 5$", "খ": "$5 \\times 4$", "গ": "$3 \\times 3$", "ঘ": "$12 \\times 15$" },
+          "correct_option": "ক",
+          "explanation": "গুণনের নিয়মানুযায়ী $(m \\times n)$ এবং $(n \\times p)$ ম্যাট্রিক্সের গুণফলের মাত্রা হয় $(m \\times p)$। তাই $4 \\times 5$।",
+          "topic": "Matrix",
+          "probability": "Board Favourite"
+        },
+        {
+          "question_no": 15,
+          "question": "নির্ণায়কের ক্ষেত্রে—\ni. দুটি সারি বা কলাম অভিন্ন হলে মান $0$ হয়\nii. কোনো সারি বা কলামের সব উপাদান $0$ হলে মান $0$ হয়\niii. সারি ও কলাম স্থান বিনিময় করলে মান পরিবর্তিত হয়\n\nনিচের কোনটি সঠিক?",
+          "options": { "ক": "i ও ii", "খ": "i ও iii", "গ": "ii ও iii", "ঘ": "i, ii ও iii" },
+          "correct_option": "ক",
+          "explanation": "সারি ও কলাম স্থান বিনিময় (Transpose) করলে নির্ণায়কের মান অপরিবর্তিত থাকে। তাই iii ভুল।",
+          "topic": "Matrix",
+          "probability": "Conceptual Trap"
+        },
+        {
+          "question_no": 16,
+          "question": "অন্তরীকরণের ক্ষেত্রে—\ni. $\\frac{d}{dx}(\\cos^{-1} x) = -\\frac{1}{\\sqrt{1-x^2}}$\nii. $\\frac{d}{dx}(\\cot^{-1} x) = -\\frac{1}{1+x^2}$\niii. $\\frac{d}{dx}(\\csc^{-1} x) = -\\frac{1}{x\\sqrt{x^2-1}}$\n\nনিচের কোনটি সঠিক?",
+          "options": { "ক": "i ও ii", "খ": "i ও iii", "গ": "ii ও iii", "ঘ": "i, ii ও iii" },
+          "correct_option": "ঘ",
+          "explanation": "বিপরীত ত্রিকোণমিতিক ফাংশনের এই ৩টি সূত্রই একদম সঠিক এবং এদের আগে মাইনাস (-) চিহ্ন থাকে।",
+          "topic": "Differential Calculus",
+          "probability": "Board Favourite"
+        },
+        {
+          "question_no": 17,
+          "question": "ভেক্টরের ক্ষেত্রে—\ni. $\\vec{P}$ ভেক্টরের দিকে $\\vec{Q}$ এর লম্ব অভিক্ষেপ $\\frac{\\vec{P} \\cdot \\vec{Q}}{|\\vec{P}|}$\nii. ভেক্টর যোগ বিনিময় বিধি মেনে চলে\niii. $\\vec{A} \\times \\vec{B}$ দ্বারা উৎপন্ন ভেক্টর $\\vec{A}$ ও $\\vec{B}$ উভয়ের ওপর লম্ব\n\nনিচের কোনটি সঠিক?",
+          "options": { "ক": "i ও ii", "খ": "i ও iii", "গ": "ii ও iii", "ঘ": "i, ii ও iii" },
+          "correct_option": "ঘ",
+          "explanation": "লম্ব অভিক্ষেপ, যোগের বিনিময় বিধি এবং ক্রস গুণনের দিক সংক্রান্ত এই তিনটি তথ্যই সঠিক।",
+          "topic": "Vector",
+          "probability": "Board Favourite"
+        },
+        {
+          "question_no": 18,
+          "question": "সমাকলনের ক্ষেত্রে—\ni. সমাকলন হলো অন্তরীকরণের বিপরীত প্রক্রিয়া\nii. $\\int x^n \\, dx = \\frac{x^{n+1}}{n+1} + C$ (যেখানে $n \\neq -1$)\niii. নির্দিষ্ট সমাকলন বক্ররেখা দ্বারা আবদ্ধ ক্ষেত্রফল নির্দেশ করে\n\nনিচের কোনটি সঠিক?",
+          "options": { "ক": "i ও ii", "খ": "i ও iii", "গ": "ii ও iii", "ঘ": "i, ii ও iii" },
+          "correct_option": "ঘ",
+          "explanation": "ক্যালকুলাসের মৌলিক উপপাদ্য এবং সমাকলনের জ্যামিতিক অর্থ অনুযায়ী তিনটি উক্তিই সঠিক।",
+          "topic": "Integral Calculus",
+          "probability": "Very Hot"
+        },
+        {
+          "question_no": 19,
+          "question": "বৃত্তের ক্ষেত্রে—\ni. $x^2 + y^2 = a^2$ বৃত্তের কেন্দ্র $(a, a)$\nii. বৃত্তের সমীকরণে $xy$ সম্বলিত কোনো পদ থাকে না\niii. $x^2$ ও $y^2$ এর সহগ সমান হয়\n\nনিচের কোনটি সঠিক?",
+          "options": { "ক": "i ও ii", "খ": "ii ও iii", "গ": "i ও iii", "ঘ": "i, ii ও iii" },
+          "correct_option": "খ",
+          "explanation": "$x^2 + y^2 = a^2$ বৃত্তের কেন্দ্র $(0,0)$, তাই i ভুল। ii ও iii বৃত্তের সাধারণ বৈশিষ্ট্য।",
+          "topic": "Circle",
+          "probability": "Conceptual Trap"
+        },
+        {
+          "question_no": 20,
+          "question": "সরলরেখার ক্ষেত্রে—\ni. মূলবিন্দুগামী রেখার সমীকরণ $y = mx$\nii. দুটি বিন্দু $(x_1, y_1)$ ও $(x_2, y_2)$ গামী রেখার ঢাল $\\frac{y_2 - y_1}{x_2 - x_1}$\niii. $ax + by + c = 0$ রেখার ঢাল $\\frac{b}{a}$\n\nনিচের কোনটি সঠিক?",
+          "options": { "ক": "i ও ii", "খ": "i ও iii", "গ": "ii ও iii", "ঘ": "i, ii ও iii" },
+          "correct_option": "ক",
+          "explanation": "$ax + by + c = 0$ রেখার ঢাল $-\\frac{a}{b}$, তাই iii ভুল।",
+          "topic": "Straight Line",
+          "probability": "Board Favourite"
+        },
+        {
+          "question_no": 21,
+          "question": "${}^nC_2 + {}^nC_3 = {}^7C_3$ হলে $n$ এর মান কত?",
+          "options": { "ক": "$5$", "খ": "$6$", "গ": "$7$", "ঘ": "$8$" },
+          "correct_option": "খ",
+          "explanation": "প্যাস্কেলের সূত্র: ${}^nC_r + {}^nC_{r-1} = {}^{n+1}C_r$। এখানে ${}^nC_3 + {}^nC_2 = {}^{n+1}C_3$। সুতরাং $n+1 = 7 \\Rightarrow n = 6$।",
+          "topic": "Permutation and Combination",
+          "probability": "Mega Hot Shortcut"
+        },
+        {
+          "question_no": 22,
+          "question": "$\\int e^x (\\ln x + \\frac{1}{x}) \\, dx$ এর মান কত?",
+          "options": { "ক": "$e^x \\ln x + c$", "খ": "$\\frac{e^x}{x} + c$", "গ": "$e^x x + c$", "ঘ": "$\\ln x + c$" },
+          "correct_option": "ক",
+          "explanation": "সূত্র: $\\int e^x [f(x) + f'(x)] dx = e^x f(x) + c$। এখানে $f(x) = \\ln x$ এবং $f'(x) = 1/x$।",
+          "topic": "Integral Calculus",
+          "probability": "Highest Probability Trap"
+        },
+        {
+          "question_no": 23,
+          "question": "$y = x^x$ বক্ররেখার $x=1$ বিন্দুতে ঢাল কত?",
+          "options": { "ক": "$0$", "খ": "$1$", "গ": "$e$", "ঘ": "$-1$" },
+          "correct_option": "খ",
+          "explanation": "$y = x^x$ এর ডেরিভেটিভ $y' = x^x(1 + \\ln x)$। $x=1$ বসালে $1^1(1 + \\ln 1) = 1(1 + 0) = 1$।",
+          "topic": "Differential Calculus",
+          "probability": "Mega Hot Shortcut"
+        },
+        {
+          "question_no": 24,
+          "question": "$A = \\begin{pmatrix} 2 & 0 \\\\ 0 & 2 \\end{pmatrix}$ হলে $A^3$ এর মান কত?",
+          "options": {
+            "ক": "$\\begin{pmatrix} 6 & 0 \\\\ 0 & 6 \\end{pmatrix}$",
+            "খ": "$\\begin{pmatrix} 8 & 0 \\\\ 0 & 8 \\end{pmatrix}$",
+            "গ": "$\\begin{pmatrix} 2 & 0 \\\\ 0 & 2 \\end{pmatrix}$",
+            "ঘ": "$\\begin{pmatrix} 4 & 0 \\\\ 0 & 4 \\end{pmatrix}$"
+          },
+          "correct_option": "খ",
+          "explanation": "এটি একটি স্কেলার ম্যাট্রিক্স। $A^n$ এর ক্ষেত্রে কর্ণের উপাদানগুলোর পাওয়ার $n$ হয়। তাই $2^3 = 8$ হবে।",
+          "topic": "Matrix",
+          "probability": "Mega Hot Shortcut"
+        },
+        {
+          "question_no": 25,
+          "question": "$|\\vec{A} \\times \\vec{B}| = \\vec{A} \\cdot \\vec{B}$ হলে, ভেক্টরদ্বয়ের মধ্যবর্তী কোণ কত?",
+          "options": { "ক": "$0^\\circ$", "খ": "$30^\\circ$", "গ": "$45^\\circ$", "ঘ": "$90^\\circ$" },
+          "correct_option": "গ",
+          "explanation": "$AB\\sin\\theta = AB\\cos\\theta \\Rightarrow \\tan\\theta = 1 \\Rightarrow \\theta = 45^\\circ$। এটি বোর্ড পরীক্ষায় আসা অন্যতম কমন প্রশ্ন।",
+          "topic": "Vector",
+          "probability": "Board Favourite"
+        }
+      ]
+    },
+    {
+      "set_number": 7,
+      "questions": [
+        {
+          "question_no": 1,
+          "stem": "উদ্দীপক: একটি ত্রিভুজের তিনটি শীর্ষবিন্দু $A(t, 2)$, $B(3, 4)$ এবং $C(5, 6)$।",
+          "question": "ত্রিভুজটির ভরকেন্দ্র $(3, 4)$ হলে $t$ এর মান কত?",
+          "options": { "ক": "$1$", "খ": "$2$", "গ": "$3$", "ঘ": "$4$" },
+          "correct_option": "ক",
+          "explanation": "ভরকেন্দ্রের ভুজ $x = \\frac{x_1+x_2+x_3}{3} \\Rightarrow 3 = \\frac{t+3+5}{3} \\Rightarrow 9 = t+8 \\Rightarrow t=1$।",
+          "topic": "Straight Line",
+          "probability": "Mega Hot"
+        },
+        {
+          "question_no": 2,
+          "stem": "উদ্দীপক: একটি ত্রিভুজের তিনটি শীর্ষবিন্দু $A(t, 2)$, $B(3, 4)$ এবং $C(5, 6)$।",
+          "question": "$t=1$ হলে ত্রিভুজটির ক্ষেত্রফল কত বর্গ একক?",
+          "options": { "ক": "$0$", "খ": "$2$", "গ": "$4$", "ঘ": "$8$" },
+          "correct_option": "ক",
+          "explanation": "বিন্দু তিনটি হলো $(1,2), (3,4), (5,6)$। এদের ঢাল সমান (রেখাটি সমরেখ)। তাই এদের দ্বারা গঠিত ত্রিভুজের ক্ষেত্রফল $0$।",
+          "topic": "Coordinate Geometry",
+          "probability": "Conceptual Trap"
+        },
+        {
+          "question_no": 3,
+          "stem": "উদ্দীপক: একটি ফাংশন $f(x) = \\sin 2x + \\cos 2x$।",
+          "question": "ফাংশনটির পর্যায় (Period) কত?",
+          "options": { "ক": "$\\pi$", "খ": "$2\\pi$", "গ": "$\\frac{\\pi}{2}$", "ঘ": "$\\frac{2\\pi}{3}$" },
+          "correct_option": "ক",
+          "explanation": "$\\sin ax$ এবং $\\cos ax$ এর পর্যায় $\\frac{2\\pi}{|a|}$। এখানে $a=2$, তাই পর্যায় $\\frac{2\\pi}{2} = \\pi$।",
+          "topic": "Trigonometry",
+          "probability": "Board Favourite"
+        },
+        {
+          "question_no": 4,
+          "stem": "উদ্দীপক: একটি ফাংশন $f(x) = \\sin 2x + \\cos 2x$।",
+          "question": "$f'(x) = 0$ হলে $x$ এর একটি মান কোনটি? (যেখানে $0 < x < \\pi/2$)",
+          "options": { "ক": "$\\frac{\\pi}{8}$", "খ": "$\\frac{\\pi}{6}$", "গ": "$\\frac{\\pi}{4}$", "ঘ": "$\\frac{\\pi}{3}$" },
+          "correct_option": "ক",
+          "explanation": "$f'(x) = 2\\cos 2x - 2\\sin 2x = 0 \\Rightarrow \\tan 2x = 1 \\Rightarrow 2x = \\frac{\\pi}{4} \\Rightarrow x = \\frac{\\pi}{8}$।",
+          "topic": "Differential Calculus",
+          "probability": "Very Hot"
+        },
+        {
+          "question_no": 5,
+          "question": "$|\\vec{A}| = 3$ এবং $|\\vec{B}| = 4$। $\\vec{A}$ ও $\\vec{B}$ সমান্তরাল হলে $\\vec{A} \\times \\vec{B}$ এর মান কত?",
+          "options": { "ক": "$12$", "খ": "$7$", "গ": "$0$", "ঘ": "$-12$" },
+          "correct_option": "গ",
+          "explanation": "দুটি ভেক্টর সমান্তরাল হলে তাদের মধ্যবর্তী কোণ $0^\\circ$ বা $180^\\circ$। ফলে ক্রস গুণন $|\\vec{A} \\times \\vec{B}| = AB\\sin\\theta = 0$।",
+          "topic": "Vector",
+          "probability": "Board Favourite"
+        },
+        {
+          "question_no": 6,
+          "question": "$\\int_{0}^{\\pi/2} \\sin^3 x \\, dx$ এর মান কত?",
+          "options": { "ক": "$\\frac{1}{3}$", "খ": "$\\frac{2}{3}$", "গ": "$\\frac{\\pi}{4}$", "ঘ": "$1$" },
+          "correct_option": "খ",
+          "explanation": "ওয়ালিস সূত্র (Wallis' Formula) অনুযায়ী, $\\int_0^{\\pi/2} \\sin^n x dx$ এর মান (যেখানে n বিজোড়) $= \\frac{2}{3}$ (n=3 এর জন্য)।",
+          "topic": "Integral Calculus",
+          "probability": "Mega Hot Shortcut"
+        },
+        {
+          "question_no": 7,
+          "question": "একটি বৃত্ত $x$-অক্ষকে মূলবিন্দুতে স্পর্শ করে এবং তার ব্যাসার্ধ $5$। বৃত্তটির সমীকরণ কোনটি?",
+          "options": {
+            "ক": "$x^2 + y^2 - 10y = 0$",
+            "খ": "$x^2 + y^2 - 10x = 0$",
+            "গ": "$x^2 + y^2 - 25 = 0$",
+            "ঘ": "$x^2 + y^2 - 5x - 5y = 0$"
+          },
+          "correct_option": "ক",
+          "explanation": "$x$-অক্ষকে মূলবিন্দুতে স্পর্শ করলে কেন্দ্র $(0, \\pm r)$। এখানে কেন্দ্র $(0, 5)$ বা $(0, -5)$। সমীকরণ $(x-0)^2 + (y-5)^2 = 25 \\Rightarrow x^2+y^2-10y = 0$।",
+          "topic": "Circle",
+          "probability": "Highest Probability"
+        },
+        {
+          "question_no": 8,
+          "question": "$y = x^3 - 3x^2 + 2$ বক্ররেখার কোন বিন্দুতে স্পর্শক $x$-অক্ষের সমান্তরাল?",
+          "options": {
+            "ক": "$(0, 2)$ ও $(2, -2)$",
+            "খ": "$(1, 0)$ ও $(2, 2)$",
+            "গ": "$(0, 0)$ ও $(3, 2)$",
+            "ঘ": "$(2, 0)$ ও $(-2, 2)$"
+          },
+          "correct_option": "ক",
+          "explanation": "$y' = 3x^2 - 6x = 0 \\Rightarrow 3x(x-2)=0 \\Rightarrow x=0, 2$। $x=0$ হলে $y=2$ এবং $x=2$ হলে $y=-2$। বিন্দুদ্বয় $(0,2)$ ও $(2,-2)$।",
+          "topic": "Differential Calculus",
+          "probability": "Board Favourite"
+        },
+        {
+          "question_no": 9,
+          "question": "$k$ এর মান কত হলে $\\begin{vmatrix} 1 & 2 & 3 \\\\ 4 & k & 6 \\\\ 7 & 8 & 9 \\end{vmatrix} = 0$ হবে?",
+          "options": { "ক": "$4$", "খ": "$5$", "গ": "$6$", "ঘ": "$7$" },
+          "correct_option": "খ",
+          "explanation": "সারিগুলোর দিকে তাকালে, ১+৩=৪ (মাঝেরটার ডাবল), ৭+৯=১৬ (মাঝেরটার ডাবল)। এটি একটি সমান্তর ধারা। $k=5$ বসালে কলামগুলো সমান্তর প্রগমন অনুসরণ করবে এবং নির্ণায়ক 0 হবে।",
+          "topic": "Matrix",
+          "probability": "Mega Hot Trap"
+        },
+        {
+          "question_no": 10,
+          "question": "'COMBINATION' শব্দটির বর্ণগুলো থেকে প্রতিবারে ৪টি বর্ণ নিয়ে কতগুলো সমাবেশ গঠন করা যায়?",
+          "options": { "ক": "$136$", "খ": "$135$", "গ": "$150$", "ঘ": "$210$" },
+          "correct_option": "ক",
+          "explanation": "শব্দটিতে O, I, N ২টি করে আছে। C, M, B, A, T ১টি করে। মোট ভিন্ন বর্ণ ৮টি। কেস ১: সব ভিন্ন = ${}^8C_4 = 70$। কেস ২: ২টা একই, ২টা ভিন্ন = ${}^3C_1 \\times {}^7C_2 = 3 \\times 21 = 63$। কেস ৩: ২টা একই, ২টা একই = ${}^3C_2 = 3$। মোট = $70+63+3=136$।",
+          "topic": "Permutation and Combination",
+          "probability": "Conceptual Trap"
+        },
+        {
+          "question_no": 11,
+          "question": "$\\lim_{x \\to 0} (1 - x)^{\\frac{1}{x}}$ এর মান কত?",
+          "options": { "ক": "$e$", "খ": "$e^{-1}$", "গ": "$1$", "ঘ": "$0$" },
+          "correct_option": "খ",
+          "explanation": "আদর্শ সূত্র $\\lim_{x \\to 0} (1+x)^{1/x} = e$। এখানে $x$ এর জায়গায় $-x$ আছে, তাই মান $e^{-1}$ বা $1/e$।",
+          "topic": "Differential Calculus",
+          "probability": "Very Hot"
+        },
+        {
+          "question_no": 12,
+          "question": "$y$-অক্ষের সমান্তরাল এবং $(2, -3)$ বিন্দুগামী সরলরেখার সমীকরণ কোনটি?",
+          "options": { "ক": "$y = -3$", "খ": "$x = -3$", "গ": "$x = 2$", "ঘ": "$y = 2$" },
+          "correct_option": "গ",
+          "explanation": "$y$-অক্ষের সমান্তরাল রেখার সমীকরণ $x = a$। যেহেতু রেখাটি $(2, -3)$ বিন্দুগামী, তাই $x = 2$।",
+          "topic": "Straight Line",
+          "probability": "Board Favourite"
+        },
+        {
+          "question_no": 13,
+          "question": "$\\int \\frac{f'(x)}{f(x)} \\, dx$ এর মান নিচের কোনটি?",
+          "options": { "ক": "$\\ln|f'(x)| + c$", "খ": "$\\ln|f(x)| + c$", "গ": "$e^{f(x)} + c$", "ঘ": "$\\frac{1}{f(x)} + c$" },
+          "correct_option": "খ",
+          "explanation": "এটি প্রতিস্থাপন সমাকলনের একটি মৌলিক অনুসিদ্ধান্ত। হরের ডেরিভেটিভ লবে থাকলে ইন্টিগ্রেশন হয় $\\ln|\\text{হর}|$।",
+          "topic": "Integral Calculus",
+          "probability": "Highest Probability"
+        },
+        {
+          "question_no": 14,
+          "question": "$\\sin^{-1} x + \\cos^{-1} x$ এর মান কত?",
+          "options": { "ক": "$\\pi$", "খ": "$\\frac{\\pi}{2}$", "গ": "$0$", "ঘ": "$1$" },
+          "correct_option": "খ",
+          "explanation": "এটি বিপরীত ত্রিকোণমিতিক ফাংশনের মৌলিক অভেদ।",
+          "topic": "Trigonometry",
+          "probability": "Board Favourite"
+        },
+        {
+          "question_no": 15,
+          "question": "ভেক্টরের ক্ষেত্রে—\ni. কোনো ভেক্টর ও তার ঋণাত্মক ভেক্টরের যোগফল শূন্য ভেক্টর\nii. $\\vec{i}, \\vec{j}, \\vec{k}$ হলো আয়ত একক ভেক্টর\niii. ডট গুণন একটি স্কেলার রাশি দেয়\n\nনিচের কোনটি সঠিক?",
+          "options": { "ক": "i ও ii", "খ": "i ও iii", "গ": "ii ও iii", "ঘ": "i, ii ও iii" },
+          "correct_option": "ঘ",
+          "explanation": "ভেক্টরের মৌলিক সংজ্ঞানুসারে এই তিনটি তথ্যই সঠিক।",
+          "topic": "Vector",
+          "probability": "Board Favourite"
+        },
+        {
+          "question_no": 16,
+          "question": "সরলরেখার ক্ষেত্রে—\ni. দুটি রেখা লম্ব হলে $m_1 m_2 = 1$\nii. $ax+by+c=0$ রেখার লম্ব রেখার ঢাল $\\frac{b}{a}$\niii. মূলবিন্দুগামী রেখার $y$-অক্ষের খণ্ডিতাংশ $0$\n\nনিচের কোনটি সঠিক?",
+          "options": { "ক": "i ও ii", "খ": "ii ও iii", "গ": "i ও iii", "ঘ": "i, ii ও iii" },
+          "correct_option": "খ",
+          "explanation": "দুটি রেখা লম্ব হলে $m_1 m_2 = -1$, তাই i ভুল। $ax+by+c=0$ এর ঢাল $-a/b$, এর লম্ব রেখার ঢাল উল্টে গিয়ে চিহ্ন বদলাবে, অর্থাৎ $b/a$ (ii সঠিক)।",
+          "topic": "Straight Line",
+          "probability": "Conceptual Trap"
+        },
+        {
+          "question_no": 17,
+          "question": "বিন্যাস ও সমাবেশের ক্ষেত্রে—\ni. ${}^nC_r = \\frac{{}^nP_r}{r!}$\nii. $0! = 1$\niii. $n$ সংখ্যক ভিন্ন বস্তু থেকে $r$ সংখ্যক বস্তু নিয়ে চক্রাকার বিন্যাস $\\frac{{}^nP_r}{r}$\n\nনিচের কোনটি সঠিক?",
+          "options": { "ক": "i ও ii", "খ": "i ও iii", "গ": "ii ও iii", "ঘ": "i, ii ও iii" },
+          "correct_option": "ঘ",
+          "explanation": "তিনটি সূত্রই বিন্যাস ও সমাবেশের ক্ষেত্রে গাণিতিকভাবে সত্য।",
+          "topic": "Permutation and Combination",
+          "probability": "Board Favourite"
+        },
+        {
+          "question_no": 18,
+          "question": "ম্যাট্রিক্সের গুণের ক্ষেত্রে—\ni. $AB = BA$ সর্বদা সত্য নয়\nii. $A(BC) = (AB)C$\niii. $AI = IA = A$\n\nনিচের কোনটি সঠিক?",
+          "options": { "ক": "i ও ii", "খ": "i ও iii", "গ": "ii ও iii", "ঘ": "i, ii ও iii" },
+          "correct_option": "ঘ",
+          "explanation": "ম্যাট্রিক্সের গুণ বিনিময় বিধি মেনে চলে না, কিন্তু সংযোগ বিধি ও অভেদক ধর্ম মেনে চলে।",
+          "topic": "Matrix",
+          "probability": "Very Hot"
+        },
+        {
+          "question_no": 19,
+          "question": "অন্তরীকরণের ক্ষেত্রে—\ni. $\\frac{d}{dx}(\\tan x) = \\sec^2 x$\nii. $\\frac{d}{dx}(\\sec x) = \\sec x \\tan x$\niii. $\\frac{d}{dx}(\\cot x) = \\csc^2 x$\n\nনিচের কোনটি সঠিক?",
+          "options": { "ক": "i ও ii", "খ": "i ও iii", "গ": "ii ও iii", "ঘ": "i, ii ও iii" },
+          "correct_option": "ক",
+          "explanation": "$\\frac{d}{dx}(\\cot x) = -\\csc^2 x$। মাইনাস না থাকায় iii ভুল।",
+          "topic": "Differential Calculus",
+          "probability": "Conceptual Trap"
+        },
+        {
+          "question_no": 20,
+          "question": "ত্রিকোণমিতিক রূপান্তরের ক্ষেত্রে—\ni. $2\\sin A \\cos B = \\sin(A+B) + \\sin(A-B)$\nii. $2\\cos A \\cos B = \\cos(A+B) + \\cos(A-B)$\niii. $2\\sin A \\sin B = \\cos(A-B) - \\cos(A+B)$\n\nনিচের কোনটি সঠিক?",
+          "options": { "ক": "i ও ii", "খ": "i ও iii", "গ": "ii ও iii", "ঘ": "i, ii ও iii" },
+          "correct_option": "ঘ",
+          "explanation": "গুণফলকে যোগ/বিয়োগফলে রূপান্তরের এই তিনটি সূত্রই একদম সঠিক।",
+          "topic": "Trigonometry",
+          "probability": "Board Favourite"
+        },
+        {
+          "question_no": 21,
+          "question": "$\\lim_{x \\to 0} \\frac{e^{\\sin x} - 1}{x}$ এর মান কত?",
+          "options": { "ক": "$0$", "খ": "$1$", "গ": "$e$", "ঘ": "$\\infty$" },
+          "correct_option": "খ",
+          "explanation": "L'Hopital's rule প্রয়োগ করলে, লবকে অন্তরীকরণ করলে $e^{\\sin x} \\cos x$ এবং হরকে অন্তরীকরণ করলে $1$। $x=0$ বসালে $e^0 \\times 1 = 1$।",
+          "topic": "Differential Calculus",
+          "probability": "Mega Hot Shortcut"
+        },
+        {
+          "question_no": 22,
+          "question": "$y = x \\ln x$ হলে $\\frac{d^2y}{dx^2}$ এর মান কত?",
+          "options": { "ক": "$\\frac{1}{x}$", "খ": "$x$", "গ": "$\\ln x$", "ঘ": "$\\frac{1}{x^2}$" },
+          "correct_option": "ক",
+          "explanation": "প্রথমবার অন্তরীকরণ $y' = 1 \\cdot \\ln x + x \\cdot (1/x) = \\ln x + 1$। ২য়বার অন্তরীকরণ $y'' = \\frac{1}{x} + 0 = \\frac{1}{x}$।",
+          "topic": "Differential Calculus",
+          "probability": "Board Favourite"
+        },
+        {
+          "question_no": 23,
+          "question": "$3x - 4y = 12$ রেখাটি দ্বারা অক্ষদ্বয়ের খণ্ডিত অংশের মধ্যবিন্দুর স্থানাঙ্ক কত?",
+          "options": { "ক": "$(4, 3)$", "খ": "$(2, -1.5)$", "গ": "$(2, 1.5)$", "ঘ": "$(-2, 1.5)$" },
+          "correct_option": "খ",
+          "explanation": "সমীকরণটিকে $x/4 + y/(-3) = 1$ লেখা যায়। খণ্ডিতাংশদ্বয় $(4, 0)$ এবং $(0, -3)$। এদের মধ্যবিন্দু $(\\frac{4+0}{2}, \\frac{0-3}{2}) = (2, -1.5)$।",
+          "topic": "Straight Line",
+          "probability": "Mega Hot Shortcut"
+        },
+        {
+          "question_no": 24,
+          "question": "$\\int_{0}^{a} \\sqrt{a^2 - x^2} \\, dx$ এর মান কত?",
+          "options": { "ক": "$\\pi a^2$", "খ": "$\\frac{\\pi a^2}{4}$", "গ": "$\\frac{\\pi a^2}{2}$", "ঘ": "$a^2$" },
+          "correct_option": "খ",
+          "explanation": "এটি $x^2 + y^2 = a^2$ বৃত্তের প্রথম চতুর্ভাগের ক্ষেত্রফল নির্দেশ করে। পুরো বৃত্তের ক্ষেত্রফল $\\pi a^2$, তাই প্রথম চতুর্ভাগের ক্ষেত্রফল $\\frac{\\pi a^2}{4}$।",
+          "topic": "Integral Calculus",
+          "probability": "Highest Probability Trap"
+        },
+        {
+          "question_no": 25,
+          "question": "$|\\vec{A} + \\vec{B}| = |\\vec{A} - \\vec{B}|$ হলে ভেক্টরদ্বয়ের মধ্যবর্তী কোণ কত?",
+          "options": { "ক": "$0^\\circ$", "খ": "$45^\\circ$", "গ": "$90^\\circ$", "ঘ": "$180^\\circ$" },
+          "correct_option": "গ",
+          "explanation": "বর্গ করলে $A^2 + B^2 + 2AB\\cos\\theta = A^2 + B^2 - 2AB\\cos\\theta \\Rightarrow 4AB\\cos\\theta = 0 \\Rightarrow \\cos\\theta = 0 \\Rightarrow \\theta = 90^\\circ$।",
+          "topic": "Vector",
+          "probability": "Mega Hot Trap"
+        }
+      ]
+    },
+    {
+      "set_number": 8,
+      "questions": [
+        {
+          "question_no": 1,
+          "stem": "উদ্দীপক: দুটি বৃত্তের সমীকরণ যথাক্রমে $x^2 + y^2 = 9$ এবং $x^2 + y^2 - 8x - 6y + 16 = 0$।",
+          "question": "প্রথম বৃত্তের ব্যাসার্ধ কত?",
+          "options": { "ক": "$9$", "খ": "$3$", "গ": "$81$", "ঘ": "$\\sqrt{3}$" },
+          "correct_option": "খ",
+          "explanation": "প্রথম বৃত্তের সমীকরণ $x^2 + y^2 = r^2$ এর সাথে তুলনা করলে $r^2 = 9 \\Rightarrow r = 3$।",
+          "topic": "Circle",
+          "probability": "Board Favourite"
+        },
+        {
+          "question_no": 2,
+          "stem": "উদ্দীপক: দুটি বৃত্তের সমীকরণ যথাক্রমে $x^2 + y^2 = 9$ এবং $x^2 + y^2 - 8x - 6y + 16 = 0$।",
+          "question": "দ্বিতীয় বৃত্তের কেন্দ্র থেকে প্রথম বৃত্তের কেন্দ্রের দূরত্ব কত?",
+          "options": { "ক": "$5$", "খ": "$4$", "গ": "$3$", "ঘ": "$25$" },
+          "correct_option": "ক",
+          "explanation": "১ম বৃত্তের কেন্দ্র $C_1(0,0)$। ২য় বৃত্তের কেন্দ্র $C_2(4, 3)$। দূরত্ব $d = \\sqrt{(4-0)^2 + (3-0)^2} = \\sqrt{16+9} = 5$।",
+          "topic": "Circle",
+          "probability": "Mega Hot"
+        },
+        {
+          "question_no": 3,
+          "stem": "উদ্দীপক: একটি সমান্তর ধারার নির্ণায়ক $D = \\begin{vmatrix} x & y & z \\\\ 1 & 2 & 3 \\\\ 2 & 4 & 6 \\end{vmatrix}$।",
+          "question": "$D$ এর মান কত?",
+          "options": { "ক": "$xyz$", "খ": "$1$", "গ": "$0$", "ঘ": "$x+y+z$" },
+          "correct_option": "গ",
+          "explanation": "২য় সারির উপাদানগুলোকে ২ দিয়ে গুণ করলে ৩য় সারি পাওয়া যায়। অর্থাৎ, ২য় ও ৩য় সারি সমানুপাতিক। তাই নির্ণায়কের মান ০।",
+          "topic": "Matrix",
+          "probability": "Highest Probability"
+        },
+        {
+          "question_no": 4,
+          "stem": "উদ্দীপক: একটি সমান্তর ধারার নির্ণায়ক $D = \\begin{vmatrix} x & y & z \\\\ 1 & 2 & 3 \\\\ 2 & 4 & 6 \\end{vmatrix}$।",
+          "question": "যদি ২য় সারির প্রতিটি উপাদানকে ৩ দ্বারা গুণ করা হয়, তবে নতুন নির্ণায়কের মান কত হবে?",
+          "options": { "ক": "$3$", "খ": "$0$", "গ": "$3xyz$", "ঘ": "$6$" },
+          "correct_option": "খ",
+          "explanation": "যেহেতু মূল নির্ণায়কের মান ০, তাই একে যেকোনো স্কেলার দিয়ে গুণ করলেও মান ০-ই থাকবে।",
+          "topic": "Matrix",
+          "probability": "Conceptual Trap"
+        },
+        {
+          "question_no": 5,
+          "question": "$\\int_{1}^{e} \\frac{\\ln x}{x} \\, dx$ এর মান কত?",
+          "options": { "ক": "$1$", "খ": "$1/2$", "গ": "$e$", "ঘ": "$0$" },
+          "correct_option": "খ",
+          "explanation": "ধরি $z = \\ln x \\Rightarrow dz = \\frac{1}{x}dx$। $x=1$ হলে $z=0$, $x=e$ হলে $z=1$। $\\int_0^1 z \\, dz = [z^2/2]_0^1 = 1/2$।",
+          "topic": "Integral Calculus",
+          "probability": "Board Favourite"
+        },
+        {
+          "question_no": 6,
+          "question": "$|\\vec{a}| = 2, |\\vec{b}| = 5$ এবং $\\vec{a} \\cdot \\vec{b} = 6$ হলে $|\\vec{a} \\times \\vec{b}|$ এর মান কত?",
+          "options": { "ক": "$8$", "খ": "$64$", "গ": "$10$", "ঘ": "$16$" },
+          "correct_option": "ক",
+          "explanation": "ল্যাগ্রাঞ্জের অভেদ: $|\\vec{a} \\times \\vec{b}|^2 + (\\vec{a} \\cdot \\vec{b})^2 = |\\vec{a}|^2|\\vec{b}|^2$। $|\\vec{a} \\times \\vec{b}|^2 + 36 = 100 \\Rightarrow |\\vec{a} \\times \\vec{b}|^2 = 64 \\Rightarrow |\\vec{a} \\times \\vec{b}| = 8$।",
+          "topic": "Vector",
+          "probability": "Mega Hot Shortcut"
+        },
+        {
+          "question_no": 7,
+          "question": "$\\lim_{x \\to \\infty} x \\sin(\\frac{1}{x})$ এর মান কত?",
+          "options": { "ক": "$0$", "খ": "$1$", "গ": "$\\infty$", "ঘ": "অসংজ্ঞায়িত" },
+          "correct_option": "খ",
+          "explanation": "ধরি $\\frac{1}{x} = h$। যখন $x \\to \\infty$, তখন $h \\to 0$। প্রদত্ত রাশি $\\lim_{h \\to 0} \\frac{\\sin h}{h} = 1$।",
+          "topic": "Differential Calculus",
+          "probability": "Conceptual Trap"
+        },
+        {
+          "question_no": 8,
+          "question": "${}^{10}C_r = {}^{10}C_{r+2}$ হলে $r$ এর মান কত?",
+          "options": { "ক": "$2$", "খ": "$4$", "গ": "$6$", "ঘ": "$8$" },
+          "correct_option": "খ",
+          "explanation": "${}^nC_x = {}^nC_y$ হলে $x+y=n$। এখানে $r + r + 2 = 10 \\Rightarrow 2r = 8 \\Rightarrow r = 4$।",
+          "topic": "Permutation and Combination",
+          "probability": "Board Favourite"
+        },
+        {
+          "question_no": 9,
+          "question": "$y = e^{x^2}$ হলে $y'$ এর মান কোনটি?",
+          "options": { "ক": "$e^{x^2}$", "খ": "$2x e^{x^2}$", "গ": "$x^2 e^{x^2}$", "ঘ": "$2 e^{x^2}$" },
+          "correct_option": "খ",
+          "explanation": "চেইন রুল প্রয়োগ করে: $\\frac{d}{dx}(e^{x^2}) = e^{x^2} \\cdot \\frac{d}{dx}(x^2) = 2x e^{x^2}$।",
+          "topic": "Differential Calculus",
+          "probability": "Very Hot"
+        },
+        {
+          "question_no": 10,
+          "question": "$y = 2x+3$ এবং $y = 2x-5$ সমান্তরাল রেখাদ্বয়ের মধ্যবর্তী লম্ব দূরত্ব কত?",
+          "options": { "ক": "$\\frac{8}{\\sqrt{5}}$", "খ": "$\\frac{2}{\\sqrt{5}}$", "গ": "$8$", "ঘ": "$\\frac{8}{\\sqrt{2}}$" },
+          "correct_option": "ক",
+          "explanation": "সমীকরণগুলো $2x-y+3=0$ এবং $2x-y-5=0$। দূরত্ব $d = \\frac{|3 - (-5)|}{\\sqrt{2^2+(-1)^2}} = \\frac{8}{\\sqrt{5}}$।",
+          "topic": "Straight Line",
+          "probability": "Board Favourite"
+        },
+        {
+          "question_no": 11,
+          "question": "$\\int \\frac{1}{\\sqrt{1-x^2}} \\, dx$ এর মান কোনটি?",
+          "options": { "ক": "$\\sin^{-1} x + c$", "খ": "$\\cos^{-1} x + c$", "গ": "$-\\sin^{-1} x + c$", "ঘ": "$\\tan^{-1} x + c$" },
+          "correct_option": "ক",
+          "explanation": "এটি বিপরীত ত্রিকোণমিতিক ফাংশনের অন্তরীকরণের উল্টো (সমাকলন) আদর্শ সূত্র।",
+          "topic": "Integral Calculus",
+          "probability": "Board Favourite"
+        },
+        {
+          "question_no": 12,
+          "question": "$\\tan 75^\\circ$ এর মান কত?",
+          "options": { "ক": "$2 + \\sqrt{3}$", "খ": "$2 - \\sqrt{3}$", "গ": "$\\frac{\\sqrt{3}+1}{2\\sqrt{2}}$", "ঘ": "$\\frac{\\sqrt{3}-1}{2\\sqrt{2}}$" },
+          "correct_option": "ক",
+          "explanation": "$\\tan(45^\\circ + 30^\\circ) = \\frac{\\tan 45^\\circ + \\tan 30^\\circ}{1 - \\tan 45^\\circ \\tan 30^\\circ} = \\frac{1 + 1/\\sqrt{3}}{1 - 1/\\sqrt{3}} = \\frac{\\sqrt{3}+1}{\\sqrt{3}-1} = 2 + \\sqrt{3}$।",
+          "topic": "Trigonometry",
+          "probability": "Mega Hot Shortcut"
+        },
+        {
+          "question_no": 13,
+          "question": "১টি বহুভুজের বাহুর সংখ্যা $n$ হলে, তার কর্ণের সংখ্যা হবে—",
+          "options": { "ক": "$\\frac{n(n-3)}{2}$", "খ": "$\\frac{n(n-1)}{2}$", "গ": "${}^nC_2$", "ঘ": "$n^2 - n$" },
+          "correct_option": "ক",
+          "explanation": "কর্ণসংখ্যা = ${}^nC_2 - n = \\frac{n(n-1)}{2} - n = \\frac{n^2 - n - 2n}{2} = \\frac{n^2 - 3n}{2} = \\frac{n(n-3)}{2}$।",
+          "topic": "Permutation and Combination",
+          "probability": "Highest Probability"
+        },
+        {
+          "question_no": 14,
+          "question": "$a_{11}A_{11} + a_{12}A_{12} + a_{13}A_{13}$ রাশিটি একটি $3 \\times 3$ নির্ণায়কের কী নির্দেশ করে?",
+          "options": { "ক": "নির্ণায়কের মান", "খ": "ট্রেস", "গ": "কোফ্যাক্টর ম্যাট্রিক্স", "ঘ": "শূন্য" },
+          "correct_option": "ক",
+          "explanation": "কোনো নির্ণায়কের একটি সারির উপাদানগুলোর সাথে তাদের নিজ নিজ সহগুণক (Cofactor) এর গুণফলের যোগফল ওই নির্ণায়কের মান নির্দেশ করে।",
+          "topic": "Matrix",
+          "probability": "Conceptual Trap"
+        },
+        {
+          "question_no": 15,
+          "question": "ক্যালকুলাসে বক্ররেখার স্পর্শকের ক্ষেত্রে—\ni. স্পর্শক $x$-অক্ষের ধনাত্মক দিকের সাথে সূক্ষ্মকোণ তৈরি করলে ঢাল ধনাত্মক\nii. স্পর্শক $x$-অক্ষের সমান্তরাল হলে $\\frac{dy}{dx} = 0$\niii. স্পর্শক $y$-অক্ষের সমান্তরাল হলে $\\frac{dy}{dx} = 0$\n\nনিচের কোনটি সঠিক?",
+          "options": { "ক": "i ও ii", "খ": "i ও iii", "গ": "ii ও iii", "ঘ": "i, ii ও iii" },
+          "correct_option": "ক",
+          "explanation": "স্পর্শক $y$-অক্ষের সমান্তরাল হলে $\\frac{dy}{dx} = \\infty$ বা অসংজ্ঞায়িত হয়। তাই iii ভুল।",
+          "topic": "Differential Calculus",
+          "probability": "Conceptual Trap"
+        },
+        {
+          "question_no": 16,
+          "question": "ভেক্টরের ক্ষেত্রে—\ni. $\\vec{A} = a_x\\hat{i} + a_y\\hat{j} + a_z\\hat{k}$ হলে এর মান $\\sqrt{a_x^2 + a_y^2 + a_z^2}$\nii. দুটি ভেক্টরের স্কেলার গুণফল শূন্য হলে তারা পরস্পর লম্ব\niii. $\\hat{j} \\times \\hat{i} = \\hat{k}$\n\nনিচের কোনটি সঠিক?",
+          "options": { "ক": "i ও ii", "খ": "i ও iii", "গ": "ii ও iii", "ঘ": "i, ii ও iii" },
+          "correct_option": "ক",
+          "explanation": "ক্রস গুণনের নিয়ম অনুযায়ী $\\hat{i} \\times \\hat{j} = \\hat{k}$ কিন্তু $\\hat{j} \\times \\hat{i} = -\\hat{k}$। তাই iii ভুল।",
+          "topic": "Vector",
+          "probability": "Board Favourite"
+        },
+        {
+          "question_no": 17,
+          "question": "বৃত্তের সমীকরণের ক্ষেত্রে—\ni. সমীকরণের ঘাত সর্বদা ২\nii. $xy$ সম্বলিত কোনো পদ থাকে না\niii. $g^2+f^2-c < 0$ হলে বৃত্তটি কাল্পনিক\n\nনিচের কোনটি সঠিক?",
+          "options": { "ক": "i ও ii", "খ": "i ও iii", "গ": "ii ও iii", "ঘ": "i, ii ও iii" },
+          "correct_option": "ঘ",
+          "explanation": "বৃত্তের সমীকরণের সাধারণ বৈশিষ্ট্য এবং ব্যাসার্ধের শর্ত অনুযায়ী তিনটি তথ্যই একদম সঠিক।",
+          "topic": "Circle",
+          "probability": "Board Favourite"
+        },
+        {
+          "question_no": 18,
+          "question": "সমাকলনের ক্ষেত্রে—\ni. $\\int_a^b f(x) dx = \\int_a^c f(x) dx + \\int_c^b f(x) dx$ (যেখানে $a<c<b$)\nii. $\\int e^x dx = e^x + C$\niii. অযুগ্ম ফাংশনের ক্ষেত্রে $\\int_{-a}^a f(x) dx = 0$\n\nনিচের কোনটি সঠিক?",
+          "options": { "ক": "i ও ii", "খ": "i ও iii", "গ": "ii ও iii", "ঘ": "i, ii ও iii" },
+          "correct_option": "ঘ",
+          "explanation": "নির্দিষ্ট ও অনির্দিষ্ট সমাকলনের মৌলিক ধর্ম অনুযায়ী তিনটি উক্তিই সঠিক।",
+          "topic": "Integral Calculus",
+          "probability": "Highest Probability"
+        },
+        {
+          "question_no": 19,
+          "question": "ত্রিকোণমিতিতে—\ni. $\\sin 2A = \\frac{2\\tan A}{1+\\tan^2 A}$\nii. $\\cos 2A = \\frac{1-\\tan^2 A}{1+\\tan^2 A}$\niii. $\\tan 2A = \\frac{2\\tan A}{1-\\tan^2 A}$\n\nনিচের কোনটি সঠিক?",
+          "options": { "ক": "i ও ii", "খ": "i ও iii", "গ": "ii ও iii", "ঘ": "i, ii ও iii" },
+          "correct_option": "ঘ",
+          "explanation": "গুণিতক কোণকে ট্যানজেন্টের (Tangent) মাধ্যমে প্রকাশের এই তিনটি সূত্রই একদম সঠিক।",
+          "topic": "Trigonometry",
+          "probability": "Board Favourite"
+        },
+        {
+          "question_no": 20,
+          "question": "সরলরেখার ক্ষেত্রে—\ni. $y = mx+c$ এবং $y = mx+d$ সমান্তরাল\nii. দুটি রেখার ঢাল $m_1$ ও $m_2$ হলে মধ্যবর্তী কোণ $\\theta = \\tan^{-1}\\left(\\frac{m_1 - m_2}{1 + m_1 m_2}\\right)$\niii. $x/a + y/b = 1$ রেখাটি অক্ষদ্বয়ের সাথে সমকোণী ত্রিভুজ গঠন করে\n\nনিচের কোনটি সঠিক?",
+          "options": { "ক": "i ও ii", "খ": "i ও iii", "গ": "ii ও iii", "ঘ": "i, ii ও iii" },
+          "correct_option": "ঘ",
+          "explanation": "সমান্তরাল রেখার ঢাল, মধ্যবর্তী কোণের সূত্র এবং অক্ষের খণ্ডিতাংশ রূপ সমীকরণের বৈশিষ্ট্য অনুযায়ী সবগুলো সঠিক।",
+          "topic": "Straight Line",
+          "probability": "Very Hot"
+        },
+        {
+          "question_no": 21,
+          "question": "$\\frac{d}{dx}(\\int x^2 \\, dx)$ এর মান কত?",
+          "options": { "ক": "$2x$", "খ": "$x^2$", "গ": "$\\frac{x^3}{3}$", "ঘ": "$x^2 + c$" },
+          "correct_option": "খ",
+          "explanation": "অন্তরীকরণ এবং সমাকলন হলো একে অপরের বিপরীত প্রক্রিয়া। তাই কোনো ফাংশনকে একবার সমাকলন করে আবার অন্তরীকরণ করলে মূল ফাংশনটিই পাওয়া যায়।",
+          "topic": "Calculus",
+          "probability": "Conceptual Trap"
+        },
+        {
+          "question_no": 22,
+          "question": "$\\lim_{x \\to \\infty} \\left(1 + \\frac{1}{x}\\right)^x$ এর মান কত?",
+          "options": { "ক": "$1$", "খ": "$0$", "গ": "$e$", "ঘ": "$\\infty$" },
+          "correct_option": "গ",
+          "explanation": "এটি লিমিটের সূচকীয় ফাংশনের একটি প্রমিত (Standard) সূত্র। মান সর্বদা $e$।",
+          "topic": "Differential Calculus",
+          "probability": "Mega Hot Shortcut"
+        },
+        {
+          "question_no": 23,
+          "question": "একটি ঘড়ির কাঁটাগুলোতে রাত ৯টায় ঘণ্টার কাঁটা ও মিনিটের কাঁটার মধ্যবর্তী কোণ কত?",
+          "options": { "ক": "$0^\\circ$", "খ": "$90^\\circ$", "গ": "$180^\\circ$", "ঘ": "$270^\\circ$" },
+          "correct_option": "খ",
+          "explanation": "সূত্র: $|30H - 5.5M|$। এখানে $H=9, M=0$। $|270 - 0| = 270^\\circ$। যেহেতু এটি $180^\\circ$ এর চেয়ে বড়, তাই $360^\\circ - 270^\\circ = 90^\\circ$।",
+          "topic": "Trigonometry",
+          "probability": "Mega Hot Trap"
+        },
+        {
+          "question_no": 24,
+          "question": "$y = x^2 - 4x + 3$ পরাবৃত্তটির নূন্যতম (Minimum) মান কত?",
+          "options": { "ক": "$0$", "খ": "$-1$", "গ": "$1$", "ঘ": "$-4$" },
+          "correct_option": "খ",
+          "explanation": "$\\frac{dy}{dx} = 2x - 4 = 0 \\Rightarrow x=2$। $x=2$ বসালে $y = (2)^2 - 4(2) + 3 = 4 - 8 + 3 = -1$।",
+          "topic": "Differential Calculus",
+          "probability": "Highest Probability"
+        },
+        {
+          "question_no": 25,
+          "question": "$\\int_{0}^{2} |x-1| \\, dx$ এর মান কত?",
+          "options": { "ক": "$0$", "খ": "$1$", "গ": "$2$", "ঘ": "$1/2$" },
+          "correct_option": "খ",
+          "explanation": "শর্টকাট: পরম মানের এই ধরনের সমাকলনে এটি দুটি সমান ক্ষেত্রফলের ত্রিভুজ তৈরি করে। $\\frac{1}{2}(1 \\times 1) + \\frac{1}{2}(1 \\times 1) = 0.5 + 0.5 = 1$।",
+          "topic": "Integral Calculus",
+          "probability": "Mega Hot Trap"
+        }
+      ]
+    }
+  ]
+}

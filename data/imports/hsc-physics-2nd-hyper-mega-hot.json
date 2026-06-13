@@ -1,0 +1,4054 @@
+{
+  "exam": "HSC Physics 2nd Paper - Hyper Mega Hot Board Standard Exclusive Model Test",
+  "language": "bn",
+  "subject_code": "175",
+  "created_from": "Uploaded 2024 board questions, previous/model-test JSON files, and generated board-standard practice patterns",
+  "disclaimer": "এই প্রশ্নগুলো 100% বা 99.99% guaranteed নয়; repeated board pattern, syllabus importance, formula frequency এবং concept recurrence দেখে practice set হিসেবে তৈরি।",
+  "frequency_snapshot": [
+    {
+      "cluster": "চল তড়িৎ / Current electricity",
+      "detected_frequency": 807
+    },
+    {
+      "cluster": "তাপগতিবিদ্যা / Carnot / Adiabatic",
+      "detected_frequency": 609
+    },
+    {
+      "cluster": "স্থির তড়িৎ / ধারকত্ব",
+      "detected_frequency": 482
+    },
+    {
+      "cluster": "আধুনিক পদার্থবিজ্ঞান",
+      "detected_frequency": 405
+    },
+    {
+      "cluster": "তরঙ্গ ও আলোকবিজ্ঞান",
+      "detected_frequency": 280
+    },
+    {
+      "cluster": "Semiconductor / Logic",
+      "detected_frequency": 213
+    },
+    {
+      "cluster": "EMI / Transformer",
+      "detected_frequency": 58
+    }
+  ],
+  "sets": [
+    {
+      "set_no": 1,
+      "title": "Set 01 - Photoelectric + Interference Core",
+      "metadata": {
+        "subject": "HSC Physics 2nd Paper",
+        "subject_code": "175",
+        "full_marks": 25,
+        "time_minutes": 25,
+        "total_questions": 25,
+        "note": "No question is guaranteed; generated from uploaded board/model-test pattern analysis as high-probability practice."
+      },
+      "stimuli": [
+        {
+          "stimulus_no": 1,
+          "instruction": "নিচের উদ্দীপকটি পড়ো এবং ১ ও ২ নং প্রশ্নের উত্তর দাও:",
+          "text": "কোনো একটি ধাতব পৃষ্ঠের কার্যাপেক্ষক 2.0 eV। ল্যাবরেটরিতে উক্ত পৃষ্ঠের ওপর 4000 Å তরঙ্গদৈর্ঘ্যের আলো আপতিত করা হলো।",
+          "question_range": [
+            1,
+            2
+          ]
+        },
+        {
+          "stimulus_no": 2,
+          "instruction": "নিচের উদ্দীপকটি পড়ো এবং ৩ ও ৪ নং প্রশ্নের উত্তর দাও:",
+          "text": "ইয়ং-এর দ্বি-চিড় পরীক্ষায় চিড় দুটির মধ্যবর্তী দূরত্ব 0.4 mm এবং চিড় হতে পর্দার লম্ব দূরত্ব 1 m। ব্যবহৃত আলোর তরঙ্গদৈর্ঘ্য 6000 Å।",
+          "question_range": [
+            3,
+            4
+          ]
+        }
+      ],
+      "questions": [
+        {
+          "question_no": 1,
+          "type": "stimulus_based",
+          "question": "নির্গত ফোটোইলেকট্রনের সর্বোচ্চ গতিশক্তি কত?",
+          "options": [
+            {
+              "key": "ক",
+              "text": "1.1 eV"
+            },
+            {
+              "key": "খ",
+              "text": "2.0 eV"
+            },
+            {
+              "key": "গ",
+              "text": "3.1 eV"
+            },
+            {
+              "key": "ঘ",
+              "text": "5.1 eV"
+            }
+          ],
+          "correct_option": "ক",
+          "explanation": "E=12400/4000=3.1 eV; Kmax=3.1-2.0=1.1 eV।",
+          "topic": "Photoelectric effect",
+          "probability_tag": "Mega Hot",
+          "stimulus_no": 1
+        },
+        {
+          "question_no": 2,
+          "type": "stimulus_based",
+          "question": "আপতিত আলোর তীব্রতা দ্বিগুণ করা হলে কোনটি ঘটবে?",
+          "options": [
+            {
+              "key": "ক",
+              "text": "ধাতুর সূচন কম্পাঙ্ক দ্বিগুণ হবে"
+            },
+            {
+              "key": "খ",
+              "text": "ফোটোইলেকট্রনের সর্বোচ্চ গতিশক্তি বৃদ্ধি পাবে"
+            },
+            {
+              "key": "গ",
+              "text": "প্রতি সেকেন্ডে নির্গত ইলেকট্রনের সংখ্যা বৃদ্ধি পাবে"
+            },
+            {
+              "key": "ঘ",
+              "text": "নিবৃত্তি বিভব দ্বিগুণ হবে"
+            }
+          ],
+          "correct_option": "গ",
+          "explanation": "তীব্রতা বাড়লে ফোটনের সংখ্যা বাড়ে; Kmax নির্ভর করে কম্পাঙ্কের ওপর।",
+          "topic": "Photoelectric effect",
+          "probability_tag": "Conceptual Trap",
+          "stimulus_no": 1
+        },
+        {
+          "question_no": 3,
+          "type": "stimulus_based",
+          "question": "পরপর দুটি উজ্জ্বল ডোরার মধ্যবর্তী দূরত্ব কত?",
+          "options": [
+            {
+              "key": "ক",
+              "text": "0.75 mm"
+            },
+            {
+              "key": "খ",
+              "text": "1.5 mm"
+            },
+            {
+              "key": "গ",
+              "text": "3.0 mm"
+            },
+            {
+              "key": "ঘ",
+              "text": "4.5 mm"
+            }
+          ],
+          "correct_option": "খ",
+          "explanation": "β=Dλ/d=(1×6×10^-7)/(4×10^-4)=1.5 mm।",
+          "topic": "Young's double slit",
+          "probability_tag": "Mega Hot",
+          "stimulus_no": 2
+        },
+        {
+          "question_no": 4,
+          "type": "stimulus_based",
+          "question": "পরীক্ষামূলক ব্যবস্থাটিকে পানিতে (μ=1.33) স্থাপন করলে ডোরার প্রস্থ কী হবে?",
+          "options": [
+            {
+              "key": "ক",
+              "text": "বৃদ্ধি পাবে"
+            },
+            {
+              "key": "খ",
+              "text": "হ্রাস পাবে"
+            },
+            {
+              "key": "গ",
+              "text": "একই থাকবে"
+            },
+            {
+              "key": "ঘ",
+              "text": "সম্পূর্ণ অদৃশ্য হবে"
+            }
+          ],
+          "correct_option": "খ",
+          "explanation": "মাধ্যমে λ কমে λ/μ হয়; তাই β-ও কমে।",
+          "topic": "Interference in medium",
+          "probability_tag": "Board Favourite",
+          "stimulus_no": 2
+        },
+        {
+          "question_no": 5,
+          "type": "standard_mcq",
+          "question": "500 K ও 300 K তাপাধারের মধ্যে ক্রিয়াশীল কার্নো ইঞ্জিনের দক্ষতা কত?",
+          "options": [
+            {
+              "key": "ক",
+              "text": "20%"
+            },
+            {
+              "key": "খ",
+              "text": "40%"
+            },
+            {
+              "key": "গ",
+              "text": "60%"
+            },
+            {
+              "key": "ঘ",
+              "text": "80%"
+            }
+          ],
+          "correct_option": "খ",
+          "explanation": "η=1-Tc/Th=1-300/500=0.40=40%।",
+          "topic": "Carnot engine",
+          "probability_tag": "Mega Hot"
+        },
+        {
+          "question_no": 6,
+          "type": "standard_mcq",
+          "question": "একটি রেফ্রিজারেটর শীতল তাপাধার থেকে 450 J তাপ নেয় এবং উষ্ণ তাপাধারে 600 J তাপ বর্জন করে। COP কত?",
+          "options": [
+            {
+              "key": "ক",
+              "text": "2"
+            },
+            {
+              "key": "খ",
+              "text": "3"
+            },
+            {
+              "key": "গ",
+              "text": "4"
+            },
+            {
+              "key": "ঘ",
+              "text": "5"
+            }
+          ],
+          "correct_option": "খ",
+          "explanation": "W=600-450=150 J; COP=Qc/W=450/150=3।",
+          "topic": "Refrigerator COP",
+          "probability_tag": "Board Favourite"
+        },
+        {
+          "question_no": 7,
+          "type": "standard_mcq",
+          "question": "ধারকত্বের SI একক কোনটি?",
+          "options": [
+            {
+              "key": "ক",
+              "text": "ভোল্ট"
+            },
+            {
+              "key": "খ",
+              "text": "ফ্যারাড"
+            },
+            {
+              "key": "গ",
+              "text": "কুলম্ব"
+            },
+            {
+              "key": "ঘ",
+              "text": "ওহম"
+            }
+          ],
+          "correct_option": "খ",
+          "explanation": "ধারকত্ব C=Q/V; এর SI একক ফ্যারাড।",
+          "topic": "Capacitance",
+          "probability_tag": "Board Favourite"
+        },
+        {
+          "question_no": 8,
+          "type": "standard_mcq",
+          "question": "চার্জিত ফাঁপা পরিবাহী গোলকের অভ্যন্তরে তড়িৎ প্রাবল্য ও বিভবের অবস্থা কী?",
+          "options": [
+            {
+              "key": "ক",
+              "text": "E শূন্য নয়, V শূন্য"
+            },
+            {
+              "key": "খ",
+              "text": "E শূন্য, V পৃষ্ঠের সমান ধ্রুবক"
+            },
+            {
+              "key": "গ",
+              "text": "E শূন্য, V শূন্য"
+            },
+            {
+              "key": "ঘ",
+              "text": "E অসীম, V অসীম"
+            }
+          ],
+          "correct_option": "খ",
+          "explanation": "পরিবাহীর অভ্যন্তরে E=0, কিন্তু বিভব পৃষ্ঠের বিভবের সমান ধ্রুবক।",
+          "topic": "Electrostatics",
+          "probability_tag": "Mega Hot"
+        },
+        {
+          "question_no": 9,
+          "type": "standard_mcq",
+          "question": "2 Ω রোধের মধ্য দিয়ে 3 A প্রবাহ 8 s ধরে চললে উৎপন্ন তাপ কত?",
+          "options": [
+            {
+              "key": "ক",
+              "text": "48 J"
+            },
+            {
+              "key": "খ",
+              "text": "96 J"
+            },
+            {
+              "key": "গ",
+              "text": "144 J"
+            },
+            {
+              "key": "ঘ",
+              "text": "192 J"
+            }
+          ],
+          "correct_option": "গ",
+          "explanation": "H=I²Rt=3²×2×8=144 J।",
+          "topic": "Joule heating",
+          "probability_tag": "Board Favourite"
+        },
+        {
+          "question_no": 10,
+          "type": "standard_mcq",
+          "question": "E=12 V, r=1 Ω ও R=5 Ω হলে কোষের প্রান্তীয় বিভব কত?",
+          "options": [
+            {
+              "key": "ক",
+              "text": "8 V"
+            },
+            {
+              "key": "খ",
+              "text": "10 V"
+            },
+            {
+              "key": "গ",
+              "text": "12 V"
+            },
+            {
+              "key": "ঘ",
+              "text": "14 V"
+            }
+          ],
+          "correct_option": "খ",
+          "explanation": "I=12/(5+1)=2 A; V=E-Ir=12-2=10 V।",
+          "topic": "Terminal voltage",
+          "probability_tag": "Very Hot"
+        },
+        {
+          "question_no": 11,
+          "type": "standard_mcq",
+          "question": "ট্রানজিস্টরের α=0.98 হলে β কত?",
+          "options": [
+            {
+              "key": "ক",
+              "text": "24"
+            },
+            {
+              "key": "খ",
+              "text": "49"
+            },
+            {
+              "key": "গ",
+              "text": "98"
+            },
+            {
+              "key": "ঘ",
+              "text": "100"
+            }
+          ],
+          "correct_option": "খ",
+          "explanation": "β=α/(1-α)=0.98/0.02=49।",
+          "topic": "Transistor",
+          "probability_tag": "Very Hot"
+        },
+        {
+          "question_no": 12,
+          "type": "standard_mcq",
+          "question": "1 B.O.T. unit বা 1 kWh সমান কত জুল?",
+          "options": [
+            {
+              "key": "ক",
+              "text": "3.6×10^5 J"
+            },
+            {
+              "key": "খ",
+              "text": "3.6×10^6 J"
+            },
+            {
+              "key": "গ",
+              "text": "3.6×10^7 J"
+            },
+            {
+              "key": "ঘ",
+              "text": "36×10^7 J"
+            }
+          ],
+          "correct_option": "খ",
+          "explanation": "1 kWh=1000 W×3600 s=3.6×10^6 J।",
+          "topic": "Electrical energy",
+          "probability_tag": "Board Favourite"
+        },
+        {
+          "question_no": 13,
+          "type": "standard_mcq",
+          "question": "ইলেকট্রনের আধানের মান কত?",
+          "options": [
+            {
+              "key": "ক",
+              "text": "+1.6×10^-19 C"
+            },
+            {
+              "key": "খ",
+              "text": "-1.6×10^-19 C"
+            },
+            {
+              "key": "গ",
+              "text": "+9.1×10^-31 C"
+            },
+            {
+              "key": "ঘ",
+              "text": "-9.1×10^-31 C"
+            }
+          ],
+          "correct_option": "খ",
+          "explanation": "ইলেকট্রনের আধান ঋণাত্মক: -1.6×10^-19 C।",
+          "topic": "Basic constants",
+          "probability_tag": "Board Favourite"
+        },
+        {
+          "question_no": 14,
+          "type": "standard_mcq",
+          "question": "কালো বস্তুর বিকিরণ তত্ত্ব প্রথম সফলভাবে কে ব্যাখ্যা করেন?",
+          "options": [
+            {
+              "key": "ক",
+              "text": "বোর"
+            },
+            {
+              "key": "খ",
+              "text": "রাদারফোর্ড"
+            },
+            {
+              "key": "গ",
+              "text": "আইনস্টাইন"
+            },
+            {
+              "key": "ঘ",
+              "text": "ম্যাক্স প্লাঙ্ক"
+            }
+          ],
+          "correct_option": "ঘ",
+          "explanation": "প্লাঙ্ক কোয়ান্টাম ধারণা দিয়ে কালো বস্তুর বিকিরণ ব্যাখ্যা করেন।",
+          "topic": "Quantum theory",
+          "probability_tag": "Board Favourite"
+        },
+        {
+          "question_no": 15,
+          "type": "i_ii_iii_analytical",
+          "question": "রুদ্ধতাপীয় প্রক্রিয়ার ক্ষেত্রে-",
+          "options": [
+            {
+              "key": "ক",
+              "text": "i ও ii"
+            },
+            {
+              "key": "খ",
+              "text": "i ও iii"
+            },
+            {
+              "key": "গ",
+              "text": "ii ও iii"
+            },
+            {
+              "key": "ঘ",
+              "text": "i, ii ও iii"
+            }
+          ],
+          "correct_option": "ঘ",
+          "explanation": "রুদ্ধতাপীয়ে PV^γ=ধ্রুবক; প্রত্যাবর্তী হলে ΔS=0 এবং ঢাল γ গুণ।",
+          "topic": "Adiabatic process",
+          "probability_tag": "Mega Hot",
+          "statements": [
+            {
+              "label": "i",
+              "text": "সিস্টেমের এন্ট্রপি স্থির থাকে (প্রত্যাবর্তী হলে)"
+            },
+            {
+              "label": "ii",
+              "text": "এটি বয়েলের সূত্র মেনে চলে না"
+            },
+            {
+              "label": "iii",
+              "text": "রুদ্ধতাপীয় রেখা সমোষ্ণ রেখা অপেক্ষা γ গুণ বেশি খাড়া"
+            }
+          ],
+          "ask": "নিচের কোনটি সঠিক?"
+        },
+        {
+          "question_no": 16,
+          "type": "i_ii_iii_analytical",
+          "question": "কিরশফের সূত্রানুসারে-",
+          "options": [
+            {
+              "key": "ক",
+              "text": "i ও ii"
+            },
+            {
+              "key": "খ",
+              "text": "i ও iii"
+            },
+            {
+              "key": "গ",
+              "text": "ii ও iii"
+            },
+            {
+              "key": "ঘ",
+              "text": "i, ii ও iii"
+            }
+          ],
+          "correct_option": "ক",
+          "explanation": "তৃতীয়টি ভুল; লুপে emf ও IR drop-এর বীজগাণিতিক সমষ্টি সমান হয়।",
+          "topic": "Kirchhoff's laws",
+          "probability_tag": "Mega Hot",
+          "statements": [
+            {
+              "label": "i",
+              "text": "প্রথম সূত্র KCL আধান সংরক্ষণ নীতির ওপর প্রতিষ্ঠিত"
+            },
+            {
+              "label": "ii",
+              "text": "দ্বিতীয় সূত্র KVL শক্তি সংরক্ষণ নীতির ওপর প্রতিষ্ঠিত"
+            },
+            {
+              "label": "iii",
+              "text": "যেকোনো বদ্ধ বর্তনীতে মোট তড়িৎচালক বল সবসময় শূন্য"
+            }
+          ],
+          "ask": "নিচের কোনটি সঠিক?"
+        },
+        {
+          "question_no": 17,
+          "type": "i_ii_iii_analytical",
+          "question": "n-টাইপ অর্ধপরিবাহীর ক্ষেত্রে-",
+          "options": [
+            {
+              "key": "ক",
+              "text": "i ও ii"
+            },
+            {
+              "key": "খ",
+              "text": "i ও iii"
+            },
+            {
+              "key": "গ",
+              "text": "ii ও iii"
+            },
+            {
+              "key": "ঘ",
+              "text": "i, ii ও iii"
+            }
+          ],
+          "correct_option": "ক",
+          "explanation": "n-type-এ ইলেকট্রন majority হলেও স্ফটিক মোটের ওপর নিরপেক্ষ।",
+          "topic": "Semiconductor",
+          "probability_tag": "Mega Hot",
+          "statements": [
+            {
+              "label": "i",
+              "text": "বিশুদ্ধ Si/Ge-তে পঞ্চযোজী অপদ্রব্য মেশানো হয়"
+            },
+            {
+              "label": "ii",
+              "text": "মেজরিটি ক্যারিয়ার ইলেকট্রন"
+            },
+            {
+              "label": "iii",
+              "text": "এটি সামগ্রিকভাবে ঋণাত্মক আধানযুক্ত"
+            }
+          ],
+          "ask": "নিচের কোনটি সঠিক?"
+        },
+        {
+          "question_no": 18,
+          "type": "i_ii_iii_analytical",
+          "question": "আদর্শ ট্রান্সফর্মারের ক্ষেত্রে-",
+          "options": [
+            {
+              "key": "ক",
+              "text": "i ও ii"
+            },
+            {
+              "key": "খ",
+              "text": "i ও iii"
+            },
+            {
+              "key": "গ",
+              "text": "ii ও iii"
+            },
+            {
+              "key": "ঘ",
+              "text": "i, ii ও iii"
+            }
+          ],
+          "correct_option": "খ",
+          "explanation": "স্টেপ-আপে ভোল্টেজ বাড়ে কিন্তু কারেন্ট কমে; Pin≈Pout।",
+          "topic": "Transformer",
+          "probability_tag": "Very Hot",
+          "statements": [
+            {
+              "label": "i",
+              "text": "মুখ্য ও গৌণ কুণ্ডলীতে ক্ষমতার ক্ষয় নেই"
+            },
+            {
+              "label": "ii",
+              "text": "স্টেপ-আপে ভোল্টেজ বাড়লে কারেন্টও বাড়ে"
+            },
+            {
+              "label": "iii",
+              "text": "এটি ফ্যারাডের তড়িৎচৌম্বকীয় আবেশ সূত্রে কাজ করে"
+            }
+          ],
+          "ask": "নিচের কোনটি সঠিক?"
+        },
+        {
+          "question_no": 19,
+          "type": "i_ii_iii_analytical",
+          "question": "ফোটোতড়িৎ ক্রিয়ার ক্ষেত্রে-",
+          "options": [
+            {
+              "key": "ক",
+              "text": "i ও ii"
+            },
+            {
+              "key": "খ",
+              "text": "i ও iii"
+            },
+            {
+              "key": "গ",
+              "text": "ii ও iii"
+            },
+            {
+              "key": "ঘ",
+              "text": "i, ii ও iii"
+            }
+          ],
+          "correct_option": "ক",
+          "explanation": "Kmax=hf-φ; তীব্রতা saturation current বাড়ায়, Kmax নয়।",
+          "topic": "Photoelectric effect",
+          "probability_tag": "Conceptual Trap",
+          "statements": [
+            {
+              "label": "i",
+              "text": "সূচন কম্পাঙ্ক ধাতুর বৈশিষ্ট্য"
+            },
+            {
+              "label": "ii",
+              "text": "কম্পাঙ্ক বাড়লে Kmax বাড়ে"
+            },
+            {
+              "label": "iii",
+              "text": "তীব্রতা বাড়ালে Kmax অবশ্যই বাড়ে"
+            }
+          ],
+          "ask": "নিচের কোনটি সঠিক?"
+        },
+        {
+          "question_no": 20,
+          "type": "i_ii_iii_analytical",
+          "question": "তড়িৎচুম্বকীয় তরঙ্গের ক্ষেত্রে-",
+          "options": [
+            {
+              "key": "ক",
+              "text": "i ও ii"
+            },
+            {
+              "key": "খ",
+              "text": "i ও iii"
+            },
+            {
+              "key": "গ",
+              "text": "ii ও iii"
+            },
+            {
+              "key": "ঘ",
+              "text": "i, ii ও iii"
+            }
+          ],
+          "correct_option": "ঘ",
+          "explanation": "EM wave transverse; E ও B পরস্পর এবং তরঙ্গের দিকের লম্ব; শূন্য মাধ্যমেও চলে।",
+          "topic": "EM wave",
+          "probability_tag": "Board Favourite",
+          "statements": [
+            {
+              "label": "i",
+              "text": "এটি অনুপ্রস্থ তরঙ্গ"
+            },
+            {
+              "label": "ii",
+              "text": "তড়িৎ ক্ষেত্র ও চৌম্বকক্ষেত্র পরস্পর লম্ব"
+            },
+            {
+              "label": "iii",
+              "text": "শূন্য মাধ্যমেও এটি চলতে পারে"
+            }
+          ],
+          "ask": "নিচের কোনটি সঠিক?"
+        },
+        {
+          "question_no": 21,
+          "type": "final_trap",
+          "question": "নিচের কোনটি সঠিক নয়?",
+          "options": [
+            {
+              "key": "ক",
+              "text": "সম আয়তন প্রক্রিয়ায় কাজ শূন্য"
+            },
+            {
+              "key": "খ",
+              "text": "রুদ্ধতাপীয় পরিবর্তন বয়েলের সূত্র মেনে চলে"
+            },
+            {
+              "key": "গ",
+              "text": "সমোষ্ণ প্রক্রিয়ায় তাপমাত্রা ধ্রুব থাকে"
+            },
+            {
+              "key": "ঘ",
+              "text": "রুদ্ধতাপীয় রেখা সমোষ্ণ রেখার চেয়ে খাড়া"
+            }
+          ],
+          "correct_option": "খ",
+          "explanation": "রুদ্ধতাপীয় পরিবর্তন PV^γ=constant মেনে চলে, বয়েলের সূত্র PV=constant নয়।",
+          "topic": "Thermodynamics trap",
+          "probability_tag": "Conceptual Trap"
+        },
+        {
+          "question_no": 22,
+          "type": "final_trap",
+          "question": "ইলেকট্রন ভোল্ট (eV) সম্পর্কে কোনটি সঠিক?",
+          "options": [
+            {
+              "key": "ক",
+              "text": "শুধু আধানের একক"
+            },
+            {
+              "key": "খ",
+              "text": "শুধু বিভবের একক"
+            },
+            {
+              "key": "গ",
+              "text": "শক্তির একক"
+            },
+            {
+              "key": "ঘ",
+              "text": "রোধের একক"
+            }
+          ],
+          "correct_option": "গ",
+          "explanation": "1 eV হলো 1 V বিভব পার্থক্যে এক ইলেকট্রনের অর্জিত শক্তি।",
+          "topic": "Modern physics",
+          "probability_tag": "Board Favourite"
+        },
+        {
+          "question_no": 23,
+          "type": "final_trap",
+          "question": "হাইগেনসের তরঙ্গ তত্ত্ব দিয়ে কোনটি ব্যাখ্যা করা যায় না?",
+          "options": [
+            {
+              "key": "ক",
+              "text": "সমবর্তন"
+            },
+            {
+              "key": "খ",
+              "text": "অপবর্তন"
+            },
+            {
+              "key": "গ",
+              "text": "ব্যতিচার"
+            },
+            {
+              "key": "ঘ",
+              "text": "প্রতিফলন"
+            }
+          ],
+          "correct_option": "ক",
+          "explanation": "মূল হাইগেনস তত্ত্ব আলোর অনুপ্রস্থ প্রকৃতি/সমবর্তন ব্যাখ্যায় দুর্বল।",
+          "topic": "Wave optics",
+          "probability_tag": "Board Favourite"
+        },
+        {
+          "question_no": 24,
+          "type": "final_trap",
+          "question": "নিচের কোনটি সর্বজনীন গেইট?",
+          "options": [
+            {
+              "key": "ক",
+              "text": "AND"
+            },
+            {
+              "key": "খ",
+              "text": "OR"
+            },
+            {
+              "key": "গ",
+              "text": "NOR"
+            },
+            {
+              "key": "ঘ",
+              "text": "EX-OR"
+            }
+          ],
+          "correct_option": "গ",
+          "explanation": "NAND ও NOR সর্বজনীন গেইট; এখানে NOR সঠিক।",
+          "topic": "Logic gate",
+          "probability_tag": "Very Hot"
+        },
+        {
+          "question_no": 25,
+          "type": "final_trap",
+          "question": "সূর্যে শক্তি উৎপাদনের প্রধান কারণ কোন বিক্রিয়া?",
+          "options": [
+            {
+              "key": "ক",
+              "text": "ফিশন"
+            },
+            {
+              "key": "খ",
+              "text": "ফিউশন"
+            },
+            {
+              "key": "গ",
+              "text": "রাসায়নিক দহন"
+            },
+            {
+              "key": "ঘ",
+              "text": "বিটা ক্ষয়"
+            }
+          ],
+          "correct_option": "খ",
+          "explanation": "সূর্যে হাইড্রোজেনের নিউক্লিয় ফিউশনে শক্তি উৎপন্ন হয়।",
+          "topic": "Nuclear physics",
+          "probability_tag": "Mega Hot"
+        }
+      ]
+    },
+    {
+      "set_no": 2,
+      "title": "Set 02 - Capacitor + Refrigerator Pattern",
+      "metadata": {
+        "subject": "HSC Physics 2nd Paper",
+        "subject_code": "175",
+        "full_marks": 25,
+        "time_minutes": 25,
+        "total_questions": 25,
+        "note": "No question is guaranteed; generated from uploaded board/model-test pattern analysis as high-probability practice."
+      },
+      "stimuli": [
+        {
+          "stimulus_no": 1,
+          "instruction": "নিচের উদ্দীপকটি পড়ো এবং ১ ও ২ নং প্রশ্নের উত্তর দাও:",
+          "text": "একটি সমান্তরাল পাত ধারকের ধারকত্ব 4 μF এবং এতে 100 V বিভব পার্থক্য প্রয়োগ করা হলো।",
+          "question_range": [
+            1,
+            2
+          ]
+        },
+        {
+          "stimulus_no": 2,
+          "instruction": "নিচের উদ্দীপকটি পড়ো এবং ৩ ও ৪ নং প্রশ্নের উত্তর দাও:",
+          "text": "একটি হিমায়ক শীতল প্রকোষ্ঠ থেকে 800 J তাপ অপসারণ করতে কম্প্রেসর দ্বারা 200 J কাজ গ্রহণ করে।",
+          "question_range": [
+            3,
+            4
+          ]
+        }
+      ],
+      "questions": [
+        {
+          "question_no": 1,
+          "type": "stimulus_based",
+          "question": "ধারকে সঞ্চিত আধান কত?",
+          "options": [
+            {
+              "key": "ক",
+              "text": "100 μC"
+            },
+            {
+              "key": "খ",
+              "text": "200 μC"
+            },
+            {
+              "key": "গ",
+              "text": "400 μC"
+            },
+            {
+              "key": "ঘ",
+              "text": "800 μC"
+            }
+          ],
+          "correct_option": "গ",
+          "explanation": "Q=CV=4 μF×100 V=400 μC।",
+          "topic": "Capacitor",
+          "probability_tag": "Mega Hot",
+          "stimulus_no": 1
+        },
+        {
+          "question_no": 2,
+          "type": "stimulus_based",
+          "question": "প্রযুক্ত ভোল্টেজ স্থির রেখে পাতের দূরত্ব 25% কমালে সঞ্চিত শক্তি কত শতাংশ বাড়বে?",
+          "options": [
+            {
+              "key": "ক",
+              "text": "25%"
+            },
+            {
+              "key": "খ",
+              "text": "33.33%"
+            },
+            {
+              "key": "গ",
+              "text": "50%"
+            },
+            {
+              "key": "ঘ",
+              "text": "75%"
+            }
+          ],
+          "correct_option": "খ",
+          "explanation": "d কমে 0.75d হলে C ও U=½CV² বাড়ে 1/0.75=1.333 গুণ।",
+          "topic": "Capacitor energy",
+          "probability_tag": "Conceptual Trap",
+          "stimulus_no": 1
+        },
+        {
+          "question_no": 3,
+          "type": "stimulus_based",
+          "question": "হিমায়কটির কর্মসম্পাদন সহগ কত?",
+          "options": [
+            {
+              "key": "ক",
+              "text": "2"
+            },
+            {
+              "key": "খ",
+              "text": "3"
+            },
+            {
+              "key": "গ",
+              "text": "4"
+            },
+            {
+              "key": "ঘ",
+              "text": "5"
+            }
+          ],
+          "correct_option": "গ",
+          "explanation": "K=Qc/W=800/200=4।",
+          "topic": "Refrigerator COP",
+          "probability_tag": "Mega Hot",
+          "stimulus_no": 2
+        },
+        {
+          "question_no": 4,
+          "type": "stimulus_based",
+          "question": "উষ্ণ তাপাধারে মোট কত তাপ বর্জিত হবে?",
+          "options": [
+            {
+              "key": "ক",
+              "text": "600 J"
+            },
+            {
+              "key": "খ",
+              "text": "800 J"
+            },
+            {
+              "key": "গ",
+              "text": "1000 J"
+            },
+            {
+              "key": "ঘ",
+              "text": "1200 J"
+            }
+          ],
+          "correct_option": "গ",
+          "explanation": "Qh=Qc+W=800+200=1000 J।",
+          "topic": "Refrigerator",
+          "probability_tag": "Board Favourite",
+          "stimulus_no": 2
+        },
+        {
+          "question_no": 5,
+          "type": "standard_mcq",
+          "question": "তাপগতিবিদ্যার প্রথম সূত্র কার পরীক্ষালব্ধ কাজের ওপর ভিত্তি করে প্রতিষ্ঠিত?",
+          "options": [
+            {
+              "key": "ক",
+              "text": "কেলভিন"
+            },
+            {
+              "key": "খ",
+              "text": "কার্নো"
+            },
+            {
+              "key": "গ",
+              "text": "জুল"
+            },
+            {
+              "key": "ঘ",
+              "text": "ক্লসিয়াস"
+            }
+          ],
+          "correct_option": "গ",
+          "explanation": "জুল তাপ ও কাজের সমতুল্যতা দেখান।",
+          "topic": "First law",
+          "probability_tag": "Board Favourite"
+        },
+        {
+          "question_no": 6,
+          "type": "standard_mcq",
+          "question": "Cp-Cv=R সম্পর্কের R-এর SI একক কোনটি?",
+          "options": [
+            {
+              "key": "ক",
+              "text": "J K^-1"
+            },
+            {
+              "key": "খ",
+              "text": "J mol^-1 K^-1"
+            },
+            {
+              "key": "গ",
+              "text": "N C^-1"
+            },
+            {
+              "key": "ঘ",
+              "text": "Wb m^-2"
+            }
+          ],
+          "correct_option": "খ",
+          "explanation": "R হলো মোলার গ্যাস ধ্রুবক; একক J mol^-1 K^-1।",
+          "topic": "Thermodynamics",
+          "probability_tag": "Very Hot"
+        },
+        {
+          "question_no": 7,
+          "type": "standard_mcq",
+          "question": "তড়িৎ ফ্লাক্সের SI একক কোনটি?",
+          "options": [
+            {
+              "key": "ক",
+              "text": "N m² C^-1"
+            },
+            {
+              "key": "খ",
+              "text": "N m^-2 C"
+            },
+            {
+              "key": "গ",
+              "text": "N C m^-2"
+            },
+            {
+              "key": "ঘ",
+              "text": "C N^-1 m^-2"
+            }
+          ],
+          "correct_option": "ক",
+          "explanation": "Φ=EA; E-এর একক N/C এবং ক্ষেত্রফল m²।",
+          "topic": "Electric flux",
+          "probability_tag": "Very Hot"
+        },
+        {
+          "question_no": 8,
+          "type": "standard_mcq",
+          "question": "বায়ুতে দুটি আধানের বল 80 N। একই দূরত্বে পানিতে (K=80) রাখলে বল কত?",
+          "options": [
+            {
+              "key": "ক",
+              "text": "80 N"
+            },
+            {
+              "key": "খ",
+              "text": "6400 N"
+            },
+            {
+              "key": "গ",
+              "text": "1 N"
+            },
+            {
+              "key": "ঘ",
+              "text": "0 N"
+            }
+          ],
+          "correct_option": "গ",
+          "explanation": "ডাইইলেকট্রিকে F=F0/K=80/80=1 N।",
+          "topic": "Coulomb force",
+          "probability_tag": "Very Hot"
+        },
+        {
+          "question_no": 9,
+          "type": "standard_mcq",
+          "question": "E=6 V, r=1 Ω ও R=3 Ω হলে বহিঃরোধের দুই প্রান্তে বিভব কত?",
+          "options": [
+            {
+              "key": "ক",
+              "text": "1.5 V"
+            },
+            {
+              "key": "খ",
+              "text": "3.0 V"
+            },
+            {
+              "key": "গ",
+              "text": "4.5 V"
+            },
+            {
+              "key": "ঘ",
+              "text": "6.0 V"
+            }
+          ],
+          "correct_option": "গ",
+          "explanation": "I=6/(3+1)=1.5 A; VR=IR=1.5×3=4.5 V।",
+          "topic": "Current electricity",
+          "probability_tag": "Mega Hot"
+        },
+        {
+          "question_no": 10,
+          "type": "standard_mcq",
+          "question": "ডি-ব্রগলি তরঙ্গদৈর্ঘ্যের সঠিক সমীকরণ কোনটি?",
+          "options": [
+            {
+              "key": "ক",
+              "text": "λ=p/h"
+            },
+            {
+              "key": "খ",
+              "text": "λ=h/p"
+            },
+            {
+              "key": "গ",
+              "text": "λ=hp"
+            },
+            {
+              "key": "ঘ",
+              "text": "λ=hE"
+            }
+          ],
+          "correct_option": "খ",
+          "explanation": "বস্তুকণার তরঙ্গদৈর্ঘ্য λ=h/p=h/mv।",
+          "topic": "de Broglie",
+          "probability_tag": "Board Favourite"
+        },
+        {
+          "question_no": 11,
+          "type": "standard_mcq",
+          "question": "পরমাণুর দ্বিতীয় বোর কক্ষপথে ইলেকট্রনের কৌণিক ভরবেগ কত?",
+          "options": [
+            {
+              "key": "ক",
+              "text": "h/2π"
+            },
+            {
+              "key": "খ",
+              "text": "h/π"
+            },
+            {
+              "key": "গ",
+              "text": "2πh"
+            },
+            {
+              "key": "ঘ",
+              "text": "πh"
+            }
+          ],
+          "correct_option": "খ",
+          "explanation": "mvr=nh/2π; n=2 হলে L=h/π।",
+          "topic": "Bohr model",
+          "probability_tag": "Very Hot"
+        },
+        {
+          "question_no": 12,
+          "type": "standard_mcq",
+          "question": "তেজস্ক্রিয় পদার্থের গড় আয়ু τ ও ক্ষয় ধ্রুবক λ-এর সম্পর্ক কোনটি?",
+          "options": [
+            {
+              "key": "ক",
+              "text": "τ=λ"
+            },
+            {
+              "key": "খ",
+              "text": "τ=1/λ"
+            },
+            {
+              "key": "গ",
+              "text": "τ=0.693λ"
+            },
+            {
+              "key": "ঘ",
+              "text": "τ=λ/0.693"
+            }
+          ],
+          "correct_option": "খ",
+          "explanation": "গড় আয়ু τ=1/λ।",
+          "topic": "Radioactivity",
+          "probability_tag": "Mega Hot"
+        },
+        {
+          "question_no": 13,
+          "type": "standard_mcq",
+          "question": "সেন্টার-ট্যাপড ফুল-ওয়েভ রেকটিফায়ারে ন্যূনতম কয়টি ডায়োড লাগে?",
+          "options": [
+            {
+              "key": "ক",
+              "text": "১টি"
+            },
+            {
+              "key": "খ",
+              "text": "২টি"
+            },
+            {
+              "key": "গ",
+              "text": "৩টি"
+            },
+            {
+              "key": "ঘ",
+              "text": "৪টি"
+            }
+          ],
+          "correct_option": "খ",
+          "explanation": "সেন্টার-ট্যাপড ফুল-ওয়েভ রেকটিফায়ারে ২টি ডায়োড ব্যবহৃত হয়।",
+          "topic": "Diode rectifier",
+          "probability_tag": "Very Hot"
+        },
+        {
+          "question_no": 14,
+          "type": "standard_mcq",
+          "question": "Y=A⊕B লজিক ফাংশনের সমতুল্য কোনটি?",
+          "options": [
+            {
+              "key": "ক",
+              "text": "AB+ĀB̄"
+            },
+            {
+              "key": "খ",
+              "text": "AB̄+ĀB"
+            },
+            {
+              "key": "গ",
+              "text": "A+B"
+            },
+            {
+              "key": "ঘ",
+              "text": "AB"
+            }
+          ],
+          "correct_option": "খ",
+          "explanation": "XOR-এ ইনপুট ভিন্ন হলে আউটপুট 1: Y=AB̄+ĀB।",
+          "topic": "Logic gate",
+          "probability_tag": "Very Hot"
+        },
+        {
+          "question_no": 15,
+          "type": "i_ii_iii_analytical",
+          "question": "কার্নো ইঞ্জিনের ক্ষেত্রে-",
+          "options": [
+            {
+              "key": "ক",
+              "text": "i ও ii"
+            },
+            {
+              "key": "খ",
+              "text": "i ও iii"
+            },
+            {
+              "key": "গ",
+              "text": "ii ও iii"
+            },
+            {
+              "key": "ঘ",
+              "text": "i, ii ও iii"
+            }
+          ],
+          "correct_option": "ক",
+          "explanation": "তৃতীয়টি ভুল; η=1-Tc/Th এবং 100% দক্ষতা সম্ভব নয়।",
+          "topic": "Carnot engine",
+          "probability_tag": "Mega Hot",
+          "statements": [
+            {
+              "label": "i",
+              "text": "দক্ষতা কর্মকারী পদার্থের ওপর নির্ভর করে না"
+            },
+            {
+              "label": "ii",
+              "text": "উৎসের তাপমাত্রা বাড়ালে এবং গ্রাহকের তাপমাত্রা কমালে দক্ষতা বাড়ে"
+            },
+            {
+              "label": "iii",
+              "text": "বাস্তব ইঞ্জিনে 100% দক্ষতা পাওয়া যায়"
+            }
+          ],
+          "ask": "নিচের কোনটি সঠিক?"
+        },
+        {
+          "question_no": 16,
+          "type": "i_ii_iii_analytical",
+          "question": "চার্জিত পরিবাহী ফাঁপা গোলকের ক্ষেত্রে-",
+          "options": [
+            {
+              "key": "ক",
+              "text": "i ও ii"
+            },
+            {
+              "key": "খ",
+              "text": "i ও iii"
+            },
+            {
+              "key": "গ",
+              "text": "ii ও iii"
+            },
+            {
+              "key": "ঘ",
+              "text": "i, ii ও iii"
+            }
+          ],
+          "correct_option": "ক",
+          "explanation": "চার্জ পরিবাহীর বাইরের পৃষ্ঠে থাকে; ভেতরে E=0 ও V ধ্রুব।",
+          "topic": "Conducting sphere",
+          "probability_tag": "Mega Hot",
+          "statements": [
+            {
+              "label": "i",
+              "text": "গোলকের অভ্যন্তরে E=0"
+            },
+            {
+              "label": "ii",
+              "text": "অভ্যন্তরের বিভব পৃষ্ঠের বিভবের সমান"
+            },
+            {
+              "label": "iii",
+              "text": "চার্জ গোলকের আয়তনের সর্বত্র সমভাবে ছড়িয়ে থাকে"
+            }
+          ],
+          "ask": "নিচের কোনটি সঠিক?"
+        },
+        {
+          "question_no": 17,
+          "type": "i_ii_iii_analytical",
+          "question": "সমান ধারকত্ব C-এর তিনটি ধারক নিয়ে-",
+          "options": [
+            {
+              "key": "ক",
+              "text": "i ও ii"
+            },
+            {
+              "key": "খ",
+              "text": "i ও iii"
+            },
+            {
+              "key": "গ",
+              "text": "ii ও iii"
+            },
+            {
+              "key": "ঘ",
+              "text": "i, ii ও iii"
+            }
+          ],
+          "correct_option": "ঘ",
+          "explanation": "তিনটি সমান ধারকে Cs=C/3 ও Cp=3C; অনুপাত 1:9।",
+          "topic": "Capacitor combination",
+          "probability_tag": "Mega Hot",
+          "statements": [
+            {
+              "label": "i",
+              "text": "শ্রেণিতে তুল্য ধারকত্ব C/3"
+            },
+            {
+              "label": "ii",
+              "text": "সমান্তরালে তুল্য ধারকত্ব 3C"
+            },
+            {
+              "label": "iii",
+              "text": "শ্রেণি ও সমান্তরাল তুল্য ধারকত্বের অনুপাত 1:9"
+            }
+          ],
+          "ask": "নিচের কোনটি সঠিক?"
+        },
+        {
+          "question_no": 18,
+          "type": "i_ii_iii_analytical",
+          "question": "ওহমের সূত্রের অণুবীক্ষণিক রূপে-",
+          "options": [
+            {
+              "key": "ক",
+              "text": "i ও ii"
+            },
+            {
+              "key": "খ",
+              "text": "i ও iii"
+            },
+            {
+              "key": "গ",
+              "text": "ii ও iii"
+            },
+            {
+              "key": "ঘ",
+              "text": "i, ii ও iii"
+            }
+          ],
+          "correct_option": "ঘ",
+          "explanation": "পরিবাহিতার সংজ্ঞা অনুযায়ী J=σE এবং ρ=1/σ।",
+          "topic": "Current density",
+          "probability_tag": "Very Hot",
+          "statements": [
+            {
+              "label": "i",
+              "text": "প্রবাহ ঘনত্ব J তড়িৎ প্রাবল্য E-এর সমানুপাতিক"
+            },
+            {
+              "label": "ii",
+              "text": "J=σE"
+            },
+            {
+              "label": "iii",
+              "text": "ρ=1/σ"
+            }
+          ],
+          "ask": "নিচের কোনটি সঠিক?"
+        },
+        {
+          "question_no": 19,
+          "type": "i_ii_iii_analytical",
+          "question": "লেন্জের সূত্র অনুযায়ী-",
+          "options": [
+            {
+              "key": "ক",
+              "text": "i ও ii"
+            },
+            {
+              "key": "খ",
+              "text": "i ও iii"
+            },
+            {
+              "key": "গ",
+              "text": "ii ও iii"
+            },
+            {
+              "key": "ঘ",
+              "text": "i, ii ও iii"
+            }
+          ],
+          "correct_option": "ক",
+          "explanation": "তৃতীয়টি ভুল; দিক লেন্জের সূত্রে নির্ধারিত।",
+          "topic": "Lenz law",
+          "probability_tag": "Very Hot",
+          "statements": [
+            {
+              "label": "i",
+              "text": "আবিষ্ট প্রবাহ তার উৎপত্তির কারণকে বাধা দেয়"
+            },
+            {
+              "label": "ii",
+              "text": "এটি শক্তির সংরক্ষণ নীতির সঙ্গে সামঞ্জস্যপূর্ণ"
+            },
+            {
+              "label": "iii",
+              "text": "আবিষ্ট প্রবাহের দিক ইচ্ছামতো ধরা যায়"
+            }
+          ],
+          "ask": "নিচের কোনটি সঠিক?"
+        },
+        {
+          "question_no": 20,
+          "type": "i_ii_iii_analytical",
+          "question": "p-টাইপ অর্ধপরিবাহীর ক্ষেত্রে-",
+          "options": [
+            {
+              "key": "ক",
+              "text": "i ও ii"
+            },
+            {
+              "key": "খ",
+              "text": "i ও iii"
+            },
+            {
+              "key": "গ",
+              "text": "ii ও iii"
+            },
+            {
+              "key": "ঘ",
+              "text": "i, ii ও iii"
+            }
+          ],
+          "correct_option": "ক",
+          "explanation": "p-type-এ hole majority হলেও মোট স্ফটিক নিরপেক্ষ।",
+          "topic": "Semiconductor",
+          "probability_tag": "Conceptual Trap",
+          "statements": [
+            {
+              "label": "i",
+              "text": "ত্রিযোজী অপদ্রব্য মেশানো হয়"
+            },
+            {
+              "label": "ii",
+              "text": "হোল মেজরিটি ক্যারিয়ার"
+            },
+            {
+              "label": "iii",
+              "text": "স্ফটিক সামগ্রিকভাবে ধনাত্মক"
+            }
+          ],
+          "ask": "নিচের কোনটি সঠিক?"
+        },
+        {
+          "question_no": 21,
+          "type": "final_trap",
+          "question": "সম আয়তন প্রক্রিয়ায় কৃত কাজ কত?",
+          "options": [
+            {
+              "key": "ক",
+              "text": "ধনাত্মক"
+            },
+            {
+              "key": "খ",
+              "text": "ঋণাত্মক"
+            },
+            {
+              "key": "গ",
+              "text": "শূন্য"
+            },
+            {
+              "key": "ঘ",
+              "text": "অসীম"
+            }
+          ],
+          "correct_option": "গ",
+          "explanation": "W=PΔV; সম আয়তনে ΔV=0, তাই W=0।",
+          "topic": "Thermodynamics",
+          "probability_tag": "Board Favourite"
+        },
+        {
+          "question_no": 22,
+          "type": "final_trap",
+          "question": "ফোটোতড়িৎ ক্রিয়ায় Kmax বনাম কম্পাঙ্কের লেখচিত্রের ঢাল নির্দেশ করে কী?",
+          "options": [
+            {
+              "key": "ক",
+              "text": "সূচন কম্পাঙ্ক"
+            },
+            {
+              "key": "খ",
+              "text": "প্ল্যাঙ্ক ধ্রুবক"
+            },
+            {
+              "key": "গ",
+              "text": "কার্যাপেক্ষক"
+            },
+            {
+              "key": "ঘ",
+              "text": "নিবৃত্তি বিভব"
+            }
+          ],
+          "correct_option": "খ",
+          "explanation": "Kmax=hf-φ; তাই slope=h।",
+          "topic": "Photoelectric graph",
+          "probability_tag": "Mega Hot"
+        },
+        {
+          "question_no": 23,
+          "type": "final_trap",
+          "question": "আলোক তড়িৎ ক্রিয়া প্রথম আবিষ্কার করেন কে?",
+          "options": [
+            {
+              "key": "ক",
+              "text": "হার্জ"
+            },
+            {
+              "key": "খ",
+              "text": "হলওয়াশ"
+            },
+            {
+              "key": "গ",
+              "text": "মিলিকান"
+            },
+            {
+              "key": "ঘ",
+              "text": "আইনস্টাইন"
+            }
+          ],
+          "correct_option": "ক",
+          "explanation": "হার্জ পরীক্ষায় আলোক তড়িৎ ক্রিয়া পর্যবেক্ষণ করেন।",
+          "topic": "Photoelectric history",
+          "probability_tag": "Board Favourite"
+        },
+        {
+          "question_no": 24,
+          "type": "final_trap",
+          "question": "ধনাত্মক আধানযুক্ত বিকিরণ/কণা কোনটি?",
+          "options": [
+            {
+              "key": "ক",
+              "text": "আলফা কণা"
+            },
+            {
+              "key": "খ",
+              "text": "বিটা কণা"
+            },
+            {
+              "key": "গ",
+              "text": "গামা রশ্মি"
+            },
+            {
+              "key": "ঘ",
+              "text": "এক্স-রে"
+            }
+          ],
+          "correct_option": "ক",
+          "explanation": "আলফা কণা He nucleus, তাই ধনাত্মক।",
+          "topic": "Radioactivity",
+          "probability_tag": "Board Favourite"
+        },
+        {
+          "question_no": 25,
+          "type": "final_trap",
+          "question": "NOR গেটের আউটপুট 1 হবে কখন?",
+          "options": [
+            {
+              "key": "ক",
+              "text": "A=1, B=1"
+            },
+            {
+              "key": "খ",
+              "text": "A=1, B=0"
+            },
+            {
+              "key": "গ",
+              "text": "A=0, B=1"
+            },
+            {
+              "key": "ঘ",
+              "text": "A=0, B=0"
+            }
+          ],
+          "correct_option": "ঘ",
+          "explanation": "NOR হলো OR-এর NOT; উভয় ইনপুট 0 হলে আউটপুট 1।",
+          "topic": "Logic gate",
+          "probability_tag": "Conceptual Trap"
+        }
+      ]
+    },
+    {
+      "set_no": 3,
+      "title": "Set 03 - Circuit + YDSE Numerical Pattern",
+      "metadata": {
+        "subject": "HSC Physics 2nd Paper",
+        "subject_code": "175",
+        "full_marks": 25,
+        "time_minutes": 25,
+        "total_questions": 25,
+        "note": "No question is guaranteed; generated from uploaded board/model-test pattern analysis as high-probability practice."
+      },
+      "stimuli": [
+        {
+          "stimulus_no": 1,
+          "instruction": "নিচের উদ্দীপকটি পড়ো এবং ১ ও ২ নং প্রশ্নের উত্তর দাও:",
+          "text": "একটি কোষের তড়িৎচালক বল 12 V, অভ্যন্তরীণ রোধ 2 Ω এবং বহিঃরোধ 4 Ω।",
+          "question_range": [
+            1,
+            2
+          ]
+        },
+        {
+          "stimulus_no": 2,
+          "instruction": "নিচের উদ্দীপকটি পড়ো এবং ৩ ও ৪ নং প্রশ্নের উত্তর দাও:",
+          "text": "ইয়ং-এর দ্বি-চিড় পরীক্ষায় λ=5000 Å, D=2 m এবং d=0.5 mm।",
+          "question_range": [
+            3,
+            4
+          ]
+        }
+      ],
+      "questions": [
+        {
+          "question_no": 1,
+          "type": "stimulus_based",
+          "question": "বর্তনীতে প্রবাহ কত?",
+          "options": [
+            {
+              "key": "ক",
+              "text": "1 A"
+            },
+            {
+              "key": "খ",
+              "text": "2 A"
+            },
+            {
+              "key": "গ",
+              "text": "3 A"
+            },
+            {
+              "key": "ঘ",
+              "text": "4 A"
+            }
+          ],
+          "correct_option": "খ",
+          "explanation": "I=E/(R+r)=12/(4+2)=2 A।",
+          "topic": "Circuit",
+          "probability_tag": "Mega Hot",
+          "stimulus_no": 1
+        },
+        {
+          "question_no": 2,
+          "type": "stimulus_based",
+          "question": "বহিঃরোধে ক্ষমতা ব্যয় কত?",
+          "options": [
+            {
+              "key": "ক",
+              "text": "8 W"
+            },
+            {
+              "key": "খ",
+              "text": "12 W"
+            },
+            {
+              "key": "গ",
+              "text": "16 W"
+            },
+            {
+              "key": "ঘ",
+              "text": "24 W"
+            }
+          ],
+          "correct_option": "গ",
+          "explanation": "P=I²R=2²×4=16 W।",
+          "topic": "Electric power",
+          "probability_tag": "Very Hot",
+          "stimulus_no": 1
+        },
+        {
+          "question_no": 3,
+          "type": "stimulus_based",
+          "question": "ডোরা ব্যবধান β কত?",
+          "options": [
+            {
+              "key": "ক",
+              "text": "1 mm"
+            },
+            {
+              "key": "খ",
+              "text": "2 mm"
+            },
+            {
+              "key": "গ",
+              "text": "3 mm"
+            },
+            {
+              "key": "ঘ",
+              "text": "4 mm"
+            }
+          ],
+          "correct_option": "খ",
+          "explanation": "β=Dλ/d=(2×5×10^-7)/(5×10^-4)=2×10^-3 m=2 mm।",
+          "topic": "YDSE",
+          "probability_tag": "Mega Hot",
+          "stimulus_no": 2
+        },
+        {
+          "question_no": 4,
+          "type": "stimulus_based",
+          "question": "চিড়ের দূরত্ব d দ্বিগুণ করলে ডোরা ব্যবধান কী হবে?",
+          "options": [
+            {
+              "key": "ক",
+              "text": "দ্বিগুণ"
+            },
+            {
+              "key": "খ",
+              "text": "অর্ধেক"
+            },
+            {
+              "key": "গ",
+              "text": "চারগুণ"
+            },
+            {
+              "key": "ঘ",
+              "text": "অপরিবর্তিত"
+            }
+          ],
+          "correct_option": "খ",
+          "explanation": "β∝1/d; d দ্বিগুণ হলে β অর্ধেক।",
+          "topic": "Interference",
+          "probability_tag": "Conceptual Trap",
+          "stimulus_no": 2
+        },
+        {
+          "question_no": 5,
+          "type": "standard_mcq",
+          "question": "5 Ω রোধের মধ্য দিয়ে 4 A প্রবাহ 3 s চললে উৎপন্ন তাপ কত?",
+          "options": [
+            {
+              "key": "ক",
+              "text": "60 J"
+            },
+            {
+              "key": "খ",
+              "text": "120 J"
+            },
+            {
+              "key": "গ",
+              "text": "180 J"
+            },
+            {
+              "key": "ঘ",
+              "text": "240 J"
+            }
+          ],
+          "correct_option": "ঘ",
+          "explanation": "H=I²Rt=4²×5×3=240 J।",
+          "topic": "Joule heating",
+          "probability_tag": "Board Favourite"
+        },
+        {
+          "question_no": 6,
+          "type": "standard_mcq",
+          "question": "20 cm ব্যাসার্ধের ফাঁপা পরিবাহী গোলকে 2×10^-9 C আধান দিলে অভ্যন্তরের কোনো বিন্দুর বিভব কত?",
+          "options": [
+            {
+              "key": "ক",
+              "text": "0 V"
+            },
+            {
+              "key": "খ",
+              "text": "45 V"
+            },
+            {
+              "key": "গ",
+              "text": "90 V"
+            },
+            {
+              "key": "ঘ",
+              "text": "100 V"
+            }
+          ],
+          "correct_option": "গ",
+          "explanation": "V=kQ/R=(9×10^9×2×10^-9)/0.20=90 V।",
+          "topic": "Conducting sphere",
+          "probability_tag": "Mega Hot"
+        },
+        {
+          "question_no": 7,
+          "type": "standard_mcq",
+          "question": "তড়িৎ দ্বিমেরুর বিভব দূরত্ব r-এর সাথে কীভাবে পরিবর্তিত হয়?",
+          "options": [
+            {
+              "key": "ক",
+              "text": "r^-1"
+            },
+            {
+              "key": "খ",
+              "text": "r^-2"
+            },
+            {
+              "key": "গ",
+              "text": "r^-3"
+            },
+            {
+              "key": "ঘ",
+              "text": "r^-4"
+            }
+          ],
+          "correct_option": "খ",
+          "explanation": "দূরবর্তী বিন্দুতে dipole potential V∝1/r²।",
+          "topic": "Electric dipole",
+          "probability_tag": "Very Hot"
+        },
+        {
+          "question_no": 8,
+          "type": "standard_mcq",
+          "question": "সমবর্তন কোণ 60° হলে মাধ্যমের প্রতিসরাঙ্ক কত?",
+          "options": [
+            {
+              "key": "ক",
+              "text": "1/√3"
+            },
+            {
+              "key": "খ",
+              "text": "1/2"
+            },
+            {
+              "key": "গ",
+              "text": "√2"
+            },
+            {
+              "key": "ঘ",
+              "text": "√3"
+            }
+          ],
+          "correct_option": "ঘ",
+          "explanation": "Brewster law: μ=tan ip=tan60°=√3।",
+          "topic": "Polarization",
+          "probability_tag": "Board Favourite"
+        },
+        {
+          "question_no": 9,
+          "type": "standard_mcq",
+          "question": "প্রিজমের A=60° ও δmin=30° হলে প্রতিসরাঙ্ক কত?",
+          "options": [
+            {
+              "key": "ক",
+              "text": "1.33"
+            },
+            {
+              "key": "খ",
+              "text": "√2"
+            },
+            {
+              "key": "গ",
+              "text": "√3"
+            },
+            {
+              "key": "ঘ",
+              "text": "2"
+            }
+          ],
+          "correct_option": "খ",
+          "explanation": "μ=sin((A+δ)/2)/sin(A/2)=sin45°/sin30°=√2।",
+          "topic": "Prism",
+          "probability_tag": "Very Hot"
+        },
+        {
+          "question_no": 10,
+          "type": "standard_mcq",
+          "question": "কোনো লেন্সের ক্ষমতা -5D হলে ফোকাস দূরত্ব কত?",
+          "options": [
+            {
+              "key": "ক",
+              "text": "-0.5 m"
+            },
+            {
+              "key": "খ",
+              "text": "-0.2 m"
+            },
+            {
+              "key": "গ",
+              "text": "+0.2 m"
+            },
+            {
+              "key": "ঘ",
+              "text": "+5 m"
+            }
+          ],
+          "correct_option": "খ",
+          "explanation": "P=1/f; f=1/(-5)=-0.2 m।",
+          "topic": "Lens power",
+          "probability_tag": "Very Hot"
+        },
+        {
+          "question_no": 11,
+          "type": "standard_mcq",
+          "question": "প্রতি mm-এ 1000 রেখা বিশিষ্ট গ্রেটিংয়ের ধ্রুবক d কত?",
+          "options": [
+            {
+              "key": "ক",
+              "text": "10^-6 m"
+            },
+            {
+              "key": "খ",
+              "text": "10^-5 m"
+            },
+            {
+              "key": "গ",
+              "text": "10^-4 m"
+            },
+            {
+              "key": "ঘ",
+              "text": "10^-3 m"
+            }
+          ],
+          "correct_option": "ক",
+          "explanation": "d=1/(1000×10^3)=10^-6 m।",
+          "topic": "Diffraction grating",
+          "probability_tag": "Very Hot"
+        },
+        {
+          "question_no": 12,
+          "type": "standard_mcq",
+          "question": "X-ray উৎপাদনে ক্যাথোড রশ্মি হিসেবে ব্যবহৃত হয়-",
+          "options": [
+            {
+              "key": "ক",
+              "text": "প্রোটন"
+            },
+            {
+              "key": "খ",
+              "text": "উচ্চগতির ইলেকট্রন"
+            },
+            {
+              "key": "গ",
+              "text": "নিউট্রন"
+            },
+            {
+              "key": "ঘ",
+              "text": "আলফা কণা"
+            }
+          ],
+          "correct_option": "খ",
+          "explanation": "দ্রুত ইলেকট্রন অ্যানোডে আঘাত করে X-ray উৎপন্ন করে।",
+          "topic": "X-ray",
+          "probability_tag": "Board Favourite"
+        },
+        {
+          "question_no": 13,
+          "type": "standard_mcq",
+          "question": "ভর ত্রুটি Δm হলে বন্ধন শক্তি কত?",
+          "options": [
+            {
+              "key": "ক",
+              "text": "Δm/c²"
+            },
+            {
+              "key": "খ",
+              "text": "Δmc²"
+            },
+            {
+              "key": "গ",
+              "text": "Δmc"
+            },
+            {
+              "key": "ঘ",
+              "text": "½Δmc²"
+            }
+          ],
+          "correct_option": "খ",
+          "explanation": "আইনস্টাইনের সমীকরণ অনুযায়ী E=Δmc²।",
+          "topic": "Nuclear physics",
+          "probability_tag": "Mega Hot"
+        },
+        {
+          "question_no": 14,
+          "type": "standard_mcq",
+          "question": "β^- কণা মূলত কী?",
+          "options": [
+            {
+              "key": "ক",
+              "text": "হিলিয়াম নিউক্লিয়াস"
+            },
+            {
+              "key": "খ",
+              "text": "দ্রুতগামী ইলেকট্রন"
+            },
+            {
+              "key": "গ",
+              "text": "তড়িৎচুম্বকীয় তরঙ্গ"
+            },
+            {
+              "key": "ঘ",
+              "text": "প্রোটন"
+            }
+          ],
+          "correct_option": "খ",
+          "explanation": "β^- হলো দ্রুতগামী ইলেকট্রন।",
+          "topic": "Radioactivity",
+          "probability_tag": "Board Favourite"
+        },
+        {
+          "question_no": 15,
+          "type": "i_ii_iii_analytical",
+          "question": "ব্যতিচার ও ইয়ং পরীক্ষার ক্ষেত্রে-",
+          "options": [
+            {
+              "key": "ক",
+              "text": "i ও ii"
+            },
+            {
+              "key": "খ",
+              "text": "i ও iii"
+            },
+            {
+              "key": "গ",
+              "text": "ii ও iii"
+            },
+            {
+              "key": "ঘ",
+              "text": "i, ii ও iii"
+            }
+          ],
+          "correct_option": "ঘ",
+          "explanation": "তিনটিই ইয়ং দ্বি-চিড় পরীক্ষার মৌলিক সম্পর্ক।",
+          "topic": "Interference",
+          "probability_tag": "Mega Hot",
+          "statements": [
+            {
+              "label": "i",
+              "text": "গঠনমূলক ব্যতিচারে পথ পার্থক্য nλ"
+            },
+            {
+              "label": "ii",
+              "text": "ধ্বংসাত্মক ব্যতিচারে পথ পার্থক্য (2n+1)λ/2"
+            },
+            {
+              "label": "iii",
+              "text": "ডোরা ব্যবধান β=Dλ/d"
+            }
+          ],
+          "ask": "নিচের কোনটি সঠিক?"
+        },
+        {
+          "question_no": 16,
+          "type": "i_ii_iii_analytical",
+          "question": "ট্রান্সফর্মারের ক্ষেত্রে-",
+          "options": [
+            {
+              "key": "ক",
+              "text": "i ও ii"
+            },
+            {
+              "key": "খ",
+              "text": "i ও iii"
+            },
+            {
+              "key": "গ",
+              "text": "ii ও iii"
+            },
+            {
+              "key": "ঘ",
+              "text": "i, ii ও iii"
+            }
+          ],
+          "correct_option": "ক",
+          "explanation": "Transformer mutual induction-এ AC দরকার; DC-তে কার্যকর নয়।",
+          "topic": "Transformer",
+          "probability_tag": "Conceptual Trap",
+          "statements": [
+            {
+              "label": "i",
+              "text": "Vs/Vp=Ns/Np"
+            },
+            {
+              "label": "ii",
+              "text": "Ip/Is=Ns/Np (আদর্শ হলে)"
+            },
+            {
+              "label": "iii",
+              "text": "এটি স্থির DC তে একইভাবে কাজ করে"
+            }
+          ],
+          "ask": "নিচের কোনটি সঠিক?"
+        },
+        {
+          "question_no": 17,
+          "type": "i_ii_iii_analytical",
+          "question": "কিরশফের লুপ সূত্রের ক্ষেত্রে-",
+          "options": [
+            {
+              "key": "ক",
+              "text": "i ও ii"
+            },
+            {
+              "key": "খ",
+              "text": "i ও iii"
+            },
+            {
+              "key": "গ",
+              "text": "ii ও iii"
+            },
+            {
+              "key": "ঘ",
+              "text": "i, ii ও iii"
+            }
+          ],
+          "correct_option": "ক",
+          "explanation": "KVL যেকোনো lumped circuit loop-এ প্রযোজ্য; শুধু এক রোধে সীমাবদ্ধ নয়।",
+          "topic": "Kirchhoff KVL",
+          "probability_tag": "Very Hot",
+          "statements": [
+            {
+              "label": "i",
+              "text": "বদ্ধ লুপে শক্তির সংরক্ষণ প্রযোজ্য"
+            },
+            {
+              "label": "ii",
+              "text": "সমস্ত বিভব পরিবর্তনের বীজগাণিতিক যোগ শূন্য"
+            },
+            {
+              "label": "iii",
+              "text": "এটি শুধু সরল এক-রোধ বর্তনীতে প্রযোজ্য"
+            }
+          ],
+          "ask": "নিচের কোনটি সঠিক?"
+        },
+        {
+          "question_no": 18,
+          "type": "i_ii_iii_analytical",
+          "question": "তেজস্ক্রিয় ক্ষয়ের ক্ষেত্রে-",
+          "options": [
+            {
+              "key": "ক",
+              "text": "i ও ii"
+            },
+            {
+              "key": "খ",
+              "text": "i ও iii"
+            },
+            {
+              "key": "গ",
+              "text": "ii ও iii"
+            },
+            {
+              "key": "ঘ",
+              "text": "i, ii ও iii"
+            }
+          ],
+          "correct_option": "ক",
+          "explanation": "λ ধ্রুব; A=λN এবং T1/2 পদার্থের বৈশিষ্ট্য।",
+          "topic": "Radioactivity",
+          "probability_tag": "Mega Hot",
+          "statements": [
+            {
+              "label": "i",
+              "text": "সক্রিয়তা A ক্ষয়মান নিউক্লিয়াস সংখ্যার সমানুপাতিক"
+            },
+            {
+              "label": "ii",
+              "text": "অর্ধায়ু প্রাথমিক নিউক্লিয়াস সংখ্যার ওপর নির্ভর করে না"
+            },
+            {
+              "label": "iii",
+              "text": "ক্ষয় ধ্রুবক সময়ের সাথে বাড়তে থাকে"
+            }
+          ],
+          "ask": "নিচের কোনটি সঠিক?"
+        },
+        {
+          "question_no": 19,
+          "type": "i_ii_iii_analytical",
+          "question": "ফোটোতড়িৎ সমীকরণের ক্ষেত্রে-",
+          "options": [
+            {
+              "key": "ক",
+              "text": "i ও ii"
+            },
+            {
+              "key": "খ",
+              "text": "i ও iii"
+            },
+            {
+              "key": "গ",
+              "text": "ii ও iii"
+            },
+            {
+              "key": "ঘ",
+              "text": "i, ii ও iii"
+            }
+          ],
+          "correct_option": "ক",
+          "explanation": "সূচন কম্পাঙ্ক ধাতুর বৈশিষ্ট্য; তীব্রতায় বদলায় না।",
+          "topic": "Photoelectric equation",
+          "probability_tag": "Mega Hot",
+          "statements": [
+            {
+              "label": "i",
+              "text": "নিবৃত্তি বিভব Vs হলে Kmax=eVs"
+            },
+            {
+              "label": "ii",
+              "text": "সূচন কম্পাঙ্ক ν0=φ/h"
+            },
+            {
+              "label": "iii",
+              "text": "তীব্রতা বাড়ালে সূচন কম্পাঙ্ক বাড়ে"
+            }
+          ],
+          "ask": "নিচের কোনটি সঠিক?"
+        },
+        {
+          "question_no": 20,
+          "type": "i_ii_iii_analytical",
+          "question": "p-n জংশন ডায়োডের ক্ষেত্রে-",
+          "options": [
+            {
+              "key": "ক",
+              "text": "i ও ii"
+            },
+            {
+              "key": "খ",
+              "text": "i ও iii"
+            },
+            {
+              "key": "গ",
+              "text": "ii ও iii"
+            },
+            {
+              "key": "ঘ",
+              "text": "i, ii ও iii"
+            }
+          ],
+          "correct_option": "খ",
+          "explanation": "বিপরীত বায়াসে leakage current খুব ক্ষুদ্র; সম্মুখে প্রবাহ বেশি।",
+          "topic": "Diode",
+          "probability_tag": "Very Hot",
+          "statements": [
+            {
+              "label": "i",
+              "text": "সম্মুখ বায়াসে বিভব বাধা কমে"
+            },
+            {
+              "label": "ii",
+              "text": "বিপরীত বায়াসে সাধারণত বড় প্রবাহ হয়"
+            },
+            {
+              "label": "iii",
+              "text": "ডায়োড rectification-এ ব্যবহৃত হয়"
+            }
+          ],
+          "ask": "নিচের কোনটি সঠিক?"
+        },
+        {
+          "question_no": 21,
+          "type": "final_trap",
+          "question": "1 eV সমান কত জুল?",
+          "options": [
+            {
+              "key": "ক",
+              "text": "1.6×10^-19 J"
+            },
+            {
+              "key": "খ",
+              "text": "9.1×10^-31 J"
+            },
+            {
+              "key": "গ",
+              "text": "6.63×10^-34 J"
+            },
+            {
+              "key": "ঘ",
+              "text": "3×10^8 J"
+            }
+          ],
+          "correct_option": "ক",
+          "explanation": "1 eV=1.6×10^-19 J।",
+          "topic": "Modern physics",
+          "probability_tag": "Board Favourite"
+        },
+        {
+          "question_no": 22,
+          "type": "final_trap",
+          "question": "হাইগেনস নীতিতে প্রত্যেক তরঙ্গমুখের বিন্দুকে কী ধরা হয়?",
+          "options": [
+            {
+              "key": "ক",
+              "text": "শোষক"
+            },
+            {
+              "key": "খ",
+              "text": "গৌণ তরঙ্গের উৎস"
+            },
+            {
+              "key": "গ",
+              "text": "লম্ব প্রতিফলক"
+            },
+            {
+              "key": "ঘ",
+              "text": "স্থির বিন্দু"
+            }
+          ],
+          "correct_option": "খ",
+          "explanation": "তরঙ্গমুখের প্রতিটি বিন্দু গৌণ তরঙ্গের উৎস হিসেবে কাজ করে।",
+          "topic": "Wave theory",
+          "probability_tag": "Very Hot"
+        },
+        {
+          "question_no": 23,
+          "type": "final_trap",
+          "question": "1 B.O.T. unit-এর আরেক নাম কী?",
+          "options": [
+            {
+              "key": "ক",
+              "text": "1 W"
+            },
+            {
+              "key": "খ",
+              "text": "1 kWh"
+            },
+            {
+              "key": "গ",
+              "text": "1 J"
+            },
+            {
+              "key": "ঘ",
+              "text": "1 eV"
+            }
+          ],
+          "correct_option": "খ",
+          "explanation": "বিদ্যুৎ বিলিং-এ 1 unit = 1 kWh।",
+          "topic": "Electrical energy",
+          "probability_tag": "Board Favourite"
+        },
+        {
+          "question_no": 24,
+          "type": "final_trap",
+          "question": "ট্রানজিস্টরের α=0.96 হলে β কত?",
+          "options": [
+            {
+              "key": "ক",
+              "text": "12"
+            },
+            {
+              "key": "খ",
+              "text": "24"
+            },
+            {
+              "key": "গ",
+              "text": "48"
+            },
+            {
+              "key": "ঘ",
+              "text": "96"
+            }
+          ],
+          "correct_option": "খ",
+          "explanation": "β=0.96/(1-0.96)=0.96/0.04=24।",
+          "topic": "Transistor gain",
+          "probability_tag": "Very Hot"
+        },
+        {
+          "question_no": 25,
+          "type": "final_trap",
+          "question": "ট্রানজিস্টরের মৌলিক বিন্যাস কয়টি?",
+          "options": [
+            {
+              "key": "ক",
+              "text": "২টি"
+            },
+            {
+              "key": "খ",
+              "text": "৩টি"
+            },
+            {
+              "key": "গ",
+              "text": "৪টি"
+            },
+            {
+              "key": "ঘ",
+              "text": "৫টি"
+            }
+          ],
+          "correct_option": "খ",
+          "explanation": "CB, CE ও CC - মোট ৩টি বিন্যাস।",
+          "topic": "Transistor",
+          "probability_tag": "Board Favourite"
+        }
+      ]
+    },
+    {
+      "set_no": 4,
+      "title": "Set 04 - Thermodynamics + Nuclear Reaction Pattern",
+      "metadata": {
+        "subject": "HSC Physics 2nd Paper",
+        "subject_code": "175",
+        "full_marks": 25,
+        "time_minutes": 25,
+        "total_questions": 25,
+        "note": "No question is guaranteed; generated from uploaded board/model-test pattern analysis as high-probability practice."
+      },
+      "stimuli": [
+        {
+          "stimulus_no": 1,
+          "instruction": "নিচের উদ্দীপকটি পড়ো এবং ১ ও ২ নং প্রশ্নের উত্তর দাও:",
+          "text": "1 mole আদর্শ গ্যাসকে 300 K তাপমাত্রায় ধীরে ধীরে প্রসারিত করে আয়তন দ্বিগুণ করা হলো। ln2=0.693 ধরা হলো।",
+          "question_range": [
+            1,
+            2
+          ]
+        },
+        {
+          "stimulus_no": 2,
+          "instruction": "নিচের উদ্দীপকটি পড়ো এবং ৩ ও ৪ নং প্রশ্নের উত্তর দাও:",
+          "text": "একটি নিউক্লিয় বিক্রিয়া: ¹⁴₇N + ⁴₂He → ¹⁶₈O + ²₁H + X",
+          "question_range": [
+            3,
+            4
+          ]
+        }
+      ],
+      "questions": [
+        {
+          "question_no": 1,
+          "type": "stimulus_based",
+          "question": "গ্যাস কর্তৃক সম্পন্ন কাজ কত?",
+          "options": [
+            {
+              "key": "ক",
+              "text": "576 J"
+            },
+            {
+              "key": "খ",
+              "text": "1152 J"
+            },
+            {
+              "key": "গ",
+              "text": "1728 J"
+            },
+            {
+              "key": "ঘ",
+              "text": "2493 J"
+            }
+          ],
+          "correct_option": "গ",
+          "explanation": "W=nRT ln(V2/V1)=1×8.31×300×0.693≈1728 J।",
+          "topic": "Isothermal work",
+          "probability_tag": "Mega Hot",
+          "stimulus_no": 1
+        },
+        {
+          "question_no": 2,
+          "type": "stimulus_based",
+          "question": "এই প্রক্রিয়ায় আদর্শ গ্যাসের অভ্যন্তরীণ শক্তির পরিবর্তন কত?",
+          "options": [
+            {
+              "key": "ক",
+              "text": "শূন্য"
+            },
+            {
+              "key": "খ",
+              "text": "ধনাত্মক"
+            },
+            {
+              "key": "গ",
+              "text": "ঋণাত্মক"
+            },
+            {
+              "key": "ঘ",
+              "text": "অসীম"
+            }
+          ],
+          "correct_option": "ক",
+          "explanation": "আদর্শ গ্যাসে U শুধু T-এর ওপর নির্ভর করে; সমোষ্ণে ΔT=0, তাই ΔU=0।",
+          "topic": "Thermodynamics",
+          "probability_tag": "Conceptual Trap",
+          "stimulus_no": 1
+        },
+        {
+          "question_no": 3,
+          "type": "stimulus_based",
+          "question": "অজানা X কী হবে?",
+          "options": [
+            {
+              "key": "ক",
+              "text": "আলফা কণা"
+            },
+            {
+              "key": "খ",
+              "text": "বিটা কণা"
+            },
+            {
+              "key": "গ",
+              "text": "গামা রশ্মি"
+            },
+            {
+              "key": "ঘ",
+              "text": "নিউট্রন"
+            }
+          ],
+          "correct_option": "গ",
+          "explanation": "ভরসংখ্যা ও আধান সংখ্যা দুদিকেই সমান; অতিরিক্ত কণা γ হতে পারে।",
+          "topic": "Nuclear reaction",
+          "probability_tag": "Mega Hot",
+          "stimulus_no": 2
+        },
+        {
+          "question_no": 4,
+          "type": "stimulus_based",
+          "question": "উক্ত বিক্রিয়ায় কোন সংরক্ষণনীতি সরাসরি যাচাই করা যায়?",
+          "options": [
+            {
+              "key": "ক",
+              "text": "শুধু ভরসংখ্যা"
+            },
+            {
+              "key": "খ",
+              "text": "শুধু আধান সংখ্যা"
+            },
+            {
+              "key": "গ",
+              "text": "ভরসংখ্যা ও আধান সংখ্যা"
+            },
+            {
+              "key": "ঘ",
+              "text": "কোনোটিই নয়"
+            }
+          ],
+          "correct_option": "গ",
+          "explanation": "নিউক্লিয় বিক্রিয়ায় nucleon number ও charge number সংরক্ষিত থাকে।",
+          "topic": "Nuclear conservation",
+          "probability_tag": "Board Favourite",
+          "stimulus_no": 2
+        },
+        {
+          "question_no": 5,
+          "type": "standard_mcq",
+          "question": "600 K ও 300 K তাপাধারের মধ্যে কার্নো ইঞ্জিনের দক্ষতা কত?",
+          "options": [
+            {
+              "key": "ক",
+              "text": "25%"
+            },
+            {
+              "key": "খ",
+              "text": "40%"
+            },
+            {
+              "key": "গ",
+              "text": "50%"
+            },
+            {
+              "key": "ঘ",
+              "text": "75%"
+            }
+          ],
+          "correct_option": "গ",
+          "explanation": "η=1-300/600=0.50=50%।",
+          "topic": "Carnot efficiency",
+          "probability_tag": "Mega Hot"
+        },
+        {
+          "question_no": 6,
+          "type": "standard_mcq",
+          "question": "COP=2.5 হিমায়ক 1000 J তাপ অপসারণ করলে কাজ কত?",
+          "options": [
+            {
+              "key": "ক",
+              "text": "2500 J"
+            },
+            {
+              "key": "খ",
+              "text": "400 J"
+            },
+            {
+              "key": "গ",
+              "text": "1000 J"
+            },
+            {
+              "key": "ঘ",
+              "text": "1250 J"
+            }
+          ],
+          "correct_option": "খ",
+          "explanation": "K=Qc/W ⇒ W=1000/2.5=400 J।",
+          "topic": "Refrigerator",
+          "probability_tag": "Board Favourite"
+        },
+        {
+          "question_no": 7,
+          "type": "standard_mcq",
+          "question": "একটি সমান্তরাল পাত ধারকে ডাইইলেকট্রিক ধ্রুবক K সম্পূর্ণ প্রবেশ করালে ধারকত্ব কী হবে?",
+          "options": [
+            {
+              "key": "ক",
+              "text": "C/K"
+            },
+            {
+              "key": "খ",
+              "text": "KC"
+            },
+            {
+              "key": "গ",
+              "text": "C+K"
+            },
+            {
+              "key": "ঘ",
+              "text": "C-K"
+            }
+          ],
+          "correct_option": "খ",
+          "explanation": "ডাইইলেকট্রিক প্রবেশ করালে C'=KC।",
+          "topic": "Capacitor dielectric",
+          "probability_tag": "Very Hot"
+        },
+        {
+          "question_no": 8,
+          "type": "standard_mcq",
+          "question": "একটি আধান q বেগ v নিয়ে B ক্ষেত্রের সমান্তরালে চললে চৌম্বক বল কত?",
+          "options": [
+            {
+              "key": "ক",
+              "text": "qvB"
+            },
+            {
+              "key": "খ",
+              "text": "qv/B"
+            },
+            {
+              "key": "গ",
+              "text": "শূন্য"
+            },
+            {
+              "key": "ঘ",
+              "text": "অসীম"
+            }
+          ],
+          "correct_option": "গ",
+          "explanation": "F=qvB sinθ; θ=0 হলে F=0।",
+          "topic": "Magnetic force",
+          "probability_tag": "Conceptual Trap"
+        },
+        {
+          "question_no": 9,
+          "type": "standard_mcq",
+          "question": "মিউচুয়াল ইন্ডাকট্যান্সের SI একক কোনটি?",
+          "options": [
+            {
+              "key": "ক",
+              "text": "ওয়েবার"
+            },
+            {
+              "key": "খ",
+              "text": "টেসলা"
+            },
+            {
+              "key": "গ",
+              "text": "হেনরি"
+            },
+            {
+              "key": "ঘ",
+              "text": "ফ্যারাড"
+            }
+          ],
+          "correct_option": "গ",
+          "explanation": "ইন্ডাকট্যান্সের একক হেনরি।",
+          "topic": "EMI",
+          "probability_tag": "Very Hot"
+        },
+        {
+          "question_no": 10,
+          "type": "standard_mcq",
+          "question": "প্রত্যাবর্তী প্রবাহের শীর্ষমান I₀ হলে RMS মান কত?",
+          "options": [
+            {
+              "key": "ক",
+              "text": "I₀/√2"
+            },
+            {
+              "key": "খ",
+              "text": "√2 I₀"
+            },
+            {
+              "key": "গ",
+              "text": "I₀/2"
+            },
+            {
+              "key": "ঘ",
+              "text": "2I₀"
+            }
+          ],
+          "correct_option": "ক",
+          "explanation": "Irms=I₀/√2।",
+          "topic": "AC current",
+          "probability_tag": "Very Hot"
+        },
+        {
+          "question_no": 11,
+          "type": "standard_mcq",
+          "question": "অপটিক্যাল ফাইবার কোন নীতির ওপর কাজ করে?",
+          "options": [
+            {
+              "key": "ক",
+              "text": "বিচ্ছুরণ"
+            },
+            {
+              "key": "খ",
+              "text": "পূর্ণ অভ্যন্তরীণ প্রতিফলন"
+            },
+            {
+              "key": "গ",
+              "text": "ব্যতিচার"
+            },
+            {
+              "key": "ঘ",
+              "text": "সমবর্তন"
+            }
+          ],
+          "correct_option": "খ",
+          "explanation": "কোর-ক্ল্যাডিং সীমায় total internal reflection ঘটে।",
+          "topic": "Optics",
+          "probability_tag": "Board Favourite"
+        },
+        {
+          "question_no": 12,
+          "type": "standard_mcq",
+          "question": "পরম প্রতিসরাঙ্কের মান সর্বদা-",
+          "options": [
+            {
+              "key": "ক",
+              "text": "১-এর কম"
+            },
+            {
+              "key": "খ",
+              "text": "১ বা ১-এর বেশি"
+            },
+            {
+              "key": "গ",
+              "text": "ঋণাত্মক"
+            },
+            {
+              "key": "ঘ",
+              "text": "শূন্য"
+            }
+          ],
+          "correct_option": "খ",
+          "explanation": "μ=c/v; কোনো মাধ্যমে v≤c, তাই μ≥1।",
+          "topic": "Refraction",
+          "probability_tag": "Conceptual Trap"
+        },
+        {
+          "question_no": 13,
+          "type": "standard_mcq",
+          "question": "সূর্যের বিপুল শক্তির উৎস কোনটি?",
+          "options": [
+            {
+              "key": "ক",
+              "text": "নিউক্লিয় ফিশন"
+            },
+            {
+              "key": "খ",
+              "text": "নিউক্লিয় ফিউশন"
+            },
+            {
+              "key": "গ",
+              "text": "আলফা ক্ষয়"
+            },
+            {
+              "key": "ঘ",
+              "text": "রাসায়নিক বিক্রিয়া"
+            }
+          ],
+          "correct_option": "খ",
+          "explanation": "সূর্যে fusion reaction প্রাধান্য পায়।",
+          "topic": "Nuclear fusion",
+          "probability_tag": "Mega Hot"
+        },
+        {
+          "question_no": 14,
+          "type": "standard_mcq",
+          "question": "কার্নো ইঞ্জিনের দক্ষতা বাড়াতে কী করতে হবে?",
+          "options": [
+            {
+              "key": "ক",
+              "text": "উৎসের তাপমাত্রা কমাতে হবে"
+            },
+            {
+              "key": "খ",
+              "text": "গ্রাহকের তাপমাত্রা বাড়াতে হবে"
+            },
+            {
+              "key": "গ",
+              "text": "উৎস ও গ্রাহকের তাপমাত্রার পার্থক্য বাড়াতে হবে"
+            },
+            {
+              "key": "ঘ",
+              "text": "কোনোটিই নয়"
+            }
+          ],
+          "correct_option": "গ",
+          "explanation": "η=1-Tc/Th; Th বাড়ানো বা Tc কমালে দক্ষতা বাড়ে।",
+          "topic": "Carnot engine",
+          "probability_tag": "Board Favourite"
+        },
+        {
+          "question_no": 15,
+          "type": "i_ii_iii_analytical",
+          "question": "রুদ্ধতাপীয় পরিবর্তনের ক্ষেত্রে-",
+          "options": [
+            {
+              "key": "ক",
+              "text": "i ও ii"
+            },
+            {
+              "key": "খ",
+              "text": "i ও iii"
+            },
+            {
+              "key": "গ",
+              "text": "ii ও iii"
+            },
+            {
+              "key": "ঘ",
+              "text": "i, ii ও iii"
+            }
+          ],
+          "correct_option": "ঘ",
+          "explanation": "তিনটি সম্পর্কই reversible adiabatic process-এর সমতুল্য রূপ।",
+          "topic": "Adiabatic equations",
+          "probability_tag": "Mega Hot",
+          "statements": [
+            {
+              "label": "i",
+              "text": "P₁V₁^γ=P₂V₂^γ"
+            },
+            {
+              "label": "ii",
+              "text": "T₁V₁^(γ-1)=T₂V₂^(γ-1)"
+            },
+            {
+              "label": "iii",
+              "text": "P₁^(1-γ)T₁^γ=P₂^(1-γ)T₂^γ"
+            }
+          ],
+          "ask": "নিচের কোনটি সঠিক?"
+        },
+        {
+          "question_no": 16,
+          "type": "i_ii_iii_analytical",
+          "question": "আদর্শ ট্রান্সফর্মার সম্পর্কে-",
+          "options": [
+            {
+              "key": "ক",
+              "text": "i ও ii"
+            },
+            {
+              "key": "খ",
+              "text": "i ও iii"
+            },
+            {
+              "key": "গ",
+              "text": "ii ও iii"
+            },
+            {
+              "key": "ঘ",
+              "text": "i, ii ও iii"
+            }
+          ],
+          "correct_option": "ক",
+          "explanation": "তৃতীয়টি ভুল; শক্তি mutual induction-এ স্থানান্তরিত হয়।",
+          "topic": "Transformer",
+          "probability_tag": "Very Hot",
+          "statements": [
+            {
+              "label": "i",
+              "text": "ক্ষমতা প্রায় অপরিবর্তিত থাকে"
+            },
+            {
+              "label": "ii",
+              "text": "স্টেপ-ডাউনে ভোল্টেজ কমে কিন্তু কারেন্ট বাড়ে"
+            },
+            {
+              "label": "iii",
+              "text": "কুণ্ডলীর মধ্যে সরাসরি বৈদ্যুতিক সংযোগ থাকে"
+            }
+          ],
+          "ask": "নিচের কোনটি সঠিক?"
+        },
+        {
+          "question_no": 17,
+          "type": "i_ii_iii_analytical",
+          "question": "তড়িৎচুম্বকীয় তরঙ্গের ক্ষেত্রে-",
+          "options": [
+            {
+              "key": "ক",
+              "text": "i ও ii"
+            },
+            {
+              "key": "খ",
+              "text": "i ও iii"
+            },
+            {
+              "key": "গ",
+              "text": "ii ও iii"
+            },
+            {
+              "key": "ঘ",
+              "text": "i, ii ও iii"
+            }
+          ],
+          "correct_option": "ক",
+          "explanation": "EM wave vacuum-এও চলে; মাধ্যম অপরিহার্য নয়।",
+          "topic": "EM wave",
+          "probability_tag": "Conceptual Trap",
+          "statements": [
+            {
+              "label": "i",
+              "text": "এটি অনুপ্রস্থ তরঙ্গ"
+            },
+            {
+              "label": "ii",
+              "text": "E, B ও তরঙ্গের দিক পরস্পর লম্ব"
+            },
+            {
+              "label": "iii",
+              "text": "চলতে বস্তুগত মাধ্যম অপরিহার্য"
+            }
+          ],
+          "ask": "নিচের কোনটি সঠিক?"
+        },
+        {
+          "question_no": 18,
+          "type": "i_ii_iii_analytical",
+          "question": "NAND গেটের ক্ষেত্রে-",
+          "options": [
+            {
+              "key": "ক",
+              "text": "i ও ii"
+            },
+            {
+              "key": "খ",
+              "text": "i ও iii"
+            },
+            {
+              "key": "গ",
+              "text": "ii ও iii"
+            },
+            {
+              "key": "ঘ",
+              "text": "i, ii ও iii"
+            }
+          ],
+          "correct_option": "ক",
+          "explanation": "NAND universal; কিন্তু XOR নয়।",
+          "topic": "Logic gate",
+          "probability_tag": "Very Hot",
+          "statements": [
+            {
+              "label": "i",
+              "text": "এটি সর্বজনীন গেইট"
+            },
+            {
+              "label": "ii",
+              "text": "উভয় ইনপুট 1 হলে আউটপুট 0"
+            },
+            {
+              "label": "iii",
+              "text": "এটি সবসময় XOR-এর সমতুল্য"
+            }
+          ],
+          "ask": "নিচের কোনটি সঠিক?"
+        },
+        {
+          "question_no": 19,
+          "type": "i_ii_iii_analytical",
+          "question": "বোর মডেলের ক্ষেত্রে-",
+          "options": [
+            {
+              "key": "ক",
+              "text": "i ও ii"
+            },
+            {
+              "key": "খ",
+              "text": "i ও iii"
+            },
+            {
+              "key": "গ",
+              "text": "ii ও iii"
+            },
+            {
+              "key": "ঘ",
+              "text": "i, ii ও iii"
+            }
+          ],
+          "correct_option": "ক",
+          "explanation": "স্থির কক্ষপথে ইলেকট্রন শক্তি বিকিরণ করে না - এটিই postulate।",
+          "topic": "Bohr model",
+          "probability_tag": "Mega Hot",
+          "statements": [
+            {
+              "label": "i",
+              "text": "ইলেকট্রনের কৌণিক ভরবেগ কুয়ান্টাইজড"
+            },
+            {
+              "label": "ii",
+              "text": "হাইড্রোজেন বর্ণালির ব্যাখ্যা দেয়"
+            },
+            {
+              "label": "iii",
+              "text": "স্থির কক্ষপথে ইলেকট্রন ক্রমাগত শক্তি বিকিরণ করে"
+            }
+          ],
+          "ask": "নিচের কোনটি সঠিক?"
+        },
+        {
+          "question_no": 20,
+          "type": "i_ii_iii_analytical",
+          "question": "নিউক্লিয় বিক্রিয়া সম্পর্কে-",
+          "options": [
+            {
+              "key": "ক",
+              "text": "i ও ii"
+            },
+            {
+              "key": "খ",
+              "text": "i ও iii"
+            },
+            {
+              "key": "গ",
+              "text": "ii ও iii"
+            },
+            {
+              "key": "ঘ",
+              "text": "i, ii ও iii"
+            }
+          ],
+          "correct_option": "ক",
+          "explanation": "রাসায়নিক বিক্রিয়ায় নিউক্লিয় ভর ত্রুটি মূল বিষয় নয়।",
+          "topic": "Nuclear physics",
+          "probability_tag": "Very Hot",
+          "statements": [
+            {
+              "label": "i",
+              "text": "ফিশনে শৃঙ্খল বিক্রিয়া ঘটতে পারে"
+            },
+            {
+              "label": "ii",
+              "text": "ফিউশন সূর্যের শক্তির উৎস"
+            },
+            {
+              "label": "iii",
+              "text": "সাধারণ রাসায়নিক বিক্রিয়ায় নিউক্লিয় ভর ত্রুটি প্রধান"
+            }
+          ],
+          "ask": "নিচের কোনটি সঠিক?"
+        },
+        {
+          "question_no": 21,
+          "type": "final_trap",
+          "question": "ইলেকট্রনের আধান ও ভরের মধ্যে কোনটি আধান?",
+          "options": [
+            {
+              "key": "ক",
+              "text": "9.1×10^-31 C"
+            },
+            {
+              "key": "খ",
+              "text": "-9.1×10^-31 C"
+            },
+            {
+              "key": "গ",
+              "text": "1.6×10^-19 kg"
+            },
+            {
+              "key": "ঘ",
+              "text": "-1.6×10^-19 C"
+            }
+          ],
+          "correct_option": "ঘ",
+          "explanation": "ইলেকট্রনের আধান -1.6×10^-19 C; ভর 9.1×10^-31 kg।",
+          "topic": "Constants trap",
+          "probability_tag": "Conceptual Trap"
+        },
+        {
+          "question_no": 22,
+          "type": "final_trap",
+          "question": "আলোক তড়িৎ ক্রিয়ায় সূচন কম্পাঙ্ক নির্ভর করে-",
+          "options": [
+            {
+              "key": "ক",
+              "text": "আলোর তীব্রতার ওপর"
+            },
+            {
+              "key": "খ",
+              "text": "ধাতুর কার্যাপেক্ষকের ওপর"
+            },
+            {
+              "key": "গ",
+              "text": "আলোর সময়ের ওপর"
+            },
+            {
+              "key": "ঘ",
+              "text": "ধাতুর ক্ষেত্রফলের ওপর"
+            }
+          ],
+          "correct_option": "খ",
+          "explanation": "ν0=φ/h; তাই ধাতুর কার্যাপেক্ষকের ওপর নির্ভর করে।",
+          "topic": "Photoelectric effect",
+          "probability_tag": "Mega Hot"
+        },
+        {
+          "question_no": 23,
+          "type": "final_trap",
+          "question": "ধারকত্বের একক ফ্যারাড হলে 1 F = ?",
+          "options": [
+            {
+              "key": "ক",
+              "text": "1 C/V"
+            },
+            {
+              "key": "খ",
+              "text": "1 V/C"
+            },
+            {
+              "key": "গ",
+              "text": "1 Ω/s"
+            },
+            {
+              "key": "ঘ",
+              "text": "1 J/C"
+            }
+          ],
+          "correct_option": "ক",
+          "explanation": "C=Q/V, তাই 1F=1C/V।",
+          "topic": "Capacitance",
+          "probability_tag": "Board Favourite"
+        },
+        {
+          "question_no": 24,
+          "type": "final_trap",
+          "question": "তাপ ইঞ্জিনের দক্ষতা 100% না হওয়ার মূল কারণ কোন সূত্রের সঙ্গে সম্পর্কিত?",
+          "options": [
+            {
+              "key": "ক",
+              "text": "শূন্যতম সূত্র"
+            },
+            {
+              "key": "খ",
+              "text": "প্রথম সূত্র"
+            },
+            {
+              "key": "গ",
+              "text": "দ্বিতীয় সূত্র"
+            },
+            {
+              "key": "ঘ",
+              "text": "কুলম্ব সূত্র"
+            }
+          ],
+          "correct_option": "গ",
+          "explanation": "দ্বিতীয় সূত্র অনুযায়ী সম্পূর্ণ তাপকে কাজে রূপান্তর করা যায় না।",
+          "topic": "Second law",
+          "probability_tag": "Very Hot"
+        },
+        {
+          "question_no": 25,
+          "type": "final_trap",
+          "question": "পরিবাহী পদার্থে পরিবহন ব্যান্ড ও যোজন ব্যান্ডের শক্তি ব্যবধান প্রায়-",
+          "options": [
+            {
+              "key": "ক",
+              "text": "0 eV"
+            },
+            {
+              "key": "খ",
+              "text": "0.7 eV"
+            },
+            {
+              "key": "গ",
+              "text": "1.1 eV"
+            },
+            {
+              "key": "ঘ",
+              "text": "7 eV"
+            }
+          ],
+          "correct_option": "ক",
+          "explanation": "পরিবাহীতে band gap প্রায় শূন্য।",
+          "topic": "Band theory",
+          "probability_tag": "Board Favourite"
+        }
+      ]
+    },
+    {
+      "set_no": 5,
+      "title": "Set 05 - Photoelectric + Transformer Final Mix",
+      "metadata": {
+        "subject": "HSC Physics 2nd Paper",
+        "subject_code": "175",
+        "full_marks": 25,
+        "time_minutes": 25,
+        "total_questions": 25,
+        "note": "No question is guaranteed; generated from uploaded board/model-test pattern analysis as high-probability practice."
+      },
+      "stimuli": [
+        {
+          "stimulus_no": 1,
+          "instruction": "নিচের উদ্দীপকটি পড়ো এবং ১ ও ২ নং প্রশ্নের উত্তর দাও:",
+          "text": "একটি ধাতুর কার্যাপেক্ষক 2.5 eV। এর ওপর 3100 Å তরঙ্গদৈর্ঘ্যের আলো আপতিত করা হলো।",
+          "question_range": [
+            1,
+            2
+          ]
+        },
+        {
+          "stimulus_no": 2,
+          "instruction": "নিচের উদ্দীপকটি পড়ো এবং ৩ ও ৪ নং প্রশ্নের উত্তর দাও:",
+          "text": "একটি আদর্শ ট্রান্সফর্মারে মুখ্য কুণ্ডলীর পাকসংখ্যা 500, গৌণ কুণ্ডলীর পাকসংখ্যা 2000 এবং মুখ্য বিভব 100 V।",
+          "question_range": [
+            3,
+            4
+          ]
+        }
+      ],
+      "questions": [
+        {
+          "question_no": 1,
+          "type": "stimulus_based",
+          "question": "নির্গত ইলেকট্রনের সর্বোচ্চ গতিশক্তি কত?",
+          "options": [
+            {
+              "key": "ক",
+              "text": "0.5 eV"
+            },
+            {
+              "key": "খ",
+              "text": "1.5 eV"
+            },
+            {
+              "key": "গ",
+              "text": "2.5 eV"
+            },
+            {
+              "key": "ঘ",
+              "text": "4.0 eV"
+            }
+          ],
+          "correct_option": "খ",
+          "explanation": "E=12400/3100=4.0 eV; Kmax=4.0-2.5=1.5 eV।",
+          "topic": "Photoelectric numerical",
+          "probability_tag": "Mega Hot",
+          "stimulus_no": 1
+        },
+        {
+          "question_no": 2,
+          "type": "stimulus_based",
+          "question": "নিবৃত্তি বিভব কত?",
+          "options": [
+            {
+              "key": "ক",
+              "text": "0.5 V"
+            },
+            {
+              "key": "খ",
+              "text": "1.5 V"
+            },
+            {
+              "key": "গ",
+              "text": "2.5 V"
+            },
+            {
+              "key": "ঘ",
+              "text": "4.0 V"
+            }
+          ],
+          "correct_option": "খ",
+          "explanation": "Kmax=eVs; eV এককে Kmax=1.5 eV হলে Vs=1.5 V।",
+          "topic": "Stopping potential",
+          "probability_tag": "Mega Hot",
+          "stimulus_no": 1
+        },
+        {
+          "question_no": 3,
+          "type": "stimulus_based",
+          "question": "গৌণ বিভব কত?",
+          "options": [
+            {
+              "key": "ক",
+              "text": "25 V"
+            },
+            {
+              "key": "খ",
+              "text": "100 V"
+            },
+            {
+              "key": "গ",
+              "text": "400 V"
+            },
+            {
+              "key": "ঘ",
+              "text": "800 V"
+            }
+          ],
+          "correct_option": "গ",
+          "explanation": "Vs/Vp=Ns/Np=2000/500=4; Vs=400 V।",
+          "topic": "Transformer numerical",
+          "probability_tag": "Mega Hot",
+          "stimulus_no": 2
+        },
+        {
+          "question_no": 4,
+          "type": "stimulus_based",
+          "question": "ইনপুট ক্ষমতা 200 W হলে গৌণ প্রবাহ কত?",
+          "options": [
+            {
+              "key": "ক",
+              "text": "0.25 A"
+            },
+            {
+              "key": "খ",
+              "text": "0.5 A"
+            },
+            {
+              "key": "গ",
+              "text": "2 A"
+            },
+            {
+              "key": "ঘ",
+              "text": "4 A"
+            }
+          ],
+          "correct_option": "খ",
+          "explanation": "P=VsIs; Is=200/400=0.5 A।",
+          "topic": "Transformer power",
+          "probability_tag": "Conceptual Trap",
+          "stimulus_no": 2
+        },
+        {
+          "question_no": 5,
+          "type": "standard_mcq",
+          "question": "20 cm ব্যাসার্ধের চার্জিত ফাঁপা গোলকে 2×10^-9 C আধান থাকলে অভ্যন্তরের বিভব কত?",
+          "options": [
+            {
+              "key": "ক",
+              "text": "0 V"
+            },
+            {
+              "key": "খ",
+              "text": "45 V"
+            },
+            {
+              "key": "গ",
+              "text": "90 V"
+            },
+            {
+              "key": "ঘ",
+              "text": "180 V"
+            }
+          ],
+          "correct_option": "গ",
+          "explanation": "পরিবাহী গোলকের ভেতরে V=kQ/R=90 V।",
+          "topic": "Conducting sphere",
+          "probability_tag": "Board Favourite"
+        },
+        {
+          "question_no": 6,
+          "type": "standard_mcq",
+          "question": "ধারকের সঞ্চিত শক্তির সঠিক সূত্র কোনটি?",
+          "options": [
+            {
+              "key": "ক",
+              "text": "U=½C²V"
+            },
+            {
+              "key": "খ",
+              "text": "U=½Q²C"
+            },
+            {
+              "key": "গ",
+              "text": "U=½CV²"
+            },
+            {
+              "key": "ঘ",
+              "text": "U=½V/Q²"
+            }
+          ],
+          "correct_option": "গ",
+          "explanation": "ধারকের শক্তি U=½CV²=Q²/(2C)=½QV।",
+          "topic": "Capacitor energy",
+          "probability_tag": "Mega Hot"
+        },
+        {
+          "question_no": 7,
+          "type": "standard_mcq",
+          "question": "একটি মাধ্যমে আপেক্ষিক পারমিটিভিটি 4 হলে একই দূরত্বে কুলম্ব বল বায়ুর তুলনায় কত হবে?",
+          "options": [
+            {
+              "key": "ক",
+              "text": "4 গুণ"
+            },
+            {
+              "key": "খ",
+              "text": "2 গুণ"
+            },
+            {
+              "key": "গ",
+              "text": "1/4 গুণ"
+            },
+            {
+              "key": "ঘ",
+              "text": "অপরিবর্তিত"
+            }
+          ],
+          "correct_option": "গ",
+          "explanation": "F_medium=F_air/K=F/4।",
+          "topic": "Electrostatics",
+          "probability_tag": "Very Hot"
+        },
+        {
+          "question_no": 8,
+          "type": "standard_mcq",
+          "question": "1 eV শক্তি অর্জনে একটি ইলেকট্রন কত বিভব পার্থক্য অতিক্রম করে?",
+          "options": [
+            {
+              "key": "ক",
+              "text": "1 V"
+            },
+            {
+              "key": "খ",
+              "text": "1 C"
+            },
+            {
+              "key": "গ",
+              "text": "1 A"
+            },
+            {
+              "key": "ঘ",
+              "text": "1 Ω"
+            }
+          ],
+          "correct_option": "ক",
+          "explanation": "1 eV হলো 1 V বিভব পার্থক্যে ইলেকট্রনের শক্তি।",
+          "topic": "eV concept",
+          "probability_tag": "Board Favourite"
+        },
+        {
+          "question_no": 9,
+          "type": "standard_mcq",
+          "question": "এক পারমাণবিক গ্যাসের γ এর মান কত?",
+          "options": [
+            {
+              "key": "ক",
+              "text": "1.33"
+            },
+            {
+              "key": "খ",
+              "text": "1.40"
+            },
+            {
+              "key": "গ",
+              "text": "1.67"
+            },
+            {
+              "key": "ঘ",
+              "text": "2.00"
+            }
+          ],
+          "correct_option": "গ",
+          "explanation": "Monoatomic gas-এর γ=5/3≈1.67।",
+          "topic": "Thermodynamics",
+          "probability_tag": "Very Hot"
+        },
+        {
+          "question_no": 10,
+          "type": "standard_mcq",
+          "question": "অর্ধায়ু T1/2 ও গড় আয়ু τ-এর সম্পর্ক কোনটি?",
+          "options": [
+            {
+              "key": "ক",
+              "text": "T1/2=τ"
+            },
+            {
+              "key": "খ",
+              "text": "T1/2=0.693τ"
+            },
+            {
+              "key": "গ",
+              "text": "T1/2=τ/0.693"
+            },
+            {
+              "key": "ঘ",
+              "text": "T1/2=2τ"
+            }
+          ],
+          "correct_option": "খ",
+          "explanation": "T1/2=0.693/λ এবং τ=1/λ; তাই T1/2=0.693τ।",
+          "topic": "Radioactivity",
+          "probability_tag": "Mega Hot"
+        },
+        {
+          "question_no": 11,
+          "type": "standard_mcq",
+          "question": "p-n জংশনে 0.4 V বিভব পরিবর্তনে 100 mA প্রবাহ পরিবর্তন হলে গতীয় রোধ কত?",
+          "options": [
+            {
+              "key": "ক",
+              "text": "0.004 Ω"
+            },
+            {
+              "key": "খ",
+              "text": "0.04 Ω"
+            },
+            {
+              "key": "গ",
+              "text": "0.4 Ω"
+            },
+            {
+              "key": "ঘ",
+              "text": "4 Ω"
+            }
+          ],
+          "correct_option": "ঘ",
+          "explanation": "rd=ΔV/ΔI=0.4/0.1=4 Ω।",
+          "topic": "Diode dynamic resistance",
+          "probability_tag": "Very Hot"
+        },
+        {
+          "question_no": 12,
+          "type": "standard_mcq",
+          "question": "240 V, 60 W বাতির মধ্য দিয়ে প্রবাহ কত?",
+          "options": [
+            {
+              "key": "ক",
+              "text": "0.25 A"
+            },
+            {
+              "key": "খ",
+              "text": "0.5 A"
+            },
+            {
+              "key": "গ",
+              "text": "2.5 A"
+            },
+            {
+              "key": "ঘ",
+              "text": "4 A"
+            }
+          ],
+          "correct_option": "ক",
+          "explanation": "P=VI ⇒ I=60/240=0.25 A।",
+          "topic": "Electric power",
+          "probability_tag": "Board Favourite"
+        },
+        {
+          "question_no": 13,
+          "type": "standard_mcq",
+          "question": "ব্রুস্টারের সূত্র কোনটি?",
+          "options": [
+            {
+              "key": "ক",
+              "text": "sin ip=μ"
+            },
+            {
+              "key": "খ",
+              "text": "tan ip=μ"
+            },
+            {
+              "key": "গ",
+              "text": "cos ip=μ"
+            },
+            {
+              "key": "ঘ",
+              "text": "cot ip=μ"
+            }
+          ],
+          "correct_option": "খ",
+          "explanation": "Brewster law: μ=tan ip।",
+          "topic": "Polarization",
+          "probability_tag": "Very Hot"
+        },
+        {
+          "question_no": 14,
+          "type": "standard_mcq",
+          "question": "নিউক্লিয়াসের আয়তন ভরসংখ্যা A-এর সাথে কীরূপ?",
+          "options": [
+            {
+              "key": "ক",
+              "text": "A-এর সমানুপাতিক"
+            },
+            {
+              "key": "খ",
+              "text": "A²-এর সমানুপাতিক"
+            },
+            {
+              "key": "গ",
+              "text": "A-এর ব্যস্তানুপাতিক"
+            },
+            {
+              "key": "ঘ",
+              "text": "A²-এর ব্যস্তানুপাতিক"
+            }
+          ],
+          "correct_option": "ক",
+          "explanation": "R∝A^(1/3), তাই volume ∝R³∝A।",
+          "topic": "Nuclear size",
+          "probability_tag": "Board Favourite"
+        },
+        {
+          "question_no": 15,
+          "type": "i_ii_iii_analytical",
+          "question": "অর্ধপরিবাহী সম্পর্কে-",
+          "options": [
+            {
+              "key": "ক",
+              "text": "i ও ii"
+            },
+            {
+              "key": "খ",
+              "text": "i ও iii"
+            },
+            {
+              "key": "গ",
+              "text": "ii ও iii"
+            },
+            {
+              "key": "ঘ",
+              "text": "i, ii ও iii"
+            }
+          ],
+          "correct_option": "ঘ",
+          "explanation": "ডোপিং charge carrier বাড়ায়, কিন্তু মোট crystal electrically neutral থাকে।",
+          "topic": "Semiconductor",
+          "probability_tag": "Mega Hot",
+          "statements": [
+            {
+              "label": "i",
+              "text": "n-type তৈরিতে পঞ্চযোজী অপদ্রব্য ব্যবহৃত হয়"
+            },
+            {
+              "label": "ii",
+              "text": "p-type তৈরিতে ত্রিযোজী অপদ্রব্য ব্যবহৃত হয়"
+            },
+            {
+              "label": "iii",
+              "text": "উভয় ধরনের স্ফটিক সামগ্রিকভাবে নিরপেক্ষ"
+            }
+          ],
+          "ask": "নিচের কোনটি সঠিক?"
+        },
+        {
+          "question_no": 16,
+          "type": "i_ii_iii_analytical",
+          "question": "ফোটোতড়িৎ ক্রিয়ার ক্ষেত্রে-",
+          "options": [
+            {
+              "key": "ক",
+              "text": "i ও ii"
+            },
+            {
+              "key": "খ",
+              "text": "i ও iii"
+            },
+            {
+              "key": "গ",
+              "text": "ii ও iii"
+            },
+            {
+              "key": "ঘ",
+              "text": "i, ii ও iii"
+            }
+          ],
+          "correct_option": "ঘ",
+          "explanation": "তিনটিই ফোটোতড়িৎ ক্রিয়ার মূল সম্পর্ক/ধারণা।",
+          "topic": "Photoelectric effect",
+          "probability_tag": "Mega Hot",
+          "statements": [
+            {
+              "label": "i",
+              "text": "Kmax=hf-φ"
+            },
+            {
+              "label": "ii",
+              "text": "Kmax=eVs"
+            },
+            {
+              "label": "iii",
+              "text": "তীব্রতা saturation current বাড়াতে পারে"
+            }
+          ],
+          "ask": "নিচের কোনটি সঠিক?"
+        },
+        {
+          "question_no": 17,
+          "type": "i_ii_iii_analytical",
+          "question": "ইয়ং-এর দ্বি-চিড় পরীক্ষায়-",
+          "options": [
+            {
+              "key": "ক",
+              "text": "i ও ii"
+            },
+            {
+              "key": "খ",
+              "text": "i ও iii"
+            },
+            {
+              "key": "গ",
+              "text": "ii ও iii"
+            },
+            {
+              "key": "ঘ",
+              "text": "i, ii ও iii"
+            }
+          ],
+          "correct_option": "ক",
+          "explanation": "β=Dλ/d; মাধ্যমে λ কমে, তাই μ বাড়লে β কমে।",
+          "topic": "YDSE",
+          "probability_tag": "Conceptual Trap",
+          "statements": [
+            {
+              "label": "i",
+              "text": "β সরাসরি D-এর সমানুপাতিক"
+            },
+            {
+              "label": "ii",
+              "text": "β ব্যস্তানুপাতিক d-এর"
+            },
+            {
+              "label": "iii",
+              "text": "মাধ্যমের প্রতিসরাঙ্ক বাড়লে β বাড়ে"
+            }
+          ],
+          "ask": "নিচের কোনটি সঠিক?"
+        },
+        {
+          "question_no": 18,
+          "type": "i_ii_iii_analytical",
+          "question": "কিরশফের সূত্রের ক্ষেত্রে-",
+          "options": [
+            {
+              "key": "ক",
+              "text": "i ও ii"
+            },
+            {
+              "key": "খ",
+              "text": "i ও iii"
+            },
+            {
+              "key": "গ",
+              "text": "ii ও iii"
+            },
+            {
+              "key": "ঘ",
+              "text": "i, ii ও iii"
+            }
+          ],
+          "correct_option": "ক",
+          "explanation": "লাম্পড সার্কিটে AC বিশ্লেষণেও Kirchhoff law ব্যবহার করা যায়।",
+          "topic": "Kirchhoff laws",
+          "probability_tag": "Mega Hot",
+          "statements": [
+            {
+              "label": "i",
+              "text": "জংশন সূত্র আধান সংরক্ষণ বোঝায়"
+            },
+            {
+              "label": "ii",
+              "text": "লুপ সূত্র শক্তি সংরক্ষণ বোঝায়"
+            },
+            {
+              "label": "iii",
+              "text": "এগুলো শুধু DC বর্তনীতে প্রযোজ্য, AC-তে কোনোভাবেই নয়"
+            }
+          ],
+          "ask": "নিচের কোনটি সঠিক?"
+        },
+        {
+          "question_no": 19,
+          "type": "i_ii_iii_analytical",
+          "question": "ধারক সমবায়ের ক্ষেত্রে-",
+          "options": [
+            {
+              "key": "ক",
+              "text": "i ও ii"
+            },
+            {
+              "key": "খ",
+              "text": "i ও iii"
+            },
+            {
+              "key": "গ",
+              "text": "ii ও iii"
+            },
+            {
+              "key": "ঘ",
+              "text": "i, ii ও iii"
+            }
+          ],
+          "correct_option": "ঘ",
+          "explanation": "তিনটি statement-ই capacitor combination-এর মৌলিক নিয়ম।",
+          "topic": "Capacitor combination",
+          "probability_tag": "Mega Hot",
+          "statements": [
+            {
+              "label": "i",
+              "text": "শ্রেণিতে তুল্য ধারকত্ব কমে"
+            },
+            {
+              "label": "ii",
+              "text": "সমান্তরালে তুল্য ধারকত্ব বাড়ে"
+            },
+            {
+              "label": "iii",
+              "text": "শ্রেণি সংযোগে প্রতিটি ধারকে আধান একই"
+            }
+          ],
+          "ask": "নিচের কোনটি সঠিক?"
+        },
+        {
+          "question_no": 20,
+          "type": "i_ii_iii_analytical",
+          "question": "ট্রানজিস্টর বিবর্ধনের ক্ষেত্রে-",
+          "options": [
+            {
+              "key": "ক",
+              "text": "i ও ii"
+            },
+            {
+              "key": "খ",
+              "text": "i ও iii"
+            },
+            {
+              "key": "গ",
+              "text": "ii ও iii"
+            },
+            {
+              "key": "ঘ",
+              "text": "i, ii ও iii"
+            }
+          ],
+          "correct_option": "ঘ",
+          "explanation": "BJT current gain-এ α<1 এবং β=α/(1-α)।",
+          "topic": "Transistor",
+          "probability_tag": "Very Hot",
+          "statements": [
+            {
+              "label": "i",
+              "text": "α সাধারণত 1-এর কম"
+            },
+            {
+              "label": "ii",
+              "text": "β সাধারণত 1-এর বেশি"
+            },
+            {
+              "label": "iii",
+              "text": "β=α/(1-α)"
+            }
+          ],
+          "ask": "নিচের কোনটি সঠিক?"
+        },
+        {
+          "question_no": 21,
+          "type": "final_trap",
+          "question": "নিচের কোন বক্তব্যটি ভুল?",
+          "options": [
+            {
+              "key": "ক",
+              "text": "n-type-এ ইলেকট্রন মেজরিটি ক্যারিয়ার"
+            },
+            {
+              "key": "খ",
+              "text": "n-type পঞ্চযোজী ডোপিং দ্বারা তৈরি"
+            },
+            {
+              "key": "গ",
+              "text": "n-type স্ফটিক সামগ্রিকভাবে ঋণাত্মক"
+            },
+            {
+              "key": "ঘ",
+              "text": "n-type-এ donor impurity থাকে"
+            }
+          ],
+          "correct_option": "গ",
+          "explanation": "n-type crystal overall neutral; এটি সাধারণ board trap।",
+          "topic": "Semiconductor trap",
+          "probability_tag": "Conceptual Trap"
+        },
+        {
+          "question_no": 22,
+          "type": "final_trap",
+          "question": "স্টেপ-আপ ট্রান্সফর্মারে কোনটি সঠিক?",
+          "options": [
+            {
+              "key": "ক",
+              "text": "ভোল্টেজ বাড়ে, কারেন্ট কমে"
+            },
+            {
+              "key": "খ",
+              "text": "ভোল্টেজ ও কারেন্ট দুটোই বাড়ে"
+            },
+            {
+              "key": "গ",
+              "text": "ভোল্টেজ কমে, কারেন্ট কমে"
+            },
+            {
+              "key": "ঘ",
+              "text": "DC input-এ নিয়মিত output পাওয়া যায়"
+            }
+          ],
+          "correct_option": "ক",
+          "explanation": "আদর্শ ক্ষেত্রে power conservation: V বাড়লে I কমে।",
+          "topic": "Transformer trap",
+          "probability_tag": "Conceptual Trap"
+        },
+        {
+          "question_no": 23,
+          "type": "final_trap",
+          "question": "রুদ্ধতাপীয় রেখা সমোষ্ণ রেখার তুলনায়-",
+          "options": [
+            {
+              "key": "ক",
+              "text": "কম খাড়া"
+            },
+            {
+              "key": "খ",
+              "text": "সমান খাড়া"
+            },
+            {
+              "key": "গ",
+              "text": "γ গুণ বেশি খাড়া"
+            },
+            {
+              "key": "ঘ",
+              "text": "কোনো ঢাল নেই"
+            }
+          ],
+          "correct_option": "গ",
+          "explanation": "PV diagram-এ adiabatic curve-এর ঢাল γ times isothermal slope।",
+          "topic": "Adiabatic curve",
+          "probability_tag": "Mega Hot"
+        },
+        {
+          "question_no": 24,
+          "type": "final_trap",
+          "question": "পরিবাহী পদার্থের band gap প্রায় কত?",
+          "options": [
+            {
+              "key": "ক",
+              "text": "0 eV"
+            },
+            {
+              "key": "খ",
+              "text": "0.7 eV"
+            },
+            {
+              "key": "গ",
+              "text": "1.1 eV"
+            },
+            {
+              "key": "ঘ",
+              "text": "7 eV"
+            }
+          ],
+          "correct_option": "ক",
+          "explanation": "Conductor-এ valence ও conduction band overlap করে; gap প্রায় zero।",
+          "topic": "Band theory",
+          "probability_tag": "Board Favourite"
+        },
+        {
+          "question_no": 25,
+          "type": "final_trap",
+          "question": "নিচের কোনটি সর্বজনীন গেইট?",
+          "options": [
+            {
+              "key": "ক",
+              "text": "AND"
+            },
+            {
+              "key": "খ",
+              "text": "OR"
+            },
+            {
+              "key": "গ",
+              "text": "NAND"
+            },
+            {
+              "key": "ঘ",
+              "text": "EX-OR"
+            }
+          ],
+          "correct_option": "গ",
+          "explanation": "NAND ও NOR universal; এখানে NAND দেওয়া আছে।",
+          "topic": "Logic gate",
+          "probability_tag": "Very Hot"
+        }
+      ]
+    }
+  ]
+}

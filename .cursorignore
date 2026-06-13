@@ -1,0 +1,9 @@
+﻿public/questions/**/*.json
+public/quiz-data/**/*.json
+backend/data/answers/**/*.json
+resources/
+scratch/
+docs/
+*.pdf
+*.jpg
+*.png

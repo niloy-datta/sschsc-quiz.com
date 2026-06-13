@@ -1,0 +1,102 @@
+{
+  "hsc-higher-math-2nd-paper-tier-a-set-03-q01": {
+    "correctOption": "4, 1",
+    "explanation": "\\(x^2-4x+1=0\\) থেকে sum \\(=4\\), product \\(=1\\)।"
+  },
+  "hsc-higher-math-2nd-paper-tier-a-set-03-q02": {
+    "correctOption": "\\(x^2-14x+1=0\\)",
+    "explanation": "\\(\\alpha^2+\\beta^2=16-2=14\\), product \\(=1\\)।"
+  },
+  "hsc-higher-math-2nd-paper-tier-a-set-03-q03": {
+    "correctOption": "\\(\\frac23\\)",
+    "explanation": "\\(e=\\sqrt{1-b^2/a^2}=\\sqrt{1-20/36}=2/3\\)।"
+  },
+  "hsc-higher-math-2nd-paper-tier-a-set-03-q04": {
+    "correctOption": "\\(\\frac{20}{3}\\)",
+    "explanation": "উপবৃত্তে latus rectum \\(=\\frac{2b^2}{a}=\\frac{40}{6}=20/3\\)।"
+  },
+  "hsc-higher-math-2nd-paper-tier-a-set-03-q05": {
+    "correctOption": "\\(-\\frac{5\\pi}{6}\\)",
+    "explanation": "বিন্দুটি তৃতীয় চতুর্ভাগে; principal argument \\(-5\\pi/6\\)।"
+  },
+  "hsc-higher-math-2nd-paper-tier-a-set-03-q06": {
+    "correctOption": "1",
+    "explanation": "modulus ভাগে ভাগ হয়: \\(|1+i|/|1-i|=\\sqrt2/\\sqrt2=1\\)।"
+  },
+  "hsc-higher-math-2nd-paper-tier-a-set-03-q07": {
+    "correctOption": "\\(k>1\\)",
+    "explanation": "কাল্পনিক মূলের জন্য \\(D<0\\Rightarrow4-4k<0\\Rightarrow k>1\\)।"
+  },
+  "hsc-higher-math-2nd-paper-tier-a-set-03-q08": {
+    "correctOption": "\\(x^2-7x+12=0\\)",
+    "explanation": "মূল 2,3 হলে নতুন মূল 3,4; সমীকরণ \\(x^2-7x+12=0\\)।"
+  },
+  "hsc-higher-math-2nd-paper-tier-a-set-03-q09": {
+    "correctOption": "\\(x^2=12y\\)",
+    "explanation": "শীর্ষ origin, \\(a=3\\); তাই \\(x^2=4ay=12y\\)।"
+  },
+  "hsc-higher-math-2nd-paper-tier-a-set-03-q10": {
+    "correctOption": "\\(\\frac32\\)",
+    "explanation": "\\(e=\\sqrt{1+b^2/a^2}=\\sqrt{1+5/4}=3/2\\)।"
+  },
+  "hsc-higher-math-2nd-paper-tier-a-set-03-q11": {
+    "correctOption": "\\(-\\frac{\\pi}{6}\\)",
+    "explanation": "\\(\\sin^{-1}x\\)-এর range \\([-\\pi/2,\\pi/2]\\), তাই মান \\(-\\pi/6\\)।"
+  },
+  "hsc-higher-math-2nd-paper-tier-a-set-03-q12": {
+    "correctOption": "\\(\\frac\\pi2\\)",
+    "explanation": "প্রতিটি \\(\\tan^{-1}1=\\pi/4\\); যোগফল \\(\\pi/2\\)।"
+  },
+  "hsc-higher-math-2nd-paper-tier-a-set-03-q13": {
+    "correctOption": "5 m",
+    "explanation": "লব্ধির অবস্থান \\(x=\\frac{5\\times8}{3+5}=5\\) m।"
+  },
+  "hsc-higher-math-2nd-paper-tier-a-set-03-q14": {
+    "correctOption": "\\(\\frac38\\)",
+    "explanation": "\\(\\binom32(1/2)^3=3/8\\)।"
+  },
+  "hsc-higher-math-2nd-paper-tier-a-set-03-q15": {
+    "correctOption": "i, ii ও iii",
+    "explanation": "\\(-i\\) unit circle-এ; চতুর্থ ঘাত \\((-i)^4=1\\)।"
+  },
+  "hsc-higher-math-2nd-paper-tier-a-set-03-q16": {
+    "correctOption": "i, ii ও iii",
+    "explanation": "\\(R_{max}=u^2/g=90\\), angle \\(45^\\circ\\), \\(T=2u\\sin45^\\circ/g=3\\sqrt2\\)।"
+  },
+  "hsc-higher-math-2nd-paper-tier-a-set-03-q17": {
+    "correctOption": "i, ii ও iii",
+    "explanation": "Varignon ও moment equilibrium—দুটিই board repeated concept।"
+  },
+  "hsc-higher-math-2nd-paper-tier-a-set-03-q18": {
+    "correctOption": "i, ii ও iii",
+    "explanation": "cos zero odd multiples of \\(\\pi/2\\); fundamental period \\(2\\pi\\)।"
+  },
+  "hsc-higher-math-2nd-paper-tier-a-set-03-q19": {
+    "correctOption": "i ও ii",
+    "explanation": "Without replacement: \\(P(2nd ace|1st ace)=3/51=1/17\\), দুই ace \\(=4/52\\cdot3/51=1/221\\); স্বাধীন নয়।"
+  },
+  "hsc-higher-math-2nd-paper-tier-a-set-03-q20": {
+    "correctOption": "i ও ii",
+    "explanation": "origin ও \\((2,0)\\) থেকে সমদূরবর্তী বিন্দুর locus হলো \\(x=1\\), origin দিয়ে যায় না।"
+  },
+  "hsc-higher-math-2nd-paper-tier-a-set-03-q21": {
+    "correctOption": "\\(\\frac\\pi3\\)",
+    "explanation": "\\(\\sin^{-1}\\)-এর range \\([-\\pi/2,\\pi/2]\\), তাই মান \\(\\pi/3\\)।"
+  },
+  "hsc-higher-math-2nd-paper-tier-a-set-03-q22": {
+    "correctOption": "\\(-\\omega\\)",
+    "explanation": "\\(1+\\omega=-\\omega^2\\); তাই \\((1+\\omega)^5=-\\omega^{10}=-\\omega\\)।"
+  },
+  "hsc-higher-math-2nd-paper-tier-a-set-03-q23": {
+    "correctOption": "80 m",
+    "explanation": "\\(s=\\frac12gt^2=\\frac12\\cdot10\\cdot16=80\\) m।"
+  },
+  "hsc-higher-math-2nd-paper-tier-a-set-03-q24": {
+    "correctOption": "\\(\\frac{5}{12}\\)",
+    "explanation": "মৌলিক যোগফল 2,3,5,7,11; সংখ্যা \\(1+2+4+6+2=15\\), তাই \\(15/36=5/12\\)।"
+  },
+  "hsc-higher-math-2nd-paper-tier-a-set-03-q25": {
+    "correctOption": "11 N, 3 N",
+    "explanation": "সর্বাধিক \\(P+Q=11\\), সর্বনিম্ন \\(|P-Q|=3\\)।"
+  }
+}

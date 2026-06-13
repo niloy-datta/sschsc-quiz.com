@@ -1,0 +1,239 @@
+{
+  "set_number": 3,
+  "questions": [
+    {
+      "question_no": 1,
+      "stem": "উদ্দীপক: একটি বৃত্তের সমীকরণ $x^2 + y^2 - 2x - 4y - 4 = 0$ এবং একটি সরলরেখা $x + y - 1 = 0$।",
+      "question": "বৃত্তটির কেন্দ্র কোনটি?",
+      "options": { "ক": "$(1, 2)$", "খ": "$(-1, -2)$", "গ": "$(2, 4)$", "ঘ": "$(1, -2)$" },
+      "correct_option": "ক",
+      "explanation": "$2g = -2 \\Rightarrow g = -1$ এবং $2f = -4 \\Rightarrow f = -2$। কেন্দ্র $(-g, -f) = (1, 2)$।",
+      "topic": "Circle",
+      "probability": "Board Favourite"
+    },
+    {
+      "question_no": 2,
+      "stem": "উদ্দীপক: একটি বৃত্তের সমীকরণ $x^2 + y^2 - 2x - 4y - 4 = 0$ এবং একটি সরলরেখা $x + y - 1 = 0$।",
+      "question": "বৃত্তের কেন্দ্র হতে সরলরেখাটির লম্ব দূরত্ব কত?",
+      "options": { "ক": "$\\sqrt{2}$", "খ": "$2$", "গ": "$\\frac{1}{\\sqrt{2}}$", "ঘ": "$2\\sqrt{2}$" },
+      "correct_option": "ক",
+      "explanation": "কেন্দ্র $(1,2)$ হতে $x+y-1=0$ এর দূরত্ব $\\frac{|1+2-1|}{\\sqrt{1^2+1^2}} = \\frac{2}{\\sqrt{2}} = \\sqrt{2}$।",
+      "topic": "Straight Line",
+      "probability": "Mega Hot"
+    },
+    {
+      "question_no": 3,
+      "stem": "উদ্দীপক: দুটি ম্যাট্রিক্স $P = \\begin{pmatrix} 1 & 2 \\\\ 3 & 4 \\end{pmatrix}$ এবং $Q = \\begin{pmatrix} 0 & 1 \\\\ 1 & 0 \\end{pmatrix}$।",
+      "question": "$|PQ|$ এর মান কত?",
+      "options": { "ক": "$2$", "খ": "$-2$", "গ": "$4$", "ঘ": "$-4$" },
+      "correct_option": "ক",
+      "explanation": "$|PQ| = |P||Q|$। এখানে $|P| = 4-6 = -2$ এবং $|Q| = 0-1 = -1$। সুতরাং $(-2)(-1) = 2$।",
+      "topic": "Matrix",
+      "probability": "Very Hot"
+    },
+    {
+      "question_no": 4,
+      "stem": "উদ্দীপক: দুটি ম্যাট্রিক্স $P = \\begin{pmatrix} 1 & 2 \\\\ 3 & 4 \\end{pmatrix}$ এবং $Q = \\begin{pmatrix} 0 & 1 \\\\ 1 & 0 \\end{pmatrix}$।",
+      "question": "$P^{-1}$ ম্যাট্রিক্স কোনটি?",
+      "options": {
+        "ক": "$-\\frac{1}{2}\\begin{pmatrix} 4 & -2 \\\\ -3 & 1 \\end{pmatrix}$",
+        "খ": "$\\frac{1}{2}\\begin{pmatrix} 4 & -2 \\\\ -3 & 1 \\end{pmatrix}$",
+        "গ": "$-\\frac{1}{2}\\begin{pmatrix} 1 & 2 \\\\ 3 & 4 \\end{pmatrix}$",
+        "ঘ": "$\\begin{pmatrix} 4 & -2 \\\\ -3 & 1 \\end{pmatrix}$"
+      },
+      "correct_option": "ক",
+      "explanation": "$P^{-1} = \\frac{1}{|P|} \\operatorname{adj}(P) = -\\frac{1}{2} \\begin{pmatrix} 4 & -2 \\\\ -3 & 1 \\end{pmatrix}$।",
+      "topic": "Matrix",
+      "probability": "Mega Hot"
+    },
+    {
+      "question_no": 5,
+      "question": "$\\int x e^x \\, dx$ এর মান কত?",
+      "options": { "ক": "$e^x(x-1) + c$", "খ": "$e^x(x+1) + c$", "গ": "$xe^x + c$", "ঘ": "$e^x + c$" },
+      "correct_option": "ক",
+      "explanation": "Integration by parts (UV method) ব্যবহার করে $\\int x e^x dx = x e^x - \\int e^x dx = e^x(x-1) + c$।",
+      "topic": "Integral Calculus",
+      "probability": "Board Favourite"
+    },
+    {
+      "question_no": 6,
+      "question": "৫ জন ব্যক্তিকে একটি গোলাকার টেবিলে কত প্রকারে বসানো যায়?",
+      "options": { "ক": "$120$", "খ": "$24$", "গ": "$60$", "ঘ": "$12$" },
+      "correct_option": "খ",
+      "explanation": "$n$ জনকে চক্রাকারে সাজানোর উপায় $(n-1)!$। এখানে $(5-1)! = 4! = 24$।",
+      "topic": "Permutation and Combination",
+      "probability": "Mega Hot Shortcut"
+    },
+    {
+      "question_no": 7,
+      "question": "$\\sin x = \\frac{1}{2}$ হলে এর মুখ্য মান (Principal value) কোনটি?",
+      "options": { "ক": "$\\frac{\\pi}{6}$", "খ": "$\\frac{\\pi}{3}$", "গ": "$\\frac{\\pi}{4}$", "ঘ": "$\\frac{\\pi}{2}$" },
+      "correct_option": "ক",
+      "explanation": "প্রথম চতুর্ভাগে $\\sin(30^\\circ) = 1/2$, তাই মুখ্য মান $\\frac{\\pi}{6}$।",
+      "topic": "Trigonometry",
+      "probability": "Board Favourite"
+    },
+    {
+      "question_no": 8,
+      "question": "$\\frac{d}{dx}(a^x)$ এর মান কোনটি?",
+      "options": { "ক": "$a^x \\ln a$", "খ": "$\\frac{a^x}{\\ln a}$", "গ": "$a^x$", "ঘ": "$x a^{x-1}$" },
+      "correct_option": "ক",
+      "explanation": "এটি সূচকীয় ফাংশনের সরাসরি অন্তরীকরণ সূত্র। $y=a^x \\Rightarrow \\ln y = x\\ln a \\Rightarrow \\frac{1}{y}y' = \\ln a \\Rightarrow y' = a^x \\ln a$।",
+      "topic": "Differential Calculus",
+      "probability": "Board Favourite"
+    },
+    {
+      "question_no": 9,
+      "question": "$(0,0)$, $(3,0)$ এবং $(0,4)$ শীর্ষবিশিষ্ট ত্রিভুজের ক্ষেত্রফল কত?",
+      "options": { "ক": "$6$", "খ": "$12$", "গ": "$7$", "ঘ": "$5$" },
+      "correct_option": "ক",
+      "explanation": "এটি একটি সমকোণী ত্রিভুজ যার ভূমি ৩ এবং লম্ব ৪। ক্ষেত্রফল $\\frac{1}{2} \\times 3 \\times 4 = 6$।",
+      "topic": "Straight Line",
+      "probability": "Very Hot"
+    },
+    {
+      "question_no": 10,
+      "question": "মূলবিন্দু কেন্দ্র এবং $5$ একক ব্যাসার্ধ বিশিষ্ট বৃত্তের সমীকরণ কোনটি?",
+      "options": { "ক": "$x^2 + y^2 = 25$", "খ": "$x^2 + y^2 = 5$", "গ": "$x^2 + y^2 = 10$", "ঘ": "$x^2 + y^2 = 125$" },
+      "correct_option": "ক",
+      "explanation": "আদর্শ সমীকরণ $x^2 + y^2 = r^2$। এখানে $r=5$, তাই $x^2 + y^2 = 25$।",
+      "topic": "Circle",
+      "probability": "Board Favourite"
+    },
+    {
+      "question_no": 11,
+      "question": "$\\hat{j} + \\hat{k}$ এর উপর $\\hat{i} + \\hat{j}$ এর লম্ব অভিক্ষেপ কত?",
+      "options": { "ক": "$\\frac{1}{\\sqrt{2}}$", "খ": "$\\sqrt{2}$", "গ": "$1$", "ঘ": "$0$" },
+      "correct_option": "ক",
+      "explanation": "$\\vec{B}$ এর উপর $\\vec{A}$ এর অভিক্ষেপ $= \\frac{\\vec{A} \\cdot \\vec{B}}{|\\vec{B}|} = \\frac{(\\hat{i}+\\hat{j}) \\cdot (\\hat{j}+\\hat{k})}{\\sqrt{1^2+1^2}} = \\frac{1}{\\sqrt{2}}$।",
+      "topic": "Vector",
+      "probability": "Mega Hot"
+    },
+    {
+      "question_no": 12,
+      "question": "'DAUGHTER' শব্দটির স্বরবর্ণগুলো একত্রে না রেখে কতভাবে সাজানো যায়?",
+      "options": { "ক": "$36000$", "খ": "$4320$", "গ": "$40320$", "ঘ": "$720$" },
+      "correct_option": "ক",
+      "explanation": "মোট বিন্যাস $8! = 40320$। স্বরবর্ণ (A,U,E) একত্রে রেখে বিন্যাস $6! \\times 3! = 4320$। একত্রে না রেখে = $40320 - 4320 = 36000$।",
+      "topic": "Permutation and Combination",
+      "probability": "Conceptual Trap"
+    },
+    {
+      "question_no": 13,
+      "question": "$\\lim_{x \\to 0} \\frac{\\sin 5x}{\\sin 2x}$ এর মান কত?",
+      "options": { "ক": "$\\frac{5}{2}$", "খ": "$\\frac{2}{5}$", "গ": "$5$", "ঘ": "$2$" },
+      "correct_option": "ক",
+      "explanation": "শর্টকাট সূত্র: $\\lim_{x \\to 0} \\frac{\\sin ax}{\\sin bx} = \\frac{a}{b}$। তাই উত্তর $\\frac{5}{2}$।",
+      "topic": "Differential Calculus",
+      "probability": "Mega Hot Shortcut"
+    },
+    {
+      "question_no": 14,
+      "question": "$3x + 4y - 5 = 0$ রেখার ওপর লম্ব ভেক্টর কোনটি?",
+      "options": { "ক": "$3\\hat{i} + 4\\hat{j}$", "খ": "$4\\hat{i} - 3\\hat{j}$", "গ": "$3\\hat{i} - 4\\hat{j}$", "ঘ": "$4\\hat{i} + 3\\hat{j}$" },
+      "correct_option": "ক",
+      "explanation": "রেখাটির সমীকরণকে $x \\cdot 3 + y \\cdot 4 = 5$ ধরলে এর লম্ব (Normal) ভেক্টর হয় $3\\hat{i} + 4\\hat{j}$।",
+      "topic": "Straight Line",
+      "probability": "Conceptual Trap"
+    },
+    {
+      "question_no": 15,
+      "question": "ক্যালকুলাসের ক্ষেত্রে—\ni. $\\frac{d}{dx}(\\sin^{-1} x) = \\frac{1}{\\sqrt{1-x^2}}$\nii. $\\frac{d}{dx}(\\tan^{-1} x) = \\frac{1}{1+x^2}$\niii. $\\frac{d}{dx}(\\sec^{-1} x) = \\frac{1}{x\\sqrt{x^2-1}}$\n\nনিচের কোনটি সঠিক?",
+      "options": { "ক": "i ও ii", "খ": "i ও iii", "গ": "ii ও iii", "ঘ": "i, ii ও iii" },
+      "correct_option": "ঘ",
+      "explanation": "বিপরীত ত্রিকোণমিতিক ফাংশনের অন্তরীকরণের তিনটি সূত্রই সঠিক।",
+      "topic": "Differential Calculus",
+      "probability": "Board Favourite"
+    },
+    {
+      "question_no": 16,
+      "question": "ভেক্টরের ক্ষেত্রে—\ni. $\\vec{a} \\cdot \\vec{a} = |\\vec{a}|^2$\nii. $\\vec{a} \\times \\vec{a} = 0$\niii. $\\hat{i} \\cdot \\hat{j} = 0$\n\nনিচের কোনটি সঠিক?",
+      "options": { "ক": "i ও ii", "খ": "i ও iii", "গ": "ii ও iii", "ঘ": "i, ii ও iii" },
+      "correct_option": "ঘ",
+      "explanation": "ডট ও ক্রস গুণনের এই মৌলিক ধর্মগুলো সবসময় সত্য।",
+      "topic": "Vector",
+      "probability": "Very Hot"
+    },
+    {
+      "question_no": 17,
+      "question": "ম্যাট্রিক্সের প্রকারভেদের ক্ষেত্রে—\ni. শূন্য ম্যাট্রিক্সের সব উপাদান ০\nii. অভেদক ম্যাট্রিক্স সর্বদা বর্গ ম্যাট্রিক্স\niii. স্কেলার ম্যাট্রিক্স এক প্রকার কর্ণ ম্যাট্রিক্স\n\nনিচের কোনটি সঠিক?",
+      "options": { "ক": "i ও ii", "খ": "i ও iii", "গ": "ii ও iii", "ঘ": "i, ii ও iii" },
+      "correct_option": "ঘ",
+      "explanation": "ম্যাট্রিক্সের সংজ্ঞানুসারে তিনটি তথ্যই সঠিক।",
+      "topic": "Matrix",
+      "probability": "Board Favourite"
+    },
+    {
+      "question_no": 18,
+      "question": "বৃত্ত $x^2 + y^2 + 2gx + 2fy + c = 0$ এর ক্ষেত্রে—\ni. কেন্দ্র $(-g, -f)$\nii. ব্যাসার্ধ $\\sqrt{g^2+f^2-c}$\niii. $x$-অক্ষকে স্পর্শ করলে $g^2 = c$\n\nনিচের কোনটি সঠিক?",
+      "options": { "ক": "i ও ii", "খ": "i ও iii", "গ": "ii ও iii", "ঘ": "i, ii ও iii" },
+      "correct_option": "ঘ",
+      "explanation": "বৃত্তের সাধারণ সমীকরণ ও স্পর্শকের শর্ত অনুযায়ী সবকটি উক্তি সত্য।",
+      "topic": "Circle",
+      "probability": "Mega Hot"
+    },
+    {
+      "question_no": 19,
+      "question": "সমাবেশের ক্ষেত্রে—\ni. ${}^nC_0 = 1$\nii. ${}^nC_n = 1$\niii. ${}^nC_r = {}^nC_{n-r}$\n\nনিচের কোনটি সঠিক?",
+      "options": { "ক": "i ও ii", "খ": "i ও iii", "গ": "ii ও iii", "ঘ": "i, ii ও iii" },
+      "correct_option": "ঘ",
+      "explanation": "সমাবেশের গাণিতিক ধর্ম অনুযায়ী তিনটিই সঠিক সূত্র।",
+      "topic": "Permutation and Combination",
+      "probability": "Board Favourite"
+    },
+    {
+      "question_no": 20,
+      "question": "ত্রিকোণমিতির ক্ষেত্রে—\ni. $\\sin 3A = 3\\sin A - 4\\sin^3 A$\nii. $\\cos 3A = 4\\cos^3 A - 3\\cos A$\niii. $\\tan 3A = \\frac{3\\tan A - \\tan^3 A}{1 - 3\\tan^2 A}$\n\nনিচের কোনটি সঠিক?",
+      "options": { "ক": "i ও ii", "খ": "i ও iii", "গ": "ii ও iii", "ঘ": "i, ii ও iii" },
+      "correct_option": "ঘ",
+      "explanation": "$3A$ কোণের ত্রিকোণমিতিক অনুপাতের এই তিনটি সূত্রই একদম সঠিক।",
+      "topic": "Trigonometry",
+      "probability": "Very Hot"
+    },
+    {
+      "question_no": 21,
+      "question": "$\\int_0^1 x^2 \\, dx$ এর মান কত?",
+      "options": { "ক": "$\\frac{1}{3}$", "খ": "$\\frac{1}{2}$", "গ": "$1$", "ঘ": "$0$" },
+      "correct_option": "ক",
+      "explanation": "$\\int x^2 dx = \\frac{x^3}{3}$। লিমিট ১ বসালে $\\frac{1}{3}$ হয়।",
+      "topic": "Integral Calculus",
+      "probability": "Mega Hot"
+    },
+    {
+      "question_no": 22,
+      "question": "$x - y = 0$ এবং $x + y = 2$ রেখাদ্বয়ের ছেদবিন্দু কোনটি?",
+      "options": { "ক": "$(1, 1)$", "খ": "$(2, 0)$", "গ": "$(0, 2)$", "ঘ": "$(0, 0)$" },
+      "correct_option": "ক",
+      "explanation": "$x = y$ এবং $x+x = 2 \\Rightarrow 2x = 2 \\Rightarrow x=1, y=1$।",
+      "topic": "Straight Line",
+      "probability": "Board Favourite"
+    },
+    {
+      "question_no": 23,
+      "question": "$\\lim_{x \\to 0} (1+x)^{\\frac{1}{x}}$ এর মান কত?",
+      "options": { "ক": "$e$", "খ": "$1$", "গ": "$0$", "ঘ": "$\\infty$" },
+      "correct_option": "ক",
+      "explanation": "এটি লিমিটের সূচকীয় ফাংশনের একটি প্রমিত (Standard) সূত্র। মান সর্বদা $e$।",
+      "topic": "Differential Calculus",
+      "probability": "Mega Hot Trap"
+    },
+    {
+      "question_no": 24,
+      "question": "$\\frac{d^2}{dx^2}(x^3)$ এর মান কত?",
+      "options": { "ক": "$6x$", "খ": "$3x^2$", "গ": "$6$", "ঘ": "$x$" },
+      "correct_option": "ক",
+      "explanation": "প্রথমবার অন্তরীকরণ করলে $3x^2$। দ্বিতীয়বার করলে $6x$।",
+      "topic": "Differential Calculus",
+      "probability": "Board Favourite"
+    },
+    {
+      "question_no": 25,
+      "question": "$y = x^2$ বক্ররেখা, $x$-অক্ষ এবং $x = 1$ ও $x = 2$ রেখা দ্বারা আবদ্ধ ক্ষেত্রের ক্ষেত্রফল কত?",
+      "options": { "ক": "$\\frac{7}{3}$", "খ": "$\\frac{8}{3}$", "গ": "$1$", "ঘ": "$3$" },
+      "correct_option": "ক",
+      "explanation": "ক্ষেত্রফল $= \\int_1^2 x^2 dx = \\left[\\frac{x^3}{3}\\right]_1^2 = \\frac{8}{3} - \\frac{1}{3} = \\frac{7}{3}$ বর্গ একক।",
+      "topic": "Integral Calculus",
+      "probability": "Mega Hot Trap"
+    }
+  ]
+}

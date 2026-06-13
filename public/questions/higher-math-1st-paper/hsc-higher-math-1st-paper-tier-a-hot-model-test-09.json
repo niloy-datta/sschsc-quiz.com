@@ -1,0 +1,352 @@
+[
+  {
+    "id": "hsc-higher-math-1st-paper-tier-a-set-09-q01",
+    "subject": "higher-math-1st-paper",
+    "chapter": "hsc-higher-math-1st-paper-tier-a-hot-model-test-09",
+    "text": "[উদ্দীপক ১]\nউদ্দীপক ১: y=sinx+cosx।\n\ndy/dx কত?",
+    "options": [
+      "cosx-sinx",
+      "cosx+sinx",
+      "-cosx-sinx",
+      "sinx-cosx"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-higher-math-1st-paper-tier-a-set-09-q02",
+    "subject": "higher-math-1st-paper",
+    "chapter": "hsc-higher-math-1st-paper-tier-a-hot-model-test-09",
+    "text": "[উদ্দীপক ১]\nউদ্দীপক ১: y=sinx+cosx।\n\nx=π/4 হলে স্পর্শকের ঢাল কত?",
+    "options": [
+      "0",
+      "1",
+      "√2",
+      "-1"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-higher-math-1st-paper-tier-a-set-09-q03",
+    "subject": "higher-math-1st-paper",
+    "chapter": "hsc-higher-math-1st-paper-tier-a-hot-model-test-09",
+    "text": "[উদ্দীপক ২]\nউদ্দীপক ২: A = [[1,2],[2,4]]।\n\n|A| এর মান কত?",
+    "options": [
+      "0",
+      "1",
+      "4",
+      "8"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-higher-math-1st-paper-tier-a-set-09-q04",
+    "subject": "higher-math-1st-paper",
+    "chapter": "hsc-higher-math-1st-paper-tier-a-hot-model-test-09",
+    "text": "[উদ্দীপক ২]\nউদ্দীপক ২: A = [[1,2],[2,4]]।\n\nA^{-1} সম্পর্কে কোনটি সঠিক?",
+    "options": [
+      "আছে",
+      "নেই",
+      "A নিজেই inverse",
+      "identity matrix"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-higher-math-1st-paper-tier-a-set-09-q05",
+    "subject": "higher-math-1st-paper",
+    "chapter": "hsc-higher-math-1st-paper-tier-a-hot-model-test-09",
+    "text": "|[[0,1],[-1,0]]| এর মান কত?",
+    "options": [
+      "-1",
+      "0",
+      "1",
+      "2"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-higher-math-1st-paper-tier-a-set-09-q06",
+    "subject": "higher-math-1st-paper",
+    "chapter": "hsc-higher-math-1st-paper-tier-a-hot-model-test-09",
+    "text": "i ও j উভয়ের লম্ব একক ভেক্টর কোনটি?",
+    "options": [
+      "i",
+      "j",
+      "k",
+      "i+j"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-higher-math-1st-paper-tier-a-set-09-q07",
+    "subject": "higher-math-1st-paper",
+    "chapter": "hsc-higher-math-1st-paper-tier-a-hot-model-test-09",
+    "text": "(2,3) বিন্দু থেকে y=3 রেখার দূরত্ব কত?",
+    "options": [
+      "0",
+      "1",
+      "2",
+      "3"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-higher-math-1st-paper-tier-a-set-09-q08",
+    "subject": "higher-math-1st-paper",
+    "chapter": "hsc-higher-math-1st-paper-tier-a-hot-model-test-09",
+    "text": "x²+y²+8x-6y=0 বৃত্তের কেন্দ্র ও ব্যাসার্ধ কোনটি?",
+    "options": [
+      "(-4,3),5",
+      "(4,-3),5",
+      "(-4,-3),5",
+      "(4,3),25"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-higher-math-1st-paper-tier-a-set-09-q09",
+    "subject": "higher-math-1st-paper",
+    "chapter": "hsc-higher-math-1st-paper-tier-a-hot-model-test-09",
+    "text": "1,2,3,4 অঙ্ক দিয়ে repetition ছাড়া চার অঙ্কের সংখ্যা কত?",
+    "options": [
+      "12",
+      "16",
+      "24",
+      "64"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-higher-math-1st-paper-tier-a-set-09-q10",
+    "subject": "higher-math-1st-paper",
+    "chapter": "hsc-higher-math-1st-paper-tier-a-hot-model-test-09",
+    "text": "5টি বস্তু থেকে অন্তত 1টি নির্বাচন করার উপায় কত?",
+    "options": [
+      "15",
+      "31",
+      "32",
+      "120"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-higher-math-1st-paper-tier-a-set-09-q11",
+    "subject": "higher-math-1st-paper",
+    "chapter": "hsc-higher-math-1st-paper-tier-a-hot-model-test-09",
+    "text": "0≤θ<π এবং tanθ=1 হলে θ কত?",
+    "options": [
+      "π/4",
+      "π/2",
+      "3π/4",
+      "π"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-higher-math-1st-paper-tier-a-set-09-q12",
+    "subject": "higher-math-1st-paper",
+    "chapter": "hsc-higher-math-1st-paper-tier-a-hot-model-test-09",
+    "text": "d/dx[x^x] কত?",
+    "options": [
+      "x^x",
+      "x^x(lnx+1)",
+      "xlnx",
+      "x^{x-1}"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-higher-math-1st-paper-tier-a-set-09-q13",
+    "subject": "higher-math-1st-paper",
+    "chapter": "hsc-higher-math-1st-paper-tier-a-hot-model-test-09",
+    "text": "∫lnx dx কত?",
+    "options": [
+      "xlnx-x+C",
+      "lnx+C",
+      "xlnx+C",
+      "1/x+C"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-higher-math-1st-paper-tier-a-set-09-q14",
+    "subject": "higher-math-1st-paper",
+    "chapter": "hsc-higher-math-1st-paper-tier-a-hot-model-test-09",
+    "text": "log₄2 এর মান কত?",
+    "options": [
+      "1/2",
+      "2",
+      "4",
+      "0"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-higher-math-1st-paper-tier-a-set-09-q15",
+    "subject": "higher-math-1st-paper",
+    "chapter": "hsc-higher-math-1st-paper-tier-a-hot-model-test-09",
+    "text": "[i,ii,iii] determinant ও ক্ষেত্রফল—\ni. দুটি vector-এর determinant plane area দিতে পারে\nii. row proportional হলে determinant 0\niii. determinant সবসময় ধনাত্মক\nনিচের কোনটি সঠিক?",
+    "options": [
+      "i ও ii",
+      "i ও iii",
+      "ii ও iii",
+      "i, ii ও iii"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-higher-math-1st-paper-tier-a-set-09-q16",
+    "subject": "higher-math-1st-paper",
+    "chapter": "hsc-higher-math-1st-paper-tier-a-hot-model-test-09",
+    "text": "[i,ii,iii] Projection সম্পর্কে—\ni. scalar projection = a·b/|b|\nii. vector projection b-এর দিকে হয়\niii. a·b=0 হলে projection zero\nনিচের কোনটি সঠিক?",
+    "options": [
+      "i ও ii",
+      "i ও iii",
+      "ii ও iii",
+      "i, ii ও iii"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-higher-math-1st-paper-tier-a-set-09-q17",
+    "subject": "higher-math-1st-paper",
+    "chapter": "hsc-higher-math-1st-paper-tier-a-hot-model-test-09",
+    "text": "[i,ii,iii] সরলরেখা সম্পর্কে—\ni. y=mx+c রেখার slope m\nii. x=a রেখার slope undefined\niii. y=b রেখার slope 0\nনিচের কোনটি সঠিক?",
+    "options": [
+      "i ও ii",
+      "i ও iii",
+      "ii ও iii",
+      "i, ii ও iii"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-higher-math-1st-paper-tier-a-set-09-q18",
+    "subject": "higher-math-1st-paper",
+    "chapter": "hsc-higher-math-1st-paper-tier-a-hot-model-test-09",
+    "text": "[i,ii,iii] বৃত্তের general equation—\ni. x² ও y²-এর coefficient সমান\nii. xy term থাকে না\niii. x² ও y²-এর coefficient বিপরীত হলে বৃত্ত হয়\nনিচের কোনটি সঠিক?",
+    "options": [
+      "i ও ii",
+      "i ও iii",
+      "ii ও iii",
+      "i, ii ও iii"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-higher-math-1st-paper-tier-a-set-09-q19",
+    "subject": "higher-math-1st-paper",
+    "chapter": "hsc-higher-math-1st-paper-tier-a-hot-model-test-09",
+    "text": "[i,ii,iii] Differentiation rules—\ni. d(u+v)/dx=u'+v'\nii. d(ku)/dx=ku'\niii. d(uv)/dx=u'v'\nনিচের কোনটি সঠিক?",
+    "options": [
+      "i ও ii",
+      "i ও iii",
+      "ii ও iii",
+      "i, ii ও iii"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-higher-math-1st-paper-tier-a-set-09-q20",
+    "subject": "higher-math-1st-paper",
+    "chapter": "hsc-higher-math-1st-paper-tier-a-hot-model-test-09",
+    "text": "[i,ii,iii] Integration rules—\ni. ∫a^x dx=a^x/lna+C\nii. ∫1/x dx=ln|x|+C\niii. ∫0 dx=C\nনিচের কোনটি সঠিক?",
+    "options": [
+      "i ও ii",
+      "i ও iii",
+      "ii ও iii",
+      "i, ii ও iii"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-higher-math-1st-paper-tier-a-set-09-q21",
+    "subject": "higher-math-1st-paper",
+    "chapter": "hsc-higher-math-1st-paper-tier-a-hot-model-test-09",
+    "text": "[Final Trap] log(x+y) সাধারণভাবে—",
+    "options": [
+      "logx+logy",
+      "logx-logy",
+      "logxy",
+      "উপরোক্ত কোনোটিই নয়"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-higher-math-1st-paper-tier-a-set-09-q22",
+    "subject": "higher-math-1st-paper",
+    "chapter": "hsc-higher-math-1st-paper-tier-a-hot-model-test-09",
+    "text": "[Final Trap] sin(A+B) সাধারণভাবে sinA+sinB কি?",
+    "options": [
+      "হ্যাঁ",
+      "না",
+      "শুধু A=B হলে",
+      "শুধু A=0 হলে"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-higher-math-1st-paper-tier-a-set-09-q23",
+    "subject": "higher-math-1st-paper",
+    "chapter": "hsc-higher-math-1st-paper-tier-a-hot-model-test-09",
+    "text": "[Final Trap] singular matrix-এর determinant—",
+    "options": [
+      "0",
+      "1",
+      "-1",
+      "undefined"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-higher-math-1st-paper-tier-a-set-09-q24",
+    "subject": "higher-math-1st-paper",
+    "chapter": "hsc-higher-math-1st-paper-tier-a-hot-model-test-09",
+    "text": "[Final Trap] শূন্য ভেক্টরের দিক—",
+    "options": [
+      "i বরাবর",
+      "j বরাবর",
+      "নির্দিষ্ট নয়",
+      "k বরাবর"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-higher-math-1st-paper-tier-a-set-09-q25",
+    "subject": "higher-math-1st-paper",
+    "chapter": "hsc-higher-math-1st-paper-tier-a-hot-model-test-09",
+    "text": "[Final Trap] nP₀ এর মান কত?",
+    "options": [
+      "0",
+      "1",
+      "n",
+      "n!"
+    ],
+    "image": null,
+    "timeLimit": 45
+  }
+]

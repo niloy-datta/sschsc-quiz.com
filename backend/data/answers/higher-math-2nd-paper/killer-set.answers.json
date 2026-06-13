@@ -1,0 +1,51 @@
+{
+  "higher-math-2nd-paper-hsc-science-higher-math-2nd-paper-suggestions-killer-set-ts-0": {
+    "answer": "অধিবৃত্ত (Hyperbola)",
+    "answerIndex": 3,
+    "difficulty": 1200,
+    "explanation": "সাধারণ দ্বিঘাত সমীকরণ $ax^2 + 2hxy + by^2 + 2gx + 2fy + c = 0$ এর ক্ষেত্রে, $h^2 - ab > 0$ হলে অধিবৃত্ত হয়। এখানে $a=1, b=-1, h=0$। তাই $h^2 - ab = 0 - (1)(-1) = 1 > 0$। সুতরাং এটি একটি অধিবৃত্ত।",
+    "topic": "killer-set"
+  },
+  "higher-math-2nd-paper-hsc-science-higher-math-2nd-paper-suggestions-killer-set-ts-1": {
+    "answer": "$(-2, 0)$",
+    "answerIndex": 1,
+    "difficulty": 1200,
+    "explanation": "সমীকরণটি $y^2 = -4ax$ আকারের। এখানে $4a = 8 \\\\implies a=2$। উপকেন্দ্রের স্থানাঙ্ক $(-a, 0)$ অর্থাৎ $(-2, 0)$।",
+    "topic": "killer-set"
+  },
+  "higher-math-2nd-paper-hsc-science-higher-math-2nd-paper-suggestions-killer-set-ts-2": {
+    "answer": "$y = -3$",
+    "answerIndex": 1,
+    "difficulty": 1200,
+    "explanation": "সমীকরণটি $x^2 = 4ay$ আকারের। এখানে $4a = 12 \\\\implies a=3$। নিয়ামক রেখার সমীকরণ $y = -a$, অর্থাৎ $y = -3$।",
+    "topic": "killer-set"
+  },
+  "higher-math-2nd-paper-hsc-science-higher-math-2nd-paper-suggestions-killer-set-ts-3": {
+    "answer": "$(1, 2)$",
+    "answerIndex": 1,
+    "difficulty": 1200,
+    "explanation": "পরাবৃত্তের সমীকরণকে $Y^2=4aX$ এর সাথে তুলনা করে পাই $X = x-1, Y = y-2$। শীর্ষবিন্দুতে $X=0, Y=0$ হয়। সুতরাং $x-1=0 \\\\implies x=1$ এবং $y-2=0 \\\\implies y=2$। শীর্ষবিন্দু $(1, 2)$।",
+    "topic": "killer-set"
+  },
+  "higher-math-2nd-paper-hsc-science-higher-math-2nd-paper-suggestions-killer-set-ts-4": {
+    "answer": "$a = b$ এবং $a, b > 0$",
+    "answerIndex": 0,
+    "difficulty": 1200,
+    "explanation": "বৃত্ত হলো একটি বিশেষ ধরনের উপবৃত্ত যার প্রধান ও গৌণ অক্ষ সমান ($a=b$)। সমীকরণে $x^2$ ও $y^2$ এর সহগ সমান ও ধনাত্মক হলে তা বৃত্ত হয়।",
+    "topic": "killer-set"
+  },
+  "higher-math-2nd-paper-hsc-science-higher-math-2nd-paper-suggestions-killer-set-ts-5": {
+    "answer": "$(y-4)^2 = 8(x-1)$",
+    "answerIndex": 0,
+    "difficulty": 1200,
+    "explanation": "উপকেন্দ্র ও শীর্ষবিন্দুর y-স্থানাঙ্ক একই (4), তাই অক্ষটি x-অক্ষের সমান্তরাল। শীর্ষ থেকে উপকেন্দ্রের দূরত্ব $a = 3-1=2$। সমীকরণটি $(y-k)^2 = 4a(x-h)$ আকারের। এখানে $(h,k)=(1,4)$ এবং $a=2$। সুতরাং $(y-4)^2 = 4(2)(x-1) = 8(x-1)$।",
+    "topic": "killer-set"
+  },
+  "higher-math-2nd-paper-hsc-science-higher-math-2nd-paper-suggestions-killer-set-ts-6": {
+    "answer": "বৃহৎ অক্ষের দৈর্ঘ্য ($2a$)",
+    "answerIndex": 2,
+    "difficulty": 1200,
+    "explanation": "এটি উপবৃত্তের সংজ্ঞা। উপবৃত্তের উপরিস্থিত যেকোনো বিন্দু থেকে দুটি নির্দিষ্ট উপকেন্দ্রের দূরত্বের যোগফল সর্বদা একটি ধ্রুবক, যা তার বৃহৎ অক্ষের দৈর্ঘ্যের সমান ($PS + PS' = 2a$)।",
+    "topic": "killer-set"
+  }
+}

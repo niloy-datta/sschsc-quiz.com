@@ -1,0 +1,5885 @@
+{
+  "metadata": {
+    "title": "HSC Higher Mathematics 1st Paper - Hyper Mega Hot Board Standard Exclusive Model Test",
+    "subject": "Higher Mathematics 1st Paper",
+    "subject_code": "265",
+    "total_sets": 10,
+    "questions_per_set": 25,
+    "marks": 25,
+    "time_minutes": 25,
+    "language": "Bangla",
+    "note": "Board-pattern based final revision practice set; not a guaranteed prediction. The original uploaded file contained a Physics model-test prompt structure, not a Higher Math question-bank JSON."
+  },
+  "sets": [
+    {
+      "set_no": 1,
+      "title": "সেট ১",
+      "header": {
+        "exam": "এইচএসসি উচ্চতর গণিত ১ম পত্র",
+        "model_test_name": "Hyper Mega Hot Exclusive Model Test",
+        "marks": 25,
+        "subject_code": "265",
+        "time_minutes": 25
+      },
+      "stimuli": [
+        {
+          "stimulus_no": 1,
+          "text": "উদ্দীপক ১: ধরা যাক, A = [[2, 1], [3, 4]] এবং B = [[1, -1], [0, 2]]।",
+          "question_numbers": [
+            1,
+            2
+          ]
+        },
+        {
+          "stimulus_no": 2,
+          "text": "উদ্দীপক ২: একটি সরলরেখা 3x - 4y + 5 = 0 এবং একটি বৃত্ত x² + y² - 6x + 4y - 12 = 0 দেওয়া আছে।",
+          "question_numbers": [
+            3,
+            4
+          ]
+        }
+      ],
+      "questions": [
+        {
+          "question_no": 1,
+          "section": "stimulus_based",
+          "stimulus_no": 1,
+          "question": "|A| এর মান কত?",
+          "options": {
+            "ক": "5",
+            "খ": "8",
+            "গ": "-5",
+            "ঘ": "11"
+          },
+          "correct_answer": "ক) 5",
+          "explanation": "|A| = 2×4 - 1×3 = 5।",
+          "topic": "Matrix & Determinant",
+          "probability": "Mega Hot"
+        },
+        {
+          "question_no": 2,
+          "section": "stimulus_based",
+          "stimulus_no": 1,
+          "question": "AB ম্যাট্রিক্সের (1,2)-তম উপাদান কত?",
+          "options": {
+            "ক": "-2",
+            "খ": "0",
+            "গ": "2",
+            "ঘ": "4"
+          },
+          "correct_answer": "খ) 0",
+          "explanation": "প্রথম সারি ও দ্বিতীয় কলামের গুণফল: 2(-1)+1(2)=0।",
+          "topic": "Matrix Multiplication",
+          "probability": "Board Favourite"
+        },
+        {
+          "question_no": 3,
+          "section": "stimulus_based",
+          "stimulus_no": 2,
+          "question": "মূলবিন্দু থেকে সরলরেখাটির দূরত্ব কত?",
+          "options": {
+            "ক": "1",
+            "খ": "2",
+            "গ": "3",
+            "ঘ": "5"
+          },
+          "correct_answer": "ক) 1",
+          "explanation": "দূরত্ব = |5|/√(3²+(-4)²)=5/5=1।",
+          "topic": "Straight Line",
+          "probability": "Mega Hot"
+        },
+        {
+          "question_no": 4,
+          "section": "stimulus_based",
+          "stimulus_no": 2,
+          "question": "বৃত্তটির কেন্দ্র ও ব্যাসার্ধ কোনটি?",
+          "options": {
+            "ক": "(3,-2), 5",
+            "খ": "(-3,2), 5",
+            "গ": "(3,2), 4",
+            "ঘ": "(-3,-2), 4"
+          },
+          "correct_answer": "ক) (3,-2), 5",
+          "explanation": "x²+y²+2gx+2fy+c=0 থেকে কেন্দ্র (-g,-f)=(3,-2), r=√(9+4+12)=5।",
+          "topic": "Circle",
+          "probability": "Very Hot"
+        },
+        {
+          "question_no": 5,
+          "section": "normal_board_standard_mcq",
+          "question": "[[k, 2], [8, k]] ম্যাট্রিক্সটি singular হলে k-এর মান কত?",
+          "options": {
+            "ক": "±4",
+            "খ": "±2",
+            "গ": "4 মাত্র",
+            "ঘ": "0"
+          },
+          "correct_answer": "ক) ±4",
+          "explanation": "singular হলে determinant = 0, তাই k²-16=0 ⇒ k=±4।",
+          "topic": "Determinant",
+          "probability": "Mega Hot"
+        },
+        {
+          "question_no": 6,
+          "section": "normal_board_standard_mcq",
+          "question": "3i + 4j ভেক্টরের দিকে একক ভেক্টর কোনটি?",
+          "options": {
+            "ক": "(3/5)i+(4/5)j",
+            "খ": "3i+4j",
+            "গ": "(4/5)i+(3/5)j",
+            "ঘ": "(5/3)i+(5/4)j"
+          },
+          "correct_answer": "ক) (3/5)i+(4/5)j",
+          "explanation": "মান = √(3²+4²)=5, তাই একক ভেক্টর = ভেক্টর/মান।",
+          "topic": "Vector",
+          "probability": "Board Favourite"
+        },
+        {
+          "question_no": 7,
+          "section": "normal_board_standard_mcq",
+          "question": "ঢাল 1 ও -1 বিশিষ্ট দুই সরলরেখার মধ্যবর্তী কোণ কত?",
+          "options": {
+            "ক": "0°",
+            "খ": "45°",
+            "গ": "90°",
+            "ঘ": "180°"
+          },
+          "correct_answer": "গ) 90°",
+          "explanation": "m1m2=-1 হলে সরলরেখা দুটি পরস্পর লম্ব।",
+          "topic": "Straight Line",
+          "probability": "Mega Hot"
+        },
+        {
+          "question_no": 8,
+          "section": "normal_board_standard_mcq",
+          "question": "y=x² বক্ররেখার x=2 বিন্দুতে স্পর্শকের ঢাল কত?",
+          "options": {
+            "ক": "2",
+            "খ": "4",
+            "গ": "6",
+            "ঘ": "8"
+          },
+          "correct_answer": "খ) 4",
+          "explanation": "dy/dx=2x, তাই x=2 হলে ঢাল 4।",
+          "topic": "Differential Calculus",
+          "probability": "Mega Hot"
+        },
+        {
+          "question_no": 9,
+          "section": "normal_board_standard_mcq",
+          "question": "∫(3x²+2x) dx এর মান কত?",
+          "options": {
+            "ক": "x³+x²+C",
+            "খ": "3x³+x²+C",
+            "গ": "x²+x+C",
+            "ঘ": "6x+2+C"
+          },
+          "correct_answer": "ক) x³+x²+C",
+          "explanation": "প্রতিটি পদের আলাদা সমাকলন করলে x³+x²+C।",
+          "topic": "Integral Calculus",
+          "probability": "Very Hot"
+        },
+        {
+          "question_no": 10,
+          "section": "normal_board_standard_mcq",
+          "question": "log₂8 এর মান কত?",
+          "options": {
+            "ক": "2",
+            "খ": "3",
+            "গ": "4",
+            "ঘ": "8"
+          },
+          "correct_answer": "খ) 3",
+          "explanation": "2³=8, তাই log₂8=3।",
+          "topic": "Logarithm",
+          "probability": "Board Favourite"
+        },
+        {
+          "question_no": 11,
+          "section": "normal_board_standard_mcq",
+          "question": "⁵C₂ এর মান কত?",
+          "options": {
+            "ক": "5",
+            "খ": "10",
+            "গ": "20",
+            "ঘ": "60"
+          },
+          "correct_answer": "খ) 10",
+          "explanation": "⁵C₂=5!/(2!3!)=10।",
+          "topic": "Combination",
+          "probability": "Mega Hot"
+        },
+        {
+          "question_no": 12,
+          "section": "normal_board_standard_mcq",
+          "question": "sin²θ + cos²θ এর মান কত?",
+          "options": {
+            "ক": "0",
+            "খ": "1",
+            "গ": "2",
+            "ঘ": "tanθ"
+          },
+          "correct_answer": "খ) 1",
+          "explanation": "এটি মৌলিক ত্রিকোণমিতিক অভেদ।",
+          "topic": "Trigonometry",
+          "probability": "Board Favourite"
+        },
+        {
+          "question_no": 13,
+          "section": "normal_board_standard_mcq",
+          "question": "(2,3) বিন্দু দিয়ে অতিক্রান্ত এবং ঢাল 4 বিশিষ্ট সরলরেখার সমীকরণ কোনটি?",
+          "options": {
+            "ক": "y-3=4(x-2)",
+            "খ": "y+3=4(x+2)",
+            "গ": "y-2=4(x-3)",
+            "ঘ": "x-3=4(y-2)"
+          },
+          "correct_answer": "ক) y-3=4(x-2)",
+          "explanation": "বিন্দু-ঢাল রূপ: y-y1=m(x-x1)।",
+          "topic": "Straight Line",
+          "probability": "Very Hot"
+        },
+        {
+          "question_no": 14,
+          "section": "normal_board_standard_mcq",
+          "question": "x²+y²=25 বৃত্তের (3,4) বিন্দুতে স্পর্শকের সমীকরণ কোনটি?",
+          "options": {
+            "ক": "3x+4y=25",
+            "খ": "4x+3y=25",
+            "গ": "3x-4y=25",
+            "ঘ": "x+y=25"
+          },
+          "correct_answer": "ক) 3x+4y=25",
+          "explanation": "x²+y²=a² বৃত্তে (x1,y1)-এ স্পর্শক xx1+yy1=a²।",
+          "topic": "Circle",
+          "probability": "Mega Hot"
+        },
+        {
+          "question_no": 15,
+          "section": "analytical_i_ii_iii",
+          "question": "A বর্গ ম্যাট্রিক্সের inverse সম্পর্কে—\ni. |A|≠0 হলে inverse থাকে\nii. A^{-1}=adj(A)/|A|\niii. singular ম্যাট্রিক্সের inverse থাকে না\nনিচের কোনটি সঠিক?",
+          "options": {
+            "ক": "i ও ii",
+            "খ": "i ও iii",
+            "গ": "ii ও iii",
+            "ঘ": "i, ii ও iii"
+          },
+          "correct_answer": "ঘ) i, ii ও iii",
+          "explanation": "inverse থাকার প্রয়োজনীয় ও যথেষ্ট শর্ত determinant অশূন্য হওয়া।",
+          "topic": "Matrix",
+          "probability": "Mega Hot"
+        },
+        {
+          "question_no": 16,
+          "section": "analytical_i_ii_iii",
+          "question": "দুই ভেক্টর a ও b এর scalar product সম্পর্কে—\ni. a·b=|a||b|cosθ\nii. a·b=0 হলে অশূন্য ভেক্টরদ্বয় লম্ব\niii. a·b=b·a\nনিচের কোনটি সঠিক?",
+          "options": {
+            "ক": "i ও ii",
+            "খ": "i ও iii",
+            "গ": "ii ও iii",
+            "ঘ": "i, ii ও iii"
+          },
+          "correct_answer": "ঘ) i, ii ও iii",
+          "explanation": "dot product commutative এবং কোণের cosine নির্ভর।",
+          "topic": "Vector",
+          "probability": "Board Favourite"
+        },
+        {
+          "question_no": 17,
+          "section": "analytical_i_ii_iii",
+          "question": "অন্তরীকরণ সম্পর্কে—\ni. differentiable হলে continuous\nii. continuous হলেই সর্বদা differentiable\niii. d(xⁿ)/dx = nxⁿ⁻¹\nনিচের কোনটি সঠিক?",
+          "options": {
+            "ক": "i ও ii",
+            "খ": "i ও iii",
+            "গ": "ii ও iii",
+            "ঘ": "i, ii ও iii"
+          },
+          "correct_answer": "খ) i ও iii",
+          "explanation": "continuous হলেও কোণ/তীক্ষ্ণ বিন্দুতে differentiable নাও হতে পারে।",
+          "topic": "Differential Calculus",
+          "probability": "Conceptual Trap"
+        },
+        {
+          "question_no": 18,
+          "section": "analytical_i_ii_iii",
+          "question": "Permutation ও Combination সম্পর্কে—\ni. permutation-এ বিন্যাসের ক্রম গুরুত্বপূর্ণ\nii. combination-এ নির্বাচনের ক্রম গুরুত্বপূর্ণ নয়\niii. nPᵣ = r! × nCᵣ\nনিচের কোনটি সঠিক?",
+          "options": {
+            "ক": "i ও ii",
+            "খ": "i ও iii",
+            "গ": "ii ও iii",
+            "ঘ": "i, ii ও iii"
+          },
+          "correct_answer": "ঘ) i, ii ও iii",
+          "explanation": "nPᵣ ও nCᵣ-এর মৌলিক সম্পর্ক nPᵣ=r!nCᵣ।",
+          "topic": "Permutation & Combination",
+          "probability": "Mega Hot"
+        },
+        {
+          "question_no": 19,
+          "section": "analytical_i_ii_iii",
+          "question": "ত্রিকোণমিতিক সমীকরণ সম্পর্কে—\ni. sinθ=0 হলে θ=nπ\nii. cosθ=0 হলে θ=(2n+1)π/2\niii. tanθ=0 হলে θ=nπ\nনিচের কোনটি সঠিক?",
+          "options": {
+            "ক": "i ও ii",
+            "খ": "i ও iii",
+            "গ": "ii ও iii",
+            "ঘ": "i, ii ও iii"
+          },
+          "correct_answer": "ঘ) i, ii ও iii",
+          "explanation": "এগুলো সাধারণ সমাধানের board-favourite pattern।",
+          "topic": "Trigonometric Equation",
+          "probability": "Very Hot"
+        },
+        {
+          "question_no": 20,
+          "section": "analytical_i_ii_iii",
+          "question": "নির্দিষ্ট সমাকলনের ক্ষেত্রে—\ni. ∫ₐᵃ f(x)dx=0\nii. ∫ₐᵇ f(x)dx = -∫ᵦₐ f(x)dx\niii. ∫₀ᵃ f(x)dx সবসময় 0\nনিচের কোনটি সঠিক?",
+          "options": {
+            "ক": "i ও ii",
+            "খ": "i ও iii",
+            "গ": "ii ও iii",
+            "ঘ": "i, ii ও iii"
+          },
+          "correct_answer": "ক) i ও ii",
+          "explanation": "তৃতীয়টি সাধারণভাবে সত্য নয়।",
+          "topic": "Definite Integral",
+          "probability": "Conceptual Trap"
+        },
+        {
+          "question_no": 21,
+          "section": "final_trap_questions",
+          "question": "determinant-এর দুটি সারি পরস্পর বিনিময় করলে determinant—",
+          "options": {
+            "ক": "অপরিবর্তিত থাকে",
+            "খ": "চিহ্ন পরিবর্তন করে",
+            "গ": "শূন্য হয়",
+            "ঘ": "দ্বিগুণ হয়"
+          },
+          "correct_answer": "খ) চিহ্ন পরিবর্তন করে",
+          "explanation": "সারি/কলাম বিনিময়ে determinant-এর sign বদলায়।",
+          "topic": "Determinant Property",
+          "probability": "Board Favourite"
+        },
+        {
+          "question_no": 22,
+          "section": "final_trap_questions",
+          "question": "x-অক্ষের সমান্তরাল সরলরেখার ঢাল কত?",
+          "options": {
+            "ক": "0",
+            "খ": "1",
+            "গ": "অসংজ্ঞায়িত",
+            "ঘ": "∞"
+          },
+          "correct_answer": "ক) 0",
+          "explanation": "Horizontal line-এর rise নেই, তাই slope=0।",
+          "topic": "Straight Line",
+          "probability": "Conceptual Trap"
+        },
+        {
+          "question_no": 23,
+          "section": "final_trap_questions",
+          "question": "শূন্য ভেক্টরের একক ভেক্টর—",
+          "options": {
+            "ক": "i",
+            "খ": "j",
+            "গ": "নির্ণয়যোগ্য নয়",
+            "ঘ": "0"
+          },
+          "correct_answer": "গ) নির্ণয়যোগ্য নয়",
+          "explanation": "শূন্য ভেক্টরের মান 0 এবং দিক নির্দিষ্ট নয়।",
+          "topic": "Vector",
+          "probability": "Conceptual Trap"
+        },
+        {
+          "question_no": 24,
+          "section": "final_trap_questions",
+          "question": "বাস্তব সংখ্যায় log(-5) —",
+          "options": {
+            "ক": "0",
+            "খ": "1",
+            "গ": "সংজ্ঞায়িত নয়",
+            "ঘ": "-1"
+          },
+          "correct_answer": "গ) সংজ্ঞায়িত নয়",
+          "explanation": "বাস্তব logarithm-এর argument ধনাত্মক হতে হয়।",
+          "topic": "Logarithm",
+          "probability": "Mega Hot"
+        },
+        {
+          "question_no": 25,
+          "section": "final_trap_questions",
+          "question": "x²+y²+2gx+2fy+c=0 বৃত্তের ব্যাসার্ধ কোনটি?",
+          "options": {
+            "ক": "√(g²+f²-c)",
+            "খ": "√(g²-f²+c)",
+            "গ": "g²+f²-c",
+            "ঘ": "√(c-g²-f²)"
+          },
+          "correct_answer": "ক) √(g²+f²-c)",
+          "explanation": "সাধারণ বৃত্তের কেন্দ্র (-g,-f), ব্যাসার্ধ √(g²+f²-c)।",
+          "topic": "Circle",
+          "probability": "Board Favourite"
+        }
+      ],
+      "answer_key": [
+        {
+          "question_no": 1,
+          "answer": "ক) 5",
+          "explanation": "|A| = 2×4 - 1×3 = 5।",
+          "topic": "Matrix & Determinant",
+          "probability": "Mega Hot"
+        },
+        {
+          "question_no": 2,
+          "answer": "খ) 0",
+          "explanation": "প্রথম সারি ও দ্বিতীয় কলামের গুণফল: 2(-1)+1(2)=0।",
+          "topic": "Matrix Multiplication",
+          "probability": "Board Favourite"
+        },
+        {
+          "question_no": 3,
+          "answer": "ক) 1",
+          "explanation": "দূরত্ব = |5|/√(3²+(-4)²)=5/5=1।",
+          "topic": "Straight Line",
+          "probability": "Mega Hot"
+        },
+        {
+          "question_no": 4,
+          "answer": "ক) (3,-2), 5",
+          "explanation": "x²+y²+2gx+2fy+c=0 থেকে কেন্দ্র (-g,-f)=(3,-2), r=√(9+4+12)=5।",
+          "topic": "Circle",
+          "probability": "Very Hot"
+        },
+        {
+          "question_no": 5,
+          "answer": "ক) ±4",
+          "explanation": "singular হলে determinant = 0, তাই k²-16=0 ⇒ k=±4।",
+          "topic": "Determinant",
+          "probability": "Mega Hot"
+        },
+        {
+          "question_no": 6,
+          "answer": "ক) (3/5)i+(4/5)j",
+          "explanation": "মান = √(3²+4²)=5, তাই একক ভেক্টর = ভেক্টর/মান।",
+          "topic": "Vector",
+          "probability": "Board Favourite"
+        },
+        {
+          "question_no": 7,
+          "answer": "গ) 90°",
+          "explanation": "m1m2=-1 হলে সরলরেখা দুটি পরস্পর লম্ব।",
+          "topic": "Straight Line",
+          "probability": "Mega Hot"
+        },
+        {
+          "question_no": 8,
+          "answer": "খ) 4",
+          "explanation": "dy/dx=2x, তাই x=2 হলে ঢাল 4।",
+          "topic": "Differential Calculus",
+          "probability": "Mega Hot"
+        },
+        {
+          "question_no": 9,
+          "answer": "ক) x³+x²+C",
+          "explanation": "প্রতিটি পদের আলাদা সমাকলন করলে x³+x²+C।",
+          "topic": "Integral Calculus",
+          "probability": "Very Hot"
+        },
+        {
+          "question_no": 10,
+          "answer": "খ) 3",
+          "explanation": "2³=8, তাই log₂8=3।",
+          "topic": "Logarithm",
+          "probability": "Board Favourite"
+        },
+        {
+          "question_no": 11,
+          "answer": "খ) 10",
+          "explanation": "⁵C₂=5!/(2!3!)=10।",
+          "topic": "Combination",
+          "probability": "Mega Hot"
+        },
+        {
+          "question_no": 12,
+          "answer": "খ) 1",
+          "explanation": "এটি মৌলিক ত্রিকোণমিতিক অভেদ।",
+          "topic": "Trigonometry",
+          "probability": "Board Favourite"
+        },
+        {
+          "question_no": 13,
+          "answer": "ক) y-3=4(x-2)",
+          "explanation": "বিন্দু-ঢাল রূপ: y-y1=m(x-x1)।",
+          "topic": "Straight Line",
+          "probability": "Very Hot"
+        },
+        {
+          "question_no": 14,
+          "answer": "ক) 3x+4y=25",
+          "explanation": "x²+y²=a² বৃত্তে (x1,y1)-এ স্পর্শক xx1+yy1=a²।",
+          "topic": "Circle",
+          "probability": "Mega Hot"
+        },
+        {
+          "question_no": 15,
+          "answer": "ঘ) i, ii ও iii",
+          "explanation": "inverse থাকার প্রয়োজনীয় ও যথেষ্ট শর্ত determinant অশূন্য হওয়া।",
+          "topic": "Matrix",
+          "probability": "Mega Hot"
+        },
+        {
+          "question_no": 16,
+          "answer": "ঘ) i, ii ও iii",
+          "explanation": "dot product commutative এবং কোণের cosine নির্ভর।",
+          "topic": "Vector",
+          "probability": "Board Favourite"
+        },
+        {
+          "question_no": 17,
+          "answer": "খ) i ও iii",
+          "explanation": "continuous হলেও কোণ/তীক্ষ্ণ বিন্দুতে differentiable নাও হতে পারে।",
+          "topic": "Differential Calculus",
+          "probability": "Conceptual Trap"
+        },
+        {
+          "question_no": 18,
+          "answer": "ঘ) i, ii ও iii",
+          "explanation": "nPᵣ ও nCᵣ-এর মৌলিক সম্পর্ক nPᵣ=r!nCᵣ।",
+          "topic": "Permutation & Combination",
+          "probability": "Mega Hot"
+        },
+        {
+          "question_no": 19,
+          "answer": "ঘ) i, ii ও iii",
+          "explanation": "এগুলো সাধারণ সমাধানের board-favourite pattern।",
+          "topic": "Trigonometric Equation",
+          "probability": "Very Hot"
+        },
+        {
+          "question_no": 20,
+          "answer": "ক) i ও ii",
+          "explanation": "তৃতীয়টি সাধারণভাবে সত্য নয়।",
+          "topic": "Definite Integral",
+          "probability": "Conceptual Trap"
+        },
+        {
+          "question_no": 21,
+          "answer": "খ) চিহ্ন পরিবর্তন করে",
+          "explanation": "সারি/কলাম বিনিময়ে determinant-এর sign বদলায়।",
+          "topic": "Determinant Property",
+          "probability": "Board Favourite"
+        },
+        {
+          "question_no": 22,
+          "answer": "ক) 0",
+          "explanation": "Horizontal line-এর rise নেই, তাই slope=0।",
+          "topic": "Straight Line",
+          "probability": "Conceptual Trap"
+        },
+        {
+          "question_no": 23,
+          "answer": "গ) নির্ণয়যোগ্য নয়",
+          "explanation": "শূন্য ভেক্টরের মান 0 এবং দিক নির্দিষ্ট নয়।",
+          "topic": "Vector",
+          "probability": "Conceptual Trap"
+        },
+        {
+          "question_no": 24,
+          "answer": "গ) সংজ্ঞায়িত নয়",
+          "explanation": "বাস্তব logarithm-এর argument ধনাত্মক হতে হয়।",
+          "topic": "Logarithm",
+          "probability": "Mega Hot"
+        },
+        {
+          "question_no": 25,
+          "answer": "ক) √(g²+f²-c)",
+          "explanation": "সাধারণ বৃত্তের কেন্দ্র (-g,-f), ব্যাসার্ধ √(g²+f²-c)।",
+          "topic": "Circle",
+          "probability": "Board Favourite"
+        }
+      ]
+    },
+    {
+      "set_no": 2,
+      "title": "সেট ২",
+      "header": {
+        "exam": "এইচএসসি উচ্চতর গণিত ১ম পত্র",
+        "model_test_name": "Hyper Mega Hot Exclusive Model Test",
+        "marks": 25,
+        "subject_code": "265",
+        "time_minutes": 25
+      },
+      "stimuli": [
+        {
+          "stimulus_no": 1,
+          "text": "উদ্দীপক ১: A = [[1, 2], [3, 5]] একটি 2×2 ম্যাট্রিক্স।",
+          "question_numbers": [
+            1,
+            2
+          ]
+        },
+        {
+          "stimulus_no": 2,
+          "text": "উদ্দীপক ২: a = 2i - j + 2k এবং b = i + 2j - 2k।",
+          "question_numbers": [
+            3,
+            4
+          ]
+        }
+      ],
+      "questions": [
+        {
+          "question_no": 1,
+          "section": "stimulus_based",
+          "stimulus_no": 1,
+          "question": "|A| এর মান কত?",
+          "options": {
+            "ক": "-1",
+            "খ": "1",
+            "গ": "11",
+            "ঘ": "0"
+          },
+          "correct_answer": "ক) -1",
+          "explanation": "|A|=1×5-2×3= -1।",
+          "topic": "Matrix & Determinant",
+          "probability": "Mega Hot"
+        },
+        {
+          "question_no": 2,
+          "section": "stimulus_based",
+          "stimulus_no": 1,
+          "question": "A^{-1} ম্যাট্রিক্সের (1,1)-তম উপাদান কত?",
+          "options": {
+            "ক": "-5",
+            "খ": "5",
+            "গ": "-1",
+            "ঘ": "1"
+          },
+          "correct_answer": "ক) -5",
+          "explanation": "A^{-1}=1/(-1)[[5,-2],[-3,1]], তাই (1,1) উপাদান -5।",
+          "topic": "Inverse Matrix",
+          "probability": "Very Hot"
+        },
+        {
+          "question_no": 3,
+          "section": "stimulus_based",
+          "stimulus_no": 2,
+          "question": "a·b এর মান কত?",
+          "options": {
+            "ক": "-4",
+            "খ": "0",
+            "গ": "4",
+            "ঘ": "9"
+          },
+          "correct_answer": "ক) -4",
+          "explanation": "a·b=2×1+(-1)×2+2×(-2)= -4।",
+          "topic": "Vector Dot Product",
+          "probability": "Mega Hot"
+        },
+        {
+          "question_no": 4,
+          "section": "stimulus_based",
+          "stimulus_no": 2,
+          "question": "a ও b এর মধ্যবর্তী কোণের cosθ কত?",
+          "options": {
+            "ক": "-4/9",
+            "খ": "4/9",
+            "গ": "-2/3",
+            "ঘ": "0"
+          },
+          "correct_answer": "ক) -4/9",
+          "explanation": "|a|=3, |b|=3, তাই cosθ=(a·b)/(|a||b|)= -4/9।",
+          "topic": "Vector Angle",
+          "probability": "Board Favourite"
+        },
+        {
+          "question_no": 5,
+          "section": "normal_board_standard_mcq",
+          "question": "d/dx[sin(3x)] কত?",
+          "options": {
+            "ক": "cos3x",
+            "খ": "3cos3x",
+            "গ": "-3cos3x",
+            "ঘ": "3sin3x"
+          },
+          "correct_answer": "খ) 3cos3x",
+          "explanation": "chain rule: d(sin u)/dx=cosu·du/dx।",
+          "topic": "Differentiation",
+          "probability": "Mega Hot"
+        },
+        {
+          "question_no": 6,
+          "section": "normal_board_standard_mcq",
+          "question": "∫e^{2x} dx এর মান কত?",
+          "options": {
+            "ক": "e^{2x}+C",
+            "খ": "2e^{2x}+C",
+            "গ": "(1/2)e^{2x}+C",
+            "ঘ": "e^x+C"
+          },
+          "correct_answer": "গ) (1/2)e^{2x}+C",
+          "explanation": "∫e^{ax}dx=e^{ax}/a + C।",
+          "topic": "Integration",
+          "probability": "Very Hot"
+        },
+        {
+          "question_no": 7,
+          "section": "normal_board_standard_mcq",
+          "question": "(1,2) ও (4,6) বিন্দুর দূরত্ব কত?",
+          "options": {
+            "ক": "3",
+            "খ": "4",
+            "গ": "5",
+            "ঘ": "7"
+          },
+          "correct_answer": "গ) 5",
+          "explanation": "দূরত্ব = √[(4-1)²+(6-2)²]=5।",
+          "topic": "Coordinate Geometry",
+          "probability": "Board Favourite"
+        },
+        {
+          "question_no": 8,
+          "section": "normal_board_standard_mcq",
+          "question": "x-অক্ষের সাথে 45° কোণ উৎপন্নকারী সরলরেখার ঢাল কত?",
+          "options": {
+            "ক": "0",
+            "খ": "1",
+            "গ": "√3",
+            "ঘ": "অসংজ্ঞায়িত"
+          },
+          "correct_answer": "খ) 1",
+          "explanation": "ঢাল m=tanθ=tan45°=1।",
+          "topic": "Straight Line",
+          "probability": "Very Hot"
+        },
+        {
+          "question_no": 9,
+          "section": "normal_board_standard_mcq",
+          "question": "কেন্দ্র (-2,3) ও ব্যাসার্ধ 4 বিশিষ্ট বৃত্তের সমীকরণ কোনটি?",
+          "options": {
+            "ক": "(x+2)²+(y-3)²=16",
+            "খ": "(x-2)²+(y+3)²=16",
+            "গ": "(x+2)²+(y+3)²=4",
+            "ঘ": "(x-2)²+(y-3)²=16"
+          },
+          "correct_answer": "ক) (x+2)²+(y-3)²=16",
+          "explanation": "বৃত্তের standard form: (x-h)²+(y-k)²=r²।",
+          "topic": "Circle",
+          "probability": "Mega Hot"
+        },
+        {
+          "question_no": 10,
+          "section": "normal_board_standard_mcq",
+          "question": "⁷P₂ এর মান কত?",
+          "options": {
+            "ক": "21",
+            "খ": "35",
+            "গ": "42",
+            "ঘ": "49"
+          },
+          "correct_answer": "গ) 42",
+          "explanation": "⁷P₂=7×6=42।",
+          "topic": "Permutation",
+          "probability": "Mega Hot"
+        },
+        {
+          "question_no": 11,
+          "section": "normal_board_standard_mcq",
+          "question": "8টি বস্তু থেকে 3টি নির্বাচন করার উপায় কত?",
+          "options": {
+            "ক": "24",
+            "খ": "56",
+            "গ": "336",
+            "ঘ": "512"
+          },
+          "correct_answer": "খ) 56",
+          "explanation": "⁸C₃=8!/(3!5!)=56।",
+          "topic": "Combination",
+          "probability": "Very Hot"
+        },
+        {
+          "question_no": 12,
+          "section": "normal_board_standard_mcq",
+          "question": "logₐ(xy) এর সঠিক রূপ কোনটি?",
+          "options": {
+            "ক": "logₐx + logₐy",
+            "খ": "logₐx - logₐy",
+            "গ": "logₐx · logₐy",
+            "ঘ": "logₐ(x+y)"
+          },
+          "correct_answer": "ক) logₐx + logₐy",
+          "explanation": "গুণফলের logarithm যোগফল হয়।",
+          "topic": "Logarithm",
+          "probability": "Board Favourite"
+        },
+        {
+          "question_no": 13,
+          "section": "normal_board_standard_mcq",
+          "question": "tan(A+B) এর সূত্র কোনটি?",
+          "options": {
+            "ক": "(tanA+tanB)/(1-tanA tanB)",
+            "খ": "tanA+tanB",
+            "গ": "(tanA-tanB)/(1+tanA tanB)",
+            "ঘ": "sinA+cosB"
+          },
+          "correct_answer": "ক) (tanA+tanB)/(1-tanA tanB)",
+          "explanation": "এটি compound angle formula।",
+          "topic": "Trigonometry",
+          "probability": "Mega Hot"
+        },
+        {
+          "question_no": 14,
+          "section": "normal_board_standard_mcq",
+          "question": "f(x)=x³-3x হলে f'(1) কত?",
+          "options": {
+            "ক": "-3",
+            "খ": "0",
+            "গ": "3",
+            "ঘ": "6"
+          },
+          "correct_answer": "খ) 0",
+          "explanation": "f'(x)=3x²-3, তাই f'(1)=0।",
+          "topic": "Differentiation",
+          "probability": "Very Hot"
+        },
+        {
+          "question_no": 15,
+          "section": "analytical_i_ii_iii",
+          "question": "দুই চলকের linear system সম্পর্কে—\ni. coefficient determinant অশূন্য হলে একক সমাধান থাকে\nii. determinant শূন্য হলে inverse method সরাসরি প্রযোজ্য নয়\niii. Cramer’s rule determinant ব্যবহার করে\nনিচের কোনটি সঠিক?",
+          "options": {
+            "ক": "i ও ii",
+            "খ": "i ও iii",
+            "গ": "ii ও iii",
+            "ঘ": "i, ii ও iii"
+          },
+          "correct_answer": "ঘ) i, ii ও iii",
+          "explanation": "linear system সমাধানে determinant central role পালন করে।",
+          "topic": "Matrix System",
+          "probability": "Mega Hot"
+        },
+        {
+          "question_no": 16,
+          "section": "analytical_i_ii_iii",
+          "question": "cross product সম্পর্কে—\ni. a×b ভেক্টর রাশি\nii. |a×b|=|a||b|sinθ\niii. a×b = b×a\nনিচের কোনটি সঠিক?",
+          "options": {
+            "ক": "i ও ii",
+            "খ": "i ও iii",
+            "গ": "ii ও iii",
+            "ঘ": "i, ii ও iii"
+          },
+          "correct_answer": "ক) i ও ii",
+          "explanation": "cross product anti-commutative: a×b=-(b×a)।",
+          "topic": "Vector Cross Product",
+          "probability": "Conceptual Trap"
+        },
+        {
+          "question_no": 17,
+          "section": "analytical_i_ii_iii",
+          "question": "বক্ররেখা y=f(x)-এর ক্ষেত্রে—\ni. স্পর্শকের ঢাল f'(x)\nii. normal-এর ঢাল -1/f'(x), যদি f'(x)≠0\niii. f'(x)=0 হলে স্পর্শক vertical হয়\nনিচের কোনটি সঠিক?",
+          "options": {
+            "ক": "i ও ii",
+            "খ": "i ও iii",
+            "গ": "ii ও iii",
+            "ঘ": "i, ii ও iii"
+          },
+          "correct_answer": "ক) i ও ii",
+          "explanation": "f'(x)=0 হলে স্পর্শক horizontal হয়, vertical নয়।",
+          "topic": "Tangent & Normal",
+          "probability": "Conceptual Trap"
+        },
+        {
+          "question_no": 18,
+          "section": "analytical_i_ii_iii",
+          "question": "Counting problem-এ—\ni. ‘arrange’ শব্দে সাধারণত permutation লাগে\nii. ‘select’ শব্দে সাধারণত combination লাগে\niii. order irrelevant হলে permutation ব্যবহার করা হয়\nনিচের কোনটি সঠিক?",
+          "options": {
+            "ক": "i ও ii",
+            "খ": "i ও iii",
+            "গ": "ii ও iii",
+            "ঘ": "i, ii ও iii"
+          },
+          "correct_answer": "ক) i ও ii",
+          "explanation": "order irrelevant হলে combination ব্যবহার হয়।",
+          "topic": "Permutation & Combination",
+          "probability": "Board Favourite"
+        },
+        {
+          "question_no": 19,
+          "section": "analytical_i_ii_iii",
+          "question": "logarithm-এর domain সম্পর্কে—\ni. logₐx সংজ্ঞায়িত হতে x>0\nii. a>0 এবং a≠1\niii. x=0 হলে logₐx=0\nনিচের কোনটি সঠিক?",
+          "options": {
+            "ক": "i ও ii",
+            "খ": "i ও iii",
+            "গ": "ii ও iii",
+            "ঘ": "i, ii ও iii"
+          },
+          "correct_answer": "ক) i ও ii",
+          "explanation": "logarithm-এ argument 0 হতে পারে না।",
+          "topic": "Logarithm",
+          "probability": "Mega Hot"
+        },
+        {
+          "question_no": 20,
+          "section": "analytical_i_ii_iii",
+          "question": "Integration by parts সম্পর্কে—\ni. ∫u dv = uv - ∫v du\nii. দুই ফাংশনের গুণফলে ব্যবহৃত হয়\niii. সব সমাকলনে substitution-এর বিকল্প\nনিচের কোনটি সঠিক?",
+          "options": {
+            "ক": "i ও ii",
+            "খ": "i ও iii",
+            "গ": "ii ও iii",
+            "ঘ": "i, ii ও iii"
+          },
+          "correct_answer": "ক) i ও ii",
+          "explanation": "integration by parts সব ধরনের সমাকলনের universal substitute নয়।",
+          "topic": "Integral Calculus",
+          "probability": "Very Hot"
+        },
+        {
+          "question_no": 21,
+          "section": "final_trap_questions",
+          "question": "0! এর মান কত?",
+          "options": {
+            "ক": "0",
+            "খ": "1",
+            "গ": "অসংজ্ঞায়িত",
+            "ঘ": "n"
+          },
+          "correct_answer": "খ) 1",
+          "explanation": "factorial definition অনুযায়ী 0!=1।",
+          "topic": "Permutation & Combination",
+          "probability": "Conceptual Trap"
+        },
+        {
+          "question_no": 22,
+          "section": "final_trap_questions",
+          "question": "determinant-এর একটি সারি k দ্বারা গুণ করলে determinant—",
+          "options": {
+            "ক": "k গুণ হয়",
+            "খ": "k² গুণ হয়",
+            "গ": "অপরিবর্তিত থাকে",
+            "ঘ": "শূন্য হয়"
+          },
+          "correct_answer": "ক) k গুণ হয়",
+          "explanation": "একটি মাত্র row/column k দ্বারা গুণ করলে determinant k গুণ হয়।",
+          "topic": "Determinant",
+          "probability": "Board Favourite"
+        },
+        {
+          "question_no": 23,
+          "section": "final_trap_questions",
+          "question": "উল্লম্ব সরলরেখার ঢাল—",
+          "options": {
+            "ক": "0",
+            "খ": "1",
+            "গ": "অসংজ্ঞায়িত",
+            "ঘ": "-1"
+          },
+          "correct_answer": "গ) অসংজ্ঞায়িত",
+          "explanation": "vertical line-এ run=0, তাই slope undefined।",
+          "topic": "Straight Line",
+          "probability": "Mega Hot"
+        },
+        {
+          "question_no": 24,
+          "section": "final_trap_questions",
+          "question": "দুই অশূন্য ভেক্টরের dot product শূন্য হলে তারা—",
+          "options": {
+            "ক": "সমান্তরাল",
+            "খ": "লম্ব",
+            "গ": "সমান",
+            "ঘ": "বিপরীতমুখী"
+          },
+          "correct_answer": "খ) লম্ব",
+          "explanation": "a·b=|a||b|cosθ=0 ⇒ θ=90°।",
+          "topic": "Vector",
+          "probability": "Very Hot"
+        },
+        {
+          "question_no": 25,
+          "section": "final_trap_questions",
+          "question": "nCᵣ এর সমান কোনটি?",
+          "options": {
+            "ক": "nCₙ₋ᵣ",
+            "খ": "nPᵣ",
+            "গ": "r!",
+            "ঘ": "n!/r!"
+          },
+          "correct_answer": "ক) nCₙ₋ᵣ",
+          "explanation": "Combination-এর symmetry: nCᵣ=nCₙ₋ᵣ।",
+          "topic": "Combination",
+          "probability": "Board Favourite"
+        }
+      ],
+      "answer_key": [
+        {
+          "question_no": 1,
+          "answer": "ক) -1",
+          "explanation": "|A|=1×5-2×3= -1।",
+          "topic": "Matrix & Determinant",
+          "probability": "Mega Hot"
+        },
+        {
+          "question_no": 2,
+          "answer": "ক) -5",
+          "explanation": "A^{-1}=1/(-1)[[5,-2],[-3,1]], তাই (1,1) উপাদান -5।",
+          "topic": "Inverse Matrix",
+          "probability": "Very Hot"
+        },
+        {
+          "question_no": 3,
+          "answer": "ক) -4",
+          "explanation": "a·b=2×1+(-1)×2+2×(-2)= -4।",
+          "topic": "Vector Dot Product",
+          "probability": "Mega Hot"
+        },
+        {
+          "question_no": 4,
+          "answer": "ক) -4/9",
+          "explanation": "|a|=3, |b|=3, তাই cosθ=(a·b)/(|a||b|)= -4/9।",
+          "topic": "Vector Angle",
+          "probability": "Board Favourite"
+        },
+        {
+          "question_no": 5,
+          "answer": "খ) 3cos3x",
+          "explanation": "chain rule: d(sin u)/dx=cosu·du/dx।",
+          "topic": "Differentiation",
+          "probability": "Mega Hot"
+        },
+        {
+          "question_no": 6,
+          "answer": "গ) (1/2)e^{2x}+C",
+          "explanation": "∫e^{ax}dx=e^{ax}/a + C।",
+          "topic": "Integration",
+          "probability": "Very Hot"
+        },
+        {
+          "question_no": 7,
+          "answer": "গ) 5",
+          "explanation": "দূরত্ব = √[(4-1)²+(6-2)²]=5।",
+          "topic": "Coordinate Geometry",
+          "probability": "Board Favourite"
+        },
+        {
+          "question_no": 8,
+          "answer": "খ) 1",
+          "explanation": "ঢাল m=tanθ=tan45°=1।",
+          "topic": "Straight Line",
+          "probability": "Very Hot"
+        },
+        {
+          "question_no": 9,
+          "answer": "ক) (x+2)²+(y-3)²=16",
+          "explanation": "বৃত্তের standard form: (x-h)²+(y-k)²=r²।",
+          "topic": "Circle",
+          "probability": "Mega Hot"
+        },
+        {
+          "question_no": 10,
+          "answer": "গ) 42",
+          "explanation": "⁷P₂=7×6=42।",
+          "topic": "Permutation",
+          "probability": "Mega Hot"
+        },
+        {
+          "question_no": 11,
+          "answer": "খ) 56",
+          "explanation": "⁸C₃=8!/(3!5!)=56।",
+          "topic": "Combination",
+          "probability": "Very Hot"
+        },
+        {
+          "question_no": 12,
+          "answer": "ক) logₐx + logₐy",
+          "explanation": "গুণফলের logarithm যোগফল হয়।",
+          "topic": "Logarithm",
+          "probability": "Board Favourite"
+        },
+        {
+          "question_no": 13,
+          "answer": "ক) (tanA+tanB)/(1-tanA tanB)",
+          "explanation": "এটি compound angle formula।",
+          "topic": "Trigonometry",
+          "probability": "Mega Hot"
+        },
+        {
+          "question_no": 14,
+          "answer": "খ) 0",
+          "explanation": "f'(x)=3x²-3, তাই f'(1)=0।",
+          "topic": "Differentiation",
+          "probability": "Very Hot"
+        },
+        {
+          "question_no": 15,
+          "answer": "ঘ) i, ii ও iii",
+          "explanation": "linear system সমাধানে determinant central role পালন করে।",
+          "topic": "Matrix System",
+          "probability": "Mega Hot"
+        },
+        {
+          "question_no": 16,
+          "answer": "ক) i ও ii",
+          "explanation": "cross product anti-commutative: a×b=-(b×a)।",
+          "topic": "Vector Cross Product",
+          "probability": "Conceptual Trap"
+        },
+        {
+          "question_no": 17,
+          "answer": "ক) i ও ii",
+          "explanation": "f'(x)=0 হলে স্পর্শক horizontal হয়, vertical নয়।",
+          "topic": "Tangent & Normal",
+          "probability": "Conceptual Trap"
+        },
+        {
+          "question_no": 18,
+          "answer": "ক) i ও ii",
+          "explanation": "order irrelevant হলে combination ব্যবহার হয়।",
+          "topic": "Permutation & Combination",
+          "probability": "Board Favourite"
+        },
+        {
+          "question_no": 19,
+          "answer": "ক) i ও ii",
+          "explanation": "logarithm-এ argument 0 হতে পারে না।",
+          "topic": "Logarithm",
+          "probability": "Mega Hot"
+        },
+        {
+          "question_no": 20,
+          "answer": "ক) i ও ii",
+          "explanation": "integration by parts সব ধরনের সমাকলনের universal substitute নয়।",
+          "topic": "Integral Calculus",
+          "probability": "Very Hot"
+        },
+        {
+          "question_no": 21,
+          "answer": "খ) 1",
+          "explanation": "factorial definition অনুযায়ী 0!=1।",
+          "topic": "Permutation & Combination",
+          "probability": "Conceptual Trap"
+        },
+        {
+          "question_no": 22,
+          "answer": "ক) k গুণ হয়",
+          "explanation": "একটি মাত্র row/column k দ্বারা গুণ করলে determinant k গুণ হয়।",
+          "topic": "Determinant",
+          "probability": "Board Favourite"
+        },
+        {
+          "question_no": 23,
+          "answer": "গ) অসংজ্ঞায়িত",
+          "explanation": "vertical line-এ run=0, তাই slope undefined।",
+          "topic": "Straight Line",
+          "probability": "Mega Hot"
+        },
+        {
+          "question_no": 24,
+          "answer": "খ) লম্ব",
+          "explanation": "a·b=|a||b|cosθ=0 ⇒ θ=90°।",
+          "topic": "Vector",
+          "probability": "Very Hot"
+        },
+        {
+          "question_no": 25,
+          "answer": "ক) nCₙ₋ᵣ",
+          "explanation": "Combination-এর symmetry: nCᵣ=nCₙ₋ᵣ।",
+          "topic": "Combination",
+          "probability": "Board Favourite"
+        }
+      ]
+    },
+    {
+      "set_no": 3,
+      "title": "সেট ৩",
+      "header": {
+        "exam": "এইচএসসি উচ্চতর গণিত ১ম পত্র",
+        "model_test_name": "Hyper Mega Hot Exclusive Model Test",
+        "marks": 25,
+        "subject_code": "265",
+        "time_minutes": 25
+      },
+      "stimuli": [
+        {
+          "stimulus_no": 1,
+          "text": "উদ্দীপক ১: f(x)=x³-6x²+9x+1।",
+          "question_numbers": [
+            1,
+            2
+          ]
+        },
+        {
+          "stimulus_no": 2,
+          "text": "উদ্দীপক ২: বৃত্ত x²+y²=25 এবং সরলরেখা 3x+4y=25।",
+          "question_numbers": [
+            3,
+            4
+          ]
+        }
+      ],
+      "questions": [
+        {
+          "question_no": 1,
+          "section": "stimulus_based",
+          "stimulus_no": 1,
+          "question": "f'(x) কত?",
+          "options": {
+            "ক": "3x²-12x+9",
+            "খ": "x²-12x+9",
+            "গ": "3x²-6x+9",
+            "ঘ": "3x²-12x+1"
+          },
+          "correct_answer": "ক) 3x²-12x+9",
+          "explanation": "power rule প্রয়োগ করলে f'(x)=3x²-12x+9।",
+          "topic": "Differential Calculus",
+          "probability": "Mega Hot"
+        },
+        {
+          "question_no": 2,
+          "section": "stimulus_based",
+          "stimulus_no": 1,
+          "question": "f(x)-এর stationary point-এর x-coordinate কোনগুলো?",
+          "options": {
+            "ক": "1, 3",
+            "খ": "-1, 3",
+            "গ": "0, 3",
+            "ঘ": "1, -3"
+          },
+          "correct_answer": "ক) 1, 3",
+          "explanation": "f'(x)=3(x-1)(x-3)=0 ⇒ x=1,3।",
+          "topic": "Maxima-Minima",
+          "probability": "Very Hot"
+        },
+        {
+          "question_no": 3,
+          "section": "stimulus_based",
+          "stimulus_no": 2,
+          "question": "সরলরেখাটি বৃত্তের কী?",
+          "options": {
+            "ক": "ছেদক",
+            "খ": "স্পর্শক",
+            "গ": "ব্যাস",
+            "ঘ": "normal"
+          },
+          "correct_answer": "খ) স্পর্শক",
+          "explanation": "কেন্দ্র থেকে রেখার দূরত্ব =25/5=5, যা ব্যাসার্ধের সমান।",
+          "topic": "Circle & Tangent",
+          "probability": "Mega Hot"
+        },
+        {
+          "question_no": 4,
+          "section": "stimulus_based",
+          "stimulus_no": 2,
+          "question": "স্পর্শবিন্দু কোনটি?",
+          "options": {
+            "ক": "(3,4)",
+            "খ": "(4,3)",
+            "গ": "(-3,4)",
+            "ঘ": "(3,-4)"
+          },
+          "correct_answer": "ক) (3,4)",
+          "explanation": "x²+y²=25 বৃত্তে (3,4)-এ স্পর্শক 3x+4y=25।",
+          "topic": "Circle",
+          "probability": "Board Favourite"
+        },
+        {
+          "question_no": 5,
+          "section": "normal_board_standard_mcq",
+          "question": "|[ [2,5],[-1,3] ]| এর মান কত?",
+          "options": {
+            "ক": "1",
+            "খ": "6",
+            "গ": "11",
+            "ঘ": "-11"
+          },
+          "correct_answer": "গ) 11",
+          "explanation": "2×3 - 5(-1)=11।",
+          "topic": "Determinant",
+          "probability": "Mega Hot"
+        },
+        {
+          "question_no": 6,
+          "section": "normal_board_standard_mcq",
+          "question": "a=(3,4) ভেক্টরের b=(1,0) বরাবর scalar projection কত?",
+          "options": {
+            "ক": "3",
+            "খ": "4",
+            "গ": "5",
+            "ঘ": "7"
+          },
+          "correct_answer": "ক) 3",
+          "explanation": "projection = a·b/|b| =3/1=3।",
+          "topic": "Vector Projection",
+          "probability": "Very Hot"
+        },
+        {
+          "question_no": 7,
+          "section": "normal_board_standard_mcq",
+          "question": "(0,0), (4,0), (0,3) শীর্ষবিশিষ্ট ত্রিভুজের ক্ষেত্রফল কত?",
+          "options": {
+            "ক": "6",
+            "খ": "7",
+            "গ": "12",
+            "ঘ": "24"
+          },
+          "correct_answer": "ক) 6",
+          "explanation": "ক্ষেত্রফল = 1/2 × 4 × 3 = 6।",
+          "topic": "Coordinate Geometry",
+          "probability": "Board Favourite"
+        },
+        {
+          "question_no": 8,
+          "section": "normal_board_standard_mcq",
+          "question": "d/dx[ln x] কত?",
+          "options": {
+            "ক": "x",
+            "খ": "1/x",
+            "গ": "ln x",
+            "ঘ": "e^x"
+          },
+          "correct_answer": "খ) 1/x",
+          "explanation": "ln x-এর derivative 1/x।",
+          "topic": "Differentiation",
+          "probability": "Mega Hot"
+        },
+        {
+          "question_no": 9,
+          "section": "normal_board_standard_mcq",
+          "question": "∫(1/x)dx এর মান কত?",
+          "options": {
+            "ক": "x²/2+C",
+            "খ": "ln|x|+C",
+            "গ": "e^x+C",
+            "ঘ": "1/x²+C"
+          },
+          "correct_answer": "খ) ln|x|+C",
+          "explanation": "1/x-এর standard integral ln|x|+C।",
+          "topic": "Integration",
+          "probability": "Mega Hot"
+        },
+        {
+          "question_no": 10,
+          "section": "normal_board_standard_mcq",
+          "question": "2^x=16 হলে x কত?",
+          "options": {
+            "ক": "2",
+            "খ": "3",
+            "গ": "4",
+            "ঘ": "8"
+          },
+          "correct_answer": "গ) 4",
+          "explanation": "16=2⁴, তাই x=4।",
+          "topic": "Exponential Function",
+          "probability": "Very Hot"
+        },
+        {
+          "question_no": 11,
+          "section": "normal_board_standard_mcq",
+          "question": "BANGLA শব্দের অক্ষরগুলো সাজানোর উপায় কত?",
+          "options": {
+            "ক": "720",
+            "খ": "360",
+            "গ": "120",
+            "ঘ": "60"
+          },
+          "correct_answer": "খ) 360",
+          "explanation": "৬টি অক্ষরের মধ্যে A দুইবার, তাই 6!/2!=360।",
+          "topic": "Permutation",
+          "probability": "Mega Hot"
+        },
+        {
+          "question_no": 12,
+          "section": "normal_board_standard_mcq",
+          "question": "sin2θ এর সূত্র কোনটি?",
+          "options": {
+            "ক": "2sinθcosθ",
+            "খ": "sin²θ-cos²θ",
+            "গ": "1-2sin²θ",
+            "ঘ": "tanθ/2"
+          },
+          "correct_answer": "ক) 2sinθcosθ",
+          "explanation": "double angle formula।",
+          "topic": "Trigonometry",
+          "probability": "Board Favourite"
+        },
+        {
+          "question_no": 13,
+          "section": "normal_board_standard_mcq",
+          "question": "x-intercept 3 এবং y-intercept 4 হলে সরলরেখার সমীকরণ কোনটি?",
+          "options": {
+            "ক": "x/3+y/4=1",
+            "খ": "x/4+y/3=1",
+            "গ": "3x+4y=1",
+            "ঘ": "x+y=7"
+          },
+          "correct_answer": "ক) x/3+y/4=1",
+          "explanation": "intercept form: x/a + y/b = 1।",
+          "topic": "Straight Line",
+          "probability": "Very Hot"
+        },
+        {
+          "question_no": 14,
+          "section": "normal_board_standard_mcq",
+          "question": "x²+y²+2gx+2fy+c=0 বৃত্তের কেন্দ্র কোনটি?",
+          "options": {
+            "ক": "(-g,-f)",
+            "খ": "(g,f)",
+            "গ": "(-2g,-2f)",
+            "ঘ": "(2g,2f)"
+          },
+          "correct_answer": "ক) (-g,-f)",
+          "explanation": "সাধারণ বৃত্তের কেন্দ্র (-g,-f)।",
+          "topic": "Circle",
+          "probability": "Board Favourite"
+        },
+        {
+          "question_no": 15,
+          "section": "analytical_i_ii_iii",
+          "question": "Matrix multiplication সম্পর্কে—\ni. সাধারণভাবে AB≠BA\nii. AB সংজ্ঞায়িত হলেও BA সংজ্ঞায়িত নাও হতে পারে\niii. identity matrix গুণ করলে matrix অপরিবর্তিত থাকে\nনিচের কোনটি সঠিক?",
+          "options": {
+            "ক": "i ও ii",
+            "খ": "i ও iii",
+            "গ": "ii ও iii",
+            "ঘ": "i, ii ও iii"
+          },
+          "correct_answer": "ঘ) i, ii ও iii",
+          "explanation": "matrix multiplication non-commutative।",
+          "topic": "Matrix",
+          "probability": "Mega Hot"
+        },
+        {
+          "question_no": 16,
+          "section": "analytical_i_ii_iii",
+          "question": "ভেক্টর দ্বারা ক্ষেত্রফল নির্ণয়ে—\ni. |a×b| সমান্তরচতুর্ভুজের ক্ষেত্রফল\nii. 1/2|a×b| ত্রিভুজের ক্ষেত্রফল\niii. a·b ক্ষেত্রফল দেয়\nনিচের কোনটি সঠিক?",
+          "options": {
+            "ক": "i ও ii",
+            "খ": "i ও iii",
+            "গ": "ii ও iii",
+            "ঘ": "i, ii ও iii"
+          },
+          "correct_answer": "ক) i ও ii",
+          "explanation": "area-এর জন্য cross product লাগে, dot product নয়।",
+          "topic": "Vector",
+          "probability": "Board Favourite"
+        },
+        {
+          "question_no": 17,
+          "section": "analytical_i_ii_iii",
+          "question": "Logarithm সম্পর্কে—\ni. logₐ1=0\nii. logₐa=1\niii. logₐ(x+y)=logₐx+logₐy\nনিচের কোনটি সঠিক?",
+          "options": {
+            "ক": "i ও ii",
+            "খ": "i ও iii",
+            "গ": "ii ও iii",
+            "ঘ": "i, ii ও iii"
+          },
+          "correct_answer": "ক) i ও ii",
+          "explanation": "যোগের logarithm ভাঙা যায় না।",
+          "topic": "Logarithm",
+          "probability": "Conceptual Trap"
+        },
+        {
+          "question_no": 18,
+          "section": "analytical_i_ii_iii",
+          "question": "বৃত্তের স্পর্শক সম্পর্কে—\ni. স্পর্শবিন্দুতে ব্যাসার্ধ স্পর্শকের লম্ব\nii. কেন্দ্র থেকে স্পর্শকের দূরত্ব ব্যাসার্ধের সমান\niii. স্পর্শক বৃত্তকে দুই বিন্দুতে ছেদ করে\nনিচের কোনটি সঠিক?",
+          "options": {
+            "ক": "i ও ii",
+            "খ": "i ও iii",
+            "গ": "ii ও iii",
+            "ঘ": "i, ii ও iii"
+          },
+          "correct_answer": "ক) i ও ii",
+          "explanation": "স্পর্শক বৃত্তকে এক বিন্দুতে স্পর্শ করে।",
+          "topic": "Circle",
+          "probability": "Mega Hot"
+        },
+        {
+          "question_no": 19,
+          "section": "analytical_i_ii_iii",
+          "question": "চরম মান নির্ণয়ে—\ni. f'(x)=0 critical point দিতে পারে\nii. f''(x)>0 হলে local minimum\niii. f''(x)<0 হলে local maximum\nনিচের কোনটি সঠিক?",
+          "options": {
+            "ক": "i ও ii",
+            "খ": "i ও iii",
+            "গ": "ii ও iii",
+            "ঘ": "i, ii ও iii"
+          },
+          "correct_answer": "ঘ) i, ii ও iii",
+          "explanation": "second derivative test board-standard।",
+          "topic": "Differential Calculus",
+          "probability": "Very Hot"
+        },
+        {
+          "question_no": 20,
+          "section": "analytical_i_ii_iii",
+          "question": "ত্রিকোণমিতিক রূপান্তরে—\ni. 2sinAcosB = sin(A+B)+sin(A-B)\nii. cos(A+B)=cosAcosB-sinAsinB\niii. tan(A-B)=(tanA-tanB)/(1+tanAtanB)\nনিচের কোনটি সঠিক?",
+          "options": {
+            "ক": "i ও ii",
+            "খ": "i ও iii",
+            "গ": "ii ও iii",
+            "ঘ": "i, ii ও iii"
+          },
+          "correct_answer": "ঘ) i, ii ও iii",
+          "explanation": "সবগুলো standard formula।",
+          "topic": "Trigonometry",
+          "probability": "Board Favourite"
+        },
+        {
+          "question_no": 21,
+          "section": "final_trap_questions",
+          "question": "f(x)=|x| ফাংশনটি x=0 বিন্দুতে—",
+          "options": {
+            "ক": "continuous ও differentiable",
+            "খ": "continuous কিন্তু differentiable নয়",
+            "গ": "discontinuous",
+            "ঘ": "differentiable কিন্তু continuous নয়"
+          },
+          "correct_answer": "খ) continuous কিন্তু differentiable নয়",
+          "explanation": "x=0-তে sharp corner থাকায় derivative নেই।",
+          "topic": "Differentiability",
+          "probability": "Conceptual Trap"
+        },
+        {
+          "question_no": 22,
+          "section": "final_trap_questions",
+          "question": "y=c আকারের সরলরেখা—",
+          "options": {
+            "ক": "y-অক্ষের সমান্তরাল",
+            "খ": "x-অক্ষের সমান্তরাল",
+            "গ": "মূলবিন্দু দিয়ে যায়",
+            "ঘ": "slope undefined"
+          },
+          "correct_answer": "খ) x-অক্ষের সমান্তরাল",
+          "explanation": "y ধ্রুবক হলে horizontal line।",
+          "topic": "Straight Line",
+          "probability": "Very Hot"
+        },
+        {
+          "question_no": 23,
+          "section": "final_trap_questions",
+          "question": "m₁m₂=-1 হলে সরলরেখা দুটি—",
+          "options": {
+            "ক": "সমান্তরাল",
+            "খ": "লম্ব",
+            "গ": "অভিন্ন",
+            "ঘ": "ছেদ করে না"
+          },
+          "correct_answer": "খ) লম্ব",
+          "explanation": "perpendicular condition: m₁m₂=-1।",
+          "topic": "Straight Line",
+          "probability": "Mega Hot"
+        },
+        {
+          "question_no": 24,
+          "section": "final_trap_questions",
+          "question": "nPᵣ ও nCᵣ এর সম্পর্ক কোনটি?",
+          "options": {
+            "ক": "nPᵣ = r! nCᵣ",
+            "খ": "nPᵣ = nCᵣ/r!",
+            "গ": "nCᵣ = r! nPᵣ",
+            "ঘ": "nPᵣ = nCₙ₋ᵣ"
+          },
+          "correct_answer": "ক) nPᵣ = r! nCᵣ",
+          "explanation": "permutation হলো selection-এর r! বিন্যাস।",
+          "topic": "Permutation & Combination",
+          "probability": "Board Favourite"
+        },
+        {
+          "question_no": 25,
+          "section": "final_trap_questions",
+          "question": "∫₋ₐᵃ f(x)dx=0, যদি f(x) —",
+          "options": {
+            "ক": "জোড় ফাংশন",
+            "খ": "বিজোড় ফাংশন",
+            "গ": "ধ্রুবক ফাংশন",
+            "ঘ": "সূচক ফাংশন"
+          },
+          "correct_answer": "খ) বিজোড় ফাংশন",
+          "explanation": "odd function-এর symmetric integral শূন্য।",
+          "topic": "Definite Integral",
+          "probability": "Mega Hot"
+        }
+      ],
+      "answer_key": [
+        {
+          "question_no": 1,
+          "answer": "ক) 3x²-12x+9",
+          "explanation": "power rule প্রয়োগ করলে f'(x)=3x²-12x+9।",
+          "topic": "Differential Calculus",
+          "probability": "Mega Hot"
+        },
+        {
+          "question_no": 2,
+          "answer": "ক) 1, 3",
+          "explanation": "f'(x)=3(x-1)(x-3)=0 ⇒ x=1,3।",
+          "topic": "Maxima-Minima",
+          "probability": "Very Hot"
+        },
+        {
+          "question_no": 3,
+          "answer": "খ) স্পর্শক",
+          "explanation": "কেন্দ্র থেকে রেখার দূরত্ব =25/5=5, যা ব্যাসার্ধের সমান।",
+          "topic": "Circle & Tangent",
+          "probability": "Mega Hot"
+        },
+        {
+          "question_no": 4,
+          "answer": "ক) (3,4)",
+          "explanation": "x²+y²=25 বৃত্তে (3,4)-এ স্পর্শক 3x+4y=25।",
+          "topic": "Circle",
+          "probability": "Board Favourite"
+        },
+        {
+          "question_no": 5,
+          "answer": "গ) 11",
+          "explanation": "2×3 - 5(-1)=11।",
+          "topic": "Determinant",
+          "probability": "Mega Hot"
+        },
+        {
+          "question_no": 6,
+          "answer": "ক) 3",
+          "explanation": "projection = a·b/|b| =3/1=3।",
+          "topic": "Vector Projection",
+          "probability": "Very Hot"
+        },
+        {
+          "question_no": 7,
+          "answer": "ক) 6",
+          "explanation": "ক্ষেত্রফল = 1/2 × 4 × 3 = 6।",
+          "topic": "Coordinate Geometry",
+          "probability": "Board Favourite"
+        },
+        {
+          "question_no": 8,
+          "answer": "খ) 1/x",
+          "explanation": "ln x-এর derivative 1/x।",
+          "topic": "Differentiation",
+          "probability": "Mega Hot"
+        },
+        {
+          "question_no": 9,
+          "answer": "খ) ln|x|+C",
+          "explanation": "1/x-এর standard integral ln|x|+C।",
+          "topic": "Integration",
+          "probability": "Mega Hot"
+        },
+        {
+          "question_no": 10,
+          "answer": "গ) 4",
+          "explanation": "16=2⁴, তাই x=4।",
+          "topic": "Exponential Function",
+          "probability": "Very Hot"
+        },
+        {
+          "question_no": 11,
+          "answer": "খ) 360",
+          "explanation": "৬টি অক্ষরের মধ্যে A দুইবার, তাই 6!/2!=360।",
+          "topic": "Permutation",
+          "probability": "Mega Hot"
+        },
+        {
+          "question_no": 12,
+          "answer": "ক) 2sinθcosθ",
+          "explanation": "double angle formula।",
+          "topic": "Trigonometry",
+          "probability": "Board Favourite"
+        },
+        {
+          "question_no": 13,
+          "answer": "ক) x/3+y/4=1",
+          "explanation": "intercept form: x/a + y/b = 1।",
+          "topic": "Straight Line",
+          "probability": "Very Hot"
+        },
+        {
+          "question_no": 14,
+          "answer": "ক) (-g,-f)",
+          "explanation": "সাধারণ বৃত্তের কেন্দ্র (-g,-f)।",
+          "topic": "Circle",
+          "probability": "Board Favourite"
+        },
+        {
+          "question_no": 15,
+          "answer": "ঘ) i, ii ও iii",
+          "explanation": "matrix multiplication non-commutative।",
+          "topic": "Matrix",
+          "probability": "Mega Hot"
+        },
+        {
+          "question_no": 16,
+          "answer": "ক) i ও ii",
+          "explanation": "area-এর জন্য cross product লাগে, dot product নয়।",
+          "topic": "Vector",
+          "probability": "Board Favourite"
+        },
+        {
+          "question_no": 17,
+          "answer": "ক) i ও ii",
+          "explanation": "যোগের logarithm ভাঙা যায় না।",
+          "topic": "Logarithm",
+          "probability": "Conceptual Trap"
+        },
+        {
+          "question_no": 18,
+          "answer": "ক) i ও ii",
+          "explanation": "স্পর্শক বৃত্তকে এক বিন্দুতে স্পর্শ করে।",
+          "topic": "Circle",
+          "probability": "Mega Hot"
+        },
+        {
+          "question_no": 19,
+          "answer": "ঘ) i, ii ও iii",
+          "explanation": "second derivative test board-standard।",
+          "topic": "Differential Calculus",
+          "probability": "Very Hot"
+        },
+        {
+          "question_no": 20,
+          "answer": "ঘ) i, ii ও iii",
+          "explanation": "সবগুলো standard formula।",
+          "topic": "Trigonometry",
+          "probability": "Board Favourite"
+        },
+        {
+          "question_no": 21,
+          "answer": "খ) continuous কিন্তু differentiable নয়",
+          "explanation": "x=0-তে sharp corner থাকায় derivative নেই।",
+          "topic": "Differentiability",
+          "probability": "Conceptual Trap"
+        },
+        {
+          "question_no": 22,
+          "answer": "খ) x-অক্ষের সমান্তরাল",
+          "explanation": "y ধ্রুবক হলে horizontal line।",
+          "topic": "Straight Line",
+          "probability": "Very Hot"
+        },
+        {
+          "question_no": 23,
+          "answer": "খ) লম্ব",
+          "explanation": "perpendicular condition: m₁m₂=-1।",
+          "topic": "Straight Line",
+          "probability": "Mega Hot"
+        },
+        {
+          "question_no": 24,
+          "answer": "ক) nPᵣ = r! nCᵣ",
+          "explanation": "permutation হলো selection-এর r! বিন্যাস।",
+          "topic": "Permutation & Combination",
+          "probability": "Board Favourite"
+        },
+        {
+          "question_no": 25,
+          "answer": "খ) বিজোড় ফাংশন",
+          "explanation": "odd function-এর symmetric integral শূন্য।",
+          "topic": "Definite Integral",
+          "probability": "Mega Hot"
+        }
+      ]
+    },
+    {
+      "set_no": 4,
+      "title": "সেট ৪",
+      "header": {
+        "exam": "এইচএসসি উচ্চতর গণিত ১ম পত্র",
+        "model_test_name": "Hyper Mega Hot Exclusive Model Test",
+        "marks": 25,
+        "subject_code": "265",
+        "time_minutes": 25
+      },
+      "stimuli": [
+        {
+          "stimulus_no": 1,
+          "text": "উদ্দীপক ১: 0,1,2,3,4 অঙ্কগুলো দিয়ে পুনরাবৃত্তি ছাড়া তিন অঙ্কের সংখ্যা গঠন করা হবে।",
+          "question_numbers": [
+            1,
+            2
+          ]
+        },
+        {
+          "stimulus_no": 2,
+          "text": "উদ্দীপক ২: a=i+2j+2k এবং b=2i-j+2k।",
+          "question_numbers": [
+            3,
+            4
+          ]
+        }
+      ],
+      "questions": [
+        {
+          "question_no": 1,
+          "section": "stimulus_based",
+          "stimulus_no": 1,
+          "question": "মোট কতটি তিন অঙ্কের সংখ্যা গঠন করা যায়?",
+          "options": {
+            "ক": "48",
+            "খ": "60",
+            "গ": "64",
+            "ঘ": "80"
+          },
+          "correct_answer": "ক) 48",
+          "explanation": "শতকের ঘরে 0 নয়: 4 উপায়; এরপর 4 ও 3 উপায়, মোট 4×4×3=48।",
+          "topic": "Permutation",
+          "probability": "Mega Hot"
+        },
+        {
+          "question_no": 2,
+          "section": "stimulus_based",
+          "stimulus_no": 1,
+          "question": "কতটি জোড় তিন অঙ্কের সংখ্যা গঠন করা যায়?",
+          "options": {
+            "ক": "24",
+            "খ": "30",
+            "গ": "36",
+            "ঘ": "40"
+          },
+          "correct_answer": "খ) 30",
+          "explanation": "শেষ অঙ্ক 0 হলে 12, শেষ অঙ্ক 2/4 হলে 18; মোট 30।",
+          "topic": "Counting Trap",
+          "probability": "Conceptual Trap"
+        },
+        {
+          "question_no": 3,
+          "section": "stimulus_based",
+          "stimulus_no": 2,
+          "question": "|a| এর মান কত?",
+          "options": {
+            "ক": "2",
+            "খ": "3",
+            "গ": "√5",
+            "ঘ": "√6"
+          },
+          "correct_answer": "খ) 3",
+          "explanation": "|a|=√(1²+2²+2²)=3।",
+          "topic": "Vector",
+          "probability": "Board Favourite"
+        },
+        {
+          "question_no": 4,
+          "section": "stimulus_based",
+          "stimulus_no": 2,
+          "question": "a·b এর মান কত?",
+          "options": {
+            "ক": "0",
+            "খ": "2",
+            "গ": "4",
+            "ঘ": "8"
+          },
+          "correct_answer": "গ) 4",
+          "explanation": "a·b=1×2+2×(-1)+2×2=4।",
+          "topic": "Vector Dot Product",
+          "probability": "Mega Hot"
+        },
+        {
+          "question_no": 5,
+          "section": "normal_board_standard_mcq",
+          "question": "determinant-এর দুটি সারি অভিন্ন হলে determinant কত?",
+          "options": {
+            "ক": "0",
+            "খ": "1",
+            "গ": "-1",
+            "ঘ": "সারির যোগফল"
+          },
+          "correct_answer": "ক) 0",
+          "explanation": "দুটি row/column identical হলে determinant শূন্য।",
+          "topic": "Determinant",
+          "probability": "Mega Hot"
+        },
+        {
+          "question_no": 6,
+          "section": "normal_board_standard_mcq",
+          "question": "একটি square matrix-এর inverse থাকবে যদি—",
+          "options": {
+            "ক": "determinant শূন্য",
+            "খ": "determinant অশূন্য",
+            "গ": "matrix diagonal",
+            "ঘ": "সব উপাদান ধনাত্মক"
+          },
+          "correct_answer": "খ) determinant অশূন্য",
+          "explanation": "non-singular matrix-এর inverse থাকে।",
+          "topic": "Matrix",
+          "probability": "Board Favourite"
+        },
+        {
+          "question_no": 7,
+          "section": "normal_board_standard_mcq",
+          "question": "2x+3y-6=0 রেখার x-intercept কত?",
+          "options": {
+            "ক": "2",
+            "খ": "3",
+            "গ": "-3",
+            "ঘ": "6"
+          },
+          "correct_answer": "খ) 3",
+          "explanation": "y=0 দিলে 2x=6 ⇒ x=3।",
+          "topic": "Straight Line",
+          "probability": "Very Hot"
+        },
+        {
+          "question_no": 8,
+          "section": "normal_board_standard_mcq",
+          "question": "(1,2) বিন্দু থেকে 4x-3y+1=0 রেখার দূরত্ব কত?",
+          "options": {
+            "ক": "1/5",
+            "খ": "1",
+            "গ": "5",
+            "ঘ": "0"
+          },
+          "correct_answer": "ক) 1/5",
+          "explanation": "দূরত্ব=|4-6+1|/√(4²+(-3)²)=1/5।",
+          "topic": "Straight Line",
+          "probability": "Mega Hot"
+        },
+        {
+          "question_no": 9,
+          "section": "normal_board_standard_mcq",
+          "question": "d/dx[x²sinx] কত?",
+          "options": {
+            "ক": "2xsinx+x²cosx",
+            "খ": "x²cosx",
+            "গ": "2xcosx",
+            "ঘ": "2xsinx-x²cosx"
+          },
+          "correct_answer": "ক) 2xsinx+x²cosx",
+          "explanation": "product rule প্রয়োগ করতে হবে।",
+          "topic": "Differentiation",
+          "probability": "Very Hot"
+        },
+        {
+          "question_no": 10,
+          "section": "normal_board_standard_mcq",
+          "question": "∫cos2x dx এর মান কত?",
+          "options": {
+            "ক": "sin2x+C",
+            "খ": "(1/2)sin2x+C",
+            "গ": "2sin2x+C",
+            "ঘ": "-sin2x+C"
+          },
+          "correct_answer": "খ) (1/2)sin2x+C",
+          "explanation": "∫cos(ax)dx=sin(ax)/a।",
+          "topic": "Integration",
+          "probability": "Mega Hot"
+        },
+        {
+          "question_no": 11,
+          "section": "normal_board_standard_mcq",
+          "question": "log₃1 এর মান কত?",
+          "options": {
+            "ক": "0",
+            "খ": "1",
+            "গ": "3",
+            "ঘ": "অসংজ্ঞায়িত"
+          },
+          "correct_answer": "ক) 0",
+          "explanation": "a⁰=1, তাই logₐ1=0।",
+          "topic": "Logarithm",
+          "probability": "Board Favourite"
+        },
+        {
+          "question_no": 12,
+          "section": "normal_board_standard_mcq",
+          "question": "1+tan²θ এর সমান কোনটি?",
+          "options": {
+            "ক": "sec²θ",
+            "খ": "cosec²θ",
+            "গ": "sin²θ",
+            "ঘ": "cos²θ"
+          },
+          "correct_answer": "ক) sec²θ",
+          "explanation": "এটি Pythagorean identity।",
+          "topic": "Trigonometry",
+          "probability": "Mega Hot"
+        },
+        {
+          "question_no": 13,
+          "section": "normal_board_standard_mcq",
+          "question": "¹⁰C₀ এর মান কত?",
+          "options": {
+            "ক": "0",
+            "খ": "1",
+            "গ": "10",
+            "ঘ": "100"
+          },
+          "correct_answer": "খ) 1",
+          "explanation": "nC0=1।",
+          "topic": "Combination",
+          "probability": "Conceptual Trap"
+        },
+        {
+          "question_no": 14,
+          "section": "normal_board_standard_mcq",
+          "question": "i×j এর মান কত?",
+          "options": {
+            "ক": "i",
+            "খ": "j",
+            "গ": "k",
+            "ঘ": "-k"
+          },
+          "correct_answer": "গ) k",
+          "explanation": "standard unit vector cross product: i×j=k।",
+          "topic": "Vector",
+          "probability": "Board Favourite"
+        },
+        {
+          "question_no": 15,
+          "section": "analytical_i_ii_iii",
+          "question": "determinant-এর ধর্ম সম্পর্কে—\ni. row interchange করলে sign বদলায়\nii. একটি row k গুণ করলে determinant k গুণ হয়\niii. দুটি row proportional হলে determinant 0\nনিচের কোনটি সঠিক?",
+          "options": {
+            "ক": "i ও ii",
+            "খ": "i ও iii",
+            "গ": "ii ও iii",
+            "ঘ": "i, ii ও iii"
+          },
+          "correct_answer": "ঘ) i, ii ও iii",
+          "explanation": "এগুলো determinant-এর মৌলিক ধর্ম।",
+          "topic": "Determinant",
+          "probability": "Mega Hot"
+        },
+        {
+          "question_no": 16,
+          "section": "analytical_i_ii_iii",
+          "question": "সরলরেখা ও বৃত্তের সম্পর্ক—\ni. দূরত্ব < r হলে secant\nii. দূরত্ব = r হলে tangent\niii. দূরত্ব > r হলে কোনো বাস্তব ছেদবিন্দু নেই\nনিচের কোনটি সঠিক?",
+          "options": {
+            "ক": "i ও ii",
+            "খ": "i ও iii",
+            "গ": "ii ও iii",
+            "ঘ": "i, ii ও iii"
+          },
+          "correct_answer": "ঘ) i, ii ও iii",
+          "explanation": "কেন্দ্র থেকে রেখার দূরত্ব ও radius তুলনা করলেই সম্পর্ক নির্ণয় হয়।",
+          "topic": "Circle",
+          "probability": "Mega Hot"
+        },
+        {
+          "question_no": 17,
+          "section": "analytical_i_ii_iii",
+          "question": "ত্রিকোণমিতিক সাধারণ সমাধান—\ni. sinx=sinα হলে x=nπ+(-1)^nα\nii. cosx=cosα হলে x=2nπ±α\niii. tanx=tanα হলে x=nπ+α\nনিচের কোনটি সঠিক?",
+          "options": {
+            "ক": "i ও ii",
+            "খ": "i ও iii",
+            "গ": "ii ও iii",
+            "ঘ": "i, ii ও iii"
+          },
+          "correct_answer": "ঘ) i, ii ও iii",
+          "explanation": "সবগুলো standard general solution।",
+          "topic": "Trigonometric Equation",
+          "probability": "Board Favourite"
+        },
+        {
+          "question_no": 18,
+          "section": "analytical_i_ii_iii",
+          "question": "সূচক ও লগ সম্পর্কে—\ni. a^{logₐx}=x, x>0\nii. logₐ(a^m)=m\niii. logₐ0=1\nনিচের কোনটি সঠিক?",
+          "options": {
+            "ক": "i ও ii",
+            "খ": "i ও iii",
+            "গ": "ii ও iii",
+            "ঘ": "i, ii ও iii"
+          },
+          "correct_answer": "ক) i ও ii",
+          "explanation": "logₐ0 সংজ্ঞায়িত নয়।",
+          "topic": "Log & Exponential",
+          "probability": "Conceptual Trap"
+        },
+        {
+          "question_no": 19,
+          "section": "analytical_i_ii_iii",
+          "question": "definite integral symmetry—\ni. f even হলে ∫₋ₐᵃf(x)dx=2∫₀ᵃf(x)dx\nii. f odd হলে ∫₋ₐᵃf(x)dx=0\niii. সব ফাংশনের জন্য ∫₋ₐᵃf(x)dx=0\nনিচের কোনটি সঠিক?",
+          "options": {
+            "ক": "i ও ii",
+            "খ": "i ও iii",
+            "গ": "ii ও iii",
+            "ঘ": "i, ii ও iii"
+          },
+          "correct_answer": "ক) i ও ii",
+          "explanation": "তৃতীয়টি শুধু odd function-এর জন্য সত্য।",
+          "topic": "Definite Integral",
+          "probability": "Mega Hot"
+        },
+        {
+          "question_no": 20,
+          "section": "analytical_i_ii_iii",
+          "question": "ভেক্টর collinearity সম্পর্কে—\ni. a=λb হলে a,b collinear\nii. a×b=0 হলে non-zero a,b সমান্তরাল\niii. a·b=0 হলে a,b collinear\nনিচের কোনটি সঠিক?",
+          "options": {
+            "ক": "i ও ii",
+            "খ": "i ও iii",
+            "গ": "ii ও iii",
+            "ঘ": "i, ii ও iii"
+          },
+          "correct_answer": "ক) i ও ii",
+          "explanation": "dot product শূন্য হলে perpendicular, collinear নয়।",
+          "topic": "Vector",
+          "probability": "Conceptual Trap"
+        },
+        {
+          "question_no": 21,
+          "section": "final_trap_questions",
+          "question": "ধ্রুবক ফাংশনের derivative কত?",
+          "options": {
+            "ক": "0",
+            "খ": "1",
+            "গ": "ধ্রুবকটি",
+            "ঘ": "অসংজ্ঞায়িত"
+          },
+          "correct_answer": "ক) 0",
+          "explanation": "ধ্রুবক পরিবর্তিত হয় না, তাই derivative 0।",
+          "topic": "Differentiation",
+          "probability": "Board Favourite"
+        },
+        {
+          "question_no": 22,
+          "section": "final_trap_questions",
+          "question": "Combination-এ কোনটি গুরুত্বপূর্ণ নয়?",
+          "options": {
+            "ক": "নির্বাচন",
+            "খ": "বস্তুর সংখ্যা",
+            "গ": "বিন্যাসের ক্রম",
+            "ঘ": "নির্বাচিত বস্তুর সংখ্যা"
+          },
+          "correct_answer": "গ) বিন্যাসের ক্রম",
+          "explanation": "combination-এ order ignored।",
+          "topic": "Combination",
+          "probability": "Very Hot"
+        },
+        {
+          "question_no": 23,
+          "section": "final_trap_questions",
+          "question": "একক ভেক্টরের মান কত?",
+          "options": {
+            "ক": "0",
+            "খ": "1",
+            "গ": "-1",
+            "ঘ": "ভেক্টরের দিকের উপর নির্ভরশীল"
+          },
+          "correct_answer": "খ) 1",
+          "explanation": "unit vector-এর magnitude সর্বদা 1।",
+          "topic": "Vector",
+          "probability": "Mega Hot"
+        },
+        {
+          "question_no": 24,
+          "section": "final_trap_questions",
+          "question": "x²+y²+Dx+Ey+F=0 বৃত্তের ব্যাসার্ধ কোনটি?",
+          "options": {
+            "ক": "√((D²+E²)/4 - F)",
+            "খ": "√(D²+E²-F)",
+            "গ": "D²+E²+F",
+            "ঘ": "√F"
+          },
+          "correct_answer": "ক) √((D²+E²)/4 - F)",
+          "explanation": "g=D/2, f=E/2 বসালে radius formula পাওয়া যায়।",
+          "topic": "Circle",
+          "probability": "Board Favourite"
+        },
+        {
+          "question_no": 25,
+          "section": "final_trap_questions",
+          "question": "tanθ অসংজ্ঞায়িত হয় যখন—",
+          "options": {
+            "ক": "sinθ=0",
+            "খ": "cosθ=0",
+            "গ": "tanθ=1",
+            "ঘ": "θ=0"
+          },
+          "correct_answer": "খ) cosθ=0",
+          "explanation": "tanθ=sinθ/cosθ, denominator 0 হলে undefined।",
+          "topic": "Trigonometry",
+          "probability": "Conceptual Trap"
+        }
+      ],
+      "answer_key": [
+        {
+          "question_no": 1,
+          "answer": "ক) 48",
+          "explanation": "শতকের ঘরে 0 নয়: 4 উপায়; এরপর 4 ও 3 উপায়, মোট 4×4×3=48।",
+          "topic": "Permutation",
+          "probability": "Mega Hot"
+        },
+        {
+          "question_no": 2,
+          "answer": "খ) 30",
+          "explanation": "শেষ অঙ্ক 0 হলে 12, শেষ অঙ্ক 2/4 হলে 18; মোট 30।",
+          "topic": "Counting Trap",
+          "probability": "Conceptual Trap"
+        },
+        {
+          "question_no": 3,
+          "answer": "খ) 3",
+          "explanation": "|a|=√(1²+2²+2²)=3।",
+          "topic": "Vector",
+          "probability": "Board Favourite"
+        },
+        {
+          "question_no": 4,
+          "answer": "গ) 4",
+          "explanation": "a·b=1×2+2×(-1)+2×2=4।",
+          "topic": "Vector Dot Product",
+          "probability": "Mega Hot"
+        },
+        {
+          "question_no": 5,
+          "answer": "ক) 0",
+          "explanation": "দুটি row/column identical হলে determinant শূন্য।",
+          "topic": "Determinant",
+          "probability": "Mega Hot"
+        },
+        {
+          "question_no": 6,
+          "answer": "খ) determinant অশূন্য",
+          "explanation": "non-singular matrix-এর inverse থাকে।",
+          "topic": "Matrix",
+          "probability": "Board Favourite"
+        },
+        {
+          "question_no": 7,
+          "answer": "খ) 3",
+          "explanation": "y=0 দিলে 2x=6 ⇒ x=3।",
+          "topic": "Straight Line",
+          "probability": "Very Hot"
+        },
+        {
+          "question_no": 8,
+          "answer": "ক) 1/5",
+          "explanation": "দূরত্ব=|4-6+1|/√(4²+(-3)²)=1/5।",
+          "topic": "Straight Line",
+          "probability": "Mega Hot"
+        },
+        {
+          "question_no": 9,
+          "answer": "ক) 2xsinx+x²cosx",
+          "explanation": "product rule প্রয়োগ করতে হবে।",
+          "topic": "Differentiation",
+          "probability": "Very Hot"
+        },
+        {
+          "question_no": 10,
+          "answer": "খ) (1/2)sin2x+C",
+          "explanation": "∫cos(ax)dx=sin(ax)/a।",
+          "topic": "Integration",
+          "probability": "Mega Hot"
+        },
+        {
+          "question_no": 11,
+          "answer": "ক) 0",
+          "explanation": "a⁰=1, তাই logₐ1=0।",
+          "topic": "Logarithm",
+          "probability": "Board Favourite"
+        },
+        {
+          "question_no": 12,
+          "answer": "ক) sec²θ",
+          "explanation": "এটি Pythagorean identity।",
+          "topic": "Trigonometry",
+          "probability": "Mega Hot"
+        },
+        {
+          "question_no": 13,
+          "answer": "খ) 1",
+          "explanation": "nC0=1।",
+          "topic": "Combination",
+          "probability": "Conceptual Trap"
+        },
+        {
+          "question_no": 14,
+          "answer": "গ) k",
+          "explanation": "standard unit vector cross product: i×j=k।",
+          "topic": "Vector",
+          "probability": "Board Favourite"
+        },
+        {
+          "question_no": 15,
+          "answer": "ঘ) i, ii ও iii",
+          "explanation": "এগুলো determinant-এর মৌলিক ধর্ম।",
+          "topic": "Determinant",
+          "probability": "Mega Hot"
+        },
+        {
+          "question_no": 16,
+          "answer": "ঘ) i, ii ও iii",
+          "explanation": "কেন্দ্র থেকে রেখার দূরত্ব ও radius তুলনা করলেই সম্পর্ক নির্ণয় হয়।",
+          "topic": "Circle",
+          "probability": "Mega Hot"
+        },
+        {
+          "question_no": 17,
+          "answer": "ঘ) i, ii ও iii",
+          "explanation": "সবগুলো standard general solution।",
+          "topic": "Trigonometric Equation",
+          "probability": "Board Favourite"
+        },
+        {
+          "question_no": 18,
+          "answer": "ক) i ও ii",
+          "explanation": "logₐ0 সংজ্ঞায়িত নয়।",
+          "topic": "Log & Exponential",
+          "probability": "Conceptual Trap"
+        },
+        {
+          "question_no": 19,
+          "answer": "ক) i ও ii",
+          "explanation": "তৃতীয়টি শুধু odd function-এর জন্য সত্য।",
+          "topic": "Definite Integral",
+          "probability": "Mega Hot"
+        },
+        {
+          "question_no": 20,
+          "answer": "ক) i ও ii",
+          "explanation": "dot product শূন্য হলে perpendicular, collinear নয়।",
+          "topic": "Vector",
+          "probability": "Conceptual Trap"
+        },
+        {
+          "question_no": 21,
+          "answer": "ক) 0",
+          "explanation": "ধ্রুবক পরিবর্তিত হয় না, তাই derivative 0।",
+          "topic": "Differentiation",
+          "probability": "Board Favourite"
+        },
+        {
+          "question_no": 22,
+          "answer": "গ) বিন্যাসের ক্রম",
+          "explanation": "combination-এ order ignored।",
+          "topic": "Combination",
+          "probability": "Very Hot"
+        },
+        {
+          "question_no": 23,
+          "answer": "খ) 1",
+          "explanation": "unit vector-এর magnitude সর্বদা 1।",
+          "topic": "Vector",
+          "probability": "Mega Hot"
+        },
+        {
+          "question_no": 24,
+          "answer": "ক) √((D²+E²)/4 - F)",
+          "explanation": "g=D/2, f=E/2 বসালে radius formula পাওয়া যায়।",
+          "topic": "Circle",
+          "probability": "Board Favourite"
+        },
+        {
+          "question_no": 25,
+          "answer": "খ) cosθ=0",
+          "explanation": "tanθ=sinθ/cosθ, denominator 0 হলে undefined।",
+          "topic": "Trigonometry",
+          "probability": "Conceptual Trap"
+        }
+      ]
+    },
+    {
+      "set_no": 5,
+      "title": "সেট ৫",
+      "header": {
+        "exam": "এইচএসসি উচ্চতর গণিত ১ম পত্র",
+        "model_test_name": "Hyper Mega Hot Exclusive Model Test",
+        "marks": 25,
+        "subject_code": "265",
+        "time_minutes": 25
+      },
+      "stimuli": [
+        {
+          "stimulus_no": 1,
+          "text": "উদ্দীপক ১: 2x+y=5 এবং x-y=1 দুইটি সরল সমীকরণ।",
+          "question_numbers": [
+            1,
+            2
+          ]
+        },
+        {
+          "stimulus_no": 2,
+          "text": "উদ্দীপক ২: θ সূক্ষ্মকোণ এবং sinθ=3/5।",
+          "question_numbers": [
+            3,
+            4
+          ]
+        }
+      ],
+      "questions": [
+        {
+          "question_no": 1,
+          "section": "stimulus_based",
+          "stimulus_no": 1,
+          "question": "coefficient matrix-এর determinant কত?",
+          "options": {
+            "ক": "-3",
+            "খ": "3",
+            "গ": "1",
+            "ঘ": "0"
+          },
+          "correct_answer": "ক) -3",
+          "explanation": "[[2,1],[1,-1]] এর determinant = -2-1=-3।",
+          "topic": "Matrix System",
+          "probability": "Mega Hot"
+        },
+        {
+          "question_no": 2,
+          "section": "stimulus_based",
+          "stimulus_no": 1,
+          "question": "সমীকরণদ্বয়ের সমাধান কোনটি?",
+          "options": {
+            "ক": "x=2, y=1",
+            "খ": "x=1, y=2",
+            "গ": "x=3, y=-1",
+            "ঘ": "x=0, y=5"
+          },
+          "correct_answer": "ক) x=2, y=1",
+          "explanation": "x-y=1 ও 2x+y=5 সমাধান করলে x=2, y=1।",
+          "topic": "Linear Equations",
+          "probability": "Very Hot"
+        },
+        {
+          "question_no": 3,
+          "section": "stimulus_based",
+          "stimulus_no": 2,
+          "question": "cosθ এর মান কত?",
+          "options": {
+            "ক": "3/5",
+            "খ": "4/5",
+            "গ": "5/3",
+            "ঘ": "5/4"
+          },
+          "correct_answer": "খ) 4/5",
+          "explanation": "সূক্ষ্মকোণে cosθ ধনাত্মক; 3-4-5 triangle।",
+          "topic": "Trigonometry",
+          "probability": "Mega Hot"
+        },
+        {
+          "question_no": 4,
+          "section": "stimulus_based",
+          "stimulus_no": 2,
+          "question": "tan2θ এর মান কত?",
+          "options": {
+            "ক": "24/7",
+            "খ": "7/24",
+            "গ": "12/7",
+            "ঘ": "-24/7"
+          },
+          "correct_answer": "ক) 24/7",
+          "explanation": "tanθ=3/4; tan2θ=2tanθ/(1-tan²θ)=24/7।",
+          "topic": "Trigonometry",
+          "probability": "Conceptual Trap"
+        },
+        {
+          "question_no": 5,
+          "section": "normal_board_standard_mcq",
+          "question": "A যদি 2×3 এবং B যদি 3×2 ম্যাট্রিক্স হয়, তবে AB-এর order কত?",
+          "options": {
+            "ক": "2×2",
+            "খ": "3×3",
+            "গ": "2×3",
+            "ঘ": "3×2"
+          },
+          "correct_answer": "ক) 2×2",
+          "explanation": "AB-এর order হয় বাইরের dimensions: 2×2।",
+          "topic": "Matrix Multiplication",
+          "probability": "Board Favourite"
+        },
+        {
+          "question_no": 6,
+          "section": "normal_board_standard_mcq",
+          "question": "2i-3j+6k ভেক্টরের মান কত?",
+          "options": {
+            "ক": "5",
+            "খ": "6",
+            "গ": "7",
+            "ঘ": "11"
+          },
+          "correct_answer": "গ) 7",
+          "explanation": "√(2²+(-3)²+6²)=√49=7।",
+          "topic": "Vector",
+          "probability": "Mega Hot"
+        },
+        {
+          "question_no": 7,
+          "section": "normal_board_standard_mcq",
+          "question": "(2,-1) ও (5,8) বিন্দুদ্বয় যোগকারী রেখার ঢাল কত?",
+          "options": {
+            "ক": "2",
+            "খ": "3",
+            "গ": "4",
+            "ঘ": "5"
+          },
+          "correct_answer": "খ) 3",
+          "explanation": "m=(8+1)/(5-2)=9/3=3।",
+          "topic": "Straight Line",
+          "probability": "Very Hot"
+        },
+        {
+          "question_no": 8,
+          "section": "normal_board_standard_mcq",
+          "question": "কেন্দ্র (1,-2), ব্যাসার্ধ 3 হলে বৃত্তের সমীকরণ কোনটি?",
+          "options": {
+            "ক": "(x-1)²+(y+2)²=9",
+            "খ": "(x+1)²+(y-2)²=9",
+            "গ": "(x-1)²+(y-2)²=3",
+            "ঘ": "(x+1)²+(y+2)²=9"
+          },
+          "correct_answer": "ক) (x-1)²+(y+2)²=9",
+          "explanation": "standard circle equation।",
+          "topic": "Circle",
+          "probability": "Mega Hot"
+        },
+        {
+          "question_no": 9,
+          "section": "normal_board_standard_mcq",
+          "question": "⁸P₃ এর মান কত?",
+          "options": {
+            "ক": "56",
+            "খ": "168",
+            "গ": "336",
+            "ঘ": "512"
+          },
+          "correct_answer": "গ) 336",
+          "explanation": "⁸P₃=8×7×6=336।",
+          "topic": "Permutation",
+          "probability": "Mega Hot"
+        },
+        {
+          "question_no": 10,
+          "section": "normal_board_standard_mcq",
+          "question": "log₁₀x=2 হলে x কত?",
+          "options": {
+            "ক": "10",
+            "খ": "20",
+            "গ": "100",
+            "ঘ": "1000"
+          },
+          "correct_answer": "গ) 100",
+          "explanation": "x=10²=100।",
+          "topic": "Logarithm",
+          "probability": "Board Favourite"
+        },
+        {
+          "question_no": 11,
+          "section": "normal_board_standard_mcq",
+          "question": "d/dx[tanx] কত?",
+          "options": {
+            "ক": "sec²x",
+            "খ": "cosec²x",
+            "গ": "-sec²x",
+            "ঘ": "tan²x"
+          },
+          "correct_answer": "ক) sec²x",
+          "explanation": "tanx-এর derivative sec²x।",
+          "topic": "Differentiation",
+          "probability": "Mega Hot"
+        },
+        {
+          "question_no": 12,
+          "section": "normal_board_standard_mcq",
+          "question": "∫sec²x dx কত?",
+          "options": {
+            "ক": "secx+C",
+            "খ": "tanx+C",
+            "গ": "cotx+C",
+            "ঘ": "-cotx+C"
+          },
+          "correct_answer": "খ) tanx+C",
+          "explanation": "tanx-এর derivative sec²x।",
+          "topic": "Integration",
+          "probability": "Mega Hot"
+        },
+        {
+          "question_no": 13,
+          "section": "normal_board_standard_mcq",
+          "question": "cos(A-B) এর সূত্র কোনটি?",
+          "options": {
+            "ক": "cosAcosB+sinAsinB",
+            "খ": "cosAcosB-sinAsinB",
+            "গ": "sinAcosB+cosAsinB",
+            "ঘ": "tanA-tanB"
+          },
+          "correct_answer": "ক) cosAcosB+sinAsinB",
+          "explanation": "compound angle formula।",
+          "topic": "Trigonometry",
+          "probability": "Very Hot"
+        },
+        {
+          "question_no": 14,
+          "section": "normal_board_standard_mcq",
+          "question": "অভ্যন্তরীণ maximum/minimum পেতে differentiable f-এর জন্য প্রয়োজনীয় শর্ত কোনটি?",
+          "options": {
+            "ক": "f'(x)=0",
+            "খ": "f(x)=0",
+            "গ": "f''(x)=0",
+            "ঘ": "x=0"
+          },
+          "correct_answer": "ক) f'(x)=0",
+          "explanation": "stationary point-এ first derivative শূন্য হয়।",
+          "topic": "Maxima-Minima",
+          "probability": "Board Favourite"
+        },
+        {
+          "question_no": 15,
+          "section": "analytical_i_ii_iii",
+          "question": "Adjoint ও inverse সম্পর্কে—\ni. A adj(A)=|A|I\nii. |A|≠0 হলে A^{-1}=adj(A)/|A|\niii. adj(A) শুধু singular matrix-এর জন্য থাকে\nনিচের কোনটি সঠিক?",
+          "options": {
+            "ক": "i ও ii",
+            "খ": "i ও iii",
+            "গ": "ii ও iii",
+            "ঘ": "i, ii ও iii"
+          },
+          "correct_answer": "ক) i ও ii",
+          "explanation": "adjoint সব square matrix-এর জন্য সংজ্ঞায়িত।",
+          "topic": "Matrix",
+          "probability": "Conceptual Trap"
+        },
+        {
+          "question_no": 16,
+          "section": "analytical_i_ii_iii",
+          "question": "ভেক্টর product সম্পর্কে—\ni. dot product scalar দেয়\nii. cross product vector দেয়\niii. cross product commutative\nনিচের কোনটি সঠিক?",
+          "options": {
+            "ক": "i ও ii",
+            "খ": "i ও iii",
+            "গ": "ii ও iii",
+            "ঘ": "i, ii ও iii"
+          },
+          "correct_answer": "ক) i ও ii",
+          "explanation": "cross product commutative নয়।",
+          "topic": "Vector",
+          "probability": "Board Favourite"
+        },
+        {
+          "question_no": 17,
+          "section": "analytical_i_ii_iii",
+          "question": "বৃত্তের স্পর্শকের শর্ত—\ni. কেন্দ্র থেকে রেখার দূরত্ব r হলে tangent\nii. দূরত্ব 0 হলে রেখা সবসময় tangent\niii. tangent স্পর্শবিন্দুতে radius-এর লম্ব\nনিচের কোনটি সঠিক?",
+          "options": {
+            "ক": "i ও ii",
+            "খ": "i ও iii",
+            "গ": "ii ও iii",
+            "ঘ": "i, ii ও iii"
+          },
+          "correct_answer": "খ) i ও iii",
+          "explanation": "দূরত্ব 0 মানে রেখা কেন্দ্র দিয়ে যায়; tangent নয়।",
+          "topic": "Circle",
+          "probability": "Mega Hot"
+        },
+        {
+          "question_no": 18,
+          "section": "analytical_i_ii_iii",
+          "question": "Repeated letters-এর permutation—\ni. nটি বস্তুর মধ্যে pটি একই হলে n!/p!\nii. BANGLA-তে A দুইবার আছে\niii. repeated letter থাকলেও সবসময় n! হয়\nনিচের কোনটি সঠিক?",
+          "options": {
+            "ক": "i ও ii",
+            "খ": "i ও iii",
+            "গ": "ii ও iii",
+            "ঘ": "i, ii ও iii"
+          },
+          "correct_answer": "ক) i ও ii",
+          "explanation": "repetition থাকলে factorial দ্বারা ভাগ করতে হয়।",
+          "topic": "Permutation",
+          "probability": "Board Favourite"
+        },
+        {
+          "question_no": 19,
+          "section": "analytical_i_ii_iii",
+          "question": "Continuity ও differentiability—\ni. differentiability ⇒ continuity\nii. continuity ⇒ differentiability সবসময়\niii. |x| x=0-তে continuous\nনিচের কোনটি সঠিক?",
+          "options": {
+            "ক": "i ও ii",
+            "খ": "i ও iii",
+            "গ": "ii ও iii",
+            "ঘ": "i, ii ও iii"
+          },
+          "correct_answer": "খ) i ও iii",
+          "explanation": "continuity derivative-এর guarantee নয়।",
+          "topic": "Calculus",
+          "probability": "Conceptual Trap"
+        },
+        {
+          "question_no": 20,
+          "section": "analytical_i_ii_iii",
+          "question": "Integration rules—\ni. ∫kf(x)dx=k∫f(x)dx\nii. ∫[f(x)+g(x)]dx=∫f(x)dx+∫g(x)dx\niii. ∫f(x)g(x)dx=∫f(x)dx∫g(x)dx সবসময়\nনিচের কোনটি সঠিক?",
+          "options": {
+            "ক": "i ও ii",
+            "খ": "i ও iii",
+            "গ": "ii ও iii",
+            "ঘ": "i, ii ও iii"
+          },
+          "correct_answer": "ক) i ও ii",
+          "explanation": "product-এর integral এভাবে ভাগ হয় না।",
+          "topic": "Integral Calculus",
+          "probability": "Conceptual Trap"
+        },
+        {
+          "question_no": 21,
+          "section": "final_trap_questions",
+          "question": "সমান্তরাল দুই সরলরেখার ঢাল—",
+          "options": {
+            "ক": "সমান",
+            "খ": "গুণফল -1",
+            "গ": "যোগফল 0",
+            "ঘ": "বিপরীত"
+          },
+          "correct_answer": "ক) সমান",
+          "explanation": "parallel lines-এর slope equal।",
+          "topic": "Straight Line",
+          "probability": "Mega Hot"
+        },
+        {
+          "question_no": 22,
+          "section": "final_trap_questions",
+          "question": "সাধারণভাবে AB এবং BA—",
+          "options": {
+            "ক": "সবসময় সমান",
+            "খ": "সবসময় অসম্ভব",
+            "গ": "সমান নাও হতে পারে",
+            "ঘ": "একই order-এর নয়"
+          },
+          "correct_answer": "গ) সমান নাও হতে পারে",
+          "explanation": "matrix multiplication non-commutative।",
+          "topic": "Matrix",
+          "probability": "Conceptual Trap"
+        },
+        {
+          "question_no": 23,
+          "section": "final_trap_questions",
+          "question": "cotθ এর মান কোনটির সমান?",
+          "options": {
+            "ক": "1/tanθ",
+            "খ": "tanθ",
+            "গ": "sinθ/cosθ",
+            "ঘ": "secθ"
+          },
+          "correct_answer": "ক) 1/tanθ",
+          "explanation": "cotθ=cosθ/sinθ=1/tanθ।",
+          "topic": "Trigonometry",
+          "probability": "Board Favourite"
+        },
+        {
+          "question_no": 24,
+          "section": "final_trap_questions",
+          "question": "logarithm-এর base হতে পারে না—",
+          "options": {
+            "ক": "2",
+            "খ": "10",
+            "গ": "e",
+            "ঘ": "1"
+          },
+          "correct_answer": "ঘ) 1",
+          "explanation": "base a>0 এবং a≠1 হতে হয়।",
+          "topic": "Logarithm",
+          "probability": "Mega Hot"
+        },
+        {
+          "question_no": 25,
+          "section": "final_trap_questions",
+          "question": "∫ₐᵃ f(x)dx এর মান কত?",
+          "options": {
+            "ক": "0",
+            "খ": "1",
+            "গ": "f(a)",
+            "ঘ": "a"
+          },
+          "correct_answer": "ক) 0",
+          "explanation": "একই limit হলে definite integral zero।",
+          "topic": "Definite Integral",
+          "probability": "Very Hot"
+        }
+      ],
+      "answer_key": [
+        {
+          "question_no": 1,
+          "answer": "ক) -3",
+          "explanation": "[[2,1],[1,-1]] এর determinant = -2-1=-3।",
+          "topic": "Matrix System",
+          "probability": "Mega Hot"
+        },
+        {
+          "question_no": 2,
+          "answer": "ক) x=2, y=1",
+          "explanation": "x-y=1 ও 2x+y=5 সমাধান করলে x=2, y=1।",
+          "topic": "Linear Equations",
+          "probability": "Very Hot"
+        },
+        {
+          "question_no": 3,
+          "answer": "খ) 4/5",
+          "explanation": "সূক্ষ্মকোণে cosθ ধনাত্মক; 3-4-5 triangle।",
+          "topic": "Trigonometry",
+          "probability": "Mega Hot"
+        },
+        {
+          "question_no": 4,
+          "answer": "ক) 24/7",
+          "explanation": "tanθ=3/4; tan2θ=2tanθ/(1-tan²θ)=24/7।",
+          "topic": "Trigonometry",
+          "probability": "Conceptual Trap"
+        },
+        {
+          "question_no": 5,
+          "answer": "ক) 2×2",
+          "explanation": "AB-এর order হয় বাইরের dimensions: 2×2।",
+          "topic": "Matrix Multiplication",
+          "probability": "Board Favourite"
+        },
+        {
+          "question_no": 6,
+          "answer": "গ) 7",
+          "explanation": "√(2²+(-3)²+6²)=√49=7।",
+          "topic": "Vector",
+          "probability": "Mega Hot"
+        },
+        {
+          "question_no": 7,
+          "answer": "খ) 3",
+          "explanation": "m=(8+1)/(5-2)=9/3=3।",
+          "topic": "Straight Line",
+          "probability": "Very Hot"
+        },
+        {
+          "question_no": 8,
+          "answer": "ক) (x-1)²+(y+2)²=9",
+          "explanation": "standard circle equation।",
+          "topic": "Circle",
+          "probability": "Mega Hot"
+        },
+        {
+          "question_no": 9,
+          "answer": "গ) 336",
+          "explanation": "⁸P₃=8×7×6=336।",
+          "topic": "Permutation",
+          "probability": "Mega Hot"
+        },
+        {
+          "question_no": 10,
+          "answer": "গ) 100",
+          "explanation": "x=10²=100।",
+          "topic": "Logarithm",
+          "probability": "Board Favourite"
+        },
+        {
+          "question_no": 11,
+          "answer": "ক) sec²x",
+          "explanation": "tanx-এর derivative sec²x।",
+          "topic": "Differentiation",
+          "probability": "Mega Hot"
+        },
+        {
+          "question_no": 12,
+          "answer": "খ) tanx+C",
+          "explanation": "tanx-এর derivative sec²x।",
+          "topic": "Integration",
+          "probability": "Mega Hot"
+        },
+        {
+          "question_no": 13,
+          "answer": "ক) cosAcosB+sinAsinB",
+          "explanation": "compound angle formula।",
+          "topic": "Trigonometry",
+          "probability": "Very Hot"
+        },
+        {
+          "question_no": 14,
+          "answer": "ক) f'(x)=0",
+          "explanation": "stationary point-এ first derivative শূন্য হয়।",
+          "topic": "Maxima-Minima",
+          "probability": "Board Favourite"
+        },
+        {
+          "question_no": 15,
+          "answer": "ক) i ও ii",
+          "explanation": "adjoint সব square matrix-এর জন্য সংজ্ঞায়িত।",
+          "topic": "Matrix",
+          "probability": "Conceptual Trap"
+        },
+        {
+          "question_no": 16,
+          "answer": "ক) i ও ii",
+          "explanation": "cross product commutative নয়।",
+          "topic": "Vector",
+          "probability": "Board Favourite"
+        },
+        {
+          "question_no": 17,
+          "answer": "খ) i ও iii",
+          "explanation": "দূরত্ব 0 মানে রেখা কেন্দ্র দিয়ে যায়; tangent নয়।",
+          "topic": "Circle",
+          "probability": "Mega Hot"
+        },
+        {
+          "question_no": 18,
+          "answer": "ক) i ও ii",
+          "explanation": "repetition থাকলে factorial দ্বারা ভাগ করতে হয়।",
+          "topic": "Permutation",
+          "probability": "Board Favourite"
+        },
+        {
+          "question_no": 19,
+          "answer": "খ) i ও iii",
+          "explanation": "continuity derivative-এর guarantee নয়।",
+          "topic": "Calculus",
+          "probability": "Conceptual Trap"
+        },
+        {
+          "question_no": 20,
+          "answer": "ক) i ও ii",
+          "explanation": "product-এর integral এভাবে ভাগ হয় না।",
+          "topic": "Integral Calculus",
+          "probability": "Conceptual Trap"
+        },
+        {
+          "question_no": 21,
+          "answer": "ক) সমান",
+          "explanation": "parallel lines-এর slope equal।",
+          "topic": "Straight Line",
+          "probability": "Mega Hot"
+        },
+        {
+          "question_no": 22,
+          "answer": "গ) সমান নাও হতে পারে",
+          "explanation": "matrix multiplication non-commutative।",
+          "topic": "Matrix",
+          "probability": "Conceptual Trap"
+        },
+        {
+          "question_no": 23,
+          "answer": "ক) 1/tanθ",
+          "explanation": "cotθ=cosθ/sinθ=1/tanθ।",
+          "topic": "Trigonometry",
+          "probability": "Board Favourite"
+        },
+        {
+          "question_no": 24,
+          "answer": "ঘ) 1",
+          "explanation": "base a>0 এবং a≠1 হতে হয়।",
+          "topic": "Logarithm",
+          "probability": "Mega Hot"
+        },
+        {
+          "question_no": 25,
+          "answer": "ক) 0",
+          "explanation": "একই limit হলে definite integral zero।",
+          "topic": "Definite Integral",
+          "probability": "Very Hot"
+        }
+      ]
+    },
+    {
+      "set_no": 6,
+      "title": "সেট ৬",
+      "header": {
+        "exam": "এইচএসসি উচ্চতর গণিত ১ম পত্র",
+        "model_test_name": "Hyper Mega Hot Exclusive Model Test",
+        "marks": 25,
+        "subject_code": "265",
+        "time_minutes": 25
+      },
+      "stimuli": [
+        {
+          "stimulus_no": 1,
+          "text": "উদ্দীপক ১: y=x²-4x+3।",
+          "question_numbers": [
+            1,
+            2
+          ]
+        },
+        {
+          "stimulus_no": 2,
+          "text": "উদ্দীপক ২: A = [[k,1],[4,k]]।",
+          "question_numbers": [
+            3,
+            4
+          ]
+        }
+      ],
+      "questions": [
+        {
+          "question_no": 1,
+          "section": "stimulus_based",
+          "stimulus_no": 1,
+          "question": "বক্ররেখাটির vertex-এর x-coordinate কত?",
+          "options": {
+            "ক": "1",
+            "খ": "2",
+            "গ": "3",
+            "ঘ": "4"
+          },
+          "correct_answer": "খ) 2",
+          "explanation": "y'=2x-4=0 ⇒ x=2।",
+          "topic": "Differential Calculus",
+          "probability": "Mega Hot"
+        },
+        {
+          "question_no": 2,
+          "section": "stimulus_based",
+          "stimulus_no": 1,
+          "question": "x=1 বিন্দুতে স্পর্শকের সমীকরণ কোনটি?",
+          "options": {
+            "ক": "y=-2x+2",
+            "খ": "y=2x-2",
+            "গ": "y=x+1",
+            "ঘ": "y=-x+1"
+          },
+          "correct_answer": "ক) y=-2x+2",
+          "explanation": "x=1 হলে y=0, ঢাল y'=-2; তাই y=-2(x-1)।",
+          "topic": "Tangent",
+          "probability": "Very Hot"
+        },
+        {
+          "question_no": 3,
+          "section": "stimulus_based",
+          "stimulus_no": 2,
+          "question": "A singular হলে k-এর মান কত?",
+          "options": {
+            "ক": "±2",
+            "খ": "±4",
+            "গ": "0",
+            "ঘ": "2 মাত্র"
+          },
+          "correct_answer": "ক) ±2",
+          "explanation": "det(A)=k²-4=0 ⇒ k=±2।",
+          "topic": "Determinant",
+          "probability": "Mega Hot"
+        },
+        {
+          "question_no": 4,
+          "section": "stimulus_based",
+          "stimulus_no": 2,
+          "question": "k=3 হলে |A| কত?",
+          "options": {
+            "ক": "3",
+            "খ": "5",
+            "গ": "9",
+            "ঘ": "13"
+          },
+          "correct_answer": "খ) 5",
+          "explanation": "|A|=3²-4=5।",
+          "topic": "Determinant",
+          "probability": "Board Favourite"
+        },
+        {
+          "question_no": 5,
+          "section": "normal_board_standard_mcq",
+          "question": "a=(4,3) এর b=(1,0) বরাবর scalar projection কত?",
+          "options": {
+            "ক": "3",
+            "খ": "4",
+            "গ": "5",
+            "ঘ": "7"
+          },
+          "correct_answer": "খ) 4",
+          "explanation": "a·b/|b|=4/1=4।",
+          "topic": "Vector Projection",
+          "probability": "Very Hot"
+        },
+        {
+          "question_no": 6,
+          "section": "normal_board_standard_mcq",
+          "question": "i+j এবং i-j ভেক্টরের মধ্যবর্তী কোণ কত?",
+          "options": {
+            "ক": "0°",
+            "খ": "45°",
+            "গ": "90°",
+            "ঘ": "180°"
+          },
+          "correct_answer": "গ) 90°",
+          "explanation": "dot product =1-1=0 ⇒ ভেক্টর দুটি লম্ব।",
+          "topic": "Vector",
+          "probability": "Mega Hot"
+        },
+        {
+          "question_no": 7,
+          "section": "normal_board_standard_mcq",
+          "question": "মূলবিন্দু থেকে 5x-12y+13=0 রেখার দূরত্ব কত?",
+          "options": {
+            "ক": "1",
+            "খ": "5",
+            "গ": "12",
+            "ঘ": "13"
+          },
+          "correct_answer": "ক) 1",
+          "explanation": "দূরত্ব=|13|/√(25+144)=13/13=1।",
+          "topic": "Straight Line",
+          "probability": "Board Favourite"
+        },
+        {
+          "question_no": 8,
+          "section": "normal_board_standard_mcq",
+          "question": "(0,0) ও (4,0) ব্যাসের প্রান্ত হলে বৃত্তের সমীকরণ কোনটি?",
+          "options": {
+            "ক": "(x-2)²+y²=4",
+            "খ": "x²+(y-2)²=4",
+            "গ": "(x+2)²+y²=4",
+            "ঘ": "x²+y²=4"
+          },
+          "correct_answer": "ক) (x-2)²+y²=4",
+          "explanation": "কেন্দ্র midpoint (2,0), radius 2।",
+          "topic": "Circle",
+          "probability": "Very Hot"
+        },
+        {
+          "question_no": 9,
+          "section": "normal_board_standard_mcq",
+          "question": "6! এর মান কত?",
+          "options": {
+            "ক": "120",
+            "খ": "360",
+            "গ": "720",
+            "ঘ": "840"
+          },
+          "correct_answer": "গ) 720",
+          "explanation": "6!=6×5×4×3×2×1=720।",
+          "topic": "Permutation",
+          "probability": "Board Favourite"
+        },
+        {
+          "question_no": 10,
+          "section": "normal_board_standard_mcq",
+          "question": "5 জন ছেলে থেকে 2 জন এবং 4 জন মেয়ে থেকে 1 জন নিয়ে কমিটি কতভাবে?",
+          "options": {
+            "ক": "20",
+            "খ": "30",
+            "গ": "40",
+            "ঘ": "50"
+          },
+          "correct_answer": "গ) 40",
+          "explanation": "⁵C₂×⁴C₁=10×4=40।",
+          "topic": "Combination",
+          "probability": "Mega Hot"
+        },
+        {
+          "question_no": 11,
+          "section": "normal_board_standard_mcq",
+          "question": "d/dx[ln(2x+1)] কত?",
+          "options": {
+            "ক": "1/(2x+1)",
+            "খ": "2/(2x+1)",
+            "গ": "ln2",
+            "ঘ": "2x+1"
+          },
+          "correct_answer": "খ) 2/(2x+1)",
+          "explanation": "chain rule: derivative =2/(2x+1)।",
+          "topic": "Differentiation",
+          "probability": "Very Hot"
+        },
+        {
+          "question_no": 12,
+          "section": "normal_board_standard_mcq",
+          "question": "∫x e^x dx এর মান কত?",
+          "options": {
+            "ক": "xe^x+C",
+            "খ": "e^x(x-1)+C",
+            "গ": "e^x(x+1)+C",
+            "ঘ": "x²e^x+C"
+          },
+          "correct_answer": "খ) e^x(x-1)+C",
+          "explanation": "integration by parts: ∫xe^x dx = xe^x-e^x।",
+          "topic": "Integration by Parts",
+          "probability": "Mega Hot"
+        },
+        {
+          "question_no": 13,
+          "section": "normal_board_standard_mcq",
+          "question": "sin(A+B) এর সূত্র কোনটি?",
+          "options": {
+            "ক": "sinAcosB+cosAsinB",
+            "খ": "sinAcosB-cosAsinB",
+            "গ": "cosAcosB-sinAsinB",
+            "ঘ": "tanA+tanB"
+          },
+          "correct_answer": "ক) sinAcosB+cosAsinB",
+          "explanation": "compound angle formula।",
+          "topic": "Trigonometry",
+          "probability": "Board Favourite"
+        },
+        {
+          "question_no": 14,
+          "section": "normal_board_standard_mcq",
+          "question": "log₂(x-1)=3 হলে x কত?",
+          "options": {
+            "ক": "7",
+            "খ": "8",
+            "গ": "9",
+            "ঘ": "10"
+          },
+          "correct_answer": "গ) 9",
+          "explanation": "x-1=2³=8 ⇒ x=9।",
+          "topic": "Logarithm",
+          "probability": "Very Hot"
+        },
+        {
+          "question_no": 15,
+          "section": "analytical_i_ii_iii",
+          "question": "Matrix equation AX=B সম্পর্কে—\ni. |A|≠0 হলে X=A^{-1}B\nii. |A|=0 হলে A^{-1} নেই\niii. A^{-1}A=I\nনিচের কোনটি সঠিক?",
+          "options": {
+            "ক": "i ও ii",
+            "খ": "i ও iii",
+            "গ": "ii ও iii",
+            "ঘ": "i, ii ও iii"
+          },
+          "correct_answer": "ঘ) i, ii ও iii",
+          "explanation": "inverse method-এর মৌলিক ধারণা।",
+          "topic": "Matrix",
+          "probability": "Mega Hot"
+        },
+        {
+          "question_no": 16,
+          "section": "analytical_i_ii_iii",
+          "question": "Vector area সম্পর্কে—\ni. parallelogram area=|a×b|\nii. triangle area=1/2|a×b|\niii. |a×b|=|a||b|cosθ\nনিচের কোনটি সঠিক?",
+          "options": {
+            "ক": "i ও ii",
+            "খ": "i ও iii",
+            "গ": "ii ও iii",
+            "ঘ": "i, ii ও iii"
+          },
+          "correct_answer": "ক) i ও ii",
+          "explanation": "cross product-এ sinθ থাকে, cosθ নয়।",
+          "topic": "Vector",
+          "probability": "Conceptual Trap"
+        },
+        {
+          "question_no": 17,
+          "section": "analytical_i_ii_iii",
+          "question": "Straight line সম্পর্কে—\ni. ax+by+c=0 রেখার slope=-a/b, b≠0\nii. point-line distance formula-তে absolute value লাগে\niii. parallel line-এর slope product -1\nনিচের কোনটি সঠিক?",
+          "options": {
+            "ক": "i ও ii",
+            "খ": "i ও iii",
+            "গ": "ii ও iii",
+            "ঘ": "i, ii ও iii"
+          },
+          "correct_answer": "ক) i ও ii",
+          "explanation": "product -1 হলো perpendicular condition।",
+          "topic": "Straight Line",
+          "probability": "Board Favourite"
+        },
+        {
+          "question_no": 18,
+          "section": "analytical_i_ii_iii",
+          "question": "Combination সম্পর্কে—\ni. nC0=1\nii. nCn=1\niii. nCr=nC(n-r)\nনিচের কোনটি সঠিক?",
+          "options": {
+            "ক": "i ও ii",
+            "খ": "i ও iii",
+            "গ": "ii ও iii",
+            "ঘ": "i, ii ও iii"
+          },
+          "correct_answer": "ঘ) i, ii ও iii",
+          "explanation": "combination-এর standard identities।",
+          "topic": "Combination",
+          "probability": "Mega Hot"
+        },
+        {
+          "question_no": 19,
+          "section": "analytical_i_ii_iii",
+          "question": "tanx=tanα হলে—\ni. x=nπ+α\nii. period π\niii. শুধু x=α একটি সমাধান\nনিচের কোনটি সঠিক?",
+          "options": {
+            "ক": "i ও ii",
+            "খ": "i ও iii",
+            "গ": "ii ও iii",
+            "ঘ": "i, ii ও iii"
+          },
+          "correct_answer": "ক) i ও ii",
+          "explanation": "tan function-এর period π; অসীম সমাধান থাকে।",
+          "topic": "Trigonometric Equation",
+          "probability": "Very Hot"
+        },
+        {
+          "question_no": 20,
+          "section": "analytical_i_ii_iii",
+          "question": "First derivative test সম্পর্কে—\ni. f' sign + থেকে - হলে maximum\nii. f' sign - থেকে + হলে minimum\niii. sign না বদলালে চরম মান নাও হতে পারে\nনিচের কোনটি সঠিক?",
+          "options": {
+            "ক": "i ও ii",
+            "খ": "i ও iii",
+            "গ": "ii ও iii",
+            "ঘ": "i, ii ও iii"
+          },
+          "correct_answer": "ঘ) i, ii ও iii",
+          "explanation": "first derivative sign change চরম মান নির্দেশ করে।",
+          "topic": "Calculus",
+          "probability": "Board Favourite"
+        },
+        {
+          "question_no": 21,
+          "section": "final_trap_questions",
+          "question": "∫[f(x)+g(x)]dx —",
+          "options": {
+            "ক": "∫f(x)dx+∫g(x)dx",
+            "খ": "∫f(x)dx·∫g(x)dx",
+            "গ": "∫f(x)g(x)dx",
+            "ঘ": "f(x)+g(x)"
+          },
+          "correct_answer": "ক) ∫f(x)dx+∫g(x)dx",
+          "explanation": "integration linear operation।",
+          "topic": "Integral Calculus",
+          "probability": "Board Favourite"
+        },
+        {
+          "question_no": 22,
+          "section": "final_trap_questions",
+          "question": "d(uv)/dx কোনটি?",
+          "options": {
+            "ক": "u'v+uv'",
+            "খ": "u'v'",
+            "গ": "uv",
+            "ঘ": "u+v"
+          },
+          "correct_answer": "ক) u'v+uv'",
+          "explanation": "product rule।",
+          "topic": "Differentiation",
+          "probability": "Mega Hot"
+        },
+        {
+          "question_no": 23,
+          "section": "final_trap_questions",
+          "question": "|A|=0 হলে A^{-1} —",
+          "options": {
+            "ক": "থাকে",
+            "খ": "থাকে না",
+            "গ": "I হয়",
+            "ঘ": "A হয়"
+          },
+          "correct_answer": "খ) থাকে না",
+          "explanation": "singular matrix-এর inverse নেই।",
+          "topic": "Matrix",
+          "probability": "Very Hot"
+        },
+        {
+          "question_no": 24,
+          "section": "final_trap_questions",
+          "question": "a×b এবং b×a এর সম্পর্ক কোনটি?",
+          "options": {
+            "ক": "সমান",
+            "খ": "বিপরীত চিহ্নের",
+            "গ": "dot product",
+            "ঘ": "শূন্য"
+          },
+          "correct_answer": "খ) বিপরীত চিহ্নের",
+          "explanation": "a×b=-(b×a)।",
+          "topic": "Vector",
+          "probability": "Conceptual Trap"
+        },
+        {
+          "question_no": 25,
+          "section": "final_trap_questions",
+          "question": "বৃত্তের স্পর্শক স্পর্শবিন্দুতে কোনটির লম্ব?",
+          "options": {
+            "ক": "ব্যাসার্ধ",
+            "খ": "chord",
+            "গ": "x-অক্ষ",
+            "ঘ": "normal নয়"
+          },
+          "correct_answer": "ক) ব্যাসার্ধ",
+          "explanation": "tangent-radius theorem।",
+          "topic": "Circle",
+          "probability": "Mega Hot"
+        }
+      ],
+      "answer_key": [
+        {
+          "question_no": 1,
+          "answer": "খ) 2",
+          "explanation": "y'=2x-4=0 ⇒ x=2।",
+          "topic": "Differential Calculus",
+          "probability": "Mega Hot"
+        },
+        {
+          "question_no": 2,
+          "answer": "ক) y=-2x+2",
+          "explanation": "x=1 হলে y=0, ঢাল y'=-2; তাই y=-2(x-1)।",
+          "topic": "Tangent",
+          "probability": "Very Hot"
+        },
+        {
+          "question_no": 3,
+          "answer": "ক) ±2",
+          "explanation": "det(A)=k²-4=0 ⇒ k=±2।",
+          "topic": "Determinant",
+          "probability": "Mega Hot"
+        },
+        {
+          "question_no": 4,
+          "answer": "খ) 5",
+          "explanation": "|A|=3²-4=5।",
+          "topic": "Determinant",
+          "probability": "Board Favourite"
+        },
+        {
+          "question_no": 5,
+          "answer": "খ) 4",
+          "explanation": "a·b/|b|=4/1=4।",
+          "topic": "Vector Projection",
+          "probability": "Very Hot"
+        },
+        {
+          "question_no": 6,
+          "answer": "গ) 90°",
+          "explanation": "dot product =1-1=0 ⇒ ভেক্টর দুটি লম্ব।",
+          "topic": "Vector",
+          "probability": "Mega Hot"
+        },
+        {
+          "question_no": 7,
+          "answer": "ক) 1",
+          "explanation": "দূরত্ব=|13|/√(25+144)=13/13=1।",
+          "topic": "Straight Line",
+          "probability": "Board Favourite"
+        },
+        {
+          "question_no": 8,
+          "answer": "ক) (x-2)²+y²=4",
+          "explanation": "কেন্দ্র midpoint (2,0), radius 2।",
+          "topic": "Circle",
+          "probability": "Very Hot"
+        },
+        {
+          "question_no": 9,
+          "answer": "গ) 720",
+          "explanation": "6!=6×5×4×3×2×1=720।",
+          "topic": "Permutation",
+          "probability": "Board Favourite"
+        },
+        {
+          "question_no": 10,
+          "answer": "গ) 40",
+          "explanation": "⁵C₂×⁴C₁=10×4=40।",
+          "topic": "Combination",
+          "probability": "Mega Hot"
+        },
+        {
+          "question_no": 11,
+          "answer": "খ) 2/(2x+1)",
+          "explanation": "chain rule: derivative =2/(2x+1)।",
+          "topic": "Differentiation",
+          "probability": "Very Hot"
+        },
+        {
+          "question_no": 12,
+          "answer": "খ) e^x(x-1)+C",
+          "explanation": "integration by parts: ∫xe^x dx = xe^x-e^x।",
+          "topic": "Integration by Parts",
+          "probability": "Mega Hot"
+        },
+        {
+          "question_no": 13,
+          "answer": "ক) sinAcosB+cosAsinB",
+          "explanation": "compound angle formula।",
+          "topic": "Trigonometry",
+          "probability": "Board Favourite"
+        },
+        {
+          "question_no": 14,
+          "answer": "গ) 9",
+          "explanation": "x-1=2³=8 ⇒ x=9।",
+          "topic": "Logarithm",
+          "probability": "Very Hot"
+        },
+        {
+          "question_no": 15,
+          "answer": "ঘ) i, ii ও iii",
+          "explanation": "inverse method-এর মৌলিক ধারণা।",
+          "topic": "Matrix",
+          "probability": "Mega Hot"
+        },
+        {
+          "question_no": 16,
+          "answer": "ক) i ও ii",
+          "explanation": "cross product-এ sinθ থাকে, cosθ নয়।",
+          "topic": "Vector",
+          "probability": "Conceptual Trap"
+        },
+        {
+          "question_no": 17,
+          "answer": "ক) i ও ii",
+          "explanation": "product -1 হলো perpendicular condition।",
+          "topic": "Straight Line",
+          "probability": "Board Favourite"
+        },
+        {
+          "question_no": 18,
+          "answer": "ঘ) i, ii ও iii",
+          "explanation": "combination-এর standard identities।",
+          "topic": "Combination",
+          "probability": "Mega Hot"
+        },
+        {
+          "question_no": 19,
+          "answer": "ক) i ও ii",
+          "explanation": "tan function-এর period π; অসীম সমাধান থাকে।",
+          "topic": "Trigonometric Equation",
+          "probability": "Very Hot"
+        },
+        {
+          "question_no": 20,
+          "answer": "ঘ) i, ii ও iii",
+          "explanation": "first derivative sign change চরম মান নির্দেশ করে।",
+          "topic": "Calculus",
+          "probability": "Board Favourite"
+        },
+        {
+          "question_no": 21,
+          "answer": "ক) ∫f(x)dx+∫g(x)dx",
+          "explanation": "integration linear operation।",
+          "topic": "Integral Calculus",
+          "probability": "Board Favourite"
+        },
+        {
+          "question_no": 22,
+          "answer": "ক) u'v+uv'",
+          "explanation": "product rule।",
+          "topic": "Differentiation",
+          "probability": "Mega Hot"
+        },
+        {
+          "question_no": 23,
+          "answer": "খ) থাকে না",
+          "explanation": "singular matrix-এর inverse নেই।",
+          "topic": "Matrix",
+          "probability": "Very Hot"
+        },
+        {
+          "question_no": 24,
+          "answer": "খ) বিপরীত চিহ্নের",
+          "explanation": "a×b=-(b×a)।",
+          "topic": "Vector",
+          "probability": "Conceptual Trap"
+        },
+        {
+          "question_no": 25,
+          "answer": "ক) ব্যাসার্ধ",
+          "explanation": "tangent-radius theorem।",
+          "topic": "Circle",
+          "probability": "Mega Hot"
+        }
+      ]
+    },
+    {
+      "set_no": 7,
+      "title": "সেট ৭",
+      "header": {
+        "exam": "এইচএসসি উচ্চতর গণিত ১ম পত্র",
+        "model_test_name": "Hyper Mega Hot Exclusive Model Test",
+        "marks": 25,
+        "subject_code": "265",
+        "time_minutes": 25
+      },
+      "stimuli": [
+        {
+          "stimulus_no": 1,
+          "text": "উদ্দীপক ১: a=i+2j এবং b=3i+4k।",
+          "question_numbers": [
+            1,
+            2
+          ]
+        },
+        {
+          "stimulus_no": 2,
+          "text": "উদ্দীপক ২: L₁: 2x-y+3=0 এবং L₂: x+2y-4=0।",
+          "question_numbers": [
+            3,
+            4
+          ]
+        }
+      ],
+      "questions": [
+        {
+          "question_no": 1,
+          "section": "stimulus_based",
+          "stimulus_no": 1,
+          "question": "a×b কত?",
+          "options": {
+            "ক": "8i-4j-6k",
+            "খ": "8i+4j+6k",
+            "গ": "-8i+4j+6k",
+            "ঘ": "4i-8j+6k"
+          },
+          "correct_answer": "ক) 8i-4j-6k",
+          "explanation": "determinant expansion করলে a×b=8i-4j-6k।",
+          "topic": "Vector Cross Product",
+          "probability": "Mega Hot"
+        },
+        {
+          "question_no": 2,
+          "section": "stimulus_based",
+          "stimulus_no": 1,
+          "question": "a ও b দ্বারা গঠিত সমান্তরচতুর্ভুজের ক্ষেত্রফল কত?",
+          "options": {
+            "ক": "2√29",
+            "খ": "√29",
+            "গ": "29",
+            "ঘ": "4√29"
+          },
+          "correct_answer": "ক) 2√29",
+          "explanation": "ক্ষেত্রফল=|a×b|=√(64+16+36)=2√29।",
+          "topic": "Vector Area",
+          "probability": "Very Hot"
+        },
+        {
+          "question_no": 3,
+          "section": "stimulus_based",
+          "stimulus_no": 2,
+          "question": "L₁ ও L₂ এর সম্পর্ক কী?",
+          "options": {
+            "ক": "সমান্তরাল",
+            "খ": "লম্ব",
+            "গ": "অভিন্ন",
+            "ঘ": "ছেদ করে না"
+          },
+          "correct_answer": "খ) লম্ব",
+          "explanation": "ঢাল 2 ও -1/2; গুণফল -1।",
+          "topic": "Straight Line",
+          "probability": "Mega Hot"
+        },
+        {
+          "question_no": 4,
+          "section": "stimulus_based",
+          "stimulus_no": 2,
+          "question": "L₁ ও L₂ এর ছেদবিন্দু কোনটি?",
+          "options": {
+            "ক": "(-2/5, 11/5)",
+            "খ": "(2/5, -11/5)",
+            "গ": "(1,1)",
+            "ঘ": "(-1,2)"
+          },
+          "correct_answer": "ক) (-2/5, 11/5)",
+          "explanation": "দুটি সমীকরণ সমাধান করলে x=-2/5, y=11/5।",
+          "topic": "Straight Line",
+          "probability": "Very Hot"
+        },
+        {
+          "question_no": 5,
+          "section": "normal_board_standard_mcq",
+          "question": "[[a,b],[c,d]] ম্যাট্রিক্সের adjoint কোনটি?",
+          "options": {
+            "ক": "[[d,-b],[-c,a]]",
+            "খ": "[[a,-b],[-c,d]]",
+            "গ": "[[d,b],[c,a]]",
+            "ঘ": "[[-d,b],[c,-a]]"
+          },
+          "correct_answer": "ক) [[d,-b],[-c,a]]",
+          "explanation": "2×2 ম্যাট্রিক্সের adjoint formula।",
+          "topic": "Matrix",
+          "probability": "Mega Hot"
+        },
+        {
+          "question_no": 6,
+          "section": "normal_board_standard_mcq",
+          "question": "ত্রিভুজাকার ম্যাট্রিক্সের determinant—",
+          "options": {
+            "ক": "diagonal উপাদানের গুণফল",
+            "খ": "সব উপাদানের যোগফল",
+            "গ": "সবসময় 0",
+            "ঘ": "trace"
+          },
+          "correct_answer": "ক) diagonal উপাদানের গুণফল",
+          "explanation": "upper/lower triangular determinant diagonal product।",
+          "topic": "Determinant",
+          "probability": "Board Favourite"
+        },
+        {
+          "question_no": 7,
+          "section": "normal_board_standard_mcq",
+          "question": "lim x→1 (x²-1)/(x-1) কত?",
+          "options": {
+            "ক": "0",
+            "খ": "1",
+            "গ": "2",
+            "ঘ": "অসীম"
+          },
+          "correct_answer": "গ) 2",
+          "explanation": "(x²-1)=(x-1)(x+1), limit=2।",
+          "topic": "Limit",
+          "probability": "Mega Hot"
+        },
+        {
+          "question_no": 8,
+          "section": "normal_board_standard_mcq",
+          "question": "d/dx[√x] কত?",
+          "options": {
+            "ক": "1/(2√x)",
+            "খ": "2√x",
+            "গ": "√x/2",
+            "ঘ": "1/x"
+          },
+          "correct_answer": "ক) 1/(2√x)",
+          "explanation": "√x=x^{1/2}; derivative=(1/2)x^{-1/2}।",
+          "topic": "Differentiation",
+          "probability": "Very Hot"
+        },
+        {
+          "question_no": 9,
+          "section": "normal_board_standard_mcq",
+          "question": "∫2^x dx কত?",
+          "options": {
+            "ক": "2^x+C",
+            "খ": "2^x/ln2+C",
+            "গ": "ln2·2^x+C",
+            "ঘ": "x2^x+C"
+          },
+          "correct_answer": "খ) 2^x/ln2+C",
+          "explanation": "∫a^x dx=a^x/lna + C।",
+          "topic": "Integration",
+          "probability": "Board Favourite"
+        },
+        {
+          "question_no": 10,
+          "section": "normal_board_standard_mcq",
+          "question": "nটি distinct বস্তুর rটি নিয়ে permutation কোনটি?",
+          "options": {
+            "ক": "n!/(n-r)!",
+            "খ": "n!/(r!(n-r)!)",
+            "গ": "r!",
+            "ঘ": "n-r"
+          },
+          "correct_answer": "ক) n!/(n-r)!",
+          "explanation": "nPᵣ formula।",
+          "topic": "Permutation",
+          "probability": "Mega Hot"
+        },
+        {
+          "question_no": 11,
+          "section": "normal_board_standard_mcq",
+          "question": "sin⁻¹(1/2)-এর principal value কত?",
+          "options": {
+            "ক": "π/6",
+            "খ": "π/4",
+            "গ": "π/3",
+            "ঘ": "π/2"
+          },
+          "correct_answer": "ক) π/6",
+          "explanation": "principal range-এ sinπ/6=1/2।",
+          "topic": "Trigonometry",
+          "probability": "Very Hot"
+        },
+        {
+          "question_no": 12,
+          "section": "normal_board_standard_mcq",
+          "question": "y=x² বক্ররেখার x=2 বিন্দুতে স্পর্শকের সমীকরণ কোনটি?",
+          "options": {
+            "ক": "y=4x-4",
+            "খ": "y=2x+2",
+            "গ": "y=4x+4",
+            "ঘ": "y=x+2"
+          },
+          "correct_answer": "ক) y=4x-4",
+          "explanation": "point (2,4), slope=4; y-4=4(x-2)।",
+          "topic": "Tangent",
+          "probability": "Mega Hot"
+        },
+        {
+          "question_no": 13,
+          "section": "normal_board_standard_mcq",
+          "question": "কেন্দ্র (3,2) এবং x-অক্ষকে স্পর্শ করে এমন বৃত্তের ব্যাসার্ধ কত?",
+          "options": {
+            "ক": "2",
+            "খ": "3",
+            "গ": "5",
+            "ঘ": "6"
+          },
+          "correct_answer": "ক) 2",
+          "explanation": "x-অক্ষ থেকে কেন্দ্রের দূরত্ব |2|=2।",
+          "topic": "Circle",
+          "probability": "Board Favourite"
+        },
+        {
+          "question_no": 14,
+          "section": "normal_board_standard_mcq",
+          "question": "logₐ(a^m) এর মান কত?",
+          "options": {
+            "ক": "a",
+            "খ": "m",
+            "গ": "am",
+            "ঘ": "1"
+          },
+          "correct_answer": "খ) m",
+          "explanation": "logarithm ও exponent inverse operation।",
+          "topic": "Logarithm",
+          "probability": "Very Hot"
+        },
+        {
+          "question_no": 15,
+          "section": "analytical_i_ii_iii",
+          "question": "Limit সম্পর্কে—\ni. direct substitution সবসময় সম্ভব নয়\nii. factorization করে removable form সরানো যায়\niii. limit থাকলে function value একই হতে হবে\nনিচের কোনটি সঠিক?",
+          "options": {
+            "ক": "i ও ii",
+            "খ": "i ও iii",
+            "গ": "ii ও iii",
+            "ঘ": "i, ii ও iii"
+          },
+          "correct_answer": "ক) i ও ii",
+          "explanation": "limit থাকতে function value একই হওয়া বাধ্যতামূলক নয়।",
+          "topic": "Limit",
+          "probability": "Conceptual Trap"
+        },
+        {
+          "question_no": 16,
+          "section": "analytical_i_ii_iii",
+          "question": "Identity matrix সম্পর্কে—\ni. diagonal উপাদান 1\nii. non-diagonal উপাদান 0\niii. AI=IA=A\nনিচের কোনটি সঠিক?",
+          "options": {
+            "ক": "i ও ii",
+            "খ": "i ও iii",
+            "গ": "ii ও iii",
+            "ঘ": "i, ii ও iii"
+          },
+          "correct_answer": "ঘ) i, ii ও iii",
+          "explanation": "identity matrix multiplication identity হিসেবে কাজ করে।",
+          "topic": "Matrix",
+          "probability": "Board Favourite"
+        },
+        {
+          "question_no": 17,
+          "section": "analytical_i_ii_iii",
+          "question": "Vector scalar product—\ni. commutative\nii. distributive over addition\niii. ফলাফল vector\nনিচের কোনটি সঠিক?",
+          "options": {
+            "ক": "i ও ii",
+            "খ": "i ও iii",
+            "গ": "ii ও iii",
+            "ঘ": "i, ii ও iii"
+          },
+          "correct_answer": "ক) i ও ii",
+          "explanation": "dot product-এর ফলাফল scalar।",
+          "topic": "Vector",
+          "probability": "Conceptual Trap"
+        },
+        {
+          "question_no": 18,
+          "section": "analytical_i_ii_iii",
+          "question": "দুই সরলরেখার ক্ষেত্রে—\ni. সমান্তরাল হলে slope সমান\nii. লম্ব হলে m₁m₂=-1\niii. অভিন্ন হলে শুধু slope সমান হলেই যথেষ্ট\nনিচের কোনটি সঠিক?",
+          "options": {
+            "ক": "i ও ii",
+            "খ": "i ও iii",
+            "গ": "ii ও iii",
+            "ঘ": "i, ii ও iii"
+          },
+          "correct_answer": "ক) i ও ii",
+          "explanation": "অভিন্ন হতে intercept-ও একই শর্ত পূরণ করতে হয়।",
+          "topic": "Straight Line",
+          "probability": "Very Hot"
+        },
+        {
+          "question_no": 19,
+          "section": "analytical_i_ii_iii",
+          "question": "ত্রিকোণমিতিক অভেদ—\ni. sin²θ+cos²θ=1\nii. 1+tan²θ=sec²θ\niii. 1+cot²θ=cosec²θ\nনিচের কোনটি সঠিক?",
+          "options": {
+            "ক": "i ও ii",
+            "খ": "i ও iii",
+            "গ": "ii ও iii",
+            "ঘ": "i, ii ও iii"
+          },
+          "correct_answer": "ঘ) i, ii ও iii",
+          "explanation": "তিনটিই মৌলিক identity।",
+          "topic": "Trigonometry",
+          "probability": "Mega Hot"
+        },
+        {
+          "question_no": 20,
+          "section": "analytical_i_ii_iii",
+          "question": "Exponential-log inverse সম্পর্কে—\ni. e^{lnx}=x, x>0\nii. ln(e^x)=x\niii. ln(xy)=lnx+lny, x,y>0\nনিচের কোনটি সঠিক?",
+          "options": {
+            "ক": "i ও ii",
+            "খ": "i ও iii",
+            "গ": "ii ও iii",
+            "ঘ": "i, ii ও iii"
+          },
+          "correct_answer": "ঘ) i, ii ও iii",
+          "explanation": "সবগুলো valid logarithmic relation।",
+          "topic": "Logarithm",
+          "probability": "Board Favourite"
+        },
+        {
+          "question_no": 21,
+          "section": "final_trap_questions",
+          "question": "উল্লম্ব রেখার slope—",
+          "options": {
+            "ক": "0",
+            "খ": "1",
+            "গ": "undefined",
+            "ঘ": "-1"
+          },
+          "correct_answer": "গ) undefined",
+          "explanation": "vertical line-এ horizontal change শূন্য।",
+          "topic": "Straight Line",
+          "probability": "Conceptual Trap"
+        },
+        {
+          "question_no": 22,
+          "section": "final_trap_questions",
+          "question": "nC₁ এর মান কত?",
+          "options": {
+            "ক": "1",
+            "খ": "n",
+            "গ": "n²",
+            "ঘ": "0"
+          },
+          "correct_answer": "খ) n",
+          "explanation": "nটি থেকে ১টি নির্বাচন n উপায়।",
+          "topic": "Combination",
+          "probability": "Mega Hot"
+        },
+        {
+          "question_no": 23,
+          "section": "final_trap_questions",
+          "question": "Differentiable ফাংশন সম্পর্কে কোনটি সঠিক?",
+          "options": {
+            "ক": "সর্বদা continuous",
+            "খ": "কখনো continuous নয়",
+            "গ": "সর্বদা constant",
+            "ঘ": "derivative নেই"
+          },
+          "correct_answer": "ক) সর্বদা continuous",
+          "explanation": "differentiability continuity imply করে।",
+          "topic": "Calculus",
+          "probability": "Board Favourite"
+        },
+        {
+          "question_no": 24,
+          "section": "final_trap_questions",
+          "question": "sinx ও cosx এর range কী?",
+          "options": {
+            "ক": "[0,1]",
+            "খ": "[-1,1]",
+            "গ": "(-∞,∞)",
+            "ঘ": "[1,∞)"
+          },
+          "correct_answer": "খ) [-1,1]",
+          "explanation": "sine ও cosine bounded function।",
+          "topic": "Trigonometry",
+          "probability": "Very Hot"
+        },
+        {
+          "question_no": 25,
+          "section": "final_trap_questions",
+          "question": "Identity matrix-এর determinant কত?",
+          "options": {
+            "ক": "0",
+            "খ": "1",
+            "গ": "n",
+            "ঘ": "-1"
+          },
+          "correct_answer": "খ) 1",
+          "explanation": "diagonal elements-এর গুণফল 1।",
+          "topic": "Matrix",
+          "probability": "Board Favourite"
+        }
+      ],
+      "answer_key": [
+        {
+          "question_no": 1,
+          "answer": "ক) 8i-4j-6k",
+          "explanation": "determinant expansion করলে a×b=8i-4j-6k।",
+          "topic": "Vector Cross Product",
+          "probability": "Mega Hot"
+        },
+        {
+          "question_no": 2,
+          "answer": "ক) 2√29",
+          "explanation": "ক্ষেত্রফল=|a×b|=√(64+16+36)=2√29।",
+          "topic": "Vector Area",
+          "probability": "Very Hot"
+        },
+        {
+          "question_no": 3,
+          "answer": "খ) লম্ব",
+          "explanation": "ঢাল 2 ও -1/2; গুণফল -1।",
+          "topic": "Straight Line",
+          "probability": "Mega Hot"
+        },
+        {
+          "question_no": 4,
+          "answer": "ক) (-2/5, 11/5)",
+          "explanation": "দুটি সমীকরণ সমাধান করলে x=-2/5, y=11/5।",
+          "topic": "Straight Line",
+          "probability": "Very Hot"
+        },
+        {
+          "question_no": 5,
+          "answer": "ক) [[d,-b],[-c,a]]",
+          "explanation": "2×2 ম্যাট্রিক্সের adjoint formula।",
+          "topic": "Matrix",
+          "probability": "Mega Hot"
+        },
+        {
+          "question_no": 6,
+          "answer": "ক) diagonal উপাদানের গুণফল",
+          "explanation": "upper/lower triangular determinant diagonal product।",
+          "topic": "Determinant",
+          "probability": "Board Favourite"
+        },
+        {
+          "question_no": 7,
+          "answer": "গ) 2",
+          "explanation": "(x²-1)=(x-1)(x+1), limit=2।",
+          "topic": "Limit",
+          "probability": "Mega Hot"
+        },
+        {
+          "question_no": 8,
+          "answer": "ক) 1/(2√x)",
+          "explanation": "√x=x^{1/2}; derivative=(1/2)x^{-1/2}।",
+          "topic": "Differentiation",
+          "probability": "Very Hot"
+        },
+        {
+          "question_no": 9,
+          "answer": "খ) 2^x/ln2+C",
+          "explanation": "∫a^x dx=a^x/lna + C।",
+          "topic": "Integration",
+          "probability": "Board Favourite"
+        },
+        {
+          "question_no": 10,
+          "answer": "ক) n!/(n-r)!",
+          "explanation": "nPᵣ formula।",
+          "topic": "Permutation",
+          "probability": "Mega Hot"
+        },
+        {
+          "question_no": 11,
+          "answer": "ক) π/6",
+          "explanation": "principal range-এ sinπ/6=1/2।",
+          "topic": "Trigonometry",
+          "probability": "Very Hot"
+        },
+        {
+          "question_no": 12,
+          "answer": "ক) y=4x-4",
+          "explanation": "point (2,4), slope=4; y-4=4(x-2)।",
+          "topic": "Tangent",
+          "probability": "Mega Hot"
+        },
+        {
+          "question_no": 13,
+          "answer": "ক) 2",
+          "explanation": "x-অক্ষ থেকে কেন্দ্রের দূরত্ব |2|=2।",
+          "topic": "Circle",
+          "probability": "Board Favourite"
+        },
+        {
+          "question_no": 14,
+          "answer": "খ) m",
+          "explanation": "logarithm ও exponent inverse operation।",
+          "topic": "Logarithm",
+          "probability": "Very Hot"
+        },
+        {
+          "question_no": 15,
+          "answer": "ক) i ও ii",
+          "explanation": "limit থাকতে function value একই হওয়া বাধ্যতামূলক নয়।",
+          "topic": "Limit",
+          "probability": "Conceptual Trap"
+        },
+        {
+          "question_no": 16,
+          "answer": "ঘ) i, ii ও iii",
+          "explanation": "identity matrix multiplication identity হিসেবে কাজ করে।",
+          "topic": "Matrix",
+          "probability": "Board Favourite"
+        },
+        {
+          "question_no": 17,
+          "answer": "ক) i ও ii",
+          "explanation": "dot product-এর ফলাফল scalar।",
+          "topic": "Vector",
+          "probability": "Conceptual Trap"
+        },
+        {
+          "question_no": 18,
+          "answer": "ক) i ও ii",
+          "explanation": "অভিন্ন হতে intercept-ও একই শর্ত পূরণ করতে হয়।",
+          "topic": "Straight Line",
+          "probability": "Very Hot"
+        },
+        {
+          "question_no": 19,
+          "answer": "ঘ) i, ii ও iii",
+          "explanation": "তিনটিই মৌলিক identity।",
+          "topic": "Trigonometry",
+          "probability": "Mega Hot"
+        },
+        {
+          "question_no": 20,
+          "answer": "ঘ) i, ii ও iii",
+          "explanation": "সবগুলো valid logarithmic relation।",
+          "topic": "Logarithm",
+          "probability": "Board Favourite"
+        },
+        {
+          "question_no": 21,
+          "answer": "গ) undefined",
+          "explanation": "vertical line-এ horizontal change শূন্য।",
+          "topic": "Straight Line",
+          "probability": "Conceptual Trap"
+        },
+        {
+          "question_no": 22,
+          "answer": "খ) n",
+          "explanation": "nটি থেকে ১টি নির্বাচন n উপায়।",
+          "topic": "Combination",
+          "probability": "Mega Hot"
+        },
+        {
+          "question_no": 23,
+          "answer": "ক) সর্বদা continuous",
+          "explanation": "differentiability continuity imply করে।",
+          "topic": "Calculus",
+          "probability": "Board Favourite"
+        },
+        {
+          "question_no": 24,
+          "answer": "খ) [-1,1]",
+          "explanation": "sine ও cosine bounded function।",
+          "topic": "Trigonometry",
+          "probability": "Very Hot"
+        },
+        {
+          "question_no": 25,
+          "answer": "খ) 1",
+          "explanation": "diagonal elements-এর গুণফল 1।",
+          "topic": "Matrix",
+          "probability": "Board Favourite"
+        }
+      ]
+    },
+    {
+      "set_no": 8,
+      "title": "সেট ৮",
+      "header": {
+        "exam": "এইচএসসি উচ্চতর গণিত ১ম পত্র",
+        "model_test_name": "Hyper Mega Hot Exclusive Model Test",
+        "marks": 25,
+        "subject_code": "265",
+        "time_minutes": 25
+      },
+      "stimuli": [
+        {
+          "stimulus_no": 1,
+          "text": "উদ্দীপক ১: log₂x + log₂(x-2)=3।",
+          "question_numbers": [
+            1,
+            2
+          ]
+        },
+        {
+          "stimulus_no": 2,
+          "text": "উদ্দীপক ২: বৃত্ত (x-1)²+(y+2)²=25।",
+          "question_numbers": [
+            3,
+            4
+          ]
+        }
+      ],
+      "questions": [
+        {
+          "question_no": 1,
+          "section": "stimulus_based",
+          "stimulus_no": 1,
+          "question": "সমীকরণটির domain কোনটি?",
+          "options": {
+            "ক": "x>2",
+            "খ": "x>0",
+            "গ": "x<2",
+            "ঘ": "সব বাস্তব x"
+          },
+          "correct_answer": "ক) x>2",
+          "explanation": "x>0 এবং x-2>0 ⇒ x>2।",
+          "topic": "Logarithm",
+          "probability": "Mega Hot"
+        },
+        {
+          "question_no": 2,
+          "section": "stimulus_based",
+          "stimulus_no": 1,
+          "question": "সমীকরণটির সমাধান কত?",
+          "options": {
+            "ক": "2",
+            "খ": "3",
+            "গ": "4",
+            "ঘ": "8"
+          },
+          "correct_answer": "গ) 4",
+          "explanation": "log₂[x(x-2)]=3 ⇒ x²-2x=8 ⇒ x=4 domain অনুযায়ী।",
+          "topic": "Logarithmic Equation",
+          "probability": "Conceptual Trap"
+        },
+        {
+          "question_no": 3,
+          "section": "stimulus_based",
+          "stimulus_no": 2,
+          "question": "বৃত্তটির ব্যাসার্ধ কত?",
+          "options": {
+            "ক": "3",
+            "খ": "4",
+            "গ": "5",
+            "ঘ": "25"
+          },
+          "correct_answer": "গ) 5",
+          "explanation": "standard form থেকে r²=25 ⇒ r=5।",
+          "topic": "Circle",
+          "probability": "Board Favourite"
+        },
+        {
+          "question_no": 4,
+          "section": "stimulus_based",
+          "stimulus_no": 2,
+          "question": "(4,2) বিন্দুতে স্পর্শকের সমীকরণ কোনটি?",
+          "options": {
+            "ক": "3x+4y-20=0",
+            "খ": "4x+3y-20=0",
+            "গ": "3x-4y+20=0",
+            "ঘ": "x+y=6"
+          },
+          "correct_answer": "ক) 3x+4y-20=0",
+          "explanation": "3(x-1)+4(y+2)=25 ⇒ 3x+4y-20=0।",
+          "topic": "Circle Tangent",
+          "probability": "Mega Hot"
+        },
+        {
+          "question_no": 5,
+          "section": "normal_board_standard_mcq",
+          "question": "A যদি 3×2 এবং B যদি 2×4 হয়, তবে AB-এর order কত?",
+          "options": {
+            "ক": "3×4",
+            "খ": "2×2",
+            "গ": "4×3",
+            "ঘ": "3×2"
+          },
+          "correct_answer": "ক) 3×4",
+          "explanation": "outer dimensions 3 ও 4।",
+          "topic": "Matrix",
+          "probability": "Very Hot"
+        },
+        {
+          "question_no": 6,
+          "section": "normal_board_standard_mcq",
+          "question": "A^T=A হলে A ম্যাট্রিক্সটি—",
+          "options": {
+            "ক": "symmetric",
+            "খ": "skew-symmetric",
+            "গ": "singular",
+            "ঘ": "diagonal মাত্র"
+          },
+          "correct_answer": "ক) symmetric",
+          "explanation": "transpose একই হলে symmetric matrix।",
+          "topic": "Matrix",
+          "probability": "Board Favourite"
+        },
+        {
+          "question_no": 7,
+          "section": "normal_board_standard_mcq",
+          "question": "(1,2,3) ও (3,2,1) ভেক্টরের dot product কত?",
+          "options": {
+            "ক": "6",
+            "খ": "8",
+            "গ": "10",
+            "ঘ": "14"
+          },
+          "correct_answer": "গ) 10",
+          "explanation": "1×3+2×2+3×1=10।",
+          "topic": "Vector",
+          "probability": "Mega Hot"
+        },
+        {
+          "question_no": 8,
+          "section": "normal_board_standard_mcq",
+          "question": "x+y=1 এবং x-y=1 রেখাদ্বয়ের মধ্যবর্তী কোণ কত?",
+          "options": {
+            "ক": "0°",
+            "খ": "45°",
+            "গ": "90°",
+            "ঘ": "180°"
+          },
+          "correct_answer": "গ) 90°",
+          "explanation": "ঢাল -1 ও 1; গুণফল -1।",
+          "topic": "Straight Line",
+          "probability": "Very Hot"
+        },
+        {
+          "question_no": 9,
+          "section": "normal_board_standard_mcq",
+          "question": "⁹C₇ এর মান কত?",
+          "options": {
+            "ক": "21",
+            "খ": "36",
+            "গ": "72",
+            "ঘ": "84"
+          },
+          "correct_answer": "খ) 36",
+          "explanation": "⁹C₇=⁹C₂=36।",
+          "topic": "Combination",
+          "probability": "Mega Hot"
+        },
+        {
+          "question_no": 10,
+          "section": "normal_board_standard_mcq",
+          "question": "5 জন distinct ব্যক্তি বৃত্তাকারে বসার উপায় কত?",
+          "options": {
+            "ক": "5!",
+            "খ": "4!",
+            "গ": "3!",
+            "ঘ": "25"
+          },
+          "correct_answer": "খ) 4!",
+          "explanation": "circular permutation: (n-1)!।",
+          "topic": "Permutation",
+          "probability": "Very Hot"
+        },
+        {
+          "question_no": 11,
+          "section": "normal_board_standard_mcq",
+          "question": "d/dx[secx] কত?",
+          "options": {
+            "ক": "secx tanx",
+            "খ": "-secx tanx",
+            "গ": "cosecx cotx",
+            "ঘ": "tan²x"
+          },
+          "correct_answer": "ক) secx tanx",
+          "explanation": "secx-এর derivative secx tanx।",
+          "topic": "Differentiation",
+          "probability": "Board Favourite"
+        },
+        {
+          "question_no": 12,
+          "section": "normal_board_standard_mcq",
+          "question": "∫sinx dx কত?",
+          "options": {
+            "ক": "cosx+C",
+            "খ": "-cosx+C",
+            "গ": "tanx+C",
+            "ঘ": "-sinx+C"
+          },
+          "correct_answer": "খ) -cosx+C",
+          "explanation": "-cosx-এর derivative sinx।",
+          "topic": "Integration",
+          "probability": "Mega Hot"
+        },
+        {
+          "question_no": 13,
+          "section": "normal_board_standard_mcq",
+          "question": "cos2θ এর একটি রূপ কোনটি?",
+          "options": {
+            "ক": "1-2sin²θ",
+            "খ": "2sinθcosθ",
+            "গ": "1+2sin²θ",
+            "ঘ": "tan²θ"
+          },
+          "correct_answer": "ক) 1-2sin²θ",
+          "explanation": "double angle identity।",
+          "topic": "Trigonometry",
+          "probability": "Board Favourite"
+        },
+        {
+          "question_no": 14,
+          "section": "normal_board_standard_mcq",
+          "question": "e^{lnx}=x সম্পর্কটি সত্য যখন—",
+          "options": {
+            "ক": "x>0",
+            "খ": "x<0",
+            "গ": "x=0",
+            "ঘ": "সব বাস্তব x"
+          },
+          "correct_answer": "ক) x>0",
+          "explanation": "lnx বাস্তবে সংজ্ঞায়িত হয় x>0 হলে।",
+          "topic": "Logarithm",
+          "probability": "Mega Hot"
+        },
+        {
+          "question_no": 15,
+          "section": "analytical_i_ii_iii",
+          "question": "Logarithm laws—\ni. logₐ(x/y)=logₐx-logₐy\nii. logₐ(x^n)=nlogₐx\niii. logₐ(x+y)=logₐx+logₐy\nনিচের কোনটি সঠিক?",
+          "options": {
+            "ক": "i ও ii",
+            "খ": "i ও iii",
+            "গ": "ii ও iii",
+            "ঘ": "i, ii ও iii"
+          },
+          "correct_answer": "ক) i ও ii",
+          "explanation": "sum rule logarithm-এ নেই।",
+          "topic": "Logarithm",
+          "probability": "Conceptual Trap"
+        },
+        {
+          "question_no": 16,
+          "section": "analytical_i_ii_iii",
+          "question": "বৃত্ত সম্পর্কে—\ni. center-radius form: (x-h)²+(y-k)²=r²\nii. r=0 হলে point circle হতে পারে\niii. r² negative হলেও বাস্তব বৃত্ত থাকে\nনিচের কোনটি সঠিক?",
+          "options": {
+            "ক": "i ও ii",
+            "খ": "i ও iii",
+            "গ": "ii ও iii",
+            "ঘ": "i, ii ও iii"
+          },
+          "correct_answer": "ক) i ও ii",
+          "explanation": "বাস্তব বৃত্তের জন্য r²≥0 দরকার।",
+          "topic": "Circle",
+          "probability": "Very Hot"
+        },
+        {
+          "question_no": 17,
+          "section": "analytical_i_ii_iii",
+          "question": "Integration by parts-এ—\ni. ∫u dv=uv-∫v du\nii. LIATE rule choice-এ সাহায্য করে\niii. ∫uv dx = ∫u dx ∫v dx সবসময়\nনিচের কোনটি সঠিক?",
+          "options": {
+            "ক": "i ও ii",
+            "খ": "i ও iii",
+            "গ": "ii ও iii",
+            "ঘ": "i, ii ও iii"
+          },
+          "correct_answer": "ক) i ও ii",
+          "explanation": "product integral আলাদা product of integrals নয়।",
+          "topic": "Integration",
+          "probability": "Board Favourite"
+        },
+        {
+          "question_no": 18,
+          "section": "analytical_i_ii_iii",
+          "question": "scalar ও vector product—\ni. a·b scalar\nii. a×b vector\niii. |a×b| ক্ষেত্রফল-সম্পর্কিত\nনিচের কোনটি সঠিক?",
+          "options": {
+            "ক": "i ও ii",
+            "খ": "i ও iii",
+            "গ": "ii ও iii",
+            "ঘ": "i, ii ও iii"
+          },
+          "correct_answer": "ঘ) i, ii ও iii",
+          "explanation": "সবগুলো vector algebra-এর মৌলিক concept।",
+          "topic": "Vector",
+          "probability": "Mega Hot"
+        },
+        {
+          "question_no": 19,
+          "section": "analytical_i_ii_iii",
+          "question": "P&C সম্পর্কে—\ni. circular permutation of n distinct objects = (n-1)!\nii. nP0=1\niii. nC0=0\nনিচের কোনটি সঠিক?",
+          "options": {
+            "ক": "i ও ii",
+            "খ": "i ও iii",
+            "গ": "ii ও iii",
+            "ঘ": "i, ii ও iii"
+          },
+          "correct_answer": "ক) i ও ii",
+          "explanation": "nC0=1।",
+          "topic": "Permutation & Combination",
+          "probability": "Conceptual Trap"
+        },
+        {
+          "question_no": 20,
+          "section": "analytical_i_ii_iii",
+          "question": "sinx=sinα এর সাধারণ সমাধান—\ni. x=nπ+(-1)^nα\nii. x=α শুধু একটি সমাধান\niii. periodic nature বিবেচনা করতে হয়\nনিচের কোনটি সঠিক?",
+          "options": {
+            "ক": "i ও ii",
+            "খ": "i ও iii",
+            "গ": "ii ও iii",
+            "ঘ": "i, ii ও iii"
+          },
+          "correct_answer": "খ) i ও iii",
+          "explanation": "trig equation-এ periodic solutions থাকে।",
+          "topic": "Trigonometric Equation",
+          "probability": "Very Hot"
+        },
+        {
+          "question_no": 21,
+          "section": "final_trap_questions",
+          "question": "ln1 এর মান কত?",
+          "options": {
+            "ক": "0",
+            "খ": "1",
+            "গ": "e",
+            "ঘ": "অসংজ্ঞায়িত"
+          },
+          "correct_answer": "ক) 0",
+          "explanation": "e⁰=1, তাই ln1=0।",
+          "topic": "Logarithm",
+          "probability": "Board Favourite"
+        },
+        {
+          "question_no": 22,
+          "section": "final_trap_questions",
+          "question": "|A^T| এর মান কোনটির সমান?",
+          "options": {
+            "ক": "|A|",
+            "খ": "-|A|",
+            "গ": "0",
+            "ঘ": "|A|²"
+          },
+          "correct_answer": "ক) |A|",
+          "explanation": "transpose করলে determinant অপরিবর্তিত থাকে।",
+          "topic": "Determinant",
+          "probability": "Mega Hot"
+        },
+        {
+          "question_no": 23,
+          "section": "final_trap_questions",
+          "question": "ax+by+c=0 রেখার slope, b≠0 হলে—",
+          "options": {
+            "ক": "-a/b",
+            "খ": "a/b",
+            "গ": "-b/a",
+            "ঘ": "c/a"
+          },
+          "correct_answer": "ক) -a/b",
+          "explanation": "y=-(a/b)x-c/b।",
+          "topic": "Straight Line",
+          "probability": "Very Hot"
+        },
+        {
+          "question_no": 24,
+          "section": "final_trap_questions",
+          "question": "(AB)^{-1} এর সঠিক রূপ কোনটি?",
+          "options": {
+            "ক": "B^{-1}A^{-1}",
+            "খ": "A^{-1}B^{-1}",
+            "গ": "AB",
+            "ঘ": "A+B"
+          },
+          "correct_answer": "ক) B^{-1}A^{-1}",
+          "explanation": "inverse of product-এ order reverse হয়।",
+          "topic": "Matrix",
+          "probability": "Conceptual Trap"
+        },
+        {
+          "question_no": 25,
+          "section": "final_trap_questions",
+          "question": "Definite integral-এর ফলাফল সাধারণত—",
+          "options": {
+            "ক": "একটি সংখ্যা",
+            "খ": "x-এর function",
+            "গ": "derivative",
+            "ঘ": "matrix"
+          },
+          "correct_answer": "ক) একটি সংখ্যা",
+          "explanation": "limits বসালে definite integral numerical value দেয়।",
+          "topic": "Integral Calculus",
+          "probability": "Board Favourite"
+        }
+      ],
+      "answer_key": [
+        {
+          "question_no": 1,
+          "answer": "ক) x>2",
+          "explanation": "x>0 এবং x-2>0 ⇒ x>2।",
+          "topic": "Logarithm",
+          "probability": "Mega Hot"
+        },
+        {
+          "question_no": 2,
+          "answer": "গ) 4",
+          "explanation": "log₂[x(x-2)]=3 ⇒ x²-2x=8 ⇒ x=4 domain অনুযায়ী।",
+          "topic": "Logarithmic Equation",
+          "probability": "Conceptual Trap"
+        },
+        {
+          "question_no": 3,
+          "answer": "গ) 5",
+          "explanation": "standard form থেকে r²=25 ⇒ r=5।",
+          "topic": "Circle",
+          "probability": "Board Favourite"
+        },
+        {
+          "question_no": 4,
+          "answer": "ক) 3x+4y-20=0",
+          "explanation": "3(x-1)+4(y+2)=25 ⇒ 3x+4y-20=0।",
+          "topic": "Circle Tangent",
+          "probability": "Mega Hot"
+        },
+        {
+          "question_no": 5,
+          "answer": "ক) 3×4",
+          "explanation": "outer dimensions 3 ও 4।",
+          "topic": "Matrix",
+          "probability": "Very Hot"
+        },
+        {
+          "question_no": 6,
+          "answer": "ক) symmetric",
+          "explanation": "transpose একই হলে symmetric matrix।",
+          "topic": "Matrix",
+          "probability": "Board Favourite"
+        },
+        {
+          "question_no": 7,
+          "answer": "গ) 10",
+          "explanation": "1×3+2×2+3×1=10।",
+          "topic": "Vector",
+          "probability": "Mega Hot"
+        },
+        {
+          "question_no": 8,
+          "answer": "গ) 90°",
+          "explanation": "ঢাল -1 ও 1; গুণফল -1।",
+          "topic": "Straight Line",
+          "probability": "Very Hot"
+        },
+        {
+          "question_no": 9,
+          "answer": "খ) 36",
+          "explanation": "⁹C₇=⁹C₂=36।",
+          "topic": "Combination",
+          "probability": "Mega Hot"
+        },
+        {
+          "question_no": 10,
+          "answer": "খ) 4!",
+          "explanation": "circular permutation: (n-1)!।",
+          "topic": "Permutation",
+          "probability": "Very Hot"
+        },
+        {
+          "question_no": 11,
+          "answer": "ক) secx tanx",
+          "explanation": "secx-এর derivative secx tanx।",
+          "topic": "Differentiation",
+          "probability": "Board Favourite"
+        },
+        {
+          "question_no": 12,
+          "answer": "খ) -cosx+C",
+          "explanation": "-cosx-এর derivative sinx।",
+          "topic": "Integration",
+          "probability": "Mega Hot"
+        },
+        {
+          "question_no": 13,
+          "answer": "ক) 1-2sin²θ",
+          "explanation": "double angle identity।",
+          "topic": "Trigonometry",
+          "probability": "Board Favourite"
+        },
+        {
+          "question_no": 14,
+          "answer": "ক) x>0",
+          "explanation": "lnx বাস্তবে সংজ্ঞায়িত হয় x>0 হলে।",
+          "topic": "Logarithm",
+          "probability": "Mega Hot"
+        },
+        {
+          "question_no": 15,
+          "answer": "ক) i ও ii",
+          "explanation": "sum rule logarithm-এ নেই।",
+          "topic": "Logarithm",
+          "probability": "Conceptual Trap"
+        },
+        {
+          "question_no": 16,
+          "answer": "ক) i ও ii",
+          "explanation": "বাস্তব বৃত্তের জন্য r²≥0 দরকার।",
+          "topic": "Circle",
+          "probability": "Very Hot"
+        },
+        {
+          "question_no": 17,
+          "answer": "ক) i ও ii",
+          "explanation": "product integral আলাদা product of integrals নয়।",
+          "topic": "Integration",
+          "probability": "Board Favourite"
+        },
+        {
+          "question_no": 18,
+          "answer": "ঘ) i, ii ও iii",
+          "explanation": "সবগুলো vector algebra-এর মৌলিক concept।",
+          "topic": "Vector",
+          "probability": "Mega Hot"
+        },
+        {
+          "question_no": 19,
+          "answer": "ক) i ও ii",
+          "explanation": "nC0=1।",
+          "topic": "Permutation & Combination",
+          "probability": "Conceptual Trap"
+        },
+        {
+          "question_no": 20,
+          "answer": "খ) i ও iii",
+          "explanation": "trig equation-এ periodic solutions থাকে।",
+          "topic": "Trigonometric Equation",
+          "probability": "Very Hot"
+        },
+        {
+          "question_no": 21,
+          "answer": "ক) 0",
+          "explanation": "e⁰=1, তাই ln1=0।",
+          "topic": "Logarithm",
+          "probability": "Board Favourite"
+        },
+        {
+          "question_no": 22,
+          "answer": "ক) |A|",
+          "explanation": "transpose করলে determinant অপরিবর্তিত থাকে।",
+          "topic": "Determinant",
+          "probability": "Mega Hot"
+        },
+        {
+          "question_no": 23,
+          "answer": "ক) -a/b",
+          "explanation": "y=-(a/b)x-c/b।",
+          "topic": "Straight Line",
+          "probability": "Very Hot"
+        },
+        {
+          "question_no": 24,
+          "answer": "ক) B^{-1}A^{-1}",
+          "explanation": "inverse of product-এ order reverse হয়।",
+          "topic": "Matrix",
+          "probability": "Conceptual Trap"
+        },
+        {
+          "question_no": 25,
+          "answer": "ক) একটি সংখ্যা",
+          "explanation": "limits বসালে definite integral numerical value দেয়।",
+          "topic": "Integral Calculus",
+          "probability": "Board Favourite"
+        }
+      ]
+    },
+    {
+      "set_no": 9,
+      "title": "সেট ৯",
+      "header": {
+        "exam": "এইচএসসি উচ্চতর গণিত ১ম পত্র",
+        "model_test_name": "Hyper Mega Hot Exclusive Model Test",
+        "marks": 25,
+        "subject_code": "265",
+        "time_minutes": 25
+      },
+      "stimuli": [
+        {
+          "stimulus_no": 1,
+          "text": "উদ্দীপক ১: y=sinx+cosx।",
+          "question_numbers": [
+            1,
+            2
+          ]
+        },
+        {
+          "stimulus_no": 2,
+          "text": "উদ্দীপক ২: A = [[1,2],[2,4]]।",
+          "question_numbers": [
+            3,
+            4
+          ]
+        }
+      ],
+      "questions": [
+        {
+          "question_no": 1,
+          "section": "stimulus_based",
+          "stimulus_no": 1,
+          "question": "dy/dx কত?",
+          "options": {
+            "ক": "cosx-sinx",
+            "খ": "cosx+sinx",
+            "গ": "-cosx-sinx",
+            "ঘ": "sinx-cosx"
+          },
+          "correct_answer": "ক) cosx-sinx",
+          "explanation": "d(sinx)=cosx, d(cosx)=-sinx।",
+          "topic": "Differentiation",
+          "probability": "Mega Hot"
+        },
+        {
+          "question_no": 2,
+          "section": "stimulus_based",
+          "stimulus_no": 1,
+          "question": "x=π/4 হলে স্পর্শকের ঢাল কত?",
+          "options": {
+            "ক": "0",
+            "খ": "1",
+            "গ": "√2",
+            "ঘ": "-1"
+          },
+          "correct_answer": "ক) 0",
+          "explanation": "cosπ/4 - sinπ/4=0।",
+          "topic": "Tangent",
+          "probability": "Very Hot"
+        },
+        {
+          "question_no": 3,
+          "section": "stimulus_based",
+          "stimulus_no": 2,
+          "question": "|A| এর মান কত?",
+          "options": {
+            "ক": "0",
+            "খ": "1",
+            "গ": "4",
+            "ঘ": "8"
+          },
+          "correct_answer": "ক) 0",
+          "explanation": "1×4-2×2=0।",
+          "topic": "Determinant",
+          "probability": "Mega Hot"
+        },
+        {
+          "question_no": 4,
+          "section": "stimulus_based",
+          "stimulus_no": 2,
+          "question": "A^{-1} সম্পর্কে কোনটি সঠিক?",
+          "options": {
+            "ক": "আছে",
+            "খ": "নেই",
+            "গ": "A নিজেই inverse",
+            "ঘ": "identity matrix"
+          },
+          "correct_answer": "খ) নেই",
+          "explanation": "determinant শূন্য হওয়ায় matrix singular।",
+          "topic": "Inverse Matrix",
+          "probability": "Board Favourite"
+        },
+        {
+          "question_no": 5,
+          "section": "normal_board_standard_mcq",
+          "question": "|[[0,1],[-1,0]]| এর মান কত?",
+          "options": {
+            "ক": "-1",
+            "খ": "0",
+            "গ": "1",
+            "ঘ": "2"
+          },
+          "correct_answer": "গ) 1",
+          "explanation": "0×0-1(-1)=1।",
+          "topic": "Determinant",
+          "probability": "Very Hot"
+        },
+        {
+          "question_no": 6,
+          "section": "normal_board_standard_mcq",
+          "question": "i ও j উভয়ের লম্ব একক ভেক্টর কোনটি?",
+          "options": {
+            "ক": "i",
+            "খ": "j",
+            "গ": "k",
+            "ঘ": "i+j"
+          },
+          "correct_answer": "গ) k",
+          "explanation": "i×j=k, যা i ও j উভয়ের লম্ব।",
+          "topic": "Vector",
+          "probability": "Mega Hot"
+        },
+        {
+          "question_no": 7,
+          "section": "normal_board_standard_mcq",
+          "question": "(2,3) বিন্দু থেকে y=3 রেখার দূরত্ব কত?",
+          "options": {
+            "ক": "0",
+            "খ": "1",
+            "গ": "2",
+            "ঘ": "3"
+          },
+          "correct_answer": "ক) 0",
+          "explanation": "বিন্দুটি রেখার উপরেই অবস্থিত।",
+          "topic": "Straight Line",
+          "probability": "Conceptual Trap"
+        },
+        {
+          "question_no": 8,
+          "section": "normal_board_standard_mcq",
+          "question": "x²+y²+8x-6y=0 বৃত্তের কেন্দ্র ও ব্যাসার্ধ কোনটি?",
+          "options": {
+            "ক": "(-4,3),5",
+            "খ": "(4,-3),5",
+            "গ": "(-4,-3),5",
+            "ঘ": "(4,3),25"
+          },
+          "correct_answer": "ক) (-4,3),5",
+          "explanation": "g=4, f=-3 ⇒ center(-4,3), r=√(16+9)=5।",
+          "topic": "Circle",
+          "probability": "Mega Hot"
+        },
+        {
+          "question_no": 9,
+          "section": "normal_board_standard_mcq",
+          "question": "1,2,3,4 অঙ্ক দিয়ে repetition ছাড়া চার অঙ্কের সংখ্যা কত?",
+          "options": {
+            "ক": "12",
+            "খ": "16",
+            "গ": "24",
+            "ঘ": "64"
+          },
+          "correct_answer": "গ) 24",
+          "explanation": "4!=24।",
+          "topic": "Permutation",
+          "probability": "Board Favourite"
+        },
+        {
+          "question_no": 10,
+          "section": "normal_board_standard_mcq",
+          "question": "5টি বস্তু থেকে অন্তত 1টি নির্বাচন করার উপায় কত?",
+          "options": {
+            "ক": "15",
+            "খ": "31",
+            "গ": "32",
+            "ঘ": "120"
+          },
+          "correct_answer": "খ) 31",
+          "explanation": "মোট subset 2⁵, empty বাদ দিলে 31।",
+          "topic": "Combination",
+          "probability": "Very Hot"
+        },
+        {
+          "question_no": 11,
+          "section": "normal_board_standard_mcq",
+          "question": "0≤θ<π এবং tanθ=1 হলে θ কত?",
+          "options": {
+            "ক": "π/4",
+            "খ": "π/2",
+            "গ": "3π/4",
+            "ঘ": "π"
+          },
+          "correct_answer": "ক) π/4",
+          "explanation": "given interval-এ tanθ=1-এর একমাত্র মান π/4।",
+          "topic": "Trigonometry",
+          "probability": "Mega Hot"
+        },
+        {
+          "question_no": 12,
+          "section": "normal_board_standard_mcq",
+          "question": "d/dx[x^x] কত?",
+          "options": {
+            "ক": "x^x",
+            "খ": "x^x(lnx+1)",
+            "গ": "xlnx",
+            "ঘ": "x^{x-1}"
+          },
+          "correct_answer": "খ) x^x(lnx+1)",
+          "explanation": "log differentiation: y=x^x ⇒ lny=xlnx।",
+          "topic": "Differentiation",
+          "probability": "Very Hot"
+        },
+        {
+          "question_no": 13,
+          "section": "normal_board_standard_mcq",
+          "question": "∫lnx dx কত?",
+          "options": {
+            "ক": "xlnx-x+C",
+            "খ": "lnx+C",
+            "গ": "xlnx+C",
+            "ঘ": "1/x+C"
+          },
+          "correct_answer": "ক) xlnx-x+C",
+          "explanation": "integration by parts।",
+          "topic": "Integration",
+          "probability": "Mega Hot"
+        },
+        {
+          "question_no": 14,
+          "section": "normal_board_standard_mcq",
+          "question": "log₄2 এর মান কত?",
+          "options": {
+            "ক": "1/2",
+            "খ": "2",
+            "গ": "4",
+            "ঘ": "0"
+          },
+          "correct_answer": "ক) 1/2",
+          "explanation": "4^{1/2}=2।",
+          "topic": "Logarithm",
+          "probability": "Board Favourite"
+        },
+        {
+          "question_no": 15,
+          "section": "analytical_i_ii_iii",
+          "question": "determinant ও ক্ষেত্রফল—\ni. দুটি vector-এর determinant plane area দিতে পারে\nii. row proportional হলে determinant 0\niii. determinant সবসময় ধনাত্মক\nনিচের কোনটি সঠিক?",
+          "options": {
+            "ক": "i ও ii",
+            "খ": "i ও iii",
+            "গ": "ii ও iii",
+            "ঘ": "i, ii ও iii"
+          },
+          "correct_answer": "ক) i ও ii",
+          "explanation": "determinant negative-ও হতে পারে।",
+          "topic": "Determinant",
+          "probability": "Conceptual Trap"
+        },
+        {
+          "question_no": 16,
+          "section": "analytical_i_ii_iii",
+          "question": "Projection সম্পর্কে—\ni. scalar projection = a·b/|b|\nii. vector projection b-এর দিকে হয়\niii. a·b=0 হলে projection zero\nনিচের কোনটি সঠিক?",
+          "options": {
+            "ক": "i ও ii",
+            "খ": "i ও iii",
+            "গ": "ii ও iii",
+            "ঘ": "i, ii ও iii"
+          },
+          "correct_answer": "ঘ) i, ii ও iii",
+          "explanation": "সবগুলো projection-এর মৌলিক ধারণা।",
+          "topic": "Vector",
+          "probability": "Mega Hot"
+        },
+        {
+          "question_no": 17,
+          "section": "analytical_i_ii_iii",
+          "question": "সরলরেখা সম্পর্কে—\ni. y=mx+c রেখার slope m\nii. x=a রেখার slope undefined\niii. y=b রেখার slope 0\nনিচের কোনটি সঠিক?",
+          "options": {
+            "ক": "i ও ii",
+            "খ": "i ও iii",
+            "গ": "ii ও iii",
+            "ঘ": "i, ii ও iii"
+          },
+          "correct_answer": "ঘ) i, ii ও iii",
+          "explanation": "রেখার standard slope concepts।",
+          "topic": "Straight Line",
+          "probability": "Board Favourite"
+        },
+        {
+          "question_no": 18,
+          "section": "analytical_i_ii_iii",
+          "question": "বৃত্তের general equation—\ni. x² ও y²-এর coefficient সমান\nii. xy term থাকে না\niii. x² ও y²-এর coefficient বিপরীত হলে বৃত্ত হয়\nনিচের কোনটি সঠিক?",
+          "options": {
+            "ক": "i ও ii",
+            "খ": "i ও iii",
+            "গ": "ii ও iii",
+            "ঘ": "i, ii ও iii"
+          },
+          "correct_answer": "ক) i ও ii",
+          "explanation": "circle equation-এ x²,y² coefficient same এবং xy term absent।",
+          "topic": "Circle",
+          "probability": "Very Hot"
+        },
+        {
+          "question_no": 19,
+          "section": "analytical_i_ii_iii",
+          "question": "Differentiation rules—\ni. d(u+v)/dx=u'+v'\nii. d(ku)/dx=ku'\niii. d(uv)/dx=u'v'\nনিচের কোনটি সঠিক?",
+          "options": {
+            "ক": "i ও ii",
+            "খ": "i ও iii",
+            "গ": "ii ও iii",
+            "ঘ": "i, ii ও iii"
+          },
+          "correct_answer": "ক) i ও ii",
+          "explanation": "product rule u'v+uv', u'v' নয়।",
+          "topic": "Differentiation",
+          "probability": "Conceptual Trap"
+        },
+        {
+          "question_no": 20,
+          "section": "analytical_i_ii_iii",
+          "question": "Integration rules—\ni. ∫a^x dx=a^x/lna+C\nii. ∫1/x dx=ln|x|+C\niii. ∫0 dx=C\nনিচের কোনটি সঠিক?",
+          "options": {
+            "ক": "i ও ii",
+            "খ": "i ও iii",
+            "গ": "ii ও iii",
+            "ঘ": "i, ii ও iii"
+          },
+          "correct_answer": "ঘ) i, ii ও iii",
+          "explanation": "সবগুলো standard integral।",
+          "topic": "Integration",
+          "probability": "Board Favourite"
+        },
+        {
+          "question_no": 21,
+          "section": "final_trap_questions",
+          "question": "log(x+y) সাধারণভাবে—",
+          "options": {
+            "ক": "logx+logy",
+            "খ": "logx-logy",
+            "গ": "logxy",
+            "ঘ": "উপরোক্ত কোনোটিই নয়"
+          },
+          "correct_answer": "ঘ) উপরোক্ত কোনোটিই নয়",
+          "explanation": "sum-এর logarithm আলাদা করা যায় না।",
+          "topic": "Logarithm",
+          "probability": "Conceptual Trap"
+        },
+        {
+          "question_no": 22,
+          "section": "final_trap_questions",
+          "question": "sin(A+B) সাধারণভাবে sinA+sinB কি?",
+          "options": {
+            "ক": "হ্যাঁ",
+            "খ": "না",
+            "গ": "শুধু A=B হলে",
+            "ঘ": "শুধু A=0 হলে"
+          },
+          "correct_answer": "খ) না",
+          "explanation": "sin(A+B)=sinAcosB+cosAsinB।",
+          "topic": "Trigonometry",
+          "probability": "Conceptual Trap"
+        },
+        {
+          "question_no": 23,
+          "section": "final_trap_questions",
+          "question": "singular matrix-এর determinant—",
+          "options": {
+            "ক": "0",
+            "খ": "1",
+            "গ": "-1",
+            "ঘ": "undefined"
+          },
+          "correct_answer": "ক) 0",
+          "explanation": "singular বলতে determinant zero।",
+          "topic": "Matrix",
+          "probability": "Mega Hot"
+        },
+        {
+          "question_no": 24,
+          "section": "final_trap_questions",
+          "question": "শূন্য ভেক্টরের দিক—",
+          "options": {
+            "ক": "i বরাবর",
+            "খ": "j বরাবর",
+            "গ": "নির্দিষ্ট নয়",
+            "ঘ": "k বরাবর"
+          },
+          "correct_answer": "গ) নির্দিষ্ট নয়",
+          "explanation": "zero vector-এর magnitude 0 এবং direction undefined।",
+          "topic": "Vector",
+          "probability": "Board Favourite"
+        },
+        {
+          "question_no": 25,
+          "section": "final_trap_questions",
+          "question": "nP₀ এর মান কত?",
+          "options": {
+            "ক": "0",
+            "খ": "1",
+            "গ": "n",
+            "ঘ": "n!"
+          },
+          "correct_answer": "খ) 1",
+          "explanation": "শূন্যটি নেওয়ার বিন্যাস একভাবে হয়।",
+          "topic": "Permutation",
+          "probability": "Very Hot"
+        }
+      ],
+      "answer_key": [
+        {
+          "question_no": 1,
+          "answer": "ক) cosx-sinx",
+          "explanation": "d(sinx)=cosx, d(cosx)=-sinx।",
+          "topic": "Differentiation",
+          "probability": "Mega Hot"
+        },
+        {
+          "question_no": 2,
+          "answer": "ক) 0",
+          "explanation": "cosπ/4 - sinπ/4=0।",
+          "topic": "Tangent",
+          "probability": "Very Hot"
+        },
+        {
+          "question_no": 3,
+          "answer": "ক) 0",
+          "explanation": "1×4-2×2=0।",
+          "topic": "Determinant",
+          "probability": "Mega Hot"
+        },
+        {
+          "question_no": 4,
+          "answer": "খ) নেই",
+          "explanation": "determinant শূন্য হওয়ায় matrix singular।",
+          "topic": "Inverse Matrix",
+          "probability": "Board Favourite"
+        },
+        {
+          "question_no": 5,
+          "answer": "গ) 1",
+          "explanation": "0×0-1(-1)=1।",
+          "topic": "Determinant",
+          "probability": "Very Hot"
+        },
+        {
+          "question_no": 6,
+          "answer": "গ) k",
+          "explanation": "i×j=k, যা i ও j উভয়ের লম্ব।",
+          "topic": "Vector",
+          "probability": "Mega Hot"
+        },
+        {
+          "question_no": 7,
+          "answer": "ক) 0",
+          "explanation": "বিন্দুটি রেখার উপরেই অবস্থিত।",
+          "topic": "Straight Line",
+          "probability": "Conceptual Trap"
+        },
+        {
+          "question_no": 8,
+          "answer": "ক) (-4,3),5",
+          "explanation": "g=4, f=-3 ⇒ center(-4,3), r=√(16+9)=5।",
+          "topic": "Circle",
+          "probability": "Mega Hot"
+        },
+        {
+          "question_no": 9,
+          "answer": "গ) 24",
+          "explanation": "4!=24।",
+          "topic": "Permutation",
+          "probability": "Board Favourite"
+        },
+        {
+          "question_no": 10,
+          "answer": "খ) 31",
+          "explanation": "মোট subset 2⁵, empty বাদ দিলে 31।",
+          "topic": "Combination",
+          "probability": "Very Hot"
+        },
+        {
+          "question_no": 11,
+          "answer": "ক) π/4",
+          "explanation": "given interval-এ tanθ=1-এর একমাত্র মান π/4।",
+          "topic": "Trigonometry",
+          "probability": "Mega Hot"
+        },
+        {
+          "question_no": 12,
+          "answer": "খ) x^x(lnx+1)",
+          "explanation": "log differentiation: y=x^x ⇒ lny=xlnx।",
+          "topic": "Differentiation",
+          "probability": "Very Hot"
+        },
+        {
+          "question_no": 13,
+          "answer": "ক) xlnx-x+C",
+          "explanation": "integration by parts।",
+          "topic": "Integration",
+          "probability": "Mega Hot"
+        },
+        {
+          "question_no": 14,
+          "answer": "ক) 1/2",
+          "explanation": "4^{1/2}=2।",
+          "topic": "Logarithm",
+          "probability": "Board Favourite"
+        },
+        {
+          "question_no": 15,
+          "answer": "ক) i ও ii",
+          "explanation": "determinant negative-ও হতে পারে।",
+          "topic": "Determinant",
+          "probability": "Conceptual Trap"
+        },
+        {
+          "question_no": 16,
+          "answer": "ঘ) i, ii ও iii",
+          "explanation": "সবগুলো projection-এর মৌলিক ধারণা।",
+          "topic": "Vector",
+          "probability": "Mega Hot"
+        },
+        {
+          "question_no": 17,
+          "answer": "ঘ) i, ii ও iii",
+          "explanation": "রেখার standard slope concepts।",
+          "topic": "Straight Line",
+          "probability": "Board Favourite"
+        },
+        {
+          "question_no": 18,
+          "answer": "ক) i ও ii",
+          "explanation": "circle equation-এ x²,y² coefficient same এবং xy term absent।",
+          "topic": "Circle",
+          "probability": "Very Hot"
+        },
+        {
+          "question_no": 19,
+          "answer": "ক) i ও ii",
+          "explanation": "product rule u'v+uv', u'v' নয়।",
+          "topic": "Differentiation",
+          "probability": "Conceptual Trap"
+        },
+        {
+          "question_no": 20,
+          "answer": "ঘ) i, ii ও iii",
+          "explanation": "সবগুলো standard integral।",
+          "topic": "Integration",
+          "probability": "Board Favourite"
+        },
+        {
+          "question_no": 21,
+          "answer": "ঘ) উপরোক্ত কোনোটিই নয়",
+          "explanation": "sum-এর logarithm আলাদা করা যায় না।",
+          "topic": "Logarithm",
+          "probability": "Conceptual Trap"
+        },
+        {
+          "question_no": 22,
+          "answer": "খ) না",
+          "explanation": "sin(A+B)=sinAcosB+cosAsinB।",
+          "topic": "Trigonometry",
+          "probability": "Conceptual Trap"
+        },
+        {
+          "question_no": 23,
+          "answer": "ক) 0",
+          "explanation": "singular বলতে determinant zero।",
+          "topic": "Matrix",
+          "probability": "Mega Hot"
+        },
+        {
+          "question_no": 24,
+          "answer": "গ) নির্দিষ্ট নয়",
+          "explanation": "zero vector-এর magnitude 0 এবং direction undefined।",
+          "topic": "Vector",
+          "probability": "Board Favourite"
+        },
+        {
+          "question_no": 25,
+          "answer": "খ) 1",
+          "explanation": "শূন্যটি নেওয়ার বিন্যাস একভাবে হয়।",
+          "topic": "Permutation",
+          "probability": "Very Hot"
+        }
+      ]
+    },
+    {
+      "set_no": 10,
+      "title": "সেট ১০",
+      "header": {
+        "exam": "এইচএসসি উচ্চতর গণিত ১ম পত্র",
+        "model_test_name": "Hyper Mega Hot Exclusive Model Test",
+        "marks": 25,
+        "subject_code": "265",
+        "time_minutes": 25
+      },
+      "stimuli": [
+        {
+          "stimulus_no": 1,
+          "text": "উদ্দীপক ১: একটি ত্রিভুজের শীর্ষবিন্দু (0,0), (6,0), (0,8)।",
+          "question_numbers": [
+            1,
+            2
+          ]
+        },
+        {
+          "stimulus_no": 2,
+          "text": "উদ্দীপক ২: x+2y=7 এবং 3x-y=4।",
+          "question_numbers": [
+            3,
+            4
+          ]
+        }
+      ],
+      "questions": [
+        {
+          "question_no": 1,
+          "section": "stimulus_based",
+          "stimulus_no": 1,
+          "question": "ত্রিভুজটির ক্ষেত্রফল কত?",
+          "options": {
+            "ক": "14",
+            "খ": "24",
+            "গ": "28",
+            "ঘ": "48"
+          },
+          "correct_answer": "খ) 24",
+          "explanation": "ক্ষেত্রফল = 1/2×6×8=24।",
+          "topic": "Coordinate Geometry",
+          "probability": "Mega Hot"
+        },
+        {
+          "question_no": 2,
+          "section": "stimulus_based",
+          "stimulus_no": 1,
+          "question": "ত্রিভুজটির পরিবৃত্তের সমীকরণ কোনটি?",
+          "options": {
+            "ক": "(x-3)²+(y-4)²=25",
+            "খ": "(x+3)²+(y+4)²=25",
+            "গ": "x²+y²=25",
+            "ঘ": "(x-4)²+(y-3)²=25"
+          },
+          "correct_answer": "ক) (x-3)²+(y-4)²=25",
+          "explanation": "right triangle-এর hypotenuse midpoint (3,4), radius 5।",
+          "topic": "Circle",
+          "probability": "Very Hot"
+        },
+        {
+          "question_no": 3,
+          "section": "stimulus_based",
+          "stimulus_no": 2,
+          "question": "coefficient determinant কত?",
+          "options": {
+            "ক": "-7",
+            "খ": "7",
+            "গ": "5",
+            "ঘ": "0"
+          },
+          "correct_answer": "ক) -7",
+          "explanation": "[[1,2],[3,-1]] determinant = -1-6=-7।",
+          "topic": "Matrix System",
+          "probability": "Mega Hot"
+        },
+        {
+          "question_no": 4,
+          "section": "stimulus_based",
+          "stimulus_no": 2,
+          "question": "সমাধানে x-এর মান কত?",
+          "options": {
+            "ক": "15/7",
+            "খ": "17/7",
+            "গ": "7/15",
+            "ঘ": "2"
+          },
+          "correct_answer": "ক) 15/7",
+          "explanation": "3x-y=4 ⇒ y=3x-4; বসিয়ে 7x=15।",
+          "topic": "Linear Equation",
+          "probability": "Board Favourite"
+        },
+        {
+          "question_no": 5,
+          "section": "normal_board_standard_mcq",
+          "question": "2×2 scalar matrix diag(k,k)-এর determinant কত?",
+          "options": {
+            "ক": "k",
+            "খ": "k²",
+            "গ": "2k",
+            "ঘ": "0"
+          },
+          "correct_answer": "খ) k²",
+          "explanation": "diagonal product k·k=k²।",
+          "topic": "Determinant",
+          "probability": "Very Hot"
+        },
+        {
+          "question_no": 6,
+          "section": "normal_board_standard_mcq",
+          "question": "|a|=5, |b|=3, θ=60° হলে a·b কত?",
+          "options": {
+            "ক": "15",
+            "খ": "15/2",
+            "গ": "8",
+            "ঘ": "0"
+          },
+          "correct_answer": "খ) 15/2",
+          "explanation": "a·b=|a||b|cos60°=5×3×1/2=15/2।",
+          "topic": "Vector",
+          "probability": "Mega Hot"
+        },
+        {
+          "question_no": 7,
+          "section": "normal_board_standard_mcq",
+          "question": "a-এর b বরাবর vector projection-এর দিক কোন ভেক্টরের দিকে?",
+          "options": {
+            "ক": "a",
+            "খ": "b",
+            "গ": "a+b",
+            "ঘ": "a-b"
+          },
+          "correct_answer": "খ) b",
+          "explanation": "projection on b মানে b-এর direction-এ component।",
+          "topic": "Vector Projection",
+          "probability": "Board Favourite"
+        },
+        {
+          "question_no": 8,
+          "section": "normal_board_standard_mcq",
+          "question": "2x+3y+1=0 রেখার লম্ব রেখার ঢাল কত?",
+          "options": {
+            "ক": "-2/3",
+            "খ": "3/2",
+            "গ": "2/3",
+            "ঘ": "-3/2"
+          },
+          "correct_answer": "খ) 3/2",
+          "explanation": "given slope=-2/3; perpendicular slope=3/2।",
+          "topic": "Straight Line",
+          "probability": "Mega Hot"
+        },
+        {
+          "question_no": 9,
+          "section": "normal_board_standard_mcq",
+          "question": "¹¹C₉ এর মান কত?",
+          "options": {
+            "ক": "45",
+            "খ": "55",
+            "গ": "66",
+            "ঘ": "99"
+          },
+          "correct_answer": "খ) 55",
+          "explanation": "¹¹C₉=¹¹C₂=55।",
+          "topic": "Combination",
+          "probability": "Very Hot"
+        },
+        {
+          "question_no": 10,
+          "section": "normal_board_standard_mcq",
+          "question": "4 জন ছেলে ও 3 জন মেয়ে সারিতে বসবে, মেয়েরা একসাথে হলে উপায় কত?",
+          "options": {
+            "ক": "120",
+            "খ": "360",
+            "গ": "720",
+            "ঘ": "5040"
+          },
+          "correct_answer": "গ) 720",
+          "explanation": "৩ মেয়েকে একটি block ধরে 5!×3!=720।",
+          "topic": "Permutation",
+          "probability": "Conceptual Trap"
+        },
+        {
+          "question_no": 11,
+          "section": "normal_board_standard_mcq",
+          "question": "d/dx[a^x] কত?",
+          "options": {
+            "ক": "a^x",
+            "খ": "a^x lna",
+            "গ": "xa^{x-1}",
+            "ঘ": "lna"
+          },
+          "correct_answer": "খ) a^x lna",
+          "explanation": "exponential derivative formula।",
+          "topic": "Differentiation",
+          "probability": "Board Favourite"
+        },
+        {
+          "question_no": 12,
+          "section": "normal_board_standard_mcq",
+          "question": "∫1/(1+x²) dx কত?",
+          "options": {
+            "ক": "tan^{-1}x+C",
+            "খ": "sin^{-1}x+C",
+            "গ": "ln|x|+C",
+            "ঘ": "secx+C"
+          },
+          "correct_answer": "ক) tan^{-1}x+C",
+          "explanation": "standard inverse trigonometric integral।",
+          "topic": "Integration",
+          "probability": "Mega Hot"
+        },
+        {
+          "question_no": 13,
+          "section": "normal_board_standard_mcq",
+          "question": "tan2θ এর সূত্র কোনটি?",
+          "options": {
+            "ক": "2tanθ/(1-tan²θ)",
+            "খ": "2tanθ/(1+tan²θ)",
+            "গ": "tan²θ-1",
+            "ঘ": "sinθcosθ"
+          },
+          "correct_answer": "ক) 2tanθ/(1-tan²θ)",
+          "explanation": "double angle formula for tangent।",
+          "topic": "Trigonometry",
+          "probability": "Very Hot"
+        },
+        {
+          "question_no": 14,
+          "section": "normal_board_standard_mcq",
+          "question": "কোনো interval-এ f'(x)>0 হলে f(x)—",
+          "options": {
+            "ক": "increasing",
+            "খ": "decreasing",
+            "গ": "constant",
+            "ঘ": "discontinuous"
+          },
+          "correct_answer": "ক) increasing",
+          "explanation": "positive derivative increasing function নির্দেশ করে।",
+          "topic": "Calculus",
+          "probability": "Mega Hot"
+        },
+        {
+          "question_no": 15,
+          "section": "analytical_i_ii_iii",
+          "question": "Matrix inverse—\ni. (AB)^{-1}=B^{-1}A^{-1}\nii. (A^{-1})^{-1}=A\niii. |A^{-1}|=1/|A|, যদি |A|≠0\nনিচের কোনটি সঠিক?",
+          "options": {
+            "ক": "i ও ii",
+            "খ": "i ও iii",
+            "গ": "ii ও iii",
+            "ঘ": "i, ii ও iii"
+          },
+          "correct_answer": "ঘ) i, ii ও iii",
+          "explanation": "inverse matrix-এর standard properties।",
+          "topic": "Matrix",
+          "probability": "Mega Hot"
+        },
+        {
+          "question_no": 16,
+          "section": "analytical_i_ii_iii",
+          "question": "Vectors সম্পর্কে—\ni. unit vector-এর magnitude 1\nii. zero vector-এর direction undefined\niii. a×a=0\nনিচের কোনটি সঠিক?",
+          "options": {
+            "ক": "i ও ii",
+            "খ": "i ও iii",
+            "গ": "ii ও iii",
+            "ঘ": "i, ii ও iii"
+          },
+          "correct_answer": "ঘ) i, ii ও iii",
+          "explanation": "সবগুলো vector-এর মৌলিক ধারণা।",
+          "topic": "Vector",
+          "probability": "Board Favourite"
+        },
+        {
+          "question_no": 17,
+          "section": "analytical_i_ii_iii",
+          "question": "Coordinate geometry—\ni. distance formula √[(x₂-x₁)²+(y₂-y₁)²]\nii. midpoint formula ((x₁+x₂)/2,(y₁+y₂)/2)\niii. slope formula (x₂-x₁)/(y₂-y₁)\nনিচের কোনটি সঠিক?",
+          "options": {
+            "ক": "i ও ii",
+            "খ": "i ও iii",
+            "গ": "ii ও iii",
+            "ঘ": "i, ii ও iii"
+          },
+          "correct_answer": "ক) i ও ii",
+          "explanation": "slope formula হলো (y₂-y₁)/(x₂-x₁)।",
+          "topic": "Coordinate Geometry",
+          "probability": "Conceptual Trap"
+        },
+        {
+          "question_no": 18,
+          "section": "analytical_i_ii_iii",
+          "question": "P&C—\ni. nPr=n!/(n-r)!\nii. nCr=n!/[r!(n-r)!]\niii. nPr=nCr সবসময়\nনিচের কোনটি সঠিক?",
+          "options": {
+            "ক": "i ও ii",
+            "খ": "i ও iii",
+            "গ": "ii ও iii",
+            "ঘ": "i, ii ও iii"
+          },
+          "correct_answer": "ক) i ও ii",
+          "explanation": "permutation ও combination সাধারণত সমান নয়।",
+          "topic": "Permutation & Combination",
+          "probability": "Mega Hot"
+        },
+        {
+          "question_no": 19,
+          "section": "analytical_i_ii_iii",
+          "question": "Calculus—\ni. derivative rate of change নির্দেশ করে\nii. definite integral signed area নির্দেশ করতে পারে\niii. indefinite integral-এ arbitrary constant থাকে\nনিচের কোনটি সঠিক?",
+          "options": {
+            "ক": "i ও ii",
+            "খ": "i ও iii",
+            "গ": "ii ও iii",
+            "ঘ": "i, ii ও iii"
+          },
+          "correct_answer": "ঘ) i, ii ও iii",
+          "explanation": "calculus-এর core interpretations।",
+          "topic": "Calculus",
+          "probability": "Very Hot"
+        },
+        {
+          "question_no": 20,
+          "section": "analytical_i_ii_iii",
+          "question": "Trigonometry/log—\ni. cot²θ+1=cosec²θ\nii. logₐa=1\niii. a⁰=1, a≠0\nনিচের কোনটি সঠিক?",
+          "options": {
+            "ক": "i ও ii",
+            "খ": "i ও iii",
+            "গ": "ii ও iii",
+            "ঘ": "i, ii ও iii"
+          },
+          "correct_answer": "ঘ) i, ii ও iii",
+          "explanation": "সবগুলো standard identity।",
+          "topic": "Mixed Formula",
+          "probability": "Board Favourite"
+        },
+        {
+          "question_no": 21,
+          "section": "final_trap_questions",
+          "question": "A যদি n×n matrix হয়, তবে |kA| কত?",
+          "options": {
+            "ক": "k|A|",
+            "খ": "kⁿ|A|",
+            "গ": "|A|/k",
+            "ঘ": "k+|A|"
+          },
+          "correct_answer": "খ) kⁿ|A|",
+          "explanation": "matrix-এর সব row k গুণ হলে determinant kⁿ গুণ হয়।",
+          "topic": "Determinant",
+          "probability": "Conceptual Trap"
+        },
+        {
+          "question_no": 22,
+          "section": "final_trap_questions",
+          "question": "d/dx[cosx] কত?",
+          "options": {
+            "ক": "sinx",
+            "খ": "-sinx",
+            "গ": "cosx",
+            "ঘ": "-cosx"
+          },
+          "correct_answer": "খ) -sinx",
+          "explanation": "cosx-এর derivative -sinx।",
+          "topic": "Differentiation",
+          "probability": "Mega Hot"
+        },
+        {
+          "question_no": 23,
+          "section": "final_trap_questions",
+          "question": "1+cot²θ এর সমান কোনটি?",
+          "options": {
+            "ক": "sec²θ",
+            "খ": "cosec²θ",
+            "গ": "tan²θ",
+            "ঘ": "sin²θ"
+          },
+          "correct_answer": "খ) cosec²θ",
+          "explanation": "Pythagorean identity।",
+          "topic": "Trigonometry",
+          "probability": "Board Favourite"
+        },
+        {
+          "question_no": 24,
+          "section": "final_trap_questions",
+          "question": "x²+y²=0 কোন ধরনের বৃত্ত?",
+          "options": {
+            "ক": "ব্যাসার্ধ 1",
+            "খ": "ব্যাসার্ধ 0 point circle",
+            "গ": "বাস্তব নয়",
+            "ঘ": "সরলরেখা"
+          },
+          "correct_answer": "খ) ব্যাসার্ধ 0 point circle",
+          "explanation": "কেন্দ্র (0,0), r=0।",
+          "topic": "Circle",
+          "probability": "Conceptual Trap"
+        },
+        {
+          "question_no": 25,
+          "section": "final_trap_questions",
+          "question": "nCₙ এর মান কত?",
+          "options": {
+            "ক": "0",
+            "খ": "1",
+            "গ": "n",
+            "ঘ": "n!"
+          },
+          "correct_answer": "খ) 1",
+          "explanation": "সব nটি বস্তু নেওয়া যায় একভাবে।",
+          "topic": "Combination",
+          "probability": "Very Hot"
+        }
+      ],
+      "answer_key": [
+        {
+          "question_no": 1,
+          "answer": "খ) 24",
+          "explanation": "ক্ষেত্রফল = 1/2×6×8=24।",
+          "topic": "Coordinate Geometry",
+          "probability": "Mega Hot"
+        },
+        {
+          "question_no": 2,
+          "answer": "ক) (x-3)²+(y-4)²=25",
+          "explanation": "right triangle-এর hypotenuse midpoint (3,4), radius 5।",
+          "topic": "Circle",
+          "probability": "Very Hot"
+        },
+        {
+          "question_no": 3,
+          "answer": "ক) -7",
+          "explanation": "[[1,2],[3,-1]] determinant = -1-6=-7।",
+          "topic": "Matrix System",
+          "probability": "Mega Hot"
+        },
+        {
+          "question_no": 4,
+          "answer": "ক) 15/7",
+          "explanation": "3x-y=4 ⇒ y=3x-4; বসিয়ে 7x=15।",
+          "topic": "Linear Equation",
+          "probability": "Board Favourite"
+        },
+        {
+          "question_no": 5,
+          "answer": "খ) k²",
+          "explanation": "diagonal product k·k=k²।",
+          "topic": "Determinant",
+          "probability": "Very Hot"
+        },
+        {
+          "question_no": 6,
+          "answer": "খ) 15/2",
+          "explanation": "a·b=|a||b|cos60°=5×3×1/2=15/2।",
+          "topic": "Vector",
+          "probability": "Mega Hot"
+        },
+        {
+          "question_no": 7,
+          "answer": "খ) b",
+          "explanation": "projection on b মানে b-এর direction-এ component।",
+          "topic": "Vector Projection",
+          "probability": "Board Favourite"
+        },
+        {
+          "question_no": 8,
+          "answer": "খ) 3/2",
+          "explanation": "given slope=-2/3; perpendicular slope=3/2।",
+          "topic": "Straight Line",
+          "probability": "Mega Hot"
+        },
+        {
+          "question_no": 9,
+          "answer": "খ) 55",
+          "explanation": "¹¹C₉=¹¹C₂=55।",
+          "topic": "Combination",
+          "probability": "Very Hot"
+        },
+        {
+          "question_no": 10,
+          "answer": "গ) 720",
+          "explanation": "৩ মেয়েকে একটি block ধরে 5!×3!=720।",
+          "topic": "Permutation",
+          "probability": "Conceptual Trap"
+        },
+        {
+          "question_no": 11,
+          "answer": "খ) a^x lna",
+          "explanation": "exponential derivative formula।",
+          "topic": "Differentiation",
+          "probability": "Board Favourite"
+        },
+        {
+          "question_no": 12,
+          "answer": "ক) tan^{-1}x+C",
+          "explanation": "standard inverse trigonometric integral।",
+          "topic": "Integration",
+          "probability": "Mega Hot"
+        },
+        {
+          "question_no": 13,
+          "answer": "ক) 2tanθ/(1-tan²θ)",
+          "explanation": "double angle formula for tangent।",
+          "topic": "Trigonometry",
+          "probability": "Very Hot"
+        },
+        {
+          "question_no": 14,
+          "answer": "ক) increasing",
+          "explanation": "positive derivative increasing function নির্দেশ করে।",
+          "topic": "Calculus",
+          "probability": "Mega Hot"
+        },
+        {
+          "question_no": 15,
+          "answer": "ঘ) i, ii ও iii",
+          "explanation": "inverse matrix-এর standard properties।",
+          "topic": "Matrix",
+          "probability": "Mega Hot"
+        },
+        {
+          "question_no": 16,
+          "answer": "ঘ) i, ii ও iii",
+          "explanation": "সবগুলো vector-এর মৌলিক ধারণা।",
+          "topic": "Vector",
+          "probability": "Board Favourite"
+        },
+        {
+          "question_no": 17,
+          "answer": "ক) i ও ii",
+          "explanation": "slope formula হলো (y₂-y₁)/(x₂-x₁)।",
+          "topic": "Coordinate Geometry",
+          "probability": "Conceptual Trap"
+        },
+        {
+          "question_no": 18,
+          "answer": "ক) i ও ii",
+          "explanation": "permutation ও combination সাধারণত সমান নয়।",
+          "topic": "Permutation & Combination",
+          "probability": "Mega Hot"
+        },
+        {
+          "question_no": 19,
+          "answer": "ঘ) i, ii ও iii",
+          "explanation": "calculus-এর core interpretations।",
+          "topic": "Calculus",
+          "probability": "Very Hot"
+        },
+        {
+          "question_no": 20,
+          "answer": "ঘ) i, ii ও iii",
+          "explanation": "সবগুলো standard identity।",
+          "topic": "Mixed Formula",
+          "probability": "Board Favourite"
+        },
+        {
+          "question_no": 21,
+          "answer": "খ) kⁿ|A|",
+          "explanation": "matrix-এর সব row k গুণ হলে determinant kⁿ গুণ হয়।",
+          "topic": "Determinant",
+          "probability": "Conceptual Trap"
+        },
+        {
+          "question_no": 22,
+          "answer": "খ) -sinx",
+          "explanation": "cosx-এর derivative -sinx।",
+          "topic": "Differentiation",
+          "probability": "Mega Hot"
+        },
+        {
+          "question_no": 23,
+          "answer": "খ) cosec²θ",
+          "explanation": "Pythagorean identity।",
+          "topic": "Trigonometry",
+          "probability": "Board Favourite"
+        },
+        {
+          "question_no": 24,
+          "answer": "খ) ব্যাসার্ধ 0 point circle",
+          "explanation": "কেন্দ্র (0,0), r=0।",
+          "topic": "Circle",
+          "probability": "Conceptual Trap"
+        },
+        {
+          "question_no": 25,
+          "answer": "খ) 1",
+          "explanation": "সব nটি বস্তু নেওয়া যায় একভাবে।",
+          "topic": "Combination",
+          "probability": "Very Hot"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+node_modules/
+.next/
+coverage/
+.DS_Store
+*.log
+.env*
+!.env.example
+
+# Python virtual environments
+.venv/
+myenv/
+
+# Build artifacts
+*.tsbuildinfo
+prisma/dev.db
+prisma/dev.db-journal
+
+# Development & Backup Temporary Files
+_temp/
+migration-report.txt
+.vscode/
+.vscode-copilot-clean/
+.idea/
+.continue/
+.commandcode/
+.cph/
+.turbo/

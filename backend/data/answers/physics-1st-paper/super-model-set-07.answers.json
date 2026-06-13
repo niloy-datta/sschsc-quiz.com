@@ -1,0 +1,142 @@
+{
+  "physics-1st-paper-hsc-science-physics-1st-paper-model-tests-super-model-set-07-ts-0": {
+    "answer": "cos−1 (50 ​ 3 ​)",
+    "answerIndex": 1,
+    "difficulty": 1200,
+    "explanation": "X-অক্ষের সাপেক্ষে কোণ α=cos−1 (∣A ∣ Ax ​ ​)। এখানে Ax ​=3 এবং ∣A ∣=9+16+25 ​=50 ​।",
+    "topic": "super-model-set-07"
+  },
+  "physics-1st-paper-hsc-science-physics-1st-paper-model-tests-super-model-set-07-ts-1": {
+    "answer": "সময়ের সমানুপাতিক",
+    "answerIndex": 1,
+    "difficulty": 1200,
+    "explanation": "Ek ​=2 1 ​mv2 =4t2 ⟹v∝t⟹a=ধ্রুবক। যেহেতু ভর ও ত্বরণ ধ্রুবক, তাই প্রযুক্ত বল (F=ma) ধ্রুবক। Wait, correction! Ek ​∝t2 means v∝t, which means acceleration a is constant. If a is constant, Force is CONSTANT. Let's re-verify: v=8/m ​t⟹a=8/m ​=const. So force is constant!Self-Corrected Answer: A) ধ্রুবক. Answer: A) ধ্রুবক Short Explanation: Ek ​=2 1 ​mv2 =4t2 ⟹v=8/m ​⋅t। বেগের অন্তরজ ত্বরণ ধ্রুবক (a=8/m ​)। তাই বল F=ma একটি ধ্রুবক।",
+    "topic": "super-model-set-07"
+  },
+  "physics-1st-paper-hsc-science-physics-1st-paper-model-tests-super-model-set-07-ts-2": {
+    "answer": "15 π ​ cm/s",
+    "answerIndex": 0,
+    "difficulty": 1200,
+    "explanation": "সেকেন্ডের কাঁটার পর্যায়কাল T=60 s। রৈখিক বেগ v=ωr=(60 2π ​)×2=15 π ​ cm/s।",
+    "topic": "super-model-set-07"
+  },
+  "physics-1st-paper-hsc-science-physics-1st-paper-model-tests-super-model-set-07-ts-3": {
+    "answer": "4×10−11 kg",
+    "answerIndex": 0,
+    "difficulty": 1200,
+    "explanation": "E=mc2 ⟹m=c2 E ​। E=1 kWh=3.6×106 J। m=9×1016 3.6×106 ​=4×10−11 kg।",
+    "topic": "super-model-set-07"
+  },
+  "physics-1st-paper-hsc-science-physics-1st-paper-model-tests-super-model-set-07-ts-4": {
+    "answer": "কৌণিক ভরবেগ",
+    "answerIndex": 1,
+    "difficulty": 1200,
+    "explanation": "গ্রহের ওপর মহাকর্ষ বল কেন্দ্রাভিমুখী হওয়ায় নিট টর্ক শূন্য থাকে, ফলে গ্রহের কৌণিক ভরবেগ সংরক্ষিত থাকে, যা কেপলারের ক্ষেত্রফলের সূত্র হিসেবে প্রকাশ পায়।",
+    "topic": "super-model-set-07"
+  },
+  "physics-1st-paper-hsc-science-physics-1st-paper-model-tests-super-model-set-07-ts-5": {
+    "answer": "বর্গের সমানুপাতিক",
+    "answerIndex": 2,
+    "difficulty": 1200,
+    "explanation": "স্টোকসের সূত্র ব্যবহার করে প্রান্তিক বেগের সমীকরণ: v=9η 2r2 (ρ−σ)g ​। অর্থাৎ, v∝r2 ।",
+    "topic": "super-model-set-07"
+  },
+  "physics-1st-paper-hsc-science-physics-1st-paper-model-tests-super-model-set-07-ts-6": {
+    "answer": "মূলবিন্দুগামী সরলরেখা",
+    "answerIndex": 1,
+    "difficulty": 1200,
+    "explanation": "চার্লসের সূত্রানুসারে স্থির চাপে V∝T। এটি y=mx আকৃতির সমীকরণ (মূলবিন্দুগামী সরলরেখা)।",
+    "topic": "super-model-set-07"
+  },
+  "physics-1st-paper-hsc-science-physics-1st-paper-model-tests-super-model-set-07-ts-7": {
+    "answer": "ক্রস গুণফল শূন্য",
+    "answerIndex": 1,
+    "difficulty": 1200,
+    "explanation": "সমান্তরাল ভেক্টরদ্বয়ের মধ্যবর্তী কোণ 0° হওয়ায় sin(0∘ )=0, ফলে ক্রস গুণফল শূন্য হয়।",
+    "topic": "super-model-set-07"
+  },
+  "physics-1st-paper-hsc-science-physics-1st-paper-model-tests-super-model-set-07-ts-8": {
+    "answer": "বর্গের সমানুপাতিক",
+    "answerIndex": 1,
+    "difficulty": 1200,
+    "explanation": "গ্যালিলিওর পড়ন্ত বস্তুর দ্বিতীয় সূত্রানুসারে h∝t2 (h=2 1 ​gt2 থেকে)।",
+    "topic": "super-model-set-07"
+  },
+  "physics-1st-paper-hsc-science-physics-1st-paper-model-tests-super-model-set-07-ts-9": {
+    "answer": "৪ গুণ",
+    "answerIndex": 1,
+    "difficulty": 1200,
+    "explanation": "Ek ​=2m p2 ​। ভরবেগ (p) দ্বিগুণ হলে গতিশক্তি 22 =4 গুণ হবে।",
+    "topic": "super-model-set-07"
+  },
+  "physics-1st-paper-hsc-science-physics-1st-paper-model-tests-super-model-set-07-ts-10": {
+    "answer": "g(1−h/R)",
+    "answerIndex": 1,
+    "difficulty": 1200,
+    "explanation": "পৃথিবীর অভ্যন্তরে h গভীরতায় ত্বরণ রৈখিকভাবে হ্রাস পায় এবং সমীকরণটি হলো g′ =g(1−R h ​)।",
+    "topic": "super-model-set-07"
+  },
+  "physics-1st-paper-hsc-science-physics-1st-paper-model-tests-super-model-set-07-ts-11": {
+    "answer": "90°",
+    "answerIndex": 2,
+    "difficulty": 1200,
+    "explanation": "নদী পার হওয়ার সময় t=vsinα d ​। t সর্বনিম্ন করতে হলে sinα সর্বোচ্চ হতে হবে। sinα=1⟹α=90∘ ।",
+    "topic": "super-model-set-07"
+  },
+  "physics-1st-paper-hsc-science-physics-1st-paper-model-tests-super-model-set-07-ts-12": {
+    "answer": "উপরের সবগুলো",
+    "answerIndex": 3,
+    "difficulty": 1200,
+    "explanation": "সরল দোলক ব্যবহার করে T=2πL/g ​ সমীকরণ থেকে g, সময় এবং g এর পরিবর্তন ব্যবহার করে পাহাড়ের উচ্চতা নির্ণয় করা যায়।",
+    "topic": "super-model-set-07"
+  },
+  "physics-1st-paper-hsc-science-physics-1st-paper-model-tests-super-model-set-07-ts-13": {
+    "answer": "2 f ​kT",
+    "answerIndex": 2,
+    "difficulty": 1200,
+    "explanation": "ম্যাক্সওয়েলের শক্তির সমবিভাজন নীতি অনুযায়ী, প্রতিটি স্বাধীনতার মাত্রাপিছু শক্তি 2 1 ​kT। f মাত্রার জন্য 2 f ​kT।",
+    "topic": "super-model-set-07"
+  },
+  "physics-1st-paper-hsc-science-physics-1st-paper-model-tests-super-model-set-07-ts-14": {
+    "answer": "4 J",
+    "answerIndex": 0,
+    "difficulty": 1200,
+    "explanation": "W=F ⋅r =(2)(3)+(−1)(2)=6−2=4 J।",
+    "topic": "super-model-set-07"
+  },
+  "physics-1st-paper-hsc-science-physics-1st-paper-model-tests-super-model-set-07-ts-15": {
+    "answer": "I=Ig ​+Mh2",
+    "answerIndex": 1,
+    "difficulty": 1200,
+    "explanation": "যেকোনো অক্ষের সাপেক্ষে জড়তার ভ্রামক (I) এর সমান্তরাল কেন্দ্রগামী অক্ষের জড়তার ভ্রামক (Ig ​) এবং ভর ও মধ্যবর্তী দূরত্বের বর্গের গুণফলের সমষ্টির সমান।",
+    "topic": "super-model-set-07"
+  },
+  "physics-1st-paper-hsc-science-physics-1st-paper-model-tests-super-model-set-07-ts-16": {
+    "answer": "পীড়ন ∝ বিকৃতি",
+    "answerIndex": 0,
+    "difficulty": 1200,
+    "explanation": "হুকের সূত্র বলে, স্থিতিস্থাপক সীমার মধ্যে পদার্থের পীড়ন এর বিকৃতির সমানুপাতিক।",
+    "topic": "super-model-set-07"
+  },
+  "physics-1st-paper-hsc-science-physics-1st-paper-model-tests-super-model-set-07-ts-17": {
+    "answer": "ঋণাত্মক মান থেকে ধীরে ধীরে শূন্যের দিকে যাবে",
+    "answerIndex": 2,
+    "difficulty": 1200,
+    "explanation": "V=−r GM ​। r বাড়ার সাথে সাথে V এর ঋণাত্মক মান কমতে থাকে এবং অসীমে গিয়ে শূন্য হয়।",
+    "topic": "super-model-set-07"
+  },
+  "physics-1st-paper-hsc-science-physics-1st-paper-model-tests-super-model-set-07-ts-18": {
+    "answer": "0.5 J",
+    "answerIndex": 0,
+    "difficulty": 1200,
+    "explanation": "কৃতকাজ W=2 1 ​kx2 =2 1 ​×100×(0.1)2 =50×0.01=0.5 J।",
+    "topic": "super-model-set-07"
+  },
+  "physics-1st-paper-hsc-science-physics-1st-paper-model-tests-super-model-set-07-ts-19": {
+    "answer": "বৃষ্টিপাতের সম্ভাবনা",
+    "answerIndex": 1,
+    "difficulty": 1200,
+    "explanation": "পার্থক্য কমে যাওয়ার অর্থ হলো বায়ুতে জলীয় বাষ্পের পরিমাণ বেড়ে গেছে (আর্দ্রতা বৃদ্ধি পেয়েছে), যা বৃষ্টিপাতের পূর্বাভাস দেয়। (হঠাৎ অনেক বেশি কমে গেলে ঘূর্ণিঝড় হতে পারে, তবে সাধারণ হ্রাসে বৃষ্টিপাত)।",
+    "topic": "super-model-set-07"
+  }
+}

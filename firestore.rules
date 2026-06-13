@@ -1,0 +1,27 @@
+rules_version = '2';
+service cloud.firestore {
+  match /databases/{database}/documents {
+
+    // Own profile read only
+    match /users/{userId} {
+      allow read: if request.auth != null && request.auth.uid == userId;
+      allow write: if false;
+    }
+
+    // Public leaderboard snapshot (read-only)
+    match /leaderboards/top_100 {
+      allow read: if true;
+      allow write: if false;
+    }
+
+    // Idempotency registry — server-only
+    match /processed_submissions/{docId} {
+      allow read, write: if false;
+    }
+
+    // Default deny everything else (attempts, exam_attempts, progress, quizzes, etc.)
+    match /{document=**} {
+      allow read, write: if false;
+    }
+  }
+}

@@ -1,0 +1,102 @@
+{
+  "hsc-higher-math-1st-paper-tier-a-set-07-q01": {
+    "correctOption": "$1$",
+    "explanation": "ভরকেন্দ্রের ভুজ $x = \\frac{x_1+x_2+x_3}{3} \\Rightarrow 3 = \\frac{t+3+5}{3} \\Rightarrow 9 = t+8 \\Rightarrow t=1$।"
+  },
+  "hsc-higher-math-1st-paper-tier-a-set-07-q02": {
+    "correctOption": "$0$",
+    "explanation": "বিন্দু তিনটি হলো $(1,2), (3,4), (5,6)$। এদের ঢাল সমান (রেখাটি সমরেখ)। তাই এদের দ্বারা গঠিত ত্রিভুজের ক্ষেত্রফল $0$।"
+  },
+  "hsc-higher-math-1st-paper-tier-a-set-07-q03": {
+    "correctOption": "$\\pi$",
+    "explanation": "$\\sin ax$ এবং $\\cos ax$ এর পর্যায় $\\frac{2\\pi}{|a|}$। এখানে $a=2$, তাই পর্যায় $\\frac{2\\pi}{2} = \\pi$।"
+  },
+  "hsc-higher-math-1st-paper-tier-a-set-07-q04": {
+    "correctOption": "$\\frac{\\pi}{8}$",
+    "explanation": "$f'(x) = 2\\cos 2x - 2\\sin 2x = 0 \\Rightarrow \\tan 2x = 1 \\Rightarrow 2x = \\frac{\\pi}{4} \\Rightarrow x = \\frac{\\pi}{8}$।"
+  },
+  "hsc-higher-math-1st-paper-tier-a-set-07-q05": {
+    "correctOption": "$0$",
+    "explanation": "দুটি ভেক্টর সমান্তরাল হলে তাদের মধ্যবর্তী কোণ $0^\\circ$ বা $180^\\circ$। ফলে ক্রস গুণন $|\\vec{A} \\times \\vec{B}| = AB\\sin\\theta = 0$।"
+  },
+  "hsc-higher-math-1st-paper-tier-a-set-07-q06": {
+    "correctOption": "$\\frac{2}{3}$",
+    "explanation": "ওয়ালিস সূত্র (Wallis' Formula) অনুযায়ী, $\\int_0^{\\pi/2} \\sin^n x dx$ এর মান (যেখানে n বিজোড়) $= \\frac{2}{3}$ (n=3 এর জন্য)।"
+  },
+  "hsc-higher-math-1st-paper-tier-a-set-07-q07": {
+    "correctOption": "$x^2 + y^2 - 10y = 0$",
+    "explanation": "$x$-অক্ষকে মূলবিন্দুতে স্পর্শ করলে কেন্দ্র $(0, \\pm r)$। এখানে কেন্দ্র $(0, 5)$ বা $(0, -5)$। সমীকরণ $(x-0)^2 + (y-5)^2 = 25 \\Rightarrow x^2+y^2-10y = 0$।"
+  },
+  "hsc-higher-math-1st-paper-tier-a-set-07-q08": {
+    "correctOption": "$(0, 2)$ ও $(2, -2)$",
+    "explanation": "$y' = 3x^2 - 6x = 0 \\Rightarrow 3x(x-2)=0 \\Rightarrow x=0, 2$। $x=0$ হলে $y=2$ এবং $x=2$ হলে $y=-2$। বিন্দুদ্বয় $(0,2)$ ও $(2,-2)$।"
+  },
+  "hsc-higher-math-1st-paper-tier-a-set-07-q09": {
+    "correctOption": "$5$",
+    "explanation": "সারিগুলোর দিকে তাকালে, ১+৩=৪ (মাঝেরটার ডাবল), ৭+৯=১৬ (মাঝেরটার ডাবল)। এটি একটি সমান্তর ধারা। $k=5$ বসালে কলামগুলো সমান্তর প্রগমন অনুসরণ করবে এবং নির্ণায়ক 0 হবে।"
+  },
+  "hsc-higher-math-1st-paper-tier-a-set-07-q10": {
+    "correctOption": "$136$",
+    "explanation": "শব্দটিতে O, I, N ২টি করে আছে। C, M, B, A, T ১টি করে। মোট ভিন্ন বর্ণ ৮টি। কেস ১: সব ভিন্ন = ${}^8C_4 = 70$। কেস ২: ২টা একই, ২টা ভিন্ন = ${}^3C_1 \\times {}^7C_2 = 3 \\times 21 = 63$। কেস ৩: ২টা একই, ২টা একই = ${}^3C_2 = 3$। মোট = $70+63+3=136$।"
+  },
+  "hsc-higher-math-1st-paper-tier-a-set-07-q11": {
+    "correctOption": "$e^{-1}$",
+    "explanation": "আদর্শ সূত্র $\\lim_{x \\to 0} (1+x)^{1/x} = e$। এখানে $x$ এর জায়গায় $-x$ আছে, তাই মান $e^{-1}$ বা $1/e$।"
+  },
+  "hsc-higher-math-1st-paper-tier-a-set-07-q12": {
+    "correctOption": "$x = 2$",
+    "explanation": "$y$-অক্ষের সমান্তরাল রেখার সমীকরণ $x = a$। যেহেতু রেখাটি $(2, -3)$ বিন্দুগামী, তাই $x = 2$।"
+  },
+  "hsc-higher-math-1st-paper-tier-a-set-07-q13": {
+    "correctOption": "$\\ln|f(x)| + c$",
+    "explanation": "এটি প্রতিস্থাপন সমাকলনের একটি মৌলিক অনুসিদ্ধান্ত। হরের ডেরিভেটিভ লবে থাকলে ইন্টিগ্রেশন হয় $\\ln|\\text{হর}|$।"
+  },
+  "hsc-higher-math-1st-paper-tier-a-set-07-q14": {
+    "correctOption": "$\\frac{\\pi}{2}$",
+    "explanation": "এটি বিপরীত ত্রিকোণমিতিক ফাংশনের মৌলিক অভেদ।"
+  },
+  "hsc-higher-math-1st-paper-tier-a-set-07-q15": {
+    "correctOption": "i, ii ও iii",
+    "explanation": "ভেক্টরের মৌলিক সংজ্ঞানুসারে এই তিনটি তথ্যই সঠিক।"
+  },
+  "hsc-higher-math-1st-paper-tier-a-set-07-q16": {
+    "correctOption": "ii ও iii",
+    "explanation": "দুটি রেখা লম্ব হলে $m_1 m_2 = -1$, তাই i ভুল। $ax+by+c=0$ এর ঢাল $-a/b$, এর লম্ব রেখার ঢাল উল্টে গিয়ে চিহ্ন বদলাবে, অর্থাৎ $b/a$ (ii সঠিক)।"
+  },
+  "hsc-higher-math-1st-paper-tier-a-set-07-q17": {
+    "correctOption": "i, ii ও iii",
+    "explanation": "তিনটি সূত্রই বিন্যাস ও সমাবেশের ক্ষেত্রে গাণিতিকভাবে সত্য।"
+  },
+  "hsc-higher-math-1st-paper-tier-a-set-07-q18": {
+    "correctOption": "i, ii ও iii",
+    "explanation": "ম্যাট্রিক্সের গুণ বিনিময় বিধি মেনে চলে না, কিন্তু সংযোগ বিধি ও অভেদক ধর্ম মেনে চলে।"
+  },
+  "hsc-higher-math-1st-paper-tier-a-set-07-q19": {
+    "correctOption": "i ও ii",
+    "explanation": "$\\frac{d}{dx}(\\cot x) = -\\csc^2 x$। মাইনাস না থাকায় iii ভুল।"
+  },
+  "hsc-higher-math-1st-paper-tier-a-set-07-q20": {
+    "correctOption": "i, ii ও iii",
+    "explanation": "গুণফলকে যোগ/বিয়োগফলে রূপান্তরের এই তিনটি সূত্রই একদম সঠিক।"
+  },
+  "hsc-higher-math-1st-paper-tier-a-set-07-q21": {
+    "correctOption": "$1$",
+    "explanation": "L'Hopital's rule প্রয়োগ করলে, লবকে অন্তরীকরণ করলে $e^{\\sin x} \\cos x$ এবং হরকে অন্তরীকরণ করলে $1$। $x=0$ বসালে $e^0 \\times 1 = 1$।"
+  },
+  "hsc-higher-math-1st-paper-tier-a-set-07-q22": {
+    "correctOption": "$\\frac{1}{x}$",
+    "explanation": "প্রথমবার অন্তরীকরণ $y' = 1 \\cdot \\ln x + x \\cdot (1/x) = \\ln x + 1$। ২য়বার অন্তরীকরণ $y'' = \\frac{1}{x} + 0 = \\frac{1}{x}$।"
+  },
+  "hsc-higher-math-1st-paper-tier-a-set-07-q23": {
+    "correctOption": "$(2, -1.5)$",
+    "explanation": "সমীকরণটিকে $x/4 + y/(-3) = 1$ লেখা যায়। খণ্ডিতাংশদ্বয় $(4, 0)$ এবং $(0, -3)$। এদের মধ্যবিন্দু $(\\frac{4+0}{2}, \\frac{0-3}{2}) = (2, -1.5)$।"
+  },
+  "hsc-higher-math-1st-paper-tier-a-set-07-q24": {
+    "correctOption": "$\\frac{\\pi a^2}{4}$",
+    "explanation": "এটি $x^2 + y^2 = a^2$ বৃত্তের প্রথম চতুর্ভাগের ক্ষেত্রফল নির্দেশ করে। পুরো বৃত্তের ক্ষেত্রফল $\\pi a^2$, তাই প্রথম চতুর্ভাগের ক্ষেত্রফল $\\frac{\\pi a^2}{4}$।"
+  },
+  "hsc-higher-math-1st-paper-tier-a-set-07-q25": {
+    "correctOption": "$90^\\circ$",
+    "explanation": "বর্গ করলে $A^2 + B^2 + 2AB\\cos\\theta = A^2 + B^2 - 2AB\\cos\\theta \\Rightarrow 4AB\\cos\\theta = 0 \\Rightarrow \\cos\\theta = 0 \\Rightarrow \\theta = 90^\\circ$।"
+  }
+}

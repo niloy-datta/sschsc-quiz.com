@@ -1,0 +1,102 @@
+{
+  "hsc-higher-math-2nd-paper-tier-a-set-04-q01": {
+    "correctOption": "10 N",
+    "explanation": "তৃতীয় বলটি প্রথম দুইটির লব্ধির বিপরীত; \\(R=\\sqrt{6^2+8^2}=10\\) N।"
+  },
+  "hsc-higher-math-2nd-paper-tier-a-set-04-q02": {
+    "correctOption": "\\(-\\frac35\\)",
+    "explanation": "লব্ধির সাথে 6 N-এর \\(\\cos=6/10=3/5\\); বিপরীত বলের জন্য \\(-3/5\\)।"
+  },
+  "hsc-higher-math-2nd-paper-tier-a-set-04-q03": {
+    "correctOption": "\\((1,0),2\\)",
+    "explanation": "\\(|z-1|=2\\) হলো \\((1,0)\\) কেন্দ্র ও 2 ব্যাসার্ধের বৃত্ত।"
+  },
+  "hsc-higher-math-2nd-paper-tier-a-set-04-q04": {
+    "correctOption": "\\(z=3\\)",
+    "explanation": "\\(z=3\\) হলে \\(|3-1|=2\\), তাই বিন্দুটি বৃত্তে অবস্থিত।"
+  },
+  "hsc-higher-math-2nd-paper-tier-a-set-04-q05": {
+    "correctOption": "-8",
+    "explanation": "De Moivre: \\(z^3=8\\text{cis}\\,\\pi=-8\\)।"
+  },
+  "hsc-higher-math-2nd-paper-tier-a-set-04-q06": {
+    "correctOption": "\\(\\pm(1-3i)\\)",
+    "explanation": "\\((1-3i)^2=1-6i-9=-8-6i\\)।"
+  },
+  "hsc-higher-math-2nd-paper-tier-a-set-04-q07": {
+    "correctOption": "\\(x^2+x-6=0\\)",
+    "explanation": "sum \\(-1\\), product \\(-6\\); equation \\(x^2-(sum)x+product=0\\Rightarrow x^2+x-6=0\\)।"
+  },
+  "hsc-higher-math-2nd-paper-tier-a-set-04-q08": {
+    "correctOption": "\\(-\\frac65\\)",
+    "explanation": "\\(\\frac{\\alpha^2+\\beta^2}{\\alpha\\beta}=\\frac{(\\alpha+\\beta)^2-2\\alpha\\beta}{\\alpha\\beta}=\\frac{4-10}{5}=-6/5\\)।"
+  },
+  "hsc-higher-math-2nd-paper-tier-a-set-04-q09": {
+    "correctOption": "\\(x=\\pm\\frac{16}{\\sqrt7}\\)",
+    "explanation": "\\(a=4,e=\\sqrt{1-9/16}=\\sqrt7/4\\); directrix \\(x=\\pm a/e=\\pm16/\\sqrt7\\)।"
+  },
+  "hsc-higher-math-2nd-paper-tier-a-set-04-q10": {
+    "correctOption": "20",
+    "explanation": "\\(x^2=4ay\\Rightarrow4a=20\\); latus rectum \\(=4a=20\\)।"
+  },
+  "hsc-higher-math-2nd-paper-tier-a-set-04-q11": {
+    "correctOption": "\\(\\frac\\pi3\\)",
+    "explanation": "\\(\\cos^{-1}\\)-এর range \\([0,\\pi]\\); \\(\\cos5\\pi/3=1/2\\), তাই \\(\\pi/3\\)।"
+  },
+  "hsc-higher-math-2nd-paper-tier-a-set-04-q12": {
+    "correctOption": "\\(x=\\frac{n\\pi}{2}+\\frac\\pi4\\)",
+    "explanation": "\\(\\sin^2x=1/2\\); তাই \\(x=\\pi/4,3\\pi/4,...\\Rightarrow x=n\\pi/2+\\pi/4\\)।"
+  },
+  "hsc-higher-math-2nd-paper-tier-a-set-04-q13": {
+    "correctOption": "400 N",
+    "explanation": "নিম্নমুখী ত্বরণে apparent weight \\(m(g-a)=50(10-2)=400\\) N।"
+  },
+  "hsc-higher-math-2nd-paper-tier-a-set-04-q14": {
+    "correctOption": "0.8",
+    "explanation": "\\(P(A\\cup B)=0.6+0.5-0.3=0.8\\)।"
+  },
+  "hsc-higher-math-2nd-paper-tier-a-set-04-q15": {
+    "correctOption": "i, ii ও iii",
+    "explanation": "নিশ্চায়কের sign থেকেই roots nature নির্ধারিত হয়।"
+  },
+  "hsc-higher-math-2nd-paper-tier-a-set-04-q16": {
+    "correctOption": "i, ii ও iii",
+    "explanation": "Standard circle form থেকে তিনটি statement সরাসরি পাওয়া যায়।"
+  },
+  "hsc-higher-math-2nd-paper-tier-a-set-04-q17": {
+    "correctOption": "i, ii ও iii",
+    "explanation": "\\(R\\propto\\sin2\\theta\\), তাই complementary range equal; height \\(\\sin^2\\theta\\)-এর উপর নির্ভর করে।"
+  },
+  "hsc-higher-math-2nd-paper-tier-a-set-04-q18": {
+    "correctOption": "i ও iii",
+    "explanation": "Mutually exclusive হলে intersection শূন্য; nonzero probability হলে স্বাধীন হওয়া বাধ্যতামূলক নয়।"
+  },
+  "hsc-higher-math-2nd-paper-tier-a-set-04-q19": {
+    "correctOption": "i ও ii",
+    "explanation": "reciprocal tangent identity-তে sign of \\(x\\) অনুযায়ী quadrant correction লাগে।"
+  },
+  "hsc-higher-math-2nd-paper-tier-a-set-04-q20": {
+    "correctOption": "i, ii ও iii",
+    "explanation": "Parallel force-এর অবস্থান ও magnitude—দুটিই repeated board trap।"
+  },
+  "hsc-higher-math-2nd-paper-tier-a-set-04-q21": {
+    "correctOption": "\\(\\frac{98}{9}\\)",
+    "explanation": "মূল \\(\\alpha,2\\alpha\\); \\(3\\alpha=7\\Rightarrow\\alpha=7/3\\); product \\(2\\alpha^2=98/9\\)।"
+  },
+  "hsc-higher-math-2nd-paper-tier-a-set-04-q22": {
+    "correctOption": "\\(-\\frac\\pi3\\)",
+    "explanation": "চতুর্থ চতুর্ভাগে; \\(\\tan\\theta=-\\sqrt3\\), তাই \\(\\arg z=-\\pi/3\\)।"
+  },
+  "hsc-higher-math-2nd-paper-tier-a-set-04-q23": {
+    "correctOption": "\\(x=3\\)",
+    "explanation": "\\(y^2=4ax\\Rightarrow a=-3\\); directrix \\(x=-a=3\\)।"
+  },
+  "hsc-higher-math-2nd-paper-tier-a-set-04-q24": {
+    "correctOption": "\\(\\frac{31}{32}\\)",
+    "explanation": "Complement: কোনো success নয় \\((1/2)^5=1/32\\); তাই \\(31/32\\)।"
+  },
+  "hsc-higher-math-2nd-paper-tier-a-set-04-q25": {
+    "correctOption": "\\(\\frac16\\)",
+    "explanation": "সদৃশ জোড়া 6টি: \\((1,1),...,(6,6)\\); মোট 36, তাই \\(1/6\\)।"
+  }
+}

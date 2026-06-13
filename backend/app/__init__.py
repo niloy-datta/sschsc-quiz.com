@@ -1,0 +1,1 @@
+"""Science MCQ FastAPI application."""

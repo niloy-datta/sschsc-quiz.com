@@ -1,0 +1,1791 @@
+{
+  "level": "ssc",
+  "subject": "chemistry",
+  "examYear": 2026,
+  "version": "1.0.0",
+  "language": "bn",
+  "sourceNote": "Converted from user-provided SSC Chemistry SET 04 and SET 05 text.",
+  "schema": "bijgan-ranker-static-quiz-v1",
+  "chapters": [],
+  "modelTests": [
+    {
+      "id": "ssc-chemistry-high-priority-set-04",
+      "displayTitle": "Model Test 04",
+      "name": "SSC Chemistry 2026 High Priority Board Standard MCQ Set 04",
+      "durationMinutes": 25,
+      "questionCount": 25,
+      "tags": [
+        "ssc-2026",
+        "chemistry",
+        "board-standard",
+        "high-priority"
+      ],
+      "chaptersCovered": [
+        "11",
+        "3",
+        "4",
+        "4 & 5",
+        "5",
+        "6",
+        "7"
+      ],
+      "questions": [
+        {
+          "id": "ssc-chemistry-high-priority-set-04-q01",
+          "questionNo": 1,
+          "question": "X ও Y দ্বারা গঠিত যৌগের জলীয় দ্রবণ কীরূপ?",
+          "options": [
+            {
+              "label": "ক",
+              "text": "অম্লীয়"
+            },
+            {
+              "label": "খ",
+              "text": "ক্ষারীয়"
+            },
+            {
+              "label": "গ",
+              "text": "নিরপেক্ষ"
+            },
+            {
+              "label": "ঘ",
+              "text": "তীব্র অম্লীয়"
+            }
+          ],
+          "correctOption": "গ",
+          "answerIndex": 2,
+          "chapter": "5",
+          "topic": "Properties of Ionic Compounds",
+          "difficulty": "Medium",
+          "whyImportant": "NaCl এর জলীয় দ্রবণ যে নিরপেক্ষ, তা বেসিক কনসেপ্ট থেকে আসে।",
+          "stimulusId": "set-04-stimulus-01",
+          "stimulus": "▪ নিচের উদ্দীপকটি পড়ো এবং ১ ও ২ নং প্রশ্নের উত্তর দাও:\nX ও Y দুটি মৌল, যাদের পারমাণবিক সংখ্যা যথাক্রমে 11 এবং 17।"
+        },
+        {
+          "id": "ssc-chemistry-high-priority-set-04-q02",
+          "questionNo": 2,
+          "question": "উদ্দীপকের মৌলগুলোর ক্ষেত্রে—\ni. X এর পারমাণবিক আকার Y এর চেয়ে বড়\nii. Y মৌলটি একটি হ্যালোজেন\niii. এরা পরস্পরের সাথে ইলেকট্রন শেয়ারের মাধ্যমে যৌগ গঠন করে\nনিচের কোনটি সঠিক?",
+          "options": [
+            {
+              "label": "ক",
+              "text": "i ও ii"
+            },
+            {
+              "label": "খ",
+              "text": "i ও iii"
+            },
+            {
+              "label": "গ",
+              "text": "ii ও iii"
+            },
+            {
+              "label": "ঘ",
+              "text": "i, ii ও iii"
+            }
+          ],
+          "correctOption": "ক",
+          "answerIndex": 0,
+          "chapter": "4 & 5",
+          "topic": "Periodic properties & Bonding",
+          "difficulty": "Medium",
+          "whyImportant": "ধাতু ও অধাতুর বন্ধন এবং আকারের তুলনামূলক প্রশ্ন বোর্ডের খুবই প্রিয়।",
+          "stimulusId": "set-04-stimulus-01",
+          "stimulus": "▪ নিচের উদ্দীপকটি পড়ো এবং ১ ও ২ নং প্রশ্নের উত্তর দাও:\nX ও Y দুটি মৌল, যাদের পারমাণবিক সংখ্যা যথাক্রমে 11 এবং 17।"
+        },
+        {
+          "id": "ssc-chemistry-high-priority-set-04-q03",
+          "questionNo": 3,
+          "question": "বিক্রিয়া শেষে পাত্রে লিমিটিং বিক্রিয়ক কোনটি?",
+          "options": [
+            {
+              "label": "ক",
+              "text": "Mg"
+            },
+            {
+              "label": "খ",
+              "text": "O₂"
+            },
+            {
+              "label": "গ",
+              "text": "MgO"
+            },
+            {
+              "label": "ঘ",
+              "text": "কোনোটিই নয়"
+            }
+          ],
+          "correctOption": "ক",
+          "answerIndex": 0,
+          "chapter": "6",
+          "topic": "Limiting Reagent",
+          "difficulty": "Calculation",
+          "whyImportant": "10g Mg এর জন্য মাত্র 6.67g O₂ লাগে, তাই Mg আগে শেষ হবে। লিমিটিং বিক্রিয়ক থেকে প্রশ্ন আসবেই।",
+          "stimulusId": "set-04-stimulus-02",
+          "stimulus": "▪ নিচের উদ্দীপকটি পড়ো এবং ৩ ও ৪ নং প্রশ্নের উত্তর দাও:\nএকটি পাত্রে 10g ম্যাগনেসিয়াম (Mg) এর সাথে 10g অক্সিজেন (O₂) মেশানো হলো এবং দহন ঘটানো হলো। [Mg = 24, O = 16]"
+        },
+        {
+          "id": "ssc-chemistry-high-priority-set-04-q04",
+          "questionNo": 4,
+          "question": "উদ্দীপকের বিক্রিয়াটির ক্ষেত্রে—\ni. এটি একটি সংযোজন ও দহন বিক্রিয়া\nii. এটি একটি জারণ-বিজারণ (Redox) বিক্রিয়া\niii. বিক্রিয়াটিতে অক্সিজেন জারিত হয়েছে\nনিচের কোনটি সঠিক?",
+          "options": [
+            {
+              "label": "ক",
+              "text": "i ও ii"
+            },
+            {
+              "label": "খ",
+              "text": "i ও iii"
+            },
+            {
+              "label": "গ",
+              "text": "ii ও iii"
+            },
+            {
+              "label": "ঘ",
+              "text": "i, ii ও iii"
+            }
+          ],
+          "correctOption": "ক",
+          "answerIndex": 0,
+          "chapter": "7",
+          "topic": "Redox & Reaction types",
+          "difficulty": "Medium",
+          "whyImportant": "দহন বিক্রিয়া যে সবসময় জারণ-বিজারণ, এই কনসেপ্ট চেক করা হয়। (অক্সিজেন বিজারিত হয়, জারিত নয়)।",
+          "stimulusId": "set-04-stimulus-02",
+          "stimulus": "▪ নিচের উদ্দীপকটি পড়ো এবং ৩ ও ৪ নং প্রশ্নের উত্তর দাও:\nএকটি পাত্রে 10g ম্যাগনেসিয়াম (Mg) এর সাথে 10g অক্সিজেন (O₂) মেশানো হলো এবং দহন ঘটানো হলো। [Mg = 24, O = 16]"
+        },
+        {
+          "id": "ssc-chemistry-high-priority-set-04-q05",
+          "questionNo": 5,
+          "question": "P যৌগটির কার্যকরী মূলক (Functional group) কোনটি?",
+          "options": [
+            {
+              "label": "ক",
+              "text": "-OH"
+            },
+            {
+              "label": "খ",
+              "text": "-CHO"
+            },
+            {
+              "label": "গ",
+              "text": "-COOH"
+            },
+            {
+              "label": "ঘ",
+              "text": "-CO-"
+            }
+          ],
+          "correctOption": "গ",
+          "answerIndex": 2,
+          "chapter": "11",
+          "topic": "Organic acid",
+          "difficulty": "Easy",
+          "whyImportant": "ভিনেগার বা ইথানয়িক এসিডের কার্যকরী মূলক খুবই কমন প্রশ্ন।",
+          "stimulusId": "set-04-stimulus-03",
+          "stimulus": "▪ নিচের উদ্দীপকটি পড়ো এবং ৫ ও ৬ নং প্রশ্নের উত্তর দাও:\nP একটি জৈব যৌগ, যার 4–10% জলীয় দ্রবণকে ভিনেগার বলা হয়।"
+        },
+        {
+          "id": "ssc-chemistry-high-priority-set-04-q06",
+          "questionNo": 6,
+          "question": "উদ্দীপকের P যৌগের ক্ষেত্রে—\ni. এটি নীল লিটমাসকে লাল করে\nii. এটি সমগোত্রীয় শ্রেণির একটি সদস্য\niii. এটি অসম্পৃক্ত হাইড্রোকার্বন\nনিচের কোনটি সঠিক?",
+          "options": [
+            {
+              "label": "ক",
+              "text": "i ও ii"
+            },
+            {
+              "label": "খ",
+              "text": "i ও iii"
+            },
+            {
+              "label": "গ",
+              "text": "ii ও iii"
+            },
+            {
+              "label": "ঘ",
+              "text": "i, ii ও iii"
+            }
+          ],
+          "correctOption": "ক",
+          "answerIndex": 0,
+          "chapter": "11",
+          "topic": "Homologous series & Acids",
+          "difficulty": "Easy",
+          "whyImportant": "জৈব এসিডের সাধারণ বৈশিষ্ট্য।",
+          "stimulusId": "set-04-stimulus-03",
+          "stimulus": "▪ নিচের উদ্দীপকটি পড়ো এবং ৫ ও ৬ নং প্রশ্নের উত্তর দাও:\nP একটি জৈব যৌগ, যার 4–10% জলীয় দ্রবণকে ভিনেগার বলা হয়।"
+        },
+        {
+          "id": "ssc-chemistry-high-priority-set-04-q07",
+          "questionNo": 7,
+          "question": "আইসোটোপের ক্ষেত্রে নিচের কোনটি সঠিক?\ni. এদের প্রোটন সংখ্যা সমান থাকে\nii. এদের নিউট্রন সংখ্যা ভিন্ন হয়\niii. এদের ভরসংখ্যা একই থাকে\nনিচের কোনটি সঠিক?",
+          "options": [
+            {
+              "label": "ক",
+              "text": "i ও ii"
+            },
+            {
+              "label": "খ",
+              "text": "i ও iii"
+            },
+            {
+              "label": "গ",
+              "text": "ii ও iii"
+            },
+            {
+              "label": "ঘ",
+              "text": "i, ii ও iii"
+            }
+          ],
+          "correctOption": "ক",
+          "answerIndex": 0,
+          "chapter": "3",
+          "topic": "Isotope",
+          "difficulty": "Easy",
+          "whyImportant": "আইসোটোপের বেসিক সংজ্ঞামূলক বহুপদী প্রশ্ন।"
+        },
+        {
+          "id": "ssc-chemistry-high-priority-set-04-q08",
+          "questionNo": 8,
+          "question": "সমযোজী যৌগের বৈশিষ্ট্য হলো—\ni. এরা সাধারণত গলিত বা জলীয় দ্রবণে বিদ্যুৎ পরিবহন করে না\nii. এদের গলনাঙ্ক ও স্ফুটনাঙ্ক তুলনামূলক কম হয়\niii. এরা ইলেকট্রন শেয়ারের মাধ্যমে গঠিত হয়\nনিচের কোনটি সঠিক?",
+          "options": [
+            {
+              "label": "ক",
+              "text": "i ও ii"
+            },
+            {
+              "label": "খ",
+              "text": "i ও iii"
+            },
+            {
+              "label": "গ",
+              "text": "ii ও iii"
+            },
+            {
+              "label": "ঘ",
+              "text": "i, ii ও iii"
+            }
+          ],
+          "correctOption": "ঘ",
+          "answerIndex": 3,
+          "chapter": "5",
+          "topic": "Covalent compounds",
+          "difficulty": "Easy",
+          "whyImportant": "সমযোজী ও আয়নিক যৌগের বৈশিষ্ট্যের পার্থক্য।"
+        },
+        {
+          "id": "ssc-chemistry-high-priority-set-04-q09",
+          "questionNo": 9,
+          "question": "আধুনিক পর্যায় সারণির ভিত্তি কী?",
+          "options": [
+            {
+              "label": "ক",
+              "text": "পারমাণবিক ভর"
+            },
+            {
+              "label": "খ",
+              "text": "ইলেকট্রন বিন্যাস"
+            },
+            {
+              "label": "গ",
+              "text": "পারমাণবিক আকার"
+            },
+            {
+              "label": "ঘ",
+              "text": "নিউট্রন সংখ্যা"
+            }
+          ],
+          "correctOption": "খ",
+          "answerIndex": 1,
+          "chapter": "4",
+          "topic": "Modern periodic table",
+          "difficulty": "Easy",
+          "whyImportant": "পর্যায় সারণির মূল ভিত্তি থেকে ডিরেক্ট প্রশ্ন।"
+        },
+        {
+          "id": "ssc-chemistry-high-priority-set-04-q10",
+          "questionNo": 10,
+          "question": "CO₂ যৌগে কার্বনের সুপ্ত যোজনী (Latent valency) কত?",
+          "options": [
+            {
+              "label": "ক",
+              "text": "0"
+            },
+            {
+              "label": "খ",
+              "text": "2"
+            },
+            {
+              "label": "গ",
+              "text": "4"
+            },
+            {
+              "label": "ঘ",
+              "text": "8"
+            }
+          ],
+          "correctOption": "ক",
+          "answerIndex": 0,
+          "chapter": "5",
+          "topic": "Latent valency",
+          "difficulty": "Medium",
+          "whyImportant": "সুপ্ত যোজনী = সর্বোচ্চ যোজনী - সক্রিয় যোজনী (4 - 4 = 0)।"
+        },
+        {
+          "id": "ssc-chemistry-high-priority-set-04-q11",
+          "questionNo": 11,
+          "question": "প্রমাণ অবস্থায় (STP) 44g CO₂ গ্যাসের আয়তন কত?",
+          "options": [
+            {
+              "label": "ক",
+              "text": "11.2 L"
+            },
+            {
+              "label": "খ",
+              "text": "22.4 L"
+            },
+            {
+              "label": "গ",
+              "text": "44.8 L"
+            },
+            {
+              "label": "ঘ",
+              "text": "5.6 L"
+            }
+          ],
+          "correctOption": "খ",
+          "answerIndex": 1,
+          "chapter": "6",
+          "topic": "Molar volume",
+          "difficulty": "Easy",
+          "whyImportant": "মোলার ভর ও আয়তনের সরাসরি সম্পর্ক।"
+        },
+        {
+          "id": "ssc-chemistry-high-priority-set-04-q12",
+          "questionNo": 12,
+          "question": "নিচের কোনটি তাপহারী (Endothermic) বিক্রিয়া?",
+          "options": [
+            {
+              "label": "ক",
+              "text": "N₂ + 3H₂ ⇌ 2NH₃"
+            },
+            {
+              "label": "খ",
+              "text": "N₂ + O₂ + তাপ → 2NO"
+            },
+            {
+              "label": "গ",
+              "text": "C + O₂ → CO₂"
+            },
+            {
+              "label": "ঘ",
+              "text": "CH₄ + 2O₂ → CO₂ + 2H₂O"
+            }
+          ],
+          "correctOption": "খ",
+          "answerIndex": 1,
+          "chapter": "7",
+          "topic": "Endothermic reaction",
+          "difficulty": "Medium",
+          "whyImportant": "তাপহারী বিক্রিয়ার সবচেয়ে ক্লাসিক উদাহরণ এটি।"
+        },
+        {
+          "id": "ssc-chemistry-high-priority-set-04-q13",
+          "questionNo": 13,
+          "question": "K₂Cr₂O₇ যৌগে Cr এর জারণ সংখ্যা কত?",
+          "options": [
+            {
+              "label": "ক",
+              "text": "+3"
+            },
+            {
+              "label": "খ",
+              "text": "+6"
+            },
+            {
+              "label": "গ",
+              "text": "+7"
+            },
+            {
+              "label": "ঘ",
+              "text": "+12"
+            }
+          ],
+          "correctOption": "খ",
+          "answerIndex": 1,
+          "chapter": "7",
+          "topic": "Oxidation number",
+          "difficulty": "Calculation",
+          "whyImportant": "জারণ সংখ্যা নির্ণয়ের জন্য এটি সবচেয়ে বেশিবার আসা প্রশ্ন।"
+        },
+        {
+          "id": "ssc-chemistry-high-priority-set-04-q14",
+          "questionNo": 14,
+          "question": "ইথিনের আণবিক সংকেত কোনটি?",
+          "options": [
+            {
+              "label": "ক",
+              "text": "CH₄"
+            },
+            {
+              "label": "খ",
+              "text": "C₂H₆"
+            },
+            {
+              "label": "গ",
+              "text": "C₂H₄"
+            },
+            {
+              "label": "ঘ",
+              "text": "C₂H₂"
+            }
+          ],
+          "correctOption": "গ",
+          "answerIndex": 2,
+          "chapter": "11",
+          "topic": "Alkene",
+          "difficulty": "Easy",
+          "whyImportant": "অ্যালকিন চেনার বেসিক প্রশ্ন।"
+        },
+        {
+          "id": "ssc-chemistry-high-priority-set-04-q15",
+          "questionNo": 15,
+          "question": "0.1 M দ্রবণকে কী বলা হয়?",
+          "options": [
+            {
+              "label": "ক",
+              "text": "মোলার দ্রবণ"
+            },
+            {
+              "label": "খ",
+              "text": "সেমিমোলার দ্রবণ"
+            },
+            {
+              "label": "গ",
+              "text": "ডেসিমোলার দ্রবণ"
+            },
+            {
+              "label": "ঘ",
+              "text": "সেন্টিমোলার দ্রবণ"
+            }
+          ],
+          "correctOption": "গ",
+          "answerIndex": 2,
+          "chapter": "6",
+          "topic": "Molarity",
+          "difficulty": "Easy",
+          "whyImportant": "ঘনমাত্রার বিভিন্ন নাম জানা থাকা আবশ্যক।"
+        },
+        {
+          "id": "ssc-chemistry-high-priority-set-04-q16",
+          "questionNo": 16,
+          "question": "1 মোল পানিতে (H₂O) কতটি পরমাণু থাকে?",
+          "options": [
+            {
+              "label": "ক",
+              "text": "6.02 × 10²³"
+            },
+            {
+              "label": "খ",
+              "text": "1.20 × 10²⁴"
+            },
+            {
+              "label": "গ",
+              "text": "1.80 × 10²⁴"
+            },
+            {
+              "label": "ঘ",
+              "text": "3.01 × 10²³"
+            }
+          ],
+          "correctOption": "গ",
+          "answerIndex": 2,
+          "chapter": "6",
+          "topic": "Avogadro number",
+          "difficulty": "Calculation",
+          "whyImportant": "1 মোল পানিতে 3 মোল পরমাণু থাকে (2টি H, 1টি O)। তাই 3 × 6.02 × 10²³।"
+        },
+        {
+          "id": "ssc-chemistry-high-priority-set-04-q17",
+          "questionNo": 17,
+          "question": "জিপসামের রাসায়নিক সংকেত কোনটি?",
+          "options": [
+            {
+              "label": "ক",
+              "text": "CuSO₄·5H₂O"
+            },
+            {
+              "label": "খ",
+              "text": "CaSO₄·2H₂O"
+            },
+            {
+              "label": "গ",
+              "text": "MgSO₄·7H₂O"
+            },
+            {
+              "label": "ঘ",
+              "text": "Na₂CO₃·10H₂O"
+            }
+          ],
+          "correctOption": "খ",
+          "answerIndex": 1,
+          "chapter": "5",
+          "topic": "Water of crystallization",
+          "difficulty": "Memory",
+          "whyImportant": "কেলাস পানিসহ সংকেতগুলো বোর্ডে বারবার আসে।"
+        },
+        {
+          "id": "ssc-chemistry-high-priority-set-04-q18",
+          "questionNo": 18,
+          "question": "কোনটি অবস্থান্তর ধাতু (Transition metal)?",
+          "options": [
+            {
+              "label": "ক",
+              "text": "Na"
+            },
+            {
+              "label": "খ",
+              "text": "Mg"
+            },
+            {
+              "label": "গ",
+              "text": "Fe"
+            },
+            {
+              "label": "ঘ",
+              "text": "Al"
+            }
+          ],
+          "correctOption": "গ",
+          "answerIndex": 2,
+          "chapter": "4",
+          "topic": "Transition metal",
+          "difficulty": "Easy",
+          "whyImportant": "অবস্থান্তর ধাতুর উদাহরণ চেনা।"
+        },
+        {
+          "id": "ssc-chemistry-high-priority-set-04-q19",
+          "questionNo": 19,
+          "question": "কোন মৌলটির তড়িৎ ঋণাত্মকতা সবচেয়ে বেশি?",
+          "options": [
+            {
+              "label": "ক",
+              "text": "N"
+            },
+            {
+              "label": "খ",
+              "text": "O"
+            },
+            {
+              "label": "গ",
+              "text": "F"
+            },
+            {
+              "label": "ঘ",
+              "text": "Cl"
+            }
+          ],
+          "correctOption": "গ",
+          "answerIndex": 2,
+          "chapter": "4",
+          "topic": "Electronegativity",
+          "difficulty": "Easy",
+          "whyImportant": "ফ্লোরিনের তড়িৎ ঋণাত্মকতা সর্বাধিক (4.0)।"
+        },
+        {
+          "id": "ssc-chemistry-high-priority-set-04-q20",
+          "questionNo": 20,
+          "question": "N₂ অণুতে কয়টি সমযোজী বন্ধন থাকে?",
+          "options": [
+            {
+              "label": "ক",
+              "text": "১টি"
+            },
+            {
+              "label": "খ",
+              "text": "২টি"
+            },
+            {
+              "label": "গ",
+              "text": "৩টি (ত্রিবন্ধন)"
+            },
+            {
+              "label": "ঘ",
+              "text": "৪টি"
+            }
+          ],
+          "correctOption": "গ",
+          "answerIndex": 2,
+          "chapter": "5",
+          "topic": "Covalent bond types",
+          "difficulty": "Medium",
+          "whyImportant": "নাইট্রোজেনের ত্রিবন্ধন একটি স্ট্যান্ডার্ড উদাহরণ।"
+        },
+        {
+          "id": "ssc-chemistry-high-priority-set-04-q21",
+          "questionNo": 21,
+          "question": "250 mL 0.5 M Na₂CO₃ দ্রবণ তৈরিতে কত গ্রাম Na₂CO₃ লাগবে?",
+          "options": [
+            {
+              "label": "ক",
+              "text": "5.3 g"
+            },
+            {
+              "label": "খ",
+              "text": "10.6 g"
+            },
+            {
+              "label": "গ",
+              "text": "13.25 g"
+            },
+            {
+              "label": "ঘ",
+              "text": "26.5 g"
+            }
+          ],
+          "correctOption": "গ",
+          "answerIndex": 2,
+          "chapter": "6",
+          "topic": "Molarity calculation",
+          "difficulty": "Calculation",
+          "whyImportant": "W = (S × V × M) / 1000 সূত্রের অংক।"
+        },
+        {
+          "id": "ssc-chemistry-high-priority-set-04-q22",
+          "questionNo": 22,
+          "question": "কোনটিতে অষ্টক সংকোচন (Incomplete Octet) ঘটে?",
+          "options": [
+            {
+              "label": "ক",
+              "text": "NH₃"
+            },
+            {
+              "label": "খ",
+              "text": "PCl₅"
+            },
+            {
+              "label": "গ",
+              "text": "BF₃"
+            },
+            {
+              "label": "ঘ",
+              "text": "CO₂"
+            }
+          ],
+          "correctOption": "গ",
+          "answerIndex": 2,
+          "chapter": "5",
+          "topic": "Octet rule",
+          "difficulty": "Tricky",
+          "whyImportant": "বোরনের চারপাশে ৬টি ইলেকট্রন থাকে, যা অষ্টক নিয়মের ব্যতিক্রম।"
+        },
+        {
+          "id": "ssc-chemistry-high-priority-set-04-q23",
+          "questionNo": 23,
+          "question": "লোহার মরিচা প্রতিরোধের সবচেয়ে কার্যকর উপায় কোনটি?",
+          "options": [
+            {
+              "label": "ক",
+              "text": "পানিতে ভিজিয়ে রাখা"
+            },
+            {
+              "label": "খ",
+              "text": "গ্যালভানাইজিং"
+            },
+            {
+              "label": "গ",
+              "text": "খোলা বাতাসে রাখা"
+            },
+            {
+              "label": "ঘ",
+              "text": "এসিডে ধোয়া"
+            }
+          ],
+          "correctOption": "খ",
+          "answerIndex": 1,
+          "chapter": "7",
+          "topic": "Rust prevention",
+          "difficulty": "Easy",
+          "whyImportant": "জিংকের প্রলেপ দেওয়ার পদ্ধতি (গ্যালভানাইজিং)।"
+        },
+        {
+          "id": "ssc-chemistry-high-priority-set-04-q24",
+          "questionNo": 24,
+          "question": "প্রাকৃতিক গ্যাসের প্রধান উপাদান কোনটি?",
+          "options": [
+            {
+              "label": "ক",
+              "text": "ইথেন"
+            },
+            {
+              "label": "খ",
+              "text": "প্রোপেন"
+            },
+            {
+              "label": "গ",
+              "text": "মিথেন"
+            },
+            {
+              "label": "ঘ",
+              "text": "বিউটেন"
+            }
+          ],
+          "correctOption": "গ",
+          "answerIndex": 2,
+          "chapter": "11",
+          "topic": "Natural gas",
+          "difficulty": "Easy",
+          "whyImportant": "প্রাকৃতিক গ্যাসে প্রায় 80% মিথেন থাকে।"
+        },
+        {
+          "id": "ssc-chemistry-high-priority-set-04-q25",
+          "questionNo": 25,
+          "question": "ডাল্টনের পরমাণুবাদের সীমাবদ্ধতা দূর করতে প্রথম কোন মডেল প্রস্তাব করা হয়?",
+          "options": [
+            {
+              "label": "ক",
+              "text": "বোর মডেল"
+            },
+            {
+              "label": "খ",
+              "text": "রাদারফোর্ড মডেল"
+            },
+            {
+              "label": "গ",
+              "text": "থমসন মডেল"
+            },
+            {
+              "label": "ঘ",
+              "text": "কোয়ান্টাম মডেল"
+            }
+          ],
+          "correctOption": "খ",
+          "answerIndex": 1,
+          "chapter": "3",
+          "topic": "Atomic Models",
+          "difficulty": "Easy",
+          "whyImportant": "পরমাণু মডেলের ইতিহাস ও ক্রমান্বয়।"
+        }
+      ],
+      "answerKey": [
+        {
+          "questionNo": 1,
+          "answer": "গ",
+          "answerIndex": 2
+        },
+        {
+          "questionNo": 2,
+          "answer": "ক",
+          "answerIndex": 0
+        },
+        {
+          "questionNo": 3,
+          "answer": "ক",
+          "answerIndex": 0
+        },
+        {
+          "questionNo": 4,
+          "answer": "ক",
+          "answerIndex": 0
+        },
+        {
+          "questionNo": 5,
+          "answer": "গ",
+          "answerIndex": 2
+        },
+        {
+          "questionNo": 6,
+          "answer": "ক",
+          "answerIndex": 0
+        },
+        {
+          "questionNo": 7,
+          "answer": "ক",
+          "answerIndex": 0
+        },
+        {
+          "questionNo": 8,
+          "answer": "ঘ",
+          "answerIndex": 3
+        },
+        {
+          "questionNo": 9,
+          "answer": "খ",
+          "answerIndex": 1
+        },
+        {
+          "questionNo": 10,
+          "answer": "ক",
+          "answerIndex": 0
+        },
+        {
+          "questionNo": 11,
+          "answer": "খ",
+          "answerIndex": 1
+        },
+        {
+          "questionNo": 12,
+          "answer": "খ",
+          "answerIndex": 1
+        },
+        {
+          "questionNo": 13,
+          "answer": "খ",
+          "answerIndex": 1
+        },
+        {
+          "questionNo": 14,
+          "answer": "গ",
+          "answerIndex": 2
+        },
+        {
+          "questionNo": 15,
+          "answer": "গ",
+          "answerIndex": 2
+        },
+        {
+          "questionNo": 16,
+          "answer": "গ",
+          "answerIndex": 2
+        },
+        {
+          "questionNo": 17,
+          "answer": "খ",
+          "answerIndex": 1
+        },
+        {
+          "questionNo": 18,
+          "answer": "গ",
+          "answerIndex": 2
+        },
+        {
+          "questionNo": 19,
+          "answer": "গ",
+          "answerIndex": 2
+        },
+        {
+          "questionNo": 20,
+          "answer": "গ",
+          "answerIndex": 2
+        },
+        {
+          "questionNo": 21,
+          "answer": "গ",
+          "answerIndex": 2
+        },
+        {
+          "questionNo": 22,
+          "answer": "গ",
+          "answerIndex": 2
+        },
+        {
+          "questionNo": 23,
+          "answer": "খ",
+          "answerIndex": 1
+        },
+        {
+          "questionNo": 24,
+          "answer": "গ",
+          "answerIndex": 2
+        },
+        {
+          "questionNo": 25,
+          "answer": "খ",
+          "answerIndex": 1
+        }
+      ]
+    },
+    {
+      "id": "ssc-chemistry-high-priority-set-05",
+      "displayTitle": "Model Test 05",
+      "name": "SSC Chemistry 2026 High Priority Board Standard MCQ Set 05",
+      "durationMinutes": 25,
+      "questionCount": 25,
+      "tags": [
+        "ssc-2026",
+        "chemistry",
+        "board-standard",
+        "high-priority"
+      ],
+      "chaptersCovered": [
+        "11",
+        "3",
+        "3 & 4",
+        "4",
+        "4 & 5",
+        "5",
+        "5 & 4",
+        "6",
+        "6 / Chemistry basic",
+        "7"
+      ],
+      "questions": [
+        {
+          "id": "ssc-chemistry-high-priority-set-05-q01",
+          "questionNo": 1,
+          "question": "উদ্দীপকের বিক্রিয়ায় প্রমাণ অবস্থায় (STP) কত আয়তন গ্যাস উৎপন্ন হবে?",
+          "options": [
+            {
+              "label": "ক",
+              "text": "1.12 L"
+            },
+            {
+              "label": "খ",
+              "text": "2.24 L"
+            },
+            {
+              "label": "গ",
+              "text": "11.2 L"
+            },
+            {
+              "label": "ঘ",
+              "text": "22.4 L"
+            }
+          ],
+          "correctOption": "খ",
+          "answerIndex": 1,
+          "chapter": "6",
+          "topic": "Stoichiometry & Gas volume",
+          "difficulty": "Calculation",
+          "whyImportant": "100g CaCO₃ থেকে 22.4L CO₂ পাওয়া যায়, তাই 10g থেকে 2.24L।",
+          "stimulusId": "set-05-stimulus-01",
+          "stimulus": "▪ নিচের উদ্দীপকটি পড়ো এবং ১ ও ২ নং প্রশ্নের উত্তর দাও:\nল্যাবরেটরিতে 10g চুনাপাথরকে (CaCO₃) উত্তপ্ত করা হলো।"
+        },
+        {
+          "id": "ssc-chemistry-high-priority-set-05-q02",
+          "questionNo": 2,
+          "question": "উদ্দীপকের বিক্রিয়াটির ক্ষেত্রে—\ni. এটি একটি বিয়োজন বিক্রিয়া\nii. এটি একটি জারণ-বিজারণ (Redox) বিক্রিয়া\niii. উৎপন্ন কঠিন অবশেষটির নাম চুন (CaO)\nনিচের কোনটি সঠিক?",
+          "options": [
+            {
+              "label": "ক",
+              "text": "i ও ii"
+            },
+            {
+              "label": "খ",
+              "text": "i ও iii"
+            },
+            {
+              "label": "গ",
+              "text": "ii ও iii"
+            },
+            {
+              "label": "ঘ",
+              "text": "i, ii ও iii"
+            }
+          ],
+          "correctOption": "খ",
+          "answerIndex": 1,
+          "chapter": "7",
+          "topic": "Reaction types",
+          "difficulty": "Medium",
+          "whyImportant": "কার্বনেটের বিয়োজন বিক্রিয়ায় জারণ সংখ্যার পরিবর্তন হয় না (নন-রেডক্স)।",
+          "stimulusId": "set-05-stimulus-01",
+          "stimulus": "▪ নিচের উদ্দীপকটি পড়ো এবং ১ ও ২ নং প্রশ্নের উত্তর দাও:\nল্যাবরেটরিতে 10g চুনাপাথরকে (CaCO₃) উত্তপ্ত করা হলো।"
+        },
+        {
+          "id": "ssc-chemistry-high-priority-set-05-q03",
+          "questionNo": 3,
+          "question": "M মৌলটির পারমাণবিক সংখ্যা কত?",
+          "options": [
+            {
+              "label": "ক",
+              "text": "8"
+            },
+            {
+              "label": "খ",
+              "text": "10"
+            },
+            {
+              "label": "গ",
+              "text": "12"
+            },
+            {
+              "label": "ঘ",
+              "text": "14"
+            }
+          ],
+          "correctOption": "গ",
+          "answerIndex": 2,
+          "chapter": "3 & 4",
+          "topic": "Ions & Atomic number",
+          "difficulty": "Easy",
+          "whyImportant": "2টি ইলেকট্রন ত্যাগের পর 10টি আছে, মানে আগে 12টি ছিল (Mg)।",
+          "stimulusId": "set-05-stimulus-02",
+          "stimulus": "▪ নিচের উদ্দীপকটি পড়ো এবং ৩ ও ৪ নং প্রশ্নের উত্তর দাও:\nM²⁺ আয়নের ইলেকট্রন সংখ্যা 10।"
+        },
+        {
+          "id": "ssc-chemistry-high-priority-set-05-q04",
+          "questionNo": 4,
+          "question": "M মৌলটির ক্ষেত্রে—\ni. এটি পর্যায় সারণির 3য় পর্যায়ের মৌল\nii. এটি গ্রুপ 2 এর একটি মৃৎক্ষার ধাতু\niii. এটি হ্যালোজেনের সাথে সমযোজী যৌগ গঠন করে\nনিচের কোনটি সঠিক?",
+          "options": [
+            {
+              "label": "ক",
+              "text": "i ও ii"
+            },
+            {
+              "label": "খ",
+              "text": "i ও iii"
+            },
+            {
+              "label": "গ",
+              "text": "ii ও iii"
+            },
+            {
+              "label": "ঘ",
+              "text": "i, ii ও iii"
+            }
+          ],
+          "correctOption": "ক",
+          "answerIndex": 0,
+          "chapter": "4 & 5",
+          "topic": "Position & Bonding",
+          "difficulty": "Medium",
+          "whyImportant": "ম্যাগনেসিয়াম ধাতু হওয়ায় হ্যালোজেনের সাথে আয়নিক যৌগ গঠন করে (iii ভুল)।",
+          "stimulusId": "set-05-stimulus-02",
+          "stimulus": "▪ নিচের উদ্দীপকটি পড়ো এবং ৩ ও ৪ নং প্রশ্নের উত্তর দাও:\nM²⁺ আয়নের ইলেকট্রন সংখ্যা 10।"
+        },
+        {
+          "id": "ssc-chemistry-high-priority-set-05-q05",
+          "questionNo": 5,
+          "question": "বিক্রিয়াটিতে প্রভাবক (Catalyst) হিসেবে কী ব্যবহৃত হয়?",
+          "options": [
+            {
+              "label": "ক",
+              "text": "MnO₂"
+            },
+            {
+              "label": "খ",
+              "text": "V₂O₅"
+            },
+            {
+              "label": "গ",
+              "text": "Fe চূর্ণ"
+            },
+            {
+              "label": "ঘ",
+              "text": "Ni"
+            }
+          ],
+          "correctOption": "গ",
+          "answerIndex": 2,
+          "chapter": "7",
+          "topic": "Catalyst",
+          "difficulty": "Easy",
+          "whyImportant": "হেবার প্রণালীতে আয়রন চূর্ণের ব্যবহার।",
+          "stimulusId": "set-05-stimulus-03",
+          "stimulus": "▪ নিচের বিক্রিয়াটি লক্ষ্য করো এবং ৫ ও ৬ নং প্রশ্নের উত্তর দাও:\nN₂ + 3H₂ ⇌ 2NH₃ + 92 kJ"
+        },
+        {
+          "id": "ssc-chemistry-high-priority-set-05-q06",
+          "questionNo": 6,
+          "question": "লা-শাতেলিয়ের নীতি অনুযায়ী, অ্যামোনিয়ার উৎপাদন বাড়াতে হলে—\ni. তাপমাত্রা কমাতে হবে\nii. চাপ বাড়াতে হবে\niii. উৎপন্ন NH₃ নিয়মিত সরিয়ে নিতে হবে\nনিচের কোনটি সঠিক?",
+          "options": [
+            {
+              "label": "ক",
+              "text": "i ও ii"
+            },
+            {
+              "label": "খ",
+              "text": "i ও iii"
+            },
+            {
+              "label": "গ",
+              "text": "ii ও iii"
+            },
+            {
+              "label": "ঘ",
+              "text": "i, ii ও iii"
+            }
+          ],
+          "correctOption": "ঘ",
+          "answerIndex": 3,
+          "chapter": "7",
+          "topic": "Le Chatelier principle",
+          "difficulty": "Tricky",
+          "whyImportant": "শিল্পের উৎপাদনে লা-শাতেলিয়ের নীতির সরাসরি প্রয়োগ।",
+          "stimulusId": "set-05-stimulus-03",
+          "stimulus": "▪ নিচের বিক্রিয়াটি লক্ষ্য করো এবং ৫ ও ৬ নং প্রশ্নের উত্তর দাও:\nN₂ + 3H₂ ⇌ 2NH₃ + 92 kJ"
+        },
+        {
+          "id": "ssc-chemistry-high-priority-set-05-q07",
+          "questionNo": 7,
+          "question": "অ্যালকোহল সমগোত্রীয় শ্রেণির ক্ষেত্রে—\ni. এদের কার্যকরী মূলক -OH\nii. এদের সাধারণ সংকেত CₙH₂ₙ₊₁OH\niii. মিথানল এই শ্রেণির প্রথম সদস্য\nনিচের কোনটি সঠিক?",
+          "options": [
+            {
+              "label": "ক",
+              "text": "i ও ii"
+            },
+            {
+              "label": "খ",
+              "text": "i ও iii"
+            },
+            {
+              "label": "গ",
+              "text": "ii ও iii"
+            },
+            {
+              "label": "ঘ",
+              "text": "i, ii ও iii"
+            }
+          ],
+          "correctOption": "ঘ",
+          "answerIndex": 3,
+          "chapter": "11",
+          "topic": "Alcohol",
+          "difficulty": "Easy",
+          "whyImportant": "অ্যালকোহল সম্পর্কে বহুপদী প্রশ্ন।"
+        },
+        {
+          "id": "ssc-chemistry-high-priority-set-05-q08",
+          "questionNo": 8,
+          "question": "পরমাণুর গঠনের ক্ষেত্রে—\ni. ইলেকট্রনের ভর প্রোটনের ভরের প্রায় 1840 ভাগের 1 ভাগ\nii. নিউট্রন একটি আধানহীন কণা\niii. ভরসংখ্যা হলো প্রোটন ও ইলেকট্রনের যোগফল\nনিচের কোনটি সঠিক?",
+          "options": [
+            {
+              "label": "ক",
+              "text": "i ও ii"
+            },
+            {
+              "label": "খ",
+              "text": "i ও iii"
+            },
+            {
+              "label": "গ",
+              "text": "ii ও iii"
+            },
+            {
+              "label": "ঘ",
+              "text": "i, ii ও iii"
+            }
+          ],
+          "correctOption": "ক",
+          "answerIndex": 0,
+          "chapter": "3",
+          "topic": "Subatomic particles",
+          "difficulty": "Easy",
+          "whyImportant": "ভরসংখ্যা = প্রোটন + নিউট্রন, তাই iii ভুল।"
+        },
+        {
+          "id": "ssc-chemistry-high-priority-set-05-q09",
+          "questionNo": 9,
+          "question": "SF₄ যৌগে সালফারের সুপ্ত যোজনী কত?",
+          "options": [
+            {
+              "label": "ক",
+              "text": "0"
+            },
+            {
+              "label": "খ",
+              "text": "2"
+            },
+            {
+              "label": "গ",
+              "text": "4"
+            },
+            {
+              "label": "ঘ",
+              "text": "6"
+            }
+          ],
+          "correctOption": "খ",
+          "answerIndex": 1,
+          "chapter": "5",
+          "topic": "Latent valency",
+          "difficulty": "Medium",
+          "whyImportant": "সালফারের সর্বোচ্চ যোজনী 6, এখানে সক্রিয় 4। (6 - 4 = 2)।"
+        },
+        {
+          "id": "ssc-chemistry-high-priority-set-05-q10",
+          "questionNo": 10,
+          "question": "নিচের কোনটি পোলার দ্রাবক?",
+          "options": [
+            {
+              "label": "ক",
+              "text": "কেরোসিন"
+            },
+            {
+              "label": "খ",
+              "text": "বেনজিন"
+            },
+            {
+              "label": "গ",
+              "text": "পানি"
+            },
+            {
+              "label": "ঘ",
+              "text": "ইথার"
+            }
+          ],
+          "correctOption": "গ",
+          "answerIndex": 2,
+          "chapter": "5",
+          "topic": "Polar solvent",
+          "difficulty": "Easy",
+          "whyImportant": "\"Like dissolves like\" নীতির বেসিক।"
+        },
+        {
+          "id": "ssc-chemistry-high-priority-set-05-q11",
+          "questionNo": 11,
+          "question": "ফরমালিনে শতকরা কত ভাগ পানি থাকে?",
+          "options": [
+            {
+              "label": "ক",
+              "text": "10%"
+            },
+            {
+              "label": "খ",
+              "text": "40%"
+            },
+            {
+              "label": "গ",
+              "text": "60%"
+            },
+            {
+              "label": "ঘ",
+              "text": "96%"
+            }
+          ],
+          "correctOption": "গ",
+          "answerIndex": 2,
+          "chapter": "11",
+          "topic": "Formalin",
+          "difficulty": "Medium",
+          "whyImportant": "40% ফরমালডিহাইড এবং 60% পানি থাকে।"
+        },
+        {
+          "id": "ssc-chemistry-high-priority-set-05-q12",
+          "questionNo": 12,
+          "question": "নিচের কোন গ্যাসটির ব্যাপন হার (Rate of diffusion) সবচেয়ে বেশি?",
+          "options": [
+            {
+              "label": "ক",
+              "text": "NH₃ (ভর = 17)"
+            },
+            {
+              "label": "খ",
+              "text": "CH₄ (ভর = 16)"
+            },
+            {
+              "label": "গ",
+              "text": "CO₂ (ভর = 44)"
+            },
+            {
+              "label": "ঘ",
+              "text": "O₂ (ভর = 32)"
+            }
+          ],
+          "correctOption": "খ",
+          "answerIndex": 1,
+          "chapter": "6 / Chemistry basic",
+          "topic": "Diffusion (related to Molar mass)",
+          "difficulty": "Calculation",
+          "whyImportant": "যার আণবিক ভর সবচেয়ে কম, তার ব্যাপন হার সবচেয়ে বেশি।"
+        },
+        {
+          "id": "ssc-chemistry-high-priority-set-05-q13",
+          "questionNo": 13,
+          "question": "Na₂S₂O₃ যৌগে S এর জারণ সংখ্যা কত?",
+          "options": [
+            {
+              "label": "ক",
+              "text": "+1"
+            },
+            {
+              "label": "খ",
+              "text": "+2"
+            },
+            {
+              "label": "গ",
+              "text": "+4"
+            },
+            {
+              "label": "ঘ",
+              "text": "+6"
+            }
+          ],
+          "correctOption": "খ",
+          "answerIndex": 1,
+          "chapter": "7",
+          "topic": "Oxidation number",
+          "difficulty": "Tricky",
+          "whyImportant": "থায়োসালফেটে সালফারের জারণ সংখ্যা হিসাব করাটা কনফিউজিং হতে পারে।"
+        },
+        {
+          "id": "ssc-chemistry-high-priority-set-05-q14",
+          "questionNo": 14,
+          "question": "তুঁতের (Blue vitriol) সংকেতে কত অণু কেলাস পানি থাকে?",
+          "options": [
+            {
+              "label": "ক",
+              "text": "2"
+            },
+            {
+              "label": "খ",
+              "text": "5"
+            },
+            {
+              "label": "গ",
+              "text": "7"
+            },
+            {
+              "label": "ঘ",
+              "text": "10"
+            }
+          ],
+          "correctOption": "খ",
+          "answerIndex": 1,
+          "chapter": "5",
+          "topic": "Water of crystallization",
+          "difficulty": "Easy",
+          "whyImportant": "CuSO₄·5H₂O এর সংকেত।"
+        },
+        {
+          "id": "ssc-chemistry-high-priority-set-05-q15",
+          "questionNo": 15,
+          "question": "MgCl₂ যৌগে Mg এর যোজনী কত?",
+          "options": [
+            {
+              "label": "ক",
+              "text": "1"
+            },
+            {
+              "label": "খ",
+              "text": "2"
+            },
+            {
+              "label": "গ",
+              "text": "3"
+            },
+            {
+              "label": "ঘ",
+              "text": "4"
+            }
+          ],
+          "correctOption": "খ",
+          "answerIndex": 1,
+          "chapter": "5",
+          "topic": "Valency",
+          "difficulty": "Easy",
+          "whyImportant": "যোজনী বিনিময়ের সাধারণ নিয়ম।"
+        },
+        {
+          "id": "ssc-chemistry-high-priority-set-05-q16",
+          "questionNo": 16,
+          "question": "নিচের কোনটি সবচেয়ে হালকা কণা?",
+          "options": [
+            {
+              "label": "ক",
+              "text": "আলফা কণা"
+            },
+            {
+              "label": "খ",
+              "text": "প্রোটন"
+            },
+            {
+              "label": "গ",
+              "text": "নিউট্রন"
+            },
+            {
+              "label": "ঘ",
+              "text": "ইলেকট্রন"
+            }
+          ],
+          "correctOption": "ঘ",
+          "answerIndex": 3,
+          "chapter": "3",
+          "topic": "Subatomic particles",
+          "difficulty": "Easy",
+          "whyImportant": "ইলেকট্রনের আপেক্ষিক ভর প্রায় শূন্য ধরা হয়।"
+        },
+        {
+          "id": "ssc-chemistry-high-priority-set-05-q17",
+          "questionNo": 17,
+          "question": "রাদারফোর্ড তাঁর নিউক্লিয়াস আবিষ্কারের পরীক্ষায় কোন রশ্মি ব্যবহার করেন?",
+          "options": [
+            {
+              "label": "ক",
+              "text": "বিটা রশ্মি"
+            },
+            {
+              "label": "খ",
+              "text": "গামা রশ্মি"
+            },
+            {
+              "label": "গ",
+              "text": "এক্স-রে"
+            },
+            {
+              "label": "ঘ",
+              "text": "আলফা রশ্মি"
+            }
+          ],
+          "correctOption": "ঘ",
+          "answerIndex": 3,
+          "chapter": "3",
+          "topic": "Rutherford model",
+          "difficulty": "Easy",
+          "whyImportant": "আলফা কণা বিচ্ছুরণ পরীক্ষা।"
+        },
+        {
+          "id": "ssc-chemistry-high-priority-set-05-q18",
+          "questionNo": 18,
+          "question": "মেন্ডেলিফের পর্যায় সারণিতে কয়টি পর্যায় ছিল?",
+          "options": [
+            {
+              "label": "ক",
+              "text": "7"
+            },
+            {
+              "label": "খ",
+              "text": "8"
+            },
+            {
+              "label": "গ",
+              "text": "12"
+            },
+            {
+              "label": "ঘ",
+              "text": "18"
+            }
+          ],
+          "correctOption": "গ",
+          "answerIndex": 2,
+          "chapter": "4",
+          "topic": "Mendeleev periodic table",
+          "difficulty": "Tricky",
+          "whyImportant": "আদি পর্যায় সারণিতে 12টি পর্যায় ও 8টি গ্রুপ ছিল।"
+        },
+        {
+          "id": "ssc-chemistry-high-priority-set-05-q19",
+          "questionNo": 19,
+          "question": "হ্যালোজেন গ্রুপের মৌলগুলোর সাধারণ যোজনী কত?",
+          "options": [
+            {
+              "label": "ক",
+              "text": "0"
+            },
+            {
+              "label": "খ",
+              "text": "1"
+            },
+            {
+              "label": "গ",
+              "text": "2"
+            },
+            {
+              "label": "ঘ",
+              "text": "7"
+            }
+          ],
+          "correctOption": "খ",
+          "answerIndex": 1,
+          "chapter": "5 & 4",
+          "topic": "Halogens & Valency",
+          "difficulty": "Easy",
+          "whyImportant": "1টি ইলেকট্রন গ্রহণ করে স্থিতিশীল হয় বলে যোজনী 1।"
+        },
+        {
+          "id": "ssc-chemistry-high-priority-set-05-q20",
+          "questionNo": 20,
+          "question": "1 মোল H₂SO₄ এর ভর কত?",
+          "options": [
+            {
+              "label": "ক",
+              "text": "49g"
+            },
+            {
+              "label": "খ",
+              "text": "63g"
+            },
+            {
+              "label": "গ",
+              "text": "98g"
+            },
+            {
+              "label": "ঘ",
+              "text": "106g"
+            }
+          ],
+          "correctOption": "গ",
+          "answerIndex": 2,
+          "chapter": "6",
+          "topic": "Molar mass",
+          "difficulty": "Easy",
+          "whyImportant": "H₂SO₄ এর আণবিক ভর 98।"
+        },
+        {
+          "id": "ssc-chemistry-high-priority-set-05-q21",
+          "questionNo": 21,
+          "question": "মোলারিটির একক কী?",
+          "options": [
+            {
+              "label": "ক",
+              "text": "mol/kg"
+            },
+            {
+              "label": "খ",
+              "text": "mol/L (বা M)"
+            },
+            {
+              "label": "গ",
+              "text": "g/L"
+            },
+            {
+              "label": "ঘ",
+              "text": "kg/L"
+            }
+          ],
+          "correctOption": "খ",
+          "answerIndex": 1,
+          "chapter": "6",
+          "topic": "Molarity",
+          "difficulty": "Easy",
+          "whyImportant": "ঘনমাত্রার এককের বেসিক।"
+        },
+        {
+          "id": "ssc-chemistry-high-priority-set-05-q22",
+          "questionNo": 22,
+          "question": "নিচের কোনটি একমুখী (Irreversible) বিক্রিয়া?",
+          "options": [
+            {
+              "label": "ক",
+              "text": "H₂ + I₂ ⇌ 2HI"
+            },
+            {
+              "label": "খ",
+              "text": "2SO₂ + O₂ ⇌ 2SO₃"
+            },
+            {
+              "label": "গ",
+              "text": "N₂ + 3H₂ ⇌ 2NH₃"
+            },
+            {
+              "label": "ঘ",
+              "text": "C + O₂ → CO₂ (খোলা পাত্রে)"
+            }
+          ],
+          "correctOption": "ঘ",
+          "answerIndex": 3,
+          "chapter": "7",
+          "topic": "Irreversible reaction",
+          "difficulty": "Medium",
+          "whyImportant": "খোলা পাত্রে গ্যাস উৎপন্ন হলে বিক্রিয়া একমুখী হয়ে যায়।"
+        },
+        {
+          "id": "ssc-chemistry-high-priority-set-05-q23",
+          "questionNo": 23,
+          "question": "গ্যালভানাইজিং এ কোন ধাতুর প্রলেপ দেওয়া হয়?",
+          "options": [
+            {
+              "label": "ক",
+              "text": "টিন"
+            },
+            {
+              "label": "খ",
+              "text": "ক্রোমিয়াম"
+            },
+            {
+              "label": "গ",
+              "text": "জিংক (দস্তা)"
+            },
+            {
+              "label": "ঘ",
+              "text": "নিকেল"
+            }
+          ],
+          "correctOption": "গ",
+          "answerIndex": 2,
+          "chapter": "7",
+          "topic": "Rust prevention",
+          "difficulty": "Easy",
+          "whyImportant": "মরিচা প্রতিরোধের সবচেয়ে কমন উপায়।"
+        },
+        {
+          "id": "ssc-chemistry-high-priority-set-05-q24",
+          "questionNo": 24,
+          "question": "পিভিসি (PVC) এর মনোমার কোনটি?",
+          "options": [
+            {
+              "label": "ক",
+              "text": "ইথিন"
+            },
+            {
+              "label": "খ",
+              "text": "প্রোপিন"
+            },
+            {
+              "label": "গ",
+              "text": "ভিনাইল ক্লোরাইড"
+            },
+            {
+              "label": "ঘ",
+              "text": "স্টাইরিন"
+            }
+          ],
+          "correctOption": "গ",
+          "answerIndex": 2,
+          "chapter": "11",
+          "topic": "Polymerization",
+          "difficulty": "Medium",
+          "whyImportant": "Polyvinyl Chloride এর মনোমার।"
+        },
+        {
+          "id": "ssc-chemistry-high-priority-set-05-q25",
+          "questionNo": 25,
+          "question": "শতকরা উৎপাদ (Percentage yield) বের করার সূত্র কোনটি?",
+          "options": [
+            {
+              "label": "ক",
+              "text": "(তাত্ত্বিক উৎপাদ / প্রকৃত উৎপাদ) × 100%"
+            },
+            {
+              "label": "খ",
+              "text": "(প্রকৃত উৎপাদ / তাত্ত্বিক উৎপাদ) × 100%"
+            },
+            {
+              "label": "গ",
+              "text": "(প্রকৃত উৎপাদ × তাত্ত্বিক উৎপাদ) / 100%"
+            },
+            {
+              "label": "ঘ",
+              "text": "প্রকৃত উৎপাদ - তাত্ত্বিক উৎপাদ"
+            }
+          ],
+          "correctOption": "খ",
+          "answerIndex": 1,
+          "chapter": "6",
+          "topic": "Percentage Yield",
+          "difficulty": "Easy",
+          "whyImportant": "ল্যাবরেটরির হিসেবের জন্য গুরুত্বপূর্ণ।"
+        }
+      ],
+      "answerKey": [
+        {
+          "questionNo": 1,
+          "answer": "খ",
+          "answerIndex": 1
+        },
+        {
+          "questionNo": 2,
+          "answer": "খ",
+          "answerIndex": 1
+        },
+        {
+          "questionNo": 3,
+          "answer": "গ",
+          "answerIndex": 2
+        },
+        {
+          "questionNo": 4,
+          "answer": "ক",
+          "answerIndex": 0
+        },
+        {
+          "questionNo": 5,
+          "answer": "গ",
+          "answerIndex": 2
+        },
+        {
+          "questionNo": 6,
+          "answer": "ঘ",
+          "answerIndex": 3
+        },
+        {
+          "questionNo": 7,
+          "answer": "ঘ",
+          "answerIndex": 3
+        },
+        {
+          "questionNo": 8,
+          "answer": "ক",
+          "answerIndex": 0
+        },
+        {
+          "questionNo": 9,
+          "answer": "খ",
+          "answerIndex": 1
+        },
+        {
+          "questionNo": 10,
+          "answer": "গ",
+          "answerIndex": 2
+        },
+        {
+          "questionNo": 11,
+          "answer": "গ",
+          "answerIndex": 2
+        },
+        {
+          "questionNo": 12,
+          "answer": "খ",
+          "answerIndex": 1
+        },
+        {
+          "questionNo": 13,
+          "answer": "খ",
+          "answerIndex": 1
+        },
+        {
+          "questionNo": 14,
+          "answer": "খ",
+          "answerIndex": 1
+        },
+        {
+          "questionNo": 15,
+          "answer": "খ",
+          "answerIndex": 1
+        },
+        {
+          "questionNo": 16,
+          "answer": "ঘ",
+          "answerIndex": 3
+        },
+        {
+          "questionNo": 17,
+          "answer": "ঘ",
+          "answerIndex": 3
+        },
+        {
+          "questionNo": 18,
+          "answer": "গ",
+          "answerIndex": 2
+        },
+        {
+          "questionNo": 19,
+          "answer": "খ",
+          "answerIndex": 1
+        },
+        {
+          "questionNo": 20,
+          "answer": "গ",
+          "answerIndex": 2
+        },
+        {
+          "questionNo": 21,
+          "answer": "খ",
+          "answerIndex": 1
+        },
+        {
+          "questionNo": 22,
+          "answer": "ঘ",
+          "answerIndex": 3
+        },
+        {
+          "questionNo": 23,
+          "answer": "গ",
+          "answerIndex": 2
+        },
+        {
+          "questionNo": 24,
+          "answer": "গ",
+          "answerIndex": 2
+        },
+        {
+          "questionNo": 25,
+          "answer": "খ",
+          "answerIndex": 1
+        }
+      ]
+    }
+  ]
+}

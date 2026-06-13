@@ -1,0 +1,1089 @@
+{
+  "metadata": {
+    "title": "HSC Higher Mathematics 2nd Paper - Hyper Mega Hot Exclusive Model Test",
+    "subject_code": 266,
+    "target_exam": "HSC Board Exam",
+    "time": "25 minutes per set",
+    "full_marks": "25 per set",
+    "note": "Here are Set 1, 2, and 3. Please reply with 'Next 2 sets' to get Set 4 and Set 5. Designed using highly repeated patterns and conceptual traps."
+  },
+  "model_tests": [
+    {
+      "set_number": 1,
+      "questions": [
+        {
+          "question_no": 1,
+          "stem": "উদ্দীপক: একটি পরাবৃত্তের সমীকরণ $y^2 = 16x$ এবং একটি উপবৃত্তের সমীকরণ $\\frac{x^2}{25} + \\frac{y^2}{16} = 1$।",
+          "question": "পরাবৃত্তটির উপকেন্দ্রিক লম্বের দৈর্ঘ্য (Length of Latus Rectum) কত?",
+          "options": {
+            "ক": "$4$",
+            "খ": "$8$",
+            "গ": "$16$",
+            "ঘ": "$32$"
+          },
+          "correct_option": "গ",
+          "explanation": "$y^2 = 4ax$ এর সাথে তুলনা করলে $4a = 16$। উপকেন্দ্রিক লম্বের দৈর্ঘ্য $= |4a| = 16$।",
+          "topic": "Conics",
+          "probability": "Board Favourite"
+        },
+        {
+          "question_no": 2,
+          "stem": "উদ্দীপক: একটি পরাবৃত্তের সমীকরণ $y^2 = 16x$ এবং একটি উপবৃত্তের সমীকরণ $\\frac{x^2}{25} + \\frac{y^2}{16} = 1$।",
+          "question": "উপবৃত্তটির উৎকেন্দ্রিকতা ($e$) কত?",
+          "options": {
+            "ক": "$\\frac{3}{5}$",
+            "খ": "$\\frac{4}{5}$",
+            "গ": "$\\frac{9}{25}$",
+            "ঘ": "$\\frac{5}{3}$"
+          },
+          "correct_option": "ক",
+          "explanation": "এখানে $a^2=25, b^2=16$ ($a>b$)। উৎকেন্দ্রিকতা $e = \\sqrt{1 - \\frac{b^2}{a^2}} = \\sqrt{1 - \\frac{16}{25}} = \\frac{3}{5}$।",
+          "topic": "Conics",
+          "probability": "Mega Hot"
+        },
+        {
+          "question_no": 3,
+          "stem": "উদ্দীপক: কোনো বিন্দুতে ক্রিয়ারত $3N$ ও $5N$ মানের দুটি বলের মধ্যবর্তী কোণ $60^\\circ$।",
+          "question": "বলদ্বয়ের লব্ধির মান কত?",
+          "options": {
+            "ক": "$4N$",
+            "খ": "$7N$",
+            "গ": "$8N$",
+            "ঘ": "$\\sqrt{34}N$"
+          },
+          "correct_option": "খ",
+          "explanation": "$R = \\sqrt{3^2 + 5^2 + 2(3)(5)\\cos 60^\\circ} = \\sqrt{9 + 25 + 15} = \\sqrt{49} = 7N$।",
+          "topic": "Statics",
+          "probability": "Board Favourite"
+        },
+        {
+          "question_no": 4,
+          "stem": "উদ্দীপক: কোনো বিন্দুতে ক্রিয়ারত $3N$ ও $5N$ মানের দুটি বলের মধ্যবর্তী কোণ $60^\\circ$।",
+          "question": "যদি বল দুটি সদৃশ সমান্তরাল (Like parallel forces) হতো এবং তাদের প্রয়োগবিন্দুর দূরত্ব $8m$ হতো, তবে লব্ধি $5N$ বল থেকে কত দূরে ক্রিয়া করতো?",
+          "options": {
+            "ক": "$2m$",
+            "খ": "$3m$",
+            "গ": "$5m$",
+            "ঘ": "$8m$"
+          },
+          "correct_option": "খ",
+          "explanation": "ধরি লব্ধি $5N$ থেকে $x$ দূরে ক্রিয়া করে। সূত্র: $3 \\times (8-x) = 5 \\times x \\Rightarrow 24 - 3x = 5x \\Rightarrow 8x = 24 \\Rightarrow x=3m$।",
+          "topic": "Statics",
+          "probability": "Mega Hot"
+        },
+        {
+          "question_no": 5,
+          "question": "জটিল সংখ্যা $z = -1 - \\sqrt{3}i$ এর আর্গুমেন্ট (Argument) কত?",
+          "options": {
+            "ক": "$\\frac{4\\pi}{3}$",
+            "খ": "$-\\frac{2\\pi}{3}$",
+            "গ": "$\\frac{\\pi}{3}$",
+            "ঘ": "$-\\frac{\\pi}{3}$"
+          },
+          "correct_option": "খ",
+          "explanation": "বিন্দুটি ৩য় চতুর্ভাগে। মুখ্য আর্গুমেন্ট $\\theta = -\\pi + \\tan^{-1}|\\frac{-\\sqrt{3}}{-1}| = -\\pi + \\frac{\\pi}{3} = -\\frac{2\\pi}{3}$।",
+          "topic": "Complex Numbers",
+          "probability": "Conceptual Trap"
+        },
+        {
+          "question_no": 6,
+          "question": "বহুপদী সমীকরণ $2x^2 - 5x + 3 = 0$ এর মূলদ্বয় $\\alpha$ ও $\\beta$ হলে $\\frac{1}{\\alpha} + \\frac{1}{\\beta}$ এর মান কত?",
+          "options": {
+            "ক": "$\\frac{5}{2}$",
+            "খ": "$\\frac{5}{3}$",
+            "গ": "$-\\frac{5}{3}$",
+            "ঘ": "$\\frac{3}{2}$"
+          },
+          "correct_option": "খ",
+          "explanation": "$\\frac{1}{\\alpha} + \\frac{1}{\\beta} = \\frac{\\alpha+\\beta}{\\alpha\\beta}$। এখানে $\\alpha+\\beta = \\frac{5}{2}$ এবং $\\alpha\\beta = \\frac{3}{2}$। সুতরাং, $\\frac{5/2}{3/2} = \\frac{5}{3}$।",
+          "topic": "Polynomials",
+          "probability": "Board Favourite"
+        },
+        {
+          "question_no": 7,
+          "question": "$\\sin(\\cos^{-1} x)$ এর মান নিচের কোনটি?",
+          "options": {
+            "ক": "$x$",
+            "খ": "$\\frac{1}{x}$",
+            "গ": "$\\sqrt{1-x^2}$",
+            "ঘ": "$\\frac{1}{\\sqrt{1-x^2}}$"
+          },
+          "correct_option": "গ",
+          "explanation": "ধরি, $\\cos^{-1} x = \\theta \\Rightarrow \\cos\\theta = x$। তাহলে $\\sin\\theta = \\sqrt{1-\\cos^2\\theta} = \\sqrt{1-x^2}$।",
+          "topic": "Inverse Trigonometry",
+          "probability": "Mega Hot Shortcut"
+        },
+        {
+          "question_no": 8,
+          "question": "$\\tan \\theta = \\sqrt{3}$ হলে $\\theta$ এর সাধারণ সমাধান কোনটি?",
+          "options": {
+            "ক": "$n\\pi + \\frac{\\pi}{3}$",
+            "খ": "$n\\pi - \\frac{\\pi}{3}$",
+            "গ": "$2n\\pi \\pm \\frac{\\pi}{3}$",
+            "ঘ": "$n\\pi + \\frac{\\pi}{6}$"
+          },
+          "correct_option": "ক",
+          "explanation": "$\\tan \\theta = \\tan(\\frac{\\pi}{3})$। সূত্র: $\\tan \\theta = \\tan \\alpha$ হলে $\\theta = n\\pi + \\alpha$। সুতরাং $n\\pi + \\frac{\\pi}{3}$।",
+          "topic": "Trigonometry Equations",
+          "probability": "Board Favourite"
+        },
+        {
+          "question_no": 9,
+          "question": "একটি প্রাসকে ভূমির সাথে $45^\\circ$ কোণে $u$ বেগে নিক্ষেপ করা হলো। এর সর্বাধিক উচ্চতা ($H$) কত?",
+          "options": {
+            "ক": "$\\frac{u^2}{2g}$",
+            "খ": "$\\frac{u^2}{4g}$",
+            "গ": "$\\frac{u^2}{g}$",
+            "ঘ": "$\\frac{u^2\\sqrt{2}}{g}$"
+          },
+          "correct_option": "খ",
+          "explanation": "$H = \\frac{u^2\\sin^2\\alpha}{2g} = \\frac{u^2(\\frac{1}{\\sqrt{2}})^2}{2g} = \\frac{u^2(1/2)}{2g} = \\frac{u^2}{4g}$।",
+          "topic": "Dynamics",
+          "probability": "Mega Hot"
+        },
+        {
+          "question_no": 10,
+          "question": "দুটি ছক্কা একত্রে নিক্ষেপ করলে, যোগফল $7$ আসার সম্ভাবনা কত?",
+          "options": {
+            "ক": "$\\frac{1}{6}$",
+            "খ": "$\\frac{1}{12}$",
+            "গ": "$\\frac{7}{36}$",
+            "ঘ": "$\\frac{5}{36}$"
+          },
+          "correct_option": "ক",
+          "explanation": "মোট ফলাফল $6 \\times 6 = 36$। যোগফল ৭ আসার অনুকূল ফলাফল: $(1,6), (2,5), (3,4), (4,3), (5,2), (6,1)$ অর্থাৎ ৬টি। সম্ভাবনা = $6/36 = 1/6$।",
+          "topic": "Probability",
+          "probability": "Very Hot"
+        },
+        {
+          "question_no": 11,
+          "question": "$\\omega$ এককের একটি জটিল ঘনমূল হলে $\\omega^4 + \\omega^5 + \\omega^6$ এর মান কত?",
+          "options": {
+            "ক": "$1$",
+            "খ": "$0$",
+            "গ": "$\\omega$",
+            "ঘ": "$\\omega^2$"
+          },
+          "correct_option": "খ",
+          "explanation": "$\\omega^4 + \\omega^5 + \\omega^6 = \\omega^3(\\omega + \\omega^2 + 1) = 1 \\times 0 = 0$। (যেহেতু $1+\\omega+\\omega^2=0$)।",
+          "topic": "Complex Numbers",
+          "probability": "Board Favourite"
+        },
+        {
+          "question_no": 12,
+          "question": "$x^2/16 - y^2/9 = 1$ অধিবৃত্তের অসীম তটরেখার (Asymptotes) সমীকরণ কোনটি?",
+          "options": {
+            "ক": "$y = \\pm \\frac{4}{3}x$",
+            "খ": "$y = \\pm \\frac{3}{4}x$",
+            "গ": "$y = \\pm \\frac{16}{9}x$",
+            "ঘ": "$y = \\pm \\frac{9}{16}x$"
+          },
+          "correct_option": "খ",
+          "explanation": "অধিবৃত্তের অসীম তটের সমীকরণ $y = \\pm \\frac{b}{a}x$। এখানে $a=4, b=3$। সুতরাং $y = \\pm \\frac{3}{4}x$।",
+          "topic": "Conics",
+          "probability": "Mega Hot Shortcut"
+        },
+        {
+          "question_no": 13,
+          "question": "ত্রিঘাত সমীকরণ $x^3 - 2x^2 + 3x - 4 = 0$ এর মূলগুলি $\\alpha, \\beta, \\gamma$ হলে $\\alpha\\beta\\gamma$ এর মান কত?",
+          "options": {
+            "ক": "$2$",
+            "খ": "$-4$",
+            "গ": "$4$",
+            "ঘ": "$-3$"
+          },
+          "correct_option": "গ",
+          "explanation": "ত্রিঘাত সমীকরণের মূলগুলোর গুণফল $\\alpha\\beta\\gamma = -\\frac{\\text{ধ্রুবক পদ}}{x^3 \\text{ এর সহগ}} = -\\frac{-4}{1} = 4$।",
+          "topic": "Polynomials",
+          "probability": "Very Hot"
+        },
+        {
+          "question_no": 14,
+          "question": "দুটি সমান মানের বলের লব্ধি তাদের যেকোনো একটির সমান হলে, বলদ্বয়ের মধ্যবর্তী কোণ কত?",
+          "options": {
+            "ক": "$60^\\circ$",
+            "খ": "$90^\\circ$",
+            "গ": "$120^\\circ$",
+            "ঘ": "$180^\\circ$"
+          },
+          "correct_option": "গ",
+          "explanation": "$P^2 = P^2 + P^2 + 2P^2\\cos\\alpha \\Rightarrow P^2 = 2P^2(1+\\cos\\alpha) \\Rightarrow \\cos\\alpha = -\\frac{1}{2} \\Rightarrow \\alpha = 120^\\circ$। এটি একটি কমন ট্র্যাপ।",
+          "topic": "Statics",
+          "probability": "Conceptual Trap"
+        },
+        {
+          "question_no": 15,
+          "question": "জটিল সংখ্যা $z = x + iy$ এর ক্ষেত্রে—\ni. অনুবন্ধী জটিল সংখ্যা $\\bar{z} = x - iy$\nii. মডুলাস $|z| = x^2 + y^2$\niii. $z\\bar{z}$ একটি বিশুদ্ধ বাস্তব সংখ্যা\n\nনিচের কোনটি সঠিক?",
+          "options": {
+            "ক": "i ও ii",
+            "খ": "i ও iii",
+            "গ": "ii ও iii",
+            "ঘ": "i, ii ও iii"
+          },
+          "correct_option": "খ",
+          "explanation": "মডুলাস $|z| = \\sqrt{x^2+y^2}$, তাই ii ভুল। $z\\bar{z} = x^2+y^2$, যা বাস্তব সংখ্যা (iii সঠিক)।",
+          "topic": "Complex Numbers",
+          "probability": "Board Favourite"
+        },
+        {
+          "question_no": 16,
+          "question": "প্রক্ষেপক বা প্রাসের (Projectile) গতির ক্ষেত্রে—\ni. এর গতিপথ (Trajectory) একটি পরাবৃত্ত\nii. সর্বাধিক উচ্চতায় বেগ শূন্য হয়\niii. পাল্লা $R = \\frac{u^2\\sin 2\\alpha}{g}$\n\nনিচের কোনটি সঠিক?",
+          "options": {
+            "ক": "i ও ii",
+            "খ": "i ও iii",
+            "গ": "ii ও iii",
+            "ঘ": "i, ii ও iii"
+          },
+          "correct_option": "খ",
+          "explanation": "সর্বাধিক উচ্চতায় উলম্ব বেগ শূন্য হয়, কিন্তু অনুভূমিক বেগ ($u\\cos\\alpha$) থাকে, তাই মোট বেগ শূন্য নয়। ii ভুল।",
+          "topic": "Dynamics",
+          "probability": "Conceptual Trap"
+        },
+        {
+          "question_no": 17,
+          "question": "সম্ভাবনার ক্ষেত্রে—\ni. নিশ্চিত ঘটনার সম্ভাবনা ১\nii. $P(A) + P(A') = 1$\niii. দুটি ঘটনা বর্জনশীল হলে $P(A \\cap B) = P(A)P(B)$\n\nনিচের কোনটি সঠিক?",
+          "options": {
+            "ক": "i ও ii",
+            "খ": "i ও iii",
+            "গ": "ii ও iii",
+            "ঘ": "i, ii ও iii"
+          },
+          "correct_option": "ক",
+          "explanation": "বর্জনশীল (Mutually exclusive) ঘটনার ক্ষেত্রে $P(A \\cap B) = 0$ হয়। $P(A)P(B)$ হয় স্বাধীন ঘটনার ক্ষেত্রে। তাই iii ভুল।",
+          "topic": "Probability",
+          "probability": "Mega Hot"
+        },
+        {
+          "question_no": 18,
+          "question": "কণিকের ক্ষেত্রে—\ni. পরাবৃত্তের উৎকেন্দ্রিকতা $e=1$\nii. $y^2 = 4ax$ পরাবৃত্তের উপকেন্দ্র $(a,0)$\niii. $x^2 = 4ay$ পরাবৃত্তের নিয়ামক রেখা $x+a=0$\n\nনিচের কোনটি সঠিক?",
+          "options": {
+            "ক": "i ও ii",
+            "খ": "i ও iii",
+            "গ": "ii ও iii",
+            "ঘ": "i, ii ও iii"
+          },
+          "correct_option": "ক",
+          "explanation": "$x^2 = 4ay$ পরাবৃত্তের নিয়ামক রেখা $y+a=0$, $x+a=0$ নয়। তাই iii ভুল।",
+          "topic": "Conics",
+          "probability": "Board Favourite"
+        },
+        {
+          "question_no": 19,
+          "question": "বিপরীত ত্রিকোণমিতিক ফাংশনের ক্ষেত্রে—\ni. $\\sin^{-1}x + \\cos^{-1}x = \\pi/2$\nii. $\\sin^{-1}(-x) = -\\sin^{-1}x$\niii. $\\cos^{-1}(-x) = -\\cos^{-1}x$\n\nনিচের কোনটি সঠিক?",
+          "options": {
+            "ক": "i ও ii",
+            "খ": "i ও iii",
+            "গ": "ii ও iii",
+            "ঘ": "i, ii ও iii"
+          },
+          "correct_option": "ক",
+          "explanation": "$\\cos^{-1}(-x) = \\pi - \\cos^{-1}x$ হয়, তাই iii ভুল। i ও ii মৌলিক সূত্র।",
+          "topic": "Inverse Trigonometry",
+          "probability": "Very Hot"
+        },
+        {
+          "question_no": 20,
+          "question": "দ্বিঘাত সমীকরণ $ax^2 + bx + c = 0$ এর ক্ষেত্রে—\ni. $b^2 - 4ac > 0$ হলে মূলদ্বয় বাস্তব ও অসমান\nii. $b^2 - 4ac = 0$ হলে মূলদ্বয় বাস্তব ও সমান\niii. মূলদ্বয় জটিল হলে তারা সর্বদা একে অপরের অনুবন্ধী (Conjugate) হয়\n\nনিচের কোনটি সঠিক?",
+          "options": {
+            "ক": "i ও ii",
+            "খ": "i ও iii",
+            "গ": "ii ও iii",
+            "ঘ": "i, ii ও iii"
+          },
+          "correct_option": "ঘ",
+          "explanation": "নিশ্চায়ক (Discriminant) এর ধর্ম এবং জটিল মূলের ধর্ম অনুযায়ী তিনটি বিবৃতিই একদম সঠিক।",
+          "topic": "Polynomials",
+          "probability": "Board Favourite"
+        },
+        {
+          "question_no": 21,
+          "question": "$\\sqrt{-i}$ এর মান নিচের কোনটি?",
+          "options": {
+            "ক": "$\\pm \\frac{1}{\\sqrt{2}}(1-i)$",
+            "খ": "$\\pm \\frac{1}{\\sqrt{2}}(1+i)$",
+            "গ": "$\\pm (1-i)$",
+            "ঘ": "$\\pm \\frac{1}{2}(1-i)$"
+          },
+          "correct_option": "ক",
+          "explanation": "$-i = \\frac{1}{2}(-2i) = \\frac{1}{2}(1 - 2i - 1) = \\frac{1}{2}(1 - 2i + i^2) = \\frac{1}{2}(1-i)^2$। বর্গমূল করলে $\\pm\\frac{1}{\\sqrt{2}}(1-i)$।",
+          "topic": "Complex Numbers",
+          "probability": "Mega Hot Trap"
+        },
+        {
+          "question_no": 22,
+          "question": "একটি লিপ ইয়ারে (Leap year) ৫৩টি রবিবার থাকার সম্ভাবনা কত?",
+          "options": {
+            "ক": "$\\frac{1}{7}$",
+            "খ": "$\\frac{2}{7}$",
+            "গ": "$\\frac{53}{366}$",
+            "ঘ": "$\\frac{1}{366}$"
+          },
+          "correct_option": "খ",
+          "explanation": "লিপ ইয়ারে ৩৬৬ দিন = ৫২ সপ্তাহ + ২ দিন। এই অতিরিক্ত ২ দিন (রবি-সোম, সোম-মঙ্গল...শনি-রবি) এর মধ্যে রবিবারের কম্বিনেশন ২টি। তাই সম্ভাবনা $2/7$।",
+          "topic": "Probability",
+          "probability": "Mega Hot Shortcut"
+        },
+        {
+          "question_no": 23,
+          "question": "$m$ ভরের একটি ব্যক্তি $a$ ত্বরণে নিচে নামন্ত লিফটে থাকলে তার আপাত ওজন কত হবে?",
+          "options": {
+            "ক": "$mg$",
+            "খ": "$m(g+a)$",
+            "গ": "$m(g-a)$",
+            "ঘ": "$0$"
+          },
+          "correct_option": "গ",
+          "explanation": "লিফট নিচে নামলে লব্ধি বল নিচের দিকে ক্রিয়া করে, তাই প্রতিক্রিয়া বল $R = mg - ma = m(g-a)$ হয়।",
+          "topic": "Dynamics",
+          "probability": "Conceptual Trap"
+        },
+        {
+          "question_no": 24,
+          "question": "$\\cos \\theta = 0$ হলে $\\theta$ এর সাধারণ সমাধান নিচের কোনটি?",
+          "options": {
+            "ক": "$n\\pi$",
+            "খ": "$2n\\pi \\pm \\frac{\\pi}{2}$",
+            "গ": "$(2n+1)\\frac{\\pi}{2}$",
+            "ঘ": "$n\\pi + \\frac{\\pi}{2}$"
+          },
+          "correct_option": "গ",
+          "explanation": "এটি ত্রিকোণমিতিক সমীকরণের একটি স্ট্যান্ডার্ড ও বহুল ব্যবহৃত ডিরেক্ট ফর্মুলা।",
+          "topic": "Trigonometry Equations",
+          "probability": "Board Favourite"
+        },
+        {
+          "question_no": 25,
+          "question": "$x^3 - 1 = 0$ সমীকরণের মূলগুলি $1, \\omega, \\omega^2$ হলে $\\frac{1}{1+\\omega} + \\frac{1}{1+\\omega^2}$ এর মান কত?",
+          "options": {
+            "ক": "$1$",
+            "খ": "$-1$",
+            "গ": "$0$",
+            "ঘ": "$\\omega$"
+          },
+          "correct_option": "ক",
+          "explanation": "$1+\\omega = -\\omega^2$ এবং $1+\\omega^2 = -\\omega$। সুতরাং $-\\frac{1}{\\omega^2} - \\frac{1}{\\omega} = -\\frac{\\omega+1}{\\omega^2} = -\\frac{-\\omega^2}{\\omega^2} = 1$।",
+          "topic": "Polynomials",
+          "probability": "Final Trap"
+        }
+      ]
+    },
+    {
+      "set_number": 2,
+      "questions": [
+        {
+          "question_no": 1,
+          "stem": "উদ্দীপক: একটি বহুপদী সমীকরণ $x^2 - 4x + k = 0$ এর একটি মূল অপরটির তিনগুণ।",
+          "question": "মূলদ্বয় নিচের কোনটি?",
+          "options": {
+            "ক": "$1, 3$",
+            "খ": "$2, 6$",
+            "গ": "$-1, -3$",
+            "ঘ": "$4, 12$"
+          },
+          "correct_option": "ক",
+          "explanation": "ধরি মূলদ্বয় $\\alpha$ এবং $3\\alpha$। মূলদ্বয়ের যোগফল $\\alpha + 3\\alpha = 4 \\Rightarrow 4\\alpha = 4 \\Rightarrow \\alpha = 1$। মূলদ্বয় $1$ এবং $3$।",
+          "topic": "Polynomials",
+          "probability": "Board Favourite"
+        },
+        {
+          "question_no": 2,
+          "stem": "উদ্দীপক: একটি বহুপদী সমীকরণ $x^2 - 4x + k = 0$ এর একটি মূল অপরটির তিনগুণ।",
+          "question": "$k$ এর মান কত?",
+          "options": {
+            "ক": "$4$",
+            "খ": "$3$",
+            "গ": "$12$",
+            "ঘ": "$-3$"
+          },
+          "correct_option": "খ",
+          "explanation": "মূলদ্বয়ের গুণফল $1 \\times 3 = k \\Rightarrow k = 3$।",
+          "topic": "Polynomials",
+          "probability": "Mega Hot"
+        },
+        {
+          "question_no": 3,
+          "stem": "উদ্দীপক: লামির উপপাদ্য (Lami's Theorem) অনুসারে কোনো বিন্দুতে ক্রিয়ারত ৩টি বল $P, Q, R$ সাম্যাবস্থায় আছে। $P$ ও $Q$ এর মধ্যবর্তী কোণ $150^\\circ$ এবং $Q$ ও $R$ এর মধ্যবর্তী কোণ $120^\\circ$।",
+          "question": "$P$ ও $R$ এর মধ্যবর্তী কোণ কত?",
+          "options": {
+            "ক": "$90^\\circ$",
+            "খ": "$120^\\circ$",
+            "গ": "$60^\\circ$",
+            "ঘ": "$30^\\circ$"
+          },
+          "correct_option": "ক",
+          "explanation": "৩টি কোণের যোগফল $360^\\circ$। সুতরাং $360^\\circ - (150^\\circ + 120^\\circ) = 360^\\circ - 270^\\circ = 90^\\circ$।",
+          "topic": "Statics",
+          "probability": "Board Favourite"
+        },
+        {
+          "question_no": 4,
+          "stem": "উদ্দীপক: লামির উপপাদ্য (Lami's Theorem) অনুসারে কোনো বিন্দুতে ক্রিয়ারত ৩টি বল $P, Q, R$ সাম্যাবস্থায় আছে। $P$ ও $Q$ এর মধ্যবর্তী কোণ $150^\\circ$ এবং $Q$ ও $R$ এর মধ্যবর্তী কোণ $120^\\circ$।",
+          "question": "$P : Q$ এর অনুপাত কত?",
+          "options": {
+            "ক": "$\\sqrt{3} : 1$",
+            "খ": "$1 : 2$",
+            "গ": "$\\sqrt{3} : 2$",
+            "ঘ": "$2 : 1$"
+          },
+          "correct_option": "গ",
+          "explanation": "লামির উপপাদ্য: $\\frac{P}{\\sin 120^\\circ} = \\frac{Q}{\\sin 90^\\circ}$। $\\frac{P}{\\sqrt{3}/2} = \\frac{Q}{1} \\Rightarrow \\frac{P}{Q} = \\frac{\\sqrt{3}}{2}$।",
+          "topic": "Statics",
+          "probability": "Mega Hot Shortcut"
+        },
+        {
+          "question_no": 5,
+          "question": "$i^{101} + i^{102} + i^{103} + i^{104}$ এর মান কত?",
+          "options": {
+            "ক": "$1$",
+            "খ": "$-1$",
+            "গ": "$i$",
+            "ঘ": "$0$"
+          },
+          "correct_option": "ঘ",
+          "explanation": "$i$ এর যেকোনো ৪টি ক্রমিক ঘাতের যোগফল সর্বদা $0$ হয়।",
+          "topic": "Complex Numbers",
+          "probability": "Board Favourite"
+        },
+        {
+          "question_no": 6,
+          "question": "$\\tan^{-1} \\frac{1}{2} + \\tan^{-1} \\frac{1}{3}$ এর মান কত?",
+          "options": {
+            "ক": "$\\frac{\\pi}{2}$",
+            "খ": "$\\frac{\\pi}{4}$",
+            "গ": "$\\frac{\\pi}{3}$",
+            "ঘ": "$\\frac{\\pi}{6}$"
+          },
+          "correct_option": "খ",
+          "explanation": "$\\tan^{-1} \\left(\\frac{1/2 + 1/3}{1 - 1/2 \\times 1/3}\\right) = \\tan^{-1} \\left(\\frac{5/6}{5/6}\\right) = \\tan^{-1}(1) = \\frac{\\pi}{4}$।",
+          "topic": "Inverse Trigonometry",
+          "probability": "Mega Hot"
+        },
+        {
+          "question_no": 7,
+          "question": "একটি মুদ্রাকে ৩ বার নিক্ষেপ করা হলে, অন্তত একটি 'Head' পাওয়ার সম্ভাবনা কত?",
+          "options": {
+            "ক": "$\\frac{1}{8}$",
+            "খ": "$\\frac{3}{8}$",
+            "গ": "$\\frac{7}{8}$",
+            "ঘ": "$\\frac{1}{2}$"
+          },
+          "correct_option": "গ",
+          "explanation": "অন্তত একটি Head = 1 - (কোনো Head না পাওয়ার সম্ভাবনা)। কোনো Head না পাওয়া (TTT) এর সম্ভাবনা $1/8$। তাই $1 - 1/8 = 7/8$।",
+          "topic": "Probability",
+          "probability": "Very Hot"
+        },
+        {
+          "question_no": 8,
+          "question": "অধিবৃত্ত $\\frac{x^2}{9} - \\frac{y^2}{16} = 1$ এর শীর্ষবিন্দুর স্থানাঙ্ক কোনটি?",
+          "options": {
+            "ক": "$(\\pm 3, 0)$",
+            "খ": "$(0, \\pm 4)$",
+            "গ": "$(\\pm 4, 0)$",
+            "ঘ": "$(0, \\pm 3)$"
+          },
+          "correct_option": "ক",
+          "explanation": "সমীকরণটি $\\frac{x^2}{a^2} - \\frac{y^2}{b^2} = 1$ আকারের, যার শীর্ষবিন্দু $(\\pm a, 0)$। এখানে $a^2=9 \\Rightarrow a=3$।",
+          "topic": "Conics",
+          "probability": "Board Favourite"
+        },
+        {
+          "question_no": 9,
+          "question": "$x^2 - 5x + c = 0$ সমীকরণের একটি মূল $3$ হলে অপর মূলটি কত?",
+          "options": {
+            "ক": "$2$",
+            "খ": "$-2$",
+            "গ": "$8$",
+            "ঘ": "$15$"
+          },
+          "correct_option": "ক",
+          "explanation": "মূলদ্বয়ের যোগফল $= -\\frac{-5}{1} = 5$। একটি মূল ৩ হলে, অপর মূল $= 5 - 3 = 2$।",
+          "topic": "Polynomials",
+          "probability": "Mega Hot Shortcut"
+        },
+        {
+          "question_no": 10,
+          "question": "একটি টাওয়ারের শীর্ষ থেকে একটি পাথর নিচে ছেড়ে দিলে সেটি ৩ সেকেন্ডে ভূমিতে পৌঁছায়। টাওয়ারটির উচ্চতা কত? ($g=9.8$ ধরে)",
+          "options": {
+            "ক": "$29.4 m$",
+            "খ": "$44.1 m$",
+            "গ": "$88.2 m$",
+            "ঘ": "$14.7 m$"
+          },
+          "correct_option": "খ",
+          "explanation": "$h = ut + \\frac{1}{2}gt^2$। স্থির অবস্থান থেকে $u=0$। $h = \\frac{1}{2} \\times 9.8 \\times 3^2 = 4.9 \\times 9 = 44.1 m$।",
+          "topic": "Dynamics",
+          "probability": "Board Favourite"
+        },
+        {
+          "question_no": 11,
+          "question": "$\\sin x + \\cos x = \\sqrt{2}$ হলে $x$ এর মান কত?",
+          "options": {
+            "ক": "$\\frac{\\pi}{3}$",
+            "খ": "$\\frac{\\pi}{6}$",
+            "গ": "$\\frac{\\pi}{4}$",
+            "ঘ": "$\\frac{\\pi}{2}$"
+          },
+          "correct_option": "গ",
+          "explanation": "$\n\\sin x + \\cos x$ এর সর্বোচ্চ মান $\\sqrt{2}$, যা $x = 45^\\circ$ বা $\\frac{\\pi}{4}$ এ ঘটে। (যেহেতু $\\sin 45^\\circ + \\cos 45^\\circ = \\frac{1}{\\sqrt{2}} + \\frac{1}{\\sqrt{2}} = \\sqrt{2}$)।",
+          "topic": "Trigonometry Equations",
+          "probability": "Conceptual Trap"
+        },
+        {
+          "question_no": 12,
+          "question": "$|x-iy| = 5$ একটি কণিক নির্দেশ করে। এটি কোন ধরনের কণিক?",
+          "options": {
+            "ক": "সরলরেখা",
+            "খ": "বৃত্ত",
+            "গ": "পরাবৃত্ত",
+            "ঘ": "উপবৃত্ত"
+          },
+          "correct_option": "খ",
+          "explanation": "$|x-iy| = \\sqrt{x^2 + (-y)^2} = \\sqrt{x^2+y^2} = 5 \\Rightarrow x^2+y^2 = 25$। এটি মূলবিন্দু কেন্দ্রবিশিষ্ট বৃত্তের সমীকরণ।",
+          "topic": "Complex Numbers",
+          "probability": "Mega Hot Trap"
+        },
+        {
+          "question_no": 13,
+          "question": "সমান্তরাল বলদ্বয় $P$ ও $Q$ ($P > Q$) বিপরীতমুখী হলে তাদের লব্ধির প্রয়োগবিন্দু কোথায় হবে?",
+          "options": {
+            "ক": "$P$ ও $Q$ এর মাঝে",
+            "খ": "$P$ এর বাইরের দিকে",
+            "গ": "$Q$ এর বাইরের দিকে",
+            "ঘ": "মাঝামাঝি বিন্দুতে"
+          },
+          "correct_option": "খ",
+          "explanation": "বিসদৃশ সমান্তরাল বলের লব্ধি সর্বদা বৃহত্তর বলের ($P$) দিকে, ক্রিয়াবিন্দুদ্বয়ের সংযোগ রেখার বাইরে অবস্থান করে।",
+          "topic": "Statics",
+          "probability": "Board Favourite"
+        },
+        {
+          "question_no": 14,
+          "question": "একটি ছক্কা একবার নিক্ষেপ করলে মৌলিক সংখ্যা (Prime number) ওঠার সম্ভাবনা কত?",
+          "options": {
+            "ক": "$\\frac{1}{6}$",
+            "খ": "$\\frac{1}{3}$",
+            "গ": "$\\frac{1}{2}$",
+            "ঘ": "$\\frac{2}{3}$"
+          },
+          "correct_option": "গ",
+          "explanation": "ছক্কায় মৌলিক সংখ্যাগুলো হলো $2, 3, 5$ (মোট ৩টি)। ১ মৌলিক নয়। সম্ভাবনা = $3/6 = 1/2$।",
+          "topic": "Probability",
+          "probability": "Conceptual Trap"
+        },
+        {
+          "question_no": 15,
+          "question": "উপবৃত্ত $\\frac{x^2}{a^2} + \\frac{y^2}{b^2} = 1$ ($a>b$) এর ক্ষেত্রে—\ni. উপকেন্দ্রদ্বয় $(\\pm ae, 0)$\nii. উপকেন্দ্রিক লম্বের দৈর্ঘ্য $\\frac{2b^2}{a}$\niii. নিয়ামকের সমীকরণ $y = \\pm \\frac{b}{e}$\n\nনিচের কোনটি সঠিক?",
+          "options": {
+            "ক": "i ও ii",
+            "খ": "i ও iii",
+            "গ": "ii ও iii",
+            "ঘ": "i, ii ও iii"
+          },
+          "correct_option": "ক",
+          "explanation": "যেহেতু $a>b$, নিয়ামক রেখার সমীকরণ হবে $x = \\pm \\frac{a}{e}$। তাই iii ভুল।",
+          "topic": "Conics",
+          "probability": "Board Favourite"
+        },
+        {
+          "question_no": 16,
+          "question": "গতিবিদ্যার সূত্র অনুযায়ী—\ni. অনুভূমিক পাল্লা সর্বাধিক হবে যখন প্রক্ষেপণ কোণ $45^\\circ$\nii. উড্ডয়নকাল $T = \\frac{u\\sin\\alpha}{g}$\niii. সর্বাধিক পাল্লা $R_{max} = \\frac{u^2}{g}$\n\nনিচের কোনটি সঠিক?",
+          "options": {
+            "ক": "i ও ii",
+            "খ": "i ও iii",
+            "গ": "ii ও iii",
+            "ঘ": "i, ii ও iii"
+          },
+          "correct_option": "খ",
+          "explanation": "উড্ডয়নকাল $T = \\frac{2u\\sin\\alpha}{g}$ হয়, ২ মিসিং থাকায় ii ভুল। i ও iii সঠিক।",
+          "topic": "Dynamics",
+          "probability": "Very Hot"
+        },
+        {
+          "question_no": 17,
+          "question": "জটিল সংখ্যার ক্ষেত্রে—\ni. $-i$ এর বর্গমূল $\\pm\\frac{1}{\\sqrt{2}}(1-i)$\nii. $\\omega^3 = 1$\niii. $z = a+ib$ হলে $|z| = \\sqrt{a^2-b^2}$\n\nনিচের কোনটি সঠিক?",
+          "options": {
+            "ক": "i ও ii",
+            "খ": "i ও iii",
+            "গ": "ii ও iii",
+            "ঘ": "i, ii ও iii"
+          },
+          "correct_option": "ক",
+          "explanation": "মডুলাসের সূত্র $|z| = \\sqrt{a^2+b^2}$, তাই iii ভুল।",
+          "topic": "Complex Numbers",
+          "probability": "Board Favourite"
+        },
+        {
+          "question_no": 18,
+          "question": "সম্ভাবনার ক্ষেত্রে বর্জনশীল (Mutually Exclusive) ঘটনা $A$ ও $B$ এর জন্য—\ni. $A \\cap B = \\phi$\nii. $P(A \\cup B) = P(A) + P(B)$\niii. $P(A \\cap B) = P(A)P(B)$\n\nনিচের কোনটি সঠিক?",
+          "options": {
+            "ক": "i ও ii",
+            "খ": "i ও iii",
+            "গ": "ii ও iii",
+            "ঘ": "i, ii ও iii"
+          },
+          "correct_option": "ক",
+          "explanation": "বর্জনশীল ঘটনায় কোনো কমন অংশ থাকে না, তাই $P(A \\cap B) = 0$। স্বাধীন ঘটনার ক্ষেত্রে iii প্রযোজ্য।",
+          "topic": "Probability",
+          "probability": "Mega Hot"
+        },
+        {
+          "question_no": 19,
+          "question": "বহুপদী সমীকরণের ক্ষেত্রে—\ni. ত্রিঘাত সমীকরণের অন্তত একটি বাস্তব মূল থাকে\nii. জটিল মূলগুলো জোড়ায় জোড়ায় থাকে\niii. অমূলদ মূলগুলো অনুবন্ধী জোড়ায় থাকে\n\nনিচের কোনটি সঠিক?",
+          "options": {
+            "ক": "i ও ii",
+            "খ": "i ও iii",
+            "গ": "ii ও iii",
+            "ঘ": "i, ii ও iii"
+          },
+          "correct_option": "ঘ",
+          "explanation": "সমীকরণের সহগ বাস্তব ও মূলদ হলে, জটিল ও অমূলদ মূলগুলো সবসময় জোড়ায় জোড়ায় (Conjugate pair) থাকে এবং বিজোড় ঘাতের সমীকরণে অন্তত ১টি বাস্তব মূল থাকেই।",
+          "topic": "Polynomials",
+          "probability": "Conceptual Trap"
+        },
+        {
+          "question_no": 20,
+          "question": "বিপরীত ত্রিকোণমিতিতে—\ni. $\\sin^{-1}x + \\cos^{-1}x = \\frac{\\pi}{2}$\nii. $2\\tan^{-1}x = \\sin^{-1}(\\frac{2x}{1+x^2})$\niii. $\\tan^{-1}x - \\tan^{-1}y = \\tan^{-1}(\\frac{x+y}{1-xy})$\n\nনিচের কোনটি সঠিক?",
+          "options": {
+            "ক": "i ও ii",
+            "খ": "i ও iii",
+            "গ": "ii ও iii",
+            "ঘ": "i, ii ও iii"
+          },
+          "correct_option": "ক",
+          "explanation": "iii-তে ডানপাশে লবে মাইনাস ও হরে প্লাস হবে, কারণ সূত্রটি মাইনাসের। তাই iii ভুল।",
+          "topic": "Inverse Trigonometry",
+          "probability": "Board Favourite"
+        },
+        {
+          "question_no": 21,
+          "question": "একটি থলিতে ৫টি লাল এবং ৪টি কালো বল আছে। দৈবচয়নে ২টি বল তুললে দুটিই লাল হওয়ার সম্ভাবনা কত?",
+          "options": {
+            "ক": "$\\frac{5}{18}$",
+            "খ": "$\\frac{20}{81}$",
+            "গ": "$\\frac{5}{9}$",
+            "ঘ": "$\\frac{5}{36}$"
+          },
+          "correct_option": "ক",
+          "explanation": "মোট বল ৯টি। ২টি বল তোলার উপায় ${}^9C_2 = 36$। দুটিই লাল হওয়ার উপায় ${}^5C_2 = 10$। সম্ভাবনা $= 10/36 = 5/18$।",
+          "topic": "Probability",
+          "probability": "Mega Hot Shortcut"
+        },
+        {
+          "question_no": 22,
+          "question": "$z = \\frac{1+i}{1-i}$ হলে $z^{100}$ এর মান কত?",
+          "options": {
+            "ক": "$1$",
+            "খ": "$-1$",
+            "গ": "$i$",
+            "ঘ": "$-i$"
+          },
+          "correct_option": "ক",
+          "explanation": "শর্টকাট: $\\frac{1+i}{1-i} = i$। সুতরাং $z^{100} = i^{100} = (i^4)^{25} = 1^{25} = 1$।",
+          "topic": "Complex Numbers",
+          "probability": "Final Trap"
+        },
+        {
+          "question_no": 23,
+          "question": "$y = x^2 - 4x + 4$ পরাবৃত্তের শীর্ষবিন্দু কোথায় অবস্থিত?",
+          "options": {
+            "ক": "$(2, 0)$",
+            "খ": "$(0, 2)$",
+            "গ": "$(-2, 0)$",
+            "ঘ": "$(0, -2)$"
+          },
+          "correct_option": "ক",
+          "explanation": "সমীকরণটি $y = (x-2)^2$ বা $(x-2)^2 = y$। $x^2 = 4ay$ আকারের সমীকরণে রূপান্তর করলে শীর্ষবিন্দু $(2, 0)$ হয়।",
+          "topic": "Conics",
+          "probability": "Board Favourite"
+        },
+        {
+          "question_no": 24,
+          "question": "$5N$ ও $12N$ মানের দুটি বল পরস্পর লম্বভাবে ক্রিয়া করলে লব্ধির দিক $12N$ বলের সাথে কত কোণ তৈরি করে?",
+          "options": {
+            "ক": "$\\tan^{-1}(\\frac{5}{12})$",
+            "খ": "$\\tan^{-1}(\\frac{12}{5})$",
+            "গ": "$\\sin^{-1}(\\frac{5}{12})$",
+            "ঘ": "$\\cos^{-1}(\\frac{5}{12})$"
+          },
+          "correct_option": "ক",
+          "explanation": "লব্ধির দিক $\\tan\\theta = \\frac{P}{Q}$ (যেহেতু $\\alpha = 90^\\circ$)। $12N$ এর সাথে কোণ চাইলে লবে ৫ বসবে। $\\tan\\theta = 5/12 \\Rightarrow \\theta = \\tan^{-1}(5/12)$।",
+          "topic": "Statics",
+          "probability": "Conceptual Trap"
+        },
+        {
+          "question_no": 25,
+          "question": "$ax^2 + bx + c = 0$ সমীকরণের মূলদ্বয় উল্টো (Reciprocal) হবে যদি—",
+          "options": {
+            "ক": "$a = b$",
+            "খ": "$b = c$",
+            "গ": "$a = c$",
+            "ঘ": "$b = 0$"
+          },
+          "correct_option": "গ",
+          "explanation": "মূলদ্বয় $\\alpha$ এবং $1/\\alpha$ হলে, গুণফল $\\alpha \\times \\frac{1}{\\alpha} = 1 = \\frac{c}{a} \\Rightarrow a=c$।",
+          "topic": "Polynomials",
+          "probability": "Mega Hot Shortcut"
+        }
+      ]
+    },
+    {
+      "set_number": 3,
+      "questions": [
+        {
+          "question_no": 1,
+          "stem": "উদ্দীপক: একটি বাক্সে ৩টি লাল, ৪টি সাদা এবং ৫টি নীল মার্বেল আছে। দৈবচয়নে একটি মার্বেল তোলা হলো।",
+          "question": "মার্বেলটি সাদা হওয়ার সম্ভাবনা কত?",
+          "options": {
+            "ক": "$\\frac{1}{3}$",
+            "খ": "$\\frac{1}{4}$",
+            "গ": "$\\frac{5}{12}$",
+            "ঘ": "$\\frac{7}{12}$"
+          },
+          "correct_option": "ক",
+          "explanation": "মোট মার্বেল = ৩+৪+৫ = ১২টি। সাদা মার্বেল ৪টি। সম্ভাবনা = $4/12 = 1/3$।",
+          "topic": "Probability",
+          "probability": "Board Favourite"
+        },
+        {
+          "question_no": 2,
+          "stem": "উদ্দীপক: একটি বাক্সে ৩টি লাল, ৪টি সাদা এবং ৫টি নীল মার্বেল আছে। দৈবচয়নে একটি মার্বেল তোলা হলো।",
+          "question": "মার্বেলটি লাল বা নীল হওয়ার সম্ভাবনা কত?",
+          "options": {
+            "ক": "$\\frac{1}{4}$",
+            "খ": "$\\frac{2}{3}$",
+            "গ": "$\\frac{5}{12}$",
+            "ঘ": "$\\frac{7}{12}$"
+          },
+          "correct_option": "খ",
+          "explanation": "লাল (৩টি) অথবা নীল (৫টি) মোট = ৮টি। সম্ভাবনা = $8/12 = 2/3$।",
+          "topic": "Probability",
+          "probability": "Mega Hot"
+        },
+        {
+          "question_no": 3,
+          "stem": "উদ্দীপক: একটি বস্তু $19.6 m/s$ বেগে খাড়া উপরের দিকে নিক্ষিপ্ত হলো। ($g = 9.8 m/s^2$)",
+          "question": "বস্তুটি কত সময় শূন্যে থাকবে (উড্ডয়নকাল)?",
+          "options": {
+            "ক": "$2 s$",
+            "খ": "$3 s$",
+            "গ": "$4 s$",
+            "ঘ": "$5 s$"
+          },
+          "correct_option": "গ",
+          "explanation": "উড্ডয়নকাল $T = \\frac{2u}{g} = \\frac{2 \\times 19.6}{9.8} = 2 \\times 2 = 4 s$।",
+          "topic": "Dynamics",
+          "probability": "Board Favourite"
+        },
+        {
+          "question_no": 4,
+          "stem": "উদ্দীপক: একটি বস্তু $19.6 m/s$ বেগে খাড়া উপরের দিকে নিক্ষিপ্ত হলো। ($g = 9.8 m/s^2$)",
+          "question": "সর্বোচ্চ উচ্চতা কত?",
+          "options": {
+            "ক": "$9.8 m$",
+            "খ": "$19.6 m$",
+            "গ": "$39.2 m$",
+            "ঘ": "$4.9 m$"
+          },
+          "correct_option": "খ",
+          "explanation": "সর্বোচ্চ উচ্চতা $H = \\frac{u^2}{2g} = \\frac{19.6 \\times 19.6}{2 \\times 9.8} = \\frac{19.6 \\times 19.6}{19.6} = 19.6 m$।",
+          "topic": "Dynamics",
+          "probability": "Mega Hot"
+        },
+        {
+          "question_no": 5,
+          "question": "সমীকরণ $3x^2 - kx + 12 = 0$ এর মূলদ্বয় সমান হলে $k$ এর ধনাত্মক মান কত?",
+          "options": {
+            "ক": "$6$",
+            "খ": "$12$",
+            "গ": "$144$",
+            "ঘ": "$36$"
+          },
+          "correct_option": "খ",
+          "explanation": "মূলদ্বয় সমান হলে নিশ্চায়ক $b^2 - 4ac = 0$। $(-k)^2 - 4(3)(12) = 0 \\Rightarrow k^2 = 144 \\Rightarrow k = \\pm 12$।",
+          "topic": "Polynomials",
+          "probability": "Board Favourite"
+        },
+        {
+          "question_no": 6,
+          "question": "জটিল সংখ্যা $i$ এর বর্গমূল কোনটি?",
+          "options": {
+            "ক": "$\\pm \\frac{1}{\\sqrt{2}}(1+i)$",
+            "খ": "$\\pm \\frac{1}{2}(1+i)$",
+            "গ": "$\\pm (1+i)$",
+            "ঘ": "$\\pm \\frac{1}{\\sqrt{2}}(1-i)$"
+          },
+          "correct_option": "ক",
+          "explanation": "$i = \\frac{1}{2}(2i) = \\frac{1}{2}(1 + 2i - 1) = \\frac{1}{2}(1 + 2i + i^2) = \\frac{1}{2}(1+i)^2$। বর্গমূল করলে $\\pm\\frac{1}{\\sqrt{2}}(1+i)$।",
+          "topic": "Complex Numbers",
+          "probability": "Mega Hot"
+        },
+        {
+          "question_no": 7,
+          "question": "$\\cos^{-1}(\\cos \\frac{7\\pi}{6})$ এর মান কত?",
+          "options": {
+            "ক": "$\\frac{7\\pi}{6}$",
+            "খ": "$\\frac{\\pi}{6}$",
+            "গ": "$\\frac{5\\pi}{6}$",
+            "ঘ": "$-\\frac{\\pi}{6}$"
+          },
+          "correct_option": "গ",
+          "explanation": "$\\cos^{-1}$ এর রেঞ্জ $[0, \\pi]$। $\\cos(\\frac{7\\pi}{6}) = \\cos(2\\pi - \\frac{5\\pi}{6}) = \\cos(\\frac{5\\pi}{6})$। তাই উত্তর $\\frac{5\\pi}{6}$। এটি একটি মারাত্মক ট্র্যাপ।",
+          "topic": "Inverse Trigonometry",
+          "probability": "Conceptual Trap"
+        },
+        {
+          "question_no": 8,
+          "question": "পরাবৃত্ত $x^2 = -12y$ এর নিয়ামকের (Directrix) সমীকরণ কোনটি?",
+          "options": {
+            "ক": "$x = 3$",
+            "খ": "$y = 3$",
+            "গ": "$x = -3$",
+            "ঘ": "$y = -3$"
+          },
+          "correct_option": "খ",
+          "explanation": "$x^2 = 4(-3)y$। এখানে $a = -3$। নিয়ামকের সমীকরণ $y = -a \\Rightarrow y = -(-3) = 3$।",
+          "topic": "Conics",
+          "probability": "Board Favourite"
+        },
+        {
+          "question_no": 9,
+          "question": "দুটি সমবিন্দু বল $P$ এবং $2P$ এর লব্ধি $P\\sqrt{7}$। বলদ্বয়ের মধ্যবর্তী কোণ কত?",
+          "options": {
+            "ক": "$30^\\circ$",
+            "খ": "$60^\\circ$",
+            "গ": "$90^\\circ$",
+            "ঘ": "$120^\\circ$"
+          },
+          "correct_option": "খ",
+          "explanation": "$R^2 = P^2 + Q^2 + 2PQ\\cos\\alpha \\Rightarrow 7P^2 = P^2 + 4P^2 + 2(P)(2P)\\cos\\alpha \\Rightarrow 2P^2 = 4P^2\\cos\\alpha \\Rightarrow \\cos\\alpha = 1/2 \\Rightarrow \\alpha = 60^\\circ$।",
+          "topic": "Statics",
+          "probability": "Mega Hot"
+        },
+        {
+          "question_no": 10,
+          "question": "৫২ খানা তাসের প্যাকেট থেকে দৈবচয়নে ১টি তাস টানলে সেটি 'টেক্কা' (Ace) অথবা 'রুইতন' (Diamond) হওয়ার সম্ভাবনা কত?",
+          "options": {
+            "ক": "$\\frac{5}{13}$",
+            "খ": "$\\frac{4}{13}$",
+            "গ": "$\\frac{16}{52}$",
+            "ঘ": "$\\frac{1}{4}$"
+          },
+          "correct_option": "খ",
+          "explanation": "টেক্কা ৪টি, রুইতন ১৩টি। এদের মধ্যে ১টি রুইতনের টেক্কা কমন। তাই অনুকূল তাস = $4 + 13 - 1 = 16$। সম্ভাবনা $= 16/52 = 4/13$।",
+          "topic": "Probability",
+          "probability": "Mega Hot Trap"
+        },
+        {
+          "question_no": 11,
+          "question": "সমীকরণ $x^3 - 3x + 2 = 0$ এর মূলগুলির যোগফল কত?",
+          "options": {
+            "ক": "$3$",
+            "খ": "$-3$",
+            "গ": "$0$",
+            "ঘ": "$2$"
+          },
+          "correct_option": "গ",
+          "explanation": "ত্রিঘাত সমীকরণের মূলের যোগফল = $-\\frac{x^2 \\text{ এর সহগ}}{x^3 \\text{ এর সহগ}}$। এখানে $x^2$ এর কোনো পদ নেই, তাই সহগ ০। উত্তর ০।",
+          "topic": "Polynomials",
+          "probability": "Conceptual Trap"
+        },
+        {
+          "question_no": 12,
+          "question": "উপবৃত্তের উপকেন্দ্রিক লম্বের দৈর্ঘ্য বৃহৎ অক্ষের অর্ধেক হলে, এর উৎকেন্দ্রিকতা ($e$) কত?",
+          "options": {
+            "ক": "$\\frac{1}{2}$",
+            "খ": "$\\frac{1}{\\sqrt{2}}$",
+            "গ": "$\\frac{\\sqrt{3}}{2}$",
+            "ঘ": "$\\frac{1}{4}$"
+          },
+          "correct_option": "খ",
+          "explanation": "শর্তমতে, $\\frac{2b^2}{a} = a \\Rightarrow 2b^2 = a^2 \\Rightarrow \\frac{b^2}{a^2} = \\frac{1}{2}$। $e = \\sqrt{1 - b^2/a^2} = \\sqrt{1 - 1/2} = \\frac{1}{\\sqrt{2}}$।",
+          "topic": "Conics",
+          "probability": "Very Hot"
+        },
+        {
+          "question_no": 13,
+          "question": "যদি $\\arg(z) = \\frac{\\pi}{4}$ হয়, তবে $z$ জটিল সংখ্যাটির সঞ্চারপথ (Locus) কী নির্দেশ করে?",
+          "options": {
+            "ক": "একটি বৃত্ত",
+            "খ": "মূলবিন্দুগামী একটি সরলরেখা",
+            "গ": "অধিবৃত্ত",
+            "ঘ": "পরাবৃত্ত"
+          },
+          "correct_option": "খ",
+          "explanation": "ধরি $z = x+iy$। $\\arg(z) = \\tan^{-1}(y/x) = \\pi/4 \\Rightarrow y/x = 1 \\Rightarrow y=x$, যা মূলবিন্দুগামী একটি সরলরেখা।",
+          "topic": "Complex Numbers",
+          "probability": "Board Favourite"
+        },
+        {
+          "question_no": 14,
+          "question": "$u$ বেগে এবং অনুভূমিকের সাথে $\\alpha$ কোণে নিক্ষিপ্ত প্রাসের পাল্লা সর্বাধিক হবে যদি—",
+          "options": {
+            "ক": "$\\alpha = 30^\\circ$",
+            "খ": "$\\alpha = 45^\\circ$",
+            "গ": "$\\alpha = 60^\\circ$",
+            "ঘ": "$\\alpha = 90^\\circ$"
+          },
+          "correct_option": "খ",
+          "explanation": "$R = \\frac{u^2\\sin 2\\alpha}{g}$। $\\sin 2\\alpha$ এর সর্বোচ্চ মান $1$, যা $2\\alpha = 90^\\circ \\Rightarrow \\alpha = 45^\\circ$ হলে পাওয়া যায়।",
+          "topic": "Dynamics",
+          "probability": "Board Favourite"
+        },
+        {
+          "question_no": 15,
+          "question": "বহুপদী $f(x) = ax^2+bx+c$ এর ক্ষেত্রে—\ni. $a>0$ হলে লেখচিত্রটি ঊর্ধ্বমুখী (U-আকৃতির)\nii. $b^2 - 4ac < 0$ হলে লেখচিত্রটি $x$-অক্ষকে ছেদ করে না\niii. শীর্ষবিন্দুর ভুজ $x = -\\frac{b}{2a}$\n\nনিচের কোনটি সঠিক?",
+          "options": {
+            "ক": "i ও ii",
+            "খ": "i ও iii",
+            "গ": "ii ও iii",
+            "ঘ": "i, ii ও iii"
+          },
+          "correct_option": "ঘ",
+          "explanation": "দ্বিঘাত ফাংশনের লেখচিত্রের (পরাবৃত্ত) বৈশিষ্ট্য অনুসারে এই তিনটি তথ্যই গাণিতিকভাবে সত্য।",
+          "topic": "Polynomials",
+          "probability": "Board Favourite"
+        },
+        {
+          "question_no": 16,
+          "question": "কণিকের ক্ষেত্রে উৎকেন্দ্রিকতা $e$ বিবেচনা করলে—\ni. পরাবৃত্তের $e = 1$\nii. উপবৃত্তের $e < 1$\niii. অধিবৃত্তের $e > 1$\n\nনিচের কোনটি সঠিক?",
+          "options": {
+            "ক": "i ও ii",
+            "খ": "i ও iii",
+            "গ": "ii ও iii",
+            "ঘ": "i, ii ও iii"
+          },
+          "correct_option": "ঘ",
+          "explanation": "কণিকের সাধারণ সংজ্ঞানুসারে $e$ এর এই শর্তগুলোই তিনটি ভিন্ন কণিক তৈরি করে।",
+          "topic": "Conics",
+          "probability": "Board Favourite"
+        },
+        {
+          "question_no": 17,
+          "question": "ত্রিকোণমিতিক সমীকরণের ক্ষেত্রে—\ni. $\\sin\\theta = 0$ হলে $\\theta = n\\pi$\nii. $\\cos\\theta = 1$ হলে $\\theta = 2n\\pi$\niii. $\\tan\\theta = 0$ হলে $\\theta = (2n+1)\\frac{\\pi}{2}$\n\nনিচের কোনটি সঠিক?",
+          "options": {
+            "ক": "i ও ii",
+            "খ": "i ও iii",
+            "গ": "ii ও iii",
+            "ঘ": "i, ii ও iii"
+          },
+          "correct_option": "ক",
+          "explanation": "$\\tan\\theta = 0$ হলে $\\theta = n\\pi$ হয়। $(2n+1)\\pi/2$ তে অসংজ্ঞায়িত হয়। তাই iii ভুল।",
+          "topic": "Trigonometry Equations",
+          "probability": "Conceptual Trap"
+        },
+        {
+          "question_no": 18,
+          "question": "জটিল সংখ্যার ঘনমূল $1, \\omega, \\omega^2$ এর ক্ষেত্রে—\ni. $1 + \\omega + \\omega^2 = 0$\nii. $\\omega^3 = 1$\niii. $\\omega$ এবং $\\omega^2$ পরস্পর অনুবন্ধী (Conjugate)\n\nনিচের কোনটি সঠিক?",
+          "options": {
+            "ক": "i ও ii",
+            "খ": "i ও iii",
+            "গ": "ii ও iii",
+            "ঘ": "i, ii ও iii"
+          },
+          "correct_option": "ঘ",
+          "explanation": "ঘনমূলের ধর্ম অনুযায়ী এই তিনটি বিবৃতিই সঠিক।",
+          "topic": "Complex Numbers",
+          "probability": "Very Hot"
+        },
+        {
+          "question_no": 19,
+          "question": "স্থিতিবিদ্যায় বলের সাম্যাবস্থার ক্ষেত্রে—\ni. লামির উপপাদ্যে ৩টি সমবিন্দু বল প্রয়োজন\nii. বল ত্রিভুজ সূত্র সাম্যাবস্থার প্রমাণ দেয়\niii. দুটি বলের লব্ধি সর্বদা বৃহত্তর বলের দিকে হেলে থাকে\n\nনিচের কোনটি সঠিক?",
+          "options": {
+            "ক": "i ও ii",
+            "খ": "i ও iii",
+            "গ": "ii ও iii",
+            "ঘ": "i, ii ও iii"
+          },
+          "correct_option": "ঘ",
+          "explanation": "স্থিতিবিদ্যার বেসিক সূত্র অনুযায়ী তিনটি কথাই একদম সত্য।",
+          "topic": "Statics",
+          "probability": "Board Favourite"
+        },
+        {
+          "question_no": 20,
+          "question": "সম্ভাবনার ক্ষেত্রে দুটি ঘটনা $A$ ও $B$ স্বাধীন (Independent) হলে—\ni. $P(A \\cap B) = P(A)P(B)$\nii. $P(A|B) = P(A)$\niii. $P(A \\cup B) = P(A) + P(B)$\n\nনিচের কোনটি সঠিক?",
+          "options": {
+            "ক": "i ও ii",
+            "খ": "i ও iii",
+            "গ": "ii ও iii",
+            "ঘ": "i, ii ও iii"
+          },
+          "correct_option": "ক",
+          "explanation": "স্বাধীন হলে গুণন সূত্র খাটে এবং শর্তাধীন সম্ভাবনা মূল সম্ভাবনার সমান হয়। iii বর্জনশীল ঘটনার শর্ত, তাই ভুল।",
+          "topic": "Probability",
+          "probability": "Conceptual Trap"
+        },
+        {
+          "question_no": 21,
+          "question": "অধিবৃত্ত $x^2 - y^2 = a^2$ এর উৎকেন্দ্রিকতা ($e$) কত?",
+          "options": {
+            "ক": "$\\sqrt{2}$",
+            "খ": "$2$",
+            "গ": "$1/\\sqrt{2}$",
+            "ঘ": "$1$"
+          },
+          "correct_option": "ক",
+          "explanation": "এটি একটি আয়তাকার অধিবৃত্ত (Rectangular Hyperbola)। এখানে $a=b$। তাই $e = \\sqrt{1 + a^2/a^2} = \\sqrt{2}$।",
+          "topic": "Conics",
+          "probability": "Mega Hot Shortcut"
+        },
+        {
+          "question_no": 22,
+          "question": "$ax^2 + bx + c = 0$ সমীকরণের মূলদ্বয়ের অনুপাত $1:1$ হলে নিচের কোনটি সত্য?",
+          "options": {
+            "ক": "$b^2 = 4ac$",
+            "খ": "$b^2 = ac$",
+            "গ": "$a^2 = 4bc$",
+            "ঘ": "$c^2 = 4ab$"
+          },
+          "correct_option": "ক",
+          "explanation": "অনুপাত $1:1$ মানে মূল দুটি সমান। আর মূল সমান হওয়ার শর্ত হলো নিশ্চায়ক $b^2 - 4ac = 0 \\Rightarrow b^2 = 4ac$।",
+          "topic": "Polynomials",
+          "probability": "Mega Hot Trap"
+        },
+        {
+          "question_no": 23,
+          "question": "স্থির অবস্থান থেকে পতিত একটি বস্তু ২য় সেকেন্ডে কত দূরত্ব অতিক্রম করবে? ($g = 9.8 m/s^2$)",
+          "options": {
+            "ক": "$14.7 m$",
+            "খ": "$4.9 m$",
+            "গ": "$19.6 m$",
+            "ঘ": "$9.8 m$"
+          },
+          "correct_option": "ক",
+          "explanation": "তম সেকেন্ডে অতিক্রান্ত দূরত্ব $S_t = u + \\frac{1}{2}g(2t-1)$। ২য় সেকেন্ডে $S_2 = 0 + 4.9(2 \\times 2 - 1) = 4.9 \\times 3 = 14.7 m$।",
+          "topic": "Dynamics",
+          "probability": "Mega Hot Shortcut"
+        },
+        {
+          "question_no": 24,
+          "question": "$\\tan^{-1} x + \\tan^{-1} y + \\tan^{-1} z = \\pi$ হলে নিচের কোনটি সঠিক?",
+          "options": {
+            "ক": "$x+y+z = xyz$",
+            "খ": "$xy+yz+zx = 1$",
+            "গ": "$x+y+z = 0$",
+            "ঘ": "$xyz = 1$"
+          },
+          "correct_option": "ক",
+          "explanation": "এটি বিপরীত ত্রিকোণমিতির একটি প্রামাণ্য এবং বহুবার আসা অনুসিদ্ধান্ত।",
+          "topic": "Inverse Trigonometry",
+          "probability": "Final Trap"
+        },
+        {
+          "question_no": 25,
+          "question": "দুটি সমান বলের লব্ধি বলদ্বয়ের মধ্যবর্তী কোণকে কী করে?",
+          "options": {
+            "ক": "সমদ্বিখণ্ডিত করে",
+            "খ": "লম্বরূপে ছেদ করে",
+            "গ": "সমান অংশে ভাগ করে না",
+            "ঘ": "কোনোটিই নয়"
+          },
+          "correct_option": "ক",
+          "explanation": "যদি $P = Q$ হয়, তবে লব্ধি $R$ তাদের মধ্যবর্তী কোণকে সমদ্বিখণ্ডিত করে (Bisect)। এটি সামান্তরিক সূত্রের একটি মৌলিক বৈশিষ্ট্য।",
+          "topic": "Statics",
+          "probability": "Board Favourite"
+        }
+      ]
+    }
+  ]
+}

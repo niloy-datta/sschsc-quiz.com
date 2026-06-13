@@ -1,0 +1,177 @@
+{
+  "hsc-ict-chapter-03-set-09-q01": {
+    "answer": "কীবোর্ড স্ট্রোক ডাইনামিক্স",
+    "answerIndex": 2,
+    "difficulty": 1200,
+    "explanation": "শারীরিক গঠন নয়; টাইপ করার ধরন (আচরণ) বিশ্লেষণ করে শনাক্ত করা হয়। — বোর্ড/মডেল/অধ্যায়ভিত্তিক সোর্স প্যাটার্ন থেকে নেওয়া high-priority MCQ।",
+    "topic": "সংখ্যা পদ্ধতি ও ডিজিটাল ডিভাইস"
+  },
+  "hsc-ict-chapter-03-set-09-q02": {
+    "answer": "পুরো নেটওয়ার্ক প্রভাবিত হয়",
+    "answerIndex": 0,
+    "difficulty": 1200,
+    "explanation": "স্টার টপোলজির হাব বা সুইচ নষ্ট হয়ে গেলে পুরো নেটওয়ার্কই অচল হয়ে পড়ে। — বোর্ড/মডেল/অধ্যায়ভিত্তিক সোর্স প্যাটার্ন থেকে নেওয়া high-priority MCQ।",
+    "topic": "কমিউনিকেশন সিস্টেম ও নেটওয়ার্কিং"
+  },
+  "hsc-ict-chapter-03-set-09-q03": {
+    "answer": "Hub/Switch",
+    "answerIndex": 0,
+    "difficulty": 1200,
+    "explanation": "স্টার টপোলজিতে সবগুলো কম্পিউটার একটি কেন্দ্রীয় ডিভাইসের (সাধারণত হাব বা সুইচ) সাথে যুক্ত থাকে। — বোর্ড/মডেল/অধ্যায়ভিত্তিক সোর্স প্যাটার্ন থেকে নেওয়া high-priority MCQ।",
+    "topic": "কমিউনিকেশন সিস্টেম ও নেটওয়ার্কিং"
+  },
+  "hsc-ict-chapter-03-set-09-q04": {
+    "answer": "নির্দিষ্ট destination port-এ",
+    "answerIndex": 0,
+    "difficulty": 1200,
+    "explanation": "সুইচ একটি বুদ্ধিমান ডিভাইস, এটি MAC অ্যাড্রেস রিড করে ডেটা শুধুমাত্র যে কম্পিউটারের জন্য পাঠানো হয়েছে, নির্দিষ্ট করে তার কাছেই পাঠায়। — বোর্ড/মডেল/অধ্যায়ভিত্তিক সোর্স প্যাটার্ন থেকে নেওয়া high-priority MCQ।",
+    "topic": "কমিউনিকেশন সিস্টেম ও নেটওয়ার্কিং"
+  },
+  "hsc-ict-chapter-03-set-09-q05": {
+    "answer": "internet communication protocol suite",
+    "answerIndex": 0,
+    "difficulty": 1200,
+    "explanation": "TCP/IP (Transmission Control Protocol/Internet Protocol) হলো ইন্টারনেটের সবচেয়ে মৌলিক প্রোটোকল স্যুট বা নিয়মাবলি, যার উপর ভিত্তি করে ইন্টারনেট চলে। — বোর্ড/মডেল/অধ্যায়ভিত্তিক সোর্স প্যাটার্ন থেকে নেওয়া high-priority MCQ।",
+    "topic": "কমিউনিকেশন সিস্টেম ও নেটওয়ার্কিং"
+  },
+  "hsc-ict-chapter-03-set-09-q06": {
+    "answer": "Coaxial cable",
+    "answerIndex": 0,
+    "difficulty": 1200,
+    "explanation": "টেলিভিশনের ডিশ লাইন বা কেবল টিভি নেটওয়ার্কে সাধারণত কো-অক্সিয়াল ক্যাবল ব্যবহার করা হয়ে থাকে। — বোর্ড/মডেল/অধ্যায়ভিত্তিক সোর্স প্যাটার্ন থেকে নেওয়া high-priority MCQ।",
+    "topic": "কমিউনিকেশন সিস্টেম ও নেটওয়ার্কিং"
+  },
+  "hsc-ict-chapter-03-set-09-q07": {
+    "answer": "নেটওয়ার্কের গঠন/বিন্যাস",
+    "answerIndex": 0,
+    "difficulty": 1200,
+    "explanation": "নেটওয়ার্কের কম্পিউটার বা ডিভাইসগুলোকে কীভাবে বা কোন জ্যামিতিক নকশায় একে অপরের সাথে যুক্ত করা হয়েছে, তার লে-আউটকেই টপোলজি বলে। — বোর্ড/মডেল/অধ্যায়ভিত্তিক সোর্স প্যাটার্ন থেকে নেওয়া high-priority MCQ।",
+    "topic": "কমিউনিকেশন সিস্টেম ও নেটওয়ার্কিং"
+  },
+  "hsc-ict-chapter-03-set-09-q08": {
+    "answer": "Font color",
+    "answerIndex": 3,
+    "difficulty": 1200,
+    "explanation": "মাধ্যম নির্বাচনের সময় খরচ, ব্যান্ডউইথ বা স্পিড এবং দূরত্ব বিবেচনা করতে হয়। ফন্ট কালারের সাথে এর কোনো সম্পর্ক নেই। — বোর্ড/মডেল/অধ্যায়ভিত্তিক সোর্স প্যাটার্ন থেকে নেওয়া high-priority MCQ।",
+    "topic": "কমিউনিকেশন সিস্টেম ও নেটওয়ার্কিং"
+  },
+  "hsc-ict-chapter-03-set-09-q09": {
+    "answer": "২",
+    "answerIndex": 1,
+    "difficulty": 1200,
+    "explanation": "ট্রান্সমিশন মাধ্যম মূলত ২ প্রকার: তারযুক্ত (Guided) এবং তারবিহীন (Unguided) মাধ্যম। — বোর্ড/মডেল/অধ্যায়ভিত্তিক সোর্স প্যাটার্ন থেকে নেওয়া high-priority MCQ।",
+    "topic": "কমিউনিকেশন সিস্টেম ও নেটওয়ার্কিং"
+  },
+  "hsc-ict-chapter-03-set-09-q10": {
+    "answer": "Bus ও Star",
+    "answerIndex": 0,
+    "difficulty": 1200,
+    "explanation": "ট্রি টপোলজি মূলত একাধিক স্টার টপোলজিকে একটি বাস বা ব্যাকবোনের সাথে যুক্ত করে তৈরি করা হয়। — বোর্ড/মডেল/অধ্যায়ভিত্তিক সোর্স প্যাটার্ন থেকে নেওয়া high-priority MCQ।",
+    "topic": "কমিউনিকেশন সিস্টেম ও নেটওয়ার্কিং"
+  },
+  "hsc-ict-chapter-03-set-09-q11": {
+    "answer": "LAN",
+    "answerIndex": 0,
+    "difficulty": 1200,
+    "explanation": "বাসা-বাড়ি, অফিস বা ছোট এলাকার লোকাল এরিয়া নেটওয়ার্কে (LAN) সবচেয়ে বেশি ব্যবহৃত হয় টুইস্টেড পেয়ার ক্যাবল। — বোর্ড/মডেল/অধ্যায়ভিত্তিক সোর্স প্যাটার্ন থেকে নেওয়া high-priority MCQ।",
+    "topic": "কমিউনিকেশন সিস্টেম ও নেটওয়ার্কিং"
+  },
+  "hsc-ict-chapter-03-set-09-q12": {
+    "answer": "Uniform Resource Locator",
+    "answerIndex": 0,
+    "difficulty": 1200,
+    "explanation": "URL এর পূর্ণরূপ Uniform Resource Locator, যা ইন্টারনেটে থাকা কোনো ওয়েবপেজ বা ফাইলের নির্দিষ্ট ঠিকানা। — বোর্ড/মডেল/অধ্যায়ভিত্তিক সোর্স প্যাটার্ন থেকে নেওয়া high-priority MCQ।",
+    "topic": "কমিউনিকেশন সিস্টেম ও নেটওয়ার্কিং"
+  },
+  "hsc-ict-chapter-03-set-09-q13": {
+    "answer": "থাকে না",
+    "answerIndex": 1,
+    "difficulty": 1200,
+    "explanation": "UTP (Unshielded Twisted Pair) তে কোনো এক্সট্রা শিল্ডিং বা মেটাল ফয়েল থাকে না, তাই নয়েজের প্রভাব বেশি পড়ে। — বোর্ড/মডেল/অধ্যায়ভিত্তিক সোর্স প্যাটার্ন থেকে নেওয়া high-priority MCQ।",
+    "topic": "কমিউনিকেশন সিস্টেম ও নেটওয়ার্কিং"
+  },
+  "hsc-ict-chapter-03-set-09-q14": {
+    "answer": "Unshielded Twisted Pair",
+    "answerIndex": 0,
+    "difficulty": 1200,
+    "explanation": "UTP এর পূর্ণরূপ হলো Unshielded Twisted Pair, যেটিতে কোনো প্রতিরক্ষামূলক জ্যাকেট বা শিল্ড থাকে না। — বোর্ড/মডেল/অধ্যায়ভিত্তিক সোর্স প্যাটার্ন থেকে নেওয়া high-priority MCQ।",
+    "topic": "কমিউনিকেশন সিস্টেম ও নেটওয়ার্কিং"
+  },
+  "hsc-ict-chapter-03-set-09-q15": {
+    "answer": "তারবিহীন মাধ্যম",
+    "answerIndex": 1,
+    "difficulty": 1200,
+    "explanation": "Unguided বা অ-পরিচালিত মাধ্যম হলো তারবিহীন মাধ্যম, যেখানে ডেটা বাতাস বা স্পেসের মধ্য দিয়ে যায়। — বোর্ড/মডেল/অধ্যায়ভিত্তিক সোর্স প্যাটার্ন থেকে নেওয়া high-priority MCQ।",
+    "topic": "কমিউনিকেশন সিস্টেম ও নেটওয়ার্কিং"
+  },
+  "hsc-ict-chapter-03-set-09-q16": {
+    "answer": "Microwave",
+    "answerIndex": 2,
+    "difficulty": 1200,
+    "explanation": "রেডিও ওয়েভ, মাইক্রোওয়েভ, স্যাটেলাইট, ইনফ্রারেড ইত্যাদি হলো আনগাইডেড বা ওয়্যারলেস মাধ্যমের উদাহরণ। — বোর্ড/মডেল/অধ্যায়ভিত্তিক সোর্স প্যাটার্ন থেকে নেওয়া high-priority MCQ।",
+    "topic": "কমিউনিকেশন সিস্টেম ও নেটওয়ার্কিং"
+  },
+  "hsc-ict-chapter-03-set-09-q17": {
+    "answer": "Internet",
+    "answerIndex": 0,
+    "difficulty": 1200,
+    "explanation": "ইন্টারনেট হলো বিশ্বজুড়ে ছড়িয়ে থাকা সবচেয়ে বড় ওয়াইড এরিয়া নেটওয়ার্ক বা WAN এর উদাহরণ। — বোর্ড/মডেল/অধ্যায়ভিত্তিক সোর্স প্যাটার্ন থেকে নেওয়া high-priority MCQ।",
+    "topic": "কমিউনিকেশন সিস্টেম ও নেটওয়ার্কিং"
+  },
+  "hsc-ict-chapter-03-set-09-q18": {
+    "answer": "Wide Area Network",
+    "answerIndex": 0,
+    "difficulty": 1200,
+    "explanation": "WAN এর পূর্ণরূপ Wide Area Network। — বোর্ড/মডেল/অধ্যায়ভিত্তিক সোর্স প্যাটার্ন থেকে নেওয়া high-priority MCQ।",
+    "topic": "কমিউনিকেশন সিস্টেম ও নেটওয়ার্কিং"
+  },
+  "hsc-ict-chapter-03-set-09-q19": {
+    "answer": "World Wide Web",
+    "answerIndex": 0,
+    "difficulty": 1200,
+    "explanation": "WWW এর পূর্ণরূপ হলো World Wide Web, যা ইন্টারনেটের মাধ্যমে অ্যাক্সেসযোগ্য ইন্টারলিংকড হাইপারটেক্সট ডকুমেন্টের একটি সিস্টেম। — বোর্ড/মডেল/অধ্যায়ভিত্তিক সোর্স প্যাটার্ন থেকে নেওয়া high-priority MCQ।",
+    "topic": "কমিউনিকেশন সিস্টেম ও নেটওয়ার্কিং"
+  },
+  "hsc-ict-chapter-03-set-09-q20": {
+    "answer": "Wireless",
+    "answerIndex": 0,
+    "difficulty": 1200,
+    "explanation": "ওয়াই-ফাই লোকাল এরিয়া নেটওয়ার্কে ওয়্যারলেস বা তারবিহীন যোগাযোগের জন্য ব্যবহৃত হয়। — বোর্ড/মডেল/অধ্যায়ভিত্তিক সোর্স প্যাটার্ন থেকে নেওয়া high-priority MCQ।",
+    "topic": "কমিউনিকেশন সিস্টেম ও নেটওয়ার্কিং"
+  },
+  "hsc-ict-chapter-03-set-09-q21": {
+    "answer": "wireless LAN connection",
+    "answerIndex": 0,
+    "difficulty": 1200,
+    "explanation": "লোকাল এরিয়া নেটওয়ার্কে (LAN) তার ছাড়াই ডিভাইসগুলোকে ইন্টারনেটের সাথে যুক্ত করতে ওয়াই-ফাই ব্যবহৃত হয়। — বোর্ড/মডেল/অধ্যায়ভিত্তিক সোর্স প্যাটার্ন থেকে নেওয়া high-priority MCQ।",
+    "topic": "কমিউনিকেশন সিস্টেম ও নেটওয়ার্কিং"
+  },
+  "hsc-ict-chapter-03-set-09-q22": {
+    "answer": "domain name",
+    "answerIndex": 0,
+    "difficulty": 1200,
+    "explanation": "google.com হলো ডোমেইন নেম। এটি কোনো আইপি অ্যাড্রেস বা ম্যাক অ্যাড্রেস নয়। — বোর্ড/মডেল/অধ্যায়ভিত্তিক সোর্স প্যাটার্ন থেকে নেওয়া high-priority MCQ।",
+    "topic": "কমিউনিকেশন সিস্টেম ও নেটওয়ার্কিং"
+  },
+  "hsc-ict-chapter-03-set-09-q23": {
+    "answer": "Message",
+    "answerIndex": 1,
+    "difficulty": 1200,
+    "explanation": "যেকোনো ডেটা বা তথ্য যা এক স্থান থেকে অন্য স্থানে পাঠানো হয় তাকে Message বা বার্তা বলা হয়। — বোর্ড/মডেল/অধ্যায়ভিত্তিক সোর্স প্যাটার্ন থেকে নেওয়া high-priority MCQ।",
+    "topic": "কমিউনিকেশন সিস্টেম ও নেটওয়ার্কিং"
+  },
+  "hsc-ict-chapter-03-set-09-q24": {
+    "answer": "একাধিক কম্পিউটারের সংযোগ",
+    "answerIndex": 0,
+    "difficulty": 1200,
+    "explanation": "রিসোর্স বা ডেটা শেয়ার করার উদ্দেশ্যে দুই বা ততোধিক কম্পিউটার বা ডিভাইসকে কোনো মাধ্যম দিয়ে যুক্ত করাকেই নেটওয়ার্ক বলে। — বোর্ড/মডেল/অধ্যায়ভিত্তিক সোর্স প্যাটার্ন থেকে নেওয়া high-priority MCQ।",
+    "topic": "কমিউনিকেশন সিস্টেম ও নেটওয়ার্কিং"
+  },
+  "hsc-ict-chapter-03-set-09-q25": {
+    "answer": "Digital",
+    "answerIndex": 1,
+    "difficulty": 1200,
+    "explanation": "কম্পিউটার বাইনারি ডেটা বা ডিজিটাল সিগন্যাল (০ এবং ১) বুঝতে ও ব্যবহার করতে পারে। — বোর্ড/মডেল/অধ্যায়ভিত্তিক সোর্স প্যাটার্ন থেকে নেওয়া high-priority MCQ।",
+    "topic": "কমিউনিকেশন সিস্টেম ও নেটওয়ার্কিং"
+  }
+}

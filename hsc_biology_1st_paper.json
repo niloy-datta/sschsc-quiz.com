@@ -1,0 +1,81 @@
+{
+  "modelTests": {
+    "killer-set": [
+      {
+        "questionText": "একটি আদর্শ কোষ চক্রের (Cell cycle) কোন দশায় সবচেয়ে বেশি সময় ব্যয় হয়?",
+        "optionA": "G1 দশা (Gap 1)",
+        "optionB": "S দশা (Synthesis phase)",
+        "optionC": "G2 দশা (Gap 2)",
+        "optionD": "M দশা (Mitotic phase)",
+        "correctOption": "B",
+        "explanation": "কোষ চক্রের ইন্টারফেজ দশার S (সংশ্লেষণ) দশায় সবচেয়ে বেশি সময় (৩০-৫০%) লাগে।"
+      },
+      {
+        "questionText": "মিয়োসিস-১ এর প্রফেজ-১ এর কোন উপদশায় (Sub-stage) 'ক্রসিং ওভার' (Crossing over) সংঘটিত হয়?",
+        "optionA": "লেপ্টোটিন (Leptotene)",
+        "optionB": "জাইগোটিন (Zygotene)",
+        "optionC": "প্যাকাইটিন (Pachytene)",
+        "optionD": "ডিপ্লোটিন (Diplotene)",
+        "correctOption": "C",
+        "explanation": "প্যাকাইটিন উপদশায় নন-সিস্টার ক্রোমাটিডগুলোর মধ্যে অংশের বিনিময় বা ক্রসিং ওভার ঘটে।"
+      }
+    ],
+    "model-test-01": [
+      {
+        "questionText": "প্রাকৃতিক আবাসে সংরক্ষণকে কী বলে?",
+        "optionA": "In-situ conservation",
+        "optionB": "Ex-situ conservation",
+        "optionC": "PCR",
+        "optionD": "টিস্যু কালচার",
+        "correctOption": "A",
+        "explanation": "In-situ conserves species in natural habitat।"
+      },
+      {
+        "questionText": "মূলে protoxylem-এর অবস্থান সাধারণত কেমন?",
+        "optionA": "এক্সার্ক",
+        "optionB": "এন্ডার্ক",
+        "optionC": "মেজার্ক",
+        "optionD": "সমপার্শ্বীয়",
+        "correctOption": "A",
+        "explanation": "Root xylem usually exarch।"
+      }
+    ],
+    "model-test-02": [
+      {
+        "questionText": "এডিস মশা দিয়ে কোন মরণঘাতী আরএনএ ভাইরাস ছড়ায়?",
+        "optionA": "ডেঙ্গু ফ্লাভি ভাইরাস",
+        "optionB": "পোলিও ভাইরাস",
+        "optionC": "টিটু ফায",
+        "optionD": "র্যাবিস",
+        "correctOption": "A",
+        "explanation": "ডেঙ্গু ফ্লাভি ভাইরাস।"
+      }
+    ],
+    "biology_questions": [
+      {
+        "questionText": "কোষ (cell) প্রথম কে আবিষ্কার করেন?",
+        "optionA": "রবার্ট হুক",
+        "optionB": "রবার্ট ব্রাউন",
+        "optionC": "স্লাইডেন",
+        "optionD": "ভিরশো",
+        "correctOption": "A",
+        "explanation": "১৬৬৫ সালে রবার্ট হুক কর্কের প্রস্থচ্ছেদ পর্যবেক্ষণ করে 'cell' নামকরণ করেন।"
+      }
+    ]
+  },
+  "boardQuestions": {
+    "2023": {
+      "dhaka": [
+        {
+          "questionText": "নিচের কোনটি ম্যালেরিয়া পরজীবীর ইরাইথ্রোসাইটিক সাইজোগনি সংশ্লিষ্ট?",
+          "optionA": "স্পোরোজয়েট",
+          "optionB": "ক্রিপ্টোমেরোজয়েট",
+          "optionC": "ক্রিপ্টোজয়েট",
+          "optionD": "ট্রফোজয়েট",
+          "correctOption": "D",
+          "explanation": "RBC চক্রে ট্রফোজয়েট দশা দেখা যায়।"
+        }
+      ]
+    }
+  }
+}

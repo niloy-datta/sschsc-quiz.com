@@ -1,0 +1,381 @@
+{
+  "setNumber": 8,
+  "subject": "Chemistry 2nd Paper",
+  "questions": [
+    {
+      "questionNumber": 1,
+      "passage": "একটি জৈব যৌগ (P) তীব্র গন্ধযুক্ত, আণবিক সংকেত C₂H₄O₂। এটি NaHCO₃ এর সাথে বিক্রিয়া করে, LiAlH₄ দিয়ে বিজারিত হয়ে ইথানলে পরিণত হয়।",
+      "questionText": "(P) যৌগটি কী?",
+      "options": [
+        "ক) ইথানয়িক অ্যাসিড",
+        "খ) ইথানাল",
+        "গ) মিথাইল মিথানয়েট",
+        "ঘ) ইথেন ডাইঅল"
+      ],
+      "correctOption": "ক",
+      "explanation": "C₂H₄O₂ + NaHCO₃ → CO₂ (অ্যাসিড), LiAlH₄ বিজারণে ইথানল → ইথানয়িক অ্যাসিড।",
+      "topic": "জৈব রসায়ন (কার্বক্সিলিক অ্যাসিড)",
+      "probability": "Mega Hot"
+    },
+    {
+      "questionNumber": 2,
+      "passage": "(P) কে ইথানলের সাথে H₂SO₄ উপস্থিতিতে উত্তপ্ত করলে সুগন্ধি যৌগ (Q) পাওয়া যায়।",
+      "questionText": "(Q) কী?",
+      "options": [
+        "ক) ইথাইল ইথানয়েট",
+        "খ) ইথাইল মিথানয়েট",
+        "গ) মিথাইল ইথানয়েট",
+        "ঘ) ইথাইল প্রোপানয়েট"
+      ],
+      "correctOption": "ক",
+      "explanation": "CH₃COOH + C₂H₅OH ⇌ CH₃COOC₂H₅ (ইথাইল ইথানয়েট)।",
+      "topic": "জৈব রসায়ন (এস্টার)",
+      "probability": "Very Hot"
+    },
+    {
+      "questionNumber": 3,
+      "passage": "একটি চর্বির 2.0 g নমুনা 0.28 g KOH দ্বারা সম্পূর্ণভাবে সম্পোনিফিকেশন হয়।",
+      "questionText": "চর্বিটির সম্পোনিফিকেশন মান কত? (KOH=56 g/mol)",
+      "options": [
+        "ক) 140",
+        "খ) 280",
+        "গ) 200",
+        "ঘ) 100"
+      ],
+      "correctOption": "ক",
+      "explanation": "KOH mg = 280 mg, সম্পোনিফিকেশন মান = 280/2 = 140।",
+      "topic": "জৈব রসায়ন (চর্বি)",
+      "probability": "Mega Hot"
+    },
+    {
+      "questionNumber": 4,
+      "passage": "চর্বিটির আয়োডিন মান 80 হলে এটি কী ধরনের চর্বি?",
+      "questionText": "আয়োডিন মান 80 নির্দেশ করে—",
+      "options": [
+        "ক) অসম্পৃক্ত চর্বি",
+        "খ) সম্পৃক্ত চর্বি",
+        "গ) মোম",
+        "ঘ) খনিজ তেল"
+      ],
+      "correctOption": "ক",
+      "explanation": "আয়োডিন মান যত বেশি অসম্পৃক্ততা তত বেশি। 80 মধ্যম অসম্পৃক্ত।",
+      "topic": "জৈব রসায়ন (চর্বি)",
+      "probability": "Very Hot"
+    },
+    {
+      "questionNumber": 5,
+      "passage": null,
+      "questionText": "কোন যৌগটি টলেন বিকারক জারিত করে?",
+      "options": [
+        "ক) অ্যাসিটোন",
+        "খ) বেনজালডিহাইড",
+        "গ) ইথানয়িক অ্যাসিড",
+        "ঘ) ইথাইল অ্যাসিটেট"
+      ],
+      "correctOption": "খ",
+      "explanation": "বেনজালডিহাইড অ্যালডিহাইড, টলেন জারিত করে Ag দর্পণ।",
+      "topic": "জৈব রসায়ন (অ্যালডিহাইড)",
+      "probability": "Mega Hot"
+    },
+    {
+      "questionNumber": 6,
+      "passage": null,
+      "questionText": "বেনজিন থেকে ফেনল প্রস্তুতির শিল্প পদ্ধতি কোনটি?",
+      "options": [
+        "ক) রাইমার-টাইম্যান",
+        "খ) কিউমিন প্রক্রিয়া",
+        "গ) ডাও প্রক্রিয়া",
+        "ঘ) ফ্রিডেল-ক্রাফটস"
+      ],
+      "correctOption": "গ",
+      "explanation": "ডাও প্রক্রিয়া: C₆H₆ + HCl + O₂ → C₆H₅Cl; অতঃপর NaOH। কিউমিন প্রক্রিয়াও শিল্পে ব্যবহৃত, তবে বোর্ডে ডাও প্রক্রিয়া ক্লোরোবেনজিন থেকে। উত্তরে ডাও।",
+      "topic": "জৈব রসায়ন (ফেনল)",
+      "probability": "Very Hot"
+    },
+    {
+      "questionNumber": 7,
+      "passage": null,
+      "questionText": "অ্যালকিনের সাথে HCl এর সংযোজন কোন নিয়মে ঘটে?",
+      "options": [
+        "ক) মার্কোনিকভ নিয়ম",
+        "খ) এন্টি-মার্কোনিকভ (পারক্সাইড প্রভাবে)",
+        "গ) জাইতসেভ নিয়ম",
+        "ঘ) হফম্যান নিয়ম"
+      ],
+      "correctOption": "ক",
+      "explanation": "অপ্রতিসম অ্যালকিনে HX যোগ মার্কোনিকভ, কিন্তু HBr পারক্সাইডে এন্টি। HCl সাধারণত মার্কোনিকভ।",
+      "topic": "জৈব রসায়ন (অ্যালকিন)",
+      "probability": "Board Favourite"
+    },
+    {
+      "questionNumber": 8,
+      "passage": null,
+      "questionText": "বেনজিন বলয়ে ইলেকট্রন ঘনত্ব বাড়ায় কোন গ্রুপ?",
+      "options": [
+        "ক) -NO₂",
+        "খ) -OH",
+        "গ) -COOH",
+        "ঘ) -CN"
+      ],
+      "correctOption": "খ",
+      "explanation": "-OH গ্রুপ +R প্রভাবে ইলেকট্রন দান করে, বলয় সক্রিয় করে।",
+      "topic": "জৈব রসায়ন (বেনজিন)",
+      "probability": "Mega Hot"
+    },
+    {
+      "questionNumber": 9,
+      "passage": null,
+      "questionText": "কোন বিকারকটি অ্যালডিহাইডকে অ্যাসিডে জারিত করে কিন্তু অ্যালকোহলকে নয়?",
+      "options": [
+        "ক) KMnO₄/H⁺",
+        "খ) টলেন বিকারক",
+        "গ) PCC",
+        "ঘ) NaBH₄"
+      ],
+      "correctOption": "খ",
+      "explanation": "টলেন বিকারক কেবল অ্যালডিহাইড জারিত করে, অ্যালকোহল নয়।",
+      "topic": "জৈব রসায়ন (জারণ)",
+      "probability": "Very Hot"
+    },
+    {
+      "questionNumber": 10,
+      "passage": null,
+      "questionText": "পলিভিনাইল অ্যালকোহল কী ধরনের পলিমার?",
+      "options": [
+        "ক) সংযোজন",
+        "খ) ঘনীভবন",
+        "গ) বায়োপলিমার",
+        "ঘ) ইলাস্টোমার"
+      ],
+      "correctOption": "ক",
+      "explanation": "PVA ভিনাইল অ্যাসিটেট পলিমার → হাইড্রোলাইসিস, সংযোজন পলিমার।",
+      "topic": "পলিমার",
+      "probability": "Board Favourite"
+    },
+    {
+      "questionNumber": 11,
+      "passage": null,
+      "questionText": "ডাইঅল কোনটির বিজারণে উৎপন্ন?",
+      "options": [
+        "ক) অ্যালকিন + KMnO₄ (ঠান্ডা, ক্ষারীয়)",
+        "খ) অ্যালকোহল + H₂SO₄",
+        "গ) কার্বক্সিলিক অ্যাসিড + LiAlH₄",
+        "ঘ) অ্যালডিহাইড + NaOH"
+      ],
+      "correctOption": "ক",
+      "explanation": "অ্যালকিন + KMnO₄ (ঠান্ডা) → গ্লাইকল।",
+      "topic": "জৈব রসায়ন (অ্যালকিন)",
+      "probability": "Very Hot"
+    },
+    {
+      "questionNumber": 12,
+      "passage": null,
+      "questionText": "কোনটি বায়োডিগ্রেডেবল প্লাস্টিক?",
+      "options": [
+        "ক) PHBV",
+        "খ) পলিথিন",
+        "গ) PVC",
+        "ঘ) পলিস্টাইরিন"
+      ],
+      "correctOption": "ক",
+      "explanation": "PHBV (পলিহাইড্রোক্সিবিউটিরেট-কো-ভ্যালেরেট) জৈব অবক্ষয়যোগ্য।",
+      "topic": "পলিমার/পরিবেশ",
+      "probability": "Mega Hot"
+    },
+    {
+      "questionNumber": 13,
+      "passage": null,
+      "questionText": "অ্যালকোহলের আণবিক পানিবিয়োজনে অ্যালকিনের পাশাপাশি কী উৎপন্ন হয়?",
+      "options": [
+        "ক) ইথার",
+        "খ) পানি",
+        "গ) হাইড্রোজেন",
+        "ঘ) অ্যাসিড"
+      ],
+      "correctOption": "খ",
+      "explanation": "ROH → অ্যালকিন + H₂O (অপসারণ)।",
+      "topic": "জৈব রসায়ন (অ্যালকোহল)",
+      "probability": "Board Favourite"
+    },
+    {
+      "questionNumber": 14,
+      "passage": null,
+      "questionText": "কোনটি জৈব যৌগের মৌল বিশ্লেষণে C ও H শনাক্তে ব্যবহৃত হয়?",
+      "options": [
+        "ক) CuO (জারণ)",
+        "খ) Na ধাতু",
+        "গ) HNO₃",
+        "ঘ) NaOH"
+      ],
+      "correctOption": "ক",
+      "explanation": "জৈব যৌগ + CuO → CO₂ + H₂O, চুনের পানি ও CuSO₄ দিয়ে শনাক্ত।",
+      "topic": "জৈব রসায়ন (মৌল বিশ্লেষণ)",
+      "probability": "Very Hot"
+    },
+    {
+      "questionNumber": 15,
+      "passage": null,
+      "questionText": "বেনজিনের ইলেকট্রোফিলিক প্রতিস্থাপন— i. NO₂⁺ ইলেকট্রোফাইল ii. H₂SO₄ প্রয়োজন iii. মনোনাইট্রোবেনজিন উৎপন্ন নিচের কোনটি সঠিক?",
+      "options": [
+        "ক) i ও ii",
+        "খ) i ও iii",
+        "গ) ii ও iii",
+        "ঘ) i, ii ও iii"
+      ],
+      "correctOption": "ঘ",
+      "explanation": "সবগুলো সঠিক।",
+      "topic": "জৈব রসায়ন (বেনজিন)",
+      "probability": "Very Hot"
+    },
+    {
+      "questionNumber": 16,
+      "passage": null,
+      "questionText": "সাবানের গঠন— i. দীর্ঘ হাইড্রোকার্বন শিকল ii. কার্বক্সিলেট গ্রুপ (COO⁻) iii. মাইসেল গঠন করতে পারে নিচের কোনটি সঠিক?",
+      "options": [
+        "ক) i ও ii",
+        "খ) i ও iii",
+        "গ) ii ও iii",
+        "ঘ) i, ii ও iii"
+      ],
+      "correctOption": "ঘ",
+      "explanation": "তিনটিই সাবানের বৈশিষ্ট্য।",
+      "topic": "সাবান ও ডিটারজেন্ট",
+      "probability": "Very Hot"
+    },
+    {
+      "questionNumber": 17,
+      "passage": null,
+      "questionText": "পানি দূষণ— i. BOD বায়বীয় ব্যাকটেরিয়ার অক্সিজেন চাহিদা ii. COD রাসায়নিক জারক দ্বারা নির্ধারিত iii. দ্রবীভূত অক্সিজেন (DO) যত কম, দূষণ তত বেশি নিচের কোনটি সঠিক?",
+      "options": [
+        "ক) i ও ii",
+        "খ) i ও iii",
+        "গ) ii ও iii",
+        "ঘ) i, ii ও iii"
+      ],
+      "correctOption": "ঘ",
+      "explanation": "তিনটিই সঠিক।",
+      "topic": "পরিবেশ রসায়ন",
+      "probability": "Mega Hot"
+    },
+    {
+      "questionNumber": 18,
+      "passage": null,
+      "questionText": "কার্বনিল যৌগ— i. >C=O গ্রুপ ii. নিউক্লিওফিলিক সংযোজন বিক্রিয়া দেয় iii. NaHSO₃ এর সাথে কেলাস গঠন করে নিচের কোনটি সঠিক?",
+      "options": [
+        "ক) i ও ii",
+        "খ) i ও iii",
+        "গ) ii ও iii",
+        "ঘ) i, ii ও iii"
+      ],
+      "correctOption": "ঘ",
+      "explanation": "তিনটিই সাধারণভাবে কার্বনিল যৌগের বৈশিষ্ট্য।",
+      "topic": "জৈব রসায়ন (কার্বনিল)",
+      "probability": "Board Favourite"
+    },
+    {
+      "questionNumber": 19,
+      "passage": null,
+      "questionText": "জৈব অ্যাসিড— i. ইথানয়িক অ্যাসিড ভিনিগার ii. মিথানয়িক অ্যাসিড ফরমিক অ্যাসিড iii. বেনজোয়িক অ্যাসিড স্যালিসিলিক অ্যাসিড নিচের কোনটি সঠিক?",
+      "options": [
+        "ক) i ও ii",
+        "খ) i ও iii",
+        "গ) ii ও iii",
+        "ঘ) i, ii ও iii"
+      ],
+      "correctOption": "ক",
+      "explanation": "বেনজোয়িক অ্যাসিড ≠ স্যালিসিলিক, iii ভুল।",
+      "topic": "জৈব রসায়ন (অ্যাসিড)",
+      "probability": "Board Favourite"
+    },
+    {
+      "questionNumber": 20,
+      "passage": null,
+      "questionText": "পলিমারের বৈশিষ্ট্য— i. পলিথিন থার্মোপ্লাস্টিক ii. বেকেলাইট থার্মোসেটিং iii. নাইলন ঘনীভবন পলিমার নিচের কোনটি সঠিক?",
+      "options": [
+        "ক) i ও ii",
+        "খ) i ও iii",
+        "গ) ii ও iii",
+        "ঘ) i, ii ও iii"
+      ],
+      "correctOption": "ঘ",
+      "explanation": "তিনটিই সঠিক।",
+      "topic": "পলিমার",
+      "probability": "Mega Hot"
+    },
+    {
+      "questionNumber": 21,
+      "passage": null,
+      "questionText": "বেনজিন + ক্লোরিন (অতিরিক্ত) সূর্যালোকে দীর্ঘ সময় বিক্রিয়া করলে কী উৎপন্ন?",
+      "options": [
+        "ক) BHC",
+        "খ) ক্লোরোবেনজিন",
+        "গ) বেনজাইল ক্লোরাইড",
+        "ঘ) CCl₄"
+      ],
+      "correctOption": "ক",
+      "explanation": "সংযোজন: C₆H₆ + 3Cl₂ → C₆H₆Cl₆ (BHC)।",
+      "topic": "জৈব রসায়ন (বেনজিন)",
+      "probability": "Conceptual Trap"
+    },
+    {
+      "questionNumber": 22,
+      "passage": null,
+      "questionText": "কোন এনজাইম স্টার্চকে গ্লুকোজে পরিণত করে?",
+      "options": [
+        "ক) জাইমেজ",
+        "খ) ডায়াস্টেজ + মল্টেজ",
+        "গ) ইনভার্টেজ",
+        "ঘ) ইউরিয়েজ"
+      ],
+      "correctOption": "খ",
+      "explanation": "ডায়াস্টেজ → মল্টোজ, মল্টেজ → গ্লুকোজ।",
+      "topic": "জৈব অণু (এনজাইম)",
+      "probability": "Very Hot"
+    },
+    {
+      "questionNumber": 23,
+      "passage": null,
+      "questionText": "ফেনল + Br₂ (জলীয়) → 2,4,6-ট্রাইব্রোমোফেনল (সাদা)। এটি কী ধরনের বিক্রিয়া?",
+      "options": [
+        "ক) ইলেকট্রোফিলিক প্রতিস্থাপন",
+        "খ) নিউক্লিওফিলিক প্রতিস্থাপন",
+        "গ) সংযোজন",
+        "ঘ) অপসারণ"
+      ],
+      "correctOption": "ক",
+      "explanation": "Br⁺ ইলেকট্রোফাইল, ফেনলের রিং প্রতিস্থাপন।",
+      "topic": "জৈব রসায়ন (ফেনল)",
+      "probability": "Board Favourite"
+    },
+    {
+      "questionNumber": 24,
+      "passage": null,
+      "questionText": "বেনজোয়িক অ্যাসিডের সোডিয়াম লবণের সাথে NaOH/CaO (সোডালাইম) পাতনে কী উৎপন্ন?",
+      "options": [
+        "ক) বেনজিন",
+        "খ) ফেনল",
+        "গ) টলুইন",
+        "ঘ) বেনজালডিহাইড"
+      ],
+      "correctOption": "ক",
+      "explanation": "ডিকার্বক্সিলেশন: C₆H₅COONa + NaOH → C₆H₆ + Na₂CO₃।",
+      "topic": "জৈব রসায়ন (অ্যাসিড)",
+      "probability": "Very Hot"
+    },
+    {
+      "questionNumber": 25,
+      "passage": null,
+      "questionText": "পিভিসি পোড়ালে যে বিষাক্ত গ্যাস উৎপন্ন হয় তা হলো—",
+      "options": [
+        "ক) CO",
+        "খ) HCl",
+        "গ) HCN",
+        "ঘ) SO₂"
+      ],
+      "correctOption": "খ",
+      "explanation": "PVC → HCl + কার্বন।",
+      "topic": "পলিমার/পরিবেশ",
+      "probability": "Mega Hot"
+    }
+  ]
+}

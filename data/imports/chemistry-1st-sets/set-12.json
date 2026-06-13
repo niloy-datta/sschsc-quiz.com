@@ -1,0 +1,256 @@
+{
+  "setNumber": 12,
+  "subject": "Chemistry 1st Paper",
+  "questions": [
+    {
+      "questionNumber": 1,
+      "passage": "একটি মৌলের ইলেকট্রন বিন্যাস 1s² 2s² 2p²। এটি পর্যায় 2, গ্রুপ 14-এ অবস্থিত এবং চারটি ভ্যালেন্স ইলেকট্রন আছে।",
+      "questionText": "মৌলটি কোনটি?",
+      "options": ["ক) C (কার্বন)", "খ) Si (সিলিকন)", "গ) N (নাইট্রোজেন)", "ঘ) B (বোরন)"],
+      "correctOption": "ক",
+      "explanation": "1s²2s²2p² → 6 ইলেকট্রন = কার্বন (C)।",
+      "topic": "পর্যায় সারণি ও ইলেকট্রন বিন্যাস",
+      "probability": "Board Favourite"
+    },
+    {
+      "questionNumber": 2,
+      "passage": "উপরের মৌল C এর জ্বলনে CO₂ গ্যাস উৎপন্ন হয়। CO₂ কে চুনের পানিতে পাঠালে দ্রবণ ঘোলা হয়।",
+      "questionText": "এই পরীক্ষাটি CO₂ শনাক্তকারী, কারণ—",
+      "options": ["ক) CaCO₃ অধঃক্ষেপ হয়", "খ) H₂ উৎপন্ন হয়", "গ) দ্রবণ নীল হয়", "ঘ) গ্যাস জ্বলে"],
+      "correctOption": "ক",
+      "explanation": "CO₂ + Ca(OH)₂ → CaCO₃↓ + H₂O; সাদা অধঃক্ষেপ।",
+      "topic": "রাসায়নিক ধর্ম (CO₂ শনাক্তকরণ)",
+      "probability": "Board Favourite"
+    },
+    {
+      "questionNumber": 3,
+      "passage": "Na₂CO₃ দ্রবণে HCl যোগ করলে CO₂ গ্যাস উৎপন্ন হয়: Na₂CO₃ + 2HCl → 2NaCl + H₂O + CO₂↑",
+      "questionText": "0.1 mol Na₂CO₃ সম্পূর্ণ বিক্রিয়ার জন্য HCl এর মোল সংখ্যা—",
+      "options": ["ক) 0.1 mol", "খ) 0.2 mol", "গ) 0.05 mol", "ঘ) 0.4 mol"],
+      "correctOption": "খ",
+      "explanation": "Na₂CO₃ : HCl = 1:2 → 0.1 mol Na₂CO₃ এর জন্য 0.2 mol HCl।",
+      "topic": "রাসায়নিক বিক্রিয়া (স্টোইকিওমেট্রি)",
+      "probability": "Mega Hot"
+    },
+    {
+      "questionNumber": 4,
+      "passage": "উপরের বিক্রিয়ায় ফেনলফথ্যালিন সূচক যোগ করা হলো। প্রথমে দ্রবণ গোলাপি, HCl যোগে রঙহীন হয়।",
+      "questionText": "রঙ পরিবর্তনের কারণ—",
+      "options": ["ক) ক্ষার থেকে অম্লে pH হ্রাস", "খ) অম্ল থেকে ক্ষারে pH বৃদ্ধি", "গ) লবণ গঠন", "ঘ) CO₂ উৎপাদন"],
+      "correctOption": "ক",
+      "explanation": "Na₂CO₃ ক্ষারীয় (গোলাপি); HCl যোগে pH কমে অম্লীয় → ফেনলফথ্যালিন রঙহীন।",
+      "topic": "অ্যাসিড-ক্ষার সূচক",
+      "probability": "Very Hot"
+    },
+    {
+      "questionNumber": 5,
+      "passage": null,
+      "questionText": "সবচেয়ে হালকা ধাতু—",
+      "options": ["ক) Li", "খ) Na", "গ) K", "ঘ) Mg"],
+      "correctOption": "ক",
+      "explanation": "লিথিয়াম (Li) সবচেয়ে হালকা ধাতু; আণবিক ভর সবচেয়ে কম।",
+      "topic": "পর্যায় সারণি",
+      "probability": "Board Favourite"
+    },
+    {
+      "questionNumber": 6,
+      "passage": null,
+      "questionText": "K₄[Fe(CN)₆] যৌগে Fe এর জারণ সংখ্যা—",
+      "options": ["ক) +2", "খ) +3", "গ) +6", "ঘ) 0"],
+      "correctOption": "ক",
+      "explanation": "4(+1) + x + 6(-1) = 0 → x = +2; Fe(II)।",
+      "topic": "জারণ-বিজারণ (জারণ সংখ্যা)",
+      "probability": "Mega Hot"
+    },
+    {
+      "questionNumber": 7,
+      "passage": null,
+      "questionText": "আদর্শ গ্যাস থেকে বাস্তব গ্যাসের বিচ্যুতি বেশি হয়—",
+      "options": ["ক) উচ্চ চাপ ও নিম্ন তাপমাত্রায়", "খ) নিম্ন চাপ ও উচ্চ তাপমাত্রায়", "গ) সব সময় সমান", "ঘ) শূন্য চাপে"],
+      "correctOption": "ক",
+      "explanation": "উচ্চ চাপে আন্তঃআণবিক বল গুরুত্বপূর্ণ; ভ্যান ডার ওয়ালস বিচ্যুতি বেশি।",
+      "topic": "গ্যাসের ধর্ম (ভ্যান ডার ওয়ালস)",
+      "probability": "Very Hot"
+    },
+    {
+      "questionNumber": 8,
+      "passage": null,
+      "questionText": "NaCl দ্রবণের pH—",
+      "options": ["ক) 7", "খ) < 7", "গ) > 7", "ঘ) 14"],
+      "correctOption": "ক",
+      "explanation": "NaCl শক্তিশালী অ্যাসিড-ক্ষারের লবণ; হাইড্রোলাইসিস নেই → pH = 7।",
+      "topic": "অ্যাসিড-ক্ষার তত্ত্ব (লবণের হাইড্রোলাইসিস)",
+      "probability": "Board Favourite"
+    },
+    {
+      "questionNumber": 9,
+      "passage": null,
+      "questionText": "H₂S গ্যাসের শনাক্তকরণে ব্যবহৃত হয়—",
+      "options": ["ক) লেড অ্যাসিটেট কাগজ", "খ) নীল লিটমাস", "গ) ফেহলিং দ্রবণ", "ঘ) ব্রোমিন জল"],
+      "correctOption": "ক",
+      "explanation": "H₂S + Pb(CH₃COO)₂ → PbS (কালো) লেড অ্যাসিটেট কাগজ কালো করে।",
+      "topic": "রাসায়নিক শনাক্তকরণ",
+      "probability": "Board Favourite"
+    },
+    {
+      "questionNumber": 10,
+      "passage": null,
+      "questionText": "হেবার পদ্ধতিতে NH₃ উৎপাদনের অনুকূল শর্ত—",
+      "options": ["ক) নিম্ন তাপমাত্রা, উচ্চ চাপ", "খ) উচ্চ তাপমাত্রা, নিম্ন চাপ", "গ) উচ্চ তাপমাত্রা, উচ্চ চাপ", "ঘ) নিম্ন তাপমাত্রা, নিম্ন চাপ"],
+      "correctOption": "ক",
+      "explanation": "তাপোৎপাদী বিক্রিয়া; নিম্ন T (K বৃদ্ধি নয়, কিন্তু উৎপাদ বাড়ে) ও উচ্চ P (মোল হ্রাস দিকে)।",
+      "topic": "রাসায়নিক সাম্যাবস্থা (হেবার)",
+      "probability": "Mega Hot"
+    },
+    {
+      "questionNumber": 11,
+      "passage": null,
+      "questionText": "নিচের কোন আয়নিক যৌগের গলনাঙ্ক সবচেয়ে বেশি?",
+      "options": ["ক) NaF", "খ) NaCl", "গ) NaBr", "ঘ) NaI"],
+      "correctOption": "ক",
+      "explanation": "F⁻ সবচেয়ে ছোট; NaF এ আয়নিক বন্ধন সবচেয়ে শক্তিশালী → উচ্চ গলনাঙ্ক।",
+      "topic": "রাসায়নিক বন্ধন (আয়নিক)",
+      "probability": "Very Hot"
+    },
+    {
+      "questionNumber": 12,
+      "passage": null,
+      "questionText": "দুটি দ্রবণের pH এর অনুপাত 100:1 হলে [H⁺] এর অনুপাত—",
+      "options": ["ক) 100:1", "খ) 1:100", "গ) 10:1", "ঘ) 1:10"],
+      "correctOption": "ক",
+      "explanation": "pH পার্থক্য 2 হলে [H⁺] অনুপাত 10² = 100:1।",
+      "topic": "দ্রবণ (pH)",
+      "probability": "Mega Hot"
+    },
+    {
+      "questionNumber": 13,
+      "passage": null,
+      "questionText": "N₂ অণুর বন্ধন ক্রম (bond order)—",
+      "options": ["ক) 3", "খ) 2", "গ) 1", "ঘ) 0"],
+      "correctOption": "ক",
+      "explanation": "N≡N ত্রিপল বন্ধন; bond order = 3।",
+      "topic": "রাসায়নিক বন্ধন (MOT)",
+      "probability": "Board Favourite"
+    },
+    {
+      "questionNumber": 14,
+      "passage": null,
+      "questionText": "25 mL 0.5 M FeSO₄ দ্রবণ সম্পূর্ণ জারিত করতে 0.1 M KMnO₄ দ্রবণের কত mL লাগবে? (অম্লীয় মাধ্যম)",
+      "options": ["ক) 25 mL", "খ) 50 mL", "গ) 10 mL", "ঘ) 5 mL"],
+      "correctOption": "ক",
+      "explanation": "Fe²⁺ মোল = 0.025×0.5 = 0.0125 mol; MnO₄⁻ = 0.0125/5 = 0.0025 mol; V = 0.0025/0.1 = 25 mL।",
+      "topic": "জারণ-বিজারণ (টাইট্রেশন)",
+      "probability": "Mega Hot"
+    },
+    {
+      "questionNumber": 15,
+      "passage": null,
+      "questionText": "বোহর মডেলে n=3 থেকে n=1 ইলেকট্রন স্থানান্তরে— i. শক্তি নির্গত ii. লাইমান শ্রেণি iii. UV অঞ্চল\n\nনিচের কোনটি সঠিক?",
+      "options": ["ক) i ও ii", "খ) i ও iii", "গ) ii ও iii", "ঘ) i, ii ও iii"],
+      "correctOption": "ঘ",
+      "explanation": "n=3→1: ΔE বড়, লাইমান শ্রেণি, UV তরঙ্গদৈর্ঘ্য।",
+      "topic": "পরমাণুর গঠন (বোহর মডেল)",
+      "probability": "Very Hot"
+    },
+    {
+      "questionNumber": 16,
+      "passage": null,
+      "questionText": "H₂O₂ প্রস্তুতি সম্পর্কে— i. 2-ইলেক্ট্রোলাইট পদ্ধতি ii. অটোঅক্সিডেশন-বিজারণ iii. BaO₂ + H₂SO₄\n\nনিচের কোনটি সঠিক?",
+      "options": ["ক) i ও ii", "খ) i ও iii", "গ) ii ও iii", "ঘ) i, ii ও iii"],
+      "correctOption": "ঘ",
+      "explanation": "H₂O₂ প্রস্তুতির তিন পদ্ধতিই ব্যবহৃত।",
+      "topic": "জারণ-বিজারণ (H₂O₂)",
+      "probability": "Very Hot"
+    },
+    {
+      "questionNumber": 17,
+      "passage": null,
+      "questionText": "নিচের কোন গ্যাস জোড়টি গ্রিনহাউস গ্যাস?",
+      "options": ["ক) CO₂ ও H₂O", "খ) N₂ ও O₂", "গ) He ও Ar", "ঘ) H₂ ও N₂"],
+      "correctOption": "ক",
+      "explanation": "CO₂ ও H₂O গ্রিনহাউস গ্যাস; N₂, O₂, He, Ar নয়।",
+      "topic": "পরিবেশ রসায়ন",
+      "probability": "Board Favourite"
+    },
+    {
+      "questionNumber": 18,
+      "passage": null,
+      "questionText": "25°C ও 1 atm এ 1 mol আদর্শ গ্যাসের আয়তন (L) প্রায়—",
+      "options": ["ক) 24.45 L", "খ) 22.4 L", "গ) 24.0 L", "ঘ) 22.7 L"],
+      "correctOption": "ক",
+      "explanation": "25°C (298 K) এ মোলার আয়তন = RT/P = 0.082×298/1 ≈ 24.45 L।",
+      "topic": "গ্যাসের সূত্র",
+      "probability": "Mega Hot"
+    },
+    {
+      "questionNumber": 19,
+      "passage": null,
+      "questionText": "H₂SO₄ একটি—",
+      "options": ["ক) দ্বিপ্রোটিক অ্যাসিড", "খ) মনোপ্রোটিক", "গ) ত্রিপ্রোটিক", "ঘ) অম্ল নয়"],
+      "correctOption": "ক",
+      "explanation": "H₂SO₄ দুটি প্রতিস্থাপনযোগ্য H⁺ দেয় → দ্বিপ্রোটিক।",
+      "topic": "অ্যাসিড-ক্ষার তত্ত্ব",
+      "probability": "Board Favourite"
+    },
+    {
+      "questionNumber": 20,
+      "passage": null,
+      "questionText": "CH₃COOH/CH₃COONa বাফারে [অ্যাসিড]=0.2 M, [লবণ]=0.1 M, pKa=4.76। pH কত?",
+      "options": ["ক) 4.46", "খ) 4.76", "গ) 5.06", "ঘ) 4.26"],
+      "correctOption": "ক",
+      "explanation": "pH = pKa + log(0.1/0.2) = 4.76 - 0.30 = 4.46।",
+      "topic": "দ্রবণ (বাফার)",
+      "probability": "Mega Hot"
+    },
+    {
+      "questionNumber": 21,
+      "passage": null,
+      "questionText": "হাইপো (অতিরিক্ত তাপমাত্রায় ফটোগ্রাফিক উন্নয়নকারী) এর রাসায়নিক সূত্র—",
+      "options": ["ক) Na₂S₂O₃", "খ) Na₂SO₄", "গ) Na₂S", "ঘ) NaHSO₃"],
+      "correctOption": "ক",
+      "explanation": "হাইপো = সোডিয়াম থায়োসালফেট, Na₂S₂O₃·5H₂O।",
+      "topic": "রাসায়নিক যৌগ",
+      "probability": "Board Favourite"
+    },
+    {
+      "questionNumber": 22,
+      "passage": null,
+      "questionText": "1.06 g Na₂CO₃ (আণবিক ভর 106) সম্পূর্ণ নিউট্রালাইজ করতে 0.125 M HCl দ্রবণের কত mL লাগবে?",
+      "options": ["ক) 160 mL", "খ) 100 mL", "গ) 200 mL", "ঘ) 80 mL"],
+      "correctOption": "ক",
+      "explanation": "Na₂CO₃ মোল = 1.06/106 = 0.01 mol; HCl মোল = 0.02 mol; V = 0.02/0.125 = 160 mL।",
+      "topic": "অ্যাসিড-ক্ষার প্রশমন",
+      "probability": "Mega Hot"
+    },
+    {
+      "questionNumber": 23,
+      "passage": null,
+      "questionText": "অম্লীয় মাধ্যমে K₂Cr₂O₇ এর প্রতি mol ইলেকট্রন গ্রহণ সংখ্যা—",
+      "options": ["ক) 6", "খ) 5", "গ) 3", "ঘ) 10"],
+      "correctOption": "ক",
+      "explanation": "Cr₂O₇²⁻ + 14H⁺ + 6e⁻ → 2Cr³⁺ + 7H₂O; প্রতি mol 6 ইলেকট্রন।",
+      "topic": "জারণ-বিজারণ",
+      "probability": "Mega Hot"
+    },
+    {
+      "questionNumber": 24,
+      "passage": null,
+      "questionText": "হেবার পদ্ধতিতে N₂ ও H₂ এর মোলার অনুপাত—",
+      "options": ["ক) 1:3", "খ) 3:1", "গ) 1:1", "ঘ) 2:1"],
+      "correctOption": "ক",
+      "explanation": "N₂ + 3H₂ ⇌ 2NH₃; বিক্রিয়কের মোলার অনুপাত 1:3।",
+      "topic": "রাসায়নিক সাম্যাবস্থা (হেবার)",
+      "probability": "Board Favourite"
+    },
+    {
+      "questionNumber": 25,
+      "passage": null,
+      "questionText": "নিচের কোনটি হেটেরোসাইক্লিক যৌগ নয়?",
+      "options": ["ক) ফিউরান", "খ) পাইরিডিন", "গ) বেনজিন", "ঘ) থায়োফিন"],
+      "correctOption": "গ",
+      "explanation": "বেনজিন হোমোসাইক্লিক অ্যারোমেটিক; ফিউরান, পাইরিডিন, থায়োফিন হেটেরোসাইক্লিক।",
+      "topic": "জৈব রসায়ন (সাইক্লিক যৌগ)",
+      "probability": "Very Hot"
+    }
+  ]
+}

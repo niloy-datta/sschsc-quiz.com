@@ -1,0 +1,256 @@
+{
+  "setNumber": 1,
+  "subject": "Chemistry 1st Paper",
+  "questions": [
+    {
+      "questionNumber": 1,
+      "passage": "একটি মৌলের ইলেকট্রন বিন্যাস 1s² 2s² 2p⁶ 3s² 3p³। এটি একটি অধাতু এবং এর সাথে হাইড্রোজেনের বিক্রিয়ায় একটি ট্রাইহাইড্রাইড গঠিত হয় যা জলে দ্রবীভূত হয়ে ক্ষারীয় দ্রবণ তৈরি করে।",
+      "questionText": "মৌলটির পর্যায় সারণিতে অবস্থান—",
+      "options": ["ক) পর্যায় 3, গ্রুপ 15", "খ) পর্যায় 3, গ্রুপ 16", "গ) পর্যায় 2, গ্রুপ 15", "ঘ) পর্যায় 3, গ্রুপ 14"],
+      "correctOption": "ক",
+      "explanation": "1s²2s²2p⁶3s²3p³ → মোট 15 ইলেকট্রন = ফসফরাস (P), পর্যায় 3, গ্রুপ 15।",
+      "topic": "পর্যায় সারণি ও মৌলের পর্যায়বৃত্ত ধর্ম",
+      "probability": "Mega Hot"
+    },
+    {
+      "questionNumber": 2,
+      "passage": "উদ্দীপকের মৌলটি হাইড্রোজেনের সাথে PH₃ গঠন করে।",
+      "questionText": "PH₃ অণুর জ্যামিতি কোনটি?",
+      "options": ["ক) সমতলীয় ত্রিভুজ", "খ) পিরামিডীয়", "গ) বাঁকানো", "ঘ) টেট্রাহেড্রাল"],
+      "correctOption": "খ",
+      "explanation": "P এর ৩টি বন্ধন ও ১টি নিঃসঙ্গ ইলেকট্রন জোড় → ত্রিকোণীয় পিরামিডীয় গঠন।",
+      "topic": "রাসায়নিক বন্ধন (VSEPR তত্ত্ব)",
+      "probability": "Very Hot"
+    },
+    {
+      "questionNumber": 3,
+      "passage": "একটি বিক্রিয়ায় N₂(g) + 3H₂(g) ⇌ 2NH₃(g); ΔH = -92 kJ। তাপমাত্রা বৃদ্ধি করলে বিক্রিয়ার সাম্যাবস্থার উপর প্রভাব—",
+      "questionText": "সাম্যধ্রুবক K-এর মান—",
+      "options": ["ক) বৃদ্ধি পাবে", "খ) হ্রাস পাবে", "গ) অপরিবর্তিত থাকবে", "ঘ) শূন্য হবে"],
+      "correctOption": "খ",
+      "explanation": "তাপোৎপাদী বিক্রিয়ায় তাপমাত্রা বাড়ালে সাম্য বামে সরে, K হ্রাস পায়।",
+      "topic": "রাসায়নিক সাম্যাবস্থা",
+      "probability": "Mega Hot"
+    },
+    {
+      "questionNumber": 4,
+      "passage": "উপরের বিক্রিয়ায় চাপ বৃদ্ধি করলে NH₃ উৎপাদনে কী প্রভাব পড়ে?",
+      "questionText": "লে-শাতেলিয়ার নীতি অনুযায়ী—",
+      "options": ["ক) NH₃ কমবে", "খ) NH₃ বাড়বে", "গ) কোনো পরিবর্তন হবে না", "ঘ) বিক্রিয়া থেমে যাবে"],
+      "correctOption": "খ",
+      "explanation": "মোল সংখ্যা কমার দিকে (4→2) সাম্য সরে, NH₃ বাড়ে।",
+      "topic": "সাম্যাবস্থা (লে-শাতেলিয়ার নীতি)",
+      "probability": "Very Hot"
+    },
+    {
+      "questionNumber": 5,
+      "passage": null,
+      "questionText": "একটি বাফার দ্রবণে CH₃COOH ও CH₃COONa সমমোলার। এর pH কত? (pKa=4.76)",
+      "options": ["ক) 4.76", "খ) 7.00", "গ) 9.24", "ঘ) 2.38"],
+      "correctOption": "ক",
+      "explanation": "হেন্ডারসন-হ্যাসেলবাখ: pH = pKa + log([লবণ]/[অ্যাসিড]) = 4.76 + log(1) = 4.76।",
+      "topic": "দ্রবণ (বাফার)",
+      "probability": "Mega Hot"
+    },
+    {
+      "questionNumber": 6,
+      "passage": null,
+      "questionText": "কোন অরবিটাল দুটির মধ্যে হাইব্রিডাইজেশনের মাধ্যমে sp² সংকরণ গঠিত হয়?",
+      "options": ["ক) একটি s ও একটি p", "খ) একটি s ও দুইটি p", "গ) একটি s ও তিনটি p", "ঘ) দুইটি s ও দুইটি p"],
+      "correctOption": "খ",
+      "explanation": "sp² = 1s + 2p অরবিটালের সংমিশ্রণ।",
+      "topic": "রাসায়নিক বন্ধন (সংকরণ)",
+      "probability": "Board Favourite"
+    },
+    {
+      "questionNumber": 7,
+      "passage": null,
+      "questionText": "কোন যৌগে হাইড্রোজেন বন্ধন সবচেয়ে শক্তিশালী?",
+      "options": ["ক) H₂O", "খ) HF", "গ) NH₃", "ঘ) HCl"],
+      "correctOption": "খ",
+      "explanation": "F এর তীব্র তড়িৎ ঋণাত্মকতার জন্য H-F···H বন্ধন সবচেয়ে শক্তিশালী।",
+      "topic": "রাসায়নিক বন্ধন (আন্তঃআণবিক বল)",
+      "probability": "Very Hot"
+    },
+    {
+      "questionNumber": 8,
+      "passage": null,
+      "questionText": "100 mL 0.1 M HCl দ্রবণ ও 50 mL 0.2 M NaOH দ্রবণ মিশ্রণের pH কত?",
+      "options": ["ক) 1.0", "খ) 7.0", "গ) 12.0", "ঘ) 13.0"],
+      "correctOption": "খ",
+      "explanation": "HCl মোল = 10 mmol, NaOH মোল = 10 mmol, সম্পূর্ণ প্রশমিত → pH=7।",
+      "topic": "অ্যাসিড-ক্ষার প্রশমন",
+      "probability": "Mega Hot"
+    },
+    {
+      "questionNumber": 9,
+      "passage": null,
+      "questionText": "হেবার পদ্ধতিতে NH₃ উৎপাদনে অনুঘটক হিসেবে কী ব্যবহৃত হয়?",
+      "options": ["ক) Fe (লোহা)", "খ) Pt", "গ) Ni", "ঘ) Cu"],
+      "correctOption": "ক",
+      "explanation": "হেবার-বস পদ্ধতিতে আয়রন (Fe) অনুঘটক।",
+      "topic": "শিল্প রসায়ন",
+      "probability": "Board Favourite"
+    },
+    {
+      "questionNumber": 10,
+      "passage": null,
+      "questionText": "2.0 g H₂ গ্যাসের আয়তন N.T.P.-তে কত লিটার?",
+      "options": ["ক) 11.2 L", "খ) 22.4 L", "গ) 44.8 L", "ঘ) 5.6 L"],
+      "correctOption": "খ",
+      "explanation": "H₂ এর আণবিক ভর 2, 2 g = 1 mol, NTP-তে 1 mol গ্যাস = 22.4 L।",
+      "topic": "মোলের ধারণা ও গ্যাসের সূত্র",
+      "probability": "Mega Hot"
+    },
+    {
+      "questionNumber": 11,
+      "passage": null,
+      "questionText": "নিচের কোনটির জারণ সংখ্যা +6?",
+      "options": ["ক) MnO₄⁻", "খ) CrO₄²⁻", "গ) Cr₂O₇²⁻", "ঘ) MnO₂"],
+      "correctOption": "গ",
+      "explanation": "Cr₂O₇²⁻ এ Cr এর জারণ সংখ্যা +6।",
+      "topic": "জারণ-বিজারণ (জারণ সংখ্যা)",
+      "probability": "Board Favourite"
+    },
+    {
+      "questionNumber": 12,
+      "passage": null,
+      "questionText": "সালফিউরিক অ্যাসিড (H₂SO₄) প্রস্তুতির কন্টাক্ট প্রক্রিয়ায় কোন বিক্রিয়ক?",
+      "options": ["ক) SO₂ + O₂ → SO₃ (V₂O₅)", "খ) FeS₂ + O₂ → Fe₂O₃ + SO₂", "গ) SO₃ + H₂SO₄ → oleum", "ঘ) উপরের সবগুলো"],
+      "correctOption": "ঘ",
+      "explanation": "কন্টাক্ট প্রক্রিয়ার তিনটি ধাপই।",
+      "topic": "শিল্প রসায়ন",
+      "probability": "Very Hot"
+    },
+    {
+      "questionNumber": 13,
+      "passage": null,
+      "questionText": "একটি মৌলের আয়নীকরণ শক্তি I₁ < I₂ < I₃ ... কারণ—",
+      "options": ["ক) নিউক্লিয়াস ছোট হয়ে যায়", "খ) ইলেকট্রন সংখ্যা কমে", "গ) প্রোটন সংখ্যা বাড়ে", "ঘ) কার্যকরী নিউক্লিয় চার্জ বৃদ্ধি ও আয়নিক আকার হ্রাস"],
+      "correctOption": "ঘ",
+      "explanation": "ইলেকট্রন অপসারণে আয়নের আকার কমে, নিউক্লিয় চার্জের প্রভাব বাড়ে।",
+      "topic": "পর্যায়বৃত্ত ধর্ম (আয়নীকরণ শক্তি)",
+      "probability": "Mega Hot"
+    },
+    {
+      "questionNumber": 14,
+      "passage": null,
+      "questionText": "একটি গ্যাসের ব্যাপন হার অপর একটি গ্যাসের 4 গুণ। দ্বিতীয় গ্যাসটির আণবিক ভর 64 হলে প্রথমটির আণবিক ভর—",
+      "options": ["ক) 8", "খ) 4", "গ) 16", "ঘ) 32"],
+      "correctOption": "খ",
+      "explanation": "গ্রাহামের সূত্র: r₁/r₂ = √(M₂/M₁) → 4 = √(64/M₁) → M₁ = 64/16 = 4।",
+      "topic": "গ্যাসের ধর্ম (গ্রাহামের সূত্র)",
+      "probability": "Mega Hot"
+    },
+    {
+      "questionNumber": 15,
+      "passage": null,
+      "questionText": "রাসায়নিক বন্ধন সম্পর্কে— i. সমযোজী বন্ধনে ইলেকট্রন শেয়ার হয় ii. আয়নিক বন্ধনে ইলেকট্রন স্থানান্তর হয় iii. ধাতব বন্ধনে ইলেকট্রন সাগর মডেল প্রযোজ্য\n\nনিচের কোনটি সঠিক?",
+      "options": ["ক) i ও ii", "খ) i ও iii", "গ) ii ও iii", "ঘ) i, ii ও iii"],
+      "correctOption": "ঘ",
+      "explanation": "তিনটিই সঠিক।",
+      "topic": "রাসায়নিক বন্ধন",
+      "probability": "Board Favourite"
+    },
+    {
+      "questionNumber": 16,
+      "passage": null,
+      "questionText": "পর্যায় সারণিতে একই পর্যায়ে বাম থেকে ডানে— i. পারমাণবিক ব্যাসার্ধ হ্রাস পায় ii. আয়নীকরণ শক্তি বৃদ্ধি পায় iii. তড়িৎ ঋণাত্মকতা হ্রাস পায়\n\nনিচের কোনটি সঠিক?",
+      "options": ["ক) i ও ii", "খ) i ও iii", "গ) ii ও iii", "ঘ) i, ii ও iii"],
+      "correctOption": "ক",
+      "explanation": "তড়িৎ ঋণাত্মকতা বাম থেকে ডানে বৃদ্ধি পায়, iii ভুল।",
+      "topic": "পর্যায়বৃত্ত ধর্ম",
+      "probability": "Mega Hot"
+    },
+    {
+      "questionNumber": 17,
+      "passage": null,
+      "questionText": "NH₃ অণুতে— i. বন্ধন কোণ 107° ii. নিঃসঙ্গ ইলেকট্রন জোড় 1 iii. sp³ সংকরিত\n\nনিচের কোনটি সঠিক?",
+      "options": ["ক) i ও ii", "খ) i ও iii", "গ) ii ও iii", "ঘ) i, ii ও iii"],
+      "correctOption": "ঘ",
+      "explanation": "NH₃ তে sp³, 107°, 1 lone pair। সব সঠিক।",
+      "topic": "রাসায়নিক বন্ধন (VSEPR)",
+      "probability": "Very Hot"
+    },
+    {
+      "questionNumber": 18,
+      "passage": null,
+      "questionText": "একটি বাফার দ্রবণ— i. অল্প অ্যাসিড বা ক্ষার যোগে pH স্থির রাখে ii. দুর্বল অ্যাসিড ও তার লবণের মিশ্রণ iii. রক্তের pH নিয়ন্ত্রণ করে\n\nনিচের কোনটি সঠিক?",
+      "options": ["ক) i ও ii", "খ) i ও iii", "গ) ii ও iii", "ঘ) i, ii ও iii"],
+      "correctOption": "ঘ",
+      "explanation": "সবগুলো বাফারের বৈশিষ্ট্য।",
+      "topic": "দ্রবণ (বাফার)",
+      "probability": "Very Hot"
+    },
+    {
+      "questionNumber": 19,
+      "passage": null,
+      "questionText": "সালফিউরিক অ্যাসিডের শিল্প উৎপাদনে— i. কন্টাক্ট প্রক্রিয়া ব্যবহৃত হয় ii. V₂O₅ অনুঘটক iii. SO₃ সরাসরি জলে দ্রবীভূত হয়\n\nনিচের কোনটি সঠিক?",
+      "options": ["ক) i ও ii", "খ) i ও iii", "গ) ii ও iii", "ঘ) i, ii ও iii"],
+      "correctOption": "ক",
+      "explanation": "SO₃ সরাসরি জলে দ্রবীভূত হয় না, H₂SO₄-তে দ্রবীভূত হয়ে ওলিয়াম উৎপন্ন হয়। iii ভুল।",
+      "topic": "শিল্প রসায়ন",
+      "probability": "Mega Hot"
+    },
+    {
+      "questionNumber": 20,
+      "passage": null,
+      "questionText": "জারণ-বিজারণ বিক্রিয়ায়— i. জারক ইলেকট্রন গ্রহণ করে ii. বিজারক ইলেকট্রন ত্যাগ করে iii. জারণ সংখ্যা পরিবর্তন হয়\n\nনিচের কোনটি সঠিক?",
+      "options": ["ক) i ও ii", "খ) i ও iii", "গ) ii ও iii", "ঘ) i, ii ও iii"],
+      "correctOption": "ঘ",
+      "explanation": "সবগুলো সঠিক।",
+      "topic": "জারণ-বিজারণ",
+      "probability": "Board Favourite"
+    },
+    {
+      "questionNumber": 21,
+      "passage": null,
+      "questionText": "একটি গ্যাস 27°C ও 1 atm চাপে 2 L আয়তন দখল করে। স্থির চাপে তাপমাত্রা 127°C করলে আয়তন কত হবে?",
+      "options": ["ক) 2.67 L", "খ) 2.00 L", "গ) 3.00 L", "ঘ) 1.50 L"],
+      "correctOption": "ক",
+      "explanation": "চার্লসের সূত্র: V₁/T₁ = V₂/T₂ → 2/300 = V₂/400 → V₂ = 2.67 L।",
+      "topic": "গ্যাসের সূত্র",
+      "probability": "Mega Hot"
+    },
+    {
+      "questionNumber": 22,
+      "passage": null,
+      "questionText": "কোনটি লুইস অ্যাসিড?",
+      "options": ["ক) NH₃", "খ) BF₃", "গ) H₂O", "ঘ) OH⁻"],
+      "correctOption": "খ",
+      "explanation": "BF₃ ইলেকট্রন জোড় গ্রহণ করতে পারে, লুইস অ্যাসিড।",
+      "topic": "অ্যাসিড-ক্ষার তত্ত্ব",
+      "probability": "Board Favourite"
+    },
+    {
+      "questionNumber": 23,
+      "passage": null,
+      "questionText": "50 mL 0.1 M FeSO₄ দ্রবণকে সম্পূর্ণ জারিত করতে 0.02 M KMnO₄ দ্রবণের কত mL লাগবে? (অম্লীয় মাধ্যমে)",
+      "options": ["ক) 10 mL", "খ) 20 mL", "গ) 25 mL", "ঘ) 50 mL"],
+      "correctOption": "ঘ",
+      "explanation": "MnO₄⁻ + 5Fe²⁺ + 8H⁺ → Mn²⁺ + 5Fe³⁺ + 4H₂O। Fe²⁺ মোল = 5 mmol; MnO₄⁻ প্রয়োজন 1 mmol → V = 1/0.02 = 50 mL।",
+      "topic": "জারণ-বিজারণ (টাইট্রেশন)",
+      "probability": "Mega Hot"
+    },
+    {
+      "questionNumber": 24,
+      "passage": null,
+      "questionText": "H₂O₂ একটি—",
+      "options": ["ক) জারক মাত্র", "খ) বিজারক মাত্র", "গ) জারক ও বিজারক উভয়ই", "ঘ) প্রশমক"],
+      "correctOption": "গ",
+      "explanation": "H₂O₂ নিজে জারিত বা বিজারিত হতে পারে।",
+      "topic": "জারণ-বিজারণ",
+      "probability": "Board Favourite"
+    },
+    {
+      "questionNumber": 25,
+      "passage": null,
+      "questionText": "সালফিউরিক অ্যাসিডের সংস্পর্শে চিনি (C₁₂H₂₂O₁₁) কালো হয়, কারণ এটি—",
+      "options": ["ক) জারক", "খ) পানিগ্রাহী", "গ) বিজারক", "ঘ) অম্ল"],
+      "correctOption": "খ",
+      "explanation": "H₂SO₄ চিনি থেকে পানি অপসারণ করে কার্বন কালো অবশিষ্ট রাখে।",
+      "topic": "রাসায়নিক ধর্ম (H₂SO₄)",
+      "probability": "Mega Hot"
+    }
+  ]
+}

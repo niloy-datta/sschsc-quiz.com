@@ -1,0 +1,256 @@
+{
+  "setNumber": 2,
+  "subject": "Chemistry 2nd Paper",
+  "questions": [
+    {
+      "questionNumber": 1,
+      "passage": "একটি জৈব যৌগ (X) NaHCO₃ দ্রবণে দ্রবীভূত হয়ে CO₂ গ্যাস উৎপন্ন করে এবং ইথানলের সাথে H₂SO₄ উপস্থিতিতে ফলের সুগন্ধি যৌগ উৎপন্ন করে।",
+      "questionText": "(X) কোন শ্রেণির যৌগ?",
+      "options": ["ক) অ্যালকোহল", "খ) অ্যালডিহাইড", "গ) কার্বক্সিলিক অ্যাসিড", "ঘ) কিটোন"],
+      "correctOption": "গ",
+      "explanation": "NaHCO₃ এর সাথে বিক্রিয়া করে CO₂ দেয় → কার্বক্সিলিক অ্যাসিড। ইথানলের সাথে এস্টার গঠন করে।",
+      "topic": "জৈব রসায়ন (কার্বক্সিলিক অ্যাসিড)",
+      "probability": "Mega Hot"
+    },
+    {
+      "questionNumber": 2,
+      "passage": "উপরের উদ্দীপক।",
+      "questionText": "উৎপন্ন সুগন্ধি যৌগটির নাম কী?",
+      "options": ["ক) ইথাইল অ্যাসিটেট", "খ) ইথাইল প্রোপানয়েট", "গ) মিথাইল ইথানয়েট", "ঘ) ইথাইল ইথানয়েট"],
+      "correctOption": "ঘ",
+      "explanation": "কার্বক্সিলিক অ্যাসিড (এসিটিক অ্যাসিড) + ইথানল → ইথাইল ইথানয়েট (এস্টার)।",
+      "topic": "জৈব রসায়ন (এস্টার)",
+      "probability": "Very Hot"
+    },
+    {
+      "questionNumber": 3,
+      "passage": "100 mL কঠিন পানি নমুনা 0.02 M EDTA দ্রবণের 15 mL দিয়ে টাইট্রেশন করা হলো।",
+      "questionText": "পানির খরতা (ppm CaCO₃) কত? (CaCO₃=100 g/mol)",
+      "options": ["ক) 300", "খ) 150", "গ) 600", "ঘ) 200"],
+      "correctOption": "ক",
+      "explanation": "খরতা (ppm) = (V_EDTA × M_EDTA × 1000 / V_sample) × 100 = (15×0.02×1000/100)×100 = 300 ppm।",
+      "topic": "পরিবেশ রসায়ন (পানি দূষণ)",
+      "probability": "Mega Hot"
+    },
+    {
+      "questionNumber": 4,
+      "passage": "উপরের পানি নমুনায় বাইকার্বনেট আয়ন উপস্থিত থাকলে তাকে কী খরতা বলে?",
+      "questionText": "এটি কী ধরনের খরতা?",
+      "options": ["ক) স্থায়ী খরতা", "খ) অস্থায়ী খরতা", "গ) মোট খরতা", "ঘ) শূন্য খরতা"],
+      "correctOption": "খ",
+      "explanation": "HCO₃⁻ দ্বারা সৃষ্ট খরতা ফুটালে নষ্ট হয়, তাই অস্থায়ী।",
+      "topic": "পরিবেশ রসায়ন",
+      "probability": "Very Hot"
+    },
+    {
+      "questionNumber": 5,
+      "passage": null,
+      "questionText": "নাইট্রোবেনজিন বিজারণে কোন যৌগ উৎপন্ন হয়?",
+      "options": ["ক) অ্যানিলিন", "খ) বেনজিন", "গ) নাইট্রোবেনজিন", "ঘ) ফেনল"],
+      "correctOption": "ক",
+      "explanation": "C₆H₅NO₂ + 6[H] → C₆H₅NH₂ + 2H₂O (Sn/HCl)।",
+      "topic": "জৈব রসায়ন (নাইট্রো যৌগ)",
+      "probability": "Mega Hot"
+    },
+    {
+      "questionNumber": 6,
+      "passage": null,
+      "questionText": "ডায়াজোনিয়াম লবণের সংকেত হলো—",
+      "options": ["ক) C₆H₅N₂Cl", "খ) C₆H₅NH₂", "গ) C₆H₅NO₂", "ঘ) C₆H₅Cl"],
+      "correctOption": "ক",
+      "explanation": "বেনজিন ডায়াজোনিয়াম ক্লোরাইড: C₆H₅N₂⁺Cl⁻।",
+      "topic": "জৈব রসায়ন (ডায়াজোনিয়াম)",
+      "probability": "Board Favourite"
+    },
+    {
+      "questionNumber": 7,
+      "passage": null,
+      "questionText": "অ্যাসিটিক অ্যাসিডের সাথে PCl₅ এর বিক্রিয়ায় কোন উৎপাদ পাওয়া যায়?",
+      "options": ["ক) অ্যাসিটামাইড", "খ) অ্যাসিটাইল ক্লোরাইড", "গ) ইথাইল ক্লোরাইড", "ঘ) ক্লোরাল"],
+      "correctOption": "খ",
+      "explanation": "RCOOH + PCl₅ → RCOCl + POCl₃ + HCl।",
+      "topic": "জৈব রসায়ন (অ্যাসিড ডেরিভেটিভ)",
+      "probability": "Very Hot"
+    },
+    {
+      "questionNumber": 8,
+      "passage": null,
+      "questionText": "পিকরিক অ্যাসিড কোনটির সাথে বিক্রিয়ায় উৎপন্ন হয়?",
+      "options": ["ক) ফেনল + HNO₃", "খ) টলুইন + HNO₃", "গ) বেনজিন + H₂SO₄", "ঘ) অ্যানিলিন + HCl"],
+      "correctOption": "ক",
+      "explanation": "ফেনল + ঘন HNO₃ → 2,4,6-ট্রাইনাইট্রোফেনল (পিকরিক অ্যাসিড)।",
+      "topic": "জৈব রসায়ন (ফেনল)",
+      "probability": "Mega Hot"
+    },
+    {
+      "questionNumber": 9,
+      "passage": null,
+      "questionText": "জৈব যৌগে কার্যকরী মূলক শনাক্তকরণে সোডিয়াম নির্যাস পরীক্ষা (লেসাইন পরীক্ষা) ব্যবহার করা হয়—",
+      "options": ["ক) কার্বন ও হাইড্রোজেন", "খ) নাইট্রোজেন, সালফার, হ্যালোজেন", "গ) অক্সিজেন", "ঘ) ফসফরাস"],
+      "correctOption": "খ",
+      "explanation": "লেসাইন পরীক্ষা (Na extract) দিয়ে N, S, X (হ্যালোজেন) শনাক্ত করা হয়।",
+      "topic": "জৈব রসায়ন (মৌল বিশ্লেষণ)",
+      "probability": "Very Hot"
+    },
+    {
+      "questionNumber": 10,
+      "passage": null,
+      "questionText": "ইথাইন (C₂H₂) তে কয়টি π বন্ধন আছে?",
+      "options": ["ক) 1", "খ) 2", "গ) 3", "ঘ) 4"],
+      "correctOption": "খ",
+      "explanation": "H-C≡C-H: একটি σ ও দুটি π বন্ধন।",
+      "topic": "জৈব রসায়ন (হাইড্রোকার্বন)",
+      "probability": "Board Favourite"
+    },
+    {
+      "questionNumber": 11,
+      "passage": null,
+      "questionText": "কোন যৌগটি ফেহলিং দ্রবণ জারিত করে?",
+      "options": ["ক) বেনজালডিহাইড", "খ) অ্যাসিটোন", "গ) গ্লুকোজ", "ঘ) ইথানল"],
+      "correctOption": "গ",
+      "explanation": "গ্লুকোজ একটি অ্যালডিহাইড গ্রুপযুক্ত মনোস্যাকারাইড, ফেহলিং দ্রবণ জারিত করে।",
+      "topic": "জৈব রসায়ন (শর্করা)",
+      "probability": "Very Hot"
+    },
+    {
+      "questionNumber": 12,
+      "passage": null,
+      "questionText": "বেনজিনের ফ্রিডেল-ক্রাফটস অ্যালকাইলেশন বিক্রিয়ায় কোন অনুঘটক ব্যবহৃত হয়?",
+      "options": ["ক) FeCl₃", "খ) AlCl₃ (অনার্দ্র)", "গ) Ni", "ঘ) Pt"],
+      "correctOption": "খ",
+      "explanation": "অনার্দ্র AlCl₃ ফ্রিডেল-ক্রাফটস অনুঘটক।",
+      "topic": "জৈব রসায়ন (বেনজিন)",
+      "probability": "Board Favourite"
+    },
+    {
+      "questionNumber": 13,
+      "passage": null,
+      "questionText": "কৃত্রিম তন্তু রেয়ন তৈরি হয়—",
+      "options": ["ক) সেলুলোজ থেকে", "খ) প্রোটিন থেকে", "গ) পলিথিন থেকে", "ঘ) নাইলন থেকে"],
+      "correctOption": "ক",
+      "explanation": "রেয়ন পুনরুৎপাদিত সেলুলোজ তন্তু।",
+      "topic": "পলিমার",
+      "probability": "Board Favourite"
+    },
+    {
+      "questionNumber": 14,
+      "passage": null,
+      "questionText": "0.1 M CH₃COOH দ্রবণের pH কত? (Ka = 1×10⁻⁵)",
+      "options": ["ক) 3", "খ) 2", "গ) 4", "ঘ) 5"],
+      "correctOption": "ক",
+      "explanation": "[H⁺] = √(Ka×C) = √(10⁻⁵×0.1) = 10⁻³, pH = 3।",
+      "topic": "পরিবেশ/ভৌত রসায়ন",
+      "probability": "Very Hot"
+    },
+    {
+      "questionNumber": 15,
+      "passage": null,
+      "questionText": "অ্যালকোহল থেকে অ্যালকিন উৎপাদন— i. পানিবিয়োজন বিক্রিয়া ii. H₂SO₄ সহযোগে তাপ iii. অপসারণ বিক্রিয়া নিচের কোনটি সঠিক?",
+      "options": ["ক) i ও ii", "খ) i ও iii", "গ) ii ও iii", "ঘ) i, ii ও iii"],
+      "correctOption": "ঘ",
+      "explanation": "অ্যালকোহল → অ্যালকিন (পানিবিয়োজন/অপসারণ), H₂SO₄ ও তাপে ঘটে। সব সঠিক।",
+      "topic": "জৈব রসায়ন (অ্যালকোহল)",
+      "probability": "Board Favourite"
+    },
+    {
+      "questionNumber": 16,
+      "passage": null,
+      "questionText": "বেনজিনে— i. 6টি π ইলেকট্রন আছে ii. সকল C-C বন্ধন সমান iii. সংযোজন বিক্রিয়া সহজে হয় নিচের কোনটি সঠিক?",
+      "options": ["ক) i ও ii", "খ) i ও iii", "গ) ii ও iii", "ঘ) i, ii ও iii"],
+      "correctOption": "ক",
+      "explanation": "বেনজিনে 6টি π ইলেকট্রন, C-C বন্ধন দৈর্ঘ্য সমান (1.39 Å)। iii ভুল, এটি প্রতিস্থাপন পছন্দ করে।",
+      "topic": "জৈব রসায়ন (বেনজিন)",
+      "probability": "Very Hot"
+    },
+    {
+      "questionNumber": 17,
+      "passage": null,
+      "questionText": "ইথানলের জারণ— i. প্রাইমারি অ্যালকোহলের জারণ ii. KMnO₄ দ্বারা অ্যাসিটিক অ্যাসিড তৈরি iii. K₂Cr₂O₇/H⁺ দ্বারা অ্যাসিটালডিহাইড নিচের কোনটি সঠিক?",
+      "options": ["ক) i ও ii", "খ) i ও iii", "গ) ii ও iii", "ঘ) i, ii ও iii"],
+      "correctOption": "ঘ",
+      "explanation": "ইথানল প্রাইমারি, সম্পূর্ণ জারণে অ্যাসিটিক অ্যাসিড, আংশিক জারণে অ্যাসিটালডিহাইড।",
+      "topic": "জৈব রসায়ন (জারণ-বিজারণ)",
+      "probability": "Board Favourite"
+    },
+    {
+      "questionNumber": 18,
+      "passage": null,
+      "questionText": "পানির অস্থায়ী খরতা দূর করতে— i. ফুটানো ii. চুন যোগ iii. সোডিয়াম কার্বনেট নিচের কোনটি সঠিক?",
+      "options": ["ক) i ও ii", "খ) i ও iii", "গ) ii ও iii", "ঘ) i, ii ও iii"],
+      "correctOption": "ক",
+      "explanation": "ফুটালে ও চুন যোগে অস্থায়ী খরতা দূর হয়। Na₂CO₃ স্থায়ী খরতা দূর করে।",
+      "topic": "পরিবেশ রসায়ন",
+      "probability": "Mega Hot"
+    },
+    {
+      "questionNumber": 19,
+      "passage": null,
+      "questionText": "নিচের কোনটি বেনজিনের সংযোজন বিক্রিয়া? i. নাইট্রেশন ii. হ্যালোজিনেশন iii. হাইড্রোজেনেশন",
+      "options": ["ক) i ও ii", "খ) ii ও iii", "গ) iii", "ঘ) i, ii ও iii"],
+      "correctOption": "গ",
+      "explanation": "হাইড্রোজেনেশন সংযোজন (C₆H₆ + 3H₂ → C₆H₁₂), i ও ii প্রতিস্থাপন।",
+      "topic": "জৈব রসায়ন",
+      "probability": "Very Hot"
+    },
+    {
+      "questionNumber": 20,
+      "passage": null,
+      "questionText": "আধুনিক রেফ্রিজারেন্ট কোনটি?",
+      "options": ["ক) CF₂Cl₂", "খ) CH₄", "গ) NH₃", "ঘ) CO₂"],
+      "correctOption": "ক",
+      "explanation": "ফ্রেয়ন-12 (CCl₂F₂) পুরাতন, কিন্তু প্রশ্নে CF₂Cl₂ দেয়া আছে যা একটি CFC। তবে HFC ব্যবহৃত হয়। বোর্ড অনুযায়ী CFC ধরা হয়।",
+      "topic": "পরিবেশ রসায়ন",
+      "probability": "Board Favourite"
+    },
+    {
+      "questionNumber": 21,
+      "passage": null,
+      "questionText": "বেনজিনের ক্লোরিনেশন সূর্যালোকে সংযোজন বিক্রিয়ায় কী উৎপন্ন হয়?",
+      "options": ["ক) ক্লোরোবেনজিন", "খ) BHC (হেক্সাক্লোরোসাইক্লোহেক্সেন)", "গ) DDT", "ঘ) বেনজিন ডাইক্লোরাইড"],
+      "correctOption": "খ",
+      "explanation": "C₆H₆ + 3Cl₂ (UV) → C₆H₆Cl₆ (BHC)।",
+      "topic": "জৈব রসায়ন (বেনজিন)",
+      "probability": "Conceptual Trap"
+    },
+    {
+      "questionNumber": 22,
+      "passage": null,
+      "questionText": "ইথাইনকে Cu₂Cl₂ দ্রবণের মধ্যে দিয়ে চালনা করলে কী পাওয়া যায়?",
+      "options": ["ক) কপার অ্যাসিটিলাইড লাল অধঃক্ষেপ", "খ) রূপার আয়না", "গ) সাদা ধোঁয়া", "ঘ) সবুজ বর্ণ"],
+      "correctOption": "ক",
+      "explanation": "HC≡CH + Cu₂Cl₂ → Cu₂C₂ (লাল) + HCl। এটি টার্মিনাল অ্যালকাইনের পরীক্ষা।",
+      "topic": "জৈব রসায়ন (অ্যালকাইন)",
+      "probability": "Very Hot"
+    },
+    {
+      "questionNumber": 23,
+      "passage": null,
+      "questionText": "গ্লাইকোজেন হলো—",
+      "options": ["ক) প্রাণীজ শ্বেতসার", "খ) উদ্ভিজ্জ শ্বেতসার", "গ) প্রোটিন", "ঘ) চর্বি"],
+      "correctOption": "ক",
+      "explanation": "গ্লাইকোজেন প্রাণীদেহে সঞ্চিত পলিস্যাকারাইড।",
+      "topic": "জৈব অণু",
+      "probability": "Board Favourite"
+    },
+    {
+      "questionNumber": 24,
+      "passage": null,
+      "questionText": "অ্যালকিনের ওজোনোলাইসিস বিক্রিয়ায় কোন ধরনের যৌগ উৎপন্ন হয়?",
+      "options": ["ক) অ্যালকোহল", "খ) কার্বনিল যৌগ (অ্যালডিহাইড/কিটোন)", "গ) কার্বক্সিলিক অ্যাসিড", "ঘ) ইথার"],
+      "correctOption": "খ",
+      "explanation": "O₃ ও পরে Zn/H₂O → C=C ভেঙে >C=O গঠিত হয়।",
+      "topic": "জৈব রসায়ন (অ্যালকিন)",
+      "probability": "Mega Hot"
+    },
+    {
+      "questionNumber": 25,
+      "passage": null,
+      "questionText": "সায়ানাইড আয়নের উপস্থিতি শনাক্তকরণে কোন পরীক্ষা করা হয়?",
+      "options": ["ক) প্রুশিয়ান নীল", "খ) বাদামী বলয়", "গ) AgCl অধঃক্ষেপ", "ঘ) BaSO₄"],
+      "correctOption": "ক",
+      "explanation": "CN⁻ + Fe²⁺ → [Fe(CN)₆]⁴⁻, অতঃপর Fe³⁺ যোগে প্রুশিয়ান নীল।",
+      "topic": "পরিবেশ রসায়ন (শনাক্তকরণ)",
+      "probability": "Very Hot"
+    }
+  ]
+}

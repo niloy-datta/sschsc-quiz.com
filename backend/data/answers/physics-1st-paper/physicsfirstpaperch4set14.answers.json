@@ -1,0 +1,170 @@
+{
+  "physics-1st-paper-hsc-science-physics-1st-paper-extra-physicsFirstPaperCh4Set14-ts-0": {
+    "answer": "ML²/12",
+    "answerIndex": 1,
+    "difficulty": 1200,
+    "explanation": "সুষম দণ্ডের মধ্যবিন্দুগামী ও লম্বা অক্ষের সাপেক্ষে জড়তার ভ্রামক I = ML²/12। যদি দণ্ডের প্রান্তগামী অক্ষ সাপেক্ষে হতো তাহলে উত্তর হতো ML²/3।",
+    "topic": "physicsfirstpaperch4set14"
+  },
+  "physics-1st-paper-hsc-science-physics-1st-paper-extra-physicsFirstPaperCh4Set14-ts-1": {
+    "answer": "800 N",
+    "answerIndex": 2,
+    "difficulty": 1200,
+    "explanation": "রকেটের ঊর্ধ্বমুখী ধাক্কা F = v * (dm/dt)। এখানে গ্যাস নির্গমনের বেগ v = 400 m/s এবং জ্বালানি খরচের হার dm/dt = 2 kg/s। অতএব ধাক্কা F = 400 * 2 = 800 N।",
+    "topic": "physicsfirstpaperch4set14"
+  },
+  "physics-1st-paper-hsc-science-physics-1st-paper-extra-physicsFirstPaperCh4Set14-ts-2": {
+    "answer": "10 Ns",
+    "answerIndex": 2,
+    "difficulty": 1200,
+    "explanation": "বলের ঘাত J = Δp = m(v - u)। বলটি ফিরে আসার কারনে শেষ বেগ v = -10 m/s এবং আদি বেগ u = 10 m/s। অতএব J = m * (-v - u) এর মান নির্দেশ করলে |J| = 0.5 * (10 + 10) = 10 Ns। অনেক শিক্ষার্থী উত্তর শূন্য (0 Ns) দাগিয়ে ট্র্যাপে পড়ে।",
+    "topic": "physicsfirstpaperch4set14"
+  },
+  "physics-1st-paper-hsc-science-physics-1st-paper-extra-physicsFirstPaperCh4Set14-ts-3": {
+    "answer": "কমে যাবে",
+    "answerIndex": 1,
+    "difficulty": 1200,
+    "explanation": "কৌণিক ভরবেগের সংরক্ষণ সূত্র অনুযায়ী, L = Iω = ধ্রুবক। হাত প্রসারিত করলে অক্ষ হতে দূরত্ব বৃদ্ধির ফলে জড়তার ভ্রামক I বৃদ্ধি পায়। ফলে সমতা বজায় রাখতে কৌণিক বেগ (ω) হ্রাস পায় বা কমে যায়।",
+    "topic": "physicsfirstpaperch4set14"
+  },
+  "physics-1st-paper-hsc-science-physics-1st-paper-extra-physicsFirstPaperCh4Set14-ts-4": {
+    "answer": "11.8 m/s",
+    "answerIndex": 0,
+    "difficulty": 1200,
+    "explanation": "ব্যাংকিং এর শর্তানুযায়ী: tan θ = v²/(rg) => v = √(rg * tan θ)। এখানে r = 100 m, θ = 8.1° এবং tan(8.1°) ≈ 0.1423। v = √(100 * 9.8 * 0.1423) = √139.45 ≈ 11.8 m/s।",
+    "topic": "physicsfirstpaperch4set14"
+  },
+  "physics-1st-paper-hsc-science-physics-1st-paper-extra-physicsFirstPaperCh4Set14-ts-5": {
+    "answer": "1 : 2",
+    "answerIndex": 0,
+    "difficulty": 1200,
+    "explanation": "নিরেট চাকতির জড়তার ভ্রামক I_disc = 0.5 MR²। বলয়ের জড়তার ভ্রামক I_ring = MR²। অনুপাত I_disc / I_ring = 0.5 MR² / MR² = 1/2 = 1 : 2।",
+    "topic": "physicsfirstpaperch4set14"
+  },
+  "physics-1st-paper-hsc-science-physics-1st-paper-extra-physicsFirstPaperCh4Set14-ts-6": {
+    "answer": "6 mg",
+    "answerIndex": 2,
+    "difficulty": 1200,
+    "explanation": "উলম্ব বৃত্তে ঘূর্ণনের ক্ষেত্রে সর্বনিম্ন বিন্দুতে টান T_max = mg + (mv²/r) এবং সর্বোচ্চ বিন্দুতে টান T_min = (mv'²/r) - mg। শক্তির সংরক্ষণ নিয়ম ব্যবহার করে এই দুই অবস্থানের সম্পর্ক হিসাব করলে টানের সর্বজনীন পার্থক্য পাওয়া যায় সর্বদা 6mg।",
+    "topic": "physicsfirstpaperch4set14"
+  },
+  "physics-1st-paper-hsc-science-physics-1st-paper-extra-physicsFirstPaperCh4Set14-ts-7": {
+    "answer": "26.57°",
+    "answerIndex": 1,
+    "difficulty": 1200,
+    "explanation": "আমরা জানি, ঘর্ষণ সহগ μ = tan θ (যেখানে θ ঘর্ষণ কোণ)। সুতরাং, θ = tan⁻¹(μ) = tan⁻¹(0.5) ≈ 26.57°।",
+    "topic": "physicsfirstpaperch4set14"
+  },
+  "physics-1st-paper-hsc-science-physics-1st-paper-extra-physicsFirstPaperCh4Set14-ts-8": {
+    "answer": "6 m/s",
+    "answerIndex": 1,
+    "difficulty": 1200,
+    "explanation": "ভরবেগের সংরক্ষণ সূত্র: m1*u1 + m2*u2 = (m1+m2)*v_common। এখানে (3 * 10) + (2 * 0) = (3 + 2) * v => 30 = 5 * v => v = 6 m/s।",
+    "topic": "physicsfirstpaperch4set14"
+  },
+  "physics-1st-paper-hsc-science-physics-1st-paper-extra-physicsFirstPaperCh4Set14-ts-9": {
+    "answer": "3/4 mg",
+    "answerIndex": 2,
+    "difficulty": 1200,
+    "explanation": "লিফট নিচের দিকে নামলে প্রতিক্রিয়া বল বা আপাত ওজন R = m(g - a)। এখানে a = g/4 বসিয়ে পাই, R = m(g - g/4) = 3/4 mg।",
+    "topic": "physicsfirstpaperch4set14"
+  },
+  "physics-1st-paper-hsc-science-physics-1st-paper-extra-physicsFirstPaperCh4Set14-ts-10": {
+    "answer": "2 rad/s²",
+    "answerIndex": 1,
+    "difficulty": 1200,
+    "explanation": "টর্ক τ = I*α সূত্রানুযায়ী, α = τ / I। এখানে τ = 10 N-m এবং I = 5 kg-m²। অতএব α = 10 / 5 = 2 rad/s²।",
+    "topic": "physicsfirstpaperch4set14"
+  },
+  "physics-1st-paper-hsc-science-physics-1st-paper-extra-physicsFirstPaperCh4Set14-ts-11": {
+    "answer": "স্পর্শক বরাবর বাইরে",
+    "answerIndex": 0,
+    "difficulty": 1200,
+    "explanation": "পাথরটির ঘূর্ণনকালে জড়তার কারণে তার রৈখিক গতি সবসময় বৃত্তের স্পর্শক অভিমুখে থাকে। সুতা ছিঁড়ে গেলে গতি জড়তার প্রভাবে পাথরটি স্পর্শক (Tangent) বরাবর সোজা ছিটকে যায়।",
+    "topic": "physicsfirstpaperch4set14"
+  },
+  "physics-1st-paper-hsc-science-physics-1st-paper-extra-physicsFirstPaperCh4Set14-ts-12": {
+    "answer": "τ = r × F",
+    "answerIndex": 2,
+    "difficulty": 1200,
+    "explanation": "টর্ক একটি ভেক্টর রাশি যা অবস্থান ভেক্টর r এবং বল F এর ক্ষেত্রফল বা ক্রস গুণফল নির্দেশ করে। দিক নিয়ম অনুযায়ী সঠিক সমীকরণটি হলো τ = r × F। (বিকল্প ক নয়, কারণ ক্রস গুণের ক্রম গুরুত্বপূর্ণ)।",
+    "topic": "physicsfirstpaperch4set14"
+  },
+  "physics-1st-paper-hsc-science-physics-1st-paper-extra-physicsFirstPaperCh4Set14-ts-13": {
+    "answer": "4π",
+    "answerIndex": 1,
+    "difficulty": 1200,
+    "explanation": "কৌণিক বেগ ω = 2πN / t। এখানে N = 120, t = 60s। অতএব ω = (2 * π * 120) / 60 = 4π rad/s।",
+    "topic": "physicsfirstpaperch4set14"
+  },
+  "physics-1st-paper-hsc-science-physics-1st-paper-extra-physicsFirstPaperCh4Set14-ts-14": {
+    "answer": "শূন্য",
+    "answerIndex": 3,
+    "difficulty": 1200,
+    "explanation": "অভিকেন্দ্র বল কণার গতির দিকের বা সরণের দিকের সাথে সর্বদা লম্ব হিসেবে বা ৯০° কোণে ক্রিয়া করে। সম্পাদিত কাজ W = Fd cos(90°) = 0। তাই অভিকেন্দ্র বলকে কাজের অনুপস্থিত বল বা কার্যহীন বলও বলা হয়।",
+    "topic": "physicsfirstpaperch4set14"
+  },
+  "physics-1st-paper-hsc-science-physics-1st-paper-extra-physicsFirstPaperCh4Set14-ts-15": {
+    "answer": "2/5 mr²",
+    "answerIndex": 1,
+    "difficulty": 1200,
+    "explanation": "নিরেট গোলকের স্বীয় ব্যাসগামী অক্ষ সাপেক্ষে জড়তার ভ্রামক I = 2/5 mr²। যদি ফাঁপা গোলক হতো, তবে জড়তার ভ্রামক হতো 2/3 mr²।",
+    "topic": "physicsfirstpaperch4set14"
+  },
+  "physics-1st-paper-hsc-science-physics-1st-paper-extra-physicsFirstPaperCh4Set14-ts-16": {
+    "answer": "sin⁻¹(0.08)",
+    "answerIndex": 0,
+    "difficulty": 1200,
+    "explanation": "রেললাইনের ব্যাংকিং কোণ হিসাবের সূত্র হলো sin θ = h/d, যেখানে h = উচ্চতা = 8 cm = 0.08 m এবং d = পাত দুটির দূরত্ব = 1 m। অতএব θ = sin⁻¹(0.08/1) = sin⁻¹(0.08)। (এখানে tan θ হবে না কারণ দূরত্ব সোজা পাত বরাবর ধরা হয়)।",
+    "topic": "physicsfirstpaperch4set14"
+  },
+  "physics-1st-paper-hsc-science-physics-1st-paper-extra-physicsFirstPaperCh4Set14-ts-17": {
+    "answer": "দ্বিগুণ হবে",
+    "answerIndex": 1,
+    "difficulty": 1200,
+    "explanation": "ঘর্ষণ বল বস্তুর লম্ব প্রতিক্রিয়া R তথা ওজনের সমানুপাতিক (f_s = μ_s * R)। ওজন দ্বিগুণ করা হলে প্রতিক্রিয়া বলও দ্বিগুণ হবে, ফলে সীমান্তিক ঘর্ষণ বলের সর্বোচ্চ মানও দ্বিগুণ হয়ে যাবে।",
+    "topic": "physicsfirstpaperch4set14"
+  },
+  "physics-1st-paper-hsc-science-physics-1st-paper-extra-physicsFirstPaperCh4Set14-ts-18": {
+    "answer": "R/√2",
+    "answerIndex": 1,
+    "difficulty": 1200,
+    "explanation": "চাকতির ভ্রামক I = 1/2 MR²। চক্রগতির ব্যাসার্ধের সাথে সমীকরণ MK² = 1/2 MR² => K² = R²/2 => K = R/√2।",
+    "topic": "physicsfirstpaperch4set14"
+  },
+  "physics-1st-paper-hsc-science-physics-1st-paper-extra-physicsFirstPaperCh4Set14-ts-19": {
+    "answer": "উভয়ই একসাথে",
+    "answerIndex": 2,
+    "difficulty": 1200,
+    "explanation": "যেহেতু উভয়ের ভর ও ব্যাসার্ধ সমান, তাই উভয়ের জড়তার ভ্রামকও সমান (2/5 MR²)। ফলে আনত তলে ঘূর্ণনের ক্ষেত্রে ত্বরণ একই হবে এবং উভয়েই একসাথে নিচে পৌঁছাবে। উপাদানের ভিন্নতা এখানে জড়তার ভ্রামকে কোনো প্রভাব ফেলে না।",
+    "topic": "physicsfirstpaperch4set14"
+  },
+  "physics-1st-paper-hsc-science-physics-1st-paper-extra-physicsFirstPaperCh4Set14-ts-20": {
+    "answer": "E = L²/(2I)",
+    "answerIndex": 1,
+    "difficulty": 1200,
+    "explanation": "আমরা জানি, রৈখিক গতিশক্তি E_k = p²/(2m)। একইভাবে ঘূর্ণন গতিশক্তি E_rot = L²/(2I)।",
+    "topic": "physicsfirstpaperch4set14"
+  },
+  "physics-1st-paper-hsc-science-physics-1st-paper-extra-physicsFirstPaperCh4Set14-ts-21": {
+    "answer": "কোনো পরিবর্তন হবে না",
+    "answerIndex": 3,
+    "difficulty": 1200,
+    "explanation": "স্থিতিবৈজ্ঞানিক বা চিজের গতিশীল ঘর্ষণ বল স্পর্শতলের ক্ষেত্রফলের ওপর নির্ভর করে না। এটি কেবল তলের ধরন বা মসৃণতা এবং উলম্ব বল স্পর্শ বা ওজনের ওপর নির্ভর করে।",
+    "topic": "physicsfirstpaperch4set14"
+  },
+  "physics-1st-paper-hsc-science-physics-1st-paper-extra-physicsFirstPaperCh4Set14-ts-22": {
+    "answer": "2.5 m/s²",
+    "answerIndex": 1,
+    "difficulty": 1200,
+    "explanation": "অভিকেন্দ্র বা কেন্দ্রমুখী ত্বরণ a_c = v²/r। এখানে v = 5 m/s, r = 10 m। অতএব a_c = 5² / 10 = 25 / 10 = 2.5 m/s²।",
+    "topic": "physicsfirstpaperch4set14"
+  },
+  "physics-1st-paper-hsc-science-physics-1st-paper-extra-physicsFirstPaperCh4Set14-ts-23": {
+    "answer": "৯ টি",
+    "answerIndex": 2,
+    "difficulty": 1200,
+    "explanation": "স্থির বলের বিরুদ্ধে কাঠের তক্তা ভেদ করার ক্ষেত্রে অতিক্রান্ত দূরত্ব বা তক্তার সংখ্যা x ∝ v² (গতিশক্তি থেকে আসে)। গতিবেগ ৩ গুণ করা হলে ভেদযোগ্য তক্তার সংখ্যা হবে ৩² = ৯ গুণ।",
+    "topic": "physicsfirstpaperch4set14"
+  }
+}

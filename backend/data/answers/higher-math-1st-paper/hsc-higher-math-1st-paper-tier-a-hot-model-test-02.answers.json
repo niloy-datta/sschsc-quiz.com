@@ -1,0 +1,102 @@
+{
+  "hsc-higher-math-1st-paper-tier-a-set-02-q01": {
+    "correctOption": "-1",
+    "explanation": "|A|=1×5-2×3= -1।"
+  },
+  "hsc-higher-math-1st-paper-tier-a-set-02-q02": {
+    "correctOption": "-5",
+    "explanation": "A^{-1}=1/(-1)[[5,-2],[-3,1]], তাই (1,1) উপাদান -5।"
+  },
+  "hsc-higher-math-1st-paper-tier-a-set-02-q03": {
+    "correctOption": "-4",
+    "explanation": "a·b=2×1+(-1)×2+2×(-2)= -4।"
+  },
+  "hsc-higher-math-1st-paper-tier-a-set-02-q04": {
+    "correctOption": "-4/9",
+    "explanation": "|a|=3, |b|=3, তাই cosθ=(a·b)/(|a||b|)= -4/9।"
+  },
+  "hsc-higher-math-1st-paper-tier-a-set-02-q05": {
+    "correctOption": "3cos3x",
+    "explanation": "chain rule: d(sin u)/dx=cosu·du/dx।"
+  },
+  "hsc-higher-math-1st-paper-tier-a-set-02-q06": {
+    "correctOption": "(1/2)e^{2x}+C",
+    "explanation": "∫e^{ax}dx=e^{ax}/a + C।"
+  },
+  "hsc-higher-math-1st-paper-tier-a-set-02-q07": {
+    "correctOption": "5",
+    "explanation": "দূরত্ব = √[(4-1)²+(6-2)²]=5।"
+  },
+  "hsc-higher-math-1st-paper-tier-a-set-02-q08": {
+    "correctOption": "1",
+    "explanation": "ঢাল m=tanθ=tan45°=1।"
+  },
+  "hsc-higher-math-1st-paper-tier-a-set-02-q09": {
+    "correctOption": "(x+2)²+(y-3)²=16",
+    "explanation": "বৃত্তের standard form: (x-h)²+(y-k)²=r²।"
+  },
+  "hsc-higher-math-1st-paper-tier-a-set-02-q10": {
+    "correctOption": "42",
+    "explanation": "⁷P₂=7×6=42।"
+  },
+  "hsc-higher-math-1st-paper-tier-a-set-02-q11": {
+    "correctOption": "56",
+    "explanation": "⁸C₃=8!/(3!5!)=56।"
+  },
+  "hsc-higher-math-1st-paper-tier-a-set-02-q12": {
+    "correctOption": "logₐx + logₐy",
+    "explanation": "গুণফলের logarithm যোগফল হয়।"
+  },
+  "hsc-higher-math-1st-paper-tier-a-set-02-q13": {
+    "correctOption": "(tanA+tanB)/(1-tanA tanB)",
+    "explanation": "এটি compound angle formula।"
+  },
+  "hsc-higher-math-1st-paper-tier-a-set-02-q14": {
+    "correctOption": "0",
+    "explanation": "f'(x)=3x²-3, তাই f'(1)=0।"
+  },
+  "hsc-higher-math-1st-paper-tier-a-set-02-q15": {
+    "correctOption": "i, ii ও iii",
+    "explanation": "linear system সমাধানে determinant central role পালন করে।"
+  },
+  "hsc-higher-math-1st-paper-tier-a-set-02-q16": {
+    "correctOption": "i ও ii",
+    "explanation": "cross product anti-commutative: a×b=-(b×a)।"
+  },
+  "hsc-higher-math-1st-paper-tier-a-set-02-q17": {
+    "correctOption": "i ও ii",
+    "explanation": "f'(x)=0 হলে স্পর্শক horizontal হয়, vertical নয়।"
+  },
+  "hsc-higher-math-1st-paper-tier-a-set-02-q18": {
+    "correctOption": "i ও ii",
+    "explanation": "order irrelevant হলে combination ব্যবহার হয়।"
+  },
+  "hsc-higher-math-1st-paper-tier-a-set-02-q19": {
+    "correctOption": "i ও ii",
+    "explanation": "logarithm-এ argument 0 হতে পারে না।"
+  },
+  "hsc-higher-math-1st-paper-tier-a-set-02-q20": {
+    "correctOption": "i ও ii",
+    "explanation": "integration by parts সব ধরনের সমাকলনের universal substitute নয়।"
+  },
+  "hsc-higher-math-1st-paper-tier-a-set-02-q21": {
+    "correctOption": "1",
+    "explanation": "factorial definition অনুযায়ী 0!=1।"
+  },
+  "hsc-higher-math-1st-paper-tier-a-set-02-q22": {
+    "correctOption": "k গুণ হয়",
+    "explanation": "একটি মাত্র row/column k দ্বারা গুণ করলে determinant k গুণ হয়।"
+  },
+  "hsc-higher-math-1st-paper-tier-a-set-02-q23": {
+    "correctOption": "অসংজ্ঞায়িত",
+    "explanation": "vertical line-এ run=0, তাই slope undefined।"
+  },
+  "hsc-higher-math-1st-paper-tier-a-set-02-q24": {
+    "correctOption": "লম্ব",
+    "explanation": "a·b=|a||b|cosθ=0 ⇒ θ=90°।"
+  },
+  "hsc-higher-math-1st-paper-tier-a-set-02-q25": {
+    "correctOption": "nCₙ₋ᵣ",
+    "explanation": "Combination-এর symmetry: nCᵣ=nCₙ₋ᵣ।"
+  }
+}

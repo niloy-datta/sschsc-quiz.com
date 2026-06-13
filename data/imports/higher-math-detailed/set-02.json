@@ -1,0 +1,249 @@
+{
+  "set_number": 2,
+  "questions": [
+    {
+      "question_no": 1,
+      "stem": "উদ্দীপক: দুটি ভেক্টর $\\vec{A} = 2\\hat{i} + a\\hat{j} + \\hat{k}$ এবং $\\vec{B} = 4\\hat{i} - 2\\hat{j} - 2\\hat{k}$।",
+      "question": "$a$ এর মান কত হলে ভেক্টরদ্বয় পরস্পর লম্ব হবে?",
+      "options": { "ক": "$2$", "খ": "$3$", "গ": "$4$", "ঘ": "$5$" },
+      "correct_option": "খ",
+      "explanation": "লম্ব হওয়ার শর্ত $\\vec{A} \\cdot \\vec{B} = 0$। $(2)(4) + (a)(-2) + (1)(-2) = 0 \\Rightarrow 8 - 2a - 2 = 0 \\Rightarrow a = 3$।",
+      "topic": "Vector",
+      "probability": "Board Favourite"
+    },
+    {
+      "question_no": 2,
+      "stem": "উদ্দীপক: দুটি ভেক্টর $\\vec{A} = 2\\hat{i} + a\\hat{j} + \\hat{k}$ এবং $\\vec{B} = 4\\hat{i} - 2\\hat{j} - 2\\hat{k}$।",
+      "question": "$\\vec{A}$ ও $\\vec{B}$ সমান্তরাল হলে $a$ এর মান কত?",
+      "options": { "ক": "$-1$", "খ": "$1$", "গ": "$2$", "ঘ": "$-2$" },
+      "correct_option": "ক",
+      "explanation": "সমান্তরাল হওয়ার শর্ত $\\frac{2}{4} = \\frac{a}{-2} = \\frac{1}{-2}$। এখান থেকে $\\frac{a}{-2} = \\frac{1}{2} \\Rightarrow a = -1$।",
+      "topic": "Vector",
+      "probability": "Mega Hot"
+    },
+    {
+      "question_no": 3,
+      "stem": "উদ্দীপক: দুটি ফাংশন $f(x) = \\sin x$ এবং $g(x) = \\cos x$।",
+      "question": "$\\int_0^{\\pi/2} f(x)g(x) \\, dx$ এর মান কত?",
+      "options": { "ক": "$0$", "খ": "$\\frac{1}{2}$", "গ": "$1$", "ঘ": "$2$" },
+      "correct_option": "খ",
+      "explanation": "$\\int \\sin x \\cos x \\, dx = \\frac{1}{2} \\int \\sin 2x \\, dx$। ইন্টিগ্রেশন করে লিমিট বসালে উত্তর $\\frac{1}{2}$।",
+      "topic": "Integral Calculus",
+      "probability": "Mega Hot"
+    },
+    {
+      "question_no": 4,
+      "stem": "উদ্দীপক: দুটি ফাংশন $f(x) = \\sin x$ এবং $g(x) = \\cos x$।",
+      "question": "$f(x) + g(x)$ এর সর্বোচ্চ মান কত?",
+      "options": { "ক": "$1$", "খ": "$\\sqrt{2}$", "গ": "$2$", "ঘ": "$0$" },
+      "correct_option": "খ",
+      "explanation": "$\\sin x + \\cos x$ এর সর্বোচ্চ মান $\\sqrt{1^2 + 1^2} = \\sqrt{2}$।",
+      "topic": "Trigonometry",
+      "probability": "Very Hot"
+    },
+    {
+      "question_no": 5,
+      "question": "$y = \\ln(\\sqrt{x})$ হলে $\\frac{dy}{dx}$ এর মান কত?",
+      "options": { "ক": "$\\frac{1}{x}$", "খ": "$\\frac{1}{2x}$", "গ": "$\\frac{2}{x}$", "ঘ": "$-\\frac{1}{x}$" },
+      "correct_option": "খ",
+      "explanation": "$y = \\ln(x^{1/2}) = \\frac{1}{2}\\ln x$। সুতরাং $\\frac{dy}{dx} = \\frac{1}{2} \\cdot \\frac{1}{x} = \\frac{1}{2x}$।",
+      "topic": "Differential Calculus",
+      "probability": "Board Favourite"
+    },
+    {
+      "question_no": 6,
+      "question": "$x^2 + y^2 - 8x + 10y - 12 = 0$ বৃত্তের $y$-অক্ষের খণ্ডিতাংশের দৈর্ঘ্য কত?",
+      "options": { "ক": "$2\\sqrt{37}$", "খ": "$\\sqrt{37}$", "গ": "$2\\sqrt{13}$", "ঘ": "$4\\sqrt{37}$" },
+      "correct_option": "ক",
+      "explanation": "$y$-অক্ষের খণ্ডিতাংশ $= 2\\sqrt{f^2 - c}$। এখানে $f = 5, c = -12$। $2\\sqrt{25 - (-12)} = 2\\sqrt{37}$।",
+      "topic": "Circle",
+      "probability": "Mega Hot"
+    },
+    {
+      "question_no": 7,
+      "question": "$(3, 4)$ বিন্দু হতে $4x - 3y + 5 = 0$ রেখার লম্ব দূরত্ব কত?",
+      "options": { "ক": "$1$", "খ": "$2$", "গ": "$3$", "ঘ": "$5$" },
+      "correct_option": "ক",
+      "explanation": "দূরত্ব $d = \\frac{|4(3) - 3(4) + 5|}{\\sqrt{4^2 + (-3)^2}} = \\frac{|12 - 12 + 5|}{5} = \\frac{5}{5} = 1$।",
+      "topic": "Straight Line",
+      "probability": "Very Hot"
+    },
+    {
+      "question_no": 8,
+      "question": "$\\lim_{x \\to 0} \\frac{e^x - 1}{x}$ এর মান কত?",
+      "options": { "ক": "$0$", "খ": "$1$", "গ": "$e$", "ঘ": "$-1$" },
+      "correct_option": "খ",
+      "explanation": "এটি লিমিটের একটি আদর্শ সূত্র। L'Hopital's Rule ব্যবহার করলেও $\\frac{e^x}{1} = e^0 = 1$ পাওয়া যায়।",
+      "topic": "Differential Calculus",
+      "probability": "Board Favourite"
+    },
+    {
+      "question_no": 9,
+      "question": "'ENGINEERING' শব্দটির বর্ণগুলোকে কতভাবে সাজানো যায়?",
+      "options": {
+        "ক": "$\\frac{11!}{3!3!2!2!}$",
+        "খ": "$\\frac{11!}{3!}$",
+        "গ": "$11!$",
+        "ঘ": "$\\frac{11!}{3!2!}$"
+      },
+      "correct_option": "ক",
+      "explanation": "মোট ১১টি বর্ণ। এর মধ্যে E=3টি, N=3টি, G=2টি, I=2টি। বিন্যাস সংখ্যা = $\\frac{11!}{3!3!2!2!}$।",
+      "topic": "Permutation and Combination",
+      "probability": "Mega Hot"
+    },
+    {
+      "question_no": 10,
+      "question": "$\\int \\frac{1}{1+x^2} \\, dx$ এর সমাকলিত রূপ কোনটি?",
+      "options": { "ক": "$\\tan^{-1} x + c$", "খ": "$\\cot^{-1} x + c$", "গ": "$\\sin^{-1} x + c$", "ঘ": "$\\sec^{-1} x + c$" },
+      "correct_option": "ক",
+      "explanation": "এটি সরাসরি আদর্শ সমাকলন সূত্র। $\\int \\frac{1}{1+x^2} dx = \\tan^{-1} x + c$।",
+      "topic": "Integral Calculus",
+      "probability": "Board Favourite"
+    },
+    {
+      "question_no": 11,
+      "question": "$x - y + 2 = 0$ এবং $x + y - 4 = 0$ রেখাদ্বয়ের মধ্যবর্তী কোণ কত?",
+      "options": { "ক": "$0^\\circ$", "খ": "$30^\\circ$", "গ": "$60^\\circ$", "ঘ": "$90^\\circ$" },
+      "correct_option": "ঘ",
+      "explanation": "প্রথম রেখার ঢাল $m_1 = 1$, ২য় রেখার ঢাল $m_2 = -1$। $m_1 \\times m_2 = -1$ হওয়ায় তারা পরস্পর লম্ব ($90^\\circ$)।",
+      "topic": "Straight Line",
+      "probability": "Mega Hot Shortcut"
+    },
+    {
+      "question_no": 12,
+      "question": "$\\begin{vmatrix} 1 & \\omega & \\omega^2 \\\\ \\omega & \\omega^2 & 1 \\\\ \\omega^2 & 1 & \\omega \\end{vmatrix}$ এর মান কত?",
+      "options": { "ক": "$0$", "খ": "$1$", "গ": "$\\omega$", "ঘ": "$\\omega^2$" },
+      "correct_option": "ক",
+      "explanation": "প্রথম কলামে সবগুলো কলাম যোগ করলে প্রতিটি উপাদান $(1+\\omega+\\omega^2)=0$ হয়। ফলে নির্ণায়কের মান 0।",
+      "topic": "Matrix",
+      "probability": "Very Hot"
+    },
+    {
+      "question_no": 13,
+      "question": "$\\vec{a} = 3\\hat{i} - 3\\hat{j}$ ভেক্টরটি $x$-অক্ষের ধনাত্মক দিকের সাথে কত কোণ তৈরি করে?",
+      "options": { "ক": "$45^\\circ$", "খ": "$135^\\circ$", "গ": "$225^\\circ$", "ঘ": "$315^\\circ$" },
+      "correct_option": "ঘ",
+      "explanation": "$x=3, y=-3$ (চতুর্থ চতুর্ভাগ)। $\\theta = 360^\\circ - \\tan^{-1}(|\\frac{-3}{3}|) = 360^\\circ - 45^\\circ = 315^\\circ$।",
+      "topic": "Vector",
+      "probability": "Conceptual Trap"
+    },
+    {
+      "question_no": 14,
+      "question": "$x = a\\cos\\theta$ এবং $y = a\\sin\\theta$ বক্ররেখার $\\frac{dy}{dx}$ কত?",
+      "options": { "ক": "$\\tan\\theta$", "খ": "$-\\cot\\theta$", "গ": "$\\cot\\theta$", "ঘ": "$-\\tan\\theta$" },
+      "correct_option": "খ",
+      "explanation": "$\\frac{dy}{d\\theta} = a\\cos\\theta$, $\\frac{dx}{d\\theta} = -a\\sin\\theta$। $\\frac{dy}{dx} = \\frac{a\\cos\\theta}{-a\\sin\\theta} = -\\cot\\theta$।",
+      "topic": "Differential Calculus",
+      "probability": "Board Favourite"
+    },
+    {
+      "question_no": 15,
+      "question": "ম্যাট্রিক্স ও নির্ণায়কের ক্ষেত্রে—\ni. $|A^T| = |A|$\nii. $|AB| = |A||B|$\niii. অভেদক ম্যাট্রিক্সের নির্ণায়কের মান ১\n\nনিচের কোনটি সঠিক?",
+      "options": { "ক": "i ও ii", "খ": "i ও iii", "গ": "ii ও iii", "ঘ": "i, ii ও iii" },
+      "correct_option": "ঘ",
+      "explanation": "প্রদত্ত তিনটি তথ্যই নির্ণায়কের মৌলিক ধর্ম।",
+      "topic": "Matrix",
+      "probability": "Board Favourite"
+    },
+    {
+      "question_no": 16,
+      "question": "ভেক্টরের ক্ষেত্রে—\ni. $\\vec{A} \\cdot \\vec{B} = \\vec{B} \\cdot \\vec{A}$\nii. $\\vec{A} \\times \\vec{B} = -(\\vec{B} \\times \\vec{A})$\niii. $\\vec{A} \\cdot (\\vec{A} \\times \\vec{B}) = 0$\n\nনিচের কোনটি সঠিক?",
+      "options": { "ক": "i ও ii", "খ": "i ও iii", "গ": "ii ও iii", "ঘ": "i, ii ও iii" },
+      "correct_option": "ঘ",
+      "explanation": "ডট গুণন বিনিময়বিধি মেনে চলে, ক্রস গুণন মানে না। ক্রস গুণনের লম্ব ভেক্টরের সাথে ডট গুণন শূন্য হয়।",
+      "topic": "Vector",
+      "probability": "Very Hot"
+    },
+    {
+      "question_no": 17,
+      "question": "অন্তরীকরণের ক্ষেত্রে—\ni. $\\frac{d}{dx}(x^n) = nx^{n-1}$\nii. $\\frac{d}{dx}(e^x) = e^x$\niii. $\\frac{d}{dx}(\\ln x) = \\frac{1}{x}$\n\nনিচের কোনটি সঠিক?",
+      "options": { "ক": "i ও ii", "খ": "i ও iii", "গ": "ii ও iii", "ঘ": "i, ii ও iii" },
+      "correct_option": "ঘ",
+      "explanation": "তিনটিই অন্তরীকরণের মৌলিক সূত্র।",
+      "topic": "Differential Calculus",
+      "probability": "Board Favourite"
+    },
+    {
+      "question_no": 18,
+      "question": "সমাকলনের ক্ষেত্রে—\ni. $\\int \\frac{1}{x} \\, dx = \\ln|x|$\nii. $\\int e^x \\, dx = e^x$\niii. $\\int \\sin x \\, dx = -\\cos x$\n\nনিচের কোনটি সঠিক?",
+      "options": { "ক": "i ও ii", "খ": "i ও iii", "গ": "ii ও iii", "ঘ": "i, ii ও iii" },
+      "correct_option": "ঘ",
+      "explanation": "তিনটিই সমাকলনের মৌলিক সূত্র (অনির্দিষ্ট সমাকলন ধ্রুবক $C$ বাদে)।",
+      "topic": "Integral Calculus",
+      "probability": "Board Favourite"
+    },
+    {
+      "question_no": 19,
+      "question": "সরলরেখার ক্ষেত্রে—\ni. দুটি রেখা সমান্তরাল হলে $m_1 = m_2$\nii. দুটি রেখা লম্ব হলে $m_1 m_2 = -1$\niii. $x$-অক্ষের সমীকরণ $y=0$\n\nনিচের কোনটি সঠিক?",
+      "options": { "ক": "i ও ii", "খ": "i ও iii", "গ": "ii ও iii", "ঘ": "i, ii ও iii" },
+      "correct_option": "ঘ",
+      "explanation": "সমান্তরাল, লম্ব ও অক্ষের সমীকরণ সম্পর্কিত এই শর্তগুলো সঠিক।",
+      "topic": "Straight Line",
+      "probability": "Board Favourite"
+    },
+    {
+      "question_no": 20,
+      "question": "ত্রিকোণমিতিক সমীকরণের ক্ষেত্রে—\ni. $\\sin x = 0$ হলে $x = n\\pi$\nii. $\\cos x = 0$ হলে $x = (2n+1)\\frac{\\pi}{2}$\niii. $\\tan x = 0$ হলে $x = n\\pi$\n\nনিচের কোনটি সঠিক?",
+      "options": { "ক": "i ও ii", "খ": "i ও iii", "গ": "ii ও iii", "ঘ": "i, ii ও iii" },
+      "correct_option": "ঘ",
+      "explanation": "সাধারণ সমাধানের এই তিনটি সূত্রই একদম সঠিক।",
+      "topic": "Trigonometry",
+      "probability": "Board Favourite"
+    },
+    {
+      "question_no": 21,
+      "question": "$\\int_{-\\pi/2}^{\\pi/2} \\sin^5 x \\, dx$ এর মান কত?",
+      "options": { "ক": "$0$", "খ": "$1$", "গ": "$\\pi$", "ঘ": "$\\frac{\\pi}{2}$" },
+      "correct_option": "ক",
+      "explanation": "$f(x) = \\sin^5 x$ একটি অযুগ্ম ফাংশন (Odd Function)। তাই $\\int_{-a}^a f(x) dx = 0$।",
+      "topic": "Integral Calculus",
+      "probability": "Conceptual Trap"
+    },
+    {
+      "question_no": 22,
+      "question": "$3x + 4y - 5 = 0$ এবং $3x + 4y + 15 = 0$ সমান্তরাল রেখাদ্বয়ের মধ্যবর্তী দূরত্ব কত?",
+      "options": { "ক": "$4$", "খ": "$5$", "গ": "$20$", "ঘ": "$2$" },
+      "correct_option": "ক",
+      "explanation": "দূরত্ব $= \\frac{|c_1 - c_2|}{\\sqrt{a^2 + b^2}} = \\frac{|15 - (-5)|}{\\sqrt{3^2 + 4^2}} = \\frac{20}{5} = 4$।",
+      "topic": "Straight Line",
+      "probability": "Mega Hot Shortcut"
+    },
+    {
+      "question_no": 23,
+      "question": "$A = \\begin{pmatrix} 1 & 2 \\\\ 3 & 4 \\end{pmatrix}$ ম্যাট্রিক্সের Adjoint ম্যাট্রিক্স কোনটি?",
+      "options": {
+        "ক": "$\\begin{pmatrix} 4 & -2 \\\\ -3 & 1 \\end{pmatrix}$",
+        "খ": "$\\begin{pmatrix} -4 & 2 \\\\ 3 & -1 \\end{pmatrix}$",
+        "গ": "$\\begin{pmatrix} 1 & -2 \\\\ -3 & 4 \\end{pmatrix}$",
+        "ঘ": "$\\begin{pmatrix} 4 & 3 \\\\ 2 & 1 \\end{pmatrix}$"
+      },
+      "correct_option": "ক",
+      "explanation": "$2 \\times 2$ ম্যাট্রিক্সের Adjoint বের করার শর্টকাট: প্রধান কর্ণের ভুক্তি বদলাবে, গৌণ কর্ণের চিহ্ন বদলাবে।",
+      "topic": "Matrix",
+      "probability": "Mega Hot Shortcut"
+    },
+    {
+      "question_no": 24,
+      "question": "$\\lim_{x \\to \\infty} \\frac{\\sin x}{x}$ এর মান কত?",
+      "options": { "ক": "$0$", "খ": "$1$", "গ": "$\\infty$", "ঘ": "অসংজ্ঞায়িত" },
+      "correct_option": "ক",
+      "explanation": "যেহেতু $-1 \\leq \\sin x \\leq 1$, তাই $x \\to \\infty$ এর জন্য $\\frac{\\text{সীমাবদ্ধ মান}}{\\infty} = 0$। (এটি Limit $x\\to0$ এর ফাঁদ)।",
+      "topic": "Differential Calculus",
+      "probability": "Conceptual Trap"
+    },
+    {
+      "question_no": 25,
+      "question": "$\\sin(\\cot^{-1} x)$ এর মান নিচের কোনটি?",
+      "options": {
+        "ক": "$\\frac{1}{\\sqrt{1+x^2}}$",
+        "খ": "$\\frac{x}{\\sqrt{1+x^2}}$",
+        "গ": "$\\sqrt{1+x^2}$",
+        "ঘ": "$x$"
+      },
+      "correct_option": "ক",
+      "explanation": "ধরি $\\cot^{-1} x = \\theta \\Rightarrow \\cot \\theta = x = \\frac{x}{1}$। অতিভুজ $=\\sqrt{x^2+1}$। $\\sin\\theta = \\frac{\\text{লম্ব}}{\\text{অতিভুজ}} = \\frac{1}{\\sqrt{1+x^2}}$।",
+      "topic": "Trigonometry",
+      "probability": "Conceptual Trap"
+    }
+  ]
+}

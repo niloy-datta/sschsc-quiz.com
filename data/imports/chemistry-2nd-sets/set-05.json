@@ -1,0 +1,256 @@
+{
+  "setNumber": 5,
+  "subject": "Chemistry 2nd Paper",
+  "questions": [
+    {
+      "questionNumber": 1,
+      "passage": "একটি হাইড্রোকার্বন (X) C₄H₈, যা ব্রোমিন জল রংহীন করে এবং O₃ দ্বারা জারিত হয়ে শুধুমাত্র একটি কার্বনিল যৌগ উৎপন্ন করে।",
+      "questionText": "(X) কী?",
+      "options": ["ক) বিউট-1-ইন", "খ) বিউট-2-ইন", "গ) সাইক্লোবিউটেন", "ঘ) 2-মিথাইলপ্রোপিন"],
+      "correctOption": "গ",
+      "explanation": "C₄H₈, ব্রোমিন জল রংহীন করে (অসম্পৃক্ত/সাইক্লো?)। ওজোনোলাইসিসে একটিমাত্র কার্বনিল উৎপন্ন → প্রতিসম অ্যালকিন বা সাইক্লোঅ্যালকেন। সাইক্লোবিউটেন ওজোনোলাইসিসে শুধুমাত্র একটি ডাইঅ্যালডিহাইড দেয়। কিন্তু অ্যালকিন সাইক্লিক নয়? C₄H₈ অ্যালকিন বিউট-2-ইন (CH₃CH=CHCH₃) ওজোনোলাইসিসে ২ অণু CH₃CHO (একই কার্বনিল) দেয়; বিউট-1-ইন দিলে CH₃CH₂CHO + HCHO, ভিন্ন। তাই প্রশ্ন অনুযায়ী একটিমাত্র কার্বনিল যৌগ -> একই উৎপাদ। বিউট-2-ইন ওজোনোলাইসিসে দুটি অ্যাসিটালডিহাইড (একই ধরনের কার্বনিল, কিন্তু যৌগ একাধিক অণু, তবে শুধুমাত্র একটি কার্বনিল যৌগ প্রজাতি)। উত্তরে সাইক্লোবিউটেন দিলে ১টি ডাইঅ্যালডিহাইড (সাকসিনালডিহাইড) যা একটিমাত্র যৌগ। তবে অ্যালকিন বিউট-2-ইন দিলেও একটিমাত্র প্রজাতি (অ্যাসিটালডিহাইড)। বোর্ড প্রেক্ষিতে: সাইক্লোবিউটেন সাইক্লোঅ্যালকেন, Br₂ জল রংহীন করে না (সম্পৃক্ত)। তাই হবে না। তাহলে বিউট-2-ইন (অসম্পৃক্ত) Br₂ রংহীন করে, ওজোনোলাইসিসে ২ অণু CH₃CHO (একই প্রজাতি)। তাই উত্তর বিউট-2-ইন।",
+      "topic": "জৈব রসায়ন (অ্যালকিন)",
+      "probability": "Mega Hot"
+    },
+    {
+      "questionNumber": 2,
+      "passage": "উপরের যৌগটির ওজোনোলাইসিসে প্রাপ্ত কার্বনিল যৌগ—",
+      "questionText": "এটি কোন বিকারক দ্বারা শনাক্ত করা যায়?",
+      "options": ["ক) টলেন বিকারক", "খ) ফেহলিং দ্রবণ", "গ) NaHSO₃", "ঘ) উপরের সবগুলি"],
+      "correctOption": "ঘ",
+      "explanation": "অ্যাসিটালডিহাইড টলেন ও ফেহলিং দ্রবণ জারিত করে, NaHSO₃ এর সাথে কেলাসিত যৌগ গঠন করে।",
+      "topic": "জৈব রসায়ন (শনাক্তকরণ)",
+      "probability": "Very Hot"
+    },
+    {
+      "questionNumber": 3,
+      "passage": "একটি শিল্প বর্জ্যে 100 ppm Pb²⁺ আয়ন আছে। 1 লিটার বর্জ্য থেকে Pb²⁺ অপসারণে 0.1 M Na₂CO₃ দ্রবণের কত mL প্রয়োজন? (Pb=207)",
+      "questionText": "প্রয়োজনীয় Na₂CO₃ এর আয়তন কত?",
+      "options": ["ক) 4.83 mL", "খ) 48.3 mL", "গ) 10 mL", "ঘ) 2.4 mL"],
+      "correctOption": "ক",
+      "explanation": "100 ppm Pb²⁺ = 100 mg/L। Pb²⁺ মোল = 0.1/207 ≈ 4.83×10⁻⁴ mol। Pb²⁺ + CO₃²⁻ → PbCO₃। প্রয়োজন CO₃²⁻ = 4.83×10⁻⁴ mol। Na₂CO₃ 0.1M → V = mol/M = 4.83×10⁻³ L = 4.83 mL।",
+      "topic": "পরিবেশ রসায়ন (পানি দূষণ)",
+      "probability": "Mega Hot"
+    },
+    {
+      "questionNumber": 4,
+      "passage": "Pb²⁺ অপসারণে Na₂CO₃ এর পরিবর্তে NaOH ব্যবহার করা যায় কি?",
+      "questionText": "NaOH যোগে কোন যৌগ অধঃক্ষিপ্ত হয়?",
+      "options": ["ক) Pb(OH)₂", "খ) PbO", "গ) PbCO₃", "ঘ) Pb(OH)₄"],
+      "correctOption": "ক",
+      "explanation": "Pb²⁺ + 2OH⁻ → Pb(OH)₂↓ (সাদা) যা অ্যামফোটেরিক।",
+      "topic": "পরিবেশ রসায়ন",
+      "probability": "Very Hot"
+    },
+    {
+      "questionNumber": 5,
+      "passage": null,
+      "questionText": "বেনজিনে ক্লোরিনের উপস্থিতিতে FeCl₃ যোগে কী উৎপন্ন?",
+      "options": ["ক) ক্লোরোবেনজিন", "খ) BHC", "গ) গ্যামেক্সিন", "ঘ) বেনজিন হেক্সাক্লোরাইড"],
+      "correctOption": "ক",
+      "explanation": "FeCl₃ উপস্থিতিতে Cl₂ → ইলেকট্রোফিলিক প্রতিস্থাপন → ক্লোরোবেনজিন।",
+      "topic": "জৈব রসায়ন (বেনজিন)",
+      "probability": "Mega Hot"
+    },
+    {
+      "questionNumber": 6,
+      "passage": null,
+      "questionText": "ইথানলের সাথে সোডিয়ামের বিক্রিয়ায় কী উৎপন্ন?",
+      "options": ["ক) H₂ গ্যাস", "খ) O₂ গ্যাস", "গ) CO₂", "ঘ) C₂H₄"],
+      "correctOption": "ক",
+      "explanation": "2C₂H₅OH + 2Na → 2C₂H₅ONa + H₂↑।",
+      "topic": "জৈব রসায়ন (অ্যালকোহল)",
+      "probability": "Board Favourite"
+    },
+    {
+      "questionNumber": 7,
+      "passage": null,
+      "questionText": "বেনজোইক অ্যাসিডের সাথে NaOH এর বিক্রিয়ায় যে লবণ গঠিত হয় তার নাম—",
+      "options": ["ক) সোডিয়াম ফেনক্সাইড", "খ) সোডিয়াম বেনজোয়েট", "গ) সোডিয়াম ইথানয়েট", "ঘ) সোডিয়াম ফরমেট"],
+      "correctOption": "খ",
+      "explanation": "C₆H₅COOH + NaOH → C₆H₅COONa + H₂O।",
+      "topic": "জৈব রসায়ন (অ্যাসিড)",
+      "probability": "Board Favourite"
+    },
+    {
+      "questionNumber": 8,
+      "passage": null,
+      "questionText": "কোন যৌগটি NH₃ এর সাথে ফরমালডিহাইডের ঘনীভবনে উৎপন্ন হয়?",
+      "options": ["ক) ইউরিয়া", "খ) ইউরোট্রপিন", "গ) অ্যানিলিন", "ঘ) বেনজামাইড"],
+      "correctOption": "খ",
+      "explanation": "6HCHO + 4NH₃ → (CH₂)₆N₄ (হেক্সামিন, ইউরোট্রপিন) + 6H₂O।",
+      "topic": "জৈব রসায়ন (অ্যামিন)",
+      "probability": "Very Hot"
+    },
+    {
+      "questionNumber": 9,
+      "passage": null,
+      "questionText": "ফ্রেয়ন-12 এর সংকেত—",
+      "options": ["ক) CCl₂F₂", "খ) CHClF₂", "গ) CCl₃F", "ঘ) CFCl₃"],
+      "correctOption": "ক",
+      "explanation": "CCl₂F₂ ডাইক্লোরোডাইফ্লুরোমিথেন।",
+      "topic": "পরিবেশ রসায়ন",
+      "probability": "Board Favourite"
+    },
+    {
+      "questionNumber": 10,
+      "passage": null,
+      "questionText": "কোন পরীক্ষাটি প্রাইমারি, সেকেন্ডারি ও টারশিয়ারি অ্যালকোহল পৃথক করে?",
+      "options": ["ক) আয়োডোফর্ম", "খ) লুকাস পরীক্ষা", "গ) টলেন", "ঘ) ফেহলিং"],
+      "correctOption": "খ",
+      "explanation": "লুকাস বিকারক (ZnCl₂/HCl) দিয়ে অ্যালকোহলের বিক্রিয়ার হার পৃথক।",
+      "topic": "জৈব রসায়ন (অ্যালকোহল)",
+      "probability": "Very Hot"
+    },
+    {
+      "questionNumber": 11,
+      "passage": null,
+      "questionText": "বেনজিনের ক্লোরোমিথাইলেশন বিক্রিয়ায় কোন বিকারক?",
+      "options": ["ক) HCHO + HCl + ZnCl₂", "খ) CH₃Cl + AlCl₃", "গ) CO + HCl", "ঘ) CCl₄ + HF"],
+      "correctOption": "ক",
+      "explanation": "C₆H₆ + HCHO + HCl → C₆H₅CH₂Cl + H₂O (ZnCl₂ সহযোগে)।",
+      "topic": "জৈব রসায়ন (বেনজিন)",
+      "probability": "Mega Hot"
+    },
+    {
+      "questionNumber": 12,
+      "passage": null,
+      "questionText": "কোন পলিমারটি প্রাকৃতিক রাবার?",
+      "options": ["ক) পলিসোপ্রিন", "খ) নিওপ্রিন", "গ) বিউনা-S", "ঘ) বুনা-N"],
+      "correctOption": "ক",
+      "explanation": "প্রাকৃতিক রাবার সিস-1,4-পলিসোপ্রিন।",
+      "topic": "পলিমার",
+      "probability": "Board Favourite"
+    },
+    {
+      "questionNumber": 13,
+      "passage": null,
+      "questionText": "গাঁজন প্রক্রিয়ায় গ্লুকোজ থেকে ইথানল উৎপাদনে কোন উৎসেচক?",
+      "options": ["ক) জাইমেজ", "খ) ইনভার্টেজ", "গ) মল্টেজ", "ঘ) ইউরিয়েজ"],
+      "correctOption": "ক",
+      "explanation": "জাইমেজ এনজাইম গ্লুকোজ → ইথানল + CO₂।",
+      "topic": "জৈব রসায়ন (গাঁজন)",
+      "probability": "Very Hot"
+    },
+    {
+      "questionNumber": 14,
+      "passage": null,
+      "questionText": "কৃত্তিম মিষ্টিকারক স্যাকারিন কোন যৌগ?",
+      "options": ["ক) অর্থো-সালফোবেনজোইক অ্যাসিডের ইমাইড", "খ) সুক্রোজ", "গ) গ্লুকোজ", "ঘ) ফ্রুক্টোজ"],
+      "correctOption": "ক",
+      "explanation": "স্যাকারিন = অর্থো-সালফোবেনজোয়িক অ্যাসিড ইমাইড।",
+      "topic": "জৈব রসায়ন (খাদ্য সংযোজন)",
+      "probability": "Board Favourite"
+    },
+    {
+      "questionNumber": 15,
+      "passage": null,
+      "questionText": "বেনজিনের ডেরাইভেটিভ— i. ক্লোরোবেনজিন ii. বেনজোয়িক অ্যাসিড iii. সাইক্লোহেক্সেন নিচের কোনটি সঠিক?",
+      "options": ["ক) i ও ii", "খ) i ও iii", "গ) ii ও iii", "ঘ) i, ii ও iii"],
+      "correctOption": "ক",
+      "explanation": "সাইক্লোহেক্সেন সম্পৃক্ত, বেনজিন থেকে বিজারণে প্রাপ্ত কিন্তু অ্যারোমেটিক নয়। i ও ii বেনজিন ডেরাইভেটিভ।",
+      "topic": "জৈব রসায়ন (বেনজিন)",
+      "probability": "Board Favourite"
+    },
+    {
+      "questionNumber": 16,
+      "passage": null,
+      "questionText": "অ্যালকিনের পলিমারকরণ— i. পলিথিন উৎপন্ন করে ii. সংযোজন পলিমার iii. উচ্চ তাপ ও চাপ প্রয়োজন নিচের কোনটি সঠিক?",
+      "options": ["ক) i ও ii", "খ) i ও iii", "গ) ii ও iii", "ঘ) i, ii ও iii"],
+      "correctOption": "ঘ",
+      "explanation": "সবগুলি সঠিক।",
+      "topic": "পলিমার",
+      "probability": "Very Hot"
+    },
+    {
+      "questionNumber": 17,
+      "passage": null,
+      "questionText": "ফেনল— i. অম্লীয় ii. FeCl₃ এর সাথে বেগুনি বর্ণ দেয় iii. Br₂ জলের সাথে সাদা অধঃক্ষেপ দেয় নিচের কোনটি সঠিক?",
+      "options": ["ক) i ও ii", "খ) i ও iii", "গ) ii ও iii", "ঘ) i, ii ও iii"],
+      "correctOption": "ঘ",
+      "explanation": "তিনটিই সঠিক। ফেনল + Br₂ → 2,4,6-ট্রাইব্রোমোফেনল (সাদা)।",
+      "topic": "জৈব রসায়ন (ফেনল)",
+      "probability": "Mega Hot"
+    },
+    {
+      "questionNumber": 18,
+      "passage": null,
+      "questionText": "পানির স্থায়ী খরতা— i. CaCl₂ ও MgSO₄ দ্বারা সৃষ্ট ii. ফুটালে দূর হয় না iii. আয়ন বিনিময় পদ্ধতিতে দূর করা যায় নিচের কোনটি সঠিক?",
+      "options": ["ক) i ও ii", "খ) i ও iii", "গ) ii ও iii", "ঘ) i, ii ও iii"],
+      "correctOption": "ঘ",
+      "explanation": "সবগুলি সঠিক।",
+      "topic": "পরিবেশ রসায়ন",
+      "probability": "Very Hot"
+    },
+    {
+      "questionNumber": 19,
+      "passage": null,
+      "questionText": "অ্যালকোহল থেকে ইথার উৎপাদন— i. আন্তঃআণবিক পানিবিয়োজন ii. H₂SO₄ 140°C iii. উইলিয়ামসন সংশ্লেষণ নিচের কোনটি সঠিক?",
+      "options": ["ক) i ও ii", "খ) i ও iii", "গ) ii ও iii", "ঘ) i, ii ও iii"],
+      "correctOption": "ঘ",
+      "explanation": "ইথার প্রস্তুতির তিনটি পদ্ধতিই সঠিক।",
+      "topic": "জৈব রসায়ন (ইথার)",
+      "probability": "Board Favourite"
+    },
+    {
+      "questionNumber": 20,
+      "passage": null,
+      "questionText": "নাইট্রোজেনঘটিত সার— i. ইউরিয়া ii. অ্যামোনিয়াম নাইট্রেট iii. সুপারফসফেট নিচের কোনটি সঠিক?",
+      "options": ["ক) i ও ii", "খ) i ও iii", "গ) ii ও iii", "ঘ) i, ii ও iii"],
+      "correctOption": "ক",
+      "explanation": "সুপারফসফেট ফসফরাস সার, নাইট্রোজেন সার নয়।",
+      "topic": "পরিবেশ রসায়ন (সার)",
+      "probability": "Very Hot"
+    },
+    {
+      "questionNumber": 21,
+      "passage": null,
+      "questionText": "বেনজিনের ফ্রিডেল-ক্রাফটস অ্যাসাইলেশন বিক্রিয়ায় প্রাপ্ত—",
+      "options": ["ক) অ্যালকাইল বেনজিন", "খ) অ্যারোমেটিক কিটোন", "গ) অ্যালকোহল", "ঘ) অ্যাসিড"],
+      "correctOption": "খ",
+      "explanation": "C₆H₆ + RCOCl → C₆H₅COR + HCl (কিটোন)।",
+      "topic": "জৈব রসায়ন (বেনজিন)",
+      "probability": "Conceptual Trap"
+    },
+    {
+      "questionNumber": 22,
+      "passage": null,
+      "questionText": "গ্লুকোজ ও ফ্রুক্টোজের মধ্যে পার্থক্য করতে কোন পরীক্ষা?",
+      "options": ["ক) সেলিওয়ানফ পরীক্ষা", "খ) বেনেডিক্ট পরীক্ষা", "গ) টলেন পরীক্ষা", "ঘ) ফেহলিং পরীক্ষা"],
+      "correctOption": "ক",
+      "explanation": "সেলিওয়ানফ বিকারক (রেজরসিনল/HCl) ফ্রুক্টোজের জন্য নির্দিষ্ট।",
+      "topic": "জৈব অণু (শর্করা)",
+      "probability": "Very Hot"
+    },
+    {
+      "questionNumber": 23,
+      "passage": null,
+      "questionText": "ইথিলিনের পলিমারকরণে কী ধরনের পলিমার গঠিত?",
+      "options": ["ক) থার্মোসেটিং", "খ) থার্মোপ্লাস্টিক", "গ) ইলাস্টোমার", "ঘ) ফাইবার"],
+      "correctOption": "খ",
+      "explanation": "পলিথিন থার্মোপ্লাস্টিক (তাপে নরম)।",
+      "topic": "পলিমার",
+      "probability": "Board Favourite"
+    },
+    {
+      "questionNumber": 24,
+      "passage": null,
+      "questionText": "সাবানের জলীয় দ্রবণে কেন ফেনা হয়?",
+      "options": ["ক) পৃষ্ঠটান বৃদ্ধির জন্য", "খ) পৃষ্ঠটান হ্রাসের জন্য", "গ) রাসায়নিক বিক্রিয়া", "ঘ) তাপ উৎপন্ন হয়"],
+      "correctOption": "খ",
+      "explanation": "সাবান পৃষ্ঠটান কমিয়ে ফেনা উৎপন্ন করে।",
+      "topic": "সাবান ও ডিটারজেন্ট",
+      "probability": "Very Hot"
+    },
+    {
+      "questionNumber": 25,
+      "passage": null,
+      "questionText": "বেনজিনের কোন বিক্রিয়াটি মুক্তমূলক প্রতিস্থাপন?",
+      "options": ["ক) নাইট্রেশন", "খ) ক্লোরিনেশন (সূর্যালোকে)", "গ) সালফোনেশন", "ঘ) ফ্রিডেল-ক্রাফটস"],
+      "correctOption": "খ",
+      "explanation": "সূর্যালোকে Cl₂ বেনজিনের সাথে সংযোজন (BHC) বা পার্শ্ব শিকলে প্রতিস্থাপন? আসলে বেনজিন সরাসরি UV তে ক্লোরিনের সাথে সংযোজন (BHC) হয়, যা মুক্তমূলক সংযোজন। প্রশ্নে প্রতিস্থাপন বলা থাকলে টলুইনের পার্শ্ব শিকল ক্লোরিনেশন মুক্তমূলক। এখানে বেনজিনের ক্লোরিনেশন UV তে সংযোজন। বোর্ড প্রেক্ষিতে সূর্যালোকে বেনজিন + Cl₂ → BHC (মুক্তমূলক সংযোজন)।",
+      "topic": "জৈব রসায়ন (বেনজিন)",
+      "probability": "Mega Hot"
+    }
+  ]
+}

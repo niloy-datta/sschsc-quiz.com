@@ -1,0 +1,121 @@
+{
+  "physics-1st-paper-hsc-science-physics-1st-paper-model-tests-super-model-set-01-ts-0": {
+    "answer": "0",
+    "answerIndex": 1,
+    "difficulty": 1200,
+    "explanation": "দুটি সমান্তরাল ভেক্টরের মধ্যবর্তী কোণ θ=0∘ । ক্রস গুণফলের মান ∣A ×B ∣=ABsin(0∘ )=0।",
+    "topic": "super-model-set-01"
+  },
+  "physics-1st-paper-hsc-science-physics-1st-paper-model-tests-super-model-set-01-ts-1": {
+    "answer": "2g v0 2 ​sin2 θ ​",
+    "answerIndex": 1,
+    "difficulty": 1200,
+    "explanation": "প্রক্ষেপকের সর্বাধিক উচ্চতায় শেষ উলম্ব বেগ শূন্য হয়। গতির সমীকরণ vy 2 ​=v0y 2 ​−2gh ব্যবহার করে পাই, hmax ​=2g (v0 ​sinθ)2 ​।",
+    "topic": "super-model-set-01"
+  },
+  "physics-1st-paper-hsc-science-physics-1st-paper-model-tests-super-model-set-01-ts-2": {
+    "answer": "কৌণিক ভরবেগ সংরক্ষিত থাকে",
+    "answerIndex": 2,
+    "difficulty": 1200,
+    "explanation": "বাইরে থেকে কোনো টর্ক (Torque) প্রযুক্ত না হলে কৌণিক ভরবেগ (L=Iω) সংরক্ষিত থাকে। হাত গোটালে জড়তার ভ্রামক (I) কমে যায়, ফলে কৌণিক বেগ (ω) বেড়ে যায়, কিন্তু মোট কৌণিক ভরবেগ একই থাকে।",
+    "topic": "super-model-set-01"
+  },
+  "physics-1st-paper-hsc-science-physics-1st-paper-model-tests-super-model-set-01-ts-3": {
+    "answer": "5 J",
+    "answerIndex": 0,
+    "difficulty": 1200,
+    "explanation": "কৃতকাজ W=F ⋅r =(2)(4)+(3)(−1)=8−3=5 J।",
+    "topic": "super-model-set-01"
+  },
+  "physics-1st-paper-hsc-science-physics-1st-paper-model-tests-super-model-set-01-ts-4": {
+    "answer": "g′ ∝r",
+    "answerIndex": 1,
+    "difficulty": 1200,
+    "explanation": "পৃথিবীর অভ্যন্তরে অভিকর্ষজ ত্বরণ g′ =3 4 ​πGρr। সুতরাং, g′ দূরত্বের সমানুপাতিক (g′ ∝r)।",
+    "topic": "super-model-set-01"
+  },
+  "physics-1st-paper-hsc-science-physics-1st-paper-model-tests-super-model-set-01-ts-5": {
+    "answer": "−1≤σ≤0.5",
+    "answerIndex": 0,
+    "difficulty": 1200,
+    "explanation": "গাণিতিক তাত্ত্বিক হিসাব অনুযায়ী পয়সনের অনুপাতের মান −1 থেকে 0.5 এর মধ্যে থাকে। (যদিও বাস্তবে এটি 0 থেকে 0.5 এর মধ্যে হয়)।",
+    "topic": "super-model-set-01"
+  },
+  "physics-1st-paper-hsc-science-physics-1st-paper-model-tests-super-model-set-01-ts-6": {
+    "answer": "পৃথিবীর দৈর্ঘ্যের 1/6 ভাগ করতে হবে",
+    "answerIndex": 2,
+    "difficulty": 1200,
+    "explanation": "দোলনকাল T=2πL/g ​। T ধ্রুবক রাখতে হলে L∝g হতে হবে। যেহেতু চাঁদে g এর মান পৃথিবীর 1/6 ভাগ, তাই L ও 1/6 ভাগ করতে হবে।",
+    "topic": "super-model-set-01"
+  },
+  "physics-1st-paper-hsc-science-physics-1st-paper-model-tests-super-model-set-01-ts-7": {
+    "answer": "সমপরাবৃত্ত (Rectangular hyperbola)",
+    "answerIndex": 2,
+    "difficulty": 1200,
+    "explanation": "বয়েলের সূত্র অনুযায়ী P∝V 1 ​ বা PV=Constant। এটি একটি সমপরাবৃত্তের সমীকরণ।",
+    "topic": "super-model-set-01"
+  },
+  "physics-1st-paper-hsc-science-physics-1st-paper-model-tests-super-model-set-01-ts-8": {
+    "answer": "৪ গুণ",
+    "answerIndex": 1,
+    "difficulty": 1200,
+    "explanation": "কাজ-শক্তি উপপাদ্য অনুযায়ী, গতিশক্তি = ঘর্ষণ বল দ্বারা কৃতকাজ। 2 1 ​mv2 =F⋅s। যেহেতু F ধ্রুবক, তাই s∝v2 । বেগ দ্বিগুণ হলে সরণ 22 =4 গুণ হবে।",
+    "topic": "super-model-set-01"
+  },
+  "physics-1st-paper-hsc-science-physics-1st-paper-model-tests-super-model-set-01-ts-9": {
+    "answer": "ঘর্ষণ বল",
+    "answerIndex": 2,
+    "difficulty": 1200,
+    "explanation": "যে বল দ্বারা কৃতকাজ পথের উপর নির্ভর করে এবং পূর্ণচক্রে মোট কাজ শূন্য হয় না, তাকে অসংরক্ষণশীল বল বলে। ঘর্ষণ বল এর একটি প্রকৃষ্ট উদাহরণ।",
+    "topic": "super-model-set-01"
+  },
+  "physics-1st-paper-hsc-science-physics-1st-paper-model-tests-super-model-set-01-ts-10": {
+    "answer": "2gR ​",
+    "answerIndex": 1,
+    "difficulty": 1200,
+    "explanation": "মুক্তিবেগ ve ​=R 2GM ​ ​। যেহেতু g=R2 GM ​, তাই GM=gR2 । মান বসালে ve ​=2gR ​ পাওয়া যায়।",
+    "topic": "super-model-set-01"
+  },
+  "physics-1st-paper-hsc-science-physics-1st-paper-model-tests-super-model-set-01-ts-11": {
+    "answer": "90∘ (2 π ​ rad)",
+    "answerIndex": 1,
+    "difficulty": 1200,
+    "explanation": "সরণের সমীকরণ x=Asin(ωt) হলে, বেগের সমীকরণ হয় v=dt dx ​=Aωcos(ωt)=Aωsin(ωt+2 π ​)। তাই দশা পার্থক্য π/2 বা 90∘ ।",
+    "topic": "super-model-set-01"
+  },
+  "physics-1st-paper-hsc-science-physics-1st-paper-model-tests-super-model-set-01-ts-12": {
+    "answer": "সলিনয়ডাল (Solenoidal)",
+    "answerIndex": 1,
+    "difficulty": 1200,
+    "explanation": "ডাইভারজেন্স শূন্য (∇ ⋅V =0) হলে ভেক্টর ক্ষেত্রটিকে সলিনয়ডাল বলা হয়। কার্ল শূন্য হলে তা অঘূর্ণনশীল।",
+    "topic": "super-model-set-01"
+  },
+  "physics-1st-paper-hsc-science-physics-1st-paper-model-tests-super-model-set-01-ts-13": {
+    "answer": "ত্বরণ",
+    "answerIndex": 2,
+    "difficulty": 1200,
+    "explanation": "বেগ-সময় লেখচিত্রের ঢাল হলো বেগের পরিবর্তনের হার (dv/dt), যা ত্বরণ নির্দেশ করে। (লেখচিত্রের ক্ষেত্রফল সরণ নির্দেশ করে)।",
+    "topic": "super-model-set-01"
+  },
+  "physics-1st-paper-hsc-science-physics-1st-paper-model-tests-super-model-set-01-ts-14": {
+    "answer": "3061 L",
+    "answerIndex": 2,
+    "difficulty": 1200,
+    "explanation": "ক্ষমতা P=t mgh ​⟹m=gh Pt ​।m=9.8×10 5000×60 ​=98 300000 ​≈3061.22 kg। পানির ক্ষেত্রে 1 kg≈1 L, তাই 3061 L।",
+    "topic": "super-model-set-01"
+  },
+  "physics-1st-paper-hsc-science-physics-1st-paper-model-tests-super-model-set-01-ts-15": {
+    "answer": "129 দিন",
+    "answerIndex": 2,
+    "difficulty": 1200,
+    "explanation": "কেপলারের ৩য় সূত্র অনুযায়ী, T2 ∝R3 ⟹T1 ​ T2 ​ ​=(R1 ​ R2 ​ ​)3/2 ।T2 ​=365×(2 1 ​)1.5 ≈365×0.3535≈129 দিন।",
+    "topic": "super-model-set-01"
+  },
+  "physics-1st-paper-hsc-science-physics-1st-paper-model-tests-super-model-set-01-ts-16": {
+    "answer": "সংনম্যতা (Compressibility)",
+    "answerIndex": 2,
+    "difficulty": 1200,
+    "explanation": "আয়তন গুণাঙ্কের (K) বিপরীত রাশিকে সংনম্যতা (C=1/K) বলা হয়, যা নির্দেশ করে পদার্থকে কতটা সহজে সংকুচিত করা যায়।",
+    "topic": "super-model-set-01"
+  }
+}

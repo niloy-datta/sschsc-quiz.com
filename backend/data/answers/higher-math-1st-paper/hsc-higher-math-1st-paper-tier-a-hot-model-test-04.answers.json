@@ -1,0 +1,102 @@
+{
+  "hsc-higher-math-1st-paper-tier-a-set-04-q01": {
+    "correctOption": "48",
+    "explanation": "শতকের ঘরে 0 নয়: 4 উপায়; এরপর 4 ও 3 উপায়, মোট 4×4×3=48।"
+  },
+  "hsc-higher-math-1st-paper-tier-a-set-04-q02": {
+    "correctOption": "30",
+    "explanation": "শেষ অঙ্ক 0 হলে 12, শেষ অঙ্ক 2/4 হলে 18; মোট 30।"
+  },
+  "hsc-higher-math-1st-paper-tier-a-set-04-q03": {
+    "correctOption": "3",
+    "explanation": "|a|=√(1²+2²+2²)=3।"
+  },
+  "hsc-higher-math-1st-paper-tier-a-set-04-q04": {
+    "correctOption": "4",
+    "explanation": "a·b=1×2+2×(-1)+2×2=4।"
+  },
+  "hsc-higher-math-1st-paper-tier-a-set-04-q05": {
+    "correctOption": "0",
+    "explanation": "দুটি row/column identical হলে determinant শূন্য।"
+  },
+  "hsc-higher-math-1st-paper-tier-a-set-04-q06": {
+    "correctOption": "determinant অশূন্য",
+    "explanation": "non-singular matrix-এর inverse থাকে।"
+  },
+  "hsc-higher-math-1st-paper-tier-a-set-04-q07": {
+    "correctOption": "3",
+    "explanation": "y=0 দিলে 2x=6 ⇒ x=3।"
+  },
+  "hsc-higher-math-1st-paper-tier-a-set-04-q08": {
+    "correctOption": "1/5",
+    "explanation": "দূরত্ব=|4-6+1|/√(4²+(-3)²)=1/5।"
+  },
+  "hsc-higher-math-1st-paper-tier-a-set-04-q09": {
+    "correctOption": "2xsinx+x²cosx",
+    "explanation": "product rule প্রয়োগ করতে হবে।"
+  },
+  "hsc-higher-math-1st-paper-tier-a-set-04-q10": {
+    "correctOption": "(1/2)sin2x+C",
+    "explanation": "∫cos(ax)dx=sin(ax)/a।"
+  },
+  "hsc-higher-math-1st-paper-tier-a-set-04-q11": {
+    "correctOption": "0",
+    "explanation": "a⁰=1, তাই logₐ1=0।"
+  },
+  "hsc-higher-math-1st-paper-tier-a-set-04-q12": {
+    "correctOption": "sec²θ",
+    "explanation": "এটি Pythagorean identity।"
+  },
+  "hsc-higher-math-1st-paper-tier-a-set-04-q13": {
+    "correctOption": "1",
+    "explanation": "nC0=1।"
+  },
+  "hsc-higher-math-1st-paper-tier-a-set-04-q14": {
+    "correctOption": "k",
+    "explanation": "standard unit vector cross product: i×j=k।"
+  },
+  "hsc-higher-math-1st-paper-tier-a-set-04-q15": {
+    "correctOption": "i, ii ও iii",
+    "explanation": "এগুলো determinant-এর মৌলিক ধর্ম।"
+  },
+  "hsc-higher-math-1st-paper-tier-a-set-04-q16": {
+    "correctOption": "i, ii ও iii",
+    "explanation": "কেন্দ্র থেকে রেখার দূরত্ব ও radius তুলনা করলেই সম্পর্ক নির্ণয় হয়।"
+  },
+  "hsc-higher-math-1st-paper-tier-a-set-04-q17": {
+    "correctOption": "i, ii ও iii",
+    "explanation": "সবগুলো standard general solution।"
+  },
+  "hsc-higher-math-1st-paper-tier-a-set-04-q18": {
+    "correctOption": "i ও ii",
+    "explanation": "logₐ0 সংজ্ঞায়িত নয়।"
+  },
+  "hsc-higher-math-1st-paper-tier-a-set-04-q19": {
+    "correctOption": "i ও ii",
+    "explanation": "তৃতীয়টি শুধু odd function-এর জন্য সত্য।"
+  },
+  "hsc-higher-math-1st-paper-tier-a-set-04-q20": {
+    "correctOption": "i ও ii",
+    "explanation": "dot product শূন্য হলে perpendicular, collinear নয়।"
+  },
+  "hsc-higher-math-1st-paper-tier-a-set-04-q21": {
+    "correctOption": "0",
+    "explanation": "ধ্রুবক পরিবর্তিত হয় না, তাই derivative 0।"
+  },
+  "hsc-higher-math-1st-paper-tier-a-set-04-q22": {
+    "correctOption": "বিন্যাসের ক্রম",
+    "explanation": "combination-এ order ignored।"
+  },
+  "hsc-higher-math-1st-paper-tier-a-set-04-q23": {
+    "correctOption": "1",
+    "explanation": "unit vector-এর magnitude সর্বদা 1।"
+  },
+  "hsc-higher-math-1st-paper-tier-a-set-04-q24": {
+    "correctOption": "√((D²+E²)/4 - F)",
+    "explanation": "g=D/2, f=E/2 বসালে radius formula পাওয়া যায়।"
+  },
+  "hsc-higher-math-1st-paper-tier-a-set-04-q25": {
+    "correctOption": "cosθ=0",
+    "explanation": "tanθ=sinθ/cosθ, denominator 0 হলে undefined।"
+  }
+}

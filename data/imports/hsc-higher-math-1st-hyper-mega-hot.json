@@ -1,0 +1,3571 @@
+{
+  "exam": {
+    "title": "HSC Higher Mathematics 1st Paper - Hyper Mega Hot Exclusive Model Tests (10 Sets)",
+    "full_marks_per_set": 25,
+    "paper": "Higher Mathematics 1st Paper",
+    "time_minutes": 25,
+    "note": "Each set contains 25 MCQs. Each question has 4 options (ক, খ, গ, ঘ), correct answer, short explanation (1–2 lines), topic tag and probability tag."
+  },
+  "sets": [
+    {
+      "set_id": 1,
+      "label": "SET 1",
+      "questions": [
+        {
+          "number": 1,
+          "question": "যদি \\(f(x)=x^3-3x^2+2x\\), তাহলে \\(f'(2)\\) কত?",
+          "options": {
+            "ক": "2",
+            "খ": "0",
+            "গ": "4",
+            "ঘ": "6"
+          },
+          "answer": "ক",
+          "explanation": "\\(f'(x)=3x^2-6x+2\\); \\(f'(2)=12-12+2=2\\).",
+          "topic": "Calculus — differentiation",
+          "probability": "Very Hot"
+        },
+        {
+          "number": 2,
+          "question": "যদি \\(y=\\ln(x^2+1)\\), তাহলে \\(dy/dx\\) কত?",
+          "options": {
+            "ক": "\\(\\dfrac{2x}{x^2+1}\\)",
+            "খ": "\\(\\dfrac{x}{x^2+1}\\)",
+            "গ": "\\(\\dfrac{1}{x^2+1}\\)",
+            "ঘ": "\\(\\dfrac{2}{x^2+1}\\)"
+          },
+          "answer": "ক",
+          "explanation": "চেইন রুল: \\(1/(x^2+1)\\cdot2x\\).",
+          "topic": "Calculus — chain rule",
+          "probability": "Mega Hot"
+        },
+        {
+          "number": 3,
+          "question": "যদি \\(A=\\begin{pmatrix}1&2\\\\3&4\\end{pmatrix}\\), তাহলে \\(\\det A\\) কত?",
+          "options": {
+            "ক": "-2",
+            "খ": "-1",
+            "গ": "2",
+            "ঘ": "1"
+          },
+          "answer": "ক",
+          "explanation": "det = \\(1\\cdot4-2\\cdot3=4-6=-2\\).",
+          "topic": "Matrices — determinant",
+          "probability": "Very Hot"
+        },
+        {
+          "number": 4,
+          "question": "যদি \\(\\vec a=(1,2,3)\\), \\(\\vec b=(2,-1,1)\\), তাহলে \\(\\vec a\\cdot\\vec b\\) কত?",
+          "options": {
+            "ক": "3",
+            "খ": "0",
+            "গ": "1",
+            "ঘ": "5"
+          },
+          "answer": "ক",
+          "explanation": "ডট = \\(1\\cdot2+2\\cdot(-1)+3\\cdot1=2-2+3=3\\).",
+          "topic": "Vectors — dot product",
+          "probability": "Very Hot"
+        },
+        {
+          "number": 5,
+          "question": "সমীকরণ \\(x^2-5x+6=0\\) এর মূলগুলো কি?",
+          "options": {
+            "ক": "1 ও 6",
+            "খ": "2 ও 3",
+            "গ": "-2 ও -3",
+            "ঘ": "3 ও 5"
+          },
+          "answer": "খ",
+          "explanation": "ফ্যাক্টরাইজ: (x-2)(x-3)=0 → roots 2,3.",
+          "topic": "Algebra — quadratic",
+          "probability": "Mega Hot"
+        },
+        {
+          "number": 6,
+          "question": "যদি \\(\\sin\\theta=3/5\\) (প্রথম কোয়াড্রান্ট), তাহলে \\(\\cos\\theta\\) কত?",
+          "options": {
+            "ক": "4/5",
+            "খ": "3/4",
+            "গ": "5/3",
+            "ঘ": "1/5"
+          },
+          "answer": "ক",
+          "explanation": "cos = √(1-(3/5)^2)=4/5.",
+          "topic": "Trigonometry — identities",
+          "probability": "Very Hot"
+        },
+        {
+          "number": 7,
+          "question": "ইন্টিগ্রাল \\(\\int_0^1 3x^2 dx\\) কত?",
+          "options": {
+            "ক": "1",
+            "খ": "3",
+            "গ": "1/3",
+            "ঘ": "2/3"
+          },
+          "answer": "ক",
+          "explanation": "∫3x^2 dx = x^3; 0→1 gives 1.",
+          "topic": "Calculus — definite integral",
+          "probability": "Mega Hot"
+        },
+        {
+          "number": 8,
+          "question": "যদি \\(z=3+4i\\), তাহলে \\(|z|\\) কত?",
+          "options": {
+            "ক": "5",
+            "খ": "7",
+            "গ": "√25",
+            "ঘ": "4"
+          },
+          "answer": "ক",
+          "explanation": "|z|=√(3^2+4^2)=5.",
+          "topic": "Complex numbers — modulus",
+          "probability": "Very Hot"
+        },
+        {
+          "number": 9,
+          "question": "যদি \\(y=e^{2x}\\), তাহলে \\(d^2y/dx^2\\) কত?",
+          "options": {
+            "ক": "4e^{2x}",
+            "খ": "2e^{2x}",
+            "গ": "e^{2x}",
+            "ঘ": "0"
+          },
+          "answer": "ক",
+          "explanation": "y' = 2e^{2x}, y'' = 4e^{2x}.",
+          "topic": "Calculus — higher derivatives",
+          "probability": "Very Hot"
+        },
+        {
+          "number": 10,
+          "question": "P(A)=0.3, P(B)=0.5 এবং A,B স্বাধীন হলে P(A∩B) কত?",
+          "options": {
+            "ক": "0.15",
+            "খ": "0.8",
+            "গ": "0.2",
+            "ঘ": "0.5"
+          },
+          "answer": "ক",
+          "explanation": "P(A∩B)=0.3×0.5=0.15.",
+          "topic": "Probability — independent events",
+          "probability": "Very Hot"
+        },
+        {
+          "number": 11,
+          "question": "ডিফারেনশিয়াল সমীকরণ dy/dx = 3y এর সাধারণ সমাধান কি?",
+          "options": {
+            "ক": "y=Ce^{3x}",
+            "খ": "y=3Cx",
+            "গ": "y=Cx^3",
+            "ঘ": "y=Ce^{x/3}"
+          },
+          "answer": "ক",
+          "explanation": "First-order linear: y = Ce^{3x}.",
+          "topic": "Differential equations — first order",
+          "probability": "Mega Hot"
+        },
+        {
+          "number": 12,
+          "question": "tanθ = 1 হলে (0<θ<π/2) θ কত?",
+          "options": {
+            "ক": "30°",
+            "খ": "45°",
+            "গ": "60°",
+            "ঘ": "90°"
+          },
+          "answer": "খ",
+          "explanation": "tan45°=1.",
+          "topic": "Trigonometry — standard angles",
+          "probability": "Very Hot"
+        },
+        {
+          "number": 13,
+          "question": "∫_1^e (1/x) dx কত?",
+          "options": {
+            "ক": "1",
+            "খ": "e-1",
+            "গ": "ln e",
+            "ঘ": "0"
+          },
+          "answer": "ক",
+          "explanation": "ln x from 1 to e = 1.",
+          "topic": "Calculus — log integral",
+          "probability": "Very Hot"
+        },
+        {
+          "number": 14,
+          "question": "A 2×2 invertible হলে AX=0 সমাধান X কী?",
+          "options": {
+            "ক": "শূন্য ভেক্টর",
+            "খ": "অনন্ত সমাধান",
+            "গ": "একক সমাধান নয়",
+            "ঘ": "নির্ভর করে A-র উপর"
+          },
+          "answer": "ক",
+          "explanation": "Invertible → only trivial solution X=0.",
+          "topic": "Matrices — homogeneous system",
+          "probability": "Board Favourite"
+        },
+        {
+          "number": 15,
+          "question": "নিচের ডেরিভেটিভগুলো: i) d/dx(sin x)=cos x; ii) d/dx(cos x)=-sin x; iii) d/dx(tan x)=sec^2 x. কোনটি সঠিক?",
+          "options": {
+            "ক": "i ও ii",
+            "খ": "i ও iii",
+            "গ": "ii ও iii",
+            "ঘ": "i, ii ও iii"
+          },
+          "answer": "ঘ",
+          "explanation": "সবগুলো পরিচিত ও সঠিক।",
+          "topic": "Calculus — trig derivatives",
+          "probability": "Mega Hot"
+        },
+        {
+          "number": 16,
+          "question": "det(AB)=detA·detB এবং det(A^T)=detA; কোনগুলো সঠিক?",
+          "options": {
+            "ক": "i ও ii",
+            "খ": "i ও iii",
+            "গ": "ii ও iii",
+            "ঘ": "i, ii ও iii"
+          },
+          "answer": "ক",
+          "explanation": "i ও ii সঠিক; iii (detA=0 → invertible) ভুল।",
+          "topic": "Matrices — determinant properties",
+          "probability": "Very Hot"
+        },
+        {
+          "number": 17,
+          "question": "জ্যামিতিক সিরিজ ∑_{n=0}^∞ ar^n (|r|<1) যোগফল কি?",
+          "options": {
+            "ক": "a/(1-r)",
+            "খ": "ar/(1-r)",
+            "গ": "a/(1+r)",
+            "ঘ": "অনির্ধারিত"
+          },
+          "answer": "ক",
+          "explanation": "Sum = a/(1-r).",
+          "topic": "Sequences & Series — geometric",
+          "probability": "Mega Hot"
+        },
+        {
+          "number": 18,
+          "question": "x=2cos t, y=2sin t এই প্যারামেট্রিক বক্ররেখা কোনটি?",
+          "options": {
+            "ক": "রেখা",
+            "খ": "বৃত্ত (r=2)",
+            "গ": "প্যারাবোলা",
+            "ঘ": "হাইপারবোলা"
+          },
+          "answer": "খ",
+          "explanation": "x^2+y^2=4 → বৃত্ত radius 2.",
+          "topic": "Coordinate geometry — parametric",
+          "probability": "Very Hot"
+        },
+        {
+          "number": 19,
+          "question": "∫_0^1 (2x+1) dx কত?",
+          "options": {
+            "ক": "2",
+            "খ": "1",
+            "গ": "3/2",
+            "ঘ": "1/2"
+          },
+          "answer": "ক",
+          "explanation": "Antiderivative x^2+x; evaluate 0→1 =2.",
+          "topic": "Calculus — definite integral",
+          "probability": "Very Hot"
+        },
+        {
+          "number": 20,
+          "question": "P(A∪B)=0.7, P(A)=0.4, P(B)=0.5 হলে P(A∩B) কত?",
+          "options": {
+            "ক": "0.2",
+            "খ": "0.1",
+            "গ": "0.3",
+            "ঘ": "0.4"
+          },
+          "answer": "ক",
+          "explanation": "0.4+0.5−x=0.7 → x=0.2.",
+          "topic": "Probability — union/intersection",
+          "probability": "Very Hot"
+        },
+        {
+          "number": 21,
+          "question": "নিচের কোনটি সঠিক নয়? i) d/dx(x^n)=n x^{n-1}; ii) ∫ x^n dx = x^{n+1}/(n+1) (n≠−1); iii) d/dx(ln x)=1/x. কোনটি ভুল?",
+          "options": {
+            "ক": "i ও ii",
+            "খ": "i ও iii",
+            "গ": "ii ও iii",
+            "ঘ": "কোনোটিই নয়"
+          },
+          "answer": "ঘ",
+          "explanation": "সবগুলো শর্তাবলীসহ সঠিক।",
+          "topic": "Calculus — basic rules",
+          "probability": "Board Favourite"
+        },
+        {
+          "number": 22,
+          "question": "a=(2,0,-1), b=(1,2,2) হলে (a×b)_x কত?",
+          "options": {
+            "ক": "2",
+            "খ": "-5",
+            "গ": "4",
+            "ঘ": "5"
+          },
+          "answer": "ক",
+          "explanation": "(a×b)_x = a_y b_z − a_z b_y = 0·2 − (−1)·2 = 2.",
+          "topic": "Vectors — cross product",
+          "probability": "Very Hot"
+        },
+        {
+          "number": 23,
+          "question": "∑_{k=1}^{10} k কত?",
+          "options": {
+            "ক": "55",
+            "খ": "45",
+            "গ": "100",
+            "ঘ": "66"
+          },
+          "answer": "ক",
+          "explanation": "10·11/2 = 55.",
+          "topic": "Sequences — arithmetic series",
+          "probability": "Mega Hot"
+        },
+        {
+          "number": 24,
+          "question": "y=ln(sin x) হলে dy/dx কত (0<x<π)?",
+          "options": {
+            "ক": "cot x",
+            "খ": "csc x",
+            "গ": "tan x",
+            "ঘ": "sec x"
+          },
+          "answer": "ক",
+          "explanation": "d/dx ln(sin x) = cos x / sin x = cot x.",
+          "topic": "Calculus — log of trig",
+          "probability": "Very Hot"
+        },
+        {
+          "number": 25,
+          "question": "নিচের কোনগুলো সঠিক? i) ∫_0^π sin x dx = 2; ii) ∫_0^π cos x dx = 0; iii) ∫_0^π tan x dx সংজ্ঞায়িত নয়। কোনটি সঠিক?",
+          "options": {
+            "ক": "i ও ii",
+            "খ": "i ও iii",
+            "গ": "ii ও iii",
+            "ঘ": "i, ii ও iii"
+          },
+          "answer": "ঘ",
+          "explanation": "i ও ii সঠিক; tan x তে π/2 এ অসীমতা → iii সঠিক; তাই সবগুলো সঠিক।",
+          "topic": "Calculus — definite integrals (trap)",
+          "probability": "Board Favourite"
+        }
+      ]
+    },
+    {
+      "set_id": 2,
+      "label": "SET 2",
+      "questions": [
+        {
+          "number": 1,
+          "question": "যদি \\(f(x)=x^2\\sin x\\), তাহলে \\(f'(0)\\) কত?",
+          "options": {
+            "ক": "0",
+            "খ": "1",
+            "গ": "2",
+            "ঘ": "-1"
+          },
+          "answer": "ক",
+          "explanation": "f'(x)=2x sin x + x^2 cos x; f'(0)=0.",
+          "topic": "Calculus — differentiation (product)",
+          "probability": "Very Hot"
+        },
+        {
+          "number": 2,
+          "question": "∫ x e^{x} dx এর অনির্দিষ্ট ইন্টিগ্রাল কি?",
+          "options": {
+            "ক": "(x-1)e^{x}+C",
+            "খ": "(x+1)e^{x}+C",
+            "গ": "xe^{x}+C",
+            "ঘ": "e^{x}+C"
+          },
+          "answer": "ক",
+          "explanation": "Integration by parts gives (x-1)e^{x}+C.",
+          "topic": "Calculus — integration by parts",
+          "probability": "Very Hot"
+        },
+        {
+          "number": 3,
+          "question": "A = [[2,1],[0,3]] হলে A^{-1} কি?",
+          "options": {
+            "ক": "[[1/2,-1/6],[0,1/3]]",
+            "খ": "[[1/2,-1/2],[0,1/3]]",
+            "গ": "[[1/2,-1/6],[0,1/3]]",
+            "ঘ": "[[2,-1],[0,3]]"
+          },
+          "answer": "ক",
+          "explanation": "Inverse of upper triangular: diag inverses and off-diagonal -a_{12}/(a_{11}a_{22}).",
+          "topic": "Matrices — inverse",
+          "probability": "Very Hot"
+        },
+        {
+          "number": 4,
+          "question": "যদি \\(\\vec u=(1,0,1)\\), \\(\\vec v=(0,1,1)\\), তাহলে |u×v| কত?",
+          "options": {
+            "ক": "√2",
+            "খ": "1",
+            "গ": "2",
+            "ঘ": "√3"
+          },
+          "answer": "ঘ",
+          "explanation": "u×v = ( -1, -1, 1 ); magnitude √(1+1+1)=√3.",
+          "topic": "Vectors — cross product magnitude",
+          "probability": "Very Hot"
+        },
+        {
+          "number": 5,
+          "question": "Quadratic x^2+4x+3=0 এর মূলগুলো কি?",
+          "options": {
+            "ক": "-1,-3",
+            "খ": "-1,-3 (order)",
+            "গ": "1,3",
+            "ঘ": "-3,1"
+          },
+          "answer": "খ",
+          "explanation": "(x+1)(x+3)=0 → roots -1 and -3.",
+          "topic": "Algebra — quadratic",
+          "probability": "Mega Hot"
+        },
+        {
+          "number": 6,
+          "question": "sin^2 x + cos^2 x সমান কি?",
+          "options": {
+            "ক": "1",
+            "খ": "0",
+            "গ": "sin2x",
+            "ঘ": "cos2x"
+          },
+          "answer": "ক",
+          "explanation": "পাইথাগোরাস পরিচিতি।",
+          "topic": "Trigonometry — identity",
+          "probability": "Very Hot"
+        },
+        {
+          "number": 7,
+          "question": "∫_0^{π/2} cos x dx কত?",
+          "options": {
+            "ক": "1",
+            "খ": "0",
+            "গ": "π/2",
+            "ঘ": "2"
+          },
+          "answer": "ক",
+          "explanation": "sin x from 0 to π/2 = 1.",
+          "topic": "Calculus — definite integral",
+          "probability": "Very Hot"
+        },
+        {
+          "number": 8,
+          "question": "z = -1 + i হলে Arg(z) কত (principal)?",
+          "options": {
+            "ক": "135°",
+            "খ": "-135°",
+            "গ": "45°",
+            "ঘ": "-45°"
+          },
+          "answer": "ক",
+          "explanation": "(-1,1) lies in QII → principal arg = 135°.",
+          "topic": "Complex numbers — argument",
+          "probability": "Very Hot"
+        },
+        {
+          "number": 9,
+          "question": "d/dx (arctan x) কত?",
+          "options": {
+            "ক": "1/(1+x^2)",
+            "খ": "1/(1-x^2)",
+            "গ": "1/(1+x)",
+            "ঘ": "1/(1-x)"
+          },
+          "answer": "ক",
+          "explanation": "Standard derivative of arctan x.",
+          "topic": "Calculus — inverse trig",
+          "probability": "Mega Hot"
+        },
+        {
+          "number": 10,
+          "question": "Probability: একটি ন্যায্য কয়েন 3 বার উল্টালে 2 মাথা আসার সম্ভাবনা কত?",
+          "options": {
+            "ক": "3/8",
+            "খ": "1/2",
+            "গ": "1/4",
+            "ঘ": "3/4"
+          },
+          "answer": "ক",
+          "explanation": "C(3,2)/2^3 = 3/8.",
+          "topic": "Probability — binomial",
+          "probability": "Very Hot"
+        },
+        {
+          "number": 11,
+          "question": "dy/dx = x^2 হলে y = ? (indefinite)",
+          "options": {
+            "ক": "x^3/3 + C",
+            "খ": "2x + C",
+            "গ": "x^2 + C",
+            "ঘ": "ln x + C"
+          },
+          "answer": "ক",
+          "explanation": "Integrate x^2 → x^3/3 + C.",
+          "topic": "Calculus — integration",
+          "probability": "Very Hot"
+        },
+        {
+          "number": 12,
+          "question": "tan(2θ) সূত্র কোনটি?",
+          "options": {
+            "ক": "2 tan θ/(1−tan^2 θ)",
+            "খ": "(1−tan^2 θ)/2 tan θ",
+            "গ": "tan^2 θ",
+            "ঘ": "2 tan θ"
+          },
+          "answer": "ক",
+          "explanation": "Standard double-angle formula for tangent.",
+          "topic": "Trigonometry — identities",
+          "probability": "Very Hot"
+        },
+        {
+          "number": 13,
+          "question": "Matrix trace tr([[a,b],[c,d]]) কত?",
+          "options": {
+            "ক": "a+d",
+            "খ": "ad-bc",
+            "গ": "a+b+c+d",
+            "ঘ": "ab+cd"
+          },
+          "answer": "ক",
+          "explanation": "Trace = sum of diagonal elements.",
+          "topic": "Matrices — trace",
+          "probability": "Very Hot"
+        },
+        {
+          "number": 14,
+          "question": "If sequence a_n = 2n, sum of first 5 terms = ?",
+          "options": {
+            "ক": "30",
+            "খ": "20",
+            "গ": "40",
+            "ঘ": "25"
+          },
+          "answer": "ক",
+          "explanation": "Terms:2,4,6,8,10 sum=30.",
+          "topic": "Sequences — arithmetic",
+          "probability": "Very Hot"
+        },
+        {
+          "number": 15,
+          "question": "Which is derivative of ln(1+x)?",
+          "options": {
+            "ক": "1/(1+x)",
+            "খ": "ln(1+x)",
+            "গ": "1+x",
+            "ঘ": "x/(1+x)"
+          },
+          "answer": "ক",
+          "explanation": "d/dx ln(1+x)=1/(1+x).",
+          "topic": "Calculus — log derivative",
+          "probability": "Mega Hot"
+        },
+        {
+          "number": 16,
+          "question": "If det A = 5, det(2A) for 2×2 matrix A is?",
+          "options": {
+            "ক": "20",
+            "খ": "10",
+            "গ": "5",
+            "ঘ": "40"
+          },
+          "answer": "ক",
+          "explanation": "det(kA)=k^n det A; n=2 → 2^2·5=20.",
+          "topic": "Matrices — determinant scaling",
+          "probability": "Very Hot"
+        },
+        {
+          "number": 17,
+          "question": "Sum of infinite geometric series with a=3, r=1/3 is?",
+          "options": {
+            "ক": "9/2",
+            "খ": "3/2",
+            "গ": "3",
+            "ঘ": "1"
+          },
+          "answer": "ক",
+          "explanation": "Sum = a/(1-r)=3/(1-1/3)=3/(2/3)=9/2.",
+          "topic": "Sequences — geometric",
+          "probability": "Mega Hot"
+        },
+        {
+          "number": 18,
+          "question": "Parametric x=t^2, y=t^3 curve at t=1 slope dy/dx = ?",
+          "options": {
+            "ক": "3/2",
+            "খ": "2/3",
+            "গ": "1",
+            "ঘ": "0"
+          },
+          "answer": "ক",
+          "explanation": "dy/dt=3t^2, dx/dt=2t → at t=1 slope=3/2.",
+          "topic": "Calculus — parametric differentiation",
+          "probability": "Very Hot"
+        },
+        {
+          "number": 19,
+          "question": "∫_0^1 (1-x) dx কত?",
+          "options": {
+            "ক": "1/2",
+            "খ": "1",
+            "গ": "0",
+            "ঘ": "2"
+          },
+          "answer": "ক",
+          "explanation": "Integral = [x - x^2/2]_0^1 = 1 - 1/2 = 1/2.",
+          "topic": "Calculus — definite integral",
+          "probability": "Very Hot"
+        },
+        {
+          "number": 20,
+          "question": "If P(A)=0.6 and P(B|A)=0.5, then P(A∩B) = ?",
+          "options": {
+            "ক": "0.3",
+            "খ": "0.5",
+            "গ": "0.6",
+            "ঘ": "0.1"
+          },
+          "answer": "ক",
+          "explanation": "P(A∩B)=P(A)P(B|A)=0.6×0.5=0.3.",
+          "topic": "Probability — conditional",
+          "probability": "Very Hot"
+        },
+        {
+          "number": 21,
+          "question": "Which is not true? i) d/dx(x^n)=n x^{n-1}; ii) ∫ x^{-1} dx = ln|x| + C; iii) d/dx(e^{ax}) = a e^{ax}.",
+          "options": {
+            "ক": "i ও ii",
+            "খ": "i ও iii",
+            "গ": "ii ও iii",
+            "ঘ": "কোনোটিই নয়"
+          },
+          "answer": "ঘ",
+          "explanation": "All three statements are correct (with standard conditions).",
+          "topic": "Calculus — basics",
+          "probability": "Board Favourite"
+        },
+        {
+          "number": 22,
+          "question": "Vector u=(1,2,0), v=(2,0,1). u·v = ?",
+          "options": {
+            "ক": "2",
+            "খ": "1",
+            "গ": "4",
+            "ঘ": "3"
+          },
+          "answer": "ক",
+          "explanation": "1·2 + 2·0 + 0·1 = 2.",
+          "topic": "Vectors — dot product",
+          "probability": "Very Hot"
+        },
+        {
+          "number": 23,
+          "question": "Sum 1+2+...+n formula is?",
+          "options": {
+            "ক": "n(n+1)/2",
+            "খ": "n^2",
+            "গ": "(n+1)/2",
+            "ঘ": "n(n-1)/2"
+          },
+          "answer": "ক",
+          "explanation": "Standard arithmetic series formula.",
+          "topic": "Sequences — arithmetic",
+          "probability": "Mega Hot"
+        },
+        {
+          "number": 24,
+          "question": "d/dx (sec x) = ?",
+          "options": {
+            "ক": "sec x tan x",
+            "খ": "sec^2 x",
+            "গ": "tan x",
+            "ঘ": "csc x"
+          },
+          "answer": "ক",
+          "explanation": "Derivative of sec x is sec x tan x.",
+          "topic": "Calculus — trig derivatives",
+          "probability": "Very Hot"
+        },
+        {
+          "number": 25,
+          "question": "Which integrals are improper? i) ∫_0^1 1/x dx; ii) ∫_1^∞ 1/x^2 dx; iii) ∫_0^π tan x dx. Which true?",
+          "options": {
+            "ক": "i ও ii",
+            "খ": "i ও iii",
+            "গ": "ii ও iii",
+            "ঘ": "i, ii ও iii"
+          },
+          "answer": "খ",
+          "explanation": "i diverges at 0, iii has singularity at π/2; ii converges.",
+          "topic": "Calculus — improper integrals",
+          "probability": "Conceptual Trap"
+        }
+      ]
+    },
+    {
+      "set_id": 3,
+      "label": "SET 3",
+      "questions": [
+        {
+          "number": 1,
+          "question": "If f(x)=e^{3x}, f'(0) = ?",
+          "options": {
+            "ক": "3",
+            "খ": "1",
+            "গ": "e^3",
+            "ঘ": "0"
+          },
+          "answer": "ক",
+          "explanation": "f' = 3e^{3x}; at 0 gives 3.",
+          "topic": "Calculus — exponential",
+          "probability": "Very Hot"
+        },
+        {
+          "number": 2,
+          "question": "∫ cos^2 x dx general form = ?",
+          "options": {
+            "ক": "(x/2)+(sin2x/4)+C",
+            "খ": "(x/2)-(sin2x/4)+C",
+            "গ": "sin x + C",
+            "ঘ": "cos x + C"
+          },
+          "answer": "ক",
+          "explanation": "Use identity cos^2 x = (1+cos2x)/2.",
+          "topic": "Calculus — trig integrals",
+          "probability": "Very Hot"
+        },
+        {
+          "number": 3,
+          "question": "Matrix [[0,1],[-1,0]] corresponds to which transformation in R^2?",
+          "options": {
+            "ক": "rotation by 90°",
+            "খ": "reflection",
+            "গ": "scaling",
+            "ঘ": "shear"
+          },
+          "answer": "ক",
+          "explanation": "This matrix rotates vectors by +90°.",
+          "topic": "Matrices — linear transformation",
+          "probability": "Very Hot"
+        },
+        {
+          "number": 4,
+          "question": "If |z|=1 and z≠1, argument of (1+z)/(1−z) is ?",
+          "options": {
+            "ক": "real",
+            "খ": "pure imaginary",
+            "গ": "depends",
+            "ঘ": "zero"
+          },
+          "answer": "খ",
+          "explanation": "For |z|=1, (1+z)/(1−z) is pure imaginary (standard result).",
+          "topic": "Complex numbers — transformation",
+          "probability": "Conceptual Trap"
+        },
+        {
+          "number": 5,
+          "question": "Solve x^2-2x-3=0 roots are?",
+          "options": {
+            "ক": "3 and -1",
+            "খ": "1 and -3",
+            "গ": "-3 and -1",
+            "ঘ": "3 and 1"
+          },
+          "answer": "ক",
+          "explanation": "(x-3)(x+1)=0 → 3 and -1.",
+          "topic": "Algebra — quadratic",
+          "probability": "Mega Hot"
+        },
+        {
+          "number": 6,
+          "question": "sin(α+β) identity equals?",
+          "options": {
+            "ক": "sinα cosβ + cosα sinβ",
+            "খ": "sinα sinβ + cosα cosβ",
+            "গ": "cosα cosβ - sinα sinβ",
+            "ঘ": "tanα + tanβ"
+          },
+          "answer": "ক",
+          "explanation": "Standard addition formula.",
+          "topic": "Trigonometry — addition formula",
+          "probability": "Very Hot"
+        },
+        {
+          "number": 7,
+          "question": "∫_0^{π} sin x dx = ?",
+          "options": {
+            "ক": "2",
+            "খ": "0",
+            "গ": "1",
+            "ঘ": "π"
+          },
+          "answer": "ক",
+          "explanation": "Integral = 2.",
+          "topic": "Calculus — definite integral",
+          "probability": "Very Hot"
+        },
+        {
+          "number": 8,
+          "question": "If A=[[1,2],[2,1]], eigenvalues are?",
+          "options": {
+            "ক": "3 and -1",
+            "খ": "2 and 0",
+            "গ": "1 and 2",
+            "ঘ": "-3 and 1"
+          },
+          "answer": "ক",
+          "explanation": "Solve det(A-λI)=0 → (1-λ)^2-4=0 → λ=3,-1.",
+          "topic": "Matrices — eigenvalues",
+          "probability": "Very Hot"
+        },
+        {
+          "number": 9,
+          "question": "d/dx (x^x) = ?",
+          "options": {
+            "ক": "x^x(ln x +1)",
+            "খ": "x^{x-1}",
+            "গ": "x^x ln x",
+            "ঘ": "x^x"
+          },
+          "answer": "ক",
+          "explanation": "Use ln differentiation: derivative = x^x(ln x +1).",
+          "topic": "Calculus — logarithmic differentiation",
+          "probability": "Mega Hot"
+        },
+        {
+          "number": 10,
+          "question": "Probability: draw 2 cards from 52 without replacement, both aces probability?",
+          "options": {
+            "ক": "(4/52)*(3/51)",
+            "খ": "(4/52)^2",
+            "গ": "(4/52)*(4/52)",
+            "ঘ": "(2/52)*(1/51)"
+          },
+          "answer": "ক",
+          "explanation": "First ace 4/52, then 3/51.",
+          "topic": "Probability — combinatorics",
+          "probability": "Very Hot"
+        },
+        {
+          "number": 11,
+          "question": "Solve differential dy/dx = x, y(0)=1 → y = ?",
+          "options": {
+            "ক": "x^2/2 +1",
+            "খ": "x^2 +1",
+            "গ": "1",
+            "ঘ": "x +1"
+          },
+          "answer": "ক",
+          "explanation": "Integrate x → x^2/2 + C; use y(0)=1 → C=1.",
+          "topic": "Differential equations — initial value",
+          "probability": "Very Hot"
+        },
+        {
+          "number": 12,
+          "question": "tan(π/4 + θ) equals?",
+          "options": {
+            "ক": "(1+tan θ)/(1−tan θ)",
+            "খ": "(tan θ −1)/(1+tan θ)",
+            "গ": "tan θ",
+            "ঘ": "1"
+          },
+          "answer": "ক",
+          "explanation": "Use tangent addition formula.",
+          "topic": "Trigonometry — addition",
+          "probability": "Very Hot"
+        },
+        {
+          "number": 13,
+          "question": "If trace of [[a,b],[c,d]] = 5 and det = 6, characteristic equation is λ^2 -5λ +6 =0; roots are?",
+          "options": {
+            "ক": "2 and 3",
+            "খ": "1 and 6",
+            "গ": "-2 and -3",
+            "ঘ": "5 and 6"
+          },
+          "answer": "ক",
+          "explanation": "Solve λ^2-5λ+6=0 → λ=2,3.",
+          "topic": "Matrices — characteristic equation",
+          "probability": "Very Hot"
+        },
+        {
+          "number": 14,
+          "question": "Sum of first n odd numbers equals?",
+          "options": {
+            "ক": "n^2",
+            "খ": "2n",
+            "গ": "n(n+1)",
+            "ঘ": "(n+1)^2"
+          },
+          "answer": "ক",
+          "explanation": "1+3+...+(2n-1)=n^2.",
+          "topic": "Sequences — sums",
+          "probability": "Mega Hot"
+        },
+        {
+          "number": 15,
+          "question": "Derivative of sinh x is?",
+          "options": {
+            "ক": "cosh x",
+            "খ": "sinh x",
+            "গ": "tanh x",
+            "ঘ": "sech x"
+          },
+          "answer": "ক",
+          "explanation": "d/dx sinh x = cosh x.",
+          "topic": "Calculus — hyperbolic",
+          "probability": "Very Hot"
+        },
+        {
+          "number": 16,
+          "question": "If det A = 0 then A is?",
+          "options": {
+            "ক": "singular",
+            "খ": "invertible",
+            "গ": "orthogonal",
+            "ঘ": "diagonalizable always"
+          },
+          "answer": "ক",
+          "explanation": "det=0 → matrix singular (non-invertible).",
+          "topic": "Matrices — singularity",
+          "probability": "Very Hot"
+        },
+        {
+          "number": 17,
+          "question": "Geometric series 5 + 5/2 + 5/4 + ... infinite sum = ?",
+          "options": {
+            "ক": "10",
+            "খ": "5",
+            "গ": "15",
+            "ঘ": "20"
+          },
+          "answer": "ক",
+          "explanation": "a=5, r=1/2 → sum=5/(1-1/2)=10.",
+          "topic": "Sequences — geometric",
+          "probability": "Mega Hot"
+        },
+        {
+          "number": 18,
+          "question": "Parametric x=cos t, y=sin t; dx/dt at t=π/2 is ?",
+          "options": {
+            "ক": "0",
+            "খ": "-1",
+            "গ": "1",
+            "ঘ": "undefined"
+          },
+          "answer": "খ",
+          "explanation": "dx/dt = -sin t; at π/2 = -1.",
+          "topic": "Parametric differentiation",
+          "probability": "Very Hot"
+        },
+        {
+          "number": 19,
+          "question": "∫_1^2 (3/x) dx = ?",
+          "options": {
+            "ক": "3 ln 2",
+            "খ": "ln 2",
+            "গ": "3/2",
+            "ঘ": "1"
+          },
+          "answer": "ক",
+          "explanation": "3∫1^2 (1/x) dx = 3 ln 2.",
+          "topic": "Calculus — definite integral",
+          "probability": "Very Hot"
+        },
+        {
+          "number": 20,
+          "question": "If P(A)=0.2, P(B)=0.3 and mutually exclusive, P(A∪B) = ?",
+          "options": {
+            "ক": "0.5",
+            "খ": "0.06",
+            "গ": "0.2",
+            "ঘ": "0.3"
+          },
+          "answer": "ক",
+          "explanation": "Mutually exclusive → sum = 0.2+0.3=0.5.",
+          "topic": "Probability — mutually exclusive",
+          "probability": "Very Hot"
+        },
+        {
+          "number": 21,
+          "question": "Which is false? i) d/dx(e^{ax}) = a e^{ax}; ii) ∫ e^{ax} dx = e^{ax}/a + C; iii) e^{x+y} = e^x + e^y.",
+          "options": {
+            "ক": "i ও ii",
+            "খ": "i ও iii",
+            "গ": "ii ও iii",
+            "ঘ": "iii only"
+          },
+          "answer": "ঘ",
+          "explanation": "iii is false (e^{x+y}=e^x e^y).",
+          "topic": "Exponential rules",
+          "probability": "Very Hot"
+        },
+        {
+          "number": 22,
+          "question": "Vector projection of a onto b formula involves?",
+          "options": {
+            "ক": "(a·b)/|b|",
+            "খ": "(a·b)/|b|^2 b",
+            "গ": "a×b",
+            "ঘ": "|a|+|b|"
+          },
+          "answer": "খ",
+          "explanation": "Projection vector = ((a·b)/|b|^2) b.",
+          "topic": "Vectors — projection",
+          "probability": "Very Hot"
+        },
+        {
+          "number": 23,
+          "question": "Sum of geometric series with a=2, r=3 (finite n=3) = ?",
+          "options": {
+            "ক": "2+6+18=26",
+            "খ": "2+6+18+54",
+            "গ": "2(1-3^3)/(1-3)",
+            "ঘ": "both ক and গ"
+          },
+          "answer": "ঘ",
+          "explanation": "Finite sum = a(1-r^n)/(1-r) = 2(1-27)/(1-3)=26; matches direct sum.",
+          "topic": "Sequences — finite geometric",
+          "probability": "Very Hot"
+        },
+        {
+          "number": 24,
+          "question": "d/dx (ln|x|) = ?",
+          "options": {
+            "ক": "1/x",
+            "খ": "ln x",
+            "গ": "x",
+            "ঘ": "|x|"
+          },
+          "answer": "ক",
+          "explanation": "Derivative of ln|x| is 1/x for x≠0.",
+          "topic": "Calculus — log derivative",
+          "probability": "Very Hot"
+        },
+        {
+          "number": 25,
+          "question": "Which integrals converge? i) ∫_1^∞ 1/x dx; ii) ∫_1^∞ 1/x^2 dx; iii) ∫_0^1 1/√x dx. Which true?",
+          "options": {
+            "ক": "i ও ii",
+            "খ": "ii ও iii",
+            "গ": "i ও iii",
+            "ঘ": "ii only"
+          },
+          "answer": "খ",
+          "explanation": "1/x diverges, 1/x^2 converges, ∫_0^1 1/√x dx converges (2).",
+          "topic": "Improper integrals",
+          "probability": "Conceptual Trap"
+        }
+      ]
+    },
+    {
+      "set_id": 4,
+      "label": "SET 4",
+      "questions": [
+        {
+          "number": 1,
+          "question": "If f(x)=ln(x^2+1), f''(0) = ?",
+          "options": {
+            "ক": "2",
+            "খ": "0",
+            "গ": "-2",
+            "ঘ": "1"
+          },
+          "answer": "ক",
+          "explanation": "f' = 2x/(x^2+1); f'' = 2(1-x^2)/(x^2+1)^2; at 0 gives 2.",
+          "topic": "Calculus — second derivative",
+          "probability": "Very Hot"
+        },
+        {
+          "number": 2,
+          "question": "∫ sec^2 x dx = ?",
+          "options": {
+            "ক": "tan x + C",
+            "খ": "sec x + C",
+            "গ": "cot x + C",
+            "ঘ": "-tan x + C"
+          },
+          "answer": "ক",
+          "explanation": "Standard integral of sec^2 x is tan x.",
+          "topic": "Calculus — trig integrals",
+          "probability": "Very Hot"
+        },
+        {
+          "number": 3,
+          "question": "Matrix [[3,0],[0,2]] determinant = ?",
+          "options": {
+            "ক": "6",
+            "খ": "5",
+            "গ": "1",
+            "ঘ": "0"
+          },
+          "answer": "ক",
+          "explanation": "det = 3·2 = 6.",
+          "topic": "Matrices — determinant",
+          "probability": "Very Hot"
+        },
+        {
+          "number": 4,
+          "question": "If z = re^{iθ}, then z̄ = ?",
+          "options": {
+            "ক": "re^{-iθ}",
+            "খ": "r e^{iθ}",
+            "গ": "-re^{iθ}",
+            "ঘ": "1/(re^{iθ})"
+          },
+          "answer": "ক",
+          "explanation": "Complex conjugate of re^{iθ} is re^{-iθ}.",
+          "topic": "Complex numbers — polar form",
+          "probability": "Very Hot"
+        },
+        {
+          "number": 5,
+          "question": "Solve x^2+1=0 roots are?",
+          "options": {
+            "ক": "i and -i",
+            "খ": "1 and -1",
+            "গ": "0 and 1",
+            "ঘ": "no real roots"
+          },
+          "answer": "ক",
+          "explanation": "x^2 = -1 → x = ±i.",
+          "topic": "Algebra — complex roots",
+          "probability": "Mega Hot"
+        },
+        {
+          "number": 6,
+          "question": "sin2x identity equals?",
+          "options": {
+            "ক": "2 sin x cos x",
+            "খ": "sin^2 x + cos^2 x",
+            "গ": "tan x",
+            "ঘ": "2 cos^2 x"
+          },
+          "answer": "ক",
+          "explanation": "Standard double-angle identity.",
+          "topic": "Trigonometry — double angle",
+          "probability": "Very Hot"
+        },
+        {
+          "number": 7,
+          "question": "∫_0^{π/2} sin x dx = ?",
+          "options": {
+            "ক": "1",
+            "খ": "2",
+            "গ": "0",
+            "ঘ": "π/2"
+          },
+          "answer": "ক",
+          "explanation": "Integral = 1.",
+          "topic": "Calculus — definite integral",
+          "probability": "Very Hot"
+        },
+        {
+          "number": 8,
+          "question": "If A is 2×2 with trace 4 and det 3, eigenvalues are?",
+          "options": {
+            "ক": "1 and 3",
+            "খ": "2 and 2",
+            "গ": "3 and 1",
+            "ঘ": "4 and 3"
+          },
+          "answer": "ক",
+          "explanation": "λ^2 -4λ +3=0 → λ=1,3.",
+          "topic": "Matrices — eigenvalues",
+          "probability": "Very Hot"
+        },
+        {
+          "number": 9,
+          "question": "d/dx (x ln x) = ?",
+          "options": {
+            "ক": "ln x +1",
+            "খ": "ln x",
+            "গ": "1/x",
+            "ঘ": "x"
+          },
+          "answer": "ক",
+          "explanation": "Product rule: 1·ln x + x·(1/x) = ln x +1.",
+          "topic": "Calculus — product rule",
+          "probability": "Very Hot"
+        },
+        {
+          "number": 10,
+          "question": "Probability: one die rolled twice, probability sum=7?",
+          "options": {
+            "ক": "6/36",
+            "খ": "1/6",
+            "গ": "1/12",
+            "ঘ": "5/36"
+          },
+          "answer": "ক",
+          "explanation": "Pairs (1,6),(2,5)... total 6/36 = 1/6.",
+          "topic": "Probability — dice",
+          "probability": "Very Hot"
+        },
+        {
+          "number": 11,
+          "question": "Solve dy/dx = 2x, y(0)=0 → y = ?",
+          "options": {
+            "ক": "x^2",
+            "খ": "2x",
+            "গ": "x^2 + C",
+            "ঘ": "0"
+          },
+          "answer": "ক",
+          "explanation": "Integrate 2x → x^2; constant 0 from initial condition.",
+          "topic": "Differential equations",
+          "probability": "Very Hot"
+        },
+        {
+          "number": 12,
+          "question": "tan(3θ) formula involves?",
+          "options": {
+            "ক": "(3t - t^3)/(1 - 3t^2) where t=tan θ",
+            "খ": "3 tan θ",
+            "গ": "tan^3 θ",
+            "ঘ": "(tan θ + tan 2θ)"
+          },
+          "answer": "ক",
+          "explanation": "Standard triple-angle tangent identity.",
+          "topic": "Trigonometry — multiple angle",
+          "probability": "Very Hot"
+        },
+        {
+          "number": 13,
+          "question": "If A=[[0,1],[-1,0]] then A^2 = ?",
+          "options": {
+            "ক": "[[-1,0],[0,-1]]",
+            "খ": "[[1,0],[0,1]]",
+            "গ": "[[0,-1],[1,0]]",
+            "ঘ": "[[0,1],[-1,0]]"
+          },
+          "answer": "ক",
+          "explanation": "This rotation matrix squared = -I.",
+          "topic": "Matrices — powers",
+          "probability": "Very Hot"
+        },
+        {
+          "number": 14,
+          "question": "Sum of first n even numbers equals?",
+          "options": {
+            "ক": "n(n+1)",
+            "খ": "n^2",
+            "গ": "2n",
+            "ঘ": "n(2n+1)"
+          },
+          "answer": "ক",
+          "explanation": "2+4+...+2n = 2(1+...+n)=n(n+1).",
+          "topic": "Sequences — sums",
+          "probability": "Mega Hot"
+        },
+        {
+          "number": 15,
+          "question": "d/dx (cosh x) = ?",
+          "options": {
+            "ক": "sinh x",
+            "খ": "cosh x",
+            "গ": "tanh x",
+            "ঘ": "sech x"
+          },
+          "answer": "ক",
+          "explanation": "Derivative of cosh is sinh.",
+          "topic": "Calculus — hyperbolic",
+          "probability": "Very Hot"
+        },
+        {
+          "number": 16,
+          "question": "If det(A)=2 and A is 3×3, det(3A) = ?",
+          "options": {
+            "ক": "27·2",
+            "খ": "9·2",
+            "গ": "3·2",
+            "ঘ": "2"
+          },
+          "answer": "ক",
+          "explanation": "det(kA)=k^n det A; n=3 → 3^3·2=54.",
+          "topic": "Matrices — determinant scaling",
+          "probability": "Very Hot"
+        },
+        {
+          "number": 17,
+          "question": "Infinite geometric with a=1, r=1/2 sum = ?",
+          "options": {
+            "ক": "2",
+            "খ": "1",
+            "গ": "1/2",
+            "ঘ": "3/2"
+          },
+          "answer": "ক",
+          "explanation": "1/(1-1/2)=2.",
+          "topic": "Sequences — geometric",
+          "probability": "Mega Hot"
+        },
+        {
+          "number": 18,
+          "question": "Parametric x=t, y=t^2 slope at t=2 is ?",
+          "options": {
+            "ক": "4",
+            "খ": "2",
+            "গ": "1",
+            "ঘ": "0"
+          },
+          "answer": "ক",
+          "explanation": "dy/dx = (2t)/(1) = 4 at t=2.",
+          "topic": "Parametric differentiation",
+          "probability": "Very Hot"
+        },
+        {
+          "number": 19,
+          "question": "∫_2^3 (1/x) dx = ?",
+          "options": {
+            "ক": "ln(3/2)",
+            "খ": "ln 3",
+            "গ": "1",
+            "ঘ": "ln2"
+          },
+          "answer": "ক",
+          "explanation": "ln x from 2 to 3 = ln3 - ln2 = ln(3/2).",
+          "topic": "Calculus — definite integral",
+          "probability": "Very Hot"
+        },
+        {
+          "number": 20,
+          "question": "If events independent, P(A|B) = ?",
+          "options": {
+            "ক": "P(A)",
+            "খ": "P(B)",
+            "গ": "P(A∩B)",
+            "ঘ": "P(A)+P(B)"
+          },
+          "answer": "ক",
+          "explanation": "Independence implies conditional equals marginal.",
+          "topic": "Probability — independence",
+          "probability": "Very Hot"
+        },
+        {
+          "number": 21,
+          "question": "Which is false? i) ∫ e^{x} dx = e^{x}+C; ii) d/dx(sin x)=cos x; iii) ∫ 1/x dx = ln|x| + C. Which false?",
+          "options": {
+            "ক": "i only",
+            "খ": "ii only",
+            "গ": "iii only",
+            "ঘ": "none"
+          },
+          "answer": "ঘ",
+          "explanation": "All three are true.",
+          "topic": "Calculus — basics",
+          "probability": "Board Favourite"
+        },
+        {
+          "number": 22,
+          "question": "Vector magnitude |(3,4)| = ?",
+          "options": {
+            "ক": "5",
+            "খ": "7",
+            "গ": "25",
+            "ঘ": "1"
+          },
+          "answer": "ক",
+          "explanation": "√(9+16)=5.",
+          "topic": "Vectors — magnitude",
+          "probability": "Very Hot"
+        },
+        {
+          "number": 23,
+          "question": "Sum 2+4+...+2n = ?",
+          "options": {
+            "ক": "n(n+1)",
+            "খ": "n^2",
+            "গ": "2n",
+            "ঘ": "n(2n+1)"
+          },
+          "answer": "ক",
+          "explanation": "2(1+...+n)=n(n+1).",
+          "topic": "Sequences — arithmetic",
+          "probability": "Mega Hot"
+        },
+        {
+          "number": 24,
+          "question": "d/dx (arcsin x) = ?",
+          "options": {
+            "ক": "1/√(1-x^2)",
+            "খ": "1/(1-x^2)",
+            "গ": "√(1-x^2)",
+            "ঘ": "-1/√(1-x^2)"
+          },
+          "answer": "ক",
+          "explanation": "Standard derivative of arcsin x.",
+          "topic": "Calculus — inverse trig",
+          "probability": "Very Hot"
+        },
+        {
+          "number": 25,
+          "question": "Which improper integral diverges? i) ∫_1^∞ 1/x dx; ii) ∫_1^∞ 1/x^p dx with p>1; iii) ∫_0^1 1/x dx. Which diverge?",
+          "options": {
+            "ক": "i ও iii",
+            "খ": "i only",
+            "গ": "ii only",
+            "ঘ": "iii only"
+          },
+          "answer": "ক",
+          "explanation": "1/x diverges at ∞ and at 0; p>1 converges.",
+          "topic": "Improper integrals",
+          "probability": "Conceptual Trap"
+        }
+      ]
+    },
+    {
+      "set_id": 5,
+      "label": "SET 5",
+      "questions": [
+        {
+          "number": 1,
+          "question": "If f(x)=x^4, f'''(1) = ?",
+          "options": {
+            "ক": "24",
+            "খ": "12",
+            "গ": "4",
+            "ঘ": "0"
+          },
+          "answer": "ক",
+          "explanation": "f' =4x^3, f''=12x^2, f'''=24x; at 1 gives 24.",
+          "topic": "Calculus — higher derivatives",
+          "probability": "Very Hot"
+        },
+        {
+          "number": 2,
+          "question": "∫ sin x cos x dx = ?",
+          "options": {
+            "ক": "(1/2) sin^2 x + C",
+            "খ": "sin^2 x + C",
+            "গ": "-cos^2 x + C",
+            "ঘ": "cos^2 x + C"
+          },
+          "answer": "ক",
+          "explanation": "Use substitution u=sin x → integral = 1/2 sin^2 x + C.",
+          "topic": "Calculus — trig integrals",
+          "probability": "Very Hot"
+        },
+        {
+          "number": 3,
+          "question": "Matrix [[1,1],[1,1]] rank is?",
+          "options": {
+            "ক": "1",
+            "খ": "2",
+            "গ": "0",
+            "ঘ": "undefined"
+          },
+          "answer": "ক",
+          "explanation": "Rows are identical → rank 1.",
+          "topic": "Matrices — rank",
+          "probability": "Very Hot"
+        },
+        {
+          "number": 4,
+          "question": "If z = 2e^{iπ/3}, Re(z) = ?",
+          "options": {
+            "ক": "1",
+            "খ": "2",
+            "গ": "√3",
+            "ঘ": "-1"
+          },
+          "answer": "ক",
+          "explanation": "Re = 2 cos(π/3)=2·1/2=1.",
+          "topic": "Complex numbers — polar",
+          "probability": "Very Hot"
+        },
+        {
+          "number": 5,
+          "question": "Solve x^2 - 4 = 0 roots?",
+          "options": {
+            "ক": "2 and -2",
+            "খ": "4 and -4",
+            "গ": "0 and 4",
+            "ঘ": "2 only"
+          },
+          "answer": "ক",
+          "explanation": "x=±2.",
+          "topic": "Algebra — quadratic",
+          "probability": "Mega Hot"
+        },
+        {
+          "number": 6,
+          "question": "cos(2x) identity equals?",
+          "options": {
+            "ক": "cos^2 x - sin^2 x",
+            "খ": "2 cos^2 x",
+            "গ": "1 - 2 sin^2 x",
+            "ঘ": "all of the above"
+          },
+          "answer": "ঘ",
+          "explanation": "All three are equivalent forms.",
+          "topic": "Trigonometry — double angle",
+          "probability": "Very Hot"
+        },
+        {
+          "number": 7,
+          "question": "∫_0^{1} x dx = ?",
+          "options": {
+            "ক": "1/2",
+            "খ": "1",
+            "গ": "0",
+            "ঘ": "2"
+          },
+          "answer": "ক",
+          "explanation": "Integral = x^2/2 from 0 to1 =1/2.",
+          "topic": "Calculus — definite integral",
+          "probability": "Very Hot"
+        },
+        {
+          "number": 8,
+          "question": "If A=[[2,0],[0,2]], A^{-1} = ?",
+          "options": {
+            "ক": "[[1/2,0],[0,1/2]]",
+            "খ": "[[2,0],[0,2]]",
+            "গ": "[[0,0],[0,0]]",
+            "ঘ": "[[1,0],[0,1]]"
+          },
+          "answer": "ক",
+          "explanation": "Inverse of scalar matrix is scalar inverse.",
+          "topic": "Matrices — inverse",
+          "probability": "Very Hot"
+        },
+        {
+          "number": 9,
+          "question": "d/dx (ln(1+x^2)) = ?",
+          "options": {
+            "ক": "2x/(1+x^2)",
+            "খ": "1/(1+x^2)",
+            "গ": "2/(1+x^2)",
+            "ঘ": "x/(1+x^2)"
+          },
+          "answer": "ক",
+          "explanation": "Chain rule: derivative of ln(u) is u'/u.",
+          "topic": "Calculus — chain rule",
+          "probability": "Very Hot"
+        },
+        {
+          "number": 10,
+          "question": "Probability: choose 1 card from 52, probability of heart = ?",
+          "options": {
+            "ক": "1/4",
+            "খ": "1/13",
+            "গ": "1/52",
+            "ঘ": "1/2"
+          },
+          "answer": "ক",
+          "explanation": "13 hearts out of 52 → 1/4.",
+          "topic": "Probability — basic",
+          "probability": "Very Hot"
+        },
+        {
+          "number": 11,
+          "question": "Solve dy/dx = y, y(0)=2 → y = ?",
+          "options": {
+            "ক": "2 e^{x}",
+            "খ": "e^{x}",
+            "গ": "2x",
+            "ঘ": "x^2+2"
+          },
+          "answer": "ক",
+          "explanation": "Solution y = Ce^{x}, C=2.",
+          "topic": "Differential equations",
+          "probability": "Very Hot"
+        },
+        {
+          "number": 12,
+          "question": "tan(π/6) equals?",
+          "options": {
+            "ক": "1/√3",
+            "খ": "√3",
+            "গ": "1",
+            "ঘ": "0"
+          },
+          "answer": "ক",
+          "explanation": "tan 30° = 1/√3.",
+          "topic": "Trigonometry — standard values",
+          "probability": "Very Hot"
+        },
+        {
+          "number": 13,
+          "question": "If tr(A)=0 and A is 2×2 with eigenvalues λ1,λ2 then λ1+λ2 = ?",
+          "options": {
+            "ক": "0",
+            "খ": "1",
+            "গ": "2",
+            "ঘ": "-1"
+          },
+          "answer": "ক",
+          "explanation": "Trace equals sum of eigenvalues.",
+          "topic": "Matrices — trace",
+          "probability": "Very Hot"
+        },
+        {
+          "number": 14,
+          "question": "Sum of first n natural numbers = ?",
+          "options": {
+            "ক": "n(n+1)/2",
+            "খ": "n^2",
+            "গ": "n(n-1)/2",
+            "ঘ": "(n+1)^2/2"
+          },
+          "answer": "ক",
+          "explanation": "Standard formula.",
+          "topic": "Sequences — arithmetic",
+          "probability": "Mega Hot"
+        },
+        {
+          "number": 15,
+          "question": "d/dx (e^{ax}) = ?",
+          "options": {
+            "ক": "a e^{ax}",
+            "খ": "e^{ax}",
+            "গ": "ax e^{ax}",
+            "ঘ": "0"
+          },
+          "answer": "ক",
+          "explanation": "Chain rule for exponential.",
+          "topic": "Calculus — exponential",
+          "probability": "Very Hot"
+        },
+        {
+          "number": 16,
+          "question": "If det A = 4 for 2×2, det(A^{-1}) = ?",
+          "options": {
+            "ক": "1/4",
+            "খ": "4",
+            "গ": "-4",
+            "ঘ": "0"
+          },
+          "answer": "ক",
+          "explanation": "det(A^{-1}) = 1/det A.",
+          "topic": "Matrices — inverse determinant",
+          "probability": "Very Hot"
+        },
+        {
+          "number": 17,
+          "question": "Geometric series 8 + 4 + 2 + ... infinite sum = ?",
+          "options": {
+            "ক": "16",
+            "খ": "8",
+            "গ": "4",
+            "ঘ": "32"
+          },
+          "answer": "ক",
+          "explanation": "a=8, r=1/2 → sum=8/(1-1/2)=16.",
+          "topic": "Sequences — geometric",
+          "probability": "Mega Hot"
+        },
+        {
+          "number": 18,
+          "question": "Parametric x=2t, y=3t^2 slope at t=1 = ?",
+          "options": {
+            "ক": "3",
+            "খ": "1.5",
+            "গ": "6",
+            "ঘ": "0"
+          },
+          "answer": "ক",
+          "explanation": "dy/dt=6t, dx/dt=2 → dy/dx=(6t)/2=3 at t=1.",
+          "topic": "Parametric differentiation",
+          "probability": "Very Hot"
+        },
+        {
+          "number": 19,
+          "question": "∫_0^1 (x^2) dx = ?",
+          "options": {
+            "ক": "1/3",
+            "খ": "1/2",
+            "গ": "1",
+            "ঘ": "2/3"
+          },
+          "answer": "ক",
+          "explanation": "x^3/3 from 0 to1 =1/3.",
+          "topic": "Calculus — definite integral",
+          "probability": "Very Hot"
+        },
+        {
+          "number": 20,
+          "question": "If P(A)=0.25, P(B)=0.4 and independent, P(A∪B) = ?",
+          "options": {
+            "ক": "0.55",
+            "খ": "0.65",
+            "গ": "0.1",
+            "ঘ": "0.75"
+          },
+          "answer": "ক",
+          "explanation": "P(A∪B)=P(A)+P(B)-P(A)P(B)=0.25+0.4-0.1=0.55.",
+          "topic": "Probability — independence",
+          "probability": "Very Hot"
+        },
+        {
+          "number": 21,
+          "question": "Which is true? i) d/dx(sin x)=cos x; ii) ∫ cos x dx = sin x + C; iii) d/dx(ln x)=1/x. Which true?",
+          "options": {
+            "ক": "i ও ii",
+            "খ": "i ও iii",
+            "গ": "ii ও iii",
+            "ঘ": "i, ii ও iii"
+          },
+          "answer": "ঘ",
+          "explanation": "All three standard results are true.",
+          "topic": "Calculus — basics",
+          "probability": "Board Favourite"
+        },
+        {
+          "number": 22,
+          "question": "Vector (1,1,1) magnitude = ?",
+          "options": {
+            "ক": "√3",
+            "খ": "3",
+            "গ": "1",
+            "ঘ": "√2"
+          },
+          "answer": "ক",
+          "explanation": "√(1+1+1)=√3.",
+          "topic": "Vectors — magnitude",
+          "probability": "Very Hot"
+        },
+        {
+          "number": 23,
+          "question": "Sum of geometric finite a(1-r^n)/(1-r) with a=3,r=2,n=3 gives?",
+          "options": {
+            "ক": "3(1-8)/(1-2) = 21",
+            "খ": "3+6+12=21",
+            "গ": "both ক and খ",
+            "ঘ": "none"
+          },
+          "answer": "গ",
+          "explanation": "Direct sum 3+6+12=21 matches formula.",
+          "topic": "Sequences — finite geometric",
+          "probability": "Very Hot"
+        },
+        {
+          "number": 24,
+          "question": "d/dx (cot x) = ?",
+          "options": {
+            "ক": "-csc^2 x",
+            "খ": "csc^2 x",
+            "গ": "-sec^2 x",
+            "ঘ": "sec^2 x"
+          },
+          "answer": "ক",
+          "explanation": "Derivative of cot x is -csc^2 x.",
+          "topic": "Calculus — trig derivatives",
+          "probability": "Very Hot"
+        },
+        {
+          "number": 25,
+          "question": "Which improper integral converges? i) ∫_1^∞ 1/x dx; ii) ∫_1^∞ 1/x^{1.5} dx; iii) ∫_0^1 1/x dx. Which converge?",
+          "options": {
+            "ক": "ii only",
+            "খ": "i only",
+            "গ": "i and iii",
+            "ঘ": "none"
+          },
+          "answer": "ক",
+          "explanation": "p>1 converges (ii); i and iii diverge.",
+          "topic": "Improper integrals",
+          "probability": "Conceptual Trap"
+        }
+      ]
+    },
+    {
+      "set_id": 6,
+      "label": "SET 6",
+      "questions": [
+        {
+          "number": 1,
+          "question": "If f(x)=sin x / x (x≠0) and f(0)=1, f'(0) = ?",
+          "options": {
+            "ক": "0",
+            "খ": "1",
+            "গ": "-1/3",
+            "ঘ": "undefined"
+          },
+          "answer": "ক",
+          "explanation": "Use limit definition; derivative at 0 is 0.",
+          "topic": "Calculus — limits & derivatives",
+          "probability": "Conceptual Trap"
+        },
+        {
+          "number": 2,
+          "question": "∫ e^{2x} dx = ?",
+          "options": {
+            "ক": "(1/2)e^{2x}+C",
+            "খ": "2 e^{2x}+C",
+            "গ": "e^{2x}+C",
+            "ঘ": "ln e^{2x}+C"
+          },
+          "answer": "ক",
+          "explanation": "Integral of e^{ax} is e^{ax}/a.",
+          "topic": "Calculus — exponential integral",
+          "probability": "Very Hot"
+        },
+        {
+          "number": 3,
+          "question": "Matrix [[1,2,3],[0,1,4],[0,0,1]] is upper triangular; determinant = ?",
+          "options": {
+            "ক": "1",
+            "খ": "2",
+            "গ": "3",
+            "ঘ": "6"
+          },
+          "answer": "ক",
+          "explanation": "Determinant is product of diagonal =1·1·1=1.",
+          "topic": "Matrices — determinant",
+          "probability": "Very Hot"
+        },
+        {
+          "number": 4,
+          "question": "If z = 1 + i√3, argument θ = ?",
+          "options": {
+            "ক": "60°",
+            "খ": "30°",
+            "গ": "120°",
+            "ঘ": "-60°"
+          },
+          "answer": "ক",
+          "explanation": "tan θ = √3/1 → θ=60° in QI.",
+          "topic": "Complex numbers — argument",
+          "probability": "Very Hot"
+        },
+        {
+          "number": 5,
+          "question": "Solve x^2 - x - 6 = 0 roots?",
+          "options": {
+            "ক": "3 and -2",
+            "খ": "2 and -3",
+            "গ": "-3 and -2",
+            "ঘ": "3 and 2"
+          },
+          "answer": "ক",
+          "explanation": "(x-3)(x+2)=0 → 3 and -2.",
+          "topic": "Algebra — quadratic",
+          "probability": "Mega Hot"
+        },
+        {
+          "number": 6,
+          "question": "cos(A+B) identity equals?",
+          "options": {
+            "ক": "cosA cosB - sinA sinB",
+            "খ": "cosA sinB + sinA cosB",
+            "গ": "sinA sinB",
+            "ঘ": "tanA + tanB"
+          },
+          "answer": "ক",
+          "explanation": "Standard cosine addition formula.",
+          "topic": "Trigonometry — addition",
+          "probability": "Very Hot"
+        },
+        {
+          "number": 7,
+          "question": "∫_0^{π/4} sec^2 x dx = ?",
+          "options": {
+            "ক": "tan(π/4)-tan0 =1",
+            "খ": "sec(π/4)-sec0",
+            "গ": "ln|sec x + tan x|",
+            "ঘ": "0"
+          },
+          "answer": "ক",
+          "explanation": "Integral of sec^2 is tan; tan π/4 =1.",
+          "topic": "Calculus — definite integral",
+          "probability": "Very Hot"
+        },
+        {
+          "number": 8,
+          "question": "If A=[[0,1],[-1,0]], A^4 = ?",
+          "options": {
+            "ক": "I",
+            "খ": "-I",
+            "গ": "A^2",
+            "ঘ": "0"
+          },
+          "answer": "ক",
+          "explanation": "This rotation matrix to 90°; A^4 = identity.",
+          "topic": "Matrices — powers",
+          "probability": "Very Hot"
+        },
+        {
+          "number": 9,
+          "question": "d/dx (x^x) at x=1 equals?",
+          "options": {
+            "ক": "1",
+            "খ": "2",
+            "গ": "0",
+            "ঘ": "e"
+          },
+          "answer": "ক",
+          "explanation": "Derivative x^x(ln x +1); at x=1 gives 1·(0+1)=1.",
+          "topic": "Calculus — logarithmic differentiation",
+          "probability": "Very Hot"
+        },
+        {
+          "number": 10,
+          "question": "Probability: two independent events with P(A)=0.2, P(B)=0.3, P(neither) = ?",
+          "options": {
+            "ক": "0.56",
+            "খ": "0.5",
+            "গ": "0.7",
+            "ঘ": "0.44"
+          },
+          "answer": "ক",
+          "explanation": "P(neither)=1-P(A∪B)=1-(0.2+0.3-0.06)=1-0.44=0.56.",
+          "topic": "Probability — complements",
+          "probability": "Very Hot"
+        },
+        {
+          "number": 11,
+          "question": "Solve dy/dx = 3x^2, y(0)=4 → y = ?",
+          "options": {
+            "ক": "x^3 +4",
+            "খ": "x^3",
+            "গ": "3x^3 +4",
+            "ঘ": "x^2 +4"
+          },
+          "answer": "ক",
+          "explanation": "Integrate 3x^2 → x^3 + C; C=4.",
+          "topic": "Differential equations",
+          "probability": "Very Hot"
+        },
+        {
+          "number": 12,
+          "question": "tan(π/3) equals?",
+          "options": {
+            "ক": "√3",
+            "খ": "1/√3",
+            "গ": "1",
+            "ঘ": "0"
+          },
+          "answer": "ক",
+          "explanation": "tan 60° = √3.",
+          "topic": "Trigonometry — standard values",
+          "probability": "Very Hot"
+        },
+        {
+          "number": 13,
+          "question": "If tr(A)=6 and det(A)=8 for 2×2, characteristic eqn λ^2 -6λ +8=0 roots are?",
+          "options": {
+            "ক": "2 and 4",
+            "খ": "1 and 8",
+            "গ": "-2 and -4",
+            "ঘ": "6 and 8"
+          },
+          "answer": "ক",
+          "explanation": "Solve gives λ=2,4.",
+          "topic": "Matrices — characteristic",
+          "probability": "Very Hot"
+        },
+        {
+          "number": 14,
+          "question": "Sum of first n cubes equals?",
+          "options": {
+            "ক": "(n(n+1)/2)^2",
+            "খ": "n^2(n+1)^2",
+            "গ": "n(n+1)(2n+1)/6",
+            "ঘ": "n^2"
+          },
+          "answer": "ক",
+          "explanation": "1^3+...+n^3 = (n(n+1)/2)^2.",
+          "topic": "Sequences — sums",
+          "probability": "Mega Hot"
+        },
+        {
+          "number": 15,
+          "question": "d/dx (arccos x) = ?",
+          "options": {
+            "ক": "-1/√(1-x^2)",
+            "খ": "1/√(1-x^2)",
+            "গ": "1/(1+x^2)",
+            "ঘ": "-1/(1+x^2)"
+          },
+          "answer": "ক",
+          "explanation": "Derivative of arccos x is -1/√(1-x^2).",
+          "topic": "Calculus — inverse trig",
+          "probability": "Very Hot"
+        },
+        {
+          "number": 16,
+          "question": "If det(A)=5 for 3×3, det(2A)= ?",
+          "options": {
+            "ক": "40",
+            "খ": "10",
+            "গ": "2·5",
+            "ঘ": "5"
+          },
+          "answer": "ক",
+          "explanation": "det(kA)=k^n det A; n=3 → 2^3·5=40.",
+          "topic": "Matrices — determinant scaling",
+          "probability": "Very Hot"
+        },
+        {
+          "number": 17,
+          "question": "Infinite geometric with a=6, r=1/3 sum = ?",
+          "options": {
+            "ক": "9",
+            "খ": "6",
+            "গ": "18",
+            "ঘ": "3"
+          },
+          "answer": "ক",
+          "explanation": "6/(1-1/3)=6/(2/3)=9.",
+          "topic": "Sequences — geometric",
+          "probability": "Mega Hot"
+        },
+        {
+          "number": 18,
+          "question": "Parametric x=cos t, y=cos 2t slope at t=0 = ?",
+          "options": {
+            "ক": "0",
+            "খ": "-2",
+            "গ": "2",
+            "ঘ": "undefined"
+          },
+          "answer": "ক",
+          "explanation": "dx/dt=-sin t (0), dy/dt=-2 sin2t (0) → slope =0.",
+          "topic": "Parametric differentiation",
+          "probability": "Conceptual Trap"
+        },
+        {
+          "number": 19,
+          "question": "∫_1^4 2x dx = ?",
+          "options": {
+            "ক": "15",
+            "খ": "10",
+            "গ": "8",
+            "ঘ": "12"
+          },
+          "answer": "ক",
+          "explanation": "x^2 from1 to4 =16-1=15.",
+          "topic": "Calculus — definite integral",
+          "probability": "Very Hot"
+        },
+        {
+          "number": 20,
+          "question": "If P(A)=0.4, P(B)=0.5 and P(A∩B)=0.2, P(A|B) = ?",
+          "options": {
+            "ক": "0.4",
+            "খ": "0.5",
+            "গ": "0.2",
+            "ঘ": "0.25"
+          },
+          "answer": "ক",
+          "explanation": "P(A|B)=P(A∩B)/P(B)=0.2/0.5=0.4.",
+          "topic": "Probability — conditional",
+          "probability": "Very Hot"
+        },
+        {
+          "number": 21,
+          "question": "Which is true? i) d/dx(ln x)=1/x; ii) ∫ 1/x dx = ln|x| + C; iii) ln(ab)=ln a + ln b. Which true?",
+          "options": {
+            "ক": "i ও ii",
+            "খ": "i ও iii",
+            "গ": "ii ও iii",
+            "ঘ": "i, ii ও iii"
+          },
+          "answer": "ঘ",
+          "explanation": "All three are standard log properties.",
+          "topic": "Logarithms — properties",
+          "probability": "Board Favourite"
+        },
+        {
+          "number": 22,
+          "question": "Vector (2,-2,1) magnitude = ?",
+          "options": {
+            "ক": "3",
+            "খ": "√9",
+            "গ": "√(4+4+1)=3",
+            "ঘ": "√(4+4+1)=√9"
+          },
+          "answer": "ক",
+          "explanation": "Magnitude √(4+4+1)=√9=3.",
+          "topic": "Vectors — magnitude",
+          "probability": "Very Hot"
+        },
+        {
+          "number": 23,
+          "question": "Sum 1+4+9+...+n^2 formula is?",
+          "options": {
+            "ক": "n(n+1)(2n+1)/6",
+            "খ": "n^2",
+            "গ": "(n(n+1)/2)^2",
+            "ঘ": "n(n+1)/2"
+          },
+          "answer": "ক",
+          "explanation": "Standard formula for sum of squares.",
+          "topic": "Sequences — sums",
+          "probability": "Mega Hot"
+        },
+        {
+          "number": 24,
+          "question": "d/dx (ln(sin x)) = ?",
+          "options": {
+            "ক": "cot x",
+            "খ": "tan x",
+            "গ": "csc x",
+            "ঘ": "sec x"
+          },
+          "answer": "ক",
+          "explanation": "Derivative = cos x / sin x = cot x.",
+          "topic": "Calculus — log of trig",
+          "probability": "Very Hot"
+        },
+        {
+          "number": 25,
+          "question": "Which improper integral converges? i) ∫_1^∞ 1/x dx; ii) ∫_1^∞ 1/x^{2} dx; iii) ∫_0^1 1/x^{0.5} dx. Which converge?",
+          "options": {
+            "ক": "ii ও iii",
+            "খ": "ii only",
+            "গ": "i only",
+            "ঘ": "none"
+          },
+          "answer": "ক",
+          "explanation": "ii converges (p=2>1); iii converges.",
+          "topic": "Improper integrals",
+          "probability": "Conceptual Trap"
+        }
+      ]
+    },
+    {
+      "set_id": 7,
+      "label": "SET 7",
+      "questions": [
+        {
+          "number": 1,
+          "question": "If f(x)=x^3, ∫_0^1 f(x) dx = ?",
+          "options": {
+            "ক": "1/4",
+            "খ": "1/3",
+            "গ": "1/2",
+            "ঘ": "1"
+          },
+          "answer": "ক",
+          "explanation": "∫ x^3 dx = x^4/4 from 0 to1 =1/4.",
+          "topic": "Calculus — definite integral",
+          "probability": "Very Hot"
+        },
+        {
+          "number": 2,
+          "question": "d/dx (1/x) = ?",
+          "options": {
+            "ক": "-1/x^2",
+            "খ": "1/x^2",
+            "গ": "-1/x",
+            "ঘ": "1/x"
+          },
+          "answer": "ক",
+          "explanation": "Derivative of x^{-1} is -x^{-2}.",
+          "topic": "Calculus — derivative",
+          "probability": "Very Hot"
+        },
+        {
+          "number": 3,
+          "question": "Matrix [[2,1],[1,2]] inverse = ?",
+          "options": {
+            "ক": "1/3 [[2,-1],[-1,2]]",
+            "খ": "[[2,1],[1,2]]",
+            "গ": "1/3 [[2,1],[1,2]]",
+            "ঘ": "[[1,0],[0,1]]"
+          },
+          "answer": "ক",
+          "explanation": "Inverse = (1/det) adjoint; det=3.",
+          "topic": "Matrices — inverse",
+          "probability": "Very Hot"
+        },
+        {
+          "number": 4,
+          "question": "If z = -2 - 2i, |z| = ?",
+          "options": {
+            "ক": "2√2",
+            "খ": "4",
+            "গ": "√8",
+            "ঘ": "2"
+          },
+          "answer": "ক",
+          "explanation": "√(4+4)=√8=2√2.",
+          "topic": "Complex numbers — modulus",
+          "probability": "Very Hot"
+        },
+        {
+          "number": 5,
+          "question": "Solve x^2+6x+9=0 root(s)?",
+          "options": {
+            "ক": "-3 (double)",
+            "খ": "3 and -3",
+            "গ": "-9 and 1",
+            "ঘ": "no real root"
+          },
+          "answer": "ক",
+          "explanation": "(x+3)^2=0 → root -3 double.",
+          "topic": "Algebra — quadratic",
+          "probability": "Mega Hot"
+        },
+        {
+          "number": 6,
+          "question": "sin(3x) identity involves?",
+          "options": {
+            "ক": "3 sin x - 4 sin^3 x",
+            "খ": "sin x + sin 2x",
+            "গ": "3 sin x",
+            "ঘ": "sin^3 x"
+          },
+          "answer": "ক",
+          "explanation": "Triple-angle sine identity.",
+          "topic": "Trigonometry — multiple angle",
+          "probability": "Very Hot"
+        },
+        {
+          "number": 7,
+          "question": "∫_0^{π/2} sin^2 x dx = ?",
+          "options": {
+            "ক": "π/4",
+            "খ": "π/2",
+            "গ": "1",
+            "ঘ": "0"
+          },
+          "answer": "ক",
+          "explanation": "Average value 1/2 over interval length π/2 → π/4.",
+          "topic": "Calculus — definite integral",
+          "probability": "Very Hot"
+        },
+        {
+          "number": 8,
+          "question": "If A has eigenvalues 2 and 5, det A = ?",
+          "options": {
+            "ক": "10",
+            "খ": "7",
+            "গ": "3",
+            "ঘ": "-10"
+          },
+          "answer": "ক",
+          "explanation": "Product of eigenvalues = determinant = 10.",
+          "topic": "Matrices — eigenvalues",
+          "probability": "Very Hot"
+        },
+        {
+          "number": 9,
+          "question": "d/dx (x^2 ln x) = ?",
+          "options": {
+            "ক": "2x ln x + x",
+            "খ": "2x ln x",
+            "গ": "x ln x",
+            "ঘ": "ln x + x^2"
+          },
+          "answer": "ক",
+          "explanation": "Product rule: 2x ln x + x^2·(1/x)=2x ln x + x.",
+          "topic": "Calculus — product rule",
+          "probability": "Very Hot"
+        },
+        {
+          "number": 10,
+          "question": "Probability: choose 2 from 3 boys and 2 girls randomly, probability both girls?",
+          "options": {
+            "ক": "C(2,2)/C(5,2)=1/10",
+            "খ": "1/5",
+            "গ": "2/5",
+            "ঘ": "1/2"
+          },
+          "answer": "ক",
+          "explanation": "1 favorable / 10 total = 1/10.",
+          "topic": "Probability — combinations",
+          "probability": "Very Hot"
+        },
+        {
+          "number": 11,
+          "question": "Solve dy/dx = x^2 + 1, y(0)=0 → y = ?",
+          "options": {
+            "ক": "x^3/3 + x",
+            "খ": "x^3/3",
+            "গ": "x + C",
+            "ঘ": "x^2/2"
+          },
+          "answer": "ক",
+          "explanation": "Integrate → x^3/3 + x + C; C=0.",
+          "topic": "Differential equations",
+          "probability": "Very Hot"
+        },
+        {
+          "number": 12,
+          "question": "tan(2θ) = ?",
+          "options": {
+            "ক": "2 tan θ/(1−tan^2 θ)",
+            "খ": "tan^2 θ",
+            "গ": "2 tan θ",
+            "ঘ": "(1−tan^2 θ)/2 tan θ"
+          },
+          "answer": "ক",
+          "explanation": "Standard double-angle tangent formula.",
+          "topic": "Trigonometry — double angle",
+          "probability": "Very Hot"
+        },
+        {
+          "number": 13,
+          "question": "If tr(A)=7 and det(A)=10 for 2×2, characteristic eqn λ^2 -7λ +10=0 roots are?",
+          "options": {
+            "ক": "5 and 2",
+            "খ": "10 and -3",
+            "গ": "1 and 10",
+            "ঘ": "7 and 0"
+          },
+          "answer": "ক",
+          "explanation": "Solve gives λ=5,2.",
+          "topic": "Matrices — characteristic",
+          "probability": "Very Hot"
+        },
+        {
+          "number": 14,
+          "question": "Sum of first n odd numbers = ?",
+          "options": {
+            "ক": "n^2",
+            "খ": "2n",
+            "গ": "n(n+1)",
+            "ঘ": "(2n+1)n/2"
+          },
+          "answer": "ক",
+          "explanation": "1+3+...+(2n-1)=n^2.",
+          "topic": "Sequences — sums",
+          "probability": "Mega Hot"
+        },
+        {
+          "number": 15,
+          "question": "d/dx (sinh^{-1} x) = ?",
+          "options": {
+            "ক": "1/√(1+x^2)",
+            "খ": "1/(1+x^2)",
+            "গ": "1/√(1-x^2)",
+            "ঘ": "1/(1-x^2)"
+          },
+          "answer": "ক",
+          "explanation": "Derivative of asinh x is 1/√(1+x^2).",
+          "topic": "Calculus — inverse hyperbolic",
+          "probability": "Very Hot"
+        },
+        {
+          "number": 16,
+          "question": "If det(A)=3 for 2×2, det(−A) = ?",
+          "options": {
+            "ক": "3",
+            "খ": "-3",
+            "গ": "9",
+            "ঘ": "-9"
+          },
+          "answer": "ক",
+          "explanation": "det(−A)= (−1)^n det A; n=2 → det(−A)=3.",
+          "topic": "Matrices — determinant parity",
+          "probability": "Very Hot"
+        },
+        {
+          "number": 17,
+          "question": "Infinite geometric a=4, r=1/4 sum = ?",
+          "options": {
+            "ক": "16/3",
+            "খ": "4",
+            "গ": "5",
+            "ঘ": "8/3"
+          },
+          "answer": "ক",
+          "explanation": "4/(1-1/4)=4/(3/4)=16/3.",
+          "topic": "Sequences — geometric",
+          "probability": "Mega Hot"
+        },
+        {
+          "number": 18,
+          "question": "Parametric x=t^3, y=t^2 slope at t=1 = ?",
+          "options": {
+            "ক": "2/3",
+            "খ": "3/2",
+            "গ": "1",
+            "ঘ": "0"
+          },
+          "answer": "ক",
+          "explanation": "dy/dt=2t, dx/dt=3t^2 → dy/dx=(2t)/(3t^2)=2/(3t) at t=1 =2/3.",
+          "topic": "Parametric differentiation",
+          "probability": "Very Hot"
+        },
+        {
+          "number": 19,
+          "question": "∫_0^2 (2x+1) dx = ?",
+          "options": {
+            "ক": "6",
+            "খ": "5",
+            "গ": "4",
+            "ঘ": "7"
+          },
+          "answer": "ক",
+          "explanation": "Antiderivative x^2 + x; evaluate 0→2 =4+2=6.",
+          "topic": "Calculus — definite integral",
+          "probability": "Very Hot"
+        },
+        {
+          "number": 20,
+          "question": "If P(A)=0.3, P(B)=0.4 and P(A∩B)=0.12, P(A∪B) = ?",
+          "options": {
+            "ক": "0.58",
+            "খ": "0.7",
+            "গ": "0.82",
+            "ঘ": "0.12"
+          },
+          "answer": "ক",
+          "explanation": "0.3+0.4-0.12=0.58.",
+          "topic": "Probability — union",
+          "probability": "Very Hot"
+        },
+        {
+          "number": 21,
+          "question": "Which is true? i) ∫ cos x dx = sin x + C; ii) d/dx(ln x)=1/x; iii) ∫ sec x tan x dx = sec x + C. Which true?",
+          "options": {
+            "ক": "i ও ii",
+            "খ": "i ও iii",
+            "গ": "ii ও iii",
+            "ঘ": "i, ii ও iii"
+          },
+          "answer": "ঘ",
+          "explanation": "All three are standard integrals/derivatives.",
+          "topic": "Calculus — basics",
+          "probability": "Board Favourite"
+        },
+        {
+          "number": 22,
+          "question": "Vector (0,3,4) magnitude = ?",
+          "options": {
+            "ক": "5",
+            "খ": "7",
+            "গ": "√25",
+            "ঘ": "√(0+9+16)=5"
+          },
+          "answer": "ক",
+          "explanation": "√(9+16)=5.",
+          "topic": "Vectors — magnitude",
+          "probability": "Very Hot"
+        },
+        {
+          "number": 23,
+          "question": "Sum 1^2+2^2+...+n^2 formula = ?",
+          "options": {
+            "ক": "n(n+1)(2n+1)/6",
+            "খ": "n^2",
+            "গ": "(n(n+1)/2)^2",
+            "ঘ": "n(n+1)/2"
+          },
+          "answer": "ক",
+          "explanation": "Standard sum of squares formula.",
+          "topic": "Sequences — sums",
+          "probability": "Mega Hot"
+        },
+        {
+          "number": 24,
+          "question": "d/dx (arctan x) = ?",
+          "options": {
+            "ক": "1/(1+x^2)",
+            "খ": "1/(1-x^2)",
+            "গ": "1/x",
+            "ঘ": "-1/(1+x^2)"
+          },
+          "answer": "ক",
+          "explanation": "Standard derivative of arctan x.",
+          "topic": "Calculus — inverse trig",
+          "probability": "Very Hot"
+        },
+        {
+          "number": 25,
+          "question": "Which improper integral diverges? i) ∫_0^1 1/x^{0.9} dx; ii) ∫_1^∞ 1/x^{0.9} dx; iii) ∫_0^1 1/x^{0.5} dx. Which diverge?",
+          "options": {
+            "ক": "i ও ii",
+            "খ": "ii only",
+            "গ": "i only",
+            "ঘ": "none"
+          },
+          "answer": "খ",
+          "explanation": "For p=0.9, ∫_1^∞ 1/x^p diverges; i and iii converge on (0,1).",
+          "topic": "Improper integrals",
+          "probability": "Conceptual Trap"
+        }
+      ]
+    },
+    {
+      "set_id": 8,
+      "label": "SET 8",
+      "questions": [
+        {
+          "number": 1,
+          "question": "If f(x)=√x, f'(4) = ?",
+          "options": {
+            "ক": "1/4",
+            "খ": "1/2",
+            "গ": "1/8",
+            "ঘ": "2"
+          },
+          "answer": "ক",
+          "explanation": "f' = 1/(2√x); at 4 gives 1/(2·2)=1/4.",
+          "topic": "Calculus — derivative",
+          "probability": "Very Hot"
+        },
+        {
+          "number": 2,
+          "question": "∫ 1/(1+x^2) dx = ?",
+          "options": {
+            "ক": "arctan x + C",
+            "খ": "ln(1+x^2)+C",
+            "গ": "arcsin x + C",
+            "ঘ": "1/(1+x^2) + C"
+          },
+          "answer": "ক",
+          "explanation": "Standard integral gives arctan x.",
+          "topic": "Calculus — inverse trig integral",
+          "probability": "Very Hot"
+        },
+        {
+          "number": 3,
+          "question": "Matrix [[1,2],[3,4]] trace = ?",
+          "options": {
+            "ক": "5",
+            "খ": "-2",
+            "গ": "7",
+            "ঘ": "4"
+          },
+          "answer": "ক",
+          "explanation": "Trace = 1+4=5.",
+          "topic": "Matrices — trace",
+          "probability": "Very Hot"
+        },
+        {
+          "number": 4,
+          "question": "If z = 0 + i, z^2 = ?",
+          "options": {
+            "ক": "-1",
+            "খ": "1",
+            "গ": "i",
+            "ঘ": "-i"
+          },
+          "answer": "ক",
+          "explanation": "i^2 = -1.",
+          "topic": "Complex numbers — powers",
+          "probability": "Very Hot"
+        },
+        {
+          "number": 5,
+          "question": "Solve x^2 - 9 = 0 roots?",
+          "options": {
+            "ক": "3 and -3",
+            "খ": "9 and -9",
+            "গ": "0 and 9",
+            "ঘ": "none"
+          },
+          "answer": "ক",
+          "explanation": "x=±3.",
+          "topic": "Algebra — quadratic",
+          "probability": "Mega Hot"
+        },
+        {
+          "number": 6,
+          "question": "sin(A-B) = ?",
+          "options": {
+            "ক": "sinA cosB - cosA sinB",
+            "খ": "sinA cosB + cosA sinB",
+            "গ": "cosA cosB - sinA sinB",
+            "ঘ": "tanA - tanB"
+          },
+          "answer": "ক",
+          "explanation": "Standard subtraction formula.",
+          "topic": "Trigonometry — subtraction",
+          "probability": "Very Hot"
+        },
+        {
+          "number": 7,
+          "question": "∫_0^{1} e^{x} dx = ?",
+          "options": {
+            "ক": "e -1",
+            "খ": "1",
+            "গ": "e",
+            "ঘ": "0"
+          },
+          "answer": "ক",
+          "explanation": "e^{x} integrate → e^{1}-e^{0}=e-1.",
+          "topic": "Calculus — definite integral",
+          "probability": "Very Hot"
+        },
+        {
+          "number": 8,
+          "question": "If A is orthogonal, A^T A = ?",
+          "options": {
+            "ক": "I",
+            "খ": "0",
+            "গ": "A",
+            "ঘ": "det A"
+          },
+          "answer": "ক",
+          "explanation": "Definition of orthogonal matrix.",
+          "topic": "Matrices — orthogonal",
+          "probability": "Very Hot"
+        },
+        {
+          "number": 9,
+          "question": "d/dx (x^n) = ?",
+          "options": {
+            "ক": "n x^{n-1}",
+            "খ": "x^{n+1}",
+            "গ": "n!",
+            "ঘ": "ln x"
+          },
+          "answer": "ক",
+          "explanation": "Power rule for differentiation.",
+          "topic": "Calculus — power rule",
+          "probability": "Mega Hot"
+        },
+        {
+          "number": 10,
+          "question": "Probability: two fair coins tossed, probability exactly one head?",
+          "options": {
+            "ক": "1/2",
+            "খ": "1/4",
+            "গ": "3/4",
+            "ঘ": "2/3"
+          },
+          "answer": "ক",
+          "explanation": "Outcomes HH,HT,TH,TT → two favorable HT,TH → 2/4=1/2.",
+          "topic": "Probability — basic",
+          "probability": "Very Hot"
+        },
+        {
+          "number": 11,
+          "question": "Solve dy/dx = sin x, y(0)=0 → y = ?",
+          "options": {
+            "ক": "-cos x +1",
+            "খ": "cos x",
+            "গ": "sin x",
+            "ঘ": "-sin x"
+          },
+          "answer": "ক",
+          "explanation": "Integrate sin x → -cos x + C; C=1 to satisfy y(0)=0.",
+          "topic": "Differential equations",
+          "probability": "Very Hot"
+        },
+        {
+          "number": 12,
+          "question": "tan(π/8) approximate relation involves?",
+          "options": {
+            "ক": "√2 -1",
+            "খ": "√3",
+            "গ": "1/√3",
+            "ঘ": "√2 +1"
+          },
+          "answer": "ক",
+          "explanation": "tan 22.5° = √2 -1 (after rationalization).",
+          "topic": "Trigonometry — half-angle",
+          "probability": "Conceptual Trap"
+        },
+        {
+          "number": 13,
+          "question": "If A=[[a,0],[0,a]] scalar matrix, eigenvalues are?",
+          "options": {
+            "ক": "a and a",
+            "খ": "a and 0",
+            "গ": "0 and 0",
+            "ঘ": "1 and a"
+          },
+          "answer": "ক",
+          "explanation": "Diagonal entries are eigenvalues.",
+          "topic": "Matrices — eigenvalues",
+          "probability": "Very Hot"
+        },
+        {
+          "number": 14,
+          "question": "Sum of first n even numbers = ?",
+          "options": {
+            "ক": "n(n+1)",
+            "খ": "n^2",
+            "গ": "2n",
+            "ঘ": "n(2n+1)"
+          },
+          "answer": "ক",
+          "explanation": "2+4+...+2n = n(n+1).",
+          "topic": "Sequences — sums",
+          "probability": "Mega Hot"
+        },
+        {
+          "number": 15,
+          "question": "d/dx (ln(1-x)) = ?",
+          "options": {
+            "ক": "-1/(1-x)",
+            "খ": "1/(1-x)",
+            "গ": "1/x",
+            "ঘ": "-1/x"
+          },
+          "answer": "ক",
+          "explanation": "Chain rule gives negative sign.",
+          "topic": "Calculus — log derivative",
+          "probability": "Very Hot"
+        },
+        {
+          "number": 16,
+          "question": "If det A = 2 for 2×2, det(3A) = ?",
+          "options": {
+            "ক": "18",
+            "খ": "6",
+            "গ": "8",
+            "ঘ": "2"
+          },
+          "answer": "ক",
+          "explanation": "det(3A)=3^2·2=9·2=18.",
+          "topic": "Matrices — determinant scaling",
+          "probability": "Very Hot"
+        },
+        {
+          "number": 17,
+          "question": "Geometric series a=9, r=1/3 infinite sum = ?",
+          "options": {
+            "ক": "13.5",
+            "খ": "9",
+            "গ": "6",
+            "ঘ": "27"
+          },
+          "answer": "ক",
+          "explanation": "9/(1-1/3)=9/(2/3)=13.5.",
+          "topic": "Sequences — geometric",
+          "probability": "Mega Hot"
+        },
+        {
+          "number": 18,
+          "question": "Parametric x=sin t, y=cos t slope at t=π/4 = ?",
+          "options": {
+            "ক": "-1",
+            "খ": "1",
+            "গ": "0",
+            "ঘ": "undefined"
+          },
+          "answer": "ক",
+          "explanation": "dy/dx = (-sin t)/(cos t) = -tan t; at π/4 = -1.",
+          "topic": "Parametric differentiation",
+          "probability": "Very Hot"
+        },
+        {
+          "number": 19,
+          "question": "∫_0^1 (3x^2 + 2) dx = ?",
+          "options": {
+            "ক": "3",
+            "খ": "2",
+            "গ": "5/3",
+            "ঘ": "4"
+          },
+          "answer": "ক",
+          "explanation": "Antiderivative x^3 +2x; evaluate 0→1 =1+2=3.",
+          "topic": "Calculus — definite integral",
+          "probability": "Very Hot"
+        },
+        {
+          "number": 20,
+          "question": "If P(A∩B)=0.1 and P(B)=0.2, P(A|B) = ?",
+          "options": {
+            "ক": "0.5",
+            "খ": "0.1",
+            "গ": "0.2",
+            "ঘ": "0.05"
+          },
+          "answer": "ক",
+          "explanation": "0.1/0.2=0.5.",
+          "topic": "Probability — conditional",
+          "probability": "Very Hot"
+        },
+        {
+          "number": 21,
+          "question": "Which is true? i) ∫ sec x dx = ln|sec x + tan x| + C; ii) d/dx tan x = sec^2 x; iii) ∫ csc x dx = ln|csc x - cot x| + C. Which true?",
+          "options": {
+            "ক": "i ও ii",
+            "খ": "i ও iii",
+            "গ": "ii ও iii",
+            "ঘ": "i, ii ও iii"
+          },
+          "answer": "ঘ",
+          "explanation": "All three are standard integral/derivative identities.",
+          "topic": "Calculus — trig integrals",
+          "probability": "Board Favourite"
+        },
+        {
+          "number": 22,
+          "question": "Vector (4,0,3) magnitude = ?",
+          "options": {
+            "ক": "5",
+            "খ": "7",
+            "গ": "√25",
+            "ঘ": "√(16+9)=5"
+          },
+          "answer": "ক",
+          "explanation": "√(16+9)=5.",
+          "topic": "Vectors — magnitude",
+          "probability": "Very Hot"
+        },
+        {
+          "number": 23,
+          "question": "Sum 1+2+...+n = ?",
+          "options": {
+            "ক": "n(n+1)/2",
+            "খ": "n^2",
+            "গ": "(n+1)^2/2",
+            "ঘ": "n(n-1)/2"
+          },
+          "answer": "ক",
+          "explanation": "Standard arithmetic sum.",
+          "topic": "Sequences — arithmetic",
+          "probability": "Mega Hot"
+        },
+        {
+          "number": 24,
+          "question": "d/dx (arcsin x) = ?",
+          "options": {
+            "ক": "1/√(1-x^2)",
+            "খ": "1/(1-x^2)",
+            "গ": "-1/√(1-x^2)",
+            "ঘ": "x/(1-x^2)"
+          },
+          "answer": "ক",
+          "explanation": "Derivative of arcsin x.",
+          "topic": "Calculus — inverse trig",
+          "probability": "Very Hot"
+        },
+        {
+          "number": 25,
+          "question": "Which improper integral diverges? i) ∫_1^∞ 1/x dx; ii) ∫_1^∞ 1/x^{1.1} dx; iii) ∫_0^1 1/x^{0.9} dx. Which diverge?",
+          "options": {
+            "ক": "i only",
+            "খ": "i ও iii",
+            "গ": "ii only",
+            "ঘ": "none"
+          },
+          "answer": "ক",
+          "explanation": "i diverges (p=1), ii converges (p>1), iii converges.",
+          "topic": "Improper integrals",
+          "probability": "Conceptual Trap"
+        }
+      ]
+    },
+    {
+      "set_id": 9,
+      "label": "SET 9",
+      "questions": [
+        {
+          "number": 1,
+          "question": "If f(x)=ln x, f''(1) = ?",
+          "options": {
+            "ক": "-1",
+            "খ": "1",
+            "গ": "0",
+            "ঘ": "2"
+          },
+          "answer": "ক",
+          "explanation": "f' =1/x, f'' = -1/x^2; at 1 gives -1.",
+          "topic": "Calculus — second derivative",
+          "probability": "Very Hot"
+        },
+        {
+          "number": 2,
+          "question": "∫ x cos x dx = ?",
+          "options": {
+            "ক": "cos x + x sin x + C",
+            "খ": "x sin x - cos x + C",
+            "গ": "sin x + C",
+            "ঘ": "-x cos x + C"
+          },
+          "answer": "খ",
+          "explanation": "Integration by parts gives x sin x - cos x + C.",
+          "topic": "Calculus — integration by parts",
+          "probability": "Very Hot"
+        },
+        {
+          "number": 3,
+          "question": "Matrix [[0,1],[1,0]] eigenvalues are?",
+          "options": {
+            "ক": "1 and -1",
+            "খ": "1 and 1",
+            "গ": "0 and 0",
+            "ঘ": "-1 and -1"
+          },
+          "answer": "ক",
+          "explanation": "Swap matrix has eigenvalues ±1.",
+          "topic": "Matrices — eigenvalues",
+          "probability": "Very Hot"
+        },
+        {
+          "number": 4,
+          "question": "If z = 3(cos 60° + i sin 60°), z in a+bi form is?",
+          "options": {
+            "ক": "3(1/2 + i√3/2) = 1.5 + i2.598",
+            "খ": "3(0 + i1)",
+            "গ": "3",
+            "ঘ": "-1.5 + i2.598"
+          },
+          "answer": "ক",
+          "explanation": "cos60=1/2, sin60=√3/2.",
+          "topic": "Complex numbers — polar to rectangular",
+          "probability": "Very Hot"
+        },
+        {
+          "number": 5,
+          "question": "Solve x^2 - 2x +1 =0 root(s)?",
+          "options": {
+            "ক": "1 double",
+            "খ": "-1 and 1",
+            "গ": "2 and -1",
+            "ঘ": "no real root"
+          },
+          "answer": "ক",
+          "explanation": "(x-1)^2=0 → root 1 double.",
+          "topic": "Algebra — quadratic",
+          "probability": "Mega Hot"
+        },
+        {
+          "number": 6,
+          "question": "sin^3 x identity can be written as?",
+          "options": {
+            "ক": "(3 sin x - sin 3x)/4",
+            "খ": "sin x",
+            "গ": "(sin 3x)/3",
+            "ঘ": "(3 sin x + sin 3x)/4"
+          },
+          "answer": "ক",
+          "explanation": "Triple-angle expansion identity.",
+          "topic": "Trigonometry — power reduction",
+          "probability": "Very Hot"
+        },
+        {
+          "number": 7,
+          "question": "∫_0^{π} |sin x| dx = ?",
+          "options": {
+            "ক": "2",
+            "খ": "0",
+            "গ": "1",
+            "ঘ": "π"
+          },
+          "answer": "ক",
+          "explanation": "Symmetric positive area = 2.",
+          "topic": "Calculus — definite integral (absolute)",
+          "probability": "Very Hot"
+        },
+        {
+          "number": 8,
+          "question": "If A is diagonal with entries 2,3,4 det = ?",
+          "options": {
+            "ক": "24",
+            "খ": "9",
+            "গ": "6",
+            "ঘ": "0"
+          },
+          "answer": "ক",
+          "explanation": "Product of diagonal entries = 24.",
+          "topic": "Matrices — determinant",
+          "probability": "Very Hot"
+        },
+        {
+          "number": 9,
+          "question": "d/dx (x^x) at x=2 equals?",
+          "options": {
+            "ক": "2^2(ln2 +1)",
+            "খ": "2(ln2 +1)",
+            "গ": "4 ln2",
+            "ঘ": "2^2 ln2"
+          },
+          "answer": "ক",
+          "explanation": "Derivative x^x(ln x +1); at 2 gives 4(ln2+1).",
+          "topic": "Calculus — logarithmic differentiation",
+          "probability": "Very Hot"
+        },
+        {
+          "number": 10,
+          "question": "Probability: from 3 red and 2 blue balls pick one, probability red = ?",
+          "options": {
+            "ক": "3/5",
+            "খ": "2/5",
+            "গ": "1/2",
+            "ঘ": "3/2"
+          },
+          "answer": "ক",
+          "explanation": "3 red out of 5 total.",
+          "topic": "Probability — basic",
+          "probability": "Very Hot"
+        },
+        {
+          "number": 11,
+          "question": "Solve dy/dx = cos x, y(0)=2 → y = ?",
+          "options": {
+            "ক": "sin x +2",
+            "খ": "cos x +2",
+            "গ": "sin x",
+            "ঘ": "2"
+          },
+          "answer": "ক",
+          "explanation": "Integrate cos x → sin x + C; C=2.",
+          "topic": "Differential equations",
+          "probability": "Very Hot"
+        },
+        {
+          "number": 12,
+          "question": "tan(45°) = ?",
+          "options": {
+            "ক": "1",
+            "খ": "0",
+            "গ": "√3",
+            "ঘ": "-1"
+          },
+          "answer": "ক",
+          "explanation": "tan 45° =1.",
+          "topic": "Trigonometry — standard",
+          "probability": "Very Hot"
+        },
+        {
+          "number": 13,
+          "question": "If tr(A)=0 and det(A)= -1 for 2×2, eigenvalues satisfy λ^2 +1=0 → λ = ?",
+          "options": {
+            "ক": "i and -i",
+            "খ": "1 and -1",
+            "গ": "0 and 0",
+            "ঘ": "-i and -i"
+          },
+          "answer": "ক",
+          "explanation": "λ^2 +1=0 → λ=±i.",
+          "topic": "Matrices — eigenvalues",
+          "probability": "Very Hot"
+        },
+        {
+          "number": 14,
+          "question": "Sum of first n natural numbers squared? (1+2+...+n)^2 equals?",
+          "options": {
+            "ক": "(n(n+1)/2)^2",
+            "খ": "n^2(n+1)^2",
+            "গ": "n(n+1)(2n+1)/6",
+            "ঘ": "n^2"
+          },
+          "answer": "ক",
+          "explanation": "Square of sum formula.",
+          "topic": "Sequences — sums",
+          "probability": "Mega Hot"
+        },
+        {
+          "number": 15,
+          "question": "d/dx (e^{x^2}) = ?",
+          "options": {
+            "ক": "2x e^{x^2}",
+            "খ": "e^{x^2}",
+            "গ": "x e^{x^2}",
+            "ঘ": "0"
+          },
+          "answer": "ক",
+          "explanation": "Chain rule: derivative = e^{x^2}·2x.",
+          "topic": "Calculus — chain rule",
+          "probability": "Very Hot"
+        },
+        {
+          "number": 16,
+          "question": "If det A = 7 for 2×2, det(A^T) = ?",
+          "options": {
+            "ক": "7",
+            "খ": "-7",
+            "গ": "49",
+            "ঘ": "1"
+          },
+          "answer": "ক",
+          "explanation": "det(A^T)=det A.",
+          "topic": "Matrices — transpose",
+          "probability": "Very Hot"
+        },
+        {
+          "number": 17,
+          "question": "Geometric series a=12, r=1/4 infinite sum = ?",
+          "options": {
+            "ক": "16",
+            "খ": "12",
+            "গ": "9",
+            "ঘ": "48"
+          },
+          "answer": "ক",
+          "explanation": "12/(1-1/4)=12/(3/4)=16.",
+          "topic": "Sequences — geometric",
+          "probability": "Mega Hot"
+        },
+        {
+          "number": 18,
+          "question": "Parametric x=t+1, y=t^2 slope at t=0 = ?",
+          "options": {
+            "ক": "0",
+            "খ": "1",
+            "গ": "2",
+            "ঘ": "-1"
+          },
+          "answer": "ক",
+          "explanation": "dy/dt=2t, dx/dt=1 → dy/dx=2t; at 0 =0.",
+          "topic": "Parametric differentiation",
+          "probability": "Very Hot"
+        },
+        {
+          "number": 19,
+          "question": "∫_0^1 (4x^3) dx = ?",
+          "options": {
+            "ক": "1",
+            "খ": "1/2",
+            "গ": "1/4",
+            "ঘ": "4"
+          },
+          "answer": "ক",
+          "explanation": "Antiderivative x^4; evaluate 0→1 =1.",
+          "topic": "Calculus — definite integral",
+          "probability": "Very Hot"
+        },
+        {
+          "number": 20,
+          "question": "If P(A)=0.7 and P(B)=0.6 and independent, P(A∩B) = ?",
+          "options": {
+            "ক": "0.42",
+            "খ": "0.3",
+            "গ": "1.3",
+            "ঘ": "0.1"
+          },
+          "answer": "ক",
+          "explanation": "0.7×0.6=0.42.",
+          "topic": "Probability — independence",
+          "probability": "Very Hot"
+        },
+        {
+          "number": 21,
+          "question": "Which is false? i) ∫ sin x dx = -cos x + C; ii) d/dx cos x = -sin x; iii) ∫ cos x dx = sin x + C. Which false?",
+          "options": {
+            "ক": "i only",
+            "খ": "ii only",
+            "গ": "iii only",
+            "ঘ": "none"
+          },
+          "answer": "ঘ",
+          "explanation": "All three are correct.",
+          "topic": "Calculus — basics",
+          "probability": "Board Favourite"
+        },
+        {
+          "number": 22,
+          "question": "Vector (5,12) magnitude = ?",
+          "options": {
+            "ক": "13",
+            "খ": "17",
+            "গ": "√169",
+            "ঘ": "12"
+          },
+          "answer": "ক",
+          "explanation": "√(25+144)=√169=13.",
+          "topic": "Vectors — magnitude",
+          "probability": "Very Hot"
+        },
+        {
+          "number": 23,
+          "question": "Sum 1+3+5+...+(2n-1) = ?",
+          "options": {
+            "ক": "n^2",
+            "খ": "2n",
+            "গ": "n(n+1)",
+            "ঘ": "(2n+1)n/2"
+          },
+          "answer": "ক",
+          "explanation": "Sum of first n odd numbers = n^2.",
+          "topic": "Sequences — sums",
+          "probability": "Mega Hot"
+        },
+        {
+          "number": 24,
+          "question": "d/dx (sec x) = ?",
+          "options": {
+            "ক": "sec x tan x",
+            "খ": "sec^2 x",
+            "গ": "tan x",
+            "ঘ": "csc x"
+          },
+          "answer": "ক",
+          "explanation": "Standard derivative.",
+          "topic": "Calculus — trig derivatives",
+          "probability": "Very Hot"
+        },
+        {
+          "number": 25,
+          "question": "Which improper integral converges? i) ∫_1^∞ 1/x dx; ii) ∫_1^∞ 1/x^{2} dx; iii) ∫_0^1 1/x^{0.8} dx. Which converge?",
+          "options": {
+            "ক": "ii ও iii",
+            "খ": "ii only",
+            "গ": "i only",
+            "ঘ": "none"
+          },
+          "answer": "ক",
+          "explanation": "ii converges (p=2>1); iii converges.",
+          "topic": "Improper integrals",
+          "probability": "Conceptual Trap"
+        }
+      ]
+    },
+    {
+      "set_id": 10,
+      "label": "SET 10",
+      "questions": [
+        {
+          "number": 1,
+          "question": "If f(x)=x e^{x}, f'(0) = ?",
+          "options": {
+            "ক": "1",
+            "খ": "0",
+            "গ": "2",
+            "ঘ": "e"
+          },
+          "answer": "ক",
+          "explanation": "f' = e^{x}(1+x); at 0 gives 1.",
+          "topic": "Calculus — product rule",
+          "probability": "Very Hot"
+        },
+        {
+          "number": 2,
+          "question": "∫ cos x / (1+sin^2 x) dx substitution u=sin x gives?",
+          "options": {
+            "ক": "(1/√2) arctan(sin x/√2)+C",
+            "খ": "ln(1+sin^2 x)+C",
+            "গ": "arctan(sin x)+C",
+            "ঘ": "sin x + C"
+          },
+          "answer": "ক",
+          "explanation": "Use u=sin x, integral becomes ∫ du/(1+u^2) scaled → arctan form with √2 factor.",
+          "topic": "Calculus — substitution",
+          "probability": "Conceptual Trap"
+        },
+        {
+          "number": 3,
+          "question": "Matrix [[1,0,0],[0,2,0],[0,0,3]] determinant = ?",
+          "options": {
+            "ক": "6",
+            "খ": "1",
+            "গ": "0",
+            "ঘ": "-6"
+          },
+          "answer": "ক",
+          "explanation": "Product of diagonal entries = 6.",
+          "topic": "Matrices — determinant",
+          "probability": "Very Hot"
+        },
+        {
+          "number": 4,
+          "question": "If z = -1 + i√3, argument principal = ?",
+          "options": {
+            "ক": "120°",
+            "খ": "60°",
+            "গ": "-60°",
+            "ঘ": "240°"
+          },
+          "answer": "ক",
+          "explanation": "Point (-1,√3) in QII → arg ≈ 120°.",
+          "topic": "Complex numbers — argument",
+          "probability": "Very Hot"
+        },
+        {
+          "number": 5,
+          "question": "Solve x^2 - x - 2 = 0 roots?",
+          "options": {
+            "ক": "2 and -1",
+            "খ": "1 and -2",
+            "গ": "-2 and -1",
+            "ঘ": "2 and 1"
+          },
+          "answer": "ক",
+          "explanation": "(x-2)(x+1)=0 → 2 and -1.",
+          "topic": "Algebra — quadratic",
+          "probability": "Mega Hot"
+        },
+        {
+          "number": 6,
+          "question": "cos(A+B) = ?",
+          "options": {
+            "ক": "cosA cosB - sinA sinB",
+            "খ": "cosA sinB + sinA cosB",
+            "গ": "sinA sinB",
+            "ঘ": "tanA + tanB"
+          },
+          "answer": "ক",
+          "explanation": "Standard cosine addition formula.",
+          "topic": "Trigonometry — addition",
+          "probability": "Very Hot"
+        },
+        {
+          "number": 7,
+          "question": "∫_0^{π/2} x cos x dx = ?",
+          "options": {
+            "ক": "1",
+            "খ": "π/2",
+            "গ": "1",
+            "ঘ": "π/4"
+          },
+          "answer": "ক",
+          "explanation": "Integration by parts yields 1.",
+          "topic": "Calculus — definite integral",
+          "probability": "Very Hot"
+        },
+        {
+          "number": 8,
+          "question": "If A is invertible, rank(A) = ?",
+          "options": {
+            "ক": "n (for n×n)",
+            "খ": "0",
+            "গ": "1",
+            "ঘ": "n-1"
+          },
+          "answer": "ক",
+          "explanation": "Invertible matrix has full rank n.",
+          "topic": "Matrices — rank",
+          "probability": "Very Hot"
+        },
+        {
+          "number": 9,
+          "question": "d/dx (ln(x^2+1)) at x=1 = ?",
+          "options": {
+            "ক": "1",
+            "খ": "1/2",
+            "গ": "2",
+            "ঘ": "0"
+          },
+          "answer": "ক",
+          "explanation": "Derivative 2x/(x^2+1); at 1 gives 2/2=1.",
+          "topic": "Calculus — chain rule",
+          "probability": "Very Hot"
+        },
+        {
+          "number": 10,
+          "question": "Probability: roll a die, probability of even number = ?",
+          "options": {
+            "ক": "1/2",
+            "খ": "1/3",
+            "গ": "1/6",
+            "ঘ": "2/3"
+          },
+          "answer": "ক",
+          "explanation": "Even faces 2,4,6 → 3/6 = 1/2.",
+          "topic": "Probability — dice",
+          "probability": "Very Hot"
+        },
+        {
+          "number": 11,
+          "question": "Solve dy/dx = 1/(1+x^2), y(0)=0 → y = ?",
+          "options": {
+            "ক": "arctan x",
+            "খ": "ln(1+x^2)",
+            "গ": "x",
+            "ঘ": "sin x"
+          },
+          "answer": "ক",
+          "explanation": "Integral of 1/(1+x^2) is arctan x; constant 0.",
+          "topic": "Differential equations",
+          "probability": "Very Hot"
+        },
+        {
+          "number": 12,
+          "question": "tan(75°) equals?",
+          "options": {
+            "ক": "2+√3",
+            "খ": "√3 -1",
+            "গ": "1",
+            "ঘ": "√3"
+          },
+          "answer": "ক",
+          "explanation": "tan(45+30)= (1+1/√3)/(1-1·1/√3) simplifies to 2+√3.",
+          "topic": "Trigonometry — compound angles",
+          "probability": "Conceptual Trap"
+        },
+        {
+          "number": 13,
+          "question": "If A has eigenvalues 0,2,3 det = ?",
+          "options": {
+            "ক": "0",
+            "খ": "5",
+            "গ": "6",
+            "ঘ": "-6"
+          },
+          "answer": "ক",
+          "explanation": "Product of eigenvalues = 0 → determinant 0.",
+          "topic": "Matrices — eigenvalues",
+          "probability": "Very Hot"
+        },
+        {
+          "number": 14,
+          "question": "Sum 1+2+...+10 = ?",
+          "options": {
+            "ক": "55",
+            "খ": "45",
+            "গ": "100",
+            "ঘ": "66"
+          },
+          "answer": "ক",
+          "explanation": "10·11/2 = 55.",
+          "topic": "Sequences — arithmetic",
+          "probability": "Mega Hot"
+        },
+        {
+          "number": 15,
+          "question": "d/dx (x^2 e^{x}) = ?",
+          "options": {
+            "ক": "e^{x}(x^2 + 2x)",
+            "খ": "2x e^{x}",
+            "গ": "x^2 e^{x}",
+            "ঘ": "e^{x}"
+          },
+          "answer": "ক",
+          "explanation": "Product rule: derivative = 2x e^{x} + x^2 e^{x} = e^{x}(x^2+2x).",
+          "topic": "Calculus — product rule",
+          "probability": "Very Hot"
+        },
+        {
+          "number": 16,
+          "question": "If det A = -2 for 2×2, det(kA) with k=-3 equals?",
+          "options": {
+            "ক": "(-3)^2·(-2)=9·(-2)=-18",
+            "খ": "-6",
+            "গ": "18",
+            "ঘ": "-2"
+          },
+          "answer": "ক",
+          "explanation": "det(kA)=k^n det A; n=2 → 9·(-2)=-18.",
+          "topic": "Matrices — determinant scaling",
+          "probability": "Very Hot"
+        },
+        {
+          "number": 17,
+          "question": "Geometric series a=5, r=2 diverges? True or False?",
+          "options": {
+            "ক": "True",
+            "খ": "False",
+            "গ": "Depends on n",
+            "ঘ": "Only if n finite"
+          },
+          "answer": "ক",
+          "explanation": "|r|>1 → infinite geometric series diverges.",
+          "topic": "Sequences — geometric",
+          "probability": "Mega Hot"
+        },
+        {
+          "number": 18,
+          "question": "Parametric x= e^t, y= e^{-t} slope at t=0 = ?",
+          "options": {
+            "ক": "-1",
+            "খ": "1",
+            "গ": "0",
+            "ঘ": "undefined"
+          },
+          "answer": "ক",
+          "explanation": "dy/dx = (-e^{-t})/(e^t) = -e^{-2t}; at 0 = -1.",
+          "topic": "Parametric differentiation",
+          "probability": "Very Hot"
+        },
+        {
+          "number": 19,
+          "question": "∫_0^1 (1 + x) dx = ?",
+          "options": {
+            "ক": "3/2",
+            "খ": "1",
+            "গ": "2",
+            "ঘ": "1/2"
+          },
+          "answer": "ক",
+          "explanation": "Antiderivative x + x^2/2; evaluate 0→1 =1 +1/2 =3/2.",
+          "topic": "Calculus — definite integral",
+          "probability": "Very Hot"
+        },
+        {
+          "number": 20,
+          "question": "If P(A)=0.8, P(B)=0.6 independent, P(A∪B) = ?",
+          "options": {
+            "ক": "0.92",
+            "খ": "1.4",
+            "গ": "0.48",
+            "ঘ": "0.2"
+          },
+          "answer": "ক",
+          "explanation": "P(A∪B)=0.8+0.6-0.48=0.92.",
+          "topic": "Probability — independence",
+          "probability": "Very Hot"
+        },
+        {
+          "number": 21,
+          "question": "Which is true? i) ∫ 1/(x^2+1) dx = arctan x + C; ii) d/dx(arcsin x)=1/√(1-x^2); iii) ∫ sec^2 x dx = tan x + C. Which true?",
+          "options": {
+            "ক": "i ও ii",
+            "খ": "i ও iii",
+            "গ": "ii ও iii",
+            "ঘ": "i, ii ও iii"
+          },
+          "answer": "ঘ",
+          "explanation": "All three are standard results.",
+          "topic": "Calculus — basics",
+          "probability": "Board Favourite"
+        },
+        {
+          "number": 22,
+          "question": "Vector (6,8) magnitude = ?",
+          "options": {
+            "ক": "10",
+            "খ": "14",
+            "গ": "√100",
+            "ঘ": "8"
+          },
+          "answer": "ক",
+          "explanation": "√(36+64)=√100=10.",
+          "topic": "Vectors — magnitude",
+          "probability": "Very Hot"
+        },
+        {
+          "number": 23,
+          "question": "Sum 1^3+2^3+...+n^3 = ?",
+          "options": {
+            "ক": "(n(n+1)/2)^2",
+            "খ": "n^2(n+1)^2",
+            "গ": "n(n+1)(2n+1)/6",
+            "ঘ": "n^2"
+          },
+          "answer": "ক",
+          "explanation": "Standard formula: square of sum of first n naturals.",
+          "topic": "Sequences — sums",
+          "probability": "Mega Hot"
+        },
+        {
+          "number": 24,
+          "question": "d/dx (ln|sec x + tan x|) = ?",
+          "options": {
+            "ক": "sec x",
+            "খ": "sec x tan x",
+            "গ": "tan x",
+            "ঘ": "sec^2 x"
+          },
+          "answer": "ক",
+          "explanation": "Derivative of ln(sec x + tan x) = sec x.",
+          "topic": "Calculus — trig-log",
+          "probability": "Very Hot"
+        },
+        {
+          "number": 25,
+          "question": "Which improper integral converges? i) ∫_1^∞ 1/x dx; ii) ∫_1^∞ 1/x^{1.5} dx; iii) ∫_0^1 1/x^{0.2} dx. Which converge?",
+          "options": {
+            "ক": "ii ও iii",
+            "খ": "ii only",
+            "গ": "i only",
+            "ঘ": "none"
+          },
+          "answer": "ক",
+          "explanation": "ii converges (p=1.5>1); iii converges.",
+          "topic": "Improper integrals",
+          "probability": "Conceptual Trap"
+        }
+      ]
+    }
+  ]
+}

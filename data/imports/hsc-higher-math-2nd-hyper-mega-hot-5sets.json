@@ -1,0 +1,1914 @@
+{
+  "title": "Hyper Mega Hot Board Standard Exclusive Model Test",
+  "subject": "HSC উচ্চতর গণিত ২য় পত্র",
+  "subject_code": "২৬৬",
+  "type": "Pattern-based exclusive model test",
+  "guarantee_note": "এগুলো repeated board pattern, chapter weight, formula frequency ও trap-style দেখে তৈরি সম্ভাব্য প্রশ্ন; কোনো প্রশ্নকে guaranteed বলা হচ্ছে না।",
+  "difficulty_mix": {
+    "Medium": "40%",
+    "Hard": "35%",
+    "Trap/Analytical": "25%"
+  },
+  "sets": [
+    {
+      "set_no": 1,
+      "mcqs": [
+        {
+          "question_no": 1,
+          "stem": "উদ্দীপক: একটি পরাবৃত্তের সমীকরণ \\(y^2=12x\\)।",
+          "question": "পরাবৃত্তটির উপকেন্দ্র কোনটি?",
+          "options": {
+            "ক": "\\((3,0)\\)",
+            "খ": "\\((0,3)\\)",
+            "গ": "\\((-3,0)\\)",
+            "ঘ": "\\((0,-3)\\)"
+          },
+          "correct_option": "ক",
+          "explanation": "\\(y^2=4ax\\) হলে \\(4a=12\\Rightarrow a=3\\), তাই focus \\((a,0)\\)।",
+          "topic": "Chapter 6: Conics",
+          "probability": "Mega Hot"
+        },
+        {
+          "question_no": 2,
+          "stem": "উদ্দীপক: একটি পরাবৃত্তের সমীকরণ \\(y^2=12x\\)।",
+          "question": "পরাবৃত্তটির উপকেন্দ্রিক লম্বের দৈর্ঘ্য কত?",
+          "options": {
+            "ক": "৬",
+            "খ": "৯",
+            "গ": "১২",
+            "ঘ": "২৪"
+          },
+          "correct_option": "গ",
+          "explanation": "ল্যাটাস রেক্টামের দৈর্ঘ্য \\(4a=12\\)।",
+          "topic": "Chapter 6: Conics",
+          "probability": "Board Favourite"
+        },
+        {
+          "question_no": 3,
+          "stem": "উদ্দীপক: 5 N ও 7 N মানের দুইটি বল পরস্পরের সাথে \\(60^\\circ\\) কোণে ক্রিয়া করে।",
+          "question": "বলদ্বয়ের লব্ধির মান কত?",
+          "options": {
+            "ক": "\\(\\sqrt{84}\\) N",
+            "খ": "\\(\\sqrt{109}\\) N",
+            "গ": "\\(\\sqrt{119}\\) N",
+            "ঘ": "12 N"
+          },
+          "correct_option": "খ",
+          "explanation": "\\(R^2=5^2+7^2+2\\cdot5\\cdot7\\cos60^\\circ=109\\)।",
+          "topic": "Chapter 8: Statics",
+          "probability": "Mega Hot"
+        },
+        {
+          "question_no": 4,
+          "stem": "উদ্দীপক: 5 N ও 7 N মানের দুইটি বল পরস্পরের সাথে \\(60^\\circ\\) কোণে ক্রিয়া করে।",
+          "question": "লব্ধি 5 N বলের সাথে \\(\\theta\\) কোণ করলে \\(\\tan\\theta\\) কত?",
+          "options": {
+            "ক": "\\(\\frac{7\\sqrt3}{17}\\)",
+            "খ": "\\(\\frac{5\\sqrt3}{17}\\)",
+            "গ": "\\(\\frac{7}{17}\\)",
+            "ঘ": "\\(\\frac{17}{7\\sqrt3}\\)"
+          },
+          "correct_option": "ক",
+          "explanation": "\\(\\tan\\theta=\\frac{7\\sin60^\\circ}{5+7\\cos60^\\circ}=\\frac{7\\sqrt3}{17}\\)।",
+          "topic": "Chapter 8: Statics",
+          "probability": "Very Hot"
+        },
+        {
+          "question_no": 5,
+          "stem": "",
+          "question": "\\(z=-1+i\\sqrt3\\) হলে \\(\\arg z\\) এর মুখ্য মান কত?",
+          "options": {
+            "ক": "\\(\\frac{\\pi}{3}\\)",
+            "খ": "\\(\\frac{2\\pi}{3}\\)",
+            "গ": "\\(-\\frac{\\pi}{3}\\)",
+            "ঘ": "\\(-\\frac{2\\pi}{3}\\)"
+          },
+          "correct_option": "খ",
+          "explanation": "বিন্দুটি দ্বিতীয় চতুর্ভাগে, তাই argument \\(\\pi-\\tan^{-1}\\sqrt3=2\\pi/3\\)।",
+          "topic": "Chapter 3: Complex Numbers",
+          "probability": "Conceptual Trap"
+        },
+        {
+          "question_no": 6,
+          "stem": "",
+          "question": "\\(-5+12i\\)-এর বর্গমূল কোনটি?",
+          "options": {
+            "ক": "\\(\\pm(3+2i)\\)",
+            "খ": "\\(\\pm(2+3i)\\)",
+            "গ": "\\(\\pm(2-3i)\\)",
+            "ঘ": "\\(\\pm(3-2i)\\)"
+          },
+          "correct_option": "খ",
+          "explanation": "\\((2+3i)^2=4-9+12i=-5+12i\\)।",
+          "topic": "Chapter 3: Complex Numbers",
+          "probability": "Mega Hot"
+        },
+        {
+          "question_no": 7,
+          "stem": "",
+          "question": "\\(\\omega\\) যদি এককের কাল্পনিক ঘনমূল হয়, তবে \\((1-\\omega)(1-\\omega^2)\\) এর মান কত?",
+          "options": {
+            "ক": "১",
+            "খ": "২",
+            "গ": "৩",
+            "ঘ": "\\(-3\\)"
+          },
+          "correct_option": "গ",
+          "explanation": "\\((1-\\omega)(1-\\omega^2)=1-(\\omega+\\omega^2)+\\omega^3=1-(-1)+1=3\\)।",
+          "topic": "Chapter 3: Complex Numbers",
+          "probability": "Board Favourite"
+        },
+        {
+          "question_no": 8,
+          "stem": "",
+          "question": "\\(x^2-5x+6=0\\)-এর মূলদ্বয় \\(\\alpha,\\beta\\) হলে \\(\\alpha^2+\\beta^2\\) কত?",
+          "options": {
+            "ক": "১১",
+            "খ": "১২",
+            "গ": "১৩",
+            "ঘ": "২৫"
+          },
+          "correct_option": "গ",
+          "explanation": "\\(\\alpha+\\beta=5,\\alpha\\beta=6\\); তাই \\(\\alpha^2+\\beta^2=25-12=13\\)।",
+          "topic": "Chapter 4: Polynomials",
+          "probability": "Mega Hot"
+        },
+        {
+          "question_no": 9,
+          "stem": "",
+          "question": "\\(x^2-2kx+k+3=0\\)-এর সমান মূলের জন্য \\(k\\)-এর মান কোনটি?",
+          "options": {
+            "ক": "\\(\\frac{1\\pm\\sqrt{13}}2\\)",
+            "খ": "\\(\\frac{-1\\pm\\sqrt{13}}2\\)",
+            "গ": "\\(1\\pm\\sqrt3\\)",
+            "ঘ": "\\(-1\\pm\\sqrt3\\)"
+          },
+          "correct_option": "ক",
+          "explanation": "সমান মূলের জন্য \\(D=0\\Rightarrow4k^2-4(k+3)=0\\Rightarrow k=\\frac{1\\pm\\sqrt{13}}2\\)।",
+          "topic": "Chapter 4: Polynomials",
+          "probability": "Very Hot"
+        },
+        {
+          "question_no": 10,
+          "stem": "",
+          "question": "\\(\\sin^{-1}\\frac35+\\cos^{-1}\\frac35\\) এর মান কত?",
+          "options": {
+            "ক": "০",
+            "খ": "\\(\\frac{\\pi}{4}\\)",
+            "গ": "\\(\\frac{\\pi}{2}\\)",
+            "ঘ": "\\(\\pi\\)"
+          },
+          "correct_option": "গ",
+          "explanation": "পরিচিত সূত্র: \\(\\sin^{-1}x+\\cos^{-1}x=\\pi/2\\)।",
+          "topic": "Chapter 7: Inverse Trigonometry",
+          "probability": "Board Favourite"
+        },
+        {
+          "question_no": 11,
+          "stem": "",
+          "question": "\\(\\tan^{-1}\\frac12+\\tan^{-1}\\frac13\\) এর মান কত?",
+          "options": {
+            "ক": "\\(\\frac{\\pi}{6}\\)",
+            "খ": "\\(\\frac{\\pi}{4}\\)",
+            "গ": "\\(\\frac{\\pi}{3}\\)",
+            "ঘ": "\\(\\frac{\\pi}{2}\\)"
+          },
+          "correct_option": "খ",
+          "explanation": "\\(\\tan(A+B)=\\frac{1/2+1/3}{1-1/6}=1\\), তাই \\(A+B=\\pi/4\\)।",
+          "topic": "Chapter 7: Inverse Trigonometry",
+          "probability": "Mega Hot"
+        },
+        {
+          "question_no": 12,
+          "stem": "",
+          "question": "\\(u=20\\text{ m/s},\\theta=30^\\circ,g=10\\text{ m/s}^2\\) হলে প্রাসের উড্ডয়নকাল কত?",
+          "options": {
+            "ক": "১ s",
+            "খ": "২ s",
+            "গ": "৩ s",
+            "ঘ": "৪ s"
+          },
+          "correct_option": "খ",
+          "explanation": "\\(T=\\frac{2u\\sin\\theta}{g}=\\frac{2\\cdot20\\cdot1/2}{10}=2\\)।",
+          "topic": "Chapter 9: Dynamics",
+          "probability": "Mega Hot"
+        },
+        {
+          "question_no": 13,
+          "stem": "",
+          "question": "একটি তাসের প্যাকেট থেকে একটি তাস তুললে সেটি king অথবা heart হওয়ার সম্ভাবনা কত?",
+          "options": {
+            "ক": "\\(\\frac{3}{13}\\)",
+            "খ": "\\(\\frac{4}{13}\\)",
+            "গ": "\\(\\frac{5}{13}\\)",
+            "ঘ": "\\(\\frac{1}{4}\\)"
+          },
+          "correct_option": "খ",
+          "explanation": "\\(P=\\frac4{52}+\\frac{13}{52}-\\frac1{52}=\\frac{16}{52}=\\frac4{13}\\)।",
+          "topic": "Chapter 10: Probability",
+          "probability": "Very Hot"
+        },
+        {
+          "question_no": 14,
+          "stem": "",
+          "question": "একটি ছক্কা দুইবার নিক্ষেপে প্রথম ছক্কায় জোড় সংখ্যা এসেছে জানা থাকলে, যোগফল ৮ হওয়ার সম্ভাবনা কত?",
+          "options": {
+            "ক": "\\(\\frac16\\)",
+            "খ": "\\(\\frac14\\)",
+            "গ": "\\(\\frac13\\)",
+            "ঘ": "\\(\\frac12\\)"
+          },
+          "correct_option": "ক",
+          "explanation": "প্রথমটি জোড় হলে ১৮টি ফল; যোগফল ৮: \\((2,6),(4,4),(6,2)\\), তাই \\(3/18=1/6\\)।",
+          "topic": "Chapter 10: Probability",
+          "probability": "Conceptual Trap"
+        },
+        {
+          "question_no": 15,
+          "stem": "",
+          "question": "\\(z=1+i\\) হলে— i. \\(|z|=\\sqrt2\\) ii. \\(\\arg z=\\pi/4\\) iii. \\(z^4=-4\\)। কোনটি সঠিক?",
+          "options": {
+            "ক": "i ও ii",
+            "খ": "ii ও iii",
+            "গ": "i ও iii",
+            "ঘ": "i, ii ও iii"
+          },
+          "correct_option": "ঘ",
+          "explanation": "\\(1+i=\\sqrt2\\text{cis}\\,\\pi/4\\); চতুর্থ ঘাতে \\(4\\text{cis}\\,\\pi=-4\\)।",
+          "topic": "Chapter 3: Complex Numbers",
+          "probability": "Very Hot"
+        },
+        {
+          "question_no": 16,
+          "stem": "",
+          "question": "\\(x^2-3x+2=0\\)-এর মূল \\(\\alpha,\\beta\\)। i. \\(\\alpha+\\beta=3\\) ii. \\(\\alpha\\beta=2\\) iii. \\(\\frac1\\alpha+\\frac1\\beta=\\frac32\\)। কোনটি সঠিক?",
+          "options": {
+            "ক": "i ও ii",
+            "খ": "ii ও iii",
+            "গ": "i ও iii",
+            "ঘ": "i, ii ও iii"
+          },
+          "correct_option": "ঘ",
+          "explanation": "সহগ-সম্পর্ক থেকে sum=3, product=2 এবং reciprocal sum \\(=3/2\\)।",
+          "topic": "Chapter 4: Polynomials",
+          "probability": "Board Favourite"
+        },
+        {
+          "question_no": 17,
+          "stem": "",
+          "question": "\\(\\frac{x^2}{25}+\\frac{y^2}{16}=1\\) উপবৃত্তের জন্য— i. \\(e=\\frac35\\) ii. ফোকাস \\((\\pm3,0)\\) iii. নিয়ামক রেখা \\(x=\\pm\\frac{25}{3}\\)। কোনটি সঠিক?",
+          "options": {
+            "ক": "i ও ii",
+            "খ": "ii ও iii",
+            "গ": "i ও iii",
+            "ঘ": "i, ii ও iii"
+          },
+          "correct_option": "ঘ",
+          "explanation": "\\(a=5,b=4,c=3,e=c/a=3/5\\); directrix \\(x=\\pm a/e=\\pm25/3\\)।",
+          "topic": "Chapter 6: Conics",
+          "probability": "Mega Hot"
+        },
+        {
+          "question_no": 18,
+          "stem": "",
+          "question": "লামির উপপাদ্য সম্পর্কে— i. তিনটি অসামান্তরাল সহতল বলের সাম্যাবস্থায় প্রযোজ্য ii. প্রতিটি বল বিপরীত কোণের sine-এর সমানুপাতিক iii. \\(\\frac{P}{\\sin\\alpha}=\\frac{Q}{\\sin\\beta}=\\frac{R}{\\sin\\gamma}\\)। কোনটি সঠিক?",
+          "options": {
+            "ক": "i ও ii",
+            "খ": "ii ও iii",
+            "গ": "i ও iii",
+            "ঘ": "i, ii ও iii"
+          },
+          "correct_option": "ঘ",
+          "explanation": "তিন বলের সাম্যাবস্থার সবচেয়ে repeated formula-trap হলো লামির sine ratio।",
+          "topic": "Chapter 8: Statics",
+          "probability": "Board Favourite"
+        },
+        {
+          "question_no": 19,
+          "stem": "",
+          "question": "\\(X\\sim B(4,\\frac12)\\) হলে— i. \\(P(X=2)=\\frac38\\) ii. গড় \\(=2\\) iii. বিভেদ \\(=1\\)। কোনটি সঠিক?",
+          "options": {
+            "ক": "i ও ii",
+            "খ": "ii ও iii",
+            "গ": "i ও iii",
+            "ঘ": "i, ii ও iii"
+          },
+          "correct_option": "ঘ",
+          "explanation": "\\(P(X=2)=\\binom42/16=3/8\\), mean \\(np=2\\), variance \\(npq=1\\)।",
+          "topic": "Chapter 10: Probability",
+          "probability": "Very Hot"
+        },
+        {
+          "question_no": 20,
+          "stem": "",
+          "question": "\\(\\sin x=\\frac12\\) সমীকরণের জন্য— i. \\(x=n\\pi+(-1)^n\\frac{\\pi}{6}\\) ii. \\([0,\\pi]\\)-তে সমাধান \\(\\frac\\pi6,\\frac{5\\pi}6\\) iii. পর্যায় \\(2\\pi\\)। কোনটি সঠিক?",
+          "options": {
+            "ক": "i ও ii",
+            "খ": "ii ও iii",
+            "গ": "i ও iii",
+            "ঘ": "i, ii ও iii"
+          },
+          "correct_option": "ঘ",
+          "explanation": "সাইন সমীকরণের standard board solution তিনটিই পূরণ করে।",
+          "topic": "Chapter 7: Trig Equations",
+          "probability": "Mega Hot"
+        },
+        {
+          "question_no": 21,
+          "stem": "",
+          "question": "\\(|z-2|=|z+2|\\) সঞ্চারপথের সমীকরণ কোনটি?",
+          "options": {
+            "ক": "\\(x=0\\)",
+            "খ": "\\(y=0\\)",
+            "গ": "\\(x=2\\)",
+            "ঘ": "\\(y=2\\)"
+          },
+          "correct_option": "ক",
+          "explanation": "বিন্দুটি \\((2,0)\\) ও \\((-2,0)\\) থেকে সমদূরবর্তী, তাই লম্ব সমদ্বিখণ্ডক \\(x=0\\)।",
+          "topic": "Chapter 3: Complex Numbers",
+          "probability": "Conceptual Trap"
+        },
+        {
+          "question_no": 22,
+          "stem": "",
+          "question": "\\(2x^2-5x+2=0\\)-এর মূলদ্বয়ের বিপরীত সংখ্যা মূল হলে নতুন সমীকরণ কোনটি?",
+          "options": {
+            "ক": "\\(x^2-5x+2=0\\)",
+            "খ": "\\(2x^2-5x+2=0\\)",
+            "গ": "\\(2x^2+5x+2=0\\)",
+            "ঘ": "\\(x^2+5x+2=0\\)"
+          },
+          "correct_option": "খ",
+          "explanation": "reciprocal equation: \\(cx^2+bx+a=0\\); এখানে আগের সমীকরণই পাওয়া যায়।",
+          "topic": "Chapter 4: Polynomials",
+          "probability": "Board Favourite"
+        },
+        {
+          "question_no": 23,
+          "stem": "",
+          "question": "8 N ও 5 N বিসদৃশ সমান্তরাল বলের দূরত্ব 6 m। লব্ধির অবস্থান 8 N বল থেকে কত দূরে?",
+          "options": {
+            "ক": "6 m",
+            "খ": "8 m",
+            "গ": "10 m",
+            "ঘ": "16 m"
+          },
+          "correct_option": "গ",
+          "explanation": "বিসদৃশে \\(R=3\\) N, এবং বড় বল থেকে দূরত্ব \\(=\\frac{5\\times6}{3}=10\\) m; অবস্থান বাইরে।",
+          "topic": "Chapter 8: Statics",
+          "probability": "Conceptual Trap"
+        },
+        {
+          "question_no": 24,
+          "stem": "",
+          "question": "ভর \\(m\\) বিশিষ্ট ব্যক্তি লিফটে ঊর্ধ্বমুখী \\(a\\) ত্বরণে চললে আপাত ওজন কত?",
+          "options": {
+            "ক": "\\(m(g-a)\\)",
+            "খ": "\\(mg\\)",
+            "গ": "\\(m(g+a)\\)",
+            "ঘ": "\\(ma\\)"
+          },
+          "correct_option": "গ",
+          "explanation": "লিফট উপরে ত্বরণে চললে reaction বা apparent weight \\(R=m(g+a)\\)।",
+          "topic": "Chapter 9: Dynamics",
+          "probability": "Mega Hot"
+        },
+        {
+          "question_no": 25,
+          "stem": "",
+          "question": "দুইটি ছক্কা নিক্ষেপে গুণফল জোড় হওয়ার সম্ভাবনা কত?",
+          "options": {
+            "ক": "\\(\\frac14\\)",
+            "খ": "\\(\\frac12\\)",
+            "গ": "\\(\\frac34\\)",
+            "ঘ": "\\(\\frac56\\)"
+          },
+          "correct_option": "গ",
+          "explanation": "শুধু উভয়টি বিজোড় হলে গুণফল বিজোড়: \\(9/36\\); তাই জোড় \\(=1-1/4=3/4\\)।",
+          "topic": "Chapter 10: Probability",
+          "probability": "Board Favourite"
+        }
+      ]
+    },
+    {
+      "set_no": 2,
+      "mcqs": [
+        {
+          "question_no": 1,
+          "stem": "উদ্দীপক: \\(z_1=3+4i\\) এবং \\(z_2=-4+3i\\)।",
+          "question": "\\(|z_1z_2|\\) এর মান কত?",
+          "options": {
+            "ক": "5",
+            "খ": "10",
+            "গ": "20",
+            "ঘ": "25"
+          },
+          "correct_option": "ঘ",
+          "explanation": "\\(|z_1z_2|=|z_1||z_2|=5\\times5=25\\)।",
+          "topic": "Chapter 3: Complex Numbers",
+          "probability": "Mega Hot"
+        },
+        {
+          "question_no": 2,
+          "stem": "উদ্দীপক: \\(z_1=3+4i\\) এবং \\(z_2=-4+3i\\)।",
+          "question": "\\(z_2\\)-এর মুখ্য argument কোনটি?",
+          "options": {
+            "ক": "\\(\\tan^{-1}\\frac34\\)",
+            "খ": "\\(\\pi-\\tan^{-1}\\frac34\\)",
+            "গ": "\\(-\\tan^{-1}\\frac34\\)",
+            "ঘ": "\\(\\pi+\\tan^{-1}\\frac34\\)"
+          },
+          "correct_option": "খ",
+          "explanation": "\\((-4,3)\\) দ্বিতীয় চতুর্ভাগে, তাই principal argument \\(\\pi-\\tan^{-1}(3/4)\\)।",
+          "topic": "Chapter 3: Complex Numbers",
+          "probability": "Conceptual Trap"
+        },
+        {
+          "question_no": 3,
+          "stem": "উদ্দীপক: একটি প্রাস \\(u=40\\text{ m/s}\\) বেগে \\(45^\\circ\\) কোণে নিক্ষিপ্ত হলো; \\(g=10\\text{ m/s}^2\\)।",
+          "question": "প্রাসটির আনুভূমিক পাল্লা কত?",
+          "options": {
+            "ক": "80 m",
+            "খ": "120 m",
+            "গ": "160 m",
+            "ঘ": "200 m"
+          },
+          "correct_option": "গ",
+          "explanation": "\\(R=\\frac{u^2\\sin2\\theta}{g}=\\frac{1600}{10}=160\\) m।",
+          "topic": "Chapter 9: Dynamics",
+          "probability": "Mega Hot"
+        },
+        {
+          "question_no": 4,
+          "stem": "উদ্দীপক: একটি প্রাস \\(u=40\\text{ m/s}\\) বেগে \\(45^\\circ\\) কোণে নিক্ষিপ্ত হলো; \\(g=10\\text{ m/s}^2\\)।",
+          "question": "প্রাসটির সর্বোচ্চ উচ্চতা কত?",
+          "options": {
+            "ক": "20 m",
+            "খ": "40 m",
+            "গ": "60 m",
+            "ঘ": "80 m"
+          },
+          "correct_option": "খ",
+          "explanation": "\\(H=\\frac{u^2\\sin^2\\theta}{2g}=\\frac{1600\\cdot1/2}{20}=40\\) m।",
+          "topic": "Chapter 9: Dynamics",
+          "probability": "Board Favourite"
+        },
+        {
+          "question_no": 5,
+          "stem": "",
+          "question": "\\(|z-(1+i)|=3\\) সঞ্চারপথের কার্তেসীয় সমীকরণ কোনটি?",
+          "options": {
+            "ক": "\\((x-1)^2+(y-1)^2=9\\)",
+            "খ": "\\((x+1)^2+(y+1)^2=9\\)",
+            "গ": "\\(x^2+y^2=9\\)",
+            "ঘ": "\\((x-1)^2+(y+1)^2=9\\)"
+          },
+          "correct_option": "ক",
+          "explanation": "\\(z=x+iy\\) বসালে কেন্দ্র \\((1,1)\\), ব্যাসার্ধ 3-এর বৃত্ত।",
+          "topic": "Chapter 3: Complex Numbers",
+          "probability": "Very Hot"
+        },
+        {
+          "question_no": 6,
+          "stem": "",
+          "question": "\\(7-24i\\)-এর বর্গমূল কোনটি?",
+          "options": {
+            "ক": "\\(\\pm(4+3i)\\)",
+            "খ": "\\(\\pm(3-4i)\\)",
+            "গ": "\\(\\pm(4-3i)\\)",
+            "ঘ": "\\(\\pm(5-2i)\\)"
+          },
+          "correct_option": "গ",
+          "explanation": "\\((4-3i)^2=16-24i-9=7-24i\\)।",
+          "topic": "Chapter 3: Complex Numbers",
+          "probability": "Mega Hot"
+        },
+        {
+          "question_no": 7,
+          "stem": "",
+          "question": "\\(\\alpha+\\beta=4,\\alpha\\beta=-1\\) হলে \\(\\alpha^3+\\beta^3\\) কত?",
+          "options": {
+            "ক": "52",
+            "খ": "64",
+            "গ": "76",
+            "ঘ": "80"
+          },
+          "correct_option": "গ",
+          "explanation": "\\((\\alpha+\\beta)^3-3\\alpha\\beta(\\alpha+\\beta)=64+12=76\\)।",
+          "topic": "Chapter 4: Polynomials",
+          "probability": "Board Favourite"
+        },
+        {
+          "question_no": 8,
+          "stem": "",
+          "question": "\\(x^2+2kx+k^2-1=0\\) সমীকরণটির মূলের প্রকৃতি কী?",
+          "options": {
+            "ক": "সব \\(k\\)-এর জন্য বাস্তব ও অসমান",
+            "খ": "শুধু \\(k=0\\)-এ বাস্তব",
+            "গ": "সব \\(k\\)-এর জন্য কাল্পনিক",
+            "ঘ": "শুধু \\(k=1\\)-এ সমান"
+          },
+          "correct_option": "ক",
+          "explanation": "\\(D=(2k)^2-4(k^2-1)=4>0\\); তাই সব \\(k\\)-এ বাস্তব ও অসমান।",
+          "topic": "Chapter 4: Polynomials",
+          "probability": "Conceptual Trap"
+        },
+        {
+          "question_no": 9,
+          "stem": "",
+          "question": "\\(x^2=-8y\\) পরাবৃত্তের উপকেন্দ্র কোনটি?",
+          "options": {
+            "ক": "\\((0,2)\\)",
+            "খ": "\\((0,-2)\\)",
+            "গ": "\\((2,0)\\)",
+            "ঘ": "\\((-2,0)\\)"
+          },
+          "correct_option": "খ",
+          "explanation": "\\(x^2=4ay\\Rightarrow4a=-8\\Rightarrow a=-2\\), focus \\((0,a)\\)।",
+          "topic": "Chapter 6: Conics",
+          "probability": "Mega Hot"
+        },
+        {
+          "question_no": 10,
+          "stem": "",
+          "question": "\\(\\frac{x^2}{9}-\\frac{y^2}{16}=1\\) অধিবৃত্তের উৎকেন্দ্রিকতা কত?",
+          "options": {
+            "ক": "\\(\\frac43\\)",
+            "খ": "\\(\\frac53\\)",
+            "গ": "\\(\\frac54\\)",
+            "ঘ": "\\(\\frac34\\)"
+          },
+          "correct_option": "খ",
+          "explanation": "অধিবৃত্তে \\(e=\\sqrt{1+b^2/a^2}=\\sqrt{1+16/9}=5/3\\)।",
+          "topic": "Chapter 6: Conics",
+          "probability": "Board Favourite"
+        },
+        {
+          "question_no": 11,
+          "stem": "",
+          "question": "\\(\\cos^{-1}(-\\frac12)\\) এর মান কত?",
+          "options": {
+            "ক": "\\(\\frac{\\pi}{3}\\)",
+            "খ": "\\(\\frac{2\\pi}{3}\\)",
+            "গ": "\\(-\\frac{\\pi}{3}\\)",
+            "ঘ": "\\(\\frac{4\\pi}{3}\\)"
+          },
+          "correct_option": "খ",
+          "explanation": "\\(\\cos^{-1}x\\)-এর range \\([0,\\pi]\\); তাই মান \\(2\\pi/3\\)।",
+          "topic": "Chapter 7: Inverse Trigonometry",
+          "probability": "Conceptual Trap"
+        },
+        {
+          "question_no": 12,
+          "stem": "",
+          "question": "\\(\\tan^{-1}2+\\tan^{-1}3\\) এর মান কত?",
+          "options": {
+            "ক": "\\(\\frac\\pi4\\)",
+            "খ": "\\(\\frac\\pi2\\)",
+            "গ": "\\(\\frac{3\\pi}{4}\\)",
+            "ঘ": "\\(\\pi\\)"
+          },
+          "correct_option": "গ",
+          "explanation": "product \\(>1\\); তাই quadrant correction দিয়ে \\(\\pi+\\tan^{-1}(-1)=3\\pi/4\\)।",
+          "topic": "Chapter 7: Inverse Trigonometry",
+          "probability": "Mega Hot"
+        },
+        {
+          "question_no": 13,
+          "stem": "",
+          "question": "10 N ও 20 N সদৃশ সমান্তরাল বল 3 m দূরে ক্রিয়া করে। 10 N বল থেকে লব্ধির দূরত্ব কত?",
+          "options": {
+            "ক": "1 m",
+            "খ": "1.5 m",
+            "গ": "2 m",
+            "ঘ": "2.5 m"
+          },
+          "correct_option": "গ",
+          "explanation": "লব্ধির অবস্থান \\(x=\\frac{20\\times3}{10+20}=2\\) m।",
+          "topic": "Chapter 8: Statics",
+          "probability": "Very Hot"
+        },
+        {
+          "question_no": 14,
+          "stem": "",
+          "question": "\\(X\\sim B(3,\\frac13)\\) হলে \\(P(X=0)\\) কত?",
+          "options": {
+            "ক": "\\(\\frac{1}{27}\\)",
+            "খ": "\\(\\frac{2}{27}\\)",
+            "গ": "\\(\\frac{4}{27}\\)",
+            "ঘ": "\\(\\frac{8}{27}\\)"
+          },
+          "correct_option": "ঘ",
+          "explanation": "\\(P(X=0)=\\binom30(1/3)^0(2/3)^3=8/27\\)।",
+          "topic": "Chapter 10: Probability",
+          "probability": "Board Favourite"
+        },
+        {
+          "question_no": 15,
+          "stem": "",
+          "question": "\\(\\omega\\) এককের কাল্পনিক ঘনমূল হলে— i. \\(\\omega^2=\\bar\\omega\\) ii. \\(\\frac1\\omega=\\omega^2\\) iii. \\((1+\\omega)^2=\\omega\\)। কোনটি সঠিক?",
+          "options": {
+            "ক": "i ও ii",
+            "খ": "ii ও iii",
+            "গ": "i ও iii",
+            "ঘ": "i, ii ও iii"
+          },
+          "correct_option": "ঘ",
+          "explanation": "\\(1+\\omega=-\\omega^2\\), তাই \\((1+\\omega)^2=\\omega^4=\\omega\\); বাকি দুটিও সত্য।",
+          "topic": "Chapter 3: Complex Numbers",
+          "probability": "Mega Hot"
+        },
+        {
+          "question_no": 16,
+          "stem": "",
+          "question": "বিপরীত ত্রিকোণমিতিক ফাংশনের range সম্পর্কে— i. \\(\\sin^{-1}x\\in[-\\pi/2,\\pi/2]\\) ii. \\(\\cos^{-1}x\\in[0,\\pi]\\) iii. \\(\\tan^{-1}x\\in(-\\pi/2,\\pi/2)\\)। কোনটি সঠিক?",
+          "options": {
+            "ক": "i ও ii",
+            "খ": "ii ও iii",
+            "গ": "i ও iii",
+            "ঘ": "i, ii ও iii"
+          },
+          "correct_option": "ঘ",
+          "explanation": "তিনটি range-ই board MCQ-তে frequent domain-range trap।",
+          "topic": "Chapter 7: Inverse Trigonometry",
+          "probability": "Board Favourite"
+        },
+        {
+          "question_no": 17,
+          "stem": "",
+          "question": "\\(x^2+y^2-4x+6y-12=0\\) সম্পর্কে— i. কেন্দ্র \\((2,-3)\\) ii. ব্যাসার্ধ 5 iii. এটি একটি বৃত্ত। কোনটি সঠিক?",
+          "options": {
+            "ক": "i ও ii",
+            "খ": "ii ও iii",
+            "গ": "i ও iii",
+            "ঘ": "i, ii ও iii"
+          },
+          "correct_option": "ঘ",
+          "explanation": "Completing square: \\((x-2)^2+(y+3)^2=25\\)।",
+          "topic": "Chapter 6: Conics",
+          "probability": "Very Hot"
+        },
+        {
+          "question_no": 18,
+          "stem": "",
+          "question": "স্থির অবস্থা থেকে \\(a=2\\text{ m/s}^2\\) ত্বরণে 5 s চললে— i. \\(s=25\\) m ii. \\(v=10\\) m/s iii. \\(v^2=2as\\)। কোনটি সঠিক?",
+          "options": {
+            "ক": "i ও ii",
+            "খ": "ii ও iii",
+            "গ": "i ও iii",
+            "ঘ": "i, ii ও iii"
+          },
+          "correct_option": "ঘ",
+          "explanation": "\\(s=\\frac12at^2=25\\), \\(v=at=10\\), এবং \\(v^2=2as\\)।",
+          "topic": "Chapter 9: Dynamics",
+          "probability": "Very Hot"
+        },
+        {
+          "question_no": 19,
+          "stem": "",
+          "question": "\\(A,B\\) স্বাধীন ঘটনা; \\(P(A)=\\frac12, P(B)=\\frac13\\)। i. \\(P(A\\cap B)=\\frac16\\) ii. \\(P(A\\cup B)=\\frac23\\) iii. \\(P(A|B)=\\frac12\\)। কোনটি সঠিক?",
+          "options": {
+            "ক": "i ও ii",
+            "খ": "ii ও iii",
+            "গ": "i ও iii",
+            "ঘ": "i, ii ও iii"
+          },
+          "correct_option": "ঘ",
+          "explanation": "স্বাধীন হলে \\(P(A\\cap B)=P(A)P(B)\\) এবং \\(P(A|B)=P(A)\\)।",
+          "topic": "Chapter 10: Probability",
+          "probability": "Mega Hot"
+        },
+        {
+          "question_no": 20,
+          "stem": "",
+          "question": "\\(x^3-6x^2+11x-6=0\\)-এর মূল 1,2,3 হলে— i. মূলসমষ্টি 6 ii. যুগ্মগুণফলসমষ্টি 11 iii. মূলগুণফল 6। কোনটি সঠিক?",
+          "options": {
+            "ক": "i ও ii",
+            "খ": "ii ও iii",
+            "গ": "i ও iii",
+            "ঘ": "i, ii ও iii"
+          },
+          "correct_option": "ঘ",
+          "explanation": "ঘন সমীকরণে \\(\\sum\\alpha=6,\\sum\\alpha\\beta=11,\\alpha\\beta\\gamma=6\\)।",
+          "topic": "Chapter 4: Polynomials",
+          "probability": "Board Favourite"
+        },
+        {
+          "question_no": 21,
+          "stem": "",
+          "question": "\\(y^2=16x\\) পরাবৃত্তের নিয়ামক রেখা কোনটি?",
+          "options": {
+            "ক": "\\(x=4\\)",
+            "খ": "\\(x=-4\\)",
+            "গ": "\\(y=4\\)",
+            "ঘ": "\\(y=-4\\)"
+          },
+          "correct_option": "খ",
+          "explanation": "\\(4a=16\\Rightarrow a=4\\); directrix \\(x=-a=-4\\)।",
+          "topic": "Chapter 6: Conics",
+          "probability": "Mega Hot"
+        },
+        {
+          "question_no": 22,
+          "stem": "",
+          "question": "\\(\\sin2x=0\\)-এর সাধারণ সমাধান কোনটি?",
+          "options": {
+            "ক": "\\(x=n\\pi\\)",
+            "খ": "\\(x=\\frac{n\\pi}{2}\\)",
+            "গ": "\\(x=2n\\pi\\)",
+            "ঘ": "\\(x=\\frac{(2n+1)\\pi}{2}\\)"
+          },
+          "correct_option": "খ",
+          "explanation": "\\(2x=n\\pi\\Rightarrow x=n\\pi/2\\)।",
+          "topic": "Chapter 7: Trig Equations",
+          "probability": "Board Favourite"
+        },
+        {
+          "question_no": 23,
+          "stem": "",
+          "question": "দুইটি সমান বল \\(P\\) পরস্পরের সাথে \\(120^\\circ\\) কোণে ক্রিয়া করলে লব্ধির মান কত?",
+          "options": {
+            "ক": "0",
+            "খ": "\\(P\\)",
+            "গ": "\\(\\sqrt2P\\)",
+            "ঘ": "\\(2P\\)"
+          },
+          "correct_option": "খ",
+          "explanation": "\\(R=\\sqrt{P^2+P^2+2P^2\\cos120^\\circ}=P\\)।",
+          "topic": "Chapter 8: Statics",
+          "probability": "Conceptual Trap"
+        },
+        {
+          "question_no": 24,
+          "stem": "",
+          "question": "একটি তাস face card জানা থাকলে সেটি ace হওয়ার সম্ভাবনা কত?",
+          "options": {
+            "ক": "0",
+            "খ": "\\(\\frac{1}{13}\\)",
+            "গ": "\\(\\frac{1}{4}\\)",
+            "ঘ": "\\(\\frac{4}{13}\\)"
+          },
+          "correct_option": "ক",
+          "explanation": "Face card বলতে J,Q,K বোঝায়; ace face card নয়।",
+          "topic": "Chapter 10: Probability",
+          "probability": "Conceptual Trap"
+        },
+        {
+          "question_no": 25,
+          "stem": "",
+          "question": "দুইবার ছক্কা নিক্ষেপে অন্তত একবার 6 আসার সম্ভাবনা কত?",
+          "options": {
+            "ক": "\\(\\frac16\\)",
+            "খ": "\\(\\frac{11}{36}\\)",
+            "গ": "\\(\\frac{5}{18}\\)",
+            "ঘ": "\\(\\frac{25}{36}\\)"
+          },
+          "correct_option": "খ",
+          "explanation": "Complement: কোনো 6 না আসা \\((5/6)^2=25/36\\); তাই সম্ভাবনা \\(11/36\\)।",
+          "topic": "Chapter 10: Probability",
+          "probability": "Mega Hot"
+        }
+      ]
+    },
+    {
+      "set_no": 3,
+      "mcqs": [
+        {
+          "question_no": 1,
+          "stem": "উদ্দীপক: \\(x^2-4x+1=0\\) সমীকরণের মূলদ্বয় \\(\\alpha,\\beta\\)।",
+          "question": "\\(\\alpha+\\beta\\) এবং \\(\\alpha\\beta\\)-এর মান যথাক্রমে কত?",
+          "options": {
+            "ক": "4, 1",
+            "খ": "-4, 1",
+            "গ": "1, 4",
+            "ঘ": "4, -1"
+          },
+          "correct_option": "ক",
+          "explanation": "\\(x^2-4x+1=0\\) থেকে sum \\(=4\\), product \\(=1\\)।",
+          "topic": "Chapter 4: Polynomials",
+          "probability": "Board Favourite"
+        },
+        {
+          "question_no": 2,
+          "stem": "উদ্দীপক: \\(x^2-4x+1=0\\) সমীকরণের মূলদ্বয় \\(\\alpha,\\beta\\)।",
+          "question": "\\(\\alpha^2,\\beta^2\\) মূলবিশিষ্ট সমীকরণ কোনটি?",
+          "options": {
+            "ক": "\\(x^2-8x+1=0\\)",
+            "খ": "\\(x^2-14x+1=0\\)",
+            "গ": "\\(x^2+14x+1=0\\)",
+            "ঘ": "\\(x^2-16x+1=0\\)"
+          },
+          "correct_option": "খ",
+          "explanation": "\\(\\alpha^2+\\beta^2=16-2=14\\), product \\(=1\\)।",
+          "topic": "Chapter 4: Polynomials",
+          "probability": "Mega Hot"
+        },
+        {
+          "question_no": 3,
+          "stem": "উদ্দীপক: একটি উপবৃত্তের সমীকরণ \\(\\frac{x^2}{36}+\\frac{y^2}{20}=1\\)।",
+          "question": "উপবৃত্তটির উৎকেন্দ্রিকতা কত?",
+          "options": {
+            "ক": "\\(\\frac13\\)",
+            "খ": "\\(\\frac23\\)",
+            "গ": "\\(\\frac{\\sqrt5}{3}\\)",
+            "ঘ": "\\(\\frac56\\)"
+          },
+          "correct_option": "খ",
+          "explanation": "\\(e=\\sqrt{1-b^2/a^2}=\\sqrt{1-20/36}=2/3\\)।",
+          "topic": "Chapter 6: Conics",
+          "probability": "Mega Hot"
+        },
+        {
+          "question_no": 4,
+          "stem": "উদ্দীপক: একটি উপবৃত্তের সমীকরণ \\(\\frac{x^2}{36}+\\frac{y^2}{20}=1\\)।",
+          "question": "উপবৃত্তটির ল্যাটাস রেক্টামের দৈর্ঘ্য কত?",
+          "options": {
+            "ক": "\\(\\frac{10}{3}\\)",
+            "খ": "\\(\\frac{20}{3}\\)",
+            "গ": "\\(\\frac{40}{3}\\)",
+            "ঘ": "20"
+          },
+          "correct_option": "খ",
+          "explanation": "উপবৃত্তে latus rectum \\(=\\frac{2b^2}{a}=\\frac{40}{6}=20/3\\)।",
+          "topic": "Chapter 6: Conics",
+          "probability": "Very Hot"
+        },
+        {
+          "question_no": 5,
+          "stem": "",
+          "question": "\\(z=-\\sqrt3-i\\) হলে \\(\\arg z\\)-এর মুখ্য মান কত?",
+          "options": {
+            "ক": "\\(\\frac{\\pi}{6}\\)",
+            "খ": "\\(\\frac{5\\pi}{6}\\)",
+            "গ": "\\(-\\frac{5\\pi}{6}\\)",
+            "ঘ": "\\(-\\frac{\\pi}{6}\\)"
+          },
+          "correct_option": "গ",
+          "explanation": "বিন্দুটি তৃতীয় চতুর্ভাগে; principal argument \\(-5\\pi/6\\)।",
+          "topic": "Chapter 3: Complex Numbers",
+          "probability": "Conceptual Trap"
+        },
+        {
+          "question_no": 6,
+          "stem": "",
+          "question": "\\(\\left|\\frac{1+i}{1-i}\\right|\\) কত?",
+          "options": {
+            "ক": "0",
+            "খ": "1",
+            "গ": "\\(\\sqrt2\\)",
+            "ঘ": "2"
+          },
+          "correct_option": "খ",
+          "explanation": "modulus ভাগে ভাগ হয়: \\(|1+i|/|1-i|=\\sqrt2/\\sqrt2=1\\)।",
+          "topic": "Chapter 3: Complex Numbers",
+          "probability": "Board Favourite"
+        },
+        {
+          "question_no": 7,
+          "stem": "",
+          "question": "\\(x^2+2x+k=0\\)-এর মূল কাল্পনিক হওয়ার শর্ত কী?",
+          "options": {
+            "ক": "\\(k<1\\)",
+            "খ": "\\(k=1\\)",
+            "গ": "\\(k>1\\)",
+            "ঘ": "\\(k\\le1\\)"
+          },
+          "correct_option": "গ",
+          "explanation": "কাল্পনিক মূলের জন্য \\(D<0\\Rightarrow4-4k<0\\Rightarrow k>1\\)।",
+          "topic": "Chapter 4: Polynomials",
+          "probability": "Mega Hot"
+        },
+        {
+          "question_no": 8,
+          "stem": "",
+          "question": "\\(x^2-5x+6=0\\)-এর মূল \\(\\alpha,\\beta\\) হলে \\(\\alpha+1,\\beta+1\\) মূলবিশিষ্ট সমীকরণ কোনটি?",
+          "options": {
+            "ক": "\\(x^2-5x+6=0\\)",
+            "খ": "\\(x^2-6x+8=0\\)",
+            "গ": "\\(x^2-7x+12=0\\)",
+            "ঘ": "\\(x^2+7x+12=0\\)"
+          },
+          "correct_option": "গ",
+          "explanation": "মূল 2,3 হলে নতুন মূল 3,4; সমীকরণ \\(x^2-7x+12=0\\)।",
+          "topic": "Chapter 4: Polynomials",
+          "probability": "Very Hot"
+        },
+        {
+          "question_no": 9,
+          "stem": "",
+          "question": "উপকেন্দ্র \\((0,3)\\) এবং নিয়ামক রেখা \\(y=-3\\) হলে পরাবৃত্তের সমীকরণ কোনটি?",
+          "options": {
+            "ক": "\\(x^2=6y\\)",
+            "খ": "\\(x^2=12y\\)",
+            "গ": "\\(y^2=12x\\)",
+            "ঘ": "\\(y^2=-12x\\)"
+          },
+          "correct_option": "খ",
+          "explanation": "শীর্ষ origin, \\(a=3\\); তাই \\(x^2=4ay=12y\\)।",
+          "topic": "Chapter 6: Conics",
+          "probability": "Mega Hot"
+        },
+        {
+          "question_no": 10,
+          "stem": "",
+          "question": "\\(\\frac{y^2}{4}-\\frac{x^2}{5}=1\\) অধিবৃত্তের উৎকেন্দ্রিকতা কত?",
+          "options": {
+            "ক": "\\(\\frac32\\)",
+            "খ": "\\(\\frac23\\)",
+            "গ": "\\(\\frac{\\sqrt5}{2}\\)",
+            "ঘ": "\\(\\frac54\\)"
+          },
+          "correct_option": "ক",
+          "explanation": "\\(e=\\sqrt{1+b^2/a^2}=\\sqrt{1+5/4}=3/2\\)।",
+          "topic": "Chapter 6: Conics",
+          "probability": "Board Favourite"
+        },
+        {
+          "question_no": 11,
+          "stem": "",
+          "question": "\\(\\sin^{-1}(-\\frac12)\\) এর মান কত?",
+          "options": {
+            "ক": "\\(-\\frac{\\pi}{6}\\)",
+            "খ": "\\(\\frac{\\pi}{6}\\)",
+            "গ": "\\(\\frac{5\\pi}{6}\\)",
+            "ঘ": "\\(-\\frac{5\\pi}{6}\\)"
+          },
+          "correct_option": "ক",
+          "explanation": "\\(\\sin^{-1}x\\)-এর range \\([-\\pi/2,\\pi/2]\\), তাই মান \\(-\\pi/6\\)।",
+          "topic": "Chapter 7: Inverse Trigonometry",
+          "probability": "Conceptual Trap"
+        },
+        {
+          "question_no": 12,
+          "stem": "",
+          "question": "\\(\\tan^{-1}1+\\tan^{-1}1\\) এর মান কত?",
+          "options": {
+            "ক": "\\(\\frac\\pi4\\)",
+            "খ": "\\(\\frac\\pi2\\)",
+            "গ": "\\(\\frac{3\\pi}{4}\\)",
+            "ঘ": "\\(\\pi\\)"
+          },
+          "correct_option": "খ",
+          "explanation": "প্রতিটি \\(\\tan^{-1}1=\\pi/4\\); যোগফল \\(\\pi/2\\)।",
+          "topic": "Chapter 7: Inverse Trigonometry",
+          "probability": "Board Favourite"
+        },
+        {
+          "question_no": 13,
+          "stem": "",
+          "question": "3 N ও 5 N সদৃশ সমান্তরাল বল 8 m দূরে ক্রিয়া করে। 3 N বল থেকে লব্ধির দূরত্ব কত?",
+          "options": {
+            "ক": "3 m",
+            "খ": "4 m",
+            "গ": "5 m",
+            "ঘ": "8 m"
+          },
+          "correct_option": "গ",
+          "explanation": "লব্ধির অবস্থান \\(x=\\frac{5\\times8}{3+5}=5\\) m।",
+          "topic": "Chapter 8: Statics",
+          "probability": "Very Hot"
+        },
+        {
+          "question_no": 14,
+          "stem": "",
+          "question": "একটি মুদ্রা 3 বার নিক্ষেপে ঠিক 2 বার head আসার সম্ভাবনা কত?",
+          "options": {
+            "ক": "\\(\\frac18\\)",
+            "খ": "\\(\\frac38\\)",
+            "গ": "\\(\\frac12\\)",
+            "ঘ": "\\(\\frac58\\)"
+          },
+          "correct_option": "খ",
+          "explanation": "\\(\\binom32(1/2)^3=3/8\\)।",
+          "topic": "Chapter 10: Probability",
+          "probability": "Mega Hot"
+        },
+        {
+          "question_no": 15,
+          "stem": "",
+          "question": "\\(z=-i\\) হলে— i. \\(|z|=1\\) ii. \\(\\arg z=-\\frac\\pi2\\) iii. \\(z^4=1\\)। কোনটি সঠিক?",
+          "options": {
+            "ক": "i ও ii",
+            "খ": "ii ও iii",
+            "গ": "i ও iii",
+            "ঘ": "i, ii ও iii"
+          },
+          "correct_option": "ঘ",
+          "explanation": "\\(-i\\) unit circle-এ; চতুর্থ ঘাত \\((-i)^4=1\\)।",
+          "topic": "Chapter 3: Complex Numbers",
+          "probability": "Very Hot"
+        },
+        {
+          "question_no": 16,
+          "stem": "",
+          "question": "\\(u=30\\text{ m/s}, g=10\\text{ m/s}^2\\) হলে— i. সর্বোচ্চ পাল্লা 90 m ii. সর্বোচ্চ পাল্লার কোণ \\(45^\\circ\\) iii. \\(45^\\circ\\)-এ উড্ডয়নকাল \\(3\\sqrt2\\) s। কোনটি সঠিক?",
+          "options": {
+            "ক": "i ও ii",
+            "খ": "ii ও iii",
+            "গ": "i ও iii",
+            "ঘ": "i, ii ও iii"
+          },
+          "correct_option": "ঘ",
+          "explanation": "\\(R_{max}=u^2/g=90\\), angle \\(45^\\circ\\), \\(T=2u\\sin45^\\circ/g=3\\sqrt2\\)।",
+          "topic": "Chapter 9: Dynamics",
+          "probability": "Mega Hot"
+        },
+        {
+          "question_no": 17,
+          "stem": "",
+          "question": "বল-ভ্রামক সম্পর্কে— i. সাম্যাবস্থায় clockwise moment = anticlockwise moment ii. লব্ধি ভ্রামক = উপাংশ ভ্রামকের যোগফল iii. SI একক N m। কোনটি সঠিক?",
+          "options": {
+            "ক": "i ও ii",
+            "খ": "ii ও iii",
+            "গ": "i ও iii",
+            "ঘ": "i, ii ও iii"
+          },
+          "correct_option": "ঘ",
+          "explanation": "Varignon ও moment equilibrium—দুটিই board repeated concept।",
+          "topic": "Chapter 8: Statics",
+          "probability": "Board Favourite"
+        },
+        {
+          "question_no": 18,
+          "stem": "",
+          "question": "\\(\\cos x=0\\) সমীকরণের জন্য— i. \\(x=\\frac{(2n+1)\\pi}{2}\\) ii. \\([0,2\\pi]\\)-তে \\(\\frac\\pi2,\\frac{3\\pi}2\\) iii. পর্যায় \\(2\\pi\\)। কোনটি সঠিক?",
+          "options": {
+            "ক": "i ও ii",
+            "খ": "ii ও iii",
+            "গ": "i ও iii",
+            "ঘ": "i, ii ও iii"
+          },
+          "correct_option": "ঘ",
+          "explanation": "cos zero odd multiples of \\(\\pi/2\\); fundamental period \\(2\\pi\\)।",
+          "topic": "Chapter 7: Trig Equations",
+          "probability": "Board Favourite"
+        },
+        {
+          "question_no": 19,
+          "stem": "",
+          "question": "একটি প্যাকেট থেকে পরপর 2টি তাস তোলা হলো, ফেরত রাখা হলো না। i. প্রথমটি ace জানা থাকলে দ্বিতীয়টি ace হওয়ার সম্ভাবনা \\(\\frac1{17}\\) ii. দুইটি ace হওয়ার সম্ভাবনা \\(\\frac1{221}\\) iii. ঘটনা দুইটি স্বাধীন। কোনটি সঠিক?",
+          "options": {
+            "ক": "i ও ii",
+            "খ": "ii ও iii",
+            "গ": "i ও iii",
+            "ঘ": "i, ii ও iii"
+          },
+          "correct_option": "ক",
+          "explanation": "Without replacement: \\(P(2nd ace|1st ace)=3/51=1/17\\), দুই ace \\(=4/52\\cdot3/51=1/221\\); স্বাধীন নয়।",
+          "topic": "Chapter 10: Probability",
+          "probability": "Conceptual Trap"
+        },
+        {
+          "question_no": 20,
+          "stem": "",
+          "question": "\\(|z|=|z-2|\\) সঞ্চারপথ সম্পর্কে— i. এটি সরলরেখা ii. সমীকরণ \\(x=1\\) iii. রেখাটি মূলবিন্দু দিয়ে যায়। কোনটি সঠিক?",
+          "options": {
+            "ক": "i ও ii",
+            "খ": "ii ও iii",
+            "গ": "i ও iii",
+            "ঘ": "i, ii ও iii"
+          },
+          "correct_option": "ক",
+          "explanation": "origin ও \\((2,0)\\) থেকে সমদূরবর্তী বিন্দুর locus হলো \\(x=1\\), origin দিয়ে যায় না।",
+          "topic": "Chapter 3: Complex Numbers",
+          "probability": "Very Hot"
+        },
+        {
+          "question_no": 21,
+          "stem": "",
+          "question": "\\(\\sin^{-1}(\\sin\\frac{2\\pi}{3})\\) এর মান কত?",
+          "options": {
+            "ক": "\\(\\frac{2\\pi}{3}\\)",
+            "খ": "\\(\\frac\\pi3\\)",
+            "গ": "\\(-\\frac\\pi3\\)",
+            "ঘ": "\\(\\frac{4\\pi}{3}\\)"
+          },
+          "correct_option": "খ",
+          "explanation": "\\(\\sin^{-1}\\)-এর range \\([-\\pi/2,\\pi/2]\\), তাই মান \\(\\pi/3\\)।",
+          "topic": "Chapter 7: Inverse Trigonometry",
+          "probability": "Conceptual Trap"
+        },
+        {
+          "question_no": 22,
+          "stem": "",
+          "question": "\\((1+\\omega)^5\\) এর মান কত?",
+          "options": {
+            "ক": "\\(\\omega\\)",
+            "খ": "\\(\\omega^2\\)",
+            "গ": "\\(-\\omega\\)",
+            "ঘ": "\\(-\\omega^2\\)"
+          },
+          "correct_option": "গ",
+          "explanation": "\\(1+\\omega=-\\omega^2\\); তাই \\((1+\\omega)^5=-\\omega^{10}=-\\omega\\)।",
+          "topic": "Chapter 3: Complex Numbers",
+          "probability": "Mega Hot"
+        },
+        {
+          "question_no": 23,
+          "stem": "",
+          "question": "স্থির অবস্থা থেকে কোনো বস্তু মুক্তভাবে 4 s পড়লে \\(g=10\\text{ m/s}^2\\) ধরে অতিক্রান্ত দূরত্ব কত?",
+          "options": {
+            "ক": "40 m",
+            "খ": "60 m",
+            "গ": "80 m",
+            "ঘ": "160 m"
+          },
+          "correct_option": "গ",
+          "explanation": "\\(s=\\frac12gt^2=\\frac12\\cdot10\\cdot16=80\\) m।",
+          "topic": "Chapter 9: Dynamics",
+          "probability": "Board Favourite"
+        },
+        {
+          "question_no": 24,
+          "stem": "",
+          "question": "দুইটি ছক্কা নিক্ষেপে যোগফল মৌলিক সংখ্যা হওয়ার সম্ভাবনা কত?",
+          "options": {
+            "ক": "\\(\\frac{5}{12}\\)",
+            "খ": "\\(\\frac{7}{18}\\)",
+            "গ": "\\(\\frac{1}{2}\\)",
+            "ঘ": "\\(\\frac{2}{3}\\)"
+          },
+          "correct_option": "ক",
+          "explanation": "মৌলিক যোগফল 2,3,5,7,11; সংখ্যা \\(1+2+4+6+2=15\\), তাই \\(15/36=5/12\\)।",
+          "topic": "Chapter 10: Probability",
+          "probability": "Very Hot"
+        },
+        {
+          "question_no": 25,
+          "stem": "",
+          "question": "7 N ও 4 N দুই বলের সর্বাধিক ও সর্বনিম্ন লব্ধি যথাক্রমে কত?",
+          "options": {
+            "ক": "11 N, 4 N",
+            "খ": "7 N, 3 N",
+            "গ": "11 N, 3 N",
+            "ঘ": "3 N, 11 N"
+          },
+          "correct_option": "গ",
+          "explanation": "সর্বাধিক \\(P+Q=11\\), সর্বনিম্ন \\(|P-Q|=3\\)।",
+          "topic": "Chapter 8: Statics",
+          "probability": "Board Favourite"
+        }
+      ]
+    },
+    {
+      "set_no": 4,
+      "mcqs": [
+        {
+          "question_no": 1,
+          "stem": "উদ্দীপক: 6 N ও 8 N মানের দুইটি বল পরস্পরের সাথে \\(90^\\circ\\) কোণে ক্রিয়া করে; তৃতীয় বল দ্বারা সাম্যাবস্থা সৃষ্টি করা হলো।",
+          "question": "তৃতীয় বলের মান কত?",
+          "options": {
+            "ক": "6 N",
+            "খ": "8 N",
+            "গ": "10 N",
+            "ঘ": "14 N"
+          },
+          "correct_option": "গ",
+          "explanation": "তৃতীয় বলটি প্রথম দুইটির লব্ধির বিপরীত; \\(R=\\sqrt{6^2+8^2}=10\\) N।",
+          "topic": "Chapter 8: Statics",
+          "probability": "Mega Hot"
+        },
+        {
+          "question_no": 2,
+          "stem": "উদ্দীপক: 6 N ও 8 N মানের দুইটি বল পরস্পরের সাথে \\(90^\\circ\\) কোণে ক্রিয়া করে; তৃতীয় বল দ্বারা সাম্যাবস্থা সৃষ্টি করা হলো।",
+          "question": "তৃতীয় বল ও 6 N বলের মধ্যবর্তী কোণের \\(\\cos\\) মান কত?",
+          "options": {
+            "ক": "\\(\\frac35\\)",
+            "খ": "\\(\\frac45\\)",
+            "গ": "\\(-\\frac35\\)",
+            "ঘ": "\\(-\\frac45\\)"
+          },
+          "correct_option": "গ",
+          "explanation": "লব্ধির সাথে 6 N-এর \\(\\cos=6/10=3/5\\); বিপরীত বলের জন্য \\(-3/5\\)।",
+          "topic": "Chapter 8: Statics",
+          "probability": "Conceptual Trap"
+        },
+        {
+          "question_no": 3,
+          "stem": "উদ্দীপক: একটি জটিল সংখ্যার সঞ্চারপথ \\(|z-1|=2\\)।",
+          "question": "সঞ্চারপথটির কেন্দ্র ও ব্যাসার্ধ কোনটি?",
+          "options": {
+            "ক": "\\((1,0),2\\)",
+            "খ": "\\((0,1),2\\)",
+            "গ": "\\((-1,0),2\\)",
+            "ঘ": "\\((1,1),2\\)"
+          },
+          "correct_option": "ক",
+          "explanation": "\\(|z-1|=2\\) হলো \\((1,0)\\) কেন্দ্র ও 2 ব্যাসার্ধের বৃত্ত।",
+          "topic": "Chapter 3: Complex Numbers",
+          "probability": "Mega Hot"
+        },
+        {
+          "question_no": 4,
+          "stem": "উদ্দীপক: একটি জটিল সংখ্যার সঞ্চারপথ \\(|z-1|=2\\)।",
+          "question": "নিচের কোন বিন্দুটি সঞ্চারপথে অবস্থিত?",
+          "options": {
+            "ক": "\\(z=0\\)",
+            "খ": "\\(z=1\\)",
+            "গ": "\\(z=3\\)",
+            "ঘ": "\\(z=i\\)"
+          },
+          "correct_option": "গ",
+          "explanation": "\\(z=3\\) হলে \\(|3-1|=2\\), তাই বিন্দুটি বৃত্তে অবস্থিত।",
+          "topic": "Chapter 3: Complex Numbers",
+          "probability": "Very Hot"
+        },
+        {
+          "question_no": 5,
+          "stem": "",
+          "question": "\\(z=2(\\cos\\frac\\pi3+i\\sin\\frac\\pi3)\\) হলে \\(z^3\\) কত?",
+          "options": {
+            "ক": "8",
+            "খ": "-8",
+            "গ": "\\(8i\\)",
+            "ঘ": "\\(-8i\\)"
+          },
+          "correct_option": "খ",
+          "explanation": "De Moivre: \\(z^3=8\\text{cis}\\,\\pi=-8\\)।",
+          "topic": "Chapter 3: Complex Numbers",
+          "probability": "Mega Hot"
+        },
+        {
+          "question_no": 6,
+          "stem": "",
+          "question": "\\(-8-6i\\)-এর বর্গমূল কোনটি?",
+          "options": {
+            "ক": "\\(\\pm(1-3i)\\)",
+            "খ": "\\(\\pm(3-i)\\)",
+            "গ": "\\(\\pm(1+3i)\\)",
+            "ঘ": "\\(\\pm(2-3i)\\)"
+          },
+          "correct_option": "ক",
+          "explanation": "\\((1-3i)^2=1-6i-9=-8-6i\\)।",
+          "topic": "Chapter 3: Complex Numbers",
+          "probability": "Board Favourite"
+        },
+        {
+          "question_no": 7,
+          "stem": "",
+          "question": "2 ও -3 মূলবিশিষ্ট দ্বিঘাত সমীকরণ কোনটি?",
+          "options": {
+            "ক": "\\(x^2-x-6=0\\)",
+            "খ": "\\(x^2+x-6=0\\)",
+            "গ": "\\(x^2+5x+6=0\\)",
+            "ঘ": "\\(x^2-5x+6=0\\)"
+          },
+          "correct_option": "খ",
+          "explanation": "sum \\(-1\\), product \\(-6\\); equation \\(x^2-(sum)x+product=0\\Rightarrow x^2+x-6=0\\)।",
+          "topic": "Chapter 4: Polynomials",
+          "probability": "Very Hot"
+        },
+        {
+          "question_no": 8,
+          "stem": "",
+          "question": "\\(\\alpha+\\beta=2,\\alpha\\beta=5\\) হলে \\(\\frac\\alpha\\beta+\\frac\\beta\\alpha\\) কত?",
+          "options": {
+            "ক": "\\(\\frac65\\)",
+            "খ": "\\(-\\frac65\\)",
+            "গ": "\\(\\frac{14}{5}\\)",
+            "ঘ": "\\(-\\frac{14}{5}\\)"
+          },
+          "correct_option": "খ",
+          "explanation": "\\(\\frac{\\alpha^2+\\beta^2}{\\alpha\\beta}=\\frac{(\\alpha+\\beta)^2-2\\alpha\\beta}{\\alpha\\beta}=\\frac{4-10}{5}=-6/5\\)।",
+          "topic": "Chapter 4: Polynomials",
+          "probability": "Board Favourite"
+        },
+        {
+          "question_no": 9,
+          "stem": "",
+          "question": "\\(\\frac{x^2}{16}+\\frac{y^2}{9}=1\\) উপবৃত্তের নিয়ামক রেখা কোনটি?",
+          "options": {
+            "ক": "\\(x=\\pm\\frac{16}{\\sqrt7}\\)",
+            "খ": "\\(y=\\pm\\frac{16}{\\sqrt7}\\)",
+            "গ": "\\(x=\\pm\\sqrt7\\)",
+            "ঘ": "\\(y=\\pm\\sqrt7\\)"
+          },
+          "correct_option": "ক",
+          "explanation": "\\(a=4,e=\\sqrt{1-9/16}=\\sqrt7/4\\); directrix \\(x=\\pm a/e=\\pm16/\\sqrt7\\)।",
+          "topic": "Chapter 6: Conics",
+          "probability": "Mega Hot"
+        },
+        {
+          "question_no": 10,
+          "stem": "",
+          "question": "\\(x^2=20y\\) পরাবৃত্তের উপকেন্দ্রিক লম্বের দৈর্ঘ্য কত?",
+          "options": {
+            "ক": "5",
+            "খ": "10",
+            "গ": "20",
+            "ঘ": "40"
+          },
+          "correct_option": "গ",
+          "explanation": "\\(x^2=4ay\\Rightarrow4a=20\\); latus rectum \\(=4a=20\\)।",
+          "topic": "Chapter 6: Conics",
+          "probability": "Board Favourite"
+        },
+        {
+          "question_no": 11,
+          "stem": "",
+          "question": "\\(\\cos^{-1}(\\cos\\frac{5\\pi}{3})\\) এর মান কত?",
+          "options": {
+            "ক": "\\(\\frac{5\\pi}{3}\\)",
+            "খ": "\\(\\frac{4\\pi}{3}\\)",
+            "গ": "\\(\\frac{2\\pi}{3}\\)",
+            "ঘ": "\\(\\frac\\pi3\\)"
+          },
+          "correct_option": "ঘ",
+          "explanation": "\\(\\cos^{-1}\\)-এর range \\([0,\\pi]\\); \\(\\cos5\\pi/3=1/2\\), তাই \\(\\pi/3\\)।",
+          "topic": "Chapter 7: Inverse Trigonometry",
+          "probability": "Conceptual Trap"
+        },
+        {
+          "question_no": 12,
+          "stem": "",
+          "question": "\\(2\\sin^2x-1=0\\)-এর সাধারণ সমাধান কোনটি?",
+          "options": {
+            "ক": "\\(x=n\\pi\\)",
+            "খ": "\\(x=\\frac{n\\pi}{2}+\\frac\\pi4\\)",
+            "গ": "\\(x=n\\pi+\\frac\\pi2\\)",
+            "ঘ": "\\(x=2n\\pi+\\frac\\pi4\\)"
+          },
+          "correct_option": "খ",
+          "explanation": "\\(\\sin^2x=1/2\\); তাই \\(x=\\pi/4,3\\pi/4,...\\Rightarrow x=n\\pi/2+\\pi/4\\)।",
+          "topic": "Chapter 7: Trig Equations",
+          "probability": "Very Hot"
+        },
+        {
+          "question_no": 13,
+          "stem": "",
+          "question": "50 kg ভরের ব্যক্তি লিফটে নিম্নমুখী \\(2\\text{ m/s}^2\\) ত্বরণে চললে \\(g=10\\) ধরে আপাত ওজন কত?",
+          "options": {
+            "ক": "300 N",
+            "খ": "400 N",
+            "গ": "500 N",
+            "ঘ": "600 N"
+          },
+          "correct_option": "খ",
+          "explanation": "নিম্নমুখী ত্বরণে apparent weight \\(m(g-a)=50(10-2)=400\\) N।",
+          "topic": "Chapter 9: Dynamics",
+          "probability": "Mega Hot"
+        },
+        {
+          "question_no": 14,
+          "stem": "",
+          "question": "\\(P(A)=0.6,P(B)=0.5,P(A\\cap B)=0.3\\) হলে \\(P(A\\cup B)\\) কত?",
+          "options": {
+            "ক": "0.5",
+            "খ": "0.6",
+            "গ": "0.8",
+            "ঘ": "1.4"
+          },
+          "correct_option": "গ",
+          "explanation": "\\(P(A\\cup B)=0.6+0.5-0.3=0.8\\)।",
+          "topic": "Chapter 10: Probability",
+          "probability": "Board Favourite"
+        },
+        {
+          "question_no": 15,
+          "stem": "",
+          "question": "বাস্তব সহগবিশিষ্ট দ্বিঘাত সমীকরণের ক্ষেত্রে— i. \\(D<0\\) হলে অবাস্তব/কাল্পনিক মূল ii. \\(D=0\\) হলে সমান মূল iii. \\(D>0\\) হলে বাস্তব ও অসমান মূল। কোনটি সঠিক?",
+          "options": {
+            "ক": "i ও ii",
+            "খ": "ii ও iii",
+            "গ": "i ও iii",
+            "ঘ": "i, ii ও iii"
+          },
+          "correct_option": "ঘ",
+          "explanation": "নিশ্চায়কের sign থেকেই roots nature নির্ধারিত হয়।",
+          "topic": "Chapter 4: Polynomials",
+          "probability": "Board Favourite"
+        },
+        {
+          "question_no": 16,
+          "stem": "",
+          "question": "\\(x^2+y^2+2gx+2fy+c=0\\) বৃত্তের জন্য— i. কেন্দ্র \\((-g,-f)\\) ii. ব্যাসার্ধ \\(\\sqrt{g^2+f^2-c}\\) iii. বাস্তব বৃত্তের জন্য \\(g^2+f^2>c\\)। কোনটি সঠিক?",
+          "options": {
+            "ক": "i ও ii",
+            "খ": "ii ও iii",
+            "গ": "i ও iii",
+            "ঘ": "i, ii ও iii"
+          },
+          "correct_option": "ঘ",
+          "explanation": "Standard circle form থেকে তিনটি statement সরাসরি পাওয়া যায়।",
+          "topic": "Chapter 6: Conics",
+          "probability": "Board Favourite"
+        },
+        {
+          "question_no": 17,
+          "stem": "",
+          "question": "প্রাসের ক্ষেত্রে— i. পরিপূরক কোণে পাল্লা সমান ii. সর্বাধিক পাল্লা \\(45^\\circ\\)-এ iii. সর্বোচ্চ উচ্চতা সর্বাধিক হয় \\(90^\\circ\\)-এ। কোনটি সঠিক?",
+          "options": {
+            "ক": "i ও ii",
+            "খ": "ii ও iii",
+            "গ": "i ও iii",
+            "ঘ": "i, ii ও iii"
+          },
+          "correct_option": "ঘ",
+          "explanation": "\\(R\\propto\\sin2\\theta\\), তাই complementary range equal; height \\(\\sin^2\\theta\\)-এর উপর নির্ভর করে।",
+          "topic": "Chapter 9: Dynamics",
+          "probability": "Mega Hot"
+        },
+        {
+          "question_no": 18,
+          "stem": "",
+          "question": "A ও B বর্জনশীল ঘটনা হলে— i. \\(A\\cap B=\\varnothing\\) ii. তারা অবশ্যই স্বাধীন iii. \\(P(A\\cup B)=P(A)+P(B)\\)। কোনটি সঠিক?",
+          "options": {
+            "ক": "i ও ii",
+            "খ": "ii ও iii",
+            "গ": "i ও iii",
+            "ঘ": "i, ii ও iii"
+          },
+          "correct_option": "গ",
+          "explanation": "Mutually exclusive হলে intersection শূন্য; nonzero probability হলে স্বাধীন হওয়া বাধ্যতামূলক নয়।",
+          "topic": "Chapter 10: Probability",
+          "probability": "Conceptual Trap"
+        },
+        {
+          "question_no": 19,
+          "stem": "",
+          "question": "\\(\\tan^{-1}x+\\tan^{-1}\\frac1x\\) সম্পর্কে— i. \\(x>0\\) হলে \\(\\pi/2\\) ii. \\(x<0\\) হলে \\(-\\pi/2\\) iii. সব \\(x\\)-এর জন্য 0। কোনটি সঠিক?",
+          "options": {
+            "ক": "i ও ii",
+            "খ": "ii ও iii",
+            "গ": "i ও iii",
+            "ঘ": "i, ii ও iii"
+          },
+          "correct_option": "ক",
+          "explanation": "reciprocal tangent identity-তে sign of \\(x\\) অনুযায়ী quadrant correction লাগে।",
+          "topic": "Chapter 7: Inverse Trigonometry",
+          "probability": "Conceptual Trap"
+        },
+        {
+          "question_no": 20,
+          "stem": "",
+          "question": "সমান্তরাল বল সম্পর্কে— i. সদৃশ বলের লব্ধি বলদ্বয়ের মধ্যবর্তী স্থানে ii. বিসদৃশ বলের লব্ধি বাইরে iii. বিসদৃশ বলের লব্ধির মান বলদ্বয়ের পার্থক্য। কোনটি সঠিক?",
+          "options": {
+            "ক": "i ও ii",
+            "খ": "ii ও iii",
+            "গ": "i ও iii",
+            "ঘ": "i, ii ও iii"
+          },
+          "correct_option": "ঘ",
+          "explanation": "Parallel force-এর অবস্থান ও magnitude—দুটিই repeated board trap।",
+          "topic": "Chapter 8: Statics",
+          "probability": "Board Favourite"
+        },
+        {
+          "question_no": 21,
+          "stem": "",
+          "question": "\\(x^2-7x+k=0\\)-এর এক মূল অপর মূলের দ্বিগুণ হলে \\(k\\) কত?",
+          "options": {
+            "ক": "\\(\\frac{49}{9}\\)",
+            "খ": "\\(\\frac{98}{9}\\)",
+            "গ": "\\(\\frac{49}{3}\\)",
+            "ঘ": "\\(\\frac{14}{3}\\)"
+          },
+          "correct_option": "খ",
+          "explanation": "মূল \\(\\alpha,2\\alpha\\); \\(3\\alpha=7\\Rightarrow\\alpha=7/3\\); product \\(2\\alpha^2=98/9\\)।",
+          "topic": "Chapter 4: Polynomials",
+          "probability": "Mega Hot"
+        },
+        {
+          "question_no": 22,
+          "stem": "",
+          "question": "\\(z=1-\\sqrt3i\\) হলে \\(\\arg z\\)-এর মুখ্য মান কোনটি?",
+          "options": {
+            "ক": "\\(\\frac\\pi3\\)",
+            "খ": "\\(-\\frac\\pi3\\)",
+            "গ": "\\(\\frac{2\\pi}{3}\\)",
+            "ঘ": "\\(-\\frac{2\\pi}{3}\\)"
+          },
+          "correct_option": "খ",
+          "explanation": "চতুর্থ চতুর্ভাগে; \\(\\tan\\theta=-\\sqrt3\\), তাই \\(\\arg z=-\\pi/3\\)।",
+          "topic": "Chapter 3: Complex Numbers",
+          "probability": "Conceptual Trap"
+        },
+        {
+          "question_no": 23,
+          "stem": "",
+          "question": "\\(y^2=-12x\\) পরাবৃত্তের নিয়ামক রেখা কোনটি?",
+          "options": {
+            "ক": "\\(x=3\\)",
+            "খ": "\\(x=-3\\)",
+            "গ": "\\(y=3\\)",
+            "ঘ": "\\(y=-3\\)"
+          },
+          "correct_option": "ক",
+          "explanation": "\\(y^2=4ax\\Rightarrow a=-3\\); directrix \\(x=-a=3\\)।",
+          "topic": "Chapter 6: Conics",
+          "probability": "Mega Hot"
+        },
+        {
+          "question_no": 24,
+          "stem": "",
+          "question": "\\(X\\sim B(5,\\frac12)\\) হলে অন্তত একবার success হওয়ার সম্ভাবনা কত?",
+          "options": {
+            "ক": "\\(\\frac1{32}\\)",
+            "খ": "\\(\\frac{15}{32}\\)",
+            "গ": "\\(\\frac{31}{32}\\)",
+            "ঘ": "1"
+          },
+          "correct_option": "গ",
+          "explanation": "Complement: কোনো success নয় \\((1/2)^5=1/32\\); তাই \\(31/32\\)।",
+          "topic": "Chapter 10: Probability",
+          "probability": "Very Hot"
+        },
+        {
+          "question_no": 25,
+          "stem": "",
+          "question": "দুইটি ছক্কা নিক্ষেপে একই সংখ্যা আসার সম্ভাবনা কত?",
+          "options": {
+            "ক": "\\(\\frac16\\)",
+            "খ": "\\(\\frac13\\)",
+            "গ": "\\(\\frac12\\)",
+            "ঘ": "\\(\\frac{5}{6}\\)"
+          },
+          "correct_option": "ক",
+          "explanation": "সদৃশ জোড়া 6টি: \\((1,1),...,(6,6)\\); মোট 36, তাই \\(1/6\\)।",
+          "topic": "Chapter 10: Probability",
+          "probability": "Board Favourite"
+        }
+      ]
+    },
+    {
+      "set_no": 5,
+      "mcqs": [
+        {
+          "question_no": 1,
+          "stem": "উদ্দীপক: একটি প্রাস \\(u=50\\text{ m/s}\\) বেগে \\(30^\\circ\\) কোণে নিক্ষিপ্ত হলো; \\(g=10\\text{ m/s}^2\\)।",
+          "question": "প্রাসটির উড্ডয়নকাল কত?",
+          "options": {
+            "ক": "2.5 s",
+            "খ": "5 s",
+            "গ": "\\(5\\sqrt3\\) s",
+            "ঘ": "10 s"
+          },
+          "correct_option": "খ",
+          "explanation": "\\(T=\\frac{2u\\sin30^\\circ}{g}=\\frac{2\\cdot50\\cdot1/2}{10}=5\\) s।",
+          "topic": "Chapter 9: Dynamics",
+          "probability": "Mega Hot"
+        },
+        {
+          "question_no": 2,
+          "stem": "উদ্দীপক: একটি প্রাস \\(u=50\\text{ m/s}\\) বেগে \\(30^\\circ\\) কোণে নিক্ষিপ্ত হলো; \\(g=10\\text{ m/s}^2\\)।",
+          "question": "প্রাসটির আনুভূমিক পাল্লা কত?",
+          "options": {
+            "ক": "\\(125\\sqrt3\\) m",
+            "খ": "\\(250\\sqrt3\\) m",
+            "গ": "125 m",
+            "ঘ": "250 m"
+          },
+          "correct_option": "ক",
+          "explanation": "\\(R=\\frac{u^2\\sin60^\\circ}{g}=\\frac{2500\\cdot\\sqrt3/2}{10}=125\\sqrt3\\) m।",
+          "topic": "Chapter 9: Dynamics",
+          "probability": "Board Favourite"
+        },
+        {
+          "question_no": 3,
+          "stem": "উদ্দীপক: \\(2x^2-3x-2=0\\) সমীকরণের মূলদ্বয় \\(\\alpha,\\beta\\)।",
+          "question": "\\(\\alpha^2+\\beta^2\\) এর মান কত?",
+          "options": {
+            "ক": "\\(\\frac{9}{4}\\)",
+            "খ": "\\(\\frac{13}{4}\\)",
+            "গ": "\\(\\frac{17}{4}\\)",
+            "ঘ": "\\(\\frac{25}{4}\\)"
+          },
+          "correct_option": "গ",
+          "explanation": "\\(\\alpha+\\beta=3/2,\\alpha\\beta=-1\\); তাই \\(\\alpha^2+\\beta^2=9/4+2=17/4\\)।",
+          "topic": "Chapter 4: Polynomials",
+          "probability": "Mega Hot"
+        },
+        {
+          "question_no": 4,
+          "stem": "উদ্দীপক: \\(2x^2-3x-2=0\\) সমীকরণের মূলদ্বয় \\(\\alpha,\\beta\\)।",
+          "question": "\\(\\frac1\\alpha,\\frac1\\beta\\) মূলবিশিষ্ট সমীকরণ কোনটি?",
+          "options": {
+            "ক": "\\(2x^2-3x-2=0\\)",
+            "খ": "\\(2x^2+3x-2=0\\)",
+            "গ": "\\(2x^2-3x+2=0\\)",
+            "ঘ": "\\(x^2+3x-2=0\\)"
+          },
+          "correct_option": "খ",
+          "explanation": "Reciprocal roots-এর equation \\(cx^2+bx+a=0\\); তাই \\(-2x^2-3x+2=0\\), অর্থাৎ \\(2x^2+3x-2=0\\)।",
+          "topic": "Chapter 4: Polynomials",
+          "probability": "Board Favourite"
+        },
+        {
+          "question_no": 5,
+          "stem": "",
+          "question": "\\(z=-3-4i\\) হলে \\(|z|\\) কত?",
+          "options": {
+            "ক": "1",
+            "খ": "5",
+            "গ": "7",
+            "ঘ": "25"
+          },
+          "correct_option": "খ",
+          "explanation": "\\(|z|=\\sqrt{(-3)^2+(-4)^2}=5\\)।",
+          "topic": "Chapter 3: Complex Numbers",
+          "probability": "Board Favourite"
+        },
+        {
+          "question_no": 6,
+          "stem": "",
+          "question": "\\(\\frac{i}{1+i}\\)-এর argument কত?",
+          "options": {
+            "ক": "\\(\\frac\\pi4\\)",
+            "খ": "\\(-\\frac\\pi4\\)",
+            "গ": "\\(\\frac\\pi2\\)",
+            "ঘ": "\\(\\pi\\)"
+          },
+          "correct_option": "ক",
+          "explanation": "\\(\\frac{i}{1+i}=\\frac{i(1-i)}2=\\frac{1+i}{2}\\), তাই argument \\(\\pi/4\\)।",
+          "topic": "Chapter 3: Complex Numbers",
+          "probability": "Conceptual Trap"
+        },
+        {
+          "question_no": 7,
+          "stem": "",
+          "question": "\\((\\omega-\\omega^2)^2\\) এর মান কত?",
+          "options": {
+            "ক": "3",
+            "খ": "-3",
+            "গ": "\\(3\\omega\\)",
+            "ঘ": "\\(-3\\omega\\)"
+          },
+          "correct_option": "খ",
+          "explanation": "\\(\\omega-\\omega^2=i\\sqrt3\\), তাই square \\(=-3\\)।",
+          "topic": "Chapter 3: Complex Numbers",
+          "probability": "Mega Hot"
+        },
+        {
+          "question_no": 8,
+          "stem": "",
+          "question": "\\(x^2+4x+4=0\\)-এর মূলের প্রকৃতি কী?",
+          "options": {
+            "ক": "বাস্তব ও অসমান",
+            "খ": "বাস্তব ও সমান",
+            "গ": "কাল্পনিক",
+            "ঘ": "একটি বাস্তব একটি কাল্পনিক"
+          },
+          "correct_option": "খ",
+          "explanation": "\\(D=4^2-4\\cdot1\\cdot4=0\\); তাই বাস্তব ও সমান মূল।",
+          "topic": "Chapter 4: Polynomials",
+          "probability": "Board Favourite"
+        },
+        {
+          "question_no": 9,
+          "stem": "",
+          "question": "\\(\\frac{x^2}{25}-\\frac{y^2}{9}=1\\) অধিবৃত্তের উৎকেন্দ্রিকতা কত?",
+          "options": {
+            "ক": "\\(\\frac{\\sqrt{34}}5\\)",
+            "খ": "\\(\\frac{5}{\\sqrt{34}}\\)",
+            "গ": "\\(\\frac65\\)",
+            "ঘ": "\\(\\frac43\\)"
+          },
+          "correct_option": "ক",
+          "explanation": "\\(e=\\sqrt{1+b^2/a^2}=\\sqrt{1+9/25}=\\sqrt{34}/5\\)।",
+          "topic": "Chapter 6: Conics",
+          "probability": "Mega Hot"
+        },
+        {
+          "question_no": 10,
+          "stem": "",
+          "question": "\\(y^2+8x=0\\) পরাবৃত্তের শীর্ষবিন্দু ও উপকেন্দ্র কোনটি?",
+          "options": {
+            "ক": "\\((0,0),(2,0)\\)",
+            "খ": "\\((0,0),(-2,0)\\)",
+            "গ": "\\((0,0),(0,2)\\)",
+            "ঘ": "\\((0,0),(0,-2)\\)"
+          },
+          "correct_option": "খ",
+          "explanation": "\\(y^2=-8x=4ax\\Rightarrow a=-2\\); vertex origin, focus \\((-2,0)\\)।",
+          "topic": "Chapter 6: Conics",
+          "probability": "Board Favourite"
+        },
+        {
+          "question_no": 11,
+          "stem": "",
+          "question": "\\(\\sin^{-1}x\\) সংজ্ঞায়িত হওয়ার শর্ত কোনটি?",
+          "options": {
+            "ক": "\\(x\\in\\mathbb R\\)",
+            "খ": "\\(x>0\\)",
+            "গ": "\\(-1\\le x\\le1\\)",
+            "ঘ": "\\(0\\le x\\le\\pi\\)"
+          },
+          "correct_option": "গ",
+          "explanation": "\\(\\sin^{-1}x\\)-এর domain \\([-1,1]\\)।",
+          "topic": "Chapter 7: Inverse Trigonometry",
+          "probability": "Board Favourite"
+        },
+        {
+          "question_no": 12,
+          "stem": "",
+          "question": "\\(\\tan^{-1}1+\\tan^{-1}(-1)\\) এর মান কত?",
+          "options": {
+            "ক": "0",
+            "খ": "\\(\\frac\\pi4\\)",
+            "গ": "\\(\\frac\\pi2\\)",
+            "ঘ": "\\(-\\frac\\pi2\\)"
+          },
+          "correct_option": "ক",
+          "explanation": "\\(\\tan^{-1}(-1)=-\\pi/4\\), তাই যোগফল 0।",
+          "topic": "Chapter 7: Inverse Trigonometry",
+          "probability": "Conceptual Trap"
+        },
+        {
+          "question_no": 13,
+          "stem": "",
+          "question": "10 N ও 10 N দুই বল \\(60^\\circ\\) কোণে ক্রিয়া করলে লব্ধির মান কত?",
+          "options": {
+            "ক": "10 N",
+            "খ": "\\(10\\sqrt2\\) N",
+            "গ": "\\(10\\sqrt3\\) N",
+            "ঘ": "20 N"
+          },
+          "correct_option": "গ",
+          "explanation": "\\(R^2=100+100+200\\cos60^\\circ=300\\), তাই \\(R=10\\sqrt3\\)।",
+          "topic": "Chapter 8: Statics",
+          "probability": "Mega Hot"
+        },
+        {
+          "question_no": 14,
+          "stem": "",
+          "question": "একটি প্যাকেট থেকে একটি তাস তুললে red queen হওয়ার সম্ভাবনা কত?",
+          "options": {
+            "ক": "\\(\\frac1{52}\\)",
+            "খ": "\\(\\frac1{26}\\)",
+            "গ": "\\(\\frac1{13}\\)",
+            "ঘ": "\\(\\frac2{13}\\)"
+          },
+          "correct_option": "খ",
+          "explanation": "Red queen 2টি; মোট 52, তাই সম্ভাবনা \\(2/52=1/26\\)।",
+          "topic": "Chapter 10: Probability",
+          "probability": "Board Favourite"
+        },
+        {
+          "question_no": 15,
+          "stem": "",
+          "question": "\\(\\frac{x^2}{9}+\\frac{y^2}{9}=1\\) সম্পর্কে— i. এটি বৃত্ত ii. ব্যাসার্ধ 3 iii. উৎকেন্দ্রিকতা 0। কোনটি সঠিক?",
+          "options": {
+            "ক": "i ও ii",
+            "খ": "ii ও iii",
+            "গ": "i ও iii",
+            "ঘ": "i, ii ও iii"
+          },
+          "correct_option": "ঘ",
+          "explanation": "দুই অক্ষে denominator সমান; circle radius 3 এবং circle-এর eccentricity 0।",
+          "topic": "Chapter 6: Conics",
+          "probability": "Very Hot"
+        },
+        {
+          "question_no": 16,
+          "stem": "",
+          "question": "উল্লম্বভাবে ওপরের দিকে \\(u=30\\text{ m/s}\\) বেগে নিক্ষিপ্ত বস্তুতে \\(g=10\\) হলে— i. সর্বোচ্চ উচ্চতা 45 m ii. উপরে উঠতে সময় 3 s iii. মোট সময় 6 s। কোনটি সঠিক?",
+          "options": {
+            "ক": "i ও ii",
+            "খ": "ii ও iii",
+            "গ": "i ও iii",
+            "ঘ": "i, ii ও iii"
+          },
+          "correct_option": "ঘ",
+          "explanation": "\\(H=u^2/2g=45\\), \\(t=u/g=3\\), total time \\(=2t=6\\)।",
+          "topic": "Chapter 9: Dynamics",
+          "probability": "Mega Hot"
+        },
+        {
+          "question_no": 17,
+          "stem": "",
+          "question": "\\(X\\sim B(3,\\frac14)\\) হলে— i. গড় \\(\\frac34\\) ii. বিভেদ \\(\\frac{9}{16}\\) iii. \\(P(X=1)=\\frac{27}{64}\\)। কোনটি সঠিক?",
+          "options": {
+            "ক": "i ও ii",
+            "খ": "ii ও iii",
+            "গ": "i ও iii",
+            "ঘ": "i, ii ও iii"
+          },
+          "correct_option": "ঘ",
+          "explanation": "Mean \\(np=3/4\\), variance \\(npq=9/16\\), এবং \\(P(1)=3\\cdot1/4\\cdot(3/4)^2=27/64\\)।",
+          "topic": "Chapter 10: Probability",
+          "probability": "Very Hot"
+        },
+        {
+          "question_no": 18,
+          "stem": "",
+          "question": "জটিল সংখ্যা \\(z\\)-এর দুইটি বর্গমূল সম্পর্কে— i. তারা পরস্পরের বিপরীত ii. তাদের বর্গ একই \\(z\\) iii. তাদের গুণফল \\(-z\\)। কোনটি সঠিক?",
+          "options": {
+            "ক": "i ও ii",
+            "খ": "ii ও iii",
+            "গ": "i ও iii",
+            "ঘ": "i, ii ও iii"
+          },
+          "correct_option": "ঘ",
+          "explanation": "বর্গমূল দুটি \\(w\\) ও \\(-w\\); তাই square একই এবং product \\(-w^2=-z\\)।",
+          "topic": "Chapter 3: Complex Numbers",
+          "probability": "Conceptual Trap"
+        },
+        {
+          "question_no": 19,
+          "stem": "",
+          "question": "\\(\\tan x=\\sqrt3\\) সমীকরণের জন্য— i. \\(x=n\\pi+\\frac\\pi3\\) ii. পর্যায় \\(\\pi\\) iii. \\([0,2\\pi)\\)-তে \\(\\frac\\pi3,\\frac{4\\pi}3\\)। কোনটি সঠিক?",
+          "options": {
+            "ক": "i ও ii",
+            "খ": "ii ও iii",
+            "গ": "i ও iii",
+            "ঘ": "i, ii ও iii"
+          },
+          "correct_option": "ঘ",
+          "explanation": "tan-এর period \\(\\pi\\); তাই সাধারণ সমাধান \\(n\\pi+\\pi/3\\)।",
+          "topic": "Chapter 7: Trig Equations",
+          "probability": "Mega Hot"
+        },
+        {
+          "question_no": 20,
+          "stem": "",
+          "question": "ভ্রামক সম্পর্কে— i. 12 N বল 0.5 m লম্ব দূরত্বে ক্রিয়া করলে moment 6 N m ii. বলের রেখা pivot দিয়ে গেলে moment শূন্য iii. ঘূর্ণনের দিক অনুযায়ী চিহ্ন পরিবর্তিত হয়। কোনটি সঠিক?",
+          "options": {
+            "ক": "i ও ii",
+            "খ": "ii ও iii",
+            "গ": "i ও iii",
+            "ঘ": "i, ii ও iii"
+          },
+          "correct_option": "ঘ",
+          "explanation": "Moment = force × perpendicular distance; sign convention clockwise/anticlockwise অনুযায়ী।",
+          "topic": "Chapter 8: Statics",
+          "probability": "Board Favourite"
+        },
+        {
+          "question_no": 21,
+          "stem": "",
+          "question": "দুইটি ছক্কা নিক্ষেপে যোগফল 9-এর বেশি জানা থাকলে double আসার সম্ভাবনা কত?",
+          "options": {
+            "ক": "\\(\\frac16\\)",
+            "খ": "\\(\\frac13\\)",
+            "গ": "\\(\\frac12\\)",
+            "ঘ": "\\(\\frac23\\)"
+          },
+          "correct_option": "খ",
+          "explanation": "যোগফল 10,11,12-এর ফল 6টি; double হলো \\((5,5),(6,6)\\), তাই \\(2/6=1/3\\)।",
+          "topic": "Chapter 10: Probability",
+          "probability": "Conceptual Trap"
+        },
+        {
+          "question_no": 22,
+          "stem": "",
+          "question": "12 N ও 8 N বিসদৃশ সমান্তরাল বল 5 m দূরে ক্রিয়া করে। 12 N বল থেকে লব্ধির দূরত্ব কত?",
+          "options": {
+            "ক": "5 m",
+            "খ": "8 m",
+            "গ": "10 m",
+            "ঘ": "15 m"
+          },
+          "correct_option": "গ",
+          "explanation": "\\(R=4\\) N; বড় বল থেকে দূরত্ব \\(=\\frac{8\\times5}{4}=10\\) m, বাইরে।",
+          "topic": "Chapter 8: Statics",
+          "probability": "Mega Hot"
+        },
+        {
+          "question_no": 23,
+          "stem": "",
+          "question": "\\(\\cos^{-1}(\\cos\\frac{4\\pi}{3})\\) এর মান কত?",
+          "options": {
+            "ক": "\\(\\frac{4\\pi}{3}\\)",
+            "খ": "\\(\\frac{2\\pi}{3}\\)",
+            "গ": "\\(\\frac\\pi3\\)",
+            "ঘ": "\\(-\\frac{2\\pi}{3}\\)"
+          },
+          "correct_option": "খ",
+          "explanation": "\\(\\cos4\\pi/3=-1/2\\); principal range \\([0,\\pi]\\), তাই \\(2\\pi/3\\)।",
+          "topic": "Chapter 7: Inverse Trigonometry",
+          "probability": "Conceptual Trap"
+        },
+        {
+          "question_no": 24,
+          "stem": "",
+          "question": "\\(\\arg z=\\frac\\pi4\\) সঞ্চারপথের সঠিক বর্ণনা কোনটি?",
+          "options": {
+            "ক": "\\(y=x\\) সম্পূর্ণ রেখা",
+            "খ": "\\(y=x, x>0\\) রশ্মি",
+            "গ": "\\(y=-x, x>0\\) রশ্মি",
+            "ঘ": "\\(x=0\\) রেখা"
+          },
+          "correct_option": "খ",
+          "explanation": "argument নির্দিষ্ট হলে origin থেকে নির্দিষ্ট দিকের ray; \\(\\pi/4\\) হলে \\(y=x,x>0\\)।",
+          "topic": "Chapter 3: Complex Numbers",
+          "probability": "Conceptual Trap"
+        },
+        {
+          "question_no": 25,
+          "stem": "",
+          "question": "একই বেগে \\(45^\\circ\\)-এ প্রাসের সর্বোচ্চ উচ্চতা 20 m হলে সর্বাধিক পাল্লা কত?",
+          "options": {
+            "ক": "40 m",
+            "খ": "60 m",
+            "গ": "80 m",
+            "ঘ": "100 m"
+          },
+          "correct_option": "গ",
+          "explanation": "\\(45^\\circ\\)-এ \\(H=u^2/(4g)\\) এবং \\(R_{max}=u^2/g=4H=80\\) m।",
+          "topic": "Chapter 9: Dynamics",
+          "probability": "Board Favourite"
+        }
+      ]
+    }
+  ]
+}

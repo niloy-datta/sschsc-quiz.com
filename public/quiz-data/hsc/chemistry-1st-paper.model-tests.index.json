@@ -1,0 +1,861 @@
+{
+  "level": "hsc",
+  "subject": "chemistry-1st-paper",
+  "modelTests": {
+    "model-test-1-biology-high-common": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "Chapter Model Test",
+      "durationMinutes": 25,
+      "tags": [
+        "chapter-wise"
+      ]
+    },
+    "model-test-10-metals-minerals-halogens": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "Chapter Model Test",
+      "durationMinutes": 25,
+      "tags": [
+        "chapter-wise"
+      ]
+    },
+    "model-test-11-isotopic-kinetics": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "Chapter Model Test",
+      "durationMinutes": 25,
+      "tags": [
+        "chapter-wise"
+      ]
+    },
+    "model-test-12-nightmare": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "Chapter Model Test",
+      "durationMinutes": 25,
+      "tags": [
+        "chapter-wise"
+      ]
+    },
+    "model-test-13-nctb-definitions": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "Chapter Model Test",
+      "durationMinutes": 25,
+      "tags": [
+        "chapter-wise"
+      ]
+    },
+    "model-test-14-electro-valent-heavy-metals": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "Chapter Model Test",
+      "durationMinutes": 25,
+      "tags": [
+        "chapter-wise"
+      ]
+    },
+    "model-test-15-molecular-architecture": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "Chapter Model Test",
+      "durationMinutes": 25,
+      "tags": [
+        "chapter-wise"
+      ]
+    },
+    "model-test-16-advanced-calculations": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "Chapter Model Test",
+      "durationMinutes": 25,
+      "tags": [
+        "chapter-wise"
+      ]
+    },
+    "model-test-17-final-assessment": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "Chapter Model Test",
+      "durationMinutes": 25,
+      "tags": [
+        "chapter-wise"
+      ]
+    },
+    "model-test-36-states-atomic": {
+      "questionCount": 20,
+      "scope": "chapter",
+      "displayTitle": "Chapter Model Test",
+      "durationMinutes": 25,
+      "tags": [
+        "chapter-wise"
+      ]
+    },
+    "model-test-37-periodic-bonding": {
+      "questionCount": 20,
+      "scope": "chapter",
+      "displayTitle": "Chapter Model Test",
+      "durationMinutes": 25,
+      "tags": [
+        "chapter-wise"
+      ]
+    },
+    "model-test-38-stoichiometry": {
+      "questionCount": 20,
+      "scope": "chapter",
+      "displayTitle": "Chapter Model Test",
+      "durationMinutes": 25,
+      "tags": [
+        "chapter-wise"
+      ]
+    },
+    "model-test-39-reactions-lechatelier": {
+      "questionCount": 20,
+      "scope": "chapter",
+      "displayTitle": "Chapter Model Test",
+      "durationMinutes": 25,
+      "tags": [
+        "chapter-wise"
+      ]
+    },
+    "model-test-40-acid-environmental": {
+      "questionCount": 20,
+      "scope": "chapter",
+      "displayTitle": "Chapter Model Test",
+      "durationMinutes": 25,
+      "tags": [
+        "chapter-wise"
+      ]
+    },
+    "model-test-41-metallurgy": {
+      "questionCount": 20,
+      "scope": "chapter",
+      "displayTitle": "Chapter Model Test",
+      "durationMinutes": 25,
+      "tags": [
+        "chapter-wise"
+      ]
+    },
+    "model-test-42-alkanes-hydrocarbons": {
+      "questionCount": 20,
+      "scope": "chapter",
+      "displayTitle": "Chapter Model Test",
+      "durationMinutes": 25,
+      "tags": [
+        "chapter-wise"
+      ]
+    },
+    "model-test-43-isotopic-metrics": {
+      "questionCount": 20,
+      "scope": "chapter",
+      "displayTitle": "Chapter Model Test",
+      "durationMinutes": 25,
+      "tags": [
+        "chapter-wise"
+      ]
+    },
+    "model-test-44-enthalpy-env-gases": {
+      "questionCount": 20,
+      "scope": "chapter",
+      "displayTitle": "Chapter Model Test",
+      "durationMinutes": 25,
+      "tags": [
+        "chapter-wise"
+      ]
+    },
+    "model-test-45-final-audit": {
+      "questionCount": 15,
+      "scope": "chapter",
+      "displayTitle": "Chapter Model Test",
+      "durationMinutes": 25,
+      "tags": [
+        "chapter-wise"
+      ]
+    },
+    "model-test-46-core-foundations": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "Chapter Model Test",
+      "durationMinutes": 25,
+      "tags": [
+        "chapter-wise"
+      ]
+    },
+    "model-test-47-redox-ions-organic": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "Chapter Model Test",
+      "durationMinutes": 25,
+      "tags": [
+        "chapter-wise"
+      ]
+    },
+    "model-test-48-thermodynamics-periodic": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "Chapter Model Test",
+      "durationMinutes": 25,
+      "tags": [
+        "chapter-wise"
+      ]
+    },
+    "model-test-49-kinetics-apparatus": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "Chapter Model Test",
+      "durationMinutes": 25,
+      "tags": [
+        "chapter-wise"
+      ]
+    },
+    "model-test-50-macro-equations": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "Chapter Model Test",
+      "durationMinutes": 25,
+      "tags": [
+        "chapter-wise"
+      ]
+    },
+    "model-test-51-capstone-final": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "Chapter Model Test",
+      "durationMinutes": 25,
+      "tags": [
+        "chapter-wise"
+      ]
+    },
+    "model-test-8-atomic-periodic": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "Chapter Model Test",
+      "durationMinutes": 25,
+      "tags": [
+        "chapter-wise"
+      ]
+    },
+    "model-test-9-everyday-labs": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "Chapter Model Test",
+      "durationMinutes": 25,
+      "tags": [
+        "chapter-wise"
+      ]
+    },
+    "board-standard": {
+      "questionCount": 50,
+      "scope": "board",
+      "displayTitle": "Paper Model Test",
+      "durationMinutes": 25,
+      "tags": [
+        "paper-wise",
+        "board-wise"
+      ]
+    },
+    "chemistryset1": {
+      "questionCount": 49,
+      "scope": "chapter",
+      "displayTitle": "Chapter Model Test 01",
+      "durationMinutes": 25,
+      "tags": [
+        "chapter-wise"
+      ]
+    },
+    "hsc-chemistry-1st-paper-tier-a-hot-model-test-01": {
+      "questionCount": 25,
+      "scope": "paper",
+      "displayTitle": "Hyper Mega Hot SET 1",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "hot",
+        "high-priority",
+        "mega-hot",
+        "paper-wise",
+        "hyper-exclusive"
+      ]
+    },
+    "hsc-chemistry-1st-paper-tier-a-hot-model-test-02": {
+      "questionCount": 25,
+      "scope": "paper",
+      "displayTitle": "Hyper Mega Hot SET 2",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "hot",
+        "high-priority",
+        "mega-hot",
+        "paper-wise",
+        "hyper-exclusive"
+      ]
+    },
+    "hsc-chemistry-1st-paper-tier-a-hot-model-test-03": {
+      "questionCount": 25,
+      "scope": "paper",
+      "displayTitle": "Hyper Mega Hot SET 3",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "hot",
+        "high-priority",
+        "mega-hot",
+        "paper-wise",
+        "hyper-exclusive"
+      ]
+    },
+    "hsc-chemistry-1st-paper-tier-a-hot-model-test-04": {
+      "questionCount": 25,
+      "scope": "paper",
+      "displayTitle": "Hyper Mega Hot SET 4",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "hot",
+        "high-priority",
+        "mega-hot",
+        "paper-wise",
+        "hyper-exclusive"
+      ]
+    },
+    "hsc-chemistry-1st-paper-tier-a-hot-model-test-05": {
+      "questionCount": 25,
+      "scope": "paper",
+      "displayTitle": "Hyper Mega Hot SET 5",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "hot",
+        "high-priority",
+        "mega-hot",
+        "paper-wise",
+        "hyper-exclusive"
+      ]
+    },
+    "hsc-chemistry-1st-paper-chapter-01-high-priority-set-01": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "Chapter 01 Model Test 01",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "high-priority"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "01",
+          "chapterName": "ল্যাবরেটরির নিরাপদ ব্যবহার"
+        }
+      ]
+    },
+    "hsc-chemistry-1st-paper-chapter-01-high-priority-set-02": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "Chapter 01 Model Test 02",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "high-priority"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "01",
+          "chapterName": "ল্যাবরেটরির নিরাপদ ব্যবহার"
+        }
+      ]
+    },
+    "hsc-chemistry-1st-paper-chapter-01-high-priority-set-03": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "Chapter 01 Model Test 03",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "high-priority"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "01",
+          "chapterName": "ল্যাবরেটরির নিরাপদ ব্যবহার"
+        }
+      ]
+    },
+    "hsc-chemistry-1st-paper-chapter-01-high-priority-set-04": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "Chapter 01 Model Test 04",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "high-priority"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "01",
+          "chapterName": "ল্যাবরেটরির নিরাপদ ব্যবহার"
+        }
+      ]
+    },
+    "hsc-chemistry-1st-paper-chapter-01-high-priority-set-05": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "Chapter 01 Model Test 05",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "high-priority"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "01",
+          "chapterName": "ল্যাবরেটরির নিরাপদ ব্যবহার"
+        }
+      ]
+    },
+    "hsc-chemistry-1st-paper-chapter-02-high-priority-set-01": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "Chapter 02 Model Test 01",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "high-priority"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "02",
+          "chapterName": "গুণগত রসায়ন"
+        }
+      ]
+    },
+    "hsc-chemistry-1st-paper-chapter-02-high-priority-set-02": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "Chapter 02 Model Test 02",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "high-priority"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "02",
+          "chapterName": "গুণগত রসায়ন"
+        }
+      ]
+    },
+    "hsc-chemistry-1st-paper-chapter-02-high-priority-set-03": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "Chapter 02 Model Test 03",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "high-priority"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "02",
+          "chapterName": "গুণগত রসায়ন"
+        }
+      ]
+    },
+    "hsc-chemistry-1st-paper-chapter-02-high-priority-set-04": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "Chapter 02 Model Test 04",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "high-priority"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "02",
+          "chapterName": "গুণগত রসায়ন"
+        }
+      ]
+    },
+    "hsc-chemistry-1st-paper-chapter-02-high-priority-set-05": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "Chapter 02 Model Test 05",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "high-priority"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "02",
+          "chapterName": "গুণগত রসায়ন"
+        }
+      ]
+    },
+    "hsc-chemistry-1st-paper-chapter-03-high-priority-set-01": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "Chapter 03 Model Test 01",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "high-priority"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "03",
+          "chapterName": "মৌলের পর্যায়বৃত্ত ধর্ম ও রাসায়নিক বন্ধন"
+        }
+      ]
+    },
+    "hsc-chemistry-1st-paper-chapter-03-high-priority-set-02": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "Chapter 03 Model Test 02",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "high-priority"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "03",
+          "chapterName": "মৌলের পর্যায়বৃত্ত ধর্ম ও রাসায়নিক বন্ধন"
+        }
+      ]
+    },
+    "hsc-chemistry-1st-paper-chapter-03-high-priority-set-03": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "Chapter 03 Model Test 03",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "high-priority"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "03",
+          "chapterName": "মৌলের পর্যায়বৃত্ত ধর্ম ও রাসায়নিক বন্ধন"
+        }
+      ]
+    },
+    "hsc-chemistry-1st-paper-chapter-03-high-priority-set-04": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "Chapter 03 Model Test 04",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "high-priority"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "03",
+          "chapterName": "মৌলের পর্যায়বৃত্ত ধর্ম ও রাসায়নিক বন্ধন"
+        }
+      ]
+    },
+    "hsc-chemistry-1st-paper-chapter-03-high-priority-set-05": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "Chapter 03 Model Test 05",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "high-priority"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "03",
+          "chapterName": "মৌলের পর্যায়বৃত্ত ধর্ম ও রাসায়নিক বন্ধন"
+        }
+      ]
+    },
+    "hsc-chemistry-1st-paper-chapter-04-high-priority-set-01": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "Chapter 04 Model Test 01",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "high-priority"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "04",
+          "chapterName": "রাসায়নিক পরিবর্তন"
+        }
+      ]
+    },
+    "hsc-chemistry-1st-paper-chapter-04-high-priority-set-02": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "Chapter 04 Model Test 02",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "high-priority"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "04",
+          "chapterName": "রাসায়নিক পরিবর্তন"
+        }
+      ]
+    },
+    "hsc-chemistry-1st-paper-chapter-04-high-priority-set-03": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "Chapter 04 Model Test 03",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "high-priority"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "04",
+          "chapterName": "রাসায়নিক পরিবর্তন"
+        }
+      ]
+    },
+    "hsc-chemistry-1st-paper-chapter-04-high-priority-set-04": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "Chapter 04 Model Test 04",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "high-priority"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "04",
+          "chapterName": "রাসায়নিক পরিবর্তন"
+        }
+      ]
+    },
+    "hsc-chemistry-1st-paper-chapter-04-high-priority-set-05": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "Chapter 04 Model Test 05",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "high-priority"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "04",
+          "chapterName": "রাসায়নিক পরিবর্তন"
+        }
+      ]
+    },
+    "hsc-chemistry-1st-paper-chapter-05-high-priority-set-01": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "Chapter 05 Model Test 01",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "high-priority"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "05",
+          "chapterName": "কর্মমুখী রসায়ন"
+        }
+      ]
+    },
+    "hsc-chemistry-1st-paper-chapter-05-high-priority-set-02": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "Chapter 05 Model Test 02",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "high-priority"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "05",
+          "chapterName": "কর্মমুখী রসায়ন"
+        }
+      ]
+    },
+    "hsc-chemistry-1st-paper-chapter-05-high-priority-set-03": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "Chapter 05 Model Test 03",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "high-priority"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "05",
+          "chapterName": "কর্মমুখী রসায়ন"
+        }
+      ]
+    },
+    "hsc-chemistry-1st-paper-chapter-05-high-priority-set-04": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "Chapter 05 Model Test 04",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "high-priority"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "05",
+          "chapterName": "কর্মমুখী রসায়ন"
+        }
+      ]
+    },
+    "hsc-chemistry-1st-paper-chapter-05-high-priority-set-05": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "Chapter 05 Model Test 05",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "high-priority"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "05",
+          "chapterName": "কর্মমুখী রসায়ন"
+        }
+      ]
+    },
+    "hsc-chemistry-1st-paper-tier-a-hot-model-test-06": {
+      "questionCount": 25,
+      "scope": "paper",
+      "displayTitle": "Hyper Mega Hot SET 6",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "hot",
+        "high-priority",
+        "mega-hot",
+        "paper-wise",
+        "hyper-exclusive"
+      ]
+    },
+    "hsc-chemistry-1st-paper-tier-a-hot-model-test-07": {
+      "questionCount": 25,
+      "scope": "paper",
+      "displayTitle": "Hyper Mega Hot SET 7",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "hot",
+        "high-priority",
+        "mega-hot",
+        "paper-wise",
+        "hyper-exclusive"
+      ]
+    },
+    "hsc-chemistry-1st-paper-tier-a-hot-model-test-08": {
+      "questionCount": 25,
+      "scope": "paper",
+      "displayTitle": "Hyper Mega Hot SET 8",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "hot",
+        "high-priority",
+        "mega-hot",
+        "paper-wise",
+        "hyper-exclusive"
+      ]
+    },
+    "hsc-chemistry-1st-paper-tier-a-hot-model-test-09": {
+      "questionCount": 25,
+      "scope": "paper",
+      "displayTitle": "Hyper Mega Hot SET 9",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "hot",
+        "high-priority",
+        "mega-hot",
+        "paper-wise",
+        "hyper-exclusive"
+      ]
+    },
+    "hsc-chemistry-1st-paper-tier-a-hot-model-test-10": {
+      "questionCount": 25,
+      "scope": "paper",
+      "displayTitle": "Hyper Mega Hot SET 10",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "hot",
+        "high-priority",
+        "mega-hot",
+        "paper-wise",
+        "hyper-exclusive"
+      ]
+    },
+    "hsc-chemistry-1st-paper-tier-a-hot-model-test-11": {
+      "questionCount": 25,
+      "scope": "paper",
+      "displayTitle": "Hyper Mega Hot SET 11",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "hot",
+        "high-priority",
+        "mega-hot",
+        "paper-wise",
+        "hyper-exclusive"
+      ]
+    },
+    "hsc-chemistry-1st-paper-tier-a-hot-model-test-12": {
+      "questionCount": 25,
+      "scope": "paper",
+      "displayTitle": "Hyper Mega Hot SET 12",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "hot",
+        "high-priority",
+        "mega-hot",
+        "paper-wise",
+        "hyper-exclusive"
+      ]
+    }
+  }
+}

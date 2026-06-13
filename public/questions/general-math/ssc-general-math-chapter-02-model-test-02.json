@@ -1,0 +1,422 @@
+[
+  {
+    "id": "ssc-general-math-ch02-set02-q01",
+    "subject": "general-math",
+    "chapter": "ssc-general-math-chapter-02-model-test-02",
+    "text": "A = {2, 3, 5, 7} - এর সেট গঠনরূপ কোনটি?",
+    "options": [
+      "{x∈N : x মৌলিক সংখ্যা এবং x ≤ 7}",
+      "{x∈N : x বিজোড় সংখ্যা এবং x ≤ 7}",
+      "{x∈N : x মৌলিক সংখ্যা এবং x < 11}",
+      "{x∈N : x মৌলিক সংখ্যা এবং x < 7}"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-general-math-ch02-set02-q02",
+    "subject": "general-math",
+    "chapter": "ssc-general-math-chapter-02-model-test-02",
+    "text": "x = {-1, 0, 1, 2} এর প্রকৃত উপসেটের সংখ্যা কত?",
+    "options": [
+      "16",
+      "15",
+      "8",
+      "4"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-general-math-ch02-set02-q03",
+    "subject": "general-math",
+    "chapter": "ssc-general-math-chapter-02-model-test-02",
+    "text": "D = {y : y ∈ N এবং 5 ≤ y ≤ 10} সেটটিকে তালিকা পদ্ধতিতে প্রকাশ করলে কোনটি হবে?",
+    "options": [
+      "{5, 6, 7, 8, 9, 10}",
+      "{6, 7, 8, 9}",
+      "{5, 6, 7, 8, 9}",
+      "{6, 7, 8, 9, 10}"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-general-math-ch02-set02-q04",
+    "subject": "general-math",
+    "chapter": "ssc-general-math-chapter-02-model-test-02",
+    "text": "x² = 9x সমাধানের সেট কোনটি?",
+    "options": [
+      "{0, 9}",
+      "{0, 3}",
+      "{-3, 3}",
+      "{-9, 9}"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-general-math-ch02-set02-q05",
+    "subject": "general-math",
+    "chapter": "ssc-general-math-chapter-02-model-test-02",
+    "text": "নিচের কোন সেটগুলো বাহুগুলো দ্বারা ত্রিভুজ অঙ্কন করা সম্ভব?",
+    "options": [
+      "2 সেমি., 3 সেমি., 6 সেমি.",
+      "2 সেমি., 4 সেমি., 5 সেমি.",
+      "3 সেমি., 5 সেমি., 8 সেমি.",
+      "3 সেমি., 4 সেমি., 8 সেমি."
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-general-math-ch02-set02-q06",
+    "subject": "general-math",
+    "chapter": "ssc-general-math-chapter-02-model-test-02",
+    "text": "21. {x ∈ N : 6 < x < 10} সেটের পদসংখ্যা কয়টি?",
+    "options": [
+      "(ক) 7টি",
+      "(খ) 8টি",
+      "(গ) 15টি",
+      "(ঘ) 16টি"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-general-math-ch02-set02-q07",
+    "subject": "general-math",
+    "chapter": "ssc-general-math-chapter-02-model-test-02",
+    "text": "Q = {x, y, z} এবং R = {q, r} হলে Q\\R এর প্রকৃত উপসেট কয়টি?",
+    "options": [
+      "3 টি",
+      "4 টি",
+      "7 টি",
+      "8 টি"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-general-math-ch02-set02-q08",
+    "subject": "general-math",
+    "chapter": "ssc-general-math-chapter-02-model-test-02",
+    "text": "A = {x ∈ N : -2 ≤ x ≤ 6} সেটটির উপসেট কয়টি?",
+    "options": [
+      "৪ টি",
+      "৭ টি",
+      "৬ টি",
+      "৫ টি"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-general-math-ch02-set02-q09",
+    "subject": "general-math",
+    "chapter": "ssc-general-math-chapter-02-model-test-02",
+    "text": "3. S = {(-1,1),(1,2),(1,3),(2,4)} — ফাংশনটির ডোমেন কত?",
+    "options": [
+      "(ক) {-1, 1, 2}",
+      "(খ) {-1, 2}",
+      "(গ) {1,2,3,4}",
+      "(ঘ) {-1,1,2,3,4}"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-general-math-ch02-set02-q10",
+    "subject": "general-math",
+    "chapter": "ssc-general-math-chapter-02-model-test-02",
+    "text": "$D = \\{y : y \\in \\mathbb{N} \\text{ এবং } 5 \\le y \\le 10\\}$ সেটটিকে তালিকা পদ্ধতিতে প্রকাশ করলে কোনটি হবে?",
+    "options": [
+      "$\\{5, 6, 7, 8, 9, 10\\}$",
+      "$\\{6, 7, 8, 9\\}$",
+      "$\\{5, 6, 7, 8, 9\\}$",
+      "$\\{6, 7, 8, 9, 10\\}$"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-general-math-ch02-set02-q11",
+    "subject": "general-math",
+    "chapter": "ssc-general-math-chapter-02-model-test-02",
+    "text": "$x^2 = 9x$ এর সমাধান সেট নিচের কোনটি?",
+    "options": [
+      "$\\{0, 9\\}$",
+      "$\\{0, 3\\}$",
+      "$\\{-3, 3\\}$",
+      "$\\{-9, 9\\}$"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-general-math-ch02-set02-q12",
+    "subject": "general-math",
+    "chapter": "ssc-general-math-chapter-02-model-test-02",
+    "text": "(D - 2)/(D - 1) = 2 - 1/(D - 1) এর সমাধান সেট কোনটি?",
+    "options": [
+      "∅",
+      "{-1}",
+      "{1}",
+      "{5}"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-general-math-ch02-set02-q13",
+    "subject": "general-math",
+    "chapter": "ssc-general-math-chapter-02-model-test-02",
+    "text": "একটি বৃত্তের ব্যাসার্ধ 6 সেমি হলে এর ক্ষেত্রফল কত বর্গ সেমি?",
+    "options": [
+      "4*rπ",
+      "r*rπ",
+      "2*rπ",
+      "6π"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-general-math-ch02-set02-q14",
+    "subject": "general-math",
+    "chapter": "ssc-general-math-chapter-02-model-test-02",
+    "text": "একটি বর্গের এক বাহুর দৈর্ঘ্য 4 মিটার হলে এর কর্ণের দৈর্ঘ্য কত?",
+    "options": [
+      "r*r মিটার",
+      "2*r মিটার",
+      "4√2 মিটার",
+      "4√3 মিটার"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-general-math-ch02-set02-q15",
+    "subject": "general-math",
+    "chapter": "ssc-general-math-chapter-02-model-test-02",
+    "text": "sin²θ + cos²θ = কত?",
+    "options": [
+      "১",
+      "২",
+      "-১",
+      "০"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-general-math-ch02-set02-q16",
+    "subject": "general-math",
+    "chapter": "ssc-general-math-chapter-02-model-test-02",
+    "text": "একটি সমবাহু ত্রিভুজের প্রতি বাহুর দৈর্ঘ্য a হলে ক্ষেত্রফল কত?",
+    "options": [
+      "(√৩/৪)a²",
+      "(১/২)a²",
+      "a²",
+      "(√৩/২)a²"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-general-math-ch02-set02-q17",
+    "subject": "general-math",
+    "chapter": "ssc-general-math-chapter-02-model-test-02",
+    "text": "log₂ 8 এর মান কত?",
+    "options": [
+      "২",
+      "৩",
+      "৮",
+      "৪"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-general-math-ch02-set02-q18",
+    "subject": "general-math",
+    "chapter": "ssc-general-math-chapter-02-model-test-02",
+    "text": "একটি বৃত্তের ব্যাস 2*r সেমি হলে এর পরিধি কত?",
+    "options": [
+      "4*rπ সেমি",
+      "r*rπ সেমি",
+      "2*rπ সেমি",
+      "9π সেমি"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-general-math-ch02-set02-q19",
+    "subject": "general-math",
+    "chapter": "ssc-general-math-chapter-02-model-test-02",
+    "text": "x² - 5x + 6 = 0 সমীকরণটির মূলদ্বয় কত?",
+    "options": [
+      "-২, -৩",
+      "২, ৩",
+      "১, ৫",
+      "০, ৬"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-general-math-ch02-set02-q20",
+    "subject": "general-math",
+    "chapter": "ssc-general-math-chapter-02-model-test-02",
+    "text": "একটি বৃত্তের ব্যাসার্ধ 2 সেমি হলে এর ক্ষেত্রফল কত বর্গ সেমি?",
+    "options": [
+      "4*rπ",
+      "2*rπ",
+      "r*rπ",
+      "2π"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-general-math-ch02-set02-q21",
+    "subject": "general-math",
+    "chapter": "ssc-general-math-chapter-02-model-test-02",
+    "text": "একটি বর্গের এক বাহুর দৈর্ঘ্য 7 মিটার হলে এর কর্ণের দৈর্ঘ্য কত?",
+    "options": [
+      "7√3 মিটার",
+      "2*r মিটার",
+      "r*r মিটার",
+      "7√2 মিটার"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-general-math-ch02-set02-q22",
+    "subject": "general-math",
+    "chapter": "ssc-general-math-chapter-02-model-test-02",
+    "text": "একটি বৃত্তের ব্যাসার্ধ 4 সেমি হলে এর ক্ষেত্রফল কত বর্গ সেমি?",
+    "options": [
+      "4*rπ",
+      "2*rπ",
+      "r*rπ",
+      "4π"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-general-math-ch02-set02-q23",
+    "subject": "general-math",
+    "chapter": "ssc-general-math-chapter-02-model-test-02",
+    "text": "একটি বর্গের এক বাহুর দৈর্ঘ্য 6 মিটার হলে এর কর্ণের দৈর্ঘ্য কত?",
+    "options": [
+      "2*r মিটার",
+      "r*r মিটার",
+      "6√3 মিটার",
+      "6√2 মিটার"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-general-math-ch02-set02-q24",
+    "subject": "general-math",
+    "chapter": "ssc-general-math-chapter-02-model-test-02",
+    "text": "একটি সমবাহু ত্রিভুজের প্রতি বাহুর দৈর্ঘ্য a হলে ক্ষেত্রফল কত?",
+    "options": [
+      "(√৩/৪)a²",
+      "a²",
+      "(√৩/২)a²",
+      "(১/২)a²"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-general-math-ch02-set02-q25",
+    "subject": "general-math",
+    "chapter": "ssc-general-math-chapter-02-model-test-02",
+    "text": "একটি বৃত্তের ব্যাস 2*r সেমি হলে এর পরিধি কত?",
+    "options": [
+      "r*rπ সেমি",
+      "5π সেমি",
+      "4*rπ সেমি",
+      "2*rπ সেমি"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-general-math-ch02-set02-q26",
+    "subject": "general-math",
+    "chapter": "ssc-general-math-chapter-02-model-test-02",
+    "text": "x² - 5x + 6 = 0 সমীকরণটির মূলদ্বয় কত?",
+    "options": [
+      "১, ৫",
+      "-২, -৩",
+      "২, ৩",
+      "০, ৬"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-general-math-ch02-set02-q27",
+    "subject": "general-math",
+    "chapter": "ssc-general-math-chapter-02-model-test-02",
+    "text": "একটি বৃত্তের ব্যাসার্ধ 6 সেমি হলে এর ক্ষেত্রফল কত বর্গ সেমি?",
+    "options": [
+      "2*rπ",
+      "4*rπ",
+      "6π",
+      "r*rπ"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-general-math-ch02-set02-q28",
+    "subject": "general-math",
+    "chapter": "ssc-general-math-chapter-02-model-test-02",
+    "text": "একটি বর্গের এক বাহুর দৈর্ঘ্য 2 মিটার হলে এর কর্ণের দৈর্ঘ্য কত?",
+    "options": [
+      "r*r মিটার",
+      "2√2 মিটার",
+      "2√3 মিটার",
+      "2*r মিটার"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-general-math-ch02-set02-q29",
+    "subject": "general-math",
+    "chapter": "ssc-general-math-chapter-02-model-test-02",
+    "text": "একটি বৃত্তের ব্যাসার্ধ 2 সেমি হলে এর ক্ষেত্রফল কত বর্গ সেমি?",
+    "options": [
+      "2π",
+      "4*rπ",
+      "2*rπ",
+      "r*rπ"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-general-math-ch02-set02-q30",
+    "subject": "general-math",
+    "chapter": "ssc-general-math-chapter-02-model-test-02",
+    "text": "একটি বর্গের এক বাহুর দৈর্ঘ্য 2 মিটার হলে এর কর্ণের দৈর্ঘ্য কত?",
+    "options": [
+      "2*r মিটার",
+      "2√3 মিটার",
+      "2√2 মিটার",
+      "r*r মিটার"
+    ],
+    "image": null,
+    "timeLimit": 45
+  }
+]

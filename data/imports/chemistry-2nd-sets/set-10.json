@@ -1,0 +1,381 @@
+{
+  "setNumber": 10,
+  "subject": "Chemistry 2nd Paper",
+  "questions": [
+    {
+      "questionNumber": 1,
+      "passage": "একটি হাইড্রোকার্বন C₄H₆, যা টলেন বিকারকের সাথে সিলভার অ্যাসিটিলাইডের সাদা অধঃক্ষেপ দেয়। এটি শুধু একটি অণু HBr যোগ করে এবং পলিমারকরণে রাবার জাতীয় পদার্থ উৎপন্ন করে।",
+      "questionText": "হাইড্রোকার্বনটি কী?",
+      "options": [
+        "ক) বিউট-1-ইন",
+        "খ) বিউট-2-ইন",
+        "গ) বিউটা-1,3-ডাইইন",
+        "ঘ) ইথাইন"
+      ],
+      "correctOption": "ক",
+      "explanation": "C₄H₆, টার্মিনাল অ্যালকাইন (≡C-H) → Tollens অধঃক্ষেপ। HBr 1 অণু যোগ → অ্যালকিন। পলিমার → পলিবিউটাডাইইন। বিউট-1-ইন (CH≡CCH₂CH₃) টার্মিনাল, Tollens দেয়। বিউট-2-ইন টার্মিনাল নয়। বিউটা-1,3-ডাইইন C₄H₄। তাই বিউট-1-ইন।",
+      "topic": "জৈব রসায়ন (অ্যালকাইন)",
+      "probability": "Mega Hot"
+    },
+    {
+      "questionNumber": 2,
+      "passage": "উপরের হাইড্রোকার্বনের পলিমারটির নাম কী?",
+      "questionText": "পলিমারটি কী?",
+      "options": [
+        "ক) পলিথিন",
+        "খ) পলিবিউটাডাইইন",
+        "গ) পলিস্টাইরিন",
+        "ঘ) নিওপ্রিন"
+      ],
+      "correctOption": "খ",
+      "explanation": "অ্যালকাইন পলিমার → পলিঅ্যাসিটিলিন বা পলিবিউটাডাইইন? বিউট-1-ইন পলিমার করলে পলিবিউটাডাইইন (সিন্থেটিক রাবার) পাওয়া যায়। প্রকৃতপক্ষে বিউটা-1,3-ডাইইন বেশি ব্যবহৃত। তবে এক্ষেত্রে পলিবিউটাডাইইন ধরা হয়।",
+      "topic": "পলিমার",
+      "probability": "Very Hot"
+    },
+    {
+      "questionNumber": 3,
+      "passage": "একটি খাদ্য নমুনার 0.5 g কেজেল্ডাল পদ্ধতিতে বিশ্লেষণ করে NH₃ বের করে 30 mL 0.1 M HCl এ শোষণ। অতিরিক্ত HCl এর টাইট্রেশনে 10 mL 0.1 M NaOH প্রয়োজন।",
+      "questionText": "খাদ্যে নাইট্রোজেনের শতকরা পরিমাণ কত? (N=14)",
+      "options": [
+        "ক) 5.6%",
+        "খ) 2.8%",
+        "গ) 8.4%",
+        "ঘ) 11.2%"
+      ],
+      "correctOption": "ক",
+      "explanation": "HCl মোট = 30×0.1=3 mmol; অতিরিক্ত=10×0.1=1 mmol; NH₃ থেকে = 2 mmol N = 2×14=28 mg=0.028 g। % = (0.028/0.5)×100=5.6%।",
+      "topic": "পরিমাণগত রসায়ন/জৈব বিশ্লেষণ",
+      "probability": "Mega Hot"
+    },
+    {
+      "questionNumber": 4,
+      "passage": "কেজেল্ডাল পদ্ধতিতে প্রাপ্ত নাইট্রোজেনের পরিমাণ থেকে কোন যৌগের প্রোটিন নির্ণয় করা হয়?",
+      "questionText": "প্রোটিন নির্ণয়ের জন্য নাইট্রোজেন গুণনীয়ক—",
+      "options": [
+        "ক) 6.25",
+        "খ) 14",
+        "গ) 5.6",
+        "ঘ) 100"
+      ],
+      "correctOption": "ক",
+      "explanation": "গড়ে প্রোটিনে 16% N, তাই গুণনীয়ক = 100/16 = 6.25।",
+      "topic": "জৈব অণু (প্রোটিন)",
+      "probability": "Very Hot"
+    },
+    {
+      "questionNumber": 5,
+      "passage": null,
+      "questionText": "অ্যাসিটিক অ্যাসিডের সাথে ইথানলের বিক্রিয়ায় এস্টার গঠনে H₂SO₄ এর ভূমিকা—",
+      "options": [
+        "ক) জারক",
+        "খ) বিজারক",
+        "গ) অনুঘটক ও পানিগ্রাহী",
+        "ঘ) ক্ষারক"
+      ],
+      "correctOption": "গ",
+      "explanation": "H₂SO₄ অনুঘটক ও পানিগ্রাহী হিসেবে কাজ করে।",
+      "topic": "জৈব রসায়ন (এস্টার)",
+      "probability": "Board Favourite"
+    },
+    {
+      "questionNumber": 6,
+      "passage": null,
+      "questionText": "বেনজিনের কোন ডেরাইভেটিভ কীটনাশক হিসেবে ব্যবহৃত?",
+      "options": [
+        "ক) DDT",
+        "খ) BHC",
+        "গ) ক) ও খ) উভয়ই",
+        "ঘ) ক্লোরোবেনজিন"
+      ],
+      "correctOption": "গ",
+      "explanation": "DDT ও BHC উভয়ই কীটনাশক।",
+      "topic": "জৈব রসায়ন (বেনজিন ডেরাইভেটিভ)",
+      "probability": "Mega Hot"
+    },
+    {
+      "questionNumber": 7,
+      "passage": null,
+      "questionText": "নাইট্রোবেনজিন বিজারণে পণ্য অ্যানিলিন। বিক্রিয়ায় কী কী প্রয়োজন?",
+      "options": [
+        "ক) Sn + HCl",
+        "খ) Zn + HCl",
+        "গ) Fe + HCl",
+        "ঘ) সবগুলোই"
+      ],
+      "correctOption": "ঘ",
+      "explanation": "Sn, Fe, Zn সবই বিজারক।",
+      "topic": "জৈব রসায়ন (নাইট্রো)",
+      "probability": "Board Favourite"
+    },
+    {
+      "questionNumber": 8,
+      "passage": null,
+      "questionText": "কোনটি সবচেয়ে সহজে ইলেকট্রোফিলিক প্রতিস্থাপন দেয়?",
+      "options": [
+        "ক) বেনজিন",
+        "খ) নাইট্রোবেনজিন",
+        "গ) ফেনল",
+        "ঘ) বেনজোয়িক অ্যাসিড"
+      ],
+      "correctOption": "গ",
+      "explanation": "ফেনলে -OH +R প্রভাবে বলয় সক্রিয়, দ্রুত প্রতিস্থাপন।",
+      "topic": "জৈব রসায়ন (বেনজিন)",
+      "probability": "Very Hot"
+    },
+    {
+      "questionNumber": 9,
+      "passage": null,
+      "questionText": "কৃত্রিম তন্তু রেয়ন তৈরি হয়—",
+      "options": [
+        "ক) সেলুলোজ জ্যান্থেট থেকে",
+        "খ) পলিমাইড থেকে",
+        "গ) পলিয়েস্টার থেকে",
+        "ঘ) পলিথিন থেকে"
+      ],
+      "correctOption": "ক",
+      "explanation": "রেয়ন পুনরুৎপাদিত সেলুলোজ, ভিসকোজ প্রক্রিয়ায়।",
+      "topic": "পলিমার",
+      "probability": "Board Favourite"
+    },
+    {
+      "questionNumber": 10,
+      "passage": null,
+      "questionText": "গ্লাইকোজেন ও স্টার্চের মধ্যে পার্থক্য—",
+      "options": [
+        "ক) গ্লাইকোজেন প্রাণীজ, স্টার্চ উদ্ভিজ্জ",
+        "খ) গ্লাইকোজেন অদ্রবণীয়, স্টার্চ দ্রবণীয়",
+        "গ) গ্লাইকোজেনে α-1,6 বন্ধন বেশি",
+        "ঘ) উপরের সবগুলো"
+      ],
+      "correctOption": "ঘ",
+      "explanation": "সবগুলো সঠিক পার্থক্য।",
+      "topic": "জৈব অণু (শর্করা)",
+      "probability": "Very Hot"
+    },
+    {
+      "questionNumber": 11,
+      "passage": null,
+      "questionText": "কোন গ্যাসটি বায়োগ্যাসের প্রধান উপাদান?",
+      "options": [
+        "ক) CH₄",
+        "খ) CO₂",
+        "গ) H₂S",
+        "ঘ) N₂"
+      ],
+      "correctOption": "ক",
+      "explanation": "বায়োগ্যাসে 60-70% মিথেন।",
+      "topic": "পরিবেশ রসায়ন",
+      "probability": "Board Favourite"
+    },
+    {
+      "questionNumber": 12,
+      "passage": null,
+      "questionText": "সাবানের দ্রবণে ফেনা উৎপন্ন হয় কারণ এটি—",
+      "options": [
+        "ক) পৃষ্ঠটান কমায়",
+        "খ) পৃষ্ঠটান বাড়ায়",
+        "গ) সান্দ্রতা বাড়ায়",
+        "ঘ) ঘনত্ব কমায়"
+      ],
+      "correctOption": "ক",
+      "explanation": "সাবান surfactant, পৃষ্ঠটান হ্রাস করে ফেনা তৈরি।",
+      "topic": "সাবান ও ডিটারজেন্ট",
+      "probability": "Very Hot"
+    },
+    {
+      "questionNumber": 13,
+      "passage": null,
+      "questionText": "আয়োডোফর্ম পরীক্ষা দেয় কোন যৌগ?",
+      "options": [
+        "ক) CH₃CH₂OH",
+        "খ) CH₃CHO",
+        "গ) CH₃COCH₃",
+        "ঘ) উপরের সবকটিই"
+      ],
+      "correctOption": "ঘ",
+      "explanation": "ইথানল, অ্যাসিটালডিহাইড, অ্যাসিটোন সবাই আয়োডোফর্ম দেয়।",
+      "topic": "জৈব রসায়ন (শনাক্তকরণ)",
+      "probability": "Board Favourite"
+    },
+    {
+      "questionNumber": 14,
+      "passage": null,
+      "questionText": "বেনজিনের ক্লোরিনেশন (FeCl₃ উপস্থিতি) বিক্রিয়ায়—",
+      "options": [
+        "ক) Cl⁺ ইলেকট্রোফাইল",
+        "খ) Cl⁻ নিউক্লিওফাইল",
+        "গ) Cl· মুক্তমূলক",
+        "ঘ) Cl₂ অণু"
+      ],
+      "correctOption": "ক",
+      "explanation": "FeCl₃ Cl₂ কে পোলারায়িত করে Cl⁺ ইলেকট্রোফাইল তৈরি করে।",
+      "topic": "জৈব রসায়ন (বেনজিন)",
+      "probability": "Mega Hot"
+    },
+    {
+      "questionNumber": 15,
+      "passage": null,
+      "questionText": "নাইট্রোবেনজিনের বিজারণ— i. অ্যাসিডীয় মাধ্যমে Sn/HCl ii. অ্যানিলিন উৎপন্ন iii. নিরপেক্ষ মাধ্যমে অ্যাজোবেনজিন নিচের কোনটি সঠিক?",
+      "options": [
+        "ক) i ও ii",
+        "খ) i ও iii",
+        "গ) ii ও iii",
+        "ঘ) i, ii ও iii"
+      ],
+      "correctOption": "ঘ",
+      "explanation": "বিজারণ অবস্থাভেদে বিভিন্ন উৎপাদ দেয়। সব সঠিক।",
+      "topic": "জৈব রসায়ন (নাইট্রো)",
+      "probability": "Very Hot"
+    },
+    {
+      "questionNumber": 16,
+      "passage": null,
+      "questionText": "কার্বক্সিলিক অ্যাসিডের বিক্রিয়া— i. NaHCO₃ → CO₂ ii. LiAlH₄ → অ্যালকোহল iii. NH₃ → অ্যামাইড (তাপে) নিচের কোনটি সঠিক?",
+      "options": [
+        "ক) i ও ii",
+        "খ) i ও iii",
+        "গ) ii ও iii",
+        "ঘ) i, ii ও iii"
+      ],
+      "correctOption": "ঘ",
+      "explanation": "সবগুলো সঠিক।",
+      "topic": "জৈব রসায়ন (অ্যাসিড)",
+      "probability": "Very Hot"
+    },
+    {
+      "questionNumber": 17,
+      "passage": null,
+      "questionText": "পলিমার সম্পর্কে— i. PVC মনোমার ভিনাইল ক্লোরাইড ii. টেফলন মনোমার টেট্রাফ্লুরোইথিলিন iii. বেকেলাইট থার্মোসেটিং নিচের কোনটি সঠিক?",
+      "options": [
+        "ক) i ও ii",
+        "খ) i ও iii",
+        "গ) ii ও iii",
+        "ঘ) i, ii ও iii"
+      ],
+      "correctOption": "ঘ",
+      "explanation": "সবগুলো সঠিক।",
+      "topic": "পলিমার",
+      "probability": "Mega Hot"
+    },
+    {
+      "questionNumber": 18,
+      "passage": null,
+      "questionText": "বেনজিনের রাসায়নিক ধর্ম— i. প্রতিস্থাপন পছন্দ করে ii. সংযোজন সহজে হয় না iii. জারণ সহজে হয় না নিচের কোনটি সঠিক?",
+      "options": [
+        "ক) i ও ii",
+        "খ) i ও iii",
+        "গ) ii ও iii",
+        "ঘ) i, ii ও iii"
+      ],
+      "correctOption": "ঘ",
+      "explanation": "অ্যারোমেটিকতার কারণে তিনটিই সত্য।",
+      "topic": "জৈব রসায়ন (বেনজিন)",
+      "probability": "Very Hot"
+    },
+    {
+      "questionNumber": 19,
+      "passage": null,
+      "questionText": "পানি দূষণের উৎস— i. শিল্প বর্জ্য ii. কৃষি রাসায়নিক iii. গৃহস্থালি বর্জ্য নিচের কোনটি সঠিক?",
+      "options": [
+        "ক) i ও ii",
+        "খ) i ও iii",
+        "গ) ii ও iii",
+        "ঘ) i, ii ও iii"
+      ],
+      "correctOption": "ঘ",
+      "explanation": "সবগুলোই উৎস।",
+      "topic": "পরিবেশ রসায়ন",
+      "probability": "Board Favourite"
+    },
+    {
+      "questionNumber": 20,
+      "passage": null,
+      "questionText": "ডায়াজোনিয়াম লবণের রাসায়নিক বিক্রিয়া— i. কাপলিং বিক্রিয়ায় অ্যাজো ডাই ii. স্যান্ডমেয়ার বিক্রিয়ায় হ্যালোবেনজিন iii. জলীয় মাধ্যমে ফেনল নিচের কোনটি সঠিক?",
+      "options": [
+        "ক) i ও ii",
+        "খ) i ও iii",
+        "গ) ii ও iii",
+        "ঘ) i, ii ও iii"
+      ],
+      "correctOption": "ঘ",
+      "explanation": "তিনটিই সঠিক।",
+      "topic": "জৈব রসায়ন (ডায়াজোনিয়াম)",
+      "probability": "Very Hot"
+    },
+    {
+      "questionNumber": 21,
+      "passage": null,
+      "questionText": "ইথানল থেকে ইথানাল উৎপাদনে কোনটি ঘটে?",
+      "options": [
+        "ক) জারণ",
+        "খ) বিজারণ",
+        "গ) পানিবিয়োজন",
+        "ঘ) প্রতিস্থাপন"
+      ],
+      "correctOption": "ক",
+      "explanation": "C₂H₅OH → CH₃CHO (জারণ, 2H অপসারণ)।",
+      "topic": "জৈব রসায়ন (জারণ)",
+      "probability": "Board Favourite"
+    },
+    {
+      "questionNumber": 22,
+      "passage": null,
+      "questionText": "বেনজিন + CH₃COCl (AlCl₃) →?",
+      "options": [
+        "ক) অ্যাসিটোফেনন",
+        "খ) বেনজালডিহাইড",
+        "গ) বেনজোফেনন",
+        "ঘ) ইথাইলবেনজিন"
+      ],
+      "correctOption": "ক",
+      "explanation": "ফ্রিডেল-ক্রাফটস অ্যাসাইলেশন → C₆H₅COCH₃ (অ্যাসিটোফেনন)।",
+      "topic": "জৈব রসায়ন (বেনজিন)",
+      "probability": "Mega Hot"
+    },
+    {
+      "questionNumber": 23,
+      "passage": null,
+      "questionText": "কোন যৌগটি টারশিয়ারি অ্যালকোহল?",
+      "options": [
+        "ক) (CH₃)₃COH",
+        "খ) (CH₃)₂CHOH",
+        "গ) CH₃CH₂OH",
+        "ঘ) CH₃OH"
+      ],
+      "correctOption": "ক",
+      "explanation": "টারশিয়ারি অ্যালকোহলে -OH যুক্ত C ৩টি অ্যালকাইল গ্রুপ বহন।",
+      "topic": "জৈব রসায়ন (অ্যালকোহল)",
+      "probability": "Board Favourite"
+    },
+    {
+      "questionNumber": 24,
+      "passage": null,
+      "questionText": "কৃত্রিম রাবার নিওপ্রিনের মনোমার—",
+      "options": [
+        "ক) ক্লোরোপ্রিন",
+        "খ) বিউটাডাইইন",
+        "গ) স্টাইরিন",
+        "ঘ) আইসোপ্রিন"
+      ],
+      "correctOption": "ক",
+      "explanation": "নিওপ্রিন = পলিক্লোরোপ্রিন।",
+      "topic": "পলিমার",
+      "probability": "Very Hot"
+    },
+    {
+      "questionNumber": 25,
+      "passage": null,
+      "questionText": "বেনজিনের তুলনায় নাইট্রোবেনজিন ইলেকট্রোফিলিক প্রতিস্থাপন ধীর, কারণ—",
+      "options": [
+        "ক) NO₂ ইলেকট্রন আকর্ষী (-R)",
+        "খ) NO₂ ইলেকট্রন দাতা",
+        "গ) বেনজিনের চেয়ে বড়",
+        "ঘ) অধিক π ইলেকট্রন"
+      ],
+      "correctOption": "ক",
+      "explanation": "-NO₂ গ্রুপ -R প্রভাবে বলয়কে নিষ্ক্রিয় করে।",
+      "topic": "জৈব রসায়ন (বেনজিন)",
+      "probability": "Mega Hot"
+    }
+  ]
+}

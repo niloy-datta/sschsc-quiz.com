@@ -1,0 +1,256 @@
+{
+  "setNumber": 1,
+  "subject": "Chemistry 2nd Paper",
+  "questions": [
+    {
+      "questionNumber": 1,
+      "passage": "নিচের উদ্দীপকটি পড়ো এবং প্রশ্নগুলোর উত্তর দাও:\nএকটি হাইড্রোকার্বন (A) এর আণবিক সংকেত C₃H₆। এটি ব্রোমিন জল রংহীন করে এবং HBr এর সাথে বিক্রিয়া করে প্রধানত 2-ব্রোমোপ্রোপেন উৎপন্ন করে।",
+      "questionText": "হাইড্রোকার্বন (A) টি কী?",
+      "options": ["ক) প্রোপেন", "খ) প্রোপিন", "গ) প্রোপাইন", "ঘ) সাইক্লোপ্রোপেন"],
+      "correctOption": "খ",
+      "explanation": "C₃H₆ এবং ব্রোমিন জল রংহীন করে → অসম্পৃক্ত (অ্যালকিন)। HBr যোগে 2-ব্রোমোপ্রোপেন উৎপন্ন → প্রোপিন (CH₃CH=CH₂)।",
+      "topic": "জৈব রসায়ন (হাইড্রোকার্বন)",
+      "probability": "Mega Hot"
+    },
+    {
+      "questionNumber": 2,
+      "passage": "উপরের উদ্দীপক অনুসারে।",
+      "questionText": "(A) তে HBr যোগের বিক্রিয়াটি কোন ধরনের?",
+      "options": ["ক) প্রতিস্থাপন", "খ) ইলেকট্রোফিলিক যোগ", "গ) নিউক্লিওফিলিক যোগ", "ঘ) অপসারণ"],
+      "correctOption": "খ",
+      "explanation": "অ্যালকিনে HBr যোগ ইলেকট্রোফিলিক যোগ বিক্রিয়া। মার্কোনিকভ নিয়মে 2-ব্রোমোপ্রোপেন প্রধান উৎপাদ।",
+      "topic": "জৈব রসায়ন (বিক্রিয়া কৌশল)",
+      "probability": "Very Hot"
+    },
+    {
+      "questionNumber": 3,
+      "passage": "নিচের উদ্দীপকটি পড়ো এবং প্রশ্নগুলোর উত্তর দাও:\n25 mL একটি Na₂CO₃ দ্রবণকে 0.1 M HCl দিয়ে টাইট্রেশন করা হলো এবং 20 mL HCl প্রয়োজন হলো।",
+      "questionText": "Na₂CO₃ দ্রবণের মোলারিটি কত?",
+      "options": ["ক) 0.04 M", "খ) 0.08 M", "গ) 0.02 M", "ঘ) 0.10 M"],
+      "correctOption": "ক",
+      "explanation": "Na₂CO₃ + 2HCl → 2NaCl + CO₂ + H₂O। V₁S₁/n₁ = V₂S₂/n₂ ⇒ 25×S₁/1 = 20×0.1/2 ⇒ S₁ = 0.04 M।",
+      "topic": "পরিমাণগত রসায়ন (টাইট্রেশন)",
+      "probability": "Mega Hot"
+    },
+    {
+      "questionNumber": 4,
+      "passage": "উপরের টাইট্রেশনে মিথাইল অরেঞ্জ নির্দেশক ব্যবহৃত হলো।",
+      "questionText": "শেষ বিন্দুতে দ্রবণের বর্ণ কী হবে?",
+      "options": ["ক) লাল থেকে হলুদ", "খ) হলুদ থেকে লাল", "গ) বর্ণহীন থেকে গোলাপি", "ঘ) গোলাপি থেকে বর্ণহীন"],
+      "correctOption": "খ",
+      "explanation": "মিথাইল অরেঞ্জ ক্ষারীয় মাধ্যমে হলুদ, অম্লীয় মাধ্যমে লাল। Na₂CO₃ ক্ষারীয়, HCl যোগে শেষ বিন্দুতে অম্লীয় হয় → হলুদ থেকে লাল।",
+      "topic": "পরিমাণগত রসায়ন (নির্দেশক)",
+      "probability": "Very Hot"
+    },
+    {
+      "questionNumber": 5,
+      "passage": null,
+      "questionText": "ফেনল এর আণবিক সংকেত কোনটি?",
+      "options": ["ক) C₆H₅OH", "খ) C₆H₅CH₂OH", "গ) C₆H₁₁OH", "ঘ) C₆H₄(OH)₂"],
+      "correctOption": "ক",
+      "explanation": "ফেনল = C₆H₅OH।",
+      "topic": "জৈব রসায়ন (অ্যালকোহল ও ফেনল)",
+      "probability": "Board Favourite"
+    },
+    {
+      "questionNumber": 6,
+      "passage": null,
+      "questionText": "নিচের কোনটি প্রাইমারি অ্যামিন?",
+      "options": ["ক) (CH₃)₂NH", "খ) C₂H₅NH₂", "গ) (CH₃)₃N", "ঘ) C₆H₅NHCH₃"],
+      "correctOption": "খ",
+      "explanation": "প্রাইমারি অ্যামিনে -NH₂ গ্রুপ থাকে।",
+      "topic": "জৈব রসায়ন (অ্যামিন)",
+      "probability": "Board Favourite"
+    },
+    {
+      "questionNumber": 7,
+      "passage": null,
+      "questionText": "গ্লুকোজের আণবিক সংকেত—",
+      "options": ["ক) C₆H₁₂O₆", "খ) C₁₂H₂₂O₁₁", "গ) C₆H₁₀O₅", "ঘ) CH₂O"],
+      "correctOption": "ক",
+      "explanation": "গ্লুকোজ একটি মনোস্যাকারাইড, সংকেত C₆H₁₂O₆।",
+      "topic": "জৈব রসায়ন (জৈব অণু)",
+      "probability": "Board Favourite"
+    },
+    {
+      "questionNumber": 8,
+      "passage": null,
+      "questionText": "কোনটি পরিবেশে অ্যাসিড বৃষ্টির জন্য দায়ী?",
+      "options": ["ক) CO₂", "খ) SO₂", "গ) O₂", "ঘ) N₂"],
+      "correctOption": "খ",
+      "explanation": "SO₂ ও NOₓ অ্যাসিড বৃষ্টি সৃষ্টি করে।",
+      "topic": "পরিবেশ রসায়ন",
+      "probability": "Mega Hot"
+    },
+    {
+      "questionNumber": 9,
+      "passage": null,
+      "questionText": "সাবান তৈরির বিক্রিয়াকে কী বলা হয়?",
+      "options": ["ক) ইস্টারিফিকেশন", "খ) স্যাপোনিফিকেশন", "গ) পলিমারাইজেশন", "ঘ) হাইড্রোজেনেশন"],
+      "correctOption": "খ",
+      "explanation": "চর্বি/তেল + NaOH → গ্লিসারল + সাবান (স্যাপোনিফিকেশন)।",
+      "topic": "জৈব রসায়ন (সাবান ও ডিটারজেন্ট)",
+      "probability": "Very Hot"
+    },
+    {
+      "questionNumber": 10,
+      "passage": null,
+      "questionText": "PVC-এর মনোমার হলো—",
+      "options": ["ক) ইথিলিন", "খ) ভিনাইল ক্লোরাইড", "গ) স্টাইরিন", "ঘ) প্রোপিলিন"],
+      "correctOption": "খ",
+      "explanation": "PVC = পলিভিনাইল ক্লোরাইড, মনোমার CH₂=CHCl।",
+      "topic": "জৈব রসায়ন (পলিমার)",
+      "probability": "Board Favourite"
+    },
+    {
+      "questionNumber": 11,
+      "passage": null,
+      "questionText": "বেনজিনের নাইট্রেশন বিক্রিয়ায় কোন বিকারক ব্যবহৃত হয়?",
+      "options": ["ক) HNO₃", "খ) HNO₃ + H₂SO₄", "গ) NO₂", "ঘ) NaNO₂ + HCl"],
+      "correctOption": "খ",
+      "explanation": "নাইট্রেশন: HNO₃/H₂SO₄ (নাইট্রোনিয়াম আয়ন তৈরি করে)।",
+      "topic": "জৈব রসায়ন (বেনজিন)",
+      "probability": "Board Favourite"
+    },
+    {
+      "questionNumber": 12,
+      "passage": null,
+      "questionText": "অ্যালডিহাইডের জন্য কোন পরীক্ষাটি সুনির্দিষ্ট?",
+      "options": ["ক) আয়োডোফর্ম", "খ) টলেন বিকারক", "গ) লুকাস পরীক্ষা", "ঘ) ফেরিক ক্লোরাইড"],
+      "correctOption": "খ",
+      "explanation": "টলেন বিকারক (Ag₂O/NH₃) অ্যালডিহাইডকে জারিত করে সিলভার দর্পণ তৈরি করে।",
+      "topic": "জৈব রসায়ন (অ্যালডিহাইড ও কিটোন)",
+      "probability": "Very Hot"
+    },
+    {
+      "questionNumber": 13,
+      "passage": null,
+      "questionText": "ডিটারজেন্টের প্রধান সমস্যা—",
+      "options": ["ক) জীবাণু ধ্বংস করে", "খ) জলে সহজে দ্রবীভূত হয়", "গ) পানি দূষণ করে ও ফেনা সৃষ্টি করে", "ঘ) চর্বি পরিষ্কার করে না"],
+      "correctOption": "গ",
+      "explanation": "ডিটারজেন্ট নন-বায়োডিগ্রেডেবল ও পানিতে ফেনা তৈরি করে দূষণ ঘটায়।",
+      "topic": "পরিবেশ রসায়ন",
+      "probability": "Mega Hot"
+    },
+    {
+      "questionNumber": 14,
+      "passage": null,
+      "questionText": "বেনজিনে কয়টি σ বন্ধন থাকে?",
+      "options": ["ক) 6", "খ) 9", "গ) 12", "ঘ) 15"],
+      "correctOption": "গ",
+      "explanation": "C₆H₆: 6টি C-H σ + 6টি C-C σ = 12টি σ বন্ধন।",
+      "topic": "জৈব রসায়ন (বেনজিন)",
+      "probability": "Very Hot"
+    },
+    {
+      "questionNumber": 15,
+      "passage": null,
+      "questionText": "অ্যালকেনের বৈশিষ্ট্য— i. সাধারণ সংকেত CₙH₂ₙ₊₂ ii. কেবল σ বন্ধন আছে iii. ইলেকট্রোফিলিক প্রতিস্থাপন বিক্রিয়া দেয় নিচের কোনটি সঠিক?",
+      "options": ["ক) i ও ii", "খ) i ও iii", "গ) ii ও iii", "ঘ) i, ii ও iii"],
+      "correctOption": "ক",
+      "explanation": "অ্যালকেন প্রধানত প্রতিস্থাপন বিক্রিয়া দেয় (মুক্তমূলক), ইলেকট্রোফিলিক নয়; তাই iii ভুল।",
+      "topic": "জৈব রসায়ন (অ্যালকেন)",
+      "probability": "Board Favourite"
+    },
+    {
+      "questionNumber": 16,
+      "passage": null,
+      "questionText": "ফেনল সম্পর্কে সঠিক উক্তি— i. এটি একটি অ্যারোমেটিক যৌগ ii. NaOH এর সাথে বিক্রিয়া করে লবণ গঠন করে iii. FeCl₃ দ্রবণের সাথে বিক্রিয়ায় বেগুনি বর্ণ দেয় নিচের কোনটি সঠিক?",
+      "options": ["ক) i ও ii", "খ) i ও iii", "গ) ii ও iii", "ঘ) i, ii ও iii"],
+      "correctOption": "ঘ",
+      "explanation": "ফেনল অ্যারোমেটিক, অ্যাসিডিক (NaOH-সহ লবণ), FeCl₃ দিয়ে বেগুনি বর্ণ। সব সঠিক।",
+      "topic": "জৈব রসায়ন (ফেনল)",
+      "probability": "Very Hot"
+    },
+    {
+      "questionNumber": 17,
+      "passage": null,
+      "questionText": "অ্যালডিহাইড ও কিটোনের পার্থক্য— i. অ্যালডিহাইড টলেন বিকারক জারিত করে ii. কিটোন ফেহলিং দ্রবণ জারিত করে না iii. উভয়েই NaHSO₃ এর সাথে কেলাসিত যৌগ গঠন করে নিচের কোনটি সঠিক?",
+      "options": ["ক) i ও ii", "খ) i ও iii", "গ) ii ও iii", "ঘ) i, ii ও iii"],
+      "correctOption": "ঘ",
+      "explanation": "সবগুলিই সঠিক। কিটোন সাধারণত ফেহলিং জারিত করে না; অ্যালডিহাইড করে।",
+      "topic": "জৈব রসায়ন",
+      "probability": "Board Favourite"
+    },
+    {
+      "questionNumber": 18,
+      "passage": null,
+      "questionText": "ভিনাইল ক্লোরাইডের পলিমারকরণ— i. সংযোজন পলিমার ii. পলিথিন উৎপন্ন হয় iii. পলিমার শিকলে ক্লোরিন উপস্থিত নিচের কোনটি সঠিক?",
+      "options": ["ক) i ও iii", "খ) i ও ii", "গ) ii ও iii", "ঘ) i, ii ও iii"],
+      "correctOption": "ক",
+      "explanation": "ভিনাইল ক্লোরাইড সংযোজন পলিমার, PVC গঠিত হয় (শিকলে Cl থাকে)। ii ভুল, পলিথিন নয়।",
+      "topic": "পলিমার",
+      "probability": "Very Hot"
+    },
+    {
+      "questionNumber": 19,
+      "passage": null,
+      "questionText": "বায়োগ্যাসের প্রধান উপাদান— i. মিথেন ii. ইথেন iii. CO₂ নিচের কোনটি সঠিক?",
+      "options": ["ক) i ও iii", "খ) i ও ii", "গ) ii ও iii", "ঘ) i, ii ও iii"],
+      "correctOption": "ক",
+      "explanation": "বায়োগ্যাসে ~60% CH₄ ও ~40% CO₂ থাকে।",
+      "topic": "পরিবেশ রসায়ন",
+      "probability": "Board Favourite"
+    },
+    {
+      "questionNumber": 20,
+      "passage": null,
+      "questionText": "গ্রিনহাউস গ্যাস— i. CO₂ ii. CH₄ iii. O₂ নিচের কোনটি সঠিক?",
+      "options": ["ক) i ও ii", "খ) i ও iii", "গ) ii ও iii", "ঘ) i, ii ও iii"],
+      "correctOption": "ক",
+      "explanation": "CO₂ ও CH₄ গ্রিনহাউস গ্যাস। O₂ নয়।",
+      "topic": "পরিবেশ রসায়ন",
+      "probability": "Mega Hot"
+    },
+    {
+      "questionNumber": 21,
+      "passage": null,
+      "questionText": "কোনটি সবচেয়ে শক্তিশালী অ্যাসিড?",
+      "options": ["ক) ফেনল", "খ) ইথানল", "গ) অ্যাসিটিক অ্যাসিড", "ঘ) বেনজোয়িক অ্যাসিড"],
+      "correctOption": "গ",
+      "explanation": "অ্যাসিটিক অ্যাসিড একটি কার্বক্সিলিক অ্যাসিড, এটি ফেনল, ইথানল, বেনজোয়িক অ্যাসিডের চেয়ে শক্তিশালী (pKa ~4.76)।",
+      "topic": "জৈব রসায়ন (অ্যাসিডিটি)",
+      "probability": "Conceptual Trap"
+    },
+    {
+      "questionNumber": 22,
+      "passage": null,
+      "questionText": "বেনজিন ও টলুইনের পৃথকীকরণ কোন পদ্ধতিতে করা হয়?",
+      "options": ["ক) আংশিক পাতন", "খ) ক্রোমাটোগ্রাফি", "গ) পৃথক ফানেল", "ঘ) উর্ধ্বপাতন"],
+      "correctOption": "ক",
+      "explanation": "স্ফুটনাঙ্কের পার্থক্য কম (বেনজিন 80°C, টলুইন 111°C), তাই আংশিক পাতন।",
+      "topic": "জৈব রসায়ন (পৃথকীকরণ)",
+      "probability": "Board Favourite"
+    },
+    {
+      "questionNumber": 23,
+      "passage": null,
+      "questionText": "ফেলিং বিকারক কোন আয়নের জটিল লবণ?",
+      "options": ["ক) Cu²⁺", "খ) Ag⁺", "গ) Fe³⁺", "ঘ) Zn²⁺"],
+      "correctOption": "ক",
+      "explanation": "ফেলিং দ্রবণ CuSO₄ ও KNa-টার্টারেটের ক্ষারীয় দ্রবণ।",
+      "topic": "জৈব রসায়ন (শনাক্তকরণ)",
+      "probability": "Very Hot"
+    },
+    {
+      "questionNumber": 24,
+      "passage": null,
+      "questionText": "নিচের কোনটি জৈব যৌগ নয়?",
+      "options": ["ক) ইউরিয়া", "খ) সোডিয়াম কার্বনেট", "গ) অ্যাসিটামাইড", "ঘ) ক্লোরোফর্ম"],
+      "correctOption": "খ",
+      "explanation": "Na₂CO₃ অজৈব যৌগ, বাকিগুলো জৈব।",
+      "topic": "জৈব রসায়ন (সংজ্ঞা)",
+      "probability": "Conceptual Trap"
+    },
+    {
+      "questionNumber": 25,
+      "passage": null,
+      "questionText": "অ্যালকোহলের আন্তঃআণবিক পানিবিয়োজন বিক্রিয়ায় উৎপন্ন হয়—",
+      "options": ["ক) অ্যালকিন", "খ) ইথার", "গ) অ্যালডিহাইড", "ঘ) কিটোন"],
+      "correctOption": "খ",
+      "explanation": "2R-OH → R-O-R + H₂O (উদাহরণ: ইথানল→ ডাইইথাইল ইথার)।",
+      "topic": "জৈব রসায়ন (অ্যালকোহল)",
+      "probability": "Board Favourite"
+    }
+  ]
+}

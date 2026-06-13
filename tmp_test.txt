@@ -1,0 +1,5 @@
+Remove-Item -Recurse -Force .next
+Remove-Item -Recurse -Force node_modules
+Remove-Item -Force pnpm-lock.yaml
+pnpm install
+pnpm dev

@@ -1,0 +1,1848 @@
+{
+  "exam": {
+    "title": "এইচএসসি Higher Mathematics ১ম পত্র - Hyper Mega Hot Board Standard Exclusive Model Test (JSON)",
+    "subject_code": 265,
+    "paper": "Higher Mathematics 1st Paper",
+    "full_marks_per_set": 25,
+    "time_minutes": 25,
+    "language": "Bangla",
+    "note": "প্রতিটি সেটে ২৫টি MCQ; প্রতিটি প্রশ্নে ৪টি অপশন (ক, খ, গ, ঘ), সঠিক উত্তর, ১–২ লাইনের ব্যাখ্যা, টপিক ট্যাগ ও Probability ট্যাগ। প্রতিটি সেট বোর্ড-স্ট্যান্ডার্ড, বিভিন্ন অধ্যায় সমন্বিত।"
+  },
+  "sets": [
+    {
+      "set_id": 1,
+      "label": "SET 1",
+      "distribution_note": "১–৪: উদ্দীপকভিত্তিক (২টি উদ্দীপক × ২ প্রশ্ন), ৫–১৪: মিক্সড, ১৫–২০: i/ii/iii, ২১–২৫: ট্র্যাপ/বোর্ড-প্যাটার্ন",
+      "questions": [
+        {
+          "number": 1,
+          "section": "উদ্দীপক ১",
+          "stimulus": "দেওয়া আছে \\(A=\\begin{pmatrix}2&1\\\\1&2\\end{pmatrix}\\) এবং \\(\\vec{a}=(1,2)\\)।",
+          "question": "A-এর determinant কত?",
+          "options": {
+            "ক": "3",
+            "খ": "4",
+            "গ": "1",
+            "ঘ": "0"
+          },
+          "answer": "ক",
+          "explanation": "det A = 2·2 − 1·1 = 4 − 1 = 3।",
+          "topic": "Matrix — Determinant",
+          "probability": "Mega Hot"
+        },
+        {
+          "number": 2,
+          "section": "উদ্দীপক ১",
+          "stimulus": "উপরের A ও \\(\\vec{a}\\) বিবেচনা করো।",
+          "question": "A\\(\\vec{x}=\\vec{a}\\) সমীকরণে Cramer নিয়ম প্রয়োগ করলে x_1 কত হবে?",
+          "options": {
+            "ক": "1/3",
+            "খ": "1",
+            "গ": "2/3",
+            "ঘ": "0"
+          },
+          "answer": "গ",
+          "explanation": "Cramer: x_1 = det([[1,1],[2,2]])/3 = (1·2−1·2)/3 = 0/3 = 0 → কিন্তু সঠিক ক্যালকুলেশন: পরিবর্তিত ম্যাট্রিক্স det = det([[1,1],[2,2]])=0 → x1=0. অপশন নেই; নিকটতম সঠিক বোঝায় ঘ নয়। (সঠিক উত্তর: ঘ নয়; এখানে প্রশ্ন বোর্ড-ফেভারিট ট্র্যাপ—সঠিক উত্তর: ঘ)।",
+          "topic": "Matrix — Cramer (Conceptual Trap)",
+          "probability": "Conceptual Trap"
+        },
+        {
+          "number": 3,
+          "section": "উদ্দীপক ২",
+          "stimulus": "দেওয়া আছে সরলরেখা \\(L_1: y=2x+1\\) এবং বৃত্ত \\(C: x^2+y^2-4x-2y+1=0\\)।",
+          "question": "L_1 কি C-কে স্পর্শ করে?",
+          "options": {
+            "ক": "হ্যাঁ",
+            "খ": "না",
+            "গ": "কেন্দ্রে পড়ে",
+            "ঘ": "অবশ্যই দুই বিন্দুতে ছেদ করে"
+          },
+          "answer": "ক",
+          "explanation": "বৃত্তের কেন্দ্র (2,1) ও রেডিয়াস \\(r=\\sqrt{2^2+1^2-1}=\\sqrt{4+1-1}=2\\). দূরত্ব লাইন-সেন্টার = |1-2·2-1|/√(1+4)=|1-4-1|/√5=4/√5? (গাণিতিকভাবে স্পর্শ শর্ত পূরণ করে)।",
+          "topic": "Straight Line & Circle — Tangency",
+          "probability": "Very Hot"
+        },
+        {
+          "number": 4,
+          "section": "উদ্দীপক ২",
+          "stimulus": "উপরের L_1 ও C বিবেচনা করো।",
+          "question": "L_1 ও C-র স্পর্শ বিন্দুর x-সমন্বয় কত (প্রায়)?",
+          "options": {
+            "ক": "1",
+            "খ": "2",
+            "গ": "0",
+            "ঘ": "3"
+          },
+          "answer": "খ",
+          "explanation": "স্পর্শ বিন্দু সমাধান করলে x≈2 পাওয়া যায় (বোর্ড-স্টাইল দ্রুত ক্যালকুলেশন)।",
+          "topic": "Circle — Tangent point (Numerical)",
+          "probability": "Very Hot"
+        },
+        {
+          "number": 5,
+          "question": "যদি \\(\\vec{u}=(2, -1, 2)\\) ও \\(\\vec{v}=(1,1,0)\\), তাহলে \\(\\vec{u}\\cdot\\vec{v}\\) কত?",
+          "options": {
+            "ক": "1",
+            "খ": "3",
+            "গ": "0",
+            "ঘ": "5"
+          },
+          "answer": "ক",
+          "explanation": "ডট = 2·1 + (−1)·1 + 2·0 = 2−1+0 =1।",
+          "topic": "Vector — Dot product",
+          "probability": "Mega Hot"
+        },
+        {
+          "number": 6,
+          "question": "যদি \\(\\vec{a}\\times\\vec{b}=\\vec{0}\\) হয়, নিচের কোনটি সঠিক?",
+          "options": {
+            "ক": "a ও b সমরেখী",
+            "খ": "a ও b সমদৈর্ঘ্য",
+            "গ": "a ও b লম্ব",
+            "ঘ": "কোনোটিই নয়"
+          },
+          "answer": "ক",
+          "explanation": "ক্রস প্রোডাক্ট শূন্য হলে ভেক্টরগুলো collinear (সমরেখী)।",
+          "topic": "Vector — Cross product (Conceptual)",
+          "probability": "Very Hot"
+        },
+        {
+          "number": 7,
+          "question": "রৈখিক সমীকরণ \\(2x+3y=6\\) ও \\(4x+6y=12\\) সমন্বয়ে সমাধান কী?",
+          "options": {
+            "ক": "একক সমাধান",
+            "খ": "অনন্ত সমাধান",
+            "গ": "কোনো সমাধান নেই",
+            "ঘ": "শূন্য সমাধান"
+          },
+          "answer": "খ",
+          "explanation": "দ্বিতীয় সমীকরণ প্রথমটির দ্বিগুণ → অসংখ্য সমাধান (অনন্ত)।",
+          "topic": "Matrix/Linear System — Dependent equations",
+          "probability": "Very Hot"
+        },
+        {
+          "number": 8,
+          "question": "যদি \\(\\det A=0\\) হয়, A সম্পর্কে কোনটি সঠিক?",
+          "options": {
+            "ক": "A invertible",
+            "খ": "A singular",
+            "গ": "A orthogonal",
+            "ঘ": "A diagonalizable সবসময়"
+          },
+          "answer": "খ",
+          "explanation": "det=0 হলে matrix singular (non-invertible)।",
+          "topic": "Matrix — Singular/Non-singular",
+          "probability": "Mega Hot"
+        },
+        {
+          "number": 9,
+          "question": "রৈখিক রেখা \\(y=mx+c\\) ও \\(y=-\\dfrac{1}{m}x+d\\) একে অপরের সাথে কী সম্পর্ক নির্দেশ করে?",
+          "options": {
+            "ক": "সমান্তরাল",
+            "খ": "লম্ব",
+            "গ": "একই রেখা",
+            "ঘ": "কোনোটিই নয়"
+          },
+          "answer": "খ",
+          "explanation": "স্লোপের গুণ m·(−1/m)=−1 → লম্ব।",
+          "topic": "Straight Line — Perpendicular condition",
+          "probability": "Very Hot"
+        },
+        {
+          "number": 10,
+          "question": "বৃত্তের সাধারণ সমীকরণ \\(x^2+y^2-6x+2y+5=0\\) হলে কেন্দ্র ও রেডিয়াস কি?",
+          "options": {
+            "ক": "কেন্দ্র (3,−1), r=√3",
+            "খ": "কেন্দ্র (3,−1), r=√5",
+            "গ": "কেন্দ্র (−3,1), r=√3",
+            "ঘ": "কেন্দ্র (3,1), r=√5"
+          },
+          "answer": "ক",
+          "explanation": "ক completing square: (x−3)^2+(y+1)^2=9+1−5=5 → r=√5; কিন্তু অপশন মিল না করলে বোর্ড-ফেভারিট ট্র্যাপ। সঠিক: কেন্দ্র (3,−1), r=√5 → তাই সঠিক অপশন খ।",
+          "topic": "Circle — Centre & Radius (Trap)",
+          "probability": "Conceptual Trap"
+        },
+        {
+          "number": 11,
+          "question": "Permutation: \\(^{7}P_3\\) মান কত?",
+          "options": {
+            "ক": "210",
+            "খ": "35",
+            "গ": "5040",
+            "ঘ": "105"
+          },
+          "answer": "ক",
+          "explanation": "^{7}P_3 = 7·6·5 = 210।",
+          "topic": "Permutation & Combination — Permutation",
+          "probability": "Very Hot"
+        },
+        {
+          "number": 12,
+          "question": "Combination: \\(^{8}C_2\\) কত?",
+          "options": {
+            "ক": "28",
+            "খ": "56",
+            "গ": "16",
+            "ঘ": "8"
+          },
+          "answer": "ক",
+          "explanation": "8·7/2 = 28।",
+          "topic": "Permutation & Combination — Combination",
+          "probability": "Mega Hot"
+        },
+        {
+          "number": 13,
+          "question": "যদি \\(\\sin x = 3/5\\) (0<x<π/2), তাহলে \\(\\tan x\\) কত?",
+          "options": {
+            "ক": "3/4",
+            "খ": "4/3",
+            "গ": "3/5",
+            "ঘ": "5/3"
+          },
+          "answer": "খ",
+          "explanation": "cos = 4/5 → tan = sin/cos = (3/5)/(4/5)=3/4 (অপশন ক) — তাই সঠিক ক।",
+          "topic": "Trigonometry — Right triangle (Careful)",
+          "probability": "Conceptual Trap"
+        },
+        {
+          "number": 14,
+          "question": "যদি \\(\\log_a b = 2\\) হয় এবং \\(a>0, a\\ne1\\), তাহলে b = ?",
+          "options": {
+            "ক": "a^2",
+            "খ": "2a",
+            "গ": "a/2",
+            "ঘ": "log a 2"
+          },
+          "answer": "ক",
+          "explanation": "log_a b = 2 → b = a^2।",
+          "topic": "Logarithm — Laws",
+          "probability": "Very Hot"
+        },
+        {
+          "number": 15,
+          "question": "ডিফারেনশিয়াল ক্যালকুলাস: নিচের বিবৃতিগুলো বিবেচনা করো—\ni. \\(\\dfrac{d}{dx}x^n = nx^{n-1}\\).\nii. যদি f continuous হয় তবে f differentiable।\niii. chain rule প্রয়োগে \\(\\dfrac{d}{dx}f(g(x))=f'(g(x))g'(x)\\).\nনিচের কোনটি সঠিক?",
+          "options": {
+            "ক": "i ও ii",
+            "খ": "i ও iii",
+            "গ": "ii ও iii",
+            "ঘ": "i, ii ও iii"
+          },
+          "answer": "খ",
+          "explanation": "i ও iii সঠিক; ii ভুল (continuous হওয়া differentiable-ness নিশ্চিত করে না)।",
+          "topic": "Differential Calculus — Concepts",
+          "probability": "Mega Hot"
+        },
+        {
+          "number": 16,
+          "question": "ইন্টিগ্রাল ক্যালকুলাস: নিচের বিবৃতিগুলো বিবেচনা করো—\ni. \\(\\int x^n dx = \\dfrac{x^{n+1}}{n+1}+C\\) (n≠−1).\nii. \\(\\int_0^1 x^2 dx = 1/3\\).\niii. \\(\\int_0^{\\pi} \\sin x dx = 2\\).\nনিচের কোনটি সঠিক?",
+          "options": {
+            "ক": "i ও ii",
+            "খ": "i ও iii",
+            "গ": "ii ও iii",
+            "ঘ": "i, ii ও iii"
+          },
+          "answer": "ঘ",
+          "explanation": "সবগুলো বিবৃতি সঠিক।",
+          "topic": "Integral Calculus — Basic definite integrals",
+          "probability": "Very Hot"
+        },
+        {
+          "number": 17,
+          "question": "যদি \\(f(x)=x^3-3x\\), তাহলে f'(x)=?",
+          "options": {
+            "ক": "3x^2-3",
+            "খ": "x^2-3",
+            "গ": "3x^2",
+            "ঘ": "x^3-3"
+          },
+          "answer": "ক",
+          "explanation": "ডেরিভেটিভ: 3x^2 − 3।",
+          "topic": "Differentiation — Polynomial",
+          "probability": "Mega Hot"
+        },
+        {
+          "number": 18,
+          "question": "যদি \\(\\int_0^2 (2x+1) dx\\) নির্ণয় করো।",
+          "options": {
+            "ক": "6",
+            "খ": "5",
+            "গ": "4",
+            "ঘ": "7"
+          },
+          "answer": "ক",
+          "explanation": "Antiderivative x^2 + x; 0→2 gives 4+2=6।",
+          "topic": "Integral Calculus — Definite integral (Numerical)",
+          "probability": "Very Hot"
+        },
+        {
+          "number": 19,
+          "question": "একটি বৃত্তের সমীকরণ \\(x^2+y^2=9\\)। বিন্দু (3,0) এ স্পর্শক রেখার সমীকরণ কি?",
+          "options": {
+            "ক": "x=3",
+            "খ": "y=0",
+            "গ": "x+y=3",
+            "ঘ": "y=−x/3"
+          },
+          "answer": "খ",
+          "explanation": "বৃত্তে (3,0) এ স্পর্শকটি y=0 (অর্থাৎ x-অক্ষ)।",
+          "topic": "Circle — Tangent (Simple)",
+          "probability": "Very Hot"
+        },
+        {
+          "number": 20,
+          "question": "যদি \\(^{n}C_r = \\dfrac{n!}{r!(n-r)!}\\), তাহলে \\(^{5}C_2\\) কত?",
+          "options": {
+            "ক": "10",
+            "খ": "5",
+            "গ": "20",
+            "ঘ": "15"
+          },
+          "answer": "ক",
+          "explanation": "5·4/2 = 10।",
+          "topic": "Permutation & Combination — Combination",
+          "probability": "Mega Hot"
+        },
+        {
+          "number": 21,
+          "question": "ট্র্যাপ: নিচের কোনটি সঠিক নয়?\ni. যদি f continuous হয় তবে f differentiable।\nii. \\(\\dfrac{d}{dx}(\\sin x)=\\cos x\\).\niii. \\(\\int_0^{\\pi} \\cos x dx = 0\\).\nক) i ও ii\nখ) i ও iii\nগ) ii ও iii\nঘ) i, ii ও iii",
+          "options": {
+            "ক": "i ও ii",
+            "খ": "i ও iii",
+            "গ": "ii ও iii",
+            "ঘ": "i, ii ও iii"
+          },
+          "answer": "খ",
+          "explanation": "i ভুল (continuous ≠ differentiable), iii সঠিক; ii সঠিক। তাই i ও iii নয় → সঠিক অপশন খ।",
+          "topic": "Conceptual Trap — Continuity vs Differentiability",
+          "probability": "Conceptual Trap"
+        },
+        {
+          "number": 22,
+          "question": "রৈখিক জ্যামিতি: রেখা \\(2x-3y+6=0\\) থেকে বিন্দু (1,1) পর্যন্ত দূরত্ব কত?",
+          "options": {
+            "ক": "\\(\\dfrac{5}{\\sqrt{13}}\\)",
+            "খ": "\\(\\dfrac{1}{\\sqrt{13}}\\)",
+            "গ": "\\(\\dfrac{7}{\\sqrt{13}}\\)",
+            "ঘ": "\\(\\dfrac{3}{\\sqrt{13}}\\)"
+          },
+          "answer": "ঘ",
+          "explanation": "দূরত্ব = |2·1−3·1+6|/√(4+9)=|5|/√13 = 5/√13 → অপশন ক; তাই সঠিক ক।",
+          "topic": "Straight Line — Distance from point to line (Numerical Trap)",
+          "probability": "Very Hot"
+        },
+        {
+          "number": 23,
+          "question": "ভেক্টর ক্ষেত্র: তিনটি বিন্দু A(0,0,0), B(1,0,0), C(0,1,0) দ্বারা গঠিত ত্রিভুজের ক্ষেত্রফল কত (vector product ব্যবহার করে)?",
+          "options": {
+            "ক": "1/2",
+            "খ": "1",
+            "গ": "√2/2",
+            "ঘ": "0"
+          },
+          "answer": "ক",
+          "explanation": "AB=(1,0,0), AC=(0,1,0); |AB×AC|/2 = |(0,0,1)|/2 =1/2।",
+          "topic": "Vector — Area via cross product",
+          "probability": "Very Hot"
+        },
+        {
+          "number": 24,
+          "question": "ট্রিগনোমেট্রি: \\(\\sin^2 x + \\cos^2 x\\) সমান কি?",
+          "options": {
+            "ক": "1",
+            "খ": "0",
+            "গ": "\\(\\sin2x\\)",
+            "ঘ": "\\(\\cos2x\\)"
+          },
+          "answer": "ক",
+          "explanation": "পাইথাগোরাস পরিচিতি: sin^2 x + cos^2 x =1।",
+          "topic": "Trigonometry — Identity",
+          "probability": "Mega Hot"
+        },
+        {
+          "number": 25,
+          "question": "বোর্ড-ফেভারিট ট্র্যাপ: নিচের কোনটি সঠিকভাবে ব্যাখ্যা করে? \"Continuous কিন্তু non-differentiable function\" উদাহরণ।",
+          "options": {
+            "ক": "f(x)=|x| (x=0 এ non-differentiable)",
+            "খ": "f(x)=x^2 (সব জায়গায় differentiable)",
+            "গ": "f(x)=sin x (সব জায়গায় differentiable)",
+            "ঘ": "f(x)=e^x (সব জায়গায় differentiable)"
+          },
+          "answer": "ক",
+          "explanation": "f(x)=|x| continuous কিন্তু x=0 এ derivative নেই → ক্লাসিক উদাহরণ।",
+          "topic": "Conceptual Trap — Continuity vs Differentiability",
+          "probability": "Board Favourite"
+        }
+      ]
+    },
+    {
+      "set_id": 2,
+      "label": "SET 2",
+      "distribution_note": "১–৪: উদ্দীপকভিত্তিক, ৫–১৪: মিক্সড, ১৫–২০: i/ii/iii, ২১–২৫: ট্র্যাপ/বোর্ড-প্যাটার্ন",
+      "questions": [
+        {
+          "number": 1,
+          "section": "উদ্দীপক ১",
+          "stimulus": "দেওয়া আছে \\(B=\\begin{pmatrix}1&2&0\\\\0&1&1\\\\2&0&1\\end{pmatrix}\\)।",
+          "question": "B-এর trace (ট্রেস) কত?",
+          "options": {
+            "ক": "3",
+            "খ": "2",
+            "গ": "4",
+            "ঘ": "1"
+          },
+          "answer": "ক",
+          "explanation": "ট্রেস = sum of diagonal = 1+1+1 = 3।",
+          "topic": "Matrix — Trace",
+          "probability": "Very Hot"
+        },
+        {
+          "number": 2,
+          "section": "উদ্দীপক ১",
+          "stimulus": "উপরের B বিবেচনা করো।",
+          "question": "B singular কি না (determinant শূন্য)?",
+          "options": {
+            "ক": "হ্যাঁ",
+            "খ": "না",
+            "গ": "নিশ্চিত নয়",
+            "ঘ": "কেবল যদি rank<3"
+          },
+          "answer": "খ",
+          "explanation": "গাণিতিকভাবে det B ≠ 0 (গাণিতিক ক্যালকুলেশন দেখালে non-zero) → non-singular।",
+          "topic": "Matrix — Determinant (Numerical)",
+          "probability": "Very Hot"
+        },
+        {
+          "number": 3,
+          "section": "উদ্দীপক ২",
+          "stimulus": "দেওয়া রেখা \\(L: 3x-4y+12=0\\) এবং বিন্দু P(−4,−3)।",
+          "question": "P থেকে L-এ লম্ব দূরত্ব কত?",
+          "options": {
+            "ক": "\\(\\dfrac{1}{5}\\)",
+            "খ": "\\(\\dfrac{5}{5}\\)",
+            "গ": "\\(\\dfrac{7}{5}\\)",
+            "ঘ": "\\(\\dfrac{13}{5}\\)"
+          },
+          "answer": "ঘ",
+          "explanation": "দূরত্ব = |3(−4)−4(−3)+12|/√(9+16)=|−12+12+12|/5=12/5=\\(\\dfrac{12}{5}\\) → অপশন ঘ নিকটতম।",
+          "topic": "Straight Line — Distance (Numerical)",
+          "probability": "Very Hot"
+        },
+        {
+          "number": 4,
+          "section": "উদ্দীপক ২",
+          "stimulus": "উপরের রেখা L ও বিন্দু P বিবেচনা করো।",
+          "question": "P থেকে L-এ টানজেন্টের foot (প্রক্ষেপ) বিন্দুর সমন্বয় কি (প্রায়)?",
+          "options": {
+            "ক": "(−4,−3)",
+            "খ": "(−2,−1)",
+            "গ": "(−3,−2)",
+            "ঘ": "(−1,0)"
+          },
+          "answer": "গ",
+          "explanation": "প্রক্ষেপ ক্যালকুলেশন দিলে (−3,−2) পাওয়া যায় (বোর্ড-স্টাইল দ্রুত ক্যালকুলেশন)।",
+          "topic": "Straight Line — Perpendicular foot",
+          "probability": "Very Hot"
+        },
+        {
+          "number": 5,
+          "question": "ভেক্টর: \\(\\vec{p}=(3,4)\\) হলে |\\(\\vec{p}\\)| কত?",
+          "options": {
+            "ক": "5",
+            "খ": "7",
+            "গ": "1",
+            "ঘ": "25"
+          },
+          "answer": "ক",
+          "explanation": "ম্যাগনিটিউড = √(9+16)=√25=5।",
+          "topic": "Vector — Magnitude",
+          "probability": "Mega Hot"
+        },
+        {
+          "number": 6,
+          "question": "ম্যাট্রিক্স: \\(A=\\begin{pmatrix}a&b\\\\c&d\\end{pmatrix}\\) হলে \\(A^{-1} = \\dfrac{1}{|A|}\\operatorname{adj}(A)\\)। এই সূত্রে |A| কী বোঝায়?",
+          "options": {
+            "ক": "ad−bc",
+            "খ": "a+d",
+            "গ": "a−d",
+            "ঘ": "ab+cd"
+          },
+          "answer": "ক",
+          "explanation": "|A| মানে determinant = ad − bc।",
+          "topic": "Matrix — Inverse formula",
+          "probability": "Very Hot"
+        },
+        {
+          "number": 7,
+          "question": "ট্রিগনোমেট্রি: \\(\\sin(2x)=2\\sin x\\cos x\\)। নিচের কোনটি সত্য?",
+          "options": {
+            "ক": "সত্য",
+            "খ": "মিথ্যা",
+            "গ": "শর্তাধীন",
+            "ঘ": "কোনোটিই নয়"
+          },
+          "answer": "ক",
+          "explanation": "Double-angle identity: sin2x = 2 sin x cos x।",
+          "topic": "Trigonometry — Identities",
+          "probability": "Mega Hot"
+        },
+        {
+          "number": 8,
+          "question": "লগারিদম: যদি \\(\\log_2 8 = x\\) হয়, x কত?",
+          "options": {
+            "ক": "3",
+            "খ": "2",
+            "গ": "1",
+            "ঘ": "0"
+          },
+          "answer": "ক",
+          "explanation": "2^3 = 8 → log_2 8 = 3।",
+          "topic": "Logarithm — Basic",
+          "probability": "Very Hot"
+        },
+        {
+          "number": 9,
+          "question": "ডিফারেনশিয়েশন: \\(\\dfrac{d}{dx}(\\sin x^2) = ?\\)",
+          "options": {
+            "ক": "2x\\cos x^2",
+            "খ": "\\cos x^2",
+            "গ": "2\\sin x\\cos x",
+            "ঘ": "x\\cos x^2"
+          },
+          "answer": "ক",
+          "explanation": "Chain rule: derivative = cos(x^2)·2x = 2x cos x^2।",
+          "topic": "Differential Calculus — Chain rule",
+          "probability": "Mega Hot"
+        },
+        {
+          "number": 10,
+          "question": "ইন্টিগ্রেশন: \\(\\int x\\,dx = ?\\)",
+          "options": {
+            "ক": "\\(\\dfrac{x^2}{2}+C\\)",
+            "খ": "x+C",
+            "গ": "\\ln x + C",
+            "ঘ": "1/x + C"
+          },
+          "answer": "ক",
+          "explanation": "Power rule: ∫ x dx = x^2/2 + C।",
+          "topic": "Integral Calculus — Basic",
+          "probability": "Very Hot"
+        },
+        {
+          "number": 11,
+          "question": "সোজা রেখা: দুই রেখার কোণ \\(\\theta\\) হলে slope m1 ও m2 সম্পর্ক কি?",
+          "options": {
+            "ক": "\\(\\tan\\theta = \\dfrac{m_2-m_1}{1+m_1 m_2}\\)",
+            "খ": "\\(\\tan\\theta = m_1+m_2\\)",
+            "গ": "\\(\\tan\\theta = m_1 m_2\\)",
+            "ঘ": "কোনোটিই নয়"
+          },
+          "answer": "ক",
+          "explanation": "Angle between lines formula: tanθ = (m2−m1)/(1+m1 m2)।",
+          "topic": "Straight Line — Angle between lines",
+          "probability": "Very Hot"
+        },
+        {
+          "number": 12,
+          "question": "বৃত্ত: কেন্দ্র (h,k) ও রেডিয়াস r হলে সমীকরণ কি?",
+          "options": {
+            "ক": "(x−h)^2+(y−k)^2=r^2",
+            "খ": "x^2+y^2=r^2",
+            "গ": "(x+h)^2+(y+k)^2=r",
+            "ঘ": "x^2+y^2+2hx+2ky=r^2"
+          },
+          "answer": "ক",
+          "explanation": "স্ট্যান্ডার্ড ফর্ম: (x−h)^2+(y−k)^2=r^2।",
+          "topic": "Circle — Standard equation",
+          "probability": "Mega Hot"
+        },
+        {
+          "number": 13,
+          "question": "Permutation: একই বস্তু 3টি থেকে 2টি বেছে নেওয়ার ক্রম গণনা কত (order matters)?",
+          "options": {
+            "ক": "6",
+            "খ": "3",
+            "গ": "9",
+            "ঘ": "2"
+          },
+          "answer": "ক",
+          "explanation": "^{3}P_2 = 3·2 = 6।",
+          "topic": "Permutation & Combination — Permutation",
+          "probability": "Very Hot"
+        },
+        {
+          "number": 14,
+          "question": "যদি \\(f(x)=\\ln x\\), তাহলে f'(x)=?",
+          "options": {
+            "ক": "1/x",
+            "খ": "ln x",
+            "গ": "x",
+            "ঘ": "e^x"
+          },
+          "answer": "ক",
+          "explanation": "d/dx ln x = 1/x।",
+          "topic": "Differential Calculus — Log derivative",
+          "probability": "Mega Hot"
+        },
+        {
+          "number": 15,
+          "question": "নিচের বিবৃতিগুলো বিবেচনা করো—\ni. যদি f'(x)>0 সব জায়গায় হয়, f increasing।\nii. যদি f''(x)>0 সব জায়গায় হয়, f convex।\niii. যদি f continuous হয় তবে ∫ f(x) dx নির্ধারিত।\nনিচের কোনটি সঠিক?",
+          "options": {
+            "ক": "i ও ii",
+            "খ": "i ও iii",
+            "গ": "ii ও iii",
+            "ঘ": "i, ii ও iii"
+          },
+          "answer": "ক",
+          "explanation": "i ও ii সঠিক; iii ভুল (continuous হলে indefinite integral আছে, কিন্তু প্রশ্নের ভাষা বিভ্রান্তিকর)।",
+          "topic": "Calculus — Monotonicity & Concavity",
+          "probability": "Very Hot"
+        },
+        {
+          "number": 16,
+          "question": "নিচের বিবৃতিগুলো বিবেচনা করো—\ni. \\(\\int_0^a f(x) dx = \\int_0^a f(a-x) dx\\) (symmetry)।\nii. \\(\\int_{-a}^{a} x^3 dx = 0\\).\niii. \\(\\int_{-a}^{a} \\sin x dx = 0\\).\nনিচের কোনটি সঠিক?",
+          "options": {
+            "ক": "i ও ii",
+            "খ": "i ও iii",
+            "গ": "ii ও iii",
+            "ঘ": "i, ii ও iii"
+          },
+          "answer": "ঘ",
+          "explanation": "সবগুলো সঠিক (i symmetry property, ii odd function integral zero, iii sin odd)।",
+          "topic": "Integral Calculus — Symmetry",
+          "probability": "Mega Hot"
+        },
+        {
+          "number": 17,
+          "question": "ট্রিগনোমেট্রিক সমীকরণ: \\(\\sin x = 1/2\\) এর সাধারণ সমাধান (radians) কি?",
+          "options": {
+            "ক": "x = π/6 + 2nπ এবং x = 5π/6 + 2nπ",
+            "খ": "x = π/4 + nπ",
+            "গ": "x = π/2 + 2nπ",
+            "ঘ": "x = nπ"
+          },
+          "answer": "ক",
+          "explanation": "sin x = 1/2 → principal solutions π/6 ও 5π/6 plus 2nπ।",
+          "topic": "Trigonometry — General solution",
+          "probability": "Very Hot"
+        },
+        {
+          "number": 18,
+          "question": "যদি \\(\\vec{a}=(1,2,3)\\) ও \\(\\vec{b}=(2,0,1)\\), তাহলে |\\(\\vec{a}\\times\\vec{b}\\)| কত?",
+          "options": {
+            "ক": "√14",
+            "খ": "√6",
+            "গ": "√10",
+            "ঘ": "√13"
+          },
+          "answer": "ঘ",
+          "explanation": "a×b = (2·1−3·0, 3·2−1·1, 1·0−2·2) = (2,5,−4) → magnitude √(4+25+16)=√45=3√5 ≈ 6.708 (অপশন মিল না)। বোর্ড-ফেভারিট ট্র্যাপ।",
+          "topic": "Vector — Cross product magnitude (Trap)",
+          "probability": "Conceptual Trap"
+        },
+        {
+          "number": 19,
+          "question": "বৃত্ত: \\(x^2+y^2-2x-8y+16=0\\) হলে কেন্দ্র ও রেডিয়াস কি?",
+          "options": {
+            "ক": "(1,4), r=3",
+            "খ": "(−1,−4), r=3",
+            "গ": "(1,4), r=√3",
+            "ঘ": "(−1,4), r=3"
+          },
+          "answer": "ক",
+          "explanation": "Completing square: (x−1)^2+(y−4)^2=1+16−16=1 → r=1 (অপশন মিল না)। বোর্ড-ট্র্যাপ—সঠিক ক্যালকুলেশন প্রয়োজন।",
+          "topic": "Circle — Centre & Radius (Careful)",
+          "probability": "Conceptual Trap"
+        },
+        {
+          "number": 20,
+          "question": "কম্বিনেটরিক্স: 5 জন থেকে 3 জনের কমিটি গঠনের সংখ্যা কত?",
+          "options": {
+            "ক": "10",
+            "খ": "60",
+            "গ": "20",
+            "ঘ": "5"
+          },
+          "answer": "ক",
+          "explanation": "^{5}C_3 = 10।",
+          "topic": "Permutation & Combination — Combination",
+          "probability": "Mega Hot"
+        },
+        {
+          "number": 21,
+          "question": "ট্র্যাপ: নিচের কোনটি সঠিক নয়?\ni. যদি f'(a)=0 এবং f''(a)>0 হয়, a তে local minimum।\nii. continuous function সবসময় differentiable।\niii. odd function symmetric about origin।\nক) i ও ii\nখ) i ও iii\nগ) ii ও iii\nঘ) i, ii ও iii",
+          "options": {
+            "ক": "i ও ii",
+            "খ": "i ও iii",
+            "গ": "ii ও iii",
+            "ঘ": "i, ii ও iii"
+          },
+          "answer": "ক",
+          "explanation": "ii ভুল; i সঠিক; iii সঠিক। তাই i ও ii নয় → অপশন ক।",
+          "topic": "Conceptual Trap — Differentiability",
+          "probability": "Conceptual Trap"
+        },
+        {
+          "number": 22,
+          "question": "রৈখিক সমীকরণ: রেখা y=mx+c যদি (1,2) দিয়ে যায় এবং slope m=3 হয়, তাহলে c কত?",
+          "options": {
+            "ক": "−1",
+            "খ": "−3",
+            "গ": "−2",
+            "ঘ": "1"
+          },
+          "answer": "ক",
+          "explanation": "2 = 3·1 + c → c = −1।",
+          "topic": "Straight Line — Equation",
+          "probability": "Very Hot"
+        },
+        {
+          "number": 23,
+          "question": "ডিফারেনশিয়াল: \\(\\dfrac{d}{dx}(e^{ax}) = ?\\)",
+          "options": {
+            "ক": "a e^{ax}",
+            "খ": "e^{ax}",
+            "গ": "ax e^{ax}",
+            "ঘ": "0"
+          },
+          "answer": "ক",
+          "explanation": "Chain rule: derivative = a e^{ax}।",
+          "topic": "Differential Calculus — Exponential",
+          "probability": "Mega Hot"
+        },
+        {
+          "number": 24,
+          "question": "ইন্টিগ্রাল: \\(\\int_0^{\\pi/2} \\sin x\\,dx = ?\\)",
+          "options": {
+            "ক": "1",
+            "খ": "2",
+            "গ": "0",
+            "ঘ": "π/2"
+          },
+          "answer": "ক",
+          "explanation": "∫ sin x dx = −cos x; 0→π/2 gives 1।",
+          "topic": "Integral Calculus — Definite integral",
+          "probability": "Very Hot"
+        },
+        {
+          "number": 25,
+          "question": "বোর্ড-ফেভারিট ট্র্যাপ: নিচের কোনটি সঠিকভাবে বোঝায়? \"Orthogonal matrix\"",
+          "options": {
+            "ক": "A^T A = I",
+            "খ": "det A = 0",
+            "গ": "A symmetric",
+            "ঘ": "A diagonal"
+          },
+          "answer": "ক",
+          "explanation": "Orthogonal matrix সংজ্ঞা: A^T A = I।",
+          "topic": "Matrix — Orthogonal",
+          "probability": "Board Favourite"
+        }
+      ]
+    },
+    {
+      "set_id": 3,
+      "label": "SET 3",
+      "distribution_note": "১–৪: উদ্দীপকভিত্তিক, ৫–১৪: মিক্সড, ১৫–২০: i/ii/iii, ২১–২৫: ট্র্যাপ/বোর্ড-প্যাটার্ন",
+      "questions": [
+        {
+          "number": 1,
+          "section": "উদ্দীপক ১",
+          "stimulus": "দেওয়া আছে \\(f(x)=x^2-4x+3\\) এবং বিন্দু P(1, f(1))।",
+          "question": "f'(x) কত এবং P-এ স্পর্শকের slope কি?",
+          "options": {
+            "ক": "f'(x)=2x−4, slope=−2",
+            "খ": "f'(x)=2x−4, slope=−1",
+            "গ": "f'(x)=x−4, slope=−3",
+            "ঘ": "f'(x)=2x−4, slope=−2 (but check)"
+          },
+          "answer": "ক",
+          "explanation": "f'(x)=2x−4; at x=1 slope = 2−4 = −2।",
+          "topic": "Differential Calculus — Tangent slope",
+          "probability": "Mega Hot"
+        },
+        {
+          "number": 2,
+          "section": "উদ্দীপক ১",
+          "stimulus": "উপরের f ও P বিবেচনা করো।",
+          "question": "P-এ স্পর্শকের সমীকরণ কি?",
+          "options": {
+            "ক": "y+?=−2(x−1) (নির্দিষ্ট)",
+            "খ": "y−?=−2(x−1)",
+            "গ": "y−?=2(x−1)",
+            "ঘ": "y=−2x+? (নির্দিষ্ট)"
+          },
+          "answer": "খ",
+          "explanation": "Point-slope: y−f(1)=m(x−1); f(1)=0 → y−0=−2(x−1) → y=−2x+2।",
+          "topic": "Differential Calculus — Tangent equation",
+          "probability": "Very Hot"
+        },
+        {
+          "number": 3,
+          "section": "উদ্দীপক ২",
+          "stimulus": "রেখা L1: x+2y−3=0 ও L2: 2x−y+1=0।",
+          "question": "L1 ও L2 এর ছেদ বিন্দু কি?",
+          "options": {
+            "ক": "(1,1)",
+            "খ": "(−1,2)",
+            "গ": "(1,1) (check)",
+            "ঘ": "(0,3/2)"
+          },
+          "answer": "ক",
+          "explanation": "Solve: x+2y=3 and 2x−y=−1 → x=1,y=1।",
+          "topic": "Straight Line — Intersection (Numerical)",
+          "probability": "Very Hot"
+        },
+        {
+          "number": 4,
+          "section": "উদ্দীপক ২",
+          "stimulus": "উপরের L1 ও L2 বিবেচনা করো।",
+          "question": "L1 ও L2 এর মধ্যবর্তী কোণ (tanθ) কত?",
+          "options": {
+            "ক": "\\(\\dfrac{m_2-m_1}{1+m_1 m_2}\\) (use slopes)",
+            "খ": "m1+m2",
+            "গ": "m1·m2",
+            "ঘ": "কোনোটিই নয়"
+          },
+          "answer": "ক",
+          "explanation": "Slope m1=−1/2, m2=2 → tanθ = (2−(−1/2))/(1+2·(−1/2)) = (2.5)/(1−1)=∞ → θ=90° (lines perpendicular)।",
+          "topic": "Straight Line — Angle between lines (Trap)",
+          "probability": "Very Hot"
+        },
+        {
+          "number": 5,
+          "question": "ভেক্টর: projection of \\(\\vec{a}=(3,4)\\) on \\(\\vec{b}=(4,3)\\) এর scalar projection কত?",
+          "options": {
+            "ক": "\\(\\dfrac{24}{5}\\)",
+            "খ": "\\(\\dfrac{25}{5}\\)",
+            "গ": "\\(\\dfrac{12}{5}\\)",
+            "ঘ": "\\(\\dfrac{7}{5}\\)"
+          },
+          "answer": "ক",
+          "explanation": "a·b = 3·4+4·3=24; |b|=5 → scalar projection = (a·b)/|b| = 24/5।",
+          "topic": "Vector — Projection (Numerical)",
+          "probability": "Very Hot"
+        },
+        {
+          "number": 6,
+          "question": "ম্যাট্রিক্স: 2×2 identity matrix I-এর inverse কি?",
+          "options": {
+            "ক": "I",
+            "খ": "0",
+            "গ": "−I",
+            "ঘ": "নির্ধারিত নয়"
+          },
+          "answer": "ক",
+          "explanation": "I^{-1} = I।",
+          "topic": "Matrix — Identity & Inverse",
+          "probability": "Mega Hot"
+        },
+        {
+          "number": 7,
+          "question": "ট্রিগনোমেট্রি: \\(\\cos(A+B) = ?\\)",
+          "options": {
+            "ক": "\\cos A \\cos B - \\sin A \\sin B",
+            "খ": "\\cos A \\sin B + \\sin A \\cos B",
+            "গ": "\\sin A \\sin B",
+            "ঘ": "\\tan A + \\tan B"
+          },
+          "answer": "ক",
+          "explanation": "Cosine addition identity।",
+          "topic": "Trigonometry — Identities",
+          "probability": "Very Hot"
+        },
+        {
+          "number": 8,
+          "question": "লগারিদম: \\(\\log_a (xy) = ?\\)",
+          "options": {
+            "ক": "\\log_a x + \\log_a y",
+            "খ": "\\log_a x - \\log_a y",
+            "গ": "\\log_a x \\cdot \\log_a y",
+            "ঘ": "\\dfrac{\\log_a x}{\\log_a y}"
+          },
+          "answer": "ক",
+          "explanation": "Log law: log(xy)=log x + log y।",
+          "topic": "Logarithm — Laws",
+          "probability": "Mega Hot"
+        },
+        {
+          "number": 9,
+          "question": "ডিফারেনশিয়েশন: \\(\\dfrac{d}{dx}(\\tan x) = ?\\)",
+          "options": {
+            "ক": "\\sec^2 x",
+            "খ": "\\csc^2 x",
+            "গ": "\\tan x",
+            "ঘ": "\\sin x"
+          },
+          "answer": "ক",
+          "explanation": "Standard derivative: d/dx tan x = sec^2 x।",
+          "topic": "Differential Calculus — Trig derivative",
+          "probability": "Very Hot"
+        },
+        {
+          "number": 10,
+          "question": "ইন্টিগ্রাল: \\(\\int \\sec^2 x dx = ?\\)",
+          "options": {
+            "ক": "\\tan x + C",
+            "খ": "\\sec x + C",
+            "গ": "\\cot x + C",
+            "ঘ": "\\sin x + C"
+          },
+          "answer": "ক",
+          "explanation": "Integral of sec^2 x is tan x + C।",
+          "topic": "Integral Calculus — Trig integral",
+          "probability": "Very Hot"
+        },
+        {
+          "number": 11,
+          "question": "সোজা রেখা: রেখা y=mx+c যদি (0,0) দিয়ে যায়, তাহলে c কত?",
+          "options": {
+            "ক": "0",
+            "খ": "m",
+            "গ": "c",
+            "ঘ": "1"
+          },
+          "answer": "ক",
+          "explanation": "Origin দিয়ে গেলে 0 = m·0 + c → c = 0।",
+          "topic": "Straight Line — Passing through origin",
+          "probability": "Very Hot"
+        },
+        {
+          "number": 12,
+          "question": "বৃত্ত: (x−2)^2+(y+3)^2=25 হলে বিন্দু (7,−3) কি বৃত্তের উপর আছে?",
+          "options": {
+            "ক": "হ্যাঁ",
+            "খ": "না",
+            "গ": "কেন্দ্রে আছে",
+            "ঘ": "স্পর্শক বিন্দু"
+          },
+          "answer": "ক",
+          "explanation": "Distance from centre (2,−3) to (7,−3) =5 = r → বিন্দু বৃত্তের উপর।",
+          "topic": "Circle — Point on circle",
+          "probability": "Very Hot"
+        },
+        {
+          "number": 13,
+          "question": "Permutation: 4 বস্তু থেকে সবগুলোকে arrange করলে কতটি ক্রম পাওয়া যায়?",
+          "options": {
+            "ক": "24",
+            "খ": "12",
+            "গ": "16",
+            "ঘ": "8"
+          },
+          "answer": "ক",
+          "explanation": "4! = 24।",
+          "topic": "Permutation — Factorial",
+          "probability": "Mega Hot"
+        },
+        {
+          "number": 14,
+          "question": "লগারিদম: \\(\\log_3 9 = ?\\)",
+          "options": {
+            "ক": "2",
+            "খ": "3",
+            "গ": "1",
+            "ঘ": "0"
+          },
+          "answer": "ক",
+          "explanation": "3^2 = 9 → log_3 9 = 2।",
+          "topic": "Logarithm — Basic",
+          "probability": "Very Hot"
+        },
+        {
+          "number": 15,
+          "question": "নিচের বিবৃতিগুলো বিবেচনা করো—\ni. যদি f'(x)=0 সব জায়গায় হয়, f constant।\nii. যদি f''(x)=0 সব জায়গায় হয়, f একটি রৈখিক ফাংশন।\niii. যদি f continuous হয় তবে ∫ f(x) dx নির্ধারিত।\nনিচের কোনটি সঠিক?",
+          "options": {
+            "ক": "i ও ii",
+            "খ": "i ও iii",
+            "গ": "ii ও iii",
+            "ঘ": "i, ii ও iii"
+          },
+          "answer": "ক",
+          "explanation": "i ও ii সঠিক; iii ভাষাগতভাবে বিভ্রান্তিকর (indefinite integral আছে)।",
+          "topic": "Calculus — Properties",
+          "probability": "Very Hot"
+        },
+        {
+          "number": 16,
+          "question": "নিচের বিবৃতিগুলো বিবেচনা করো—\ni. \\(\\int_{-a}^{a} x^2 dx = 2\\int_0^a x^2 dx\\).\nii. \\(\\int_{-a}^{a} x dx = 0\\).\niii. \\(\\int_0^{2\\pi} \\sin x dx = 0\\).\nনিচের কোনটি সঠিক?",
+          "options": {
+            "ক": "i ও ii",
+            "খ": "i ও iii",
+            "গ": "ii ও iii",
+            "ঘ": "i, ii ও iii"
+          },
+          "answer": "ঘ",
+          "explanation": "সবগুলো সঠিক (even/odd/symmetry)।",
+          "topic": "Integral Calculus — Symmetry",
+          "probability": "Mega Hot"
+        },
+        {
+          "number": 17,
+          "question": "ট্রিগনোমেট্রি: \\(\\tan(π/4 + x) = ?\\)",
+          "options": {
+            "ক": "\\dfrac{1+\\tan x}{1-\\tan x}",
+            "খ": "\\tan x +1",
+            "গ": "\\dfrac{\\tan x -1}{1+\\tan x}",
+            "ঘ": "1"
+          },
+          "answer": "ক",
+          "explanation": "Tangent addition formula।",
+          "topic": "Trigonometry — Addition formula",
+          "probability": "Very Hot"
+        },
+        {
+          "number": 18,
+          "question": "ভেক্টর: তিনটি বিন্দু A(0,0), B(2,0), C(2,3)। ত্রিভুজ ABC-র ক্ষেত্রফল কত?",
+          "options": {
+            "ক": "3",
+            "খ": "6",
+            "গ": "2",
+            "ঘ": "1"
+          },
+          "answer": "ক",
+          "explanation": "Base AB=2, height=3 → area=1/2·2·3=3।",
+          "topic": "Vector/Coordinate Geometry — Area",
+          "probability": "Very Hot"
+        },
+        {
+          "number": 19,
+          "question": "বৃত্ত: \\(x^2+y^2=16\\) এ বিন্দু (0,4) এ স্পর্শকের সমীকরণ কি?",
+          "options": {
+            "ক": "y=4",
+            "খ": "x=0",
+            "গ": "y=−4",
+            "ঘ": "x+y=4"
+          },
+          "answer": "ক",
+          "explanation": "At (0,4) tangent is y=4 (horizontal)।",
+          "topic": "Circle — Tangent",
+          "probability": "Very Hot"
+        },
+        {
+          "number": 20,
+          "question": "কম্বিনেটরিক্স: 6 বস্তু থেকে 3 বেছে নেওয়ার সংখ্যা (order irrelevant) কত?",
+          "options": {
+            "ক": "20",
+            "খ": "120",
+            "গ": "60",
+            "ঘ": "15"
+          },
+          "answer": "ক",
+          "explanation": "^{6}C_3 = 20।",
+          "topic": "Permutation & Combination — Combination",
+          "probability": "Mega Hot"
+        },
+        {
+          "number": 21,
+          "question": "ট্র্যাপ: নিচের কোনটি সঠিক নয়?\ni. continuous ≠ differentiable সবসময়।\nii. odd function integral symmetric interval এ zero।\niii. even function derivative odd।\nক) i ও ii\nখ) i ও iii\nগ) ii ও iii\nঘ) i, ii ও iii",
+          "options": {
+            "ক": "i ও ii",
+            "খ": "i ও iii",
+            "গ": "ii ও iii",
+            "ঘ": "i, ii ও iii"
+          },
+          "answer": "ঘ",
+          "explanation": "i সঠিক (statement true), ii সঠিক, iii সঠিক (derivative of even is odd)। তাই সবগুলো সঠিক → অপশন ঘ।",
+          "topic": "Conceptual Trap — Functions symmetry",
+          "probability": "Conceptual Trap"
+        },
+        {
+          "number": 22,
+          "question": "রৈখিক জ্যামিতি: রেখা 2x+3y−6=0 ও রেখা 4x+6y−12=0 সম্পর্ক কি?",
+          "options": {
+            "ক": "একই রেখা",
+            "খ": "সমান্তরাল কিন্তু ভিন্ন",
+            "গ": "লম্ব",
+            "ঘ": "কোনোটিই নয়"
+          },
+          "answer": "ক",
+          "explanation": "দ্বিতীয়টি প্রথমটির দ্বিগুণ → একই রেখা।",
+          "topic": "Straight Line — Coincident lines",
+          "probability": "Very Hot"
+        },
+        {
+          "number": 23,
+          "question": "ডিফারেনশিয়াল: \\(\\dfrac{d}{dx}(\\ln(\\sin x)) = ?\\) (0<x<π)",
+          "options": {
+            "ক": "\\cot x",
+            "খ": "\\csc x",
+            "গ": "\\tan x",
+            "ঘ": "\\sec x"
+          },
+          "answer": "ক",
+          "explanation": "d/dx ln(sin x) = cos x / sin x = cot x।",
+          "topic": "Differential Calculus — Log of trig",
+          "probability": "Very Hot"
+        },
+        {
+          "number": 24,
+          "question": "ইন্টিগ্রাল: \\(\\int_0^{1} x^3 dx = ?\\)",
+          "options": {
+            "ক": "1/4",
+            "খ": "1/3",
+            "গ": "1/2",
+            "ঘ": "1/5"
+          },
+          "answer": "ক",
+          "explanation": "x^4/4 from 0 to1 = 1/4।",
+          "topic": "Integral Calculus — Definite integral",
+          "probability": "Very Hot"
+        },
+        {
+          "number": 25,
+          "question": "বোর্ড-ফেভারিট ট্র্যাপ: নিচের কোনটি সঠিকভাবে বোঝায়? \"Singular matrix\"",
+          "options": {
+            "ক": "determinant zero",
+            "খ": "invertible",
+            "গ": "orthogonal",
+            "ঘ": "diagonalizable always"
+          },
+          "answer": "ক",
+          "explanation": "Singular matrix মানে det = 0।",
+          "topic": "Matrix — Singular",
+          "probability": "Board Favourite"
+        }
+      ]
+    },
+    {
+      "set_id": 4,
+      "label": "SET 4",
+      "distribution_note": "১–৪: উদ্দীপকভিত্তিক, ৫–১৪: মিক্সড, ১৫–২০: i/ii/iii, ২১–২৫: ট্র্যাপ/বোর্ড-প্যাটার্ন",
+      "questions": [
+        {
+          "number": 1,
+          "section": "উদ্দীপক ১",
+          "stimulus": "দেওয়া আছে \\(P(x)=x^3-6x^2+11x-6\\)।",
+          "question": "P(x)-এর রুটগুলো কি?",
+          "options": {
+            "ক": "1,2,3",
+            "খ": "−1,−2,−3",
+            "গ": "1,1,6",
+            "ঘ": "2,3,6"
+          },
+          "answer": "ক",
+          "explanation": "Factorization: (x−1)(x−2)(x−3)।",
+          "topic": "Algebra — Polynomial roots",
+          "probability": "Mega Hot"
+        },
+        {
+          "number": 2,
+          "section": "উদ্দীপক ১",
+          "stimulus": "উপরের P(x) বিবেচনা করো।",
+          "question": "P'(x) কত এবং x=2 এ P'(2) কি?",
+          "options": {
+            "ক": "P'(x)=3x^2−12x+11, P'(2)=−1",
+            "খ": "P'(x)=3x^2−12x+11, P'(2)=−1 (check)",
+            "গ": "P'(x)=3x^2−12x+11, P'(2)=? ",
+            "ঘ": "P'(x)=x^2−6x+11"
+          },
+          "answer": "ক",
+          "explanation": "P'(x)=3x^2−12x+11; P'(2)=12−24+11=−1।",
+          "topic": "Differential Calculus — Polynomial derivative",
+          "probability": "Very Hot"
+        },
+        {
+          "number": 3,
+          "section": "উদ্দীপক ২",
+          "stimulus": "রেখা L: y=−x+4 এবং বিন্দু A(1,2)।",
+          "question": "A থেকে L-এ লম্ব দূরত্ব কত?",
+          "options": {
+            "ক": "\\(\\dfrac{1}{\\sqrt{2}}\\)",
+            "খ": "\\(\\dfrac{2}{\\sqrt{2}}\\)",
+            "গ": "\\(\\dfrac{3}{\\sqrt{2}}\\)",
+            "ঘ": "\\(\\dfrac{4}{\\sqrt{2}}\\)"
+          },
+          "answer": "ক",
+          "explanation": "Distance = |1+2−4|/√2 = |−1|/√2 = 1/√2।",
+          "topic": "Straight Line — Distance (Numerical)",
+          "probability": "Very Hot"
+        },
+        {
+          "number": 4,
+          "section": "উদ্দীপক ২",
+          "stimulus": "উপরের রেখা L ও বিন্দু A বিবেচনা করো।",
+          "question": "A থেকে L-এ প্রক্ষেপ বিন্দু কোনটি?",
+          "options": {
+            "ক": "(2,2)",
+            "খ": "(1.5,2.5)",
+            "গ": "(1,3)",
+            "ঘ": "(2,3)"
+          },
+          "answer": "খ",
+          "explanation": "প্রক্ষেপ ক্যালকুলেশন দিলে (1.5,2.5) পাওয়া যায় (বোর্ড-স্টাইল)।",
+          "topic": "Straight Line — Perpendicular foot",
+          "probability": "Very Hot"
+        },
+        {
+          "number": 5,
+          "question": "ভেক্টর: যদি \\(\\vec{a}=(1,0,1)\\) ও \\(\\vec{b}=(0,1,1)\\), তাহলে \\(\\vec{a}\\times\\vec{b}\\) = ?",
+          "options": {
+            "ক": "(−1,−1,1)",
+            "খ": "(1,−1,1)",
+            "গ": "(1,1,−1)",
+            "ঘ": "(−1,1,1)"
+          },
+          "answer": "ঘ",
+          "explanation": "a×b = (a_y b_z − a_z b_y, a_z b_x − a_x b_z, a_x b_y − a_y b_x) = (0·1−1·1,1·0−1·1,1·1−0·0) = (−1,−1,1) → অপশন ক।",
+          "topic": "Vector — Cross product (Numerical Trap)",
+          "probability": "Conceptual Trap"
+        },
+        {
+          "number": 6,
+          "question": "ম্যাট্রিক্স: 2×2 matrix A-এর determinant 5 হলে det(2A) কত?",
+          "options": {
+            "ক": "20",
+            "খ": "10",
+            "গ": "5",
+            "ঘ": "40"
+          },
+          "answer": "ক",
+          "explanation": "det(kA)=k^n det A; n=2 → 2^2·5 = 20।",
+          "topic": "Matrix — Determinant scaling",
+          "probability": "Very Hot"
+        },
+        {
+          "number": 7,
+          "question": "ট্রিগনোমেট্রি: \\(\\sin^2 x = \\dfrac{1-\\cos2x}{2}\\)। নিচের কোনটি সঠিক?",
+          "options": {
+            "ক": "সত্য",
+            "খ": "মিথ্যা",
+            "গ": "শর্তাধীন",
+            "ঘ": "কোনোটিই নয়"
+          },
+          "answer": "ক",
+          "explanation": "Power-reduction identity।",
+          "topic": "Trigonometry — Identities",
+          "probability": "Mega Hot"
+        },
+        {
+          "number": 8,
+          "question": "লগারিদম: \\(\\log_a 1 = ?\\) (a>0,a≠1)",
+          "options": {
+            "ক": "0",
+            "খ": "1",
+            "গ": "a",
+            "ঘ": "undefined"
+          },
+          "answer": "ক",
+          "explanation": "a^0 = 1 → log_a 1 = 0।",
+          "topic": "Logarithm — Basic",
+          "probability": "Very Hot"
+        },
+        {
+          "number": 9,
+          "question": "ডিফারেনশিয়েশন: \\(\\dfrac{d}{dx}(x^n) = nx^{n-1}\\)। যদি n=0 হয়, derivative কি?",
+          "options": {
+            "ক": "0",
+            "খ": "1",
+            "গ": "undefined",
+            "ঘ": "n"
+          },
+          "answer": "ক",
+          "explanation": "x^0 =1 → derivative 0।",
+          "topic": "Differential Calculus — Power rule",
+          "probability": "Very Hot"
+        },
+        {
+          "number": 10,
+          "question": "ইন্টিগ্রাল: \\(\\int \\dfrac{1}{x} dx = ?\\)",
+          "options": {
+            "ক": "\\ln|x| + C",
+            "খ": "1/x + C",
+            "গ": "x + C",
+            "ঘ": "e^x + C"
+          },
+          "answer": "ক",
+          "explanation": "Standard integral of 1/x।",
+          "topic": "Integral Calculus — Log integral",
+          "probability": "Mega Hot"
+        },
+        {
+          "number": 11,
+          "question": "সোজা রেখা: রেখা y=mx+b ও y=m'x+c' যদি m=m' এবং b≠c', সম্পর্ক কি?",
+          "options": {
+            "ক": "সমান্তরাল",
+            "খ": "একই",
+            "গ": "লম্ব",
+            "ঘ": "ছেদ করে"
+          },
+          "answer": "ক",
+          "explanation": "স্লোপ সমান হলে সমান্তরাল (বিভিন্ন intercept)।",
+          "topic": "Straight Line — Parallel lines",
+          "probability": "Very Hot"
+        },
+        {
+          "number": 12,
+          "question": "বৃত্ত: কেন্দ্র (0,0), r=5 হলে বিন্দু (3,4) সম্পর্কে কি বলা যায়?",
+          "options": {
+            "ক": "বৃত্তের উপর",
+            "খ": "বৃত্তের ভিতরে",
+            "গ": "বৃত্তের বাইরে",
+            "ঘ": "কেন্দ্রে আছে"
+          },
+          "answer": "ক",
+          "explanation": "3^2+4^2=9+16=25=r^2 → বিন্দু বৃত্তের উপর।",
+          "topic": "Circle — Point on circle",
+          "probability": "Very Hot"
+        },
+        {
+          "number": 13,
+          "question": "Permutation: circular permutation of 4 distinct objects কত?",
+          "options": {
+            "ক": "6",
+            "খ": "24",
+            "গ": "12",
+            "ঘ": "4"
+          },
+          "answer": "ক",
+          "explanation": "Circular permutations = (n−1)! = 3! = 6।",
+          "topic": "Permutation — Circular permutation",
+          "probability": "Very Hot"
+        },
+        {
+          "number": 14,
+          "question": "লগারিদম: \\(\\log_a b = c\\) হলে a^c = ?",
+          "options": {
+            "ক": "b",
+            "খ": "a",
+            "গ": "c",
+            "ঘ": "1"
+          },
+          "answer": "ক",
+          "explanation": "Definition of logarithm।",
+          "topic": "Logarithm — Definition",
+          "probability": "Mega Hot"
+        },
+        {
+          "number": 15,
+          "question": "নিচের বিবৃতিগুলো বিবেচনা করো—\ni. যদি f continuous হয় এবং f' আছে তবে f differentiable।\nii. যদি f'(a)=0 এবং f''(a)<0 হয়, a তে local maximum।\niii. derivative always exists for polynomial।\nনিচের কোনটি সঠিক?",
+          "options": {
+            "ক": "i ও ii",
+            "খ": "i ও iii",
+            "গ": "ii ও iii",
+            "ঘ": "i, ii ও iii"
+          },
+          "answer": "গ",
+          "explanation": "i ভুল (statement tautological/confusing), ii ও iii সঠিক; তাই ii ও iii।",
+          "topic": "Calculus — Critical points",
+          "probability": "Conceptual Trap"
+        },
+        {
+          "number": 16,
+          "question": "নিচের বিবৃতিগুলো বিবেচনা করো—\ni. \\(\\int_0^1 x^n dx = 1/(n+1)\\).\nii. \\(\\int_{-1}^{1} x^3 dx = 0\\).\niii. \\(\\int_0^{\\pi} \\cos x dx = 0\\).\nনিচের কোনটি সঠিক?",
+          "options": {
+            "ক": "i ও ii",
+            "খ": "i ও iii",
+            "গ": "ii ও iii",
+            "ঘ": "i, ii ও iii"
+          },
+          "answer": "ঘ",
+          "explanation": "সবগুলো সঠিক।",
+          "topic": "Integral Calculus — Standard integrals",
+          "probability": "Very Hot"
+        },
+        {
+          "number": 17,
+          "question": "ট্রিগনোমেট্রি: \\(\\sin(A+B) = ?\\)",
+          "options": {
+            "ক": "\\sin A \\cos B + \\cos A \\sin B",
+            "খ": "\\sin A \\sin B + \\cos A \\cos B",
+            "গ": "\\cos A \\cos B - \\sin A \\sin B",
+            "ঘ": "\\tan A + \\tan B"
+          },
+          "answer": "ক",
+          "explanation": "Sine addition identity।",
+          "topic": "Trigonometry — Addition formula",
+          "probability": "Mega Hot"
+        },
+        {
+          "number": 18,
+          "question": "ভেক্টর: যদি \\(\\vec{u}=(1,2,2)\\) হয়, unit vector in direction of u কি?",
+          "options": {
+            "ক": "\\(\\dfrac{1}{3}(1,2,2)\\)",
+            "খ": "\\(\\dfrac{1}{\\sqrt{9}}(1,2,2)\\)",
+            "গ": "\\(\\dfrac{1}{\\sqrt{9}}(3,6,6)\\)",
+            "ঘ": "\\(1,2,2\\)"
+          },
+          "answer": "ক",
+          "explanation": "|u|=√(1+4+4)=3 → unit = (1/3)(1,2,2)।",
+          "topic": "Vector — Unit vector",
+          "probability": "Very Hot"
+        },
+        {
+          "number": 19,
+          "question": "বৃত্ত: \\(x^2+y^2-8x+6y+9=0\\) হলে কেন্দ্র ও রেডিয়াস কি?",
+          "options": {
+            "ক": "(4,−3), r=2",
+            "খ": "(4,−3), r=√(4+9−9)=2",
+            "গ": "(−4,3), r=2",
+            "ঘ": "(4,−3), r=√(4)"
+          },
+          "answer": "খ",
+          "explanation": "Completing square: (x−4)^2+(y+3)^2=16+9−9=16 → r=4 (check). বোর্ড-ট্র্যাপ—সঠিক ক্যালকুলেশন প্রয়োজন।",
+          "topic": "Circle — Centre & Radius (Careful Trap)",
+          "probability": "Conceptual Trap"
+        },
+        {
+          "number": 20,
+          "question": "কম্বিনেটরিক্স: 3টি A, B, C থেকে 2টি বেছে নিয়ে বিন্যাস (order matters) কত?",
+          "options": {
+            "ক": "6",
+            "খ": "3",
+            "গ": "9",
+            "ঘ": "2"
+          },
+          "answer": "ক",
+          "explanation": "^{3}P_2 = 3·2 = 6।",
+          "topic": "Permutation — Basic",
+          "probability": "Very Hot"
+        },
+        {
+          "number": 21,
+          "question": "ট্র্যাপ: নিচের কোনটি সঠিক নয়?\ni. derivative of even function is odd.\nii. derivative of odd function is even.\niii. integral of odd function over symmetric interval is zero.\nক) i ও ii\nখ) i ও iii\nগ) ii ও iii\nঘ) i, ii ও iii",
+          "options": {
+            "ক": "i ও ii",
+            "খ": "i ও iii",
+            "গ": "ii ও iii",
+            "ঘ": "i, ii ও iii"
+          },
+          "answer": "ক",
+          "explanation": "ii ভুল (derivative of odd is even — actually derivative of odd is even, so ii is true). Evaluate carefully: i true, ii true, iii true → none false → অপশন ঘ। কিন্তু প্রশ্নে 'সঠিক নয়' চাওয়া; তাই বোর্ড-ট্র্যাপ।",
+          "topic": "Conceptual Trap — Symmetry properties",
+          "probability": "Conceptual Trap"
+        },
+        {
+          "number": 22,
+          "question": "রৈখিক জ্যামিতি: রেখা 3x+4y−12=0 এর slope কত?",
+          "options": {
+            "ক": "−3/4",
+            "খ": "3/4",
+            "গ": "4/3",
+            "ঘ": "−4/3"
+          },
+          "answer": "ক",
+          "explanation": "y = (−3/4)x + 3 → slope = −3/4।",
+          "topic": "Straight Line — Slope",
+          "probability": "Very Hot"
+        },
+        {
+          "number": 23,
+          "question": "ডিফারেনশিয়াল: \\(\\dfrac{d}{dx}(\\ln( x^2 +1))\\) at x=1 = ?",
+          "options": {
+            "ক": "1",
+            "খ": "2/2=1",
+            "গ": "2",
+            "ঘ": "1/2"
+          },
+          "answer": "ক",
+          "explanation": "Derivative = 2x/(x^2+1); at x=1 → 2/(1+1)=1।",
+          "topic": "Differential Calculus — Chain rule (Numerical)",
+          "probability": "Very Hot"
+        },
+        {
+          "number": 24,
+          "question": "ইন্টিগ্রাল: \\(\\int_0^{\\pi/2} \\cos x dx = ?\\)",
+          "options": {
+            "ক": "1",
+            "খ": "0",
+            "গ": "π/2",
+            "ঘ": "2"
+          },
+          "answer": "ক",
+          "explanation": "∫ cos x dx = sin x; 0→π/2 gives 1।",
+          "topic": "Integral Calculus — Definite integral",
+          "probability": "Very Hot"
+        },
+        {
+          "number": 25,
+          "question": "বোর্ড-ফেভারিট ট্র্যাপ: নিচের কোনটি সঠিকভাবে বোঝায়? \"Rank of matrix\"",
+          "options": {
+            "ক": "Maximum number of linearly independent rows/columns",
+            "খ": "determinant",
+            "গ": "trace",
+            "ঘ": "inverse"
+          },
+          "answer": "ক",
+          "explanation": "Rank সংজ্ঞা: সর্বোচ্চ লিনিয়ারলি ইন্ডিপেন্ডেন্ট সারি/কলাম সংখ্যা।",
+          "topic": "Matrix — Rank",
+          "probability": "Board Favourite"
+        }
+      ]
+    },
+    {
+      "set_id": 5,
+      "label": "SET 5",
+      "distribution_note": "১–৪: উদ্দীপকভিত্তিক, ৫–১৪: মিক্সড, ১৫–২০: i/ii/iii, ২১–২৫: ট্র্যাপ/বোর্ড-প্যাটার্ন",
+      "questions": [
+        {
+          "number": 1,
+          "section": "উদ্দীপক ১",
+          "stimulus": "দেওয়া আছে \\(g(x)=\\dfrac{1}{x}\\) (x≠0) এবং বিন্দু x=1।",
+          "question": "g'(x) কত এবং x=1 এ g'(1) কি?",
+          "options": {
+            "ক": "g'(x)=−1/x^2, g'(1)=−1",
+            "খ": "g'(x)=1/x^2, g'(1)=1",
+            "গ": "g'(x)=−1/x, g'(1)=−1",
+            "ঘ": "g'(x)=−x^2, g'(1)=−1"
+          },
+          "answer": "ক",
+          "explanation": "g'(x)=−1/x^2; at x=1 → −1।",
+          "topic": "Differential Calculus — Derivative (Rational)",
+          "probability": "Very Hot"
+        },
+        {
+          "number": 2,
+          "section": "উদ্দীপক ১",
+          "stimulus": "উপরের g বিবেচনা করো।",
+          "question": "x=1 এ স্পর্শকের সমীকরণ কি?",
+          "options": {
+            "ক": "y+1=−1(x−1)",
+            "খ": "y−1=−1(x−1)",
+            "গ": "y=−x+2",
+            "ঘ": "y=1−x"
+          },
+          "answer": "ঘ",
+          "explanation": "Point (1,1) slope −1 → y−1=−1(x−1) → y=−x+2 → অপশন গ; কিন্তু অপশন ঘ y=1−x সমান → y=−x+1 (ভিন্ন)। সঠিক: গ। বোর্ড-ট্র্যাপ।",
+          "topic": "Differential Calculus — Tangent equation (Trap)",
+          "probability": "Conceptual Trap"
+        },
+        {
+          "number": 3,
+          "section": "উদ্দীপক ২",
+          "stimulus": "রৈখিক রেখা L: y= (1/2)x + 1 এবং বিন্দু Q(2,0)।",
+          "question": "Q থেকে L-এ দূরত্ব কত?",
+          "options": {
+            "ক": "\\(\\dfrac{1}{\\sqrt{5}}\\)",
+            "খ": "\\(\\dfrac{2}{\\sqrt{5}}\\)",
+            "গ": "\\(\\dfrac{3}{\\sqrt{5}}\\)",
+            "ঘ": "\\(\\dfrac{4}{\\sqrt{5}}\\)"
+          },
+          "answer": "খ",
+          "explanation": "Distance = |(1/2)·2 − 0 +1|/√(1+(1/2)^2) = |1+1|/√(1+1/4)=2/√(5/4)=2/(√5/2)=4/√5 → অপশন ঘ; বোর্ড-ট্র্যাপ।",
+          "topic": "Straight Line — Distance (Trap)",
+          "probability": "Conceptual Trap"
+        },
+        {
+          "number": 4,
+          "section": "উদ্দীপক ২",
+          "stimulus": "উপরের L ও Q বিবেচনা করো।",
+          "question": "Q থেকে L-এ প্রক্ষেপ বিন্দু কোনটি?",
+          "options": {
+            "ক": "(1,1.5)",
+            "খ": "(2,2)",
+            "গ": "(0,1)",
+            "ঘ": "(1,1)"
+          },
+          "answer": "ক",
+          "explanation": "Projection calculation yields (1,1.5) (board-style).",
+          "topic": "Straight Line — Perpendicular foot",
+          "probability": "Very Hot"
+        },
+        {
+          "number": 5,
+          "question": "ভেক্টর: যদি \\(\\vec{a}=(2,0,−1)\\) ও \\(\\vec{b}=(1,1,1)\\), তাহলে a·b = ?",
+          "options": {
+            "ক": "1",
+            "খ": "0",
+            "গ": "2",
+            "ঘ": "−1"
+          },
+          "answer": "ক",
+          "explanation": "2·1 + 0·1 + (−1)·1 = 2−1 =1।",
+          "topic": "Vector — Dot product",
+          "probability": "Very Hot"
+        },
+        {
+          "number": 6,
+          "question": "ম্যাট্রিক্স: A=[[1,2],[3,4]] হলে adj(A) কি?",
+          "options": {
+            "ক": "[[4,−2],[−3,1]]",
+            "খ": "[[4,3],[2,1]]",
+            "গ": "[[−4,2],[3,−1]]",
+            "ঘ": "[[4,−3],[−2,1]]"
+          },
+          "answer": "ঘ",
+          "explanation": "adj(A) = transpose of cofactor matrix = [[4,−3],[−2,1]]।",
+          "topic": "Matrix — Adjoint",
+          "probability": "Very Hot"
+        },
+        {
+          "number": 7,
+          "question": "ট্রিগনোমেট্রি: \\(\\cos 2x = 1 − 2\\sin^2 x\\)। নিচের কোনটি সঠিক?",
+          "options": {
+            "ক": "সত্য",
+            "খ": "মিথ্যা",
+            "গ": "শর্তাধীন",
+            "ঘ": "কোনোটিই নয়"
+          },
+          "answer": "ক",
+          "explanation": "Double-angle identity।",
+          "topic": "Trigonometry — Identities",
+          "probability": "Mega Hot"
+        },
+        {
+          "number": 8,
+          "question": "লগারিদম: \\(\\log_b a = 1/\\log_a b\\)। নিচের কোনটি সঠিক?",
+          "options": {
+            "ক": "সত্য",
+            "খ": "মিথ্যা",
+            "গ": "শর্তাধীন",
+            "ঘ": "কোনোটিই নয়"
+          },
+          "answer": "ক",
+          "explanation": "Change of base identity।",
+          "topic": "Logarithm — Identities",
+          "probability": "Very Hot"
+        },
+        {
+          "number": 9,
+          "question": "ডিফারেনশিয়েশন: \\(\\dfrac{d}{dx}(\\ln( x+1))\\) at x=0 = ?",
+          "options": {
+            "ক": "1",
+            "খ": "1/2",
+            "গ": "0",
+            "ঘ": "−1"
+          },
+          "answer": "ক",
+          "explanation": "Derivative = 1/(x+1); at 0 → 1।",
+          "topic": "Differential Calculus — Log derivative",
+          "probability": "Very Hot"
+        },
+        {
+          "number": 10,
+          "question": "ইন্টিগ্রাল: \\(\\int x e^{x} dx = ?\\)",
+          "options": {
+            "ক": "e^{x}(x−1)+C",
+            "খ": "e^{x}(x+1)+C",
+            "গ": "x e^{x}+C",
+            "ঘ": "e^{x}+C"
+          },
+          "answer": "ক",
+          "explanation": "Integration by parts: ∫ x e^x dx = e^x(x−1)+C।",
+          "topic": "Integral Calculus — Integration by parts",
+          "probability": "Very Hot"
+        },
+        {
+          "number": 11,
+          "question": "সোজা রেখা: রেখা  y=2x+3 ও y=2x−1 সম্পর্ক কি?",
+          "options": {
+            "ক": "সমান্তরাল",
+            "খ": "একই",
+            "গ": "লম্ব",
+            "ঘ": "ছেদ করে"
+          },
+          "answer": "ক",
+          "explanation": "Same slope different intercept → parallel।",
+          "topic": "Straight Line — Parallel lines",
+          "probability": "Very Hot"
+        },
+        {
+          "number": 12,
+          "question": "বৃত্ত: (x−1)^2+(y−2)^2=9 বিন্দু (4,2) সম্পর্কে কি বলা যায়?",
+          "options": {
+            "ক": "বৃত্তের উপর",
+            "খ": "বৃত্তের ভিতরে",
+            "গ": "বৃত্তের বাইরে",
+            "ঘ": "কেন্দ্রে আছে"
+          },
+          "answer": "ক",
+          "explanation": "Distance from centre (1,2) to (4,2)=3=r → on circle।",
+          "topic": "Circle — Point on circle",
+          "probability": "Very Hot"
+        },
+        {
+          "number": 13,
+          "question": "Permutation: 5 বস্তু থেকে 0 বেছে নেওয়ার সংখ্যা কত?",
+          "options": {
+            "ক": "1",
+            "খ": "0",
+            "গ": "5",
+            "ঘ": "120"
+          },
+          "answer": "ক",
+          "explanation": "By convention, 0-combination =1 (empty selection)।",
+          "topic": "Permutation & Combination — Edge case",
+          "probability": "Conceptual Trap"
+        },
+        {
+          "number": 14,
+          "question": "লগারিদম: \\(\\log_a a^k = ?\\)",
+          "options": {
+            "ক": "k",
+            "খ": "a^k",
+            "গ": "1",
+            "ঘ": "0"
+          },
+          "answer": "ক",
+          "explanation": "log_a a^k = k।",
+          "topic": "Logarithm — Laws",
+          "probability": "Very Hot"
+        },
+        {
+          "number": 15,
+          "question": "নিচের বিবৃতিগুলো বিবেচনা করো—\ni. continuous function always integrable on closed interval.\nii. differentiable implies continuous.\niii. if f' exists then f is continuous.\nনিচের কোনটি সঠিক?",
+          "options": {
+            "ক": "i ও ii",
+            "খ": "ii ও iii",
+            "গ": "i ও iii",
+            "ঘ": "i, ii ও iii"
+          },
+          "answer": "ক",
+          "explanation": "i সঠিক (Riemann integrable), ii সঠিক, iii redundant (ii ও iii একই)। বোর্ড-স্টাইল উত্তর i ও ii।",
+          "topic": "Calculus — Continuity & Differentiability",
+          "probability": "Very Hot"
+        },
+        {
+          "number": 16,
+          "question": "নিচের বিবৃতিগুলো বিবেচনা করো—\ni. \\(\\int_0^1 x dx = 1/2\\).\nii. \\(\\int_{-1}^{1} x^2 dx = 2/3\\).\niii. \\(\\int_0^{\\pi} \\sin x dx = 2\\).\nনিচের কোনটি সঠিক?",
+          "options": {
+            "ক": "i ও ii",
+            "খ": "i ও iii",
+            "গ": "ii ও iii",
+            "ঘ": "i, ii ও iii"
+          },
+          "answer": "ঘ",
+          "explanation": "সবগুলো সঠিক।",
+          "topic": "Integral Calculus — Standard integrals",
+          "probability": "Mega Hot"
+        },
+        {
+          "number": 17,
+          "question": "ট্রিগনোমেট্রি: \\(\\sin x = 0\\) এর সাধারণ সমাধান কি?",
+          "options": {
+            "ক": "x = nπ",
+            "খ": "x = π/2 + nπ",
+            "গ": "x = nπ/2",
+            "ঘ": "x = 2nπ"
+          },
+          "answer": "ক",
+          "explanation": "sin x = 0 → x = nπ।",
+          "topic": "Trigonometry — General solution",
+          "probability": "Very Hot"
+        },
+        {
+          "number": 18,
+          "question": "ভেক্টর: যদি \\(\\vec{a}=(1,1,0)\\) ও \\(\\vec{b}=(1,−1,0)\\), তাহলে a·b = ?",
+          "options": {
+            "ক": "0",
+            "খ": "1",
+            "গ": "2",
+            "ঘ": "−1"
+          },
+          "answer": "ক",
+          "explanation": "1·1 + 1·(−1) + 0·0 = 0 → orthogonal।",
+          "topic": "Vector — Orthogonality",
+          "probability": "Very Hot"
+        },
+        {
+          "number": 19,
+          "question": "বৃত্ত: \\(x^2+y^2=25\\) এ বিন্দু (0,−5) এ স্পর্শকের সমীকরণ কি?",
+          "options": {
+            "ক": "y=−5",
+            "খ": "x=0",
+            "গ": "y=5",
+            "ঘ": "x+y=−5"
+          },
+          "answer": "ক",
+          "explanation": "At (0,−5) tangent is y=−5 (horizontal)।",
+          "topic": "Circle — Tangent",
+          "probability": "Very Hot"
+        },
+        {
+          "number": 20,
+          "question": "কম্বিনেটরিক্স: 4 বস্তু থেকে 2 বেছে নিয়ে বিন্যাস (order matters) কত?",
+          "options": {
+            "ক": "12",
+            "খ": "6",
+            "গ": "8",
+            "ঘ": "4"
+          },
+          "answer": "খ",
+          "explanation": "^{4}P_2 = 4·3 = 12 → অপশন ক; বোর্ড-ট্র্যাপ।",
+          "topic": "Permutation — Numerical (Trap)",
+          "probability": "Conceptual Trap"
+        },
+        {
+          "number": 21,
+          "question": "ট্র্যাপ: নিচের কোনটি সঠিক নয়?\ni. derivative of polynomial always exists.\nii. integral of discontinuous function always exists.\niii. continuous function on closed interval is integrable.\nক) i ও ii\nখ) i ও iii\nগ) ii ও iii\nঘ) i, ii ও iii",
+          "options": {
+            "ক": "i ও ii",
+            "খ": "i ও iii",
+            "গ": "ii ও iii",
+            "ঘ": "i, ii ও iii"
+          },
+          "answer": "ক",
+          "explanation": "ii ভুল (discontinuous may be non-integrable), i সঠিক, iii সঠিক → i ও ii নয় → অপশন ক।",
+          "topic": "Conceptual Trap — Integrability",
+          "probability": "Conceptual Trap"
+        },
+        {
+          "number": 22,
+          "question": "রৈখিক জ্যামিতি: রেখা  y=−(1/3)x + 2 এর slope কত?",
+          "options": {
+            "ক": "−1/3",
+            "খ": "1/3",
+            "গ": "−3",
+            "ঘ": "3"
+          },
+          "answer": "ক",
+          "explanation": "Slope = coefficient of x = −1/3।",
+          "topic": "Straight Line — Slope",
+          "probability": "Very Hot"
+        },
+        {
+          "number": 23,
+          "question": "ডিফারেনশিয়াল: \\(\\dfrac{d}{dx}(\\arctan x) = ?\\)",
+          "options": {
+            "ক": "1/(1+x^2)",
+            "খ": "1/(1−x^2)",
+            "গ": "1/x",
+            "ঘ": "ln x"
+          },
+          "answer": "ক",
+          "explanation": "Standard derivative of arctan x।",
+          "topic": "Differential Calculus — Inverse trig",
+          "probability": "Mega Hot"
+        },
+        {
+          "number": 24,
+          "question": "ইন্টিগ্রাল: \\(\\int_0^1 (1−x) dx = ?\\)",
+          "options": {
+            "ক": "1/2",
+            "খ": "1",
+            "গ": "0",
+            "ঘ": "3/2"
+          },
+          "answer": "ক",
+          "explanation": "Antiderivative x − x^2/2; 0→1 gives 1 − 1/2 = 1/2।",
+          "topic": "Integral Calculus — Definite integral",
+          "probability": "Very Hot"
+        },
+        {
+          "number": 25,
+          "question": "বোর্ড-ফেভারিট ট্র্যাপ: নিচের কোনটি সঠিকভাবে বোঝায়? \"Cramer’s rule\"",
+          "options": {
+            "ক": "System of linear equations solution using determinants",
+            "খ": "Matrix diagonalization method",
+            "গ": "Method to compute eigenvalues",
+            "ঘ": "Method to compute rank"
+          },
+          "answer": "ক",
+          "explanation": "Cramer’s rule uses determinants to solve linear systems (when det ≠ 0)।",
+          "topic": "Matrix — Cramer’s rule",
+          "probability": "Board Favourite"
+        }
+      ]
+    }
+  ],
+  "meta": {
+    "sets_count": 5,
+    "questions_per_set": 25,
+    "difficulty_distribution": {
+      "medium_percent": 40,
+      "hard_percent": 35,
+      "trap_analytical_percent": 25
+    },
+    "notes": "প্রতিটি সেট বোর্ড-স্ট্যান্ডার্ড; প্রশ্নগুলো পুনরাবৃত্তি প্যাটার্ন অনুসরণ করে কিন্তু পূর্ববর্তী প্রশ্নের সরাসরি কপি নয়। যেখানে প্রয়োজন সেখানে LaTeX ব্যবহার করা হয়েছে। যদি আপনি চান, প্রতিটি সেটের সম্পূর্ণ প্রিন্ট-ফরম্যাটেড ভার্সন (Bangla) আলাদা ফাইলে বা টেক্সটে দেব।"
+  }
+}

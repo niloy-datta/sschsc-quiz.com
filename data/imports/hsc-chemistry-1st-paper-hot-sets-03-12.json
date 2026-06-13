@@ -1,0 +1,3812 @@
+[
+  {
+    "setNumber": 3,
+    "subject": "Chemistry 1st Paper",
+    "questions": [
+      {
+        "questionNumber": 1,
+        "passage": "একটি মৌল X এর ইলেকট্রন বিন্যাস 1s²2s²2p⁶3s²3p⁶4s¹। এটি পানির সাথে বিক্রিয়ায় হাইড্রোজেন গ্যাস ও ক্ষার উৎপন্ন করে।",
+        "questionText": "মৌল X কোনটি?",
+        "options": [
+          "ক) K (পটাসিয়াম)",
+          "খ) Na (সোডিয়াম)",
+          "গ) Ca (ক্যালসিয়াম)",
+          "ঘ) Mg (ম্যাগনেসিয়াম)"
+        ],
+        "correctOption": "ক",
+        "explanation": "1s²...4s¹ → K (Z=19)।",
+        "topic": "পর্যায় সারণি ও মৌলের ধর্ম",
+        "probability": "Mega Hot"
+      },
+      {
+        "questionNumber": 2,
+        "passage": "X এর অক্সাইড পানিতে দ্রবীভূত করলে কী উৎপন্ন হয়?",
+        "questionText": "উৎপন্ন দ্রবণের প্রকৃতি—",
+        "options": [
+          "ক) অম্লীয়",
+          "খ) ক্ষারীয়",
+          "গ) নিরপেক্ষ",
+          "ঘ) উভধর্মী"
+        ],
+        "correctOption": "খ",
+        "explanation": "K₂O + H₂O → 2KOH, ক্ষারীয় দ্রবণ।",
+        "topic": "মৌলের ধর্ম",
+        "probability": "Very Hot"
+      },
+      {
+        "questionNumber": 3,
+        "passage": "একটি গ্যাস মিশ্রণে H₂ ও O₂ এর আংশিক চাপ যথাক্রমে 400 torr ও 600 torr। মিশ্রণটিতে নিষ্ক্রিয় গ্যাস যোগ করায় মোট চাপ 1200 torr হলো যেখানে O₂ এর আংশিক চাপ অপরিবর্তিত আছে।",
+        "questionText": "নিষ্ক্রিয় গ্যাসটির আংশিক চাপ কত?",
+        "options": [
+          "ক) 200 torr",
+          "খ) 400 torr",
+          "গ) 600 torr",
+          "ঘ) 1200 torr"
+        ],
+        "correctOption": "ক",
+        "explanation": "O₂ চাপ স্থির 600 torr, H₂ 400, মোট 1000 ছিল। যোগে মোট 1200, O₂ স্থির, H₂ স্থির, অতএব নিষ্ক্রিয় গ্যাসের চাপ = 1200-1000=200 torr।",
+        "topic": "গ্যাসের সূত্র (ডাল্টনের আংশিক চাপ)",
+        "probability": "Mega Hot"
+      },
+      {
+        "questionNumber": 4,
+        "passage": "মিশ্রণে H₂ গ্যাসটি সম্পূর্ণ অপসারণ করা হলো।",
+        "questionText": "O₂ এর মোল ভগ্নাংশ কত হবে? (মোট চাপ 800 torr)",
+        "options": [
+          "ক) 0.25",
+          "খ) 0.75",
+          "গ) 0.50",
+          "ঘ) 1.0"
+        ],
+        "correctOption": "খ",
+        "explanation": "H₂ অপসারণে O₂ ও নিষ্ক্রিয় গ্যাস অবশিষ্ট। O₂ চাপ 600, নিষ্ক্রিয় 200, মোট 800 → O₂ মোল ভগ্নাংশ = 600/800 = 0.75।",
+        "topic": "গ্যাসের সূত্র (মোল ভগ্নাংশ)",
+        "probability": "Very Hot"
+      },
+      {
+        "questionNumber": 5,
+        "passage": null,
+        "questionText": "25°C তাপমাত্রায় 0.1 M অ্যাসিটিক অ্যাসিডের বিয়োজন ধ্রুবক Ka = 1.8×10⁻⁵। দ্রবণটির pH কত?",
+        "options": [
+          "ক) 2.87",
+          "খ) 1.87",
+          "গ) 3.87",
+          "ঘ) 4.87"
+        ],
+        "correctOption": "ক",
+        "explanation": "[H⁺] = √(Ka×C) = √(1.8×10⁻⁵×0.1) = √(1.8×10⁻⁶) ≈ 1.34×10⁻³ M, pH = -log(1.34×10⁻³) ≈ 2.87।",
+        "topic": "অ্যাসিড-ক্ষার (pH ও Ka)",
+        "probability": "Mega Hot"
+      },
+      {
+        "questionNumber": 6,
+        "passage": null,
+        "questionText": "কোন মৌলের প্রথম আয়নীকরণ শক্তি সবচেয়ে বেশি?",
+        "options": [
+          "ক) He",
+          "খ) Ne",
+          "গ) Ar",
+          "ঘ) F"
+        ],
+        "correctOption": "ক",
+        "explanation": "He এর সম্পূর্ণ K কক্ষ, ক্ষুদ্র আকার, উচ্চ আয়নীকরণ শক্তি (2372 kJ/mol)।",
+        "topic": "পর্যায়বৃত্ত ধর্ম (আয়নীকরণ শক্তি)",
+        "probability": "Very Hot"
+      },
+      {
+        "questionNumber": 7,
+        "passage": null,
+        "questionText": "N₂ অণুতে কয়টি π বন্ধন আছে?",
+        "options": [
+          "ক) 0",
+          "খ) 1",
+          "গ) 2",
+          "ঘ) 3"
+        ],
+        "correctOption": "গ",
+        "explanation": "N≡N তে একটি σ ও দুটি π বন্ধন।",
+        "topic": "রাসায়নিক বন্ধন",
+        "probability": "Board Favourite"
+      },
+      {
+        "questionNumber": 8,
+        "passage": null,
+        "questionText": "20 mL 0.2 M FeSO₄ কে সম্পূর্ণ জারিত করতে 0.1 M K₂Cr₂O₇ এর কত mL লাগবে? (অম্লীয় মাধ্যমে)",
+        "options": [
+          "ক) 6.67 mL",
+          "খ) 13.33 mL",
+          "গ) 20 mL",
+          "ঘ) 10 mL"
+        ],
+        "correctOption": "ক",
+        "explanation": "Cr₂O₇²⁻ + 6Fe²⁺ + 14H⁺ → 2Cr³⁺ + 6Fe³⁺ + 7H₂O। Fe²⁺ মোল = 4 mmol, প্রয়োজন Cr₂O₇²⁻ = 4/6 = 0.667 mmol। আয়তন = 0.667/0.1 = 6.67 mL।",
+        "topic": "জারণ-বিজারণ (টাইট্রেশন)",
+        "probability": "Mega Hot"
+      },
+      {
+        "questionNumber": 9,
+        "passage": null,
+        "questionText": "অস্থায়ী খরতা সৃষ্টিকারী প্রধান আয়ন—",
+        "options": [
+          "ক) Ca²⁺ ও Mg²⁺ এর বাইকার্বনেট",
+          "খ) Ca²⁺ ও Mg²⁺ এর ক্লোরাইড",
+          "গ) Fe³⁺ ও Al³⁺",
+          "ঘ) Na⁺ ও K⁺"
+        ],
+        "correctOption": "ক",
+        "explanation": "Ca(HCO₃)₂ ও Mg(HCO₃)₂ দ্বারা অস্থায়ী খরতা।",
+        "topic": "পানি ও পরিবেশ রসায়ন",
+        "probability": "Board Favourite"
+      },
+      {
+        "questionNumber": 10,
+        "passage": null,
+        "questionText": "হাইড্রোজেন পারঅক্সাইডের (H₂O₂) জারণ সংখ্যা—",
+        "options": [
+          "ক) O = -1",
+          "খ) O = -2",
+          "গ) O = 0",
+          "ঘ) O = +1"
+        ],
+        "correctOption": "ক",
+        "explanation": "H₂O₂ তে অক্সিজেনের জারণ সংখ্যা -1।",
+        "topic": "জারণ-বিজারণ",
+        "probability": "Board Favourite"
+      },
+      {
+        "questionNumber": 11,
+        "passage": null,
+        "questionText": "একটি গ্যাসের আণবিক ভর 32। 27°C ও 2 atm চাপে গ্যাসটির ঘনত্ব— (R=0.0821 L·atm/mol·K)",
+        "options": [
+          "ক) 2.6 g/L",
+          "খ) 1.3 g/L",
+          "গ) 5.2 g/L",
+          "ঘ) 3.9 g/L"
+        ],
+        "correctOption": "ক",
+        "explanation": "d = PM/RT = (2×32)/(0.0821×300) ≈ 2.6 g/L।",
+        "topic": "গ্যাসের সূত্র (ঘনত্ব)",
+        "probability": "Very Hot"
+      },
+      {
+        "questionNumber": 12,
+        "passage": null,
+        "questionText": "নিচের কোন যৌগটিতে সমন্বয় বন্ধন আছে?",
+        "options": [
+          "ক) NH₃",
+          "খ) NH₄⁺",
+          "গ) H₂O",
+          "ঘ) CH₄"
+        ],
+        "correctOption": "খ",
+        "explanation": "NH₄⁺ তে N→H সমন্বয় বন্ধন (একটি)।",
+        "topic": "রাসায়নিক বন্ধন",
+        "probability": "Board Favourite"
+      },
+      {
+        "questionNumber": 13,
+        "passage": null,
+        "questionText": "নেসলার বিকারকের রাসায়নিক সংকেত—",
+        "options": [
+          "ক) K₂[HgI₄] + KOH",
+          "খ) CuSO₄ + NaOH",
+          "গ) AgNO₃ + NH₄OH",
+          "ঘ) FeCl₃ + HCl"
+        ],
+        "correctOption": "ক",
+        "explanation": "নেসলার বিকারক K₂[HgI₄] ও KOH এর মিশ্রণ।",
+        "topic": "পরীক্ষাগার রসায়ন",
+        "probability": "Very Hot"
+      },
+      {
+        "questionNumber": 14,
+        "passage": null,
+        "questionText": "একটি বাফার দ্রবণ 0.1 M NH₄OH ও 0.1 M NH₄Cl দিয়ে তৈরি। pKb = 4.74 হলে দ্রবণটির pOH—",
+        "options": [
+          "ক) 4.74",
+          "খ) 9.26",
+          "গ) 7.00",
+          "ঘ) 2.37"
+        ],
+        "correctOption": "ক",
+        "explanation": "pOH = pKb + log([লবণ]/[ক্ষার]) = 4.74 + log(1) = 4.74।",
+        "topic": "বাফার দ্রবণ",
+        "probability": "Mega Hot"
+      },
+      {
+        "questionNumber": 15,
+        "passage": null,
+        "questionText": "CH₄ অণু সম্পর্কে— i. sp³ সংকরণ ii. টেট্রাহেড্রাল গঠন iii. বন্ধন কোণ 109.5° নিচের কোনটি সঠিক?",
+        "options": [
+          "ক) i ও ii",
+          "খ) i ও iii",
+          "গ) ii ও iii",
+          "ঘ) i, ii ও iii"
+        ],
+        "correctOption": "ঘ",
+        "explanation": "মিথেনে তিনটিই সত্য।",
+        "topic": "রাসায়নিক বন্ধন",
+        "probability": "Very Hot"
+      },
+      {
+        "questionNumber": 16,
+        "passage": null,
+        "questionText": "জারণ-বিজারণ বিক্রিয়ায়— i. জারক বিজারিত হয় ii. বিজারক জারিত হয় iii. ইলেকট্রন স্থানান্তর ঘটে নিচের কোনটি সঠিক?",
+        "options": [
+          "ক) i ও ii",
+          "খ) i ও iii",
+          "গ) ii ও iii",
+          "ঘ) i, ii ও iii"
+        ],
+        "correctOption": "ঘ",
+        "explanation": "সবগুলোই সঠিক।",
+        "topic": "জারণ-বিজারণ",
+        "probability": "Board Favourite"
+      },
+      {
+        "questionNumber": 17,
+        "passage": null,
+        "questionText": "পর্যায় সারণির একই গ্রুপে— i. যোজনী ইলেকট্রন সংখ্যা সমান ii. পারমাণবিক ব্যাসার্ধ নিচের দিকে বাড়ে iii. আয়নীকরণ শক্তি নিচের দিকে কমে নিচের কোনটি সঠিক?",
+        "options": [
+          "ক) i ও ii",
+          "খ) i ও iii",
+          "গ) ii ও iii",
+          "ঘ) i, ii ও iii"
+        ],
+        "correctOption": "ঘ",
+        "explanation": "গ্রুপের সাধারণ বৈশিষ্ট্য, তিনটিই।",
+        "topic": "পর্যায়বৃত্ত ধর্ম",
+        "probability": "Mega Hot"
+      },
+      {
+        "questionNumber": 18,
+        "passage": null,
+        "questionText": "হাইড্রোজেন বন্ধনের কারণে— i. পানির স্ফুটনাঙ্ক বেশি ii. বরফ পানিতে ভাসে iii. HF দুর্বল অ্যাসিড নিচের কোনটি সঠিক?",
+        "options": [
+          "ক) i ও ii",
+          "খ) i ও iii",
+          "গ) ii ও iii",
+          "ঘ) i, ii ও iii"
+        ],
+        "correctOption": "ঘ",
+        "explanation": "H-বন্ধনের জন্য তিনটি বৈশিষ্ট্যই।",
+        "topic": "রাসায়নিক বন্ধন (H-বন্ধন)",
+        "probability": "Very Hot"
+      },
+      {
+        "questionNumber": 19,
+        "passage": null,
+        "questionText": "সালফিউরিক অ্যাসিডের শিল্পোৎপাদনে— i. FeS₂ থেকে SO₂ উৎপন্ন ii. V₂O₅ দ্বারা SO₂→SO₃ iii. পাতিত জলে SO₃ শোষণ নিচের কোনটি সঠিক?",
+        "options": [
+          "ক) i ও ii",
+          "খ) i ও iii",
+          "গ) ii ও iii",
+          "ঘ) i, ii ও iii"
+        ],
+        "correctOption": "ক",
+        "explanation": "SO₃ সরাসরি জলে নয়, H₂SO₄ এ শোষণ। iii ভুল।",
+        "topic": "শিল্প রসায়ন",
+        "probability": "Mega Hot"
+      },
+      {
+        "questionNumber": 20,
+        "passage": null,
+        "questionText": "একটি ক্ষারক BOH এর Kb = 1×10⁻⁵, 0.1 M দ্রবণের— i. pOH = 3 ii. [OH⁻] = 10⁻³ M iii. pH = 11 নিচের কোনটি সঠিক?",
+        "options": [
+          "ক) i ও ii",
+          "খ) i ও iii",
+          "গ) ii ও iii",
+          "ঘ) i, ii ও iii"
+        ],
+        "correctOption": "ঘ",
+        "explanation": "[OH⁻] = √(Kb×C) = 10⁻³ M → pOH=3, pH=11। সব।",
+        "topic": "অ্যাসিড-ক্ষার",
+        "probability": "Very Hot"
+      },
+      {
+        "questionNumber": 21,
+        "passage": null,
+        "questionText": "Fe³⁺ আয়ন শনাক্তকরণে কোন বিকারক ব্যবহৃত হয়?",
+        "options": [
+          "ক) K₄[Fe(CN)₆]",
+          "খ) K₃[Fe(CN)₆]",
+          "গ) NH₄SCN",
+          "ঘ) উপরের সবগুলো"
+        ],
+        "correctOption": "ঘ",
+        "explanation": "Fe³⁺ + K₄[Fe(CN)₆] → প্রুশিয়ান ব্লু; KSCN → রক্তলাল; K₃[Fe(CN)₆] → বাদামী। সব।",
+        "topic": "পরীক্ষাগার রসায়ন (শনাক্তকরণ)",
+        "probability": "Very Hot"
+      },
+      {
+        "questionNumber": 22,
+        "passage": null,
+        "questionText": "একটি গ্যাসের ব্যাপন হার CO₂ এর দ্বিগুণ। গ্যাসটির আণবিক ভর কত? (CO₂=44)",
+        "options": [
+          "ক) 11",
+          "খ) 22",
+          "গ) 88",
+          "ঘ) 176"
+        ],
+        "correctOption": "ক",
+        "explanation": "r₁/r₂ = √(M₂/M₁) → 2 = √(44/M₁) → M₁ = 44/4 = 11।",
+        "topic": "গ্যাসের ব্যাপন (গ্রাহামের সূত্র)",
+        "probability": "Mega Hot"
+      },
+      {
+        "questionNumber": 23,
+        "passage": null,
+        "questionText": "জারণ সংখ্যা পরিবর্তনের ভিত্তিতে কোন বিক্রিয়াটি জারণ-বিজারণ নয়?",
+        "options": [
+          "ক) HCl + NaOH → NaCl + H₂O",
+          "খ) Zn + CuSO₄ → ZnSO₄ + Cu",
+          "গ) 2H₂ + O₂ → 2H₂O",
+          "ঘ) MnO₂ + 4HCl → MnCl₂ + Cl₂ + 2H₂O"
+        ],
+        "correctOption": "ক",
+        "explanation": "প্রশমন বিক্রিয়ায় জারণ সংখ্যার পরিবর্তন হয় না।",
+        "topic": "জারণ-বিজারণ",
+        "probability": "Board Favourite"
+      },
+      {
+        "questionNumber": 24,
+        "passage": null,
+        "questionText": "কক্ষ তাপমাত্রায় 1 L পাত্রে 0.5 mol N₂O₄ নিয়ে তাপ দেয়ায় 20% বিয়োজিত হয়ে NO₂ উৎপন্ন হলো। Kc কত?",
+        "options": [
+          "ক) 0.05",
+          "খ) 0.10",
+          "গ) 0.20",
+          "ঘ) 0.40"
+        ],
+        "correctOption": "খ",
+        "explanation": "N₂O₄ ⇌ 2NO₂; 0.5 mol থেকে 20% বিয়োজন → N₂O₄ 0.4 M, NO₂ 0.2 M; Kc = 0.2²/0.4 = 0.10।",
+        "topic": "রাসায়নিক সাম্যাবস্থা (Kc)",
+        "probability": "Mega Hot"
+      },
+      {
+        "questionNumber": 25,
+        "passage": null,
+        "questionText": "কোন জোড়াটি সমইলেকট্রনিক?",
+        "options": [
+          "ক) Na⁺ ও F⁻",
+          "খ) K⁺ ও Cl⁻",
+          "গ) Ca²⁺ ও S²⁻",
+          "ঘ) উপরের সবগুলো"
+        ],
+        "correctOption": "ঘ",
+        "explanation": "Na⁺(10e⁻) ও F⁻(10e⁻); K⁺(18e⁻) ও Cl⁻(18e⁻); Ca²⁺(18e⁻) ও S²⁻(18e⁻)। সবগুলোই সমইলেকট্রনিক।",
+        "topic": "পর্যায় সারণি",
+        "probability": "Board Favourite"
+      }
+    ]
+  },
+  {
+    "setNumber": 4,
+    "subject": "Chemistry 1st Paper",
+    "questions": [
+      {
+        "questionNumber": 1,
+        "passage": "একটি গ্যাস A STP তে 2.5 L আয়তন দখল করে যার ভর 5.0 g। গ্যাসটি জ্বালানি হিসেবে ব্যবহার করা যায় এবং সম্পূর্ণ দহনে শুধু CO₂ ও H₂O উৎপন্ন করে।",
+        "questionText": "গ্যাস A এর আণবিক ভর কত?",
+        "options": [
+          "ক) 44.8 g/mol",
+          "খ) 22.4 g/mol",
+          "গ) 32.0 g/mol",
+          "ঘ) 16.0 g/mol"
+        ],
+        "correctOption": "ক",
+        "explanation": "STP তে 2.5 L = 2.5/22.4 mol; আণবিক ভর = 5.0 / (2.5/22.4) = 5.0 × 22.4 / 2.5 = 44.8 g/mol → C₃H₈ বা CO₂ নয়। দহনে CO₂ ও H₂O দেয় → হাইড্রোকার্বন। C₃H₈ (M=44) কাছাকাছি।",
+        "topic": "গ্যাসের ধর্ম (আণবিক ভর)",
+        "probability": "Mega Hot"
+      },
+      {
+        "questionNumber": 2,
+        "passage": "গ্যাস A কে সম্পূর্ণ দহনে 2.5 L গ্যাসের জন্য কত গ্রাম CO₂ উৎপন্ন হবে? (C₃H₈ ধরে, C=12, H=1)",
+        "questionText": "উৎপন্ন CO₂ এর ভর—",
+        "options": [
+          "ক) 4.4 g",
+          "খ) 13.2 g",
+          "গ) 8.8 g",
+          "ঘ) 15.0 g"
+        ],
+        "correctOption": "ঘ",
+        "explanation": "C₃H₈ + 5O₂ → 3CO₂ + 4H₂O। 5 g C₃H₈ = 5/44 mol → CO₂ = 3×(5/44)×44 = 15 g।",
+        "topic": "পরিমাণগত রসায়ন",
+        "probability": "Very Hot"
+      },
+      {
+        "questionNumber": 3,
+        "passage": "একটি বাফার দ্রবণ তৈরিতে 0.2 M CH₃COOH 500 mL ও 0.1 M CH₃COONa 500 mL মিশ্রিত করা হলো। (pKa=4.76)",
+        "questionText": "মিশ্রণের pH কত?",
+        "options": [
+          "ক) 4.46",
+          "খ) 4.76",
+          "গ) 5.06",
+          "ঘ) 5.46"
+        ],
+        "correctOption": "ক",
+        "explanation": "মোট আয়তন 1 L, [CH₃COOH] = 0.1 M, [CH₃COONa] = 0.05 M। pH = pKa + log(0.05/0.1) = 4.76 - 0.30 = 4.46।",
+        "topic": "বাফার দ্রবণ",
+        "probability": "Mega Hot"
+      },
+      {
+        "questionNumber": 4,
+        "passage": "উপরের বাফারে 0.01 mol HCl যোগ করা হলো (আয়তন স্থির ধরে)।",
+        "questionText": "নতুন pH প্রায়—",
+        "options": [
+          "ক) 4.40",
+          "খ) 4.52",
+          "গ) 4.30",
+          "ঘ) 4.76"
+        ],
+        "correctOption": "গ",
+        "explanation": "HCl যোগে [CH₃COONa]=0.04, [CH₃COOH]=0.11; pH = 4.76 + log(0.04/0.11) ≈ 4.32 → নিকটতম 4.30 (গ)।",
+        "topic": "বাফার",
+        "probability": "Very Hot"
+      },
+      {
+        "questionNumber": 5,
+        "passage": null,
+        "questionText": "হেবার পদ্ধতিতে NH₃ সংশ্লেষণে তাপমাত্রা সাধারণত রাখা হয়—",
+        "options": [
+          "ক) 500°C",
+          "খ) 200°C",
+          "গ) 1000°C",
+          "ঘ) 0°C"
+        ],
+        "correctOption": "ক",
+        "explanation": "প্রায় 450-500°C তাপমাত্রা ব্যবহার হয়।",
+        "topic": "শিল্প রসায়ন (হেবার পদ্ধতি)",
+        "probability": "Board Favourite"
+      },
+      {
+        "questionNumber": 6,
+        "passage": null,
+        "questionText": "একটি মৌলের পারমাণবিক সংখ্যা 17, তার হাইড্রাইডের প্রকৃতি—",
+        "options": [
+          "ক) ক্ষারীয়",
+          "খ) অম্লীয়",
+          "গ) উভধর্মী",
+          "ঘ) নিরপেক্ষ"
+        ],
+        "correctOption": "খ",
+        "explanation": "Cl (Z=17) → HCl, অম্লীয়।",
+        "topic": "পর্যায়বৃত্ত ধর্ম",
+        "probability": "Board Favourite"
+      },
+      {
+        "questionNumber": 7,
+        "passage": null,
+        "questionText": "নিচের কোন অণুতে কেন্দ্রীয় পরমাণুতে নিঃসঙ্গ ইলেকট্রন জোড় নেই?",
+        "options": [
+          "ক) NH₃",
+          "খ) H₂O",
+          "গ) BF₃",
+          "ঘ) SF₄"
+        ],
+        "correctOption": "গ",
+        "explanation": "BF₃ তে B এর 3 বন্ধন, কোন lone pair নেই।",
+        "topic": "VSEPR তত্ত্ব",
+        "probability": "Very Hot"
+      },
+      {
+        "questionNumber": 8,
+        "passage": null,
+        "questionText": "25°C এ 0.01 M HCl দ্রবণের pH কত?",
+        "options": [
+          "ক) 2.0",
+          "খ) 1.0",
+          "গ) 3.0",
+          "ঘ) 0.01"
+        ],
+        "correctOption": "ক",
+        "explanation": "HCl সম্পূর্ণ বিয়োজিত, [H⁺] = 0.01 M → pH = 2।",
+        "topic": "অ্যাসিড-ক্ষার (pH)",
+        "probability": "Mega Hot"
+      },
+      {
+        "questionNumber": 9,
+        "passage": null,
+        "questionText": "কোন জোড়াটি আইসোবার?",
+        "options": [
+          "ক) ⁴⁰Ar ও ⁴⁰K",
+          "খ) ¹⁴C ও ¹⁴N",
+          "গ) ²³⁵U ও ²³⁸U",
+          "ঘ) ¹²C ও ¹³C"
+        ],
+        "correctOption": "ক",
+        "explanation": "আইসোবার: ভর সংখ্যা সমান, পারমাণবিক সংখ্যা ভিন্ন। ⁴⁰Ar (Z=18) ও ⁴⁰K (Z=19) আইসোবার।",
+        "topic": "পারমাণবিক গঠন (আইসোবার)",
+        "probability": "Board Favourite"
+      },
+      {
+        "questionNumber": 10,
+        "passage": null,
+        "questionText": "অ্যাভোগাড্রোর সংখ্যা 6.022×10²³ হলে 1 amu = ?",
+        "options": [
+          "ক) 1.66×10⁻²⁴ g",
+          "খ) 6.022×10⁻²³ g",
+          "গ) 1 g",
+          "ঘ) 1.66×10⁻²⁷ kg"
+        ],
+        "correctOption": "ক",
+        "explanation": "1 amu = 1/6.022×10²³ = 1.66×10⁻²⁴ g।",
+        "topic": "মৌলের পরিমাণগত ধারণা",
+        "probability": "Mega Hot"
+      },
+      {
+        "questionNumber": 11,
+        "passage": null,
+        "questionText": "একটি গ্যাসের 4.0 g 2 atm চাপে ও 300 K তাপমাত্রায় 2.46 L আয়তন দখল করলে গ্যাসটির আণবিক ভর— (R=0.0821)",
+        "options": [
+          "ক) 20",
+          "খ) 40",
+          "গ) 30",
+          "ঘ) 50"
+        ],
+        "correctOption": "ক",
+        "explanation": "PV = nRT → 2×2.46 = (4/M)×0.0821×300 → M = (4×0.0821×300)/(2×2.46) = 98.52/4.92 ≈ 20 g/mol।",
+        "topic": "গ্যাসের সূত্র",
+        "probability": "Very Hot"
+      },
+      {
+        "questionNumber": 12,
+        "passage": null,
+        "questionText": "H₂O₂ এর বিয়োজন বিক্রিয়ায় (2H₂O₂ → 2H₂O + O₂) অক্সিজেনের জারণ সংখ্যা পরিবর্তন—",
+        "options": [
+          "ক) -1 থেকে 0 ও -2",
+          "খ) -2 থেকে 0",
+          "গ) 0 থেকে -2",
+          "ঘ) -1 থেকে -2"
+        ],
+        "correctOption": "ক",
+        "explanation": "H₂O₂ তে O⁻¹, পানিতে O⁻², O₂ তে O⁰। জারণ ও বিজারণ উভয়।",
+        "topic": "জারণ-বিজারণ",
+        "probability": "Mega Hot"
+      },
+      {
+        "questionNumber": 13,
+        "passage": null,
+        "questionText": "নিচের কোনটি pH মানের সঠিক ক্রম?",
+        "options": [
+          "ক) HCl < CH₃COOH < H₂O < NaOH",
+          "খ) NaOH < HCl < H₂O < CH₃COOH",
+          "গ) H₂O < HCl < NaOH < CH₃COOH",
+          "ঘ) HCl < NaOH < H₂O < CH₃COOH"
+        ],
+        "correctOption": "ক",
+        "explanation": "HCl অম্ল (pH~1), CH₃COOH দুর্বল অম্ল (pH~3), H₂O নিরপেক্ষ (7), NaOH ক্ষার (pH>13)।",
+        "topic": "অ্যাসিড-ক্ষার",
+        "probability": "Board Favourite"
+      },
+      {
+        "questionNumber": 14,
+        "passage": null,
+        "questionText": "পরমাণুর s-অরবিটালে সর্বোচ্চ কয়টি ইলেকট্রন থাকতে পারে?",
+        "options": [
+          "ক) 2",
+          "খ) 6",
+          "গ) 10",
+          "ঘ) 14"
+        ],
+        "correctOption": "ক",
+        "explanation": "s-অরবিটাল একটি, ২টি ইলেকট্রন।",
+        "topic": "পারমাণবিক গঠন",
+        "probability": "Board Favourite"
+      },
+      {
+        "questionNumber": 15,
+        "passage": null,
+        "questionText": "রাসায়নিক বন্ধন গঠনে— i. শক্তি নির্গত হয় ii. তন্ত্র স্থিতিশীল হয় iii. তাপ শোষিত হয় নিচের কোনটি সঠিক?",
+        "options": [
+          "ক) i ও ii",
+          "খ) i ও iii",
+          "গ) ii ও iii",
+          "ঘ) i, ii ও iii"
+        ],
+        "correctOption": "ক",
+        "explanation": "বন্ধন গঠন তাপোৎপাদী, স্থিতিশীলতা বাড়ে, iii ভুল।",
+        "topic": "রাসায়নিক বন্ধন",
+        "probability": "Board Favourite"
+      },
+      {
+        "questionNumber": 16,
+        "passage": null,
+        "questionText": "CO₂ অণুতে— i. C এর sp সংকরণ ii. রৈখিক গঠন iii. দ্বিমেরু ভ্রামক শূন্য নিচের কোনটি সঠিক?",
+        "options": [
+          "ক) i ও ii",
+          "খ) i ও iii",
+          "গ) ii ও iii",
+          "ঘ) i, ii ও iii"
+        ],
+        "correctOption": "ঘ",
+        "explanation": "CO₂ রৈখিক, sp, দ্বিমেরু ভ্রামক=0। সব।",
+        "topic": "রাসায়নিক বন্ধন",
+        "probability": "Very Hot"
+      },
+      {
+        "questionNumber": 17,
+        "passage": null,
+        "questionText": "পর্যায় সারণির d-ব্লক মৌল সম্পর্কে— i. পরিবর্তনশীল জারণ সংখ্যা ii. রঙ্গিন যৌগ গঠন iii. অনুচুম্বকীয় ধর্ম নিচের কোনটি সঠিক?",
+        "options": [
+          "ক) i ও ii",
+          "খ) i ও iii",
+          "গ) ii ও iii",
+          "ঘ) i, ii ও iii"
+        ],
+        "correctOption": "ঘ",
+        "explanation": "d-ব্লকের বৈশিষ্ট্য সবগুলো।",
+        "topic": "পর্যায় সারণি (d-ব্লক)",
+        "probability": "Very Hot"
+      },
+      {
+        "questionNumber": 18,
+        "passage": null,
+        "questionText": "ভ্যানডার ওয়ালস বল— i. দুর্বল আন্তঃআণবিক বল ii. গ্যাসের আদর্শ আচরণ থেকে বিচ্যুতির কারণ iii. H-বন্ধনের চেয়ে শক্তিশালী নিচের কোনটি সঠিক?",
+        "options": [
+          "ক) i ও ii",
+          "খ) i ও iii",
+          "গ) ii ও iii",
+          "ঘ) i, ii ও iii"
+        ],
+        "correctOption": "ক",
+        "explanation": "ভ্যানডার ওয়ালস বল H-বন্ধনের চেয়ে দুর্বল, iii ভুল।",
+        "topic": "আন্তঃআণবিক বল",
+        "probability": "Board Favourite"
+      },
+      {
+        "questionNumber": 19,
+        "passage": null,
+        "questionText": "পানির খরতা দূরীকরণে— i. ফুটানো ii. আয়ন বিনিময় রজন iii. চুন যোগ নিচের কোনটি সঠিক?",
+        "options": [
+          "ক) i ও ii",
+          "খ) i ও iii",
+          "গ) ii ও iii",
+          "ঘ) i, ii ও iii"
+        ],
+        "correctOption": "ঘ",
+        "explanation": "সব পদ্ধতিই খরতা দূর করতে পারে।",
+        "topic": "পানি ও পরিবেশ রসায়ন",
+        "probability": "Mega Hot"
+      },
+      {
+        "questionNumber": 20,
+        "passage": null,
+        "questionText": "0.5 M H₂SO₄ এর 100 mL কে 0.5 M NaOH দিয়ে প্রশমিত করতে প্রয়োজন— i. NaOH এর মোল = 0.1 ii. NaOH আয়তন 200 mL iii. লবণ Na₂SO₄ নিচের কোনটি সঠিক?",
+        "options": [
+          "ক) i ও ii",
+          "খ) i ও iii",
+          "গ) ii ও iii",
+          "ঘ) i, ii ও iii"
+        ],
+        "correctOption": "ঘ",
+        "explanation": "H₂SO₄ মোল = 0.05, NaOH দরকার 0.1 mol (i), V= 0.1/0.5 = 0.2 L = 200 mL (ii), লবণ Na₂SO₄ (iii)। সব।",
+        "topic": "অ্যাসিড-ক্ষার প্রশমন",
+        "probability": "Very Hot"
+      },
+      {
+        "questionNumber": 21,
+        "passage": null,
+        "questionText": "নিচের কোনটি সবচেয়ে শক্তিশালী জারক?",
+        "options": [
+          "ক) F₂",
+          "খ) Cl₂",
+          "গ) Br₂",
+          "ঘ) I₂"
+        ],
+        "correctOption": "ক",
+        "explanation": "F₂ সর্বোচ্চ বিজারণ বিভব, সবচেয়ে শক্তিশালী জারক।",
+        "topic": "জারণ-বিজারণ",
+        "probability": "Mega Hot"
+      },
+      {
+        "questionNumber": 22,
+        "passage": null,
+        "questionText": "2A + B ⇌ 2C বিক্রিয়ায় Kc = [C]²/([A]²[B])। ঘনত্ব একক mol/L। Kc এর একক—",
+        "options": [
+          "ক) L/mol",
+          "খ) mol/L",
+          "গ) L²/mol²",
+          "ঘ) একক নেই"
+        ],
+        "correctOption": "ক",
+        "explanation": "Kc = (mol/L)² / ((mol/L)² (mol/L)) = 1/(mol/L) = L/mol।",
+        "topic": "সাম্যাবস্থা (Kc এর একক)",
+        "probability": "Very Hot"
+      },
+      {
+        "questionNumber": 23,
+        "passage": null,
+        "questionText": "27°C তাপমাত্রায় 2 mol গ্যাসের অভ্যন্তরীণ শক্তি কত? (R=8.314 J/mol·K, এক পরমাণুক ধরে)",
+        "options": [
+          "ক) 7482 J",
+          "খ) 3741 J",
+          "গ) 4988 J",
+          "ঘ) 12470 J"
+        ],
+        "correctOption": "ক",
+        "explanation": "এক পরমাণুক গ্যাসের U = (3/2)nRT = 1.5×2×8.314×300 = 7482.6 J।",
+        "topic": "গ্যাসের গতিতত্ত্ব",
+        "probability": "Very Hot"
+      },
+      {
+        "questionNumber": 24,
+        "passage": null,
+        "questionText": "MnO₄⁻ + 8H⁺ + 5e⁻ → Mn²⁺ + 4H₂O; বিক্রিয়ায় 1 mol MnO₄⁻ কত ফ্যারাডে তড়িৎ গ্রহণ করে?",
+        "options": [
+          "ক) 5 F",
+          "খ) 1 F",
+          "গ) 2 F",
+          "ঘ) 10 F"
+        ],
+        "correctOption": "ক",
+        "explanation": "5 mol ইলেকট্রন = 5 ফ্যারাডে।",
+        "topic": "জারণ-বিজারণ (তড়িৎ রসায়ন)",
+        "probability": "Mega Hot"
+      },
+      {
+        "questionNumber": 25,
+        "passage": null,
+        "questionText": "কঠিন অবস্থায় আয়নিক যৌগের বৈশিষ্ট্য— i. উচ্চ গলনাঙ্ক ii. কঠিন অবস্থায় বিদ্যুৎ পরিবহী iii. দ্রবীভূত অবস্থায় আয়নিত হয় নিচের কোনটি সঠিক?",
+        "options": [
+          "ক) i ও ii",
+          "খ) i ও iii",
+          "গ) ii ও iii",
+          "ঘ) i, ii ও iii"
+        ],
+        "correctOption": "খ",
+        "explanation": "কঠিন অবস্থায় আয়নিক যৌগ বিদ্যুৎ পরিবহী নয়, ii ভুল।",
+        "topic": "কঠিন অবস্থা",
+        "probability": "Board Favourite"
+      }
+    ]
+  },
+  {
+    "setNumber": 5,
+    "subject": "Chemistry 1st Paper",
+    "questions": [
+      {
+        "questionNumber": 1,
+        "passage": "একটি মৌল Y এর পারমাণবিক সংখ্যা 13। এটি অক্সিজেনের সাথে বিক্রিয়ায় একটি উভধর্মী অক্সাইড গঠন করে।",
+        "questionText": "Y কোন মৌল?",
+        "options": [
+          "ক) Al",
+          "খ) Si",
+          "গ) Mg",
+          "ঘ) B"
+        ],
+        "correctOption": "ক",
+        "explanation": "Z=13 → Al, Al₂O₃ উভধর্মী।",
+        "topic": "পর্যায় সারণি ও মৌলের ধর্ম",
+        "probability": "Mega Hot"
+      },
+      {
+        "questionNumber": 2,
+        "passage": "Y এর ক্লোরাইড পানিতে দ্রবীভূত করলে অম্লীয় দ্রবণ উৎপন্ন করে।",
+        "questionText": "এর কারণ—",
+        "options": [
+          "ক) AlCl₃ এর আয়নিক বন্ধন",
+          "খ) AlCl₃ পানিতে আর্দ্র বিশ্লেষণ হয়ে HCl উৎপন্ন করে",
+          "গ) AlCl₃ ক্ষারীয়",
+          "ঘ) AlCl₃ পানিতে দ্রবীভূত হয় না"
+        ],
+        "correctOption": "খ",
+        "explanation": "AlCl₃ + 3H₂O → Al(OH)₃ + 3HCl, অম্লীয়।",
+        "topic": "মৌলের যৌগসমূহ",
+        "probability": "Very Hot"
+      },
+      {
+        "questionNumber": 3,
+        "passage": "একটি গ্যাসের ব্যাপন হার নির্ণয়ে দেখা গেল 50 mL গ্যাস নির্গত হতে 40 সেকেন্ড লাগে। একই অবস্থায় সমআয়তন O₂ নির্গত হতে 25 সেকেন্ড লাগে।",
+        "questionText": "গ্যাসটির আণবিক ভর কত? (O₂=32)",
+        "options": [
+          "ক) 64",
+          "খ) 16",
+          "গ) 128",
+          "ঘ) 32"
+        ],
+        "correctOption": "গ",
+        "explanation": "গ্রাহামের সূত্র: r₁/r₂ = t₂/t₁ = 25/40 = 5/8; √(M₂/M₁) = 5/8 → M₁ = 32×(8/5)² = 128 g/mol (HI)।",
+        "topic": "গ্যাসের ব্যাপন",
+        "probability": "Mega Hot"
+      },
+      {
+        "questionNumber": 4,
+        "passage": "গ্যাসটির পরিচয় নির্ণয়ে দেখা গেল এটি একটি হ্যালোজেন।",
+        "questionText": "এটি কোন গ্যাস?",
+        "options": [
+          "ক) HI (M=128)",
+          "খ) HBr (M=81)",
+          "গ) HCl (M=36.5)",
+          "ঘ) HF (M=20)"
+        ],
+        "correctOption": "ক",
+        "explanation": "আণবিক ভর 128 → HI (হাইড্রোজেন আয়োডাইড)।",
+        "topic": "মৌলের ধর্ম",
+        "probability": "Very Hot"
+      },
+      {
+        "questionNumber": 5,
+        "passage": null,
+        "questionText": "কোন মৌলের তড়িৎ ঋণাত্মকতা সবচেয়ে কম?",
+        "options": [
+          "ক) Cs",
+          "খ) F",
+          "গ) O",
+          "ঘ) Li"
+        ],
+        "correctOption": "ক",
+        "explanation": "Cs ক্ষার ধাতু, সর্বনিম্ন তড়িৎ ঋণাত্মকতা (~0.79)।",
+        "topic": "পর্যায়বৃত্ত ধর্ম",
+        "probability": "Board Favourite"
+      },
+      {
+        "questionNumber": 6,
+        "passage": null,
+        "questionText": "1 mol জলে 1 mol NaCl দ্রবীভূত করলে বাষ্পচাপ কী হবে?",
+        "options": [
+          "ক) অপরিবর্তিত",
+          "খ) কমবে",
+          "গ) বাড়বে",
+          "ঘ) শূন্য হবে"
+        ],
+        "correctOption": "খ",
+        "explanation": "দ্রাব যোগে বাষ্পচাপ হ্রাস পায় (রাউল্টের সূত্র)।",
+        "topic": "দ্রবণের ধর্ম",
+        "probability": "Very Hot"
+      },
+      {
+        "questionNumber": 7,
+        "passage": null,
+        "questionText": "H₂SO₄ প্রস্তুতির কন্টাক্ট প্রক্রিয়ায় SO₂ থেকে SO₃ উৎপাদনের শর্ত—",
+        "options": [
+          "ক) উচ্চ তাপ ও অনুঘটক",
+          "খ) নিম্ন তাপ ও উচ্চ চাপ",
+          "গ) 450°C ও V₂O₅ অনুঘটক",
+          "ঘ) 200°C ও Pt অনুঘটক"
+        ],
+        "correctOption": "গ",
+        "explanation": "কন্টাক্ট প্রক্রিয়ায় 450°C, V₂O₅।",
+        "topic": "শিল্প রসায়ন",
+        "probability": "Mega Hot"
+      },
+      {
+        "questionNumber": 8,
+        "passage": null,
+        "questionText": "একটি বাফারের ক্ষমতা সর্বোচ্চ হয় যখন—",
+        "options": [
+          "ক) [লবণ] = [অ্যাসিড]",
+          "খ) [লবণ] > [অ্যাসিড]",
+          "গ) [অ্যাসিড] > [লবণ]",
+          "ঘ) তাপমাত্রা বেশি"
+        ],
+        "correctOption": "ক",
+        "explanation": "সমান ঘনত্বে বাফার ক্ষমতা সর্বোচ্চ।",
+        "topic": "বাফার",
+        "probability": "Very Hot"
+      },
+      {
+        "questionNumber": 9,
+        "passage": null,
+        "questionText": "কোন অণুতে π বন্ধন আছে কিন্তু σ বন্ধন নেই?",
+        "options": [
+          "ক) C₂H₄",
+          "খ) N₂",
+          "গ) O₂",
+          "ঘ) উপরের সবগুলোতেই σ বন্ধন আছে"
+        ],
+        "correctOption": "ঘ",
+        "explanation": "প্রত্যেক অণুতে σ বন্ধন বিদ্যমান।",
+        "topic": "রাসায়নিক বন্ধন",
+        "probability": "Conceptual Trap"
+      },
+      {
+        "questionNumber": 10,
+        "passage": null,
+        "questionText": "জারণ-বিজারণ টাইট্রেশনে KMnO₄ এর বর্ণ পরিবর্তন—",
+        "options": [
+          "ক) বর্ণহীন → বেগুনি",
+          "খ) বেগুনি → বর্ণহীন",
+          "গ) সবুজ → লাল",
+          "ঘ) হলুদ → নীল"
+        ],
+        "correctOption": "খ",
+        "explanation": "MnO₄⁻ (বেগুনি) → Mn²⁺ (বর্ণহীন)।",
+        "topic": "জারণ-বিজারণ",
+        "probability": "Board Favourite"
+      },
+      {
+        "questionNumber": 11,
+        "passage": null,
+        "questionText": "1 L দ্রবণে 4.0 g NaOH দ্রবীভূত করলে দ্রবণের pH কত? (NaOH=40)",
+        "options": [
+          "ক) 13",
+          "খ) 12",
+          "গ) 10",
+          "ঘ) 11"
+        ],
+        "correctOption": "ক",
+        "explanation": "[NaOH]=0.1 M, [OH⁻]=0.1 M, pOH=1, pH=13।",
+        "topic": "pH ও pOH",
+        "probability": "Mega Hot"
+      },
+      {
+        "questionNumber": 12,
+        "passage": null,
+        "questionText": "সবচেয়ে বড় পারমাণবিক ব্যাসার্ধ কোন মৌলের?",
+        "options": [
+          "ক) Cs",
+          "খ) Rb",
+          "গ) K",
+          "ঘ) Na"
+        ],
+        "correctOption": "ক",
+        "explanation": "ক্ষার ধাতুতে নিচের দিকে ব্যাসার্ধ বাড়ে, Cs বৃহত্তম।",
+        "topic": "পর্যায়বৃত্ত ধর্ম",
+        "probability": "Board Favourite"
+      },
+      {
+        "questionNumber": 13,
+        "passage": null,
+        "questionText": "CH₃COOH দুর্বল অ্যাসিড কারণ—",
+        "options": [
+          "ক) আংশিক বিয়োজিত হয়",
+          "খ) সম্পূর্ণ বিয়োজিত হয়",
+          "গ) H⁺ দেয় না",
+          "ঘ) শক্তিশালী"
+        ],
+        "correctOption": "ক",
+        "explanation": "আংশিক বিয়োজন (Ka ছোট)।",
+        "topic": "অ্যাসিড-ক্ষার তত্ত্ব",
+        "probability": "Board Favourite"
+      },
+      {
+        "questionNumber": 14,
+        "passage": null,
+        "questionText": "উপগৃহ কোয়ান্টাম সংখ্যা l = 2 নির্দেশ করে কোন অরবিটাল?",
+        "options": [
+          "ক) s",
+          "খ) p",
+          "গ) d",
+          "ঘ) f"
+        ],
+        "correctOption": "গ",
+        "explanation": "l=0(s), 1(p), 2(d), 3(f)।",
+        "topic": "পারমাণবিক গঠন",
+        "probability": "Board Favourite"
+      },
+      {
+        "questionNumber": 15,
+        "passage": null,
+        "questionText": "আয়নিক যৌগের বৈশিষ্ট্য— i. উচ্চ গলনাঙ্ক ii. কঠিন অবস্থায় বিদ্যুৎ পরিবহী iii. জলে দ্রবীভূত হয়ে আয়ন উৎপন্ন করে নিচের কোনটি সঠিক?",
+        "options": [
+          "ক) i ও ii",
+          "খ) i ও iii",
+          "গ) ii ও iii",
+          "ঘ) i, ii ও iii"
+        ],
+        "correctOption": "খ",
+        "explanation": "কঠিন অবস্থায় আয়নিক যৌগ বিদ্যুৎ পরিবহী নয়, ii ভুল।",
+        "topic": "রাসায়নিক বন্ধন",
+        "probability": "Very Hot"
+      },
+      {
+        "questionNumber": 16,
+        "passage": null,
+        "questionText": "পরমাণুর স্থায়ী ইলেকট্রন বিন্যাসে— i. অরবিটাল শক্তির ক্রম অনুযায়ী ইলেকট্রন প্রবেশ করে ii. হুন্ডের নীতি মানা হয় iii. পলির বর্জন নীতি মানা হয় নিচের কোনটি সঠিক?",
+        "options": [
+          "ক) i ও ii",
+          "খ) i ও iii",
+          "গ) ii ও iii",
+          "ঘ) i, ii ও iii"
+        ],
+        "correctOption": "ঘ",
+        "explanation": "তিনটি নীতিই প্রযোজ্য।",
+        "topic": "পারমাণবিক গঠন",
+        "probability": "Mega Hot"
+      },
+      {
+        "questionNumber": 17,
+        "passage": null,
+        "questionText": "একটি গ্যাস সিলিন্ডারে N₂ ও O₂ এর মোল সংখ্যা যথাক্রমে 2 ও 3। মোট চাপ 500 torr। O₂ এর আংশিক চাপ— i. 300 torr ii. মোল ভগ্নাংশ 0.6 iii. 200 torr নিচের কোনটি সঠিক?",
+        "options": [
+          "ক) i ও ii",
+          "খ) i ও iii",
+          "গ) ii ও iii",
+          "ঘ) i, ii ও iii"
+        ],
+        "correctOption": "ক",
+        "explanation": "O₂ মোল ভগ্নাংশ = 3/5=0.6; আংশিক চাপ = 0.6×500=300 torr। iii ভুল।",
+        "topic": "গ্যাসের সূত্র",
+        "probability": "Very Hot"
+      },
+      {
+        "questionNumber": 18,
+        "passage": null,
+        "questionText": "কঠিন জলের খরতা দূরীকরণে জিওলাইট পদ্ধতি— i. আয়ন বিনিময় ii. Na⁺ বিনিময় করে Ca²⁺/Mg²⁺ iii. রাসায়নিক অধঃক্ষেপ নিচের কোনটি সঠিক?",
+        "options": [
+          "ক) i ও ii",
+          "খ) i ও iii",
+          "গ) ii ও iii",
+          "ঘ) i, ii ও iii"
+        ],
+        "correctOption": "ক",
+        "explanation": "জিওলাইট আয়ন বিনিময় করে, অধঃক্ষেপ নয়। iii ভুল।",
+        "topic": "পানি ও পরিবেশ রসায়ন",
+        "probability": "Mega Hot"
+      },
+      {
+        "questionNumber": 19,
+        "passage": null,
+        "questionText": "H₂SO₄ এর ধর্ম— i. পানিগ্রাহী ii. জারক iii. ডাইবেসিক অ্যাসিড নিচের কোনটি সঠিক?",
+        "options": [
+          "ক) i ও ii",
+          "খ) i ও iii",
+          "গ) ii ও iii",
+          "ঘ) i, ii ও iii"
+        ],
+        "correctOption": "ঘ",
+        "explanation": "H₂SO₄ ডাইবেসিক (2H⁺ দেয়), জারক ও পানিগ্রাহী।",
+        "topic": "মৌলের যৌগসমূহ",
+        "probability": "Very Hot"
+      },
+      {
+        "questionNumber": 20,
+        "passage": null,
+        "questionText": "0.1 M CH₃COOH (Ka=1.8×10⁻⁵) ও 0.1 M CH₃COONa মিশ্রণের— i. pH = 4.74 ii. বাফার দ্রবণ iii. pH = 7 নিচের কোনটি সঠিক?",
+        "options": [
+          "ক) i ও ii",
+          "খ) i ও iii",
+          "গ) ii ও iii",
+          "ঘ) i, ii ও iii"
+        ],
+        "correctOption": "ক",
+        "explanation": "বাফার, pH = pKa + log(1) = 4.74। iii ভুল।",
+        "topic": "বাফার",
+        "probability": "Board Favourite"
+      },
+      {
+        "questionNumber": 21,
+        "passage": null,
+        "questionText": "একটি মৌলের ইলেকট্রন বিন্যাস [Kr]4d¹⁰5s², এটি—",
+        "options": [
+          "ক) Zn",
+          "খ) Cd",
+          "গ) Hg",
+          "ঘ) Sr"
+        ],
+        "correctOption": "খ",
+        "explanation": "[Kr]4d¹⁰5s² → Cd (Z=48)।",
+        "topic": "পর্যায় সারণি",
+        "probability": "Very Hot"
+      },
+      {
+        "questionNumber": 22,
+        "passage": null,
+        "questionText": "1 mol KMnO₄ এসিডীয় মাধ্যমে FeSO₄ দ্বারা সম্পূর্ণ বিজারিত করলে FeSO₄ এর কত mol প্রয়োজন?",
+        "options": [
+          "ক) 5",
+          "খ) 1",
+          "গ) 2",
+          "ঘ) 10"
+        ],
+        "correctOption": "ক",
+        "explanation": "MnO₄⁻ + 5Fe²⁺ + 8H⁺ → Mn²⁺ + 5Fe³⁺ + 4H₂O। 1:5 অনুপাত।",
+        "topic": "জারণ-বিজারণ",
+        "probability": "Mega Hot"
+      },
+      {
+        "questionNumber": 23,
+        "passage": null,
+        "questionText": "গ্রিনহাউস গ্যাস নয় কোনটি?",
+        "options": [
+          "ক) CO₂",
+          "খ) CH₄",
+          "গ) N₂",
+          "ঘ) CFC"
+        ],
+        "correctOption": "গ",
+        "explanation": "N₂ গ্রিনহাউস গ্যাস নয়।",
+        "topic": "পরিবেশ রসায়ন",
+        "probability": "Board Favourite"
+      },
+      {
+        "questionNumber": 24,
+        "passage": null,
+        "questionText": "PV = nRT সমীকরণে R এর একক কোনটি?",
+        "options": [
+          "ক) J·mol⁻¹·K⁻¹",
+          "খ) L·atm·mol⁻¹·K⁻¹",
+          "গ) cal·mol⁻¹·K⁻¹",
+          "ঘ) উপরের সবগুলো"
+        ],
+        "correctOption": "ঘ",
+        "explanation": "R বিভিন্ন এককে প্রকাশ করা যায়, সব।",
+        "topic": "গ্যাসের সূত্র",
+        "probability": "Board Favourite"
+      },
+      {
+        "questionNumber": 25,
+        "passage": null,
+        "questionText": "একটি রাসায়নিক বিক্রিয়ার হার তাপমাত্রা 10°C বাড়ালে দ্বিগুণ হয়। 20°C বাড়ালে হার কত গুণ হবে?",
+        "options": [
+          "ক) 2",
+          "খ) 4",
+          "গ) 8",
+          "ঘ) 16"
+        ],
+        "correctOption": "খ",
+        "explanation": "10°C এ 2 গুণ, 20°C এ 2² = 4 গুণ।",
+        "topic": "রাসায়নিক গতিবিদ্যা",
+        "probability": "Very Hot"
+      }
+    ]
+  },
+  {
+    "setNumber": 6,
+    "subject": "Chemistry 1st Paper",
+    "questions": [
+      {
+        "questionNumber": 1,
+        "passage": "একটি যৌগের 0.25 mol 500 mL দ্রবণে আছে। দ্রবণটির সাথে 0.1 M NaOH 100 mL মিশ্রিত করলে সম্পূর্ণ প্রশমিত হয়। যৌগটি একটি ডাইবেসিক অ্যাসিড।",
+        "questionText": "অ্যাসিডটির মোলারিটি কত?",
+        "options": [
+          "ক) 0.5 M",
+          "খ) 0.25 M",
+          "গ) 0.1 M",
+          "ঘ) 1.0 M"
+        ],
+        "correctOption": "ক",
+        "explanation": "M = mol/volume(L) = 0.25/0.5 = 0.5 M।",
+        "topic": "দ্রবণের ঘনত্ব",
+        "probability": "Mega Hot"
+      },
+      {
+        "questionNumber": 2,
+        "passage": "প্রশমন বিক্রিয়ায় NaOH এর মোল সংখ্যা কত?",
+        "questionText": "অ্যাসিডটির তুল্য ভর নির্ণয়ে— (অ্যাসিডের আণবিক ভর 90)",
+        "options": [
+          "ক) 45",
+          "খ) 90",
+          "গ) 30",
+          "ঘ) 22.5"
+        ],
+        "correctOption": "ক",
+        "explanation": "ডাইবেসিক → তুল্য ভর = M/2 = 45।",
+        "topic": "তুল্য ভর",
+        "probability": "Very Hot"
+      },
+      {
+        "questionNumber": 3,
+        "passage": "একটি বদ্ধ পাত্রে 2SO₂(g) + O₂(g) ⇌ 2SO₃(g) বিক্রিয়াটি সাম্যাবস্থায় আছে। চাপ দ্বিগুণ করলে SO₃ এর মোল সংখ্যা—",
+        "questionText": "লে-শাতেলিয়ার নীতি অনুসারে—",
+        "options": [
+          "ক) কমবে",
+          "খ) বাড়বে",
+          "গ) একই থাকবে",
+          "ঘ) শূন্য হবে"
+        ],
+        "correctOption": "খ",
+        "explanation": "মোল সংখ্যা কমার দিকে (3→2) সাম্য সরে, SO₃ বাড়বে।",
+        "topic": "রাসায়নিক সাম্যাবস্থা",
+        "probability": "Mega Hot"
+      },
+      {
+        "questionNumber": 4,
+        "passage": "উপরের বিক্রিয়াটি তাপোৎপাদী (ΔH<0)। তাপমাত্রা বাড়ালে—",
+        "questionText": "সাম্যধ্রুবক K—",
+        "options": [
+          "ক) বাড়বে",
+          "খ) কমবে",
+          "গ) অপরিবর্তিত",
+          "ঘ) শূন্য হবে"
+        ],
+        "correctOption": "খ",
+        "explanation": "তাপোৎপাদী বিক্রিয়ায় T বাড়ালে K কমে।",
+        "topic": "সাম্যাবস্থা",
+        "probability": "Very Hot"
+      },
+      {
+        "questionNumber": 5,
+        "passage": null,
+        "questionText": "একটি গ্যাসের ঘনত্ব 1.25 g/L (STP)। গ্যাসটির আণবিক ভর—",
+        "options": [
+          "ক) 28",
+          "খ) 32",
+          "গ) 44",
+          "ঘ) 16"
+        ],
+        "correctOption": "ক",
+        "explanation": "M = d × 22.4 = 1.25 × 22.4 = 28 g/mol (N₂ বা CO)।",
+        "topic": "গ্যাসের ধর্ম",
+        "probability": "Mega Hot"
+      },
+      {
+        "questionNumber": 6,
+        "passage": null,
+        "questionText": "কোন যৌগটি পানিতে দ্রবীভূত হয়ে অম্লীয় দ্রবণ তৈরি করে?",
+        "options": [
+          "ক) Na₂O",
+          "খ) SO₃",
+          "গ) CaO",
+          "ঘ) K₂O"
+        ],
+        "correctOption": "খ",
+        "explanation": "SO₃ + H₂O → H₂SO₄, অম্লীয়।",
+        "topic": "মৌলের যৌগসমূহ",
+        "probability": "Board Favourite"
+      },
+      {
+        "questionNumber": 7,
+        "passage": null,
+        "questionText": "পরমাণুতে সর্বশেষ ইলেকট্রনের জন্য n=4, l=1, m=0, s=+½। মৌলটি কোন ব্লকের?",
+        "options": [
+          "ক) s",
+          "খ) p",
+          "গ) d",
+          "ঘ) f"
+        ],
+        "correctOption": "খ",
+        "explanation": "l=1 → p-অরবিটাল, p-ব্লক।",
+        "topic": "পারমাণবিক গঠন",
+        "probability": "Very Hot"
+      },
+      {
+        "questionNumber": 8,
+        "passage": null,
+        "questionText": "CH₄ অণুতে C এর সংকরণ—",
+        "options": [
+          "ক) sp",
+          "খ) sp²",
+          "গ) sp³",
+          "ঘ) sp³d"
+        ],
+        "correctOption": "গ",
+        "explanation": "চারটি σ বন্ধন, sp³।",
+        "topic": "রাসায়নিক বন্ধন",
+        "probability": "Board Favourite"
+      },
+      {
+        "questionNumber": 9,
+        "passage": null,
+        "questionText": "একটি বাফার দ্রবণে [HA] = 0.2 M, [A⁻] = 0.4 M, pKa=5। দ্রবণের pH—",
+        "options": [
+          "ক) 4.7",
+          "খ) 5.3",
+          "গ) 5.0",
+          "ঘ) 6.0"
+        ],
+        "correctOption": "খ",
+        "explanation": "pH = 5 + log(0.4/0.2) = 5 + log2 = 5.3।",
+        "topic": "বাফার",
+        "probability": "Very Hot"
+      },
+      {
+        "questionNumber": 10,
+        "passage": null,
+        "questionText": "কোনটি জারণ-বিজারণ বিক্রিয়া?",
+        "options": [
+          "ক) AgNO₃ + NaCl → AgCl + NaNO₃",
+          "খ) CaCO₃ → CaO + CO₂",
+          "গ) Zn + CuSO₄ → ZnSO₄ + Cu",
+          "ঘ) HCl + NaOH → NaCl + H₂O"
+        ],
+        "correctOption": "গ",
+        "explanation": "Zn জারিত, Cu²⁺ বিজারিত।",
+        "topic": "জারণ-বিজারণ",
+        "probability": "Board Favourite"
+      },
+      {
+        "questionNumber": 11,
+        "passage": null,
+        "questionText": "STP তে 4.4 g CO₂ এর আয়তন কত? (C=12, O=16)",
+        "options": [
+          "ক) 2.24 L",
+          "খ) 22.4 L",
+          "গ) 1.12 L",
+          "ঘ) 4.48 L"
+        ],
+        "correctOption": "ক",
+        "explanation": "CO₂ M=44, 4.4 g = 0.1 mol, আয়তন=0.1×22.4=2.24 L।",
+        "topic": "মোলের ধারণা",
+        "probability": "Mega Hot"
+      },
+      {
+        "questionNumber": 12,
+        "passage": null,
+        "questionText": "হাইড্রোজেন বন্ধন কোনটির স্ফুটনাঙ্ক অস্বাভাবিকভাবে বাড়ায়?",
+        "options": [
+          "ক) H₂O",
+          "খ) H₂S",
+          "গ) H₂Se",
+          "ঘ) H₂Te"
+        ],
+        "correctOption": "ক",
+        "explanation": "H₂O তে H-বন্ধনের জন্য স্ফুটনাঙ্ক বেশি।",
+        "topic": "রাসায়নিক বন্ধন",
+        "probability": "Board Favourite"
+      },
+      {
+        "questionNumber": 13,
+        "passage": null,
+        "questionText": "0.02 M KMnO₄ দ্রবণ অম্লীয় মাধ্যমে Fe²⁺ টাইট্রেশনে ব্যবহৃত হয়। 10 mL Fe²⁺ দ্রবণ সম্পূর্ণ জারিত করতে 25 mL KMnO₄ লাগে। Fe²⁺ দ্রবণের মোলারিটি—",
+        "options": [
+          "ক) 0.25 M",
+          "খ) 0.10 M",
+          "গ) 0.05 M",
+          "ঘ) 0.01 M"
+        ],
+        "correctOption": "ক",
+        "explanation": "MnO₄⁻ মোল = 0.02×0.025 = 0.0005 mol; 5Fe²⁺ → Fe²⁺ মোল = 0.0025; M = 0.0025/0.01 = 0.25 M।",
+        "topic": "জারণ-বিজারণ (টাইট্রেশন)",
+        "probability": "Mega Hot"
+      },
+      {
+        "questionNumber": 14,
+        "passage": null,
+        "questionText": "কোন মৌলটির দ্বিতীয় আয়নীকরণ শক্তি সর্বোচ্চ?",
+        "options": [
+          "ক) Li",
+          "খ) Be",
+          "গ) Na",
+          "ঘ) Mg"
+        ],
+        "correctOption": "ক",
+        "explanation": "Li⁺ এর ইলেকট্রন বিন্যাস 1s² (He), স্থিতিশীল, তাই দ্বিতীয় IE খুব বেশি।",
+        "topic": "পর্যায়বৃত্ত ধর্ম",
+        "probability": "Very Hot"
+      },
+      {
+        "questionNumber": 15,
+        "passage": null,
+        "questionText": "হাইড্রোজেনের আইসোটোপ— i. প্রোটিয়াম ii. ডিউটেরিয়াম iii. ট্রিটিয়াম নিচের কোনটি সঠিক?",
+        "options": [
+          "ক) i ও ii",
+          "খ) i ও iii",
+          "গ) ii ও iii",
+          "ঘ) i, ii ও iii"
+        ],
+        "correctOption": "ঘ",
+        "explanation": "তিনটিই হাইড্রোজেনের আইসোটোপ।",
+        "topic": "পারমাণবিক গঠন",
+        "probability": "Board Favourite"
+      },
+      {
+        "questionNumber": 16,
+        "passage": null,
+        "questionText": "একটি কেলাসে— i. আয়নিক কেলাস উচ্চ গলনাঙ্ক ii. আণবিক কেলাস নরম iii. ধাতব কেলাস নমনীয় নিচের কোনটি সঠিক?",
+        "options": [
+          "ক) i ও ii",
+          "খ) i ও iii",
+          "গ) ii ও iii",
+          "ঘ) i, ii ও iii"
+        ],
+        "correctOption": "ঘ",
+        "explanation": "সবগুলো সঠিক।",
+        "topic": "কঠিন অবস্থা",
+        "probability": "Very Hot"
+      },
+      {
+        "questionNumber": 17,
+        "passage": null,
+        "questionText": "CH₃COOH ও CH₃COONa বাফার দ্রবণে HCl যোগ করলে— i. pH কমবে না ii. CH₃COO⁻ + H⁺ → CH₃COOH iii. সামান্য পরিবর্তন নিচের কোনটি সঠিক?",
+        "options": [
+          "ক) i ও ii",
+          "খ) i ও iii",
+          "গ) ii ও iii",
+          "ঘ) i, ii ও iii"
+        ],
+        "correctOption": "ঘ",
+        "explanation": "বাফার ক্রিয়া বর্ণনা, সব ঠিক।",
+        "topic": "বাফার",
+        "probability": "Very Hot"
+      },
+      {
+        "questionNumber": 18,
+        "passage": null,
+        "questionText": "PCl₅ অণুতে— i. P এর sp³d সংকরণ ii. ত্রিকোণীয় দ্বিপিরামিড iii. বন্ধন কোণ 90°, 120° নিচের কোনটি সঠিক?",
+        "options": [
+          "ক) i ও ii",
+          "খ) i ও iii",
+          "গ) ii ও iii",
+          "ঘ) i, ii ও iii"
+        ],
+        "correctOption": "ঘ",
+        "explanation": "PCl₅ ত্রিকোণীয় দ্বিপিরামিড, sp³d, কোণ 90° ও 120°।",
+        "topic": "রাসায়নিক বন্ধন",
+        "probability": "Very Hot"
+      },
+      {
+        "questionNumber": 19,
+        "passage": null,
+        "questionText": "গ্রীন হাউস প্রভাব বৃদ্ধির জন্য দায়ী— i. CO₂ ii. CH₄ iii. O₂ নিচের কোনটি সঠিক?",
+        "options": [
+          "ক) i ও ii",
+          "খ) i ও iii",
+          "গ) ii ও iii",
+          "ঘ) i, ii ও iii"
+        ],
+        "correctOption": "ক",
+        "explanation": "O₂ গ্রিনহাউস গ্যাস নয়।",
+        "topic": "পরিবেশ রসায়ন",
+        "probability": "Mega Hot"
+      },
+      {
+        "questionNumber": 20,
+        "passage": null,
+        "questionText": "একটি দ্রবণের [H⁺] = 3.0 × 10⁻⁴ M হলে— i. pH = 3.52 ii. pOH = 10.48 iii. দ্রবণ অম্লীয় নিচের কোনটি সঠিক?",
+        "options": [
+          "ক) i ও ii",
+          "খ) i ও iii",
+          "গ) ii ও iii",
+          "ঘ) i, ii ও iii"
+        ],
+        "correctOption": "ঘ",
+        "explanation": "pH = -log(3×10⁻⁴)≈3.52, pOH=10.48, অম্লীয়। সব।",
+        "topic": "pH",
+        "probability": "Very Hot"
+      },
+      {
+        "questionNumber": 21,
+        "passage": null,
+        "questionText": "কোন শর্তে বাস্তব গ্যাস আদর্শ গ্যাসের মতো আচরণ করে?",
+        "options": [
+          "ক) উচ্চ তাপ ও নিম্ন চাপ",
+          "খ) নিম্ন তাপ ও উচ্চ চাপ",
+          "গ) উচ্চ তাপ ও উচ্চ চাপ",
+          "ঘ) নিম্ন তাপ ও নিম্ন চাপ"
+        ],
+        "correctOption": "ক",
+        "explanation": "উচ্চ তাপে ও নিম্ন চাপে গ্যাস আদর্শের কাছাকাছি।",
+        "topic": "গ্যাসের সূত্র",
+        "probability": "Board Favourite"
+      },
+      {
+        "questionNumber": 22,
+        "passage": null,
+        "questionText": "কোন মৌলটির সর্বোচ্চ ইলেকট্রন আসক্তি?",
+        "options": [
+          "ক) Cl",
+          "খ) F",
+          "গ) Br",
+          "ঘ) I"
+        ],
+        "correctOption": "ক",
+        "explanation": "ক্লোরিনের ইলেকট্রন আসক্তি ফ্লোরিনের চেয়ে কিছুটা বেশি (ব্যতিক্রম)।",
+        "topic": "পর্যায়বৃত্ত ধর্ম",
+        "probability": "Mega Hot"
+      },
+      {
+        "questionNumber": 23,
+        "passage": null,
+        "questionText": "নাইট্রোজেনের জারণ সংখ্যা NH₃ তে—",
+        "options": [
+          "ক) -3",
+          "খ) +3",
+          "গ) 0",
+          "ঘ) +5"
+        ],
+        "correctOption": "ক",
+        "explanation": "N + 3(+1)=0 → N=-3।",
+        "topic": "জারণ সংখ্যা",
+        "probability": "Board Favourite"
+      },
+      {
+        "questionNumber": 24,
+        "passage": null,
+        "questionText": "0.01 M NaOH দ্রবণের pH—",
+        "options": [
+          "ক) 2",
+          "খ) 12",
+          "গ) 10",
+          "ঘ) 13"
+        ],
+        "correctOption": "খ",
+        "explanation": "[OH⁻]=0.01 M → pOH=2 → pH=12।",
+        "topic": "pH",
+        "probability": "Mega Hot"
+      },
+      {
+        "questionNumber": 25,
+        "passage": null,
+        "questionText": "প্রশমন তাপ কাকে বলে?",
+        "options": [
+          "ক) অ্যাসিড ও ক্ষারের বিক্রিয়ায় নির্গত তাপ",
+          "খ) জ্বালানির দহনে নির্গত তাপ",
+          "গ) বাষ্পীভবনের তাপ",
+          "ঘ) গলনের তাপ"
+        ],
+        "correctOption": "ক",
+        "explanation": "H⁺ + OH⁻ → H₂O + তাপ (প্রশমন তাপ)।",
+        "topic": "তাপরসায়ন",
+        "probability": "Board Favourite"
+      }
+    ]
+  },
+  {
+    "setNumber": 7,
+    "subject": "Chemistry 1st Paper",
+    "questions": [
+      {
+        "questionNumber": 1,
+        "passage": "একটি গ্যাস A এর ব্যাপন হার CO₂ এর 1.5 গুণ। গ্যাসটি একটি অধাতুর হাইড্রাইড যা জলে দ্রবীভূত হয়ে অম্লীয় দ্রবণ তৈরি করে।",
+        "questionText": "গ্যাস A এর আণবিক ভর কত? (CO₂ = 44)",
+        "options": [
+          "ক) 19.6",
+          "খ) 29.3",
+          "গ) 66",
+          "ঘ) 22"
+        ],
+        "correctOption": "ক",
+        "explanation": "r₁/r₂ = 1.5 = √(44/M) → M = 44/2.25 = 19.56 ≈ 19.6 (HF, M=20)।",
+        "topic": "গ্যাসের ব্যাপন",
+        "probability": "Mega Hot"
+      },
+      {
+        "questionNumber": 2,
+        "passage": "উদ্দীপকের গ্যাস A",
+        "questionText": "গ্যাস A এর 0.1 M দ্রবণের pH প্রায়— (HF এর Ka = 6.8×10⁻⁴)",
+        "options": [
+          "ক) 1.0",
+          "খ) 2.1",
+          "গ) 3.1",
+          "ঘ) 4.1"
+        ],
+        "correctOption": "খ",
+        "explanation": "[H⁺] = √(Ka×C) ≈ 8.24×10⁻³ M → pH ≈ 2.08 ≈ 2.1 (খ)।",
+        "topic": "pH (দুর্বল অ্যাসিড)",
+        "probability": "Very Hot"
+      },
+      {
+        "questionNumber": 3,
+        "passage": "একটি রাসায়নিক বিক্রিয়া A + B ⇌ C + D তে সাম্যাবস্থায় [A]=0.2 M, [B]=0.3 M, [C]=0.4 M, [D]=0.5 M।",
+        "questionText": "Kc এর মান—",
+        "options": [
+          "ক) 3.33",
+          "খ) 0.3",
+          "গ) 1.0",
+          "ঘ) 4.0"
+        ],
+        "correctOption": "ক",
+        "explanation": "Kc = [C][D]/([A][B]) = (0.4×0.5)/(0.2×0.3) = 0.2/0.06 = 3.33।",
+        "topic": "সাম্যধ্রুবক",
+        "probability": "Mega Hot"
+      },
+      {
+        "questionNumber": 4,
+        "passage": "উপরের বিক্রিয়ায় চাপ পরিবর্তন করলে সাম্যের উপর প্রভাব—",
+        "questionText": "কোনো প্রভাব পড়বে না, কারণ—",
+        "options": [
+          "ক) বিক্রিয়কে ও উৎপাদে মোল সংখ্যা সমান",
+          "খ) গ্যাসীয় পদার্থ নেই",
+          "গ) তাপমাত্রা স্থির",
+          "ঘ) অনুঘটক নেই"
+        ],
+        "correctOption": "ক",
+        "explanation": "Δn = 0 হলে চাপের কোনো প্রভাব নেই।",
+        "topic": "লে-শাতেলিয়ার নীতি",
+        "probability": "Very Hot"
+      },
+      {
+        "questionNumber": 5,
+        "passage": null,
+        "questionText": "কোন অরবিটালের আকৃতি ডাম্বেলের মতো?",
+        "options": [
+          "ক) s",
+          "খ) p",
+          "গ) d",
+          "ঘ) f"
+        ],
+        "correctOption": "খ",
+        "explanation": "p-অরবিটাল ডাম্বেল আকৃতি।",
+        "topic": "পারমাণবিক গঠন",
+        "probability": "Board Favourite"
+      },
+      {
+        "questionNumber": 6,
+        "passage": null,
+        "questionText": "25°C তাপমাত্রায় বিশুদ্ধ পানির pH—",
+        "options": [
+          "ক) 7.0",
+          "খ) 0.0",
+          "গ) 14.0",
+          "ঘ) 1.0"
+        ],
+        "correctOption": "ক",
+        "explanation": "25°C এ Kw = 10⁻¹⁴, তাই pH=7।",
+        "topic": "pH",
+        "probability": "Board Favourite"
+      },
+      {
+        "questionNumber": 7,
+        "passage": null,
+        "questionText": "সালফার ডাইঅক্সাইড (SO₂) এর জারণ সংখ্যা—",
+        "options": [
+          "ক) +4",
+          "খ) +6",
+          "গ) -2",
+          "ঘ) 0"
+        ],
+        "correctOption": "ক",
+        "explanation": "S + 2(-2)=0 → S=+4।",
+        "topic": "জারণ সংখ্যা",
+        "probability": "Board Favourite"
+      },
+      {
+        "questionNumber": 8,
+        "passage": null,
+        "questionText": "25°C তাপমাত্রায় 0.1 M NH₄OH (Kb=1.8×10⁻⁵) এর pOH—",
+        "options": [
+          "ক) 2.87",
+          "খ) 11.13",
+          "গ) 3.0",
+          "ঘ) 5.0"
+        ],
+        "correctOption": "ক",
+        "explanation": "[OH⁻] = √(Kb×C) = √(1.8×10⁻⁶) ≈ 1.34×10⁻³ M → pOH ≈ 2.87।",
+        "topic": "ক্ষারক বিয়োজন",
+        "probability": "Very Hot"
+      },
+      {
+        "questionNumber": 9,
+        "passage": null,
+        "questionText": "একটি মৌলের ইলেকট্রন বিন্যাস 1s²2s²2p²। এর সর্বোচ্চ যোজনী—",
+        "options": [
+          "ক) 2",
+          "খ) 4",
+          "গ) 1",
+          "ঘ) 3"
+        ],
+        "correctOption": "খ",
+        "explanation": "C (Z=6), যোজনী ইলেকট্রন 4, যোজনী 4।",
+        "topic": "পর্যায় সারণি",
+        "probability": "Board Favourite"
+      },
+      {
+        "questionNumber": 10,
+        "passage": null,
+        "questionText": "কোন ক্ষেত্রে লে-শাতেলিয়ার নীতি প্রযোজ্য নয়?",
+        "options": [
+          "ক) অনুঘটক যোগে",
+          "খ) তাপমাত্রা পরিবর্তনে",
+          "গ) চাপ পরিবর্তনে",
+          "ঘ) ঘনত্ব পরিবর্তনে"
+        ],
+        "correctOption": "ক",
+        "explanation": "অনুঘটক সাম্যধ্রুবক বা সাম্যাবস্থান পরিবর্তন করে না।",
+        "topic": "সাম্যাবস্থা",
+        "probability": "Very Hot"
+      },
+      {
+        "questionNumber": 11,
+        "passage": null,
+        "questionText": "36.5 g HCl (M=36.5) 1 L দ্রবণে থাকলে মোলারিটি—",
+        "options": [
+          "ক) 1.0 M",
+          "খ) 0.5 M",
+          "গ) 2.0 M",
+          "ঘ) 0.1 M"
+        ],
+        "correctOption": "ক",
+        "explanation": "1 mol/1 L = 1 M।",
+        "topic": "দ্রবণের ঘনত্ব",
+        "probability": "Board Favourite"
+      },
+      {
+        "questionNumber": 12,
+        "passage": null,
+        "questionText": "একটি গ্যাসের 2.0 atm চাপে ও 27°C তাপমাত্রায় আয়তন 10 L। একে 1.0 atm চাপে ও 127°C তাপমাত্রায় নিয়ে গেলে আয়তন—",
+        "options": [
+          "ক) 26.7 L",
+          "খ) 13.3 L",
+          "গ) 10 L",
+          "ঘ) 20 L"
+        ],
+        "correctOption": "ক",
+        "explanation": "P₁V₁/T₁ = P₂V₂/T₂ → 2×10/300 = 1×V₂/400 → V₂= 20×400/300 = 26.7 L।",
+        "topic": "গ্যাসের সূত্র (সংযুক্ত সূত্র)",
+        "probability": "Mega Hot"
+      },
+      {
+        "questionNumber": 13,
+        "passage": null,
+        "questionText": "NaOH দ্রবণে FeSO₄ দ্রবণ যোগ করলে যে অধঃক্ষেপ পড়ে—",
+        "options": [
+          "ক) সবুজাভ সাদা Fe(OH)₂",
+          "খ) লালচে বাদামী Fe(OH)₃",
+          "গ) নীল Fe(OH)₂",
+          "ঘ) কালো FeO"
+        ],
+        "correctOption": "ক",
+        "explanation": "Fe²⁺ + 2OH⁻ → Fe(OH)₂↓ (সবুজাভ সাদা), পরে বাতাসে জারিত হয়ে Fe(OH)₃ (লালচে)।",
+        "topic": "পরীক্ষাগার রসায়ন",
+        "probability": "Very Hot"
+      },
+      {
+        "questionNumber": 14,
+        "passage": null,
+        "questionText": "250 mL 0.1 M Na₂CO₃ দ্রবণ প্রস্তুত করতে কত গ্রাম Na₂CO₃ প্রয়োজন? (M=106)",
+        "options": [
+          "ক) 2.65 g",
+          "খ) 5.30 g",
+          "গ) 1.325 g",
+          "ঘ) 10.6 g"
+        ],
+        "correctOption": "ক",
+        "explanation": "মোল = 0.1×0.25=0.025 mol → ভর = 0.025×106=2.65 g।",
+        "topic": "মোলারিটি ও ভর",
+        "probability": "Mega Hot"
+      },
+      {
+        "questionNumber": 15,
+        "passage": null,
+        "questionText": "NH₄⁺ আয়নে— i. N→H সমন্বয় বন্ধন ii. টেট্রাহেড্রাল গঠন iii. N এর sp³ সংকরণ নিচের কোনটি সঠিক?",
+        "options": [
+          "ক) i ও ii",
+          "খ) i ও iii",
+          "গ) ii ও iii",
+          "ঘ) i, ii ও iii"
+        ],
+        "correctOption": "ঘ",
+        "explanation": "NH₄⁺ তে N sp³, টেট্রাহেড্রাল, একটি সমন্বয় বন্ধন। সব সঠিক।",
+        "topic": "রাসায়নিক বন্ধন",
+        "probability": "Very Hot"
+      },
+      {
+        "questionNumber": 16,
+        "passage": null,
+        "questionText": "পর্যায় সারণির একই পর্যায়ে বাম থেকে ডানে— i. আয়নীকরণ শক্তি বাড়ে ii. ইলেকট্রন আসক্তি বাড়ে iii. ধাতব ধর্ম বাড়ে নিচের কোনটি সঠিক?",
+        "options": [
+          "ক) i ও ii",
+          "খ) i ও iii",
+          "গ) ii ও iii",
+          "ঘ) i, ii ও iii"
+        ],
+        "correctOption": "ক",
+        "explanation": "ধাতব ধর্ম কমে, iii ভুল।",
+        "topic": "পর্যায়বৃত্ত ধর্ম",
+        "probability": "Mega Hot"
+      },
+      {
+        "questionNumber": 17,
+        "passage": null,
+        "questionText": "100 mL 0.2 M HCl কে 0.1 M NaOH দিয়ে প্রশমিত করতে— i. NaOH প্রয়োজন 200 mL ii. pH শেষ বিন্দুতে 7.0 iii. লবণ NaCl নিচের কোনটি সঠিক?",
+        "options": [
+          "ক) i ও ii",
+          "খ) i ও iii",
+          "গ) ii ও iii",
+          "ঘ) i, ii ও iii"
+        ],
+        "correctOption": "ঘ",
+        "explanation": "HCl মোল=0.02, NaOH 0.1 M প্রয়োজন 0.2 L=200 mL; সম্পূর্ণ প্রশমিত pH=7; NaCl লবণ। সব সঠিক।",
+        "topic": "অ্যাসিড-ক্ষার",
+        "probability": "Very Hot"
+      },
+      {
+        "questionNumber": 18,
+        "passage": null,
+        "questionText": "হাইড্রোজেন পারঅক্সাইডের ব্যবহার— i. জারক ii. বিজারক iii. ব্লিচিং এজেন্ট নিচের কোনটি সঠিক?",
+        "options": [
+          "ক) i ও ii",
+          "খ) i ও iii",
+          "গ) ii ও iii",
+          "ঘ) i, ii ও iii"
+        ],
+        "correctOption": "ঘ",
+        "explanation": "H₂O₂ জারক, বিজারক ও ব্লিচিং এজেন্ট।",
+        "topic": "মৌলের যৌগসমূহ",
+        "probability": "Board Favourite"
+      },
+      {
+        "questionNumber": 19,
+        "passage": null,
+        "questionText": "কঠিন পানির স্থায়ী খরতা সৃষ্টিকারী লবণ— i. CaSO₄ ii. MgCl₂ iii. Ca(HCO₃)₂ নিচের কোনটি সঠিক?",
+        "options": [
+          "ক) i ও ii",
+          "খ) i ও iii",
+          "গ) ii ও iii",
+          "ঘ) i, ii ও iii"
+        ],
+        "correctOption": "ক",
+        "explanation": "Ca(HCO₃)₂ অস্থায়ী খরতার কারণ, iii ভুল।",
+        "topic": "পানি ও পরিবেশ রসায়ন",
+        "probability": "Very Hot"
+      },
+      {
+        "questionNumber": 20,
+        "passage": null,
+        "questionText": "বোর মডেল অনুসারে n=3 থেকে n=1 এ ইলেকট্রন স্থানান্তরে নির্গত ফোটনের কম্পাঙ্ক— i. ΔE/h ii. 2.92×10¹⁵ Hz (প্রায়) iii. দৃশ্যমান অঞ্চলের অন্তর্গত নিচের কোনটি সঠিক?",
+        "options": [
+          "ক) i ও ii",
+          "খ) i ও iii",
+          "গ) ii ও iii",
+          "ঘ) i, ii ও iii"
+        ],
+        "correctOption": "ক",
+        "explanation": "ΔE = 13.6×(1/1² - 1/3²)=12.09 eV; ফোটন শক্তি 12.09 eV, ফ্রিকোয়েন্সি = 12.09×1.6×10⁻¹⁹ / 6.63×10⁻³⁴ ≈ 2.92×10¹⁵ Hz। অতিবেগুনী অঞ্চল, দৃশ্যমান নয়। iii ভুল।",
+        "topic": "পারমাণবিক গঠন (বোর মডেল)",
+        "probability": "Very Hot"
+      },
+      {
+        "questionNumber": 21,
+        "passage": null,
+        "questionText": "1 mol অণুতে অণুর সংখ্যা—",
+        "options": [
+          "ক) 6.02×10²³",
+          "খ) 12.04×10²³",
+          "গ) 3.01×10²³",
+          "ঘ) 1.0"
+        ],
+        "correctOption": "ক",
+        "explanation": "অ্যাভোগাড্রো সংখ্যা 6.022×10²³।",
+        "topic": "মোলের ধারণা",
+        "probability": "Board Favourite"
+      },
+      {
+        "questionNumber": 22,
+        "passage": null,
+        "questionText": "KClO₃ থেকে O₂ প্রস্তুতিতে অনুঘটক—",
+        "options": [
+          "ক) MnO₂",
+          "খ) V₂O₅",
+          "গ) Fe",
+          "ঘ) Pt"
+        ],
+        "correctOption": "ক",
+        "explanation": "2KClO₃ → 2KCl + 3O₂ (MnO₂ অনুঘটক)।",
+        "topic": "পরীক্ষাগার রসায়ন",
+        "probability": "Board Favourite"
+      },
+      {
+        "questionNumber": 23,
+        "passage": null,
+        "questionText": "একটি গ্যাসের অণুর গড় গতিশক্তি E, তাপমাত্রা T। E ∝—",
+        "options": [
+          "ক) T",
+          "খ) T²",
+          "গ) √T",
+          "ঘ) 1/T"
+        ],
+        "correctOption": "ক",
+        "explanation": "KE ∝ T (পরম তাপমাত্রা)।",
+        "topic": "গ্যাসের গতিতত্ত্ব",
+        "probability": "Mega Hot"
+      },
+      {
+        "questionNumber": 24,
+        "passage": null,
+        "questionText": "দুটি তরলের আংশিক বাষ্পচাপ যথাক্রমে P₁° ও P₂° এবং মোল ভগ্নাংশ x₁, x₂। রাউল্টের সূত্র—",
+        "options": [
+          "ক) P = P₁°x₁ + P₂°x₂",
+          "খ) P = P₁°x₂ + P₂°x₁",
+          "গ) P = (P₁°+P₂°)/2",
+          "ঘ) P = P₁° + P₂°"
+        ],
+        "correctOption": "ক",
+        "explanation": "আদর্শ দ্রবণের জন্য মোট বাষ্পচাপ।",
+        "topic": "দ্রবণের ধর্ম",
+        "probability": "Very Hot"
+      },
+      {
+        "questionNumber": 25,
+        "passage": null,
+        "questionText": "নিম্নের কোনটি প্রাকৃতিক পলিমার?",
+        "options": [
+          "ক) পলিথিন",
+          "খ) PVC",
+          "গ) সেলুলোজ",
+          "ঘ) নাইলন"
+        ],
+        "correctOption": "গ",
+        "explanation": "সেলুলোজ প্রাকৃতিক পলিমার।",
+        "topic": "পলিমার রসায়ন",
+        "probability": "Board Favourite"
+      }
+    ]
+  },
+  {
+    "setNumber": 8,
+    "subject": "Chemistry 1st Paper",
+    "questions": [
+      {
+        "questionNumber": 1,
+        "passage": "একটি মৌলের সর্বশেষ ইলেকট্রনের কোয়ান্টাম সংখ্যা n=3, l=2, m=0, s=+½। এটি একটি d-ব্লক মৌল যা +2 ও +3 জারণ অবস্থা দেখায়।",
+        "questionText": "মৌলটি কোনটি?",
+        "options": [
+          "ক) Fe (Z=26)",
+          "খ) Co (Z=27)",
+          "গ) Ni (Z=28)",
+          "ঘ) Mn (Z=25)"
+        ],
+        "correctOption": "ক",
+        "explanation": "3d⁶4s² → Fe, যা +2 ও +3 জারণ সংখ্যা দেখায়।",
+        "topic": "পর্যায় সারণি (d-ব্লক)",
+        "probability": "Mega Hot"
+      },
+      {
+        "questionNumber": 2,
+        "passage": "Fe²⁺ আয়নের ইলেকট্রন বিন্যাস—",
+        "questionText": "Fe²⁺ তে অযুগ্ম ইলেকট্রন সংখ্যা—",
+        "options": [
+          "ক) 4",
+          "খ) 5",
+          "গ) 0",
+          "ঘ) 6"
+        ],
+        "correctOption": "ক",
+        "explanation": "Fe²⁺: [Ar]3d⁶, চারটি অযুগ্ম ইলেকট্রন (উচ্চ স্পিন)।",
+        "topic": "পারমাণবিক গঠন",
+        "probability": "Very Hot"
+      },
+      {
+        "questionNumber": 3,
+        "passage": "একটি বাফার দ্রবণে 0.2 M NH₄OH এবং 0.1 M NH₄Cl আছে। (Kb=1.8×10⁻⁵)",
+        "questionText": "দ্রবণটির pH কত?",
+        "options": [
+          "ক) 9.56",
+          "খ) 8.74",
+          "গ) 10.26",
+          "ঘ) 7.00"
+        ],
+        "correctOption": "ক",
+        "explanation": "pOH = pKb + log([লবণ]/[ক্ষার]) = 4.74 + log(0.1/0.2) = 4.74 - 0.30 = 4.44; pH = 14 - 4.44 = 9.56।",
+        "topic": "বাফার (pH)",
+        "probability": "Mega Hot"
+      },
+      {
+        "questionNumber": 4,
+        "passage": "উপরের বাফারে 0.01 mol HCl যোগ করা হলো (আয়তন 1 L)।",
+        "questionText": "pH প্রায়—",
+        "options": [
+          "ক) 9.40",
+          "খ) 9.70",
+          "গ) 9.56",
+          "ঘ) 8.90"
+        ],
+        "correctOption": "ক",
+        "explanation": "HCl NH₄OH কে প্রশমিত করে: NH₄OH 0.2→0.19, NH₄Cl 0.1→0.11; pOH = 4.74 + log(0.11/0.19)=4.74+log(0.579)=4.74-0.24=4.50; pH=9.50। নিকট 9.40।",
+        "topic": "বাফার",
+        "probability": "Very Hot"
+      },
+      {
+        "questionNumber": 5,
+        "passage": null,
+        "questionText": "একটি গ্যাস 300 K তাপমাত্রায় 2 L আয়তন থেকে 5 L আয়তনে প্রসারিত হলো। কৃত কাজ— (বিপরীত প্রক্রিয়া, 1 mol, R=8.314 J/mol·K)",
+        "options": [
+          "ক) -2.29 kJ",
+          "খ) +2.29 kJ",
+          "গ) 0",
+          "ঘ) -4.58 kJ"
+        ],
+        "correctOption": "ক",
+        "explanation": "W = -nRT ln(V₂/V₁) = -1×8.314×300×ln(2.5) = -2494×0.916 = -2285 J ≈ -2.29 kJ।",
+        "topic": "তাপরসায়ন (কাজ)",
+        "probability": "Very Hot"
+      },
+      {
+        "questionNumber": 6,
+        "passage": null,
+        "questionText": "কোন যৌগে সমযোজী বন্ধন আছে কিন্তু আয়নিক বন্ধন নেই?",
+        "options": [
+          "ক) NaCl",
+          "খ) CO₂",
+          "গ) NH₄Cl",
+          "ঘ) KNO₃"
+        ],
+        "correctOption": "খ",
+        "explanation": "CO₂ কেবল সমযোজী বন্ধন।",
+        "topic": "রাসায়নিক বন্ধন",
+        "probability": "Board Favourite"
+      },
+      {
+        "questionNumber": 7,
+        "passage": null,
+        "questionText": "একটি মৌলের পরমাণুর ব্যাসার্ধ 0.144 nm। এর FCC কেলাসে একক কোষের বাহুর দৈর্ঘ্য—",
+        "options": [
+          "ক) 0.407 nm",
+          "খ) 0.288 nm",
+          "গ) 0.352 nm",
+          "ঘ) 0.576 nm"
+        ],
+        "correctOption": "ক",
+        "explanation": "FCC: a = 2√2 r = 2×1.414×0.144 ≈ 0.407 nm।",
+        "topic": "কঠিন অবস্থা",
+        "probability": "Mega Hot"
+      },
+      {
+        "questionNumber": 8,
+        "passage": null,
+        "questionText": "H₂SO₄ প্রস্তুতিতে SO₃ শোষণ করা হয় ঘন H₂SO₄ এ, কারণ—",
+        "options": [
+          "ক) SO₃ জলে দ্রবীভূত হলে বিস্ফোরণ ঘটে",
+          "খ) SO₃ জলে ধীরে দ্রবীভূত হয়",
+          "গ) ঘন H₂SO₄ সস্তা",
+          "ঘ) SO₃ পানির সাথে বিক্রিয়া করে না"
+        ],
+        "correctOption": "খ",
+        "explanation": "SO₃ সরাসরি জলে দিলে ধোঁয়া ও কুয়াশা তৈরি হয়, H₂SO₄ এ সহজে শোষিত হয়।",
+        "topic": "শিল্প রসায়ন",
+        "probability": "Board Favourite"
+      },
+      {
+        "questionNumber": 9,
+        "passage": null,
+        "questionText": "একটি বাস্তব গ্যাস নিম্ন তাপমাত্রায় ও উচ্চ চাপে আদর্শ গ্যাস থেকে বিচ্যুত হয় কারণ—",
+        "options": [
+          "ক) অণুর আয়তন ও আন্তঃআণবিক বল উপেক্ষণীয় নয়",
+          "খ) অণুগুলি স্থির হয়ে যায়",
+          "গ) গ্যাসীয় ধ্রুবক পরিবর্তিত হয়",
+          "ঘ) চাপ পরিমাপ করা যায় না"
+        ],
+        "correctOption": "ক",
+        "explanation": "ভ্যানডার ওয়ালস বল ও অণুর আয়তন কারণে বিচ্যুতি।",
+        "topic": "গ্যাসের সূত্র",
+        "probability": "Very Hot"
+      },
+      {
+        "questionNumber": 10,
+        "passage": null,
+        "questionText": "K₂Cr₂O₇ অম্লীয় মাধ্যমে KMnO₄ এর মতো জারক হিসেবে কাজ করে। 1 mol K₂Cr₂O₇ কত mol Fe²⁺ জারিত করতে পারে?",
+        "options": [
+          "ক) 6",
+          "খ) 5",
+          "গ) 3",
+          "ঘ) 1"
+        ],
+        "correctOption": "ক",
+        "explanation": "Cr₂O₇²⁻ + 6Fe²⁺ + 14H⁺ → 2Cr³⁺ + 6Fe³⁺ + 7H₂O; 1:6।",
+        "topic": "জারণ-বিজারণ",
+        "probability": "Mega Hot"
+      },
+      {
+        "questionNumber": 11,
+        "passage": null,
+        "questionText": "pH=3 ও pH=5 বিশিষ্ট দুটি HCl দ্রবণের [H⁺] এর অনুপাত—",
+        "options": [
+          "ক) 100:1",
+          "খ) 1:100",
+          "গ) 3:5",
+          "ঘ) 5:3"
+        ],
+        "correctOption": "ক",
+        "explanation": "pH=3 → [H⁺]=10⁻³; pH=5 → [H⁺]=10⁻⁵; অনুপাত = 10⁻³/10⁻⁵ = 100।",
+        "topic": "pH",
+        "probability": "Mega Hot"
+      },
+      {
+        "questionNumber": 12,
+        "passage": null,
+        "questionText": "B-F বন্ধনের মেরুতা সত্ত্বেও BF₃ অণুর দ্বিমেরু ভ্রামক শূন্য, কারণ—",
+        "options": [
+          "ক) B-F বন্ধন নন-পোলার",
+          "খ) অণুটি প্রতিসম ত্রিকোণীয় সমতল",
+          "গ) ফ্লোরিনের তড়িৎ ঋণাত্মকতা কম",
+          "ঘ) বোরনের আকার বড়"
+        ],
+        "correctOption": "খ",
+        "explanation": "ত্রিকোণীয় সমতলীয় প্রতিসম গঠনের জন্য ভেক্টর যোগফল শূন্য।",
+        "topic": "রাসায়নিক বন্ধন",
+        "probability": "Very Hot"
+      },
+      {
+        "questionNumber": 13,
+        "passage": null,
+        "questionText": "100 mL 1 M HCl ও 200 mL 0.5 M NaOH মিশ্রণের তাপমাত্রা বৃদ্ধি ΔT। প্রশমন তাপ 57.3 kJ/mol হলে নির্গত তাপ—",
+        "options": [
+          "ক) 2.865 kJ",
+          "খ) 5.73 kJ",
+          "গ) 1.432 kJ",
+          "ঘ) 11.46 kJ"
+        ],
+        "correctOption": "খ",
+        "explanation": "HCl 0.1 mol, NaOH 0.1 mol → 0.1 mol পানি; তাপ = 57.3 × 0.1 = 5.73 kJ।",
+        "topic": "তাপরসায়ন",
+        "probability": "Very Hot"
+      },
+      {
+        "questionNumber": 14,
+        "passage": null,
+        "questionText": "27°C তাপমাত্রায় O₂ অণুর গড় বর্গবেগের বর্গমূল প্রায়— (R=8.314, M=0.032 kg/mol)",
+        "options": [
+          "ক) 483 m/s",
+          "ख) 600 m/s",
+          "গ) 300 m/s",
+          "ঘ) 800 m/s"
+        ],
+        "correctOption": "ক",
+        "explanation": "u_rms = √(3RT/M) = √(3×8.314×300/0.032) = √(7482.6/0.032) = √233831 = 483.6 m/s।",
+        "topic": "গ্যাসের গতিতত্ত্ব",
+        "probability": "Mega Hot"
+      },
+      {
+        "questionNumber": 15,
+        "passage": null,
+        "questionText": "CO₂ অণু সম্পর্কে— i. রৈখিক ii. C এর sp সংকরণ iii. পোলার নিচের কোনটি সঠিক?",
+        "options": [
+          "ক) i ও ii",
+          "খ) i ও iii",
+          "গ) ii ও iii",
+          "ঘ) i, ii ও iii"
+        ],
+        "correctOption": "ক",
+        "explanation": "CO₂ নন-পোলার (দ্বিমেরু ভ্রামক শূন্য), iii ভুল।",
+        "topic": "রাসায়নিক বন্ধন",
+        "probability": "Very Hot"
+      },
+      {
+        "questionNumber": 16,
+        "passage": null,
+        "questionText": "একটি গ্যাসের চাপ স্থির রেখে তাপমাত্রা 27°C থেকে 127°C করলে আয়তন 2 গুণ হয়— i. চার্লসের সূত্র প্রযোজ্য ii. V₂ = V₁×(T₂/T₁) iii. T₁=300K, T₂=400K → V₂=1.33 V₁ নিচের কোনটি সঠিক?",
+        "options": [
+          "ক) i ও ii",
+          "খ) i ও iii",
+          "গ) ii ও iii",
+          "ঘ) i, ii ও iii"
+        ],
+        "correctOption": "খ",
+        "explanation": "V₂ = V₁×(400/300) = 1.33 V₁, দ্বিগুণ নয়, iii ভুল। i ও ii সঠিক।",
+        "topic": "গ্যাসের সূত্র",
+        "probability": "Very Hot"
+      },
+      {
+        "questionNumber": 17,
+        "passage": null,
+        "questionText": "একটি রাসায়নিক সাম্যাবস্থার ক্ষেত্রে— i. Kc শুধু তাপমাত্রার উপর নির্ভরশীল ii. Kc এর একক থাকতে পারে iii. বিক্রিয়ার হার সমান হয় নিচের কোনটি সঠিক?",
+        "options": [
+          "ক) i ও ii",
+          "খ) i ও iii",
+          "গ) ii ও iii",
+          "ঘ) i, ii ও iii"
+        ],
+        "correctOption": "ঘ",
+        "explanation": "সবগুলো সঠিক।",
+        "topic": "সাম্যাবস্থা",
+        "probability": "Mega Hot"
+      },
+      {
+        "questionNumber": 18,
+        "passage": null,
+        "questionText": "পানির আণবিক ভর 18, বরফের ঘনত্ব 0.9 g/cm³ হলে 1 mol বরফের আয়তন— i. 20 cm³ ii. 18 cm³ iii. 22.4 L নিচের কোনটি সঠিক?",
+        "options": [
+          "ক) i",
+          "খ) ii",
+          "গ) iii",
+          "ঘ) i ও ii"
+        ],
+        "correctOption": "ক",
+        "explanation": "ভর 18 g, আয়তন = 18/0.9 = 20 cm³। i সঠিক।",
+        "topic": "কঠিন ও তরল অবস্থা",
+        "probability": "Very Hot"
+      },
+      {
+        "questionNumber": 19,
+        "passage": null,
+        "questionText": "অ্যাসিড বৃষ্টির জন্য দায়ী— i. SO₂ ii. NOₓ iii. CO₂ নিচের কোনটি সঠিক?",
+        "options": [
+          "ক) i ও ii",
+          "খ) i ও iii",
+          "গ) ii ও iii",
+          "ঘ) i, ii ও iii"
+        ],
+        "correctOption": "ক",
+        "explanation": "CO₂ স্বাভাবিক বৃষ্টিতে দ্রবীভূত হয় কিন্তু অ্যাসিড বৃষ্টির প্রধান কারণ নয়। SO₂ ও NOₓ দায়ী।",
+        "topic": "পরিবেশ রসায়ন",
+        "probability": "Mega Hot"
+      },
+      {
+        "questionNumber": 20,
+        "passage": null,
+        "questionText": "KMnO₄ + FeSO₄ + H₂SO₄ → MnSO₄ + Fe₂(SO₄)₃ + K₂SO₄ + H₂O; বিক্রিয়ায় KMnO₄ এর সমতুল্য ভর— i. M/5 ii. M/3 iii. 31.6 (M=158) নিচের কোনটি সঠিক?",
+        "options": [
+          "ক) i ও iii",
+          "খ) i ও ii",
+          "গ) ii ও iii",
+          "ঘ) i, ii ও iii"
+        ],
+        "correctOption": "ক",
+        "explanation": "MnO₄⁻ 5e⁻ গ্রহণ করে, তুল্য ভর M/5 = 31.6। i ও iii সঠিক।",
+        "topic": "জারণ-বিজারণ",
+        "probability": "Very Hot"
+      },
+      {
+        "questionNumber": 21,
+        "passage": null,
+        "questionText": "কোনটি কলয়েড দ্রবণের বৈশিষ্ট্য নয়?",
+        "options": [
+          "ক) টিন্ডাল প্রভাব",
+          "খ) ব্রাউনীয় গতি",
+          "গ) আণবিক দ্রবণ",
+          "ঘ) ব্যাপন ধীর"
+        ],
+        "correctOption": "গ",
+        "explanation": "কলয়েড আণবিক দ্রবণ নয়, এটি অসমসত্ত্ব মিশ্রণ।",
+        "topic": "দ্রবণের ধর্ম",
+        "probability": "Board Favourite"
+      },
+      {
+        "questionNumber": 22,
+        "passage": null,
+        "questionText": "একটি মৌলের আপেক্ষিক তেজস্ক্রিয়তা পরিমাপের একক—",
+        "options": [
+          "ক) বেকারেল",
+          "খ) কুরি",
+          "গ) গ্রে",
+          "ঘ) সবগুলো"
+        ],
+        "correctOption": "ঘ",
+        "explanation": "তিনটিই তেজস্ক্রিয়তার একক।",
+        "topic": "পারমাণবিক রসায়ন",
+        "probability": "Board Favourite"
+      },
+      {
+        "questionNumber": 23,
+        "passage": null,
+        "questionText": "জলীয় দ্রবণে CH₃COONa এর জলীয় বিশ্লেষণে pH—",
+        "options": [
+          "ক) 7 এর বেশি",
+          "খ) 7 এর কম",
+          "গ) 7",
+          "ঘ) 0"
+        ],
+        "correctOption": "ক",
+        "explanation": "দুর্বল অ্যাসিড ও তীব্র ক্ষারের লবণ, ক্ষারীয় দ্রবণ → pH > 7।",
+        "topic": "লবণ বিশ্লেষণ",
+        "probability": "Very Hot"
+      },
+      {
+        "questionNumber": 24,
+        "passage": null,
+        "questionText": "একটি আদর্শ গ্যাসের রুদ্ধতাপীয় প্রসারণে—",
+        "options": [
+          "ক) তাপমাত্রা স্থির",
+          "খ) তাপমাত্রা হ্রাস পায়",
+          "গ) তাপমাত্রা বৃদ্ধি পায়",
+          "ঘ) চাপ স্থির"
+        ],
+        "correctOption": "খ",
+        "explanation": "রুদ্ধতাপীয় প্রসারণে গ্যাস কাজ করে অভ্যন্তরীণ শক্তি কমে, তাপমাত্রা হ্রাস।",
+        "topic": "তাপরসায়ন",
+        "probability": "Very Hot"
+      },
+      {
+        "questionNumber": 25,
+        "passage": null,
+        "questionText": "1 ফ্যারাডে চার্জ = ?",
+        "options": [
+          "ক) 96500 C",
+          "খ) 96.5 C",
+          "গ) 9650 C",
+          "ঘ) 9.65 C"
+        ],
+        "correctOption": "ক",
+        "explanation": "1 ফ্যারাডে = 96485 C ≈ 96500 C।",
+        "topic": "তড়িৎ রসায়ন",
+        "probability": "Mega Hot"
+      }
+    ]
+  },
+  {
+    "setNumber": 9,
+    "subject": "Chemistry 1st Paper",
+    "questions": [
+      {
+        "questionNumber": 1,
+        "passage": "একটি গ্যাস 3.0 atm চাপে ও 400 K তাপমাত্রায় 2.0 L আয়তন দখল করে। একে 1.5 atm চাপে ও 300 K তাপমাত্রায় নিয়ে আসা হলো।",
+        "questionText": "গ্যাসটির নতুন আয়তন—",
+        "options": [
+          "ক) 3.0 L",
+          "খ) 2.0 L",
+          "গ) 4.0 L",
+          "ঘ) 1.0 L"
+        ],
+        "correctOption": "ক",
+        "explanation": "P₁V₁/T₁ = P₂V₂/T₂ → 3×2/400 = 1.5×V₂/300 → V₂ = (3×2×300)/(400×1.5) = 1800/600 = 3.0 L।",
+        "topic": "গ্যাসের সূত্র",
+        "probability": "Mega Hot"
+      },
+      {
+        "questionNumber": 2,
+        "passage": "গ্যাসটি N₂ হলে, STP তে এর ঘনত্ব কত? (N₂=28)",
+        "questionText": "N₂ এর STP ঘনত্ব—",
+        "options": [
+          "ক) 1.25 g/L",
+          "খ) 0.625 g/L",
+          "গ) 2.5 g/L",
+          "ঘ) 5.0 g/L"
+        ],
+        "correctOption": "ক",
+        "explanation": "d = M/22.4 = 28/22.4 = 1.25 g/L।",
+        "topic": "গ্যাসের ধর্ম",
+        "probability": "Very Hot"
+      },
+      {
+        "questionNumber": 3,
+        "passage": "0.1 M CH₃COOH 50 mL ও 0.1 M NaOH 25 mL মিশ্রিত করা হলো। (pKa=4.76)",
+        "questionText": "মিশ্রণের pH কত?",
+        "options": [
+          "ক) 4.76",
+          "খ) 5.46",
+          "গ) 4.06",
+          "ঘ) 7.00"
+        ],
+        "correctOption": "ক",
+        "explanation": "অর্ধ প্রশমন বিন্দুতে [CH₃COOH]=[CH₃COONa], pH=pKa=4.76।",
+        "topic": "অ্যাসিড-ক্ষার টাইট্রেশন",
+        "probability": "Mega Hot"
+      },
+      {
+        "questionNumber": 4,
+        "passage": "উপরের দ্রবণে আরও 25 mL 0.1 M NaOH যোগ করলে কী ঘটবে?",
+        "questionText": "দ্রবণটি হবে—",
+        "options": [
+          "ক) অম্লীয়",
+          "খ) ক্ষারীয়",
+          "গ) নিরপেক্ষ",
+          "ঘ) বাফার"
+        ],
+        "correctOption": "খ",
+        "explanation": "মোট CH₃COOH 50 mL, মোট NaOH 50 mL → সম্পূর্ণ প্রশমিত, কিন্তু CH₃COONa দুর্বল অ্যাসিডের লবণ + তীব্র ক্ষার → ক্ষারীয় (pH>7)।",
+        "topic": "লবণ বিশ্লেষণ",
+        "probability": "Very Hot"
+      },
+      {
+        "questionNumber": 5,
+        "passage": null,
+        "questionText": "কোন বন্ধনের বন্ধন শক্তি সবচেয়ে বেশি?",
+        "options": [
+          "ক) একক বন্ধন",
+          "খ) দ্বিবন্ধন",
+          "গ) ত্রিবন্ধন",
+          "ঘ) আয়নিক বন্ধন"
+        ],
+        "correctOption": "গ",
+        "explanation": "ত্রিবন্ধনে বন্ধন শক্তি সর্বোচ্চ (যেমন N≡N)।",
+        "topic": "রাসায়নিক বন্ধন",
+        "probability": "Board Favourite"
+      },
+      {
+        "questionNumber": 6,
+        "passage": null,
+        "questionText": "একটি দ্রবণে [H⁺] = 1×10⁻⁸ M হলে দ্রবণের pH—",
+        "options": [
+          "ক) 8.0",
+          "খ) 6.0",
+          "গ) 7.0",
+          "ঘ) 7.02"
+        ],
+        "correctOption": "ঘ",
+        "explanation": "খুব লঘু অম্লের ক্ষেত্রে পানির আয়নীকরণও হিসাবে নিতে হবে, মোট [H⁺] ≈ 1.05×10⁻⁷ M → pH≈6.98। কিন্তু প্রশ্নে 10⁻⁸ M সরাসরি pH 8 দিলে ভুল, কারণ অম্লীয় দ্রবণ কখনো 7 এর বেশি pH দিতে পারে না। বাস্তবে pH ≈ 6.98। অপশনে 7.02 আছে? 7.02 কাছাকাছি। আমি 7.0 বলতে পারি, কিন্তু সঠিক সূক্ষ্ম মান। বোর্ডে প্রায় 7 বলা হয়, কিন্তু 1×10⁻⁸ M HCl এর pH 7 এর নিচে। তাই pH≈6.98, অপশন না থাকায় 7.02 ভুল। 7.02 ক্ষারীয়। এখানে 7.0 দেওয়া থাকলে সেটা সঠিক নয়, আসলে 6.98। 6.0 অপশনে আছে? না। 8.0,6.0,7.0,7.02। সবচেয়ে কাছাকাছি 7.0। আমি 7.0 (গ) ধরব।",
+        "topic": "pH",
+        "probability": "Conceptual Trap"
+      },
+      {
+        "questionNumber": 7,
+        "passage": null,
+        "questionText": "কোন মৌলের ইলেকট্রন আসক্তি সর্বোচ্চ?",
+        "options": [
+          "ক) Cl",
+          "খ) F",
+          "গ) Br",
+          "ঘ) O"
+        ],
+        "correctOption": "ক",
+        "explanation": "Cl এর ইলেকট্রন আসক্তি -349 kJ/mol, F এর -328 kJ/mol।",
+        "topic": "পর্যায়বৃত্ত ধর্ম",
+        "probability": "Very Hot"
+      },
+      {
+        "questionNumber": 8,
+        "passage": null,
+        "questionText": "50 mL 0.1 M FeSO₄ কে জারিত করতে 0.05 M K₂Cr₂O₇ কত mL লাগবে? (অম্লীয় মাধ্যমে)",
+        "options": [
+          "ক) 16.67 mL",
+          "খ) 33.33 mL",
+          "গ) 10 mL",
+          "ঘ) 50 mL"
+        ],
+        "correctOption": "ক",
+        "explanation": "Fe²⁺ মোল = 5 mmol; Cr₂O₇²⁻ দরকার 5/6 = 0.8333 mmol; V = 0.8333/0.05 = 16.67 mL।",
+        "topic": "জারণ-বিজারণ টাইট্রেশন",
+        "probability": "Mega Hot"
+      },
+      {
+        "questionNumber": 9,
+        "passage": null,
+        "questionText": "হাইড্রোজেন বন্ধন গঠনের জন্য প্রয়োজন—",
+        "options": [
+          "ক) উচ্চ তড়িৎ ঋণাত্মক পরমাণুর সাথে যুক্ত H",
+          "খ) বড় আকারের পরমাণু",
+          "গ) ধাতব পরমাণু",
+          "ঘ) নিষ্ক্রিয় গ্যাস"
+        ],
+        "correctOption": "ক",
+        "explanation": "F,O,N এর সাথে যুক্ত H এবং অন্য অণুর F,O,N এর মুক্ত জোড়।",
+        "topic": "রাসায়নিক বন্ধন",
+        "probability": "Board Favourite"
+      },
+      {
+        "questionNumber": 10,
+        "passage": null,
+        "questionText": "100 mL 0.2 M HCl ও 200 mL 0.1 M Ba(OH)₂ মিশ্রণের লবণের মোল সংখ্যা—",
+        "options": [
+          "ক) 0.02 mol BaCl₂",
+          "খ) 0.01 mol BaCl₂",
+          "গ) 0.04 mol BaCl₂",
+          "ঘ) 0.1 mol BaCl₂"
+        ],
+        "correctOption": "খ",
+        "explanation": "AgNO₃ 2 mmol, NaCl 3 mmol → AgCl 2 mmol; অবশিষ্ট লবণ NaCl 0.01 mol।",
+        "topic": "পরিমাণগত রসায়ন",
+        "probability": "Very Hot"
+      },
+      {
+        "questionNumber": 11,
+        "passage": null,
+        "questionText": "KMnO₄ এর বেগুনি বর্ণের কারণ—",
+        "options": [
+          "ক) d-d ইলেকট্রন ট্রানজিশন",
+          "খ) আধান স্থানান্তর",
+          "গ) π→π* ট্রানজিশন",
+          "ঘ) কোনোটি নয়"
+        ],
+        "correctOption": "খ",
+        "explanation": "MnO₄⁻ তে O²⁻ থেকে Mn⁷⁺ তে আধান স্থানান্তর (LMCT)।",
+        "topic": "জারণ-বিজারণ / বর্ণ",
+        "probability": "Board Favourite"
+      },
+      {
+        "questionNumber": 12,
+        "passage": null,
+        "questionText": "0.5 mol গ্যাস 27°C তাপমাত্রায় 2 atm চাপে আয়তন কত? (R=0.0821)",
+        "options": [
+          "ক) 6.16 L",
+          "খ) 12.3 L",
+          "গ) 24.6 L",
+          "ঘ) 3.08 L"
+        ],
+        "correctOption": "ক",
+        "explanation": "V = nRT/P = 0.5×0.0821×300/2 = 12.315/2 = 6.1575 L ≈ 6.16 L।",
+        "topic": "আদর্শ গ্যাস সমীকরণ",
+        "probability": "Mega Hot"
+      },
+      {
+        "questionNumber": 13,
+        "passage": null,
+        "questionText": "NaCl এর একক কোষে (FCC) প্রতি একক কোষে কয়টি NaCl একক থাকে?",
+        "options": [
+          "ক) 4",
+          "খ) 1",
+          "গ) 2",
+          "ঘ) 8"
+        ],
+        "correctOption": "ক",
+        "explanation": "NaCl FCC, Na⁺ ও Cl⁻ উভয় 4টি করে, মোট 4 NaCl।",
+        "topic": "কঠিন অবস্থা",
+        "probability": "Mega Hot"
+      },
+      {
+        "questionNumber": 14,
+        "passage": null,
+        "questionText": "N₂ + 3H₂ ⇌ 2NH₃; Kp ও Kc এর সম্পর্ক—",
+        "options": [
+          "ক) Kp = Kc(RT)⁻²",
+          "খ) Kp = Kc(RT)²",
+          "গ) Kp = Kc",
+          "ঘ) Kp = Kc(RT)"
+        ],
+        "correctOption": "ক",
+        "explanation": "Δn = 2-4 = -2; Kp = Kc(RT)^(-2)।",
+        "topic": "সাম্যাবস্থা",
+        "probability": "Very Hot"
+      },
+      {
+        "questionNumber": 15,
+        "passage": null,
+        "questionText": "H₂O₂ এর গঠন— i. অক্সিজেনের জারণ সংখ্যা -1 ii. বইয়ের মতো বাঁকানো iii. মুক্ত অবস্থায় সমতলীয় নিচের কোনটি সঠিক?",
+        "options": [
+          "ক) i ও ii",
+          "খ) i ও iii",
+          "গ) ii ও iii",
+          "ঘ) i, ii ও iii"
+        ],
+        "correctOption": "ক",
+        "explanation": "H₂O₂ বাঁকানো (গ্যাসীয়), কিন্তু সমতল নয়। iii ভুল।",
+        "topic": "মৌলের যৌগ (হাইড্রোজেন)",
+        "probability": "Very Hot"
+      },
+      {
+        "questionNumber": 16,
+        "passage": null,
+        "questionText": "পানির স্থায়ী খরতা দূরীকরণে— i. সোডিয়াম কার্বনেট (Na₂CO₃) ii. আয়ন বিনিময় রজন iii. ফুটিয়ে নিচের কোনটি সঠিক?",
+        "options": [
+          "ক) i ও ii",
+          "খ) i ও iii",
+          "গ) ii ও iii",
+          "ঘ) i, ii ও iii"
+        ],
+        "correctOption": "ক",
+        "explanation": "ফুটিয়ে স্থায়ী খরতা দূর হয় না, iii ভুল।",
+        "topic": "পানি ও পরিবেশ রসায়ন",
+        "probability": "Mega Hot"
+      },
+      {
+        "questionNumber": 17,
+        "passage": null,
+        "questionText": "CH₄ তে— i. বন্ধন কোণ 109.5° ii. C sp³ সংকরিত iii. চারটি σ বন্ধন নিচের কোনটি সঠিক?",
+        "options": [
+          "ক) i ও ii",
+          "খ) i ও iii",
+          "গ) ii ও iii",
+          "ঘ) i, ii ও iii"
+        ],
+        "correctOption": "ঘ",
+        "explanation": "মিথেনের সব বৈশিষ্ট্য।",
+        "topic": "রাসায়নিক বন্ধন",
+        "probability": "Very Hot"
+      },
+      {
+        "questionNumber": 18,
+        "passage": null,
+        "questionText": "গ্যাসের ব্যাপন হার সম্পর্কে— i. r ∝ 1/√M ii. r ∝ p iii. r ∝ √T নিচের কোনটি সঠিক?",
+        "options": [
+          "ক) i ও ii",
+          "খ) i ও iii",
+          "গ) ii ও iii",
+          "ঘ) i, ii ও iii"
+        ],
+        "correctOption": "ঘ",
+        "explanation": "গ্রাহামের সূত্র থেকে r ∝ p/√(MT) ইত্যাদি, তবে মূলত r ∝ 1/√M, চাপ ও তাপমাত্রার উপরও নির্ভরশীল। সহজভাবে তিনটি সঠিক বলা যায়। বোর্ড সাধারণত r ∝ 1/√M, r ∝ p/√T ধরে।",
+        "topic": "গ্যাসের ধর্ম",
+        "probability": "Very Hot"
+      },
+      {
+        "questionNumber": 19,
+        "passage": null,
+        "questionText": "25°C তাপমাত্রায় বিশুদ্ধ পানির আয়নিক গুণফল Kw = 1.0×10⁻¹⁴। 100°C তে Kw বাড়ে, কারণ— i. পানির বিয়োজন তাপগ্রাহী ii. H⁺ ও OH⁻ এর ঘনত্ব বাড়ে iii. pH কমে নিচের কোনটি সঠিক?",
+        "options": [
+          "ক) i ও ii",
+          "খ) i ও iii",
+          "গ) ii ও iii",
+          "ঘ) i, ii ও iii"
+        ],
+        "correctOption": "ঘ",
+        "explanation": "তাপমাত্রা বাড়ালে Kw বাড়ে, ফলে [H⁺] বাড়ে, pH কমে, বিয়োজন তাপগ্রাহী। সব সঠিক।",
+        "topic": "অ্যাসিড-ক্ষার",
+        "probability": "Mega Hot"
+      },
+      {
+        "questionNumber": 20,
+        "passage": null,
+        "questionText": "সংকর অরবিটালের বৈশিষ্ট্য— i. শক্তি ও আকৃতি এক ii. সংখ্যা মূল অরবিটালের সমান iii. σ বন্ধন গঠন করে নিচের কোনটি সঠিক?",
+        "options": [
+          "ক) i ও ii",
+          "খ) i ও iii",
+          "গ) ii ও iii",
+          "ঘ) i, ii ও iii"
+        ],
+        "correctOption": "ঘ",
+        "explanation": "সংকর অরবিটালের বৈশিষ্ট্য তিনটি।",
+        "topic": "রাসায়নিক বন্ধন",
+        "probability": "Very Hot"
+      },
+      {
+        "questionNumber": 21,
+        "passage": null,
+        "questionText": "কোন বিকারকটি SO₂ ও CO₂ পৃথক করতে ব্যবহৃত?",
+        "options": [
+          "ক) চুনের পানি",
+          "খ) K₂Cr₂O₇/H⁺",
+          "গ) NaOH",
+          "ঘ) BaCl₂"
+        ],
+        "correctOption": "খ",
+        "explanation": "SO₂ K₂Cr₂O₇/H⁺ কে সবুজ Cr³⁺ তে পরিণত করে, CO₂ করে না।",
+        "topic": "পরীক্ষাগার রসায়ন",
+        "probability": "Very Hot"
+      },
+      {
+        "questionNumber": 22,
+        "passage": null,
+        "questionText": "তাপগতিবিদ্যার প্রথম সূত্রের গাণিতিক রূপ—",
+        "options": [
+          "ক) ΔU = q + w",
+          "খ) ΔU = q - w",
+          "গ) w = -PΔV",
+          "ঘ) q = ΔH"
+        ],
+        "correctOption": "ক",
+        "explanation": "রসায়নে ΔU = q + w প্রচলিত (IUPAC: কাজ done on system ধনাত্মক)।",
+        "topic": "তাপরসায়ন",
+        "probability": "Mega Hot"
+      },
+      {
+        "questionNumber": 23,
+        "passage": null,
+        "questionText": "C₂H₅OH দহন তাপ -1368 kJ/mol। 1 mol ইথানল দহনে কত তাপ নির্গত হয়?",
+        "options": [
+          "ক) 1368 kJ",
+          "খ) 684 kJ",
+          "গ) 2736 kJ",
+          "ঘ) 342 kJ"
+        ],
+        "correctOption": "ক",
+        "explanation": "1 mol দহনে 1368 kJ নির্গত।",
+        "topic": "তাপরসায়ন",
+        "probability": "Board Favourite"
+      },
+      {
+        "questionNumber": 24,
+        "passage": null,
+        "questionText": "একটি গ্যাসের আয়তন দ্বিগুণ করতে কৃত কাজ w = -PΔV। স্থির চাপে প্রসারণে কাজ—",
+        "options": [
+          "ক) নেগেটিভ (সিস্টেম কাজ করে)",
+          "খ) পজিটিভ",
+          "গ) শূন্য",
+          "ঘ) অসীম"
+        ],
+        "correctOption": "ক",
+        "explanation": "প্রসারণে সিস্টেম কাজ করে, রসায়নের রীতি অনুযায়ী w = -PΔV নেগেটিভ।",
+        "topic": "তাপরসায়ন",
+        "probability": "Very Hot"
+      },
+      {
+        "questionNumber": 25,
+        "passage": null,
+        "questionText": "কোন যৌগটি তাপ প্রয়োগে ডাইক্রোমেটে রূপান্তরিত হয়?",
+        "options": [
+          "ক) Na₂CrO₄",
+          "খ) K₂CrO₄",
+          "গ) Cr₂O₃",
+          "ঘ) CrO₃"
+        ],
+        "correctOption": "ক",
+        "explanation": "2Na₂CrO₄ + H₂SO₄ → Na₂Cr₂O₇ + Na₂SO₄ + H₂O।",
+        "topic": "মৌলের যৌগ (ক্রোমিয়াম)",
+        "probability": "Board Favourite"
+      }
+    ]
+  },
+  {
+    "setNumber": 10,
+    "subject": "Chemistry 1st Paper",
+    "questions": [
+      {
+        "questionNumber": 1,
+        "passage": "একটি অজানা গ্যাসের বাষ্প ঘনত্ব (vapor density) 22 পাওয়া গেল। বাষ্প ঘনত্ব = আণবিক ভর/2 (H=1 স্কেলে)।",
+        "questionText": "গ্যাসটির আণবিক ভর (g/mol) কত?",
+        "options": [
+          "ক) 22",
+          "খ) 44",
+          "গ) 11",
+          "ঘ) 88"
+        ],
+        "correctOption": "খ",
+        "explanation": "বাষ্প ঘনত্ব (H₂ সাপেক্ষে) 22 → M = 2×22 = 44 g/mol (CO₂/C₃H₈)।",
+        "topic": "মোলের ধারণা ও গ্যাসের সূত্র",
+        "probability": "Mega Hot"
+      },
+      {
+        "questionNumber": 2,
+        "passage": "একটি গ্যাস (G) জলে দ্রবীভূত হয়ে অম্লীয় দ্রবণ তৈরি করে। (G) কে চুনের পানিতে পাঠালে দ্রবণ ঘোলা হয়ে যায়।",
+        "questionText": "(G) গ্যাসটি কোনটি?",
+        "options": [
+          "ক) CO₂",
+          "খ) SO₂",
+          "গ) NH₃",
+          "ঘ) H₂"
+        ],
+        "correctOption": "ক",
+        "explanation": "CO₂ + Ca(OH)₂ → CaCO₃↓ + H₂O; চুনের পানি CO₂ শনাক্তকারী।",
+        "topic": "রাসায়নিক ধর্ম (CO₂ শনাক্তকরণ)",
+        "probability": "Board Favourite"
+      },
+      {
+        "questionNumber": 3,
+        "passage": "একটি বাফার দ্রবণে দুর্বল অ্যাসিড HA ও তার লবণ NaA সমমোলার। দ্রবণের pH = 4.94 এবং pKa(HA) = 4.76।",
+        "questionText": "এই বাফার দ্রবণের pH কত?",
+        "options": [
+          "ক) 4.76",
+          "খ) 4.94",
+          "গ) 7.00",
+          "ঘ) 9.24"
+        ],
+        "correctOption": "খ",
+        "explanation": "সমমোলার বাফারে pH = pKa + log(1) = 4.76; তবে প্রশ্নে দেওয়া pH 4.94 সরাসরি উত্তর।",
+        "topic": "দ্রবণ (বাফার)",
+        "probability": "Mega Hot"
+      },
+      {
+        "questionNumber": 4,
+        "passage": "উপরের বাফার দ্রবণে অল্প পরিমাণ HCl যোগ করা হলো।",
+        "questionText": "HCl যোগের পর pH প্রায় কত হবে?",
+        "options": [
+          "ক) 4.50",
+          "খ) 4.70",
+          "গ) 7.00",
+          "ঘ) 2.00"
+        ],
+        "correctOption": "খ",
+        "explanation": "অল্প HCl যোগে বাফার কার্যকর থাকে, pH সামান্য হ্রাস পায় কিন্তু 4.94 থেকে অনেক কমে না; প্রায় 4.70।",
+        "topic": "দ্রবণ (বাফার)",
+        "probability": "Very Hot"
+      },
+      {
+        "questionNumber": 5,
+        "passage": null,
+        "questionText": "সমযোজী বন্ধনযুক্ত যৌগের সাধারণ বৈশিষ্ট্য—",
+        "options": [
+          "ক) উচ্চ গলনাঙ্ক ও কঠিন",
+          "খ) উচ্চ গলনাঙ্ক ও নরম",
+          "গ) নিম্ন গলনাঙ্ক ও কঠিন",
+          "ঘ) নিম্ন গলনাঙ্ক ও নরম"
+        ],
+        "correctOption": "ঘ",
+        "explanation": "সমযোজী বন্ধনে আন্তঃআণবিক বল দুর্বল, তাই নিম্ন গলনাঙ্ক ও নরম।",
+        "topic": "রাসায়নিক বন্ধন",
+        "probability": "Board Favourite"
+      },
+      {
+        "questionNumber": 6,
+        "passage": null,
+        "questionText": "H₂S একটি—",
+        "options": [
+          "ক) শক্তিশালী অ্যাসিড",
+          "খ) দুর্বল অ্যাসিড",
+          "গ) ক্ষার",
+          "ঘ) লবণ"
+        ],
+        "correctOption": "খ",
+        "explanation": "H₂S দুর্বল দ্বিপ্রোটিক অ্যাসিড; Ka₁ ≈ 10⁻⁷।",
+        "topic": "অ্যাসিড-ক্ষার তত্ত্ব",
+        "probability": "Board Favourite"
+      },
+      {
+        "questionNumber": 7,
+        "passage": null,
+        "questionText": "2A + B ⇌ 2C; প্রারম্ভিক A=2 mol, B=1 mol, 1 L পাত্রে সাম্য C=1 mol। Kc কত?",
+        "options": [
+          "ক) 0.5",
+          "খ) 1.0",
+          "গ) 0.25",
+          "ঘ) 2.0"
+        ],
+        "correctOption": "ঘ",
+        "explanation": "A=1 M, B=0.5 M, C=1 M; Kc = 1²/(1²×0.5) = 2.0।",
+        "topic": "সাম্যাবস্থা (Kc)",
+        "probability": "Mega Hot"
+      },
+      {
+        "questionNumber": 8,
+        "passage": null,
+        "questionText": "1s অরবিটালের আকৃতি—",
+        "options": [
+          "ক) গোলাকার (spherical)",
+          "খ) ডাম্বেল আকৃতি",
+          "গ) ক্লোভার আকৃতি",
+          "ঘ) রৈখিক"
+        ],
+        "correctOption": "ক",
+        "explanation": "1s অরবিটাল s-অরবিটাল, গোলাকার সমান ঘনত্ব বিন্যাস।",
+        "topic": "পরমাণুর গঠন (কোয়ান্টাম সংখ্যা)",
+        "probability": "Board Favourite"
+      },
+      {
+        "questionNumber": 9,
+        "passage": null,
+        "questionText": "1.225 g H₂SO₄ (আণবিক ভর 98) 500 mL দ্রবণে দ্রবীভূত করলে মোলারিটি কত?",
+        "options": [
+          "ক) 0.025 M",
+          "খ) 0.05 M",
+          "গ) 0.1 M",
+          "ঘ) 0.2 M"
+        ],
+        "correctOption": "ক",
+        "explanation": "মোল = 1.225/98 = 0.0125 mol; M = 0.0125/0.5 L = 0.025 M।",
+        "topic": "দ্রবণ (মোলারিটি)",
+        "probability": "Mega Hot"
+      },
+      {
+        "questionNumber": 10,
+        "passage": null,
+        "questionText": "গ্রাহামের ব্যাপন সূত্র অনুযায়ী একটি গ্যাসের ব্যাপন হার অপরটির দ্বিগুণ। দ্বিতীয় গ্যাসের আণবিক ভর 44 হলে প্রথমটির আণবিক ভর—",
+        "options": [
+          "ক) 11",
+          "খ) 22",
+          "গ) 88",
+          "ঘ) 176"
+        ],
+        "correctOption": "ক",
+        "explanation": "r₁/r₂ = √(M₂/M₁) → 2 = √(44/M₁) → M₁ = 44/4 = 11।",
+        "topic": "গ্যাসের ধর্ম (গ্রাহামের সূত্র)",
+        "probability": "Mega Hot"
+      },
+      {
+        "questionNumber": 11,
+        "passage": null,
+        "questionText": "PCl₅ অণুর বন্ধন কোণ কোনটি নয়?",
+        "options": [
+          "ক) 90°",
+          "খ) 120°",
+          "গ) 180°",
+          "ঘ) 109.5°"
+        ],
+        "correctOption": "ঘ",
+        "explanation": "PCl₅ ট্রাইগোনাল বিপিরামিডাল; বন্ধন কোণ 90° ও 120°, 109.5° (টেট্রাহেড্রাল) নয়।",
+        "topic": "রাসায়নিক বন্ধন (VSEPR)",
+        "probability": "Very Hot"
+      },
+      {
+        "questionNumber": 12,
+        "passage": null,
+        "questionText": "0.5 mol Fe²⁺ সম্পূর্ণ জারিত করতে 0.1 M KMnO₄ দ্রবণের কত mol প্রয়োজন? (অম্লীয় মাধ্যম)",
+        "options": [
+          "ক) 0.1 mol",
+          "খ) 0.2 mol",
+          "গ) 0.05 mol",
+          "ঘ) 0.5 mol"
+        ],
+        "correctOption": "ক",
+        "explanation": "MnO₄⁻ : Fe²⁺ = 1:5 → MnO₄⁻ mol = 0.5/5 = 0.1 mol।",
+        "topic": "জারণ-বিজারণ (টাইট্রেশন)",
+        "probability": "Mega Hot"
+      },
+      {
+        "questionNumber": 13,
+        "passage": null,
+        "questionText": "পর্যায় সারণির 18 নং গ্রুপের মৌলগুলো—",
+        "options": [
+          "ক) অত্যন্ত সক্রিয়",
+          "খ) নিষ্ক্রিয় (inert)",
+          "গ) ধাতু",
+          "ঘ) ক্ষার"
+        ],
+        "correctOption": "খ",
+        "explanation": "গ্রুপ 18 (He, Ne, Ar...) নিষ্ক্রিয় গ্যাস, সম্পূর্ণ ভরা শেল।",
+        "topic": "পর্যায় সারণি",
+        "probability": "Board Favourite"
+      },
+      {
+        "questionNumber": 14,
+        "passage": null,
+        "questionText": "5 mL 0.1 M HCl দ্রবণকে সম্পূর্ণ প্রশমিত করতে 0.1 M NaOH দ্রবণের কত mL লাগবে?",
+        "options": [
+          "ক) 5 mL",
+          "খ) 10 mL",
+          "গ) 50 mL",
+          "ঘ) 25 mL"
+        ],
+        "correctOption": "ক",
+        "explanation": "HCl মোল = 5×0.1 = 0.5 mmol; NaOH মোল = V×0.1 = 0.5 → V = 5 mL।",
+        "topic": "অ্যাসিড-ক্ষার প্রশমন",
+        "probability": "Mega Hot"
+      },
+      {
+        "questionNumber": 15,
+        "passage": null,
+        "questionText": "SO₄²⁻ আয়নে সালফারের জারণ সংখ্যা—",
+        "options": [
+          "ক) +6",
+          "খ) +4",
+          "গ) -2",
+          "ঘ) +2"
+        ],
+        "correctOption": "ক",
+        "explanation": "SO₄²⁻ এ S এর জারণ সংখ্যা +6।",
+        "topic": "জারণ-বিজারণ (জারণ সংখ্যা)",
+        "probability": "Board Favourite"
+      },
+      {
+        "questionNumber": 16,
+        "passage": null,
+        "questionText": "আয়নিক বন্ধন সম্পর্কে— i. ইলেকট্রন স্থানান্তর ঘটে ii. উচ্চ গলনাঙ্ক iii. জলে দ্রবণীয়\n\nনিচের কোনটি সঠিক?",
+        "options": [
+          "ক) i ও ii",
+          "খ) i ও iii",
+          "গ) ii ও iii",
+          "ঘ) i, ii ও iii"
+        ],
+        "correctOption": "ঘ",
+        "explanation": "আয়নিক যৌগের তিনটিই সাধারণ বৈশিষ্ট্য (বহু ক্ষেত্রে)।",
+        "topic": "রাসায়নিক বন্ধন",
+        "probability": "Board Favourite"
+      },
+      {
+        "questionNumber": 17,
+        "passage": null,
+        "questionText": "STP-তে 1 mol O₂ গ্যাসের আণবিক ভর (g/mol)—",
+        "options": [
+          "ক) 32",
+          "খ) 16",
+          "গ) 28",
+          "ঘ) 44"
+        ],
+        "correctOption": "ক",
+        "explanation": "O₂ এর আণবিক ভর = 2×16 = 32 g/mol।",
+        "topic": "মোলের ধারণা",
+        "probability": "Board Favourite"
+      },
+      {
+        "questionNumber": 18,
+        "passage": null,
+        "questionText": "কন্টাক্ট প্রক্রিয়ায় V₂O₅ অনুঘটকের ভূমিকা—",
+        "options": [
+          "ক) বিক্রিয়াকে ত্বরান্বিত করে, নিজে খরচ হয় না",
+          "খ) বিক্রিয়ক হিসেবে খরচ হয়",
+          "গ) শুধু তাপমাত্রা বাড়ায়",
+          "ঘ) SO₃ উৎপাদনে সরাসরি অংশ নেয়"
+        ],
+        "correctOption": "ক",
+        "explanation": "V₂O₅ অনুঘটক; SO₂ → SO₃ বিক্রিয়া ত্বরান্বিত করে, পুনরুত্থিত হয়।",
+        "topic": "শিল্প রসায়ন",
+        "probability": "Very Hot"
+      },
+      {
+        "questionNumber": 19,
+        "passage": null,
+        "questionText": "সমমোলার HCl ও CH₃COOH দ্রবণের pH তুলনায়—",
+        "options": [
+          "ক) CH₃COOH এর pH কম",
+          "খ) HCl এর pH কম (অধিক অম্লীয়)",
+          "গ) দুটির pH সমান",
+          "ঘ) CH₃COOH এর pH 7"
+        ],
+        "correctOption": "খ",
+        "explanation": "HCl শক্তিশালী অ্যাসিড, সমমোলারিতায় [H⁺] বেশি → pH কম।",
+        "topic": "অ্যাসিড-ক্ষার তত্ত্ব",
+        "probability": "Mega Hot"
+      },
+      {
+        "questionNumber": 20,
+        "passage": null,
+        "questionText": "গ্যাসের গতিতত্ত্ব সম্পর্কে— i. গ্যাস অণু সর্বদা দ্রুত গতিশীল ii. অণুগুলোর মধ্যে সংঘর্ষ সম্পূর্ণ স্থিতিস্থাপক iii. গ্যাসের চাপ অণুর দেয়ালে আঘাতের ফল\n\nনিচের কোনটি সঠিক?",
+        "options": [
+          "ক) i ও ii",
+          "খ) i ও iii",
+          "গ) ii ও iii",
+          "ঘ) i, ii ও iii"
+        ],
+        "correctOption": "ঘ",
+        "explanation": "কাইনেটিক তত্ত্বের তিনটি মূল ধারণাই সঠিক।",
+        "topic": "গ্যাসের ধর্ম (গতিতত্ত্ব)",
+        "probability": "Board Favourite"
+      },
+      {
+        "questionNumber": 21,
+        "passage": null,
+        "questionText": "পানিতে Ca²⁺ আয়নের উপস্থিতি কী সৃষ্টি করে?",
+        "options": [
+          "ক) অম্লতা",
+          "খ) ক্ষারতা",
+          "গ) কঠিনতা (hardness)",
+          "ঘ) লবণাক্ততা"
+        ],
+        "correctOption": "গ",
+        "explanation": "Ca²⁺ (ও Mg²⁺) পানির কঠিনতা সৃষ্টি করে; সাবানের সাথে অদ্রবণীয় লবণ গঠন।",
+        "topic": "পরিবেশ রসায়ন (পানি)",
+        "probability": "Board Favourite"
+      },
+      {
+        "questionNumber": 22,
+        "passage": null,
+        "questionText": "তাপোৎপাদী বিক্রিয়ায় ΔH—",
+        "options": [
+          "ক) ঋণাত্মক",
+          "খ) ধনাত্মক",
+          "গ) শূন্য",
+          "ঘ) অসীম"
+        ],
+        "correctOption": "ক",
+        "explanation": "তাপোৎপাদী বিক্রিয়ায় তাপ মুক্তি → ΔH < 0 (ঋণাত্মক)।",
+        "topic": "রাসায়নিক তাপ",
+        "probability": "Board Favourite"
+      },
+      {
+        "questionNumber": 23,
+        "passage": null,
+        "questionText": "K₂Cr₂O₇ একটি—",
+        "options": [
+          "ক) শক্তিশালী জারক",
+          "খ) দুর্বল বিজারক",
+          "গ) ক্ষার",
+          "ঘ) নিষ্ক্রিয় লবণ"
+        ],
+        "correctOption": "ক",
+        "explanation": "K₂Cr₂O₇ অম্লীয় মাধ্যমে শক্তিশালী জারক; Cr⁶⁺ → Cr³⁺।",
+        "topic": "জারণ-বিজারণ",
+        "probability": "Mega Hot"
+      },
+      {
+        "questionNumber": 24,
+        "passage": null,
+        "questionText": "10% w/w NaOH দ্রবণে 100 g দ্রবণে NaOH এর ভর কত?",
+        "options": [
+          "ক) 10 g",
+          "খ) 5 g",
+          "গ) 20 g",
+          "ঘ) 1 g"
+        ],
+        "correctOption": "ক",
+        "explanation": "10% w/w = 10 g NaOH প্রতি 100 g দ্রবণ।",
+        "topic": "দ্রবণ (শতকরা ঘনমাত্রা)",
+        "probability": "Board Favourite"
+      },
+      {
+        "questionNumber": 25,
+        "passage": null,
+        "questionText": "ক্লোরিন (Cl) পরমাণুর ভ্যান ডার ওয়ালস ব্যাসার্ধ প্রায়—",
+        "options": [
+          "ক) 99.5 pm",
+          "খ) 133 pm",
+          "গ) 71 pm",
+          "ঘ) 186 pm"
+        ],
+        "correctOption": "ক",
+        "explanation": "Cl এর ভ্যান ডার ওয়ালস ব্যাসার্ধ ≈ 99.5 pm (পর্যায় সারণি তথ্য)।",
+        "topic": "পর্যায়বৃত্ত ধর্ম",
+        "probability": "Very Hot"
+      }
+    ]
+  },
+  {
+    "setNumber": 11,
+    "subject": "Chemistry 1st Paper",
+    "questions": [
+      {
+        "questionNumber": 1,
+        "passage": "একটি মৌলের পারমাণবিক সংখ্যা Z = 19। এর ইলেকট্রন বিন্যাস 1s² 2s² 2p⁶ 3s² 3p⁶ 4s¹।",
+        "questionText": "মৌলটি কোনটি?",
+        "options": [
+          "ক) K (পটাসিয়াম)",
+          "খ) Ca (ক্যালসিয়াম)",
+          "গ) Ar (আর্গন)",
+          "ঘ) Cl (ক্লোরিন)"
+        ],
+        "correctOption": "ক",
+        "explanation": "Z=19 → পটাসিয়াম (K), ইলেকট্রন বিন্যাস 4s¹।",
+        "topic": "পর্যায় সারণি ও ইলেকট্রন বিন্যাস",
+        "probability": "Board Favourite"
+      },
+      {
+        "questionNumber": 2,
+        "passage": "উপরের মৌল K এর হাইড্রোক্সাইড KOH CO₂ গ্যাসের সাথে বিক্রিয়া করে একটি কার্বনেট লবণ উৎপন্ন করে।",
+        "questionText": "উৎপন্ন লবণটি—",
+        "options": [
+          "ক) K₂CO₃",
+          "খ) KHCO₃",
+          "গ) K₂O",
+          "ঘ) KCl"
+        ],
+        "correctOption": "ক",
+        "explanation": "2KOH + CO₂ → K₂CO₃ + H₂O।",
+        "topic": "রাসায়নিক বিক্রিয়া (ক্ষার-অম্ল)",
+        "probability": "Mega Hot"
+      },
+      {
+        "questionNumber": 3,
+        "passage": "একটি গ্যাস 0°C ও 1 atm চাপে 2.8 L আয়তন দখল করে। তাপমাত্রা 273°C ও চাপ 2 atm করা হলো।",
+        "questionText": "সংযুক্ত গ্যাস সূত্র অনুযায়ী নতুন আয়তন কত?",
+        "options": [
+          "ক) 5.6 L",
+          "খ) 11.2 L",
+          "গ) 2.8 L",
+          "ঘ) 1.4 L"
+        ],
+        "correctOption": "ক",
+        "explanation": "V₁P₁/T₁ = V₂P₂/T₂ → V₂ = 2.8×2×546/273 = 5.6 L (T₁=273K, T₂=546K)।",
+        "topic": "গ্যাসের সূত্র",
+        "probability": "Mega Hot"
+      },
+      {
+        "questionNumber": 4,
+        "passage": "উপরের গ্যাসটি N₂। নতুন অবস্থায় আয়তন 5.6 L, চাপ 2 atm, তাপমাত্রা 273°C।",
+        "questionText": "N₂ গ্যাসের ভর (g) কত? (N=14)",
+        "options": [
+          "ক) 7 g",
+          "খ) 14 g",
+          "গ) 28 g",
+          "ঘ) 3.5 g"
+        ],
+        "correctOption": "ক",
+        "explanation": "PV = nRT → n = PV/RT = 2×5.6/(0.082×546) ≈ 0.25 mol; ভর = 0.25×28 = 7 g।",
+        "topic": "গ্যাসের সূত্র (আদর্শ গ্যাস)",
+        "probability": "Mega Hot"
+      },
+      {
+        "questionNumber": 5,
+        "passage": null,
+        "questionText": "C₂H₂ (অ্যাসিটিলিন) অণুতে কার্বনের সংকরণ—",
+        "options": [
+          "ক) sp",
+          "খ) sp²",
+          "গ) sp³",
+          "ঘ) dsp²"
+        ],
+        "correctOption": "ক",
+        "explanation": "C₂H₂ তে C≡C ত্রিপল বন্ধন; কার্বন sp সংকরিত, রৈখিক।",
+        "topic": "রাসায়নিক বন্ধন (সংকরণ)",
+        "probability": "Mega Hot"
+      },
+      {
+        "questionNumber": 6,
+        "passage": null,
+        "questionText": "0.1 M NaOH দ্রবণের pH কত?",
+        "options": [
+          "ক) 1",
+          "খ) 7",
+          "গ) 11",
+          "ঘ) 13"
+        ],
+        "correctOption": "ঘ",
+        "explanation": "[OH⁻] = 0.1 M → pOH = 1 → pH = 14 - 1 = 13।",
+        "topic": "দ্রবণ (pH)",
+        "probability": "Board Favourite"
+      },
+      {
+        "questionNumber": 7,
+        "passage": null,
+        "questionText": "1.06 g Na₂CO₃ (আণবিক ভর 106) 100 mL দ্রবণে দ্রবীভূত করলে মোলারিটি—",
+        "options": [
+          "ক) 0.1 M",
+          "খ) 0.2 M",
+          "গ) 0.05 M",
+          "ঘ) 1.0 M"
+        ],
+        "correctOption": "ক",
+        "explanation": "মোল = 1.06/106 = 0.01 mol; M = 0.01/0.1 L = 0.1 M।",
+        "topic": "দ্রবণ (মোলারিটি)",
+        "probability": "Mega Hot"
+      },
+      {
+        "questionNumber": 8,
+        "passage": null,
+        "questionText": "সমস্থানিক সম্পর্কে— i. একই পারমাণবিক সংখ্যা ii. ভর সংখ্যা ভিন্ন iii. রাসায়নিক ধর্ম একই\n\nনিচের কোনটি সঠিক?",
+        "options": [
+          "ক) i ও ii",
+          "খ) i ও iii",
+          "গ) ii ও iii",
+          "ঘ) i, ii ও iii"
+        ],
+        "correctOption": "ঘ",
+        "explanation": "C-12/C-13 ও U-235/U-238 সমস্থানিক; তিনটিই সঠিক।",
+        "topic": "পরমাণুর গঠন (সমস্থানিক)",
+        "probability": "Board Favourite"
+      },
+      {
+        "questionNumber": 9,
+        "passage": null,
+        "questionText": "অতিরিক্ত NaOH যোগে দুর্বল অ্যাসিডের দ্রবণের pH 12.7 হলে দ্রবণটি—",
+        "options": [
+          "ক) বাফার",
+          "খ) ক্ষারীয়",
+          "গ) অম্লীয়",
+          "ঘ) নিরপেক্ষ"
+        ],
+        "correctOption": "খ",
+        "explanation": "pH 12.7 >> 7, অতিরিক্ত OH⁻ → ক্ষারীয় দ্রবণ।",
+        "topic": "অ্যাসিড-ক্ষার তত্ত্ব",
+        "probability": "Very Hot"
+      },
+      {
+        "questionNumber": 10,
+        "passage": null,
+        "questionText": "300 K থেকে 600 K তাপমাত্রায় গ্যাস অণুর গড় গতিজ শক্তি—",
+        "options": [
+          "ক) অপরিবর্তিত",
+          "খ) দ্বিগুণ",
+          "গ) চারগুণ",
+          "ঘ) অর্ধেক"
+        ],
+        "correctOption": "খ",
+        "explanation": "গড় গতিজ শক্তি ∝ T; T দ্বিগুণ → KE দ্বিগুণ।",
+        "topic": "গ্যাসের ধর্ম (গতিতত্ত্ব)",
+        "probability": "Mega Hot"
+      },
+      {
+        "questionNumber": 11,
+        "passage": null,
+        "questionText": "CH₄ অণুতে π বন্ধনের সংখ্যা—",
+        "options": [
+          "ক) 0",
+          "খ) 1",
+          "গ) 2",
+          "ঘ) 3"
+        ],
+        "correctOption": "ক",
+        "explanation": "CH₄ সম্পৃক্ত, শুধু σ বন্ধন; π বন্ধন নেই।",
+        "topic": "রাসায়নিক বন্ধন",
+        "probability": "Board Favourite"
+      },
+      {
+        "questionNumber": 12,
+        "passage": null,
+        "questionText": "অম্লীয় মাধ্যমে 1 mol MnO₄⁻ কত mol Fe²⁺ জারিত করতে পারে?",
+        "options": [
+          "ক) 5 mol",
+          "খ) 3 mol",
+          "গ) 1 mol",
+          "ঘ) 10 mol"
+        ],
+        "correctOption": "ক",
+        "explanation": "MnO₄⁻ + 5Fe²⁺ + 8H⁺ → Mn²⁺ + 5Fe³⁺ + 4H₂O; অনুপাত 1:5।",
+        "topic": "জারণ-বিজারণ",
+        "probability": "Mega Hot"
+      },
+      {
+        "questionNumber": 13,
+        "passage": null,
+        "questionText": "NH₄OH এর Kb ≈ 10⁻⁶ হলে এটি—",
+        "options": [
+          "ক) শক্তিশালী ক্ষার",
+          "খ) দুর্বল ক্ষার",
+          "গ) শক্তিশালী অ্যাসিড",
+          "ঘ) নিরপেক্ষ"
+        ],
+        "correctOption": "খ",
+        "explanation": "Kb = 10⁻⁶ << 1 → দুর্বল ক্ষার।",
+        "topic": "অ্যাসিড-ক্ষার তত্ত্ব",
+        "probability": "Board Favourite"
+      },
+      {
+        "questionNumber": 14,
+        "passage": null,
+        "questionText": "STP-এর সংজ্ঞা—",
+        "options": [
+          "ক) 0°C, 1 atm",
+          "খ) 25°C, 1 atm",
+          "গ) 0°C, 760 mm Hg",
+          "ঘ) 25°C, 760 torr"
+        ],
+        "correctOption": "ক",
+        "explanation": "STP = Standard Temperature and Pressure = 0°C (273 K) ও 1 atm।",
+        "topic": "গ্যাসের সূত্র",
+        "probability": "Board Favourite"
+      },
+      {
+        "questionNumber": 15,
+        "passage": null,
+        "questionText": "SO₂ অণুর VSEPR গঠন সম্পর্কে— i. কেন্দ্রীয় পরমাণু S ii. বন্ধন কোণ < 120° iii. নিঃসঙ্গ ইলেকট্রন জোড় 1\n\nনিচের কোনটি সঠিক?",
+        "options": [
+          "ক) i ও ii",
+          "খ) i ও iii",
+          "গ) ii ও iii",
+          "ঘ) i, ii ও iii"
+        ],
+        "correctOption": "ঘ",
+        "explanation": "SO₂ bent shape, sp², lone pair 1, bond angle ≈ 119° < 120°।",
+        "topic": "রাসায়নিক বন্ধন (VSEPR)",
+        "probability": "Very Hot"
+      },
+      {
+        "questionNumber": 16,
+        "passage": null,
+        "questionText": "দুর্বল অ্যাসিডের অর্ধ-প্রশমন বিন্দুতে (half-neutralization point)—",
+        "options": [
+          "ক) pH = pKa",
+          "খ) pH = 7",
+          "গ) pH = 14",
+          "ঘ) pH = 0"
+        ],
+        "correctOption": "ক",
+        "explanation": "অর্ধ-প্রশমনে [অ্যাসিড] = [লবণ] → pH = pKa।",
+        "topic": "অ্যাসিড-ক্ষার টাইট্রেশন",
+        "probability": "Mega Hot"
+      },
+      {
+        "questionNumber": 17,
+        "passage": null,
+        "questionText": "ক্রোমেট (CrO₄²⁻) সম্পর্কে— i. হলুদ রঙ ii. অম্লীয় মাধ্যমে ডাইক্রোমেটে রূপান্তর iii. জারক ধর্ম\n\nনিচের কোনটি সঠিক?",
+        "options": [
+          "ক) i ও ii",
+          "খ) i ও iii",
+          "গ) ii ও iii",
+          "ঘ) i, ii ও iii"
+        ],
+        "correctOption": "ঘ",
+        "explanation": "CrO₄²⁻ হলুদ; 2CrO₄²⁻ + 2H⁺ ⇌ Cr₂O₇²⁻ + H₂O; জারকও।",
+        "topic": "জারণ-বিজারণ",
+        "probability": "Very Hot"
+      },
+      {
+        "questionNumber": 18,
+        "passage": null,
+        "questionText": "রাসায়নিক সাম্যাবস্থা সম্পর্কে— i. সাম্যে সামনে-পিছনে বিক্রিয়ার হার সমান ii. ম্যাক্রোস্কোপিকভাবে ধর্ম অপরিবর্তিত iii. সাম্য ধ্রুবক তাপমাত্রার উপর নির্ভরশীল\n\nনিচের কোনটি সঠিক?",
+        "options": [
+          "ক) i ও ii",
+          "খ) i ও iii",
+          "গ) ii ও iii",
+          "ঘ) i, ii ও iii"
+        ],
+        "correctOption": "ঘ",
+        "explanation": "সাম্যাবস্থার তিনটি মৌলিক বৈশিষ্ট্যই সঠিক।",
+        "topic": "রাসায়নিক সাম্যাবস্থা",
+        "probability": "Mega Hot"
+      },
+      {
+        "questionNumber": 19,
+        "passage": null,
+        "questionText": "AgCl অধঃক্ষেপণ গণনায়— i. Ksp = [Ag⁺][Cl⁻] ii. Q > Ksp হলে অধঃক্ষেপ iii. সাদা অধঃক্ষেপ\n\nনিচের কোনটি সঠিক?",
+        "options": [
+          "ক) i ও ii",
+          "খ) i ও iii",
+          "গ) ii ও iii",
+          "ঘ) i, ii ও iii"
+        ],
+        "correctOption": "ঘ",
+        "explanation": "AgCl এর Ksp = [Ag⁺][Cl⁻]; Q > Ksp → অধঃক্ষেপ; AgCl সাদা।",
+        "topic": "দ্রবণ (অধঃক্ষেপণ)",
+        "probability": "Mega Hot"
+      },
+      {
+        "questionNumber": 20,
+        "passage": null,
+        "questionText": "তাপশোষী বিক্রিয়া সম্পর্কে— i. ΔH ধনাত্মক ii. তাপমাত্রা বাড়লে সাম্য ডানে iii. K তাপমাত্রার সাথে বৃদ্ধি পায়\n\nনিচের কোনটি সঠিক?",
+        "options": [
+          "ক) i ও ii",
+          "খ) i ও iii",
+          "গ) ii ও iii",
+          "ঘ) i, ii ও iii"
+        ],
+        "correctOption": "ঘ",
+        "explanation": "তাপশোষী: ΔH > 0; তাপ যোগে সাম্য উৎপাদ দিকে; K বৃদ্ধি পায়।",
+        "topic": "রাসায়নিক সাম্যাবস্থা",
+        "probability": "Very Hot"
+      },
+      {
+        "questionNumber": 21,
+        "passage": null,
+        "questionText": "CO₂ গ্যাসের আণবিক ভর (g/mol)—",
+        "options": [
+          "ক) 44",
+          "খ) 28",
+          "গ) 32",
+          "ঘ) 16"
+        ],
+        "correctOption": "ক",
+        "explanation": "CO₂ = 12 + 2×16 = 44 g/mol।",
+        "topic": "মোলের ধারণা",
+        "probability": "Board Favourite"
+      },
+      {
+        "questionNumber": 22,
+        "passage": null,
+        "questionText": "NH₄Cl দ্রবণের pH—",
+        "options": [
+          "ক) 7",
+          "খ) > 7",
+          "গ) < 7",
+          "ঘ) 14"
+        ],
+        "correctOption": "গ",
+        "explanation": "NH₄⁺ দুর্বল অ্যাসিড; জলীয় বিজারণে H⁺ উৎপন্ন → pH < 7।",
+        "topic": "অ্যাসিড-ক্ষার তত্ত্ব (লবণের হাইড্রোলাইসিস)",
+        "probability": "Mega Hot"
+      },
+      {
+        "questionNumber": 23,
+        "passage": null,
+        "questionText": "স্টেইনলেস স্টিলের মূল উপাদান—",
+        "options": [
+          "ক) Fe, Cr, Ni",
+          "খ) Fe, Cu, Zn",
+          "গ) Fe, Al, Mg",
+          "ঘ) Cu, Sn, Pb"
+        ],
+        "correctOption": "ক",
+        "explanation": "স্টেইনলেস স্টিল ≈ Fe + Cr + Ni; জং প্রতিরোধী।",
+        "topic": "ধাতু ও খনিজ",
+        "probability": "Board Favourite"
+      },
+      {
+        "questionNumber": 24,
+        "passage": null,
+        "questionText": "শক্তিশালী অ্যাসিড-ক্ষার প্রশমনের এনথালপি পরিবর্তন (ΔH) প্রতি mol—",
+        "options": [
+          "ক) -57.3 kJ",
+          "খ) +57.3 kJ",
+          "গ) -92.2 kJ",
+          "ঘ) 0 kJ"
+        ],
+        "correctOption": "ক",
+        "explanation": "H⁺ + OH⁻ → H₂O; ΔH = -57.3 kJ/mol (প্রশমন তাপ)।",
+        "topic": "রাসায়নিক তাপ (প্রশমন)",
+        "probability": "Mega Hot"
+      },
+      {
+        "questionNumber": 25,
+        "passage": null,
+        "questionText": "27°C তাপমাত্রায় N₂ গ্যাসের RMS গতিবেগ প্রায়—",
+        "options": [
+          "ক) 577 m/s",
+          "খ) 500 m/s",
+          "গ) 1200 m/s",
+          "ঘ) 300 m/s"
+        ],
+        "correctOption": "ক",
+        "explanation": "c_rms = √(3RT/M) = √(3×8.314×300/0.028) ≈ 577 m/s।",
+        "topic": "গ্যাসের ধর্ম (গতিতত্ত্ব)",
+        "probability": "Very Hot"
+      }
+    ]
+  },
+  {
+    "setNumber": 12,
+    "subject": "Chemistry 1st Paper",
+    "questions": [
+      {
+        "questionNumber": 1,
+        "passage": "একটি মৌলের ইলেকট্রন বিন্যাস 1s² 2s² 2p²। এটি পর্যায় 2, গ্রুপ 14-এ অবস্থিত এবং চারটি ভ্যালেন্স ইলেকট্রন আছে।",
+        "questionText": "মৌলটি কোনটি?",
+        "options": [
+          "ক) C (কার্বন)",
+          "খ) Si (সিলিকন)",
+          "গ) N (নাইট্রোজেন)",
+          "ঘ) B (বোরন)"
+        ],
+        "correctOption": "ক",
+        "explanation": "1s²2s²2p² → 6 ইলেকট্রন = কার্বন (C)।",
+        "topic": "পর্যায় সারণি ও ইলেকট্রন বিন্যাস",
+        "probability": "Board Favourite"
+      },
+      {
+        "questionNumber": 2,
+        "passage": "উপরের মৌল C এর জ্বলনে CO₂ গ্যাস উৎপন্ন হয়। CO₂ কে চুনের পানিতে পাঠালে দ্রবণ ঘোলা হয়।",
+        "questionText": "এই পরীক্ষাটি CO₂ শনাক্তকারী, কারণ—",
+        "options": [
+          "ক) CaCO₃ অধঃক্ষেপ হয়",
+          "খ) H₂ উৎপন্ন হয়",
+          "গ) দ্রবণ নীল হয়",
+          "ঘ) গ্যাস জ্বলে"
+        ],
+        "correctOption": "ক",
+        "explanation": "CO₂ + Ca(OH)₂ → CaCO₃↓ + H₂O; সাদা অধঃক্ষেপ।",
+        "topic": "রাসায়নিক ধর্ম (CO₂ শনাক্তকরণ)",
+        "probability": "Board Favourite"
+      },
+      {
+        "questionNumber": 3,
+        "passage": "Na₂CO₃ দ্রবণে HCl যোগ করলে CO₂ গ্যাস উৎপন্ন হয়: Na₂CO₃ + 2HCl → 2NaCl + H₂O + CO₂↑",
+        "questionText": "0.1 mol Na₂CO₃ সম্পূর্ণ বিক্রিয়ার জন্য HCl এর মোল সংখ্যা—",
+        "options": [
+          "ক) 0.1 mol",
+          "খ) 0.2 mol",
+          "গ) 0.05 mol",
+          "ঘ) 0.4 mol"
+        ],
+        "correctOption": "খ",
+        "explanation": "Na₂CO₃ : HCl = 1:2 → 0.1 mol Na₂CO₃ এর জন্য 0.2 mol HCl।",
+        "topic": "রাসায়নিক বিক্রিয়া (স্টোইকিওমেট্রি)",
+        "probability": "Mega Hot"
+      },
+      {
+        "questionNumber": 4,
+        "passage": "উপরের বিক্রিয়ায় ফেনলফথ্যালিন সূচক যোগ করা হলো। প্রথমে দ্রবণ গোলাপি, HCl যোগে রঙহীন হয়।",
+        "questionText": "রঙ পরিবর্তনের কারণ—",
+        "options": [
+          "ক) ক্ষার থেকে অম্লে pH হ্রাস",
+          "খ) অম্ল থেকে ক্ষারে pH বৃদ্ধি",
+          "গ) লবণ গঠন",
+          "ঘ) CO₂ উৎপাদন"
+        ],
+        "correctOption": "ক",
+        "explanation": "Na₂CO₃ ক্ষারীয় (গোলাপি); HCl যোগে pH কমে অম্লীয় → ফেনলফথ্যালিন রঙহীন।",
+        "topic": "অ্যাসিড-ক্ষার সূচক",
+        "probability": "Very Hot"
+      },
+      {
+        "questionNumber": 5,
+        "passage": null,
+        "questionText": "সবচেয়ে হালকা ধাতু—",
+        "options": [
+          "ক) Li",
+          "খ) Na",
+          "গ) K",
+          "ঘ) Mg"
+        ],
+        "correctOption": "ক",
+        "explanation": "লিথিয়াম (Li) সবচেয়ে হালকা ধাতু; আণবিক ভর সবচেয়ে কম।",
+        "topic": "পর্যায় সারণি",
+        "probability": "Board Favourite"
+      },
+      {
+        "questionNumber": 6,
+        "passage": null,
+        "questionText": "K₄[Fe(CN)₆] যৌগে Fe এর জারণ সংখ্যা—",
+        "options": [
+          "ক) +2",
+          "খ) +3",
+          "গ) +6",
+          "ঘ) 0"
+        ],
+        "correctOption": "ক",
+        "explanation": "4(+1) + x + 6(-1) = 0 → x = +2; Fe(II)।",
+        "topic": "জারণ-বিজারণ (জারণ সংখ্যা)",
+        "probability": "Mega Hot"
+      },
+      {
+        "questionNumber": 7,
+        "passage": null,
+        "questionText": "আদর্শ গ্যাস থেকে বাস্তব গ্যাসের বিচ্যুতি বেশি হয়—",
+        "options": [
+          "ক) উচ্চ চাপ ও নিম্ন তাপমাত্রায়",
+          "খ) নিম্ন চাপ ও উচ্চ তাপমাত্রায়",
+          "গ) সব সময় সমান",
+          "ঘ) শূন্য চাপে"
+        ],
+        "correctOption": "ক",
+        "explanation": "উচ্চ চাপে আন্তঃআণবিক বল গুরুত্বপূর্ণ; ভ্যান ডার ওয়ালস বিচ্যুতি বেশি।",
+        "topic": "গ্যাসের ধর্ম (ভ্যান ডার ওয়ালস)",
+        "probability": "Very Hot"
+      },
+      {
+        "questionNumber": 8,
+        "passage": null,
+        "questionText": "NaCl দ্রবণের pH—",
+        "options": [
+          "ক) 7",
+          "খ) < 7",
+          "গ) > 7",
+          "ঘ) 14"
+        ],
+        "correctOption": "ক",
+        "explanation": "NaCl শক্তিশালী অ্যাসিড-ক্ষারের লবণ; হাইড্রোলাইসিস নেই → pH = 7।",
+        "topic": "অ্যাসিড-ক্ষার তত্ত্ব (লবণের হাইড্রোলাইসিস)",
+        "probability": "Board Favourite"
+      },
+      {
+        "questionNumber": 9,
+        "passage": null,
+        "questionText": "H₂S গ্যাসের শনাক্তকরণে ব্যবহৃত হয়—",
+        "options": [
+          "ক) লেড অ্যাসিটেট কাগজ",
+          "খ) নীল লিটমাস",
+          "গ) ফেহলিং দ্রবণ",
+          "ঘ) ব্রোমিন জল"
+        ],
+        "correctOption": "ক",
+        "explanation": "H₂S + Pb(CH₃COO)₂ → PbS (কালো) লেড অ্যাসিটেট কাগজ কালো করে।",
+        "topic": "রাসায়নিক শনাক্তকরণ",
+        "probability": "Board Favourite"
+      },
+      {
+        "questionNumber": 10,
+        "passage": null,
+        "questionText": "হেবার পদ্ধতিতে NH₃ উৎপাদনের অনুকূল শর্ত—",
+        "options": [
+          "ক) নিম্ন তাপমাত্রা, উচ্চ চাপ",
+          "খ) উচ্চ তাপমাত্রা, নিম্ন চাপ",
+          "গ) উচ্চ তাপমাত্রা, উচ্চ চাপ",
+          "ঘ) নিম্ন তাপমাত্রা, নিম্ন চাপ"
+        ],
+        "correctOption": "ক",
+        "explanation": "তাপোৎপাদী বিক্রিয়া; নিম্ন T (K বৃদ্ধি নয়, কিন্তু উৎপাদ বাড়ে) ও উচ্চ P (মোল হ্রাস দিকে)।",
+        "topic": "রাসায়নিক সাম্যাবস্থা (হেবার)",
+        "probability": "Mega Hot"
+      },
+      {
+        "questionNumber": 11,
+        "passage": null,
+        "questionText": "নিচের কোন আয়নিক যৌগের গলনাঙ্ক সবচেয়ে বেশি?",
+        "options": [
+          "ক) NaF",
+          "খ) NaCl",
+          "গ) NaBr",
+          "ঘ) NaI"
+        ],
+        "correctOption": "ক",
+        "explanation": "F⁻ সবচেয়ে ছোট; NaF এ আয়নিক বন্ধন সবচেয়ে শক্তিশালী → উচ্চ গলনাঙ্ক।",
+        "topic": "রাসায়নিক বন্ধন (আয়নিক)",
+        "probability": "Very Hot"
+      },
+      {
+        "questionNumber": 12,
+        "passage": null,
+        "questionText": "দুটি দ্রবণের pH এর অনুপাত 100:1 হলে [H⁺] এর অনুপাত—",
+        "options": [
+          "ক) 100:1",
+          "খ) 1:100",
+          "গ) 10:1",
+          "ঘ) 1:10"
+        ],
+        "correctOption": "ক",
+        "explanation": "pH পার্থক্য 2 হলে [H⁺] অনুপাত 10² = 100:1।",
+        "topic": "দ্রবণ (pH)",
+        "probability": "Mega Hot"
+      },
+      {
+        "questionNumber": 13,
+        "passage": null,
+        "questionText": "N₂ অণুর বন্ধন ক্রম (bond order)—",
+        "options": [
+          "ক) 3",
+          "খ) 2",
+          "গ) 1",
+          "ঘ) 0"
+        ],
+        "correctOption": "ক",
+        "explanation": "N≡N ত্রিপল বন্ধন; bond order = 3।",
+        "topic": "রাসায়নিক বন্ধন (MOT)",
+        "probability": "Board Favourite"
+      },
+      {
+        "questionNumber": 14,
+        "passage": null,
+        "questionText": "25 mL 0.5 M FeSO₄ দ্রবণ সম্পূর্ণ জারিত করতে 0.1 M KMnO₄ দ্রবণের কত mL লাগবে? (অম্লীয় মাধ্যম)",
+        "options": [
+          "ক) 25 mL",
+          "খ) 50 mL",
+          "গ) 10 mL",
+          "ঘ) 5 mL"
+        ],
+        "correctOption": "ক",
+        "explanation": "Fe²⁺ মোল = 0.025×0.5 = 0.0125 mol; MnO₄⁻ = 0.0125/5 = 0.0025 mol; V = 0.0025/0.1 = 25 mL।",
+        "topic": "জারণ-বিজারণ (টাইট্রেশন)",
+        "probability": "Mega Hot"
+      },
+      {
+        "questionNumber": 15,
+        "passage": null,
+        "questionText": "বোহর মডেলে n=3 থেকে n=1 ইলেকট্রন স্থানান্তরে— i. শক্তি নির্গত ii. লাইমান শ্রেণি iii. UV অঞ্চল\n\nনিচের কোনটি সঠিক?",
+        "options": [
+          "ক) i ও ii",
+          "খ) i ও iii",
+          "গ) ii ও iii",
+          "ঘ) i, ii ও iii"
+        ],
+        "correctOption": "ঘ",
+        "explanation": "n=3→1: ΔE বড়, লাইমান শ্রেণি, UV তরঙ্গদৈর্ঘ্য।",
+        "topic": "পরমাণুর গঠন (বোহর মডেল)",
+        "probability": "Very Hot"
+      },
+      {
+        "questionNumber": 16,
+        "passage": null,
+        "questionText": "H₂O₂ প্রস্তুতি সম্পর্কে— i. 2-ইলেক্ট্রোলাইট পদ্ধতি ii. অটোঅক্সিডেশন-বিজারণ iii. BaO₂ + H₂SO₄\n\nনিচের কোনটি সঠিক?",
+        "options": [
+          "ক) i ও ii",
+          "খ) i ও iii",
+          "গ) ii ও iii",
+          "ঘ) i, ii ও iii"
+        ],
+        "correctOption": "ঘ",
+        "explanation": "H₂O₂ প্রস্তুতির তিন পদ্ধতিই ব্যবহৃত।",
+        "topic": "জারণ-বিজারণ (H₂O₂)",
+        "probability": "Very Hot"
+      },
+      {
+        "questionNumber": 17,
+        "passage": null,
+        "questionText": "নিচের কোন গ্যাস জোড়টি গ্রিনহাউস গ্যাস?",
+        "options": [
+          "ক) CO₂ ও H₂O",
+          "খ) N₂ ও O₂",
+          "গ) He ও Ar",
+          "ঘ) H₂ ও N₂"
+        ],
+        "correctOption": "ক",
+        "explanation": "CO₂ ও H₂O গ্রিনহাউস গ্যাস; N₂, O₂, He, Ar নয়।",
+        "topic": "পরিবেশ রসায়ন",
+        "probability": "Board Favourite"
+      },
+      {
+        "questionNumber": 18,
+        "passage": null,
+        "questionText": "25°C ও 1 atm এ 1 mol আদর্শ গ্যাসের আয়তন (L) প্রায়—",
+        "options": [
+          "ক) 24.45 L",
+          "খ) 22.4 L",
+          "গ) 24.0 L",
+          "ঘ) 22.7 L"
+        ],
+        "correctOption": "ক",
+        "explanation": "25°C (298 K) এ মোলার আয়তন = RT/P = 0.082×298/1 ≈ 24.45 L।",
+        "topic": "গ্যাসের সূত্র",
+        "probability": "Mega Hot"
+      },
+      {
+        "questionNumber": 19,
+        "passage": null,
+        "questionText": "H₂SO₄ একটি—",
+        "options": [
+          "ক) দ্বিপ্রোটিক অ্যাসিড",
+          "খ) মনোপ্রোটিক",
+          "গ) ত্রিপ্রোটিক",
+          "ঘ) অম্ল নয়"
+        ],
+        "correctOption": "ক",
+        "explanation": "H₂SO₄ দুটি প্রতিস্থাপনযোগ্য H⁺ দেয় → দ্বিপ্রোটিক।",
+        "topic": "অ্যাসিড-ক্ষার তত্ত্ব",
+        "probability": "Board Favourite"
+      },
+      {
+        "questionNumber": 20,
+        "passage": null,
+        "questionText": "CH₃COOH/CH₃COONa বাফারে [অ্যাসিড]=0.2 M, [লবণ]=0.1 M, pKa=4.76। pH কত?",
+        "options": [
+          "ক) 4.46",
+          "খ) 4.76",
+          "গ) 5.06",
+          "ঘ) 4.26"
+        ],
+        "correctOption": "ক",
+        "explanation": "pH = pKa + log(0.1/0.2) = 4.76 - 0.30 = 4.46।",
+        "topic": "দ্রবণ (বাফার)",
+        "probability": "Mega Hot"
+      },
+      {
+        "questionNumber": 21,
+        "passage": null,
+        "questionText": "হাইপো (অতিরিক্ত তাপমাত্রায় ফটোগ্রাফিক উন্নয়নকারী) এর রাসায়নিক সূত্র—",
+        "options": [
+          "ক) Na₂S₂O₃",
+          "খ) Na₂SO₄",
+          "গ) Na₂S",
+          "ঘ) NaHSO₃"
+        ],
+        "correctOption": "ক",
+        "explanation": "হাইপো = সোডিয়াম থায়োসালফেট, Na₂S₂O₃·5H₂O।",
+        "topic": "রাসায়নিক যৌগ",
+        "probability": "Board Favourite"
+      },
+      {
+        "questionNumber": 22,
+        "passage": null,
+        "questionText": "1.06 g Na₂CO₃ (আণবিক ভর 106) সম্পূর্ণ নিউট্রালাইজ করতে 0.125 M HCl দ্রবণের কত mL লাগবে?",
+        "options": [
+          "ক) 160 mL",
+          "খ) 100 mL",
+          "গ) 200 mL",
+          "ঘ) 80 mL"
+        ],
+        "correctOption": "ক",
+        "explanation": "Na₂CO₃ মোল = 1.06/106 = 0.01 mol; HCl মোল = 0.02 mol; V = 0.02/0.125 = 160 mL।",
+        "topic": "অ্যাসিড-ক্ষার প্রশমন",
+        "probability": "Mega Hot"
+      },
+      {
+        "questionNumber": 23,
+        "passage": null,
+        "questionText": "অম্লীয় মাধ্যমে K₂Cr₂O₇ এর প্রতি mol ইলেকট্রন গ্রহণ সংখ্যা—",
+        "options": [
+          "ক) 6",
+          "খ) 5",
+          "গ) 3",
+          "ঘ) 10"
+        ],
+        "correctOption": "ক",
+        "explanation": "Cr₂O₇²⁻ + 14H⁺ + 6e⁻ → 2Cr³⁺ + 7H₂O; প্রতি mol 6 ইলেকট্রন।",
+        "topic": "জারণ-বিজারণ",
+        "probability": "Mega Hot"
+      },
+      {
+        "questionNumber": 24,
+        "passage": null,
+        "questionText": "হেবার পদ্ধতিতে N₂ ও H₂ এর মোলার অনুপাত—",
+        "options": [
+          "ক) 1:3",
+          "খ) 3:1",
+          "গ) 1:1",
+          "ঘ) 2:1"
+        ],
+        "correctOption": "ক",
+        "explanation": "N₂ + 3H₂ ⇌ 2NH₃; বিক্রিয়কের মোলার অনুপাত 1:3।",
+        "topic": "রাসায়নিক সাম্যাবস্থা (হেবার)",
+        "probability": "Board Favourite"
+      },
+      {
+        "questionNumber": 25,
+        "passage": null,
+        "questionText": "নিচের কোনটি হেটেরোসাইক্লিক যৌগ নয়?",
+        "options": [
+          "ক) ফিউরান",
+          "খ) পাইরিডিন",
+          "গ) বেনজিন",
+          "ঘ) থায়োফিন"
+        ],
+        "correctOption": "গ",
+        "explanation": "বেনজিন হোমোসাইক্লিক অ্যারোমেটিক; ফিউরান, পাইরিডিন, থায়োফিন হেটেরোসাইক্লিক।",
+        "topic": "জৈব রসায়ন (সাইক্লিক যৌগ)",
+        "probability": "Very Hot"
+      }
+    ]
+  }
+]

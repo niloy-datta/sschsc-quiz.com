@@ -1,0 +1,20 @@
+{
+    "chat.disableAIFeatures": false,
+    "chat.useProjectContext": true,
+    "github.copilot.chat.agent.autoFix": true,
+    "github.copilot.chat.localeOverride": "auto",
+    "github.copilot.chat.models": [
+        {
+            "name": "DeepSeek Coder 6.7B (Local)",
+            "model": "deepseek-coder:6.7b",
+            "vendor": "ollama",
+            "url": "http://localhost:11434"
+        },
+        {
+            "name": "Qwen Coder 7B (Local)",
+            "model": "qwen2.5-coder:7b",
+            "vendor": "ollama",
+            "url": "http://localhost:11434"
+        }
+    ]
+}

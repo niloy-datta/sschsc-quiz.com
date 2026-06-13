@@ -1,0 +1,381 @@
+{
+  "setNumber": 7,
+  "subject": "Chemistry 2nd Paper",
+  "questions": [
+    {
+      "questionNumber": 1,
+      "passage": "জৈব যৌগ (X) KMnO₄ জারণে 2 কার্বনের একটি কার্বক্সিলিক অ্যাসিড দেয়। (X) Br₂ জল রংহীন করে এবং মার্কোনিকভ নিয়মে HBr যোগ করলে প্রধানত 2-ব্রোমো যৌগ গঠন করে।",
+      "questionText": "(X) যৌগটি কী?",
+      "options": [
+        "ক) ইথিন",
+        "খ) প্রোপিন",
+        "গ) বিউট-2-ইন",
+        "ঘ) 2-মিথাইলপ্রোপিন"
+      ],
+      "correctOption": "খ",
+      "explanation": "প্রোপিন (CH₃CH=CH₂): Br₂ জল রংহীন করে, HBr যোগে মার্কোনিকভ 2-ব্রোমোপ্রোপেন প্রধান উৎপাদ, KMnO₄ জারণে অ্যাসিটিক অ্যাসিড (2C)।",
+      "topic": "জৈব রসায়ন (হাইড্রোকার্বন)",
+      "probability": "Mega Hot"
+    },
+    {
+      "questionNumber": 2,
+      "passage": "উপরের (X) এর পলিমারকরণে কী উৎপন্ন হয়?",
+      "questionText": "পলিমারটি কী?",
+      "options": [
+        "ক) পলিথিন",
+        "খ) পলিপ্রোপিলিন",
+        "গ) পলিস্টাইরিন",
+        "ঘ) পলিবিউটাডাইইন"
+      ],
+      "correctOption": "খ",
+      "explanation": "প্রোপিন (CH₂=CH-CH₃) পলিমার → পলিপ্রোপিলিন।",
+      "topic": "পলিমার",
+      "probability": "Very Hot"
+    },
+    {
+      "questionNumber": 3,
+      "passage": "100 mL কঠিন পানির নমুনাকে 15 mL 0.01 M EDTA দ্রবণ দিয়ে টাইট্রেশন করা হলো। (CaCO₃ = 100 g/mol)",
+      "questionText": "পানির মোট খরতা কত ppm?",
+      "options": [
+        "ক) 150",
+        "খ) 200",
+        "গ) 300",
+        "ঘ) 100"
+      ],
+      "correctOption": "ক",
+      "explanation": "খরতা = (V_EDTA × M_EDTA × 1000 / V_water) × 100 = (15×0.01×1000/100)×100 = 150 ppm।",
+      "topic": "পরিবেশ রসায়ন (পানি)",
+      "probability": "Mega Hot"
+    },
+    {
+      "questionNumber": 4,
+      "passage": "টাইট্রেশনে এরিওক্রোম ব্ল্যাক-T নির্দেশক ব্যবহার করা হলো।",
+      "questionText": "শেষ বিন্দুতে বর্ণ পরিবর্তন—",
+      "options": [
+        "ক) লাল থেকে নীল",
+        "খ) নীল থেকে লাল",
+        "গ) হলুদ থেকে লাল",
+        "ঘ) বর্ণহীন থেকে নীল"
+      ],
+      "correctOption": "ক",
+      "explanation": "EBT Ca²⁺/Mg²⁺ এর সাথে লাল, EDTA যোগে মুক্ত হলে নীল।",
+      "topic": "পরিবেশ রসায়ন",
+      "probability": "Very Hot"
+    },
+    {
+      "questionNumber": 5,
+      "passage": null,
+      "questionText": "অ্যালকিনের ওজোনোলাইসিসের পর বিজারণকারী এজেন্ট হিসেবে কোনটি ব্যবহৃত হয়?",
+      "options": [
+        "ক) Zn/H₂O",
+        "খ) LiAlH₄",
+        "গ) NaBH₄",
+        "ঘ) KMnO₄"
+      ],
+      "correctOption": "ক",
+      "explanation": "O₃ এর পর Zn/H₂O দিয়ে বিজারণ করে কার্বনিল যৌগ পাওয়া যায়।",
+      "topic": "জৈব রসায়ন (অ্যালকিন)",
+      "probability": "Mega Hot"
+    },
+    {
+      "questionNumber": 6,
+      "passage": null,
+      "questionText": "বেনজিনের ডায়াজোনিয়াম লবণকে CuCl/HCl এর সাথে উত্তপ্ত করলে কী উৎপন্ন?",
+      "options": [
+        "ক) ক্লোরোবেনজিন",
+        "খ) ফেনল",
+        "গ) বেনজিন",
+        "ঘ) অ্যানিলিন"
+      ],
+      "correctOption": "ক",
+      "explanation": "স্যান্ডমেয়ার বিক্রিয়া: C₆H₅N₂⁺Cl⁻ + CuCl/HCl → C₆H₅Cl + N₂।",
+      "topic": "জৈব রসায়ন (ডায়াজোনিয়াম)",
+      "probability": "Very Hot"
+    },
+    {
+      "questionNumber": 7,
+      "passage": null,
+      "questionText": "গ্লুকোজের গঠনে কয়টি কাইরাল কার্বন আছে?",
+      "options": [
+        "ক) 4",
+        "খ) 5",
+        "গ) 6",
+        "ঘ) 3"
+      ],
+      "correctOption": "ক",
+      "explanation": "ওপেন-চেইন গ্লুকোজে 4টি কাইরাল C (C2,C3,C4,C5), রিং ফর্মে C1 ও কাইরাল হয় (মোট 5)? বোর্ডে সাধারণত 4 ধরা হয় ওপেন ফর্মে। তবে রিং এ 5। প্রশ্নে পরিষ্কার ওপেন চেইন ধরে 4।",
+      "topic": "জৈব অণু",
+      "probability": "Board Favourite"
+    },
+    {
+      "questionNumber": 8,
+      "passage": null,
+      "questionText": "ইথানয়িক অ্যাসিডের ক্লোরিনেশন (Cl₂/P) এ কোন উৎপাদ?",
+      "options": [
+        "ক) ক্লোরোঅ্যাসিটিক অ্যাসিড",
+        "খ) ট্রাইক্লোরোঅ্যাসিটিক অ্যাসিড",
+        "গ) অ্যাসিটাইল ক্লোরাইড",
+        "ঘ) ইথাইল ক্লোরাইড"
+      ],
+      "correctOption": "ক",
+      "explanation": "HVZ বিক্রিয়া: RCH₂COOH + Cl₂/P → RCHClCOOH। তবে অতিরিক্ত ক্লোরিন দিলে ট্রাইক্লোরো হতে পারে। প্রশ্নে প্রধান উৎপাদ মনো-ক্লোরো।",
+      "topic": "জৈব রসায়ন (অ্যাসিড)",
+      "probability": "Very Hot"
+    },
+    {
+      "questionNumber": 9,
+      "passage": null,
+      "questionText": "জিওলাইটের সাধারণ সংকেত—",
+      "options": [
+        "ক) Na₂Al₂Si₂O₈·xH₂O",
+        "খ) CaCO₃·MgCO₃",
+        "গ) Na₂CO₃·10H₂O",
+        "ঘ) CaSO₄·2H₂O"
+      ],
+      "correctOption": "ক",
+      "explanation": "জিওলাইট সোডিয়াম অ্যালুমিনোসিলিকেট।",
+      "topic": "পরিবেশ রসায়ন",
+      "probability": "Board Favourite"
+    },
+    {
+      "questionNumber": 10,
+      "passage": null,
+      "questionText": "পলিস্টাইরিনের মনোমার হলো—",
+      "options": [
+        "ক) স্টাইরিন (C₆H₅CH=CH₂)",
+        "খ) ইথিলিন",
+        "গ) ভিনাইল ক্লোরাইড",
+        "ঘ) প্রোপিলিন"
+      ],
+      "correctOption": "ক",
+      "explanation": "পলিস্টাইরিন = স্টাইরিনের পলিমার।",
+      "topic": "পলিমার",
+      "probability": "Board Favourite"
+    },
+    {
+      "questionNumber": 11,
+      "passage": null,
+      "questionText": "তীব্র অম্লীয় মাধ্যমে ফেনল ও অ্যালকোহলের মধ্যে পার্থক্য করতে কোন বিকারক ব্যবহার করা যায়?",
+      "options": [
+        "ক) NaHCO₃",
+        "খ) NaOH",
+        "গ) FeCl₃",
+        "ঘ) Na"
+      ],
+      "correctOption": "গ",
+      "explanation": "FeCl₃ ফেনলের সাথে বেগুনি বর্ণ দেয়, অ্যালকোহল দেয় না।",
+      "topic": "জৈব রসায়ন (শনাক্তকরণ)",
+      "probability": "Very Hot"
+    },
+    {
+      "questionNumber": 12,
+      "passage": null,
+      "questionText": "ফ্রেয়ন-12 কীভাবে ওজোন স্তর ক্ষয় করে?",
+      "options": [
+        "ক) UV আলোতে Cl মুক্তমূলক গঠন করে",
+        "খ) CO₂ নির্গত করে",
+        "গ) অ্যাসিড বৃষ্টি ঘটায়",
+        "ঘ) তাপমাত্রা বাড়ায়"
+      ],
+      "correctOption": "ক",
+      "explanation": "CCl₂F₂ + UV → Cl· (মুক্তমূলক) ওজোন ভাঙে।",
+      "topic": "পরিবেশ রসায়ন",
+      "probability": "Mega Hot"
+    },
+    {
+      "questionNumber": 13,
+      "passage": null,
+      "questionText": "বেনজিনের ক্লোরোমিথাইলেশন বিক্রিয়ায় কোন যৌগ উৎপন্ন হয়?",
+      "options": [
+        "ক) বেনজাইল ক্লোরাইড",
+        "খ) ক্লোরোবেনজিন",
+        "গ) বেনজাল ক্লোরাইড",
+        "ঘ) BHC"
+      ],
+      "correctOption": "ক",
+      "explanation": "C₆H₆ + HCHO + HCl → C₆H₅CH₂Cl (বেনজাইল ক্লোরাইড)।",
+      "topic": "জৈব রসায়ন (বেনজিন)",
+      "probability": "Very Hot"
+    },
+    {
+      "questionNumber": 14,
+      "passage": null,
+      "questionText": "নিম্নের কোনটি প্রাইমারি অ্যামিনের শনাক্তকারী পরীক্ষা?",
+      "options": [
+        "ক) কার্বিলঅ্যামিন পরীক্ষা",
+        "খ) অ্যাজো ডাই পরীক্ষা",
+        "গ) লুকাস পরীক্ষা",
+        "ঘ) আয়োডোফর্ম পরীক্ষা"
+      ],
+      "correctOption": "ক",
+      "explanation": "প্রাইমারি অ্যামিন + CHCl₃ + KOH → আইসোসায়ানাইড (দুর্গন্ধ)।",
+      "topic": "জৈব রসায়ন (অ্যামিন)",
+      "probability": "Board Favourite"
+    },
+    {
+      "questionNumber": 15,
+      "passage": null,
+      "questionText": "অ্যালকোহলের লুকাস পরীক্ষা— i. লুকাস বিকারক HCl/ZnCl₂ ii. টারশিয়ারি অ্যালকোহল তাৎক্ষণিক ঘোলা দেয় iii. সেকেন্ডারি অ্যালকোহল 5-10 মিনিটে ঘোলা নিচের কোনটি সঠিক?",
+      "options": [
+        "ক) i ও ii",
+        "খ) i ও iii",
+        "গ) ii ও iii",
+        "ঘ) i, ii ও iii"
+      ],
+      "correctOption": "ঘ",
+      "explanation": "তিনটিই সঠিক।",
+      "topic": "জৈব রসায়ন (অ্যালকোহল)",
+      "probability": "Very Hot"
+    },
+    {
+      "questionNumber": 16,
+      "passage": null,
+      "questionText": "বেনজিনের নাইট্রেশন— i. ইলেকট্রোফিলিক প্রতিস্থাপন ii. নাইট্রোনিয়াম আয়ন (NO₂⁺) ইলেকট্রোফাইল iii. H₂SO₄ অনুঘটক নিচের কোনটি সঠিক?",
+      "options": [
+        "ক) i ও ii",
+        "খ) i ও iii",
+        "গ) ii ও iii",
+        "ঘ) i, ii ও iii"
+      ],
+      "correctOption": "ঘ",
+      "explanation": "নাইট্রেশন সম্পূর্ণ বর্ণনা।",
+      "topic": "জৈব রসায়ন (বেনজিন)",
+      "probability": "Mega Hot"
+    },
+    {
+      "questionNumber": 17,
+      "passage": null,
+      "questionText": "কার্বক্সিলিক অ্যাসিডের কার্যকরী গ্রুপ— i. -COOH ii. NaHCO₃ এর সাথে CO₂ উৎপন্ন করে iii. অ্যালকোহলের সাথে এস্টার গঠন করে নিচের কোনটি সঠিক?",
+      "options": [
+        "ক) i ও ii",
+        "খ) i ও iii",
+        "গ) ii ও iii",
+        "ঘ) i, ii ও iii"
+      ],
+      "correctOption": "ঘ",
+      "explanation": "সবই সঠিক।",
+      "topic": "জৈব রসায়ন (অ্যাসিড)",
+      "probability": "Board Favourite"
+    },
+    {
+      "questionNumber": 18,
+      "passage": null,
+      "questionText": "গ্লুকোজ— i. অ্যালডোহেক্সোজ ii. Fehling দ্রবণ জারিত করে iii. গ্লাইকোসিডিক বন্ধন গঠন করতে পারে নিচের কোনটি সঠিক?",
+      "options": [
+        "ক) i ও ii",
+        "খ) i ও iii",
+        "গ) ii ও iii",
+        "ঘ) i, ii ও iii"
+      ],
+      "correctOption": "ঘ",
+      "explanation": "তিনটিই সঠিক।",
+      "topic": "জৈব অণু (শর্করা)",
+      "probability": "Very Hot"
+    },
+    {
+      "questionNumber": 19,
+      "passage": null,
+      "questionText": "CFC-র পরিবেশগত প্রভাব— i. ওজোন স্তর ক্ষয় ii. গ্রিনহাউস প্রভাব iii. অ্যাসিড বৃষ্টি নিচের কোনটি সঠিক?",
+      "options": [
+        "ক) i ও ii",
+        "খ) i ও iii",
+        "গ) ii ও iii",
+        "ঘ) i, ii ও iii"
+      ],
+      "correctOption": "ক",
+      "explanation": "CFC সরাসরি অ্যাসিড বৃষ্টি ঘটায় না, SO₂/NOₓ ঘটায়।",
+      "topic": "পরিবেশ রসায়ন",
+      "probability": "Mega Hot"
+    },
+    {
+      "questionNumber": 20,
+      "passage": null,
+      "questionText": "পলিথিন টেরেফথালেট (PET)— i. সংযোজন পলিমার ii. ঘনীভবন পলিমার iii. বোতল তৈরিতে ব্যবহৃত নিচের কোনটি সঠিক?",
+      "options": [
+        "ক) i ও ii",
+        "খ) i ও iii",
+        "গ) ii ও iii",
+        "ঘ) i, ii ও iii"
+      ],
+      "correctOption": "গ",
+      "explanation": "PET ঘনীভবন পলিমার, বোতলে ব্যবহৃত।",
+      "topic": "পলিমার",
+      "probability": "Board Favourite"
+    },
+    {
+      "questionNumber": 21,
+      "passage": null,
+      "questionText": "বেনজিনের ইলেকট্রোফিলিক প্রতিস্থাপনে কোন জটিলটি অন্তর্বর্তী?",
+      "options": [
+        "ক) কার্বোক্যাটায়ন",
+        "খ) সিগমা জটিল (আরেনিয়াম আয়ন)",
+        "গ) কার্বানায়ন",
+        "ঘ) মুক্তমূলক"
+      ],
+      "correctOption": "খ",
+      "explanation": "বেনজিন E⁺ আক্রমণে সিগমা জটিল (আরেনিয়াম আয়ন) গঠন করে।",
+      "topic": "জৈব রসায়ন (বিক্রিয়া কৌশল)",
+      "probability": "Conceptual Trap"
+    },
+    {
+      "questionNumber": 22,
+      "passage": null,
+      "questionText": "নিচের কোনটি অ্যালডিহাইডের পলিমার?",
+      "options": [
+        "ক) প্যারাফরমালডিহাইড",
+        "খ) পলিথিন",
+        "গ) নাইলন",
+        "ঘ) বেকেলাইট"
+      ],
+      "correctOption": "ক",
+      "explanation": "ফরমালডিহাইড পলিমার → প্যারাফরমালডিহাইড বা মেটালডিহাইড।",
+      "topic": "জৈব রসায়ন/পলিমার",
+      "probability": "Very Hot"
+    },
+    {
+      "questionNumber": 23,
+      "passage": null,
+      "questionText": "কোন বিকারকটি কিটোনকে অ্যালকোহলে বিজারিত করতে পারে?",
+      "options": [
+        "ক) NaBH₄",
+        "খ) KMnO₄",
+        "গ) Fehling দ্রবণ",
+        "ঘ) Tollens বিকারক"
+      ],
+      "correctOption": "ক",
+      "explanation": "NaBH₄ কিটোন → সেকেন্ডারি অ্যালকোহল।",
+      "topic": "জৈব রসায়ন (কিটোন)",
+      "probability": "Board Favourite"
+    },
+    {
+      "questionNumber": 24,
+      "passage": null,
+      "questionText": "সোডিয়াম বেনজোয়েটকে সোডালাইমের সাথে উত্তপ্ত করলে কী উৎপন্ন হয়?",
+      "options": [
+        "ক) বেনজিন",
+        "খ) ফেনল",
+        "গ) বেনজালডিহাইড",
+        "ঘ) টলুইন"
+      ],
+      "correctOption": "ক",
+      "explanation": "C₆H₅COONa + NaOH (CaO) → C₆H₆ + Na₂CO₃ (ডিকার্বক্সিলেশন)।",
+      "topic": "জৈব রসায়ন (অ্যাসিড)",
+      "probability": "Mega Hot"
+    },
+    {
+      "questionNumber": 25,
+      "passage": null,
+      "questionText": "কৃত্রিম তন্তু নাইলন 6,6 এ হাইড্রোজেন বন্ধন গঠিত হয়—",
+      "options": [
+        "ক) অ্যামাইড গ্রুপের মধ্যে",
+        "খ) ইথার গ্রুপের মধ্যে",
+        "গ) এস্টার গ্রুপের মধ্যে",
+        "ঘ) অ্যালকিন গ্রুপের মধ্যে"
+      ],
+      "correctOption": "ক",
+      "explanation": "নাইলনে -CONH- গ্রুপে H-bond গঠিত হয়।",
+      "topic": "পলিমার",
+      "probability": "Very Hot"
+    }
+  ]
+}

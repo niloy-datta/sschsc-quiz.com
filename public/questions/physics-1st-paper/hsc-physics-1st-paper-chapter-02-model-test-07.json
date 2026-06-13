@@ -1,0 +1,352 @@
+[
+  {
+    "id": "hsc-physics_1stpaper-chapter-02-set-07-q01",
+    "subject": "physics-1st-paper",
+    "chapter": "hsc-physics-1st-paper-chapter-02-model-test-07",
+    "text": "কোন ভেক্টরের পাদবিন্দু নির্দিষ্ট না থাকলে সেই ভেক্টরকে কী বলা হয়?",
+    "options": [
+      "swadhin vector",
+      "nirdisht vector",
+      "skalor",
+      "nindak vector"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-physics_1stpaper-chapter-02-set-07-q02",
+    "subject": "physics-1st-paper",
+    "chapter": "hsc-physics-1st-paper-chapter-02-model-test-07",
+    "text": "নিচের কোনটি ভেক্টরের কার্ল?",
+    "options": [
+      "nabla V",
+      "nabla · V",
+      "nabla × V",
+      "nabla V"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-physics_1stpaper-chapter-02-set-07-q03",
+    "subject": "physics-1st-paper",
+    "chapter": "hsc-physics-1st-paper-chapter-02-model-test-07",
+    "text": "নিচের কোনটি সঠিক ভেক্টর নয়?",
+    "options": [
+      "null vector",
+      "unit vector",
+      "position vector",
+      "force vector"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-physics_1stpaper-chapter-02-set-07-q04",
+    "subject": "physics-1st-paper",
+    "chapter": "hsc-physics-1st-paper-chapter-02-model-test-07",
+    "text": "নিচের কোনটির দিক নির্দিষ্ট নেই?",
+    "options": [
+      "zero vector",
+      "unit vector",
+      "position vector",
+      "force vector"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-physics_1stpaper-chapter-02-set-07-q05",
+    "subject": "physics-1st-paper",
+    "chapter": "hsc-physics-1st-paper-chapter-02-model-test-07",
+    "text": "বল ভেক্টরের কার্ল শূন্য হলে বলটি কী হবে?",
+    "options": [
+      "conservative",
+      "nonconservative",
+      "constant",
+      "variable"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-physics_1stpaper-chapter-02-set-07-q06",
+    "subject": "physics-1st-paper",
+    "chapter": "hsc-physics-1st-paper-chapter-02-model-test-07",
+    "text": "বিনিময় সূত্র মেনে চলে— i. দুটি ভেক্টরের যোগ ii. দুটি ভেক্টরের ডট গুণন iii. দুটি ভেক্টরের ক্রস গুণন নিচের কোনটি সঠিক?",
+    "options": [
+      "i ও ii",
+      "i ও iii",
+      "ii ও iii",
+      "i, ii ও iii"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-physics_1stpaper-chapter-02-set-07-q07",
+    "subject": "physics-1st-paper",
+    "chapter": "hsc-physics-1st-paper-chapter-02-model-test-07",
+    "text": "সংনম্যতা কোন ধরনের রাশি?",
+    "options": [
+      "scalar and inverse of volume ratio",
+      "vector and inverse of volume ratio",
+      "scalar only",
+      "vector only"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-physics_1stpaper-chapter-02-set-07-q08",
+    "subject": "physics-1st-paper",
+    "chapter": "hsc-physics-1st-paper-chapter-02-model-test-07",
+    "text": "সমকোণে একটি বিন্দুতে ক্রিয়াশীল দুটি সমান বলের লব্ধির মান কত গুণ? ---",
+    "options": [
+      "1 গুণ",
+      "\\sqrt{2} গুণ",
+      "2 গুণ",
+      "1/2 গুণ"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-physics_1stpaper-chapter-02-set-07-q09",
+    "subject": "physics-1st-paper",
+    "chapter": "hsc-physics-1st-paper-chapter-02-model-test-07",
+    "text": "সমজাতীয় অসমমানের একযোগে ক্রিয়াশীল দুটি ভেক্টরকে কী বলে?",
+    "options": [
+      "similar vector",
+      "equal vector",
+      "opposite vector",
+      "null vector"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-physics_1stpaper-chapter-02-set-07-q10",
+    "subject": "physics-1st-paper",
+    "chapter": "hsc-physics-1st-paper-chapter-02-model-test-07",
+    "text": "সমান ভেক্টরের বৈশিষ্ট্য কোনগুলো?",
+    "options": [
+      "i, ii and iii",
+      "i and ii",
+      "ii and iii",
+      "i only"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-physics_1stpaper-chapter-02-set-07-q11",
+    "subject": "physics-1st-paper",
+    "chapter": "hsc-physics-1st-paper-chapter-02-model-test-07",
+    "text": "একটি ভেক্টরের মান 10 এবং অপরটির মান 10 হলে এদের সর্বোচ্চ লব্ধি কত?",
+    "options": [
+      "f*f",
+      "20",
+      "10",
+      "০"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-physics_1stpaper-chapter-02-set-07-q12",
+    "subject": "physics-1st-paper",
+    "chapter": "hsc-physics-1st-paper-chapter-02-model-test-07",
+    "text": "একটি ভেক্টরের মান 10 এবং অপরটির মান 10 হলে এদের সর্বোচ্চ লব্ধি কত?",
+    "options": [
+      "f*f",
+      "20",
+      "০",
+      "10"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-physics_1stpaper-chapter-02-set-07-q13",
+    "subject": "physics-1st-paper",
+    "chapter": "hsc-physics-1st-paper-chapter-02-model-test-07",
+    "text": "একটি ভেক্টরের মান 14 এবং অপরটির মান 14 হলে এদের সর্বোচ্চ লব্ধি কত?",
+    "options": [
+      "14",
+      "০",
+      "f*f",
+      "28"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-physics_1stpaper-chapter-02-set-07-q14",
+    "subject": "physics-1st-paper",
+    "chapter": "hsc-physics-1st-paper-chapter-02-model-test-07",
+    "text": "একটি ভেক্টরের মান 16 এবং অপরটির মান 16 হলে এদের সর্বোচ্চ লব্ধি কত?",
+    "options": [
+      "32",
+      "০",
+      "f*f",
+      "16"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-physics_1stpaper-chapter-02-set-07-q15",
+    "subject": "physics-1st-paper",
+    "chapter": "hsc-physics-1st-paper-chapter-02-model-test-07",
+    "text": "একটি ভেক্টরের মান 17 এবং অপরটির মান 17 হলে এদের সর্বোচ্চ লব্ধি কত?",
+    "options": [
+      "17",
+      "০",
+      "f*f",
+      "34"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-physics_1stpaper-chapter-02-set-07-q16",
+    "subject": "physics-1st-paper",
+    "chapter": "hsc-physics-1st-paper-chapter-02-model-test-07",
+    "text": "একটি ভেক্টরের মান 18 এবং অপরটির মান 18 হলে এদের সর্বোচ্চ লব্ধি কত?",
+    "options": [
+      "০",
+      "36",
+      "18",
+      "f*f"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-physics_1stpaper-chapter-02-set-07-q17",
+    "subject": "physics-1st-paper",
+    "chapter": "hsc-physics-1st-paper-chapter-02-model-test-07",
+    "text": "একটি ভেক্টরের মান 18 এবং অপরটির মান 18 হলে এদের সর্বোচ্চ লব্ধি কত?",
+    "options": [
+      "f*f",
+      "০",
+      "18",
+      "36"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-physics_1stpaper-chapter-02-set-07-q18",
+    "subject": "physics-1st-paper",
+    "chapter": "hsc-physics-1st-paper-chapter-02-model-test-07",
+    "text": "একটি ভেক্টরের মান 19 এবং অপরটির মান 19 হলে এদের সর্বোচ্চ লব্ধি কত?",
+    "options": [
+      "38",
+      "০",
+      "19",
+      "f*f"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-physics_1stpaper-chapter-02-set-07-q19",
+    "subject": "physics-1st-paper",
+    "chapter": "hsc-physics-1st-paper-chapter-02-model-test-07",
+    "text": "একটি ভেক্টরের মান 20 এবং অপরটির মান 20 হলে এদের সর্বোচ্চ লব্ধি কত?",
+    "options": [
+      "40",
+      "f*f",
+      "20",
+      "০"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-physics_1stpaper-chapter-02-set-07-q20",
+    "subject": "physics-1st-paper",
+    "chapter": "hsc-physics-1st-paper-chapter-02-model-test-07",
+    "text": "একটি ভেক্টরের মান 21 এবং অপরটির মান 21 হলে এদের সর্বোচ্চ লব্ধি কত?",
+    "options": [
+      "21",
+      "f*f",
+      "০",
+      "42"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-physics_1stpaper-chapter-02-set-07-q21",
+    "subject": "physics-1st-paper",
+    "chapter": "hsc-physics-1st-paper-chapter-02-model-test-07",
+    "text": "একটি ভেক্টরের মান 21 এবং অপরটির মান 21 হলে এদের সর্বোচ্চ লব্ধি কত?",
+    "options": [
+      "42",
+      "21",
+      "০",
+      "f*f"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-physics_1stpaper-chapter-02-set-07-q22",
+    "subject": "physics-1st-paper",
+    "chapter": "hsc-physics-1st-paper-chapter-02-model-test-07",
+    "text": "একটি ভেক্টরের মান 23 এবং অপরটির মান 23 হলে এদের সর্বোচ্চ লব্ধি কত?",
+    "options": [
+      "০",
+      "f*f",
+      "46",
+      "23"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-physics_1stpaper-chapter-02-set-07-q23",
+    "subject": "physics-1st-paper",
+    "chapter": "hsc-physics-1st-paper-chapter-02-model-test-07",
+    "text": "একটি ভেক্টরের মান 24 এবং অপরটির মান 24 হলে এদের সর্বোচ্চ লব্ধি কত?",
+    "options": [
+      "48",
+      "f*f",
+      "০",
+      "24"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-physics_1stpaper-chapter-02-set-07-q24",
+    "subject": "physics-1st-paper",
+    "chapter": "hsc-physics-1st-paper-chapter-02-model-test-07",
+    "text": "একটি ভেক্টরের মান 5 এবং অপরটির মান 5 হলে এদের সর্বোচ্চ লব্ধি কত?",
+    "options": [
+      "০",
+      "5",
+      "f*f",
+      "10"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-physics_1stpaper-chapter-02-set-07-q25",
+    "subject": "physics-1st-paper",
+    "chapter": "hsc-physics-1st-paper-chapter-02-model-test-07",
+    "text": "একটি ভেক্টরের মান 5 এবং অপরটির মান 5 হলে এদের সর্বোচ্চ লব্ধি কত?",
+    "options": [
+      "০",
+      "f*f",
+      "10",
+      "5"
+    ],
+    "image": null,
+    "timeLimit": 45
+  }
+]
