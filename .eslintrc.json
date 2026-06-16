@@ -1,0 +1,17 @@
+{
+  "extends": ["next/core-web-vitals"],
+  "ignorePatterns": [
+    ".next/",
+    "node_modules/",
+    "backend/",
+    "api/",
+    "data/",
+    "public/questions/**",
+    "public/quiz-data/**",
+    "public/images/**",
+    "professional_svg_all_questions_pack/",
+    "reprise_super_app_implementation/",
+    "reprise_target_plan_code/",
+    "_archive_old_fastapi_in_next_app/"
+  ]
+}
