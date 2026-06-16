@@ -1,0 +1,89 @@
+name: Autonomous Launch Gate
+
+on:
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+    paths:
+      - 'app/**'
+      - 'src/**'
+      - 'backend/**'
+      - 'api/**'
+      - 'public/quiz-data/**'
+      - 'public/questions/**'
+      - 'backend/data/answers/**'
+      - 'scripts/**'
+      - 'package.json'
+      - 'pnpm-lock.yaml'
+      - 'requirements.txt'
+      - 'vercel.json'
+      - '.github/workflows/autonomous-launch-gate.yml'
+
+permissions:
+  contents: read
+
+jobs:
+  launch_gate:
+    name: Audit, validate, typecheck, test, build
+    runs-on: ubuntu-latest
+    timeout-minutes: 45
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Setup pnpm
+        uses: pnpm/action-setup@v4
+        with:
+          version: 9
+
+      - name: Install dependencies
+        run: pnpm install --frozen-lockfile=false
+
+      - name: Create reports folder
+        run: mkdir -p data/reports
+
+      - name: Run launch gate commands
+        shell: bash
+        run: |
+          set +e
+          echo 'Command,Status,Log' > data/reports/autonomous_launch_gate.csv
+          run_cmd() {
+            cmd="$1"
+            safe_name=$(echo "$cmd" | tr ' /:' '___')
+            log="data/reports/${safe_name}.log"
+            echo "Running $cmd"
+            bash -lc "$cmd" > "$log" 2>&1
+            code=$?
+            if [ $code -eq 0 ]; then
+              echo "\"$cmd\",passed,\"$log\"" >> data/reports/autonomous_launch_gate.csv
+            else
+              echo "\"$cmd\",failed,\"$log\"" >> data/reports/autonomous_launch_gate.csv
+            fi
+          }
+          run_cmd 'npm run data:audit'
+          run_cmd 'npm run data:audit-papers'
+          run_cmd 'npm run data:audit-answers-sync'
+          run_cmd 'npm run data:validate-mcq'
+          run_cmd 'npm run data:validate-mcq:strict'
+          run_cmd 'npm run data:detect-missing-svg'
+          run_cmd 'npm run typecheck'
+          run_cmd 'npm run test'
+          run_cmd 'npm run build'
+          if grep -q ',failed,' data/reports/autonomous_launch_gate.csv; then
+            exit 1
+          fi
+
+      - name: Upload reports
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: autonomous-launch-gate-reports
+          path: data/reports/**
+          if-no-files-found: ignore
