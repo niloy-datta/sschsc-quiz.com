@@ -1,5 +1,8 @@
 name: Phase 0-1 Audit
 
+env:
+  FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: "true"
+
 on:
   workflow_dispatch:
   push:
@@ -27,15 +30,16 @@ jobs:
       - name: Setup Node.js
         uses: actions/setup-node@v4
         with:
-          node-version: '20'
+          node-version: '22'
+          cache: 'pnpm'
 
-      - name: Setup pnpm
-        uses: pnpm/action-setup@v4
-        with:
-          version: 9
+      - name: Enable Corepack
+        run: corepack enable
 
       - name: Install dependencies
-        run: pnpm install --frozen-lockfile=false
+        run: |
+          pnpm --version
+          pnpm install --frozen-lockfile=false
 
       - name: Create report folders
         run: |
@@ -72,19 +76,25 @@ jobs:
           } > data/reports/phase1_ict_status_report.md
 
       - name: Data audit
-        run: npm run data:audit
+        run: pnpm run data:audit
 
       - name: Paper/model-test audit
-        run: npm run data:audit-papers
+        run: pnpm run data:audit-papers
 
       - name: MCQ validation
-        run: npm run data:validate-mcq
+        run: pnpm run data:validate-mcq
 
       - name: Strict MCQ validation
-        run: npm run data:validate-mcq:strict
+        run: pnpm run data:validate-mcq:strict
+
+      - name: Missing SVG audit
+        run: pnpm run data:detect-missing-svg
+
+      - name: Premium SVG drift check
+        run: node scripts/ci-check-premium-svgs.js
 
       - name: Typecheck
-        run: npm run typecheck
+        run: pnpm run typecheck
 
       - name: Upload reports
         if: always()
