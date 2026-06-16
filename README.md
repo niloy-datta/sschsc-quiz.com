@@ -2,113 +2,104 @@
 
 SSC ও HSC বিজ্ঞান বিভাগের MCQ কুইজ প্ল্যাটফর্ম।
 
+## Agent context
+
+Before using any coding agent, read `AGENT_CONTEXT.md`. It is the canonical project instruction file. Old prompt or roadmap text files are not source of truth.
+
+## Hosting target
+
+Do not deploy the full app to GitHub Pages. This project uses Next.js plus a Python FastAPI backend, so production hosting should use Vercel with `api/index.py` for the backend entry.
+
 ## Architecture
 
 | Layer | Stack |
 | --- | --- |
-| **Frontend** | Next.js 14 (App Router), React, TypeScript, Tailwind |
-| **Backend** | FastAPI in `backend/` |
-| **Auth** | Firebase client sign-in + FastAPI JWT `httponly` session cookie |
-| **Database** | Firestore REST (active) |
-| **Quiz data** | `scratch/parsed_quizzes.json`, `data/hsc-board-questions/` |
-| **Legacy** | Prisma/MySQL in `packages/database/` — unused; `app/static/` vanilla SPA — not removed yet |
+| Frontend | Next.js 14 App Router, React, TypeScript, Tailwind |
+| Backend | FastAPI in `backend/` |
+| Auth | Firebase client sign-in plus FastAPI JWT `httponly` session cookie |
+| Database | Firestore REST |
+| Quiz data | `public/quiz-data/`, `public/questions/`, `backend/data/answers/` |
+| Legacy | Prisma/MySQL and old static SPA are not active runtime paths |
 
 ## Prerequisites
 
 - Node.js 20+
 - pnpm
-- Python 3.11+ (3.12 recommended; 3.14 may need `--break-system-packages` for some deps)
+- Python 3.11+; Python 3.12 recommended for Vercel
 
 ## Frontend setup
 
 ```bash
 pnpm install
-cp .env.local.example .env.local   # if not present
+cp .env.local.example .env.local
 pnpm dev
 ```
-
-Open [http://localhost:3000](http://localhost:3000).
-
-### Frontend env (`.env.local`)
-
-| Variable | Description |
-| --- | --- |
-| `NEXT_PUBLIC_USE_API_PROXY` | `true` — same-origin `/api/*` via Next rewrite (default) |
-| `NEXT_PUBLIC_API_URL` | Empty when proxy mode; or `http://localhost:8000` for direct mode |
-| `NEXT_PUBLIC_FIREBASE_*` | Firebase web client config |
 
 ## Backend setup
 
 ```bash
 cd backend
 python -m venv .venv
-.venv\Scripts\activate          # Windows
-# source .venv/bin/activate     # macOS/Linux
+.venv\Scripts\activate
 pip install -r requirements.txt
 uvicorn app.main:app --reload --port 8000
 ```
 
-- API: [http://localhost:8000](http://localhost:8000)
-- Swagger: [http://localhost:8000/docs](http://localhost:8000/docs)
+For macOS/Linux, activate the venv with `source .venv/bin/activate`.
 
-Env loads from `backend/.env` then project root `.env`. Copy `backend/.env.example` to `backend/.env` or use root `.env`.
+## Environment
 
-### Backend env
+Frontend `.env.local`:
 
-| Variable | Description |
-| --- | --- |
-| `ENVIRONMENT` | `development` or `production` |
-| `FRONTEND_URL` | Next.js origin, e.g. `http://localhost:3000` |
-| `APP_URL` | App origin (same as frontend in local dev) |
-| `JWT_SECRET` | Session token secret |
-| `ADMIN_PASSWORD` | Admin login password |
-| `FIREBASE_PROJECT_ID` | Firestore project ID |
-| `FIREBASE_*` | Firebase web/server config |
-| `DATABASE_URL` | Legacy/unused (Prisma only) |
-
-## Local dev (both servers)
-
-```bash
-# Terminal 1 — backend
-cd backend && uvicorn app.main:app --reload --port 8000
-
-# Terminal 2 — frontend
-pnpm dev
+```env
+NEXT_PUBLIC_USE_API_PROXY=true
+NEXT_PUBLIC_API_URL=
+NEXT_PUBLIC_SITE_URL=https://sschsc-quiz.com
+NEXT_PUBLIC_FIREBASE_API_KEY=
+NEXT_PUBLIC_FIREBASE_AUTH_DOMAIN=
+NEXT_PUBLIC_FIREBASE_PROJECT_ID=
+NEXT_PUBLIC_FIREBASE_STORAGE_BUCKET=
+NEXT_PUBLIC_FIREBASE_MESSAGING_SENDER_ID=
+NEXT_PUBLIC_FIREBASE_APP_ID=
 ```
 
-Next.js rewrites `/api/:path*` → `http://localhost:8000/api/:path*` when `NEXT_PUBLIC_USE_API_PROXY=true` (local only; disabled on Vercel).
+Backend/server env:
+
+```env
+ENVIRONMENT=production
+FRONTEND_URL=https://your-domain.com
+APP_URL=https://your-domain.com
+JWT_SECRET=use-a-strong-random-value
+ADMIN_PASSWORD=use-a-strong-admin-password
+FIREBASE_PROJECT_ID=your-project-id
+```
+
+Never expose `JWT_SECRET`, `ADMIN_PASSWORD`, or service account JSON as `NEXT_PUBLIC_*`.
 
 ## Vercel deployment
 
 | Component | Entry |
 | --- | --- |
-| **Frontend** | Next.js (`@vercel/next` via `package.json`) |
-| **API** | `api/index.py` → imports `backend/app/main.py` |
-| **Routing** | `vercel.json`: `/api/*` → Python; all other routes → Next.js |
+| Frontend | Next.js via `package.json` |
+| API | `api/index.py` imports `backend/app/main.py` |
+| Routing | `vercel.json` routes `/api/*` to Python |
 
-### Vercel env — frontend (client-safe)
+## Quality gate
 
-| Variable | Value |
-| --- | --- |
-| `NEXT_PUBLIC_USE_API_PROXY` | `true` |
-| `NEXT_PUBLIC_API_URL` | empty (same-origin `/api/*`) |
-| `NEXT_PUBLIC_FIREBASE_*` | Firebase web config |
+Run before claiming launch readiness:
 
-### Vercel env — backend (server only, never `NEXT_PUBLIC_`)
-
-| Variable | Value |
-| --- | --- |
-| `ENVIRONMENT` | `production` |
-| `FRONTEND_URL` | `https://your-domain.com` |
-| `APP_URL` | `https://your-domain.com` |
-| `JWT_SECRET` | strong random secret |
-| `ADMIN_PASSWORD` | strong admin password |
-| `FIREBASE_PROJECT_ID` | your Firebase project |
-| `FIREBASE_*` | Firebase server config |
-
-`DATABASE_URL` is not required (Firestore REST is active). Production cookies: `SameSite=Lax`, `Secure=true`, `HttpOnly=true`.
-
-Python runtime: 3.12 (see `vercel.json`). `firebase-admin` is optional; Firestore REST works without it.
+```bash
+npm run data:audit
+npm run data:audit-papers
+npm run data:audit-answers-sync
+npm run data:validate-mcq
+npm run data:validate-mcq:strict
+npm run data:detect-missing-svg
+npm run lint
+npm run typecheck
+npm run test
+npm run build
+```
 
 ## Key routes
 
@@ -118,28 +109,3 @@ Python runtime: 3.12 (see `vercel.json`). `firebase-admin` is optional; Firestor
 | `/ssc/[subject]/chapter/[slug]` | Chapter MCQ |
 | `/hsc/[subject]/[paper]/model-tests/[id]` | Model tests |
 | `/hsc-board-questions/**` | Board question images |
-| `/login`, `/dashboard`, `/admin`, `/leaderboard` | Auth & admin |
-
-## Data folders (do not delete)
-
-- `scratch/parsed_quizzes.json` — local quiz pool for API fallback
-- `data/hsc-board-questions/` — board question JSON
-- `src/data/` — additional board TS data
-- `docs/raw-questions/` — raw source questions
-- `app/static/` — legacy static SPA (still served by FastAPI locally)
-
-## Project structure
-
-```
-api/index.py         # Vercel serverless adapter (imports backend)
-app/                 # Next.js pages only (no FastAPI)
-backend/
-  app/
-    main.py          # FastAPI app
-    config.py
-    firestore.py
-    schemas.py
-src/                 # React components, lib, context
-scratch/             # Parsed quiz JSON
-data/                # Board question data
-```
