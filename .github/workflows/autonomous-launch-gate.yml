@@ -67,6 +67,7 @@ jobs:
               echo "\"$cmd\",failed,\"$log\"" >> data/reports/autonomous_launch_gate.csv
             fi
           }
+          run_cmd 'node scripts/deployment-readiness-check.js'
           run_cmd 'npm run data:audit'
           run_cmd 'npm run data:audit-papers'
           run_cmd 'npm run data:audit-answers-sync'
