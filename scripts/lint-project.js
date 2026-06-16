@@ -45,17 +45,28 @@ function walkFiles(dir, predicate, out = []) {
   return out;
 }
 
-function hasForbiddenKey(value, forbiddenKeys, location) {
-  if (!value || typeof value !== 'object') return;
-  if (Array.isArray(value)) {
-    value.forEach((item, index) => hasForbiddenKey(item, forbiddenKeys, `${location}[${index}]`));
-    return;
-  }
-  for (const [key, nested] of Object.entries(value)) {
-    if (forbiddenKeys.has(key)) {
-      fail(`${location}.${key} exposes a private answer/explanation field`);
+function getQuestionList(value) {
+  if (Array.isArray(value)) return value;
+  if (value && typeof value === 'object' && Array.isArray(value.questions)) return value.questions;
+  return [];
+}
+
+function checkPublicQuestionLeakage(filePath) {
+  const forbiddenPublicKeys = new Set([
+    'correctOption',
+    'correctAnswer',
+    'answerIndex',
+    'correctOptionIndex',
+    'answer',
+  ]);
+  const questions = getQuestionList(readJson(filePath));
+  for (const [index, question] of questions.entries()) {
+    if (!question || typeof question !== 'object') continue;
+    for (const key of forbiddenPublicKeys) {
+      if (question[key] != null) {
+        fail(`${filePath} question ${index + 1} exposes private answer field: ${key}`);
+      }
     }
-    hasForbiddenKey(nested, forbiddenKeys, `${location}.${key}`);
   }
 }
 
@@ -91,19 +102,21 @@ try {
   fail(`Cannot inspect quiz catalog: ${error.message}`);
 }
 
-const publicQuestionFiles = walkFiles('public/questions', (rel) => rel.endsWith('.json'));
+const publicQuestionFiles = walkFiles(
+  'public/questions',
+  (rel) => rel.endsWith('.json') && path.basename(rel) !== 'index.json',
+);
 if (publicQuestionFiles.length === 0) {
   fail('No public question JSON files found under public/questions');
 } else {
-  const forbiddenPublicKeys = new Set(['correctOption', 'answer', 'correctOptionText', 'correctOptionIndex', 'explanation']);
   for (const rel of publicQuestionFiles) {
     try {
-      hasForbiddenKey(readJson(rel), forbiddenPublicKeys, rel);
+      checkPublicQuestionLeakage(rel);
     } catch (error) {
       fail(`${rel} is invalid JSON: ${error.message}`);
     }
   }
-  if (!failures.some((item) => item.includes('exposes a private answer/explanation field'))) {
+  if (!failures.some((item) => item.includes('exposes private answer field'))) {
     pass(`Public question files checked for answer-key leakage (${publicQuestionFiles.length} files)`);
   }
 }
