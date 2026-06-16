@@ -19,6 +19,20 @@ PARSED_QUIZZES_PATH = SCRATCH_DIR / "parsed_quizzes.json"
 
 DEV_JWT_SECRET = "dev-only-change-jwt-secret-in-env"
 DEV_ADMIN_PASSWORD = "admin123"
+INSECURE_SECRET_PLACEHOLDERS = {
+    "",
+    DEV_JWT_SECRET,
+    "change-this-secret",
+    "change-this-jwt-secret",
+    "CHANGE_THIS_TO_LONG_RANDOM_SECRET",
+}
+INSECURE_ADMIN_PASSWORDS = {
+    "",
+    DEV_ADMIN_PASSWORD,
+    "change-this-admin-password",
+    "CHANGE_THIS_TO_STRONG_ADMIN_PASSWORD",
+    "CHANGE_THIS_TO_LONG_RANDOM_SECRET",
+}
 
 
 def _normalize_url(url: str) -> str:
@@ -67,18 +81,21 @@ settings = Settings()
 
 
 def validate_production_settings() -> None:
-    """Stop unsafe production startup when required secrets are missing."""
+    """Stop unsafe production startup when required secrets are missing or weak."""
     if settings.ENVIRONMENT != "production":
         return
 
-    missing = []
-    if not os.getenv("JWT_SECRET") or settings.JWT_SECRET == DEV_JWT_SECRET:
-        missing.append("JWT_SECRET")
-    if not os.getenv("ADMIN_PASSWORD") or settings.ADMIN_PASSWORD == DEV_ADMIN_PASSWORD:
-        missing.append("ADMIN_PASSWORD")
+    missing_or_weak = []
+    jwt_secret = settings.JWT_SECRET.strip()
+    admin_password = settings.ADMIN_PASSWORD.strip()
 
-    if missing:
-        joined = ", ".join(missing)
+    if jwt_secret in INSECURE_SECRET_PLACEHOLDERS or len(jwt_secret) < 32:
+        missing_or_weak.append("JWT_SECRET")
+    if admin_password in INSECURE_ADMIN_PASSWORDS or len(admin_password) < 12:
+        missing_or_weak.append("ADMIN_PASSWORD")
+
+    if missing_or_weak:
+        joined = ", ".join(missing_or_weak)
         raise RuntimeError(
             f"Production config error: set strong environment value(s) for {joined}."
         )
