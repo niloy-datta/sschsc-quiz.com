@@ -1,0 +1,1566 @@
+{
+  "generatedAt": "2026-06-16T17:37:34.768Z",
+  "created": [
+    {
+      "subject": "biology",
+      "setId": "barisal-2022",
+      "sourceSetId": "barishal-2022",
+      "path": "backend\\data\\answers\\biology\\barisal-2022.answers.json"
+    },
+    {
+      "subject": "biology",
+      "setId": "barisal-2023",
+      "sourceSetId": "barishal-2023",
+      "path": "backend\\data\\answers\\biology\\barisal-2023.answers.json"
+    },
+    {
+      "subject": "biology",
+      "setId": "barisal-2024",
+      "sourceSetId": "barishal-2024",
+      "path": "backend\\data\\answers\\biology\\barisal-2024.answers.json"
+    },
+    {
+      "subject": "biology",
+      "setId": "barisal-2025",
+      "sourceSetId": "barishal-2025",
+      "path": "backend\\data\\answers\\biology\\barisal-2025.answers.json"
+    },
+    {
+      "subject": "biology",
+      "setId": "chittagong-2022",
+      "sourceSetId": "chattogram-2022",
+      "path": "backend\\data\\answers\\biology\\chittagong-2022.answers.json"
+    },
+    {
+      "subject": "biology",
+      "setId": "chittagong-2023",
+      "sourceSetId": "chattogram-2023",
+      "path": "backend\\data\\answers\\biology\\chittagong-2023.answers.json"
+    },
+    {
+      "subject": "biology",
+      "setId": "chittagong-2024",
+      "sourceSetId": "chattogram-2024",
+      "path": "backend\\data\\answers\\biology\\chittagong-2024.answers.json"
+    },
+    {
+      "subject": "biology",
+      "setId": "chittagong-2025",
+      "sourceSetId": "chattogram-2025",
+      "path": "backend\\data\\answers\\biology\\chittagong-2025.answers.json"
+    },
+    {
+      "subject": "biology",
+      "setId": "comilla-2022",
+      "sourceSetId": "cumilla-2022",
+      "path": "backend\\data\\answers\\biology\\comilla-2022.answers.json"
+    },
+    {
+      "subject": "biology",
+      "setId": "comilla-2023",
+      "sourceSetId": "cumilla-2023",
+      "path": "backend\\data\\answers\\biology\\comilla-2023.answers.json"
+    },
+    {
+      "subject": "biology",
+      "setId": "comilla-2024",
+      "sourceSetId": "cumilla-2024",
+      "path": "backend\\data\\answers\\biology\\comilla-2024.answers.json"
+    },
+    {
+      "subject": "biology",
+      "setId": "comilla-2025",
+      "sourceSetId": "cumilla-2025",
+      "path": "backend\\data\\answers\\biology\\comilla-2025.answers.json"
+    },
+    {
+      "subject": "biology",
+      "setId": "jessore-2022",
+      "sourceSetId": "jashore-2022",
+      "path": "backend\\data\\answers\\biology\\jessore-2022.answers.json"
+    },
+    {
+      "subject": "biology",
+      "setId": "jessore-2023",
+      "sourceSetId": "jashore-2023",
+      "path": "backend\\data\\answers\\biology\\jessore-2023.answers.json"
+    },
+    {
+      "subject": "biology",
+      "setId": "jessore-2024",
+      "sourceSetId": "jashore-2024",
+      "path": "backend\\data\\answers\\biology\\jessore-2024.answers.json"
+    },
+    {
+      "subject": "biology",
+      "setId": "jessore-2025",
+      "sourceSetId": "jashore-2025",
+      "path": "backend\\data\\answers\\biology\\jessore-2025.answers.json"
+    },
+    {
+      "subject": "biology",
+      "setId": "khulna-2022",
+      "sourceSetId": "dhaka-2022",
+      "path": "backend\\data\\answers\\biology\\khulna-2022.answers.json"
+    },
+    {
+      "subject": "biology",
+      "setId": "khulna-2023",
+      "sourceSetId": "dhaka-2023",
+      "path": "backend\\data\\answers\\biology\\khulna-2023.answers.json"
+    },
+    {
+      "subject": "biology",
+      "setId": "khulna-2024",
+      "sourceSetId": "dhaka-2024",
+      "path": "backend\\data\\answers\\biology\\khulna-2024.answers.json"
+    },
+    {
+      "subject": "biology",
+      "setId": "khulna-2025",
+      "sourceSetId": "dhaka-2025",
+      "path": "backend\\data\\answers\\biology\\khulna-2025.answers.json"
+    },
+    {
+      "subject": "biology-1st-paper",
+      "setId": "barisal-2022",
+      "sourceSetId": "barishal-2022",
+      "path": "backend\\data\\answers\\biology-1st-paper\\barisal-2022.answers.json"
+    },
+    {
+      "subject": "biology-1st-paper",
+      "setId": "barisal-2023",
+      "sourceSetId": "barishal-2023",
+      "path": "backend\\data\\answers\\biology-1st-paper\\barisal-2023.answers.json"
+    },
+    {
+      "subject": "biology-1st-paper",
+      "setId": "barisal-2024",
+      "sourceSetId": "barishal-2024",
+      "path": "backend\\data\\answers\\biology-1st-paper\\barisal-2024.answers.json"
+    },
+    {
+      "subject": "biology-1st-paper",
+      "setId": "barisal-2025",
+      "sourceSetId": "barishal-2025",
+      "path": "backend\\data\\answers\\biology-1st-paper\\barisal-2025.answers.json"
+    },
+    {
+      "subject": "biology-1st-paper",
+      "setId": "chittagong-2022",
+      "sourceSetId": "chattogram-2022",
+      "path": "backend\\data\\answers\\biology-1st-paper\\chittagong-2022.answers.json"
+    },
+    {
+      "subject": "biology-1st-paper",
+      "setId": "chittagong-2023",
+      "sourceSetId": "chattogram-2023",
+      "path": "backend\\data\\answers\\biology-1st-paper\\chittagong-2023.answers.json"
+    },
+    {
+      "subject": "biology-1st-paper",
+      "setId": "chittagong-2024",
+      "sourceSetId": "chattogram-2024",
+      "path": "backend\\data\\answers\\biology-1st-paper\\chittagong-2024.answers.json"
+    },
+    {
+      "subject": "biology-1st-paper",
+      "setId": "chittagong-2025",
+      "sourceSetId": "chattogram-2025",
+      "path": "backend\\data\\answers\\biology-1st-paper\\chittagong-2025.answers.json"
+    },
+    {
+      "subject": "biology-1st-paper",
+      "setId": "comilla-2022",
+      "sourceSetId": "cumilla-2022",
+      "path": "backend\\data\\answers\\biology-1st-paper\\comilla-2022.answers.json"
+    },
+    {
+      "subject": "biology-1st-paper",
+      "setId": "comilla-2023",
+      "sourceSetId": "cumilla-2023",
+      "path": "backend\\data\\answers\\biology-1st-paper\\comilla-2023.answers.json"
+    },
+    {
+      "subject": "biology-1st-paper",
+      "setId": "comilla-2024",
+      "sourceSetId": "cumilla-2024",
+      "path": "backend\\data\\answers\\biology-1st-paper\\comilla-2024.answers.json"
+    },
+    {
+      "subject": "biology-1st-paper",
+      "setId": "comilla-2025",
+      "sourceSetId": "cumilla-2025",
+      "path": "backend\\data\\answers\\biology-1st-paper\\comilla-2025.answers.json"
+    },
+    {
+      "subject": "biology-1st-paper",
+      "setId": "jessore-2022",
+      "sourceSetId": "jashore-2022",
+      "path": "backend\\data\\answers\\biology-1st-paper\\jessore-2022.answers.json"
+    },
+    {
+      "subject": "biology-1st-paper",
+      "setId": "jessore-2023",
+      "sourceSetId": "jashore-2023",
+      "path": "backend\\data\\answers\\biology-1st-paper\\jessore-2023.answers.json"
+    },
+    {
+      "subject": "biology-1st-paper",
+      "setId": "jessore-2024",
+      "sourceSetId": "jashore-2024",
+      "path": "backend\\data\\answers\\biology-1st-paper\\jessore-2024.answers.json"
+    },
+    {
+      "subject": "biology-1st-paper",
+      "setId": "jessore-2025",
+      "sourceSetId": "jashore-2025",
+      "path": "backend\\data\\answers\\biology-1st-paper\\jessore-2025.answers.json"
+    },
+    {
+      "subject": "biology-1st-paper",
+      "setId": "khulna-2022",
+      "sourceSetId": "dhaka-2022",
+      "path": "backend\\data\\answers\\biology-1st-paper\\khulna-2022.answers.json"
+    },
+    {
+      "subject": "biology-1st-paper",
+      "setId": "khulna-2023",
+      "sourceSetId": "dhaka-2023",
+      "path": "backend\\data\\answers\\biology-1st-paper\\khulna-2023.answers.json"
+    },
+    {
+      "subject": "biology-1st-paper",
+      "setId": "khulna-2024",
+      "sourceSetId": "dhaka-2024",
+      "path": "backend\\data\\answers\\biology-1st-paper\\khulna-2024.answers.json"
+    },
+    {
+      "subject": "biology-1st-paper",
+      "setId": "khulna-2025",
+      "sourceSetId": "dhaka-2025",
+      "path": "backend\\data\\answers\\biology-1st-paper\\khulna-2025.answers.json"
+    },
+    {
+      "subject": "biology-2nd-paper",
+      "setId": "barisal-2022",
+      "sourceSetId": "barishal-2022",
+      "path": "backend\\data\\answers\\biology-2nd-paper\\barisal-2022.answers.json"
+    },
+    {
+      "subject": "biology-2nd-paper",
+      "setId": "barisal-2023",
+      "sourceSetId": "barishal-2023",
+      "path": "backend\\data\\answers\\biology-2nd-paper\\barisal-2023.answers.json"
+    },
+    {
+      "subject": "biology-2nd-paper",
+      "setId": "barisal-2024",
+      "sourceSetId": "barishal-2024",
+      "path": "backend\\data\\answers\\biology-2nd-paper\\barisal-2024.answers.json"
+    },
+    {
+      "subject": "biology-2nd-paper",
+      "setId": "barisal-2025",
+      "sourceSetId": "barishal-2025",
+      "path": "backend\\data\\answers\\biology-2nd-paper\\barisal-2025.answers.json"
+    },
+    {
+      "subject": "biology-2nd-paper",
+      "setId": "chittagong-2022",
+      "sourceSetId": "chattogram-2022",
+      "path": "backend\\data\\answers\\biology-2nd-paper\\chittagong-2022.answers.json"
+    },
+    {
+      "subject": "biology-2nd-paper",
+      "setId": "chittagong-2023",
+      "sourceSetId": "chattogram-2023",
+      "path": "backend\\data\\answers\\biology-2nd-paper\\chittagong-2023.answers.json"
+    },
+    {
+      "subject": "biology-2nd-paper",
+      "setId": "chittagong-2024",
+      "sourceSetId": "chattogram-2024",
+      "path": "backend\\data\\answers\\biology-2nd-paper\\chittagong-2024.answers.json"
+    },
+    {
+      "subject": "biology-2nd-paper",
+      "setId": "chittagong-2025",
+      "sourceSetId": "chattogram-2025",
+      "path": "backend\\data\\answers\\biology-2nd-paper\\chittagong-2025.answers.json"
+    },
+    {
+      "subject": "biology-2nd-paper",
+      "setId": "comilla-2022",
+      "sourceSetId": "cumilla-2022",
+      "path": "backend\\data\\answers\\biology-2nd-paper\\comilla-2022.answers.json"
+    },
+    {
+      "subject": "biology-2nd-paper",
+      "setId": "comilla-2023",
+      "sourceSetId": "cumilla-2023",
+      "path": "backend\\data\\answers\\biology-2nd-paper\\comilla-2023.answers.json"
+    },
+    {
+      "subject": "biology-2nd-paper",
+      "setId": "comilla-2024",
+      "sourceSetId": "cumilla-2024",
+      "path": "backend\\data\\answers\\biology-2nd-paper\\comilla-2024.answers.json"
+    },
+    {
+      "subject": "biology-2nd-paper",
+      "setId": "comilla-2025",
+      "sourceSetId": "cumilla-2025",
+      "path": "backend\\data\\answers\\biology-2nd-paper\\comilla-2025.answers.json"
+    },
+    {
+      "subject": "biology-2nd-paper",
+      "setId": "jessore-2022",
+      "sourceSetId": "jashore-2022",
+      "path": "backend\\data\\answers\\biology-2nd-paper\\jessore-2022.answers.json"
+    },
+    {
+      "subject": "biology-2nd-paper",
+      "setId": "jessore-2023",
+      "sourceSetId": "jashore-2023",
+      "path": "backend\\data\\answers\\biology-2nd-paper\\jessore-2023.answers.json"
+    },
+    {
+      "subject": "biology-2nd-paper",
+      "setId": "jessore-2024",
+      "sourceSetId": "jashore-2024",
+      "path": "backend\\data\\answers\\biology-2nd-paper\\jessore-2024.answers.json"
+    },
+    {
+      "subject": "biology-2nd-paper",
+      "setId": "jessore-2025",
+      "sourceSetId": "jashore-2025",
+      "path": "backend\\data\\answers\\biology-2nd-paper\\jessore-2025.answers.json"
+    },
+    {
+      "subject": "biology-2nd-paper",
+      "setId": "khulna-2022",
+      "sourceSetId": "dhaka-2022",
+      "path": "backend\\data\\answers\\biology-2nd-paper\\khulna-2022.answers.json"
+    },
+    {
+      "subject": "biology-2nd-paper",
+      "setId": "khulna-2023",
+      "sourceSetId": "dhaka-2023",
+      "path": "backend\\data\\answers\\biology-2nd-paper\\khulna-2023.answers.json"
+    },
+    {
+      "subject": "biology-2nd-paper",
+      "setId": "khulna-2024",
+      "sourceSetId": "dhaka-2024",
+      "path": "backend\\data\\answers\\biology-2nd-paper\\khulna-2024.answers.json"
+    },
+    {
+      "subject": "biology-2nd-paper",
+      "setId": "khulna-2025",
+      "sourceSetId": "dhaka-2025",
+      "path": "backend\\data\\answers\\biology-2nd-paper\\khulna-2025.answers.json"
+    },
+    {
+      "subject": "chemistry",
+      "setId": "barisal-2022",
+      "sourceSetId": "barishal-2022",
+      "path": "backend\\data\\answers\\chemistry\\barisal-2022.answers.json"
+    },
+    {
+      "subject": "chemistry",
+      "setId": "barisal-2023",
+      "sourceSetId": "barishal-2023",
+      "path": "backend\\data\\answers\\chemistry\\barisal-2023.answers.json"
+    },
+    {
+      "subject": "chemistry",
+      "setId": "barisal-2024",
+      "sourceSetId": "barishal-2024",
+      "path": "backend\\data\\answers\\chemistry\\barisal-2024.answers.json"
+    },
+    {
+      "subject": "chemistry",
+      "setId": "barisal-2025",
+      "sourceSetId": "barishal-2025",
+      "path": "backend\\data\\answers\\chemistry\\barisal-2025.answers.json"
+    },
+    {
+      "subject": "chemistry",
+      "setId": "chittagong-2022",
+      "sourceSetId": "chattogram-2022",
+      "path": "backend\\data\\answers\\chemistry\\chittagong-2022.answers.json"
+    },
+    {
+      "subject": "chemistry",
+      "setId": "chittagong-2023",
+      "sourceSetId": "chattogram-2023",
+      "path": "backend\\data\\answers\\chemistry\\chittagong-2023.answers.json"
+    },
+    {
+      "subject": "chemistry",
+      "setId": "chittagong-2024",
+      "sourceSetId": "chattogram-2024",
+      "path": "backend\\data\\answers\\chemistry\\chittagong-2024.answers.json"
+    },
+    {
+      "subject": "chemistry",
+      "setId": "chittagong-2025",
+      "sourceSetId": "chattogram-2025",
+      "path": "backend\\data\\answers\\chemistry\\chittagong-2025.answers.json"
+    },
+    {
+      "subject": "chemistry",
+      "setId": "comilla-2022",
+      "sourceSetId": "cumilla-2022",
+      "path": "backend\\data\\answers\\chemistry\\comilla-2022.answers.json"
+    },
+    {
+      "subject": "chemistry",
+      "setId": "comilla-2023",
+      "sourceSetId": "cumilla-2023",
+      "path": "backend\\data\\answers\\chemistry\\comilla-2023.answers.json"
+    },
+    {
+      "subject": "chemistry",
+      "setId": "comilla-2024",
+      "sourceSetId": "cumilla-2024",
+      "path": "backend\\data\\answers\\chemistry\\comilla-2024.answers.json"
+    },
+    {
+      "subject": "chemistry",
+      "setId": "comilla-2025",
+      "sourceSetId": "cumilla-2025",
+      "path": "backend\\data\\answers\\chemistry\\comilla-2025.answers.json"
+    },
+    {
+      "subject": "chemistry",
+      "setId": "jessore-2022",
+      "sourceSetId": "jashore-2022",
+      "path": "backend\\data\\answers\\chemistry\\jessore-2022.answers.json"
+    },
+    {
+      "subject": "chemistry",
+      "setId": "jessore-2023",
+      "sourceSetId": "jashore-2023",
+      "path": "backend\\data\\answers\\chemistry\\jessore-2023.answers.json"
+    },
+    {
+      "subject": "chemistry",
+      "setId": "jessore-2024",
+      "sourceSetId": "jashore-2024",
+      "path": "backend\\data\\answers\\chemistry\\jessore-2024.answers.json"
+    },
+    {
+      "subject": "chemistry",
+      "setId": "jessore-2025",
+      "sourceSetId": "jashore-2025",
+      "path": "backend\\data\\answers\\chemistry\\jessore-2025.answers.json"
+    },
+    {
+      "subject": "chemistry",
+      "setId": "khulna-2022",
+      "sourceSetId": "dhaka-2022",
+      "path": "backend\\data\\answers\\chemistry\\khulna-2022.answers.json"
+    },
+    {
+      "subject": "chemistry",
+      "setId": "khulna-2023",
+      "sourceSetId": "dhaka-2023",
+      "path": "backend\\data\\answers\\chemistry\\khulna-2023.answers.json"
+    },
+    {
+      "subject": "chemistry",
+      "setId": "khulna-2024",
+      "sourceSetId": "dhaka-2024",
+      "path": "backend\\data\\answers\\chemistry\\khulna-2024.answers.json"
+    },
+    {
+      "subject": "chemistry",
+      "setId": "khulna-2025",
+      "sourceSetId": "dhaka-2025",
+      "path": "backend\\data\\answers\\chemistry\\khulna-2025.answers.json"
+    },
+    {
+      "subject": "chemistry-1st-paper",
+      "setId": "barisal-2022",
+      "sourceSetId": "barishal-2022",
+      "path": "backend\\data\\answers\\chemistry-1st-paper\\barisal-2022.answers.json"
+    },
+    {
+      "subject": "chemistry-1st-paper",
+      "setId": "barisal-2023",
+      "sourceSetId": "barishal-2023",
+      "path": "backend\\data\\answers\\chemistry-1st-paper\\barisal-2023.answers.json"
+    },
+    {
+      "subject": "chemistry-1st-paper",
+      "setId": "barisal-2024",
+      "sourceSetId": "barishal-2024",
+      "path": "backend\\data\\answers\\chemistry-1st-paper\\barisal-2024.answers.json"
+    },
+    {
+      "subject": "chemistry-1st-paper",
+      "setId": "barisal-2025",
+      "sourceSetId": "barishal-2025",
+      "path": "backend\\data\\answers\\chemistry-1st-paper\\barisal-2025.answers.json"
+    },
+    {
+      "subject": "chemistry-1st-paper",
+      "setId": "chittagong-2022",
+      "sourceSetId": "chattogram-2022",
+      "path": "backend\\data\\answers\\chemistry-1st-paper\\chittagong-2022.answers.json"
+    },
+    {
+      "subject": "chemistry-1st-paper",
+      "setId": "chittagong-2023",
+      "sourceSetId": "chattogram-2023",
+      "path": "backend\\data\\answers\\chemistry-1st-paper\\chittagong-2023.answers.json"
+    },
+    {
+      "subject": "chemistry-1st-paper",
+      "setId": "chittagong-2024",
+      "sourceSetId": "chattogram-2024",
+      "path": "backend\\data\\answers\\chemistry-1st-paper\\chittagong-2024.answers.json"
+    },
+    {
+      "subject": "chemistry-1st-paper",
+      "setId": "chittagong-2025",
+      "sourceSetId": "chattogram-2025",
+      "path": "backend\\data\\answers\\chemistry-1st-paper\\chittagong-2025.answers.json"
+    },
+    {
+      "subject": "chemistry-1st-paper",
+      "setId": "comilla-2022",
+      "sourceSetId": "cumilla-2022",
+      "path": "backend\\data\\answers\\chemistry-1st-paper\\comilla-2022.answers.json"
+    },
+    {
+      "subject": "chemistry-1st-paper",
+      "setId": "comilla-2023",
+      "sourceSetId": "cumilla-2023",
+      "path": "backend\\data\\answers\\chemistry-1st-paper\\comilla-2023.answers.json"
+    },
+    {
+      "subject": "chemistry-1st-paper",
+      "setId": "comilla-2024",
+      "sourceSetId": "cumilla-2024",
+      "path": "backend\\data\\answers\\chemistry-1st-paper\\comilla-2024.answers.json"
+    },
+    {
+      "subject": "chemistry-1st-paper",
+      "setId": "comilla-2025",
+      "sourceSetId": "cumilla-2025",
+      "path": "backend\\data\\answers\\chemistry-1st-paper\\comilla-2025.answers.json"
+    },
+    {
+      "subject": "chemistry-1st-paper",
+      "setId": "jessore-2022",
+      "sourceSetId": "jashore-2022",
+      "path": "backend\\data\\answers\\chemistry-1st-paper\\jessore-2022.answers.json"
+    },
+    {
+      "subject": "chemistry-1st-paper",
+      "setId": "jessore-2023",
+      "sourceSetId": "jashore-2023",
+      "path": "backend\\data\\answers\\chemistry-1st-paper\\jessore-2023.answers.json"
+    },
+    {
+      "subject": "chemistry-1st-paper",
+      "setId": "jessore-2024",
+      "sourceSetId": "jashore-2024",
+      "path": "backend\\data\\answers\\chemistry-1st-paper\\jessore-2024.answers.json"
+    },
+    {
+      "subject": "chemistry-1st-paper",
+      "setId": "jessore-2025",
+      "sourceSetId": "jashore-2025",
+      "path": "backend\\data\\answers\\chemistry-1st-paper\\jessore-2025.answers.json"
+    },
+    {
+      "subject": "chemistry-1st-paper",
+      "setId": "khulna-2022",
+      "sourceSetId": "dhaka-2022",
+      "path": "backend\\data\\answers\\chemistry-1st-paper\\khulna-2022.answers.json"
+    },
+    {
+      "subject": "chemistry-1st-paper",
+      "setId": "khulna-2023",
+      "sourceSetId": "dhaka-2023",
+      "path": "backend\\data\\answers\\chemistry-1st-paper\\khulna-2023.answers.json"
+    },
+    {
+      "subject": "chemistry-1st-paper",
+      "setId": "khulna-2024",
+      "sourceSetId": "dhaka-2024",
+      "path": "backend\\data\\answers\\chemistry-1st-paper\\khulna-2024.answers.json"
+    },
+    {
+      "subject": "chemistry-1st-paper",
+      "setId": "khulna-2025",
+      "sourceSetId": "dhaka-2025",
+      "path": "backend\\data\\answers\\chemistry-1st-paper\\khulna-2025.answers.json"
+    },
+    {
+      "subject": "chemistry-2nd-paper",
+      "setId": "barisal-2022",
+      "sourceSetId": "barishal-2022",
+      "path": "backend\\data\\answers\\chemistry-2nd-paper\\barisal-2022.answers.json"
+    },
+    {
+      "subject": "chemistry-2nd-paper",
+      "setId": "barisal-2023",
+      "sourceSetId": "barishal-2023",
+      "path": "backend\\data\\answers\\chemistry-2nd-paper\\barisal-2023.answers.json"
+    },
+    {
+      "subject": "chemistry-2nd-paper",
+      "setId": "barisal-2024",
+      "sourceSetId": "barishal-2024",
+      "path": "backend\\data\\answers\\chemistry-2nd-paper\\barisal-2024.answers.json"
+    },
+    {
+      "subject": "chemistry-2nd-paper",
+      "setId": "barisal-2025",
+      "sourceSetId": "barishal-2025",
+      "path": "backend\\data\\answers\\chemistry-2nd-paper\\barisal-2025.answers.json"
+    },
+    {
+      "subject": "chemistry-2nd-paper",
+      "setId": "chittagong-2022",
+      "sourceSetId": "chattogram-2022",
+      "path": "backend\\data\\answers\\chemistry-2nd-paper\\chittagong-2022.answers.json"
+    },
+    {
+      "subject": "chemistry-2nd-paper",
+      "setId": "chittagong-2023",
+      "sourceSetId": "chattogram-2023",
+      "path": "backend\\data\\answers\\chemistry-2nd-paper\\chittagong-2023.answers.json"
+    },
+    {
+      "subject": "chemistry-2nd-paper",
+      "setId": "chittagong-2024",
+      "sourceSetId": "chattogram-2024",
+      "path": "backend\\data\\answers\\chemistry-2nd-paper\\chittagong-2024.answers.json"
+    },
+    {
+      "subject": "chemistry-2nd-paper",
+      "setId": "chittagong-2025",
+      "sourceSetId": "chattogram-2025",
+      "path": "backend\\data\\answers\\chemistry-2nd-paper\\chittagong-2025.answers.json"
+    },
+    {
+      "subject": "chemistry-2nd-paper",
+      "setId": "comilla-2022",
+      "sourceSetId": "cumilla-2022",
+      "path": "backend\\data\\answers\\chemistry-2nd-paper\\comilla-2022.answers.json"
+    },
+    {
+      "subject": "chemistry-2nd-paper",
+      "setId": "comilla-2023",
+      "sourceSetId": "cumilla-2023",
+      "path": "backend\\data\\answers\\chemistry-2nd-paper\\comilla-2023.answers.json"
+    },
+    {
+      "subject": "chemistry-2nd-paper",
+      "setId": "comilla-2024",
+      "sourceSetId": "cumilla-2024",
+      "path": "backend\\data\\answers\\chemistry-2nd-paper\\comilla-2024.answers.json"
+    },
+    {
+      "subject": "chemistry-2nd-paper",
+      "setId": "comilla-2025",
+      "sourceSetId": "cumilla-2025",
+      "path": "backend\\data\\answers\\chemistry-2nd-paper\\comilla-2025.answers.json"
+    },
+    {
+      "subject": "chemistry-2nd-paper",
+      "setId": "jessore-2022",
+      "sourceSetId": "jashore-2022",
+      "path": "backend\\data\\answers\\chemistry-2nd-paper\\jessore-2022.answers.json"
+    },
+    {
+      "subject": "chemistry-2nd-paper",
+      "setId": "jessore-2023",
+      "sourceSetId": "jashore-2023",
+      "path": "backend\\data\\answers\\chemistry-2nd-paper\\jessore-2023.answers.json"
+    },
+    {
+      "subject": "chemistry-2nd-paper",
+      "setId": "jessore-2024",
+      "sourceSetId": "jashore-2024",
+      "path": "backend\\data\\answers\\chemistry-2nd-paper\\jessore-2024.answers.json"
+    },
+    {
+      "subject": "chemistry-2nd-paper",
+      "setId": "jessore-2025",
+      "sourceSetId": "jashore-2025",
+      "path": "backend\\data\\answers\\chemistry-2nd-paper\\jessore-2025.answers.json"
+    },
+    {
+      "subject": "chemistry-2nd-paper",
+      "setId": "khulna-2022",
+      "sourceSetId": "dhaka-2022",
+      "path": "backend\\data\\answers\\chemistry-2nd-paper\\khulna-2022.answers.json"
+    },
+    {
+      "subject": "chemistry-2nd-paper",
+      "setId": "khulna-2023",
+      "sourceSetId": "dhaka-2023",
+      "path": "backend\\data\\answers\\chemistry-2nd-paper\\khulna-2023.answers.json"
+    },
+    {
+      "subject": "chemistry-2nd-paper",
+      "setId": "khulna-2024",
+      "sourceSetId": "dhaka-2024",
+      "path": "backend\\data\\answers\\chemistry-2nd-paper\\khulna-2024.answers.json"
+    },
+    {
+      "subject": "chemistry-2nd-paper",
+      "setId": "khulna-2025",
+      "sourceSetId": "dhaka-2025",
+      "path": "backend\\data\\answers\\chemistry-2nd-paper\\khulna-2025.answers.json"
+    },
+    {
+      "subject": "general-math",
+      "setId": "barisal-2022",
+      "sourceSetId": "barishal-2022",
+      "path": "backend\\data\\answers\\general-math\\barisal-2022.answers.json"
+    },
+    {
+      "subject": "general-math",
+      "setId": "barisal-2023",
+      "sourceSetId": "barishal-2023",
+      "path": "backend\\data\\answers\\general-math\\barisal-2023.answers.json"
+    },
+    {
+      "subject": "general-math",
+      "setId": "barisal-2024",
+      "sourceSetId": "barishal-2024",
+      "path": "backend\\data\\answers\\general-math\\barisal-2024.answers.json"
+    },
+    {
+      "subject": "general-math",
+      "setId": "barisal-2025",
+      "sourceSetId": "barishal-2025",
+      "path": "backend\\data\\answers\\general-math\\barisal-2025.answers.json"
+    },
+    {
+      "subject": "general-math",
+      "setId": "chittagong-2022",
+      "sourceSetId": "chattogram-2022",
+      "path": "backend\\data\\answers\\general-math\\chittagong-2022.answers.json"
+    },
+    {
+      "subject": "general-math",
+      "setId": "chittagong-2023",
+      "sourceSetId": "chattogram-2023",
+      "path": "backend\\data\\answers\\general-math\\chittagong-2023.answers.json"
+    },
+    {
+      "subject": "general-math",
+      "setId": "chittagong-2024",
+      "sourceSetId": "chattogram-2024",
+      "path": "backend\\data\\answers\\general-math\\chittagong-2024.answers.json"
+    },
+    {
+      "subject": "general-math",
+      "setId": "chittagong-2025",
+      "sourceSetId": "chattogram-2025",
+      "path": "backend\\data\\answers\\general-math\\chittagong-2025.answers.json"
+    },
+    {
+      "subject": "general-math",
+      "setId": "comilla-2022",
+      "sourceSetId": "cumilla-2022",
+      "path": "backend\\data\\answers\\general-math\\comilla-2022.answers.json"
+    },
+    {
+      "subject": "general-math",
+      "setId": "comilla-2023",
+      "sourceSetId": "cumilla-2023",
+      "path": "backend\\data\\answers\\general-math\\comilla-2023.answers.json"
+    },
+    {
+      "subject": "general-math",
+      "setId": "comilla-2024",
+      "sourceSetId": "cumilla-2024",
+      "path": "backend\\data\\answers\\general-math\\comilla-2024.answers.json"
+    },
+    {
+      "subject": "general-math",
+      "setId": "comilla-2025",
+      "sourceSetId": "cumilla-2025",
+      "path": "backend\\data\\answers\\general-math\\comilla-2025.answers.json"
+    },
+    {
+      "subject": "general-math",
+      "setId": "jessore-2022",
+      "sourceSetId": "jashore-2022",
+      "path": "backend\\data\\answers\\general-math\\jessore-2022.answers.json"
+    },
+    {
+      "subject": "general-math",
+      "setId": "jessore-2023",
+      "sourceSetId": "jashore-2023",
+      "path": "backend\\data\\answers\\general-math\\jessore-2023.answers.json"
+    },
+    {
+      "subject": "general-math",
+      "setId": "jessore-2024",
+      "sourceSetId": "jashore-2024",
+      "path": "backend\\data\\answers\\general-math\\jessore-2024.answers.json"
+    },
+    {
+      "subject": "general-math",
+      "setId": "jessore-2025",
+      "sourceSetId": "jashore-2025",
+      "path": "backend\\data\\answers\\general-math\\jessore-2025.answers.json"
+    },
+    {
+      "subject": "general-math",
+      "setId": "khulna-2022",
+      "sourceSetId": "dhaka-2022",
+      "path": "backend\\data\\answers\\general-math\\khulna-2022.answers.json"
+    },
+    {
+      "subject": "general-math",
+      "setId": "khulna-2023",
+      "sourceSetId": "dhaka-2023",
+      "path": "backend\\data\\answers\\general-math\\khulna-2023.answers.json"
+    },
+    {
+      "subject": "general-math",
+      "setId": "khulna-2024",
+      "sourceSetId": "dhaka-2024",
+      "path": "backend\\data\\answers\\general-math\\khulna-2024.answers.json"
+    },
+    {
+      "subject": "general-math",
+      "setId": "khulna-2025",
+      "sourceSetId": "dhaka-2025",
+      "path": "backend\\data\\answers\\general-math\\khulna-2025.answers.json"
+    },
+    {
+      "subject": "higher-math",
+      "setId": "barisal-2022",
+      "sourceSetId": "barishal-2022",
+      "path": "backend\\data\\answers\\higher-math\\barisal-2022.answers.json"
+    },
+    {
+      "subject": "higher-math",
+      "setId": "barisal-2023",
+      "sourceSetId": "barishal-2023",
+      "path": "backend\\data\\answers\\higher-math\\barisal-2023.answers.json"
+    },
+    {
+      "subject": "higher-math",
+      "setId": "barisal-2024",
+      "sourceSetId": "barishal-2024",
+      "path": "backend\\data\\answers\\higher-math\\barisal-2024.answers.json"
+    },
+    {
+      "subject": "higher-math",
+      "setId": "barisal-2025",
+      "sourceSetId": "barishal-2025",
+      "path": "backend\\data\\answers\\higher-math\\barisal-2025.answers.json"
+    },
+    {
+      "subject": "higher-math",
+      "setId": "chittagong-2022",
+      "sourceSetId": "chattogram-2022",
+      "path": "backend\\data\\answers\\higher-math\\chittagong-2022.answers.json"
+    },
+    {
+      "subject": "higher-math",
+      "setId": "chittagong-2023",
+      "sourceSetId": "chattogram-2023",
+      "path": "backend\\data\\answers\\higher-math\\chittagong-2023.answers.json"
+    },
+    {
+      "subject": "higher-math",
+      "setId": "chittagong-2024",
+      "sourceSetId": "chattogram-2024",
+      "path": "backend\\data\\answers\\higher-math\\chittagong-2024.answers.json"
+    },
+    {
+      "subject": "higher-math",
+      "setId": "chittagong-2025",
+      "sourceSetId": "chattogram-2025",
+      "path": "backend\\data\\answers\\higher-math\\chittagong-2025.answers.json"
+    },
+    {
+      "subject": "higher-math",
+      "setId": "comilla-2022",
+      "sourceSetId": "cumilla-2022",
+      "path": "backend\\data\\answers\\higher-math\\comilla-2022.answers.json"
+    },
+    {
+      "subject": "higher-math",
+      "setId": "comilla-2023",
+      "sourceSetId": "cumilla-2023",
+      "path": "backend\\data\\answers\\higher-math\\comilla-2023.answers.json"
+    },
+    {
+      "subject": "higher-math",
+      "setId": "comilla-2024",
+      "sourceSetId": "cumilla-2024",
+      "path": "backend\\data\\answers\\higher-math\\comilla-2024.answers.json"
+    },
+    {
+      "subject": "higher-math",
+      "setId": "comilla-2025",
+      "sourceSetId": "cumilla-2025",
+      "path": "backend\\data\\answers\\higher-math\\comilla-2025.answers.json"
+    },
+    {
+      "subject": "higher-math",
+      "setId": "jessore-2022",
+      "sourceSetId": "jashore-2022",
+      "path": "backend\\data\\answers\\higher-math\\jessore-2022.answers.json"
+    },
+    {
+      "subject": "higher-math",
+      "setId": "jessore-2023",
+      "sourceSetId": "jashore-2023",
+      "path": "backend\\data\\answers\\higher-math\\jessore-2023.answers.json"
+    },
+    {
+      "subject": "higher-math",
+      "setId": "jessore-2024",
+      "sourceSetId": "jashore-2024",
+      "path": "backend\\data\\answers\\higher-math\\jessore-2024.answers.json"
+    },
+    {
+      "subject": "higher-math",
+      "setId": "jessore-2025",
+      "sourceSetId": "jashore-2025",
+      "path": "backend\\data\\answers\\higher-math\\jessore-2025.answers.json"
+    },
+    {
+      "subject": "higher-math",
+      "setId": "khulna-2022",
+      "sourceSetId": "dhaka-2022",
+      "path": "backend\\data\\answers\\higher-math\\khulna-2022.answers.json"
+    },
+    {
+      "subject": "higher-math",
+      "setId": "khulna-2023",
+      "sourceSetId": "dhaka-2023",
+      "path": "backend\\data\\answers\\higher-math\\khulna-2023.answers.json"
+    },
+    {
+      "subject": "higher-math",
+      "setId": "khulna-2024",
+      "sourceSetId": "dhaka-2024",
+      "path": "backend\\data\\answers\\higher-math\\khulna-2024.answers.json"
+    },
+    {
+      "subject": "higher-math",
+      "setId": "khulna-2025",
+      "sourceSetId": "dhaka-2025",
+      "path": "backend\\data\\answers\\higher-math\\khulna-2025.answers.json"
+    },
+    {
+      "subject": "higher-math-1st-paper",
+      "setId": "barisal-2022",
+      "sourceSetId": "barishal-2022",
+      "path": "backend\\data\\answers\\higher-math-1st-paper\\barisal-2022.answers.json"
+    },
+    {
+      "subject": "higher-math-1st-paper",
+      "setId": "barisal-2023",
+      "sourceSetId": "barishal-2023",
+      "path": "backend\\data\\answers\\higher-math-1st-paper\\barisal-2023.answers.json"
+    },
+    {
+      "subject": "higher-math-1st-paper",
+      "setId": "barisal-2024",
+      "sourceSetId": "barishal-2024",
+      "path": "backend\\data\\answers\\higher-math-1st-paper\\barisal-2024.answers.json"
+    },
+    {
+      "subject": "higher-math-1st-paper",
+      "setId": "barisal-2025",
+      "sourceSetId": "barishal-2025",
+      "path": "backend\\data\\answers\\higher-math-1st-paper\\barisal-2025.answers.json"
+    },
+    {
+      "subject": "higher-math-1st-paper",
+      "setId": "chittagong-2022",
+      "sourceSetId": "chattogram-2022",
+      "path": "backend\\data\\answers\\higher-math-1st-paper\\chittagong-2022.answers.json"
+    },
+    {
+      "subject": "higher-math-1st-paper",
+      "setId": "chittagong-2023",
+      "sourceSetId": "chattogram-2023",
+      "path": "backend\\data\\answers\\higher-math-1st-paper\\chittagong-2023.answers.json"
+    },
+    {
+      "subject": "higher-math-1st-paper",
+      "setId": "chittagong-2024",
+      "sourceSetId": "chattogram-2024",
+      "path": "backend\\data\\answers\\higher-math-1st-paper\\chittagong-2024.answers.json"
+    },
+    {
+      "subject": "higher-math-1st-paper",
+      "setId": "chittagong-2025",
+      "sourceSetId": "chattogram-2025",
+      "path": "backend\\data\\answers\\higher-math-1st-paper\\chittagong-2025.answers.json"
+    },
+    {
+      "subject": "higher-math-1st-paper",
+      "setId": "comilla-2022",
+      "sourceSetId": "cumilla-2022",
+      "path": "backend\\data\\answers\\higher-math-1st-paper\\comilla-2022.answers.json"
+    },
+    {
+      "subject": "higher-math-1st-paper",
+      "setId": "comilla-2023",
+      "sourceSetId": "cumilla-2023",
+      "path": "backend\\data\\answers\\higher-math-1st-paper\\comilla-2023.answers.json"
+    },
+    {
+      "subject": "higher-math-1st-paper",
+      "setId": "comilla-2024",
+      "sourceSetId": "cumilla-2024",
+      "path": "backend\\data\\answers\\higher-math-1st-paper\\comilla-2024.answers.json"
+    },
+    {
+      "subject": "higher-math-1st-paper",
+      "setId": "comilla-2025",
+      "sourceSetId": "cumilla-2025",
+      "path": "backend\\data\\answers\\higher-math-1st-paper\\comilla-2025.answers.json"
+    },
+    {
+      "subject": "higher-math-1st-paper",
+      "setId": "jessore-2022",
+      "sourceSetId": "jashore-2022",
+      "path": "backend\\data\\answers\\higher-math-1st-paper\\jessore-2022.answers.json"
+    },
+    {
+      "subject": "higher-math-1st-paper",
+      "setId": "jessore-2023",
+      "sourceSetId": "jashore-2023",
+      "path": "backend\\data\\answers\\higher-math-1st-paper\\jessore-2023.answers.json"
+    },
+    {
+      "subject": "higher-math-1st-paper",
+      "setId": "jessore-2024",
+      "sourceSetId": "jashore-2024",
+      "path": "backend\\data\\answers\\higher-math-1st-paper\\jessore-2024.answers.json"
+    },
+    {
+      "subject": "higher-math-1st-paper",
+      "setId": "jessore-2025",
+      "sourceSetId": "jashore-2025",
+      "path": "backend\\data\\answers\\higher-math-1st-paper\\jessore-2025.answers.json"
+    },
+    {
+      "subject": "higher-math-1st-paper",
+      "setId": "khulna-2022",
+      "sourceSetId": "dhaka-2022",
+      "path": "backend\\data\\answers\\higher-math-1st-paper\\khulna-2022.answers.json"
+    },
+    {
+      "subject": "higher-math-1st-paper",
+      "setId": "khulna-2023",
+      "sourceSetId": "dhaka-2023",
+      "path": "backend\\data\\answers\\higher-math-1st-paper\\khulna-2023.answers.json"
+    },
+    {
+      "subject": "higher-math-1st-paper",
+      "setId": "khulna-2024",
+      "sourceSetId": "dhaka-2024",
+      "path": "backend\\data\\answers\\higher-math-1st-paper\\khulna-2024.answers.json"
+    },
+    {
+      "subject": "higher-math-1st-paper",
+      "setId": "khulna-2025",
+      "sourceSetId": "dhaka-2025",
+      "path": "backend\\data\\answers\\higher-math-1st-paper\\khulna-2025.answers.json"
+    },
+    {
+      "subject": "higher-math-2nd-paper",
+      "setId": "barisal-2022",
+      "sourceSetId": "barishal-2022",
+      "path": "backend\\data\\answers\\higher-math-2nd-paper\\barisal-2022.answers.json"
+    },
+    {
+      "subject": "higher-math-2nd-paper",
+      "setId": "barisal-2023",
+      "sourceSetId": "barishal-2023",
+      "path": "backend\\data\\answers\\higher-math-2nd-paper\\barisal-2023.answers.json"
+    },
+    {
+      "subject": "higher-math-2nd-paper",
+      "setId": "barisal-2024",
+      "sourceSetId": "barishal-2024",
+      "path": "backend\\data\\answers\\higher-math-2nd-paper\\barisal-2024.answers.json"
+    },
+    {
+      "subject": "higher-math-2nd-paper",
+      "setId": "barisal-2025",
+      "sourceSetId": "barishal-2025",
+      "path": "backend\\data\\answers\\higher-math-2nd-paper\\barisal-2025.answers.json"
+    },
+    {
+      "subject": "higher-math-2nd-paper",
+      "setId": "chittagong-2022",
+      "sourceSetId": "chattogram-2022",
+      "path": "backend\\data\\answers\\higher-math-2nd-paper\\chittagong-2022.answers.json"
+    },
+    {
+      "subject": "higher-math-2nd-paper",
+      "setId": "chittagong-2023",
+      "sourceSetId": "chattogram-2023",
+      "path": "backend\\data\\answers\\higher-math-2nd-paper\\chittagong-2023.answers.json"
+    },
+    {
+      "subject": "higher-math-2nd-paper",
+      "setId": "chittagong-2024",
+      "sourceSetId": "chattogram-2024",
+      "path": "backend\\data\\answers\\higher-math-2nd-paper\\chittagong-2024.answers.json"
+    },
+    {
+      "subject": "higher-math-2nd-paper",
+      "setId": "chittagong-2025",
+      "sourceSetId": "chattogram-2025",
+      "path": "backend\\data\\answers\\higher-math-2nd-paper\\chittagong-2025.answers.json"
+    },
+    {
+      "subject": "higher-math-2nd-paper",
+      "setId": "comilla-2022",
+      "sourceSetId": "cumilla-2022",
+      "path": "backend\\data\\answers\\higher-math-2nd-paper\\comilla-2022.answers.json"
+    },
+    {
+      "subject": "higher-math-2nd-paper",
+      "setId": "comilla-2023",
+      "sourceSetId": "cumilla-2023",
+      "path": "backend\\data\\answers\\higher-math-2nd-paper\\comilla-2023.answers.json"
+    },
+    {
+      "subject": "higher-math-2nd-paper",
+      "setId": "comilla-2024",
+      "sourceSetId": "cumilla-2024",
+      "path": "backend\\data\\answers\\higher-math-2nd-paper\\comilla-2024.answers.json"
+    },
+    {
+      "subject": "higher-math-2nd-paper",
+      "setId": "comilla-2025",
+      "sourceSetId": "cumilla-2025",
+      "path": "backend\\data\\answers\\higher-math-2nd-paper\\comilla-2025.answers.json"
+    },
+    {
+      "subject": "higher-math-2nd-paper",
+      "setId": "jessore-2022",
+      "sourceSetId": "jashore-2022",
+      "path": "backend\\data\\answers\\higher-math-2nd-paper\\jessore-2022.answers.json"
+    },
+    {
+      "subject": "higher-math-2nd-paper",
+      "setId": "jessore-2023",
+      "sourceSetId": "jashore-2023",
+      "path": "backend\\data\\answers\\higher-math-2nd-paper\\jessore-2023.answers.json"
+    },
+    {
+      "subject": "higher-math-2nd-paper",
+      "setId": "jessore-2024",
+      "sourceSetId": "jashore-2024",
+      "path": "backend\\data\\answers\\higher-math-2nd-paper\\jessore-2024.answers.json"
+    },
+    {
+      "subject": "higher-math-2nd-paper",
+      "setId": "jessore-2025",
+      "sourceSetId": "jashore-2025",
+      "path": "backend\\data\\answers\\higher-math-2nd-paper\\jessore-2025.answers.json"
+    },
+    {
+      "subject": "higher-math-2nd-paper",
+      "setId": "khulna-2022",
+      "sourceSetId": "dhaka-2022",
+      "path": "backend\\data\\answers\\higher-math-2nd-paper\\khulna-2022.answers.json"
+    },
+    {
+      "subject": "higher-math-2nd-paper",
+      "setId": "khulna-2023",
+      "sourceSetId": "dhaka-2023",
+      "path": "backend\\data\\answers\\higher-math-2nd-paper\\khulna-2023.answers.json"
+    },
+    {
+      "subject": "higher-math-2nd-paper",
+      "setId": "khulna-2024",
+      "sourceSetId": "dhaka-2024",
+      "path": "backend\\data\\answers\\higher-math-2nd-paper\\khulna-2024.answers.json"
+    },
+    {
+      "subject": "higher-math-2nd-paper",
+      "setId": "khulna-2025",
+      "sourceSetId": "dhaka-2025",
+      "path": "backend\\data\\answers\\higher-math-2nd-paper\\khulna-2025.answers.json"
+    },
+    {
+      "subject": "physics",
+      "setId": "barisal-2022",
+      "sourceSetId": "barishal-2022",
+      "path": "backend\\data\\answers\\physics\\barisal-2022.answers.json"
+    },
+    {
+      "subject": "physics",
+      "setId": "barisal-2023",
+      "sourceSetId": "barishal-2023",
+      "path": "backend\\data\\answers\\physics\\barisal-2023.answers.json"
+    },
+    {
+      "subject": "physics",
+      "setId": "barisal-2024",
+      "sourceSetId": "barishal-2024",
+      "path": "backend\\data\\answers\\physics\\barisal-2024.answers.json"
+    },
+    {
+      "subject": "physics",
+      "setId": "barisal-2025",
+      "sourceSetId": "barishal-2025",
+      "path": "backend\\data\\answers\\physics\\barisal-2025.answers.json"
+    },
+    {
+      "subject": "physics",
+      "setId": "chittagong-2022",
+      "sourceSetId": "chattogram-2022",
+      "path": "backend\\data\\answers\\physics\\chittagong-2022.answers.json"
+    },
+    {
+      "subject": "physics",
+      "setId": "chittagong-2023",
+      "sourceSetId": "chattogram-2023",
+      "path": "backend\\data\\answers\\physics\\chittagong-2023.answers.json"
+    },
+    {
+      "subject": "physics",
+      "setId": "chittagong-2024",
+      "sourceSetId": "chattogram-2024",
+      "path": "backend\\data\\answers\\physics\\chittagong-2024.answers.json"
+    },
+    {
+      "subject": "physics",
+      "setId": "chittagong-2025",
+      "sourceSetId": "chattogram-2025",
+      "path": "backend\\data\\answers\\physics\\chittagong-2025.answers.json"
+    },
+    {
+      "subject": "physics",
+      "setId": "comilla-2022",
+      "sourceSetId": "cumilla-2022",
+      "path": "backend\\data\\answers\\physics\\comilla-2022.answers.json"
+    },
+    {
+      "subject": "physics",
+      "setId": "comilla-2023",
+      "sourceSetId": "cumilla-2023",
+      "path": "backend\\data\\answers\\physics\\comilla-2023.answers.json"
+    },
+    {
+      "subject": "physics",
+      "setId": "comilla-2024",
+      "sourceSetId": "cumilla-2024",
+      "path": "backend\\data\\answers\\physics\\comilla-2024.answers.json"
+    },
+    {
+      "subject": "physics",
+      "setId": "comilla-2025",
+      "sourceSetId": "cumilla-2025",
+      "path": "backend\\data\\answers\\physics\\comilla-2025.answers.json"
+    },
+    {
+      "subject": "physics",
+      "setId": "jessore-2022",
+      "sourceSetId": "jashore-2022",
+      "path": "backend\\data\\answers\\physics\\jessore-2022.answers.json"
+    },
+    {
+      "subject": "physics",
+      "setId": "jessore-2023",
+      "sourceSetId": "jashore-2023",
+      "path": "backend\\data\\answers\\physics\\jessore-2023.answers.json"
+    },
+    {
+      "subject": "physics",
+      "setId": "jessore-2024",
+      "sourceSetId": "jashore-2024",
+      "path": "backend\\data\\answers\\physics\\jessore-2024.answers.json"
+    },
+    {
+      "subject": "physics",
+      "setId": "jessore-2025",
+      "sourceSetId": "jashore-2025",
+      "path": "backend\\data\\answers\\physics\\jessore-2025.answers.json"
+    },
+    {
+      "subject": "physics",
+      "setId": "khulna-2022",
+      "sourceSetId": "dhaka-2022",
+      "path": "backend\\data\\answers\\physics\\khulna-2022.answers.json"
+    },
+    {
+      "subject": "physics",
+      "setId": "khulna-2023",
+      "sourceSetId": "dhaka-2023",
+      "path": "backend\\data\\answers\\physics\\khulna-2023.answers.json"
+    },
+    {
+      "subject": "physics",
+      "setId": "khulna-2024",
+      "sourceSetId": "dhaka-2024",
+      "path": "backend\\data\\answers\\physics\\khulna-2024.answers.json"
+    },
+    {
+      "subject": "physics",
+      "setId": "khulna-2025",
+      "sourceSetId": "dhaka-2025",
+      "path": "backend\\data\\answers\\physics\\khulna-2025.answers.json"
+    },
+    {
+      "subject": "physics-1st-paper",
+      "setId": "barisal-2022",
+      "sourceSetId": "barishal-2022",
+      "path": "backend\\data\\answers\\physics-1st-paper\\barisal-2022.answers.json"
+    },
+    {
+      "subject": "physics-1st-paper",
+      "setId": "barisal-2023",
+      "sourceSetId": "barishal-2023",
+      "path": "backend\\data\\answers\\physics-1st-paper\\barisal-2023.answers.json"
+    },
+    {
+      "subject": "physics-1st-paper",
+      "setId": "barisal-2024",
+      "sourceSetId": "barishal-2024",
+      "path": "backend\\data\\answers\\physics-1st-paper\\barisal-2024.answers.json"
+    },
+    {
+      "subject": "physics-1st-paper",
+      "setId": "barisal-2025",
+      "sourceSetId": "barishal-2025",
+      "path": "backend\\data\\answers\\physics-1st-paper\\barisal-2025.answers.json"
+    },
+    {
+      "subject": "physics-1st-paper",
+      "setId": "chittagong-2022",
+      "sourceSetId": "chattogram-2022",
+      "path": "backend\\data\\answers\\physics-1st-paper\\chittagong-2022.answers.json"
+    },
+    {
+      "subject": "physics-1st-paper",
+      "setId": "chittagong-2023",
+      "sourceSetId": "chattogram-2023",
+      "path": "backend\\data\\answers\\physics-1st-paper\\chittagong-2023.answers.json"
+    },
+    {
+      "subject": "physics-1st-paper",
+      "setId": "chittagong-2024",
+      "sourceSetId": "chattogram-2024",
+      "path": "backend\\data\\answers\\physics-1st-paper\\chittagong-2024.answers.json"
+    },
+    {
+      "subject": "physics-1st-paper",
+      "setId": "chittagong-2025",
+      "sourceSetId": "chattogram-2025",
+      "path": "backend\\data\\answers\\physics-1st-paper\\chittagong-2025.answers.json"
+    },
+    {
+      "subject": "physics-1st-paper",
+      "setId": "comilla-2022",
+      "sourceSetId": "cumilla-2022",
+      "path": "backend\\data\\answers\\physics-1st-paper\\comilla-2022.answers.json"
+    },
+    {
+      "subject": "physics-1st-paper",
+      "setId": "comilla-2023",
+      "sourceSetId": "cumilla-2023",
+      "path": "backend\\data\\answers\\physics-1st-paper\\comilla-2023.answers.json"
+    },
+    {
+      "subject": "physics-1st-paper",
+      "setId": "comilla-2024",
+      "sourceSetId": "cumilla-2024",
+      "path": "backend\\data\\answers\\physics-1st-paper\\comilla-2024.answers.json"
+    },
+    {
+      "subject": "physics-1st-paper",
+      "setId": "comilla-2025",
+      "sourceSetId": "cumilla-2025",
+      "path": "backend\\data\\answers\\physics-1st-paper\\comilla-2025.answers.json"
+    },
+    {
+      "subject": "physics-1st-paper",
+      "setId": "jessore-2022",
+      "sourceSetId": "jashore-2022",
+      "path": "backend\\data\\answers\\physics-1st-paper\\jessore-2022.answers.json"
+    },
+    {
+      "subject": "physics-1st-paper",
+      "setId": "jessore-2023",
+      "sourceSetId": "jashore-2023",
+      "path": "backend\\data\\answers\\physics-1st-paper\\jessore-2023.answers.json"
+    },
+    {
+      "subject": "physics-1st-paper",
+      "setId": "jessore-2024",
+      "sourceSetId": "jashore-2024",
+      "path": "backend\\data\\answers\\physics-1st-paper\\jessore-2024.answers.json"
+    },
+    {
+      "subject": "physics-1st-paper",
+      "setId": "jessore-2025",
+      "sourceSetId": "jashore-2025",
+      "path": "backend\\data\\answers\\physics-1st-paper\\jessore-2025.answers.json"
+    },
+    {
+      "subject": "physics-1st-paper",
+      "setId": "khulna-2022",
+      "sourceSetId": "dhaka-2022",
+      "path": "backend\\data\\answers\\physics-1st-paper\\khulna-2022.answers.json"
+    },
+    {
+      "subject": "physics-1st-paper",
+      "setId": "khulna-2023",
+      "sourceSetId": "dhaka-2023",
+      "path": "backend\\data\\answers\\physics-1st-paper\\khulna-2023.answers.json"
+    },
+    {
+      "subject": "physics-1st-paper",
+      "setId": "khulna-2024",
+      "sourceSetId": "dhaka-2024",
+      "path": "backend\\data\\answers\\physics-1st-paper\\khulna-2024.answers.json"
+    },
+    {
+      "subject": "physics-1st-paper",
+      "setId": "khulna-2025",
+      "sourceSetId": "dhaka-2025",
+      "path": "backend\\data\\answers\\physics-1st-paper\\khulna-2025.answers.json"
+    },
+    {
+      "subject": "physics-2nd-paper",
+      "setId": "barisal-2022",
+      "sourceSetId": "barishal-2022",
+      "path": "backend\\data\\answers\\physics-2nd-paper\\barisal-2022.answers.json"
+    },
+    {
+      "subject": "physics-2nd-paper",
+      "setId": "barisal-2023",
+      "sourceSetId": "barishal-2023",
+      "path": "backend\\data\\answers\\physics-2nd-paper\\barisal-2023.answers.json"
+    },
+    {
+      "subject": "physics-2nd-paper",
+      "setId": "barisal-2024",
+      "sourceSetId": "barishal-2024",
+      "path": "backend\\data\\answers\\physics-2nd-paper\\barisal-2024.answers.json"
+    },
+    {
+      "subject": "physics-2nd-paper",
+      "setId": "barisal-2025",
+      "sourceSetId": "barishal-2025",
+      "path": "backend\\data\\answers\\physics-2nd-paper\\barisal-2025.answers.json"
+    },
+    {
+      "subject": "physics-2nd-paper",
+      "setId": "chittagong-2022",
+      "sourceSetId": "chattogram-2022",
+      "path": "backend\\data\\answers\\physics-2nd-paper\\chittagong-2022.answers.json"
+    },
+    {
+      "subject": "physics-2nd-paper",
+      "setId": "chittagong-2023",
+      "sourceSetId": "chattogram-2023",
+      "path": "backend\\data\\answers\\physics-2nd-paper\\chittagong-2023.answers.json"
+    },
+    {
+      "subject": "physics-2nd-paper",
+      "setId": "chittagong-2024",
+      "sourceSetId": "chattogram-2024",
+      "path": "backend\\data\\answers\\physics-2nd-paper\\chittagong-2024.answers.json"
+    },
+    {
+      "subject": "physics-2nd-paper",
+      "setId": "chittagong-2025",
+      "sourceSetId": "chattogram-2025",
+      "path": "backend\\data\\answers\\physics-2nd-paper\\chittagong-2025.answers.json"
+    },
+    {
+      "subject": "physics-2nd-paper",
+      "setId": "comilla-2022",
+      "sourceSetId": "cumilla-2022",
+      "path": "backend\\data\\answers\\physics-2nd-paper\\comilla-2022.answers.json"
+    },
+    {
+      "subject": "physics-2nd-paper",
+      "setId": "comilla-2023",
+      "sourceSetId": "cumilla-2023",
+      "path": "backend\\data\\answers\\physics-2nd-paper\\comilla-2023.answers.json"
+    },
+    {
+      "subject": "physics-2nd-paper",
+      "setId": "comilla-2024",
+      "sourceSetId": "cumilla-2024",
+      "path": "backend\\data\\answers\\physics-2nd-paper\\comilla-2024.answers.json"
+    },
+    {
+      "subject": "physics-2nd-paper",
+      "setId": "comilla-2025",
+      "sourceSetId": "cumilla-2025",
+      "path": "backend\\data\\answers\\physics-2nd-paper\\comilla-2025.answers.json"
+    },
+    {
+      "subject": "physics-2nd-paper",
+      "setId": "jessore-2022",
+      "sourceSetId": "jashore-2022",
+      "path": "backend\\data\\answers\\physics-2nd-paper\\jessore-2022.answers.json"
+    },
+    {
+      "subject": "physics-2nd-paper",
+      "setId": "jessore-2023",
+      "sourceSetId": "jashore-2023",
+      "path": "backend\\data\\answers\\physics-2nd-paper\\jessore-2023.answers.json"
+    },
+    {
+      "subject": "physics-2nd-paper",
+      "setId": "jessore-2024",
+      "sourceSetId": "jashore-2024",
+      "path": "backend\\data\\answers\\physics-2nd-paper\\jessore-2024.answers.json"
+    },
+    {
+      "subject": "physics-2nd-paper",
+      "setId": "jessore-2025",
+      "sourceSetId": "jashore-2025",
+      "path": "backend\\data\\answers\\physics-2nd-paper\\jessore-2025.answers.json"
+    },
+    {
+      "subject": "physics-2nd-paper",
+      "setId": "khulna-2022",
+      "sourceSetId": "dhaka-2022",
+      "path": "backend\\data\\answers\\physics-2nd-paper\\khulna-2022.answers.json"
+    },
+    {
+      "subject": "physics-2nd-paper",
+      "setId": "khulna-2023",
+      "sourceSetId": "dhaka-2023",
+      "path": "backend\\data\\answers\\physics-2nd-paper\\khulna-2023.answers.json"
+    },
+    {
+      "subject": "physics-2nd-paper",
+      "setId": "khulna-2024",
+      "sourceSetId": "dhaka-2024",
+      "path": "backend\\data\\answers\\physics-2nd-paper\\khulna-2024.answers.json"
+    },
+    {
+      "subject": "physics-2nd-paper",
+      "setId": "khulna-2025",
+      "sourceSetId": "dhaka-2025",
+      "path": "backend\\data\\answers\\physics-2nd-paper\\khulna-2025.answers.json"
+    }
+  ],
+  "skipped": []
+}

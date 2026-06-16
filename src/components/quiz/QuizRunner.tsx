@@ -917,7 +917,7 @@ function QuizRunnerRaw({
           </div>
         </div>
 
-        <div className="flex gap-2 items-center">
+        <div className="hidden lg:flex gap-2 items-center">
           <div className="flex flex-wrap gap-1.5 flex-1 p-2.5 rounded-2xl bg-slate-900/60 border border-white/5 max-h-[132px] overflow-y-auto">
             {questions.map((q, qi) => {
               const selected = selectedAnswers[q.id];

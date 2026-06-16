@@ -1,22 +1,73 @@
 <svg viewBox="0 0 360 220" xmlns="http://www.w3.org/2000/svg">
   <defs>
+    <!-- Background Gradient -->
     <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
       <stop offset="0%" stop-color="#0f172a"/>
       <stop offset="100%" stop-color="#1e1b4b"/>
     </linearGradient>
-    <filter id="glow" x="-30%" y="-30%" width="160%" height="160%">
-      <feDropShadow dx="0" dy="0" stdDeviation="4" flood-color="#22d3ee" flood-opacity="0.55"/>
+    <!-- Cyan glow for mirror and labels -->
+    <filter id="glow" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="0" dy="0" stdDeviation="5" flood-color="#22d3ee" flood-opacity="0.8"/>
     </filter>
+    <!-- Pink glow for object -->
+    <filter id="pink-glow" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="0" dy="0" stdDeviation="4" flood-color="#f472b6" flood-opacity="0.8"/>
+    </filter>
+    <!-- Arrow marker for dimension lines -->
     <marker id="arrow" viewBox="0 0 10 10" refX="5" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse">
-      <path d="M 0 0 L 10 5 L 0 10 z" fill="#cbd5e1"/>
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#cbd5e1"/>
     </marker>
   </defs>
+  
+  <!-- Background Card -->
   <rect width="360" height="220" rx="14" fill="url(#bg)" stroke="#334155" stroke-width="1.5"/>
   
-  <rect x="30" y="35" width="300" height="130" rx="10" fill="#1e293b" stroke="#475569" stroke-width="1.5" stroke-dasharray="8 5"/>
-  <ellipse cx="100" cy="90" rx="38" ry="28" fill="none" stroke="#22d3ee" stroke-width="2" opacity="0.85"/>
-  <line x1="170" y1="65" x2="260" y2="115" stroke="#f472b6" stroke-width="2.5"/>
-  <polygon points="270,70 295,105 245,105" fill="none" stroke="#34d399" stroke-width="2"/>
-  <text x="180" y="88" fill="#e2e8f0" font-family="Segoe UI, system-ui, sans-serif" font-size="10" text-anchor="middle">(চিত্রভিত্তিক) প্রতিবিম্বের দূরত্ব কত হবে?</text>
-  <text x="180" y="208" fill="#94a3b8" font-family="Segoe UI, system-ui, sans-serif" font-size="11" text-anchor="middle">উদ্দীপক / তত্ত্বীয় চিত্র</text>
+  <!-- Title -->
+  <text x="180" y="25" fill="#38bdf8" font-family="Segoe UI, system-ui, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">অবতল দর্পণ (Concave Mirror)</text>
+  
+  <!-- Principal Axis -->
+  <line x1="30" y1="110" x2="310" y2="110" stroke="#cbd5e1" stroke-width="1.5" stroke-dasharray="4 3"/>
+  <text x="320" y="114" fill="#94a3b8" font-family="Segoe UI, system-ui, sans-serif" font-size="10">X</text>
+  
+  <!-- Concave Mirror Arc -->
+  <!-- Arc center is to the left, radius=120 -->
+  <!-- Mirror curve from X=285, Y=60 to X=285, Y=160 -->
+  <path d="M 285,60 A 120,120 0 0,0 285,160" fill="none" stroke="#22d3ee" stroke-width="3.5" filter="url(#glow)"/>
+  
+  <!-- Mirror backing shading (dashes showing non-reflecting side on the right) -->
+  <path d="M 288,62 A 122,122 0 0,0 288,158" fill="none" stroke="#64748b" stroke-width="2" stroke-dasharray="2 3"/>
+  
+  <!-- Focus point F (f = 20cm) -->
+  <!-- Scale: 10cm = 50px. F is at 100px from Pole (X=285 - 100 = 185) -->
+  <circle cx="185" cy="110" r="3.5" fill="#38bdf8"/>
+  <text x="185" y="130" fill="#e2e8f0" font-family="Segoe UI, system-ui, sans-serif" font-size="11" font-weight="bold" text-anchor="middle">F</text>
+  
+  <!-- Center of curvature C (2f = 40cm) -->
+  <!-- C is at 200px from Pole (X=285 - 200 = 85) -->
+  <circle cx="85" cy="110" r="3.5" fill="#38bdf8"/>
+  <text x="85" y="130" fill="#e2e8f0" font-family="Segoe UI, system-ui, sans-serif" font-size="11" font-weight="bold" text-anchor="middle">C</text>
+  
+  <!-- Pole P -->
+  <circle cx="285" cy="110" r="3" fill="#cbd5e1"/>
+  <text x="295" y="114" fill="#e2e8f0" font-family="Segoe UI, system-ui, sans-serif" font-size="11" font-weight="bold">P</text>
+  
+  <!-- Object (u = 30cm) -->
+  <!-- Object is at 150px from Pole (X=285 - 150 = 135) -->
+  <!-- Draw object as an arrow pointing up from principal axis -->
+  <line x1="135" y1="110" x2="135" y2="65" stroke="#f472b6" stroke-width="3" marker-end="url(#arrow)" filter="url(#pink-glow)"/>
+  <text x="135" y="55" fill="#f472b6" font-family="Segoe UI, system-ui, sans-serif" font-size="10" font-weight="bold" text-anchor="middle">O</text>
+  
+  <!-- Dimension Line: Focal Length (f = 20cm) -->
+  <!-- From X=185 to X=285, Y=165 -->
+  <line x1="185" y1="165" x2="285" y2="165" stroke="#94a3b8" stroke-width="1" marker-start="url(#arrow)" marker-end="url(#arrow)"/>
+  <line x1="185" y1="115" x2="185" y2="175" stroke="#475569" stroke-width="0.75"/>
+  <line x1="285" y1="115" x2="285" y2="175" stroke="#475569" stroke-width="0.75"/>
+  <text x="235" y="180" fill="#94a3b8" font-family="Segoe UI, system-ui, sans-serif" font-size="10" text-anchor="middle">20 cm</text>
+  
+  <!-- Dimension Line: Object Distance (u = 30cm) -->
+  <!-- From X=135 to X=285, Y=195 -->
+  <line x1="135" y1="195" x2="285" y2="195" stroke="#94a3b8" stroke-width="1" marker-start="url(#arrow)" marker-end="url(#arrow)"/>
+  <line x1="135" y1="110" x2="135" y2="205" stroke="#475569" stroke-width="0.75"/>
+  <line x1="285" y1="175" x2="285" y2="205" stroke="#475569" stroke-width="0.75"/>
+  <text x="210" y="210" fill="#cbd5e1" font-family="Segoe UI, system-ui, sans-serif" font-size="11" font-weight="bold" text-anchor="middle">30 cm</text>
 </svg>

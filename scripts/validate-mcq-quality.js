@@ -47,6 +47,15 @@ function extractQuestionText(q) {
   return String(q.question ?? q.questionText ?? q.text ?? "");
 }
 
+function isShortMathQuestion(text) {
+  const value = String(text || "").trim();
+  return (
+    value.length >= 4 &&
+    /[0-9০-৯]/.test(value) &&
+    /[=+\-−–*/^⁰¹²³⁴⁵⁶⁷⁸⁹⁻√()]/.test(value)
+  );
+}
+
 function extractOptions(q) {
   if (Array.isArray(q.options)) {
     return q.options.map((o) => (typeof o === "string" ? o : o?.text ?? ""));
@@ -85,7 +94,7 @@ function validateQuestion(q) {
   const image = typeof q.image === "string" ? q.image : null;
 
   if (!id) issues.push({ code: "missing_id", severity: "error", message: "Missing id" });
-  if (!question || question.length < 8) {
+  if (!question || (question.length < 8 && !isShortMathQuestion(question))) {
     issues.push({ code: "missing_question", severity: "error", message: "Question too short" });
   }
   if (options.length !== 4) {

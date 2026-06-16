@@ -71,6 +71,14 @@ export function extractQuestionText(raw: Record<string, unknown>): string {
   return typeof t === "string" ? t : "";
 }
 
+function isShortMathQuestion(text: string): boolean {
+  return (
+    text.length >= 4 &&
+    /[0-9০-৯]/.test(text) &&
+    /[=+\-−–*/^⁰¹²³⁴⁵⁶⁷⁸⁹⁻√()]/.test(text)
+  );
+}
+
 export function inferCorrectLabelFromRaw(
   raw: Record<string, unknown>,
   options: string[],
@@ -128,7 +136,7 @@ export function validateMcqStructure(
   if (!id) {
     issues.push({ code: "missing_id", message: "Missing question id", severity: "error" });
   }
-  if (!question || question.length < 8) {
+  if (!question || (question.length < 8 && !isShortMathQuestion(question))) {
     issues.push({
       code: "missing_question",
       message: "Question text missing or too short",

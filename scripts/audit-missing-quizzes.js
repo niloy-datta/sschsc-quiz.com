@@ -32,6 +32,15 @@ function countQuestions(arr) {
   return Array.isArray(arr) ? arr.length : 0;
 }
 
+function isChapterModelKey(key) {
+  return /chapter-\d{2}-(?:high-priority-)?(?:set|model-test)-\d{2}/i.test(key);
+}
+
+function extractChapterSlug(key) {
+  const match = String(key).match(/chapter-(\d{2})/i);
+  return match ? `chapter-${match[1]}` : null;
+}
+
 function auditJson(level, slug, label) {
   const file = path.join(PUBLIC, level, `${slug}.json`);
   if (!fs.existsSync(file)) {
@@ -59,9 +68,18 @@ function auditJson(level, slug, label) {
   const boardQuestions = data.boardQuestions || {};
 
   let chapterQuestions = 0;
-  const chapterSlugs = Object.keys(chapters);
+  const directChapterSlugs = Object.keys(chapters);
+  const chapterModelKeys = Object.keys(modelTests).filter(isChapterModelKey);
+  const inferredChapterSlugs = [
+    ...new Set(chapterModelKeys.map(extractChapterSlug).filter(Boolean)),
+  ].sort();
+  const chapterSlugs = [...new Set([...directChapterSlugs, ...inferredChapterSlugs])].sort();
   for (const qs of Object.values(chapters)) {
     chapterQuestions += countQuestions(qs);
+  }
+  let chapterModelQuestions = 0;
+  for (const key of chapterModelKeys) {
+    chapterModelQuestions += countQuestions(modelTests[key]);
   }
 
   let boardSetCount = 0;
@@ -90,7 +108,10 @@ function auditJson(level, slug, label) {
     slug,
     exists: true,
     chapterCount: chapterSlugs.length,
+    directChapterCount: directChapterSlugs.length,
+    chapterModelSetCount: chapterModelKeys.length,
     chapterQuestions,
+    chapterModelQuestions,
     chapterSlugs,
     boardYears,
     boardSetCount,
@@ -249,7 +270,11 @@ lines.push(
 
 for (const a of audits) {
   const ch = a.chapterCount
-    ? `${a.chapterCount} ch (${a.chapterQuestions} qs)`
+    ? a.directChapterCount > 0 && a.chapterModelSetCount > 0
+      ? `${a.chapterCount} ch (${a.directChapterCount} direct + ${a.chapterModelSetCount} model sets)`
+      : a.chapterModelSetCount > 0
+        ? `${a.chapterCount} ch via modelTests (${a.chapterModelSetCount} sets)`
+        : `${a.chapterCount} ch (${a.chapterQuestions} qs)`
     : "Missing";
   const board = a.boardSetCount
     ? `${a.boardYears.length} yrs / ${a.boardSetCount} sets`
@@ -280,7 +305,12 @@ for (const a of audits) {
     lines.push("");
     continue;
   }
-  lines.push(`- Chapter count: **${a.chapterCount}** (${a.chapterQuestions} questions)`);
+  lines.push(`- Chapter count: **${a.chapterCount}** (${a.chapterQuestions} direct questions)`);
+  if (a.chapterModelSetCount) {
+    lines.push(
+      `- Chapter-scoped model tests: **${a.chapterModelSetCount}** sets (${a.chapterModelQuestions} questions)`,
+    );
+  }
   if (a.chapterSlugs.length) {
     lines.push(`- Chapter slugs: ${a.chapterSlugs.join(", ")}`);
   }
@@ -420,6 +450,8 @@ lines.push("## Totals");
 lines.push("");
 const totalChapters = audits.reduce((s, a) => s + a.chapterCount, 0);
 const totalChapterQ = audits.reduce((s, a) => s + a.chapterQuestions, 0);
+const totalChapterModelSets = audits.reduce((s, a) => s + (a.chapterModelSetCount || 0), 0);
+const totalChapterModelQ = audits.reduce((s, a) => s + (a.chapterModelQuestions || 0), 0);
 const totalBoardSets = audits.reduce((s, a) => s + a.boardSetCount, 0);
 const totalBoardQ = audits.reduce((s, a) => s + a.boardQuestions, 0);
 const totalModel = audits.reduce((s, a) => s + a.modelTestCount, 0);
@@ -427,7 +459,8 @@ const totalModelQ = audits.reduce((s, a) => s + a.modelTestQuestions, 0);
 const totalAll = audits.reduce((s, a) => s + a.totalQuestions, 0);
 
 lines.push(`- Total questions in public/quiz-data: **${totalAll}**`);
-lines.push(`- Chapter-wise chapters: **${totalChapters}** (${totalChapterQ} questions)`);
+lines.push(`- Chapter-wise chapters: **${totalChapters}** (${totalChapterQ} direct questions)`);
+lines.push(`- Chapter-scoped model-test sets: **${totalChapterModelSets}** (${totalChapterModelQ} questions)`);
 lines.push(`- Board question sets: **${totalBoardSets}** (${totalBoardQ} questions)`);
 lines.push(`- Model test sets: **${totalModel}** (${totalModelQ} questions)`);
 lines.push(`- Whole syllabus sets: **0** (not implemented in JSON)`);
