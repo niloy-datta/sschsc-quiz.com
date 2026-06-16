@@ -11,6 +11,7 @@ import {
   getInitials,
 } from "@/lib/leaderboard-api";
 import { FormattedQuizText } from "@/lib/format-quiz-text";
+import { type StudentLevel } from "@/lib/profile-utils";
 import {
   Brain,
   Building2,
@@ -254,12 +255,15 @@ function ResultCard({
 export function CollegeMindGame({
   colleges,
   entries,
+  level = "ssc",
   onExit,
 }: {
   colleges: CollegeWarEntry[];
   entries: LeaderboardEntry[];
+  level?: StudentLevel;
   onExit: () => void;
 }) {
+  const isSchool = level === "ssc";
   // ── State ──
   const [phase, setPhase] = useState<GamePhase>("select-a");
   const [myCollege, setMyCollege] = useState<CollegeWarEntry | null>(null);
@@ -291,19 +295,25 @@ export function CollegeMindGame({
   const loadQuestionsForGame = useCallback(async () => {
     setLoadingQuestions(true);
     const allQs: Question[] = [];
-    const fetchKey = myCollege?.name ? "ssc" : "ssc";
 
     // Try loading from multiple board files & chapter sets to get a good mix
-    const pathsToTry = [
+    const pathsToTry = level === "ssc" ? [
       // SSC Physics chapter sets
       "/questions/physics/ssc-physics-chapter-01-model-test-01.json",
       "/questions/physics/ssc-physics-chapter-02-model-test-01.json",
       "/questions/physics/ssc-physics-chapter-03-model-test-01.json",
+      "/questions/physics/ssc-physics-chapter-04-model-test-01.json",
+      "/questions/physics/ssc-physics-chapter-05-model-test-01.json",
       // SSC Chemistry chapter sets
       "/questions/chemistry/ssc-chemistry-chapter-01-model-test-01.json",
       "/questions/chemistry/ssc-chemistry-chapter-02-model-test-01.json",
       // SSC Biology chapter sets
       "/questions/biology/ssc-biology-chapter-01-model-test-01.json",
+      // Board questions (SSC Physics/Chemistry/Biology)
+      "/questions/physics/barishal-2025.json",
+      "/questions/physics/dhaka-2025.json",
+      "/questions/chemistry/dhaka-2025.json",
+    ] : [
       // HSC Biology 2nd paper chapter sets
       "/questions/biology-2nd-paper/hsc-biology-2nd-paper-chapter-01-high-priority-set-01.json",
       "/questions/biology-2nd-paper/hsc-biology-2nd-paper-chapter-08-high-priority-set-02.json",
@@ -314,10 +324,6 @@ export function CollegeMindGame({
       "/questions/physics-1st-paper/hsc-physics-1st-paper-chapter-03-model-test-01.json",
       // HSC Chemistry chapter sets
       "/questions/chemistry-1st-paper/hsc-chemistry-1st-paper-chapter-01-high-priority-set-01.json",
-      // Board questions
-      "/questions/physics/barishal-2025.json",
-      "/questions/physics/dhaka-2025.json",
-      "/questions/chemistry/dhaka-2025.json",
       // HSC Board questions
       "/questions/chemistry-1st-paper/dhaka-2025.json",
       "/questions/biology-1st-paper/dhaka-2025.json",
@@ -350,7 +356,7 @@ export function CollegeMindGame({
     const shuffled = allQs.sort(() => Math.random() - 0.5);
     setQuestions(shuffled.slice(0, Math.min(GAME_QUESTIONS, shuffled.length)));
     setLoadingQuestions(false);
-  }, [myCollege]);
+  }, [myCollege, level]);
 
   useEffect(() => {
     if (phase === "countdown" && questions.length === 0) {
@@ -437,6 +443,10 @@ export function CollegeMindGame({
     setSearchB("");
   };
 
+  useEffect(() => {
+    resetGame();
+  }, [level]);
+
   // ── College selection UI ──
   if (phase === "select-a") {
     return (
@@ -461,15 +471,15 @@ export function CollegeMindGame({
           </div>
           <h2 className="text-2xl font-black text-white">🧠 মাইন্ড গেম</h2>
           <p className="text-slate-400 max-w-md mx-auto text-sm">
-            {GAME_QUESTIONS}টি MCQ এর যুদ্ধ! তুমি ও প্রতিপক্ষ কলেজ — কে বেশি সঠিক উত্তর দিতে পারে?
-            তোমার কলেজ বাছাই করে যুদ্ধে নামো!
+            {GAME_QUESTIONS}টি MCQ এর যুদ্ধ! তুমি ও প্রতিপক্ষ {isSchool ? "স্কুল" : "কলেজ"} — কে বেশি সঠিক উত্তর দিতে পারে?
+            তোমার {isSchool ? "স্কুল" : "কলেজ"} বাছাই করে যুদ্ধে নামো!
           </p>
         </Card>
 
         <Card variant="glass" className="p-6 space-y-4">
           <h3 className="flex items-center gap-2 font-bold text-white">
             <Building2 className="h-5 w-5 text-purple-400" />
-            তোমার কলেজ নির্বাচন করো
+            তোমার {isSchool ? "স্কুল" : "কলেজ"} নির্বাচন করো
           </h3>
 
           <div className="relative w-full">
@@ -477,7 +487,7 @@ export function CollegeMindGame({
               type="text"
               value={searchA}
               onChange={(e) => setSearchA(e.target.value)}
-              placeholder="কলেজের নাম লিখুন..."
+              placeholder={`${isSchool ? "স্কুলের" : "কলেজের"} নাম লিখুন...`}
               className="w-full rounded-xl border border-white/10 bg-slate-900/60 py-3 pl-4 pr-10 text-sm text-white placeholder:text-slate-600 focus:border-purple-400/40 focus:outline-none"
             />
             <Building2 className="absolute right-3 top-1/2 -translate-y-1/2 h-4 w-4 text-slate-500" />
@@ -516,7 +526,7 @@ export function CollegeMindGame({
                 c.name.toLowerCase().includes(searchA.toLowerCase()),
               ).length === 0 && (
                 <p className="py-3 text-center text-xs text-slate-600">
-                  কোনো কলেজ পাওয়া যায়নি
+                  কোনো {isSchool ? "স্কুল" : "কলেজ"} পাওয়া যায়নি
                 </p>
               )}
             </ul>
@@ -548,7 +558,7 @@ export function CollegeMindGame({
           <Card variant="glass" className="p-4 border-purple-500/30 bg-purple-500/5 flex items-center gap-3">
             <Building2 className="h-6 w-6 text-purple-400" />
             <div>
-              <p className="text-sm font-bold text-white">তোমার কলেজ</p>
+              <p className="text-sm font-bold text-white">তোমার {isSchool ? "স্কুল" : "কলেজ"}</p>
               <p className="text-xs text-slate-400">{myCollege.name}</p>
             </div>
           </Card>
@@ -557,7 +567,7 @@ export function CollegeMindGame({
         <Card variant="glass" className="p-6 space-y-4">
           <h3 className="flex items-center gap-2 font-bold text-white">
             <Swords className="h-5 w-5 text-orange-400" />
-            প্রতিপক্ষ কলেজ নির্বাচন করো
+            প্রতিপক্ষ {isSchool ? "স্কুল" : "কলেজ"} নির্বাচন করো
           </h3>
 
           <div className="relative w-full">
@@ -565,7 +575,7 @@ export function CollegeMindGame({
               type="text"
               value={searchB}
               onChange={(e) => setSearchB(e.target.value)}
-              placeholder="প্রতিপক্ষ কলেজের নাম লিখুন..."
+              placeholder={`প্রতিপক্ষ ${isSchool ? "স্কুলের" : "কলেজের"} নাম লিখুন...`}
               className="w-full rounded-xl border border-white/10 bg-slate-900/60 py-3 pl-4 pr-10 text-sm text-white placeholder:text-slate-600 focus:border-cyan-400/40 focus:outline-none"
             />
             <Swords className="absolute right-3 top-1/2 -translate-y-1/2 h-4 w-4 text-slate-500" />
@@ -605,7 +615,7 @@ export function CollegeMindGame({
                 c.name.toLowerCase().includes(searchB.toLowerCase()),
               ).length === 0 && (
                 <p className="py-3 text-center text-xs text-slate-600">
-                  কোনো কলেজ পাওয়া যায়নি
+                  কোনো {isSchool ? "স্কুল" : "কলেজ"} পাওয়া যায়নি
                 </p>
               )}
             </ul>
@@ -723,7 +733,7 @@ export function CollegeMindGame({
             className="flex items-center gap-2"
           >
             <Building2 className="h-4 w-4" />
-            কলেজ র‍্যাঙ্কিং
+            {isSchool ? "স্কুল" : "কলেজ"} র‍্যাঙ্কিং
           </Button>
         </div>
       </div>

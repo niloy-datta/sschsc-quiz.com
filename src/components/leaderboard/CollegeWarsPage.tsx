@@ -284,14 +284,17 @@ function CollegeBattleCard({
 function CollegeDrillDownView({
   collegeName,
   entries,
+  level = "ssc",
   onBack,
   onBattle,
 }: {
   collegeName: string;
   entries: LeaderboardEntry[];
+  level?: StudentLevel;
   onBack: () => void;
   onBattle: () => void;
 }) {
+  const isSchool = level === "ssc";
   const collegeEntries = useMemo(
     () => getCollegeRanking(entries, collegeName),
     [entries, collegeName],
@@ -399,7 +402,7 @@ function CollegeDrillDownView({
             ))
           ) : (
             <p className="py-6 text-center text-xs text-slate-500">
-              এই কলেজের কেউ এখনো র‍্যাঙ্কিংয়ে নেই। প্রথম কুইজ দিয়ে শুরু করুন!
+              এই {isSchool ? "স্কুলের" : "কলেজের"} কেউ এখনো র‍্যাঙ্কিংয়ে নেই। প্রথম কুইজ দিয়ে শুরু করুন!
             </p>
           )}
         </div>
@@ -414,19 +417,22 @@ function CollegeDrillDownView({
 
 function CollegeRankingTable({
   colleges,
+  level = "ssc",
   onSelect,
   onBattle,
 }: {
   colleges: CollegeWarEntry[];
+  level?: StudentLevel;
   onSelect: (name: string) => void;
   onBattle: (name: string) => void;
 }) {
+  const isSchool = level === "ssc";
   return (
     <Card variant="glass" className="overflow-hidden p-0">
       {/* Table header */}
       <div className="hidden md:grid grid-cols-[48px_1fr_100px_120px_100px_100px_80px] items-center gap-3 border-b border-white/10 px-4 py-3 text-[10px] font-bold uppercase tracking-wider text-slate-500">
         <span>#</span>
-        <span>কলেজের নাম</span>
+        <span>{isSchool ? "স্কুলের নাম" : "কলেজের নাম"}</span>
         <span>শিক্ষার্থী</span>
         <span>মোট স্কোর</span>
         <span>গড় স্কোর</span>
@@ -556,6 +562,7 @@ function CollegeBattleArena({
   colleges,
   entries,
   battlePair,
+  level = "ssc",
   onAddCollege,
   onRemoveCollege,
   onExitBattle,
@@ -563,10 +570,12 @@ function CollegeBattleArena({
   colleges: CollegeWarEntry[];
   entries: LeaderboardEntry[];
   battlePair: BattlePair;
+  level?: StudentLevel;
   onAddCollege: (name: string) => void;
   onRemoveCollege: (slot: "collegeA" | "collegeB") => void;
   onExitBattle: () => void;
 }) {
+  const isSchool = level === "ssc";
   const [searchA, setSearchA] = useState("");
   const [searchB, setSearchB] = useState("");
 
@@ -611,7 +620,7 @@ function CollegeBattleArena({
           Battle Arena
         </Badge>
         <span className="text-xs text-slate-500">
-          ২টি কলেজ সিলেক্ট করে তুলনা করুন
+          ২টি {isSchool ? "স্কুল" : "কলেজ"} সিলেক্ট করে তুলনা করুন
         </span>
       </div>
 
@@ -674,7 +683,7 @@ function CollegeBattleArena({
                 type="text"
                 value={searchA}
                 onChange={(e) => setSearchA(e.target.value)}
-                placeholder="কলেজের নাম লিখুন..."
+                placeholder={`${isSchool ? "স্কুলের" : "কলেজের"} নাম লিখুন...`}
                 className="w-full rounded-xl border border-white/10 bg-slate-900/60 py-2.5 pl-10 pr-3 text-sm text-white placeholder:text-slate-600 focus:border-cyan-400/40 focus:outline-none"
               />
             </div>
@@ -700,7 +709,7 @@ function CollegeBattleArena({
                 ))}
                 {filteredColleges.length === 0 && (
                   <p className="py-2 text-center text-xs text-slate-600">
-                    কোনো কলেজ পাওয়া যায়নি
+                    কোনো {isSchool ? "স্কুল" : "কলেজ"} পাওয়া যায়নি
                   </p>
                 )}
               </ul>
@@ -727,7 +736,7 @@ function CollegeBattleArena({
                 type="text"
                 value={searchB}
                 onChange={(e) => setSearchB(e.target.value)}
-                placeholder="কলেজের নাম লিখুন..."
+                placeholder={`${isSchool ? "স্কুলের" : "কলেজের"} নাম লিখুন...`}
                 className="w-full rounded-xl border border-white/10 bg-slate-900/60 py-2.5 pl-10 pr-3 text-sm text-white placeholder:text-slate-600 focus:border-cyan-400/40 focus:outline-none"
               />
             </div>
@@ -753,7 +762,7 @@ function CollegeBattleArena({
                 ))}
                 {filteredColleges.length === 0 && (
                   <p className="py-2 text-center text-xs text-slate-600">
-                    কোনো কলেজ পাওয়া যায়নি
+                    কোনো {isSchool ? "স্কুল" : "কলেজ"} পাওয়া যায়নি
                   </p>
                 )}
               </ul>
@@ -921,7 +930,7 @@ export function CollegeWarsPage() {
           কলেজ যুদ্ধ
         </h1>
         <p className="mt-2 max-w-2xl text-sm text-slate-400">
-          SSC ও HSC কলেজগুলোর মধ্যে র‍্যাঙ্কিং যুদ্ধ — কোন কলেজ সেরা, দেখুন
+          SSC স্কুল ও HSC কলেজগুলোর মধ্যে র‍্যাঙ্কিং যুদ্ধ — কোন প্রতিষ্ঠান সেরা, দেখুন
           বিস্তারিত পরিসংখ্যান।
         </p>
       </header>
@@ -940,7 +949,7 @@ export function CollegeWarsPage() {
                 : "border-white/10 bg-white/5 text-slate-400 hover:text-white",
             )}
           >
-            {tab === "ssc" ? "SSC কলেজ" : "HSC কলেজ"}
+            {tab === "ssc" ? "SSC স্কুল" : "HSC কলেজ"}
           </button>
         ))}
       </div>
@@ -999,7 +1008,7 @@ export function CollegeWarsPage() {
               type="text"
               value={searchQuery}
               onChange={(e) => setSearchQuery(e.target.value)}
-              placeholder="কলেজ খুঁজুন..."
+              placeholder={levelTab === "ssc" ? "স্কুল খুঁজুন..." : "কলেজ খুঁজুন..."}
               className="w-full rounded-xl border border-white/10 bg-slate-900/60 py-2.5 pl-10 pr-3 text-sm text-white placeholder:text-slate-600 focus:border-cyan-400/40 focus:outline-none"
             />
           </div>
@@ -1021,6 +1030,7 @@ export function CollegeWarsPage() {
         <CollegeMindGame
           colleges={colleges}
           entries={filtered}
+          level={levelTab}
           onExit={() => setViewMode("list")}
         />
       ) : viewMode === "battle" ? (
@@ -1028,6 +1038,7 @@ export function CollegeWarsPage() {
           colleges={colleges}
           entries={filtered}
           battlePair={battlePair}
+          level={levelTab}
           onAddCollege={handleAddCollege}
           onRemoveCollege={handleRemoveCollege}
           onExitBattle={handleExitBattle}
@@ -1036,12 +1047,14 @@ export function CollegeWarsPage() {
         <CollegeDrillDownView
           collegeName={selectedCollege}
           entries={filtered}
+          level={levelTab}
           onBack={() => setSelectedCollege(null)}
           onBattle={() => handleBattle(selectedCollege)}
         />
       ) : (
         <CollegeRankingTable
           colleges={searchedColleges}
+          level={levelTab}
           onSelect={handleSelectCollege}
           onBattle={(name) =>
             handleBattle(name)
