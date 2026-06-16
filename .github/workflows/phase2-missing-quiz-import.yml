@@ -1,5 +1,8 @@
 name: Phase 2 Missing Quiz Import
 
+env:
+  FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: "true"
+
 on:
   workflow_dispatch:
   push:
@@ -26,15 +29,16 @@ jobs:
       - name: Setup Node.js
         uses: actions/setup-node@v4
         with:
-          node-version: '20'
+          node-version: '22'
+          cache: 'pnpm'
 
-      - name: Setup pnpm
-        uses: pnpm/action-setup@v4
-        with:
-          version: 9
+      - name: Enable Corepack
+        run: corepack enable
 
       - name: Install dependencies
-        run: pnpm install --frozen-lockfile=false
+        run: |
+          pnpm --version
+          pnpm install --frozen-lockfile=false
 
       - name: Prepare folders
         run: |
@@ -94,10 +98,10 @@ jobs:
             fi
           }
 
-          run_if_nonempty 'npm run data:import-hsc-chemistry-1st-chapterwise' 'data/imports/hsc-chemistry-1st-paper-chapterwise-5-high-priority-sets.json' 'HSC Chemistry 1st chapter-wise'
-          run_if_nonempty 'npm run data:import-hyper-mega-higher-math-2nd-5sets' 'data/imports/hsc-higher-math-2nd-hyper-mega-hot-5sets.json' 'HSC Higher Math 2nd hot sets'
-          run_if_nonempty 'npm run data:import-hyper-mega' 'data/imports/hsc-physics-2nd-hyper-mega-hot-10sets.json' 'HSC Physics 2nd hot sets'
-          run_if_nonempty 'npm run data:import-hyper-mega-higher-math-1st' 'data/imports/hsc-higher-math-1st-paper-10-model-tests.json' 'HSC Higher Math 1st hot sets'
+          run_if_nonempty 'pnpm run data:import-hsc-chemistry-1st-chapterwise' 'data/imports/hsc-chemistry-1st-paper-chapterwise-5-high-priority-sets.json' 'HSC Chemistry 1st chapter-wise'
+          run_if_nonempty 'pnpm run data:import-hyper-mega-higher-math-2nd-5sets' 'data/imports/hsc-higher-math-2nd-hyper-mega-hot-5sets.json' 'HSC Higher Math 2nd hot sets'
+          run_if_nonempty 'pnpm run data:import-hyper-mega' 'data/imports/hsc-physics-2nd-hyper-mega-hot-10sets.json' 'HSC Physics 2nd hot sets'
+          run_if_nonempty 'pnpm run data:import-hyper-mega-higher-math-1st' 'data/imports/hsc-higher-math-1st-paper-10-model-tests.json' 'HSC Higher Math 1st hot sets'
 
       - name: ICT live scan after import
         run: |
@@ -115,9 +119,11 @@ jobs:
 
       - name: Validate after import
         run: |
-          npm run data:validate-mcq
-          npm run data:audit
-          npm run typecheck
+          pnpm run data:validate-mcq
+          pnpm run data:audit
+          pnpm run data:detect-missing-svg
+          node scripts/ci-check-premium-svgs.js
+          pnpm run typecheck
 
       - name: Commit generated quiz imports and reports
         run: |
