@@ -18,12 +18,24 @@ function fileIncludes(rel, text, label) {
   checks.push({ area: label, status: ok ? 'pass' : 'fail', note: `${rel} includes ${text}` });
   return ok;
 }
+function jsonCheck(rel, label, predicate, note) {
+  const p = path.join(root, rel);
+  let ok = false;
+  try {
+    ok = predicate(JSON.parse(fs.readFileSync(p, 'utf8')));
+  } catch {
+    ok = false;
+  }
+  checks.push({ area: label, status: ok ? 'pass' : 'fail', note });
+  return ok;
+}
 
 exists('vercel.json', 'Vercel config');
 exists('api/index.py', 'FastAPI serverless entry');
 exists('requirements.txt', 'Root Python requirements');
 exists('backend/requirements.txt', 'Backend Python requirements');
 exists('.env.local.example', 'Environment example');
+exists('.vercelignore', 'Vercel ignore file');
 exists('app/not-found.tsx', 'Global not-found page');
 exists('app/loading.tsx', 'Global loading page');
 exists('app/error.tsx', 'Global error boundary');
@@ -34,6 +46,13 @@ fileIncludes('requirements.txt', 'google-auth', 'Firestore REST dependency');
 fileIncludes('package.json', '"build": "next build"', 'Next build script');
 fileIncludes('package.json', '"typecheck"', 'Typecheck script');
 fileIncludes('package.json', '"data:validate-mcq"', 'MCQ validation script');
+fileIncludes('api/index.py', '@app.get("/api/health")', 'FastAPI health route');
+jsonCheck(
+  'vercel.json',
+  'Vercel API rewrite',
+  (cfg) => Array.isArray(cfg.rewrites) && cfg.rewrites.some((r) => r.source === '/api/:path*' && String(r.destination || '').includes('/api/index')),
+  '/api/:path* routes to api/index.py',
+);
 
 const catalogPath = path.join(root, 'src', 'lib', 'quiz-catalog.ts');
 let ictCatalog = false;
