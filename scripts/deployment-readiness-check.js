@@ -47,6 +47,7 @@ fileIncludes('package.json', '"build": "next build"', 'Next build script');
 fileIncludes('package.json', '"typecheck"', 'Typecheck script');
 fileIncludes('package.json', '"data:validate-mcq"', 'MCQ validation script');
 fileIncludes('api/index.py', '@app.get("/api/health")', 'FastAPI health route');
+fileIncludes('backend/app/config.py', 'validate_production_settings()', 'Production secret guard');
 jsonCheck(
   'vercel.json',
   'Vercel API rewrite',
