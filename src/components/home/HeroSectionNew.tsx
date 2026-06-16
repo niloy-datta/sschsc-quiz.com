@@ -4,7 +4,7 @@ import React from "react";
 import { Button } from "@/components/ui/Button";
 import { Badge } from "@/components/ui/Badge";
 import { Card } from "@/components/ui/Card";
-import { Zap, Trophy, BookOpen, Users, ChevronRight, Target } from "lucide-react";
+import { Zap, Trophy, BookOpen, Users, ChevronRight, Target, Flame, RefreshCcw } from "lucide-react";
 import Link from "next/link";
 import { cn } from "@/lib/utils";
 import { levelHubPath } from "@/lib/quiz/unified-routes";
@@ -18,19 +18,32 @@ function DashboardPreviewCard({ className }: { className?: string }) {
         </div>
         <div>
           <h3 className="text-base font-bold text-white">তোমার অগ্রগতি</h3>
-          <p className="text-xs text-slate-400">কুইজ দিয়ে স্ট্রিক ও র‍্যাঙ্ক বাড়াও</p>
+          <p className="text-xs text-slate-400">আজকের ছোট practice-ই কালকের rank</p>
         </div>
       </div>
 
       <div className="grid grid-cols-2 gap-3 mb-4">
         <Card variant="dark" className="p-3">
-          <p className="text-xs text-slate-400 mb-1">স্ট্রিক</p>
-          <p className="text-xl font-bold text-amber-400">—</p>
+          <p className="text-xs text-slate-400 mb-1">Daily loop</p>
+          <p className="text-xl font-bold text-amber-400">5 min</p>
         </Card>
         <Card variant="dark" className="p-3">
-          <p className="text-xs text-slate-400 mb-1">র‍্যাঙ্ক</p>
-          <p className="text-xl font-bold text-cyan-400">—</p>
+          <p className="text-xs text-slate-400 mb-1">Next action</p>
+          <p className="text-xl font-bold text-cyan-400">MCQ</p>
         </Card>
+      </div>
+
+      <div className="space-y-2 mb-4">
+        {[
+          { icon: Target, text: "Weak chapter first" },
+          { icon: RefreshCcw, text: "Wrong answer retake" },
+          { icon: Flame, text: "Daily streak focus" },
+        ].map((item) => (
+          <div key={item.text} className="flex items-center gap-2 rounded-xl border border-white/10 bg-white/[0.03] px-3 py-2 text-xs text-slate-300">
+            <item.icon className="h-3.5 w-3.5 text-cyan-300" />
+            {item.text}
+          </div>
+        ))}
       </div>
 
       <Link href="/dashboard">
@@ -57,7 +70,7 @@ export function HeroSectionNew() {
             </Badge>
 
             <h1 className="text-3xl sm:text-4xl lg:text-5xl font-extrabold tracking-tight leading-tight text-white">
-              অধ্যায়ভিত্তিক কুইজ,{" "}
+              ৫ মিনিটের practice loop, {" "}
               <span className="text-gradient-purple">বোর্ড প্রশ্ন</span> ও{" "}
               <span className="text-gradient-gold">মডেল টেস্ট</span>
               <br />
@@ -65,8 +78,16 @@ export function HeroSectionNew() {
             </h1>
 
             <p className="text-base text-slate-400 max-w-lg mx-auto lg:mx-0 leading-relaxed">
-              যে অধ্যায় দুর্বল, সেটাই আগে শক্তিশালী করো। MCQ দাও, র‍্যাঙ্ক দেখো, পরীক্ষার আত্মবিশ্বাস বাড়াও।
+              যে অধ্যায় দুর্বল, সেটাই আগে শক্তিশালী করো। MCQ দাও, ভুল retake করো, র‍্যাঙ্ক দেখো, পরীক্ষার আত্মবিশ্বাস বাড়াও।
             </p>
+
+            <div className="grid grid-cols-1 sm:grid-cols-3 gap-2 max-w-xl mx-auto lg:mx-0">
+              {["Weak chapter", "Quick MCQ", "Rank feedback"].map((label) => (
+                <div key={label} className="rounded-xl border border-white/10 bg-white/[0.03] px-3 py-2 text-xs font-semibold text-slate-300">
+                  {label}
+                </div>
+              ))}
+            </div>
 
             <div className="flex flex-col sm:flex-row gap-3 justify-center lg:justify-start pt-1">
               <Link href={levelHubPath("ssc")} className="w-full sm:w-auto">
@@ -97,10 +118,7 @@ export function HeroSectionNew() {
                 { icon: Trophy, value: "২০২২–২০২৬", label: "বোর্ড প্রশ্ন", color: "text-yellow-400" },
                 { icon: Target, value: "মডেল", label: "টেস্ট", color: "text-red-400" },
               ].map((stat) => (
-                <div
-                  key={stat.label}
-                  className="glass-panel rounded-xl p-3 text-center border border-white/10"
-                >
+                <div key={stat.label} className="glass-panel rounded-xl p-3 text-center border border-white/10">
                   <stat.icon className={`h-4 w-4 mx-auto mb-1 ${stat.color}`} />
                   <p className={`text-sm font-bold ${stat.color}`}>{stat.value}</p>
                   <p className="text-xs text-slate-400">{stat.label}</p>
