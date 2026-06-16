@@ -14,6 +14,7 @@ Repo: `niloy-datta/sschsc-quiz.com`
 | `.env.local.example` | Documented `NEXT_PUBLIC_SITE_URL` for sitemap and robots generation. |
 | `scripts/lint-project.js` | Added dependency-free project sanity checks for required files, Vercel API rewrite, FastAPI health route, ICT catalog exposure, and public answer-key leakage. |
 | `package.json` | Changed `npm run lint` from zero-task Turbo lint to `node scripts/lint-project.js`. |
+| `.github/workflows/autonomous-launch-gate.yml` | Added `npm run lint` to the launch gate and watched `.vercelignore`. |
 | `tmp_test.txt` | Removed temporary local setup note from the repository root. |
 
 ## Safety policy followed
@@ -29,6 +30,8 @@ Repo: `niloy-datta/sschsc-quiz.com`
 The frontend API client uses same-origin `/api/*` requests in proxy mode. The README and Next config expect Vercel production to send `/api/*` to the Python FastAPI entry, but the previous `vercel.json` did not include that rewrite. The new rewrite makes the deployment configuration match the documented architecture.
 
 The previous `npm run lint` command used Turbo but did not have package-level lint tasks to execute. The new lint script now performs repo-specific launch sanity checks without adding dependencies or changing quiz content.
+
+The launch gate now runs this lint check, so the workflow can catch basic API routing, ICT catalog, and public answer-key leakage mistakes before deploy.
 
 ## Remaining blockers
 
