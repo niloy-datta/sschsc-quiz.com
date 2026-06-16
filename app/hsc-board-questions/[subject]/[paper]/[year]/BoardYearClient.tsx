@@ -44,6 +44,7 @@ const BENGALI_BOARDS: Record<string, string> = {
   dinajpur: "দিনাজপুর বোর্ড",
   jashore: "যশোর বোর্ড",
   mymensingh: "ময়মনসিংহ বোর্ড",
+  khulna: "খুলনা বোর্ড",
 };
 
 type Props = {

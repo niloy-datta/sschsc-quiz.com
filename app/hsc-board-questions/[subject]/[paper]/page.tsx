@@ -64,7 +64,7 @@ export default async function PaperPage({
 
   // Combine them, putting available practice years first
   const displayYears = [
-    ...extraYears.map(y => ({ ...y, hasData: availableYears.includes(y.value) || y.value === "2023" || y.value === "2024" || y.value === "2025" })),
+    ...extraYears.map(y => ({ ...y, hasData: availableYears.includes(y.value) || y.value === "2022" || y.value === "2023" || y.value === "2024" || y.value === "2025" })),
     ...targetYears.map(y => ({ ...y, hasData: availableYears.includes(y.value) }))
   ];
 

@@ -6,6 +6,7 @@ coverage/
 nul
 .env*
 !.env.example
+!.env.local.example
 
 # Python virtual environments
 .venv/
@@ -32,3 +33,49 @@ nul
 backend/nul
 **/nul
 
+# Large root-level data/asset files (not needed in repo — keep in public/ only)
+*.zip
+ben.traineddata
+eng.traineddata
+hsc_*.json
+hsc_*.txt
+ssc_*.json
+ssc_*.zip
+biology_questions.json
+chemistry_questions.json
+math_questions.json
+physics_questions.json
+math_circle.json
+math_circle_shortcut.json
+model_test_easy.json
+biology-1st-paper.json
+metadata.json
+prediction_*.json
+prev_year_*.json
+chapter_*.json
+tsc-errors.txt
+tsc_board_check.log
+antigravity-err.log
+antigravity-out.log
+tmp_chk.js
+tmp_test.txt
+copilot-chatLanguageModels.json
+copilot-vscode-settings.json
+website-audit-and-fake-questions-report.txt
+bugs_list.txt
+detect_missing_svg.txt
+project_structure.txt
+HSC-Chemistry-1st-Paper-2025-Board-Questions.txt
+
+# Large temporary/archive directories
+tmp/
+scratch/
+_archive_old_fastapi_in_next_app/
+reprise_super_app_implementation/
+reprise_target_plan_code/
+hsc_board_analyzed_100_quality_pack/
+professional_svg_all_questions_pack/
+physics_13_images_only/
+ssc_biology_premium_full/
+ssc_general_math_premium_full/
+ssc_higher_math_premium_full/

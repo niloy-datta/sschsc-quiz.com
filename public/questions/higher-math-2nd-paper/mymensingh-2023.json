@@ -3,12 +3,12 @@
     "id": "higher-math-2nd-paper-hsc-science-higher-math-2nd-paper-board-questions-year-wise-2023-mymensingh-ts-0",
     "subject": "higher-math-2nd-paper",
     "chapter": "Mymensingh Board 2023",
-    "text": "i² এর মান কত?",
+    "text": "$13P_2$ এর মান কত?",
     "options": [
-      "১",
-      "-i",
-      "-১",
-      "i"
+      "15",
+      "156",
+      "65",
+      "78"
     ],
     "image": null,
     "optionImages": null,
@@ -18,12 +18,12 @@
     "id": "higher-math-2nd-paper-hsc-science-higher-math-2nd-paper-board-questions-year-wise-2023-mymensingh-ts-1",
     "subject": "higher-math-2nd-paper",
     "chapter": "Mymensingh Board 2023",
-    "text": "জটিল সংখ্যা z = x + iy এর মডুলাস কত?",
+    "text": "$14C_2$ এর মান কত?",
     "options": [
-      "√(x² + y²)",
-      "x² + y²",
-      "√(x² - y²)",
-      "x + y"
+      "196",
+      "91",
+      "182",
+      "15"
     ],
     "image": null,
     "optionImages": null,
@@ -33,14 +33,14 @@
     "id": "higher-math-2nd-paper-hsc-science-higher-math-2nd-paper-board-questions-year-wise-2023-mymensingh-ts-2",
     "subject": "higher-math-2nd-paper",
     "chapter": "Mymensingh Board 2023",
-    "text": "দ্বিপদী সমীকরণ ax² + bx + c = 0 এর নিশ্চয়ক কত?",
+    "text": "$14P_2$ এর মান কত?",
     "options": [
-      "√b² - 4ac",
-      "b² - 4ac",
-      "b² + 4ac",
-      "4ac - b²"
+      "70",
+      "91",
+      "16",
+      "182"
     ],
-    "image": "/images/quiz/generated/higher-math-2nd-paper-hsc-science-higher-math-2nd-paper-board-questions-year-wise-2023-mymensingh-ts-2.svg",
+    "image": null,
     "optionImages": null,
     "timeLimit": 45
   },
@@ -48,12 +48,12 @@
     "id": "higher-math-2nd-paper-hsc-science-higher-math-2nd-paper-board-questions-year-wise-2023-mymensingh-ts-3",
     "subject": "higher-math-2nd-paper",
     "chapter": "Mymensingh Board 2023",
-    "text": "কনিকের উৎকেন্দ্রিকতা e = 1 হলে তা কী নির্দেশ করে?",
+    "text": "$15C_2$ এর মান কত?",
     "options": [
-      "বৃত্ত",
-      "উপবৃত্ত",
-      "পরাবৃত্ত",
-      "অধিবৃত্ত"
+      "225",
+      "16",
+      "105",
+      "210"
     ],
     "image": null,
     "optionImages": null,
@@ -63,12 +63,12 @@
     "id": "higher-math-2nd-paper-hsc-science-higher-math-2nd-paper-board-questions-year-wise-2023-mymensingh-ts-4",
     "subject": "higher-math-2nd-paper",
     "chapter": "Mymensingh Board 2023",
-    "text": "কনিকের উৎকেন্দ্রিকতা e < 1 হলে তা কী নির্দেশ করে?",
+    "text": "$15P_2$ এর মান কত?",
     "options": [
-      "পরাবৃত্ত",
-      "অধিবৃত্ত",
-      "বৃত্ত",
-      "উপবৃত্ত"
+      "17",
+      "210",
+      "105",
+      "75"
     ],
     "image": null,
     "optionImages": null,
@@ -78,12 +78,297 @@
     "id": "higher-math-2nd-paper-hsc-science-higher-math-2nd-paper-board-questions-year-wise-2023-mymensingh-ts-5",
     "subject": "higher-math-2nd-paper",
     "chapter": "Mymensingh Board 2023",
-    "text": "sin⁻¹ x + cos⁻¹ x এর মান কত?",
+    "text": "$16C_2$ এর মান কত?",
     "options": [
-      "কোনোটিই নয়",
-      "π",
-      "০",
-      "π/2"
+      "17",
+      "240",
+      "256",
+      "120"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "higher-math-2nd-paper-hsc-science-higher-math-2nd-paper-board-questions-year-wise-2023-mymensingh-ts-6",
+    "subject": "higher-math-2nd-paper",
+    "chapter": "Mymensingh Board 2023",
+    "text": "$16P_2$ এর মান কত?",
+    "options": [
+      "120",
+      "240",
+      "18",
+      "80"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "higher-math-2nd-paper-hsc-science-higher-math-2nd-paper-board-questions-year-wise-2023-mymensingh-ts-7",
+    "subject": "higher-math-2nd-paper",
+    "chapter": "Mymensingh Board 2023",
+    "text": "$17C_2$ এর মান কত?",
+    "options": [
+      "272",
+      "289",
+      "136",
+      "18"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "higher-math-2nd-paper-hsc-science-higher-math-2nd-paper-board-questions-year-wise-2023-mymensingh-ts-8",
+    "subject": "higher-math-2nd-paper",
+    "chapter": "Mymensingh Board 2023",
+    "text": "$\\frac{d}{dx}x^17$ কত?",
+    "options": [
+      "$17x^16$",
+      "$x^16$",
+      "$x^17$",
+      "$16x^17$"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "higher-math-2nd-paper-hsc-science-higher-math-2nd-paper-board-questions-year-wise-2023-mymensingh-ts-9",
+    "subject": "higher-math-2nd-paper",
+    "chapter": "Mymensingh Board 2023",
+    "text": "$\\frac{d}{dx}x^8$ কত?",
+    "options": [
+      "$x^8$",
+      "$7x^8$",
+      "$x^7$",
+      "$8x^7$"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "higher-math-2nd-paper-hsc-science-higher-math-2nd-paper-board-questions-year-wise-2023-mymensingh-ts-10",
+    "subject": "higher-math-2nd-paper",
+    "chapter": "Mymensingh Board 2023",
+    "text": "$\\frac{d}{dx}x^9$ কত?",
+    "options": [
+      "$x^9$",
+      "$x^8$",
+      "$8x^9$",
+      "$9x^8$"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "higher-math-2nd-paper-hsc-science-higher-math-2nd-paper-board-questions-year-wise-2023-mymensingh-ts-11",
+    "subject": "higher-math-2nd-paper",
+    "chapter": "Mymensingh Board 2023",
+    "text": "$\\int x^11dx$ কত?",
+    "options": [
+      "$\\frac{x^12}{12}+C$",
+      "$\\frac{x^11}{11}+C$",
+      "$11x^10+C$",
+      "$x^12+C$"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "higher-math-2nd-paper-hsc-science-higher-math-2nd-paper-board-questions-year-wise-2023-mymensingh-ts-12",
+    "subject": "higher-math-2nd-paper",
+    "chapter": "Mymensingh Board 2023",
+    "text": "$\\int x^12dx$ কত?",
+    "options": [
+      "$x^13+C$",
+      "$\\frac{x^12}{12}+C$",
+      "$\\frac{x^13}{13}+C$",
+      "$12x^11+C$"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "higher-math-2nd-paper-hsc-science-higher-math-2nd-paper-board-questions-year-wise-2023-mymensingh-ts-13",
+    "subject": "higher-math-2nd-paper",
+    "chapter": "Mymensingh Board 2023",
+    "text": "$\\int x^13dx$ কত?",
+    "options": [
+      "$13x^12+C$",
+      "$\\frac{x^14}{14}+C$",
+      "$\\frac{x^13}{13}+C$",
+      "$x^14+C$"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "higher-math-2nd-paper-hsc-science-higher-math-2nd-paper-board-questions-year-wise-2023-mymensingh-ts-14",
+    "subject": "higher-math-2nd-paper",
+    "chapter": "Mymensingh Board 2023",
+    "text": "$\\int x^14dx$ কত?",
+    "options": [
+      "$14x^13+C$",
+      "$\\frac{x^15}{15}+C$",
+      "$x^15+C$",
+      "$\\frac{x^14}{14}+C$"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "higher-math-2nd-paper-hsc-science-higher-math-2nd-paper-board-questions-year-wise-2023-mymensingh-ts-15",
+    "subject": "higher-math-2nd-paper",
+    "chapter": "Mymensingh Board 2023",
+    "text": "$\\int x^15dx$ কত?",
+    "options": [
+      "$\\frac{x^16}{16}+C$",
+      "$\\frac{x^15}{15}+C$",
+      "$15x^14+C$",
+      "$x^16+C$"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "higher-math-2nd-paper-hsc-science-higher-math-2nd-paper-board-questions-year-wise-2023-mymensingh-ts-16",
+    "subject": "higher-math-2nd-paper",
+    "chapter": "Mymensingh Board 2023",
+    "text": "$\\int x^16dx$ কত?",
+    "options": [
+      "$\\frac{x^16}{16}+C$",
+      "$\\frac{x^17}{17}+C$",
+      "$x^17+C$",
+      "$16x^15+C$"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "higher-math-2nd-paper-hsc-science-higher-math-2nd-paper-board-questions-year-wise-2023-mymensingh-ts-17",
+    "subject": "higher-math-2nd-paper",
+    "chapter": "Mymensingh Board 2023",
+    "text": "$\\int x^17dx$ কত?",
+    "options": [
+      "$17x^16+C$",
+      "$\\frac{x^18}{18}+C$",
+      "$x^18+C$",
+      "$\\frac{x^17}{17}+C$"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "higher-math-2nd-paper-hsc-science-higher-math-2nd-paper-board-questions-year-wise-2023-mymensingh-ts-18",
+    "subject": "higher-math-2nd-paper",
+    "chapter": "Mymensingh Board 2023",
+    "text": "$\\int x^18dx$ কত?",
+    "options": [
+      "$x^19+C$",
+      "$18x^17+C$",
+      "$\\frac{x^19}{19}+C$",
+      "$\\frac{x^18}{18}+C$"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "higher-math-2nd-paper-hsc-science-higher-math-2nd-paper-board-questions-year-wise-2023-mymensingh-ts-19",
+    "subject": "higher-math-2nd-paper",
+    "chapter": "Mymensingh Board 2023",
+    "text": "$x^2+y^2=100$ বৃত্তের ব্যাসার্ধ কত?",
+    "options": [
+      "20",
+      "11",
+      "100",
+      "10"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "higher-math-2nd-paper-hsc-science-higher-math-2nd-paper-board-questions-year-wise-2023-mymensingh-ts-20",
+    "subject": "higher-math-2nd-paper",
+    "chapter": "Mymensingh Board 2023",
+    "text": "$x^2+y^2=121$ বৃত্তের ব্যাসার্ধ কত?",
+    "options": [
+      "121",
+      "11",
+      "12",
+      "22"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "higher-math-2nd-paper-hsc-science-higher-math-2nd-paper-board-questions-year-wise-2023-mymensingh-ts-21",
+    "subject": "higher-math-2nd-paper",
+    "chapter": "Mymensingh Board 2023",
+    "text": "$x^2+y^2=144$ বৃত্তের ব্যাসার্ধ কত?",
+    "options": [
+      "24",
+      "12",
+      "13",
+      "144"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "higher-math-2nd-paper-hsc-science-higher-math-2nd-paper-board-questions-year-wise-2023-mymensingh-ts-22",
+    "subject": "higher-math-2nd-paper",
+    "chapter": "Mymensingh Board 2023",
+    "text": "$x^2+y^2=169$ বৃত্তের ব্যাসার্ধ কত?",
+    "options": [
+      "13",
+      "169",
+      "14",
+      "26"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "higher-math-2nd-paper-hsc-science-higher-math-2nd-paper-board-questions-year-wise-2023-mymensingh-ts-23",
+    "subject": "higher-math-2nd-paper",
+    "chapter": "Mymensingh Board 2023",
+    "text": "$x^2+y^2=196$ বৃত্তের ব্যাসার্ধ কত?",
+    "options": [
+      "14",
+      "28",
+      "15",
+      "196"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "higher-math-2nd-paper-hsc-science-higher-math-2nd-paper-board-questions-year-wise-2023-mymensingh-ts-24",
+    "subject": "higher-math-2nd-paper",
+    "chapter": "Mymensingh Board 2023",
+    "text": "$x^2+y^2=225$ বৃত্তের ব্যাসার্ধ কত?",
+    "options": [
+      "15",
+      "30",
+      "16",
+      "225"
     ],
     "image": null,
     "optionImages": null,

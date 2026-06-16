@@ -9,6 +9,9 @@ import type { ApiQuestion } from "@/types/quiz";
 
 const QUESTIONS_DIR = path.resolve(process.cwd(), "public/questions");
 
+// Simple in-memory cache mapping "level:subject:setId:paper" to ServerQuizLoadResult
+const questionsCache = new Map<string, ServerQuizLoadResult>();
+
 export type ServerQuizLoadResult = {
   questions: ApiQuestion[];
   path: string | null;
@@ -45,8 +48,26 @@ async function tryReadQuestionFile(
 
 /**
  * Load quiz questions from disk (server-side). Mirrors client fallback path strategy.
+ * Cached in memory to avoid repeated disk reads.
  */
 export async function loadQuizQuestionsFromDisk(
+  level: RegistryLevel,
+  subject: string,
+  setId: string,
+  paper?: string,
+): Promise<ServerQuizLoadResult> {
+  const cacheKey = `${level}:${subject}:${setId}:${paper ?? ""}`;
+  const cached = questionsCache.get(cacheKey);
+  if (cached) {
+    return cached;
+  }
+
+  const result = await _loadQuizQuestionsFromDiskRaw(level, subject, setId, paper);
+  questionsCache.set(cacheKey, result);
+  return result;
+}
+
+async function _loadQuizQuestionsFromDiskRaw(
   level: RegistryLevel,
   subject: string,
   setId: string,

@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-06-16T10:59:54.716Z",
+  "timestamp": "2026-06-16T12:48:48.888Z",
   "questionsDir": {
     "totalFiles": 0,
     "totalDirs": 0,
@@ -12,30 +12,22 @@
   },
   "subjects": {
     "biology": {
-      "questionFiles": 34,
-      "answerFiles": 34,
-      "boardFiles": 28,
+      "questionFiles": 42,
+      "answerFiles": 42,
+      "boardFiles": 36,
       "chapterSets": 0,
       "modelTests": 3,
       "orphanQuestions": [],
       "orphanAnswers": [],
       "missingBoards": [
         "barishal-2026",
-        "chattogram-2024",
         "chattogram-2026",
         "cumilla-2026",
-        "dhaka-2022",
-        "dhaka-2024",
         "dhaka-2026",
-        "dinajpur-2024",
         "dinajpur-2026",
-        "jashore-2024",
         "jashore-2026",
-        "mymensingh-2024",
         "mymensingh-2026",
-        "rajshahi-2024",
         "rajshahi-2026",
-        "sylhet-2024",
         "sylhet-2026"
       ],
       "sensitiveFieldsFound": [],
@@ -45,8 +37,8 @@
         "ssc-biology-high-common-sets-2-6-split-03.json"
       ],
       "integrityIssues": [],
-      "totalQuestions": 542,
-      "totalBoardQ": 482,
+      "totalQuestions": 960,
+      "totalBoardQ": 900,
       "totalSetQ": 60
     },
     "chemistry": {
@@ -77,8 +69,8 @@
         "chapter-09-split-01.json"
       ],
       "integrityIssues": [],
-      "totalQuestions": 2364,
-      "totalBoardQ": 789,
+      "totalQuestions": 2611,
+      "totalBoardQ": 1036,
       "totalSetQ": 1575
     },
     "physics": {
@@ -103,55 +95,45 @@
       "sensitiveFieldsFound": [],
       "legacySplitFiles": [],
       "integrityIssues": [],
-      "totalQuestions": 2749,
-      "totalBoardQ": 895,
+      "totalQuestions": 2763,
+      "totalBoardQ": 909,
       "totalSetQ": 1854
     },
     "general-math": {
-      "questionFiles": 64,
-      "answerFiles": 64,
-      "boardFiles": 38,
+      "questionFiles": 71,
+      "answerFiles": 71,
+      "boardFiles": 45,
       "chapterSets": 9,
       "modelTests": 15,
       "orphanQuestions": [],
       "orphanAnswers": [],
-      "missingBoards": [
-        "barishal-2023",
-        "cumilla-2024",
-        "dhaka-2024",
-        "dinajpur-2023",
-        "mymensingh-2024",
-        "rajshahi-2024",
-        "sylhet-2023"
-      ],
+      "missingBoards": [],
       "sensitiveFieldsFound": [],
       "legacySplitFiles": [
         "chapter-01-split-01.json",
         "chapter-01-split-02.json"
       ],
       "integrityIssues": [],
-      "totalQuestions": 1404,
-      "totalBoardQ": 774,
+      "totalQuestions": 1751,
+      "totalBoardQ": 1121,
       "totalSetQ": 630
     },
     "higher-math": {
-      "questionFiles": 120,
-      "answerFiles": 120,
-      "boardFiles": 44,
+      "questionFiles": 121,
+      "answerFiles": 121,
+      "boardFiles": 45,
       "chapterSets": 60,
       "modelTests": 15,
       "orphanQuestions": [],
       "orphanAnswers": [],
-      "missingBoards": [
-        "barishal-2025"
-      ],
+      "missingBoards": [],
       "sensitiveFieldsFound": [],
       "legacySplitFiles": [
         "chapter-09-split-01.json"
       ],
       "integrityIssues": [],
-      "totalQuestions": 2361,
-      "totalBoardQ": 804,
+      "totalQuestions": 2593,
+      "totalBoardQ": 1036,
       "totalSetQ": 1557
     },
     "biology-1st-paper": {
@@ -176,8 +158,8 @@
       "sensitiveFieldsFound": [],
       "legacySplitFiles": [],
       "integrityIssues": [],
-      "totalQuestions": 3642,
-      "totalBoardQ": 387,
+      "totalQuestions": 4155,
+      "totalBoardQ": 900,
       "totalSetQ": 3255
     },
     "biology-2nd-paper": {
@@ -202,8 +184,8 @@
       "sensitiveFieldsFound": [],
       "legacySplitFiles": [],
       "integrityIssues": [],
-      "totalQuestions": 1510,
-      "totalBoardQ": 235,
+      "totalQuestions": 2175,
+      "totalBoardQ": 900,
       "totalSetQ": 1275
     },
     "chemistry-1st-paper": {
@@ -230,8 +212,8 @@
         "chemistryset1-split-01.json"
       ],
       "integrityIssues": [],
-      "totalQuestions": 1916,
-      "totalBoardQ": 417,
+      "totalQuestions": 2399,
+      "totalBoardQ": 900,
       "totalSetQ": 1499
     },
     "chemistry-2nd-paper": {
@@ -261,8 +243,8 @@
         "chapter-05-split-04.json"
       ],
       "integrityIssues": [],
-      "totalQuestions": 719,
-      "totalBoardQ": 220,
+      "totalQuestions": 1399,
+      "totalBoardQ": 900,
       "totalSetQ": 499
     },
     "physics-1st-paper": {
@@ -314,61 +296,34 @@
         "physicsfirstpapersets14to17-split-03.json"
       ],
       "integrityIssues": [],
-      "totalQuestions": 4079,
-      "totalBoardQ": 777,
+      "totalQuestions": 4202,
+      "totalBoardQ": 900,
       "totalSetQ": 3302
     },
     "physics-2nd-paper": {
-      "questionFiles": 136,
-      "answerFiles": 136,
-      "boardFiles": 9,
+      "questionFiles": 163,
+      "answerFiles": 163,
+      "boardFiles": 36,
       "chapterSets": 100,
       "modelTests": 27,
       "orphanQuestions": [],
       "orphanAnswers": [],
       "missingBoards": [
-        "barishal-2022",
-        "barishal-2023",
-        "barishal-2025",
         "barishal-2026",
-        "chattogram-2022",
-        "chattogram-2023",
-        "chattogram-2025",
         "chattogram-2026",
-        "cumilla-2022",
-        "cumilla-2023",
-        "cumilla-2025",
         "cumilla-2026",
-        "dhaka-2022",
-        "dhaka-2023",
-        "dhaka-2025",
         "dhaka-2026",
-        "dinajpur-2022",
-        "dinajpur-2023",
-        "dinajpur-2025",
         "dinajpur-2026",
-        "jashore-2022",
-        "jashore-2023",
-        "jashore-2025",
         "jashore-2026",
-        "mymensingh-2022",
-        "mymensingh-2023",
-        "mymensingh-2025",
         "mymensingh-2026",
-        "rajshahi-2022",
-        "rajshahi-2023",
-        "rajshahi-2025",
         "rajshahi-2026",
-        "sylhet-2022",
-        "sylhet-2023",
-        "sylhet-2025",
         "sylhet-2026"
       ],
       "sensitiveFieldsFound": [],
       "legacySplitFiles": [],
       "integrityIssues": [],
-      "totalQuestions": 3084,
-      "totalBoardQ": 215,
+      "totalQuestions": 3826,
+      "totalBoardQ": 957,
       "totalSetQ": 2869
     },
     "higher-math-1st-paper": {
@@ -393,8 +348,8 @@
       "sensitiveFieldsFound": [],
       "legacySplitFiles": [],
       "integrityIssues": [],
-      "totalQuestions": 2102,
-      "totalBoardQ": 256,
+      "totalQuestions": 2746,
+      "totalBoardQ": 900,
       "totalSetQ": 1846
     },
     "higher-math-2nd-paper": {
@@ -419,21 +374,21 @@
       "sensitiveFieldsFound": [],
       "legacySplitFiles": [],
       "integrityIssues": [],
-      "totalQuestions": 710,
-      "totalBoardQ": 220,
+      "totalQuestions": 1390,
+      "totalBoardQ": 900,
       "totalSetQ": 490
     }
   },
   "summary": {
-    "totalQuestionFiles": 1367,
-    "totalAnswerFiles": 1367,
+    "totalQuestionFiles": 1410,
+    "totalAnswerFiles": 1410,
     "totalOrphanQuestions": 0,
     "totalOrphanAnswers": 0,
     "totalSensitiveFieldFiles": 0,
     "totalIntegrityIssues": 0,
-    "totalMissingBoards": 133,
+    "totalMissingBoards": 90,
     "totalLegacySplitFiles": 52,
-    "totalQuestions": 27182,
+    "totalQuestions": 32970,
     "status": "Success"
   }
 }

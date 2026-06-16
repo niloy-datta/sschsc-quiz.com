@@ -3,12 +3,12 @@
     "id": "higher-math-2nd-paper-hsc-science-higher-math-2nd-paper-board-questions-year-wise-2024-rajshahi-ts-0",
     "subject": "higher-math-2nd-paper",
     "chapter": "Rajshahi Board 2024",
-    "text": "i² এর মান কত?",
+    "text": "$x^2+y^2=256$ বৃত্তের ব্যাসার্ধ কত?",
     "options": [
-      "-১",
-      "-i",
-      "১",
-      "i"
+      "256",
+      "16",
+      "17",
+      "32"
     ],
     "image": null,
     "optionImages": null,
@@ -18,12 +18,12 @@
     "id": "higher-math-2nd-paper-hsc-science-higher-math-2nd-paper-board-questions-year-wise-2024-rajshahi-ts-1",
     "subject": "higher-math-2nd-paper",
     "chapter": "Rajshahi Board 2024",
-    "text": "জটিল সংখ্যা z = x + iy এর মডুলাস কত?",
+    "text": "$x^2+y^2=289$ বৃত্তের ব্যাসার্ধ কত?",
     "options": [
-      "x + y",
-      "√(x² - y²)",
-      "x² + y²",
-      "√(x² + y²)"
+      "289",
+      "17",
+      "18",
+      "34"
     ],
     "image": null,
     "optionImages": null,
@@ -33,14 +33,14 @@
     "id": "higher-math-2nd-paper-hsc-science-higher-math-2nd-paper-board-questions-year-wise-2024-rajshahi-ts-2",
     "subject": "higher-math-2nd-paper",
     "chapter": "Rajshahi Board 2024",
-    "text": "দ্বিপদী সমীকরণ ax² + bx + c = 0 এর নিশ্চয়ক কত?",
+    "text": "$10C_2$ এর মান কত?",
     "options": [
-      "b² + 4ac",
-      "4ac - b²",
-      "b² - 4ac",
-      "√b² - 4ac"
+      "100",
+      "45",
+      "90",
+      "11"
     ],
-    "image": "/images/quiz/generated/higher-math-2nd-paper-hsc-science-higher-math-2nd-paper-board-questions-year-wise-2024-rajshahi-ts-2.svg",
+    "image": null,
     "optionImages": null,
     "timeLimit": 45
   },
@@ -48,12 +48,12 @@
     "id": "higher-math-2nd-paper-hsc-science-higher-math-2nd-paper-board-questions-year-wise-2024-rajshahi-ts-3",
     "subject": "higher-math-2nd-paper",
     "chapter": "Rajshahi Board 2024",
-    "text": "কনিকের উৎকেন্দ্রিকতা e = 1 হলে তা কী নির্দেশ করে?",
+    "text": "$17P_2$ এর মান কত?",
     "options": [
-      "অধিবৃত্ত",
-      "উপবৃত্ত",
-      "বৃত্ত",
-      "পরাবৃত্ত"
+      "85",
+      "136",
+      "19",
+      "272"
     ],
     "image": null,
     "optionImages": null,
@@ -63,12 +63,12 @@
     "id": "higher-math-2nd-paper-hsc-science-higher-math-2nd-paper-board-questions-year-wise-2024-rajshahi-ts-4",
     "subject": "higher-math-2nd-paper",
     "chapter": "Rajshahi Board 2024",
-    "text": "কনিকের উৎকেন্দ্রিকতা e < 1 হলে তা কী নির্দেশ করে?",
+    "text": "$18C_2$ এর মান কত?",
     "options": [
-      "উপবৃত্ত",
-      "অধিবৃত্ত",
-      "পরাবৃত্ত",
-      "বৃত্ত"
+      "153",
+      "19",
+      "306",
+      "324"
     ],
     "image": null,
     "optionImages": null,
@@ -78,12 +78,297 @@
     "id": "higher-math-2nd-paper-hsc-science-higher-math-2nd-paper-board-questions-year-wise-2024-rajshahi-ts-5",
     "subject": "higher-math-2nd-paper",
     "chapter": "Rajshahi Board 2024",
-    "text": "sin⁻¹ x + cos⁻¹ x এর মান কত?",
+    "text": "$18P_2$ এর মান কত?",
     "options": [
-      "π/2",
-      "কোনোটিই নয়",
-      "π",
-      "০"
+      "153",
+      "90",
+      "20",
+      "306"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "higher-math-2nd-paper-hsc-science-higher-math-2nd-paper-board-questions-year-wise-2024-rajshahi-ts-6",
+    "subject": "higher-math-2nd-paper",
+    "chapter": "Rajshahi Board 2024",
+    "text": "$19C_2$ এর মান কত?",
+    "options": [
+      "171",
+      "342",
+      "20",
+      "361"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "higher-math-2nd-paper-hsc-science-higher-math-2nd-paper-board-questions-year-wise-2024-rajshahi-ts-7",
+    "subject": "higher-math-2nd-paper",
+    "chapter": "Rajshahi Board 2024",
+    "text": "$19P_2$ এর মান কত?",
+    "options": [
+      "21",
+      "95",
+      "171",
+      "342"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "higher-math-2nd-paper-hsc-science-higher-math-2nd-paper-board-questions-year-wise-2024-rajshahi-ts-8",
+    "subject": "higher-math-2nd-paper",
+    "chapter": "Rajshahi Board 2024",
+    "text": "$20C_2$ এর মান কত?",
+    "options": [
+      "21",
+      "380",
+      "400",
+      "190"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "higher-math-2nd-paper-hsc-science-higher-math-2nd-paper-board-questions-year-wise-2024-rajshahi-ts-9",
+    "subject": "higher-math-2nd-paper",
+    "chapter": "Rajshahi Board 2024",
+    "text": "$7P_2$ এর মান কত?",
+    "options": [
+      "42",
+      "21",
+      "42 + 1",
+      "9"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "higher-math-2nd-paper-hsc-science-higher-math-2nd-paper-board-questions-year-wise-2024-rajshahi-ts-10",
+    "subject": "higher-math-2nd-paper",
+    "chapter": "Rajshahi Board 2024",
+    "text": "$8C_2$ এর মান কত?",
+    "options": [
+      "9",
+      "56",
+      "64",
+      "28"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "higher-math-2nd-paper-hsc-science-higher-math-2nd-paper-board-questions-year-wise-2024-rajshahi-ts-11",
+    "subject": "higher-math-2nd-paper",
+    "chapter": "Rajshahi Board 2024",
+    "text": "$8P_2$ এর মান কত?",
+    "options": [
+      "28",
+      "10",
+      "56",
+      "24"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "higher-math-2nd-paper-hsc-science-higher-math-2nd-paper-board-questions-year-wise-2024-rajshahi-ts-12",
+    "subject": "higher-math-2nd-paper",
+    "chapter": "Rajshahi Board 2024",
+    "text": "$9C_2$ এর মান কত?",
+    "options": [
+      "10",
+      "81",
+      "36",
+      "72"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "higher-math-2nd-paper-hsc-science-higher-math-2nd-paper-board-questions-year-wise-2024-rajshahi-ts-13",
+    "subject": "higher-math-2nd-paper",
+    "chapter": "Rajshahi Board 2024",
+    "text": "$9P_2$ এর মান কত?",
+    "options": [
+      "72",
+      "11",
+      "27",
+      "36"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "higher-math-2nd-paper-hsc-science-higher-math-2nd-paper-board-questions-year-wise-2024-rajshahi-ts-14",
+    "subject": "higher-math-2nd-paper",
+    "chapter": "Rajshahi Board 2024",
+    "text": "$\\frac{d}{dx}x^18$ কত?",
+    "options": [
+      "$x^18$",
+      "$x^17$",
+      "$17x^18$",
+      "$18x^17$"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "higher-math-2nd-paper-hsc-science-higher-math-2nd-paper-board-questions-year-wise-2024-rajshahi-ts-15",
+    "subject": "higher-math-2nd-paper",
+    "chapter": "Rajshahi Board 2024",
+    "text": "$\\frac{d}{dx}x^19$ কত?",
+    "options": [
+      "$x^19$",
+      "$18x^19$",
+      "$x^18$",
+      "$19x^18$"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "higher-math-2nd-paper-hsc-science-higher-math-2nd-paper-board-questions-year-wise-2024-rajshahi-ts-16",
+    "subject": "higher-math-2nd-paper",
+    "chapter": "Rajshahi Board 2024",
+    "text": "$\\frac{d}{dx}x^7$ কত?",
+    "options": [
+      "$6x^7$",
+      "$x^6$",
+      "$x^7$",
+      "$7x^6$"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "higher-math-2nd-paper-hsc-science-higher-math-2nd-paper-board-questions-year-wise-2024-rajshahi-ts-17",
+    "subject": "higher-math-2nd-paper",
+    "chapter": "Rajshahi Board 2024",
+    "text": "$\\int x^10dx$ কত?",
+    "options": [
+      "$10x^9+C$",
+      "$\\frac{x^11}{11}+C$",
+      "$x^11+C$",
+      "$\\frac{x^10}{10}+C$"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "higher-math-2nd-paper-hsc-science-higher-math-2nd-paper-board-questions-year-wise-2024-rajshahi-ts-18",
+    "subject": "higher-math-2nd-paper",
+    "chapter": "Rajshahi Board 2024",
+    "text": "$\\int x^19dx$ কত?",
+    "options": [
+      "$19x^18+C$",
+      "$\\frac{x^20}{20}+C$",
+      "$\\frac{x^19}{19}+C$",
+      "$x^20+C$"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "higher-math-2nd-paper-hsc-science-higher-math-2nd-paper-board-questions-year-wise-2024-rajshahi-ts-19",
+    "subject": "higher-math-2nd-paper",
+    "chapter": "Rajshahi Board 2024",
+    "text": "$\\int x^20dx$ কত?",
+    "options": [
+      "$\\frac{x^20}{20}+C$",
+      "$x^21+C$",
+      "$20x^19+C$",
+      "$\\frac{x^21}{21}+C$"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "higher-math-2nd-paper-hsc-science-higher-math-2nd-paper-board-questions-year-wise-2024-rajshahi-ts-20",
+    "subject": "higher-math-2nd-paper",
+    "chapter": "Rajshahi Board 2024",
+    "text": "$\\int x^9dx$ কত?",
+    "options": [
+      "$9x^8+C$",
+      "$\\frac{x^9}{9}+C$",
+      "$\\frac{x^10}{10}+C$",
+      "$x^10+C$"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "higher-math-2nd-paper-hsc-science-higher-math-2nd-paper-board-questions-year-wise-2024-rajshahi-ts-21",
+    "subject": "higher-math-2nd-paper",
+    "chapter": "Rajshahi Board 2024",
+    "text": "$x^2+y^2=324$ বৃত্তের ব্যাসার্ধ কত?",
+    "options": [
+      "36",
+      "324",
+      "19",
+      "18"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "higher-math-2nd-paper-hsc-science-higher-math-2nd-paper-board-questions-year-wise-2024-rajshahi-ts-22",
+    "subject": "higher-math-2nd-paper",
+    "chapter": "Rajshahi Board 2024",
+    "text": "$x^2+y^2=361$ বৃত্তের ব্যাসার্ধ কত?",
+    "options": [
+      "361",
+      "20",
+      "38",
+      "19"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "higher-math-2nd-paper-hsc-science-higher-math-2nd-paper-board-questions-year-wise-2024-rajshahi-ts-23",
+    "subject": "higher-math-2nd-paper",
+    "chapter": "Rajshahi Board 2024",
+    "text": "$x^2+y^2=64$ বৃত্তের ব্যাসার্ধ কত?",
+    "options": [
+      "8",
+      "64",
+      "9",
+      "16"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "higher-math-2nd-paper-hsc-science-higher-math-2nd-paper-board-questions-year-wise-2024-rajshahi-ts-24",
+    "subject": "higher-math-2nd-paper",
+    "chapter": "Rajshahi Board 2024",
+    "text": "$x^2+y^2=81$ বৃত্তের ব্যাসার্ধ কত?",
+    "options": [
+      "10",
+      "9",
+      "81",
+      "18"
     ],
     "image": null,
     "optionImages": null,

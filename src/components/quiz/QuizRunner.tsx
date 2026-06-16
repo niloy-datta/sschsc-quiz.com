@@ -26,7 +26,11 @@ import {
   Loader2,
   Share2,
   X,
+  Bookmark,
 } from "lucide-react";
+import { useSavedQuestions } from "@/hooks/useSavedQuestions";
+import { backfillSavedQuestionsAnswers } from "@/lib/saved-questions";
+import { saveWrongQuestion } from "@/lib/wrong-answers";
 
 const OPTIONS = ["A", "B", "C", "D"] as const;
 const BANGLA_OPTS = ["ক", "খ", "গ", "ঘ"] as const;
@@ -161,6 +165,51 @@ function QuizRunnerRaw({
   const [storeReady, setStoreReady] = useState(false);
   const [showConfetti, setShowConfetti] = useState(false);
   const [showShareCard, setShowShareCard] = useState(false);
+  const { isSaved, toggle } = useSavedQuestions();
+
+  // Backfill correct answers/explanations for saved questions when quiz is submitted
+  useEffect(() => {
+    if (quizSubmitted && results) {
+      backfillSavedQuestionsAnswers(
+        results.correctAnswerIndexes ?? {},
+        results.explanations ?? {}
+      );
+    }
+  }, [quizSubmitted, results]);
+
+  // Save incorrect questions to localStorage wrong-questions store on submit
+  useEffect(() => {
+    if (quizSubmitted && results && results.correctAnswerIndexes) {
+      questions.forEach((q) => {
+        const correctIdx = results.correctAnswerIndexes?.[q.id];
+        if (correctIdx === undefined || correctIdx < 0) return;
+
+        const selectedAns = selectedAnswers[q.id];
+        const selectedIdx = selectedAns ? q.options.indexOf(selectedAns) : -1;
+
+        if (selectedIdx !== correctIdx) {
+          const studentOption = selectedIdx >= 0 ? ["A", "B", "C", "D"][selectedIdx] : null;
+          const correctOption = ["A", "B", "C", "D"][correctIdx];
+
+          saveWrongQuestion({
+            id: String(q.id ?? ""),
+            questionText: String(q.text ?? ""),
+            options: q.options,
+            image: q.image ?? null,
+            optionImages: q.optionImages ?? null,
+            subject: quizSubmitMeta?.subject,
+            chapter: quizSubmitMeta?.chapter ?? quizSubmitMeta?.chapterName ?? undefined,
+            sourceQuizId: quizSubmitMeta?.quizId,
+            level: quizSubmitMeta?.level,
+            studentOption,
+            correctOption,
+            explanation: results.explanations?.[q.id] || undefined,
+          });
+        }
+      });
+    }
+  }, [quizSubmitted, results, questions, selectedAnswers, quizSubmitMeta]);
+
   const [flashOption, setFlashOption] = useState<string | null>(null);
   const timerRef = useRef<NodeJS.Timeout | null>(null);
   const scrollSpyRef = useRef<IntersectionObserver | null>(null);
@@ -941,6 +990,40 @@ function QuizRunnerRaw({
                 </span>
                 <span>/ {totalQuestions}</span>
               </span>
+              <div className="flex items-center gap-2">
+              <button
+                type="button"
+                onClick={() => {
+                  const correctIdx = results?.correctAnswerIndexes?.[q.id];
+                  const correctOption =
+                    correctIdx !== undefined && correctIdx >= 0
+                      ? ["A", "B", "C", "D"][correctIdx]
+                      : undefined;
+                  const explanation = results?.explanations?.[q.id] || undefined;
+                  toggle({
+                    id: String(q.id ?? ""),
+                    questionText: String(q.text ?? ""),
+                    options: q.options,
+                    image: q.image ?? null,
+                    optionImages: q.optionImages ?? null,
+                    subject: quizSubmitMeta?.subject,
+                    chapter: quizSubmitMeta?.chapter ?? quizSubmitMeta?.chapterName ?? undefined,
+                    sourceQuizId: quizSubmitMeta?.quizId,
+                    level: quizSubmitMeta?.level,
+                    correctOption,
+                    explanation,
+                  });
+                }}
+                className={cn(
+                  "px-3 py-2 rounded-full text-xs font-bold border tracking-wider transition-all min-h-[44px] flex items-center gap-1.5 group",
+                  isSaved(String(q.id ?? ""))
+                    ? "border-cyan-500 bg-cyan-500/10 text-cyan-300 shadow-[0_0_10px_rgba(6,182,212,0.15)]"
+                    : "border-white/5 bg-white/5 text-slate-400 hover:border-cyan-500/30 hover:text-cyan-300/70"
+                )}
+              >
+                <Bookmark className={cn("h-3.5 w-3.5", isSaved(String(q.id ?? "")) ? "fill-cyan-400 text-cyan-400" : "fill-none")} />
+                {isSaved(String(q.id ?? "")) ? "সেভ করা আছে" : "সেভ করুন"}
+              </button>
               <button
                 type="button"
                 onClick={() => markQuestion(q.id)}
@@ -967,6 +1050,7 @@ function QuizRunnerRaw({
                 </svg>
                 {markedQuestions[q.id] ? "রিভিউ চিহ্নিত" : "রিভিউ মার্ক"}
               </button>
+              </div>
             </div>
 
             <QuizQuestionStem
@@ -1091,6 +1175,7 @@ export function QuizRunner(props: Props) {
     </QuizErrorBoundary>
   );
 }
+
 
 
 

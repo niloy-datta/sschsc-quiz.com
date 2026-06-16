@@ -3,14 +3,14 @@
     "id": "physics-ssc-science-physics-board-questions-year-wise-2022-rajshahi-ts-0",
     "subject": "physics",
     "chapter": "Rajshahi Board 2022",
-    "text": "একটি অবতল দর্পণের ফোকাস দূরত্ব 22 সেমি। এর বক্রতার ব্যাসার্ধ কত?",
+    "text": "উচ্চ ধাপী ট্রান্সফরমারের ক্ষেত্রে— i. $V_s > V_p$ ii. $n_p > n_s$ iii. $I_p > I_s$ নিচের কোনটি সঠিক?",
     "options": [
-      "11.0 সেমি",
-      "44 সেমি",
-      "22 সেমি",
-      "88 সেমি"
+      "i",
+      "ii",
+      "i ও iii",
+      "ii ও iii"
     ],
-    "image": "/images/quiz/ssc-concave-mirror.svg",
+    "image": "/images/quiz/ssc-transformer.svg",
     "optionImages": null,
     "timeLimit": 45
   },
@@ -18,12 +18,12 @@
     "id": "physics-ssc-science-physics-board-questions-year-wise-2022-rajshahi-ts-1",
     "subject": "physics",
     "chapter": "Rajshahi Board 2022",
-    "text": "একটি গাড়ির আদিবেগ 7 m/s এবং ত্বরণ 3 m/s²। 4 সেকেন্ড পর গাড়িটির শেষ বেগ কত?",
+    "text": "ক্ষমতার মাত্রা কোনটি?",
     "options": [
-      "{u + a*t} m/s",
-      "28 m/s",
-      "{u - a*t} m/s",
-      "{u + 2*a*t} m/s"
+      "$\\text{ML}^2\\text{T}^{-2}$",
+      "$\\text{MLT}^{-1}$",
+      "$\\text{ML}^{-1}\\text{T}^{-2}$",
+      "$\\text{ML}^2\\text{T}^{-3}$"
     ],
     "image": null,
     "optionImages": null,
@@ -33,12 +33,12 @@
     "id": "physics-ssc-science-physics-board-questions-year-wise-2022-rajshahi-ts-2",
     "subject": "physics",
     "chapter": "Rajshahi Board 2022",
-    "text": "একটি 2 kg ভরের বস্তুর ওপর 3 m/s² ত্বরণ সৃষ্টি করতে কত বল প্রয়োগ করতে হবে?",
+    "text": "উদ্দীপক: চিত্রে ধনাত্মক আধানে আহিত AB পরিবাহীর নিকট একটি অনাহিত পরিবাহী EF রাখা হলো। AB ও EF বস্তু দ্বয়কে নিকটে রাখা অবস্থায়— নিচের কোনটি সঠিক?",
     "options": [
-      "6 N",
-      "m/a N",
-      "{(m+a)} N",
-      "a/m N"
+      "AB কে সরিয়ে নিলে EF আহিত থাকবে",
+      "F প্রান্ত ঋণাত্মক আধানে আহিত হবে",
+      "EF কে সরিয়ে নিলে AB আহিত থাকবে না",
+      "F প্রান্ত ভূ-সংযোগ করলে F প্রান্তের নীট আধান শূন্য হবে"
     ],
     "image": null,
     "optionImages": null,
@@ -48,12 +48,12 @@
     "id": "physics-ssc-science-physics-board-questions-year-wise-2022-rajshahi-ts-3",
     "subject": "physics",
     "chapter": "Rajshahi Board 2022",
-    "text": "একটি 19 m/s বেগে চলমান 4 kg ভরের বস্তুর গতিশক্তি কত?",
+    "text": "আপতন কোণ ও সংকট কোণের মান সমান হলে প্রতিসৃত রশ্মি ও বিভেদ তলের মধ্যবর্তী কোণ কত?",
     "options": [
-      "76 J",
-      "722 J",
-      "m*v*v J",
-      "0.5*m*v J"
+      "90°",
+      "60°",
+      "45°",
+      "0°"
     ],
     "image": null,
     "optionImages": null,
@@ -63,12 +63,12 @@
     "id": "physics-ssc-science-physics-board-questions-year-wise-2022-rajshahi-ts-4",
     "subject": "physics",
     "chapter": "Rajshahi Board 2022",
-    "text": "একটি পরিবাহীর রোধ 6 Ω এবং দুই প্রান্তের বিভব পার্থক্য 12 V হলে এর তড়িৎ প্রবাহ কত?",
+    "text": "(চিত্রভিত্তিক) প্রতিবিম্বের দূরত্ব কত হবে?",
     "options": [
-      "0.50 A",
-      "72 A",
-      "{(v+r)} A",
-      "2.0 A"
+      "-60 cm",
+      "-30 cm",
+      "12 cm",
+      "60 cm"
     ],
     "image": null,
     "optionImages": null,
@@ -78,12 +78,12 @@
     "id": "physics-ssc-science-physics-board-questions-year-wise-2022-rajshahi-ts-5",
     "subject": "physics",
     "chapter": "Rajshahi Board 2022",
-    "text": "পদার্থের জড়তার পরিমাপক কোনটি?",
+    "text": "একটি গোলকের ব্যাসার্ধ R = 5.3 ± 0.1 একক হলে, আয়তনের শতকরা ত্রুটি কত?",
     "options": [
-      "বেগ",
-      "ভর",
-      "বল",
-      "ত্বরণ"
+      "5.36%",
+      "5.46%",
+      "5.55%",
+      "5.67%"
     ],
     "image": null,
     "optionImages": null,
@@ -93,14 +93,14 @@
     "id": "physics-ssc-science-physics-board-questions-year-wise-2022-rajshahi-ts-6",
     "subject": "physics",
     "chapter": "Rajshahi Board 2022",
-    "text": "নিচের কোনটি ভেক্টর রাশি?",
+    "text": "কোনো তেজস্ক্রিয় মৌলে 1,00,000টি তেজস্ক্রিয় পরমাণু আছে। মৌলটির অর্ধায়ু 1 বছর হলে, 2 বছর পরে কতটি পরমাণু অবশিষ্ট থাকবে?",
     "options": [
-      "তাপমাত্রা",
-      "কাজ",
-      "ভর",
-      "সরণ"
+      "0 টি",
+      "25,000 টি",
+      "50,000 টি",
+      "1,00,000 টি"
     ],
-    "image": "/images/quiz/premium/physics-ssc-science-physics-board-questions-year-wise-2022-rajshahi-ts-6.svg",
+    "image": null,
     "optionImages": null,
     "timeLimit": 45
   },
@@ -108,12 +108,12 @@
     "id": "physics-ssc-science-physics-board-questions-year-wise-2022-rajshahi-ts-7",
     "subject": "physics",
     "chapter": "Rajshahi Board 2022",
-    "text": "কাজের একক কোনটি?",
+    "text": "যান্ত্রিক ত্রুটি— i. ধনাত্মক বা ঋণাত্মক হতে পারে ii. শতকরা আকারেও প্রকাশ করা যায় iii. ভার্নিয়ার ধ্রুবক এর সাথে গুণ করে পরিমাণ করা হয়",
     "options": [
-      "ওয়াট",
-      "নিউটন",
-      "প্যাসকেল",
-      "জুল"
+      "i ও ii",
+      "i ও iii",
+      "ii ও iii",
+      "i, ii ও iii"
     ],
     "image": null,
     "optionImages": null,
@@ -123,12 +123,12 @@
     "id": "physics-ssc-science-physics-board-questions-year-wise-2022-rajshahi-ts-8",
     "subject": "physics",
     "chapter": "Rajshahi Board 2022",
-    "text": "স্প্রিং এ কোন ধরনের শক্তি সঞ্চিত থাকে?",
+    "text": "বিকৃতি— i. হচ্ছে অবস্থার পরিবর্তন ii. এর কোনো একক নেই iii. পীড়নের ব্যস্তানুপাতিক",
     "options": [
-      "তাপ শক্তি",
-      "শব্দ শক্তি",
-      "বিভব শক্তি",
-      "গতি শক্তি"
+      "i ও ii",
+      "ii ও iii",
+      "i ও iii",
+      "i, ii ও iii"
     ],
     "image": null,
     "optionImages": null,
@@ -138,12 +138,12 @@
     "id": "physics-ssc-science-physics-board-questions-year-wise-2022-rajshahi-ts-9",
     "subject": "physics",
     "chapter": "Rajshahi Board 2022",
-    "text": "ঘনত্বের সমীকরণ কোনটি?",
+    "text": "সমতল আয়নায় সৃষ্ট বিম্ব অসদ ও — i. সোজা ii. খর্বিত iii. বিবর্ধিত নিচের কোনটি সঠিক?",
     "options": [
-      "ρ = m*V",
-      "ρ = m/V",
-      "ρ = m*g",
-      "ρ = V/m"
+      "i",
+      "ii",
+      "iii",
+      "i ও iii"
     ],
     "image": null,
     "optionImages": null,
@@ -153,14 +153,14 @@
     "id": "physics-ssc-science-physics-board-questions-year-wise-2022-rajshahi-ts-10",
     "subject": "physics",
     "chapter": "Rajshahi Board 2022",
-    "text": "কোন তাপমাত্রায় পানির ঘনত্ব সবচেয়ে বেশি?",
+    "text": "একটি স্টেপআপ ট্রান্সফরমারের ক্ষেত্রে— i. $n_p < n_s$ ii. $V_p > V_s$ iii. $I_p > I_s$",
     "options": [
-      "-4°C",
-      "4°C",
-      "100°C",
-      "0°C"
+      "i ও ii",
+      "i ও iii",
+      "ii ও iii",
+      "i, ii ও iii"
     ],
-    "image": null,
+    "image": "/images/quiz/ssc-transformer.svg",
     "optionImages": null,
     "timeLimit": 45
   },
@@ -168,12 +168,12 @@
     "id": "physics-ssc-science-physics-board-questions-year-wise-2022-rajshahi-ts-11",
     "subject": "physics",
     "chapter": "Rajshahi Board 2022",
-    "text": "শব্দ তরঙ্গের প্রকৃতি কীরূপ?",
+    "text": "P ও Q বস্তু দুটিকে পানিতে ছেড়ে দিলে— (উদ্দীপকভিত্তিক)",
     "options": [
-      "অনুদৈর্ঘ্য",
-      "বেতার",
-      "তড়িৎচৌম্বক",
-      "অনুপ্ৰস্থ"
+      "P ও Q উভয় বস্তু ডুবে যাবে",
+      "P ও Q উভয় বস্তু ভাসবে",
+      "P ভাসবে কিন্তু Q ডুবে যাবে",
+      "P ডুবে যাবে কিন্তু Q ভাসবে"
     ],
     "image": null,
     "optionImages": null,
@@ -183,14 +183,14 @@
     "id": "physics-ssc-science-physics-board-questions-year-wise-2022-rajshahi-ts-12",
     "subject": "physics",
     "chapter": "Rajshahi Board 2022",
-    "text": "লেন্সের ক্ষমতার একক কোনটি?",
+    "text": "উদ্দীপক: একটি দূরত্ব-সময় লেখচিত্র দেওয়া আছে। লেখচিত্রে Y-অক্ষে দূরত্ব $s$ (মিটার) এবং X-অক্ষে সময় $t$ (সেকেন্ড)। রেখাটি $O(0,0)$ থেকে $A(10,10)$, $B(20,10)$ এবং $C(30,20)$ বিন্দু দিয়ে গেছে। OA অংশের দ্রুতি কত?",
     "options": [
-      "মিটার",
-      "ওয়াট",
-      "জুল",
-      "ডায়োপ্টার"
+      "$0.5\\text{ m/s}$",
+      "$1\\text{ m/s}$",
+      "$2\\text{ m/s}$",
+      "$6\\text{ m/s}$"
     ],
-    "image": "/images/quiz/premium/physics-ssc-science-physics-board-questions-year-wise-2022-rajshahi-ts-12.svg",
+    "image": "/images/quiz/ssc-st-graph.svg",
     "optionImages": null,
     "timeLimit": 45
   },
@@ -198,12 +198,12 @@
     "id": "physics-ssc-science-physics-board-questions-year-wise-2022-rajshahi-ts-13",
     "subject": "physics",
     "chapter": "Rajshahi Board 2022",
-    "text": "তড়িৎ প্রবাহের একক কোনটি?",
+    "text": "কাগজ ভেদ করতে পারে— i. আলফা রশ্মি ii. বিটা রশ্মি iii. গামা রশ্মি নিচের কোনটি সঠিক?",
     "options": [
-      "ওয়াট",
-      "ওহম",
-      "ভোল্ট",
-      "অ্যাম্পিয়ার"
+      "i ও ii",
+      "ii ও iii",
+      "i ও iii",
+      "i, ii ও iii"
     ],
     "image": null,
     "optionImages": null,
@@ -213,12 +213,12 @@
     "id": "physics-ssc-science-physics-board-questions-year-wise-2022-rajshahi-ts-14",
     "subject": "physics",
     "chapter": "Rajshahi Board 2022",
-    "text": "নিচের কোনটি পরিবাহী পদার্থ?",
+    "text": "এনজিওগ্রাম করা হয়— i. হৃদপিণ্ডের আকার বড় হয়ে থাকলে ii. ধমনী প্রসারিত হলে iii. শিরার কোনো সমস্যা হলে নিচের কোনটি সঠিক?",
     "options": [
-      "রবার",
-      "তামা",
-      "প্লাস্টিক",
-      "কাচ"
+      "i ও ii",
+      "i ও iii",
+      "ii ও iii",
+      "i, ii ও iii"
     ],
     "image": null,
     "optionImages": null,
@@ -228,12 +228,12 @@
     "id": "physics-ssc-science-physics-board-questions-year-wise-2022-rajshahi-ts-15",
     "subject": "physics",
     "chapter": "Rajshahi Board 2022",
-    "text": "তড়িৎ আধানের একক কী?",
+    "text": "প্রথম 6 সেকেন্ডে গাড়িটির অতিক্রান্ত দূরত্ব কত? (চিত্রভিত্তিক)",
     "options": [
-      "কুলম্ব",
-      "ওহম",
-      "অ্যাম্পিয়ার",
-      "ভোল্ট"
+      "25m",
+      "30m",
+      "35m",
+      "60m"
     ],
     "image": null,
     "optionImages": null,
@@ -243,12 +243,12 @@
     "id": "physics-ssc-science-physics-board-questions-year-wise-2022-rajshahi-ts-16",
     "subject": "physics",
     "chapter": "Rajshahi Board 2022",
-    "text": "নিচের কোনটি তেজস্ক্রিয় পদার্থ?",
+    "text": "কোনো তেজস্ক্রিয় মৌলের অর্ধায়ু 100 বছর হলে মৌলটির 1/8 অংশ অক্ষত থাকতে কত সময় লাগবে?",
     "options": [
-      "তামা",
-      "লোহা",
-      "ইউরেনিয়াম",
-      "অক্সিজেন"
+      "50 বছর",
+      "200 বছর",
+      "300 বছর",
+      "400 বছর"
     ],
     "image": null,
     "optionImages": null,
@@ -258,12 +258,12 @@
     "id": "physics-ssc-science-physics-board-questions-year-wise-2022-rajshahi-ts-17",
     "subject": "physics",
     "chapter": "Rajshahi Board 2022",
-    "text": "শব্দের বেগ শুষ্ক বায়ুতে 0°C তাপমাত্রায় কত?",
+    "text": "কোনো পরিবাহীর দুই প্রান্তের বিভব পার্থক্য $120\\text{ V}$ এবং তড়িত প্রবাহ $10\\text{ A}$ হলে এর রোধ কত?",
     "options": [
-      "1500 m/s",
-      "343 m/s",
-      "300 m/s",
-      "332 m/s"
+      "$1200\\,\\Omega$",
+      "$12\\,\\Omega$",
+      "$0.12\\,\\Omega$",
+      "$0.1\\,\\Omega$"
     ],
     "image": null,
     "optionImages": null,
@@ -273,12 +273,12 @@
     "id": "physics-ssc-science-physics-board-questions-year-wise-2022-rajshahi-ts-18",
     "subject": "physics",
     "chapter": "Rajshahi Board 2022",
-    "text": "নিচের কোন বলটি সবচেয়ে দুর্বল?",
+    "text": "একটি ট্রান্সফর্মারের প্রাইমারি কয়েলের পাঁচ সংখ্যা $100$। সেকেন্ডারি কয়েলের পাঁচ সংখ্যা $1000$। প্রাইমারি কয়েলে $12\\text{ V}$ DC দেওয়া হলে, সেকেন্ডারি কয়েলে ভোল্টেজ কত?",
     "options": [
-      "মহাকর্ষ বল",
-      "সবল নিউক্লীয় বল",
-      "তাড়িৎচৌম্বক বল",
-      "দুর্বল নিউক্লীয় বল"
+      "$0\\text{ V}$",
+      "$10\\text{ V}$",
+      "$100\\text{ V}$",
+      "$120\\text{ V}$"
     ],
     "image": null,
     "optionImages": null,
@@ -288,14 +288,14 @@
     "id": "physics-ssc-science-physics-board-questions-year-wise-2022-rajshahi-ts-19",
     "subject": "physics",
     "chapter": "Rajshahi Board 2022",
-    "text": "একটি অবতল দর্পণের ফোকাস দূরত্ব 5 সেমি। এর বক্রতার ব্যাসার্ধ কত?",
+    "text": "একটি স্ক্রুগজের স্ক্রুর পিচ $0.5\\text{ mm}$ এবং বৃত্তাকার স্কেলের ভাগ সংখ্যা $100$ হলে স্ক্রুগজের least count কত?",
     "options": [
-      "20 সেমি",
-      "10 সেমি",
-      "5 সেমি",
-      "2.5 সেমি"
+      "$0.001\\text{ mm}$",
+      "$0.005\\text{ mm}$",
+      "$0.01\\text{ mm}$",
+      "$0.05\\text{ mm}$"
     ],
-    "image": "/images/quiz/ssc-concave-mirror.svg",
+    "image": null,
     "optionImages": null,
     "timeLimit": 45
   },
@@ -303,12 +303,12 @@
     "id": "physics-ssc-science-physics-board-questions-year-wise-2022-rajshahi-ts-20",
     "subject": "physics",
     "chapter": "Rajshahi Board 2022",
-    "text": "একটি গাড়ির আদিবেগ 8 m/s এবং ত্বরণ 5 m/s²। 7 সেকেন্ড পর গাড়িটির শেষ বেগ কত?",
+    "text": "$2\\text{ mm}$ পিচ বিশিষ্ট স্ক্রু-গজের least count $0.002\\text{ cm}$ হলে, বৃত্তাকার স্কেলের ভাগ সংখ্যা কত?",
     "options": [
-      "56 m/s",
-      "{u + 2*a*t} m/s",
-      "{u + a*t} m/s",
-      "{u - a*t} m/s"
+      "$10^3$",
+      "$10^2$",
+      "$10^{-2}$",
+      "$10^{-3}$"
     ],
     "image": null,
     "optionImages": null,
@@ -318,14 +318,14 @@
     "id": "physics-ssc-science-physics-board-questions-year-wise-2022-rajshahi-ts-21",
     "subject": "physics",
     "chapter": "Rajshahi Board 2022",
-    "text": "একটি 3 kg ভরের বস্তুর ওপর 2 m/s² ত্বরণ সৃষ্টি করতে কত বল প্রয়োগ করতে হবে?",
+    "text": "উদ্দীপক: $2\\text{ kg}$ ভরের একটি বস্তুর উপর প্রযুক্ত বল বনাম সময়ের লেখচিত্র দেওয়া আছে। লেখচিত্রের ঢালের একক নিচের কোনটি?",
     "options": [
-      "{(m+a)} N",
-      "a/m N",
-      "6 N",
-      "m/a N"
+      "$\\text{kg}\\,\\text{m/s}$",
+      "$\\text{kg}\\,\\text{m/s}^2$",
+      "$\\text{kg}\\,\\text{m}^2/\\text{s}^2$",
+      "$\\text{kg}\\,\\text{m/s}^3$"
     ],
-    "image": null,
+    "image": "/images/quiz/ssc-force-time-graph.svg",
     "optionImages": null,
     "timeLimit": 45
   },
@@ -333,12 +333,12 @@
     "id": "physics-ssc-science-physics-board-questions-year-wise-2022-rajshahi-ts-22",
     "subject": "physics",
     "chapter": "Rajshahi Board 2022",
-    "text": "একটি 13 m/s বেগে চলমান 1 kg ভরের বস্তুর গতিশক্তি কত?",
+    "text": "উপরের চিত্রানুসারে, লক্ষ্যবস্তু প্রধান অক্ষের উপর কোন অবস্থানে রাখলে বিবর্ধন $m$ এর মান $1$ এর চেয়ে ছোট হবে না?",
     "options": [
-      "0.5*m*v J",
-      "m*v*v J",
-      "13 J",
-      "85 J"
+      "১০ cm – ২০ cm",
+      "২০ cm – ৩০ cm",
+      "২০ cm – ৪০ cm",
+      "১০ cm – ৪০ cm"
     ],
     "image": null,
     "optionImages": null,
@@ -348,12 +348,27 @@
     "id": "physics-ssc-science-physics-board-questions-year-wise-2022-rajshahi-ts-23",
     "subject": "physics",
     "chapter": "Rajshahi Board 2022",
-    "text": "একটি পরিবাহীর রোধ 4 Ω এবং দুই প্রান্তের বিভব পার্থক্য 23 V হলে এর তড়িৎ প্রবাহ কত?",
+    "text": "ইলেকট্রিক ফিল্ড পরিবর্তন করতে হলে পটেনশিয়াল—",
     "options": [
-      "5.8 A",
-      "{(v+r)} A",
-      "92 A",
-      "0.17 A"
+      "বৃদ্ধি করতে হবে",
+      "হ্রাস করতে হবে",
+      "পরিবর্তন করতে হবে",
+      "অপরিবর্তিত থাকবে"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "physics-ssc-science-physics-board-questions-year-wise-2022-rajshahi-ts-24",
+    "subject": "physics",
+    "chapter": "Rajshahi Board 2022",
+    "text": " wb‡Pi DÏxcKwU co Ges 12 I 13bs cÖ‡kœi DËi `vI : R2 = 12 R1 = 2 E = 25V R3 = 4 13. DÏxc‡Ki †¶‡ÎÑ i. R2 I R3 †iv‡ai `yB cÖv‡š@ wefe cv_©K¨ mgvb ii. R2 I R3 †iv‡ai ¶gZv wfbœ iii. R2 I R3 †iv‡ai ga¨ w`‡q Zwor cÖevn wfbœ n‡e wb‡Pi †KvbwU mwVK?",
+    "options": [
+      "i I ii",
+      "i I iii",
+      "ii I iii",
+      "i, ii I iii"
     ],
     "image": null,
     "optionImages": null,
