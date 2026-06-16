@@ -18,6 +18,12 @@ function fileIncludes(rel, text, label) {
   checks.push({ area: label, status: ok ? 'pass' : 'fail', note: `${rel} includes ${text}` });
   return ok;
 }
+function fileExcludes(rel, text, label) {
+  const p = path.join(root, rel);
+  const ok = fs.existsSync(p) && !fs.readFileSync(p, 'utf8').includes(text);
+  checks.push({ area: label, status: ok ? 'pass' : 'fail', note: `${rel} excludes ${text}` });
+  return ok;
+}
 function jsonCheck(rel, label, predicate, note) {
   const p = path.join(root, rel);
   let ok = false;
@@ -32,22 +38,32 @@ function jsonCheck(rel, label, predicate, note) {
 
 exists('vercel.json', 'Vercel config');
 exists('api/index.py', 'FastAPI serverless entry');
+exists('api/requirements.txt', 'API Python requirements');
 exists('requirements.txt', 'Root Python requirements');
 exists('backend/requirements.txt', 'Backend Python requirements');
 exists('.env.local.example', 'Environment example');
 exists('.vercelignore', 'Vercel ignore file');
+exists('.eslintrc.json', 'Next ESLint config');
 exists('app/not-found.tsx', 'Global not-found page');
 exists('app/loading.tsx', 'Global loading page');
 exists('app/error.tsx', 'Global error boundary');
 exists('DEPLOYMENT_CHECKLIST.md', 'Deployment checklist');
 exists('PROJECT_MAINTAINABILITY.md', 'Maintainability plan');
 exists('AUTONOMOUS_ENGINE_PLAN.md', 'Autonomous plan');
-fileIncludes('requirements.txt', 'google-auth', 'Firestore REST dependency');
+
+fileIncludes('requirements.txt', 'google-auth', 'Root Firestore REST dependency');
+fileIncludes('api/requirements.txt', 'google-auth', 'API Firestore REST dependency');
 fileIncludes('package.json', '"build": "next build"', 'Next build script');
+fileIncludes('package.json', '"lint:code": "next lint"', 'Next code lint script');
+fileIncludes('package.json', '"lint:repo": "node scripts/lint-project.js"', 'Repo lint script');
 fileIncludes('package.json', '"typecheck"', 'Typecheck script');
 fileIncludes('package.json', '"data:validate-mcq"', 'MCQ validation script');
 fileIncludes('api/index.py', '@app.get("/api/health")', 'FastAPI health route');
 fileIncludes('backend/app/config.py', 'validate_production_settings()', 'Production secret guard');
+fileIncludes('scripts/ci-check-premium-svgs.js', 'resolveDiagramTopic', 'Premium SVG shared resolver check');
+fileIncludes('.github/workflows/autonomous-launch-gate.yml', 'node scripts/ci-check-premium-svgs.js', 'Launch gate premium SVG check');
+fileIncludes('.github/workflows/autonomous-launch-gate.yml', 'corepack enable', 'Launch gate Corepack setup');
+fileExcludes('.github/workflows/autonomous-launch-gate.yml', 'pnpm/action-setup', 'Launch gate avoids duplicate pnpm setup');
 jsonCheck(
   'vercel.json',
   'Vercel API rewrite',
