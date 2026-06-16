@@ -1,0 +1,45 @@
+# Keep Vercel deployment focused on the SSC/HSC quiz website runtime.
+# Do not exclude runtime quiz assets: public/quiz-data, public/questions, backend/data/answers, or scratch/.
+
+.git
+.github
+.next
+node_modules
+coverage
+.DS_Store
+*.log
+*.zip
+
+# Local/editor/coding-agent state
+.vscode/
+.idea/
+.commandcode/
+.continue/
+.cph/
+.turbo/
+_temp/
+tmp/
+
+# Historical archives and unrelated implementation dumps
+_archive_old_fastapi_in_next_app/
+reprise_super_app_implementation/
+reprise_target_plan_code/
+
+# Data that is useful for development/audit but not required at runtime
+data/backups/
+data/reports/
+data/imports/
+docs/raw-questions/
+professional_svg_all_questions_pack/
+hsc_board_analyzed_100_quality_pack/
+physics_13_images_only/
+ssc_biology_premium_full/
+ssc_general_math_premium_full/
+ssc_higher_math_premium_full/
+
+# Known temporary files
+tmp_test.txt
+tsc-errors.txt
+tsc_board_check.log
+antigravity-err.log
+antigravity-out.log
