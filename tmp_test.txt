@@ -1,5 +1,0 @@
-rmdir /s /q .next
-rmdir /s /q node_modules
-del pnpm-lock.yaml
-pnpm install
-pnpm dev
