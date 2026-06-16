@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-06-16T10:45:49.803Z",
+  "timestamp": "2026-06-16T10:59:54.716Z",
   "questionsDir": {
     "totalFiles": 0,
     "totalDirs": 0,
@@ -13,22 +13,12 @@
   "subjects": {
     "biology": {
       "questionFiles": 34,
-      "answerFiles": 43,
+      "answerFiles": 34,
       "boardFiles": 28,
       "chapterSets": 0,
       "modelTests": 3,
       "orphanQuestions": [],
-      "orphanAnswers": [
-        "barishal-2026",
-        "chattogram-2026",
-        "cumilla-2026",
-        "dhaka-2026",
-        "dinajpur-2026",
-        "jashore-2026",
-        "mymensingh-2026",
-        "rajshahi-2026",
-        "sylhet-2026"
-      ],
+      "orphanAnswers": [],
       "missingBoards": [
         "barishal-2026",
         "chattogram-2024",
@@ -54,18 +44,7 @@
         "ssc-biology-high-common-sets-2-6-split-02.json",
         "ssc-biology-high-common-sets-2-6-split-03.json"
       ],
-      "integrityIssues": [
-        "Index references modelTest \"ssc-biology-paper-set-06\" but no file found",
-        "Index references modelTest \"ssc-biology-paper-set-07\" but no file found",
-        "Index references modelTest \"ssc-biology-paper-set-08\" but no file found",
-        "Index references modelTest \"ssc-biology-paper-set-09\" but no file found",
-        "Index references modelTest \"ssc-biology-paper-set-10\" but no file found",
-        "Index references modelTest \"ssc-biology-paper-set-11\" but no file found",
-        "Index references modelTest \"ssc-biology-paper-set-12\" but no file found",
-        "Index references modelTest \"ssc-biology-paper-set-13\" but no file found",
-        "Index references modelTest \"ssc-biology-paper-set-14\" but no file found",
-        "Index references modelTest \"ssc-biology-paper-set-15\" but no file found"
-      ],
+      "integrityIssues": [],
       "totalQuestions": 542,
       "totalBoardQ": 482,
       "totalSetQ": 60
@@ -97,43 +76,19 @@
         "chapter-06-split-05.json",
         "chapter-09-split-01.json"
       ],
-      "integrityIssues": [
-        "Index references modelTest \"ssc-chemistry-paper-set-03\" but no file found",
-        "Index references modelTest \"ssc-chemistry-paper-set-04\" but no file found",
-        "Index references modelTest \"ssc-chemistry-paper-set-05\" but no file found",
-        "Index references modelTest \"ssc-chemistry-paper-set-06\" but no file found",
-        "Index references modelTest \"ssc-chemistry-paper-set-07\" but no file found",
-        "Index references modelTest \"ssc-chemistry-paper-set-08\" but no file found",
-        "Index references modelTest \"ssc-chemistry-paper-set-09\" but no file found",
-        "Index references modelTest \"ssc-chemistry-paper-set-10\" but no file found",
-        "Index references modelTest \"ssc-chemistry-paper-set-11\" but no file found",
-        "Index references modelTest \"ssc-chemistry-paper-set-12\" but no file found",
-        "Index references modelTest \"ssc-chemistry-paper-set-13\" but no file found",
-        "Index references modelTest \"ssc-chemistry-paper-set-14\" but no file found",
-        "Index references modelTest \"ssc-chemistry-paper-set-15\" but no file found"
-      ],
+      "integrityIssues": [],
       "totalQuestions": 2364,
       "totalBoardQ": 789,
       "totalSetQ": 1575
     },
     "physics": {
       "questionFiles": 114,
-      "answerFiles": 123,
+      "answerFiles": 114,
       "boardFiles": 36,
       "chapterSets": 62,
       "modelTests": 16,
       "orphanQuestions": [],
-      "orphanAnswers": [
-        "barishal-2026",
-        "chattogram-2026",
-        "cumilla-2026",
-        "dhaka-2026",
-        "dinajpur-2026",
-        "jashore-2026",
-        "mymensingh-2026",
-        "rajshahi-2026",
-        "sylhet-2026"
-      ],
+      "orphanAnswers": [],
       "missingBoards": [
         "barishal-2026",
         "chattogram-2026",
@@ -147,16 +102,7 @@
       ],
       "sensitiveFieldsFound": [],
       "legacySplitFiles": [],
-      "integrityIssues": [
-        "Index references modelTest \"ssc-physics-chapter-12-model-test-02\" but no file found",
-        "Index references modelTest \"ssc-physics-chapter-12-model-test-03\" but no file found",
-        "Index references modelTest \"ssc-physics-chapter-12-model-test-04\" but no file found",
-        "Index references modelTest \"ssc-physics-chapter-12-model-test-05\" but no file found",
-        "Index references modelTest \"ssc-physics-chapter-14-model-test-02\" but no file found",
-        "Index references modelTest \"ssc-physics-chapter-14-model-test-03\" but no file found",
-        "Index references modelTest \"ssc-physics-chapter-14-model-test-04\" but no file found",
-        "Index references modelTest \"ssc-physics-chapter-14-model-test-05\" but no file found"
-      ],
+      "integrityIssues": [],
       "totalQuestions": 2749,
       "totalBoardQ": 895,
       "totalSetQ": 1854
@@ -203,13 +149,7 @@
       "legacySplitFiles": [
         "chapter-09-split-01.json"
       ],
-      "integrityIssues": [
-        "Index references modelTest \"ssc-higher-math-chapter-04-model-test-03\" but no file found",
-        "Index references modelTest \"ssc-higher-math-chapter-10-model-test-05\" but no file found",
-        "Index references modelTest \"ssc-higher-math-chapter-11-model-test-03\" but no file found",
-        "Index references modelTest \"ssc-higher-math-chapter-11-model-test-04\" but no file found",
-        "Index references modelTest \"ssc-higher-math-chapter-11-model-test-05\" but no file found"
-      ],
+      "integrityIssues": [],
       "totalQuestions": 2361,
       "totalBoardQ": 804,
       "totalSetQ": 1557
@@ -235,23 +175,7 @@
       ],
       "sensitiveFieldsFound": [],
       "legacySplitFiles": [],
-      "integrityIssues": [
-        "Index references modelTest \"hsc-bio-1st-paper-set-01\" but no file found",
-        "Index references modelTest \"hsc-bio-1st-paper-set-02\" but no file found",
-        "Index references modelTest \"hsc-bio-1st-paper-set-03\" but no file found",
-        "Index references modelTest \"hsc-bio-1st-paper-set-04\" but no file found",
-        "Index references modelTest \"hsc-bio-1st-paper-set-05\" but no file found",
-        "Index references modelTest \"hsc-bio-1st-paper-set-06\" but no file found",
-        "Index references modelTest \"hsc-bio-1st-paper-set-07\" but no file found",
-        "Index references modelTest \"hsc-bio-1st-paper-set-08\" but no file found",
-        "Index references modelTest \"hsc-bio-1st-paper-set-09\" but no file found",
-        "Index references modelTest \"hsc-bio-1st-paper-set-10\" but no file found",
-        "Index references modelTest \"hsc-bio-1st-paper-set-11\" but no file found",
-        "Index references modelTest \"hsc-bio-1st-paper-set-12\" but no file found",
-        "Index references modelTest \"hsc-bio-1st-paper-set-13\" but no file found",
-        "Index references modelTest \"hsc-bio-1st-paper-set-14\" but no file found",
-        "Index references modelTest \"hsc-bio-1st-paper-set-15\" but no file found"
-      ],
+      "integrityIssues": [],
       "totalQuestions": 3642,
       "totalBoardQ": 387,
       "totalSetQ": 3255
@@ -277,26 +201,14 @@
       ],
       "sensitiveFieldsFound": [],
       "legacySplitFiles": [],
-      "integrityIssues": [
-        "Index references modelTest \"hsc-bio-2nd-paper-set-05\" but no file found",
-        "Index references modelTest \"hsc-bio-2nd-paper-set-06\" but no file found",
-        "Index references modelTest \"hsc-bio-2nd-paper-set-07\" but no file found",
-        "Index references modelTest \"hsc-bio-2nd-paper-set-08\" but no file found",
-        "Index references modelTest \"hsc-bio-2nd-paper-set-09\" but no file found",
-        "Index references modelTest \"hsc-bio-2nd-paper-set-10\" but no file found",
-        "Index references modelTest \"hsc-bio-2nd-paper-set-11\" but no file found",
-        "Index references modelTest \"hsc-bio-2nd-paper-set-12\" but no file found",
-        "Index references modelTest \"hsc-bio-2nd-paper-set-13\" but no file found",
-        "Index references modelTest \"hsc-bio-2nd-paper-set-14\" but no file found",
-        "Index references modelTest \"hsc-bio-2nd-paper-set-15\" but no file found"
-      ],
+      "integrityIssues": [],
       "totalQuestions": 1510,
       "totalBoardQ": 235,
       "totalSetQ": 1275
     },
     "chemistry-1st-paper": {
-      "questionFiles": 101,
-      "answerFiles": 101,
+      "questionFiles": 97,
+      "answerFiles": 97,
       "boardFiles": 36,
       "chapterSets": 25,
       "modelTests": 35,
@@ -315,10 +227,6 @@
       ],
       "sensitiveFieldsFound": [],
       "legacySplitFiles": [
-        "chemistryset1-split-01-split-01-split-01-split-01-split-01-split-01-split-01-split-01-split-01-split-01-split-01-split-01-split-01.json",
-        "chemistryset1-split-01-split-01-split-01-split-01.json",
-        "chemistryset1-split-01-split-01-split-01.json",
-        "chemistryset1-split-01-split-01.json",
         "chemistryset1-split-01.json"
       ],
       "integrityIssues": [],
@@ -352,20 +260,14 @@
         "chapter-05-split-03.json",
         "chapter-05-split-04.json"
       ],
-      "integrityIssues": [
-        "Index references modelTest \"hsc-chem-2nd-paper-set-11\" but no file found",
-        "Index references modelTest \"hsc-chem-2nd-paper-set-12\" but no file found",
-        "Index references modelTest \"hsc-chem-2nd-paper-set-13\" but no file found",
-        "Index references modelTest \"hsc-chem-2nd-paper-set-14\" but no file found",
-        "Index references modelTest \"hsc-chem-2nd-paper-set-15\" but no file found"
-      ],
+      "integrityIssues": [],
       "totalQuestions": 719,
       "totalBoardQ": 220,
       "totalSetQ": 499
     },
     "physics-1st-paper": {
-      "questionFiles": 234,
-      "answerFiles": 234,
+      "questionFiles": 194,
+      "answerFiles": 194,
       "boardFiles": 36,
       "chapterSets": 98,
       "modelTests": 34,
@@ -400,55 +302,15 @@
         "chapter-10-split-01.json",
         "chapter-10-split-02.json",
         "chapter-10-split-03.json",
-        "physicsfirstpaperch2set11-split-01-split-01-split-01-split-01-split-01-split-01-split-01-split-01-split-01-split-01-split-01-split-01-split-01.json",
-        "physicsfirstpaperch2set11-split-01-split-01-split-01-split-01.json",
-        "physicsfirstpaperch2set11-split-01-split-01-split-01.json",
-        "physicsfirstpaperch2set11-split-01-split-01.json",
         "physicsfirstpaperch2set11-split-01.json",
-        "physicsfirstpaperfinalsets-split-01-split-01-split-01-split-01-split-01-split-01-split-01-split-01-split-01-split-01-split-01-split-01-split-01.json",
-        "physicsfirstpaperfinalsets-split-01-split-01-split-01-split-01.json",
-        "physicsfirstpaperfinalsets-split-01-split-01-split-01.json",
-        "physicsfirstpaperfinalsets-split-01-split-01.json",
         "physicsfirstpaperfinalsets-split-01.json",
-        "physicsfirstpaperfinalsets-split-02-split-01-split-01-split-01-split-01-split-01-split-01-split-01-split-01-split-01-split-01-split-01-split-01.json",
-        "physicsfirstpaperfinalsets-split-02-split-01-split-01-split-01.json",
-        "physicsfirstpaperfinalsets-split-02-split-01-split-01.json",
-        "physicsfirstpaperfinalsets-split-02-split-01.json",
         "physicsfirstpaperfinalsets-split-02.json",
-        "physicsfirstpapersets10and13-split-01-split-01-split-01-split-01-split-01-split-01-split-01-split-01-split-01-split-01-split-01-split-01-split-01.json",
-        "physicsfirstpapersets10and13-split-01-split-01-split-01-split-01.json",
-        "physicsfirstpapersets10and13-split-01-split-01-split-01.json",
-        "physicsfirstpapersets10and13-split-01-split-01.json",
         "physicsfirstpapersets10and13-split-01.json",
-        "physicsfirstpapersets10and13-split-02-split-01-split-01-split-01-split-01-split-01-split-01-split-01-split-01-split-01-split-01-split-01-split-01.json",
-        "physicsfirstpapersets10and13-split-02-split-01-split-01-split-01.json",
-        "physicsfirstpapersets10and13-split-02-split-01-split-01.json",
-        "physicsfirstpapersets10and13-split-02-split-01.json",
         "physicsfirstpapersets10and13-split-02.json",
-        "physicsfirstpapersets11and12-split-01-split-01-split-01-split-01-split-01-split-01-split-01-split-01-split-01-split-01-split-01-split-01-split-01.json",
-        "physicsfirstpapersets11and12-split-01-split-01-split-01-split-01.json",
-        "physicsfirstpapersets11and12-split-01-split-01-split-01.json",
-        "physicsfirstpapersets11and12-split-01-split-01.json",
         "physicsfirstpapersets11and12-split-01.json",
-        "physicsfirstpapersets11and12-split-02-split-01-split-01-split-01-split-01-split-01-split-01-split-01-split-01-split-01-split-01-split-01-split-01.json",
-        "physicsfirstpapersets11and12-split-02-split-01-split-01-split-01.json",
-        "physicsfirstpapersets11and12-split-02-split-01-split-01.json",
-        "physicsfirstpapersets11and12-split-02-split-01.json",
         "physicsfirstpapersets11and12-split-02.json",
-        "physicsfirstpapersets14to17-split-01-split-01-split-01-split-01-split-01-split-01-split-01-split-01-split-01-split-01-split-01-split-01-split-01.json",
-        "physicsfirstpapersets14to17-split-01-split-01-split-01-split-01.json",
-        "physicsfirstpapersets14to17-split-01-split-01-split-01.json",
-        "physicsfirstpapersets14to17-split-01-split-01.json",
         "physicsfirstpapersets14to17-split-01.json",
-        "physicsfirstpapersets14to17-split-02-split-01-split-01-split-01-split-01-split-01-split-01-split-01-split-01-split-01-split-01-split-01-split-01.json",
-        "physicsfirstpapersets14to17-split-02-split-01-split-01-split-01.json",
-        "physicsfirstpapersets14to17-split-02-split-01-split-01.json",
-        "physicsfirstpapersets14to17-split-02-split-01.json",
         "physicsfirstpapersets14to17-split-02.json",
-        "physicsfirstpapersets14to17-split-03-split-01-split-01-split-01-split-01-split-01-split-01-split-01-split-01-split-01-split-01-split-01-split-01.json",
-        "physicsfirstpapersets14to17-split-03-split-01-split-01-split-01.json",
-        "physicsfirstpapersets14to17-split-03-split-01-split-01.json",
-        "physicsfirstpapersets14to17-split-03-split-01.json",
         "physicsfirstpapersets14to17-split-03.json"
       ],
       "integrityIssues": [],
@@ -563,15 +425,15 @@
     }
   },
   "summary": {
-    "totalQuestionFiles": 1411,
-    "totalAnswerFiles": 1429,
+    "totalQuestionFiles": 1367,
+    "totalAnswerFiles": 1367,
     "totalOrphanQuestions": 0,
-    "totalOrphanAnswers": 18,
+    "totalOrphanAnswers": 0,
     "totalSensitiveFieldFiles": 0,
-    "totalIntegrityIssues": 67,
+    "totalIntegrityIssues": 0,
     "totalMissingBoards": 133,
-    "totalLegacySplitFiles": 96,
+    "totalLegacySplitFiles": 52,
     "totalQuestions": 27182,
-    "status": "Warning"
+    "status": "Success"
   }
 }

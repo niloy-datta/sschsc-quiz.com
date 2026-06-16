@@ -1,0 +1,952 @@
+{
+  "orphanedSplitFiles": [
+    {
+      "subject": "chemistry-1st-paper",
+      "file": "chemistryset1-split-01-split-01-split-01-split-01-split-01-split-01-split-01-split-01-split-01-split-01-split-01-split-01-split-01.json",
+      "size": 18132
+    },
+    {
+      "subject": "chemistry-1st-paper",
+      "file": "chemistryset1-split-01-split-01-split-01-split-01.json",
+      "size": 13432
+    },
+    {
+      "subject": "chemistry-1st-paper",
+      "file": "chemistryset1-split-01-split-01-split-01.json",
+      "size": 12982
+    },
+    {
+      "subject": "chemistry-1st-paper",
+      "file": "chemistryset1-split-01-split-01.json",
+      "size": 12532
+    },
+    {
+      "subject": "physics-1st-paper",
+      "file": "physicsfirstpaperch2set11-split-01-split-01-split-01-split-01-split-01-split-01-split-01-split-01-split-01-split-01-split-01-split-01-split-01.json",
+      "size": 18047
+    },
+    {
+      "subject": "physics-1st-paper",
+      "file": "physicsfirstpaperch2set11-split-01-split-01-split-01-split-01.json",
+      "size": 13434
+    },
+    {
+      "subject": "physics-1st-paper",
+      "file": "physicsfirstpaperch2set11-split-01-split-01-split-01.json",
+      "size": 12975
+    },
+    {
+      "subject": "physics-1st-paper",
+      "file": "physicsfirstpaperch2set11-split-01-split-01.json",
+      "size": 13193
+    },
+    {
+      "subject": "physics-1st-paper",
+      "file": "physicsfirstpaperfinalsets-split-01-split-01-split-01-split-01-split-01-split-01-split-01-split-01-split-01-split-01-split-01-split-01-split-01.json",
+      "size": 17788
+    },
+    {
+      "subject": "physics-1st-paper",
+      "file": "physicsfirstpaperfinalsets-split-01-split-01-split-01-split-01.json",
+      "size": 13124
+    },
+    {
+      "subject": "physics-1st-paper",
+      "file": "physicsfirstpaperfinalsets-split-01-split-01-split-01.json",
+      "size": 12674
+    },
+    {
+      "subject": "physics-1st-paper",
+      "file": "physicsfirstpaperfinalsets-split-01-split-01.json",
+      "size": 12490
+    },
+    {
+      "subject": "physics-1st-paper",
+      "file": "physicsfirstpaperfinalsets-split-02-split-01-split-01-split-01-split-01-split-01-split-01-split-01-split-01-split-01-split-01-split-01-split-01.json",
+      "size": 17744
+    },
+    {
+      "subject": "physics-1st-paper",
+      "file": "physicsfirstpaperfinalsets-split-02-split-01-split-01-split-01.json",
+      "size": 13044
+    },
+    {
+      "subject": "physics-1st-paper",
+      "file": "physicsfirstpaperfinalsets-split-02-split-01-split-01.json",
+      "size": 12594
+    },
+    {
+      "subject": "physics-1st-paper",
+      "file": "physicsfirstpaperfinalsets-split-02-split-01.json",
+      "size": 12289
+    },
+    {
+      "subject": "physics-1st-paper",
+      "file": "physicsfirstpapersets10and13-split-01-split-01-split-01-split-01-split-01-split-01-split-01-split-01-split-01-split-01-split-01-split-01-split-01.json",
+      "size": 17181
+    },
+    {
+      "subject": "physics-1st-paper",
+      "file": "physicsfirstpapersets10and13-split-01-split-01-split-01-split-01.json",
+      "size": 12662
+    },
+    {
+      "subject": "physics-1st-paper",
+      "file": "physicsfirstpapersets10and13-split-01-split-01-split-01.json",
+      "size": 12194
+    },
+    {
+      "subject": "physics-1st-paper",
+      "file": "physicsfirstpapersets10and13-split-01-split-01.json",
+      "size": 11818
+    },
+    {
+      "subject": "physics-1st-paper",
+      "file": "physicsfirstpapersets10and13-split-02-split-01-split-01-split-01-split-01-split-01-split-01-split-01-split-01-split-01-split-01-split-01-split-01.json",
+      "size": 17277
+    },
+    {
+      "subject": "physics-1st-paper",
+      "file": "physicsfirstpapersets10and13-split-02-split-01-split-01-split-01.json",
+      "size": 12577
+    },
+    {
+      "subject": "physics-1st-paper",
+      "file": "physicsfirstpapersets10and13-split-02-split-01-split-01.json",
+      "size": 12127
+    },
+    {
+      "subject": "physics-1st-paper",
+      "file": "physicsfirstpapersets10and13-split-02-split-01.json",
+      "size": 11856
+    },
+    {
+      "subject": "physics-1st-paper",
+      "file": "physicsfirstpapersets11and12-split-01-split-01-split-01-split-01-split-01-split-01-split-01-split-01-split-01-split-01-split-01-split-01-split-01.json",
+      "size": 19702
+    },
+    {
+      "subject": "physics-1st-paper",
+      "file": "physicsfirstpapersets11and12-split-01-split-01-split-01-split-01.json",
+      "size": 15183
+    },
+    {
+      "subject": "physics-1st-paper",
+      "file": "physicsfirstpapersets11and12-split-01-split-01-split-01.json",
+      "size": 14715
+    },
+    {
+      "subject": "physics-1st-paper",
+      "file": "physicsfirstpapersets11and12-split-01-split-01.json",
+      "size": 14380
+    },
+    {
+      "subject": "physics-1st-paper",
+      "file": "physicsfirstpapersets11and12-split-02-split-01-split-01-split-01-split-01-split-01-split-01-split-01-split-01-split-01-split-01-split-01-split-01.json",
+      "size": 18679
+    },
+    {
+      "subject": "physics-1st-paper",
+      "file": "physicsfirstpapersets11and12-split-02-split-01-split-01-split-01.json",
+      "size": 14069
+    },
+    {
+      "subject": "physics-1st-paper",
+      "file": "physicsfirstpapersets11and12-split-02-split-01-split-01.json",
+      "size": 13610
+    },
+    {
+      "subject": "physics-1st-paper",
+      "file": "physicsfirstpapersets11and12-split-02-split-01.json",
+      "size": 13331
+    },
+    {
+      "subject": "physics-1st-paper",
+      "file": "physicsfirstpapersets14to17-split-01-split-01-split-01-split-01-split-01-split-01-split-01-split-01-split-01-split-01-split-01-split-01-split-01.json",
+      "size": 16366
+    },
+    {
+      "subject": "physics-1st-paper",
+      "file": "physicsfirstpapersets14to17-split-01-split-01-split-01-split-01.json",
+      "size": 11845
+    },
+    {
+      "subject": "physics-1st-paper",
+      "file": "physicsfirstpapersets14to17-split-01-split-01-split-01.json",
+      "size": 11377
+    },
+    {
+      "subject": "physics-1st-paper",
+      "file": "physicsfirstpapersets14to17-split-01-split-01.json",
+      "size": 10929
+    },
+    {
+      "subject": "physics-1st-paper",
+      "file": "physicsfirstpapersets14to17-split-02-split-01-split-01-split-01-split-01-split-01-split-01-split-01-split-01-split-01-split-01-split-01-split-01.json",
+      "size": 15921
+    },
+    {
+      "subject": "physics-1st-paper",
+      "file": "physicsfirstpapersets14to17-split-02-split-01-split-01-split-01.json",
+      "size": 11221
+    },
+    {
+      "subject": "physics-1st-paper",
+      "file": "physicsfirstpapersets14to17-split-02-split-01-split-01.json",
+      "size": 10771
+    },
+    {
+      "subject": "physics-1st-paper",
+      "file": "physicsfirstpapersets14to17-split-02-split-01.json",
+      "size": 10488
+    },
+    {
+      "subject": "physics-1st-paper",
+      "file": "physicsfirstpapersets14to17-split-03-split-01-split-01-split-01-split-01-split-01-split-01-split-01-split-01-split-01-split-01-split-01-split-01.json",
+      "size": 17591
+    },
+    {
+      "subject": "physics-1st-paper",
+      "file": "physicsfirstpapersets14to17-split-03-split-01-split-01-split-01.json",
+      "size": 13070
+    },
+    {
+      "subject": "physics-1st-paper",
+      "file": "physicsfirstpapersets14to17-split-03-split-01-split-01.json",
+      "size": 12602
+    },
+    {
+      "subject": "physics-1st-paper",
+      "file": "physicsfirstpapersets14to17-split-03-split-01.json",
+      "size": 12144
+    }
+  ],
+  "indexIntegrityFixes": [
+    {
+      "subject": "biology",
+      "type": "modelTest",
+      "id": "ssc-biology-paper-set-06",
+      "action": "REMOVED_FROM_INDEX"
+    },
+    {
+      "subject": "biology",
+      "type": "modelTest",
+      "id": "ssc-biology-paper-set-07",
+      "action": "REMOVED_FROM_INDEX"
+    },
+    {
+      "subject": "biology",
+      "type": "modelTest",
+      "id": "ssc-biology-paper-set-08",
+      "action": "REMOVED_FROM_INDEX"
+    },
+    {
+      "subject": "biology",
+      "type": "modelTest",
+      "id": "ssc-biology-paper-set-09",
+      "action": "REMOVED_FROM_INDEX"
+    },
+    {
+      "subject": "biology",
+      "type": "modelTest",
+      "id": "ssc-biology-paper-set-10",
+      "action": "REMOVED_FROM_INDEX"
+    },
+    {
+      "subject": "biology",
+      "type": "modelTest",
+      "id": "ssc-biology-paper-set-11",
+      "action": "REMOVED_FROM_INDEX"
+    },
+    {
+      "subject": "biology",
+      "type": "modelTest",
+      "id": "ssc-biology-paper-set-12",
+      "action": "REMOVED_FROM_INDEX"
+    },
+    {
+      "subject": "biology",
+      "type": "modelTest",
+      "id": "ssc-biology-paper-set-13",
+      "action": "REMOVED_FROM_INDEX"
+    },
+    {
+      "subject": "biology",
+      "type": "modelTest",
+      "id": "ssc-biology-paper-set-14",
+      "action": "REMOVED_FROM_INDEX"
+    },
+    {
+      "subject": "biology",
+      "type": "modelTest",
+      "id": "ssc-biology-paper-set-15",
+      "action": "REMOVED_FROM_INDEX"
+    },
+    {
+      "subject": "biology-1st-paper",
+      "type": "modelTest",
+      "id": "hsc-bio-1st-paper-set-01",
+      "action": "REMOVED_FROM_INDEX"
+    },
+    {
+      "subject": "biology-1st-paper",
+      "type": "modelTest",
+      "id": "hsc-bio-1st-paper-set-02",
+      "action": "REMOVED_FROM_INDEX"
+    },
+    {
+      "subject": "biology-1st-paper",
+      "type": "modelTest",
+      "id": "hsc-bio-1st-paper-set-03",
+      "action": "REMOVED_FROM_INDEX"
+    },
+    {
+      "subject": "biology-1st-paper",
+      "type": "modelTest",
+      "id": "hsc-bio-1st-paper-set-04",
+      "action": "REMOVED_FROM_INDEX"
+    },
+    {
+      "subject": "biology-1st-paper",
+      "type": "modelTest",
+      "id": "hsc-bio-1st-paper-set-05",
+      "action": "REMOVED_FROM_INDEX"
+    },
+    {
+      "subject": "biology-1st-paper",
+      "type": "modelTest",
+      "id": "hsc-bio-1st-paper-set-06",
+      "action": "REMOVED_FROM_INDEX"
+    },
+    {
+      "subject": "biology-1st-paper",
+      "type": "modelTest",
+      "id": "hsc-bio-1st-paper-set-07",
+      "action": "REMOVED_FROM_INDEX"
+    },
+    {
+      "subject": "biology-1st-paper",
+      "type": "modelTest",
+      "id": "hsc-bio-1st-paper-set-08",
+      "action": "REMOVED_FROM_INDEX"
+    },
+    {
+      "subject": "biology-1st-paper",
+      "type": "modelTest",
+      "id": "hsc-bio-1st-paper-set-09",
+      "action": "REMOVED_FROM_INDEX"
+    },
+    {
+      "subject": "biology-1st-paper",
+      "type": "modelTest",
+      "id": "hsc-bio-1st-paper-set-10",
+      "action": "REMOVED_FROM_INDEX"
+    },
+    {
+      "subject": "biology-1st-paper",
+      "type": "modelTest",
+      "id": "hsc-bio-1st-paper-set-11",
+      "action": "REMOVED_FROM_INDEX"
+    },
+    {
+      "subject": "biology-1st-paper",
+      "type": "modelTest",
+      "id": "hsc-bio-1st-paper-set-12",
+      "action": "REMOVED_FROM_INDEX"
+    },
+    {
+      "subject": "biology-1st-paper",
+      "type": "modelTest",
+      "id": "hsc-bio-1st-paper-set-13",
+      "action": "REMOVED_FROM_INDEX"
+    },
+    {
+      "subject": "biology-1st-paper",
+      "type": "modelTest",
+      "id": "hsc-bio-1st-paper-set-14",
+      "action": "REMOVED_FROM_INDEX"
+    },
+    {
+      "subject": "biology-1st-paper",
+      "type": "modelTest",
+      "id": "hsc-bio-1st-paper-set-15",
+      "action": "REMOVED_FROM_INDEX"
+    },
+    {
+      "subject": "biology-2nd-paper",
+      "type": "modelTest",
+      "id": "hsc-bio-2nd-paper-set-05",
+      "action": "REMOVED_FROM_INDEX"
+    },
+    {
+      "subject": "biology-2nd-paper",
+      "type": "modelTest",
+      "id": "hsc-bio-2nd-paper-set-06",
+      "action": "REMOVED_FROM_INDEX"
+    },
+    {
+      "subject": "biology-2nd-paper",
+      "type": "modelTest",
+      "id": "hsc-bio-2nd-paper-set-07",
+      "action": "REMOVED_FROM_INDEX"
+    },
+    {
+      "subject": "biology-2nd-paper",
+      "type": "modelTest",
+      "id": "hsc-bio-2nd-paper-set-08",
+      "action": "REMOVED_FROM_INDEX"
+    },
+    {
+      "subject": "biology-2nd-paper",
+      "type": "modelTest",
+      "id": "hsc-bio-2nd-paper-set-09",
+      "action": "REMOVED_FROM_INDEX"
+    },
+    {
+      "subject": "biology-2nd-paper",
+      "type": "modelTest",
+      "id": "hsc-bio-2nd-paper-set-10",
+      "action": "REMOVED_FROM_INDEX"
+    },
+    {
+      "subject": "biology-2nd-paper",
+      "type": "modelTest",
+      "id": "hsc-bio-2nd-paper-set-11",
+      "action": "REMOVED_FROM_INDEX"
+    },
+    {
+      "subject": "biology-2nd-paper",
+      "type": "modelTest",
+      "id": "hsc-bio-2nd-paper-set-12",
+      "action": "REMOVED_FROM_INDEX"
+    },
+    {
+      "subject": "biology-2nd-paper",
+      "type": "modelTest",
+      "id": "hsc-bio-2nd-paper-set-13",
+      "action": "REMOVED_FROM_INDEX"
+    },
+    {
+      "subject": "biology-2nd-paper",
+      "type": "modelTest",
+      "id": "hsc-bio-2nd-paper-set-14",
+      "action": "REMOVED_FROM_INDEX"
+    },
+    {
+      "subject": "biology-2nd-paper",
+      "type": "modelTest",
+      "id": "hsc-bio-2nd-paper-set-15",
+      "action": "REMOVED_FROM_INDEX"
+    },
+    {
+      "subject": "chemistry",
+      "type": "modelTest",
+      "id": "ssc-chemistry-paper-set-03",
+      "action": "REMOVED_FROM_INDEX"
+    },
+    {
+      "subject": "chemistry",
+      "type": "modelTest",
+      "id": "ssc-chemistry-paper-set-04",
+      "action": "REMOVED_FROM_INDEX"
+    },
+    {
+      "subject": "chemistry",
+      "type": "modelTest",
+      "id": "ssc-chemistry-paper-set-05",
+      "action": "REMOVED_FROM_INDEX"
+    },
+    {
+      "subject": "chemistry",
+      "type": "modelTest",
+      "id": "ssc-chemistry-paper-set-06",
+      "action": "REMOVED_FROM_INDEX"
+    },
+    {
+      "subject": "chemistry",
+      "type": "modelTest",
+      "id": "ssc-chemistry-paper-set-07",
+      "action": "REMOVED_FROM_INDEX"
+    },
+    {
+      "subject": "chemistry",
+      "type": "modelTest",
+      "id": "ssc-chemistry-paper-set-08",
+      "action": "REMOVED_FROM_INDEX"
+    },
+    {
+      "subject": "chemistry",
+      "type": "modelTest",
+      "id": "ssc-chemistry-paper-set-09",
+      "action": "REMOVED_FROM_INDEX"
+    },
+    {
+      "subject": "chemistry",
+      "type": "modelTest",
+      "id": "ssc-chemistry-paper-set-10",
+      "action": "REMOVED_FROM_INDEX"
+    },
+    {
+      "subject": "chemistry",
+      "type": "modelTest",
+      "id": "ssc-chemistry-paper-set-11",
+      "action": "REMOVED_FROM_INDEX"
+    },
+    {
+      "subject": "chemistry",
+      "type": "modelTest",
+      "id": "ssc-chemistry-paper-set-12",
+      "action": "REMOVED_FROM_INDEX"
+    },
+    {
+      "subject": "chemistry",
+      "type": "modelTest",
+      "id": "ssc-chemistry-paper-set-13",
+      "action": "REMOVED_FROM_INDEX"
+    },
+    {
+      "subject": "chemistry",
+      "type": "modelTest",
+      "id": "ssc-chemistry-paper-set-14",
+      "action": "REMOVED_FROM_INDEX"
+    },
+    {
+      "subject": "chemistry",
+      "type": "modelTest",
+      "id": "ssc-chemistry-paper-set-15",
+      "action": "REMOVED_FROM_INDEX"
+    },
+    {
+      "subject": "chemistry-2nd-paper",
+      "type": "modelTest",
+      "id": "hsc-chem-2nd-paper-set-11",
+      "action": "REMOVED_FROM_INDEX"
+    },
+    {
+      "subject": "chemistry-2nd-paper",
+      "type": "modelTest",
+      "id": "hsc-chem-2nd-paper-set-12",
+      "action": "REMOVED_FROM_INDEX"
+    },
+    {
+      "subject": "chemistry-2nd-paper",
+      "type": "modelTest",
+      "id": "hsc-chem-2nd-paper-set-13",
+      "action": "REMOVED_FROM_INDEX"
+    },
+    {
+      "subject": "chemistry-2nd-paper",
+      "type": "modelTest",
+      "id": "hsc-chem-2nd-paper-set-14",
+      "action": "REMOVED_FROM_INDEX"
+    },
+    {
+      "subject": "chemistry-2nd-paper",
+      "type": "modelTest",
+      "id": "hsc-chem-2nd-paper-set-15",
+      "action": "REMOVED_FROM_INDEX"
+    },
+    {
+      "subject": "higher-math",
+      "type": "modelTest",
+      "id": "ssc-higher-math-chapter-04-model-test-03",
+      "action": "REMOVED_FROM_INDEX"
+    },
+    {
+      "subject": "higher-math",
+      "type": "modelTest",
+      "id": "ssc-higher-math-chapter-10-model-test-05",
+      "action": "REMOVED_FROM_INDEX"
+    },
+    {
+      "subject": "higher-math",
+      "type": "modelTest",
+      "id": "ssc-higher-math-chapter-11-model-test-03",
+      "action": "REMOVED_FROM_INDEX"
+    },
+    {
+      "subject": "higher-math",
+      "type": "modelTest",
+      "id": "ssc-higher-math-chapter-11-model-test-04",
+      "action": "REMOVED_FROM_INDEX"
+    },
+    {
+      "subject": "higher-math",
+      "type": "modelTest",
+      "id": "ssc-higher-math-chapter-11-model-test-05",
+      "action": "REMOVED_FROM_INDEX"
+    },
+    {
+      "subject": "physics",
+      "type": "modelTest",
+      "id": "ssc-physics-chapter-12-model-test-02",
+      "action": "REMOVED_FROM_INDEX"
+    },
+    {
+      "subject": "physics",
+      "type": "modelTest",
+      "id": "ssc-physics-chapter-12-model-test-03",
+      "action": "REMOVED_FROM_INDEX"
+    },
+    {
+      "subject": "physics",
+      "type": "modelTest",
+      "id": "ssc-physics-chapter-12-model-test-04",
+      "action": "REMOVED_FROM_INDEX"
+    },
+    {
+      "subject": "physics",
+      "type": "modelTest",
+      "id": "ssc-physics-chapter-12-model-test-05",
+      "action": "REMOVED_FROM_INDEX"
+    },
+    {
+      "subject": "physics",
+      "type": "modelTest",
+      "id": "ssc-physics-chapter-14-model-test-02",
+      "action": "REMOVED_FROM_INDEX"
+    },
+    {
+      "subject": "physics",
+      "type": "modelTest",
+      "id": "ssc-physics-chapter-14-model-test-03",
+      "action": "REMOVED_FROM_INDEX"
+    },
+    {
+      "subject": "physics",
+      "type": "modelTest",
+      "id": "ssc-physics-chapter-14-model-test-04",
+      "action": "REMOVED_FROM_INDEX"
+    },
+    {
+      "subject": "physics",
+      "type": "modelTest",
+      "id": "ssc-physics-chapter-14-model-test-05",
+      "action": "REMOVED_FROM_INDEX"
+    },
+    {
+      "subject": "physics-2nd-paper",
+      "type": "modelTest",
+      "id": "rajshahi-board-2024",
+      "action": "REMOVED_FROM_INDEX"
+    }
+  ],
+  "orphanAnswersRemoved": [
+    {
+      "subject": "biology",
+      "file": "barishal-2026.answers.json",
+      "size": 5138
+    },
+    {
+      "subject": "biology",
+      "file": "chattogram-2026.answers.json",
+      "size": 5208
+    },
+    {
+      "subject": "biology",
+      "file": "cumilla-2026.answers.json",
+      "size": 5103
+    },
+    {
+      "subject": "biology",
+      "file": "dhaka-2026.answers.json",
+      "size": 5033
+    },
+    {
+      "subject": "biology",
+      "file": "dinajpur-2026.answers.json",
+      "size": 5138
+    },
+    {
+      "subject": "biology",
+      "file": "jashore-2026.answers.json",
+      "size": 5103
+    },
+    {
+      "subject": "biology",
+      "file": "mymensingh-2026.answers.json",
+      "size": 5208
+    },
+    {
+      "subject": "biology",
+      "file": "rajshahi-2026.answers.json",
+      "size": 5138
+    },
+    {
+      "subject": "biology",
+      "file": "sylhet-2026.answers.json",
+      "size": 5068
+    },
+    {
+      "subject": "chemistry-1st-paper",
+      "file": "chemistryset1-split-01-split-01-split-01-split-01-split-01-split-01-split-01-split-01-split-01-split-01-split-01-split-01-split-01.answers.json",
+      "size": 15100
+    },
+    {
+      "subject": "chemistry-1st-paper",
+      "file": "chemistryset1-split-01-split-01-split-01-split-01.answers.json",
+      "size": 13075
+    },
+    {
+      "subject": "chemistry-1st-paper",
+      "file": "chemistryset1-split-01-split-01-split-01.answers.json",
+      "size": 12850
+    },
+    {
+      "subject": "chemistry-1st-paper",
+      "file": "chemistryset1-split-01-split-01.answers.json",
+      "size": 12625
+    },
+    {
+      "subject": "physics",
+      "file": "barishal-2026.answers.json",
+      "size": 3515
+    },
+    {
+      "subject": "physics",
+      "file": "chattogram-2026.answers.json",
+      "size": 3563
+    },
+    {
+      "subject": "physics",
+      "file": "cumilla-2026.answers.json",
+      "size": 3491
+    },
+    {
+      "subject": "physics",
+      "file": "dhaka-2026.answers.json",
+      "size": 3442
+    },
+    {
+      "subject": "physics",
+      "file": "dinajpur-2026.answers.json",
+      "size": 3514
+    },
+    {
+      "subject": "physics",
+      "file": "jashore-2026.answers.json",
+      "size": 3491
+    },
+    {
+      "subject": "physics",
+      "file": "mymensingh-2026.answers.json",
+      "size": 3562
+    },
+    {
+      "subject": "physics",
+      "file": "rajshahi-2026.answers.json",
+      "size": 3512
+    },
+    {
+      "subject": "physics",
+      "file": "sylhet-2026.answers.json",
+      "size": 3604
+    },
+    {
+      "subject": "physics-1st-paper",
+      "file": "physicsfirstpaperch2set11-split-01-split-01-split-01-split-01-split-01-split-01-split-01-split-01-split-01-split-01-split-01-split-01-split-01.answers.json",
+      "size": 11308
+    },
+    {
+      "subject": "physics-1st-paper",
+      "file": "physicsfirstpaperch2set11-split-01-split-01-split-01-split-01.answers.json",
+      "size": 9283
+    },
+    {
+      "subject": "physics-1st-paper",
+      "file": "physicsfirstpaperch2set11-split-01-split-01-split-01.answers.json",
+      "size": 9058
+    },
+    {
+      "subject": "physics-1st-paper",
+      "file": "physicsfirstpaperch2set11-split-01-split-01.answers.json",
+      "size": 8833
+    },
+    {
+      "subject": "physics-1st-paper",
+      "file": "physicsfirstpaperfinalsets-split-01-split-01-split-01-split-01-split-01-split-01-split-01-split-01-split-01-split-01-split-01-split-01-split-01.answers.json",
+      "size": 8493
+    },
+    {
+      "subject": "physics-1st-paper",
+      "file": "physicsfirstpaperfinalsets-split-01-split-01-split-01-split-01.answers.json",
+      "size": 6468
+    },
+    {
+      "subject": "physics-1st-paper",
+      "file": "physicsfirstpaperfinalsets-split-01-split-01-split-01.answers.json",
+      "size": 6243
+    },
+    {
+      "subject": "physics-1st-paper",
+      "file": "physicsfirstpaperfinalsets-split-01-split-01.answers.json",
+      "size": 6018
+    },
+    {
+      "subject": "physics-1st-paper",
+      "file": "physicsfirstpaperfinalsets-split-02-split-01-split-01-split-01-split-01-split-01-split-01-split-01-split-01-split-01-split-01-split-01-split-01.answers.json",
+      "size": 8455
+    },
+    {
+      "subject": "physics-1st-paper",
+      "file": "physicsfirstpaperfinalsets-split-02-split-01-split-01-split-01.answers.json",
+      "size": 6430
+    },
+    {
+      "subject": "physics-1st-paper",
+      "file": "physicsfirstpaperfinalsets-split-02-split-01-split-01.answers.json",
+      "size": 6205
+    },
+    {
+      "subject": "physics-1st-paper",
+      "file": "physicsfirstpaperfinalsets-split-02-split-01.answers.json",
+      "size": 5980
+    },
+    {
+      "subject": "physics-1st-paper",
+      "file": "physicsfirstpapersets10and13-split-01-split-01-split-01-split-01-split-01-split-01-split-01-split-01-split-01-split-01-split-01-split-01-split-01.answers.json",
+      "size": 6878
+    },
+    {
+      "subject": "physics-1st-paper",
+      "file": "physicsfirstpapersets10and13-split-01-split-01-split-01-split-01.answers.json",
+      "size": 4853
+    },
+    {
+      "subject": "physics-1st-paper",
+      "file": "physicsfirstpapersets10and13-split-01-split-01-split-01.answers.json",
+      "size": 4628
+    },
+    {
+      "subject": "physics-1st-paper",
+      "file": "physicsfirstpapersets10and13-split-01-split-01.answers.json",
+      "size": 4403
+    },
+    {
+      "subject": "physics-1st-paper",
+      "file": "physicsfirstpapersets10and13-split-02-split-01-split-01-split-01-split-01-split-01-split-01-split-01-split-01-split-01-split-01-split-01-split-01.answers.json",
+      "size": 7219
+    },
+    {
+      "subject": "physics-1st-paper",
+      "file": "physicsfirstpapersets10and13-split-02-split-01-split-01-split-01.answers.json",
+      "size": 5194
+    },
+    {
+      "subject": "physics-1st-paper",
+      "file": "physicsfirstpapersets10and13-split-02-split-01-split-01.answers.json",
+      "size": 4969
+    },
+    {
+      "subject": "physics-1st-paper",
+      "file": "physicsfirstpapersets10and13-split-02-split-01.answers.json",
+      "size": 4744
+    },
+    {
+      "subject": "physics-1st-paper",
+      "file": "physicsfirstpapersets11and12-split-01-split-01-split-01-split-01-split-01-split-01-split-01-split-01-split-01-split-01-split-01-split-01-split-01.answers.json",
+      "size": 10393
+    },
+    {
+      "subject": "physics-1st-paper",
+      "file": "physicsfirstpapersets11and12-split-01-split-01-split-01-split-01.answers.json",
+      "size": 8368
+    },
+    {
+      "subject": "physics-1st-paper",
+      "file": "physicsfirstpapersets11and12-split-01-split-01-split-01.answers.json",
+      "size": 8143
+    },
+    {
+      "subject": "physics-1st-paper",
+      "file": "physicsfirstpapersets11and12-split-01-split-01.answers.json",
+      "size": 7918
+    },
+    {
+      "subject": "physics-1st-paper",
+      "file": "physicsfirstpapersets11and12-split-02-split-01-split-01-split-01-split-01-split-01-split-01-split-01-split-01-split-01-split-01-split-01-split-01.answers.json",
+      "size": 9888
+    },
+    {
+      "subject": "physics-1st-paper",
+      "file": "physicsfirstpapersets11and12-split-02-split-01-split-01-split-01.answers.json",
+      "size": 7863
+    },
+    {
+      "subject": "physics-1st-paper",
+      "file": "physicsfirstpapersets11and12-split-02-split-01-split-01.answers.json",
+      "size": 7638
+    },
+    {
+      "subject": "physics-1st-paper",
+      "file": "physicsfirstpapersets11and12-split-02-split-01.answers.json",
+      "size": 7413
+    },
+    {
+      "subject": "physics-1st-paper",
+      "file": "physicsfirstpapersets14to17-split-01-split-01-split-01-split-01-split-01-split-01-split-01-split-01-split-01-split-01-split-01-split-01-split-01.answers.json",
+      "size": 6994
+    },
+    {
+      "subject": "physics-1st-paper",
+      "file": "physicsfirstpapersets14to17-split-01-split-01-split-01-split-01.answers.json",
+      "size": 4969
+    },
+    {
+      "subject": "physics-1st-paper",
+      "file": "physicsfirstpapersets14to17-split-01-split-01-split-01.answers.json",
+      "size": 4744
+    },
+    {
+      "subject": "physics-1st-paper",
+      "file": "physicsfirstpapersets14to17-split-01-split-01.answers.json",
+      "size": 4519
+    },
+    {
+      "subject": "physics-1st-paper",
+      "file": "physicsfirstpapersets14to17-split-02-split-01-split-01-split-01-split-01-split-01-split-01-split-01-split-01-split-01-split-01-split-01-split-01.answers.json",
+      "size": 6539
+    },
+    {
+      "subject": "physics-1st-paper",
+      "file": "physicsfirstpapersets14to17-split-02-split-01-split-01-split-01.answers.json",
+      "size": 4514
+    },
+    {
+      "subject": "physics-1st-paper",
+      "file": "physicsfirstpapersets14to17-split-02-split-01-split-01.answers.json",
+      "size": 4289
+    },
+    {
+      "subject": "physics-1st-paper",
+      "file": "physicsfirstpapersets14to17-split-02-split-01.answers.json",
+      "size": 4064
+    },
+    {
+      "subject": "physics-1st-paper",
+      "file": "physicsfirstpapersets14to17-split-03-split-01-split-01-split-01-split-01-split-01-split-01-split-01-split-01-split-01-split-01-split-01-split-01.answers.json",
+      "size": 7986
+    },
+    {
+      "subject": "physics-1st-paper",
+      "file": "physicsfirstpapersets14to17-split-03-split-01-split-01-split-01.answers.json",
+      "size": 5961
+    },
+    {
+      "subject": "physics-1st-paper",
+      "file": "physicsfirstpapersets14to17-split-03-split-01-split-01.answers.json",
+      "size": 5736
+    },
+    {
+      "subject": "physics-1st-paper",
+      "file": "physicsfirstpapersets14to17-split-03-split-01.answers.json",
+      "size": 5511
+    }
+  ],
+  "errors": [],
+  "summary": {
+    "splitDeleted": 44,
+    "indexFixes": 68,
+    "orphanAnswersDeleted": 62
+  }
+}
