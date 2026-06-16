@@ -92,11 +92,18 @@ describe("Quiz Store Logic", () => {
 
     const mockPost = vi.mocked(api.post);
     mockPost.mockResolvedValueOnce({
-      totalQuestions: 2,
-      correct: 1,
-      wrong: 0,
-      skipped: 1,
-      score: 1,
+      totalScore: 1,
+      correctCount: 1,
+      wrongCount: 0,
+      skippedCount: 1,
+      accuracy: 50,
+      timePerQuestion: 22.5,
+      chapterPerformance: {},
+      difficultyPerformance: {},
+      eloRatingChange: 0,
+      weakTopics: [],
+      strongTopics: [],
+      explanations: {},
     });
 
     const results = await useQuizStore
