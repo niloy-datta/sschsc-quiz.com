@@ -8,7 +8,7 @@ Repo: `niloy-datta/sschsc-quiz.com`
 | File | Change |
 | --- | --- |
 | `scripts/lint-project.js` | Aligned public answer-key leak check with the existing answer sync audit fields and skipped `index.json` metadata files. |
-| `backend/app/config.py` | Added production-only startup guard for weak/default protected configuration values. |
+| `backend/app/config.py` | Added production-only startup guard for weak/default protected configuration values and added project ID fallback support. |
 | `scripts/deployment-readiness-check.js` | Added static readiness check for the production configuration guard. |
 
 ## Safety policy followed
@@ -24,6 +24,7 @@ Repo: `niloy-datta/sschsc-quiz.com`
 - Deployment payload hygiene: improved.
 - Project-specific lint gate: improved.
 - Production configuration safety: improved.
+- Backend project ID environment handling: improved.
 
 ## Remaining items that cannot be safely auto-fixed
 
