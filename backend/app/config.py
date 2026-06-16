@@ -58,7 +58,9 @@ class Settings:
     GOOGLE_CLIENT_SECRET: str = os.getenv("GOOGLE_CLIENT_SECRET", "").strip()
 
     # Firestore project ID (same as Firebase project)
-    GOOGLE_PROJECT_ID: str = os.getenv("FIREBASE_PROJECT_ID", "").strip()
+    GOOGLE_PROJECT_ID: str = (
+        os.getenv("FIREBASE_PROJECT_ID") or os.getenv("GOOGLE_PROJECT_ID") or ""
+    ).strip()
 
     # Frontend origin (Next.js) — used for CORS
     _frontend_url: str = os.getenv(
