@@ -1,5 +1,8 @@
 name: Autonomous Launch Gate
 
+env:
+  FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: "true"
+
 on:
   workflow_dispatch:
   push:
@@ -37,15 +40,16 @@ jobs:
       - name: Setup Node.js
         uses: actions/setup-node@v4
         with:
-          node-version: '20'
+          node-version: '22'
+          cache: 'pnpm'
 
-      - name: Setup pnpm
-        uses: pnpm/action-setup@v4
-        with:
-          version: 9
+      - name: Enable Corepack
+        run: corepack enable
 
       - name: Install dependencies
-        run: pnpm install --frozen-lockfile=false
+        run: |
+          pnpm --version
+          pnpm install --frozen-lockfile=false
 
       - name: Create reports folder
         run: mkdir -p data/reports
@@ -69,16 +73,17 @@ jobs:
             fi
           }
           run_cmd 'node scripts/deployment-readiness-check.js'
-          run_cmd 'npm run data:audit'
-          run_cmd 'npm run data:audit-papers'
-          run_cmd 'npm run data:audit-answers-sync'
-          run_cmd 'npm run data:validate-mcq'
-          run_cmd 'npm run data:validate-mcq:strict'
-          run_cmd 'npm run data:detect-missing-svg'
-          run_cmd 'npm run lint'
-          run_cmd 'npm run typecheck'
-          run_cmd 'npm run test'
-          run_cmd 'npm run build'
+          run_cmd 'pnpm run data:audit'
+          run_cmd 'pnpm run data:audit-papers'
+          run_cmd 'pnpm run data:audit-answers-sync'
+          run_cmd 'pnpm run data:validate-mcq'
+          run_cmd 'pnpm run data:validate-mcq:strict'
+          run_cmd 'pnpm run data:detect-missing-svg'
+          run_cmd 'node scripts/ci-check-premium-svgs.js'
+          run_cmd 'pnpm run lint'
+          run_cmd 'pnpm run typecheck'
+          run_cmd 'pnpm run test'
+          run_cmd 'pnpm run build'
           if grep -q ',failed,' data/reports/autonomous_launch_gate.csv; then
             exit 1
           fi
