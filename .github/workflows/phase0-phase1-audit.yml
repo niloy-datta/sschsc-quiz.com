@@ -1,0 +1,98 @@
+name: Phase 0-1 Audit
+
+on:
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+    paths:
+      - '.github/workflows/phase0-phase1-audit.yml'
+      - 'package.json'
+      - 'public/quiz-data/**'
+      - 'public/questions/**'
+      - 'scripts/**'
+      - 'src/**'
+      - 'app/**'
+
+jobs:
+  phase0_phase1_audit:
+    name: Backup-style inventory and data validation
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Setup pnpm
+        uses: pnpm/action-setup@v4
+        with:
+          version: 9
+
+      - name: Install dependencies
+        run: pnpm install --frozen-lockfile=false
+
+      - name: Create report folders
+        run: |
+          mkdir -p data/reports
+          mkdir -p data/backups/ci-phase0-inventory
+
+      - name: Phase 0 inventory report
+        run: |
+          {
+            echo '# Phase 0 CI Inventory Report'
+            echo
+            echo '| Item | Exists? | Notes |'
+            echo '| --- | --- | --- |'
+            [ -d public/quiz-data ] && echo '| public/quiz-data | yes | quiz data folder found |' || echo '| public/quiz-data | no | missing |'
+            [ -d public/questions ] && echo '| public/questions | yes | public questions folder found |' || echo '| public/questions | no | missing |'
+            [ -d public/images/quiz ] && echo '| public/images/quiz | yes | quiz images folder found |' || echo '| public/images/quiz | no | optional/missing |'
+            [ -d public/images/board-scanned ] && echo '| public/images/board-scanned | yes | board scanned folder found |' || echo '| public/images/board-scanned | no | optional/missing |'
+            [ -d scripts ] && echo '| scripts | yes | scripts folder found |' || echo '| scripts | no | missing |'
+            [ -f package.json ] && echo '| package.json | yes | package file found |' || echo '| package.json | no | missing |'
+          } > data/reports/phase0_ci_inventory_report.md
+
+      - name: ICT live-data scan
+        run: |
+          {
+            echo '# ICT Live Data Scan'
+            echo
+            echo 'ICT must not be live. This scan checks common live paths and code references.'
+            echo
+            echo '## File/path hits'
+            find public data src app scripts -iname '*ict*' 2>/dev/null || true
+            echo
+            echo '## Text hits'
+            grep -RIn --exclude-dir=node_modules --exclude-dir=.git -E 'ICT|ict|আইসিটি' public data src app scripts 2>/dev/null || true
+          } > data/reports/phase1_ict_status_report.md
+
+      - name: Data audit
+        run: npm run data:audit
+
+      - name: Paper/model-test audit
+        run: npm run data:audit-papers
+
+      - name: MCQ validation
+        run: npm run data:validate-mcq
+
+      - name: Strict MCQ validation
+        run: npm run data:validate-mcq:strict
+
+      - name: Typecheck
+        run: npm run typecheck
+
+      - name: Upload reports
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: phase0-phase1-audit-reports
+          path: |
+            data/reports/**
+            scripts/*report*.json
+            scripts/*report*.md
+          if-no-files-found: ignore
