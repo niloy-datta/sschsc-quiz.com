@@ -1,0 +1,31 @@
+# MICRO HYPER PROMPT — Ch 06 Set 05 ONLY (25 MCQ)
+# Chapter: ত্রিকোণমিতিক অনুপাত
+# Paste AFTER 00-MASTER-HYPER-PROMPT.txt
+# Save output: data/imports/hsc-higher-math-1st-paper-chapter-06-set-05.json
+
+## TASK
+Generate **ONLY Set 05** for Chapter 06: ত্রিকোণমিতিক অনুপাত.
+Exactly **25 unique MCQ**. Set ID: hsc-higher-math-1st-paper-chapter-06-set-05
+
+## SET FOCUS
+Hard + Conceptual Trap + Final Board Simulator
+
+## MEGA HOT SUBTOPICS
+ASTC rule, allied angles, sum-product formulas, double angle, half angle, general solution basics, graph values, max-min
+
+## JSON (single-set wrapper)
+{
+  "level": "HSC",
+  "subject": "higher-math-1st-paper",
+  "chapterWise": [{
+    "chapter": "06",
+    "chapterName": "ত্রিকোণমিতিক অনুপাত",
+    "sets": [{
+      "id": "hsc-higher-math-1st-paper-chapter-06-set-05",
+      "title": "Chapter 06 Hyper Mega Hot Set 05",
+      "questions": [ /* exactly 25 */ ]
+    }]
+  }]
+}
+
+Output JSON only.

@@ -1,0 +1,282 @@
+{
+  "setId": "chapter-04-split-03",
+  "reason": "DUPLICATE_OF_chapter-04-split-03",
+  "quarantinedAt": "2026-06-16T10:44:44.885Z",
+  "questions": [
+    {
+      "id": "chapter-04-split-03-q01",
+      "questionText": "একটি গোলক সান্দ্র মাধ্যমে পড়লে তার প্রান্তিক বেগ গোলক ও মাধ্যমের ঘনত্বের পার্থক্যের ($\\\\rho - \\\\sigma$) সাথে কীভাবে সম্পর্কিত?",
+      "optionA": "সমানুপাতিক",
+      "optionB": "ব্যস্তানুপাতিক",
+      "optionC": "বর্গের সমানুপাতিক",
+      "optionD": "বর্গের ব্যস্তানুপাতিক",
+      "correctOption": "A",
+      "explanation": "",
+      "questionNo": 1
+    },
+    {
+      "id": "chapter-04-split-03-q02",
+      "questionText": "গোলকের ঘনত্ব মাধ্যমের ঘনত্বের চেয়ে কম হলে (যেমন পানিতে বুদবুদ) প্রান্তিক বেগের দিক কোন দিকে হবে?",
+      "optionA": "খাড়া নিচের দিকে",
+      "optionB": "খাড়া উপরের দিকে",
+      "optionC": "অনুভূমিক দিকে",
+      "optionD": "স্থির থাকবে",
+      "correctOption": "B",
+      "explanation": "",
+      "questionNo": 2
+    },
+    {
+      "id": "chapter-04-split-03-q03",
+      "questionText": "প্যারাসুট ব্যবহার করে নিরাপদে নিচে নামার বৈজ্ঞানিক ভিত্তি কী?",
+      "optionA": "পৃষ্ঠটান",
+      "optionB": "প্লবতা",
+      "optionC": "প্রান্তিক বেগ বা বাতাসের সান্দ্র বাধা",
+      "optionD": "কৈশিকতা",
+      "correctOption": "C",
+      "explanation": "",
+      "questionNo": 3
+    },
+    {
+      "id": "chapter-04-split-03-q04",
+      "questionText": "ধারা-রেখা প্রবাহ (Streamline Flow) বা শান্ত প্রবাহের ক্ষেত্রে রেনল্ডস নম্বর ($R_e$) কত হওয়া উচিত?",
+      "optionA": "২০০০ এর কম",
+      "optionB": "২০০০ থেকে ৩০০০ এর মধ্যে",
+      "optionC": "৩০০০ এর বেশি",
+      "optionD": "৫০০০ এর বেশি",
+      "correctOption": "A",
+      "explanation": "",
+      "questionNo": 4
+    },
+    {
+      "id": "chapter-04-split-03-q05",
+      "questionText": "রেনল্ডস নম্বর ৩০০০ এর বেশি হলে প্রবাহ কীরূপ হয়?",
+      "optionA": "শান্ত",
+      "optionB": "বিক্ষিপ্ত বা টারবুলেন্ট (Turbulent flow)",
+      "optionC": "স্থির",
+      "optionD": "স্তরীয়",
+      "correctOption": "B",
+      "explanation": "",
+      "questionNo": 5
+    },
+    {
+      "id": "chapter-04-split-03-q06",
+      "questionText": "একটি পাইপের ব্যাস অর্ধেক হয়ে গেলে সেখানে তরলের বেগ কতগুণ হবে?",
+      "optionA": "অর্ধেক",
+      "optionB": "দ্বিগুণ",
+      "optionC": "চারগুণ",
+      "optionD": "অপরিবর্তিত",
+      "correctOption": "C",
+      "explanation": "",
+      "questionNo": 6
+    },
+    {
+      "id": "chapter-04-split-03-q07",
+      "questionText": "বার্নুলির উপপাদ্য (Bernoulli's Theorem) প্রবাহীর কোন সংরক্ষণ নীতির উপর প্রতিষ্ঠিত?",
+      "optionA": "ভর",
+      "optionB": "ভরবেগ",
+      "optionC": "শক্তি (Energy)",
+      "optionD": "চার্জ",
+      "correctOption": "C",
+      "explanation": "",
+      "questionNo": 7
+    },
+    {
+      "id": "chapter-04-split-03-q08",
+      "questionText": "বার্নুলির সমীকরণ অনুযায়ী, অনুভূমিক পাইপে তরলের বেগ বৃদ্ধি পেলে চাপের কী পরিবর্তন ঘটে?",
+      "optionA": "চাপ বাড়ে",
+      "optionB": "চাপ কমে",
+      "optionC": "চাপ ধ্রুব থাকে",
+      "optionD": "চাপ শূন্য হয়",
+      "correctOption": "B",
+      "explanation": "",
+      "questionNo": 8
+    },
+    {
+      "id": "chapter-04-split-03-q09",
+      "questionText": "ঝড় বা টর্নেডোর সময় ঘরের টিনের চাল উড়ে যাওয়ার কারণ কোন নীতি দিয়ে ব্যাখ্যা করা যায়?",
+      "optionA": "আর্কিমিডিসের নীতি",
+      "optionB": "স্টোকসের সূত্র",
+      "optionC": "বার্নুলির নীতি",
+      "optionD": "হুকের সূত্র",
+      "correctOption": "C",
+      "explanation": "",
+      "questionNo": 9
+    },
+    {
+      "id": "chapter-04-split-03-q10",
+      "questionText": "উড়োজাহাজের ডানা বা অ্যারোফয়েল (Aerofoil) ডিজাইনে কোন নীতি ব্যবহৃত হয়?",
+      "optionA": "পাস্কেলের সূত্র",
+      "optionB": "নিউটনের মহাকর্ষ সূত্র",
+      "optionC": "বার্নুলির নীতি",
+      "optionD": "স্টোকসের সূত্র",
+      "correctOption": "C",
+      "explanation": "",
+      "questionNo": 10
+    },
+    {
+      "id": "chapter-04-split-03-q11",
+      "questionText": "স্পিন বোলাররা ক্রিকেটে বলকে কীভাবে বাঁকান (Swing)? এটি ফিজিক্সের কোন প্রভাব?",
+      "optionA": "ডপলার ক্রিয়া",
+      "optionB": "ম্যাগনাস ক্রিয়া (Magnus Effect)",
+      "optionC": "রমন ক্রিয়া",
+      "optionD": "জিম্যান ক্রিয়া",
+      "correctOption": "B",
+      "explanation": "",
+      "questionNo": 11
+    },
+    {
+      "id": "chapter-04-split-03-q12",
+      "questionText": "ভেঞ্চুরিমিটার (Venturimeter) যন্ত্রটি কী পরিমাপ করতে ব্যবহৃত হয়?",
+      "optionA": "তরলের চাপ",
+      "optionB": "তরলের প্রবাহের হার বা বেগ",
+      "optionC": "তরলের ঘনত্ব",
+      "optionD": "তরলের সান্দ্রতা",
+      "correctOption": "B",
+      "explanation": "",
+      "questionNo": 12
+    },
+    {
+      "id": "chapter-04-split-03-q13",
+      "questionText": "পিটট নল (Pitot Tube) কী কাজে ব্যবহৃত হয়?",
+      "optionA": "বিমানের বেগ নির্ণয়ে",
+      "optionB": "তরলের পৃষ্ঠটান নির্ণয়ে",
+      "optionC": "তাপমাত্রা নির্ণয়ে",
+      "optionD": "গ্যাসের আয়তন নির্ণয়ে",
+      "correctOption": "A",
+      "explanation": "",
+      "questionNo": 13
+    },
+    {
+      "id": "chapter-04-split-03-q14",
+      "questionText": "ইস্পাত ও রাবারের মধ্যে কোনটি বেশি স্থিতিস্থাপক এবং কেন?",
+      "optionA": "রাবার, কারণ এটি বেশি প্রসারিত হয়",
+      "optionB": "ইস্পাত, কারণ একই বিকৃতি ঘটাতে ইস্পাতে বেশি বল বা পীড়ন লাগে",
+      "optionC": "রাবার, কারণ এর ইয়ং গুণাঙ্ক বেশি",
+      "optionD": "ইস্পাত, কারণ এটি ভাঙে না",
+      "correctOption": "B",
+      "explanation": "",
+      "questionNo": 14
+    },
+    {
+      "id": "chapter-04-split-03-q15",
+      "questionText": "পৃষ্ঠটান তরলের কোন ধর্মের কারণে কাজ করে?",
+      "optionA": "এটি তরলের মুক্ত তলের ক্ষেত্রফল বাড়াতে চায়",
+      "optionB": "এটি তরলের মুক্ত তলের ক্ষেত্রফল সর্বনিম্ন করতে চায়",
+      "optionC": "এটি তরলকে গ্যাসে রূপান্তর করে",
+      "optionD": "এটি সান্দ্রতা বৃদ্ধি করে",
+      "correctOption": "B",
+      "explanation": "",
+      "questionNo": 15
+    },
+    {
+      "id": "chapter-04-split-03-q16",
+      "questionText": "কোনো তরলের কৈশিক উত্থান (Capillary Rise) এর ক্ষেত্রে মেনিসকাস (Meniscus) বা তরলপৃষ্ঠের আকৃতি কেমন হয়? (যেমন- পানি)",
+      "optionA": "উত্তল (Convex)",
+      "optionB": "অবতল (Concave)",
+      "optionC": "সমতল",
+      "optionD": "তরঙ্গাকার",
+      "correctOption": "B",
+      "explanation": "",
+      "questionNo": 16
+    },
+    {
+      "id": "chapter-04-split-03-q17",
+      "questionText": "পারদের ক্ষেত্রে কৈশিক নলে মেনিসকাসের আকৃতি কেমন হয়?",
+      "optionA": "উত্তল (Convex)",
+      "optionB": "অবতল (Concave)",
+      "optionC": "সমতল",
+      "optionD": "তরঙ্গাকার",
+      "correctOption": "A",
+      "explanation": "",
+      "questionNo": 17
+    },
+    {
+      "id": "chapter-04-split-03-q18",
+      "questionText": "৮টি একই ব্যাসার্ধের পানির ফোঁটা মিলে একটি বড় ফোঁটা তৈরি করলে পৃষ্ঠশক্তি কীরূপ পরিবর্তিত হবে?",
+      "optionA": "অর্ধেক হবে",
+      "optionB": "দ্বিগুণ হবে",
+      "optionC": "চারগুণ হবে",
+      "optionD": "অপরিবর্তিত থাকবে",
+      "correctOption": "A",
+      "explanation": "",
+      "questionNo": 18
+    },
+    {
+      "id": "chapter-04-split-03-q19",
+      "questionText": "একই উপাদানের দুটি তারের দৈর্ঘ্যের অনুপাত $1:2$ এবং ব্যাসের অনুপাত $2:1$। তাদের টেনে একই পরিমাণ প্রসারিত করতে প্রযুক্ত বলের অনুপাত কত হবে?",
+      "optionA": "$1:8$",
+      "optionB": "$8:1$",
+      "optionC": "$4:1$",
+      "optionD": "$1:4$",
+      "correctOption": "B",
+      "explanation": "",
+      "questionNo": 19
+    },
+    {
+      "id": "chapter-04-split-03-q20",
+      "questionText": "স্প্রে মেশিন (Atomizer) বা কার্বুরেটর কোন নীতির উপর কাজ করে?",
+      "optionA": "আর্কিমিডিসের সূত্র",
+      "optionB": "বার্নুলির উপপাদ্য",
+      "optionC": "স্টোকসের সূত্র",
+      "optionD": "প্যাসকেলের সূত্র",
+      "correctOption": "B",
+      "explanation": "",
+      "questionNo": 20
+    },
+    {
+      "id": "chapter-04-split-03-q21",
+      "questionText": "রক্তচাপ মাপার যন্ত্রের (Sphygmomanometer) কাজ প্রবাহীর কোন নীতির সাথে সম্পর্কিত?",
+      "optionA": "রেনল্ডস নম্বর (বিক্ষিপ্ত প্রবাহের শব্দ শুনে)",
+      "optionB": "পৃষ্ঠটান",
+      "optionC": "কৈশিকতা",
+      "optionD": "সান্দ্রতা শূন্য হওয়া",
+      "correctOption": "A",
+      "explanation": "",
+      "questionNo": 21
+    },
+    {
+      "id": "chapter-04-split-03-q22",
+      "questionText": "তরলের পৃষ্ঠটান পরিমাপে ল্যাবরেটরিতে কোন পদ্ধতি বেশি ব্যবহৃত হয়?",
+      "optionA": "কৈশিক নল পদ্ধতি",
+      "optionB": "স্টোকস পদ্ধতি",
+      "optionC": "পিটট নল পদ্ধতি",
+      "optionD": "ভেঞ্চুরিমিটার",
+      "correctOption": "A",
+      "explanation": "",
+      "questionNo": 22
+    },
+    {
+      "id": "chapter-04-split-03-q23",
+      "questionText": "প্লবতা (Buoyancy) কোন বিন্দু দিয়ে কাজ করে?",
+      "optionA": "বস্তুর ভারকেন্দ্র",
+      "optionB": "অপসারিত তরলের ভারকেন্দ্র (Center of Buoyancy)",
+      "optionC": "বস্তুর পৃষ্ঠ",
+      "optionD": "পাত্রের তলদেশ",
+      "correctOption": "B",
+      "explanation": "",
+      "questionNo": 23
+    },
+    {
+      "id": "chapter-04-split-03-q24",
+      "questionText": "একটি নিরেট গোলক ও একটি ফাঁপা গোলকের ব্যাসার্ধ ও ভর সমান। পানিতে ফেললে—",
+      "optionA": "উভয়েই একই প্লবতা অনুভব করবে",
+      "optionB": "নিরেট গোলক বেশি প্লবতা অনুভব করবে",
+      "optionC": "ফাঁপা গোলক বেশি প্লবতা অনুভব করবে",
+      "optionD": "প্লবতা শূন্য হবে",
+      "correctOption": "A",
+      "explanation": "",
+      "questionNo": 24
+    },
+    {
+      "id": "chapter-04-split-03-q25",
+      "questionText": "স্টোকসের সূত্র অনুযায়ী, প্রান্তিক বেগে পৌঁছার পর সান্দ্র বল, প্লবতা এবং ওজনের মধ্যে সম্পর্ক কী?",
+      "optionA": "ওজন = সান্দ্র বল + প্লবতা",
+      "optionB": "প্লবতা = ওজন + সান্দ্র বল",
+      "optionC": "সান্দ্র বল = ওজন + প্লবতা",
+      "optionD": "ওজন = সান্দ্র বল",
+      "correctOption": "A",
+      "explanation": "",
+      "questionNo": 25
+    }
+  ]
+}

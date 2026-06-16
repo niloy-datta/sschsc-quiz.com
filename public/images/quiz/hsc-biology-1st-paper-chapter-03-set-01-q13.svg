@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="100%" height="100%" viewBox="0 0 360 220">
+  <defs>
+    <radialGradient id="bg" cx="50%" cy="45%" r="75%"><stop offset="0%" stop-color="#172554"/><stop offset="100%" stop-color="#020617"/></radialGradient>
+    <filter id="g"><feDropShadow dx="0" dy="0" stdDeviation="5" flood-color="#a78bfa" flood-opacity=".65"/></filter>
+    <style>.ring{fill:none;stroke:#a78bfa;stroke-width:8;stroke-linecap:round;filter:url(#g)}.helix{fill:none;stroke:#facc15;stroke-width:3;stroke-linecap:round}.dot{fill:#fff7ed}</style>
+  </defs>
+  <rect width="360" height="220" rx="18" fill="url(#bg)"/>
+  <ellipse cx="180" cy="112" rx="102" ry="58" class="ring"/>
+  <ellipse cx="180" cy="112" rx="72" ry="38" fill="none" stroke="#e0f2fe" stroke-width="1.5" opacity=".75"/>
+  <path d="M110 112 C145 75 215 149 250 112" class="helix"/>
+  <path d="M110 112 C145 149 215 75 250 112" class="helix"/>
+  <circle cx="110" cy="112" r="5" class="dot"/><circle cx="250" cy="112" r="5" class="dot"/>
+</svg>
+

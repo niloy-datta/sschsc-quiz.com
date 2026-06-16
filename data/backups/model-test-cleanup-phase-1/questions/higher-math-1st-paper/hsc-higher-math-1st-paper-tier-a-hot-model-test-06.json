@@ -1,0 +1,377 @@
+[
+  {
+    "id": "hsc-higher-math-1st-paper-tier-a-hot-model-test-06-q01",
+    "subject": "higher-math-1st-paper",
+    "chapter": "hsc-higher-math-1st-paper-tier-a-hot-model-test-06",
+    "text": "[উদ্দীপক ১] উদ্দীপক: একটি বৃত্তের সমীকরণ $x^2 + y^2 - 4x - 6y + c = 0$ যা $x$-অক্ষকে স্পর্শ করে। $c$ এর মান কত?",
+    "options": [
+      "$4$",
+      "$9$",
+      "$16$",
+      "$36$"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-higher-math-1st-paper-tier-a-hot-model-test-06-q02",
+    "subject": "higher-math-1st-paper",
+    "chapter": "hsc-higher-math-1st-paper-tier-a-hot-model-test-06",
+    "text": "[উদ্দীপক ১] উদ্দীপক: একটি বৃত্তের সমীকরণ $x^2 + y^2 - 4x - 6y + c = 0$ যা $x$-অক্ষকে স্পর্শ করে। বৃত্তটি $y$-অক্ষ থেকে কী পরিমাণ অংশ ছেদ করে?",
+    "options": [
+      "$2\\sqrt{5}$",
+      "$4\\sqrt{5}$",
+      "$5$",
+      "$2\\sqrt{13}$"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-higher-math-1st-paper-tier-a-hot-model-test-06-q03",
+    "subject": "higher-math-1st-paper",
+    "chapter": "hsc-higher-math-1st-paper-tier-a-hot-model-test-06",
+    "text": "[উদ্দীপক ২] উদ্দীপক: $\\vec{A} = 2\\hat{i} + 3\\hat{j} - \\hat{k}$ এবং $\\vec{B} = m\\hat{i} - 6\\hat{j} + 2\\hat{k}$ দুটি ভেক্টর। $m$ এর মান কত হলে ভেক্টরদ্বয় সমান্তরাল হবে?",
+    "options": [
+      "$4$",
+      "$-4$",
+      "$3$",
+      "$-3$"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-higher-math-1st-paper-tier-a-hot-model-test-06-q04",
+    "subject": "higher-math-1st-paper",
+    "chapter": "hsc-higher-math-1st-paper-tier-a-hot-model-test-06",
+    "text": "[উদ্দীপক ২] উদ্দীপক: $\\vec{A} = 2\\hat{i} + 3\\hat{j} - \\hat{k}$ এবং $\\vec{B} = m\\hat{i} - 6\\hat{j} + 2\\hat{k}$ দুটি ভেক্টর। $m=1$ হলে ভেক্টর দুটির ডট গুণন ($\\vec{A} \\cdot \\vec{B}$) কত হবে?",
+    "options": [
+      "$-18$",
+      "$-16$",
+      "$-14$",
+      "$18$"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-higher-math-1st-paper-tier-a-hot-model-test-06-q05",
+    "subject": "higher-math-1st-paper",
+    "chapter": "hsc-higher-math-1st-paper-tier-a-hot-model-test-06",
+    "text": "$\\begin{pmatrix} 4 & 5 \\\\ 2 & 3 \\end{pmatrix}$ ম্যাট্রিক্সটির বিপরীত ম্যাট্রিক্স (Inverse Matrix) কোনটি?",
+    "options": [
+      "$\\begin{pmatrix} 3/2 & -5/2 \\\\ -1 & 2 \\end{pmatrix}$",
+      "$\\begin{pmatrix} 3 & -5 \\\\ -2 & 4 \\end{pmatrix}$",
+      "$\\begin{pmatrix} 1/2 & 5/2 \\\\ 1 & 2 \\end{pmatrix}$",
+      "$\\begin{pmatrix} 4/2 & 5/2 \\\\ 2 & 3/2 \\end{pmatrix}$"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-higher-math-1st-paper-tier-a-hot-model-test-06-q06",
+    "subject": "higher-math-1st-paper",
+    "chapter": "hsc-higher-math-1st-paper-tier-a-hot-model-test-06",
+    "text": "$(-1, \\sqrt{3})$ বিন্দুর পোলার স্থানাঙ্ক কোনটি?",
+    "options": [
+      "$(2, 60^\\circ)$",
+      "$(2, 120^\\circ)$",
+      "$(2, 150^\\circ)$",
+      "$(2, 240^\\circ)$"
+    ],
+    "image": "/images/quiz/premium/hsc-higher-math-1st-paper-tier-a-hot-model-test-06-q06.svg",
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-higher-math-1st-paper-tier-a-hot-model-test-06-q07",
+    "subject": "higher-math-1st-paper",
+    "chapter": "hsc-higher-math-1st-paper-tier-a-hot-model-test-06",
+    "text": "$\\frac{d}{dx} (\\ln \\cos x)$ এর মান কত?",
+    "options": [
+      "$\\tan x$",
+      "$-\\tan x$",
+      "$\\cot x$",
+      "$-\\cot x$"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-higher-math-1st-paper-tier-a-hot-model-test-06-q08",
+    "subject": "higher-math-1st-paper",
+    "chapter": "hsc-higher-math-1st-paper-tier-a-hot-model-test-06",
+    "text": "$10$ জন খেলোয়াড় থেকে $11$ জনের ক্রিকেট দল গঠন করা সম্ভব কত উপায়ে?",
+    "options": [
+      "$0$",
+      "$1$",
+      "$10!$",
+      "অসংজ্ঞায়িত"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-higher-math-1st-paper-tier-a-hot-model-test-06-q09",
+    "subject": "higher-math-1st-paper",
+    "chapter": "hsc-higher-math-1st-paper-tier-a-hot-model-test-06",
+    "text": "$\\lim_{x \\to 0} \\frac{1 - \\cos x}{x^2}$ এর মান কত?",
+    "options": [
+      "$0$",
+      "$1$",
+      "$\\frac{1}{2}$",
+      "$2$"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-higher-math-1st-paper-tier-a-hot-model-test-06-q10",
+    "subject": "higher-math-1st-paper",
+    "chapter": "hsc-higher-math-1st-paper-tier-a-hot-model-test-06",
+    "text": "$\\int_{0}^{1} \\frac{dx}{1+x^2}$ এর মান কত?",
+    "options": [
+      "$\\frac{\\pi}{4}$",
+      "$\\frac{\\pi}{2}$",
+      "$\\pi$",
+      "$1$"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-higher-math-1st-paper-tier-a-hot-model-test-06-q11",
+    "subject": "higher-math-1st-paper",
+    "chapter": "hsc-higher-math-1st-paper-tier-a-hot-model-test-06",
+    "text": "$x + \\sqrt{3}y + 4 = 0$ সরলরেখাটি $x$-অক্ষের ধনাত্মক দিকের সাথে কত কোণ উৎপন্ন করে?",
+    "options": [
+      "$30^\\circ$",
+      "$60^\\circ$",
+      "$120^\\circ$",
+      "$150^\\circ$"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-higher-math-1st-paper-tier-a-hot-model-test-06-q12",
+    "subject": "higher-math-1st-paper",
+    "chapter": "hsc-higher-math-1st-paper-tier-a-hot-model-test-06",
+    "text": "$y = x^2$ এবং $y = x$ দ্বারা আবদ্ধ ক্ষেত্রের ক্ষেত্রফল কত?",
+    "options": [
+      "$\\frac{1}{2}$",
+      "$\\frac{1}{3}$",
+      "$\\frac{1}{6}$",
+      "$1$"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-higher-math-1st-paper-tier-a-hot-model-test-06-q13",
+    "subject": "higher-math-1st-paper",
+    "chapter": "hsc-higher-math-1st-paper-tier-a-hot-model-test-06",
+    "text": "$\\tan\\theta + \\cot\\theta = 2$ হলে, $\\theta$ এর মান কত? (যেখানে $0^\\circ < \\theta < 90^\\circ$)",
+    "options": [
+      "$30^\\circ$",
+      "$45^\\circ$",
+      "$60^\\circ$",
+      "$90^\\circ$"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-higher-math-1st-paper-tier-a-hot-model-test-06-q14",
+    "subject": "higher-math-1st-paper",
+    "chapter": "hsc-higher-math-1st-paper-tier-a-hot-model-test-06",
+    "text": "কোনো ম্যাট্রিক্স $A$ এর মাত্রা $4 \\times 3$ এবং $B$ এর মাত্রা $3 \\times 5$ হলে $AB$ ম্যাট্রিক্সের মাত্রা কত?",
+    "options": [
+      "$4 \\times 5$",
+      "$5 \\times 4$",
+      "$3 \\times 3$",
+      "$12 \\times 15$"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-higher-math-1st-paper-tier-a-hot-model-test-06-q15",
+    "subject": "higher-math-1st-paper",
+    "chapter": "hsc-higher-math-1st-paper-tier-a-hot-model-test-06",
+    "text": "[i,ii,iii] নির্ণায়কের ক্ষেত্রে— i. দুটি সারি বা কলাম অভিন্ন হলে মান $0$ হয় ii. কোনো সারি বা কলামের সব উপাদান $0$ হলে মান $0$ হয় iii. সারি ও কলাম স্থান বিনিময় করলে মান পরিবর্তিত হয় নিচের কোনটি সঠিক?",
+    "options": [
+      "i ও ii",
+      "i ও iii",
+      "ii ও iii",
+      "i, ii ও iii"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-higher-math-1st-paper-tier-a-hot-model-test-06-q16",
+    "subject": "higher-math-1st-paper",
+    "chapter": "hsc-higher-math-1st-paper-tier-a-hot-model-test-06",
+    "text": "[i,ii,iii] অন্তরীকরণের ক্ষেত্রে— i. $\\frac{d}{dx}(\\cos^{-1} x) = -\\frac{1}{\\sqrt{1-x^2}}$ ii. $\\frac{d}{dx}(\\cot^{-1} x) = -\\frac{1}{1+x^2}$ iii. $\\frac{d}{dx}(\\csc^{-1} x) = -\\frac{1}{x\\sqrt{x^2-1}}$ নিচের কোনটি সঠিক?",
+    "options": [
+      "i ও ii",
+      "i ও iii",
+      "ii ও iii",
+      "i, ii ও iii"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-higher-math-1st-paper-tier-a-hot-model-test-06-q17",
+    "subject": "higher-math-1st-paper",
+    "chapter": "hsc-higher-math-1st-paper-tier-a-hot-model-test-06",
+    "text": "[i,ii,iii] ভেক্টরের ক্ষেত্রে— i. $\\vec{P}$ ভেক্টরের দিকে $\\vec{Q}$ এর লম্ব অভিক্ষেপ $\\frac{\\vec{P} \\cdot \\vec{Q}}{|\\vec{P}|}$ ii. ভেক্টর যোগ বিনিময় বিধি মেনে চলে iii. $\\vec{A} \\times \\vec{B}$ দ্বারা উৎপন্ন ভেক্টর $\\vec{A}$ ও $\\vec{B}$ উভয়ের ওপর লম্ব নিচের কোনটি সঠিক?",
+    "options": [
+      "i ও ii",
+      "i ও iii",
+      "ii ও iii",
+      "i, ii ও iii"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-higher-math-1st-paper-tier-a-hot-model-test-06-q18",
+    "subject": "higher-math-1st-paper",
+    "chapter": "hsc-higher-math-1st-paper-tier-a-hot-model-test-06",
+    "text": "[i,ii,iii] সমাকলনের ক্ষেত্রে— i. সমাকলন হলো অন্তরীকরণের বিপরীত প্রক্রিয়া ii. $\\int x^n \\, dx = \\frac{x^{n+1}}{n+1} + C$ (যেখানে $n \\neq -1$) iii. নির্দিষ্ট সমাকলন বক্ররেখা দ্বারা আবদ্ধ ক্ষেত্রফল নির্দেশ করে নিচের কোনটি সঠিক?",
+    "options": [
+      "i ও ii",
+      "i ও iii",
+      "ii ও iii",
+      "i, ii ও iii"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-higher-math-1st-paper-tier-a-hot-model-test-06-q19",
+    "subject": "higher-math-1st-paper",
+    "chapter": "hsc-higher-math-1st-paper-tier-a-hot-model-test-06",
+    "text": "[i,ii,iii] বৃত্তের ক্ষেত্রে— i. $x^2 + y^2 = a^2$ বৃত্তের কেন্দ্র $(a, a)$ ii. বৃত্তের সমীকরণে $xy$ সম্বলিত কোনো পদ থাকে না iii. $x^2$ ও $y^2$ এর সহগ সমান হয় নিচের কোনটি সঠিক?",
+    "options": [
+      "i ও ii",
+      "ii ও iii",
+      "i ও iii",
+      "i, ii ও iii"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-higher-math-1st-paper-tier-a-hot-model-test-06-q20",
+    "subject": "higher-math-1st-paper",
+    "chapter": "hsc-higher-math-1st-paper-tier-a-hot-model-test-06",
+    "text": "[i,ii,iii] সরলরেখার ক্ষেত্রে— i. মূলবিন্দুগামী রেখার সমীকরণ $y = mx$ ii. দুটি বিন্দু $(x_1, y_1)$ ও $(x_2, y_2)$ গামী রেখার ঢাল $\\frac{y_2 - y_1}{x_2 - x_1}$ iii. $ax + by + c = 0$ রেখার ঢাল $\\frac{b}{a}$ নিচের কোনটি সঠিক?",
+    "options": [
+      "i ও ii",
+      "i ও iii",
+      "ii ও iii",
+      "i, ii ও iii"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-higher-math-1st-paper-tier-a-hot-model-test-06-q21",
+    "subject": "higher-math-1st-paper",
+    "chapter": "hsc-higher-math-1st-paper-tier-a-hot-model-test-06",
+    "text": "${}^nC_2 + {}^nC_3 = {}^7C_3$ হলে $n$ এর মান কত?",
+    "options": [
+      "$5$",
+      "$6$",
+      "$7$",
+      "$8$"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-higher-math-1st-paper-tier-a-hot-model-test-06-q22",
+    "subject": "higher-math-1st-paper",
+    "chapter": "hsc-higher-math-1st-paper-tier-a-hot-model-test-06",
+    "text": "$\\int e^x (\\ln x + \\frac{1}{x}) \\, dx$ এর মান কত?",
+    "options": [
+      "$e^x \\ln x + c$",
+      "$\\frac{e^x}{x} + c$",
+      "$e^x x + c$",
+      "$\\ln x + c$"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-higher-math-1st-paper-tier-a-hot-model-test-06-q23",
+    "subject": "higher-math-1st-paper",
+    "chapter": "hsc-higher-math-1st-paper-tier-a-hot-model-test-06",
+    "text": "$y = x^x$ বক্ররেখার $x=1$ বিন্দুতে ঢাল কত?",
+    "options": [
+      "$0$",
+      "$1$",
+      "$e$",
+      "$-1$"
+    ],
+    "image": "/images/quiz/generated/hsc-higher-math-1st-paper-tier-a-hot-model-test-06-q23.svg",
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-higher-math-1st-paper-tier-a-hot-model-test-06-q24",
+    "subject": "higher-math-1st-paper",
+    "chapter": "hsc-higher-math-1st-paper-tier-a-hot-model-test-06",
+    "text": "$A = \\begin{pmatrix} 2 & 0 \\\\ 0 & 2 \\end{pmatrix}$ হলে $A^3$ এর মান কত?",
+    "options": [
+      "$\\begin{pmatrix} 6 & 0 \\\\ 0 & 6 \\end{pmatrix}$",
+      "$\\begin{pmatrix} 8 & 0 \\\\ 0 & 8 \\end{pmatrix}$",
+      "$\\begin{pmatrix} 2 & 0 \\\\ 0 & 2 \\end{pmatrix}$",
+      "$\\begin{pmatrix} 4 & 0 \\\\ 0 & 4 \\end{pmatrix}$"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-higher-math-1st-paper-tier-a-hot-model-test-06-q25",
+    "subject": "higher-math-1st-paper",
+    "chapter": "hsc-higher-math-1st-paper-tier-a-hot-model-test-06",
+    "text": "$|\\vec{A} \\times \\vec{B}| = \\vec{A} \\cdot \\vec{B}$ হলে, ভেক্টরদ্বয়ের মধ্যবর্তী কোণ কত?",
+    "options": [
+      "$0^\\circ$",
+      "$30^\\circ$",
+      "$45^\\circ$",
+      "$90^\\circ$"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  }
+]

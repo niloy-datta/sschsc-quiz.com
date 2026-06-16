@@ -1,0 +1,352 @@
+[
+  {
+    "id": "hsc-ict-chapter-01-model-test-08-q01",
+    "subject": "ict",
+    "chapter": "hsc-ict-chapter-01-model-test-08",
+    "text": "Proxy server কী করতে পারে?",
+    "options": [
+      "client ও internet-এর মাঝে intermediary হিসেবে কাজ",
+      "keyboard repair",
+      "image draw",
+      "cable cut"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-ict-chapter-01-model-test-08-q02",
+    "subject": "ict",
+    "chapter": "hsc-ict-chapter-01-model-test-08",
+    "text": "Radio wave কোন ধরনের medium?",
+    "options": [
+      "Guided",
+      "Unguided",
+      "Cable",
+      "Fiber"
+    ],
+    "image": "/images/quiz/wave-transverse.svg",
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-ict-chapter-01-model-test-08-q03",
+    "subject": "ict",
+    "chapter": "hsc-ict-chapter-01-model-test-08",
+    "text": "Repeater-এর কাজ—",
+    "options": [
+      "দুর্বল signal শক্তিশালী করে পাঠানো",
+      "ডেটা delete করা",
+      "database তৈরি",
+      "website design"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-ict-chapter-01-model-test-08-q04",
+    "subject": "ict",
+    "chapter": "hsc-ict-chapter-01-model-test-08",
+    "text": "Ring topology-তে data সাধারণত যায়—",
+    "options": [
+      "এক নির্দিষ্ট পথে",
+      "সবসময় random",
+      "medium ছাড়া",
+      "receiver ছাড়া"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-ict-chapter-01-model-test-08-q05",
+    "subject": "ict",
+    "chapter": "hsc-ict-chapter-01-model-test-08",
+    "text": "Ring topology-তে নোডগুলো যুক্ত থাকে—",
+    "options": [
+      "বৃত্তাকারভাবে",
+      "সরলরেখায়",
+      "এক কেন্দ্রের সাথে",
+      "জোড়ায় জোড়ায় নয়"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-ict-chapter-01-model-test-08-q06",
+    "subject": "ict",
+    "chapter": "hsc-ict-chapter-01-model-test-08",
+    "text": "Router-এর কাজ কী?",
+    "options": [
+      "এক নেটওয়ার্ক থেকে অন্য নেটওয়ার্কে ডেটা পাঠানো",
+      "table cell তৈরি",
+      "C program run",
+      "CSS design"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-ict-chapter-01-model-test-08-q07",
+    "subject": "ict",
+    "chapter": "hsc-ict-chapter-01-model-test-08",
+    "text": "STP-এর পূর্ণরূপ কী?",
+    "options": [
+      "Shielded Twisted Pair",
+      "Simple Transfer Protocol",
+      "Standard Table Pair",
+      "Signal Transfer Port"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-ict-chapter-01-model-test-08-q08",
+    "subject": "ict",
+    "chapter": "hsc-ict-chapter-01-model-test-08",
+    "text": "Satellite communication কোন medium ব্যবহার করে?",
+    "options": [
+      "Unguided",
+      "Twisted pair",
+      "Coaxial",
+      "UTP"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-ict-chapter-01-model-test-08-q09",
+    "subject": "ict",
+    "chapter": "hsc-ict-chapter-01-model-test-08",
+    "text": "Server কী?",
+    "options": [
+      "সেবা প্রদানকারী কম্পিউটার",
+      "সেবা গ্রহণকারী মাত্র",
+      "keyboard",
+      "mouse"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-ict-chapter-01-model-test-08-q10",
+    "subject": "ict",
+    "chapter": "hsc-ict-chapter-01-model-test-08",
+    "text": "Simplex mode-এ ডেটা যায়—",
+    "options": [
+      "দুই দিকে একসাথে",
+      "দুই দিকে পালাক্রমে",
+      "একদিকে মাত্র",
+      "কোনো দিকেই নয়"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-ict-chapter-01-model-test-08-q11",
+    "subject": "ict",
+    "chapter": "hsc-ict-chapter-01-model-test-08",
+    "text": "Simplex mode-এর উদাহরণ কোনটি?",
+    "options": [
+      "রেডিও সম্প্রচার",
+      "মোবাইল কল",
+      "ওয়াকি-টকি",
+      "ভিডিও কল"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-ict-chapter-01-model-test-08-q12",
+    "subject": "ict",
+    "chapter": "hsc-ict-chapter-01-model-test-08",
+    "text": "Star topology-তে কেন্দ্রীয় ডিভাইস নষ্ট হলে—",
+    "options": [
+      "পুরো নেটওয়ার্ক প্রভাবিত হয়",
+      "কিছুই হয় না",
+      "গতি বাড়ে",
+      "cable লাগে না"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-ict-chapter-01-model-test-08-q13",
+    "subject": "ict",
+    "chapter": "hsc-ict-chapter-01-model-test-08",
+    "text": "Star topology-তে কেন্দ্রীয় ডিভাইস—",
+    "options": [
+      "Hub/Switch",
+      "Keyboard",
+      "Monitor",
+      "Mouse"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-ict-chapter-01-model-test-08-q14",
+    "subject": "ict",
+    "chapter": "hsc-ict-chapter-01-model-test-08",
+    "text": "Switch ডেটা পাঠায়—",
+    "options": [
+      "নির্দিষ্ট destination port-এ",
+      "সবসময় সব port-এ",
+      "শুধু printer-এ",
+      "শুধু monitor-এ"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-ict-chapter-01-model-test-08-q15",
+    "subject": "ict",
+    "chapter": "hsc-ict-chapter-01-model-test-08",
+    "text": "TCP/IP হলো—",
+    "options": [
+      "internet communication protocol suite",
+      "HTML tag",
+      "CSS property",
+      "database key"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-ict-chapter-01-model-test-08-q16",
+    "subject": "ict",
+    "chapter": "hsc-ict-chapter-01-model-test-08",
+    "text": "TV cable network-এ ঐতিহাসিকভাবে ব্যবহৃত cable—",
+    "options": [
+      "Coaxial cable",
+      "Optical mouse",
+      "Keyboard cable",
+      "HDMI only"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-ict-chapter-01-model-test-08-q17",
+    "subject": "ict",
+    "chapter": "hsc-ict-chapter-01-model-test-08",
+    "text": "Topology বলতে বোঝায়—",
+    "options": [
+      "নেটওয়ার্কের গঠন/বিন্যাস",
+      "ডেটাবেজের রেকর্ড",
+      "ওয়েবপেজের রং",
+      "প্রোগ্রামের loop"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-ict-chapter-01-model-test-08-q18",
+    "subject": "ict",
+    "chapter": "hsc-ict-chapter-01-model-test-08",
+    "text": "Transmission media নির্বাচনের সময় গুরুত্বপূর্ণ নয় কোনটি?",
+    "options": [
+      "Cost",
+      "Bandwidth",
+      "Distance",
+      "Font color"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-ict-chapter-01-model-test-08-q19",
+    "subject": "ict",
+    "chapter": "hsc-ict-chapter-01-model-test-08",
+    "text": "Transmission medium কয় ধরনের?",
+    "options": [
+      "১",
+      "২",
+      "৩",
+      "৪"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-ict-chapter-01-model-test-08-q20",
+    "subject": "ict",
+    "chapter": "hsc-ict-chapter-01-model-test-08",
+    "text": "Tree topology কোন topology-এর সমন্বয়?",
+    "options": [
+      "Bus ও Star",
+      "Ring ও Mesh only",
+      "PAN ও WAN",
+      "SQL ও HTML"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-ict-chapter-01-model-test-08-q21",
+    "subject": "ict",
+    "chapter": "hsc-ict-chapter-01-model-test-08",
+    "text": "Twisted pair cable সাধারণত কোথায় ব্যবহৃত হয়?",
+    "options": [
+      "LAN",
+      "মহাকাশ",
+      "জেনেটিক ল্যাব",
+      "ক্রায়োসার্জারি"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-ict-chapter-01-model-test-08-q22",
+    "subject": "ict",
+    "chapter": "hsc-ict-chapter-01-model-test-08",
+    "text": "URL-এর পূর্ণরূপ—",
+    "options": [
+      "Uniform Resource Locator",
+      "Universal Routing Link",
+      "User Resource Line",
+      "Unique Router Location"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-ict-chapter-01-model-test-08-q23",
+    "subject": "ict",
+    "chapter": "hsc-ict-chapter-01-model-test-08",
+    "text": "UTP cable-এ shielding থাকে কি?",
+    "options": [
+      "থাকে",
+      "থাকে না",
+      "সবসময় fiber থাকে",
+      "satellite থাকে"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-ict-chapter-01-model-test-08-q24",
+    "subject": "ict",
+    "chapter": "hsc-ict-chapter-01-model-test-08",
+    "text": "UTP-এর পূর্ণরূপ কী?",
+    "options": [
+      "Unshielded Twisted Pair",
+      "Universal Transmission Protocol",
+      "Unique Transfer Port",
+      "User Table Pair"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-ict-chapter-01-model-test-08-q25",
+    "subject": "ict",
+    "chapter": "hsc-ict-chapter-01-model-test-08",
+    "text": "Unguided medium বলতে কী বোঝায়?",
+    "options": [
+      "তারযুক্ত মাধ্যম",
+      "তারবিহীন মাধ্যম",
+      "শুধু কোঅক্সিয়াল",
+      "শুধু ফাইবার"
+    ],
+    "image": null,
+    "timeLimit": 45
+  }
+]

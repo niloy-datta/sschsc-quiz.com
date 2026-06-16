@@ -1,0 +1,6179 @@
+{
+  "generatedAt": "2026-06-16T03:22:37.445Z",
+  "summary": {
+    "present": 105,
+    "missing": 466,
+    "incomplete": 347,
+    "placeholder": 18
+  },
+  "missing": [
+    {
+      "level": "SSC",
+      "subj": "physics",
+      "board": "barishal",
+      "year": "2019",
+      "reason": "file missing"
+    },
+    {
+      "level": "SSC",
+      "subj": "physics",
+      "board": "chattogram",
+      "year": "2019",
+      "reason": "file missing"
+    },
+    {
+      "level": "SSC",
+      "subj": "physics",
+      "board": "cumilla",
+      "year": "2019",
+      "reason": "file missing"
+    },
+    {
+      "level": "SSC",
+      "subj": "physics",
+      "board": "dhaka",
+      "year": "2019",
+      "reason": "file missing"
+    },
+    {
+      "level": "SSC",
+      "subj": "physics",
+      "board": "dinajpur",
+      "year": "2019",
+      "reason": "file missing"
+    },
+    {
+      "level": "SSC",
+      "subj": "physics",
+      "board": "jashore",
+      "year": "2019",
+      "reason": "file missing"
+    },
+    {
+      "level": "SSC",
+      "subj": "physics",
+      "board": "mymensingh",
+      "year": "2019",
+      "reason": "file missing"
+    },
+    {
+      "level": "SSC",
+      "subj": "physics",
+      "board": "rajshahi",
+      "year": "2019",
+      "reason": "file missing"
+    },
+    {
+      "level": "SSC",
+      "subj": "physics",
+      "board": "sylhet",
+      "year": "2019",
+      "reason": "file missing"
+    },
+    {
+      "level": "SSC",
+      "subj": "physics",
+      "board": "barishal",
+      "year": "2020",
+      "reason": "file missing"
+    },
+    {
+      "level": "SSC",
+      "subj": "physics",
+      "board": "chattogram",
+      "year": "2020",
+      "reason": "file missing"
+    },
+    {
+      "level": "SSC",
+      "subj": "physics",
+      "board": "cumilla",
+      "year": "2020",
+      "reason": "file missing"
+    },
+    {
+      "level": "SSC",
+      "subj": "physics",
+      "board": "dhaka",
+      "year": "2020",
+      "reason": "file missing"
+    },
+    {
+      "level": "SSC",
+      "subj": "physics",
+      "board": "dinajpur",
+      "year": "2020",
+      "reason": "file missing"
+    },
+    {
+      "level": "SSC",
+      "subj": "physics",
+      "board": "jashore",
+      "year": "2020",
+      "reason": "file missing"
+    },
+    {
+      "level": "SSC",
+      "subj": "physics",
+      "board": "mymensingh",
+      "year": "2020",
+      "reason": "file missing"
+    },
+    {
+      "level": "SSC",
+      "subj": "physics",
+      "board": "rajshahi",
+      "year": "2020",
+      "reason": "file missing"
+    },
+    {
+      "level": "SSC",
+      "subj": "physics",
+      "board": "sylhet",
+      "year": "2020",
+      "reason": "file missing"
+    },
+    {
+      "level": "SSC",
+      "subj": "physics",
+      "board": "barishal",
+      "year": "2021",
+      "reason": "file missing"
+    },
+    {
+      "level": "SSC",
+      "subj": "physics",
+      "board": "chattogram",
+      "year": "2021",
+      "reason": "file missing"
+    },
+    {
+      "level": "SSC",
+      "subj": "physics",
+      "board": "cumilla",
+      "year": "2021",
+      "reason": "file missing"
+    },
+    {
+      "level": "SSC",
+      "subj": "physics",
+      "board": "dhaka",
+      "year": "2021",
+      "reason": "file missing"
+    },
+    {
+      "level": "SSC",
+      "subj": "physics",
+      "board": "dinajpur",
+      "year": "2021",
+      "reason": "file missing"
+    },
+    {
+      "level": "SSC",
+      "subj": "physics",
+      "board": "jashore",
+      "year": "2021",
+      "reason": "file missing"
+    },
+    {
+      "level": "SSC",
+      "subj": "physics",
+      "board": "mymensingh",
+      "year": "2021",
+      "reason": "file missing"
+    },
+    {
+      "level": "SSC",
+      "subj": "physics",
+      "board": "rajshahi",
+      "year": "2021",
+      "reason": "file missing"
+    },
+    {
+      "level": "SSC",
+      "subj": "physics",
+      "board": "sylhet",
+      "year": "2021",
+      "reason": "file missing"
+    },
+    {
+      "level": "SSC",
+      "subj": "chemistry",
+      "board": "barishal",
+      "year": "2019",
+      "reason": "file missing"
+    },
+    {
+      "level": "SSC",
+      "subj": "chemistry",
+      "board": "chattogram",
+      "year": "2019",
+      "reason": "file missing"
+    },
+    {
+      "level": "SSC",
+      "subj": "chemistry",
+      "board": "cumilla",
+      "year": "2019",
+      "reason": "file missing"
+    },
+    {
+      "level": "SSC",
+      "subj": "chemistry",
+      "board": "dhaka",
+      "year": "2019",
+      "reason": "file missing"
+    },
+    {
+      "level": "SSC",
+      "subj": "chemistry",
+      "board": "dinajpur",
+      "year": "2019",
+      "reason": "file missing"
+    },
+    {
+      "level": "SSC",
+      "subj": "chemistry",
+      "board": "jashore",
+      "year": "2019",
+      "reason": "file missing"
+    },
+    {
+      "level": "SSC",
+      "subj": "chemistry",
+      "board": "mymensingh",
+      "year": "2019",
+      "reason": "file missing"
+    },
+    {
+      "level": "SSC",
+      "subj": "chemistry",
+      "board": "rajshahi",
+      "year": "2019",
+      "reason": "file missing"
+    },
+    {
+      "level": "SSC",
+      "subj": "chemistry",
+      "board": "sylhet",
+      "year": "2019",
+      "reason": "file missing"
+    },
+    {
+      "level": "SSC",
+      "subj": "chemistry",
+      "board": "barishal",
+      "year": "2020",
+      "reason": "file missing"
+    },
+    {
+      "level": "SSC",
+      "subj": "chemistry",
+      "board": "chattogram",
+      "year": "2020",
+      "reason": "file missing"
+    },
+    {
+      "level": "SSC",
+      "subj": "chemistry",
+      "board": "cumilla",
+      "year": "2020",
+      "reason": "file missing"
+    },
+    {
+      "level": "SSC",
+      "subj": "chemistry",
+      "board": "dhaka",
+      "year": "2020",
+      "reason": "file missing"
+    },
+    {
+      "level": "SSC",
+      "subj": "chemistry",
+      "board": "dinajpur",
+      "year": "2020",
+      "reason": "file missing"
+    },
+    {
+      "level": "SSC",
+      "subj": "chemistry",
+      "board": "jashore",
+      "year": "2020",
+      "reason": "file missing"
+    },
+    {
+      "level": "SSC",
+      "subj": "chemistry",
+      "board": "mymensingh",
+      "year": "2020",
+      "reason": "file missing"
+    },
+    {
+      "level": "SSC",
+      "subj": "chemistry",
+      "board": "rajshahi",
+      "year": "2020",
+      "reason": "file missing"
+    },
+    {
+      "level": "SSC",
+      "subj": "chemistry",
+      "board": "sylhet",
+      "year": "2020",
+      "reason": "file missing"
+    },
+    {
+      "level": "SSC",
+      "subj": "chemistry",
+      "board": "barishal",
+      "year": "2021",
+      "reason": "file missing"
+    },
+    {
+      "level": "SSC",
+      "subj": "chemistry",
+      "board": "chattogram",
+      "year": "2021",
+      "reason": "file missing"
+    },
+    {
+      "level": "SSC",
+      "subj": "chemistry",
+      "board": "cumilla",
+      "year": "2021",
+      "reason": "file missing"
+    },
+    {
+      "level": "SSC",
+      "subj": "chemistry",
+      "board": "dhaka",
+      "year": "2021",
+      "reason": "file missing"
+    },
+    {
+      "level": "SSC",
+      "subj": "chemistry",
+      "board": "dinajpur",
+      "year": "2021",
+      "reason": "file missing"
+    },
+    {
+      "level": "SSC",
+      "subj": "chemistry",
+      "board": "jashore",
+      "year": "2021",
+      "reason": "file missing"
+    },
+    {
+      "level": "SSC",
+      "subj": "chemistry",
+      "board": "mymensingh",
+      "year": "2021",
+      "reason": "file missing"
+    },
+    {
+      "level": "SSC",
+      "subj": "chemistry",
+      "board": "rajshahi",
+      "year": "2021",
+      "reason": "file missing"
+    },
+    {
+      "level": "SSC",
+      "subj": "chemistry",
+      "board": "sylhet",
+      "year": "2021",
+      "reason": "file missing"
+    },
+    {
+      "level": "SSC",
+      "subj": "biology",
+      "board": "barishal",
+      "year": "2019",
+      "reason": "file missing"
+    },
+    {
+      "level": "SSC",
+      "subj": "biology",
+      "board": "chattogram",
+      "year": "2019",
+      "reason": "file missing"
+    },
+    {
+      "level": "SSC",
+      "subj": "biology",
+      "board": "cumilla",
+      "year": "2019",
+      "reason": "file missing"
+    },
+    {
+      "level": "SSC",
+      "subj": "biology",
+      "board": "dhaka",
+      "year": "2019",
+      "reason": "file missing"
+    },
+    {
+      "level": "SSC",
+      "subj": "biology",
+      "board": "dinajpur",
+      "year": "2019",
+      "reason": "file missing"
+    },
+    {
+      "level": "SSC",
+      "subj": "biology",
+      "board": "jashore",
+      "year": "2019",
+      "reason": "file missing"
+    },
+    {
+      "level": "SSC",
+      "subj": "biology",
+      "board": "mymensingh",
+      "year": "2019",
+      "reason": "file missing"
+    },
+    {
+      "level": "SSC",
+      "subj": "biology",
+      "board": "rajshahi",
+      "year": "2019",
+      "reason": "file missing"
+    },
+    {
+      "level": "SSC",
+      "subj": "biology",
+      "board": "sylhet",
+      "year": "2019",
+      "reason": "file missing"
+    },
+    {
+      "level": "SSC",
+      "subj": "biology",
+      "board": "barishal",
+      "year": "2020",
+      "reason": "file missing"
+    },
+    {
+      "level": "SSC",
+      "subj": "biology",
+      "board": "chattogram",
+      "year": "2020",
+      "reason": "file missing"
+    },
+    {
+      "level": "SSC",
+      "subj": "biology",
+      "board": "cumilla",
+      "year": "2020",
+      "reason": "file missing"
+    },
+    {
+      "level": "SSC",
+      "subj": "biology",
+      "board": "dhaka",
+      "year": "2020",
+      "reason": "file missing"
+    },
+    {
+      "level": "SSC",
+      "subj": "biology",
+      "board": "dinajpur",
+      "year": "2020",
+      "reason": "file missing"
+    },
+    {
+      "level": "SSC",
+      "subj": "biology",
+      "board": "jashore",
+      "year": "2020",
+      "reason": "file missing"
+    },
+    {
+      "level": "SSC",
+      "subj": "biology",
+      "board": "mymensingh",
+      "year": "2020",
+      "reason": "file missing"
+    },
+    {
+      "level": "SSC",
+      "subj": "biology",
+      "board": "rajshahi",
+      "year": "2020",
+      "reason": "file missing"
+    },
+    {
+      "level": "SSC",
+      "subj": "biology",
+      "board": "sylhet",
+      "year": "2020",
+      "reason": "file missing"
+    },
+    {
+      "level": "SSC",
+      "subj": "biology",
+      "board": "barishal",
+      "year": "2021",
+      "reason": "file missing"
+    },
+    {
+      "level": "SSC",
+      "subj": "biology",
+      "board": "chattogram",
+      "year": "2021",
+      "reason": "file missing"
+    },
+    {
+      "level": "SSC",
+      "subj": "biology",
+      "board": "cumilla",
+      "year": "2021",
+      "reason": "file missing"
+    },
+    {
+      "level": "SSC",
+      "subj": "biology",
+      "board": "dhaka",
+      "year": "2021",
+      "reason": "file missing"
+    },
+    {
+      "level": "SSC",
+      "subj": "biology",
+      "board": "dinajpur",
+      "year": "2021",
+      "reason": "file missing"
+    },
+    {
+      "level": "SSC",
+      "subj": "biology",
+      "board": "jashore",
+      "year": "2021",
+      "reason": "file missing"
+    },
+    {
+      "level": "SSC",
+      "subj": "biology",
+      "board": "mymensingh",
+      "year": "2021",
+      "reason": "file missing"
+    },
+    {
+      "level": "SSC",
+      "subj": "biology",
+      "board": "rajshahi",
+      "year": "2021",
+      "reason": "file missing"
+    },
+    {
+      "level": "SSC",
+      "subj": "biology",
+      "board": "sylhet",
+      "year": "2021",
+      "reason": "file missing"
+    },
+    {
+      "level": "SSC",
+      "subj": "biology",
+      "board": "dhaka",
+      "year": "2022",
+      "reason": "file missing"
+    },
+    {
+      "level": "SSC",
+      "subj": "biology",
+      "board": "chattogram",
+      "year": "2024",
+      "reason": "file missing"
+    },
+    {
+      "level": "SSC",
+      "subj": "biology",
+      "board": "dhaka",
+      "year": "2024",
+      "reason": "file missing"
+    },
+    {
+      "level": "SSC",
+      "subj": "biology",
+      "board": "dinajpur",
+      "year": "2024",
+      "reason": "file missing"
+    },
+    {
+      "level": "SSC",
+      "subj": "biology",
+      "board": "jashore",
+      "year": "2024",
+      "reason": "file missing"
+    },
+    {
+      "level": "SSC",
+      "subj": "biology",
+      "board": "mymensingh",
+      "year": "2024",
+      "reason": "file missing"
+    },
+    {
+      "level": "SSC",
+      "subj": "biology",
+      "board": "rajshahi",
+      "year": "2024",
+      "reason": "file missing"
+    },
+    {
+      "level": "SSC",
+      "subj": "biology",
+      "board": "sylhet",
+      "year": "2024",
+      "reason": "file missing"
+    },
+    {
+      "level": "SSC",
+      "subj": "higher-math",
+      "board": "barishal",
+      "year": "2019",
+      "reason": "file missing"
+    },
+    {
+      "level": "SSC",
+      "subj": "higher-math",
+      "board": "chattogram",
+      "year": "2019",
+      "reason": "file missing"
+    },
+    {
+      "level": "SSC",
+      "subj": "higher-math",
+      "board": "cumilla",
+      "year": "2019",
+      "reason": "file missing"
+    },
+    {
+      "level": "SSC",
+      "subj": "higher-math",
+      "board": "dhaka",
+      "year": "2019",
+      "reason": "file missing"
+    },
+    {
+      "level": "SSC",
+      "subj": "higher-math",
+      "board": "dinajpur",
+      "year": "2019",
+      "reason": "file missing"
+    },
+    {
+      "level": "SSC",
+      "subj": "higher-math",
+      "board": "jashore",
+      "year": "2019",
+      "reason": "file missing"
+    },
+    {
+      "level": "SSC",
+      "subj": "higher-math",
+      "board": "mymensingh",
+      "year": "2019",
+      "reason": "file missing"
+    },
+    {
+      "level": "SSC",
+      "subj": "higher-math",
+      "board": "rajshahi",
+      "year": "2019",
+      "reason": "file missing"
+    },
+    {
+      "level": "SSC",
+      "subj": "higher-math",
+      "board": "sylhet",
+      "year": "2019",
+      "reason": "file missing"
+    },
+    {
+      "level": "SSC",
+      "subj": "higher-math",
+      "board": "barishal",
+      "year": "2020",
+      "reason": "file missing"
+    },
+    {
+      "level": "SSC",
+      "subj": "higher-math",
+      "board": "chattogram",
+      "year": "2020",
+      "reason": "file missing"
+    },
+    {
+      "level": "SSC",
+      "subj": "higher-math",
+      "board": "cumilla",
+      "year": "2020",
+      "reason": "file missing"
+    },
+    {
+      "level": "SSC",
+      "subj": "higher-math",
+      "board": "dhaka",
+      "year": "2020",
+      "reason": "file missing"
+    },
+    {
+      "level": "SSC",
+      "subj": "higher-math",
+      "board": "dinajpur",
+      "year": "2020",
+      "reason": "file missing"
+    },
+    {
+      "level": "SSC",
+      "subj": "higher-math",
+      "board": "jashore",
+      "year": "2020",
+      "reason": "file missing"
+    },
+    {
+      "level": "SSC",
+      "subj": "higher-math",
+      "board": "mymensingh",
+      "year": "2020",
+      "reason": "file missing"
+    },
+    {
+      "level": "SSC",
+      "subj": "higher-math",
+      "board": "rajshahi",
+      "year": "2020",
+      "reason": "file missing"
+    },
+    {
+      "level": "SSC",
+      "subj": "higher-math",
+      "board": "sylhet",
+      "year": "2020",
+      "reason": "file missing"
+    },
+    {
+      "level": "SSC",
+      "subj": "higher-math",
+      "board": "barishal",
+      "year": "2021",
+      "reason": "file missing"
+    },
+    {
+      "level": "SSC",
+      "subj": "higher-math",
+      "board": "chattogram",
+      "year": "2021",
+      "reason": "file missing"
+    },
+    {
+      "level": "SSC",
+      "subj": "higher-math",
+      "board": "cumilla",
+      "year": "2021",
+      "reason": "file missing"
+    },
+    {
+      "level": "SSC",
+      "subj": "higher-math",
+      "board": "dhaka",
+      "year": "2021",
+      "reason": "file missing"
+    },
+    {
+      "level": "SSC",
+      "subj": "higher-math",
+      "board": "dinajpur",
+      "year": "2021",
+      "reason": "file missing"
+    },
+    {
+      "level": "SSC",
+      "subj": "higher-math",
+      "board": "jashore",
+      "year": "2021",
+      "reason": "file missing"
+    },
+    {
+      "level": "SSC",
+      "subj": "higher-math",
+      "board": "mymensingh",
+      "year": "2021",
+      "reason": "file missing"
+    },
+    {
+      "level": "SSC",
+      "subj": "higher-math",
+      "board": "rajshahi",
+      "year": "2021",
+      "reason": "file missing"
+    },
+    {
+      "level": "SSC",
+      "subj": "higher-math",
+      "board": "sylhet",
+      "year": "2021",
+      "reason": "file missing"
+    },
+    {
+      "level": "SSC",
+      "subj": "higher-math",
+      "board": "barishal",
+      "year": "2025",
+      "reason": "file missing"
+    },
+    {
+      "level": "SSC",
+      "subj": "general-math",
+      "board": "barishal",
+      "year": "2019",
+      "reason": "file missing"
+    },
+    {
+      "level": "SSC",
+      "subj": "general-math",
+      "board": "chattogram",
+      "year": "2019",
+      "reason": "file missing"
+    },
+    {
+      "level": "SSC",
+      "subj": "general-math",
+      "board": "cumilla",
+      "year": "2019",
+      "reason": "file missing"
+    },
+    {
+      "level": "SSC",
+      "subj": "general-math",
+      "board": "dhaka",
+      "year": "2019",
+      "reason": "file missing"
+    },
+    {
+      "level": "SSC",
+      "subj": "general-math",
+      "board": "dinajpur",
+      "year": "2019",
+      "reason": "file missing"
+    },
+    {
+      "level": "SSC",
+      "subj": "general-math",
+      "board": "jashore",
+      "year": "2019",
+      "reason": "file missing"
+    },
+    {
+      "level": "SSC",
+      "subj": "general-math",
+      "board": "mymensingh",
+      "year": "2019",
+      "reason": "file missing"
+    },
+    {
+      "level": "SSC",
+      "subj": "general-math",
+      "board": "rajshahi",
+      "year": "2019",
+      "reason": "file missing"
+    },
+    {
+      "level": "SSC",
+      "subj": "general-math",
+      "board": "sylhet",
+      "year": "2019",
+      "reason": "file missing"
+    },
+    {
+      "level": "SSC",
+      "subj": "general-math",
+      "board": "barishal",
+      "year": "2020",
+      "reason": "file missing"
+    },
+    {
+      "level": "SSC",
+      "subj": "general-math",
+      "board": "chattogram",
+      "year": "2020",
+      "reason": "file missing"
+    },
+    {
+      "level": "SSC",
+      "subj": "general-math",
+      "board": "cumilla",
+      "year": "2020",
+      "reason": "file missing"
+    },
+    {
+      "level": "SSC",
+      "subj": "general-math",
+      "board": "dhaka",
+      "year": "2020",
+      "reason": "file missing"
+    },
+    {
+      "level": "SSC",
+      "subj": "general-math",
+      "board": "dinajpur",
+      "year": "2020",
+      "reason": "file missing"
+    },
+    {
+      "level": "SSC",
+      "subj": "general-math",
+      "board": "jashore",
+      "year": "2020",
+      "reason": "file missing"
+    },
+    {
+      "level": "SSC",
+      "subj": "general-math",
+      "board": "mymensingh",
+      "year": "2020",
+      "reason": "file missing"
+    },
+    {
+      "level": "SSC",
+      "subj": "general-math",
+      "board": "rajshahi",
+      "year": "2020",
+      "reason": "file missing"
+    },
+    {
+      "level": "SSC",
+      "subj": "general-math",
+      "board": "sylhet",
+      "year": "2020",
+      "reason": "file missing"
+    },
+    {
+      "level": "SSC",
+      "subj": "general-math",
+      "board": "barishal",
+      "year": "2021",
+      "reason": "file missing"
+    },
+    {
+      "level": "SSC",
+      "subj": "general-math",
+      "board": "chattogram",
+      "year": "2021",
+      "reason": "file missing"
+    },
+    {
+      "level": "SSC",
+      "subj": "general-math",
+      "board": "cumilla",
+      "year": "2021",
+      "reason": "file missing"
+    },
+    {
+      "level": "SSC",
+      "subj": "general-math",
+      "board": "dhaka",
+      "year": "2021",
+      "reason": "file missing"
+    },
+    {
+      "level": "SSC",
+      "subj": "general-math",
+      "board": "dinajpur",
+      "year": "2021",
+      "reason": "file missing"
+    },
+    {
+      "level": "SSC",
+      "subj": "general-math",
+      "board": "jashore",
+      "year": "2021",
+      "reason": "file missing"
+    },
+    {
+      "level": "SSC",
+      "subj": "general-math",
+      "board": "mymensingh",
+      "year": "2021",
+      "reason": "file missing"
+    },
+    {
+      "level": "SSC",
+      "subj": "general-math",
+      "board": "rajshahi",
+      "year": "2021",
+      "reason": "file missing"
+    },
+    {
+      "level": "SSC",
+      "subj": "general-math",
+      "board": "sylhet",
+      "year": "2021",
+      "reason": "file missing"
+    },
+    {
+      "level": "SSC",
+      "subj": "general-math",
+      "board": "barishal",
+      "year": "2023",
+      "reason": "file missing"
+    },
+    {
+      "level": "SSC",
+      "subj": "general-math",
+      "board": "dinajpur",
+      "year": "2023",
+      "reason": "file missing"
+    },
+    {
+      "level": "SSC",
+      "subj": "general-math",
+      "board": "sylhet",
+      "year": "2023",
+      "reason": "file missing"
+    },
+    {
+      "level": "SSC",
+      "subj": "general-math",
+      "board": "cumilla",
+      "year": "2024",
+      "reason": "file missing"
+    },
+    {
+      "level": "SSC",
+      "subj": "general-math",
+      "board": "dhaka",
+      "year": "2024",
+      "reason": "file missing"
+    },
+    {
+      "level": "SSC",
+      "subj": "general-math",
+      "board": "mymensingh",
+      "year": "2024",
+      "reason": "file missing"
+    },
+    {
+      "level": "SSC",
+      "subj": "general-math",
+      "board": "rajshahi",
+      "year": "2024",
+      "reason": "file missing"
+    },
+    {
+      "level": "HSC",
+      "subj": "physics-1st-paper",
+      "board": "barishal",
+      "year": "2019",
+      "reason": "file missing"
+    },
+    {
+      "level": "HSC",
+      "subj": "physics-1st-paper",
+      "board": "chattogram",
+      "year": "2019",
+      "reason": "file missing"
+    },
+    {
+      "level": "HSC",
+      "subj": "physics-1st-paper",
+      "board": "cumilla",
+      "year": "2019",
+      "reason": "file missing"
+    },
+    {
+      "level": "HSC",
+      "subj": "physics-1st-paper",
+      "board": "dhaka",
+      "year": "2019",
+      "reason": "file missing"
+    },
+    {
+      "level": "HSC",
+      "subj": "physics-1st-paper",
+      "board": "dinajpur",
+      "year": "2019",
+      "reason": "file missing"
+    },
+    {
+      "level": "HSC",
+      "subj": "physics-1st-paper",
+      "board": "jashore",
+      "year": "2019",
+      "reason": "file missing"
+    },
+    {
+      "level": "HSC",
+      "subj": "physics-1st-paper",
+      "board": "mymensingh",
+      "year": "2019",
+      "reason": "file missing"
+    },
+    {
+      "level": "HSC",
+      "subj": "physics-1st-paper",
+      "board": "rajshahi",
+      "year": "2019",
+      "reason": "file missing"
+    },
+    {
+      "level": "HSC",
+      "subj": "physics-1st-paper",
+      "board": "sylhet",
+      "year": "2019",
+      "reason": "file missing"
+    },
+    {
+      "level": "HSC",
+      "subj": "physics-1st-paper",
+      "board": "barishal",
+      "year": "2020",
+      "reason": "file missing"
+    },
+    {
+      "level": "HSC",
+      "subj": "physics-1st-paper",
+      "board": "chattogram",
+      "year": "2020",
+      "reason": "file missing"
+    },
+    {
+      "level": "HSC",
+      "subj": "physics-1st-paper",
+      "board": "cumilla",
+      "year": "2020",
+      "reason": "file missing"
+    },
+    {
+      "level": "HSC",
+      "subj": "physics-1st-paper",
+      "board": "dhaka",
+      "year": "2020",
+      "reason": "file missing"
+    },
+    {
+      "level": "HSC",
+      "subj": "physics-1st-paper",
+      "board": "dinajpur",
+      "year": "2020",
+      "reason": "file missing"
+    },
+    {
+      "level": "HSC",
+      "subj": "physics-1st-paper",
+      "board": "jashore",
+      "year": "2020",
+      "reason": "file missing"
+    },
+    {
+      "level": "HSC",
+      "subj": "physics-1st-paper",
+      "board": "mymensingh",
+      "year": "2020",
+      "reason": "file missing"
+    },
+    {
+      "level": "HSC",
+      "subj": "physics-1st-paper",
+      "board": "rajshahi",
+      "year": "2020",
+      "reason": "file missing"
+    },
+    {
+      "level": "HSC",
+      "subj": "physics-1st-paper",
+      "board": "sylhet",
+      "year": "2020",
+      "reason": "file missing"
+    },
+    {
+      "level": "HSC",
+      "subj": "physics-1st-paper",
+      "board": "barishal",
+      "year": "2021",
+      "reason": "file missing"
+    },
+    {
+      "level": "HSC",
+      "subj": "physics-1st-paper",
+      "board": "chattogram",
+      "year": "2021",
+      "reason": "file missing"
+    },
+    {
+      "level": "HSC",
+      "subj": "physics-1st-paper",
+      "board": "cumilla",
+      "year": "2021",
+      "reason": "file missing"
+    },
+    {
+      "level": "HSC",
+      "subj": "physics-1st-paper",
+      "board": "dhaka",
+      "year": "2021",
+      "reason": "file missing"
+    },
+    {
+      "level": "HSC",
+      "subj": "physics-1st-paper",
+      "board": "dinajpur",
+      "year": "2021",
+      "reason": "file missing"
+    },
+    {
+      "level": "HSC",
+      "subj": "physics-1st-paper",
+      "board": "jashore",
+      "year": "2021",
+      "reason": "file missing"
+    },
+    {
+      "level": "HSC",
+      "subj": "physics-1st-paper",
+      "board": "mymensingh",
+      "year": "2021",
+      "reason": "file missing"
+    },
+    {
+      "level": "HSC",
+      "subj": "physics-1st-paper",
+      "board": "rajshahi",
+      "year": "2021",
+      "reason": "file missing"
+    },
+    {
+      "level": "HSC",
+      "subj": "physics-1st-paper",
+      "board": "sylhet",
+      "year": "2021",
+      "reason": "file missing"
+    },
+    {
+      "level": "HSC",
+      "subj": "physics-1st-paper",
+      "board": "barishal",
+      "year": "2026",
+      "reason": "file missing"
+    },
+    {
+      "level": "HSC",
+      "subj": "physics-1st-paper",
+      "board": "chattogram",
+      "year": "2026",
+      "reason": "file missing"
+    },
+    {
+      "level": "HSC",
+      "subj": "physics-1st-paper",
+      "board": "cumilla",
+      "year": "2026",
+      "reason": "file missing"
+    },
+    {
+      "level": "HSC",
+      "subj": "physics-1st-paper",
+      "board": "dhaka",
+      "year": "2026",
+      "reason": "file missing"
+    },
+    {
+      "level": "HSC",
+      "subj": "physics-1st-paper",
+      "board": "dinajpur",
+      "year": "2026",
+      "reason": "file missing"
+    },
+    {
+      "level": "HSC",
+      "subj": "physics-1st-paper",
+      "board": "jashore",
+      "year": "2026",
+      "reason": "file missing"
+    },
+    {
+      "level": "HSC",
+      "subj": "physics-1st-paper",
+      "board": "mymensingh",
+      "year": "2026",
+      "reason": "file missing"
+    },
+    {
+      "level": "HSC",
+      "subj": "physics-1st-paper",
+      "board": "rajshahi",
+      "year": "2026",
+      "reason": "file missing"
+    },
+    {
+      "level": "HSC",
+      "subj": "physics-1st-paper",
+      "board": "sylhet",
+      "year": "2026",
+      "reason": "file missing"
+    },
+    {
+      "level": "HSC",
+      "subj": "physics-2nd-paper",
+      "board": "barishal",
+      "year": "2019",
+      "reason": "file missing"
+    },
+    {
+      "level": "HSC",
+      "subj": "physics-2nd-paper",
+      "board": "chattogram",
+      "year": "2019",
+      "reason": "file missing"
+    },
+    {
+      "level": "HSC",
+      "subj": "physics-2nd-paper",
+      "board": "cumilla",
+      "year": "2019",
+      "reason": "file missing"
+    },
+    {
+      "level": "HSC",
+      "subj": "physics-2nd-paper",
+      "board": "dhaka",
+      "year": "2019",
+      "reason": "file missing"
+    },
+    {
+      "level": "HSC",
+      "subj": "physics-2nd-paper",
+      "board": "dinajpur",
+      "year": "2019",
+      "reason": "file missing"
+    },
+    {
+      "level": "HSC",
+      "subj": "physics-2nd-paper",
+      "board": "jashore",
+      "year": "2019",
+      "reason": "file missing"
+    },
+    {
+      "level": "HSC",
+      "subj": "physics-2nd-paper",
+      "board": "mymensingh",
+      "year": "2019",
+      "reason": "file missing"
+    },
+    {
+      "level": "HSC",
+      "subj": "physics-2nd-paper",
+      "board": "rajshahi",
+      "year": "2019",
+      "reason": "file missing"
+    },
+    {
+      "level": "HSC",
+      "subj": "physics-2nd-paper",
+      "board": "sylhet",
+      "year": "2019",
+      "reason": "file missing"
+    },
+    {
+      "level": "HSC",
+      "subj": "physics-2nd-paper",
+      "board": "barishal",
+      "year": "2020",
+      "reason": "file missing"
+    },
+    {
+      "level": "HSC",
+      "subj": "physics-2nd-paper",
+      "board": "chattogram",
+      "year": "2020",
+      "reason": "file missing"
+    },
+    {
+      "level": "HSC",
+      "subj": "physics-2nd-paper",
+      "board": "cumilla",
+      "year": "2020",
+      "reason": "file missing"
+    },
+    {
+      "level": "HSC",
+      "subj": "physics-2nd-paper",
+      "board": "dhaka",
+      "year": "2020",
+      "reason": "file missing"
+    },
+    {
+      "level": "HSC",
+      "subj": "physics-2nd-paper",
+      "board": "dinajpur",
+      "year": "2020",
+      "reason": "file missing"
+    },
+    {
+      "level": "HSC",
+      "subj": "physics-2nd-paper",
+      "board": "jashore",
+      "year": "2020",
+      "reason": "file missing"
+    },
+    {
+      "level": "HSC",
+      "subj": "physics-2nd-paper",
+      "board": "mymensingh",
+      "year": "2020",
+      "reason": "file missing"
+    },
+    {
+      "level": "HSC",
+      "subj": "physics-2nd-paper",
+      "board": "rajshahi",
+      "year": "2020",
+      "reason": "file missing"
+    },
+    {
+      "level": "HSC",
+      "subj": "physics-2nd-paper",
+      "board": "sylhet",
+      "year": "2020",
+      "reason": "file missing"
+    },
+    {
+      "level": "HSC",
+      "subj": "physics-2nd-paper",
+      "board": "barishal",
+      "year": "2021",
+      "reason": "file missing"
+    },
+    {
+      "level": "HSC",
+      "subj": "physics-2nd-paper",
+      "board": "chattogram",
+      "year": "2021",
+      "reason": "file missing"
+    },
+    {
+      "level": "HSC",
+      "subj": "physics-2nd-paper",
+      "board": "cumilla",
+      "year": "2021",
+      "reason": "file missing"
+    },
+    {
+      "level": "HSC",
+      "subj": "physics-2nd-paper",
+      "board": "dhaka",
+      "year": "2021",
+      "reason": "file missing"
+    },
+    {
+      "level": "HSC",
+      "subj": "physics-2nd-paper",
+      "board": "dinajpur",
+      "year": "2021",
+      "reason": "file missing"
+    },
+    {
+      "level": "HSC",
+      "subj": "physics-2nd-paper",
+      "board": "jashore",
+      "year": "2021",
+      "reason": "file missing"
+    },
+    {
+      "level": "HSC",
+      "subj": "physics-2nd-paper",
+      "board": "mymensingh",
+      "year": "2021",
+      "reason": "file missing"
+    },
+    {
+      "level": "HSC",
+      "subj": "physics-2nd-paper",
+      "board": "rajshahi",
+      "year": "2021",
+      "reason": "file missing"
+    },
+    {
+      "level": "HSC",
+      "subj": "physics-2nd-paper",
+      "board": "sylhet",
+      "year": "2021",
+      "reason": "file missing"
+    },
+    {
+      "level": "HSC",
+      "subj": "physics-2nd-paper",
+      "board": "barishal",
+      "year": "2022",
+      "reason": "file missing"
+    },
+    {
+      "level": "HSC",
+      "subj": "physics-2nd-paper",
+      "board": "chattogram",
+      "year": "2022",
+      "reason": "file missing"
+    },
+    {
+      "level": "HSC",
+      "subj": "physics-2nd-paper",
+      "board": "cumilla",
+      "year": "2022",
+      "reason": "file missing"
+    },
+    {
+      "level": "HSC",
+      "subj": "physics-2nd-paper",
+      "board": "dhaka",
+      "year": "2022",
+      "reason": "file missing"
+    },
+    {
+      "level": "HSC",
+      "subj": "physics-2nd-paper",
+      "board": "dinajpur",
+      "year": "2022",
+      "reason": "file missing"
+    },
+    {
+      "level": "HSC",
+      "subj": "physics-2nd-paper",
+      "board": "jashore",
+      "year": "2022",
+      "reason": "file missing"
+    },
+    {
+      "level": "HSC",
+      "subj": "physics-2nd-paper",
+      "board": "mymensingh",
+      "year": "2022",
+      "reason": "file missing"
+    },
+    {
+      "level": "HSC",
+      "subj": "physics-2nd-paper",
+      "board": "rajshahi",
+      "year": "2022",
+      "reason": "file missing"
+    },
+    {
+      "level": "HSC",
+      "subj": "physics-2nd-paper",
+      "board": "sylhet",
+      "year": "2022",
+      "reason": "file missing"
+    },
+    {
+      "level": "HSC",
+      "subj": "physics-2nd-paper",
+      "board": "barishal",
+      "year": "2023",
+      "reason": "file missing"
+    },
+    {
+      "level": "HSC",
+      "subj": "physics-2nd-paper",
+      "board": "chattogram",
+      "year": "2023",
+      "reason": "file missing"
+    },
+    {
+      "level": "HSC",
+      "subj": "physics-2nd-paper",
+      "board": "cumilla",
+      "year": "2023",
+      "reason": "file missing"
+    },
+    {
+      "level": "HSC",
+      "subj": "physics-2nd-paper",
+      "board": "dhaka",
+      "year": "2023",
+      "reason": "file missing"
+    },
+    {
+      "level": "HSC",
+      "subj": "physics-2nd-paper",
+      "board": "dinajpur",
+      "year": "2023",
+      "reason": "file missing"
+    },
+    {
+      "level": "HSC",
+      "subj": "physics-2nd-paper",
+      "board": "jashore",
+      "year": "2023",
+      "reason": "file missing"
+    },
+    {
+      "level": "HSC",
+      "subj": "physics-2nd-paper",
+      "board": "mymensingh",
+      "year": "2023",
+      "reason": "file missing"
+    },
+    {
+      "level": "HSC",
+      "subj": "physics-2nd-paper",
+      "board": "rajshahi",
+      "year": "2023",
+      "reason": "file missing"
+    },
+    {
+      "level": "HSC",
+      "subj": "physics-2nd-paper",
+      "board": "sylhet",
+      "year": "2023",
+      "reason": "file missing"
+    },
+    {
+      "level": "HSC",
+      "subj": "physics-2nd-paper",
+      "board": "barishal",
+      "year": "2025",
+      "reason": "file missing"
+    },
+    {
+      "level": "HSC",
+      "subj": "physics-2nd-paper",
+      "board": "chattogram",
+      "year": "2025",
+      "reason": "file missing"
+    },
+    {
+      "level": "HSC",
+      "subj": "physics-2nd-paper",
+      "board": "cumilla",
+      "year": "2025",
+      "reason": "file missing"
+    },
+    {
+      "level": "HSC",
+      "subj": "physics-2nd-paper",
+      "board": "dhaka",
+      "year": "2025",
+      "reason": "file missing"
+    },
+    {
+      "level": "HSC",
+      "subj": "physics-2nd-paper",
+      "board": "dinajpur",
+      "year": "2025",
+      "reason": "file missing"
+    },
+    {
+      "level": "HSC",
+      "subj": "physics-2nd-paper",
+      "board": "jashore",
+      "year": "2025",
+      "reason": "file missing"
+    },
+    {
+      "level": "HSC",
+      "subj": "physics-2nd-paper",
+      "board": "mymensingh",
+      "year": "2025",
+      "reason": "file missing"
+    },
+    {
+      "level": "HSC",
+      "subj": "physics-2nd-paper",
+      "board": "rajshahi",
+      "year": "2025",
+      "reason": "file missing"
+    },
+    {
+      "level": "HSC",
+      "subj": "physics-2nd-paper",
+      "board": "sylhet",
+      "year": "2025",
+      "reason": "file missing"
+    },
+    {
+      "level": "HSC",
+      "subj": "physics-2nd-paper",
+      "board": "barishal",
+      "year": "2026",
+      "reason": "file missing"
+    },
+    {
+      "level": "HSC",
+      "subj": "physics-2nd-paper",
+      "board": "chattogram",
+      "year": "2026",
+      "reason": "file missing"
+    },
+    {
+      "level": "HSC",
+      "subj": "physics-2nd-paper",
+      "board": "cumilla",
+      "year": "2026",
+      "reason": "file missing"
+    },
+    {
+      "level": "HSC",
+      "subj": "physics-2nd-paper",
+      "board": "dhaka",
+      "year": "2026",
+      "reason": "file missing"
+    },
+    {
+      "level": "HSC",
+      "subj": "physics-2nd-paper",
+      "board": "dinajpur",
+      "year": "2026",
+      "reason": "file missing"
+    },
+    {
+      "level": "HSC",
+      "subj": "physics-2nd-paper",
+      "board": "jashore",
+      "year": "2026",
+      "reason": "file missing"
+    },
+    {
+      "level": "HSC",
+      "subj": "physics-2nd-paper",
+      "board": "mymensingh",
+      "year": "2026",
+      "reason": "file missing"
+    },
+    {
+      "level": "HSC",
+      "subj": "physics-2nd-paper",
+      "board": "rajshahi",
+      "year": "2026",
+      "reason": "file missing"
+    },
+    {
+      "level": "HSC",
+      "subj": "physics-2nd-paper",
+      "board": "sylhet",
+      "year": "2026",
+      "reason": "file missing"
+    },
+    {
+      "level": "HSC",
+      "subj": "chemistry-1st-paper",
+      "board": "barishal",
+      "year": "2019",
+      "reason": "file missing"
+    },
+    {
+      "level": "HSC",
+      "subj": "chemistry-1st-paper",
+      "board": "chattogram",
+      "year": "2019",
+      "reason": "file missing"
+    },
+    {
+      "level": "HSC",
+      "subj": "chemistry-1st-paper",
+      "board": "cumilla",
+      "year": "2019",
+      "reason": "file missing"
+    },
+    {
+      "level": "HSC",
+      "subj": "chemistry-1st-paper",
+      "board": "dhaka",
+      "year": "2019",
+      "reason": "file missing"
+    },
+    {
+      "level": "HSC",
+      "subj": "chemistry-1st-paper",
+      "board": "dinajpur",
+      "year": "2019",
+      "reason": "file missing"
+    },
+    {
+      "level": "HSC",
+      "subj": "chemistry-1st-paper",
+      "board": "jashore",
+      "year": "2019",
+      "reason": "file missing"
+    },
+    {
+      "level": "HSC",
+      "subj": "chemistry-1st-paper",
+      "board": "mymensingh",
+      "year": "2019",
+      "reason": "file missing"
+    },
+    {
+      "level": "HSC",
+      "subj": "chemistry-1st-paper",
+      "board": "rajshahi",
+      "year": "2019",
+      "reason": "file missing"
+    },
+    {
+      "level": "HSC",
+      "subj": "chemistry-1st-paper",
+      "board": "sylhet",
+      "year": "2019",
+      "reason": "file missing"
+    },
+    {
+      "level": "HSC",
+      "subj": "chemistry-1st-paper",
+      "board": "barishal",
+      "year": "2020",
+      "reason": "file missing"
+    },
+    {
+      "level": "HSC",
+      "subj": "chemistry-1st-paper",
+      "board": "chattogram",
+      "year": "2020",
+      "reason": "file missing"
+    },
+    {
+      "level": "HSC",
+      "subj": "chemistry-1st-paper",
+      "board": "cumilla",
+      "year": "2020",
+      "reason": "file missing"
+    },
+    {
+      "level": "HSC",
+      "subj": "chemistry-1st-paper",
+      "board": "dhaka",
+      "year": "2020",
+      "reason": "file missing"
+    },
+    {
+      "level": "HSC",
+      "subj": "chemistry-1st-paper",
+      "board": "dinajpur",
+      "year": "2020",
+      "reason": "file missing"
+    },
+    {
+      "level": "HSC",
+      "subj": "chemistry-1st-paper",
+      "board": "jashore",
+      "year": "2020",
+      "reason": "file missing"
+    },
+    {
+      "level": "HSC",
+      "subj": "chemistry-1st-paper",
+      "board": "mymensingh",
+      "year": "2020",
+      "reason": "file missing"
+    },
+    {
+      "level": "HSC",
+      "subj": "chemistry-1st-paper",
+      "board": "rajshahi",
+      "year": "2020",
+      "reason": "file missing"
+    },
+    {
+      "level": "HSC",
+      "subj": "chemistry-1st-paper",
+      "board": "sylhet",
+      "year": "2020",
+      "reason": "file missing"
+    },
+    {
+      "level": "HSC",
+      "subj": "chemistry-1st-paper",
+      "board": "barishal",
+      "year": "2021",
+      "reason": "file missing"
+    },
+    {
+      "level": "HSC",
+      "subj": "chemistry-1st-paper",
+      "board": "chattogram",
+      "year": "2021",
+      "reason": "file missing"
+    },
+    {
+      "level": "HSC",
+      "subj": "chemistry-1st-paper",
+      "board": "cumilla",
+      "year": "2021",
+      "reason": "file missing"
+    },
+    {
+      "level": "HSC",
+      "subj": "chemistry-1st-paper",
+      "board": "dhaka",
+      "year": "2021",
+      "reason": "file missing"
+    },
+    {
+      "level": "HSC",
+      "subj": "chemistry-1st-paper",
+      "board": "dinajpur",
+      "year": "2021",
+      "reason": "file missing"
+    },
+    {
+      "level": "HSC",
+      "subj": "chemistry-1st-paper",
+      "board": "jashore",
+      "year": "2021",
+      "reason": "file missing"
+    },
+    {
+      "level": "HSC",
+      "subj": "chemistry-1st-paper",
+      "board": "mymensingh",
+      "year": "2021",
+      "reason": "file missing"
+    },
+    {
+      "level": "HSC",
+      "subj": "chemistry-1st-paper",
+      "board": "rajshahi",
+      "year": "2021",
+      "reason": "file missing"
+    },
+    {
+      "level": "HSC",
+      "subj": "chemistry-1st-paper",
+      "board": "sylhet",
+      "year": "2021",
+      "reason": "file missing"
+    },
+    {
+      "level": "HSC",
+      "subj": "chemistry-1st-paper",
+      "board": "barishal",
+      "year": "2026",
+      "reason": "file missing"
+    },
+    {
+      "level": "HSC",
+      "subj": "chemistry-1st-paper",
+      "board": "chattogram",
+      "year": "2026",
+      "reason": "file missing"
+    },
+    {
+      "level": "HSC",
+      "subj": "chemistry-1st-paper",
+      "board": "cumilla",
+      "year": "2026",
+      "reason": "file missing"
+    },
+    {
+      "level": "HSC",
+      "subj": "chemistry-1st-paper",
+      "board": "dhaka",
+      "year": "2026",
+      "reason": "file missing"
+    },
+    {
+      "level": "HSC",
+      "subj": "chemistry-1st-paper",
+      "board": "dinajpur",
+      "year": "2026",
+      "reason": "file missing"
+    },
+    {
+      "level": "HSC",
+      "subj": "chemistry-1st-paper",
+      "board": "jashore",
+      "year": "2026",
+      "reason": "file missing"
+    },
+    {
+      "level": "HSC",
+      "subj": "chemistry-1st-paper",
+      "board": "mymensingh",
+      "year": "2026",
+      "reason": "file missing"
+    },
+    {
+      "level": "HSC",
+      "subj": "chemistry-1st-paper",
+      "board": "rajshahi",
+      "year": "2026",
+      "reason": "file missing"
+    },
+    {
+      "level": "HSC",
+      "subj": "chemistry-1st-paper",
+      "board": "sylhet",
+      "year": "2026",
+      "reason": "file missing"
+    },
+    {
+      "level": "HSC",
+      "subj": "chemistry-2nd-paper",
+      "board": "barishal",
+      "year": "2019",
+      "reason": "file missing"
+    },
+    {
+      "level": "HSC",
+      "subj": "chemistry-2nd-paper",
+      "board": "chattogram",
+      "year": "2019",
+      "reason": "file missing"
+    },
+    {
+      "level": "HSC",
+      "subj": "chemistry-2nd-paper",
+      "board": "cumilla",
+      "year": "2019",
+      "reason": "file missing"
+    },
+    {
+      "level": "HSC",
+      "subj": "chemistry-2nd-paper",
+      "board": "dhaka",
+      "year": "2019",
+      "reason": "file missing"
+    },
+    {
+      "level": "HSC",
+      "subj": "chemistry-2nd-paper",
+      "board": "dinajpur",
+      "year": "2019",
+      "reason": "file missing"
+    },
+    {
+      "level": "HSC",
+      "subj": "chemistry-2nd-paper",
+      "board": "jashore",
+      "year": "2019",
+      "reason": "file missing"
+    },
+    {
+      "level": "HSC",
+      "subj": "chemistry-2nd-paper",
+      "board": "mymensingh",
+      "year": "2019",
+      "reason": "file missing"
+    },
+    {
+      "level": "HSC",
+      "subj": "chemistry-2nd-paper",
+      "board": "rajshahi",
+      "year": "2019",
+      "reason": "file missing"
+    },
+    {
+      "level": "HSC",
+      "subj": "chemistry-2nd-paper",
+      "board": "sylhet",
+      "year": "2019",
+      "reason": "file missing"
+    },
+    {
+      "level": "HSC",
+      "subj": "chemistry-2nd-paper",
+      "board": "barishal",
+      "year": "2020",
+      "reason": "file missing"
+    },
+    {
+      "level": "HSC",
+      "subj": "chemistry-2nd-paper",
+      "board": "chattogram",
+      "year": "2020",
+      "reason": "file missing"
+    },
+    {
+      "level": "HSC",
+      "subj": "chemistry-2nd-paper",
+      "board": "cumilla",
+      "year": "2020",
+      "reason": "file missing"
+    },
+    {
+      "level": "HSC",
+      "subj": "chemistry-2nd-paper",
+      "board": "dhaka",
+      "year": "2020",
+      "reason": "file missing"
+    },
+    {
+      "level": "HSC",
+      "subj": "chemistry-2nd-paper",
+      "board": "dinajpur",
+      "year": "2020",
+      "reason": "file missing"
+    },
+    {
+      "level": "HSC",
+      "subj": "chemistry-2nd-paper",
+      "board": "jashore",
+      "year": "2020",
+      "reason": "file missing"
+    },
+    {
+      "level": "HSC",
+      "subj": "chemistry-2nd-paper",
+      "board": "mymensingh",
+      "year": "2020",
+      "reason": "file missing"
+    },
+    {
+      "level": "HSC",
+      "subj": "chemistry-2nd-paper",
+      "board": "rajshahi",
+      "year": "2020",
+      "reason": "file missing"
+    },
+    {
+      "level": "HSC",
+      "subj": "chemistry-2nd-paper",
+      "board": "sylhet",
+      "year": "2020",
+      "reason": "file missing"
+    },
+    {
+      "level": "HSC",
+      "subj": "chemistry-2nd-paper",
+      "board": "barishal",
+      "year": "2021",
+      "reason": "file missing"
+    },
+    {
+      "level": "HSC",
+      "subj": "chemistry-2nd-paper",
+      "board": "chattogram",
+      "year": "2021",
+      "reason": "file missing"
+    },
+    {
+      "level": "HSC",
+      "subj": "chemistry-2nd-paper",
+      "board": "cumilla",
+      "year": "2021",
+      "reason": "file missing"
+    },
+    {
+      "level": "HSC",
+      "subj": "chemistry-2nd-paper",
+      "board": "dhaka",
+      "year": "2021",
+      "reason": "file missing"
+    },
+    {
+      "level": "HSC",
+      "subj": "chemistry-2nd-paper",
+      "board": "dinajpur",
+      "year": "2021",
+      "reason": "file missing"
+    },
+    {
+      "level": "HSC",
+      "subj": "chemistry-2nd-paper",
+      "board": "jashore",
+      "year": "2021",
+      "reason": "file missing"
+    },
+    {
+      "level": "HSC",
+      "subj": "chemistry-2nd-paper",
+      "board": "mymensingh",
+      "year": "2021",
+      "reason": "file missing"
+    },
+    {
+      "level": "HSC",
+      "subj": "chemistry-2nd-paper",
+      "board": "rajshahi",
+      "year": "2021",
+      "reason": "file missing"
+    },
+    {
+      "level": "HSC",
+      "subj": "chemistry-2nd-paper",
+      "board": "sylhet",
+      "year": "2021",
+      "reason": "file missing"
+    },
+    {
+      "level": "HSC",
+      "subj": "chemistry-2nd-paper",
+      "board": "barishal",
+      "year": "2026",
+      "reason": "file missing"
+    },
+    {
+      "level": "HSC",
+      "subj": "chemistry-2nd-paper",
+      "board": "chattogram",
+      "year": "2026",
+      "reason": "file missing"
+    },
+    {
+      "level": "HSC",
+      "subj": "chemistry-2nd-paper",
+      "board": "cumilla",
+      "year": "2026",
+      "reason": "file missing"
+    },
+    {
+      "level": "HSC",
+      "subj": "chemistry-2nd-paper",
+      "board": "dhaka",
+      "year": "2026",
+      "reason": "file missing"
+    },
+    {
+      "level": "HSC",
+      "subj": "chemistry-2nd-paper",
+      "board": "dinajpur",
+      "year": "2026",
+      "reason": "file missing"
+    },
+    {
+      "level": "HSC",
+      "subj": "chemistry-2nd-paper",
+      "board": "jashore",
+      "year": "2026",
+      "reason": "file missing"
+    },
+    {
+      "level": "HSC",
+      "subj": "chemistry-2nd-paper",
+      "board": "mymensingh",
+      "year": "2026",
+      "reason": "file missing"
+    },
+    {
+      "level": "HSC",
+      "subj": "chemistry-2nd-paper",
+      "board": "rajshahi",
+      "year": "2026",
+      "reason": "file missing"
+    },
+    {
+      "level": "HSC",
+      "subj": "chemistry-2nd-paper",
+      "board": "sylhet",
+      "year": "2026",
+      "reason": "file missing"
+    },
+    {
+      "level": "HSC",
+      "subj": "biology-1st-paper",
+      "board": "barishal",
+      "year": "2019",
+      "reason": "file missing"
+    },
+    {
+      "level": "HSC",
+      "subj": "biology-1st-paper",
+      "board": "chattogram",
+      "year": "2019",
+      "reason": "file missing"
+    },
+    {
+      "level": "HSC",
+      "subj": "biology-1st-paper",
+      "board": "cumilla",
+      "year": "2019",
+      "reason": "file missing"
+    },
+    {
+      "level": "HSC",
+      "subj": "biology-1st-paper",
+      "board": "dhaka",
+      "year": "2019",
+      "reason": "file missing"
+    },
+    {
+      "level": "HSC",
+      "subj": "biology-1st-paper",
+      "board": "dinajpur",
+      "year": "2019",
+      "reason": "file missing"
+    },
+    {
+      "level": "HSC",
+      "subj": "biology-1st-paper",
+      "board": "jashore",
+      "year": "2019",
+      "reason": "file missing"
+    },
+    {
+      "level": "HSC",
+      "subj": "biology-1st-paper",
+      "board": "mymensingh",
+      "year": "2019",
+      "reason": "file missing"
+    },
+    {
+      "level": "HSC",
+      "subj": "biology-1st-paper",
+      "board": "rajshahi",
+      "year": "2019",
+      "reason": "file missing"
+    },
+    {
+      "level": "HSC",
+      "subj": "biology-1st-paper",
+      "board": "sylhet",
+      "year": "2019",
+      "reason": "file missing"
+    },
+    {
+      "level": "HSC",
+      "subj": "biology-1st-paper",
+      "board": "barishal",
+      "year": "2020",
+      "reason": "file missing"
+    },
+    {
+      "level": "HSC",
+      "subj": "biology-1st-paper",
+      "board": "chattogram",
+      "year": "2020",
+      "reason": "file missing"
+    },
+    {
+      "level": "HSC",
+      "subj": "biology-1st-paper",
+      "board": "cumilla",
+      "year": "2020",
+      "reason": "file missing"
+    },
+    {
+      "level": "HSC",
+      "subj": "biology-1st-paper",
+      "board": "dhaka",
+      "year": "2020",
+      "reason": "file missing"
+    },
+    {
+      "level": "HSC",
+      "subj": "biology-1st-paper",
+      "board": "dinajpur",
+      "year": "2020",
+      "reason": "file missing"
+    },
+    {
+      "level": "HSC",
+      "subj": "biology-1st-paper",
+      "board": "jashore",
+      "year": "2020",
+      "reason": "file missing"
+    },
+    {
+      "level": "HSC",
+      "subj": "biology-1st-paper",
+      "board": "mymensingh",
+      "year": "2020",
+      "reason": "file missing"
+    },
+    {
+      "level": "HSC",
+      "subj": "biology-1st-paper",
+      "board": "rajshahi",
+      "year": "2020",
+      "reason": "file missing"
+    },
+    {
+      "level": "HSC",
+      "subj": "biology-1st-paper",
+      "board": "sylhet",
+      "year": "2020",
+      "reason": "file missing"
+    },
+    {
+      "level": "HSC",
+      "subj": "biology-1st-paper",
+      "board": "barishal",
+      "year": "2021",
+      "reason": "file missing"
+    },
+    {
+      "level": "HSC",
+      "subj": "biology-1st-paper",
+      "board": "chattogram",
+      "year": "2021",
+      "reason": "file missing"
+    },
+    {
+      "level": "HSC",
+      "subj": "biology-1st-paper",
+      "board": "cumilla",
+      "year": "2021",
+      "reason": "file missing"
+    },
+    {
+      "level": "HSC",
+      "subj": "biology-1st-paper",
+      "board": "dhaka",
+      "year": "2021",
+      "reason": "file missing"
+    },
+    {
+      "level": "HSC",
+      "subj": "biology-1st-paper",
+      "board": "dinajpur",
+      "year": "2021",
+      "reason": "file missing"
+    },
+    {
+      "level": "HSC",
+      "subj": "biology-1st-paper",
+      "board": "jashore",
+      "year": "2021",
+      "reason": "file missing"
+    },
+    {
+      "level": "HSC",
+      "subj": "biology-1st-paper",
+      "board": "mymensingh",
+      "year": "2021",
+      "reason": "file missing"
+    },
+    {
+      "level": "HSC",
+      "subj": "biology-1st-paper",
+      "board": "rajshahi",
+      "year": "2021",
+      "reason": "file missing"
+    },
+    {
+      "level": "HSC",
+      "subj": "biology-1st-paper",
+      "board": "sylhet",
+      "year": "2021",
+      "reason": "file missing"
+    },
+    {
+      "level": "HSC",
+      "subj": "biology-1st-paper",
+      "board": "barishal",
+      "year": "2026",
+      "reason": "file missing"
+    },
+    {
+      "level": "HSC",
+      "subj": "biology-1st-paper",
+      "board": "chattogram",
+      "year": "2026",
+      "reason": "file missing"
+    },
+    {
+      "level": "HSC",
+      "subj": "biology-1st-paper",
+      "board": "cumilla",
+      "year": "2026",
+      "reason": "file missing"
+    },
+    {
+      "level": "HSC",
+      "subj": "biology-1st-paper",
+      "board": "dhaka",
+      "year": "2026",
+      "reason": "file missing"
+    },
+    {
+      "level": "HSC",
+      "subj": "biology-1st-paper",
+      "board": "dinajpur",
+      "year": "2026",
+      "reason": "file missing"
+    },
+    {
+      "level": "HSC",
+      "subj": "biology-1st-paper",
+      "board": "jashore",
+      "year": "2026",
+      "reason": "file missing"
+    },
+    {
+      "level": "HSC",
+      "subj": "biology-1st-paper",
+      "board": "mymensingh",
+      "year": "2026",
+      "reason": "file missing"
+    },
+    {
+      "level": "HSC",
+      "subj": "biology-1st-paper",
+      "board": "rajshahi",
+      "year": "2026",
+      "reason": "file missing"
+    },
+    {
+      "level": "HSC",
+      "subj": "biology-1st-paper",
+      "board": "sylhet",
+      "year": "2026",
+      "reason": "file missing"
+    },
+    {
+      "level": "HSC",
+      "subj": "biology-2nd-paper",
+      "board": "barishal",
+      "year": "2019",
+      "reason": "file missing"
+    },
+    {
+      "level": "HSC",
+      "subj": "biology-2nd-paper",
+      "board": "chattogram",
+      "year": "2019",
+      "reason": "file missing"
+    },
+    {
+      "level": "HSC",
+      "subj": "biology-2nd-paper",
+      "board": "cumilla",
+      "year": "2019",
+      "reason": "file missing"
+    },
+    {
+      "level": "HSC",
+      "subj": "biology-2nd-paper",
+      "board": "dhaka",
+      "year": "2019",
+      "reason": "file missing"
+    },
+    {
+      "level": "HSC",
+      "subj": "biology-2nd-paper",
+      "board": "dinajpur",
+      "year": "2019",
+      "reason": "file missing"
+    },
+    {
+      "level": "HSC",
+      "subj": "biology-2nd-paper",
+      "board": "jashore",
+      "year": "2019",
+      "reason": "file missing"
+    },
+    {
+      "level": "HSC",
+      "subj": "biology-2nd-paper",
+      "board": "mymensingh",
+      "year": "2019",
+      "reason": "file missing"
+    },
+    {
+      "level": "HSC",
+      "subj": "biology-2nd-paper",
+      "board": "rajshahi",
+      "year": "2019",
+      "reason": "file missing"
+    },
+    {
+      "level": "HSC",
+      "subj": "biology-2nd-paper",
+      "board": "sylhet",
+      "year": "2019",
+      "reason": "file missing"
+    },
+    {
+      "level": "HSC",
+      "subj": "biology-2nd-paper",
+      "board": "barishal",
+      "year": "2020",
+      "reason": "file missing"
+    },
+    {
+      "level": "HSC",
+      "subj": "biology-2nd-paper",
+      "board": "chattogram",
+      "year": "2020",
+      "reason": "file missing"
+    },
+    {
+      "level": "HSC",
+      "subj": "biology-2nd-paper",
+      "board": "cumilla",
+      "year": "2020",
+      "reason": "file missing"
+    },
+    {
+      "level": "HSC",
+      "subj": "biology-2nd-paper",
+      "board": "dhaka",
+      "year": "2020",
+      "reason": "file missing"
+    },
+    {
+      "level": "HSC",
+      "subj": "biology-2nd-paper",
+      "board": "dinajpur",
+      "year": "2020",
+      "reason": "file missing"
+    },
+    {
+      "level": "HSC",
+      "subj": "biology-2nd-paper",
+      "board": "jashore",
+      "year": "2020",
+      "reason": "file missing"
+    },
+    {
+      "level": "HSC",
+      "subj": "biology-2nd-paper",
+      "board": "mymensingh",
+      "year": "2020",
+      "reason": "file missing"
+    },
+    {
+      "level": "HSC",
+      "subj": "biology-2nd-paper",
+      "board": "rajshahi",
+      "year": "2020",
+      "reason": "file missing"
+    },
+    {
+      "level": "HSC",
+      "subj": "biology-2nd-paper",
+      "board": "sylhet",
+      "year": "2020",
+      "reason": "file missing"
+    },
+    {
+      "level": "HSC",
+      "subj": "biology-2nd-paper",
+      "board": "barishal",
+      "year": "2021",
+      "reason": "file missing"
+    },
+    {
+      "level": "HSC",
+      "subj": "biology-2nd-paper",
+      "board": "chattogram",
+      "year": "2021",
+      "reason": "file missing"
+    },
+    {
+      "level": "HSC",
+      "subj": "biology-2nd-paper",
+      "board": "cumilla",
+      "year": "2021",
+      "reason": "file missing"
+    },
+    {
+      "level": "HSC",
+      "subj": "biology-2nd-paper",
+      "board": "dhaka",
+      "year": "2021",
+      "reason": "file missing"
+    },
+    {
+      "level": "HSC",
+      "subj": "biology-2nd-paper",
+      "board": "dinajpur",
+      "year": "2021",
+      "reason": "file missing"
+    },
+    {
+      "level": "HSC",
+      "subj": "biology-2nd-paper",
+      "board": "jashore",
+      "year": "2021",
+      "reason": "file missing"
+    },
+    {
+      "level": "HSC",
+      "subj": "biology-2nd-paper",
+      "board": "mymensingh",
+      "year": "2021",
+      "reason": "file missing"
+    },
+    {
+      "level": "HSC",
+      "subj": "biology-2nd-paper",
+      "board": "rajshahi",
+      "year": "2021",
+      "reason": "file missing"
+    },
+    {
+      "level": "HSC",
+      "subj": "biology-2nd-paper",
+      "board": "sylhet",
+      "year": "2021",
+      "reason": "file missing"
+    },
+    {
+      "level": "HSC",
+      "subj": "biology-2nd-paper",
+      "board": "barishal",
+      "year": "2026",
+      "reason": "file missing"
+    },
+    {
+      "level": "HSC",
+      "subj": "biology-2nd-paper",
+      "board": "chattogram",
+      "year": "2026",
+      "reason": "file missing"
+    },
+    {
+      "level": "HSC",
+      "subj": "biology-2nd-paper",
+      "board": "cumilla",
+      "year": "2026",
+      "reason": "file missing"
+    },
+    {
+      "level": "HSC",
+      "subj": "biology-2nd-paper",
+      "board": "dhaka",
+      "year": "2026",
+      "reason": "file missing"
+    },
+    {
+      "level": "HSC",
+      "subj": "biology-2nd-paper",
+      "board": "dinajpur",
+      "year": "2026",
+      "reason": "file missing"
+    },
+    {
+      "level": "HSC",
+      "subj": "biology-2nd-paper",
+      "board": "jashore",
+      "year": "2026",
+      "reason": "file missing"
+    },
+    {
+      "level": "HSC",
+      "subj": "biology-2nd-paper",
+      "board": "mymensingh",
+      "year": "2026",
+      "reason": "file missing"
+    },
+    {
+      "level": "HSC",
+      "subj": "biology-2nd-paper",
+      "board": "rajshahi",
+      "year": "2026",
+      "reason": "file missing"
+    },
+    {
+      "level": "HSC",
+      "subj": "biology-2nd-paper",
+      "board": "sylhet",
+      "year": "2026",
+      "reason": "file missing"
+    },
+    {
+      "level": "HSC",
+      "subj": "higher-math-1st-paper",
+      "board": "barishal",
+      "year": "2019",
+      "reason": "file missing"
+    },
+    {
+      "level": "HSC",
+      "subj": "higher-math-1st-paper",
+      "board": "chattogram",
+      "year": "2019",
+      "reason": "file missing"
+    },
+    {
+      "level": "HSC",
+      "subj": "higher-math-1st-paper",
+      "board": "cumilla",
+      "year": "2019",
+      "reason": "file missing"
+    },
+    {
+      "level": "HSC",
+      "subj": "higher-math-1st-paper",
+      "board": "dhaka",
+      "year": "2019",
+      "reason": "file missing"
+    },
+    {
+      "level": "HSC",
+      "subj": "higher-math-1st-paper",
+      "board": "dinajpur",
+      "year": "2019",
+      "reason": "file missing"
+    },
+    {
+      "level": "HSC",
+      "subj": "higher-math-1st-paper",
+      "board": "jashore",
+      "year": "2019",
+      "reason": "file missing"
+    },
+    {
+      "level": "HSC",
+      "subj": "higher-math-1st-paper",
+      "board": "mymensingh",
+      "year": "2019",
+      "reason": "file missing"
+    },
+    {
+      "level": "HSC",
+      "subj": "higher-math-1st-paper",
+      "board": "rajshahi",
+      "year": "2019",
+      "reason": "file missing"
+    },
+    {
+      "level": "HSC",
+      "subj": "higher-math-1st-paper",
+      "board": "sylhet",
+      "year": "2019",
+      "reason": "file missing"
+    },
+    {
+      "level": "HSC",
+      "subj": "higher-math-1st-paper",
+      "board": "barishal",
+      "year": "2020",
+      "reason": "file missing"
+    },
+    {
+      "level": "HSC",
+      "subj": "higher-math-1st-paper",
+      "board": "chattogram",
+      "year": "2020",
+      "reason": "file missing"
+    },
+    {
+      "level": "HSC",
+      "subj": "higher-math-1st-paper",
+      "board": "cumilla",
+      "year": "2020",
+      "reason": "file missing"
+    },
+    {
+      "level": "HSC",
+      "subj": "higher-math-1st-paper",
+      "board": "dhaka",
+      "year": "2020",
+      "reason": "file missing"
+    },
+    {
+      "level": "HSC",
+      "subj": "higher-math-1st-paper",
+      "board": "dinajpur",
+      "year": "2020",
+      "reason": "file missing"
+    },
+    {
+      "level": "HSC",
+      "subj": "higher-math-1st-paper",
+      "board": "jashore",
+      "year": "2020",
+      "reason": "file missing"
+    },
+    {
+      "level": "HSC",
+      "subj": "higher-math-1st-paper",
+      "board": "mymensingh",
+      "year": "2020",
+      "reason": "file missing"
+    },
+    {
+      "level": "HSC",
+      "subj": "higher-math-1st-paper",
+      "board": "rajshahi",
+      "year": "2020",
+      "reason": "file missing"
+    },
+    {
+      "level": "HSC",
+      "subj": "higher-math-1st-paper",
+      "board": "sylhet",
+      "year": "2020",
+      "reason": "file missing"
+    },
+    {
+      "level": "HSC",
+      "subj": "higher-math-1st-paper",
+      "board": "barishal",
+      "year": "2021",
+      "reason": "file missing"
+    },
+    {
+      "level": "HSC",
+      "subj": "higher-math-1st-paper",
+      "board": "chattogram",
+      "year": "2021",
+      "reason": "file missing"
+    },
+    {
+      "level": "HSC",
+      "subj": "higher-math-1st-paper",
+      "board": "cumilla",
+      "year": "2021",
+      "reason": "file missing"
+    },
+    {
+      "level": "HSC",
+      "subj": "higher-math-1st-paper",
+      "board": "dhaka",
+      "year": "2021",
+      "reason": "file missing"
+    },
+    {
+      "level": "HSC",
+      "subj": "higher-math-1st-paper",
+      "board": "dinajpur",
+      "year": "2021",
+      "reason": "file missing"
+    },
+    {
+      "level": "HSC",
+      "subj": "higher-math-1st-paper",
+      "board": "jashore",
+      "year": "2021",
+      "reason": "file missing"
+    },
+    {
+      "level": "HSC",
+      "subj": "higher-math-1st-paper",
+      "board": "mymensingh",
+      "year": "2021",
+      "reason": "file missing"
+    },
+    {
+      "level": "HSC",
+      "subj": "higher-math-1st-paper",
+      "board": "rajshahi",
+      "year": "2021",
+      "reason": "file missing"
+    },
+    {
+      "level": "HSC",
+      "subj": "higher-math-1st-paper",
+      "board": "sylhet",
+      "year": "2021",
+      "reason": "file missing"
+    },
+    {
+      "level": "HSC",
+      "subj": "higher-math-1st-paper",
+      "board": "barishal",
+      "year": "2026",
+      "reason": "file missing"
+    },
+    {
+      "level": "HSC",
+      "subj": "higher-math-1st-paper",
+      "board": "chattogram",
+      "year": "2026",
+      "reason": "file missing"
+    },
+    {
+      "level": "HSC",
+      "subj": "higher-math-1st-paper",
+      "board": "cumilla",
+      "year": "2026",
+      "reason": "file missing"
+    },
+    {
+      "level": "HSC",
+      "subj": "higher-math-1st-paper",
+      "board": "dhaka",
+      "year": "2026",
+      "reason": "file missing"
+    },
+    {
+      "level": "HSC",
+      "subj": "higher-math-1st-paper",
+      "board": "dinajpur",
+      "year": "2026",
+      "reason": "file missing"
+    },
+    {
+      "level": "HSC",
+      "subj": "higher-math-1st-paper",
+      "board": "jashore",
+      "year": "2026",
+      "reason": "file missing"
+    },
+    {
+      "level": "HSC",
+      "subj": "higher-math-1st-paper",
+      "board": "mymensingh",
+      "year": "2026",
+      "reason": "file missing"
+    },
+    {
+      "level": "HSC",
+      "subj": "higher-math-1st-paper",
+      "board": "rajshahi",
+      "year": "2026",
+      "reason": "file missing"
+    },
+    {
+      "level": "HSC",
+      "subj": "higher-math-1st-paper",
+      "board": "sylhet",
+      "year": "2026",
+      "reason": "file missing"
+    },
+    {
+      "level": "HSC",
+      "subj": "higher-math-2nd-paper",
+      "board": "barishal",
+      "year": "2019",
+      "reason": "file missing"
+    },
+    {
+      "level": "HSC",
+      "subj": "higher-math-2nd-paper",
+      "board": "chattogram",
+      "year": "2019",
+      "reason": "file missing"
+    },
+    {
+      "level": "HSC",
+      "subj": "higher-math-2nd-paper",
+      "board": "cumilla",
+      "year": "2019",
+      "reason": "file missing"
+    },
+    {
+      "level": "HSC",
+      "subj": "higher-math-2nd-paper",
+      "board": "dhaka",
+      "year": "2019",
+      "reason": "file missing"
+    },
+    {
+      "level": "HSC",
+      "subj": "higher-math-2nd-paper",
+      "board": "dinajpur",
+      "year": "2019",
+      "reason": "file missing"
+    },
+    {
+      "level": "HSC",
+      "subj": "higher-math-2nd-paper",
+      "board": "jashore",
+      "year": "2019",
+      "reason": "file missing"
+    },
+    {
+      "level": "HSC",
+      "subj": "higher-math-2nd-paper",
+      "board": "mymensingh",
+      "year": "2019",
+      "reason": "file missing"
+    },
+    {
+      "level": "HSC",
+      "subj": "higher-math-2nd-paper",
+      "board": "rajshahi",
+      "year": "2019",
+      "reason": "file missing"
+    },
+    {
+      "level": "HSC",
+      "subj": "higher-math-2nd-paper",
+      "board": "sylhet",
+      "year": "2019",
+      "reason": "file missing"
+    },
+    {
+      "level": "HSC",
+      "subj": "higher-math-2nd-paper",
+      "board": "barishal",
+      "year": "2020",
+      "reason": "file missing"
+    },
+    {
+      "level": "HSC",
+      "subj": "higher-math-2nd-paper",
+      "board": "chattogram",
+      "year": "2020",
+      "reason": "file missing"
+    },
+    {
+      "level": "HSC",
+      "subj": "higher-math-2nd-paper",
+      "board": "cumilla",
+      "year": "2020",
+      "reason": "file missing"
+    },
+    {
+      "level": "HSC",
+      "subj": "higher-math-2nd-paper",
+      "board": "dhaka",
+      "year": "2020",
+      "reason": "file missing"
+    },
+    {
+      "level": "HSC",
+      "subj": "higher-math-2nd-paper",
+      "board": "dinajpur",
+      "year": "2020",
+      "reason": "file missing"
+    },
+    {
+      "level": "HSC",
+      "subj": "higher-math-2nd-paper",
+      "board": "jashore",
+      "year": "2020",
+      "reason": "file missing"
+    },
+    {
+      "level": "HSC",
+      "subj": "higher-math-2nd-paper",
+      "board": "mymensingh",
+      "year": "2020",
+      "reason": "file missing"
+    },
+    {
+      "level": "HSC",
+      "subj": "higher-math-2nd-paper",
+      "board": "rajshahi",
+      "year": "2020",
+      "reason": "file missing"
+    },
+    {
+      "level": "HSC",
+      "subj": "higher-math-2nd-paper",
+      "board": "sylhet",
+      "year": "2020",
+      "reason": "file missing"
+    },
+    {
+      "level": "HSC",
+      "subj": "higher-math-2nd-paper",
+      "board": "barishal",
+      "year": "2021",
+      "reason": "file missing"
+    },
+    {
+      "level": "HSC",
+      "subj": "higher-math-2nd-paper",
+      "board": "chattogram",
+      "year": "2021",
+      "reason": "file missing"
+    },
+    {
+      "level": "HSC",
+      "subj": "higher-math-2nd-paper",
+      "board": "cumilla",
+      "year": "2021",
+      "reason": "file missing"
+    },
+    {
+      "level": "HSC",
+      "subj": "higher-math-2nd-paper",
+      "board": "dhaka",
+      "year": "2021",
+      "reason": "file missing"
+    },
+    {
+      "level": "HSC",
+      "subj": "higher-math-2nd-paper",
+      "board": "dinajpur",
+      "year": "2021",
+      "reason": "file missing"
+    },
+    {
+      "level": "HSC",
+      "subj": "higher-math-2nd-paper",
+      "board": "jashore",
+      "year": "2021",
+      "reason": "file missing"
+    },
+    {
+      "level": "HSC",
+      "subj": "higher-math-2nd-paper",
+      "board": "mymensingh",
+      "year": "2021",
+      "reason": "file missing"
+    },
+    {
+      "level": "HSC",
+      "subj": "higher-math-2nd-paper",
+      "board": "rajshahi",
+      "year": "2021",
+      "reason": "file missing"
+    },
+    {
+      "level": "HSC",
+      "subj": "higher-math-2nd-paper",
+      "board": "sylhet",
+      "year": "2021",
+      "reason": "file missing"
+    },
+    {
+      "level": "HSC",
+      "subj": "higher-math-2nd-paper",
+      "board": "barishal",
+      "year": "2026",
+      "reason": "file missing"
+    },
+    {
+      "level": "HSC",
+      "subj": "higher-math-2nd-paper",
+      "board": "chattogram",
+      "year": "2026",
+      "reason": "file missing"
+    },
+    {
+      "level": "HSC",
+      "subj": "higher-math-2nd-paper",
+      "board": "cumilla",
+      "year": "2026",
+      "reason": "file missing"
+    },
+    {
+      "level": "HSC",
+      "subj": "higher-math-2nd-paper",
+      "board": "dhaka",
+      "year": "2026",
+      "reason": "file missing"
+    },
+    {
+      "level": "HSC",
+      "subj": "higher-math-2nd-paper",
+      "board": "dinajpur",
+      "year": "2026",
+      "reason": "file missing"
+    },
+    {
+      "level": "HSC",
+      "subj": "higher-math-2nd-paper",
+      "board": "jashore",
+      "year": "2026",
+      "reason": "file missing"
+    },
+    {
+      "level": "HSC",
+      "subj": "higher-math-2nd-paper",
+      "board": "mymensingh",
+      "year": "2026",
+      "reason": "file missing"
+    },
+    {
+      "level": "HSC",
+      "subj": "higher-math-2nd-paper",
+      "board": "rajshahi",
+      "year": "2026",
+      "reason": "file missing"
+    },
+    {
+      "level": "HSC",
+      "subj": "higher-math-2nd-paper",
+      "board": "sylhet",
+      "year": "2026",
+      "reason": "file missing"
+    }
+  ],
+  "incomplete": [
+    {
+      "level": "SSC",
+      "subj": "physics",
+      "board": "barishal",
+      "year": "2022",
+      "count": 24,
+      "missing": 1
+    },
+    {
+      "level": "SSC",
+      "subj": "physics",
+      "board": "chattogram",
+      "year": "2022",
+      "count": 24,
+      "missing": 1
+    },
+    {
+      "level": "SSC",
+      "subj": "physics",
+      "board": "cumilla",
+      "year": "2022",
+      "count": 24,
+      "missing": 1
+    },
+    {
+      "level": "SSC",
+      "subj": "physics",
+      "board": "dhaka",
+      "year": "2022",
+      "count": 24,
+      "missing": 1
+    },
+    {
+      "level": "SSC",
+      "subj": "physics",
+      "board": "dinajpur",
+      "year": "2022",
+      "count": 24,
+      "missing": 1
+    },
+    {
+      "level": "SSC",
+      "subj": "physics",
+      "board": "jashore",
+      "year": "2022",
+      "count": 24,
+      "missing": 1
+    },
+    {
+      "level": "SSC",
+      "subj": "physics",
+      "board": "mymensingh",
+      "year": "2022",
+      "count": 24,
+      "missing": 1
+    },
+    {
+      "level": "SSC",
+      "subj": "physics",
+      "board": "rajshahi",
+      "year": "2022",
+      "count": 24,
+      "missing": 1
+    },
+    {
+      "level": "SSC",
+      "subj": "physics",
+      "board": "chattogram",
+      "year": "2023",
+      "count": 24,
+      "missing": 1
+    },
+    {
+      "level": "SSC",
+      "subj": "physics",
+      "board": "dinajpur",
+      "year": "2023",
+      "count": 24,
+      "missing": 1
+    },
+    {
+      "level": "SSC",
+      "subj": "physics",
+      "board": "mymensingh",
+      "year": "2023",
+      "count": 24,
+      "missing": 1
+    },
+    {
+      "level": "SSC",
+      "subj": "physics",
+      "board": "cumilla",
+      "year": "2024",
+      "count": 24,
+      "missing": 1
+    },
+    {
+      "level": "SSC",
+      "subj": "physics",
+      "board": "rajshahi",
+      "year": "2024",
+      "count": 23,
+      "missing": 2
+    },
+    {
+      "level": "SSC",
+      "subj": "chemistry",
+      "board": "barishal",
+      "year": "2022",
+      "count": 15,
+      "missing": 10
+    },
+    {
+      "level": "SSC",
+      "subj": "chemistry",
+      "board": "chattogram",
+      "year": "2022",
+      "count": 15,
+      "missing": 10
+    },
+    {
+      "level": "SSC",
+      "subj": "chemistry",
+      "board": "cumilla",
+      "year": "2022",
+      "count": 15,
+      "missing": 10
+    },
+    {
+      "level": "SSC",
+      "subj": "chemistry",
+      "board": "dhaka",
+      "year": "2022",
+      "count": 15,
+      "missing": 10
+    },
+    {
+      "level": "SSC",
+      "subj": "chemistry",
+      "board": "dinajpur",
+      "year": "2022",
+      "count": 15,
+      "missing": 10
+    },
+    {
+      "level": "SSC",
+      "subj": "chemistry",
+      "board": "jashore",
+      "year": "2022",
+      "count": 15,
+      "missing": 10
+    },
+    {
+      "level": "SSC",
+      "subj": "chemistry",
+      "board": "mymensingh",
+      "year": "2022",
+      "count": 15,
+      "missing": 10
+    },
+    {
+      "level": "SSC",
+      "subj": "chemistry",
+      "board": "rajshahi",
+      "year": "2022",
+      "count": 15,
+      "missing": 10
+    },
+    {
+      "level": "SSC",
+      "subj": "chemistry",
+      "board": "sylhet",
+      "year": "2022",
+      "count": 16,
+      "missing": 9
+    },
+    {
+      "level": "SSC",
+      "subj": "chemistry",
+      "board": "barishal",
+      "year": "2023",
+      "count": 15,
+      "missing": 10
+    },
+    {
+      "level": "SSC",
+      "subj": "chemistry",
+      "board": "chattogram",
+      "year": "2023",
+      "count": 15,
+      "missing": 10
+    },
+    {
+      "level": "SSC",
+      "subj": "chemistry",
+      "board": "cumilla",
+      "year": "2023",
+      "count": 15,
+      "missing": 10
+    },
+    {
+      "level": "SSC",
+      "subj": "chemistry",
+      "board": "dinajpur",
+      "year": "2023",
+      "count": 15,
+      "missing": 10
+    },
+    {
+      "level": "SSC",
+      "subj": "chemistry",
+      "board": "jashore",
+      "year": "2023",
+      "count": 15,
+      "missing": 10
+    },
+    {
+      "level": "SSC",
+      "subj": "chemistry",
+      "board": "mymensingh",
+      "year": "2023",
+      "count": 15,
+      "missing": 10
+    },
+    {
+      "level": "SSC",
+      "subj": "chemistry",
+      "board": "sylhet",
+      "year": "2023",
+      "count": 16,
+      "missing": 9
+    },
+    {
+      "level": "SSC",
+      "subj": "chemistry",
+      "board": "barishal",
+      "year": "2024",
+      "count": 15,
+      "missing": 10
+    },
+    {
+      "level": "SSC",
+      "subj": "chemistry",
+      "board": "chattogram",
+      "year": "2024",
+      "count": 15,
+      "missing": 10
+    },
+    {
+      "level": "SSC",
+      "subj": "chemistry",
+      "board": "cumilla",
+      "year": "2024",
+      "count": 15,
+      "missing": 10
+    },
+    {
+      "level": "SSC",
+      "subj": "chemistry",
+      "board": "dhaka",
+      "year": "2024",
+      "count": 15,
+      "missing": 10
+    },
+    {
+      "level": "SSC",
+      "subj": "chemistry",
+      "board": "dinajpur",
+      "year": "2024",
+      "count": 15,
+      "missing": 10
+    },
+    {
+      "level": "SSC",
+      "subj": "chemistry",
+      "board": "jashore",
+      "year": "2024",
+      "count": 15,
+      "missing": 10
+    },
+    {
+      "level": "SSC",
+      "subj": "chemistry",
+      "board": "mymensingh",
+      "year": "2024",
+      "count": 15,
+      "missing": 10
+    },
+    {
+      "level": "SSC",
+      "subj": "chemistry",
+      "board": "rajshahi",
+      "year": "2024",
+      "count": 15,
+      "missing": 10
+    },
+    {
+      "level": "SSC",
+      "subj": "chemistry",
+      "board": "sylhet",
+      "year": "2024",
+      "count": 16,
+      "missing": 9
+    },
+    {
+      "level": "SSC",
+      "subj": "chemistry",
+      "board": "barishal",
+      "year": "2026",
+      "count": 15,
+      "missing": 10
+    },
+    {
+      "level": "SSC",
+      "subj": "chemistry",
+      "board": "chattogram",
+      "year": "2026",
+      "count": 15,
+      "missing": 10
+    },
+    {
+      "level": "SSC",
+      "subj": "chemistry",
+      "board": "cumilla",
+      "year": "2026",
+      "count": 15,
+      "missing": 10
+    },
+    {
+      "level": "SSC",
+      "subj": "chemistry",
+      "board": "dhaka",
+      "year": "2026",
+      "count": 15,
+      "missing": 10
+    },
+    {
+      "level": "SSC",
+      "subj": "chemistry",
+      "board": "dinajpur",
+      "year": "2026",
+      "count": 15,
+      "missing": 10
+    },
+    {
+      "level": "SSC",
+      "subj": "chemistry",
+      "board": "jashore",
+      "year": "2026",
+      "count": 15,
+      "missing": 10
+    },
+    {
+      "level": "SSC",
+      "subj": "chemistry",
+      "board": "mymensingh",
+      "year": "2026",
+      "count": 15,
+      "missing": 10
+    },
+    {
+      "level": "SSC",
+      "subj": "chemistry",
+      "board": "rajshahi",
+      "year": "2026",
+      "count": 15,
+      "missing": 10
+    },
+    {
+      "level": "SSC",
+      "subj": "chemistry",
+      "board": "sylhet",
+      "year": "2026",
+      "count": 16,
+      "missing": 9
+    },
+    {
+      "level": "SSC",
+      "subj": "biology",
+      "board": "barishal",
+      "year": "2022",
+      "count": 15,
+      "missing": 10
+    },
+    {
+      "level": "SSC",
+      "subj": "biology",
+      "board": "chattogram",
+      "year": "2022",
+      "count": 15,
+      "missing": 10
+    },
+    {
+      "level": "SSC",
+      "subj": "biology",
+      "board": "cumilla",
+      "year": "2022",
+      "count": 15,
+      "missing": 10
+    },
+    {
+      "level": "SSC",
+      "subj": "biology",
+      "board": "dinajpur",
+      "year": "2022",
+      "count": 15,
+      "missing": 10
+    },
+    {
+      "level": "SSC",
+      "subj": "biology",
+      "board": "jashore",
+      "year": "2022",
+      "count": 15,
+      "missing": 10
+    },
+    {
+      "level": "SSC",
+      "subj": "biology",
+      "board": "mymensingh",
+      "year": "2022",
+      "count": 15,
+      "missing": 10
+    },
+    {
+      "level": "SSC",
+      "subj": "biology",
+      "board": "sylhet",
+      "year": "2022",
+      "count": 16,
+      "missing": 9
+    },
+    {
+      "level": "SSC",
+      "subj": "biology",
+      "board": "cumilla",
+      "year": "2023",
+      "count": 15,
+      "missing": 10
+    },
+    {
+      "level": "SSC",
+      "subj": "biology",
+      "board": "dinajpur",
+      "year": "2023",
+      "count": 15,
+      "missing": 10
+    },
+    {
+      "level": "SSC",
+      "subj": "biology",
+      "board": "jashore",
+      "year": "2023",
+      "count": 15,
+      "missing": 10
+    },
+    {
+      "level": "SSC",
+      "subj": "biology",
+      "board": "rajshahi",
+      "year": "2023",
+      "count": 15,
+      "missing": 10
+    },
+    {
+      "level": "SSC",
+      "subj": "biology",
+      "board": "barishal",
+      "year": "2024",
+      "count": 15,
+      "missing": 10
+    },
+    {
+      "level": "SSC",
+      "subj": "biology",
+      "board": "cumilla",
+      "year": "2024",
+      "count": 15,
+      "missing": 10
+    },
+    {
+      "level": "SSC",
+      "subj": "biology",
+      "board": "barishal",
+      "year": "2025",
+      "count": 15,
+      "missing": 10
+    },
+    {
+      "level": "SSC",
+      "subj": "biology",
+      "board": "chattogram",
+      "year": "2025",
+      "count": 15,
+      "missing": 10
+    },
+    {
+      "level": "SSC",
+      "subj": "biology",
+      "board": "cumilla",
+      "year": "2025",
+      "count": 15,
+      "missing": 10
+    },
+    {
+      "level": "SSC",
+      "subj": "biology",
+      "board": "dhaka",
+      "year": "2025",
+      "count": 15,
+      "missing": 10
+    },
+    {
+      "level": "SSC",
+      "subj": "biology",
+      "board": "dinajpur",
+      "year": "2025",
+      "count": 15,
+      "missing": 10
+    },
+    {
+      "level": "SSC",
+      "subj": "biology",
+      "board": "jashore",
+      "year": "2025",
+      "count": 15,
+      "missing": 10
+    },
+    {
+      "level": "SSC",
+      "subj": "biology",
+      "board": "mymensingh",
+      "year": "2025",
+      "count": 15,
+      "missing": 10
+    },
+    {
+      "level": "SSC",
+      "subj": "biology",
+      "board": "rajshahi",
+      "year": "2025",
+      "count": 15,
+      "missing": 10
+    },
+    {
+      "level": "SSC",
+      "subj": "biology",
+      "board": "sylhet",
+      "year": "2025",
+      "count": 16,
+      "missing": 9
+    },
+    {
+      "level": "SSC",
+      "subj": "higher-math",
+      "board": "barishal",
+      "year": "2022",
+      "count": 15,
+      "missing": 10
+    },
+    {
+      "level": "SSC",
+      "subj": "higher-math",
+      "board": "chattogram",
+      "year": "2022",
+      "count": 15,
+      "missing": 10
+    },
+    {
+      "level": "SSC",
+      "subj": "higher-math",
+      "board": "cumilla",
+      "year": "2022",
+      "count": 15,
+      "missing": 10
+    },
+    {
+      "level": "SSC",
+      "subj": "higher-math",
+      "board": "dhaka",
+      "year": "2022",
+      "count": 15,
+      "missing": 10
+    },
+    {
+      "level": "SSC",
+      "subj": "higher-math",
+      "board": "dinajpur",
+      "year": "2022",
+      "count": 15,
+      "missing": 10
+    },
+    {
+      "level": "SSC",
+      "subj": "higher-math",
+      "board": "jashore",
+      "year": "2022",
+      "count": 15,
+      "missing": 10
+    },
+    {
+      "level": "SSC",
+      "subj": "higher-math",
+      "board": "mymensingh",
+      "year": "2022",
+      "count": 15,
+      "missing": 10
+    },
+    {
+      "level": "SSC",
+      "subj": "higher-math",
+      "board": "rajshahi",
+      "year": "2022",
+      "count": 15,
+      "missing": 10
+    },
+    {
+      "level": "SSC",
+      "subj": "higher-math",
+      "board": "sylhet",
+      "year": "2022",
+      "count": 16,
+      "missing": 9
+    },
+    {
+      "level": "SSC",
+      "subj": "higher-math",
+      "board": "chattogram",
+      "year": "2023",
+      "count": 15,
+      "missing": 10
+    },
+    {
+      "level": "SSC",
+      "subj": "higher-math",
+      "board": "dhaka",
+      "year": "2023",
+      "count": 15,
+      "missing": 10
+    },
+    {
+      "level": "SSC",
+      "subj": "higher-math",
+      "board": "dinajpur",
+      "year": "2023",
+      "count": 15,
+      "missing": 10
+    },
+    {
+      "level": "SSC",
+      "subj": "higher-math",
+      "board": "jashore",
+      "year": "2023",
+      "count": 15,
+      "missing": 10
+    },
+    {
+      "level": "SSC",
+      "subj": "higher-math",
+      "board": "rajshahi",
+      "year": "2023",
+      "count": 15,
+      "missing": 10
+    },
+    {
+      "level": "SSC",
+      "subj": "higher-math",
+      "board": "sylhet",
+      "year": "2023",
+      "count": 16,
+      "missing": 9
+    },
+    {
+      "level": "SSC",
+      "subj": "higher-math",
+      "board": "chattogram",
+      "year": "2025",
+      "count": 15,
+      "missing": 10
+    },
+    {
+      "level": "SSC",
+      "subj": "higher-math",
+      "board": "cumilla",
+      "year": "2025",
+      "count": 15,
+      "missing": 10
+    },
+    {
+      "level": "SSC",
+      "subj": "higher-math",
+      "board": "dhaka",
+      "year": "2025",
+      "count": 15,
+      "missing": 10
+    },
+    {
+      "level": "SSC",
+      "subj": "higher-math",
+      "board": "jashore",
+      "year": "2025",
+      "count": 15,
+      "missing": 10
+    },
+    {
+      "level": "SSC",
+      "subj": "higher-math",
+      "board": "rajshahi",
+      "year": "2025",
+      "count": 15,
+      "missing": 10
+    },
+    {
+      "level": "SSC",
+      "subj": "higher-math",
+      "board": "sylhet",
+      "year": "2025",
+      "count": 16,
+      "missing": 9
+    },
+    {
+      "level": "SSC",
+      "subj": "higher-math",
+      "board": "barishal",
+      "year": "2026",
+      "count": 15,
+      "missing": 10
+    },
+    {
+      "level": "SSC",
+      "subj": "higher-math",
+      "board": "chattogram",
+      "year": "2026",
+      "count": 15,
+      "missing": 10
+    },
+    {
+      "level": "SSC",
+      "subj": "higher-math",
+      "board": "cumilla",
+      "year": "2026",
+      "count": 15,
+      "missing": 10
+    },
+    {
+      "level": "SSC",
+      "subj": "higher-math",
+      "board": "dhaka",
+      "year": "2026",
+      "count": 15,
+      "missing": 10
+    },
+    {
+      "level": "SSC",
+      "subj": "higher-math",
+      "board": "dinajpur",
+      "year": "2026",
+      "count": 15,
+      "missing": 10
+    },
+    {
+      "level": "SSC",
+      "subj": "higher-math",
+      "board": "jashore",
+      "year": "2026",
+      "count": 15,
+      "missing": 10
+    },
+    {
+      "level": "SSC",
+      "subj": "higher-math",
+      "board": "mymensingh",
+      "year": "2026",
+      "count": 15,
+      "missing": 10
+    },
+    {
+      "level": "SSC",
+      "subj": "higher-math",
+      "board": "rajshahi",
+      "year": "2026",
+      "count": 15,
+      "missing": 10
+    },
+    {
+      "level": "SSC",
+      "subj": "higher-math",
+      "board": "sylhet",
+      "year": "2026",
+      "count": 16,
+      "missing": 9
+    },
+    {
+      "level": "SSC",
+      "subj": "general-math",
+      "board": "barishal",
+      "year": "2022",
+      "count": 16,
+      "missing": 9
+    },
+    {
+      "level": "SSC",
+      "subj": "general-math",
+      "board": "chattogram",
+      "year": "2022",
+      "count": 16,
+      "missing": 9
+    },
+    {
+      "level": "SSC",
+      "subj": "general-math",
+      "board": "cumilla",
+      "year": "2022",
+      "count": 16,
+      "missing": 9
+    },
+    {
+      "level": "SSC",
+      "subj": "general-math",
+      "board": "dhaka",
+      "year": "2022",
+      "count": 15,
+      "missing": 10
+    },
+    {
+      "level": "SSC",
+      "subj": "general-math",
+      "board": "dinajpur",
+      "year": "2022",
+      "count": 15,
+      "missing": 10
+    },
+    {
+      "level": "SSC",
+      "subj": "general-math",
+      "board": "jashore",
+      "year": "2022",
+      "count": 16,
+      "missing": 9
+    },
+    {
+      "level": "SSC",
+      "subj": "general-math",
+      "board": "mymensingh",
+      "year": "2022",
+      "count": 16,
+      "missing": 9
+    },
+    {
+      "level": "SSC",
+      "subj": "general-math",
+      "board": "rajshahi",
+      "year": "2022",
+      "count": 16,
+      "missing": 9
+    },
+    {
+      "level": "SSC",
+      "subj": "general-math",
+      "board": "sylhet",
+      "year": "2022",
+      "count": 17,
+      "missing": 8
+    },
+    {
+      "level": "SSC",
+      "subj": "general-math",
+      "board": "cumilla",
+      "year": "2023",
+      "count": 16,
+      "missing": 9
+    },
+    {
+      "level": "SSC",
+      "subj": "general-math",
+      "board": "barishal",
+      "year": "2024",
+      "count": 16,
+      "missing": 9
+    },
+    {
+      "level": "SSC",
+      "subj": "general-math",
+      "board": "chattogram",
+      "year": "2024",
+      "count": 16,
+      "missing": 9
+    },
+    {
+      "level": "SSC",
+      "subj": "general-math",
+      "board": "dinajpur",
+      "year": "2024",
+      "count": 15,
+      "missing": 10
+    },
+    {
+      "level": "SSC",
+      "subj": "general-math",
+      "board": "jashore",
+      "year": "2024",
+      "count": 16,
+      "missing": 9
+    },
+    {
+      "level": "SSC",
+      "subj": "general-math",
+      "board": "sylhet",
+      "year": "2024",
+      "count": 17,
+      "missing": 8
+    },
+    {
+      "level": "SSC",
+      "subj": "general-math",
+      "board": "cumilla",
+      "year": "2025",
+      "count": 16,
+      "missing": 9
+    },
+    {
+      "level": "SSC",
+      "subj": "general-math",
+      "board": "jashore",
+      "year": "2025",
+      "count": 16,
+      "missing": 9
+    },
+    {
+      "level": "SSC",
+      "subj": "general-math",
+      "board": "mymensingh",
+      "year": "2025",
+      "count": 16,
+      "missing": 9
+    },
+    {
+      "level": "SSC",
+      "subj": "general-math",
+      "board": "rajshahi",
+      "year": "2025",
+      "count": 16,
+      "missing": 9
+    },
+    {
+      "level": "SSC",
+      "subj": "general-math",
+      "board": "barishal",
+      "year": "2026",
+      "count": 16,
+      "missing": 9
+    },
+    {
+      "level": "SSC",
+      "subj": "general-math",
+      "board": "chattogram",
+      "year": "2026",
+      "count": 16,
+      "missing": 9
+    },
+    {
+      "level": "SSC",
+      "subj": "general-math",
+      "board": "cumilla",
+      "year": "2026",
+      "count": 16,
+      "missing": 9
+    },
+    {
+      "level": "SSC",
+      "subj": "general-math",
+      "board": "dhaka",
+      "year": "2026",
+      "count": 15,
+      "missing": 10
+    },
+    {
+      "level": "SSC",
+      "subj": "general-math",
+      "board": "dinajpur",
+      "year": "2026",
+      "count": 15,
+      "missing": 10
+    },
+    {
+      "level": "SSC",
+      "subj": "general-math",
+      "board": "jashore",
+      "year": "2026",
+      "count": 16,
+      "missing": 9
+    },
+    {
+      "level": "SSC",
+      "subj": "general-math",
+      "board": "mymensingh",
+      "year": "2026",
+      "count": 16,
+      "missing": 9
+    },
+    {
+      "level": "SSC",
+      "subj": "general-math",
+      "board": "rajshahi",
+      "year": "2026",
+      "count": 16,
+      "missing": 9
+    },
+    {
+      "level": "SSC",
+      "subj": "general-math",
+      "board": "sylhet",
+      "year": "2026",
+      "count": 17,
+      "missing": 8
+    },
+    {
+      "level": "HSC",
+      "subj": "physics-1st-paper",
+      "board": "barishal",
+      "year": "2022",
+      "count": 12,
+      "missing": 13
+    },
+    {
+      "level": "HSC",
+      "subj": "physics-1st-paper",
+      "board": "chattogram",
+      "year": "2022",
+      "count": 12,
+      "missing": 13
+    },
+    {
+      "level": "HSC",
+      "subj": "physics-1st-paper",
+      "board": "cumilla",
+      "year": "2022",
+      "count": 12,
+      "missing": 13
+    },
+    {
+      "level": "HSC",
+      "subj": "physics-1st-paper",
+      "board": "dhaka",
+      "year": "2022",
+      "count": 12,
+      "missing": 13
+    },
+    {
+      "level": "HSC",
+      "subj": "physics-1st-paper",
+      "board": "dinajpur",
+      "year": "2022",
+      "count": 12,
+      "missing": 13
+    },
+    {
+      "level": "HSC",
+      "subj": "physics-1st-paper",
+      "board": "jashore",
+      "year": "2022",
+      "count": 11,
+      "missing": 14
+    },
+    {
+      "level": "HSC",
+      "subj": "physics-1st-paper",
+      "board": "mymensingh",
+      "year": "2022",
+      "count": 12,
+      "missing": 13
+    },
+    {
+      "level": "HSC",
+      "subj": "physics-1st-paper",
+      "board": "rajshahi",
+      "year": "2022",
+      "count": 12,
+      "missing": 13
+    },
+    {
+      "level": "HSC",
+      "subj": "physics-1st-paper",
+      "board": "sylhet",
+      "year": "2022",
+      "count": 13,
+      "missing": 12
+    },
+    {
+      "level": "HSC",
+      "subj": "physics-1st-paper",
+      "board": "dinajpur",
+      "year": "2023",
+      "count": 24,
+      "missing": 1
+    },
+    {
+      "level": "HSC",
+      "subj": "physics-1st-paper",
+      "board": "dhaka",
+      "year": "2025",
+      "count": 24,
+      "missing": 1
+    },
+    {
+      "level": "HSC",
+      "subj": "physics-1st-paper",
+      "board": "dinajpur",
+      "year": "2025",
+      "count": 24,
+      "missing": 1
+    },
+    {
+      "level": "HSC",
+      "subj": "physics-1st-paper",
+      "board": "jashore",
+      "year": "2025",
+      "count": 24,
+      "missing": 1
+    },
+    {
+      "level": "HSC",
+      "subj": "physics-1st-paper",
+      "board": "sylhet",
+      "year": "2025",
+      "count": 23,
+      "missing": 2
+    },
+    {
+      "level": "HSC",
+      "subj": "physics-2nd-paper",
+      "board": "chattogram",
+      "year": "2024",
+      "count": 10,
+      "missing": 15
+    },
+    {
+      "level": "HSC",
+      "subj": "physics-2nd-paper",
+      "board": "cumilla",
+      "year": "2024",
+      "count": 10,
+      "missing": 15
+    },
+    {
+      "level": "HSC",
+      "subj": "physics-2nd-paper",
+      "board": "dhaka",
+      "year": "2024",
+      "count": 20,
+      "missing": 5
+    },
+    {
+      "level": "HSC",
+      "subj": "physics-2nd-paper",
+      "board": "dinajpur",
+      "year": "2024",
+      "count": 10,
+      "missing": 15
+    },
+    {
+      "level": "HSC",
+      "subj": "physics-2nd-paper",
+      "board": "jashore",
+      "year": "2024",
+      "count": 10,
+      "missing": 15
+    },
+    {
+      "level": "HSC",
+      "subj": "physics-2nd-paper",
+      "board": "mymensingh",
+      "year": "2024",
+      "count": 23,
+      "missing": 2
+    },
+    {
+      "level": "HSC",
+      "subj": "chemistry-1st-paper",
+      "board": "barishal",
+      "year": "2022",
+      "count": 7,
+      "missing": 18
+    },
+    {
+      "level": "HSC",
+      "subj": "chemistry-1st-paper",
+      "board": "chattogram",
+      "year": "2022",
+      "count": 7,
+      "missing": 18
+    },
+    {
+      "level": "HSC",
+      "subj": "chemistry-1st-paper",
+      "board": "cumilla",
+      "year": "2022",
+      "count": 7,
+      "missing": 18
+    },
+    {
+      "level": "HSC",
+      "subj": "chemistry-1st-paper",
+      "board": "dhaka",
+      "year": "2022",
+      "count": 7,
+      "missing": 18
+    },
+    {
+      "level": "HSC",
+      "subj": "chemistry-1st-paper",
+      "board": "dinajpur",
+      "year": "2022",
+      "count": 7,
+      "missing": 18
+    },
+    {
+      "level": "HSC",
+      "subj": "chemistry-1st-paper",
+      "board": "jashore",
+      "year": "2022",
+      "count": 7,
+      "missing": 18
+    },
+    {
+      "level": "HSC",
+      "subj": "chemistry-1st-paper",
+      "board": "mymensingh",
+      "year": "2022",
+      "count": 7,
+      "missing": 18
+    },
+    {
+      "level": "HSC",
+      "subj": "chemistry-1st-paper",
+      "board": "rajshahi",
+      "year": "2022",
+      "count": 7,
+      "missing": 18
+    },
+    {
+      "level": "HSC",
+      "subj": "chemistry-1st-paper",
+      "board": "sylhet",
+      "year": "2022",
+      "count": 8,
+      "missing": 17
+    },
+    {
+      "level": "HSC",
+      "subj": "chemistry-1st-paper",
+      "board": "barishal",
+      "year": "2023",
+      "count": 7,
+      "missing": 18
+    },
+    {
+      "level": "HSC",
+      "subj": "chemistry-1st-paper",
+      "board": "chattogram",
+      "year": "2023",
+      "count": 7,
+      "missing": 18
+    },
+    {
+      "level": "HSC",
+      "subj": "chemistry-1st-paper",
+      "board": "cumilla",
+      "year": "2023",
+      "count": 7,
+      "missing": 18
+    },
+    {
+      "level": "HSC",
+      "subj": "chemistry-1st-paper",
+      "board": "dhaka",
+      "year": "2023",
+      "count": 7,
+      "missing": 18
+    },
+    {
+      "level": "HSC",
+      "subj": "chemistry-1st-paper",
+      "board": "dinajpur",
+      "year": "2023",
+      "count": 7,
+      "missing": 18
+    },
+    {
+      "level": "HSC",
+      "subj": "chemistry-1st-paper",
+      "board": "jashore",
+      "year": "2023",
+      "count": 7,
+      "missing": 18
+    },
+    {
+      "level": "HSC",
+      "subj": "chemistry-1st-paper",
+      "board": "mymensingh",
+      "year": "2023",
+      "count": 7,
+      "missing": 18
+    },
+    {
+      "level": "HSC",
+      "subj": "chemistry-1st-paper",
+      "board": "rajshahi",
+      "year": "2023",
+      "count": 7,
+      "missing": 18
+    },
+    {
+      "level": "HSC",
+      "subj": "chemistry-1st-paper",
+      "board": "sylhet",
+      "year": "2023",
+      "count": 8,
+      "missing": 17
+    },
+    {
+      "level": "HSC",
+      "subj": "chemistry-1st-paper",
+      "board": "barishal",
+      "year": "2024",
+      "count": 7,
+      "missing": 18
+    },
+    {
+      "level": "HSC",
+      "subj": "chemistry-1st-paper",
+      "board": "chattogram",
+      "year": "2024",
+      "count": 7,
+      "missing": 18
+    },
+    {
+      "level": "HSC",
+      "subj": "chemistry-1st-paper",
+      "board": "cumilla",
+      "year": "2024",
+      "count": 7,
+      "missing": 18
+    },
+    {
+      "level": "HSC",
+      "subj": "chemistry-1st-paper",
+      "board": "dhaka",
+      "year": "2024",
+      "count": 7,
+      "missing": 18
+    },
+    {
+      "level": "HSC",
+      "subj": "chemistry-1st-paper",
+      "board": "dinajpur",
+      "year": "2024",
+      "count": 7,
+      "missing": 18
+    },
+    {
+      "level": "HSC",
+      "subj": "chemistry-1st-paper",
+      "board": "jashore",
+      "year": "2024",
+      "count": 7,
+      "missing": 18
+    },
+    {
+      "level": "HSC",
+      "subj": "chemistry-1st-paper",
+      "board": "mymensingh",
+      "year": "2024",
+      "count": 7,
+      "missing": 18
+    },
+    {
+      "level": "HSC",
+      "subj": "chemistry-1st-paper",
+      "board": "rajshahi",
+      "year": "2024",
+      "count": 7,
+      "missing": 18
+    },
+    {
+      "level": "HSC",
+      "subj": "chemistry-1st-paper",
+      "board": "sylhet",
+      "year": "2024",
+      "count": 8,
+      "missing": 17
+    },
+    {
+      "level": "HSC",
+      "subj": "chemistry-2nd-paper",
+      "board": "barishal",
+      "year": "2022",
+      "count": 6,
+      "missing": 19
+    },
+    {
+      "level": "HSC",
+      "subj": "chemistry-2nd-paper",
+      "board": "chattogram",
+      "year": "2022",
+      "count": 6,
+      "missing": 19
+    },
+    {
+      "level": "HSC",
+      "subj": "chemistry-2nd-paper",
+      "board": "cumilla",
+      "year": "2022",
+      "count": 6,
+      "missing": 19
+    },
+    {
+      "level": "HSC",
+      "subj": "chemistry-2nd-paper",
+      "board": "dhaka",
+      "year": "2022",
+      "count": 6,
+      "missing": 19
+    },
+    {
+      "level": "HSC",
+      "subj": "chemistry-2nd-paper",
+      "board": "dinajpur",
+      "year": "2022",
+      "count": 6,
+      "missing": 19
+    },
+    {
+      "level": "HSC",
+      "subj": "chemistry-2nd-paper",
+      "board": "jashore",
+      "year": "2022",
+      "count": 6,
+      "missing": 19
+    },
+    {
+      "level": "HSC",
+      "subj": "chemistry-2nd-paper",
+      "board": "mymensingh",
+      "year": "2022",
+      "count": 6,
+      "missing": 19
+    },
+    {
+      "level": "HSC",
+      "subj": "chemistry-2nd-paper",
+      "board": "rajshahi",
+      "year": "2022",
+      "count": 6,
+      "missing": 19
+    },
+    {
+      "level": "HSC",
+      "subj": "chemistry-2nd-paper",
+      "board": "sylhet",
+      "year": "2022",
+      "count": 7,
+      "missing": 18
+    },
+    {
+      "level": "HSC",
+      "subj": "chemistry-2nd-paper",
+      "board": "barishal",
+      "year": "2023",
+      "count": 6,
+      "missing": 19
+    },
+    {
+      "level": "HSC",
+      "subj": "chemistry-2nd-paper",
+      "board": "chattogram",
+      "year": "2023",
+      "count": 6,
+      "missing": 19
+    },
+    {
+      "level": "HSC",
+      "subj": "chemistry-2nd-paper",
+      "board": "cumilla",
+      "year": "2023",
+      "count": 6,
+      "missing": 19
+    },
+    {
+      "level": "HSC",
+      "subj": "chemistry-2nd-paper",
+      "board": "dhaka",
+      "year": "2023",
+      "count": 6,
+      "missing": 19
+    },
+    {
+      "level": "HSC",
+      "subj": "chemistry-2nd-paper",
+      "board": "dinajpur",
+      "year": "2023",
+      "count": 6,
+      "missing": 19
+    },
+    {
+      "level": "HSC",
+      "subj": "chemistry-2nd-paper",
+      "board": "jashore",
+      "year": "2023",
+      "count": 6,
+      "missing": 19
+    },
+    {
+      "level": "HSC",
+      "subj": "chemistry-2nd-paper",
+      "board": "mymensingh",
+      "year": "2023",
+      "count": 6,
+      "missing": 19
+    },
+    {
+      "level": "HSC",
+      "subj": "chemistry-2nd-paper",
+      "board": "rajshahi",
+      "year": "2023",
+      "count": 6,
+      "missing": 19
+    },
+    {
+      "level": "HSC",
+      "subj": "chemistry-2nd-paper",
+      "board": "sylhet",
+      "year": "2023",
+      "count": 7,
+      "missing": 18
+    },
+    {
+      "level": "HSC",
+      "subj": "chemistry-2nd-paper",
+      "board": "barishal",
+      "year": "2024",
+      "count": 6,
+      "missing": 19
+    },
+    {
+      "level": "HSC",
+      "subj": "chemistry-2nd-paper",
+      "board": "chattogram",
+      "year": "2024",
+      "count": 6,
+      "missing": 19
+    },
+    {
+      "level": "HSC",
+      "subj": "chemistry-2nd-paper",
+      "board": "cumilla",
+      "year": "2024",
+      "count": 6,
+      "missing": 19
+    },
+    {
+      "level": "HSC",
+      "subj": "chemistry-2nd-paper",
+      "board": "dhaka",
+      "year": "2024",
+      "count": 6,
+      "missing": 19
+    },
+    {
+      "level": "HSC",
+      "subj": "chemistry-2nd-paper",
+      "board": "dinajpur",
+      "year": "2024",
+      "count": 6,
+      "missing": 19
+    },
+    {
+      "level": "HSC",
+      "subj": "chemistry-2nd-paper",
+      "board": "jashore",
+      "year": "2024",
+      "count": 6,
+      "missing": 19
+    },
+    {
+      "level": "HSC",
+      "subj": "chemistry-2nd-paper",
+      "board": "mymensingh",
+      "year": "2024",
+      "count": 6,
+      "missing": 19
+    },
+    {
+      "level": "HSC",
+      "subj": "chemistry-2nd-paper",
+      "board": "rajshahi",
+      "year": "2024",
+      "count": 6,
+      "missing": 19
+    },
+    {
+      "level": "HSC",
+      "subj": "chemistry-2nd-paper",
+      "board": "sylhet",
+      "year": "2024",
+      "count": 7,
+      "missing": 18
+    },
+    {
+      "level": "HSC",
+      "subj": "chemistry-2nd-paper",
+      "board": "barishal",
+      "year": "2025",
+      "count": 6,
+      "missing": 19
+    },
+    {
+      "level": "HSC",
+      "subj": "chemistry-2nd-paper",
+      "board": "chattogram",
+      "year": "2025",
+      "count": 6,
+      "missing": 19
+    },
+    {
+      "level": "HSC",
+      "subj": "chemistry-2nd-paper",
+      "board": "cumilla",
+      "year": "2025",
+      "count": 6,
+      "missing": 19
+    },
+    {
+      "level": "HSC",
+      "subj": "chemistry-2nd-paper",
+      "board": "dhaka",
+      "year": "2025",
+      "count": 6,
+      "missing": 19
+    },
+    {
+      "level": "HSC",
+      "subj": "chemistry-2nd-paper",
+      "board": "dinajpur",
+      "year": "2025",
+      "count": 6,
+      "missing": 19
+    },
+    {
+      "level": "HSC",
+      "subj": "chemistry-2nd-paper",
+      "board": "jashore",
+      "year": "2025",
+      "count": 6,
+      "missing": 19
+    },
+    {
+      "level": "HSC",
+      "subj": "chemistry-2nd-paper",
+      "board": "mymensingh",
+      "year": "2025",
+      "count": 6,
+      "missing": 19
+    },
+    {
+      "level": "HSC",
+      "subj": "chemistry-2nd-paper",
+      "board": "rajshahi",
+      "year": "2025",
+      "count": 6,
+      "missing": 19
+    },
+    {
+      "level": "HSC",
+      "subj": "chemistry-2nd-paper",
+      "board": "sylhet",
+      "year": "2025",
+      "count": 7,
+      "missing": 18
+    },
+    {
+      "level": "HSC",
+      "subj": "biology-1st-paper",
+      "board": "barishal",
+      "year": "2022",
+      "count": 6,
+      "missing": 19
+    },
+    {
+      "level": "HSC",
+      "subj": "biology-1st-paper",
+      "board": "chattogram",
+      "year": "2022",
+      "count": 6,
+      "missing": 19
+    },
+    {
+      "level": "HSC",
+      "subj": "biology-1st-paper",
+      "board": "cumilla",
+      "year": "2022",
+      "count": 6,
+      "missing": 19
+    },
+    {
+      "level": "HSC",
+      "subj": "biology-1st-paper",
+      "board": "dhaka",
+      "year": "2022",
+      "count": 6,
+      "missing": 19
+    },
+    {
+      "level": "HSC",
+      "subj": "biology-1st-paper",
+      "board": "dinajpur",
+      "year": "2022",
+      "count": 6,
+      "missing": 19
+    },
+    {
+      "level": "HSC",
+      "subj": "biology-1st-paper",
+      "board": "jashore",
+      "year": "2022",
+      "count": 6,
+      "missing": 19
+    },
+    {
+      "level": "HSC",
+      "subj": "biology-1st-paper",
+      "board": "mymensingh",
+      "year": "2022",
+      "count": 6,
+      "missing": 19
+    },
+    {
+      "level": "HSC",
+      "subj": "biology-1st-paper",
+      "board": "rajshahi",
+      "year": "2022",
+      "count": 6,
+      "missing": 19
+    },
+    {
+      "level": "HSC",
+      "subj": "biology-1st-paper",
+      "board": "sylhet",
+      "year": "2022",
+      "count": 7,
+      "missing": 18
+    },
+    {
+      "level": "HSC",
+      "subj": "biology-1st-paper",
+      "board": "mymensingh",
+      "year": "2023",
+      "count": 24,
+      "missing": 1
+    },
+    {
+      "level": "HSC",
+      "subj": "biology-1st-paper",
+      "board": "sylhet",
+      "year": "2023",
+      "count": 23,
+      "missing": 2
+    },
+    {
+      "level": "HSC",
+      "subj": "biology-1st-paper",
+      "board": "barishal",
+      "year": "2024",
+      "count": 6,
+      "missing": 19
+    },
+    {
+      "level": "HSC",
+      "subj": "biology-1st-paper",
+      "board": "chattogram",
+      "year": "2024",
+      "count": 6,
+      "missing": 19
+    },
+    {
+      "level": "HSC",
+      "subj": "biology-1st-paper",
+      "board": "cumilla",
+      "year": "2024",
+      "count": 6,
+      "missing": 19
+    },
+    {
+      "level": "HSC",
+      "subj": "biology-1st-paper",
+      "board": "dhaka",
+      "year": "2024",
+      "count": 6,
+      "missing": 19
+    },
+    {
+      "level": "HSC",
+      "subj": "biology-1st-paper",
+      "board": "dinajpur",
+      "year": "2024",
+      "count": 6,
+      "missing": 19
+    },
+    {
+      "level": "HSC",
+      "subj": "biology-1st-paper",
+      "board": "jashore",
+      "year": "2024",
+      "count": 6,
+      "missing": 19
+    },
+    {
+      "level": "HSC",
+      "subj": "biology-1st-paper",
+      "board": "mymensingh",
+      "year": "2024",
+      "count": 6,
+      "missing": 19
+    },
+    {
+      "level": "HSC",
+      "subj": "biology-1st-paper",
+      "board": "rajshahi",
+      "year": "2024",
+      "count": 6,
+      "missing": 19
+    },
+    {
+      "level": "HSC",
+      "subj": "biology-1st-paper",
+      "board": "sylhet",
+      "year": "2024",
+      "count": 7,
+      "missing": 18
+    },
+    {
+      "level": "HSC",
+      "subj": "biology-1st-paper",
+      "board": "barishal",
+      "year": "2025",
+      "count": 6,
+      "missing": 19
+    },
+    {
+      "level": "HSC",
+      "subj": "biology-1st-paper",
+      "board": "chattogram",
+      "year": "2025",
+      "count": 6,
+      "missing": 19
+    },
+    {
+      "level": "HSC",
+      "subj": "biology-1st-paper",
+      "board": "cumilla",
+      "year": "2025",
+      "count": 6,
+      "missing": 19
+    },
+    {
+      "level": "HSC",
+      "subj": "biology-1st-paper",
+      "board": "dhaka",
+      "year": "2025",
+      "count": 6,
+      "missing": 19
+    },
+    {
+      "level": "HSC",
+      "subj": "biology-1st-paper",
+      "board": "dinajpur",
+      "year": "2025",
+      "count": 6,
+      "missing": 19
+    },
+    {
+      "level": "HSC",
+      "subj": "biology-1st-paper",
+      "board": "jashore",
+      "year": "2025",
+      "count": 6,
+      "missing": 19
+    },
+    {
+      "level": "HSC",
+      "subj": "biology-1st-paper",
+      "board": "mymensingh",
+      "year": "2025",
+      "count": 6,
+      "missing": 19
+    },
+    {
+      "level": "HSC",
+      "subj": "biology-1st-paper",
+      "board": "rajshahi",
+      "year": "2025",
+      "count": 6,
+      "missing": 19
+    },
+    {
+      "level": "HSC",
+      "subj": "biology-1st-paper",
+      "board": "sylhet",
+      "year": "2025",
+      "count": 7,
+      "missing": 18
+    },
+    {
+      "level": "HSC",
+      "subj": "biology-2nd-paper",
+      "board": "barishal",
+      "year": "2022",
+      "count": 6,
+      "missing": 19
+    },
+    {
+      "level": "HSC",
+      "subj": "biology-2nd-paper",
+      "board": "chattogram",
+      "year": "2022",
+      "count": 6,
+      "missing": 19
+    },
+    {
+      "level": "HSC",
+      "subj": "biology-2nd-paper",
+      "board": "cumilla",
+      "year": "2022",
+      "count": 6,
+      "missing": 19
+    },
+    {
+      "level": "HSC",
+      "subj": "biology-2nd-paper",
+      "board": "dhaka",
+      "year": "2022",
+      "count": 21,
+      "missing": 4
+    },
+    {
+      "level": "HSC",
+      "subj": "biology-2nd-paper",
+      "board": "dinajpur",
+      "year": "2022",
+      "count": 6,
+      "missing": 19
+    },
+    {
+      "level": "HSC",
+      "subj": "biology-2nd-paper",
+      "board": "jashore",
+      "year": "2022",
+      "count": 6,
+      "missing": 19
+    },
+    {
+      "level": "HSC",
+      "subj": "biology-2nd-paper",
+      "board": "mymensingh",
+      "year": "2022",
+      "count": 6,
+      "missing": 19
+    },
+    {
+      "level": "HSC",
+      "subj": "biology-2nd-paper",
+      "board": "rajshahi",
+      "year": "2022",
+      "count": 6,
+      "missing": 19
+    },
+    {
+      "level": "HSC",
+      "subj": "biology-2nd-paper",
+      "board": "sylhet",
+      "year": "2022",
+      "count": 7,
+      "missing": 18
+    },
+    {
+      "level": "HSC",
+      "subj": "biology-2nd-paper",
+      "board": "barishal",
+      "year": "2023",
+      "count": 6,
+      "missing": 19
+    },
+    {
+      "level": "HSC",
+      "subj": "biology-2nd-paper",
+      "board": "chattogram",
+      "year": "2023",
+      "count": 6,
+      "missing": 19
+    },
+    {
+      "level": "HSC",
+      "subj": "biology-2nd-paper",
+      "board": "cumilla",
+      "year": "2023",
+      "count": 6,
+      "missing": 19
+    },
+    {
+      "level": "HSC",
+      "subj": "biology-2nd-paper",
+      "board": "dhaka",
+      "year": "2023",
+      "count": 6,
+      "missing": 19
+    },
+    {
+      "level": "HSC",
+      "subj": "biology-2nd-paper",
+      "board": "dinajpur",
+      "year": "2023",
+      "count": 6,
+      "missing": 19
+    },
+    {
+      "level": "HSC",
+      "subj": "biology-2nd-paper",
+      "board": "jashore",
+      "year": "2023",
+      "count": 6,
+      "missing": 19
+    },
+    {
+      "level": "HSC",
+      "subj": "biology-2nd-paper",
+      "board": "mymensingh",
+      "year": "2023",
+      "count": 6,
+      "missing": 19
+    },
+    {
+      "level": "HSC",
+      "subj": "biology-2nd-paper",
+      "board": "rajshahi",
+      "year": "2023",
+      "count": 6,
+      "missing": 19
+    },
+    {
+      "level": "HSC",
+      "subj": "biology-2nd-paper",
+      "board": "sylhet",
+      "year": "2023",
+      "count": 7,
+      "missing": 18
+    },
+    {
+      "level": "HSC",
+      "subj": "biology-2nd-paper",
+      "board": "barishal",
+      "year": "2024",
+      "count": 6,
+      "missing": 19
+    },
+    {
+      "level": "HSC",
+      "subj": "biology-2nd-paper",
+      "board": "chattogram",
+      "year": "2024",
+      "count": 6,
+      "missing": 19
+    },
+    {
+      "level": "HSC",
+      "subj": "biology-2nd-paper",
+      "board": "cumilla",
+      "year": "2024",
+      "count": 6,
+      "missing": 19
+    },
+    {
+      "level": "HSC",
+      "subj": "biology-2nd-paper",
+      "board": "dhaka",
+      "year": "2024",
+      "count": 6,
+      "missing": 19
+    },
+    {
+      "level": "HSC",
+      "subj": "biology-2nd-paper",
+      "board": "dinajpur",
+      "year": "2024",
+      "count": 6,
+      "missing": 19
+    },
+    {
+      "level": "HSC",
+      "subj": "biology-2nd-paper",
+      "board": "jashore",
+      "year": "2024",
+      "count": 6,
+      "missing": 19
+    },
+    {
+      "level": "HSC",
+      "subj": "biology-2nd-paper",
+      "board": "mymensingh",
+      "year": "2024",
+      "count": 6,
+      "missing": 19
+    },
+    {
+      "level": "HSC",
+      "subj": "biology-2nd-paper",
+      "board": "rajshahi",
+      "year": "2024",
+      "count": 6,
+      "missing": 19
+    },
+    {
+      "level": "HSC",
+      "subj": "biology-2nd-paper",
+      "board": "sylhet",
+      "year": "2024",
+      "count": 7,
+      "missing": 18
+    },
+    {
+      "level": "HSC",
+      "subj": "biology-2nd-paper",
+      "board": "barishal",
+      "year": "2025",
+      "count": 6,
+      "missing": 19
+    },
+    {
+      "level": "HSC",
+      "subj": "biology-2nd-paper",
+      "board": "chattogram",
+      "year": "2025",
+      "count": 6,
+      "missing": 19
+    },
+    {
+      "level": "HSC",
+      "subj": "biology-2nd-paper",
+      "board": "cumilla",
+      "year": "2025",
+      "count": 6,
+      "missing": 19
+    },
+    {
+      "level": "HSC",
+      "subj": "biology-2nd-paper",
+      "board": "dhaka",
+      "year": "2025",
+      "count": 6,
+      "missing": 19
+    },
+    {
+      "level": "HSC",
+      "subj": "biology-2nd-paper",
+      "board": "dinajpur",
+      "year": "2025",
+      "count": 6,
+      "missing": 19
+    },
+    {
+      "level": "HSC",
+      "subj": "biology-2nd-paper",
+      "board": "jashore",
+      "year": "2025",
+      "count": 6,
+      "missing": 19
+    },
+    {
+      "level": "HSC",
+      "subj": "biology-2nd-paper",
+      "board": "mymensingh",
+      "year": "2025",
+      "count": 6,
+      "missing": 19
+    },
+    {
+      "level": "HSC",
+      "subj": "biology-2nd-paper",
+      "board": "rajshahi",
+      "year": "2025",
+      "count": 6,
+      "missing": 19
+    },
+    {
+      "level": "HSC",
+      "subj": "biology-2nd-paper",
+      "board": "sylhet",
+      "year": "2025",
+      "count": 7,
+      "missing": 18
+    },
+    {
+      "level": "HSC",
+      "subj": "higher-math-1st-paper",
+      "board": "barishal",
+      "year": "2022",
+      "count": 7,
+      "missing": 18
+    },
+    {
+      "level": "HSC",
+      "subj": "higher-math-1st-paper",
+      "board": "chattogram",
+      "year": "2022",
+      "count": 7,
+      "missing": 18
+    },
+    {
+      "level": "HSC",
+      "subj": "higher-math-1st-paper",
+      "board": "cumilla",
+      "year": "2022",
+      "count": 7,
+      "missing": 18
+    },
+    {
+      "level": "HSC",
+      "subj": "higher-math-1st-paper",
+      "board": "dhaka",
+      "year": "2022",
+      "count": 7,
+      "missing": 18
+    },
+    {
+      "level": "HSC",
+      "subj": "higher-math-1st-paper",
+      "board": "dinajpur",
+      "year": "2022",
+      "count": 7,
+      "missing": 18
+    },
+    {
+      "level": "HSC",
+      "subj": "higher-math-1st-paper",
+      "board": "jashore",
+      "year": "2022",
+      "count": 7,
+      "missing": 18
+    },
+    {
+      "level": "HSC",
+      "subj": "higher-math-1st-paper",
+      "board": "mymensingh",
+      "year": "2022",
+      "count": 7,
+      "missing": 18
+    },
+    {
+      "level": "HSC",
+      "subj": "higher-math-1st-paper",
+      "board": "rajshahi",
+      "year": "2022",
+      "count": 7,
+      "missing": 18
+    },
+    {
+      "level": "HSC",
+      "subj": "higher-math-1st-paper",
+      "board": "sylhet",
+      "year": "2022",
+      "count": 8,
+      "missing": 17
+    },
+    {
+      "level": "HSC",
+      "subj": "higher-math-1st-paper",
+      "board": "barishal",
+      "year": "2023",
+      "count": 7,
+      "missing": 18
+    },
+    {
+      "level": "HSC",
+      "subj": "higher-math-1st-paper",
+      "board": "chattogram",
+      "year": "2023",
+      "count": 7,
+      "missing": 18
+    },
+    {
+      "level": "HSC",
+      "subj": "higher-math-1st-paper",
+      "board": "cumilla",
+      "year": "2023",
+      "count": 7,
+      "missing": 18
+    },
+    {
+      "level": "HSC",
+      "subj": "higher-math-1st-paper",
+      "board": "dhaka",
+      "year": "2023",
+      "count": 7,
+      "missing": 18
+    },
+    {
+      "level": "HSC",
+      "subj": "higher-math-1st-paper",
+      "board": "dinajpur",
+      "year": "2023",
+      "count": 7,
+      "missing": 18
+    },
+    {
+      "level": "HSC",
+      "subj": "higher-math-1st-paper",
+      "board": "jashore",
+      "year": "2023",
+      "count": 7,
+      "missing": 18
+    },
+    {
+      "level": "HSC",
+      "subj": "higher-math-1st-paper",
+      "board": "mymensingh",
+      "year": "2023",
+      "count": 7,
+      "missing": 18
+    },
+    {
+      "level": "HSC",
+      "subj": "higher-math-1st-paper",
+      "board": "rajshahi",
+      "year": "2023",
+      "count": 7,
+      "missing": 18
+    },
+    {
+      "level": "HSC",
+      "subj": "higher-math-1st-paper",
+      "board": "sylhet",
+      "year": "2023",
+      "count": 8,
+      "missing": 17
+    },
+    {
+      "level": "HSC",
+      "subj": "higher-math-1st-paper",
+      "board": "barishal",
+      "year": "2024",
+      "count": 7,
+      "missing": 18
+    },
+    {
+      "level": "HSC",
+      "subj": "higher-math-1st-paper",
+      "board": "chattogram",
+      "year": "2024",
+      "count": 7,
+      "missing": 18
+    },
+    {
+      "level": "HSC",
+      "subj": "higher-math-1st-paper",
+      "board": "cumilla",
+      "year": "2024",
+      "count": 7,
+      "missing": 18
+    },
+    {
+      "level": "HSC",
+      "subj": "higher-math-1st-paper",
+      "board": "dhaka",
+      "year": "2024",
+      "count": 7,
+      "missing": 18
+    },
+    {
+      "level": "HSC",
+      "subj": "higher-math-1st-paper",
+      "board": "dinajpur",
+      "year": "2024",
+      "count": 7,
+      "missing": 18
+    },
+    {
+      "level": "HSC",
+      "subj": "higher-math-1st-paper",
+      "board": "jashore",
+      "year": "2024",
+      "count": 7,
+      "missing": 18
+    },
+    {
+      "level": "HSC",
+      "subj": "higher-math-1st-paper",
+      "board": "mymensingh",
+      "year": "2024",
+      "count": 7,
+      "missing": 18
+    },
+    {
+      "level": "HSC",
+      "subj": "higher-math-1st-paper",
+      "board": "rajshahi",
+      "year": "2024",
+      "count": 7,
+      "missing": 18
+    },
+    {
+      "level": "HSC",
+      "subj": "higher-math-1st-paper",
+      "board": "sylhet",
+      "year": "2024",
+      "count": 8,
+      "missing": 17
+    },
+    {
+      "level": "HSC",
+      "subj": "higher-math-1st-paper",
+      "board": "barishal",
+      "year": "2025",
+      "count": 7,
+      "missing": 18
+    },
+    {
+      "level": "HSC",
+      "subj": "higher-math-1st-paper",
+      "board": "chattogram",
+      "year": "2025",
+      "count": 7,
+      "missing": 18
+    },
+    {
+      "level": "HSC",
+      "subj": "higher-math-1st-paper",
+      "board": "cumilla",
+      "year": "2025",
+      "count": 7,
+      "missing": 18
+    },
+    {
+      "level": "HSC",
+      "subj": "higher-math-1st-paper",
+      "board": "dhaka",
+      "year": "2025",
+      "count": 7,
+      "missing": 18
+    },
+    {
+      "level": "HSC",
+      "subj": "higher-math-1st-paper",
+      "board": "dinajpur",
+      "year": "2025",
+      "count": 7,
+      "missing": 18
+    },
+    {
+      "level": "HSC",
+      "subj": "higher-math-1st-paper",
+      "board": "jashore",
+      "year": "2025",
+      "count": 7,
+      "missing": 18
+    },
+    {
+      "level": "HSC",
+      "subj": "higher-math-1st-paper",
+      "board": "mymensingh",
+      "year": "2025",
+      "count": 7,
+      "missing": 18
+    },
+    {
+      "level": "HSC",
+      "subj": "higher-math-1st-paper",
+      "board": "rajshahi",
+      "year": "2025",
+      "count": 7,
+      "missing": 18
+    },
+    {
+      "level": "HSC",
+      "subj": "higher-math-1st-paper",
+      "board": "sylhet",
+      "year": "2025",
+      "count": 8,
+      "missing": 17
+    },
+    {
+      "level": "HSC",
+      "subj": "higher-math-2nd-paper",
+      "board": "barishal",
+      "year": "2022",
+      "count": 6,
+      "missing": 19
+    },
+    {
+      "level": "HSC",
+      "subj": "higher-math-2nd-paper",
+      "board": "chattogram",
+      "year": "2022",
+      "count": 6,
+      "missing": 19
+    },
+    {
+      "level": "HSC",
+      "subj": "higher-math-2nd-paper",
+      "board": "cumilla",
+      "year": "2022",
+      "count": 6,
+      "missing": 19
+    },
+    {
+      "level": "HSC",
+      "subj": "higher-math-2nd-paper",
+      "board": "dhaka",
+      "year": "2022",
+      "count": 6,
+      "missing": 19
+    },
+    {
+      "level": "HSC",
+      "subj": "higher-math-2nd-paper",
+      "board": "dinajpur",
+      "year": "2022",
+      "count": 6,
+      "missing": 19
+    },
+    {
+      "level": "HSC",
+      "subj": "higher-math-2nd-paper",
+      "board": "jashore",
+      "year": "2022",
+      "count": 6,
+      "missing": 19
+    },
+    {
+      "level": "HSC",
+      "subj": "higher-math-2nd-paper",
+      "board": "mymensingh",
+      "year": "2022",
+      "count": 6,
+      "missing": 19
+    },
+    {
+      "level": "HSC",
+      "subj": "higher-math-2nd-paper",
+      "board": "rajshahi",
+      "year": "2022",
+      "count": 6,
+      "missing": 19
+    },
+    {
+      "level": "HSC",
+      "subj": "higher-math-2nd-paper",
+      "board": "sylhet",
+      "year": "2022",
+      "count": 7,
+      "missing": 18
+    },
+    {
+      "level": "HSC",
+      "subj": "higher-math-2nd-paper",
+      "board": "barishal",
+      "year": "2023",
+      "count": 6,
+      "missing": 19
+    },
+    {
+      "level": "HSC",
+      "subj": "higher-math-2nd-paper",
+      "board": "chattogram",
+      "year": "2023",
+      "count": 6,
+      "missing": 19
+    },
+    {
+      "level": "HSC",
+      "subj": "higher-math-2nd-paper",
+      "board": "cumilla",
+      "year": "2023",
+      "count": 6,
+      "missing": 19
+    },
+    {
+      "level": "HSC",
+      "subj": "higher-math-2nd-paper",
+      "board": "dhaka",
+      "year": "2023",
+      "count": 6,
+      "missing": 19
+    },
+    {
+      "level": "HSC",
+      "subj": "higher-math-2nd-paper",
+      "board": "dinajpur",
+      "year": "2023",
+      "count": 6,
+      "missing": 19
+    },
+    {
+      "level": "HSC",
+      "subj": "higher-math-2nd-paper",
+      "board": "jashore",
+      "year": "2023",
+      "count": 6,
+      "missing": 19
+    },
+    {
+      "level": "HSC",
+      "subj": "higher-math-2nd-paper",
+      "board": "mymensingh",
+      "year": "2023",
+      "count": 6,
+      "missing": 19
+    },
+    {
+      "level": "HSC",
+      "subj": "higher-math-2nd-paper",
+      "board": "rajshahi",
+      "year": "2023",
+      "count": 6,
+      "missing": 19
+    },
+    {
+      "level": "HSC",
+      "subj": "higher-math-2nd-paper",
+      "board": "sylhet",
+      "year": "2023",
+      "count": 7,
+      "missing": 18
+    },
+    {
+      "level": "HSC",
+      "subj": "higher-math-2nd-paper",
+      "board": "barishal",
+      "year": "2024",
+      "count": 6,
+      "missing": 19
+    },
+    {
+      "level": "HSC",
+      "subj": "higher-math-2nd-paper",
+      "board": "chattogram",
+      "year": "2024",
+      "count": 6,
+      "missing": 19
+    },
+    {
+      "level": "HSC",
+      "subj": "higher-math-2nd-paper",
+      "board": "cumilla",
+      "year": "2024",
+      "count": 6,
+      "missing": 19
+    },
+    {
+      "level": "HSC",
+      "subj": "higher-math-2nd-paper",
+      "board": "dhaka",
+      "year": "2024",
+      "count": 6,
+      "missing": 19
+    },
+    {
+      "level": "HSC",
+      "subj": "higher-math-2nd-paper",
+      "board": "dinajpur",
+      "year": "2024",
+      "count": 6,
+      "missing": 19
+    },
+    {
+      "level": "HSC",
+      "subj": "higher-math-2nd-paper",
+      "board": "jashore",
+      "year": "2024",
+      "count": 6,
+      "missing": 19
+    },
+    {
+      "level": "HSC",
+      "subj": "higher-math-2nd-paper",
+      "board": "mymensingh",
+      "year": "2024",
+      "count": 6,
+      "missing": 19
+    },
+    {
+      "level": "HSC",
+      "subj": "higher-math-2nd-paper",
+      "board": "rajshahi",
+      "year": "2024",
+      "count": 6,
+      "missing": 19
+    },
+    {
+      "level": "HSC",
+      "subj": "higher-math-2nd-paper",
+      "board": "sylhet",
+      "year": "2024",
+      "count": 7,
+      "missing": 18
+    },
+    {
+      "level": "HSC",
+      "subj": "higher-math-2nd-paper",
+      "board": "barishal",
+      "year": "2025",
+      "count": 6,
+      "missing": 19
+    },
+    {
+      "level": "HSC",
+      "subj": "higher-math-2nd-paper",
+      "board": "chattogram",
+      "year": "2025",
+      "count": 6,
+      "missing": 19
+    },
+    {
+      "level": "HSC",
+      "subj": "higher-math-2nd-paper",
+      "board": "cumilla",
+      "year": "2025",
+      "count": 6,
+      "missing": 19
+    },
+    {
+      "level": "HSC",
+      "subj": "higher-math-2nd-paper",
+      "board": "dhaka",
+      "year": "2025",
+      "count": 6,
+      "missing": 19
+    },
+    {
+      "level": "HSC",
+      "subj": "higher-math-2nd-paper",
+      "board": "dinajpur",
+      "year": "2025",
+      "count": 6,
+      "missing": 19
+    },
+    {
+      "level": "HSC",
+      "subj": "higher-math-2nd-paper",
+      "board": "jashore",
+      "year": "2025",
+      "count": 6,
+      "missing": 19
+    },
+    {
+      "level": "HSC",
+      "subj": "higher-math-2nd-paper",
+      "board": "mymensingh",
+      "year": "2025",
+      "count": 6,
+      "missing": 19
+    },
+    {
+      "level": "HSC",
+      "subj": "higher-math-2nd-paper",
+      "board": "rajshahi",
+      "year": "2025",
+      "count": 6,
+      "missing": 19
+    },
+    {
+      "level": "HSC",
+      "subj": "higher-math-2nd-paper",
+      "board": "sylhet",
+      "year": "2025",
+      "count": 7,
+      "missing": 18
+    }
+  ],
+  "placeholder": [
+    {
+      "level": "SSC",
+      "subj": "physics",
+      "board": "barishal",
+      "year": "2026",
+      "reason": "archived/placeholder"
+    },
+    {
+      "level": "SSC",
+      "subj": "physics",
+      "board": "chattogram",
+      "year": "2026",
+      "reason": "archived/placeholder"
+    },
+    {
+      "level": "SSC",
+      "subj": "physics",
+      "board": "cumilla",
+      "year": "2026",
+      "reason": "archived/placeholder"
+    },
+    {
+      "level": "SSC",
+      "subj": "physics",
+      "board": "dhaka",
+      "year": "2026",
+      "reason": "archived/placeholder"
+    },
+    {
+      "level": "SSC",
+      "subj": "physics",
+      "board": "dinajpur",
+      "year": "2026",
+      "reason": "archived/placeholder"
+    },
+    {
+      "level": "SSC",
+      "subj": "physics",
+      "board": "jashore",
+      "year": "2026",
+      "reason": "archived/placeholder"
+    },
+    {
+      "level": "SSC",
+      "subj": "physics",
+      "board": "mymensingh",
+      "year": "2026",
+      "reason": "archived/placeholder"
+    },
+    {
+      "level": "SSC",
+      "subj": "physics",
+      "board": "rajshahi",
+      "year": "2026",
+      "reason": "archived/placeholder"
+    },
+    {
+      "level": "SSC",
+      "subj": "physics",
+      "board": "sylhet",
+      "year": "2026",
+      "reason": "archived/placeholder"
+    },
+    {
+      "level": "SSC",
+      "subj": "biology",
+      "board": "barishal",
+      "year": "2026",
+      "reason": "archived/placeholder"
+    },
+    {
+      "level": "SSC",
+      "subj": "biology",
+      "board": "chattogram",
+      "year": "2026",
+      "reason": "archived/placeholder"
+    },
+    {
+      "level": "SSC",
+      "subj": "biology",
+      "board": "cumilla",
+      "year": "2026",
+      "reason": "archived/placeholder"
+    },
+    {
+      "level": "SSC",
+      "subj": "biology",
+      "board": "dhaka",
+      "year": "2026",
+      "reason": "archived/placeholder"
+    },
+    {
+      "level": "SSC",
+      "subj": "biology",
+      "board": "dinajpur",
+      "year": "2026",
+      "reason": "archived/placeholder"
+    },
+    {
+      "level": "SSC",
+      "subj": "biology",
+      "board": "jashore",
+      "year": "2026",
+      "reason": "archived/placeholder"
+    },
+    {
+      "level": "SSC",
+      "subj": "biology",
+      "board": "mymensingh",
+      "year": "2026",
+      "reason": "archived/placeholder"
+    },
+    {
+      "level": "SSC",
+      "subj": "biology",
+      "board": "rajshahi",
+      "year": "2026",
+      "reason": "archived/placeholder"
+    },
+    {
+      "level": "SSC",
+      "subj": "biology",
+      "board": "sylhet",
+      "year": "2026",
+      "reason": "archived/placeholder"
+    }
+  ]
+}

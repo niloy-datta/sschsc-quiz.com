@@ -1,0 +1,282 @@
+{
+  "setId": "chapter-08-split-01",
+  "reason": "DUPLICATE_OF_chapter-08-split-01",
+  "quarantinedAt": "2026-06-16T10:44:44.888Z",
+  "questions": [
+    {
+      "id": "chapter-08-split-01-q01",
+      "questionText": "পর্যাবৃত্ত গতি কাকে বলে?",
+      "optionA": "যে গতি একটি নির্দিষ্ট বিন্দুকে কেন্দ্র করে বারবার ফিরে আসে",
+      "optionB": "যে গতি সরলরেখায় ঘটে",
+      "optionC": "যে গতি বৃত্তাকার পথে ঘটে",
+      "optionD": "যে গতির বেগ ধ্রুব থাকে",
+      "correctOption": "A",
+      "explanation": "",
+      "questionNo": 1
+    },
+    {
+      "id": "chapter-08-split-01-q02",
+      "questionText": "সরল ছন্দিত স্পন্দনের গতিপথ কেমন?",
+      "optionA": "বৃত্তাকার",
+      "optionB": "উপবৃত্তাকার",
+      "optionC": "সরলরেখা",
+      "optionD": "পরাবৃত্তাকার",
+      "correctOption": "C",
+      "explanation": "",
+      "questionNo": 2
+    },
+    {
+      "id": "chapter-08-split-01-q03",
+      "questionText": "সরল ছন্দিত গতির ক্ষেত্রে ত্বরণ ও সরণের মধ্যে সম্পর্ক কোনটি?",
+      "optionA": "a ∝ x²",
+      "optionB": "a ∝ −x",
+      "optionC": "a ∝ 1/x",
+      "optionD": "a = ধ্রুবক",
+      "correctOption": "B",
+      "explanation": "",
+      "questionNo": 3
+    },
+    {
+      "id": "chapter-08-split-01-q04",
+      "questionText": "সরল ছন্দিত গতির গতীয় সমীকরণ কোনটি?",
+      "optionA": "F = ma",
+      "optionB": "d²x/dt² + ω²x = 0",
+      "optionC": "dx/dt = v",
+      "optionD": "F = −kx",
+      "correctOption": "B",
+      "explanation": "",
+      "questionNo": 4
+    },
+    {
+      "id": "chapter-08-split-01-q05",
+      "questionText": "সরল ছন্দিত গতির ক্ষেত্রে কৌণিক কম্পাঙ্ক ω = ?",
+      "optionA": "2π/T",
+      "optionB": "1/T",
+      "optionC": "T/2π",
+      "optionD": "2πT",
+      "correctOption": "A",
+      "explanation": "",
+      "questionNo": 5
+    },
+    {
+      "id": "chapter-08-split-01-q06",
+      "questionText": "স্পন্দনকাল T এবং কম্পাঙ্ক f এর সম্পর্ক কোনটি?",
+      "optionA": "T = f",
+      "optionB": "T = 1/f",
+      "optionC": "T = f²",
+      "optionD": "T = 2πf",
+      "correctOption": "B",
+      "explanation": "",
+      "questionNo": 6
+    },
+    {
+      "id": "chapter-08-split-01-q07",
+      "questionText": "স্প্রিং-ভর সিস্টেমের দোলনকাল T = ? (m ভর, k স্প্রিং ধ্রুবক)",
+      "optionA": "2π√(m/k)",
+      "optionB": "2π√(k/m)",
+      "optionC": "1/(2π)√(m/k)",
+      "optionD": "2π√(k/m)",
+      "correctOption": "A",
+      "explanation": "",
+      "questionNo": 7
+    },
+    {
+      "id": "chapter-08-split-01-q08",
+      "questionText": "সরল দোলকের দোলনকাল T = ?",
+      "optionA": "2π√(L/g)",
+      "optionB": "2π√(g/L)",
+      "optionC": "1/(2π)√(L/g)",
+      "optionD": "2π√(L/g²)",
+      "correctOption": "A",
+      "explanation": "",
+      "questionNo": 8
+    },
+    {
+      "id": "chapter-08-split-01-q09",
+      "questionText": "সরল দোলকের দোলনকাল নিচের কোনটির উপর নির্ভর করে না?",
+      "optionA": "দোলকের দৈর্ঘ্য",
+      "optionB": "অভিকর্ষজ ত্বরণ",
+      "optionC": "গোলকের ভর",
+      "optionD": "কোনোটিই নয়",
+      "correctOption": "C",
+      "explanation": "",
+      "questionNo": 9
+    },
+    {
+      "id": "chapter-08-split-01-q10",
+      "questionText": "একটি সরল দোলকের দৈর্ঘ্য 4 গুণ করলে দোলনকাল কত গুণ হবে?",
+      "optionA": "2 গুণ",
+      "optionB": "4 গুণ",
+      "optionC": "16 গুণ",
+      "optionD": "অপরিবর্তিত",
+      "correctOption": "A",
+      "explanation": "",
+      "questionNo": 10
+    },
+    {
+      "id": "chapter-08-split-01-q11",
+      "questionText": "স্প্রিং ধ্রুবক k₁ ও k₂ শ্রেণিতে যুক্ত করলে তুল্য ধ্রুবক কত?",
+      "optionA": "k₁ + k₂",
+      "optionB": "k₁k₂/(k₁+k₂)",
+      "optionC": "√(k₁k₂)",
+      "optionD": "1/k₁ + 1/k₂",
+      "correctOption": "B",
+      "explanation": "",
+      "questionNo": 11
+    },
+    {
+      "id": "chapter-08-split-01-q12",
+      "questionText": "দুটি স্প্রিং সমান্তরালে যুক্ত করলে তুল্য ধ্রুবক কত?",
+      "optionA": "k₁ + k₂",
+      "optionB": "k₁k₂/(k₁+k₂)",
+      "optionC": "√(k₁k₂)",
+      "optionD": "1/k₁ + 1/k₂",
+      "correctOption": "A",
+      "explanation": "",
+      "questionNo": 12
+    },
+    {
+      "id": "chapter-08-split-01-q13",
+      "questionText": "সরল ছন্দিত গতির ক্ষেত্রে গতিশক্তি সর্বোচ্চ কোন অবস্থানে?",
+      "optionA": "প্রান্তিক অবস্থান",
+      "optionB": "সাম্য অবস্থান",
+      "optionC": "মধ্যবর্তী অবস্থান",
+      "optionD": "সর্বত্র সমান",
+      "correctOption": "B",
+      "explanation": "",
+      "questionNo": 13
+    },
+    {
+      "id": "chapter-08-split-01-q14",
+      "questionText": "সরল ছন্দিত গতিতে বিভব শক্তি সর্বোচ্চ কোথায়?",
+      "optionA": "সাম্য অবস্থানে",
+      "optionB": "প্রান্তিক অবস্থানে",
+      "optionC": "গতিশক্তির সমান থাকে",
+      "optionD": "শূন্য থাকে",
+      "correctOption": "B",
+      "explanation": "",
+      "questionNo": 14
+    },
+    {
+      "id": "chapter-08-split-01-q15",
+      "questionText": "SHM-এ মোট যান্ত্রিক শক্তি E = ?",
+      "optionA": "½kA²",
+      "optionB": "kA²",
+      "optionC": "½mv²_max",
+      "optionD": "ক ও গ উভয়ই",
+      "correctOption": "D",
+      "explanation": "",
+      "questionNo": 15
+    },
+    {
+      "id": "chapter-08-split-01-q16",
+      "questionText": "সেকেন্ড দোলকের দোলনকাল কত?",
+      "optionA": "1 সেকেন্ড",
+      "optionB": "2 সেকেন্ড",
+      "optionC": "0.5 সেকেন্ড",
+      "optionD": "4 সেকেন্ড",
+      "correctOption": "B",
+      "explanation": "",
+      "questionNo": 16
+    },
+    {
+      "id": "chapter-08-split-01-q17",
+      "questionText": "সেকেন্ড দোলকের কার্যকর দৈর্ঘ্য কত?",
+      "optionA": "প্রায় 0.25 m",
+      "optionB": "প্রায় 1 m",
+      "optionC": "প্রায় 2 m",
+      "optionD": "প্রায় 0.99 m",
+      "correctOption": "D",
+      "explanation": "",
+      "questionNo": 17
+    },
+    {
+      "id": "chapter-08-split-01-q18",
+      "questionText": "পৃথিবীতে একটি সেকেন্ড দোলকের দৈর্ঘ্য L₁, চাঁদে L₂ হলে L₂/L₁? (g_চাঁদ = g/6)",
+      "optionA": "6",
+      "optionB": "1/6",
+      "optionC": "√6",
+      "optionD": "1/√6",
+      "correctOption": "B",
+      "explanation": "",
+      "questionNo": 18
+    },
+    {
+      "id": "chapter-08-split-01-q19",
+      "questionText": "একটি খনি থেকে খনির গভীরে গেলে দোলনকাল কেমন হয়?",
+      "optionA": "বাড়ে",
+      "optionB": "কমে",
+      "optionC": "অপরিবর্তিত",
+      "optionD": "শূন্য হয়",
+      "correctOption": "A",
+      "explanation": "",
+      "questionNo": 19
+    },
+    {
+      "id": "chapter-08-split-01-q20",
+      "questionText": "পাহাড়ে নিলে সরল দোলকের দোলনকাল –",
+      "optionA": "বাড়ে",
+      "optionB": "কমে",
+      "optionC": "একই থাকে",
+      "optionD": "দোলক থেমে যায়",
+      "correctOption": "A",
+      "explanation": "",
+      "questionNo": 20
+    },
+    {
+      "id": "chapter-08-split-01-q21",
+      "questionText": "মুক্তভাবে পড়ন্ত লিফটে একটি সরল দোলকের দোলনকাল কত?",
+      "optionA": "শূন্য",
+      "optionB": "অসীম",
+      "optionC": "T = 2π√(L/g)",
+      "optionD": "T = 0",
+      "correctOption": "B",
+      "explanation": "",
+      "questionNo": 21
+    },
+    {
+      "id": "chapter-08-split-01-q22",
+      "questionText": "একটি স্প্রিং-এর বল ধ্রুবক k এবং ভর m হলে তার কৌণিক কম্পাঙ্ক ω = ?",
+      "optionA": "√(k/m)",
+      "optionB": "k/m",
+      "optionC": "√(m/k)",
+      "optionD": "m/k",
+      "correctOption": "A",
+      "explanation": "",
+      "questionNo": 22
+    },
+    {
+      "id": "chapter-08-split-01-q23",
+      "questionText": "একটি স্প্রিংকে 2 cm টেনে ছেড়ে দিলে তার বিস্তার কত?",
+      "optionA": "2 cm",
+      "optionB": "4 cm",
+      "optionC": "0 cm",
+      "optionD": "তথ্য অসম্পূর্ণ",
+      "correctOption": "A",
+      "explanation": "",
+      "questionNo": 23
+    },
+    {
+      "id": "chapter-08-split-01-q24",
+      "questionText": "একটি সরল দোলকের দোলনকাল T₁ = 2 s, এর দৈর্ঘ্য 4 গুণ করলে T₂ কত?",
+      "optionA": "2 s",
+      "optionB": "4 s",
+      "optionC": "1 s",
+      "optionD": "8 s",
+      "correctOption": "B",
+      "explanation": "",
+      "questionNo": 24
+    },
+    {
+      "id": "chapter-08-split-01-q25",
+      "questionText": "একটি স্প্রিং ধ্রুবক k, ভর m স্পন্দিত হচ্ছে। বিস্তার A হলে সর্বোচ্চ বেগ কত?",
+      "optionA": "A√(k/m)",
+      "optionB": "A k/m",
+      "optionC": "A√(m/k)",
+      "optionD": "A k²/m",
+      "correctOption": "A",
+      "explanation": "",
+      "questionNo": 25
+    }
+  ]
+}

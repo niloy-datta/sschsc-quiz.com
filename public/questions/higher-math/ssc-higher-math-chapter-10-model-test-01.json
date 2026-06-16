@@ -1,352 +1,377 @@
 [
   {
-    "id": "ssc-higher-math-ch10-set01-q01",
+    "id": "ssc-higher-math-chapter-10-model-test-01-q01",
     "subject": "higher-math",
     "chapter": "ssc-higher-math-chapter-10-model-test-01",
-    "text": "$(1 - ax)^6$ এর বিস্তৃতিতে $x^3$ এবং $x^4$ এর সহগ পরস্পর সমান হলে, $a$ এর মান কত?",
+    "text": "3, 6, 12, ... গুণোত্তর ধারার 10তম পদ কত?",
     "options": [
-      "$\\frac{4}{3}$",
-      "$\\frac{3}{4}$",
-      "$-\\frac{3}{4}$",
-      "$-\\frac{4}{3}$"
-    ],
-    "image": null,
-    "timeLimit": 45
-  },
-  {
-    "id": "ssc-higher-math-ch10-set01-q02",
-    "subject": "higher-math",
-    "chapter": "ssc-higher-math-chapter-10-model-test-01",
-    "text": "$f(y) = 3x^2y^4 - 5xy^5 + 2x^4y^2 - 4$ বহুপদীর— i. মাত্রা **6** ii. মুখ্য সহগ **-5x** iii. ধ্রুব পদ **-4** নিচের কোনটি সঠিক?",
-    "options": [
-      "i ও ii",
-      "i ও iii",
-      "ii ও iii",
-      "i, ii ও iii"
-    ],
-    "image": null,
-    "timeLimit": 45
-  },
-  {
-    "id": "ssc-higher-math-ch10-set01-q03",
-    "subject": "higher-math",
-    "chapter": "ssc-higher-math-chapter-10-model-test-01",
-    "text": "$P(x) = \\frac{6x^5 + x^2}{2 + 12x^3}$ হলে, i. বহুপদীটির মাত্রা 5 ii. বহুপদীটির মুখ্যসহগ $1/2$ iii. $P(-2) = 2$ নিচের কোনটি সঠিক?",
-    "options": [
-      "i ও ii",
-      "i ও iii",
-      "ii ও iii",
-      "i, ii ও iii"
-    ],
-    "image": null,
-    "timeLimit": 45
-  },
-  {
-    "id": "ssc-higher-math-ch10-set01-q04",
-    "subject": "higher-math",
-    "chapter": "ssc-higher-math-chapter-10-model-test-01",
-    "text": "$(x + \\frac{1}{x})^n$ এর বিস্তৃতিতে দ্বিতীয় পদের সহগ তৃতীয় পদের সহগের সমান হলে, $n$ এর মান কত?",
-    "options": [
-      "2",
-      "3",
-      "4",
-      "5"
-    ],
-    "image": null,
-    "timeLimit": 45
-  },
-  {
-    "id": "ssc-higher-math-ch10-set01-q05",
-    "subject": "higher-math",
-    "chapter": "ssc-higher-math-chapter-10-model-test-01",
-    "text": "$3(1 - 2x)(3x + 2)$ এর মুখ্য সহগ কত?",
-    "options": [
-      "-18",
-      "-6",
-      "6",
-      "18"
-    ],
-    "image": null,
-    "timeLimit": 45
-  },
-  {
-    "id": "ssc-higher-math-ch10-set01-q06",
-    "subject": "higher-math",
-    "chapter": "ssc-higher-math-chapter-10-model-test-01",
-    "text": "**নিচের তথ্যের আলোকে 18 ও 19 নং প্রশ্নের উত্তর দাও:** $A = (1 - 3x)^5$ একটি দ্বিপদী রাশি। $x^3$ এর সহগ কত?",
-    "options": [
-      "-270",
-      "-10",
-      "10",
-      "270"
-    ],
-    "image": null,
-    "timeLimit": 45
-  },
-  {
-    "id": "ssc-higher-math-ch10-set01-q07",
-    "subject": "higher-math",
-    "chapter": "ssc-higher-math-chapter-10-model-test-01",
-    "text": "\\\\(p(x)=12x^2-15x^3-3x^4+5+3x\\\\) বহুপদীর মুখ্য সহগ কোনটি?",
-    "options": [
-      "-3",
-      "3",
-      "12",
-      "15"
-    ],
-    "image": null,
-    "timeLimit": 45
-  },
-  {
-    "id": "ssc-higher-math-ch10-set01-q08",
-    "subject": "higher-math",
-    "chapter": "ssc-higher-math-chapter-10-model-test-01",
-    "text": "$(1+\\frac{x}{4})^7$ এর বিস্তৃতিতে $x^2$ এর সহগ কত?",
-    "options": [
-      "$\\frac{7}{4}$",
-      "$\\frac{21}{4}$",
-      "$\\frac{21}{16}$",
-      "$\\frac{35}{64}$"
-    ],
-    "image": null,
-    "timeLimit": 45
-  },
-  {
-    "id": "ssc-higher-math-ch10-set01-q09",
-    "subject": "higher-math",
-    "chapter": "ssc-higher-math-chapter-10-model-test-01",
-    "text": "$P(x) = x^4(2 - 3x - mx^2)$ বহুপদীটির মুখ্য সহগ কত?",
-    "options": [
-      "2",
-      "-3",
-      "m",
-      "-m"
-    ],
-    "image": null,
-    "timeLimit": 45
-  },
-  {
-    "id": "ssc-higher-math-ch10-set01-q10",
-    "subject": "higher-math",
-    "chapter": "ssc-higher-math-chapter-10-model-test-01",
-    "text": "(3+x)(1−x) 8 এর বিস্তৃতিতে x এর সহগ কত?",
-    "options": [
-      "-2",
-      "-7",
-      "-23",
-      "-25"
-    ],
-    "image": null,
-    "timeLimit": 45
-  },
-  {
-    "id": "ssc-higher-math-ch10-set01-q11",
-    "subject": "higher-math",
-    "chapter": "ssc-higher-math-chapter-10-model-test-01",
-    "text": "(1+x)^4 এর বিস্তৃতিতে x^3 এর সহগ কত?",
-    "options": [
-      "4",
-      "8",
-      "3",
-      "7"
-    ],
-    "image": null,
-    "timeLimit": 45
-  },
-  {
-    "id": "ssc-higher-math-ch10-set01-q12",
-    "subject": "higher-math",
-    "chapter": "ssc-higher-math-chapter-10-model-test-01",
-    "text": "(1+x)^5 এর বিস্তৃতিতে x^4 এর সহগ কত?",
-    "options": [
-      "5",
-      "9",
-      "4",
-      "10"
-    ],
-    "image": null,
-    "timeLimit": 45
-  },
-  {
-    "id": "ssc-higher-math-ch10-set01-q13",
-    "subject": "higher-math",
-    "chapter": "ssc-higher-math-chapter-10-model-test-01",
-    "text": "(1+x)^6 এর বিস্তৃতিতে x^2 এর সহগ কত?",
-    "options": [
-      "15",
-      "6",
-      "17",
-      "2"
-    ],
-    "image": null,
-    "timeLimit": 45
-  },
-  {
-    "id": "ssc-higher-math-ch10-set01-q14",
-    "subject": "higher-math",
-    "chapter": "ssc-higher-math-chapter-10-model-test-01",
-    "text": "(1+x)^7 এর বিস্তৃতিতে x^3 এর সহগ কত?",
-    "options": [
-      "3",
-      "7",
-      "38",
-      "35"
-    ],
-    "image": null,
-    "timeLimit": 45
-  },
-  {
-    "id": "ssc-higher-math-ch10-set01-q15",
-    "subject": "higher-math",
-    "chapter": "ssc-higher-math-chapter-10-model-test-01",
-    "text": "(1+x)^8 এর বিস্তৃতিতে x^4 এর সহগ কত?",
-    "options": [
-      "4",
-      "8",
-      "70",
-      "74"
-    ],
-    "image": null,
-    "timeLimit": 45
-  },
-  {
-    "id": "ssc-higher-math-ch10-set01-q16",
-    "subject": "higher-math",
-    "chapter": "ssc-higher-math-chapter-10-model-test-01",
-    "text": "(1+x)^4 এর বিস্তৃতিতে x^2 এর সহগ কত?",
-    "options": [
-      "8",
-      "4",
-      "6",
-      "2"
-    ],
-    "image": null,
-    "timeLimit": 45
-  },
-  {
-    "id": "ssc-higher-math-ch10-set01-q17",
-    "subject": "higher-math",
-    "chapter": "ssc-higher-math-chapter-10-model-test-01",
-    "text": "(1+x)^5 এর বিস্তৃতিতে x^3 এর সহগ কত?",
-    "options": [
+      "1536",
+      "3072",
       "13",
-      "3",
-      "5",
-      "10"
+      "30"
     ],
     "image": null,
+    "optionImages": null,
     "timeLimit": 45
   },
   {
-    "id": "ssc-higher-math-ch10-set01-q18",
+    "id": "ssc-higher-math-chapter-10-model-test-01-q02",
     "subject": "higher-math",
     "chapter": "ssc-higher-math-chapter-10-model-test-01",
-    "text": "(1+x)^6 এর বিস্তৃতিতে x^4 এর সহগ কত?",
+    "text": "2, 7, 12, ... ধারার প্রথম 9 পদের যোগফল কত?",
     "options": [
-      "4",
-      "6",
-      "19",
-      "15"
+      "203",
+      "18",
+      "42",
+      "198"
     ],
     "image": null,
+    "optionImages": null,
     "timeLimit": 45
   },
   {
-    "id": "ssc-higher-math-ch10-set01-q19",
+    "id": "ssc-higher-math-chapter-10-model-test-01-q03",
     "subject": "higher-math",
     "chapter": "ssc-higher-math-chapter-10-model-test-01",
-    "text": "(1+x)^7 এর বিস্তৃতিতে x^2 এর সহগ কত?",
+    "text": "উপরোক্ত ধারার 8তম পদ কত?",
     "options": [
-      "21",
-      "23",
-      "7",
-      "2"
-    ],
-    "image": null,
-    "timeLimit": 45
-  },
-  {
-    "id": "ssc-higher-math-ch10-set01-q20",
-    "subject": "higher-math",
-    "chapter": "ssc-higher-math-chapter-10-model-test-01",
-    "text": "(1+x)^8 এর বিস্তৃতিতে x^3 এর সহগ কত?",
-    "options": [
-      "8",
-      "3",
-      "59",
+      "47",
+      "42",
+      "47",
       "56"
     ],
     "image": null,
+    "optionImages": null,
     "timeLimit": 45
   },
   {
-    "id": "ssc-higher-math-ch10-set01-q21",
+    "id": "ssc-higher-math-chapter-10-model-test-01-q04",
     "subject": "higher-math",
     "chapter": "ssc-higher-math-chapter-10-model-test-01",
-    "text": "(1+x)^4 এর বিস্তৃতিতে x^4 এর সহগ কত?",
+    "text": "6, 12, 24, ... গুণোত্তর ধারার 7তম পদ কত?",
     "options": [
-      "4",
-      "4",
-      "5",
-      "1"
+      "13",
+      "42",
+      "384",
+      "768"
     ],
     "image": null,
+    "optionImages": null,
     "timeLimit": 45
   },
   {
-    "id": "ssc-higher-math-ch10-set01-q22",
+    "id": "ssc-higher-math-chapter-10-model-test-01-q05",
     "subject": "higher-math",
     "chapter": "ssc-higher-math-chapter-10-model-test-01",
-    "text": "(1+x)^5 এর বিস্তৃতিতে x^2 এর সহগ কত?",
+    "text": "5, 8, 11, ... ধারার প্রথম 6 পদের যোগফল কত?",
     "options": [
-      "10",
-      "2",
-      "12",
-      "5"
+      "30",
+      "78",
+      "75",
+      "20"
     ],
     "image": null,
+    "optionImages": null,
     "timeLimit": 45
   },
   {
-    "id": "ssc-higher-math-ch10-set01-q23",
+    "id": "ssc-higher-math-chapter-10-model-test-01-q06",
     "subject": "higher-math",
     "chapter": "ssc-higher-math-chapter-10-model-test-01",
-    "text": "(1+x)^6 এর বিস্তৃতিতে x^3 এর সহগ কত?",
+    "text": "উপরোক্ত ধারার 5তম পদ কত?",
     "options": [
       "20",
-      "3",
-      "23",
-      "6"
+      "16",
+      "19",
+      "19"
     ],
     "image": null,
+    "optionImages": null,
     "timeLimit": 45
   },
   {
-    "id": "ssc-higher-math-ch10-set01-q24",
+    "id": "ssc-higher-math-chapter-10-model-test-01-q07",
     "subject": "higher-math",
     "chapter": "ssc-higher-math-chapter-10-model-test-01",
-    "text": "(1+x)^7 এর বিস্তৃতিতে x^4 এর সহগ কত?",
+    "text": "3, 6, 12, ... গুণোত্তর ধারার 5তম পদ কত?",
+    "options": [
+      "8",
+      "96",
+      "48",
+      "15"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-higher-math-chapter-10-model-test-01-q08",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-10-model-test-01",
+    "text": "2, 4, 6, ... ধারার প্রথম 10 পদের যোগফল কত?",
+    "options": [
+      "112",
+      "20",
+      "20",
+      "110"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-higher-math-chapter-10-model-test-01-q09",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-10-model-test-01",
+    "text": "উপরোক্ত ধারার 9তম পদ কত?",
+    "options": [
+      "47",
+      "18",
+      "47",
+      "42"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-higher-math-chapter-10-model-test-01-q10",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-10-model-test-01",
+    "text": "7, 14, 28, ... গুণোত্তর ধারার 8তম পদ কত?",
+    "options": [
+      "15",
+      "896",
+      "56",
+      "1792"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-higher-math-chapter-10-model-test-01-q11",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-10-model-test-01",
+    "text": "6, 10, 14, ... ধারার প্রথম 7 পদের যোগফল কত?",
+    "options": [
+      "126",
+      "42",
+      "130",
+      "30"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-higher-math-chapter-10-model-test-01-q12",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-10-model-test-01",
+    "text": "উপরোক্ত ধারার 6তম পদ কত?",
+    "options": [
+      "30",
+      "23",
+      "20",
+      "23"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-higher-math-chapter-10-model-test-01-q13",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-10-model-test-01",
+    "text": "4, 8, 16, ... গুণোত্তর ধারার 5তম পদ কত?",
+    "options": [
+      "128",
+      "64",
+      "9",
+      "20"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-higher-math-chapter-10-model-test-01-q14",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-10-model-test-01",
+    "text": "3, 5, 7, ... ধারার প্রথম 10 পদের যোগফল কত?",
+    "options": [
+      "122",
+      "30",
+      "21",
+      "120"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-higher-math-chapter-10-model-test-01-q15",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-10-model-test-01",
+    "text": "4, 6, 8, ... ধারার প্রথম 5 পদের যোগফল কত?",
+    "options": [
+      "40",
+      "12",
+      "20",
+      "42"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-higher-math-chapter-10-model-test-01-q16",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-10-model-test-01",
+    "text": "2, 4, 8, ... গুণোত্তর ধারার 9তম পদ কত?",
+    "options": [
+      "1024",
+      "11",
+      "18",
+      "512"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-higher-math-chapter-10-model-test-01-q17",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-10-model-test-01",
+    "text": "7, 11, 15, ... ধারার প্রথম 8 পদের যোগফল কত?",
     "options": [
       "35",
-      "7",
-      "4",
-      "39"
+      "172",
+      "168",
+      "56"
     ],
     "image": null,
+    "optionImages": null,
     "timeLimit": 45
   },
   {
-    "id": "ssc-higher-math-ch10-set01-q25",
+    "id": "ssc-higher-math-chapter-10-model-test-01-q18",
     "subject": "higher-math",
     "chapter": "ssc-higher-math-chapter-10-model-test-01",
-    "text": "(1+x)^8 এর বিস্তৃতিতে x^2 এর সহগ কত?",
+    "text": "5, 10, 20, ... গুণোত্তর ধারার 6তম পদ কত?",
     "options": [
-      "2",
       "30",
-      "28",
-      "8"
+      "320",
+      "160",
+      "11"
     ],
     "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-higher-math-chapter-10-model-test-01-q19",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-10-model-test-01",
+    "text": "উপরোক্ত ধারার 10তম পদ কত?",
+    "options": [
+      "30",
+      "23",
+      "21",
+      "23"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-higher-math-chapter-10-model-test-01-q20",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-10-model-test-01",
+    "text": "উপরোক্ত ধারার 7তম পদ কত?",
+    "options": [
+      "34",
+      "34",
+      "30",
+      "42"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-higher-math-chapter-10-model-test-01-q21",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-10-model-test-01",
+    "text": "4, 7, 10, ... ধারার প্রথম 6 পদের যোগফল কত?",
+    "options": [
+      "69",
+      "19",
+      "24",
+      "72"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-higher-math-chapter-10-model-test-01-q22",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-10-model-test-01",
+    "text": "3, 5, 7, ... ধারার প্রথম 5 পদের যোগফল কত?",
+    "options": [
+      "11",
+      "15",
+      "35",
+      "37"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-higher-math-chapter-10-model-test-01-q23",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-10-model-test-01",
+    "text": "2, 7, 12, ... ধারার প্রথম 10 পদের যোগফল কত?",
+    "options": [
+      "250",
+      "20",
+      "47",
+      "245"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-higher-math-chapter-10-model-test-01-q24",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-10-model-test-01",
+    "text": "7, 12, 17, ... ধারার প্রথম 9 পদের যোগফল কত?",
+    "options": [
+      "248",
+      "47",
+      "243",
+      "63"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-higher-math-chapter-10-model-test-01-q25",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-10-model-test-01",
+    "text": "6, 10, 14, ... ধারার প্রথম 8 পদের যোগফল কত?",
+    "options": [
+      "160",
+      "164",
+      "34",
+      "48"
+    ],
+    "image": null,
+    "optionImages": null,
     "timeLimit": 45
   }
 ]

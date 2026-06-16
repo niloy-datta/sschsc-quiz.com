@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="100%" height="100%" viewBox="0 0 360 220">
+  <defs>
+    <radialGradient id="bg" cx="50%" cy="45%" r="72%">
+      <stop offset="0%" stop-color="#14532d"/>
+      <stop offset="100%" stop-color="#020617"/>
+    </radialGradient>
+
+    <radialGradient id="body" cx="40%" cy="30%" r="75%">
+      <stop offset="0%" stop-color="#bbf7d0"/>
+      <stop offset="45%" stop-color="#22c55e"/>
+      <stop offset="100%" stop-color="#166534"/>
+    </radialGradient>
+
+    <filter id="shadow">
+      <feDropShadow dx="0" dy="8" stdDeviation="6" flood-color="#000000" flood-opacity=".45"/>
+    </filter>
+
+    <style>
+      .body{fill:url(#body);stroke:#dcfce7;stroke-width:2.3;filter:url(#shadow)}
+      .vein{fill:none;stroke:#ecfdf5;stroke-width:2;stroke-linecap:round;opacity:.9}
+      .root{stroke:#86efac;stroke-width:1.8;fill:none;stroke-linecap:round}
+      .label{font-family:Arial,sans-serif;font-size:20px;font-weight:900;fill:#e5e7eb}
+    </style>
+  </defs>
+
+  <rect width="360" height="220" rx="18" fill="url(#bg)"/>
+
+  <path d="M180 42
+           C118 70 86 124 112 166
+           C138 205 222 205 248 166
+           C274 124 242 70 180 42Z" class="body"/>
+
+  <path d="M180 54 C170 91 170 132 180 176" class="vein"/>
+  <path d="M180 78 C150 92 130 112 116 145" class="vein"/>
+  <path d="M180 78 C210 92 230 112 244 145" class="vein"/>
+
+  <path d="M146 177 C133 194 123 202 110 211" class="root"/>
+  <path d="M167 184 C160 200 152 208 143 215" class="root"/>
+  <path d="M194 184 C202 200 210 208 220 215" class="root"/>
+  <path d="M214 177 C229 194 238 202 250 211" class="root"/>
+
+  <text x="180" y="35" text-anchor="middle" class="label">Q</text>
+</svg>

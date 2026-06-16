@@ -1,0 +1,102 @@
+{
+  "hsc-ict-chapter-03-model-test-01-q01": {
+    "correctOption": "কীবোর্ড স্ট্রোক ডাইনামিক্স",
+    "explanation": "শারীরিক গঠন নয়; টাইপ করার ধরন (আচরণ) বিশ্লেষণ করে শনাক্ত করা হয়।"
+  },
+  "hsc-ict-chapter-03-model-test-01-q02": {
+    "correctOption": "ধারাবাহিক",
+    "explanation": "অ্যানালগ সিগন্যাল হলো সময়ের সাথে সাথে নিরবচ্ছিন্ন বা ধারাবাহিক (Continuous) তরঙ্গ।"
+  },
+  "hsc-ict-chapter-03-model-test-01-q03": {
+    "correctOption": "ডেটা পরিবহনের ক্ষমতা",
+    "explanation": "নেটওয়ার্কের কোনো মাধ্যম দিয়ে একক সময়ে যে পরিমাণ ডেটা স্থানান্তরিত হতে পারে, তাকে ওই মাধ্যমের ব্যান্ডউইথ বলে।"
+  },
+  "hsc-ict-chapter-03-model-test-01-q04": {
+    "correctOption": "ডেটা দ্রুত যায়",
+    "explanation": "ব্যান্ডউইথ বেশি হওয়ার অর্থ হলো রাস্তা চওড়া, অর্থাৎ একসাথে অনেক বেশি ডেটা দ্রুত যেতে পারবে।"
+  },
+  "hsc-ict-chapter-03-model-test-01-q05": {
+    "correctOption": "সিগন্যাল পরিবর্তনের হার",
+    "explanation": "Baud rate হলো প্রতি সেকেন্ডে একটি সিগন্যাল বা তরঙ্গ কতবার তার অবস্থা পরিবর্তন করে।"
+  },
+  "hsc-ict-chapter-03-model-test-01-q06": {
+    "correctOption": "Binary digit",
+    "explanation": "কম্পিউটারের ভাষায় সবচেয়ে ছোট একক হলো বিট, যার পূর্ণরূপ Binary digit (০ অথবা ১)।"
+  },
+  "hsc-ict-chapter-03-model-test-01-q07": {
+    "correctOption": "Wireless",
+    "explanation": "ব্লুটুথ হলো একটি শর্ট-রেঞ্জ ওয়্যারলেস বা তারবিহীন যোগাযোগ প্রযুক্তি।"
+  },
+  "hsc-ict-chapter-03-model-test-01-q08": {
+    "correctOption": "কম দূরত্ব",
+    "explanation": "ব্লুটুথ সাধারণত ১০ থেকে ১০০ মিটারের মতো খুব শর্ট-রেঞ্জ বা কম দূরত্বের মধ্যে (PAN) কাজ করে।"
+  },
+  "hsc-ict-chapter-03-model-test-01-q09": {
+    "correctOption": "network segment সংযুক্ত করতে",
+    "explanation": "ব্রিজ একই প্রোটোকল বিশিষ্ট একাধিক ল্যান বা নেটওয়ার্ক সেগমেন্টকে যুক্ত করে একটি বড় নেটওয়ার্ক তৈরি করতে ব্যবহৃত হয়।"
+  },
+  "hsc-ict-chapter-03-model-test-01-q10": {
+    "correctOption": "web page প্রদর্শন",
+    "explanation": "ওয়েব ব্রাউজার (যেমন ক্রোম, ফায়ারফক্স) হলো একটি অ্যাপ্লিকেশন সফটওয়্যার যা ইন্টারনেট থেকে তথ্য বা ওয়েবপেজ এনে ব্যবহারকারীকে প্রদর্শন করে।"
+  },
+  "hsc-ict-chapter-03-model-test-01-q11": {
+    "correctOption": "Backbone",
+    "explanation": "বাস টপোলজির প্রধান তারটিকে ব্যাকবোন (Backbone) ক্যাবল বলা হয়, এটি নষ্ট হলে পুরো নেটওয়ার্ক অচল হয়ে যায়।"
+  },
+  "hsc-ict-chapter-03-model-test-01-q12": {
+    "correctOption": "একটি প্রধান cable-এ",
+    "explanation": "বাস টপোলজিতে সব কম্পিউটার একটিমাত্র লম্বা মূল ক্যাবলের সাথে যুক্ত থাকে।"
+  },
+  "hsc-ict-chapter-03-model-test-01-q13": {
+    "correctOption": "Radio wave",
+    "explanation": "মোবাইল ফোন নেটওয়ার্কে টাওয়ারের সাথে যোগাযোগের জন্য রেডিও ফ্রিকোয়েন্সি বা রেডিও ওয়েভ ব্যবহৃত হয়।"
+  },
+  "hsc-ict-chapter-03-model-test-01-q14": {
+    "correctOption": "সেবা গ্রহণকারী কম্পিউটার",
+    "explanation": "নেটওয়ার্কে যে কম্পিউটারগুলো সার্ভার থেকে ডেটা বা সার্ভিস গ্রহণ করে, তাদের ক্লায়েন্ট বলে।"
+  },
+  "hsc-ict-chapter-03-model-test-01-q15": {
+    "correctOption": "resource/service provide করা",
+    "explanation": "ক্লাইয়েন্ট-সার্ভার নেটওয়ার্কে সার্ভার ফাইল শেয়ার করা, ডেটাবেস পরিচালনা বা প্রিন্টিং সেবা প্রদান করে।"
+  },
+  "hsc-ict-chapter-03-model-test-01-q16": {
+    "correctOption": "internet-based computing service",
+    "explanation": "ইন্টারনেটের মাধ্যমে দূরবর্তী কোনো সার্ভার থেকে স্টোরেজ, ডাটাবেস, সফটওয়্যার বা কম্পিউটিং পাওয়ার ভাড়া নেওয়াই হলো ক্লাউড কম্পিউটিং।"
+  },
+  "hsc-ict-chapter-03-model-test-01-q17": {
+    "correctOption": "privacy/security risk",
+    "explanation": "যেহেতু ডেটা অন্য কারো সার্ভারে থাকে, তাই ক্লাউড কম্পিউটিংয়ে তথ্য ফাঁস বা প্রাইভেসি এবং হ্যাকিংয়ের ঝুঁকি থাকে।"
+  },
+  "hsc-ict-chapter-03-model-test-01-q18": {
+    "correctOption": "যেকোনো স্থান থেকে access",
+    "explanation": "ইন্টারনেট থাকলে বিশ্বের যেকোনো জায়গা থেকে, যেকোনো ডিভাইসে ক্লাউডে রাখা ডেটা অ্যাক্সেস করা যায়।"
+  },
+  "hsc-ict-chapter-03-model-test-01-q19": {
+    "correctOption": "Google Drive",
+    "explanation": "Google Drive, Dropbox, OneDrive ইত্যাদি হলো ক্লাউড স্টোরেজের উদাহরণ।"
+  },
+  "hsc-ict-chapter-03-model-test-01-q20": {
+    "correctOption": "কেন্দ্রীয় conductor",
+    "explanation": "কো-অক্সিয়াল ক্যাবলের ঠিক মাঝে একটি সলিড কপার তার বা কেন্দ্রীয় পরিবাহী (Center Conductor) থাকে, যা দিয়ে ডেটা পরিবাহিত হয়।"
+  },
+  "hsc-ict-chapter-03-model-test-01-q21": {
+    "correctOption": "IP address",
+    "explanation": "DNS না থাকলে প্রতিটি ওয়েবসাইটের জন্য জটিল সংখ্যার IP অ্যাড্রেস মুখস্থ করে রাখতে হতো।"
+  },
+  "hsc-ict-chapter-03-model-test-01-q22": {
+    "correctOption": "domain name কে IP address-এ রূপান্তর",
+    "explanation": "DNS (Domain Name System) এর কাজ হলো মানুষের পড়ার উপযোগী ওয়েব ঠিকানাকে (যেমন google.com) কম্পিউটারের আইপি অ্যাড্রেসে (যেমন 142.250.190.46) পরিবর্তন করা।"
+  },
+  "hsc-ict-chapter-03-model-test-01-q23": {
+    "correctOption": "বিচ্ছিন্ন",
+    "explanation": "ডিজিটাল সিগন্যাল হলো সময়ের সাথে সাথে বিচ্ছিন্ন (Discrete) তরঙ্গ, যা সাধারণত ০ ও ১ দিয়ে প্রকাশ করা হয়।"
+  },
+  "hsc-ict-chapter-03-model-test-01-q24": {
+    "correctOption": "ওয়েবসাইটের মানুষের পড়ার উপযোগী নাম",
+    "explanation": "ডোমেইন নেম হলো ইন্টারনেটে কোনো ওয়েবসাইটের ইউনিক টেক্সট-ভিত্তিক নাম, যা মানুষের মনে রাখা সহজ।"
+  },
+  "hsc-ict-chapter-03-model-test-01-q25": {
+    "correctOption": "ডেটা ভুল হয়েছে কি না বুঝতে",
+    "explanation": "প্রেরণ করা ডেটা রিসিভারে যাওয়ার পর তাতে কোনো ভুল বা এরর আছে কি না তা যাচাই করতেই Error detection ব্যবহৃত হয়।"
+  }
+}

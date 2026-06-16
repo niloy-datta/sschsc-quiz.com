@@ -1,0 +1,27 @@
+{
+  "setId": "biology_questions",
+  "reason": "HIDDEN_LEGACY_KEY",
+  "quarantinedAt": "2026-06-13T17:57:55.052Z",
+  "questions": [
+    {
+      "id": "biology-1st-paper-hsc-science-biology-biology-questions-json-0",
+      "questionText": "কোষ (cell) প্রথম কে আবিষ্কার করেন?",
+      "optionA": "রবার্ট হুক",
+      "optionB": "রবার্ট ব্রাউন",
+      "optionC": "স্লাইডেন",
+      "optionD": "ভিরশো",
+      "correctOption": "A",
+      "explanation": "১৬৬৫ সালে রবার্ট হুক কর্কের প্রস্থচ্ছেদ পর্যবেক্ষণ করে 'cell' নামকরণ করেন।"
+    },
+    {
+      "id": "biology-1st-paper-hsc-science-biology-biology-questions-json-1",
+      "questionText": "কোষের 'শক্তিঘর' (powerhouse) বলা হয় কোন অঙ্গাণুকে?",
+      "optionA": "রাইবোজোম",
+      "optionB": "নিউক্লিয়াস",
+      "optionC": "মাইটোকন্ড্রিয়া",
+      "optionD": "গলগি বস্তু",
+      "correctOption": "C",
+      "explanation": "মাইটোকন্ড্রিয়ায় শ্বসনের মাধ্যমে ATP তৈরি হয়, তাই একে কোষের শক্তিঘর বলে।"
+    }
+  ]
+}

@@ -1,0 +1,102 @@
+{
+  "hsc-higher-math-2nd-paper-board-analyzed-premium-set-06-q01": {
+    "correctOption": "\\(\\frac{2\\pi}{3}\\)",
+    "explanation": "\\(\\cos^{-1}x\\)-এর range \\([0,\\pi]\\); তাই মান \\(2\\pi/3\\)।"
+  },
+  "hsc-higher-math-2nd-paper-board-analyzed-premium-set-06-q02": {
+    "correctOption": "\\(\\frac{2\\pi}{3}\\)",
+    "explanation": "\\(\\cos4\\pi/3=-1/2\\); principal range \\([0,\\pi]\\), তাই \\(2\\pi/3\\)।"
+  },
+  "hsc-higher-math-2nd-paper-board-analyzed-premium-set-06-q03": {
+    "correctOption": "\\(\\frac\\pi3\\)",
+    "explanation": "\\(\\cos^{-1}\\)-এর range \\([0,\\pi]\\); \\(\\cos5\\pi/3=1/2\\), তাই \\(\\pi/3\\)।"
+  },
+  "hsc-higher-math-2nd-paper-board-analyzed-premium-set-06-q04": {
+    "correctOption": "\\(\\frac\\pi4\\)",
+    "explanation": "\\(\\frac{i}{1+i}=\\frac{i(1-i)}2=\\frac{1+i}{2}\\), তাই argument \\(\\pi/4\\)।"
+  },
+  "hsc-higher-math-2nd-paper-board-analyzed-premium-set-06-q05": {
+    "correctOption": "\\(x=\\pm\\frac{16}{\\sqrt7}\\)",
+    "explanation": "\\(a=4,e=\\sqrt{1-9/16}=\\sqrt7/4\\); directrix \\(x=\\pm a/e=\\pm16/\\sqrt7\\)।"
+  },
+  "hsc-higher-math-2nd-paper-board-analyzed-premium-set-06-q06": {
+    "correctOption": "\\(\\frac{\\sqrt{34}}5\\)",
+    "explanation": "\\(e=\\sqrt{1+b^2/a^2}=\\sqrt{1+9/25}=\\sqrt{34}/5\\)।"
+  },
+  "hsc-higher-math-2nd-paper-board-analyzed-premium-set-06-q07": {
+    "correctOption": "\\(\\frac53\\)",
+    "explanation": "অধিবৃত্তে \\(e=\\sqrt{1+b^2/a^2}=\\sqrt{1+16/9}=5/3\\)।"
+  },
+  "hsc-higher-math-2nd-paper-board-analyzed-premium-set-06-q08": {
+    "correctOption": "\\(\\frac32\\)",
+    "explanation": "\\(e=\\sqrt{1+b^2/a^2}=\\sqrt{1+5/4}=3/2\\)।"
+  },
+  "hsc-higher-math-2nd-paper-board-analyzed-premium-set-06-q09": {
+    "correctOption": "1",
+    "explanation": "modulus ভাগে ভাগ হয়: \\(|1+i|/|1-i|=\\sqrt2/\\sqrt2=1\\)।"
+  },
+  "hsc-higher-math-2nd-paper-board-analyzed-premium-set-06-q10": {
+    "correctOption": "৩",
+    "explanation": "\\((1-\\omega)(1-\\omega^2)=1-(\\omega+\\omega^2)+\\omega^3=1-(-1)+1=3\\)।"
+  },
+  "hsc-higher-math-2nd-paper-board-analyzed-premium-set-06-q11": {
+    "correctOption": "\\(x=\\frac{n\\pi}{2}\\)",
+    "explanation": "\\(2x=n\\pi\\Rightarrow x=n\\pi/2\\)।"
+  },
+  "hsc-higher-math-2nd-paper-board-analyzed-premium-set-06-q12": {
+    "correctOption": "\\(-\\frac{\\pi}{6}\\)",
+    "explanation": "\\(\\sin^{-1}x\\)-এর range \\([-\\pi/2,\\pi/2]\\), তাই মান \\(-\\pi/6\\)।"
+  },
+  "hsc-higher-math-2nd-paper-board-analyzed-premium-set-06-q13": {
+    "correctOption": "\\(\\frac\\pi3\\)",
+    "explanation": "\\(\\sin^{-1}\\)-এর range \\([-\\pi/2,\\pi/2]\\), তাই মান \\(\\pi/3\\)।"
+  },
+  "hsc-higher-math-2nd-paper-board-analyzed-premium-set-06-q14": {
+    "correctOption": "\\(\\frac{\\pi}{2}\\)",
+    "explanation": "পরিচিত সূত্র: \\(\\sin^{-1}x+\\cos^{-1}x=\\pi/2\\)।"
+  },
+  "hsc-higher-math-2nd-paper-board-analyzed-premium-set-06-q15": {
+    "correctOption": "\\(-1\\le x\\le1\\)",
+    "explanation": "\\(\\sin^{-1}x\\)-এর domain \\([-1,1]\\)।"
+  },
+  "hsc-higher-math-2nd-paper-board-analyzed-premium-set-06-q16": {
+    "correctOption": "0",
+    "explanation": "\\(\\tan^{-1}(-1)=-\\pi/4\\), তাই যোগফল 0।"
+  },
+  "hsc-higher-math-2nd-paper-board-analyzed-premium-set-06-q17": {
+    "correctOption": "\\(\\frac\\pi2\\)",
+    "explanation": "প্রতিটি \\(\\tan^{-1}1=\\pi/4\\); যোগফল \\(\\pi/2\\)।"
+  },
+  "hsc-higher-math-2nd-paper-board-analyzed-premium-set-06-q18": {
+    "correctOption": "\\(\\frac{3\\pi}{4}\\)",
+    "explanation": "product \\(>1\\); তাই quadrant correction দিয়ে \\(\\pi+\\tan^{-1}(-1)=3\\pi/4\\)।"
+  },
+  "hsc-higher-math-2nd-paper-board-analyzed-premium-set-06-q19": {
+    "correctOption": "\\(\\frac{\\pi}{4}\\)",
+    "explanation": "\\(\\tan(A+B)=\\frac{1/2+1/3}{1-1/6}=1\\), তাই \\(A+B=\\pi/4\\)।"
+  },
+  "hsc-higher-math-2nd-paper-board-analyzed-premium-set-06-q20": {
+    "correctOption": "২ s",
+    "explanation": "\\(T=\\frac{2u\\sin\\theta}{g}=\\frac{2\\cdot20\\cdot1/2}{10}=2\\)।"
+  },
+  "hsc-higher-math-2nd-paper-board-analyzed-premium-set-06-q21": {
+    "correctOption": "সব \\(k\\)-এর জন্য বাস্তব ও অসমান",
+    "explanation": "\\(D=(2k)^2-4(k^2-1)=4>0\\); তাই সব \\(k\\)-এ বাস্তব ও অসমান।"
+  },
+  "hsc-higher-math-2nd-paper-board-analyzed-premium-set-06-q22": {
+    "correctOption": "\\(k>1\\)",
+    "explanation": "কাল্পনিক মূলের জন্য \\(D<0\\Rightarrow4-4k<0\\Rightarrow k>1\\)।"
+  },
+  "hsc-higher-math-2nd-paper-board-analyzed-premium-set-06-q23": {
+    "correctOption": "বাস্তব ও সমান",
+    "explanation": "\\(D=4^2-4\\cdot1\\cdot4=0\\); তাই বাস্তব ও সমান মূল।"
+  },
+  "hsc-higher-math-2nd-paper-board-analyzed-premium-set-06-q24": {
+    "correctOption": "\\(\\frac{1\\pm\\sqrt{13}}2\\)",
+    "explanation": "সমান মূলের জন্য \\(D=0\\Rightarrow4k^2-4(k+3)=0\\Rightarrow k=\\frac{1\\pm\\sqrt{13}}2\\)।"
+  },
+  "hsc-higher-math-2nd-paper-board-analyzed-premium-set-06-q25": {
+    "correctOption": "\\(x^2-7x+12=0\\)",
+    "explanation": "মূল 2,3 হলে নতুন মূল 3,4; সমীকরণ \\(x^2-7x+12=0\\)।"
+  }
+}

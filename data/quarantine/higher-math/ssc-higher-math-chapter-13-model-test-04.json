@@ -1,0 +1,77 @@
+{
+  "setId": "ssc-higher-math-chapter-13-model-test-04",
+  "reason": "DUPLICATE_OF_ssc-higher-math-chapter-13-model-test-06",
+  "quarantinedAt": "2026-06-14T19:53:00.849Z",
+  "questions": [
+    {
+      "id": "ssc-higher-math-chapter-13-model-test-04-q01",
+      "questionText": "log(2) এর মান",
+      "optionA": "0",
+      "optionB": "y",
+      "optionC": "180",
+      "optionD": "a-b",
+      "correctOption": "A",
+      "explanation": "log rule",
+      "chapter": "13",
+      "topic": "লগারিদম",
+      "difficulty": "Board Standard",
+      "questionNo": 1
+    },
+    {
+      "id": "ssc-higher-math-chapter-13-model-test-04-q02",
+      "questionText": "log(3) এর মান",
+      "optionA": "1",
+      "optionB": "2",
+      "optionC": "a+b",
+      "optionD": "-1",
+      "correctOption": "A",
+      "explanation": "log rule",
+      "chapter": "13",
+      "topic": "লগারিদম",
+      "difficulty": "Board Standard",
+      "questionNo": 2
+    },
+    {
+      "id": "ssc-higher-math-chapter-13-model-test-04-q03",
+      "questionText": "log(4) এর মান",
+      "optionA": "1",
+      "optionB": "x",
+      "optionC": "a-b",
+      "optionD": "a+b",
+      "correctOption": "A",
+      "explanation": "log rule",
+      "chapter": "13",
+      "topic": "লগারিদম",
+      "difficulty": "Board Standard",
+      "questionNo": 3
+    },
+    {
+      "id": "ssc-higher-math-chapter-13-model-test-04-q04",
+      "questionText": "log(5) এর মান",
+      "optionA": "a+b",
+      "optionB": "a-b",
+      "optionC": "x",
+      "optionD": "2",
+      "correctOption": "A",
+      "explanation": "log rule",
+      "chapter": "13",
+      "topic": "লগারিদম",
+      "difficulty": "Board Standard",
+      "questionNo": 4
+    },
+    {
+      "id": "ssc-higher-math-chapter-13-model-test-04-q05",
+      "questionText": "log(1) এর মান",
+      "optionA": "1",
+      "optionB": "y",
+      "optionC": "-1",
+      "optionD": "0",
+      "correctOption": "A",
+      "explanation": "log rule",
+      "chapter": "13",
+      "topic": "লগারিদম",
+      "difficulty": "Board Standard",
+      "questionNo": 5
+    }
+  ]
+}

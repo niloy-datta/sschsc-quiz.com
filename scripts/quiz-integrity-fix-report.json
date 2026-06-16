@@ -1,0 +1,3120 @@
+[
+  {
+    "paper": "SSC physics",
+    "status": "PARTIALLY FIXED",
+    "issuesFixed": [
+      "BOILERPLATE_REPEAT: Removed 3 duplicate Q in \"ssc-physics-chapter-04-model-test-03\"",
+      "BOILERPLATE_REPEAT: Removed 1 duplicate Q in \"ssc-physics-chapter-04-model-test-04\"",
+      "BOILERPLATE_REPEAT: Removed 1 duplicate Q in \"ssc-physics-chapter-04-model-test-05\"",
+      "BOILERPLATE_REPEAT: Removed 4 duplicate Q in \"ssc-physics-chapter-05-model-test-02\"",
+      "BOILERPLATE_REPEAT: Removed 3 duplicate Q in \"ssc-physics-chapter-08-model-test-02\"",
+      "BOILERPLATE_REPEAT: Removed 1 duplicate Q in \"ssc-physics-chapter-11-model-test-01\"",
+      "BOILERPLATE_REPEAT: Removed 5 duplicate Q in \"ssc-physics-chapter-11-model-test-05\"",
+      "BOILERPLATE_REPEAT: Removed 1 duplicate Q in \"ssc-physics-chapter-02-model-test-05\"",
+      "BOILERPLATE_REPEAT: Removed 1 duplicate Q in \"ssc-physics-chapter-06-model-test-03\"",
+      "BOILERPLATE_REPEAT: Removed 1 duplicate Q in \"ssc-physics-chapter-06-model-test-05\"",
+      "BOILERPLATE_REPEAT: Removed 5 duplicate Q in \"ssc-physics-paper-set-04\"",
+      "BOILERPLATE_REPEAT: Removed 5 duplicate Q in \"ssc-physics-paper-set-05\"",
+      "BOILERPLATE_REPEAT: Removed 5 duplicate Q in \"ssc-physics-paper-set-06\"",
+      "BOILERPLATE_REPEAT: Removed 5 duplicate Q in \"ssc-physics-paper-set-07\"",
+      "BOILERPLATE_REPEAT: Removed 5 duplicate Q in \"ssc-physics-paper-set-08\"",
+      "BOILERPLATE_REPEAT: Removed 5 duplicate Q in \"ssc-physics-paper-set-09\"",
+      "BOILERPLATE_REPEAT: Removed 5 duplicate Q in \"ssc-physics-paper-set-10\"",
+      "BOILERPLATE_REPEAT: Removed 5 duplicate Q in \"ssc-physics-paper-set-11\"",
+      "BOILERPLATE_REPEAT: Removed 5 duplicate Q in \"ssc-physics-paper-set-12\"",
+      "BOILERPLATE_REPEAT: Removed 5 duplicate Q in \"ssc-physics-paper-set-13\"",
+      "BOILERPLATE_REPEAT: Removed 5 duplicate Q in \"ssc-physics-paper-set-14\"",
+      "BOILERPLATE_REPEAT: Removed 5 duplicate Q in \"ssc-physics-paper-set-15\"",
+      "LEGACY_FORMAT: Split \"chapter-01\" (22 Q) into 1 chunk(s)",
+      "DUPLICATE_SET: Kept \"ssc-physics-chapter-12-model-test-01\", removed 4 duplicate copy/copies",
+      "DUPLICATE_SET: Kept \"ssc-physics-chapter-14-model-test-01\", removed 4 duplicate copy/copies"
+    ],
+    "remainingIssues": [
+      "\"ssc-physics-chapter-04-model-test-03\" has 22/25 questions after cleanup",
+      "\"ssc-physics-chapter-04-model-test-04\" has 24/25 questions after cleanup",
+      "\"ssc-physics-chapter-04-model-test-05\" has 24/25 questions after cleanup",
+      "\"ssc-physics-chapter-05-model-test-02\" has 21/25 questions after cleanup",
+      "\"ssc-physics-chapter-08-model-test-02\" has 22/25 questions after cleanup",
+      "\"ssc-physics-chapter-11-model-test-01\" has 24/25 questions after cleanup",
+      "\"ssc-physics-chapter-11-model-test-05\" has 20/25 questions after cleanup",
+      "\"ssc-physics-chapter-02-model-test-05\" has 24/25 questions after cleanup",
+      "\"ssc-physics-chapter-06-model-test-03\" has 24/25 questions after cleanup",
+      "\"ssc-physics-chapter-06-model-test-05\" has 24/25 questions after cleanup",
+      "\"ssc-physics-paper-set-04\" has 20/25 questions after cleanup",
+      "\"ssc-physics-paper-set-05\" has 20/25 questions after cleanup",
+      "\"ssc-physics-paper-set-06\" has 20/25 questions after cleanup",
+      "\"ssc-physics-paper-set-07\" has 20/25 questions after cleanup",
+      "\"ssc-physics-paper-set-08\" has 20/25 questions after cleanup",
+      "\"ssc-physics-paper-set-09\" has 20/25 questions after cleanup",
+      "\"ssc-physics-paper-set-10\" has 20/25 questions after cleanup",
+      "\"ssc-physics-paper-set-11\" has 20/25 questions after cleanup",
+      "\"ssc-physics-paper-set-12\" has 20/25 questions after cleanup",
+      "\"ssc-physics-paper-set-13\" has 20/25 questions after cleanup",
+      "\"ssc-physics-paper-set-14\" has 20/25 questions after cleanup",
+      "\"ssc-physics-paper-set-15\" has 20/25 questions after cleanup"
+    ],
+    "needsRegeneration": [
+      {
+        "paper": "SSC physics",
+        "setId": "chapter-01-split-01",
+        "reason": "LEGACY_PARTIAL_CHUNK",
+        "questionCount": 22
+      },
+      {
+        "paper": "SSC physics",
+        "setId": "ssc-physics-chapter-12-model-test-02",
+        "reason": "DUPLICATE_OF",
+        "duplicateOf": "ssc-physics-chapter-12-model-test-01",
+        "questionCount": 25
+      },
+      {
+        "paper": "SSC physics",
+        "setId": "ssc-physics-chapter-12-model-test-03",
+        "reason": "DUPLICATE_OF",
+        "duplicateOf": "ssc-physics-chapter-12-model-test-01",
+        "questionCount": 25
+      },
+      {
+        "paper": "SSC physics",
+        "setId": "ssc-physics-chapter-12-model-test-04",
+        "reason": "DUPLICATE_OF",
+        "duplicateOf": "ssc-physics-chapter-12-model-test-01",
+        "questionCount": 25
+      },
+      {
+        "paper": "SSC physics",
+        "setId": "ssc-physics-chapter-12-model-test-05",
+        "reason": "DUPLICATE_OF",
+        "duplicateOf": "ssc-physics-chapter-12-model-test-01",
+        "questionCount": 25
+      },
+      {
+        "paper": "SSC physics",
+        "setId": "ssc-physics-chapter-14-model-test-02",
+        "reason": "DUPLICATE_OF",
+        "duplicateOf": "ssc-physics-chapter-14-model-test-01",
+        "questionCount": 25
+      },
+      {
+        "paper": "SSC physics",
+        "setId": "ssc-physics-chapter-14-model-test-03",
+        "reason": "DUPLICATE_OF",
+        "duplicateOf": "ssc-physics-chapter-14-model-test-01",
+        "questionCount": 25
+      },
+      {
+        "paper": "SSC physics",
+        "setId": "ssc-physics-chapter-14-model-test-04",
+        "reason": "DUPLICATE_OF",
+        "duplicateOf": "ssc-physics-chapter-14-model-test-01",
+        "questionCount": 25
+      },
+      {
+        "paper": "SSC physics",
+        "setId": "ssc-physics-chapter-14-model-test-05",
+        "reason": "DUPLICATE_OF",
+        "duplicateOf": "ssc-physics-chapter-14-model-test-01",
+        "questionCount": 25
+      },
+      {
+        "paper": "SSC physics",
+        "setId": "ssc-physics-chapter-04-model-test-03",
+        "reason": "NEED_REGENERATION",
+        "questionCount": 22,
+        "expected": 25
+      },
+      {
+        "paper": "SSC physics",
+        "setId": "ssc-physics-chapter-04-model-test-04",
+        "reason": "NEED_REGENERATION",
+        "questionCount": 24,
+        "expected": 25
+      },
+      {
+        "paper": "SSC physics",
+        "setId": "ssc-physics-chapter-04-model-test-05",
+        "reason": "NEED_REGENERATION",
+        "questionCount": 24,
+        "expected": 25
+      },
+      {
+        "paper": "SSC physics",
+        "setId": "ssc-physics-chapter-05-model-test-02",
+        "reason": "NEED_REGENERATION",
+        "questionCount": 21,
+        "expected": 25
+      },
+      {
+        "paper": "SSC physics",
+        "setId": "ssc-physics-chapter-08-model-test-02",
+        "reason": "NEED_REGENERATION",
+        "questionCount": 22,
+        "expected": 25
+      },
+      {
+        "paper": "SSC physics",
+        "setId": "ssc-physics-chapter-11-model-test-01",
+        "reason": "NEED_REGENERATION",
+        "questionCount": 24,
+        "expected": 25
+      },
+      {
+        "paper": "SSC physics",
+        "setId": "ssc-physics-chapter-11-model-test-05",
+        "reason": "NEED_REGENERATION",
+        "questionCount": 20,
+        "expected": 25
+      },
+      {
+        "paper": "SSC physics",
+        "setId": "ssc-physics-chapter-02-model-test-05",
+        "reason": "NEED_REGENERATION",
+        "questionCount": 24,
+        "expected": 25
+      },
+      {
+        "paper": "SSC physics",
+        "setId": "ssc-physics-chapter-06-model-test-03",
+        "reason": "NEED_REGENERATION",
+        "questionCount": 24,
+        "expected": 25
+      },
+      {
+        "paper": "SSC physics",
+        "setId": "ssc-physics-chapter-06-model-test-05",
+        "reason": "NEED_REGENERATION",
+        "questionCount": 24,
+        "expected": 25
+      },
+      {
+        "paper": "SSC physics",
+        "setId": "ssc-physics-paper-set-04",
+        "reason": "NEED_REGENERATION",
+        "questionCount": 20,
+        "expected": 25
+      },
+      {
+        "paper": "SSC physics",
+        "setId": "ssc-physics-paper-set-05",
+        "reason": "NEED_REGENERATION",
+        "questionCount": 20,
+        "expected": 25
+      },
+      {
+        "paper": "SSC physics",
+        "setId": "ssc-physics-paper-set-06",
+        "reason": "NEED_REGENERATION",
+        "questionCount": 20,
+        "expected": 25
+      },
+      {
+        "paper": "SSC physics",
+        "setId": "ssc-physics-paper-set-07",
+        "reason": "NEED_REGENERATION",
+        "questionCount": 20,
+        "expected": 25
+      },
+      {
+        "paper": "SSC physics",
+        "setId": "ssc-physics-paper-set-08",
+        "reason": "NEED_REGENERATION",
+        "questionCount": 20,
+        "expected": 25
+      },
+      {
+        "paper": "SSC physics",
+        "setId": "ssc-physics-paper-set-09",
+        "reason": "NEED_REGENERATION",
+        "questionCount": 20,
+        "expected": 25
+      },
+      {
+        "paper": "SSC physics",
+        "setId": "ssc-physics-paper-set-10",
+        "reason": "NEED_REGENERATION",
+        "questionCount": 20,
+        "expected": 25
+      },
+      {
+        "paper": "SSC physics",
+        "setId": "ssc-physics-paper-set-11",
+        "reason": "NEED_REGENERATION",
+        "questionCount": 20,
+        "expected": 25
+      },
+      {
+        "paper": "SSC physics",
+        "setId": "ssc-physics-paper-set-12",
+        "reason": "NEED_REGENERATION",
+        "questionCount": 20,
+        "expected": 25
+      },
+      {
+        "paper": "SSC physics",
+        "setId": "ssc-physics-paper-set-13",
+        "reason": "NEED_REGENERATION",
+        "questionCount": 20,
+        "expected": 25
+      },
+      {
+        "paper": "SSC physics",
+        "setId": "ssc-physics-paper-set-14",
+        "reason": "NEED_REGENERATION",
+        "questionCount": 20,
+        "expected": 25
+      },
+      {
+        "paper": "SSC physics",
+        "setId": "ssc-physics-paper-set-15",
+        "reason": "NEED_REGENERATION",
+        "questionCount": 20,
+        "expected": 25
+      }
+    ],
+    "actionsTaken": {
+      "deletedDuplicates": 8,
+      "crossChapterRemoved": 0,
+      "boilerplateRemoved": 81,
+      "legacySplit": 1,
+      "deletedIncomplete": 1,
+      "deletedHidden": 0,
+      "setsKept": 77
+    },
+    "riskLevel": "LOW"
+  },
+  {
+    "paper": "SSC chemistry",
+    "status": "PARTIALLY FIXED",
+    "issuesFixed": [
+      "BOILERPLATE_REPEAT: Removed 12 duplicate Q in \"ssc-chemistry-paper-set-03\"",
+      "BOILERPLATE_REPEAT: Removed 12 duplicate Q in \"ssc-chemistry-paper-set-04\"",
+      "BOILERPLATE_REPEAT: Removed 12 duplicate Q in \"ssc-chemistry-paper-set-05\"",
+      "BOILERPLATE_REPEAT: Removed 12 duplicate Q in \"ssc-chemistry-paper-set-06\"",
+      "BOILERPLATE_REPEAT: Removed 12 duplicate Q in \"ssc-chemistry-paper-set-07\"",
+      "BOILERPLATE_REPEAT: Removed 12 duplicate Q in \"ssc-chemistry-paper-set-08\"",
+      "BOILERPLATE_REPEAT: Removed 12 duplicate Q in \"ssc-chemistry-paper-set-09\"",
+      "BOILERPLATE_REPEAT: Removed 12 duplicate Q in \"ssc-chemistry-paper-set-10\"",
+      "BOILERPLATE_REPEAT: Removed 12 duplicate Q in \"ssc-chemistry-paper-set-11\"",
+      "BOILERPLATE_REPEAT: Removed 12 duplicate Q in \"ssc-chemistry-paper-set-12\"",
+      "BOILERPLATE_REPEAT: Removed 12 duplicate Q in \"ssc-chemistry-paper-set-13\"",
+      "BOILERPLATE_REPEAT: Removed 12 duplicate Q in \"ssc-chemistry-paper-set-14\"",
+      "BOILERPLATE_REPEAT: Removed 12 duplicate Q in \"ssc-chemistry-paper-set-15\"",
+      "LEGACY_FORMAT: Split \"chapter-04\" (30 Q) into 2 chunk(s)",
+      "LEGACY_FORMAT: Split \"chapter-05\" (200 Q) into 8 chunk(s)",
+      "LEGACY_FORMAT: Split \"chapter-06\" (132 Q) into 6 chunk(s)",
+      "LEGACY_FORMAT: Split \"chapter-09\" (30 Q) into 2 chunk(s)",
+      "DUPLICATE_SET: Kept \"chapter-04-split-01\", removed 1 duplicate copy/copies",
+      "DUPLICATE_SET: Kept \"chapter-05-split-01\", removed 1 duplicate copy/copies",
+      "DUPLICATE_SET: Kept \"chapter-05-split-02\", removed 1 duplicate copy/copies",
+      "DUPLICATE_SET: Kept \"chapter-05-split-03\", removed 1 duplicate copy/copies",
+      "DUPLICATE_SET: Kept \"chapter-05-split-04\", removed 1 duplicate copy/copies",
+      "DUPLICATE_SET: Kept \"chapter-05-split-05\", removed 1 duplicate copy/copies",
+      "DUPLICATE_SET: Kept \"chapter-05-split-06\", removed 1 duplicate copy/copies",
+      "DUPLICATE_SET: Kept \"chapter-05-split-07\", removed 1 duplicate copy/copies",
+      "DUPLICATE_SET: Kept \"chapter-05-split-08\", removed 1 duplicate copy/copies",
+      "DUPLICATE_SET: Kept \"chapter-06-split-01\", removed 1 duplicate copy/copies",
+      "DUPLICATE_SET: Kept \"chapter-06-split-02\", removed 1 duplicate copy/copies",
+      "DUPLICATE_SET: Kept \"chapter-06-split-03\", removed 1 duplicate copy/copies",
+      "DUPLICATE_SET: Kept \"chapter-06-split-04\", removed 1 duplicate copy/copies",
+      "DUPLICATE_SET: Kept \"chapter-06-split-05\", removed 1 duplicate copy/copies",
+      "DUPLICATE_SET: Kept \"chapter-09-split-01\", removed 1 duplicate copy/copies",
+      "MISSING_DATA: Removed incomplete set \"ssc-chemistry-paper-set-03\" (13/25 Q) — NEED_REGENERATION",
+      "MISSING_DATA: Removed incomplete set \"ssc-chemistry-paper-set-04\" (13/25 Q) — NEED_REGENERATION",
+      "MISSING_DATA: Removed incomplete set \"ssc-chemistry-paper-set-05\" (13/25 Q) — NEED_REGENERATION",
+      "MISSING_DATA: Removed incomplete set \"ssc-chemistry-paper-set-06\" (13/25 Q) — NEED_REGENERATION",
+      "MISSING_DATA: Removed incomplete set \"ssc-chemistry-paper-set-07\" (13/25 Q) — NEED_REGENERATION",
+      "MISSING_DATA: Removed incomplete set \"ssc-chemistry-paper-set-08\" (13/25 Q) — NEED_REGENERATION",
+      "MISSING_DATA: Removed incomplete set \"ssc-chemistry-paper-set-09\" (13/25 Q) — NEED_REGENERATION",
+      "MISSING_DATA: Removed incomplete set \"ssc-chemistry-paper-set-10\" (13/25 Q) — NEED_REGENERATION",
+      "MISSING_DATA: Removed incomplete set \"ssc-chemistry-paper-set-11\" (13/25 Q) — NEED_REGENERATION",
+      "MISSING_DATA: Removed incomplete set \"ssc-chemistry-paper-set-12\" (13/25 Q) — NEED_REGENERATION",
+      "MISSING_DATA: Removed incomplete set \"ssc-chemistry-paper-set-13\" (13/25 Q) — NEED_REGENERATION",
+      "MISSING_DATA: Removed incomplete set \"ssc-chemistry-paper-set-14\" (13/25 Q) — NEED_REGENERATION",
+      "MISSING_DATA: Removed incomplete set \"ssc-chemistry-paper-set-15\" (13/25 Q) — NEED_REGENERATION"
+    ],
+    "remainingIssues": [],
+    "needsRegeneration": [
+      {
+        "paper": "SSC chemistry",
+        "setId": "chapter-04-split-02",
+        "reason": "LEGACY_PARTIAL_CHUNK",
+        "questionCount": 5
+      },
+      {
+        "paper": "SSC chemistry",
+        "setId": "chapter-06-split-06",
+        "reason": "LEGACY_PARTIAL_CHUNK",
+        "questionCount": 7
+      },
+      {
+        "paper": "SSC chemistry",
+        "setId": "chapter-09-split-02",
+        "reason": "LEGACY_PARTIAL_CHUNK",
+        "questionCount": 5
+      },
+      {
+        "paper": "SSC chemistry",
+        "setId": "chapter-04-split-01",
+        "reason": "DUPLICATE_OF",
+        "duplicateOf": "chapter-04-split-01",
+        "questionCount": 25
+      },
+      {
+        "paper": "SSC chemistry",
+        "setId": "chapter-05-split-01",
+        "reason": "DUPLICATE_OF",
+        "duplicateOf": "chapter-05-split-01",
+        "questionCount": 25
+      },
+      {
+        "paper": "SSC chemistry",
+        "setId": "chapter-05-split-02",
+        "reason": "DUPLICATE_OF",
+        "duplicateOf": "chapter-05-split-02",
+        "questionCount": 25
+      },
+      {
+        "paper": "SSC chemistry",
+        "setId": "chapter-05-split-03",
+        "reason": "DUPLICATE_OF",
+        "duplicateOf": "chapter-05-split-03",
+        "questionCount": 25
+      },
+      {
+        "paper": "SSC chemistry",
+        "setId": "chapter-05-split-04",
+        "reason": "DUPLICATE_OF",
+        "duplicateOf": "chapter-05-split-04",
+        "questionCount": 25
+      },
+      {
+        "paper": "SSC chemistry",
+        "setId": "chapter-05-split-05",
+        "reason": "DUPLICATE_OF",
+        "duplicateOf": "chapter-05-split-05",
+        "questionCount": 25
+      },
+      {
+        "paper": "SSC chemistry",
+        "setId": "chapter-05-split-06",
+        "reason": "DUPLICATE_OF",
+        "duplicateOf": "chapter-05-split-06",
+        "questionCount": 25
+      },
+      {
+        "paper": "SSC chemistry",
+        "setId": "chapter-05-split-07",
+        "reason": "DUPLICATE_OF",
+        "duplicateOf": "chapter-05-split-07",
+        "questionCount": 25
+      },
+      {
+        "paper": "SSC chemistry",
+        "setId": "chapter-05-split-08",
+        "reason": "DUPLICATE_OF",
+        "duplicateOf": "chapter-05-split-08",
+        "questionCount": 25
+      },
+      {
+        "paper": "SSC chemistry",
+        "setId": "chapter-06-split-01",
+        "reason": "DUPLICATE_OF",
+        "duplicateOf": "chapter-06-split-01",
+        "questionCount": 25
+      },
+      {
+        "paper": "SSC chemistry",
+        "setId": "chapter-06-split-02",
+        "reason": "DUPLICATE_OF",
+        "duplicateOf": "chapter-06-split-02",
+        "questionCount": 25
+      },
+      {
+        "paper": "SSC chemistry",
+        "setId": "chapter-06-split-03",
+        "reason": "DUPLICATE_OF",
+        "duplicateOf": "chapter-06-split-03",
+        "questionCount": 25
+      },
+      {
+        "paper": "SSC chemistry",
+        "setId": "chapter-06-split-04",
+        "reason": "DUPLICATE_OF",
+        "duplicateOf": "chapter-06-split-04",
+        "questionCount": 25
+      },
+      {
+        "paper": "SSC chemistry",
+        "setId": "chapter-06-split-05",
+        "reason": "DUPLICATE_OF",
+        "duplicateOf": "chapter-06-split-05",
+        "questionCount": 25
+      },
+      {
+        "paper": "SSC chemistry",
+        "setId": "chapter-09-split-01",
+        "reason": "DUPLICATE_OF",
+        "duplicateOf": "chapter-09-split-01",
+        "questionCount": 25
+      },
+      {
+        "paper": "SSC chemistry",
+        "setId": "ssc-chemistry-paper-set-03",
+        "reason": "INCOMPLETE_AFTER_CLEANUP",
+        "questionCount": 13,
+        "expected": 25
+      },
+      {
+        "paper": "SSC chemistry",
+        "setId": "ssc-chemistry-paper-set-04",
+        "reason": "INCOMPLETE_AFTER_CLEANUP",
+        "questionCount": 13,
+        "expected": 25
+      },
+      {
+        "paper": "SSC chemistry",
+        "setId": "ssc-chemistry-paper-set-05",
+        "reason": "INCOMPLETE_AFTER_CLEANUP",
+        "questionCount": 13,
+        "expected": 25
+      },
+      {
+        "paper": "SSC chemistry",
+        "setId": "ssc-chemistry-paper-set-06",
+        "reason": "INCOMPLETE_AFTER_CLEANUP",
+        "questionCount": 13,
+        "expected": 25
+      },
+      {
+        "paper": "SSC chemistry",
+        "setId": "ssc-chemistry-paper-set-07",
+        "reason": "INCOMPLETE_AFTER_CLEANUP",
+        "questionCount": 13,
+        "expected": 25
+      },
+      {
+        "paper": "SSC chemistry",
+        "setId": "ssc-chemistry-paper-set-08",
+        "reason": "INCOMPLETE_AFTER_CLEANUP",
+        "questionCount": 13,
+        "expected": 25
+      },
+      {
+        "paper": "SSC chemistry",
+        "setId": "ssc-chemistry-paper-set-09",
+        "reason": "INCOMPLETE_AFTER_CLEANUP",
+        "questionCount": 13,
+        "expected": 25
+      },
+      {
+        "paper": "SSC chemistry",
+        "setId": "ssc-chemistry-paper-set-10",
+        "reason": "INCOMPLETE_AFTER_CLEANUP",
+        "questionCount": 13,
+        "expected": 25
+      },
+      {
+        "paper": "SSC chemistry",
+        "setId": "ssc-chemistry-paper-set-11",
+        "reason": "INCOMPLETE_AFTER_CLEANUP",
+        "questionCount": 13,
+        "expected": 25
+      },
+      {
+        "paper": "SSC chemistry",
+        "setId": "ssc-chemistry-paper-set-12",
+        "reason": "INCOMPLETE_AFTER_CLEANUP",
+        "questionCount": 13,
+        "expected": 25
+      },
+      {
+        "paper": "SSC chemistry",
+        "setId": "ssc-chemistry-paper-set-13",
+        "reason": "INCOMPLETE_AFTER_CLEANUP",
+        "questionCount": 13,
+        "expected": 25
+      },
+      {
+        "paper": "SSC chemistry",
+        "setId": "ssc-chemistry-paper-set-14",
+        "reason": "INCOMPLETE_AFTER_CLEANUP",
+        "questionCount": 13,
+        "expected": 25
+      },
+      {
+        "paper": "SSC chemistry",
+        "setId": "ssc-chemistry-paper-set-15",
+        "reason": "INCOMPLETE_AFTER_CLEANUP",
+        "questionCount": 13,
+        "expected": 25
+      }
+    ],
+    "actionsTaken": {
+      "deletedDuplicates": 15,
+      "crossChapterRemoved": 0,
+      "boilerplateRemoved": 156,
+      "legacySplit": 18,
+      "deletedIncomplete": 16,
+      "deletedHidden": 0,
+      "setsKept": 63
+    },
+    "riskLevel": "MEDIUM"
+  },
+  {
+    "paper": "SSC biology",
+    "status": "PARTIALLY FIXED",
+    "issuesFixed": [
+      "BOILERPLATE_REPEAT: Removed 13 duplicate Q in \"ssc-biology-paper-set-06\"",
+      "BOILERPLATE_REPEAT: Removed 13 duplicate Q in \"ssc-biology-paper-set-07\"",
+      "BOILERPLATE_REPEAT: Removed 13 duplicate Q in \"ssc-biology-paper-set-08\"",
+      "BOILERPLATE_REPEAT: Removed 13 duplicate Q in \"ssc-biology-paper-set-09\"",
+      "BOILERPLATE_REPEAT: Removed 13 duplicate Q in \"ssc-biology-paper-set-10\"",
+      "BOILERPLATE_REPEAT: Removed 13 duplicate Q in \"ssc-biology-paper-set-11\"",
+      "BOILERPLATE_REPEAT: Removed 13 duplicate Q in \"ssc-biology-paper-set-12\"",
+      "BOILERPLATE_REPEAT: Removed 13 duplicate Q in \"ssc-biology-paper-set-13\"",
+      "BOILERPLATE_REPEAT: Removed 13 duplicate Q in \"ssc-biology-paper-set-14\"",
+      "BOILERPLATE_REPEAT: Removed 13 duplicate Q in \"ssc-biology-paper-set-15\"",
+      "DUPLICATE_SET: Kept \"ssc-biology-paper-set-06\", removed 9 duplicate copy/copies",
+      "MISSING_DATA: Removed incomplete set \"ssc-biology-paper-set-06\" (12/25 Q) — NEED_REGENERATION"
+    ],
+    "remainingIssues": [],
+    "needsRegeneration": [
+      {
+        "paper": "SSC biology",
+        "setId": "ssc-biology-paper-set-07",
+        "reason": "DUPLICATE_OF",
+        "duplicateOf": "ssc-biology-paper-set-06",
+        "questionCount": 12
+      },
+      {
+        "paper": "SSC biology",
+        "setId": "ssc-biology-paper-set-08",
+        "reason": "DUPLICATE_OF",
+        "duplicateOf": "ssc-biology-paper-set-06",
+        "questionCount": 12
+      },
+      {
+        "paper": "SSC biology",
+        "setId": "ssc-biology-paper-set-09",
+        "reason": "DUPLICATE_OF",
+        "duplicateOf": "ssc-biology-paper-set-06",
+        "questionCount": 12
+      },
+      {
+        "paper": "SSC biology",
+        "setId": "ssc-biology-paper-set-10",
+        "reason": "DUPLICATE_OF",
+        "duplicateOf": "ssc-biology-paper-set-06",
+        "questionCount": 12
+      },
+      {
+        "paper": "SSC biology",
+        "setId": "ssc-biology-paper-set-11",
+        "reason": "DUPLICATE_OF",
+        "duplicateOf": "ssc-biology-paper-set-06",
+        "questionCount": 12
+      },
+      {
+        "paper": "SSC biology",
+        "setId": "ssc-biology-paper-set-12",
+        "reason": "DUPLICATE_OF",
+        "duplicateOf": "ssc-biology-paper-set-06",
+        "questionCount": 12
+      },
+      {
+        "paper": "SSC biology",
+        "setId": "ssc-biology-paper-set-13",
+        "reason": "DUPLICATE_OF",
+        "duplicateOf": "ssc-biology-paper-set-06",
+        "questionCount": 12
+      },
+      {
+        "paper": "SSC biology",
+        "setId": "ssc-biology-paper-set-14",
+        "reason": "DUPLICATE_OF",
+        "duplicateOf": "ssc-biology-paper-set-06",
+        "questionCount": 12
+      },
+      {
+        "paper": "SSC biology",
+        "setId": "ssc-biology-paper-set-15",
+        "reason": "DUPLICATE_OF",
+        "duplicateOf": "ssc-biology-paper-set-06",
+        "questionCount": 12
+      },
+      {
+        "paper": "SSC biology",
+        "setId": "ssc-biology-paper-set-06",
+        "reason": "INCOMPLETE_AFTER_CLEANUP",
+        "questionCount": 12,
+        "expected": 25
+      }
+    ],
+    "actionsTaken": {
+      "deletedDuplicates": 9,
+      "crossChapterRemoved": 0,
+      "boilerplateRemoved": 130,
+      "legacySplit": 0,
+      "deletedIncomplete": 1,
+      "deletedHidden": 0,
+      "setsKept": 5
+    },
+    "riskLevel": "LOW"
+  },
+  {
+    "paper": "SSC Higher Math",
+    "status": "PARTIALLY FIXED",
+    "issuesFixed": [
+      "BOILERPLATE_REPEAT: Removed 1 duplicate Q in \"chapter-09-split-01\"",
+      "BOILERPLATE_REPEAT: Removed 6 duplicate Q in \"ssc-higher-math-paper-set-01\"",
+      "BOILERPLATE_REPEAT: Removed 6 duplicate Q in \"ssc-higher-math-paper-set-02\"",
+      "BOILERPLATE_REPEAT: Removed 6 duplicate Q in \"ssc-higher-math-paper-set-03\"",
+      "BOILERPLATE_REPEAT: Removed 6 duplicate Q in \"ssc-higher-math-paper-set-04\"",
+      "BOILERPLATE_REPEAT: Removed 6 duplicate Q in \"ssc-higher-math-paper-set-05\"",
+      "BOILERPLATE_REPEAT: Removed 6 duplicate Q in \"ssc-higher-math-paper-set-06\"",
+      "BOILERPLATE_REPEAT: Removed 6 duplicate Q in \"ssc-higher-math-paper-set-07\"",
+      "BOILERPLATE_REPEAT: Removed 6 duplicate Q in \"ssc-higher-math-paper-set-08\"",
+      "BOILERPLATE_REPEAT: Removed 6 duplicate Q in \"ssc-higher-math-paper-set-09\"",
+      "BOILERPLATE_REPEAT: Removed 6 duplicate Q in \"ssc-higher-math-paper-set-10\"",
+      "BOILERPLATE_REPEAT: Removed 6 duplicate Q in \"ssc-higher-math-paper-set-11\"",
+      "BOILERPLATE_REPEAT: Removed 6 duplicate Q in \"ssc-higher-math-paper-set-12\"",
+      "BOILERPLATE_REPEAT: Removed 6 duplicate Q in \"ssc-higher-math-paper-set-13\"",
+      "BOILERPLATE_REPEAT: Removed 6 duplicate Q in \"ssc-higher-math-paper-set-14\"",
+      "BOILERPLATE_REPEAT: Removed 6 duplicate Q in \"ssc-higher-math-paper-set-15\"",
+      "BOILERPLATE_REPEAT: Removed 4 duplicate Q in \"ssc-higher-math-chapter-02-model-test-03\"",
+      "BOILERPLATE_REPEAT: Removed 4 duplicate Q in \"ssc-higher-math-chapter-02-model-test-01\"",
+      "BOILERPLATE_REPEAT: Removed 4 duplicate Q in \"ssc-higher-math-chapter-02-model-test-02\"",
+      "BOILERPLATE_REPEAT: Removed 4 duplicate Q in \"ssc-higher-math-chapter-02-model-test-04\"",
+      "BOILERPLATE_REPEAT: Removed 4 duplicate Q in \"ssc-higher-math-chapter-02-model-test-05\"",
+      "BOILERPLATE_REPEAT: Removed 4 duplicate Q in \"ssc-higher-math-chapter-03-model-test-01\"",
+      "BOILERPLATE_REPEAT: Removed 5 duplicate Q in \"ssc-higher-math-chapter-03-model-test-02\"",
+      "BOILERPLATE_REPEAT: Removed 5 duplicate Q in \"ssc-higher-math-chapter-03-model-test-03\"",
+      "BOILERPLATE_REPEAT: Removed 4 duplicate Q in \"ssc-higher-math-chapter-03-model-test-04\"",
+      "BOILERPLATE_REPEAT: Removed 5 duplicate Q in \"ssc-higher-math-chapter-03-model-test-05\"",
+      "BOILERPLATE_REPEAT: Removed 5 duplicate Q in \"ssc-higher-math-chapter-04-model-test-01\"",
+      "BOILERPLATE_REPEAT: Removed 4 duplicate Q in \"ssc-higher-math-chapter-04-model-test-02\"",
+      "BOILERPLATE_REPEAT: Removed 4 duplicate Q in \"ssc-higher-math-chapter-04-model-test-03\"",
+      "BOILERPLATE_REPEAT: Removed 4 duplicate Q in \"ssc-higher-math-chapter-04-model-test-04\"",
+      "BOILERPLATE_REPEAT: Removed 5 duplicate Q in \"ssc-higher-math-chapter-04-model-test-05\"",
+      "BOILERPLATE_REPEAT: Removed 4 duplicate Q in \"ssc-higher-math-chapter-05-model-test-01\"",
+      "BOILERPLATE_REPEAT: Removed 5 duplicate Q in \"ssc-higher-math-chapter-05-model-test-02\"",
+      "BOILERPLATE_REPEAT: Removed 5 duplicate Q in \"ssc-higher-math-chapter-05-model-test-03\"",
+      "BOILERPLATE_REPEAT: Removed 4 duplicate Q in \"ssc-higher-math-chapter-05-model-test-04\"",
+      "BOILERPLATE_REPEAT: Removed 5 duplicate Q in \"ssc-higher-math-chapter-05-model-test-05\"",
+      "BOILERPLATE_REPEAT: Removed 3 duplicate Q in \"ssc-higher-math-chapter-06-model-test-01\"",
+      "BOILERPLATE_REPEAT: Removed 5 duplicate Q in \"ssc-higher-math-chapter-06-model-test-02\"",
+      "BOILERPLATE_REPEAT: Removed 4 duplicate Q in \"ssc-higher-math-chapter-06-model-test-03\"",
+      "BOILERPLATE_REPEAT: Removed 5 duplicate Q in \"ssc-higher-math-chapter-06-model-test-04\"",
+      "BOILERPLATE_REPEAT: Removed 5 duplicate Q in \"ssc-higher-math-chapter-06-model-test-05\"",
+      "BOILERPLATE_REPEAT: Removed 5 duplicate Q in \"ssc-higher-math-chapter-07-model-test-01\"",
+      "BOILERPLATE_REPEAT: Removed 4 duplicate Q in \"ssc-higher-math-chapter-07-model-test-02\"",
+      "BOILERPLATE_REPEAT: Removed 4 duplicate Q in \"ssc-higher-math-chapter-07-model-test-03\"",
+      "BOILERPLATE_REPEAT: Removed 5 duplicate Q in \"ssc-higher-math-chapter-07-model-test-04\"",
+      "BOILERPLATE_REPEAT: Removed 5 duplicate Q in \"ssc-higher-math-chapter-07-model-test-05\"",
+      "BOILERPLATE_REPEAT: Removed 4 duplicate Q in \"ssc-higher-math-chapter-08-model-test-01\"",
+      "BOILERPLATE_REPEAT: Removed 4 duplicate Q in \"ssc-higher-math-chapter-08-model-test-02\"",
+      "BOILERPLATE_REPEAT: Removed 5 duplicate Q in \"ssc-higher-math-chapter-08-model-test-03\"",
+      "BOILERPLATE_REPEAT: Removed 4 duplicate Q in \"ssc-higher-math-chapter-08-model-test-04\"",
+      "BOILERPLATE_REPEAT: Removed 5 duplicate Q in \"ssc-higher-math-chapter-08-model-test-05\"",
+      "BOILERPLATE_REPEAT: Removed 4 duplicate Q in \"ssc-higher-math-chapter-09-model-test-01\"",
+      "BOILERPLATE_REPEAT: Removed 5 duplicate Q in \"ssc-higher-math-chapter-09-model-test-02\"",
+      "BOILERPLATE_REPEAT: Removed 5 duplicate Q in \"ssc-higher-math-chapter-09-model-test-03\"",
+      "BOILERPLATE_REPEAT: Removed 5 duplicate Q in \"ssc-higher-math-chapter-09-model-test-04\"",
+      "BOILERPLATE_REPEAT: Removed 5 duplicate Q in \"ssc-higher-math-chapter-09-model-test-05\"",
+      "BOILERPLATE_REPEAT: Removed 5 duplicate Q in \"ssc-higher-math-chapter-12-model-test-01\"",
+      "BOILERPLATE_REPEAT: Removed 4 duplicate Q in \"ssc-higher-math-chapter-12-model-test-02\"",
+      "BOILERPLATE_REPEAT: Removed 5 duplicate Q in \"ssc-higher-math-chapter-12-model-test-03\"",
+      "BOILERPLATE_REPEAT: Removed 5 duplicate Q in \"ssc-higher-math-chapter-12-model-test-04\"",
+      "BOILERPLATE_REPEAT: Removed 5 duplicate Q in \"ssc-higher-math-chapter-12-model-test-05\"",
+      "BOILERPLATE_REPEAT: Removed 5 duplicate Q in \"ssc-higher-math-chapter-13-model-test-01\"",
+      "BOILERPLATE_REPEAT: Removed 4 duplicate Q in \"ssc-higher-math-chapter-13-model-test-02\"",
+      "BOILERPLATE_REPEAT: Removed 5 duplicate Q in \"ssc-higher-math-chapter-13-model-test-03\"",
+      "BOILERPLATE_REPEAT: Removed 5 duplicate Q in \"ssc-higher-math-chapter-13-model-test-04\"",
+      "BOILERPLATE_REPEAT: Removed 5 duplicate Q in \"ssc-higher-math-chapter-13-model-test-05\"",
+      "LEGACY_FORMAT: Split \"chapter-09\" (30 Q) into 2 chunk(s)",
+      "DUPLICATE_SET: Kept \"ssc-higher-math-chapter-10-model-test-01\", removed 1 duplicate copy/copies",
+      "DUPLICATE_SET: Kept \"ssc-higher-math-chapter-11-model-test-01\", removed 3 duplicate copy/copies",
+      "DUPLICATE_SET: Kept \"ssc-higher-math-chapter-09-model-test-01\", removed 1 duplicate copy/copies"
+    ],
+    "remainingIssues": [
+      "\"chapter-09-split-01\" has 24/25 questions after cleanup",
+      "\"ssc-higher-math-paper-set-01\" has 19/25 questions after cleanup",
+      "\"ssc-higher-math-paper-set-02\" has 19/25 questions after cleanup",
+      "\"ssc-higher-math-paper-set-03\" has 19/25 questions after cleanup",
+      "\"ssc-higher-math-paper-set-04\" has 19/25 questions after cleanup",
+      "\"ssc-higher-math-paper-set-05\" has 19/25 questions after cleanup",
+      "\"ssc-higher-math-paper-set-06\" has 19/25 questions after cleanup",
+      "\"ssc-higher-math-paper-set-07\" has 19/25 questions after cleanup",
+      "\"ssc-higher-math-paper-set-08\" has 19/25 questions after cleanup",
+      "\"ssc-higher-math-paper-set-09\" has 19/25 questions after cleanup",
+      "\"ssc-higher-math-paper-set-10\" has 19/25 questions after cleanup",
+      "\"ssc-higher-math-paper-set-11\" has 19/25 questions after cleanup",
+      "\"ssc-higher-math-paper-set-12\" has 19/25 questions after cleanup",
+      "\"ssc-higher-math-paper-set-13\" has 19/25 questions after cleanup",
+      "\"ssc-higher-math-paper-set-14\" has 19/25 questions after cleanup",
+      "\"ssc-higher-math-paper-set-15\" has 19/25 questions after cleanup",
+      "\"ssc-higher-math-chapter-02-model-test-03\" has 21/25 questions after cleanup",
+      "\"ssc-higher-math-chapter-11-model-test-02\" has 23/25 questions after cleanup",
+      "\"ssc-higher-math-chapter-11-model-test-01\" has 22/25 questions after cleanup",
+      "\"ssc-higher-math-chapter-02-model-test-01\" has 21/25 questions after cleanup",
+      "\"ssc-higher-math-chapter-02-model-test-02\" has 21/25 questions after cleanup",
+      "\"ssc-higher-math-chapter-02-model-test-04\" has 21/25 questions after cleanup",
+      "\"ssc-higher-math-chapter-02-model-test-05\" has 21/25 questions after cleanup",
+      "\"ssc-higher-math-chapter-03-model-test-01\" has 21/25 questions after cleanup",
+      "\"ssc-higher-math-chapter-03-model-test-02\" has 20/25 questions after cleanup",
+      "\"ssc-higher-math-chapter-03-model-test-03\" has 20/25 questions after cleanup",
+      "\"ssc-higher-math-chapter-03-model-test-04\" has 21/25 questions after cleanup",
+      "\"ssc-higher-math-chapter-03-model-test-05\" has 20/25 questions after cleanup",
+      "\"ssc-higher-math-chapter-04-model-test-01\" has 20/25 questions after cleanup",
+      "\"ssc-higher-math-chapter-04-model-test-02\" has 21/25 questions after cleanup",
+      "\"ssc-higher-math-chapter-09-model-test-01\" has 21/25 questions after cleanup",
+      "\"ssc-higher-math-chapter-04-model-test-04\" has 21/25 questions after cleanup",
+      "\"ssc-higher-math-chapter-04-model-test-05\" has 20/25 questions after cleanup",
+      "\"ssc-higher-math-chapter-05-model-test-01\" has 21/25 questions after cleanup",
+      "\"ssc-higher-math-chapter-05-model-test-02\" has 20/25 questions after cleanup",
+      "\"ssc-higher-math-chapter-05-model-test-03\" has 20/25 questions after cleanup",
+      "\"ssc-higher-math-chapter-05-model-test-04\" has 21/25 questions after cleanup",
+      "\"ssc-higher-math-chapter-05-model-test-05\" has 20/25 questions after cleanup",
+      "\"ssc-higher-math-chapter-06-model-test-01\" has 22/25 questions after cleanup",
+      "\"ssc-higher-math-chapter-06-model-test-02\" has 20/25 questions after cleanup",
+      "\"ssc-higher-math-chapter-06-model-test-03\" has 21/25 questions after cleanup",
+      "\"ssc-higher-math-chapter-06-model-test-04\" has 20/25 questions after cleanup",
+      "\"ssc-higher-math-chapter-06-model-test-05\" has 20/25 questions after cleanup",
+      "\"ssc-higher-math-chapter-07-model-test-01\" has 20/25 questions after cleanup",
+      "\"ssc-higher-math-chapter-07-model-test-02\" has 21/25 questions after cleanup",
+      "\"ssc-higher-math-chapter-07-model-test-03\" has 21/25 questions after cleanup",
+      "\"ssc-higher-math-chapter-07-model-test-04\" has 20/25 questions after cleanup",
+      "\"ssc-higher-math-chapter-07-model-test-05\" has 20/25 questions after cleanup",
+      "\"ssc-higher-math-chapter-08-model-test-01\" has 21/25 questions after cleanup",
+      "\"ssc-higher-math-chapter-08-model-test-02\" has 21/25 questions after cleanup",
+      "\"ssc-higher-math-chapter-08-model-test-03\" has 20/25 questions after cleanup",
+      "\"ssc-higher-math-chapter-08-model-test-04\" has 21/25 questions after cleanup",
+      "\"ssc-higher-math-chapter-08-model-test-05\" has 20/25 questions after cleanup",
+      "\"ssc-higher-math-chapter-09-model-test-02\" has 20/25 questions after cleanup",
+      "\"ssc-higher-math-chapter-09-model-test-03\" has 20/25 questions after cleanup",
+      "\"ssc-higher-math-chapter-09-model-test-04\" has 20/25 questions after cleanup",
+      "\"ssc-higher-math-chapter-09-model-test-05\" has 20/25 questions after cleanup",
+      "\"ssc-higher-math-chapter-12-model-test-01\" has 20/25 questions after cleanup",
+      "\"ssc-higher-math-chapter-12-model-test-02\" has 21/25 questions after cleanup",
+      "\"ssc-higher-math-chapter-12-model-test-03\" has 20/25 questions after cleanup",
+      "\"ssc-higher-math-chapter-12-model-test-04\" has 20/25 questions after cleanup",
+      "\"ssc-higher-math-chapter-12-model-test-05\" has 20/25 questions after cleanup",
+      "\"ssc-higher-math-chapter-13-model-test-01\" has 20/25 questions after cleanup",
+      "\"ssc-higher-math-chapter-13-model-test-02\" has 21/25 questions after cleanup",
+      "\"ssc-higher-math-chapter-13-model-test-03\" has 20/25 questions after cleanup",
+      "\"ssc-higher-math-chapter-13-model-test-04\" has 20/25 questions after cleanup",
+      "\"ssc-higher-math-chapter-13-model-test-05\" has 20/25 questions after cleanup"
+    ],
+    "needsRegeneration": [
+      {
+        "paper": "SSC Higher Math",
+        "setId": "chapter-09-split-02",
+        "reason": "LEGACY_PARTIAL_CHUNK",
+        "questionCount": 5
+      },
+      {
+        "paper": "SSC Higher Math",
+        "setId": "ssc-higher-math-chapter-10-model-test-05",
+        "reason": "DUPLICATE_OF",
+        "duplicateOf": "ssc-higher-math-chapter-10-model-test-01",
+        "questionCount": 25
+      },
+      {
+        "paper": "SSC Higher Math",
+        "setId": "ssc-higher-math-chapter-11-model-test-03",
+        "reason": "DUPLICATE_OF",
+        "duplicateOf": "ssc-higher-math-chapter-11-model-test-01",
+        "questionCount": 22
+      },
+      {
+        "paper": "SSC Higher Math",
+        "setId": "ssc-higher-math-chapter-11-model-test-04",
+        "reason": "DUPLICATE_OF",
+        "duplicateOf": "ssc-higher-math-chapter-11-model-test-01",
+        "questionCount": 22
+      },
+      {
+        "paper": "SSC Higher Math",
+        "setId": "ssc-higher-math-chapter-11-model-test-05",
+        "reason": "DUPLICATE_OF",
+        "duplicateOf": "ssc-higher-math-chapter-11-model-test-01",
+        "questionCount": 22
+      },
+      {
+        "paper": "SSC Higher Math",
+        "setId": "ssc-higher-math-chapter-04-model-test-03",
+        "reason": "DUPLICATE_OF",
+        "duplicateOf": "ssc-higher-math-chapter-09-model-test-01",
+        "questionCount": 21
+      },
+      {
+        "paper": "SSC Higher Math",
+        "setId": "chapter-09-split-01",
+        "reason": "NEED_REGENERATION",
+        "questionCount": 24,
+        "expected": 25
+      },
+      {
+        "paper": "SSC Higher Math",
+        "setId": "ssc-higher-math-paper-set-01",
+        "reason": "NEED_REGENERATION",
+        "questionCount": 19,
+        "expected": 25
+      },
+      {
+        "paper": "SSC Higher Math",
+        "setId": "ssc-higher-math-paper-set-02",
+        "reason": "NEED_REGENERATION",
+        "questionCount": 19,
+        "expected": 25
+      },
+      {
+        "paper": "SSC Higher Math",
+        "setId": "ssc-higher-math-paper-set-03",
+        "reason": "NEED_REGENERATION",
+        "questionCount": 19,
+        "expected": 25
+      },
+      {
+        "paper": "SSC Higher Math",
+        "setId": "ssc-higher-math-paper-set-04",
+        "reason": "NEED_REGENERATION",
+        "questionCount": 19,
+        "expected": 25
+      },
+      {
+        "paper": "SSC Higher Math",
+        "setId": "ssc-higher-math-paper-set-05",
+        "reason": "NEED_REGENERATION",
+        "questionCount": 19,
+        "expected": 25
+      },
+      {
+        "paper": "SSC Higher Math",
+        "setId": "ssc-higher-math-paper-set-06",
+        "reason": "NEED_REGENERATION",
+        "questionCount": 19,
+        "expected": 25
+      },
+      {
+        "paper": "SSC Higher Math",
+        "setId": "ssc-higher-math-paper-set-07",
+        "reason": "NEED_REGENERATION",
+        "questionCount": 19,
+        "expected": 25
+      },
+      {
+        "paper": "SSC Higher Math",
+        "setId": "ssc-higher-math-paper-set-08",
+        "reason": "NEED_REGENERATION",
+        "questionCount": 19,
+        "expected": 25
+      },
+      {
+        "paper": "SSC Higher Math",
+        "setId": "ssc-higher-math-paper-set-09",
+        "reason": "NEED_REGENERATION",
+        "questionCount": 19,
+        "expected": 25
+      },
+      {
+        "paper": "SSC Higher Math",
+        "setId": "ssc-higher-math-paper-set-10",
+        "reason": "NEED_REGENERATION",
+        "questionCount": 19,
+        "expected": 25
+      },
+      {
+        "paper": "SSC Higher Math",
+        "setId": "ssc-higher-math-paper-set-11",
+        "reason": "NEED_REGENERATION",
+        "questionCount": 19,
+        "expected": 25
+      },
+      {
+        "paper": "SSC Higher Math",
+        "setId": "ssc-higher-math-paper-set-12",
+        "reason": "NEED_REGENERATION",
+        "questionCount": 19,
+        "expected": 25
+      },
+      {
+        "paper": "SSC Higher Math",
+        "setId": "ssc-higher-math-paper-set-13",
+        "reason": "NEED_REGENERATION",
+        "questionCount": 19,
+        "expected": 25
+      },
+      {
+        "paper": "SSC Higher Math",
+        "setId": "ssc-higher-math-paper-set-14",
+        "reason": "NEED_REGENERATION",
+        "questionCount": 19,
+        "expected": 25
+      },
+      {
+        "paper": "SSC Higher Math",
+        "setId": "ssc-higher-math-paper-set-15",
+        "reason": "NEED_REGENERATION",
+        "questionCount": 19,
+        "expected": 25
+      },
+      {
+        "paper": "SSC Higher Math",
+        "setId": "ssc-higher-math-chapter-02-model-test-03",
+        "reason": "NEED_REGENERATION",
+        "questionCount": 21,
+        "expected": 25
+      },
+      {
+        "paper": "SSC Higher Math",
+        "setId": "ssc-higher-math-chapter-11-model-test-02",
+        "reason": "NEED_REGENERATION",
+        "questionCount": 23,
+        "expected": 25
+      },
+      {
+        "paper": "SSC Higher Math",
+        "setId": "ssc-higher-math-chapter-11-model-test-01",
+        "reason": "NEED_REGENERATION",
+        "questionCount": 22,
+        "expected": 25
+      },
+      {
+        "paper": "SSC Higher Math",
+        "setId": "ssc-higher-math-chapter-02-model-test-01",
+        "reason": "NEED_REGENERATION",
+        "questionCount": 21,
+        "expected": 25
+      },
+      {
+        "paper": "SSC Higher Math",
+        "setId": "ssc-higher-math-chapter-02-model-test-02",
+        "reason": "NEED_REGENERATION",
+        "questionCount": 21,
+        "expected": 25
+      },
+      {
+        "paper": "SSC Higher Math",
+        "setId": "ssc-higher-math-chapter-02-model-test-04",
+        "reason": "NEED_REGENERATION",
+        "questionCount": 21,
+        "expected": 25
+      },
+      {
+        "paper": "SSC Higher Math",
+        "setId": "ssc-higher-math-chapter-02-model-test-05",
+        "reason": "NEED_REGENERATION",
+        "questionCount": 21,
+        "expected": 25
+      },
+      {
+        "paper": "SSC Higher Math",
+        "setId": "ssc-higher-math-chapter-03-model-test-01",
+        "reason": "NEED_REGENERATION",
+        "questionCount": 21,
+        "expected": 25
+      },
+      {
+        "paper": "SSC Higher Math",
+        "setId": "ssc-higher-math-chapter-03-model-test-02",
+        "reason": "NEED_REGENERATION",
+        "questionCount": 20,
+        "expected": 25
+      },
+      {
+        "paper": "SSC Higher Math",
+        "setId": "ssc-higher-math-chapter-03-model-test-03",
+        "reason": "NEED_REGENERATION",
+        "questionCount": 20,
+        "expected": 25
+      },
+      {
+        "paper": "SSC Higher Math",
+        "setId": "ssc-higher-math-chapter-03-model-test-04",
+        "reason": "NEED_REGENERATION",
+        "questionCount": 21,
+        "expected": 25
+      },
+      {
+        "paper": "SSC Higher Math",
+        "setId": "ssc-higher-math-chapter-03-model-test-05",
+        "reason": "NEED_REGENERATION",
+        "questionCount": 20,
+        "expected": 25
+      },
+      {
+        "paper": "SSC Higher Math",
+        "setId": "ssc-higher-math-chapter-04-model-test-01",
+        "reason": "NEED_REGENERATION",
+        "questionCount": 20,
+        "expected": 25
+      },
+      {
+        "paper": "SSC Higher Math",
+        "setId": "ssc-higher-math-chapter-04-model-test-02",
+        "reason": "NEED_REGENERATION",
+        "questionCount": 21,
+        "expected": 25
+      },
+      {
+        "paper": "SSC Higher Math",
+        "setId": "ssc-higher-math-chapter-09-model-test-01",
+        "reason": "NEED_REGENERATION",
+        "questionCount": 21,
+        "expected": 25
+      },
+      {
+        "paper": "SSC Higher Math",
+        "setId": "ssc-higher-math-chapter-04-model-test-04",
+        "reason": "NEED_REGENERATION",
+        "questionCount": 21,
+        "expected": 25
+      },
+      {
+        "paper": "SSC Higher Math",
+        "setId": "ssc-higher-math-chapter-04-model-test-05",
+        "reason": "NEED_REGENERATION",
+        "questionCount": 20,
+        "expected": 25
+      },
+      {
+        "paper": "SSC Higher Math",
+        "setId": "ssc-higher-math-chapter-05-model-test-01",
+        "reason": "NEED_REGENERATION",
+        "questionCount": 21,
+        "expected": 25
+      },
+      {
+        "paper": "SSC Higher Math",
+        "setId": "ssc-higher-math-chapter-05-model-test-02",
+        "reason": "NEED_REGENERATION",
+        "questionCount": 20,
+        "expected": 25
+      },
+      {
+        "paper": "SSC Higher Math",
+        "setId": "ssc-higher-math-chapter-05-model-test-03",
+        "reason": "NEED_REGENERATION",
+        "questionCount": 20,
+        "expected": 25
+      },
+      {
+        "paper": "SSC Higher Math",
+        "setId": "ssc-higher-math-chapter-05-model-test-04",
+        "reason": "NEED_REGENERATION",
+        "questionCount": 21,
+        "expected": 25
+      },
+      {
+        "paper": "SSC Higher Math",
+        "setId": "ssc-higher-math-chapter-05-model-test-05",
+        "reason": "NEED_REGENERATION",
+        "questionCount": 20,
+        "expected": 25
+      },
+      {
+        "paper": "SSC Higher Math",
+        "setId": "ssc-higher-math-chapter-06-model-test-01",
+        "reason": "NEED_REGENERATION",
+        "questionCount": 22,
+        "expected": 25
+      },
+      {
+        "paper": "SSC Higher Math",
+        "setId": "ssc-higher-math-chapter-06-model-test-02",
+        "reason": "NEED_REGENERATION",
+        "questionCount": 20,
+        "expected": 25
+      },
+      {
+        "paper": "SSC Higher Math",
+        "setId": "ssc-higher-math-chapter-06-model-test-03",
+        "reason": "NEED_REGENERATION",
+        "questionCount": 21,
+        "expected": 25
+      },
+      {
+        "paper": "SSC Higher Math",
+        "setId": "ssc-higher-math-chapter-06-model-test-04",
+        "reason": "NEED_REGENERATION",
+        "questionCount": 20,
+        "expected": 25
+      },
+      {
+        "paper": "SSC Higher Math",
+        "setId": "ssc-higher-math-chapter-06-model-test-05",
+        "reason": "NEED_REGENERATION",
+        "questionCount": 20,
+        "expected": 25
+      },
+      {
+        "paper": "SSC Higher Math",
+        "setId": "ssc-higher-math-chapter-07-model-test-01",
+        "reason": "NEED_REGENERATION",
+        "questionCount": 20,
+        "expected": 25
+      },
+      {
+        "paper": "SSC Higher Math",
+        "setId": "ssc-higher-math-chapter-07-model-test-02",
+        "reason": "NEED_REGENERATION",
+        "questionCount": 21,
+        "expected": 25
+      },
+      {
+        "paper": "SSC Higher Math",
+        "setId": "ssc-higher-math-chapter-07-model-test-03",
+        "reason": "NEED_REGENERATION",
+        "questionCount": 21,
+        "expected": 25
+      },
+      {
+        "paper": "SSC Higher Math",
+        "setId": "ssc-higher-math-chapter-07-model-test-04",
+        "reason": "NEED_REGENERATION",
+        "questionCount": 20,
+        "expected": 25
+      },
+      {
+        "paper": "SSC Higher Math",
+        "setId": "ssc-higher-math-chapter-07-model-test-05",
+        "reason": "NEED_REGENERATION",
+        "questionCount": 20,
+        "expected": 25
+      },
+      {
+        "paper": "SSC Higher Math",
+        "setId": "ssc-higher-math-chapter-08-model-test-01",
+        "reason": "NEED_REGENERATION",
+        "questionCount": 21,
+        "expected": 25
+      },
+      {
+        "paper": "SSC Higher Math",
+        "setId": "ssc-higher-math-chapter-08-model-test-02",
+        "reason": "NEED_REGENERATION",
+        "questionCount": 21,
+        "expected": 25
+      },
+      {
+        "paper": "SSC Higher Math",
+        "setId": "ssc-higher-math-chapter-08-model-test-03",
+        "reason": "NEED_REGENERATION",
+        "questionCount": 20,
+        "expected": 25
+      },
+      {
+        "paper": "SSC Higher Math",
+        "setId": "ssc-higher-math-chapter-08-model-test-04",
+        "reason": "NEED_REGENERATION",
+        "questionCount": 21,
+        "expected": 25
+      },
+      {
+        "paper": "SSC Higher Math",
+        "setId": "ssc-higher-math-chapter-08-model-test-05",
+        "reason": "NEED_REGENERATION",
+        "questionCount": 20,
+        "expected": 25
+      },
+      {
+        "paper": "SSC Higher Math",
+        "setId": "ssc-higher-math-chapter-09-model-test-02",
+        "reason": "NEED_REGENERATION",
+        "questionCount": 20,
+        "expected": 25
+      },
+      {
+        "paper": "SSC Higher Math",
+        "setId": "ssc-higher-math-chapter-09-model-test-03",
+        "reason": "NEED_REGENERATION",
+        "questionCount": 20,
+        "expected": 25
+      },
+      {
+        "paper": "SSC Higher Math",
+        "setId": "ssc-higher-math-chapter-09-model-test-04",
+        "reason": "NEED_REGENERATION",
+        "questionCount": 20,
+        "expected": 25
+      },
+      {
+        "paper": "SSC Higher Math",
+        "setId": "ssc-higher-math-chapter-09-model-test-05",
+        "reason": "NEED_REGENERATION",
+        "questionCount": 20,
+        "expected": 25
+      },
+      {
+        "paper": "SSC Higher Math",
+        "setId": "ssc-higher-math-chapter-12-model-test-01",
+        "reason": "NEED_REGENERATION",
+        "questionCount": 20,
+        "expected": 25
+      },
+      {
+        "paper": "SSC Higher Math",
+        "setId": "ssc-higher-math-chapter-12-model-test-02",
+        "reason": "NEED_REGENERATION",
+        "questionCount": 21,
+        "expected": 25
+      },
+      {
+        "paper": "SSC Higher Math",
+        "setId": "ssc-higher-math-chapter-12-model-test-03",
+        "reason": "NEED_REGENERATION",
+        "questionCount": 20,
+        "expected": 25
+      },
+      {
+        "paper": "SSC Higher Math",
+        "setId": "ssc-higher-math-chapter-12-model-test-04",
+        "reason": "NEED_REGENERATION",
+        "questionCount": 20,
+        "expected": 25
+      },
+      {
+        "paper": "SSC Higher Math",
+        "setId": "ssc-higher-math-chapter-12-model-test-05",
+        "reason": "NEED_REGENERATION",
+        "questionCount": 20,
+        "expected": 25
+      },
+      {
+        "paper": "SSC Higher Math",
+        "setId": "ssc-higher-math-chapter-13-model-test-01",
+        "reason": "NEED_REGENERATION",
+        "questionCount": 20,
+        "expected": 25
+      },
+      {
+        "paper": "SSC Higher Math",
+        "setId": "ssc-higher-math-chapter-13-model-test-02",
+        "reason": "NEED_REGENERATION",
+        "questionCount": 21,
+        "expected": 25
+      },
+      {
+        "paper": "SSC Higher Math",
+        "setId": "ssc-higher-math-chapter-13-model-test-03",
+        "reason": "NEED_REGENERATION",
+        "questionCount": 20,
+        "expected": 25
+      },
+      {
+        "paper": "SSC Higher Math",
+        "setId": "ssc-higher-math-chapter-13-model-test-04",
+        "reason": "NEED_REGENERATION",
+        "questionCount": 20,
+        "expected": 25
+      },
+      {
+        "paper": "SSC Higher Math",
+        "setId": "ssc-higher-math-chapter-13-model-test-05",
+        "reason": "NEED_REGENERATION",
+        "questionCount": 20,
+        "expected": 25
+      }
+    ],
+    "actionsTaken": {
+      "deletedDuplicates": 5,
+      "crossChapterRemoved": 0,
+      "boilerplateRemoved": 318,
+      "legacySplit": 2,
+      "deletedIncomplete": 1,
+      "deletedHidden": 0,
+      "setsKept": 76
+    },
+    "riskLevel": "LOW"
+  },
+  {
+    "paper": "SSC General Math",
+    "status": "PARTIALLY FIXED",
+    "issuesFixed": [
+      "BOILERPLATE_REPEAT: Removed 6 duplicate Q in \"ssc-general-math-paper-set-15\"",
+      "LEGACY_FORMAT: Split \"chapter-01\" (76 Q) into 3 chunk(s)",
+      "LEGACY_FORMAT: Split \"chapter-13\" (1 Q) into 1 chunk(s)",
+      "DUPLICATE_SET: Kept \"chapter-01-split-01\", removed 1 duplicate copy/copies",
+      "DUPLICATE_SET: Kept \"chapter-01-split-02\", removed 1 duplicate copy/copies"
+    ],
+    "remainingIssues": [
+      "\"ssc-general-math-board-standard-model-test-06\" has 25/30 questions after cleanup",
+      "\"ssc-general-math-board-standard-model-test-07\" has 25/30 questions after cleanup",
+      "\"ssc-general-math-board-standard-model-test-08\" has 25/30 questions after cleanup",
+      "\"ssc-general-math-board-standard-model-test-09\" has 25/30 questions after cleanup",
+      "\"ssc-general-math-board-standard-model-test-10\" has 25/30 questions after cleanup",
+      "\"ssc-general-math-model-test-11\" has 22/30 questions after cleanup",
+      "\"ssc-general-math-model-test-12\" has 24/30 questions after cleanup",
+      "\"ssc-general-math-model-test-14\" has 25/30 questions after cleanup",
+      "\"ssc-general-math-model-test-15\" has 22/30 questions after cleanup",
+      "\"ssc-general-math-model-test-16\" has 23/30 questions after cleanup",
+      "\"ssc-general-math-model-test-17\" has 25/30 questions after cleanup",
+      "\"ssc-general-math-model-test-18\" has 25/30 questions after cleanup",
+      "\"ssc-general-math-model-test-19\" has 25/30 questions after cleanup",
+      "\"ssc-general-math-model-test-20\" has 25/30 questions after cleanup",
+      "\"ssc-general-math-paper-set-15\" has 19/30 questions after cleanup"
+    ],
+    "needsRegeneration": [
+      {
+        "paper": "SSC General Math",
+        "setId": "chapter-01-split-03",
+        "reason": "LEGACY_PARTIAL_CHUNK",
+        "questionCount": 16
+      },
+      {
+        "paper": "SSC General Math",
+        "setId": "chapter-13-split-01",
+        "reason": "LEGACY_PARTIAL_CHUNK",
+        "questionCount": 1
+      },
+      {
+        "paper": "SSC General Math",
+        "setId": "chapter-01-split-01",
+        "reason": "DUPLICATE_OF",
+        "duplicateOf": "chapter-01-split-01",
+        "questionCount": 30
+      },
+      {
+        "paper": "SSC General Math",
+        "setId": "chapter-01-split-02",
+        "reason": "DUPLICATE_OF",
+        "duplicateOf": "chapter-01-split-02",
+        "questionCount": 30
+      },
+      {
+        "paper": "SSC General Math",
+        "setId": "ssc-general-math-board-standard-model-test-06",
+        "reason": "NEED_REGENERATION",
+        "questionCount": 25,
+        "expected": 30
+      },
+      {
+        "paper": "SSC General Math",
+        "setId": "ssc-general-math-board-standard-model-test-07",
+        "reason": "NEED_REGENERATION",
+        "questionCount": 25,
+        "expected": 30
+      },
+      {
+        "paper": "SSC General Math",
+        "setId": "ssc-general-math-board-standard-model-test-08",
+        "reason": "NEED_REGENERATION",
+        "questionCount": 25,
+        "expected": 30
+      },
+      {
+        "paper": "SSC General Math",
+        "setId": "ssc-general-math-board-standard-model-test-09",
+        "reason": "NEED_REGENERATION",
+        "questionCount": 25,
+        "expected": 30
+      },
+      {
+        "paper": "SSC General Math",
+        "setId": "ssc-general-math-board-standard-model-test-10",
+        "reason": "NEED_REGENERATION",
+        "questionCount": 25,
+        "expected": 30
+      },
+      {
+        "paper": "SSC General Math",
+        "setId": "ssc-general-math-model-test-11",
+        "reason": "NEED_REGENERATION",
+        "questionCount": 22,
+        "expected": 30
+      },
+      {
+        "paper": "SSC General Math",
+        "setId": "ssc-general-math-model-test-12",
+        "reason": "NEED_REGENERATION",
+        "questionCount": 24,
+        "expected": 30
+      },
+      {
+        "paper": "SSC General Math",
+        "setId": "ssc-general-math-model-test-14",
+        "reason": "NEED_REGENERATION",
+        "questionCount": 25,
+        "expected": 30
+      },
+      {
+        "paper": "SSC General Math",
+        "setId": "ssc-general-math-model-test-15",
+        "reason": "NEED_REGENERATION",
+        "questionCount": 22,
+        "expected": 30
+      },
+      {
+        "paper": "SSC General Math",
+        "setId": "ssc-general-math-model-test-16",
+        "reason": "NEED_REGENERATION",
+        "questionCount": 23,
+        "expected": 30
+      },
+      {
+        "paper": "SSC General Math",
+        "setId": "ssc-general-math-model-test-17",
+        "reason": "NEED_REGENERATION",
+        "questionCount": 25,
+        "expected": 30
+      },
+      {
+        "paper": "SSC General Math",
+        "setId": "ssc-general-math-model-test-18",
+        "reason": "NEED_REGENERATION",
+        "questionCount": 25,
+        "expected": 30
+      },
+      {
+        "paper": "SSC General Math",
+        "setId": "ssc-general-math-model-test-19",
+        "reason": "NEED_REGENERATION",
+        "questionCount": 25,
+        "expected": 30
+      },
+      {
+        "paper": "SSC General Math",
+        "setId": "ssc-general-math-model-test-20",
+        "reason": "NEED_REGENERATION",
+        "questionCount": 25,
+        "expected": 30
+      },
+      {
+        "paper": "SSC General Math",
+        "setId": "ssc-general-math-paper-set-15",
+        "reason": "NEED_REGENERATION",
+        "questionCount": 19,
+        "expected": 30
+      }
+    ],
+    "actionsTaken": {
+      "deletedDuplicates": 2,
+      "crossChapterRemoved": 0,
+      "boilerplateRemoved": 6,
+      "legacySplit": 4,
+      "deletedIncomplete": 2,
+      "deletedHidden": 0,
+      "setsKept": 24
+    },
+    "riskLevel": "LOW"
+  },
+  {
+    "paper": "HSC Physics 1st Paper",
+    "status": "PARTIALLY FIXED",
+    "issuesFixed": [
+      "LEGACY_FORMAT: Split \"physicsfirstpaperch2set11-split-01-split-01-split-01-split-01-split-01-split-01-split-01-split-01-split-01-split-01-split-01-split-01\" (25 Q) into 1 chunk(s)",
+      "LEGACY_FORMAT: Split \"physicsfirstpaperfinalsets-split-01-split-01-split-01-split-01-split-01-split-01-split-01-split-01-split-01-split-01-split-01-split-01\" (25 Q) into 1 chunk(s)",
+      "LEGACY_FORMAT: Split \"physicsfirstpaperfinalsets-split-02-split-01-split-01-split-01-split-01-split-01-split-01-split-01-split-01-split-01-split-01-split-01\" (25 Q) into 1 chunk(s)",
+      "LEGACY_FORMAT: Split \"physicsfirstpapersets10and13-split-01-split-01-split-01-split-01-split-01-split-01-split-01-split-01-split-01-split-01-split-01-split-01\" (25 Q) into 1 chunk(s)",
+      "LEGACY_FORMAT: Split \"physicsfirstpapersets10and13-split-02-split-01-split-01-split-01-split-01-split-01-split-01-split-01-split-01-split-01-split-01-split-01\" (25 Q) into 1 chunk(s)",
+      "LEGACY_FORMAT: Split \"physicsfirstpapersets11and12-split-01-split-01-split-01-split-01-split-01-split-01-split-01-split-01-split-01-split-01-split-01-split-01\" (25 Q) into 1 chunk(s)",
+      "LEGACY_FORMAT: Split \"physicsfirstpapersets11and12-split-02-split-01-split-01-split-01-split-01-split-01-split-01-split-01-split-01-split-01-split-01-split-01\" (25 Q) into 1 chunk(s)",
+      "LEGACY_FORMAT: Split \"physicsfirstpapersets14to17-split-01-split-01-split-01-split-01-split-01-split-01-split-01-split-01-split-01-split-01-split-01-split-01\" (25 Q) into 1 chunk(s)",
+      "LEGACY_FORMAT: Split \"physicsfirstpapersets14to17-split-02-split-01-split-01-split-01-split-01-split-01-split-01-split-01-split-01-split-01-split-01-split-01\" (25 Q) into 1 chunk(s)",
+      "LEGACY_FORMAT: Split \"physicsfirstpapersets14to17-split-03-split-01-split-01-split-01-split-01-split-01-split-01-split-01-split-01-split-01-split-01-split-01\" (25 Q) into 1 chunk(s)",
+      "LEGACY_FORMAT: Split \"chapter-04\" (126 Q) into 6 chunk(s)",
+      "LEGACY_FORMAT: Split \"chapter-05\" (74 Q) into 3 chunk(s)",
+      "LEGACY_FORMAT: Split \"chapter-06\" (65 Q) into 3 chunk(s)",
+      "LEGACY_FORMAT: Split \"chapter-08\" (100 Q) into 4 chunk(s)",
+      "LEGACY_FORMAT: Split \"chapter-10\" (99 Q) into 4 chunk(s)",
+      "DUPLICATE_SET: Kept \"chapter-04-split-01\", removed 1 duplicate copy/copies",
+      "DUPLICATE_SET: Kept \"chapter-04-split-02\", removed 1 duplicate copy/copies",
+      "DUPLICATE_SET: Kept \"chapter-04-split-03\", removed 1 duplicate copy/copies",
+      "DUPLICATE_SET: Kept \"chapter-04-split-04\", removed 1 duplicate copy/copies",
+      "DUPLICATE_SET: Kept \"chapter-04-split-05\", removed 1 duplicate copy/copies",
+      "DUPLICATE_SET: Kept \"chapter-05-split-01\", removed 1 duplicate copy/copies",
+      "DUPLICATE_SET: Kept \"chapter-05-split-02\", removed 1 duplicate copy/copies",
+      "DUPLICATE_SET: Kept \"chapter-06-split-01\", removed 1 duplicate copy/copies",
+      "DUPLICATE_SET: Kept \"chapter-06-split-02\", removed 1 duplicate copy/copies",
+      "DUPLICATE_SET: Kept \"chapter-08-split-01\", removed 1 duplicate copy/copies",
+      "DUPLICATE_SET: Kept \"chapter-08-split-02\", removed 1 duplicate copy/copies",
+      "DUPLICATE_SET: Kept \"chapter-08-split-03\", removed 1 duplicate copy/copies",
+      "DUPLICATE_SET: Kept \"chapter-08-split-04\", removed 1 duplicate copy/copies",
+      "DUPLICATE_SET: Kept \"chapter-10-split-01\", removed 1 duplicate copy/copies",
+      "DUPLICATE_SET: Kept \"chapter-10-split-02\", removed 1 duplicate copy/copies",
+      "DUPLICATE_SET: Kept \"chapter-10-split-03\", removed 1 duplicate copy/copies"
+    ],
+    "remainingIssues": [
+      "\"super-model-set-01\" has 17/25 questions after cleanup",
+      "\"super-model-set-02\" has 21/25 questions after cleanup",
+      "\"super-model-set-03\" has 20/25 questions after cleanup",
+      "\"super-model-set-04\" has 20/25 questions after cleanup",
+      "\"super-model-set-05\" has 22/25 questions after cleanup",
+      "\"super-model-set-06\" has 23/25 questions after cleanup",
+      "\"super-model-set-07\" has 20/25 questions after cleanup",
+      "\"super-model-set-08\" has 23/25 questions after cleanup",
+      "\"super-model-set-09\" has 22/25 questions after cleanup",
+      "\"super-model-set-10\" has 24/25 questions after cleanup",
+      "\"super-model-set-15\" has 23/25 questions after cleanup",
+      "\"super-model-set-21\" has 24/25 questions after cleanup",
+      "\"hsc-physics-1st-paper-chapter-01-model-test-03\" has 19/25 questions after cleanup",
+      "\"hsc-physics-1st-paper-chapter-01-model-test-07\" has 22/25 questions after cleanup",
+      "\"hsc-physics-1st-paper-chapter-02-model-test-03\" has 24/25 questions after cleanup",
+      "\"hsc-physics-1st-paper-chapter-02-model-test-08\" has 18/25 questions after cleanup",
+      "\"hsc-physics-1st-paper-chapter-03-model-test-07\" has 24/25 questions after cleanup",
+      "\"hsc-physics-1st-paper-chapter-03-model-test-09\" has 24/25 questions after cleanup",
+      "\"hsc-physics-1st-paper-chapter-08-model-test-01\" has 20/25 questions after cleanup",
+      "\"hsc-physics-1st-paper-chapter-08-model-test-03\" has 19/25 questions after cleanup",
+      "\"hsc-physics-1st-paper-chapter-10-model-test-03\" has 24/25 questions after cleanup",
+      "\"hsc-physics-1st-paper-chapter-10-model-test-05\" has 24/25 questions after cleanup",
+      "\"hsc-physics-1st-paper-chapter-01-model-test-02\" has 24/25 questions after cleanup",
+      "\"hsc-physics-1st-paper-chapter-01-model-test-06\" has 16/25 questions after cleanup",
+      "\"hsc-physics-1st-paper-chapter-02-model-test-02\" has 24/25 questions after cleanup",
+      "\"hsc-physics-1st-paper-chapter-02-model-test-06\" has 23/25 questions after cleanup",
+      "\"hsc-physics-1st-paper-chapter-02-model-test-07\" has 21/25 questions after cleanup",
+      "\"hsc-physics-1st-paper-chapter-02-model-test-09\" has 15/25 questions after cleanup",
+      "\"hsc-physics-1st-paper-chapter-02-model-test-10\" has 17/25 questions after cleanup",
+      "\"hsc-physics-1st-paper-chapter-03-model-test-08\" has 24/25 questions after cleanup",
+      "\"hsc-physics-1st-paper-chapter-08-model-test-02\" has 19/25 questions after cleanup",
+      "\"hsc-physics-1st-paper-chapter-08-model-test-04\" has 21/25 questions after cleanup",
+      "\"hsc-physics-1st-paper-chapter-10-model-test-04\" has 24/25 questions after cleanup"
+    ],
+    "needsRegeneration": [
+      {
+        "paper": "HSC Physics 1st Paper",
+        "setId": "chapter-04-split-06",
+        "reason": "LEGACY_PARTIAL_CHUNK",
+        "questionCount": 1
+      },
+      {
+        "paper": "HSC Physics 1st Paper",
+        "setId": "chapter-05-split-03",
+        "reason": "LEGACY_PARTIAL_CHUNK",
+        "questionCount": 24
+      },
+      {
+        "paper": "HSC Physics 1st Paper",
+        "setId": "chapter-06-split-03",
+        "reason": "LEGACY_PARTIAL_CHUNK",
+        "questionCount": 15
+      },
+      {
+        "paper": "HSC Physics 1st Paper",
+        "setId": "chapter-10-split-04",
+        "reason": "LEGACY_PARTIAL_CHUNK",
+        "questionCount": 24
+      },
+      {
+        "paper": "HSC Physics 1st Paper",
+        "setId": "chapter-04-split-01",
+        "reason": "DUPLICATE_OF",
+        "duplicateOf": "chapter-04-split-01",
+        "questionCount": 25
+      },
+      {
+        "paper": "HSC Physics 1st Paper",
+        "setId": "chapter-04-split-02",
+        "reason": "DUPLICATE_OF",
+        "duplicateOf": "chapter-04-split-02",
+        "questionCount": 25
+      },
+      {
+        "paper": "HSC Physics 1st Paper",
+        "setId": "chapter-04-split-03",
+        "reason": "DUPLICATE_OF",
+        "duplicateOf": "chapter-04-split-03",
+        "questionCount": 25
+      },
+      {
+        "paper": "HSC Physics 1st Paper",
+        "setId": "chapter-04-split-04",
+        "reason": "DUPLICATE_OF",
+        "duplicateOf": "chapter-04-split-04",
+        "questionCount": 25
+      },
+      {
+        "paper": "HSC Physics 1st Paper",
+        "setId": "chapter-04-split-05",
+        "reason": "DUPLICATE_OF",
+        "duplicateOf": "chapter-04-split-05",
+        "questionCount": 25
+      },
+      {
+        "paper": "HSC Physics 1st Paper",
+        "setId": "chapter-05-split-01",
+        "reason": "DUPLICATE_OF",
+        "duplicateOf": "chapter-05-split-01",
+        "questionCount": 25
+      },
+      {
+        "paper": "HSC Physics 1st Paper",
+        "setId": "chapter-05-split-02",
+        "reason": "DUPLICATE_OF",
+        "duplicateOf": "chapter-05-split-02",
+        "questionCount": 25
+      },
+      {
+        "paper": "HSC Physics 1st Paper",
+        "setId": "chapter-06-split-01",
+        "reason": "DUPLICATE_OF",
+        "duplicateOf": "chapter-06-split-01",
+        "questionCount": 25
+      },
+      {
+        "paper": "HSC Physics 1st Paper",
+        "setId": "chapter-06-split-02",
+        "reason": "DUPLICATE_OF",
+        "duplicateOf": "chapter-06-split-02",
+        "questionCount": 25
+      },
+      {
+        "paper": "HSC Physics 1st Paper",
+        "setId": "chapter-08-split-01",
+        "reason": "DUPLICATE_OF",
+        "duplicateOf": "chapter-08-split-01",
+        "questionCount": 25
+      },
+      {
+        "paper": "HSC Physics 1st Paper",
+        "setId": "chapter-08-split-02",
+        "reason": "DUPLICATE_OF",
+        "duplicateOf": "chapter-08-split-02",
+        "questionCount": 25
+      },
+      {
+        "paper": "HSC Physics 1st Paper",
+        "setId": "chapter-08-split-03",
+        "reason": "DUPLICATE_OF",
+        "duplicateOf": "chapter-08-split-03",
+        "questionCount": 25
+      },
+      {
+        "paper": "HSC Physics 1st Paper",
+        "setId": "chapter-08-split-04",
+        "reason": "DUPLICATE_OF",
+        "duplicateOf": "chapter-08-split-04",
+        "questionCount": 25
+      },
+      {
+        "paper": "HSC Physics 1st Paper",
+        "setId": "chapter-10-split-01",
+        "reason": "DUPLICATE_OF",
+        "duplicateOf": "chapter-10-split-01",
+        "questionCount": 25
+      },
+      {
+        "paper": "HSC Physics 1st Paper",
+        "setId": "chapter-10-split-02",
+        "reason": "DUPLICATE_OF",
+        "duplicateOf": "chapter-10-split-02",
+        "questionCount": 25
+      },
+      {
+        "paper": "HSC Physics 1st Paper",
+        "setId": "chapter-10-split-03",
+        "reason": "DUPLICATE_OF",
+        "duplicateOf": "chapter-10-split-03",
+        "questionCount": 25
+      },
+      {
+        "paper": "HSC Physics 1st Paper",
+        "setId": "super-model-set-01",
+        "reason": "NEED_REGENERATION",
+        "questionCount": 17,
+        "expected": 25
+      },
+      {
+        "paper": "HSC Physics 1st Paper",
+        "setId": "super-model-set-02",
+        "reason": "NEED_REGENERATION",
+        "questionCount": 21,
+        "expected": 25
+      },
+      {
+        "paper": "HSC Physics 1st Paper",
+        "setId": "super-model-set-03",
+        "reason": "NEED_REGENERATION",
+        "questionCount": 20,
+        "expected": 25
+      },
+      {
+        "paper": "HSC Physics 1st Paper",
+        "setId": "super-model-set-04",
+        "reason": "NEED_REGENERATION",
+        "questionCount": 20,
+        "expected": 25
+      },
+      {
+        "paper": "HSC Physics 1st Paper",
+        "setId": "super-model-set-05",
+        "reason": "NEED_REGENERATION",
+        "questionCount": 22,
+        "expected": 25
+      },
+      {
+        "paper": "HSC Physics 1st Paper",
+        "setId": "super-model-set-06",
+        "reason": "NEED_REGENERATION",
+        "questionCount": 23,
+        "expected": 25
+      },
+      {
+        "paper": "HSC Physics 1st Paper",
+        "setId": "super-model-set-07",
+        "reason": "NEED_REGENERATION",
+        "questionCount": 20,
+        "expected": 25
+      },
+      {
+        "paper": "HSC Physics 1st Paper",
+        "setId": "super-model-set-08",
+        "reason": "NEED_REGENERATION",
+        "questionCount": 23,
+        "expected": 25
+      },
+      {
+        "paper": "HSC Physics 1st Paper",
+        "setId": "super-model-set-09",
+        "reason": "NEED_REGENERATION",
+        "questionCount": 22,
+        "expected": 25
+      },
+      {
+        "paper": "HSC Physics 1st Paper",
+        "setId": "super-model-set-10",
+        "reason": "NEED_REGENERATION",
+        "questionCount": 24,
+        "expected": 25
+      },
+      {
+        "paper": "HSC Physics 1st Paper",
+        "setId": "super-model-set-15",
+        "reason": "NEED_REGENERATION",
+        "questionCount": 23,
+        "expected": 25
+      },
+      {
+        "paper": "HSC Physics 1st Paper",
+        "setId": "super-model-set-21",
+        "reason": "NEED_REGENERATION",
+        "questionCount": 24,
+        "expected": 25
+      },
+      {
+        "paper": "HSC Physics 1st Paper",
+        "setId": "hsc-physics-1st-paper-chapter-01-model-test-03",
+        "reason": "NEED_REGENERATION",
+        "questionCount": 19,
+        "expected": 25
+      },
+      {
+        "paper": "HSC Physics 1st Paper",
+        "setId": "hsc-physics-1st-paper-chapter-01-model-test-07",
+        "reason": "NEED_REGENERATION",
+        "questionCount": 22,
+        "expected": 25
+      },
+      {
+        "paper": "HSC Physics 1st Paper",
+        "setId": "hsc-physics-1st-paper-chapter-02-model-test-03",
+        "reason": "NEED_REGENERATION",
+        "questionCount": 24,
+        "expected": 25
+      },
+      {
+        "paper": "HSC Physics 1st Paper",
+        "setId": "hsc-physics-1st-paper-chapter-02-model-test-08",
+        "reason": "NEED_REGENERATION",
+        "questionCount": 18,
+        "expected": 25
+      },
+      {
+        "paper": "HSC Physics 1st Paper",
+        "setId": "hsc-physics-1st-paper-chapter-03-model-test-07",
+        "reason": "NEED_REGENERATION",
+        "questionCount": 24,
+        "expected": 25
+      },
+      {
+        "paper": "HSC Physics 1st Paper",
+        "setId": "hsc-physics-1st-paper-chapter-03-model-test-09",
+        "reason": "NEED_REGENERATION",
+        "questionCount": 24,
+        "expected": 25
+      },
+      {
+        "paper": "HSC Physics 1st Paper",
+        "setId": "hsc-physics-1st-paper-chapter-08-model-test-01",
+        "reason": "NEED_REGENERATION",
+        "questionCount": 20,
+        "expected": 25
+      },
+      {
+        "paper": "HSC Physics 1st Paper",
+        "setId": "hsc-physics-1st-paper-chapter-08-model-test-03",
+        "reason": "NEED_REGENERATION",
+        "questionCount": 19,
+        "expected": 25
+      },
+      {
+        "paper": "HSC Physics 1st Paper",
+        "setId": "hsc-physics-1st-paper-chapter-10-model-test-03",
+        "reason": "NEED_REGENERATION",
+        "questionCount": 24,
+        "expected": 25
+      },
+      {
+        "paper": "HSC Physics 1st Paper",
+        "setId": "hsc-physics-1st-paper-chapter-10-model-test-05",
+        "reason": "NEED_REGENERATION",
+        "questionCount": 24,
+        "expected": 25
+      },
+      {
+        "paper": "HSC Physics 1st Paper",
+        "setId": "hsc-physics-1st-paper-chapter-01-model-test-02",
+        "reason": "NEED_REGENERATION",
+        "questionCount": 24,
+        "expected": 25
+      },
+      {
+        "paper": "HSC Physics 1st Paper",
+        "setId": "hsc-physics-1st-paper-chapter-01-model-test-06",
+        "reason": "NEED_REGENERATION",
+        "questionCount": 16,
+        "expected": 25
+      },
+      {
+        "paper": "HSC Physics 1st Paper",
+        "setId": "hsc-physics-1st-paper-chapter-02-model-test-02",
+        "reason": "NEED_REGENERATION",
+        "questionCount": 24,
+        "expected": 25
+      },
+      {
+        "paper": "HSC Physics 1st Paper",
+        "setId": "hsc-physics-1st-paper-chapter-02-model-test-06",
+        "reason": "NEED_REGENERATION",
+        "questionCount": 23,
+        "expected": 25
+      },
+      {
+        "paper": "HSC Physics 1st Paper",
+        "setId": "hsc-physics-1st-paper-chapter-02-model-test-07",
+        "reason": "NEED_REGENERATION",
+        "questionCount": 21,
+        "expected": 25
+      },
+      {
+        "paper": "HSC Physics 1st Paper",
+        "setId": "hsc-physics-1st-paper-chapter-02-model-test-09",
+        "reason": "NEED_REGENERATION",
+        "questionCount": 15,
+        "expected": 25
+      },
+      {
+        "paper": "HSC Physics 1st Paper",
+        "setId": "hsc-physics-1st-paper-chapter-02-model-test-10",
+        "reason": "NEED_REGENERATION",
+        "questionCount": 17,
+        "expected": 25
+      },
+      {
+        "paper": "HSC Physics 1st Paper",
+        "setId": "hsc-physics-1st-paper-chapter-03-model-test-08",
+        "reason": "NEED_REGENERATION",
+        "questionCount": 24,
+        "expected": 25
+      },
+      {
+        "paper": "HSC Physics 1st Paper",
+        "setId": "hsc-physics-1st-paper-chapter-08-model-test-02",
+        "reason": "NEED_REGENERATION",
+        "questionCount": 19,
+        "expected": 25
+      },
+      {
+        "paper": "HSC Physics 1st Paper",
+        "setId": "hsc-physics-1st-paper-chapter-08-model-test-04",
+        "reason": "NEED_REGENERATION",
+        "questionCount": 21,
+        "expected": 25
+      },
+      {
+        "paper": "HSC Physics 1st Paper",
+        "setId": "hsc-physics-1st-paper-chapter-10-model-test-04",
+        "reason": "NEED_REGENERATION",
+        "questionCount": 24,
+        "expected": 25
+      }
+    ],
+    "actionsTaken": {
+      "deletedDuplicates": 16,
+      "crossChapterRemoved": 0,
+      "boilerplateRemoved": 0,
+      "legacySplit": 30,
+      "deletedIncomplete": 4,
+      "deletedHidden": 0,
+      "setsKept": 151
+    },
+    "riskLevel": "LOW"
+  },
+  {
+    "paper": "HSC Physics 2nd Paper",
+    "status": "PARTIALLY FIXED",
+    "issuesFixed": [
+      "BOILERPLATE_REPEAT: Removed 5 duplicate Q in \"hsc-physics-2nd-paper-set-11\"",
+      "BOILERPLATE_REPEAT: Removed 5 duplicate Q in \"hsc-physics-2nd-paper-set-12\"",
+      "BOILERPLATE_REPEAT: Removed 5 duplicate Q in \"hsc-physics-2nd-paper-set-13\"",
+      "BOILERPLATE_REPEAT: Removed 5 duplicate Q in \"hsc-physics-2nd-paper-set-14\"",
+      "BOILERPLATE_REPEAT: Removed 5 duplicate Q in \"hsc-physics-2nd-paper-set-15\""
+    ],
+    "remainingIssues": [
+      "\"hsc-physics-2nd-paper-chapter-02-model-test-01\" has 22/25 questions after cleanup",
+      "\"hsc-physics-2nd-paper-chapter-04-model-test-02\" has 21/25 questions after cleanup",
+      "\"hsc-physics-2nd-paper-chapter-04-model-test-07\" has 19/25 questions after cleanup",
+      "\"hsc-physics-2nd-paper-chapter-04-model-test-09\" has 19/25 questions after cleanup",
+      "\"hsc-physics-2nd-paper-chapter-06-model-test-10\" has 23/25 questions after cleanup",
+      "\"hsc-physics-2nd-paper-chapter-01-model-test-06\" has 21/25 questions after cleanup",
+      "\"hsc-physics-2nd-paper-chapter-01-model-test-08\" has 19/25 questions after cleanup",
+      "\"hsc-physics-2nd-paper-chapter-01-model-test-09\" has 19/25 questions after cleanup",
+      "\"hsc-physics-2nd-paper-chapter-02-model-test-02\" has 22/25 questions after cleanup",
+      "\"hsc-physics-2nd-paper-chapter-02-model-test-03\" has 20/25 questions after cleanup",
+      "\"hsc-physics-2nd-paper-chapter-02-model-test-04\" has 22/25 questions after cleanup",
+      "\"hsc-physics-2nd-paper-chapter-02-model-test-05\" has 22/25 questions after cleanup",
+      "\"hsc-physics-2nd-paper-chapter-02-model-test-06\" has 22/25 questions after cleanup",
+      "\"hsc-physics-2nd-paper-chapter-02-model-test-07\" has 20/25 questions after cleanup",
+      "\"hsc-physics-2nd-paper-chapter-02-model-test-08\" has 20/25 questions after cleanup",
+      "\"hsc-physics-2nd-paper-chapter-02-model-test-09\" has 19/25 questions after cleanup",
+      "\"hsc-physics-2nd-paper-chapter-02-model-test-10\" has 22/25 questions after cleanup",
+      "\"hsc-physics-2nd-paper-chapter-04-model-test-03\" has 21/25 questions after cleanup",
+      "\"hsc-physics-2nd-paper-chapter-04-model-test-06\" has 22/25 questions after cleanup",
+      "\"hsc-physics-2nd-paper-chapter-04-model-test-08\" has 20/25 questions after cleanup",
+      "\"hsc-physics-2nd-paper-chapter-04-model-test-10\" has 23/25 questions after cleanup",
+      "\"hsc-physics-2nd-paper-chapter-05-model-test-02\" has 23/25 questions after cleanup",
+      "\"hsc-physics-2nd-paper-chapter-05-model-test-03\" has 21/25 questions after cleanup",
+      "\"hsc-physics-2nd-paper-chapter-05-model-test-06\" has 23/25 questions after cleanup",
+      "\"hsc-physics-2nd-paper-chapter-05-model-test-07\" has 19/25 questions after cleanup",
+      "\"hsc-physics-2nd-paper-chapter-05-model-test-08\" has 20/25 questions after cleanup",
+      "\"hsc-physics-2nd-paper-chapter-05-model-test-09\" has 19/25 questions after cleanup",
+      "\"hsc-physics-2nd-paper-chapter-05-model-test-10\" has 23/25 questions after cleanup",
+      "\"hsc-physics-2nd-paper-chapter-06-model-test-01\" has 24/25 questions after cleanup",
+      "\"hsc-physics-2nd-paper-chapter-06-model-test-02\" has 20/25 questions after cleanup",
+      "\"hsc-physics-2nd-paper-chapter-06-model-test-03\" has 21/25 questions after cleanup",
+      "\"hsc-physics-2nd-paper-chapter-06-model-test-06\" has 21/25 questions after cleanup",
+      "\"hsc-physics-2nd-paper-chapter-06-model-test-07\" has 19/25 questions after cleanup",
+      "\"hsc-physics-2nd-paper-chapter-06-model-test-08\" has 19/25 questions after cleanup",
+      "\"hsc-physics-2nd-paper-chapter-06-model-test-09\" has 19/25 questions after cleanup",
+      "\"hsc-physics-2nd-paper-chapter-07-model-test-02\" has 22/25 questions after cleanup",
+      "\"hsc-physics-2nd-paper-chapter-07-model-test-03\" has 21/25 questions after cleanup",
+      "\"hsc-physics-2nd-paper-chapter-07-model-test-06\" has 23/25 questions after cleanup",
+      "\"hsc-physics-2nd-paper-chapter-07-model-test-07\" has 19/25 questions after cleanup",
+      "\"hsc-physics-2nd-paper-chapter-07-model-test-08\" has 20/25 questions after cleanup",
+      "\"hsc-physics-2nd-paper-chapter-07-model-test-09\" has 19/25 questions after cleanup",
+      "\"hsc-physics-2nd-paper-chapter-07-model-test-10\" has 23/25 questions after cleanup",
+      "\"hsc-physics-2nd-paper-chapter-08-model-test-01\" has 23/25 questions after cleanup",
+      "\"hsc-physics-2nd-paper-chapter-08-model-test-02\" has 20/25 questions after cleanup",
+      "\"hsc-physics-2nd-paper-chapter-08-model-test-03\" has 21/25 questions after cleanup",
+      "\"hsc-physics-2nd-paper-chapter-08-model-test-06\" has 20/25 questions after cleanup",
+      "\"hsc-physics-2nd-paper-chapter-08-model-test-07\" has 18/25 questions after cleanup",
+      "\"hsc-physics-2nd-paper-chapter-08-model-test-08\" has 18/25 questions after cleanup",
+      "\"hsc-physics-2nd-paper-chapter-08-model-test-09\" has 19/25 questions after cleanup",
+      "\"hsc-physics-2nd-paper-chapter-08-model-test-10\" has 23/25 questions after cleanup",
+      "\"hsc-physics-2nd-paper-chapter-09-model-test-02\" has 20/25 questions after cleanup",
+      "\"hsc-physics-2nd-paper-chapter-09-model-test-03\" has 21/25 questions after cleanup",
+      "\"hsc-physics-2nd-paper-chapter-09-model-test-06\" has 22/25 questions after cleanup",
+      "\"hsc-physics-2nd-paper-chapter-09-model-test-07\" has 19/25 questions after cleanup",
+      "\"hsc-physics-2nd-paper-chapter-09-model-test-08\" has 20/25 questions after cleanup",
+      "\"hsc-physics-2nd-paper-chapter-09-model-test-09\" has 19/25 questions after cleanup",
+      "\"hsc-physics-2nd-paper-chapter-09-model-test-10\" has 23/25 questions after cleanup",
+      "\"hsc-physics-2nd-paper-chapter-10-model-test-02\" has 22/25 questions after cleanup",
+      "\"hsc-physics-2nd-paper-chapter-10-model-test-03\" has 21/25 questions after cleanup",
+      "\"hsc-physics-2nd-paper-chapter-10-model-test-06\" has 23/25 questions after cleanup",
+      "\"hsc-physics-2nd-paper-chapter-10-model-test-07\" has 19/25 questions after cleanup",
+      "\"hsc-physics-2nd-paper-chapter-10-model-test-08\" has 20/25 questions after cleanup",
+      "\"hsc-physics-2nd-paper-chapter-10-model-test-09\" has 19/25 questions after cleanup",
+      "\"hsc-physics-2nd-paper-chapter-10-model-test-10\" has 23/25 questions after cleanup",
+      "\"hsc-physics-2nd-paper-set-11\" has 20/25 questions after cleanup",
+      "\"hsc-physics-2nd-paper-set-12\" has 20/25 questions after cleanup",
+      "\"hsc-physics-2nd-paper-set-13\" has 20/25 questions after cleanup",
+      "\"hsc-physics-2nd-paper-set-14\" has 20/25 questions after cleanup",
+      "\"hsc-physics-2nd-paper-set-15\" has 20/25 questions after cleanup"
+    ],
+    "needsRegeneration": [
+      {
+        "paper": "HSC Physics 2nd Paper",
+        "setId": "hsc-physics-2nd-paper-chapter-02-model-test-01",
+        "reason": "NEED_REGENERATION",
+        "questionCount": 22,
+        "expected": 25
+      },
+      {
+        "paper": "HSC Physics 2nd Paper",
+        "setId": "hsc-physics-2nd-paper-chapter-04-model-test-02",
+        "reason": "NEED_REGENERATION",
+        "questionCount": 21,
+        "expected": 25
+      },
+      {
+        "paper": "HSC Physics 2nd Paper",
+        "setId": "hsc-physics-2nd-paper-chapter-04-model-test-07",
+        "reason": "NEED_REGENERATION",
+        "questionCount": 19,
+        "expected": 25
+      },
+      {
+        "paper": "HSC Physics 2nd Paper",
+        "setId": "hsc-physics-2nd-paper-chapter-04-model-test-09",
+        "reason": "NEED_REGENERATION",
+        "questionCount": 19,
+        "expected": 25
+      },
+      {
+        "paper": "HSC Physics 2nd Paper",
+        "setId": "hsc-physics-2nd-paper-chapter-06-model-test-10",
+        "reason": "NEED_REGENERATION",
+        "questionCount": 23,
+        "expected": 25
+      },
+      {
+        "paper": "HSC Physics 2nd Paper",
+        "setId": "hsc-physics-2nd-paper-chapter-01-model-test-06",
+        "reason": "NEED_REGENERATION",
+        "questionCount": 21,
+        "expected": 25
+      },
+      {
+        "paper": "HSC Physics 2nd Paper",
+        "setId": "hsc-physics-2nd-paper-chapter-01-model-test-08",
+        "reason": "NEED_REGENERATION",
+        "questionCount": 19,
+        "expected": 25
+      },
+      {
+        "paper": "HSC Physics 2nd Paper",
+        "setId": "hsc-physics-2nd-paper-chapter-01-model-test-09",
+        "reason": "NEED_REGENERATION",
+        "questionCount": 19,
+        "expected": 25
+      },
+      {
+        "paper": "HSC Physics 2nd Paper",
+        "setId": "hsc-physics-2nd-paper-chapter-02-model-test-02",
+        "reason": "NEED_REGENERATION",
+        "questionCount": 22,
+        "expected": 25
+      },
+      {
+        "paper": "HSC Physics 2nd Paper",
+        "setId": "hsc-physics-2nd-paper-chapter-02-model-test-03",
+        "reason": "NEED_REGENERATION",
+        "questionCount": 20,
+        "expected": 25
+      },
+      {
+        "paper": "HSC Physics 2nd Paper",
+        "setId": "hsc-physics-2nd-paper-chapter-02-model-test-04",
+        "reason": "NEED_REGENERATION",
+        "questionCount": 22,
+        "expected": 25
+      },
+      {
+        "paper": "HSC Physics 2nd Paper",
+        "setId": "hsc-physics-2nd-paper-chapter-02-model-test-05",
+        "reason": "NEED_REGENERATION",
+        "questionCount": 22,
+        "expected": 25
+      },
+      {
+        "paper": "HSC Physics 2nd Paper",
+        "setId": "hsc-physics-2nd-paper-chapter-02-model-test-06",
+        "reason": "NEED_REGENERATION",
+        "questionCount": 22,
+        "expected": 25
+      },
+      {
+        "paper": "HSC Physics 2nd Paper",
+        "setId": "hsc-physics-2nd-paper-chapter-02-model-test-07",
+        "reason": "NEED_REGENERATION",
+        "questionCount": 20,
+        "expected": 25
+      },
+      {
+        "paper": "HSC Physics 2nd Paper",
+        "setId": "hsc-physics-2nd-paper-chapter-02-model-test-08",
+        "reason": "NEED_REGENERATION",
+        "questionCount": 20,
+        "expected": 25
+      },
+      {
+        "paper": "HSC Physics 2nd Paper",
+        "setId": "hsc-physics-2nd-paper-chapter-02-model-test-09",
+        "reason": "NEED_REGENERATION",
+        "questionCount": 19,
+        "expected": 25
+      },
+      {
+        "paper": "HSC Physics 2nd Paper",
+        "setId": "hsc-physics-2nd-paper-chapter-02-model-test-10",
+        "reason": "NEED_REGENERATION",
+        "questionCount": 22,
+        "expected": 25
+      },
+      {
+        "paper": "HSC Physics 2nd Paper",
+        "setId": "hsc-physics-2nd-paper-chapter-04-model-test-03",
+        "reason": "NEED_REGENERATION",
+        "questionCount": 21,
+        "expected": 25
+      },
+      {
+        "paper": "HSC Physics 2nd Paper",
+        "setId": "hsc-physics-2nd-paper-chapter-04-model-test-06",
+        "reason": "NEED_REGENERATION",
+        "questionCount": 22,
+        "expected": 25
+      },
+      {
+        "paper": "HSC Physics 2nd Paper",
+        "setId": "hsc-physics-2nd-paper-chapter-04-model-test-08",
+        "reason": "NEED_REGENERATION",
+        "questionCount": 20,
+        "expected": 25
+      },
+      {
+        "paper": "HSC Physics 2nd Paper",
+        "setId": "hsc-physics-2nd-paper-chapter-04-model-test-10",
+        "reason": "NEED_REGENERATION",
+        "questionCount": 23,
+        "expected": 25
+      },
+      {
+        "paper": "HSC Physics 2nd Paper",
+        "setId": "hsc-physics-2nd-paper-chapter-05-model-test-02",
+        "reason": "NEED_REGENERATION",
+        "questionCount": 23,
+        "expected": 25
+      },
+      {
+        "paper": "HSC Physics 2nd Paper",
+        "setId": "hsc-physics-2nd-paper-chapter-05-model-test-03",
+        "reason": "NEED_REGENERATION",
+        "questionCount": 21,
+        "expected": 25
+      },
+      {
+        "paper": "HSC Physics 2nd Paper",
+        "setId": "hsc-physics-2nd-paper-chapter-05-model-test-06",
+        "reason": "NEED_REGENERATION",
+        "questionCount": 23,
+        "expected": 25
+      },
+      {
+        "paper": "HSC Physics 2nd Paper",
+        "setId": "hsc-physics-2nd-paper-chapter-05-model-test-07",
+        "reason": "NEED_REGENERATION",
+        "questionCount": 19,
+        "expected": 25
+      },
+      {
+        "paper": "HSC Physics 2nd Paper",
+        "setId": "hsc-physics-2nd-paper-chapter-05-model-test-08",
+        "reason": "NEED_REGENERATION",
+        "questionCount": 20,
+        "expected": 25
+      },
+      {
+        "paper": "HSC Physics 2nd Paper",
+        "setId": "hsc-physics-2nd-paper-chapter-05-model-test-09",
+        "reason": "NEED_REGENERATION",
+        "questionCount": 19,
+        "expected": 25
+      },
+      {
+        "paper": "HSC Physics 2nd Paper",
+        "setId": "hsc-physics-2nd-paper-chapter-05-model-test-10",
+        "reason": "NEED_REGENERATION",
+        "questionCount": 23,
+        "expected": 25
+      },
+      {
+        "paper": "HSC Physics 2nd Paper",
+        "setId": "hsc-physics-2nd-paper-chapter-06-model-test-01",
+        "reason": "NEED_REGENERATION",
+        "questionCount": 24,
+        "expected": 25
+      },
+      {
+        "paper": "HSC Physics 2nd Paper",
+        "setId": "hsc-physics-2nd-paper-chapter-06-model-test-02",
+        "reason": "NEED_REGENERATION",
+        "questionCount": 20,
+        "expected": 25
+      },
+      {
+        "paper": "HSC Physics 2nd Paper",
+        "setId": "hsc-physics-2nd-paper-chapter-06-model-test-03",
+        "reason": "NEED_REGENERATION",
+        "questionCount": 21,
+        "expected": 25
+      },
+      {
+        "paper": "HSC Physics 2nd Paper",
+        "setId": "hsc-physics-2nd-paper-chapter-06-model-test-06",
+        "reason": "NEED_REGENERATION",
+        "questionCount": 21,
+        "expected": 25
+      },
+      {
+        "paper": "HSC Physics 2nd Paper",
+        "setId": "hsc-physics-2nd-paper-chapter-06-model-test-07",
+        "reason": "NEED_REGENERATION",
+        "questionCount": 19,
+        "expected": 25
+      },
+      {
+        "paper": "HSC Physics 2nd Paper",
+        "setId": "hsc-physics-2nd-paper-chapter-06-model-test-08",
+        "reason": "NEED_REGENERATION",
+        "questionCount": 19,
+        "expected": 25
+      },
+      {
+        "paper": "HSC Physics 2nd Paper",
+        "setId": "hsc-physics-2nd-paper-chapter-06-model-test-09",
+        "reason": "NEED_REGENERATION",
+        "questionCount": 19,
+        "expected": 25
+      },
+      {
+        "paper": "HSC Physics 2nd Paper",
+        "setId": "hsc-physics-2nd-paper-chapter-07-model-test-02",
+        "reason": "NEED_REGENERATION",
+        "questionCount": 22,
+        "expected": 25
+      },
+      {
+        "paper": "HSC Physics 2nd Paper",
+        "setId": "hsc-physics-2nd-paper-chapter-07-model-test-03",
+        "reason": "NEED_REGENERATION",
+        "questionCount": 21,
+        "expected": 25
+      },
+      {
+        "paper": "HSC Physics 2nd Paper",
+        "setId": "hsc-physics-2nd-paper-chapter-07-model-test-06",
+        "reason": "NEED_REGENERATION",
+        "questionCount": 23,
+        "expected": 25
+      },
+      {
+        "paper": "HSC Physics 2nd Paper",
+        "setId": "hsc-physics-2nd-paper-chapter-07-model-test-07",
+        "reason": "NEED_REGENERATION",
+        "questionCount": 19,
+        "expected": 25
+      },
+      {
+        "paper": "HSC Physics 2nd Paper",
+        "setId": "hsc-physics-2nd-paper-chapter-07-model-test-08",
+        "reason": "NEED_REGENERATION",
+        "questionCount": 20,
+        "expected": 25
+      },
+      {
+        "paper": "HSC Physics 2nd Paper",
+        "setId": "hsc-physics-2nd-paper-chapter-07-model-test-09",
+        "reason": "NEED_REGENERATION",
+        "questionCount": 19,
+        "expected": 25
+      },
+      {
+        "paper": "HSC Physics 2nd Paper",
+        "setId": "hsc-physics-2nd-paper-chapter-07-model-test-10",
+        "reason": "NEED_REGENERATION",
+        "questionCount": 23,
+        "expected": 25
+      },
+      {
+        "paper": "HSC Physics 2nd Paper",
+        "setId": "hsc-physics-2nd-paper-chapter-08-model-test-01",
+        "reason": "NEED_REGENERATION",
+        "questionCount": 23,
+        "expected": 25
+      },
+      {
+        "paper": "HSC Physics 2nd Paper",
+        "setId": "hsc-physics-2nd-paper-chapter-08-model-test-02",
+        "reason": "NEED_REGENERATION",
+        "questionCount": 20,
+        "expected": 25
+      },
+      {
+        "paper": "HSC Physics 2nd Paper",
+        "setId": "hsc-physics-2nd-paper-chapter-08-model-test-03",
+        "reason": "NEED_REGENERATION",
+        "questionCount": 21,
+        "expected": 25
+      },
+      {
+        "paper": "HSC Physics 2nd Paper",
+        "setId": "hsc-physics-2nd-paper-chapter-08-model-test-06",
+        "reason": "NEED_REGENERATION",
+        "questionCount": 20,
+        "expected": 25
+      },
+      {
+        "paper": "HSC Physics 2nd Paper",
+        "setId": "hsc-physics-2nd-paper-chapter-08-model-test-07",
+        "reason": "NEED_REGENERATION",
+        "questionCount": 18,
+        "expected": 25
+      },
+      {
+        "paper": "HSC Physics 2nd Paper",
+        "setId": "hsc-physics-2nd-paper-chapter-08-model-test-08",
+        "reason": "NEED_REGENERATION",
+        "questionCount": 18,
+        "expected": 25
+      },
+      {
+        "paper": "HSC Physics 2nd Paper",
+        "setId": "hsc-physics-2nd-paper-chapter-08-model-test-09",
+        "reason": "NEED_REGENERATION",
+        "questionCount": 19,
+        "expected": 25
+      },
+      {
+        "paper": "HSC Physics 2nd Paper",
+        "setId": "hsc-physics-2nd-paper-chapter-08-model-test-10",
+        "reason": "NEED_REGENERATION",
+        "questionCount": 23,
+        "expected": 25
+      },
+      {
+        "paper": "HSC Physics 2nd Paper",
+        "setId": "hsc-physics-2nd-paper-chapter-09-model-test-02",
+        "reason": "NEED_REGENERATION",
+        "questionCount": 20,
+        "expected": 25
+      },
+      {
+        "paper": "HSC Physics 2nd Paper",
+        "setId": "hsc-physics-2nd-paper-chapter-09-model-test-03",
+        "reason": "NEED_REGENERATION",
+        "questionCount": 21,
+        "expected": 25
+      },
+      {
+        "paper": "HSC Physics 2nd Paper",
+        "setId": "hsc-physics-2nd-paper-chapter-09-model-test-06",
+        "reason": "NEED_REGENERATION",
+        "questionCount": 22,
+        "expected": 25
+      },
+      {
+        "paper": "HSC Physics 2nd Paper",
+        "setId": "hsc-physics-2nd-paper-chapter-09-model-test-07",
+        "reason": "NEED_REGENERATION",
+        "questionCount": 19,
+        "expected": 25
+      },
+      {
+        "paper": "HSC Physics 2nd Paper",
+        "setId": "hsc-physics-2nd-paper-chapter-09-model-test-08",
+        "reason": "NEED_REGENERATION",
+        "questionCount": 20,
+        "expected": 25
+      },
+      {
+        "paper": "HSC Physics 2nd Paper",
+        "setId": "hsc-physics-2nd-paper-chapter-09-model-test-09",
+        "reason": "NEED_REGENERATION",
+        "questionCount": 19,
+        "expected": 25
+      },
+      {
+        "paper": "HSC Physics 2nd Paper",
+        "setId": "hsc-physics-2nd-paper-chapter-09-model-test-10",
+        "reason": "NEED_REGENERATION",
+        "questionCount": 23,
+        "expected": 25
+      },
+      {
+        "paper": "HSC Physics 2nd Paper",
+        "setId": "hsc-physics-2nd-paper-chapter-10-model-test-02",
+        "reason": "NEED_REGENERATION",
+        "questionCount": 22,
+        "expected": 25
+      },
+      {
+        "paper": "HSC Physics 2nd Paper",
+        "setId": "hsc-physics-2nd-paper-chapter-10-model-test-03",
+        "reason": "NEED_REGENERATION",
+        "questionCount": 21,
+        "expected": 25
+      },
+      {
+        "paper": "HSC Physics 2nd Paper",
+        "setId": "hsc-physics-2nd-paper-chapter-10-model-test-06",
+        "reason": "NEED_REGENERATION",
+        "questionCount": 23,
+        "expected": 25
+      },
+      {
+        "paper": "HSC Physics 2nd Paper",
+        "setId": "hsc-physics-2nd-paper-chapter-10-model-test-07",
+        "reason": "NEED_REGENERATION",
+        "questionCount": 19,
+        "expected": 25
+      },
+      {
+        "paper": "HSC Physics 2nd Paper",
+        "setId": "hsc-physics-2nd-paper-chapter-10-model-test-08",
+        "reason": "NEED_REGENERATION",
+        "questionCount": 20,
+        "expected": 25
+      },
+      {
+        "paper": "HSC Physics 2nd Paper",
+        "setId": "hsc-physics-2nd-paper-chapter-10-model-test-09",
+        "reason": "NEED_REGENERATION",
+        "questionCount": 19,
+        "expected": 25
+      },
+      {
+        "paper": "HSC Physics 2nd Paper",
+        "setId": "hsc-physics-2nd-paper-chapter-10-model-test-10",
+        "reason": "NEED_REGENERATION",
+        "questionCount": 23,
+        "expected": 25
+      },
+      {
+        "paper": "HSC Physics 2nd Paper",
+        "setId": "hsc-physics-2nd-paper-set-11",
+        "reason": "NEED_REGENERATION",
+        "questionCount": 20,
+        "expected": 25
+      },
+      {
+        "paper": "HSC Physics 2nd Paper",
+        "setId": "hsc-physics-2nd-paper-set-12",
+        "reason": "NEED_REGENERATION",
+        "questionCount": 20,
+        "expected": 25
+      },
+      {
+        "paper": "HSC Physics 2nd Paper",
+        "setId": "hsc-physics-2nd-paper-set-13",
+        "reason": "NEED_REGENERATION",
+        "questionCount": 20,
+        "expected": 25
+      },
+      {
+        "paper": "HSC Physics 2nd Paper",
+        "setId": "hsc-physics-2nd-paper-set-14",
+        "reason": "NEED_REGENERATION",
+        "questionCount": 20,
+        "expected": 25
+      },
+      {
+        "paper": "HSC Physics 2nd Paper",
+        "setId": "hsc-physics-2nd-paper-set-15",
+        "reason": "NEED_REGENERATION",
+        "questionCount": 20,
+        "expected": 25
+      }
+    ],
+    "actionsTaken": {
+      "deletedDuplicates": 0,
+      "crossChapterRemoved": 0,
+      "boilerplateRemoved": 25,
+      "legacySplit": 0,
+      "deletedIncomplete": 0,
+      "deletedHidden": 0,
+      "setsKept": 123
+    },
+    "riskLevel": "LOW"
+  },
+  {
+    "paper": "HSC Chemistry 1st Paper",
+    "status": "PARTIALLY FIXED",
+    "issuesFixed": [
+      "LEGACY_FORMAT: Split \"chemistryset1-split-01-split-01-split-01-split-01-split-01-split-01-split-01-split-01-split-01-split-01-split-01-split-01\" (25 Q) into 1 chunk(s)"
+    ],
+    "remainingIssues": [
+      "\"model-test-38-stoichiometry\" has 20/25 questions after cleanup",
+      "\"model-test-39-reactions-lechatelier\" has 20/25 questions after cleanup",
+      "\"model-test-43-isotopic-metrics\" has 20/25 questions after cleanup"
+    ],
+    "needsRegeneration": [
+      {
+        "paper": "HSC Chemistry 1st Paper",
+        "setId": "model-test-38-stoichiometry",
+        "reason": "NEED_REGENERATION",
+        "questionCount": 20,
+        "expected": 25
+      },
+      {
+        "paper": "HSC Chemistry 1st Paper",
+        "setId": "model-test-39-reactions-lechatelier",
+        "reason": "NEED_REGENERATION",
+        "questionCount": 20,
+        "expected": 25
+      },
+      {
+        "paper": "HSC Chemistry 1st Paper",
+        "setId": "model-test-43-isotopic-metrics",
+        "reason": "NEED_REGENERATION",
+        "questionCount": 20,
+        "expected": 25
+      }
+    ],
+    "actionsTaken": {
+      "deletedDuplicates": 0,
+      "crossChapterRemoved": 0,
+      "boilerplateRemoved": 0,
+      "legacySplit": 1,
+      "deletedIncomplete": 0,
+      "deletedHidden": 0,
+      "setsKept": 59
+    },
+    "riskLevel": "LOW"
+  },
+  {
+    "paper": "HSC Chemistry 2nd Paper",
+    "status": "PARTIALLY FIXED",
+    "issuesFixed": [
+      "BOILERPLATE_REPEAT: Removed 12 duplicate Q in \"hsc-chem-2nd-paper-set-11\"",
+      "BOILERPLATE_REPEAT: Removed 12 duplicate Q in \"hsc-chem-2nd-paper-set-12\"",
+      "BOILERPLATE_REPEAT: Removed 12 duplicate Q in \"hsc-chem-2nd-paper-set-13\"",
+      "BOILERPLATE_REPEAT: Removed 12 duplicate Q in \"hsc-chem-2nd-paper-set-14\"",
+      "BOILERPLATE_REPEAT: Removed 12 duplicate Q in \"hsc-chem-2nd-paper-set-15\"",
+      "LEGACY_FORMAT: Split \"chapter-05\" (100 Q) into 4 chunk(s)",
+      "DUPLICATE_SET: Kept \"chapter-05-split-01\", removed 1 duplicate copy/copies",
+      "DUPLICATE_SET: Kept \"chapter-05-split-02\", removed 1 duplicate copy/copies",
+      "DUPLICATE_SET: Kept \"chapter-05-split-03\", removed 1 duplicate copy/copies",
+      "DUPLICATE_SET: Kept \"chapter-05-split-04\", removed 1 duplicate copy/copies",
+      "MISSING_DATA: Removed incomplete set \"hsc-chem-2nd-paper-set-11\" (13/25 Q) — NEED_REGENERATION",
+      "MISSING_DATA: Removed incomplete set \"hsc-chem-2nd-paper-set-12\" (13/25 Q) — NEED_REGENERATION",
+      "MISSING_DATA: Removed incomplete set \"hsc-chem-2nd-paper-set-13\" (13/25 Q) — NEED_REGENERATION",
+      "MISSING_DATA: Removed incomplete set \"hsc-chem-2nd-paper-set-14\" (13/25 Q) — NEED_REGENERATION",
+      "MISSING_DATA: Removed incomplete set \"hsc-chem-2nd-paper-set-15\" (13/25 Q) — NEED_REGENERATION"
+    ],
+    "remainingIssues": [
+      "\"hsc-chemistry-2nd-paper-board-analyzed-premium-set-08\" has 24/25 questions after cleanup"
+    ],
+    "needsRegeneration": [
+      {
+        "paper": "HSC Chemistry 2nd Paper",
+        "setId": "chapter-05-split-01",
+        "reason": "DUPLICATE_OF",
+        "duplicateOf": "chapter-05-split-01",
+        "questionCount": 25
+      },
+      {
+        "paper": "HSC Chemistry 2nd Paper",
+        "setId": "chapter-05-split-02",
+        "reason": "DUPLICATE_OF",
+        "duplicateOf": "chapter-05-split-02",
+        "questionCount": 25
+      },
+      {
+        "paper": "HSC Chemistry 2nd Paper",
+        "setId": "chapter-05-split-03",
+        "reason": "DUPLICATE_OF",
+        "duplicateOf": "chapter-05-split-03",
+        "questionCount": 25
+      },
+      {
+        "paper": "HSC Chemistry 2nd Paper",
+        "setId": "chapter-05-split-04",
+        "reason": "DUPLICATE_OF",
+        "duplicateOf": "chapter-05-split-04",
+        "questionCount": 25
+      },
+      {
+        "paper": "HSC Chemistry 2nd Paper",
+        "setId": "hsc-chemistry-2nd-paper-board-analyzed-premium-set-08",
+        "reason": "NEED_REGENERATION",
+        "questionCount": 24,
+        "expected": 25
+      },
+      {
+        "paper": "HSC Chemistry 2nd Paper",
+        "setId": "hsc-chem-2nd-paper-set-11",
+        "reason": "INCOMPLETE_AFTER_CLEANUP",
+        "questionCount": 13,
+        "expected": 25
+      },
+      {
+        "paper": "HSC Chemistry 2nd Paper",
+        "setId": "hsc-chem-2nd-paper-set-12",
+        "reason": "INCOMPLETE_AFTER_CLEANUP",
+        "questionCount": 13,
+        "expected": 25
+      },
+      {
+        "paper": "HSC Chemistry 2nd Paper",
+        "setId": "hsc-chem-2nd-paper-set-13",
+        "reason": "INCOMPLETE_AFTER_CLEANUP",
+        "questionCount": 13,
+        "expected": 25
+      },
+      {
+        "paper": "HSC Chemistry 2nd Paper",
+        "setId": "hsc-chem-2nd-paper-set-14",
+        "reason": "INCOMPLETE_AFTER_CLEANUP",
+        "questionCount": 13,
+        "expected": 25
+      },
+      {
+        "paper": "HSC Chemistry 2nd Paper",
+        "setId": "hsc-chem-2nd-paper-set-15",
+        "reason": "INCOMPLETE_AFTER_CLEANUP",
+        "questionCount": 13,
+        "expected": 25
+      }
+    ],
+    "actionsTaken": {
+      "deletedDuplicates": 4,
+      "crossChapterRemoved": 0,
+      "boilerplateRemoved": 60,
+      "legacySplit": 4,
+      "deletedIncomplete": 5,
+      "deletedHidden": 0,
+      "setsKept": 24
+    },
+    "riskLevel": "LOW"
+  },
+  {
+    "paper": "HSC Biology 1st Paper",
+    "status": "PARTIALLY FIXED",
+    "issuesFixed": [
+      "BOILERPLATE_REPEAT: Removed 13 duplicate Q in \"hsc-bio-1st-paper-set-01\"",
+      "BOILERPLATE_REPEAT: Removed 13 duplicate Q in \"hsc-bio-1st-paper-set-02\"",
+      "BOILERPLATE_REPEAT: Removed 13 duplicate Q in \"hsc-bio-1st-paper-set-03\"",
+      "BOILERPLATE_REPEAT: Removed 13 duplicate Q in \"hsc-bio-1st-paper-set-04\"",
+      "BOILERPLATE_REPEAT: Removed 13 duplicate Q in \"hsc-bio-1st-paper-set-05\"",
+      "BOILERPLATE_REPEAT: Removed 13 duplicate Q in \"hsc-bio-1st-paper-set-06\"",
+      "BOILERPLATE_REPEAT: Removed 13 duplicate Q in \"hsc-bio-1st-paper-set-07\"",
+      "BOILERPLATE_REPEAT: Removed 13 duplicate Q in \"hsc-bio-1st-paper-set-08\"",
+      "BOILERPLATE_REPEAT: Removed 13 duplicate Q in \"hsc-bio-1st-paper-set-09\"",
+      "BOILERPLATE_REPEAT: Removed 13 duplicate Q in \"hsc-bio-1st-paper-set-10\"",
+      "BOILERPLATE_REPEAT: Removed 13 duplicate Q in \"hsc-bio-1st-paper-set-11\"",
+      "BOILERPLATE_REPEAT: Removed 13 duplicate Q in \"hsc-bio-1st-paper-set-12\"",
+      "BOILERPLATE_REPEAT: Removed 13 duplicate Q in \"hsc-bio-1st-paper-set-13\"",
+      "BOILERPLATE_REPEAT: Removed 13 duplicate Q in \"hsc-bio-1st-paper-set-14\"",
+      "BOILERPLATE_REPEAT: Removed 13 duplicate Q in \"hsc-bio-1st-paper-set-15\"",
+      "DUPLICATE_SET: Kept \"hsc-bio-1st-paper-set-01\", removed 14 duplicate copy/copies",
+      "MISSING_DATA: Removed incomplete set \"hsc-bio-1st-paper-set-01\" (12/25 Q) — NEED_REGENERATION"
+    ],
+    "remainingIssues": [],
+    "needsRegeneration": [
+      {
+        "paper": "HSC Biology 1st Paper",
+        "setId": "hsc-bio-1st-paper-set-02",
+        "reason": "DUPLICATE_OF",
+        "duplicateOf": "hsc-bio-1st-paper-set-01",
+        "questionCount": 12
+      },
+      {
+        "paper": "HSC Biology 1st Paper",
+        "setId": "hsc-bio-1st-paper-set-03",
+        "reason": "DUPLICATE_OF",
+        "duplicateOf": "hsc-bio-1st-paper-set-01",
+        "questionCount": 12
+      },
+      {
+        "paper": "HSC Biology 1st Paper",
+        "setId": "hsc-bio-1st-paper-set-04",
+        "reason": "DUPLICATE_OF",
+        "duplicateOf": "hsc-bio-1st-paper-set-01",
+        "questionCount": 12
+      },
+      {
+        "paper": "HSC Biology 1st Paper",
+        "setId": "hsc-bio-1st-paper-set-05",
+        "reason": "DUPLICATE_OF",
+        "duplicateOf": "hsc-bio-1st-paper-set-01",
+        "questionCount": 12
+      },
+      {
+        "paper": "HSC Biology 1st Paper",
+        "setId": "hsc-bio-1st-paper-set-06",
+        "reason": "DUPLICATE_OF",
+        "duplicateOf": "hsc-bio-1st-paper-set-01",
+        "questionCount": 12
+      },
+      {
+        "paper": "HSC Biology 1st Paper",
+        "setId": "hsc-bio-1st-paper-set-07",
+        "reason": "DUPLICATE_OF",
+        "duplicateOf": "hsc-bio-1st-paper-set-01",
+        "questionCount": 12
+      },
+      {
+        "paper": "HSC Biology 1st Paper",
+        "setId": "hsc-bio-1st-paper-set-08",
+        "reason": "DUPLICATE_OF",
+        "duplicateOf": "hsc-bio-1st-paper-set-01",
+        "questionCount": 12
+      },
+      {
+        "paper": "HSC Biology 1st Paper",
+        "setId": "hsc-bio-1st-paper-set-09",
+        "reason": "DUPLICATE_OF",
+        "duplicateOf": "hsc-bio-1st-paper-set-01",
+        "questionCount": 12
+      },
+      {
+        "paper": "HSC Biology 1st Paper",
+        "setId": "hsc-bio-1st-paper-set-10",
+        "reason": "DUPLICATE_OF",
+        "duplicateOf": "hsc-bio-1st-paper-set-01",
+        "questionCount": 12
+      },
+      {
+        "paper": "HSC Biology 1st Paper",
+        "setId": "hsc-bio-1st-paper-set-11",
+        "reason": "DUPLICATE_OF",
+        "duplicateOf": "hsc-bio-1st-paper-set-01",
+        "questionCount": 12
+      },
+      {
+        "paper": "HSC Biology 1st Paper",
+        "setId": "hsc-bio-1st-paper-set-12",
+        "reason": "DUPLICATE_OF",
+        "duplicateOf": "hsc-bio-1st-paper-set-01",
+        "questionCount": 12
+      },
+      {
+        "paper": "HSC Biology 1st Paper",
+        "setId": "hsc-bio-1st-paper-set-13",
+        "reason": "DUPLICATE_OF",
+        "duplicateOf": "hsc-bio-1st-paper-set-01",
+        "questionCount": 12
+      },
+      {
+        "paper": "HSC Biology 1st Paper",
+        "setId": "hsc-bio-1st-paper-set-14",
+        "reason": "DUPLICATE_OF",
+        "duplicateOf": "hsc-bio-1st-paper-set-01",
+        "questionCount": 12
+      },
+      {
+        "paper": "HSC Biology 1st Paper",
+        "setId": "hsc-bio-1st-paper-set-15",
+        "reason": "DUPLICATE_OF",
+        "duplicateOf": "hsc-bio-1st-paper-set-01",
+        "questionCount": 12
+      },
+      {
+        "paper": "HSC Biology 1st Paper",
+        "setId": "hsc-bio-1st-paper-set-01",
+        "reason": "INCOMPLETE_AFTER_CLEANUP",
+        "questionCount": 12,
+        "expected": 25
+      }
+    ],
+    "actionsTaken": {
+      "deletedDuplicates": 14,
+      "crossChapterRemoved": 0,
+      "boilerplateRemoved": 195,
+      "legacySplit": 0,
+      "deletedIncomplete": 1,
+      "deletedHidden": 0,
+      "setsKept": 130
+    },
+    "riskLevel": "LOW"
+  },
+  {
+    "paper": "HSC Biology 2nd Paper",
+    "status": "PARTIALLY FIXED",
+    "issuesFixed": [
+      "BOILERPLATE_REPEAT: Removed 13 duplicate Q in \"hsc-bio-2nd-paper-set-05\"",
+      "BOILERPLATE_REPEAT: Removed 13 duplicate Q in \"hsc-bio-2nd-paper-set-06\"",
+      "BOILERPLATE_REPEAT: Removed 13 duplicate Q in \"hsc-bio-2nd-paper-set-07\"",
+      "BOILERPLATE_REPEAT: Removed 13 duplicate Q in \"hsc-bio-2nd-paper-set-08\"",
+      "BOILERPLATE_REPEAT: Removed 13 duplicate Q in \"hsc-bio-2nd-paper-set-09\"",
+      "BOILERPLATE_REPEAT: Removed 13 duplicate Q in \"hsc-bio-2nd-paper-set-10\"",
+      "BOILERPLATE_REPEAT: Removed 13 duplicate Q in \"hsc-bio-2nd-paper-set-11\"",
+      "BOILERPLATE_REPEAT: Removed 13 duplicate Q in \"hsc-bio-2nd-paper-set-12\"",
+      "BOILERPLATE_REPEAT: Removed 13 duplicate Q in \"hsc-bio-2nd-paper-set-13\"",
+      "BOILERPLATE_REPEAT: Removed 13 duplicate Q in \"hsc-bio-2nd-paper-set-14\"",
+      "BOILERPLATE_REPEAT: Removed 13 duplicate Q in \"hsc-bio-2nd-paper-set-15\"",
+      "LEGACY_FORMAT: Split \"chapter-01\" (17 Q) into 1 chunk(s)",
+      "LEGACY_FORMAT: Split \"chapter-02\" (3 Q) into 1 chunk(s)",
+      "DUPLICATE_SET: Kept \"hsc-bio-2nd-paper-set-05\", removed 10 duplicate copy/copies",
+      "MISSING_DATA: Removed incomplete set \"hsc-bio-2nd-paper-set-05\" (12/25 Q) — NEED_REGENERATION"
+    ],
+    "remainingIssues": [],
+    "needsRegeneration": [
+      {
+        "paper": "HSC Biology 2nd Paper",
+        "setId": "chapter-01-split-01",
+        "reason": "LEGACY_PARTIAL_CHUNK",
+        "questionCount": 17
+      },
+      {
+        "paper": "HSC Biology 2nd Paper",
+        "setId": "chapter-02-split-01",
+        "reason": "LEGACY_PARTIAL_CHUNK",
+        "questionCount": 3
+      },
+      {
+        "paper": "HSC Biology 2nd Paper",
+        "setId": "hsc-bio-2nd-paper-set-06",
+        "reason": "DUPLICATE_OF",
+        "duplicateOf": "hsc-bio-2nd-paper-set-05",
+        "questionCount": 12
+      },
+      {
+        "paper": "HSC Biology 2nd Paper",
+        "setId": "hsc-bio-2nd-paper-set-07",
+        "reason": "DUPLICATE_OF",
+        "duplicateOf": "hsc-bio-2nd-paper-set-05",
+        "questionCount": 12
+      },
+      {
+        "paper": "HSC Biology 2nd Paper",
+        "setId": "hsc-bio-2nd-paper-set-08",
+        "reason": "DUPLICATE_OF",
+        "duplicateOf": "hsc-bio-2nd-paper-set-05",
+        "questionCount": 12
+      },
+      {
+        "paper": "HSC Biology 2nd Paper",
+        "setId": "hsc-bio-2nd-paper-set-09",
+        "reason": "DUPLICATE_OF",
+        "duplicateOf": "hsc-bio-2nd-paper-set-05",
+        "questionCount": 12
+      },
+      {
+        "paper": "HSC Biology 2nd Paper",
+        "setId": "hsc-bio-2nd-paper-set-10",
+        "reason": "DUPLICATE_OF",
+        "duplicateOf": "hsc-bio-2nd-paper-set-05",
+        "questionCount": 12
+      },
+      {
+        "paper": "HSC Biology 2nd Paper",
+        "setId": "hsc-bio-2nd-paper-set-11",
+        "reason": "DUPLICATE_OF",
+        "duplicateOf": "hsc-bio-2nd-paper-set-05",
+        "questionCount": 12
+      },
+      {
+        "paper": "HSC Biology 2nd Paper",
+        "setId": "hsc-bio-2nd-paper-set-12",
+        "reason": "DUPLICATE_OF",
+        "duplicateOf": "hsc-bio-2nd-paper-set-05",
+        "questionCount": 12
+      },
+      {
+        "paper": "HSC Biology 2nd Paper",
+        "setId": "hsc-bio-2nd-paper-set-13",
+        "reason": "DUPLICATE_OF",
+        "duplicateOf": "hsc-bio-2nd-paper-set-05",
+        "questionCount": 12
+      },
+      {
+        "paper": "HSC Biology 2nd Paper",
+        "setId": "hsc-bio-2nd-paper-set-14",
+        "reason": "DUPLICATE_OF",
+        "duplicateOf": "hsc-bio-2nd-paper-set-05",
+        "questionCount": 12
+      },
+      {
+        "paper": "HSC Biology 2nd Paper",
+        "setId": "hsc-bio-2nd-paper-set-15",
+        "reason": "DUPLICATE_OF",
+        "duplicateOf": "hsc-bio-2nd-paper-set-05",
+        "questionCount": 12
+      },
+      {
+        "paper": "HSC Biology 2nd Paper",
+        "setId": "hsc-bio-2nd-paper-set-05",
+        "reason": "INCOMPLETE_AFTER_CLEANUP",
+        "questionCount": 12,
+        "expected": 25
+      }
+    ],
+    "actionsTaken": {
+      "deletedDuplicates": 10,
+      "crossChapterRemoved": 0,
+      "boilerplateRemoved": 143,
+      "legacySplit": 2,
+      "deletedIncomplete": 3,
+      "deletedHidden": 0,
+      "setsKept": 51
+    },
+    "riskLevel": "LOW"
+  },
+  {
+    "paper": "HSC Higher Math 1st Paper",
+    "status": "PARTIALLY FIXED",
+    "issuesFixed": [
+      "BOILERPLATE_REPEAT: Removed 6 duplicate Q in \"hsc-higher-math-1st-paper-paper-set-11\"",
+      "BOILERPLATE_REPEAT: Removed 6 duplicate Q in \"hsc-higher-math-1st-paper-paper-set-12\"",
+      "BOILERPLATE_REPEAT: Removed 6 duplicate Q in \"hsc-higher-math-1st-paper-paper-set-13\"",
+      "BOILERPLATE_REPEAT: Removed 6 duplicate Q in \"hsc-higher-math-1st-paper-paper-set-14\"",
+      "BOILERPLATE_REPEAT: Removed 6 duplicate Q in \"hsc-higher-math-1st-paper-paper-set-15\""
+    ],
+    "remainingIssues": [
+      "\"hsc-higher-math-1st-paper-paper-set-11\" has 19/25 questions after cleanup",
+      "\"hsc-higher-math-1st-paper-paper-set-12\" has 19/25 questions after cleanup",
+      "\"hsc-higher-math-1st-paper-paper-set-13\" has 19/25 questions after cleanup",
+      "\"hsc-higher-math-1st-paper-paper-set-14\" has 19/25 questions after cleanup",
+      "\"hsc-higher-math-1st-paper-paper-set-15\" has 19/25 questions after cleanup"
+    ],
+    "needsRegeneration": [
+      {
+        "paper": "HSC Higher Math 1st Paper",
+        "setId": "hsc-higher-math-1st-paper-paper-set-11",
+        "reason": "NEED_REGENERATION",
+        "questionCount": 19,
+        "expected": 25
+      },
+      {
+        "paper": "HSC Higher Math 1st Paper",
+        "setId": "hsc-higher-math-1st-paper-paper-set-12",
+        "reason": "NEED_REGENERATION",
+        "questionCount": 19,
+        "expected": 25
+      },
+      {
+        "paper": "HSC Higher Math 1st Paper",
+        "setId": "hsc-higher-math-1st-paper-paper-set-13",
+        "reason": "NEED_REGENERATION",
+        "questionCount": 19,
+        "expected": 25
+      },
+      {
+        "paper": "HSC Higher Math 1st Paper",
+        "setId": "hsc-higher-math-1st-paper-paper-set-14",
+        "reason": "NEED_REGENERATION",
+        "questionCount": 19,
+        "expected": 25
+      },
+      {
+        "paper": "HSC Higher Math 1st Paper",
+        "setId": "hsc-higher-math-1st-paper-paper-set-15",
+        "reason": "NEED_REGENERATION",
+        "questionCount": 19,
+        "expected": 25
+      }
+    ],
+    "actionsTaken": {
+      "deletedDuplicates": 0,
+      "crossChapterRemoved": 0,
+      "boilerplateRemoved": 30,
+      "legacySplit": 0,
+      "deletedIncomplete": 0,
+      "deletedHidden": 0,
+      "setsKept": 75
+    },
+    "riskLevel": "LOW"
+  },
+  {
+    "paper": "HSC Higher Math 2nd Paper",
+    "status": "PARTIALLY FIXED",
+    "issuesFixed": [
+      "BOILERPLATE_REPEAT: Removed 6 duplicate Q in \"hsc-higher-math-2nd-paper-paper-set-06\"",
+      "BOILERPLATE_REPEAT: Removed 6 duplicate Q in \"hsc-higher-math-2nd-paper-paper-set-07\"",
+      "BOILERPLATE_REPEAT: Removed 6 duplicate Q in \"hsc-higher-math-2nd-paper-paper-set-08\"",
+      "BOILERPLATE_REPEAT: Removed 6 duplicate Q in \"hsc-higher-math-2nd-paper-paper-set-09\"",
+      "BOILERPLATE_REPEAT: Removed 6 duplicate Q in \"hsc-higher-math-2nd-paper-paper-set-10\"",
+      "BOILERPLATE_REPEAT: Removed 6 duplicate Q in \"hsc-higher-math-2nd-paper-paper-set-11\"",
+      "BOILERPLATE_REPEAT: Removed 6 duplicate Q in \"hsc-higher-math-2nd-paper-paper-set-12\"",
+      "BOILERPLATE_REPEAT: Removed 6 duplicate Q in \"hsc-higher-math-2nd-paper-paper-set-13\"",
+      "BOILERPLATE_REPEAT: Removed 6 duplicate Q in \"hsc-higher-math-2nd-paper-paper-set-14\"",
+      "BOILERPLATE_REPEAT: Removed 6 duplicate Q in \"hsc-higher-math-2nd-paper-paper-set-15\""
+    ],
+    "remainingIssues": [
+      "\"hsc-higher-math-2nd-paper-paper-set-06\" has 19/25 questions after cleanup",
+      "\"hsc-higher-math-2nd-paper-paper-set-07\" has 19/25 questions after cleanup",
+      "\"hsc-higher-math-2nd-paper-paper-set-08\" has 19/25 questions after cleanup",
+      "\"hsc-higher-math-2nd-paper-paper-set-09\" has 19/25 questions after cleanup",
+      "\"hsc-higher-math-2nd-paper-paper-set-10\" has 19/25 questions after cleanup",
+      "\"hsc-higher-math-2nd-paper-paper-set-11\" has 19/25 questions after cleanup",
+      "\"hsc-higher-math-2nd-paper-paper-set-12\" has 19/25 questions after cleanup",
+      "\"hsc-higher-math-2nd-paper-paper-set-13\" has 19/25 questions after cleanup",
+      "\"hsc-higher-math-2nd-paper-paper-set-14\" has 19/25 questions after cleanup",
+      "\"hsc-higher-math-2nd-paper-paper-set-15\" has 19/25 questions after cleanup"
+    ],
+    "needsRegeneration": [
+      {
+        "paper": "HSC Higher Math 2nd Paper",
+        "setId": "hsc-higher-math-2nd-paper-paper-set-06",
+        "reason": "NEED_REGENERATION",
+        "questionCount": 19,
+        "expected": 25
+      },
+      {
+        "paper": "HSC Higher Math 2nd Paper",
+        "setId": "hsc-higher-math-2nd-paper-paper-set-07",
+        "reason": "NEED_REGENERATION",
+        "questionCount": 19,
+        "expected": 25
+      },
+      {
+        "paper": "HSC Higher Math 2nd Paper",
+        "setId": "hsc-higher-math-2nd-paper-paper-set-08",
+        "reason": "NEED_REGENERATION",
+        "questionCount": 19,
+        "expected": 25
+      },
+      {
+        "paper": "HSC Higher Math 2nd Paper",
+        "setId": "hsc-higher-math-2nd-paper-paper-set-09",
+        "reason": "NEED_REGENERATION",
+        "questionCount": 19,
+        "expected": 25
+      },
+      {
+        "paper": "HSC Higher Math 2nd Paper",
+        "setId": "hsc-higher-math-2nd-paper-paper-set-10",
+        "reason": "NEED_REGENERATION",
+        "questionCount": 19,
+        "expected": 25
+      },
+      {
+        "paper": "HSC Higher Math 2nd Paper",
+        "setId": "hsc-higher-math-2nd-paper-paper-set-11",
+        "reason": "NEED_REGENERATION",
+        "questionCount": 19,
+        "expected": 25
+      },
+      {
+        "paper": "HSC Higher Math 2nd Paper",
+        "setId": "hsc-higher-math-2nd-paper-paper-set-12",
+        "reason": "NEED_REGENERATION",
+        "questionCount": 19,
+        "expected": 25
+      },
+      {
+        "paper": "HSC Higher Math 2nd Paper",
+        "setId": "hsc-higher-math-2nd-paper-paper-set-13",
+        "reason": "NEED_REGENERATION",
+        "questionCount": 19,
+        "expected": 25
+      },
+      {
+        "paper": "HSC Higher Math 2nd Paper",
+        "setId": "hsc-higher-math-2nd-paper-paper-set-14",
+        "reason": "NEED_REGENERATION",
+        "questionCount": 19,
+        "expected": 25
+      },
+      {
+        "paper": "HSC Higher Math 2nd Paper",
+        "setId": "hsc-higher-math-2nd-paper-paper-set-15",
+        "reason": "NEED_REGENERATION",
+        "questionCount": 19,
+        "expected": 25
+      }
+    ],
+    "actionsTaken": {
+      "deletedDuplicates": 0,
+      "crossChapterRemoved": 0,
+      "boilerplateRemoved": 60,
+      "legacySplit": 0,
+      "deletedIncomplete": 0,
+      "deletedHidden": 0,
+      "setsKept": 22
+    },
+    "riskLevel": "LOW"
+  }
+]

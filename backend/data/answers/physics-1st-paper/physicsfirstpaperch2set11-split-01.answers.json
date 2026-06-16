@@ -1,0 +1,102 @@
+{
+  "physicsfirstpaperch2set11-split-01-q01": {
+    "correctOption": "10√2 m/s",
+    "explanation": "আদি বেগ v1 = 10i, শেষ বেগ v2 = 10j। বেগের পরিবর্তন Δv = v2 - v1 = 10j - 10i। এর মান |Δv| = √(10² + (-10)²) = √200 = 10√2 m/s. (এটি সবচেয়ে বেশি ভুল হওয়া ট্র্যাপ, অনেকেই উত্তর 0 দাগায়)।"
+  },
+  "physicsfirstpaperch2set11-split-01-q02": {
+    "correctOption": "((A.B)/|A|²) A",
+    "explanation": "'লম্ব অভিক্ষেপ' হলো স্কেলার (B cos θ)। কিন্তু 'উপাংশ' হলো একটি ভেক্টর। তাই অভিক্ষেপকে A এর দিকের একক ভেক্টর (A/|A|) দিয়ে গুণ করতে হয়। ((A.B)/|A|) * (A/|A|) = ((A.B)/|A|²) A."
+  },
+  "physicsfirstpaperch2set11-split-01-q03": {
+    "correctOption": "সলিনয়ডাল (Solenoidal)",
+    "explanation": "ডাইভারজেন্স শূন্য হওয়ার অর্থ হলো ক্ষেত্রটিতে কোনো উৎস (source) বা সিঙ্ক (sink) নেই, অর্থাৎ আগত ও নির্গত ফ্লাক্স সমান। একে Solenoidal বলে। (কার্ল শূন্য হলে অঘূর্ণনশীল হয়)।"
+  },
+  "physicsfirstpaperch2set11-split-01-q04": {
+    "correctOption": "120°",
+    "explanation": "সোজাসুজি পার হওয়ার শর্ত α = cos⁻¹(-v/u) = cos⁻¹(-2/4) = cos⁻¹(-1/2) = 120°। (যেখানে v স্রোতের বেগ, u নৌকার বেগ)।"
+  },
+  "physicsfirstpaperch2set11-split-01-q05": {
+    "correctOption": "60°",
+    "explanation": "AB sin θ = √3 AB cos θ => tan θ = √3 => θ = 60°."
+  },
+  "physicsfirstpaperch2set11-split-01-q06": {
+    "correctOption": "৩টি",
+    "explanation": "দুটি সমান ও বিপরীতমুখী ভেক্টরের লব্ধি শূন্য হতে পারে। কিন্তু অসম মানের ক্ষেত্রে একটি ত্রিভুজ গঠন করতে ন্যূনতম ৩টি ভেক্টর প্রয়োজন।"
+  },
+  "physicsfirstpaperch2set11-split-01-q07": {
+    "correctOption": "45°",
+    "explanation": "cos α = Px / |P| = 1 / √(1² + 1²) = 1 / √2 => α = 45°."
+  },
+  "physicsfirstpaperch2set11-split-01-q08": {
+    "correctOption": "উলম্বের সাথে ৪৫° কোণে",
+    "explanation": "tan θ = v_man / v_rain = v/v = 1 => θ = 45° (উলম্বের সাথে)।"
+  },
+  "physicsfirstpaperch2set11-split-01-q09": {
+    "correctOption": "1",
+    "explanation": "i × j = k। সুতরাং সমীকরণটি দাঁড়ায় k . k = 1."
+  },
+  "physicsfirstpaperch2set11-split-01-q10": {
+    "correctOption": "ভেক্টর রাশি",
+    "explanation": "গ্রাডিয়েন্ট একটি স্কেলার ক্ষেত্রকে ভেক্টর ক্ষেত্রে রূপান্তরিত করে এবং এটি স্কেলার রাশির সর্বাধিক বৃদ্ধির হার নির্দেশ করে।"
+  },
+  "physicsfirstpaperch2set11-split-01-q11": {
+    "correctOption": "১/২ |A × B|",
+    "explanation": "সামান্তরিকের ক্ষেত্রফল |A × B|, আর ত্রিভুজের ক্ষেত্রফল তার অর্ধেক।"
+  },
+  "physicsfirstpaperch2set11-split-01-q12": {
+    "correctOption": "১/২ |P × Q|",
+    "explanation": "বাহু দেওয়া থাকলে ক্ষেত্রফল |P × Q| হয়, কিন্তু কর্ণ দেওয়া থাকলে ক্ষেত্রফল অর্ধেক হয় ১/২ |P × Q|। (খুবই কমন ট্র্যাপ)।"
+  },
+  "physicsfirstpaperch2set11-split-01-q13": {
+    "correctOption": "A × B = 0 vecor",
+    "explanation": "সমান্তরাল হলে মধ্যবর্তী কোণ 0° বা 180° হয়। sin(0°) = 0, তাই ক্রস গুণফল শূন্য ভেক্টর (0) হয়। (উত্তরের অপশন খ সঠিক)"
+  },
+  "physicsfirstpaperch2set11-split-01-q14": {
+    "correctOption": "90°",
+    "explanation": "উভয়পাশে বর্গ করলে A² + B² + 2AB cos θ = A² + B² - 2AB cos θ => 4AB cos θ = 0 => cos θ = 0 => θ = 90°."
+  },
+  "physicsfirstpaperch2set11-split-01-q15": {
+    "correctOption": "A . (B × C) = 0",
+    "explanation": "স্কেলার ত্রিগুণনের মান সামান্তরিক ঘনবস্তুর আয়তন নির্দেশ করে। ভেক্টর তিনটি একই তলে থাকলে আয়তন শূন্য হবে।"
+  },
+  "physicsfirstpaperch2set11-split-01-q16": {
+    "correctOption": "4i + 3j",
+    "explanation": "বেগ v = dr/dt = d/dt(2t²i + 3tj) = 4ti + 3j। t=1 বসালে v = 4i + 3j."
+  },
+  "physicsfirstpaperch2set11-split-01-q17": {
+    "correctOption": "2",
+    "explanation": "আমরা জানি, cos²α + cos²β + cos²γ = 1। (1 - sin²α) + (1 - sin²β) + (1 - sin²γ) = 1 => 3 - (sin²α + sin²β + sin²γ) = 1 => 2."
+  },
+  "physicsfirstpaperch2set11-split-01-q18": {
+    "correctOption": "A² - B²",
+    "explanation": "ডট গুণন বণ্টন সূত্র মেনে চলে: A.A - A.B + B.A - B.B। যেহেতু A.B = B.A, পদ দুটি কাটা যায়। বাকি থাকে A² - B²."
+  },
+  "physicsfirstpaperch2set11-split-01-q19": {
+    "correctOption": "১/√৩",
+    "explanation": "ভেক্টরের মান 1 হতে হবে। √(c² + c² + c²) = 1 => √(3c²) = 1 => 3c² = 1 => c = 1/√3."
+  },
+  "physicsfirstpaperch2set11-split-01-q20": {
+    "correctOption": "A × B = - (B × A)",
+    "explanation": "ডট গুণন বিনিময় সূত্র মানে (A . B = B . A)। কিন্তু ক্রস গুণনের ক্ষেত্রে দিক বিপরীত হয়ে যায়, তাই এটি অ্যান্টি-কমিউটেটিভ।"
+  },
+  "physicsfirstpaperch2set11-split-01-q21": {
+    "correctOption": "ডানহাতি স্ক্রু নিয়ম",
+    "explanation": "দুটি ভেক্টরের ক্রস গুণফলের দিক ডানহাতি স্ক্রু নিয়ম (Right-hand screw rule) বা ডানহাতি মুষ্টি নিয়মের সাহায্যে নির্ণয় করা হয়।"
+  },
+  "physicsfirstpaperch2set11-split-01-q22": {
+    "correctOption": "ভেক্টর অপারেটর",
+    "explanation": "∇ = (∂/∂x)i + (∂/∂y)j + (∂/∂z)k। এটি একটি ভেক্টর ডিফারেন্সিয়াল অপারেটর।"
+  },
+  "physicsfirstpaperch2set11-split-01-q23": {
+    "correctOption": "P + Q + R = 0",
+    "explanation": "একই ক্রমে (cyclic order) গৃহীত ভেক্টরগুলো একটি বদ্ধ বহুভুজ গঠন করলে তাদের লব্ধি শূন্য হয়।"
+  },
+  "physicsfirstpaperch2set11-split-01-q24": {
+    "correctOption": "90°",
+    "explanation": "কর্ণ দুটি হলো d1 = i + j এবং d2 = i - j। এদের ডট গুণফল d1 . d2 = (1)(1) + (1)(-1) = 0। ডট গুণফল শূন্য হওয়ায় এরা পরস্পর লম্ব (90°)। এটি একটি ক্লাসিক ব্রেইন-টিজার।"
+  },
+  "physicsfirstpaperch2set11-split-01-q25": {
+    "correctOption": "সাম্যাবস্থায় থাকা বস্তু",
+    "explanation": "লামির উপপাদ্য কেবল তখনই প্রযোজ্য যখন তিনটি সমতলীয় বল কোনো বিন্দুতে ক্রিয়া করে বস্তুটিকে সাম্যাবস্থায় (Equilibrium) রাখে।"
+  }
+}

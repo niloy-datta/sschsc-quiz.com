@@ -1,352 +1,302 @@
 [
   {
-    "id": "ssc-higher-math-ch08-set03-q01",
+    "id": "ssc-higher-math-chapter-08-model-test-03-q01",
     "subject": "higher-math",
     "chapter": "ssc-higher-math-chapter-08-model-test-03",
-    "text": "$\\tan(\\theta - \\frac{13\\pi}{2})$ এর মান কত?",
+    "text": "P(ঘটনা) = 8/11 হলে সম্পূরক = ?",
     "options": [
-      "$-\\cot\\theta$",
-      "$-\\tan\\theta$",
-      "$\\cot\\theta$",
-      "$\\tan\\theta$"
+      "5",
+      "24",
+      "11",
+      "-5"
     ],
     "image": null,
+    "optionImages": null,
     "timeLimit": 45
   },
   {
-    "id": "ssc-higher-math-ch08-set03-q02",
+    "id": "ssc-higher-math-chapter-08-model-test-03-q02",
     "subject": "higher-math",
     "chapter": "ssc-higher-math-chapter-08-model-test-03",
-    "text": "What is the value of tan(-570 degree)?",
+    "text": "7x + 13 = 188 হলে x = ?",
     "options": [
-      "-sqrt(3)",
-      "-1/sqrt(3)",
-      "1/sqrt(3)",
-      "sqrt(3)"
+      "24",
+      "25",
+      "26",
+      "27"
     ],
     "image": null,
+    "optionImages": null,
     "timeLimit": 45
   },
   {
-    "id": "ssc-higher-math-ch08-set03-q03",
+    "id": "ssc-higher-math-chapter-08-model-test-03-q03",
     "subject": "higher-math",
     "chapter": "ssc-higher-math-chapter-08-model-test-03",
-    "text": "What is the distance of the point P(-8, 6) from the y-axis?",
+    "text": "P(ঘটনা) = 6/7 হলে সম্পূরক = ?",
     "options": [
-      "-8 units",
-      "6 units",
-      "8 units",
-      "10 units"
+      "-5",
+      "7",
+      "6",
+      "5"
     ],
     "image": null,
+    "optionImages": null,
     "timeLimit": 45
   },
   {
-    "id": "ssc-higher-math-ch08-set03-q04",
+    "id": "ssc-higher-math-chapter-08-model-test-03-q04",
     "subject": "higher-math",
     "chapter": "ssc-higher-math-chapter-08-model-test-03",
-    "text": "A pyramid stands on a square base of side 12 cm. If its height is 15 cm, what is its volume?",
+    "text": "4x + 4 = 64 হলে x = ?",
     "options": [
-      "60 cu cm",
-      "720 cu cm",
-      "1000 cu cm",
-      "2160 cu cm"
+      "15",
+      "17",
+      "14",
+      "16"
     ],
     "image": null,
+    "optionImages": null,
     "timeLimit": 45
   },
   {
-    "id": "ssc-higher-math-ch08-set03-q05",
+    "id": "ssc-higher-math-chapter-08-model-test-03-q05",
     "subject": "higher-math",
     "chapter": "ssc-higher-math-chapter-08-model-test-03",
-    "text": "What is the constant term in the expansion of (2 - x^2/3)^7?",
+    "text": "P(ঘটনা) = 3/8 হলে সম্পূরক = ?",
     "options": [
-      "1/2187",
-      "128",
-      "448/3",
-      "2187"
+      "8",
+      "-2",
+      "2",
+      "15"
     ],
     "image": null,
+    "optionImages": null,
     "timeLimit": 45
   },
   {
-    "id": "ssc-higher-math-ch08-set03-q06",
+    "id": "ssc-higher-math-chapter-08-model-test-03-q06",
     "subject": "higher-math",
     "chapter": "ssc-higher-math-chapter-08-model-test-03",
-    "text": "$\\sec\\theta$ এর মান নিচের কোনটি?",
+    "text": "9x + 21 = 75 হলে x = ?",
     "options": [
-      "$\\frac{2p}{p^2 + 1}$",
-      "$\\frac{2p}{p^2 - 1}$",
-      "$\\frac{p^2 + 1}{p^2 - 1}$",
-      "$\\frac{p^2 - 1}{p^2 + 1}$"
+      "7",
+      "5",
+      "8",
+      "6"
     ],
     "image": null,
+    "optionImages": null,
     "timeLimit": 45
   },
   {
-    "id": "ssc-higher-math-ch08-set03-q07",
+    "id": "ssc-higher-math-chapter-08-model-test-03-q07",
     "subject": "higher-math",
     "chapter": "ssc-higher-math-chapter-08-model-test-03",
-    "text": "sin²θ + cos²θ = কোনটি?",
+    "text": "বৃত্তের ব্যাসার্ধ 9 হলে ক্ষেত্রফল ≈ ?",
     "options": [
+      "18",
+      "81",
+      "254.46",
+      "9"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-higher-math-chapter-08-model-test-03-q08",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-08-model-test-03",
+    "text": "(6 + 11) × 1 = ?",
+    "options": [
+      "17",
+      "-5",
+      "66",
+      "5"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-higher-math-chapter-08-model-test-03-q09",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-08-model-test-03",
+    "text": "5, 6, ... 8 পদের যোগফল = ?",
+    "options": [
+      "73",
+      "68",
+      "13",
+      "40"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-higher-math-chapter-08-model-test-03-q10",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-08-model-test-03",
+    "text": "বৃত্তের ব্যাসার্ধ 6 হলে ক্ষেত্রফল ≈ ?",
+    "options": [
+      "113.09",
+      "6",
+      "12",
+      "36"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-higher-math-chapter-08-model-test-03-q11",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-08-model-test-03",
+    "text": "(4 + 3) × 1 = ?",
+    "options": [
+      "-1",
+      "7",
+      "1",
+      "12"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-higher-math-chapter-08-model-test-03-q12",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-08-model-test-03",
+    "text": "3, 4, ... 5 পদের যোগফল = ?",
+    "options": [
+      "15",
+      "8",
+      "25",
+      "28"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-higher-math-chapter-08-model-test-03-q13",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-08-model-test-03",
+    "text": "বৃত্তের ব্যাসার্ধ 3 হলে ক্ষেত্রফল ≈ ?",
+    "options": [
+      "9",
+      "3",
+      "6",
+      "28.274"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-higher-math-chapter-08-model-test-03-q14",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-08-model-test-03",
+    "text": "(9 + 19) × 1 = ?",
+    "options": [
+      "-10",
+      "171",
+      "10",
+      "28"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-higher-math-chapter-08-model-test-03-q15",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-08-model-test-03",
+    "text": "8, 9, ... 10 পদের যোগফল = ?",
+    "options": [
+      "80",
+      "125",
+      "133",
+      "18"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-higher-math-chapter-08-model-test-03-q16",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-08-model-test-03",
+    "text": "7x + 12 = 187 হলে x = ?",
+    "options": [
+      "26",
+      "24",
+      "25",
+      "27"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-higher-math-chapter-08-model-test-03-q17",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-08-model-test-03",
+    "text": "(3 + 3) × 1 = ?",
+    "options": [
+      "6",
       "0",
+      "0",
+      "9"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-higher-math-chapter-08-model-test-03-q18",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-08-model-test-03",
+    "text": "9x + 21 = 66 হলে x = ?",
+    "options": [
+      "7",
+      "4",
+      "6",
+      "5"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-higher-math-chapter-08-model-test-03-q19",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-08-model-test-03",
+    "text": "P(ঘটনা) = 5/6 হলে সম্পূরক = ?",
+    "options": [
+      "-4",
+      "6",
+      "5",
+      "4"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-higher-math-chapter-08-model-test-03-q20",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-08-model-test-03",
+    "text": "(3 + 2) × 1 = ?",
+    "options": [
+      "-1",
       "1",
-      "tanθ",
-      "sec²θ"
+      "5",
+      "6"
     ],
     "image": null,
-    "timeLimit": 45
-  },
-  {
-    "id": "ssc-higher-math-ch08-set03-q08",
-    "subject": "higher-math",
-    "chapter": "ssc-higher-math-chapter-08-model-test-03",
-    "text": "নিচের কোনটি সঠিক? i. sin²θ+cos²θ=1 ii. tanθ=sinθ/cosθ iii. secθ=1/sinθ",
-    "options": [
-      "i ও ii",
-      "i, ii ও iii",
-      "i ও iii",
-      "ii ও iii"
-    ],
-    "image": null,
-    "timeLimit": 45
-  },
-  {
-    "id": "ssc-higher-math-ch08-set03-q09",
-    "subject": "higher-math",
-    "chapter": "ssc-higher-math-chapter-08-model-test-03",
-    "text": "1 + tan²θ = কোনটি?",
-    "options": [
-      "1",
-      "cosec²θ",
-      "cot²θ",
-      "sec²θ"
-    ],
-    "image": null,
-    "timeLimit": 45
-  },
-  {
-    "id": "ssc-higher-math-ch08-set03-q10",
-    "subject": "higher-math",
-    "chapter": "ssc-higher-math-chapter-08-model-test-03",
-    "text": "1 + cot²θ = কোনটি?",
-    "options": [
-      "cosec²θ",
-      "sec²θ",
-      "1",
-      "tan²θ"
-    ],
-    "image": null,
-    "timeLimit": 45
-  },
-  {
-    "id": "ssc-higher-math-ch08-set03-q11",
-    "subject": "higher-math",
-    "chapter": "ssc-higher-math-chapter-08-model-test-03",
-    "text": "tanθ = কোনটি?",
-    "options": [
-      "1/sinθ",
-      "sinθ/cosθ",
-      "1/cosθ",
-      "cosθ/sinθ"
-    ],
-    "image": null,
-    "timeLimit": 45
-  },
-  {
-    "id": "ssc-higher-math-ch08-set03-q12",
-    "subject": "higher-math",
-    "chapter": "ssc-higher-math-chapter-08-model-test-03",
-    "text": "cotθ = কোনটি?",
-    "options": [
-      "1/cosθ",
-      "sinθ/cosθ",
-      "1/sinθ",
-      "cosθ/sinθ"
-    ],
-    "image": null,
-    "timeLimit": 45
-  },
-  {
-    "id": "ssc-higher-math-ch08-set03-q13",
-    "subject": "higher-math",
-    "chapter": "ssc-higher-math-chapter-08-model-test-03",
-    "text": "নিচের কোনটি সঠিক? i. sin²θ+cos²θ=1 ii. tanθ=sinθ/cosθ iii. secθ=1/sinθ",
-    "options": [
-      "i ও ii",
-      "i ও iii",
-      "ii ও iii",
-      "i, ii ও iii"
-    ],
-    "image": null,
-    "timeLimit": 45
-  },
-  {
-    "id": "ssc-higher-math-ch08-set03-q14",
-    "subject": "higher-math",
-    "chapter": "ssc-higher-math-chapter-08-model-test-03",
-    "text": "sin²θ + cos²θ = কোনটি?",
-    "options": [
-      "sec²θ",
-      "tanθ",
-      "1",
-      "0"
-    ],
-    "image": null,
-    "timeLimit": 45
-  },
-  {
-    "id": "ssc-higher-math-ch08-set03-q15",
-    "subject": "higher-math",
-    "chapter": "ssc-higher-math-chapter-08-model-test-03",
-    "text": "নিচের কোনটি সঠিক? i. sin²θ+cos²θ=1 ii. tanθ=sinθ/cosθ iii. secθ=1/sinθ",
-    "options": [
-      "ii ও iii",
-      "i ও ii",
-      "i, ii ও iii",
-      "i ও iii"
-    ],
-    "image": null,
-    "timeLimit": 45
-  },
-  {
-    "id": "ssc-higher-math-ch08-set03-q16",
-    "subject": "higher-math",
-    "chapter": "ssc-higher-math-chapter-08-model-test-03",
-    "text": "1 + tan²θ = কোনটি?",
-    "options": [
-      "sec²θ",
-      "cot²θ",
-      "cosec²θ",
-      "1"
-    ],
-    "image": null,
-    "timeLimit": 45
-  },
-  {
-    "id": "ssc-higher-math-ch08-set03-q17",
-    "subject": "higher-math",
-    "chapter": "ssc-higher-math-chapter-08-model-test-03",
-    "text": "1 + cot²θ = কোনটি?",
-    "options": [
-      "cosec²θ",
-      "tan²θ",
-      "1",
-      "sec²θ"
-    ],
-    "image": null,
-    "timeLimit": 45
-  },
-  {
-    "id": "ssc-higher-math-ch08-set03-q18",
-    "subject": "higher-math",
-    "chapter": "ssc-higher-math-chapter-08-model-test-03",
-    "text": "tanθ = কোনটি?",
-    "options": [
-      "sinθ/cosθ",
-      "1/cosθ",
-      "1/sinθ",
-      "cosθ/sinθ"
-    ],
-    "image": null,
-    "timeLimit": 45
-  },
-  {
-    "id": "ssc-higher-math-ch08-set03-q19",
-    "subject": "higher-math",
-    "chapter": "ssc-higher-math-chapter-08-model-test-03",
-    "text": "নিচের কোনটি সঠিক? i. sin²θ+cos²θ=1 ii. tanθ=sinθ/cosθ iii. secθ=1/sinθ",
-    "options": [
-      "i ও iii",
-      "ii ও iii",
-      "i ও ii",
-      "i, ii ও iii"
-    ],
-    "image": null,
-    "timeLimit": 45
-  },
-  {
-    "id": "ssc-higher-math-ch08-set03-q20",
-    "subject": "higher-math",
-    "chapter": "ssc-higher-math-chapter-08-model-test-03",
-    "text": "cotθ = কোনটি?",
-    "options": [
-      "sinθ/cosθ",
-      "cosθ/sinθ",
-      "1/cosθ",
-      "1/sinθ"
-    ],
-    "image": null,
-    "timeLimit": 45
-  },
-  {
-    "id": "ssc-higher-math-ch08-set03-q21",
-    "subject": "higher-math",
-    "chapter": "ssc-higher-math-chapter-08-model-test-03",
-    "text": "নিচের কোনটি সঠিক? i. sin²θ+cos²θ=1 ii. tanθ=sinθ/cosθ iii. secθ=1/sinθ",
-    "options": [
-      "ii ও iii",
-      "i, ii ও iii",
-      "i ও ii",
-      "i ও iii"
-    ],
-    "image": null,
-    "timeLimit": 45
-  },
-  {
-    "id": "ssc-higher-math-ch08-set03-q22",
-    "subject": "higher-math",
-    "chapter": "ssc-higher-math-chapter-08-model-test-03",
-    "text": "নিচের কোনটি সঠিক? i. sin²θ+cos²θ=1 ii. tanθ=sinθ/cosθ iii. secθ=1/sinθ",
-    "options": [
-      "i ও iii",
-      "i ও ii",
-      "i, ii ও iii",
-      "ii ও iii"
-    ],
-    "image": null,
-    "timeLimit": 45
-  },
-  {
-    "id": "ssc-higher-math-ch08-set03-q23",
-    "subject": "higher-math",
-    "chapter": "ssc-higher-math-chapter-08-model-test-03",
-    "text": "1 + cot²θ = কোনটি?",
-    "options": [
-      "tan²θ",
-      "sec²θ",
-      "1",
-      "cosec²θ"
-    ],
-    "image": null,
-    "timeLimit": 45
-  },
-  {
-    "id": "ssc-higher-math-ch08-set03-q24",
-    "subject": "higher-math",
-    "chapter": "ssc-higher-math-chapter-08-model-test-03",
-    "text": "tanθ = কোনটি?",
-    "options": [
-      "sinθ/cosθ",
-      "1/cosθ",
-      "cosθ/sinθ",
-      "1/sinθ"
-    ],
-    "image": null,
-    "timeLimit": 45
-  },
-  {
-    "id": "ssc-higher-math-ch08-set03-q25",
-    "subject": "higher-math",
-    "chapter": "ssc-higher-math-chapter-08-model-test-03",
-    "text": "নিচের কোনটি সঠিক? i. sin²θ+cos²θ=1 ii. tanθ=sinθ/cosθ iii. secθ=1/sinθ",
-    "options": [
-      "i ও ii",
-      "i ও iii",
-      "i, ii ও iii",
-      "ii ও iii"
-    ],
-    "image": null,
+    "optionImages": null,
     "timeLimit": 45
   }
 ]

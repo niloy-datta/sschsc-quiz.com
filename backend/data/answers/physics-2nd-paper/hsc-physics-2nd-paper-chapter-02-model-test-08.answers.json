@@ -1,177 +1,82 @@
 {
-  "hsc-physics_2ndpaper-chapter-02-set-08-q01": {
-    "answer": "ফ্যারাড",
-    "answerIndex": 2,
-    "difficulty": 1200,
-    "explanation": "বোর্ড/মডেল/অধ্যায়ভিত্তিক সোর্স প্যাটার্ন থেকে নেওয়া high-priority MCQ।",
-    "topic": "স্থির তড়িৎ"
+  "hsc-physics-2nd-paper-chapter-02-model-test-08-q01": {
+    "correctOption": "ফ্যারাড",
+    "explanation": ""
   },
-  "hsc-physics_2ndpaper-chapter-02-set-08-q02": {
-    "answer": "ফ্যারাড",
-    "answerIndex": 0,
-    "difficulty": 1200,
-    "explanation": "বোর্ড/মডেল/অধ্যায়ভিত্তিক সোর্স প্যাটার্ন থেকে নেওয়া high-priority MCQ।",
-    "topic": "স্থির তড়িৎ"
+  "hsc-physics-2nd-paper-chapter-02-model-test-08-q02": {
+    "correctOption": "1:9",
+    "explanation": ""
   },
-  "hsc-physics_2ndpaper-chapter-02-set-08-q03": {
-    "answer": "ফ্যারাড",
-    "answerIndex": 2,
-    "difficulty": 1200,
-    "explanation": "বোর্ড/মডেল/অধ্যায়ভিত্তিক সোর্স প্যাটার্ন থেকে নেওয়া high-priority MCQ।",
-    "topic": "স্থির তড়িৎ"
+  "hsc-physics-2nd-paper-chapter-02-model-test-08-q03": {
+    "correctOption": "E শূন্য, V পৃষ্ঠের সমান (ধ্রুবক)",
+    "explanation": "চার্জ গোলকের বাইরের পৃষ্ঠে থাকে। ভেতরে E=0, তাই V = constant (পৃষ্ঠের বিভবের সমান)।"
   },
-  "hsc-physics_2ndpaper-chapter-02-set-08-q04": {
-    "answer": "1:9",
-    "answerIndex": 2,
-    "difficulty": 1200,
-    "explanation": "বোর্ড/মডেল/অধ্যায়ভিত্তিক সোর্স প্যাটার্ন থেকে নেওয়া high-priority MCQ।",
-    "topic": "স্থির তড়িৎ"
+  "hsc-physics-2nd-paper-chapter-02-model-test-08-q04": {
+    "correctOption": "V = E − Ir",
+    "explanation": "ব্যাটারি কারেন্ট সরবরাহ করলে V = E − Ir হয়, কিন্তু ব্যাটারি চার্জ করার সময় V = E + Ir হয়।"
   },
-  "hsc-physics_2ndpaper-chapter-02-set-08-q05": {
-    "answer": "E শূন্য, V পৃষ্ঠের সমান (ধ্রুবক)",
-    "answerIndex": 1,
-    "difficulty": 1200,
-    "explanation": "চার্জ গোলকের বাইরের পৃষ্ঠে থাকে। ভেতরে E=0, তাই V = constant (পৃষ্ঠের বিভবের সমান)। — বোর্ড/মডেল/অধ্যায়ভিত্তিক সোর্স প্যাটার্ন থেকে নেওয়া high-priority MCQ।",
-    "topic": "স্থির তড়িৎ"
+  "hsc-physics-2nd-paper-chapter-02-model-test-08-q05": {
+    "correctOption": "ভোল্টমিটার",
+    "explanation": "ভোল্টমিটার বিভব পার্থক্য পরিমাপ করতে ব্যবহৃত হয়।"
   },
-  "hsc-physics_2ndpaper-chapter-02-set-08-q06": {
-    "answer": "V = E − Ir",
-    "answerIndex": 1,
-    "difficulty": 1200,
-    "explanation": "ব্যাটারি কারেন্ট সরবরাহ করলে V = E − Ir হয়, কিন্তু ব্যাটারি চার্জ করার সময় V = E + Ir হয়। — বোর্ড/মডেল/অধ্যায়ভিত্তিক সোর্স প্যাটার্ন থেকে নেওয়া high-priority MCQ।",
-    "topic": "স্থির তড়িৎ"
+  "hsc-physics-2nd-paper-chapter-02-model-test-08-q06": {
+    "correctOption": "U = ½ CV²",
+    "explanation": "ধারকের সঞ্চিত শক্তি U = ½ CV² = ½ QV = Q²/(2C)"
   },
-  "hsc-physics_2ndpaper-chapter-02-set-08-q07": {
-    "answer": "ভোল্টমিটার",
-    "answerIndex": 3,
-    "difficulty": 1200,
-    "explanation": "ভোল্টমিটার বিভব পার্থক্য পরিমাপ করতে ব্যবহৃত হয়। — বোর্ড/মডেল/অধ্যায়ভিত্তিক সোর্স প্যাটার্ন থেকে নেওয়া high-priority MCQ।",
-    "topic": "স্থির তড়িৎ"
+  "hsc-physics-2nd-paper-chapter-02-model-test-08-q07": {
+    "correctOption": "i ও ii",
+    "explanation": ""
   },
-  "hsc-physics_2ndpaper-chapter-02-set-08-q08": {
-    "answer": "U = ½ CV²",
-    "answerIndex": 2,
-    "difficulty": 1200,
-    "explanation": "ধারকের সঞ্চিত শক্তি U = ½ CV² = ½ QV = Q²/(2C) — বোর্ড/মডেল/অধ্যায়ভিত্তিক সোর্স প্যাটার্ন থেকে নেওয়া high-priority MCQ।",
-    "topic": "স্থির তড়িৎ"
+  "hsc-physics-2nd-paper-chapter-02-model-test-08-q08": {
+    "correctOption": "90 Volt",
+    "explanation": ""
   },
-  "hsc-physics_2ndpaper-chapter-02-set-08-q09": {
-    "answer": "i ও ii",
-    "answerIndex": 0,
-    "difficulty": 1200,
-    "explanation": "বোর্ড/মডেল/অধ্যায়ভিত্তিক সোর্স প্যাটার্ন থেকে নেওয়া high-priority MCQ।",
-    "topic": "স্থির তড়িৎ"
+  "hsc-physics-2nd-paper-chapter-02-model-test-08-q09": {
+    "correctOption": "1.5 V",
+    "explanation": ""
   },
-  "hsc-physics_2ndpaper-chapter-02-set-08-q10": {
-    "answer": "90 Volt",
-    "answerIndex": 2,
-    "difficulty": 1200,
-    "explanation": "বোর্ড/মডেল/অধ্যায়ভিত্তিক সোর্স প্যাটার্ন থেকে নেওয়া high-priority MCQ।",
-    "topic": "স্থির তড়িৎ"
+  "hsc-physics-2nd-paper-chapter-02-model-test-08-q10": {
+    "correctOption": "জুল",
+    "explanation": ""
   },
-  "hsc-physics_2ndpaper-chapter-02-set-08-q11": {
-    "answer": "1.5 V",
-    "answerIndex": 0,
-    "difficulty": 1200,
-    "explanation": "বোর্ড/মডেল/অধ্যায়ভিত্তিক সোর্স প্যাটার্ন থেকে নেওয়া high-priority MCQ।",
-    "topic": "স্থির তড়িৎ"
+  "hsc-physics-2nd-paper-chapter-02-model-test-08-q11": {
+    "correctOption": "প্লাঙ্কের ধ্রুবক",
+    "explanation": ""
   },
-  "hsc-physics_2ndpaper-chapter-02-set-08-q12": {
-    "answer": "জুল",
-    "answerIndex": 2,
-    "difficulty": 1200,
-    "explanation": "বোর্ড/মডেল/অধ্যায়ভিত্তিক সোর্স প্যাটার্ন থেকে নেওয়া high-priority MCQ।",
-    "topic": "স্থির তড়িৎ"
+  "hsc-physics-2nd-paper-chapter-02-model-test-08-q12": {
+    "correctOption": "i, ii ও iii",
+    "explanation": ""
   },
-  "hsc-physics_2ndpaper-chapter-02-set-08-q13": {
-    "answer": "প্লাঙ্কের ধ্রুবক",
-    "answerIndex": 1,
-    "difficulty": 1200,
-    "explanation": "বোর্ড/মডেল/অধ্যায়ভিত্তিক সোর্স প্যাটার্ন থেকে নেওয়া high-priority MCQ।",
-    "topic": "স্থির তড়িৎ"
+  "hsc-physics-2nd-paper-chapter-02-model-test-08-q13": {
+    "correctOption": "i ও ii",
+    "explanation": ""
   },
-  "hsc-physics_2ndpaper-chapter-02-set-08-q14": {
-    "answer": "i, ii ও iii",
-    "answerIndex": 3,
-    "difficulty": 1200,
-    "explanation": "বোর্ড/মডেল/অধ্যায়ভিত্তিক সোর্স প্যাটার্ন থেকে নেওয়া high-priority MCQ।",
-    "topic": "স্থির তড়িৎ"
+  "hsc-physics-2nd-paper-chapter-02-model-test-08-q14": {
+    "correctOption": "1 \\mu F",
+    "explanation": ""
   },
-  "hsc-physics_2ndpaper-chapter-02-set-08-q15": {
-    "answer": "i ও ii",
-    "answerIndex": 0,
-    "difficulty": 1200,
-    "explanation": "বোর্ড/মডেল/অধ্যায়ভিত্তিক সোর্স প্যাটার্ন থেকে নেওয়া high-priority MCQ।",
-    "topic": "স্থির তড়িৎ"
+  "hsc-physics-2nd-paper-chapter-02-model-test-08-q15": {
+    "correctOption": "r^{-2}",
+    "explanation": ""
   },
-  "hsc-physics_2ndpaper-chapter-02-set-08-q16": {
-    "answer": "1 \\mu F",
-    "answerIndex": 0,
-    "difficulty": 1200,
-    "explanation": "বোর্ড/মডেল/অধ্যায়ভিত্তিক সোর্স প্যাটার্ন থেকে নেওয়া high-priority MCQ।",
-    "topic": "স্থির তড়িৎ"
+  "hsc-physics-2nd-paper-chapter-02-model-test-08-q16": {
+    "correctOption": "33.33%",
+    "explanation": ""
   },
-  "hsc-physics_2ndpaper-chapter-02-set-08-q17": {
-    "answer": "r^{-2}",
-    "answerIndex": 1,
-    "difficulty": 1200,
-    "explanation": "বোর্ড/মডেল/অধ্যায়ভিত্তিক সোর্স প্যাটার্ন থেকে নেওয়া high-priority MCQ।",
-    "topic": "স্থির তড়িৎ"
+  "hsc-physics-2nd-paper-chapter-02-model-test-08-q17": {
+    "correctOption": "ম্যাক্স প্লাঙ্ক",
+    "explanation": ""
   },
-  "hsc-physics_2ndpaper-chapter-02-set-08-q18": {
-    "answer": "33.33%",
-    "answerIndex": 1,
-    "difficulty": 1200,
-    "explanation": "বোর্ড/মডেল/অধ্যায়ভিত্তিক সোর্স প্যাটার্ন থেকে নেওয়া high-priority MCQ।",
-    "topic": "স্থির তড়িৎ"
+  "hsc-physics-2nd-paper-chapter-02-model-test-08-q18": {
+    "correctOption": "প্রোটন (সঠিক উত্তর নেই)",
+    "explanation": ""
   },
-  "hsc-physics_2ndpaper-chapter-02-set-08-q19": {
-    "answer": "ফ্যারাড",
-    "answerIndex": 1,
-    "difficulty": 1200,
-    "explanation": "বোর্ড/মডেল/অধ্যায়ভিত্তিক সোর্স প্যাটার্ন থেকে নেওয়া high-priority MCQ।",
-    "topic": "স্থির তড়িৎ"
+  "hsc-physics-2nd-paper-chapter-02-model-test-08-q19": {
+    "correctOption": "আয়রন",
+    "explanation": ""
   },
-  "hsc-physics_2ndpaper-chapter-02-set-08-q20": {
-    "answer": "ম্যাক্স প্লাঙ্ক",
-    "answerIndex": 2,
-    "difficulty": 1200,
-    "explanation": "বোর্ড/মডেল/অধ্যায়ভিত্তিক সোর্স প্যাটার্ন থেকে নেওয়া high-priority MCQ।",
-    "topic": "High-priority board pattern"
-  },
-  "hsc-physics_2ndpaper-chapter-02-set-08-q21": {
-    "answer": "ম্যাক্স প্লাঙ্ক",
-    "answerIndex": 0,
-    "difficulty": 1200,
-    "explanation": "বোর্ড/মডেল/অধ্যায়ভিত্তিক সোর্স প্যাটার্ন থেকে নেওয়া high-priority MCQ।",
-    "topic": "High-priority board pattern"
-  },
-  "hsc-physics_2ndpaper-chapter-02-set-08-q22": {
-    "answer": "ম্যাক্স প্লাঙ্ক",
-    "answerIndex": 3,
-    "difficulty": 1200,
-    "explanation": "বোর্ড/মডেল/অধ্যায়ভিত্তিক সোর্স প্যাটার্ন থেকে নেওয়া high-priority MCQ।",
-    "topic": "High-priority board pattern"
-  },
-  "hsc-physics_2ndpaper-chapter-02-set-08-q23": {
-    "answer": "প্রোটন (সঠিক উত্তর নেই)",
-    "answerIndex": 3,
-    "difficulty": 1200,
-    "explanation": "বোর্ড/মডেল/অধ্যায়ভিত্তিক সোর্স প্যাটার্ন থেকে নেওয়া high-priority MCQ।",
-    "topic": "High-priority board pattern"
-  },
-  "hsc-physics_2ndpaper-chapter-02-set-08-q24": {
-    "answer": "আয়রন",
-    "answerIndex": 2,
-    "difficulty": 1200,
-    "explanation": "বোর্ড/মডেল/অধ্যায়ভিত্তিক সোর্স প্যাটার্ন থেকে নেওয়া high-priority MCQ।",
-    "topic": "High-priority board pattern"
-  },
-  "hsc-physics_2ndpaper-chapter-02-set-08-q25": {
-    "answer": "আলফা কণা",
-    "answerIndex": 0,
-    "difficulty": 1200,
-    "explanation": "বোর্ড/মডেল/অধ্যায়ভিত্তিক সোর্স প্যাটার্ন থেকে নেওয়া high-priority MCQ।",
-    "topic": "High-priority board pattern"
+  "hsc-physics-2nd-paper-chapter-02-model-test-08-q20": {
+    "correctOption": "আলফা কণা",
+    "explanation": ""
   }
 }

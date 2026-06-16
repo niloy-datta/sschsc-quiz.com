@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="100%" height="100%" viewBox="0 0 360 220">
+  <defs>
+    <radialGradient id="bg" cx="50%" cy="45%" r="75%">
+      <stop offset="0%" stop-color="#1e293b"/>
+      <stop offset="100%" stop-color="#020617"/>
+    </radialGradient>
+    <marker id="arrow" markerWidth="8" markerHeight="8" refX="7" refY="3" orient="auto">
+      <path d="M0,0 L0,6 L8,3 z" fill="#e5e7eb"/>
+    </marker>
+    <style>
+      .axis{stroke:#e5e7eb;stroke-width:2.5;marker-end:url(#arrow)}
+      .react{fill:none;stroke:#f97316;stroke-width:4;stroke-linecap:round}
+      .prod{fill:none;stroke:#22c55e;stroke-width:4;stroke-linecap:round}
+      .eq{stroke:#94a3b8;stroke-width:2;stroke-dasharray:6 5}
+      .label{font-family:Arial,sans-serif;font-size:12px;font-weight:800;fill:#fff}
+      .r{fill:#f97316}.p{fill:#22c55e}
+    </style>
+  </defs>
+
+  <rect width="360" height="220" rx="18" fill="url(#bg)"/>
+
+  <line x1="55" y1="170" x2="315" y2="170" class="axis"/>
+  <line x1="55" y1="170" x2="55" y2="40" class="axis"/>
+
+  <path d="M65 58 C115 74 160 108 205 125 C242 138 275 140 305 140" class="react"/>
+  <path d="M65 158 C115 142 160 105 205 87 C242 73 275 72 305 72" class="prod"/>
+
+  <line x1="220" y1="45" x2="220" y2="170" class="eq"/>
+
+  <text x="302" y="145" class="label r">P</text>
+  <text x="302" y="67" class="label p">Q</text>
+  <text x="226" y="42" class="label">Equilibrium</text>
+</svg>

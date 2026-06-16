@@ -1,6 +1,6 @@
 [
   {
-    "id": "ssc-physics-ch01-set01-q01",
+    "id": "ssc-physics-chapter-01-model-test-01-q01",
     "subject": "physics",
     "chapter": "ssc-physics-chapter-01-model-test-01",
     "text": "উচ্চ ধাপী ট্রান্সফরমারের ক্ষেত্রে— i. $V_s > V_p$ ii. $n_p > n_s$ iii. $I_p > I_s$ নিচের কোনটি সঠিক?",
@@ -10,14 +10,15 @@
       "i ও iii",
       "ii ও iii"
     ],
-    "image": null,
+    "image": "/images/quiz/ssc-transformer.svg",
+    "optionImages": null,
     "timeLimit": 45
   },
   {
-    "id": "ssc-physics-ch01-set01-q02",
+    "id": "ssc-physics-chapter-01-model-test-01-q02",
     "subject": "physics",
     "chapter": "ssc-physics-chapter-01-model-test-01",
-    "text": "ক্ষমতার মাত্রা কোনটি? মাত্রার সমীকরণ: $[P] = \\frac{\\text{M} \\times \\text{LT}^{-2} \\times \\text{L}}{\\text{T}} = \\text{ML}^2\\text{T}^{-3}$।",
+    "text": "ক্ষমতার মাত্রা কোনটি?",
     "options": [
       "$\\text{ML}^2\\text{T}^{-2}$",
       "$\\text{MLT}^{-1}$",
@@ -25,10 +26,11 @@
       "$\\text{ML}^2\\text{T}^{-3}$"
     ],
     "image": null,
+    "optionImages": null,
     "timeLimit": 45
   },
   {
-    "id": "ssc-physics-ch01-set01-q03",
+    "id": "ssc-physics-chapter-01-model-test-01-q03",
     "subject": "physics",
     "chapter": "ssc-physics-chapter-01-model-test-01",
     "text": "উদ্দীপক: চিত্রে ধনাত্মক আধানে আহিত AB পরিবাহীর নিকট একটি অনাহিত পরিবাহী EF রাখা হলো। AB ও EF বস্তু দ্বয়কে নিকটে রাখা অবস্থায়— নিচের কোনটি সঠিক?",
@@ -39,10 +41,11 @@
       "F প্রান্ত ভূ-সংযোগ করলে F প্রান্তের নীট আধান শূন্য হবে"
     ],
     "image": null,
+    "optionImages": null,
     "timeLimit": 45
   },
   {
-    "id": "ssc-physics-ch01-set01-q04",
+    "id": "ssc-physics-chapter-01-model-test-01-q04",
     "subject": "physics",
     "chapter": "ssc-physics-chapter-01-model-test-01",
     "text": "আপতন কোণ ও সংকট কোণের মান সমান হলে প্রতিসৃত রশ্মি ও বিভেদ তলের মধ্যবর্তী কোণ কত?",
@@ -53,10 +56,11 @@
       "0°"
     ],
     "image": null,
+    "optionImages": null,
     "timeLimit": 45
   },
   {
-    "id": "ssc-physics-ch01-set01-q05",
+    "id": "ssc-physics-chapter-01-model-test-01-q05",
     "subject": "physics",
     "chapter": "ssc-physics-chapter-01-model-test-01",
     "text": "(চিত্রভিত্তিক) প্রতিবিম্বের দূরত্ব কত হবে?",
@@ -67,10 +71,11 @@
       "60 cm"
     ],
     "image": null,
+    "optionImages": null,
     "timeLimit": 45
   },
   {
-    "id": "ssc-physics-ch01-set01-q06",
+    "id": "ssc-physics-chapter-01-model-test-01-q06",
     "subject": "physics",
     "chapter": "ssc-physics-chapter-01-model-test-01",
     "text": "একটি গোলকের ব্যাসার্ধ R = 5.3 ± 0.1 একক হলে, আয়তনের শতকরা ত্রুটি কত?",
@@ -81,10 +86,11 @@
       "5.67%"
     ],
     "image": null,
+    "optionImages": null,
     "timeLimit": 45
   },
   {
-    "id": "ssc-physics-ch01-set01-q07",
+    "id": "ssc-physics-chapter-01-model-test-01-q07",
     "subject": "physics",
     "chapter": "ssc-physics-chapter-01-model-test-01",
     "text": "কোনো তেজস্ক্রিয় মৌলে 1,00,000টি তেজস্ক্রিয় পরমাণু আছে। মৌলটির অর্ধায়ু 1 বছর হলে, 2 বছর পরে কতটি পরমাণু অবশিষ্ট থাকবে?",
@@ -95,10 +101,11 @@
       "1,00,000 টি"
     ],
     "image": null,
+    "optionImages": null,
     "timeLimit": 45
   },
   {
-    "id": "ssc-physics-ch01-set01-q08",
+    "id": "ssc-physics-chapter-01-model-test-01-q08",
     "subject": "physics",
     "chapter": "ssc-physics-chapter-01-model-test-01",
     "text": "যান্ত্রিক ত্রুটি— i. ধনাত্মক বা ঋণাত্মক হতে পারে ii. শতকরা আকারেও প্রকাশ করা যায় iii. ভার্নিয়ার ধ্রুবক এর সাথে গুণ করে পরিমাণ করা হয়",
@@ -109,10 +116,11 @@
       "i, ii ও iii"
     ],
     "image": null,
+    "optionImages": null,
     "timeLimit": 45
   },
   {
-    "id": "ssc-physics-ch01-set01-q09",
+    "id": "ssc-physics-chapter-01-model-test-01-q09",
     "subject": "physics",
     "chapter": "ssc-physics-chapter-01-model-test-01",
     "text": "বিকৃতি— i. হচ্ছে অবস্থার পরিবর্তন ii. এর কোনো একক নেই iii. পীড়নের ব্যস্তানুপাতিক",
@@ -123,10 +131,11 @@
       "i, ii ও iii"
     ],
     "image": null,
+    "optionImages": null,
     "timeLimit": 45
   },
   {
-    "id": "ssc-physics-ch01-set01-q10",
+    "id": "ssc-physics-chapter-01-model-test-01-q10",
     "subject": "physics",
     "chapter": "ssc-physics-chapter-01-model-test-01",
     "text": "সমতল আয়নায় সৃষ্ট বিম্ব অসদ ও — i. সোজা ii. খর্বিত iii. বিবর্ধিত নিচের কোনটি সঠিক?",
@@ -137,10 +146,11 @@
       "i ও iii"
     ],
     "image": null,
+    "optionImages": null,
     "timeLimit": 45
   },
   {
-    "id": "ssc-physics-ch01-set01-q11",
+    "id": "ssc-physics-chapter-01-model-test-01-q11",
     "subject": "physics",
     "chapter": "ssc-physics-chapter-01-model-test-01",
     "text": "একটি স্টেপআপ ট্রান্সফরমারের ক্ষেত্রে— i. $n_p < n_s$ ii. $V_p > V_s$ iii. $I_p > I_s$",
@@ -150,11 +160,12 @@
       "ii ও iii",
       "i, ii ও iii"
     ],
-    "image": null,
+    "image": "/images/quiz/ssc-transformer.svg",
+    "optionImages": null,
     "timeLimit": 45
   },
   {
-    "id": "ssc-physics-ch01-set01-q12",
+    "id": "ssc-physics-chapter-01-model-test-01-q12",
     "subject": "physics",
     "chapter": "ssc-physics-chapter-01-model-test-01",
     "text": "P ও Q বস্তু দুটিকে পানিতে ছেড়ে দিলে— (উদ্দীপকভিত্তিক)",
@@ -165,24 +176,26 @@
       "P ডুবে যাবে কিন্তু Q ভাসবে"
     ],
     "image": null,
+    "optionImages": null,
     "timeLimit": 45
   },
   {
-    "id": "ssc-physics-ch01-set01-q13",
+    "id": "ssc-physics-chapter-01-model-test-01-q13",
     "subject": "physics",
     "chapter": "ssc-physics-chapter-01-model-test-01",
-    "text": "উদ্দীপক: একটি দূরত্ব-সময় লেখচিত্র দেওয়া আছে। লেখচিত্রে Y-অক্ষে দূরত্ব \\(s\\text{ (মিটার)}\\) এবং X-অক্ষে সময় \\(t\\text{ (সেকেন্ড)}\\) নির্দেশ করা হয়েছে। লেখচিত্রের রেখাটি \\(O(0,0)\\) থেকে শুরু হয়ে \\(A(10, 10)\\), এরপর \\(B(20, 10)\\) এবং অবশেষে \\(C(30, 20)\\) বিন্দুতে পৌঁছায়। OA অংশের দ্রুতি কত?",
+    "text": "উদ্দীপক: একটি দূরত্ব-সময় লেখচিত্র দেওয়া আছে। লেখচিত্রে Y-অক্ষে দূরত্ব $s$ (মিটার) এবং X-অক্ষে সময় $t$ (সেকেন্ড)। রেখাটি $O(0,0)$ থেকে $A(10,10)$, $B(20,10)$ এবং $C(30,20)$ বিন্দু দিয়ে গেছে। OA অংশের দ্রুতি কত?",
     "options": [
-      "\\(0.5\\text{ ms}^{-1}\\)",
-      "\\(1\\text{ ms}^{-1}\\)",
-      "\\(2\\text{ ms}^{-1}\\)",
-      "\\(6\\text{ ms}^{-1}\\)"
+      "$0.5\\text{ m/s}$",
+      "$1\\text{ m/s}$",
+      "$2\\text{ m/s}$",
+      "$6\\text{ m/s}$"
     ],
-    "image": null,
+    "image": "/images/quiz/ssc-st-graph.svg",
+    "optionImages": null,
     "timeLimit": 45
   },
   {
-    "id": "ssc-physics-ch01-set01-q14",
+    "id": "ssc-physics-chapter-01-model-test-01-q14",
     "subject": "physics",
     "chapter": "ssc-physics-chapter-01-model-test-01",
     "text": "কাগজ ভেদ করতে পারে— i. আলফা রশ্মি ii. বিটা রশ্মি iii. গামা রশ্মি নিচের কোনটি সঠিক?",
@@ -193,10 +206,11 @@
       "i, ii ও iii"
     ],
     "image": null,
+    "optionImages": null,
     "timeLimit": 45
   },
   {
-    "id": "ssc-physics-ch01-set01-q15",
+    "id": "ssc-physics-chapter-01-model-test-01-q15",
     "subject": "physics",
     "chapter": "ssc-physics-chapter-01-model-test-01",
     "text": "এনজিওগ্রাম করা হয়— i. হৃদপিণ্ডের আকার বড় হয়ে থাকলে ii. ধমনী প্রসারিত হলে iii. শিরার কোনো সমস্যা হলে নিচের কোনটি সঠিক?",
@@ -207,10 +221,11 @@
       "i, ii ও iii"
     ],
     "image": null,
+    "optionImages": null,
     "timeLimit": 45
   },
   {
-    "id": "ssc-physics-ch01-set01-q16",
+    "id": "ssc-physics-chapter-01-model-test-01-q16",
     "subject": "physics",
     "chapter": "ssc-physics-chapter-01-model-test-01",
     "text": "প্রথম 6 সেকেন্ডে গাড়িটির অতিক্রান্ত দূরত্ব কত? (চিত্রভিত্তিক)",
@@ -221,10 +236,11 @@
       "60m"
     ],
     "image": null,
+    "optionImages": null,
     "timeLimit": 45
   },
   {
-    "id": "ssc-physics-ch01-set01-q17",
+    "id": "ssc-physics-chapter-01-model-test-01-q17",
     "subject": "physics",
     "chapter": "ssc-physics-chapter-01-model-test-01",
     "text": "কোনো তেজস্ক্রিয় মৌলের অর্ধায়ু 100 বছর হলে মৌলটির 1/8 অংশ অক্ষত থাকতে কত সময় লাগবে?",
@@ -235,83 +251,89 @@
       "400 বছর"
     ],
     "image": null,
+    "optionImages": null,
     "timeLimit": 45
   },
   {
-    "id": "ssc-physics-ch01-set01-q18",
+    "id": "ssc-physics-chapter-01-model-test-01-q18",
     "subject": "physics",
     "chapter": "ssc-physics-chapter-01-model-test-01",
-    "text": "২. কোনো পরিবাহীর দুই প্রােš@র বিভব পার্থক্য ১২০ঠ এবং তড়িৎ প্রবাহমাত্রা ১০অ হলে এর রোধ কত?",
+    "text": "কোনো পরিবাহীর দুই প্রান্তের বিভব পার্থক্য $120\\text{ V}$ এবং তড়িত প্রবাহ $10\\text{ A}$ হলে এর রোধ কত?",
     "options": [
-      "১২০০Omega",
-      "১২Omega",
-      "০.১২Omega",
-      "০.১Omega"
+      "$1200\\,\\Omega$",
+      "$12\\,\\Omega$",
+      "$0.12\\,\\Omega$",
+      "$0.1\\,\\Omega$"
     ],
     "image": null,
+    "optionImages": null,
     "timeLimit": 45
   },
   {
-    "id": "ssc-physics-ch01-set01-q19",
+    "id": "ssc-physics-chapter-01-model-test-01-q19",
     "subject": "physics",
     "chapter": "ssc-physics-chapter-01-model-test-01",
-    "text": "৭. একটি ট্রান্সফর্মারের প্রাইমারি কয়েলের প্যাঁচmsখ্যা 10^{০}। সেকেন্ডারি কয়েলের প্যাঁচmsখ্যা 10^{০০}। প্রাইমারি কয়েল দিয়ে ১২ঠ উC দেওয়া হলে, সেকেন্ডারি কয়েলে ভোল্টেজ কত?",
+    "text": "একটি ট্রান্সফর্মারের প্রাইমারি কয়েলের পাঁচ সংখ্যা $100$। সেকেন্ডারি কয়েলের পাঁচ সংখ্যা $1000$। প্রাইমারি কয়েলে $12\\text{ V}$ DC দেওয়া হলে, সেকেন্ডারি কয়েলে ভোল্টেজ কত?",
     "options": [
-      "০",
-      "১০",
-      "10^{০}",
-      "১২০"
+      "$0\\text{ V}$",
+      "$10\\text{ V}$",
+      "$100\\text{ V}$",
+      "$120\\text{ V}$"
     ],
     "image": null,
+    "optionImages": null,
     "timeLimit": 45
   },
   {
-    "id": "ssc-physics-ch01-set01-q20",
+    "id": "ssc-physics-chapter-01-model-test-01-q20",
     "subject": "physics",
     "chapter": "ssc-physics-chapter-01-model-test-01",
-    "text": "১২. একটি স্ক্রুগজের স্ক্রুয়ের পিচ ০.৫ ext{ ext{mm}} এবং বৃত্তাকার অংশের ভাগ msখ্যা ১০^{০} হলে স্ক্রুগজের ন–্যনাঙ্ক কত?",
+    "text": "একটি স্ক্রুগজের স্ক্রুর পিচ $0.5\\text{ mm}$ এবং বৃত্তাকার স্কেলের ভাগ সংখ্যা $100$ হলে স্ক্রুগজের least count কত?",
     "options": [
-      "০.০০১ ext{ ext{mm}}",
-      "০.০০৫ ext{ ext{mm}}",
-      "০.০১ ext{ ext{mm}}",
-      "০.০৫ ext{ ext{mm}}"
+      "$0.001\\text{ mm}$",
+      "$0.005\\text{ mm}$",
+      "$0.01\\text{ mm}$",
+      "$0.05\\text{ mm}$"
     ],
     "image": null,
+    "optionImages": null,
     "timeLimit": 45
   },
   {
-    "id": "ssc-physics-ch01-set01-q21",
+    "id": "ssc-physics-chapter-01-model-test-01-q21",
     "subject": "physics",
     "chapter": "ssc-physics-chapter-01-model-test-01",
-    "text": "৯. ২ ext{ ext{mm}} পিচ বিশিষ্ট স্ক্রু-গজের ন–্যনাঙ্ক ০.০০২ cm হলে, বৃত্তাকার স্কেলের ভাগmsখ্যা কত?",
+    "text": "$2\\text{ mm}$ পিচ বিশিষ্ট স্ক্রু-গজের least count $0.002\\text{ cm}$ হলে, বৃত্তাকার স্কেলের ভাগ সংখ্যা কত?",
     "options": [
-      "10^{৩}",
-      "10^{২}",
-      "১০–২",
-      "১০–৩"
+      "$10^3$",
+      "$10^2$",
+      "$10^{-2}$",
+      "$10^{-3}$"
     ],
     "image": null,
+    "optionImages": null,
     "timeLimit": 45
   },
   {
-    "id": "ssc-physics-ch01-set01-q22",
+    "id": "ssc-physics-chapter-01-model-test-01-q22",
     "subject": "physics",
     "chapter": "ssc-physics-chapter-01-model-test-01",
-    "text": " নিচের উদ্দীপকের আলোকে ২০ ও ২১ নং প্রশ্নের উত্তর দাও : ২ ext{ ext{kg}} ভরের একটি বস্তু ছ এর উপর প্রযুক্ত বল বনাম সময়ের লেখচিত্র : ২০. উদ্দীপকের লেখচিত্রের ঢাল এর একক নিচের কোনটি?",
+    "text": "উদ্দীপক: $2\\text{ kg}$ ভরের একটি বস্তুর উপর প্রযুক্ত বল বনাম সময়ের লেখচিত্র দেওয়া আছে। লেখচিত্রের ঢালের একক নিচের কোনটি?",
     "options": [
-      "ext{ ext{kg}} ms–১",
-      "ext{ ext{kg}} ms–২",
-      "ext{ ext{kg}}Ñ১সÑ১ং–২",
-      "ext{ ext{kg}} ms–৩"
+      "$\\text{kg}\\,\\text{m/s}$",
+      "$\\text{kg}\\,\\text{m/s}^2$",
+      "$\\text{kg}\\,\\text{m}^2/\\text{s}^2$",
+      "$\\text{kg}\\,\\text{m/s}^3$"
     ],
-    "image": null,
+    "image": "/images/quiz/ssc-force-time-graph.svg",
+    "optionImages": null,
     "timeLimit": 45
   },
   {
-    "id": "ssc-physics-ch01-set01-q23",
+    "id": "ssc-physics-chapter-01-model-test-01-q23",
     "subject": "physics",
     "chapter": "ssc-physics-chapter-01-model-test-01",
-    "text": " নিচের চিত্রটি থেকে ২ ও ৩ নং প্রশ্নের উত্তর দাও : ৩. ঙঅ লক্ষ্যবস্তু প্রধান অক্ষের উপর কোন অবস্থানে রাখলে বিবর্ধন, স এর মান ১ এর চেয়ে ছোট হবে না?",
+    "text": "উপরের চিত্রানুসারে, লক্ষ্যবস্তু প্রধান অক্ষের উপর কোন অবস্থানে রাখলে বিবর্ধন $m$ এর মান $1$ এর চেয়ে ছোট হবে না?",
     "options": [
       "১০ cm – ২০ cm",
       "২০ cm – ৩০ cm",
@@ -319,27 +341,14 @@
       "১০ cm – ৪০ cm"
     ],
     "image": null,
+    "optionImages": null,
     "timeLimit": 45
   },
   {
-    "id": "ssc-physics-ch01-set01-q24",
+    "id": "ssc-physics-chapter-01-model-test-01-q24",
     "subject": "physics",
     "chapter": "ssc-physics-chapter-01-model-test-01",
-    "text": " উদ্দীপকের আলোকে ৫ ও ৬ নং প্রশ্নের উত্তর দাও : ২ ext{ ext{kg}} ভরের একটি বস্তু ছ এর উপর প্রযুক্ত বল বনাম সময়ের লেখচিত্র : ৫. উদ্দীপকের লেখচিত্রের ঢাল এর একক নিচের কোনটি?",
-    "options": [
-      "ext{ ext{kg}} ms–১",
-      "ext{ ext{kg}} ms–২",
-      "ext{ ext{kg}}Ñ১সÑ১ং–২",
-      "ext{ ext{kg}} ms–৩"
-    ],
-    "image": null,
-    "timeLimit": 45
-  },
-  {
-    "id": "ssc-physics-ch01-set01-q25",
-    "subject": "physics",
-    "chapter": "ssc-physics-chapter-01-model-test-01",
-    "text": "২২. ইলেকটি্রক ফিল্ড পরিবর্তন করতে হলে পটেনশিয়াল-",
+    "text": "ইলেকট্রিক ফিল্ড পরিবর্তন করতে হলে পটেনশিয়াল—",
     "options": [
       "বৃদ্ধি করতে হবে",
       "হ্রাস করতে হবে",
@@ -347,6 +356,22 @@
       "অপরিবর্তিত থাকবে"
     ],
     "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-chapter-01-model-test-01-q25",
+    "subject": "physics",
+    "chapter": "ssc-physics-chapter-01-model-test-01",
+    "text": " wb‡Pi DÏxcKwU co Ges 12 I 13bs cÖ‡kœi DËi `vI : R2 = 12 R1 = 2 E = 25V R3 = 4 13. DÏxc‡Ki †¶‡ÎÑ i. R2 I R3 †iv‡ai `yB cÖv‡š@ wefe cv_©K¨ mgvb ii. R2 I R3 †iv‡ai ¶gZv wfbœ iii. R2 I R3 †iv‡ai ga¨ w`‡q Zwor cÖevn wfbœ n‡e wb‡Pi †KvbwU mwVK?",
+    "options": [
+      "i I ii",
+      "i I iii",
+      "ii I iii",
+      "i, ii I iii"
+    ],
+    "image": null,
+    "optionImages": null,
     "timeLimit": 45
   }
 ]

@@ -1,0 +1,77 @@
+{
+  "setId": "ssc-general-math-chapter-04-model-test-08",
+  "reason": "DUPLICATE_OF_ssc-general-math-chapter-04-model-test-06",
+  "quarantinedAt": "2026-06-14T19:53:00.937Z",
+  "questions": [
+    {
+      "id": "ssc-general-math-chapter-04-model-test-08-q01",
+      "questionText": "x>2 হলে smallest integer?",
+      "optionA": "c",
+      "optionB": "2",
+      "optionC": "0",
+      "optionD": "x",
+      "correctOption": "A",
+      "explanation": "inequality",
+      "chapter": "04",
+      "topic": "অসমতা",
+      "difficulty": "Board Standard",
+      "questionNo": 1
+    },
+    {
+      "id": "ssc-general-math-chapter-04-model-test-08-q02",
+      "questionText": "x>3 হলে smallest integer?",
+      "optionA": "x",
+      "optionB": "180",
+      "optionC": "4",
+      "optionD": "c",
+      "correctOption": "C",
+      "explanation": "inequality",
+      "chapter": "04",
+      "topic": "অসমতা",
+      "difficulty": "Board Standard",
+      "questionNo": 2
+    },
+    {
+      "id": "ssc-general-math-chapter-04-model-test-08-q03",
+      "questionText": "x>4 হলে smallest integer?",
+      "optionA": "2",
+      "optionB": "-1",
+      "optionC": "x",
+      "optionD": "1",
+      "correctOption": "A",
+      "explanation": "inequality",
+      "chapter": "04",
+      "topic": "অসমতা",
+      "difficulty": "Board Standard",
+      "questionNo": 3
+    },
+    {
+      "id": "ssc-general-math-chapter-04-model-test-08-q04",
+      "questionText": "x>5 হলে smallest integer?",
+      "optionA": "y",
+      "optionB": "1",
+      "optionC": "x",
+      "optionD": "0",
+      "correctOption": "A",
+      "explanation": "inequality",
+      "chapter": "04",
+      "topic": "অসমতা",
+      "difficulty": "Board Standard",
+      "questionNo": 4
+    },
+    {
+      "id": "ssc-general-math-chapter-04-model-test-08-q05",
+      "questionText": "x>1 হলে smallest integer?",
+      "optionA": "360",
+      "optionB": "-1",
+      "optionC": "x",
+      "optionD": "a",
+      "correctOption": "A",
+      "explanation": "inequality",
+      "chapter": "04",
+      "topic": "অসমতা",
+      "difficulty": "Board Standard",
+      "questionNo": 5
+    }
+  ]
+}

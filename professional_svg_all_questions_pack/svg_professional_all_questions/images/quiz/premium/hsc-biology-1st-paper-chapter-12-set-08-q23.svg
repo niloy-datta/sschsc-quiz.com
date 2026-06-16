@@ -1,0 +1,31 @@
+<svg width="100%" height="100%" viewBox="0 0 360 220" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Central Dogma">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#07111f"/>
+      <stop offset="100%" stop-color="#0f172a"/>
+    </linearGradient>
+    <filter id="glow"><feGaussianBlur stdDeviation="2.2" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+    <marker id="arrow" markerWidth="8" markerHeight="8" refX="7" refY="3" orient="auto"><path d="M0,0 L0,6 L8,3 z" fill="#67e8f9"/></marker>
+  </defs>
+  <rect width="360" height="220" rx="18" fill="url(#bg)"/>
+  <rect x="10" y="10" width="340" height="200" rx="14" fill="#ffffff" opacity=".035" stroke="#38bdf8" stroke-opacity=".24"/>
+  <text x="180" y="28" text-anchor="middle" fill="#e0f2fe" font-size="12.5" font-weight="700" font-family="Noto Sans Bengali, Arial, sans-serif">Central Dogma</text>
+  <text x="180" y="44" text-anchor="middle" fill="#93c5fd" font-size="9.5" font-family="Noto Sans Bengali, Arial, sans-serif">X = Transcription, Y = Translation</text>
+  
+  <g filter="url(#glow)">
+    <rect x="45" y="82" width="90" height="36" rx="12" fill="#1e293b" stroke="#22d3ee" stroke-width="2"/>
+    <text x="90" y="105" text-anchor="middle" fill="#e0f2fe" font-size="12" font-family="Arial">DNA</text>
+    <rect x="160" y="82" width="80" height="36" rx="12" fill="#1e293b" stroke="#fbbf24" stroke-width="2"/>
+    <text x="200" y="105" text-anchor="middle" fill="#fef3c7" font-size="12" font-family="Arial">mRNA</text>
+    <ellipse cx="300" cy="100" rx="38" ry="24" fill="#1e293b" stroke="#a78bfa" stroke-width="2"/>
+    <text x="300" y="104" text-anchor="middle" fill="#ddd6fe" font-size="11" font-family="Noto Sans Bengali, Arial">রাইবোজোম</text>
+    <line x1="135" y1="100" x2="160" y2="100" stroke="#67e8f9" stroke-width="2" marker-end="url(#arrow)" /><line x1="240" y1="100" x2="262" y2="100" stroke="#67e8f9" stroke-width="2" marker-end="url(#arrow)" />
+    <text x="147" y="88" text-anchor="middle" fill="#67e8f9" font-size="10">X</text>
+    <text x="252" y="88" text-anchor="middle" fill="#67e8f9" font-size="10">Y</text>
+    <text x="147" y="135" text-anchor="middle" fill="#bae6fd" font-size="9" font-family="Noto Sans Bengali, Arial">ট্রান্সক্রিপশন</text>
+    <text x="253" y="135" text-anchor="middle" fill="#bae6fd" font-size="9" font-family="Noto Sans Bengali, Arial">ট্রান্সলেশন</text>
+    <path d="M277 140 Q300 125 323 140" fill="none" stroke="#f472b6" stroke-width="2"/>
+    <text x="300" y="158" text-anchor="middle" fill="#f9a8d4" font-size="9" font-family="Noto Sans Bengali, Arial">tRNA সংশ্লিষ্ট</text>
+  </g>
+  
+</svg>

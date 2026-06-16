@@ -1,0 +1,3544 @@
+{
+  "level": "HSC",
+  "subject": "higher-math-1st-paper",
+  "datasetType": "chapterwise_hyper_mega_hot_board_standard",
+  "confidenceLabel": "Hyper Mega Hot — Highest Probability Board-Standard Pattern Cache",
+  "chapterWise": [
+    {
+      "chapter": "04",
+      "chapterName": "বৃত্ত",
+      "sets": [
+        {
+          "id": "hsc-higher-math-1st-paper-chapter-04-set-01",
+          "title": "Chapter 04 Hyper Mega Hot Set 01",
+          "questions": [
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-04-set-01-q01",
+              "question": "$(x-3)^2+(y-3)^2=16$ বৃত্তের কেন্দ্র ও ব্যাসার্ধ কত?",
+              "options": [
+                {
+                  "text": "$(3,3), 16$",
+                  "label": "ক"
+                },
+                {
+                  "text": "$(-3,-3), 4$",
+                  "label": "খ"
+                },
+                {
+                  "text": "$(0,0),1$",
+                  "label": "গ"
+                },
+                {
+                  "text": "$(3,3), 4$",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "ঘ",
+              "shortSolution": "সঠিক উত্তর: ঘ। Standard form থেকে কেন্দ্র $(h,k)$ ও ব্যাসার্ধ $r$।",
+              "chapter": "04",
+              "topic": "কেন্দ্র ও ব্যাসার্ধ",
+              "difficulty": "Easy",
+              "probability": "Board Favourite"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-04-set-01-q02",
+              "question": "$x^2+y^2=16$ বৃত্তের ব্যাসার্ধ কত?",
+              "options": [
+                {
+                  "text": "1",
+                  "label": "ক"
+                },
+                {
+                  "text": "4",
+                  "label": "খ"
+                },
+                {
+                  "text": "16",
+                  "label": "গ"
+                },
+                {
+                  "text": "8",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "খ",
+              "shortSolution": "সঠিক উত্তর: খ। $x^2+y^2=r^2$।",
+              "chapter": "04",
+              "topic": "মূলবিন্দু-কেন্দ্রিক বৃত্ত",
+              "difficulty": "Easy",
+              "probability": "Conceptual Trap"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-04-set-01-q03",
+              "question": "বৃত্তের স্পর্শক স্পর্শবিন্দুতে ব্যাসার্ধের সাথে কত কোণ করে?",
+              "options": [
+                {
+                  "text": "$90^\\circ$",
+                  "label": "ক"
+                },
+                {
+                  "text": "$45^\\circ$",
+                  "label": "খ"
+                },
+                {
+                  "text": "$180^\\circ$",
+                  "label": "গ"
+                },
+                {
+                  "text": "$0^\\circ$",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "ক",
+              "shortSolution": "সঠিক উত্তর: ক। স্পর্শক ব্যাসার্ধের উপর লম্ব।",
+              "chapter": "04",
+              "topic": "স্পর্শক",
+              "difficulty": "Easy",
+              "probability": "Mega Hot"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-04-set-01-q04",
+              "question": "ব্যাসের প্রান্তবিন্দু $(6,6)$ ও $(3,7)$ হলে কেন্দ্র কোনটি?",
+              "options": [
+                {
+                  "text": "$(3,-1)$",
+                  "label": "ক"
+                },
+                {
+                  "text": "$(9,13)$",
+                  "label": "খ"
+                },
+                {
+                  "text": "$(0,0)$",
+                  "label": "গ"
+                },
+                {
+                  "text": "$($\\frac{9}{2}$,$\\frac{13}{2}$)$",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "ঘ",
+              "shortSolution": "সঠিক উত্তর: ঘ। কেন্দ্র হলো ব্যাসের প্রান্তবিন্দুর midpoint।",
+              "chapter": "04",
+              "topic": "ব্যাস ও কেন্দ্র",
+              "difficulty": "Easy",
+              "probability": "Very Hot"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-04-set-01-q05",
+              "question": "বৃত্তের সাধারণ সমীকরণে $x^2$ ও $y^2$ এর সহগ কেমন?",
+              "options": [
+                {
+                  "text": "দুটিই 0",
+                  "label": "ক"
+                },
+                {
+                  "text": "সমান",
+                  "label": "খ"
+                },
+                {
+                  "text": "বিপরীত চিহ্নের",
+                  "label": "গ"
+                },
+                {
+                  "text": "যেকোনো",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "খ",
+              "shortSolution": "সঠিক উত্তর: খ। বৃত্তে $x^2$ ও $y^2$ এর সহগ সমান হয়।",
+              "chapter": "04",
+              "topic": "সাধারণ সমীকরণ",
+              "difficulty": "Easy",
+              "probability": "Board Favourite"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-04-set-01-q06",
+              "question": "$x^2+y^2=9$ বৃত্তের $x$-অক্ষের ছেদবিন্দু কোনগুলো?",
+              "options": [
+                {
+                  "text": "$(0,0)",
+                  "label": "ক"
+                },
+                {
+                  "text": "$(3,3)$",
+                  "label": "খ"
+                },
+                {
+                  "text": "$(3,0),(-3,0)$",
+                  "label": "গ"
+                },
+                {
+                  "text": "$(0,3),(0,-3)$",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "গ",
+              "shortSolution": "সঠিক উত্তর: গ। $y=0$ বসালে $x=\\pm a$।",
+              "chapter": "04",
+              "topic": "অক্ষের ছেদবিন্দু",
+              "difficulty": "Easy",
+              "probability": "Conceptual Trap"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-04-set-01-q07",
+              "question": "কেন্দ্র $(4,2)$ এবং ব্যাসার্ধ 6 হলে বৃত্তের সমীকরণ কোনটি?",
+              "options": [
+                {
+                  "text": "$(x-4)+(y-2)=6$",
+                  "label": "ক"
+                },
+                {
+                  "text": "$(x-4)^2+(y-2)^2=36$",
+                  "label": "খ"
+                },
+                {
+                  "text": "$(x+4)^2+(y+2)^2=36$",
+                  "label": "গ"
+                },
+                {
+                  "text": "$x^2+y^2=36$",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "খ",
+              "shortSolution": "সঠিক উত্তর: খ। Standard circle equation।",
+              "chapter": "04",
+              "topic": "বৃত্তের সমীকরণ",
+              "difficulty": "Easy",
+              "probability": "Mega Hot"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-04-set-01-q08",
+              "question": "বৃত্তের সকল বিন্দু কেন্দ্র থেকে কেমন দূরত্বে থাকে?",
+              "options": [
+                {
+                  "text": "সমান",
+                  "label": "ক"
+                },
+                {
+                  "text": "শূন্য",
+                  "label": "খ"
+                },
+                {
+                  "text": "অসমান",
+                  "label": "গ"
+                },
+                {
+                  "text": "অসীম",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "ক",
+              "shortSolution": "সঠিক উত্তর: ক। বৃত্তের সংজ্ঞা অনুযায়ী সব বিন্দু কেন্দ্র থেকে সমদূরবর্তী।",
+              "chapter": "04",
+              "topic": "বৃত্তের সংজ্ঞা",
+              "difficulty": "Medium",
+              "probability": "Very Hot"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-04-set-01-q09",
+              "question": "ব্যাসার্ধ 6 হলে ব্যাস কত?",
+              "options": [
+                {
+                  "text": "36",
+                  "label": "ক"
+                },
+                {
+                  "text": "12",
+                  "label": "খ"
+                },
+                {
+                  "text": "6",
+                  "label": "গ"
+                },
+                {
+                  "text": "8",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "খ",
+              "shortSolution": "সঠিক উত্তর: খ। ব্যাস = 2 × ব্যাসার্ধ।",
+              "chapter": "04",
+              "topic": "ব্যাস",
+              "difficulty": "Medium",
+              "probability": "Board Favourite"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-04-set-01-q10",
+              "question": "$x^2+y^2+2=0$ বাস্তব বৃত্ত নির্দেশ করে কি?",
+              "options": [
+                {
+                  "text": "হ্যাঁ",
+                  "label": "ক"
+                },
+                {
+                  "text": "শুধু এক বিন্দু",
+                  "label": "খ"
+                },
+                {
+                  "text": "তথ্য অপর্যাপ্ত",
+                  "label": "গ"
+                },
+                {
+                  "text": "না",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "ঘ",
+              "shortSolution": "সঠিক উত্তর: ঘ। $r^2=-a$; $a>0$ হলে বাস্তব ব্যাসার্ধ নেই।",
+              "chapter": "04",
+              "topic": "বাস্তব বৃত্তের শর্ত",
+              "difficulty": "Medium",
+              "probability": "Conceptual Trap"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-04-set-01-q11",
+              "question": "$(x-3)^2+(y-6)^2=36$ বৃত্তের কেন্দ্র ও ব্যাসার্ধ কত?",
+              "options": [
+                {
+                  "text": "$(0,0),1$",
+                  "label": "ক"
+                },
+                {
+                  "text": "$(3,6), 6$",
+                  "label": "খ"
+                },
+                {
+                  "text": "$(-3,-6), 6$",
+                  "label": "গ"
+                },
+                {
+                  "text": "$(3,6), 36$",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "খ",
+              "shortSolution": "সঠিক উত্তর: খ। Standard form থেকে কেন্দ্র $(h,k)$ ও ব্যাসার্ধ $r$।",
+              "chapter": "04",
+              "topic": "কেন্দ্র ও ব্যাসার্ধ",
+              "difficulty": "Medium",
+              "probability": "Mega Hot"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-04-set-01-q12",
+              "question": "$x^2+y^2=16$ বৃত্তের ব্যাসার্ধ কত? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 01-12 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+              "options": [
+                {
+                  "text": "4",
+                  "label": "ক"
+                },
+                {
+                  "text": "8",
+                  "label": "খ"
+                },
+                {
+                  "text": "1",
+                  "label": "গ"
+                },
+                {
+                  "text": "16",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "ক",
+              "shortSolution": "সঠিক উত্তর: ক। $x^2+y^2=r^2$।",
+              "chapter": "04",
+              "topic": "মূলবিন্দু-কেন্দ্রিক বৃত্ত",
+              "difficulty": "Medium",
+              "probability": "Very Hot"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-04-set-01-q13",
+              "question": "বৃত্তের স্পর্শক স্পর্শবিন্দুতে ব্যাসার্ধের সাথে কত কোণ করে? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 01-13 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+              "options": [
+                {
+                  "text": "$180^\\circ$",
+                  "label": "ক"
+                },
+                {
+                  "text": "$45^\\circ$",
+                  "label": "খ"
+                },
+                {
+                  "text": "$0^\\circ$",
+                  "label": "গ"
+                },
+                {
+                  "text": "$90^\\circ$",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "ঘ",
+              "shortSolution": "সঠিক উত্তর: ঘ। স্পর্শক ব্যাসার্ধের উপর লম্ব।",
+              "chapter": "04",
+              "topic": "স্পর্শক",
+              "difficulty": "Medium",
+              "probability": "Board Favourite"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-04-set-01-q14",
+              "question": "ব্যাসের প্রান্তবিন্দু $(6,2)$ ও $(5,5)$ হলে কেন্দ্র কোনটি?",
+              "options": [
+                {
+                  "text": "$(0,0)$",
+                  "label": "ক"
+                },
+                {
+                  "text": "$(1,-3)$",
+                  "label": "খ"
+                },
+                {
+                  "text": "$($\\frac{11}{2}$,$\\frac{7}{2}$)$",
+                  "label": "গ"
+                },
+                {
+                  "text": "$(11,7)$",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "গ",
+              "shortSolution": "সঠিক উত্তর: গ। কেন্দ্র হলো ব্যাসের প্রান্তবিন্দুর midpoint।",
+              "chapter": "04",
+              "topic": "ব্যাস ও কেন্দ্র",
+              "difficulty": "Medium",
+              "probability": "Conceptual Trap"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-04-set-01-q15",
+              "question": "বৃত্তের সাধারণ সমীকরণে $x^2$ ও $y^2$ এর সহগ কেমন? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 01-15 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+              "options": [
+                {
+                  "text": "বিপরীত চিহ্নের",
+                  "label": "ক"
+                },
+                {
+                  "text": "সমান",
+                  "label": "খ"
+                },
+                {
+                  "text": "দুটিই 0",
+                  "label": "গ"
+                },
+                {
+                  "text": "যেকোনো",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "খ",
+              "shortSolution": "সঠিক উত্তর: খ। বৃত্তে $x^2$ ও $y^2$ এর সহগ সমান হয়।",
+              "chapter": "04",
+              "topic": "সাধারণ সমীকরণ",
+              "difficulty": "Hard",
+              "probability": "Mega Hot"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-04-set-01-q16",
+              "question": "$x^2+y^2=9$ বৃত্তের $x$-অক্ষের ছেদবিন্দু কোনগুলো? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 01-16 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+              "options": [
+                {
+                  "text": "$(3,3)$",
+                  "label": "ক"
+                },
+                {
+                  "text": "$(0,0)",
+                  "label": "খ"
+                },
+                {
+                  "text": "$(3,0),(-3,0)$",
+                  "label": "গ"
+                },
+                {
+                  "text": "$(0,3),(0,-3)$",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "গ",
+              "shortSolution": "সঠিক উত্তর: গ। $y=0$ বসালে $x=\\pm a$।",
+              "chapter": "04",
+              "topic": "অক্ষের ছেদবিন্দু",
+              "difficulty": "Hard",
+              "probability": "Very Hot"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-04-set-01-q17",
+              "question": "কেন্দ্র $(4,5)$ এবং ব্যাসার্ধ 4 হলে বৃত্তের সমীকরণ কোনটি?",
+              "options": [
+                {
+                  "text": "$(x-4)+(y-5)=4$",
+                  "label": "ক"
+                },
+                {
+                  "text": "$x^2+y^2=16$",
+                  "label": "খ"
+                },
+                {
+                  "text": "$(x-4)^2+(y-5)^2=16$",
+                  "label": "গ"
+                },
+                {
+                  "text": "$(x+4)^2+(y+5)^2=16$",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "গ",
+              "shortSolution": "সঠিক উত্তর: গ। Standard circle equation।",
+              "chapter": "04",
+              "topic": "বৃত্তের সমীকরণ",
+              "difficulty": "Hard",
+              "probability": "Board Favourite"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-04-set-01-q18",
+              "question": "বৃত্তের সকল বিন্দু কেন্দ্র থেকে কেমন দূরত্বে থাকে? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 01-18 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+              "options": [
+                {
+                  "text": "অসীম",
+                  "label": "ক"
+                },
+                {
+                  "text": "শূন্য",
+                  "label": "খ"
+                },
+                {
+                  "text": "সমান",
+                  "label": "গ"
+                },
+                {
+                  "text": "অসমান",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "গ",
+              "shortSolution": "সঠিক উত্তর: গ। বৃত্তের সংজ্ঞা অনুযায়ী সব বিন্দু কেন্দ্র থেকে সমদূরবর্তী।",
+              "chapter": "04",
+              "topic": "বৃত্তের সংজ্ঞা",
+              "difficulty": "Hard",
+              "probability": "Conceptual Trap"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-04-set-01-q19",
+              "question": "ব্যাসার্ধ 6 হলে ব্যাস কত? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 01-19 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+              "options": [
+                {
+                  "text": "6",
+                  "label": "ক"
+                },
+                {
+                  "text": "12",
+                  "label": "খ"
+                },
+                {
+                  "text": "8",
+                  "label": "গ"
+                },
+                {
+                  "text": "36",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "খ",
+              "shortSolution": "সঠিক উত্তর: খ। ব্যাস = 2 × ব্যাসার্ধ।",
+              "chapter": "04",
+              "topic": "ব্যাস",
+              "difficulty": "Hard",
+              "probability": "Mega Hot"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-04-set-01-q20",
+              "question": "$x^2+y^2+2=0$ বাস্তব বৃত্ত নির্দেশ করে কি? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 01-20 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+              "options": [
+                {
+                  "text": "হ্যাঁ",
+                  "label": "ক"
+                },
+                {
+                  "text": "তথ্য অপর্যাপ্ত",
+                  "label": "খ"
+                },
+                {
+                  "text": "শুধু এক বিন্দু",
+                  "label": "গ"
+                },
+                {
+                  "text": "না",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "ঘ",
+              "shortSolution": "সঠিক উত্তর: ঘ। $r^2=-a$; $a>0$ হলে বাস্তব ব্যাসার্ধ নেই।",
+              "chapter": "04",
+              "topic": "বাস্তব বৃত্তের শর্ত",
+              "difficulty": "Hard",
+              "probability": "Very Hot"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-04-set-01-q21",
+              "question": "$(x-3)^2+(y-2)^2=16$ বৃত্তের কেন্দ্র ও ব্যাসার্ধ কত?",
+              "options": [
+                {
+                  "text": "$(3,2), 16$",
+                  "label": "ক"
+                },
+                {
+                  "text": "$(0,0),1$",
+                  "label": "খ"
+                },
+                {
+                  "text": "$(3,2), 4$",
+                  "label": "গ"
+                },
+                {
+                  "text": "$(-3,-2), 4$",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "গ",
+              "shortSolution": "সঠিক উত্তর: গ। Standard form থেকে কেন্দ্র $(h,k)$ ও ব্যাসার্ধ $r$।",
+              "chapter": "04",
+              "topic": "কেন্দ্র ও ব্যাসার্ধ",
+              "difficulty": "Hard",
+              "probability": "Board Favourite"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-04-set-01-q22",
+              "question": "$x^2+y^2=16$ বৃত্তের ব্যাসার্ধ কত? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 01-22 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+              "options": [
+                {
+                  "text": "1",
+                  "label": "ক"
+                },
+                {
+                  "text": "8",
+                  "label": "খ"
+                },
+                {
+                  "text": "4",
+                  "label": "গ"
+                },
+                {
+                  "text": "16",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "গ",
+              "shortSolution": "সঠিক উত্তর: গ। $x^2+y^2=r^2$।",
+              "chapter": "04",
+              "topic": "মূলবিন্দু-কেন্দ্রিক বৃত্ত",
+              "difficulty": "Board Standard",
+              "probability": "Conceptual Trap"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-04-set-01-q23",
+              "question": "বৃত্তের স্পর্শক স্পর্শবিন্দুতে ব্যাসার্ধের সাথে কত কোণ করে? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 01-23 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+              "options": [
+                {
+                  "text": "$45^\\circ$",
+                  "label": "ক"
+                },
+                {
+                  "text": "$180^\\circ$",
+                  "label": "খ"
+                },
+                {
+                  "text": "$90^\\circ$",
+                  "label": "গ"
+                },
+                {
+                  "text": "$0^\\circ$",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "গ",
+              "shortSolution": "সঠিক উত্তর: গ। স্পর্শক ব্যাসার্ধের উপর লম্ব।",
+              "chapter": "04",
+              "topic": "স্পর্শক",
+              "difficulty": "Board Standard",
+              "probability": "Mega Hot"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-04-set-01-q24",
+              "question": "ব্যাসের প্রান্তবিন্দু $(6,5)$ ও $(3,3)$ হলে কেন্দ্র কোনটি?",
+              "options": [
+                {
+                  "text": "$(3,2)$",
+                  "label": "ক"
+                },
+                {
+                  "text": "$(9,8)$",
+                  "label": "খ"
+                },
+                {
+                  "text": "$(0,0)$",
+                  "label": "গ"
+                },
+                {
+                  "text": "$($\\frac{9}{2}$,4)$",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "ঘ",
+              "shortSolution": "সঠিক উত্তর: ঘ। কেন্দ্র হলো ব্যাসের প্রান্তবিন্দুর midpoint।",
+              "chapter": "04",
+              "topic": "ব্যাস ও কেন্দ্র",
+              "difficulty": "Board Standard",
+              "probability": "Very Hot"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-04-set-01-q25",
+              "question": "বৃত্তের সাধারণ সমীকরণে $x^2$ ও $y^2$ এর সহগ কেমন? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 01-25 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+              "options": [
+                {
+                  "text": "বিপরীত চিহ্নের",
+                  "label": "ক"
+                },
+                {
+                  "text": "যেকোনো",
+                  "label": "খ"
+                },
+                {
+                  "text": "সমান",
+                  "label": "গ"
+                },
+                {
+                  "text": "দুটিই 0",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "গ",
+              "shortSolution": "সঠিক উত্তর: গ। বৃত্তে $x^2$ ও $y^2$ এর সহগ সমান হয়।",
+              "chapter": "04",
+              "topic": "সাধারণ সমীকরণ",
+              "difficulty": "Board Standard",
+              "probability": "Board Favourite"
+            }
+          ]
+        },
+        {
+          "id": "hsc-higher-math-1st-paper-chapter-04-set-02",
+          "title": "Chapter 04 Hyper Mega Hot Set 02",
+          "questions": [
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-04-set-02-q01",
+              "question": "$(x-4)^2+(y-3)^2=25$ বৃত্তের কেন্দ্র ও ব্যাসার্ধ কত?",
+              "options": [
+                {
+                  "text": "$(4,3), 5$",
+                  "label": "ক"
+                },
+                {
+                  "text": "$(4,3), 25$",
+                  "label": "খ"
+                },
+                {
+                  "text": "$(0,0),1$",
+                  "label": "গ"
+                },
+                {
+                  "text": "$(-4,-3), 5$",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "ক",
+              "shortSolution": "সঠিক উত্তর: ক। Standard form থেকে কেন্দ্র $(h,k)$ ও ব্যাসার্ধ $r$।",
+              "chapter": "04",
+              "topic": "কেন্দ্র ও ব্যাসার্ধ",
+              "difficulty": "Easy",
+              "probability": "Conceptual Trap"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-04-set-02-q02",
+              "question": "$x^2+y^2=25$ বৃত্তের ব্যাসার্ধ কত?",
+              "options": [
+                {
+                  "text": "25",
+                  "label": "ক"
+                },
+                {
+                  "text": "5",
+                  "label": "খ"
+                },
+                {
+                  "text": "1",
+                  "label": "গ"
+                },
+                {
+                  "text": "10",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "খ",
+              "shortSolution": "সঠিক উত্তর: খ। $x^2+y^2=r^2$।",
+              "chapter": "04",
+              "topic": "মূলবিন্দু-কেন্দ্রিক বৃত্ত",
+              "difficulty": "Easy",
+              "probability": "Mega Hot"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-04-set-02-q03",
+              "question": "বৃত্তের স্পর্শক স্পর্শবিন্দুতে ব্যাসার্ধের সাথে কত কোণ করে? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 02-03 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+              "options": [
+                {
+                  "text": "$45^\\circ$",
+                  "label": "ক"
+                },
+                {
+                  "text": "$90^\\circ$",
+                  "label": "খ"
+                },
+                {
+                  "text": "$0^\\circ$",
+                  "label": "গ"
+                },
+                {
+                  "text": "$180^\\circ$",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "খ",
+              "shortSolution": "সঠিক উত্তর: খ। স্পর্শক ব্যাসার্ধের উপর লম্ব।",
+              "chapter": "04",
+              "topic": "স্পর্শক",
+              "difficulty": "Easy",
+              "probability": "Very Hot"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-04-set-02-q04",
+              "question": "ব্যাসের প্রান্তবিন্দু $(7,6)$ ও $(4,7)$ হলে কেন্দ্র কোনটি?",
+              "options": [
+                {
+                  "text": "$($\\frac{11}{2}$,$\\frac{13}{2}$)$",
+                  "label": "ক"
+                },
+                {
+                  "text": "$(0,0)$",
+                  "label": "খ"
+                },
+                {
+                  "text": "$(3,-1)$",
+                  "label": "গ"
+                },
+                {
+                  "text": "$(11,13)$",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "ক",
+              "shortSolution": "সঠিক উত্তর: ক। কেন্দ্র হলো ব্যাসের প্রান্তবিন্দুর midpoint।",
+              "chapter": "04",
+              "topic": "ব্যাস ও কেন্দ্র",
+              "difficulty": "Easy",
+              "probability": "Board Favourite"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-04-set-02-q05",
+              "question": "বৃত্তের সাধারণ সমীকরণে $x^2$ ও $y^2$ এর সহগ কেমন? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 02-05 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+              "options": [
+                {
+                  "text": "যেকোনো",
+                  "label": "ক"
+                },
+                {
+                  "text": "দুটিই 0",
+                  "label": "খ"
+                },
+                {
+                  "text": "সমান",
+                  "label": "গ"
+                },
+                {
+                  "text": "বিপরীত চিহ্নের",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "গ",
+              "shortSolution": "সঠিক উত্তর: গ। বৃত্তে $x^2$ ও $y^2$ এর সহগ সমান হয়।",
+              "chapter": "04",
+              "topic": "সাধারণ সমীকরণ",
+              "difficulty": "Easy",
+              "probability": "Conceptual Trap"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-04-set-02-q06",
+              "question": "$x^2+y^2=16$ বৃত্তের $x$-অক্ষের ছেদবিন্দু কোনগুলো?",
+              "options": [
+                {
+                  "text": "$(0,4),(0,-4)$",
+                  "label": "ক"
+                },
+                {
+                  "text": "$(4,0),(-4,0)$",
+                  "label": "খ"
+                },
+                {
+                  "text": "$(0,0)",
+                  "label": "গ"
+                },
+                {
+                  "text": "$(4,4)$",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "খ",
+              "shortSolution": "সঠিক উত্তর: খ। $y=0$ বসালে $x=\\pm a$।",
+              "chapter": "04",
+              "topic": "অক্ষের ছেদবিন্দু",
+              "difficulty": "Easy",
+              "probability": "Mega Hot"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-04-set-02-q07",
+              "question": "কেন্দ্র $(5,2)$ এবং ব্যাসার্ধ 7 হলে বৃত্তের সমীকরণ কোনটি?",
+              "options": [
+                {
+                  "text": "$x^2+y^2=49$",
+                  "label": "ক"
+                },
+                {
+                  "text": "$(x-5)^2+(y-2)^2=49$",
+                  "label": "খ"
+                },
+                {
+                  "text": "$(x-5)+(y-2)=7$",
+                  "label": "গ"
+                },
+                {
+                  "text": "$(x+5)^2+(y+2)^2=49$",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "খ",
+              "shortSolution": "সঠিক উত্তর: খ। Standard circle equation।",
+              "chapter": "04",
+              "topic": "বৃত্তের সমীকরণ",
+              "difficulty": "Easy",
+              "probability": "Very Hot"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-04-set-02-q08",
+              "question": "বৃত্তের সকল বিন্দু কেন্দ্র থেকে কেমন দূরত্বে থাকে? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 02-08 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+              "options": [
+                {
+                  "text": "সমান",
+                  "label": "ক"
+                },
+                {
+                  "text": "শূন্য",
+                  "label": "খ"
+                },
+                {
+                  "text": "অসীম",
+                  "label": "গ"
+                },
+                {
+                  "text": "অসমান",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "ক",
+              "shortSolution": "সঠিক উত্তর: ক। বৃত্তের সংজ্ঞা অনুযায়ী সব বিন্দু কেন্দ্র থেকে সমদূরবর্তী।",
+              "chapter": "04",
+              "topic": "বৃত্তের সংজ্ঞা",
+              "difficulty": "Medium",
+              "probability": "Board Favourite"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-04-set-02-q09",
+              "question": "ব্যাসার্ধ 7 হলে ব্যাস কত?",
+              "options": [
+                {
+                  "text": "9",
+                  "label": "ক"
+                },
+                {
+                  "text": "49",
+                  "label": "খ"
+                },
+                {
+                  "text": "14",
+                  "label": "গ"
+                },
+                {
+                  "text": "7",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "গ",
+              "shortSolution": "সঠিক উত্তর: গ। ব্যাস = 2 × ব্যাসার্ধ।",
+              "chapter": "04",
+              "topic": "ব্যাস",
+              "difficulty": "Medium",
+              "probability": "Conceptual Trap"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-04-set-02-q10",
+              "question": "$x^2+y^2+3=0$ বাস্তব বৃত্ত নির্দেশ করে কি?",
+              "options": [
+                {
+                  "text": "না",
+                  "label": "ক"
+                },
+                {
+                  "text": "শুধু এক বিন্দু",
+                  "label": "খ"
+                },
+                {
+                  "text": "তথ্য অপর্যাপ্ত",
+                  "label": "গ"
+                },
+                {
+                  "text": "হ্যাঁ",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "ক",
+              "shortSolution": "সঠিক উত্তর: ক। $r^2=-a$; $a>0$ হলে বাস্তব ব্যাসার্ধ নেই।",
+              "chapter": "04",
+              "topic": "বাস্তব বৃত্তের শর্ত",
+              "difficulty": "Medium",
+              "probability": "Mega Hot"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-04-set-02-q11",
+              "question": "$(x-4)^2+(y-6)^2=49$ বৃত্তের কেন্দ্র ও ব্যাসার্ধ কত?",
+              "options": [
+                {
+                  "text": "$(0,0),1$",
+                  "label": "ক"
+                },
+                {
+                  "text": "$(4,6), 7$",
+                  "label": "খ"
+                },
+                {
+                  "text": "$(-4,-6), 7$",
+                  "label": "গ"
+                },
+                {
+                  "text": "$(4,6), 49$",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "খ",
+              "shortSolution": "সঠিক উত্তর: খ। Standard form থেকে কেন্দ্র $(h,k)$ ও ব্যাসার্ধ $r$।",
+              "chapter": "04",
+              "topic": "কেন্দ্র ও ব্যাসার্ধ",
+              "difficulty": "Medium",
+              "probability": "Very Hot"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-04-set-02-q12",
+              "question": "$x^2+y^2=25$ বৃত্তের ব্যাসার্ধ কত? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 02-12 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+              "options": [
+                {
+                  "text": "1",
+                  "label": "ক"
+                },
+                {
+                  "text": "5",
+                  "label": "খ"
+                },
+                {
+                  "text": "10",
+                  "label": "গ"
+                },
+                {
+                  "text": "25",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "খ",
+              "shortSolution": "সঠিক উত্তর: খ। $x^2+y^2=r^2$।",
+              "chapter": "04",
+              "topic": "মূলবিন্দু-কেন্দ্রিক বৃত্ত",
+              "difficulty": "Medium",
+              "probability": "Board Favourite"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-04-set-02-q13",
+              "question": "বৃত্তের স্পর্শক স্পর্শবিন্দুতে ব্যাসার্ধের সাথে কত কোণ করে? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 02-13 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+              "options": [
+                {
+                  "text": "$45^\\circ$",
+                  "label": "ক"
+                },
+                {
+                  "text": "$90^\\circ$",
+                  "label": "খ"
+                },
+                {
+                  "text": "$180^\\circ$",
+                  "label": "গ"
+                },
+                {
+                  "text": "$0^\\circ$",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "খ",
+              "shortSolution": "সঠিক উত্তর: খ। স্পর্শক ব্যাসার্ধের উপর লম্ব।",
+              "chapter": "04",
+              "topic": "স্পর্শক",
+              "difficulty": "Medium",
+              "probability": "Conceptual Trap"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-04-set-02-q14",
+              "question": "ব্যাসের প্রান্তবিন্দু $(7,2)$ ও $(6,5)$ হলে কেন্দ্র কোনটি?",
+              "options": [
+                {
+                  "text": "$(0,0)$",
+                  "label": "ক"
+                },
+                {
+                  "text": "$($\\frac{13}{2}$,$\\frac{7}{2}$)$",
+                  "label": "খ"
+                },
+                {
+                  "text": "$(1,-3)$",
+                  "label": "গ"
+                },
+                {
+                  "text": "$(13,7)$",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "খ",
+              "shortSolution": "সঠিক উত্তর: খ। কেন্দ্র হলো ব্যাসের প্রান্তবিন্দুর midpoint।",
+              "chapter": "04",
+              "topic": "ব্যাস ও কেন্দ্র",
+              "difficulty": "Medium",
+              "probability": "Mega Hot"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-04-set-02-q15",
+              "question": "বৃত্তের সাধারণ সমীকরণে $x^2$ ও $y^2$ এর সহগ কেমন? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 02-15 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+              "options": [
+                {
+                  "text": "বিপরীত চিহ্নের",
+                  "label": "ক"
+                },
+                {
+                  "text": "যেকোনো",
+                  "label": "খ"
+                },
+                {
+                  "text": "দুটিই 0",
+                  "label": "গ"
+                },
+                {
+                  "text": "সমান",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "ঘ",
+              "shortSolution": "সঠিক উত্তর: ঘ। বৃত্তে $x^2$ ও $y^2$ এর সহগ সমান হয়।",
+              "chapter": "04",
+              "topic": "সাধারণ সমীকরণ",
+              "difficulty": "Hard",
+              "probability": "Very Hot"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-04-set-02-q16",
+              "question": "$x^2+y^2=16$ বৃত্তের $x$-অক্ষের ছেদবিন্দু কোনগুলো? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 02-16 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+              "options": [
+                {
+                  "text": "$(4,4)$",
+                  "label": "ক"
+                },
+                {
+                  "text": "$(0,0)",
+                  "label": "খ"
+                },
+                {
+                  "text": "$(0,4),(0,-4)$",
+                  "label": "গ"
+                },
+                {
+                  "text": "$(4,0),(-4,0)$",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "ঘ",
+              "shortSolution": "সঠিক উত্তর: ঘ। $y=0$ বসালে $x=\\pm a$।",
+              "chapter": "04",
+              "topic": "অক্ষের ছেদবিন্দু",
+              "difficulty": "Hard",
+              "probability": "Board Favourite"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-04-set-02-q17",
+              "question": "কেন্দ্র $(5,5)$ এবং ব্যাসার্ধ 5 হলে বৃত্তের সমীকরণ কোনটি?",
+              "options": [
+                {
+                  "text": "$(x+5)^2+(y+5)^2=25$",
+                  "label": "ক"
+                },
+                {
+                  "text": "$x^2+y^2=25$",
+                  "label": "খ"
+                },
+                {
+                  "text": "$(x-5)+(y-5)=5$",
+                  "label": "গ"
+                },
+                {
+                  "text": "$(x-5)^2+(y-5)^2=25$",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "ঘ",
+              "shortSolution": "সঠিক উত্তর: ঘ। Standard circle equation।",
+              "chapter": "04",
+              "topic": "বৃত্তের সমীকরণ",
+              "difficulty": "Hard",
+              "probability": "Conceptual Trap"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-04-set-02-q18",
+              "question": "বৃত্তের সকল বিন্দু কেন্দ্র থেকে কেমন দূরত্বে থাকে? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 02-18 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+              "options": [
+                {
+                  "text": "অসীম",
+                  "label": "ক"
+                },
+                {
+                  "text": "সমান",
+                  "label": "খ"
+                },
+                {
+                  "text": "অসমান",
+                  "label": "গ"
+                },
+                {
+                  "text": "শূন্য",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "খ",
+              "shortSolution": "সঠিক উত্তর: খ। বৃত্তের সংজ্ঞা অনুযায়ী সব বিন্দু কেন্দ্র থেকে সমদূরবর্তী।",
+              "chapter": "04",
+              "topic": "বৃত্তের সংজ্ঞা",
+              "difficulty": "Hard",
+              "probability": "Mega Hot"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-04-set-02-q19",
+              "question": "ব্যাসার্ধ 7 হলে ব্যাস কত? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 02-19 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+              "options": [
+                {
+                  "text": "7",
+                  "label": "ক"
+                },
+                {
+                  "text": "49",
+                  "label": "খ"
+                },
+                {
+                  "text": "9",
+                  "label": "গ"
+                },
+                {
+                  "text": "14",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "ঘ",
+              "shortSolution": "সঠিক উত্তর: ঘ। ব্যাস = 2 × ব্যাসার্ধ।",
+              "chapter": "04",
+              "topic": "ব্যাস",
+              "difficulty": "Hard",
+              "probability": "Very Hot"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-04-set-02-q20",
+              "question": "$x^2+y^2+3=0$ বাস্তব বৃত্ত নির্দেশ করে কি? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 02-20 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+              "options": [
+                {
+                  "text": "তথ্য অপর্যাপ্ত",
+                  "label": "ক"
+                },
+                {
+                  "text": "শুধু এক বিন্দু",
+                  "label": "খ"
+                },
+                {
+                  "text": "হ্যাঁ",
+                  "label": "গ"
+                },
+                {
+                  "text": "না",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "ঘ",
+              "shortSolution": "সঠিক উত্তর: ঘ। $r^2=-a$; $a>0$ হলে বাস্তব ব্যাসার্ধ নেই।",
+              "chapter": "04",
+              "topic": "বাস্তব বৃত্তের শর্ত",
+              "difficulty": "Hard",
+              "probability": "Board Favourite"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-04-set-02-q21",
+              "question": "$(x-4)^2+(y-2)^2=25$ বৃত্তের কেন্দ্র ও ব্যাসার্ধ কত?",
+              "options": [
+                {
+                  "text": "$(4,2), 25$",
+                  "label": "ক"
+                },
+                {
+                  "text": "$(0,0),1$",
+                  "label": "খ"
+                },
+                {
+                  "text": "$(4,2), 5$",
+                  "label": "গ"
+                },
+                {
+                  "text": "$(-4,-2), 5$",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "গ",
+              "shortSolution": "সঠিক উত্তর: গ। Standard form থেকে কেন্দ্র $(h,k)$ ও ব্যাসার্ধ $r$।",
+              "chapter": "04",
+              "topic": "কেন্দ্র ও ব্যাসার্ধ",
+              "difficulty": "Hard",
+              "probability": "Conceptual Trap"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-04-set-02-q22",
+              "question": "$x^2+y^2=25$ বৃত্তের ব্যাসার্ধ কত? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 02-22 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+              "options": [
+                {
+                  "text": "10",
+                  "label": "ক"
+                },
+                {
+                  "text": "25",
+                  "label": "খ"
+                },
+                {
+                  "text": "5",
+                  "label": "গ"
+                },
+                {
+                  "text": "1",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "গ",
+              "shortSolution": "সঠিক উত্তর: গ। $x^2+y^2=r^2$।",
+              "chapter": "04",
+              "topic": "মূলবিন্দু-কেন্দ্রিক বৃত্ত",
+              "difficulty": "Board Standard",
+              "probability": "Mega Hot"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-04-set-02-q23",
+              "question": "বৃত্তের স্পর্শক স্পর্শবিন্দুতে ব্যাসার্ধের সাথে কত কোণ করে? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 02-23 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+              "options": [
+                {
+                  "text": "$45^\\circ$",
+                  "label": "ক"
+                },
+                {
+                  "text": "$180^\\circ$",
+                  "label": "খ"
+                },
+                {
+                  "text": "$90^\\circ$",
+                  "label": "গ"
+                },
+                {
+                  "text": "$0^\\circ$",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "গ",
+              "shortSolution": "সঠিক উত্তর: গ। স্পর্শক ব্যাসার্ধের উপর লম্ব।",
+              "chapter": "04",
+              "topic": "স্পর্শক",
+              "difficulty": "Board Standard",
+              "probability": "Very Hot"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-04-set-02-q24",
+              "question": "ব্যাসের প্রান্তবিন্দু $(7,5)$ ও $(4,3)$ হলে কেন্দ্র কোনটি?",
+              "options": [
+                {
+                  "text": "$(3,2)$",
+                  "label": "ক"
+                },
+                {
+                  "text": "$(11,8)$",
+                  "label": "খ"
+                },
+                {
+                  "text": "$(0,0)$",
+                  "label": "গ"
+                },
+                {
+                  "text": "$($\\frac{11}{2}$,4)$",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "ঘ",
+              "shortSolution": "সঠিক উত্তর: ঘ। কেন্দ্র হলো ব্যাসের প্রান্তবিন্দুর midpoint।",
+              "chapter": "04",
+              "topic": "ব্যাস ও কেন্দ্র",
+              "difficulty": "Board Standard",
+              "probability": "Board Favourite"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-04-set-02-q25",
+              "question": "বৃত্তের সাধারণ সমীকরণে $x^2$ ও $y^2$ এর সহগ কেমন? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 02-25 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+              "options": [
+                {
+                  "text": "যেকোনো",
+                  "label": "ক"
+                },
+                {
+                  "text": "দুটিই 0",
+                  "label": "খ"
+                },
+                {
+                  "text": "বিপরীত চিহ্নের",
+                  "label": "গ"
+                },
+                {
+                  "text": "সমান",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "ঘ",
+              "shortSolution": "সঠিক উত্তর: ঘ। বৃত্তে $x^2$ ও $y^2$ এর সহগ সমান হয়।",
+              "chapter": "04",
+              "topic": "সাধারণ সমীকরণ",
+              "difficulty": "Board Standard",
+              "probability": "Conceptual Trap"
+            }
+          ]
+        },
+        {
+          "id": "hsc-higher-math-1st-paper-chapter-04-set-03",
+          "title": "Chapter 04 Hyper Mega Hot Set 03",
+          "questions": [
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-04-set-03-q01",
+              "question": "$(x-5)^2+(y-3)^2=36$ বৃত্তের কেন্দ্র ও ব্যাসার্ধ কত?",
+              "options": [
+                {
+                  "text": "$(0,0),1$",
+                  "label": "ক"
+                },
+                {
+                  "text": "$(-5,-3), 6$",
+                  "label": "খ"
+                },
+                {
+                  "text": "$(5,3), 36$",
+                  "label": "গ"
+                },
+                {
+                  "text": "$(5,3), 6$",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "ঘ",
+              "shortSolution": "সঠিক উত্তর: ঘ। Standard form থেকে কেন্দ্র $(h,k)$ ও ব্যাসার্ধ $r$।",
+              "chapter": "04",
+              "topic": "কেন্দ্র ও ব্যাসার্ধ",
+              "difficulty": "Easy",
+              "probability": "Mega Hot"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-04-set-03-q02",
+              "question": "$x^2+y^2=36$ বৃত্তের ব্যাসার্ধ কত?",
+              "options": [
+                {
+                  "text": "12",
+                  "label": "ক"
+                },
+                {
+                  "text": "1",
+                  "label": "খ"
+                },
+                {
+                  "text": "36",
+                  "label": "গ"
+                },
+                {
+                  "text": "6",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "ঘ",
+              "shortSolution": "সঠিক উত্তর: ঘ। $x^2+y^2=r^2$।",
+              "chapter": "04",
+              "topic": "মূলবিন্দু-কেন্দ্রিক বৃত্ত",
+              "difficulty": "Easy",
+              "probability": "Very Hot"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-04-set-03-q03",
+              "question": "বৃত্তের স্পর্শক স্পর্শবিন্দুতে ব্যাসার্ধের সাথে কত কোণ করে? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 03-03 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+              "options": [
+                {
+                  "text": "$180^\\circ$",
+                  "label": "ক"
+                },
+                {
+                  "text": "$45^\\circ$",
+                  "label": "খ"
+                },
+                {
+                  "text": "$0^\\circ$",
+                  "label": "গ"
+                },
+                {
+                  "text": "$90^\\circ$",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "ঘ",
+              "shortSolution": "সঠিক উত্তর: ঘ। স্পর্শক ব্যাসার্ধের উপর লম্ব।",
+              "chapter": "04",
+              "topic": "স্পর্শক",
+              "difficulty": "Easy",
+              "probability": "Board Favourite"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-04-set-03-q04",
+              "question": "ব্যাসের প্রান্তবিন্দু $(8,6)$ ও $(5,7)$ হলে কেন্দ্র কোনটি?",
+              "options": [
+                {
+                  "text": "$(3,-1)$",
+                  "label": "ক"
+                },
+                {
+                  "text": "$(0,0)$",
+                  "label": "খ"
+                },
+                {
+                  "text": "$(13,13)$",
+                  "label": "গ"
+                },
+                {
+                  "text": "$($\\frac{13}{2}$,$\\frac{13}{2}$)$",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "ঘ",
+              "shortSolution": "সঠিক উত্তর: ঘ। কেন্দ্র হলো ব্যাসের প্রান্তবিন্দুর midpoint।",
+              "chapter": "04",
+              "topic": "ব্যাস ও কেন্দ্র",
+              "difficulty": "Easy",
+              "probability": "Conceptual Trap"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-04-set-03-q05",
+              "question": "বৃত্তের সাধারণ সমীকরণে $x^2$ ও $y^2$ এর সহগ কেমন? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 03-05 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+              "options": [
+                {
+                  "text": "বিপরীত চিহ্নের",
+                  "label": "ক"
+                },
+                {
+                  "text": "যেকোনো",
+                  "label": "খ"
+                },
+                {
+                  "text": "সমান",
+                  "label": "গ"
+                },
+                {
+                  "text": "দুটিই 0",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "গ",
+              "shortSolution": "সঠিক উত্তর: গ। বৃত্তে $x^2$ ও $y^2$ এর সহগ সমান হয়।",
+              "chapter": "04",
+              "topic": "সাধারণ সমীকরণ",
+              "difficulty": "Easy",
+              "probability": "Mega Hot"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-04-set-03-q06",
+              "question": "$x^2+y^2=25$ বৃত্তের $x$-অক্ষের ছেদবিন্দু কোনগুলো?",
+              "options": [
+                {
+                  "text": "$(5,5)$",
+                  "label": "ক"
+                },
+                {
+                  "text": "$(0,0)",
+                  "label": "খ"
+                },
+                {
+                  "text": "$(0,5),(0,-5)$",
+                  "label": "গ"
+                },
+                {
+                  "text": "$(5,0),(-5,0)$",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "ঘ",
+              "shortSolution": "সঠিক উত্তর: ঘ। $y=0$ বসালে $x=\\pm a$।",
+              "chapter": "04",
+              "topic": "অক্ষের ছেদবিন্দু",
+              "difficulty": "Easy",
+              "probability": "Very Hot"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-04-set-03-q07",
+              "question": "কেন্দ্র $(6,2)$ এবং ব্যাসার্ধ 8 হলে বৃত্তের সমীকরণ কোনটি?",
+              "options": [
+                {
+                  "text": "$(x-6)^2+(y-2)^2=64$",
+                  "label": "ক"
+                },
+                {
+                  "text": "$(x+6)^2+(y+2)^2=64$",
+                  "label": "খ"
+                },
+                {
+                  "text": "$(x-6)+(y-2)=8$",
+                  "label": "গ"
+                },
+                {
+                  "text": "$x^2+y^2=64$",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "ক",
+              "shortSolution": "সঠিক উত্তর: ক। Standard circle equation।",
+              "chapter": "04",
+              "topic": "বৃত্তের সমীকরণ",
+              "difficulty": "Easy",
+              "probability": "Board Favourite"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-04-set-03-q08",
+              "question": "বৃত্তের সকল বিন্দু কেন্দ্র থেকে কেমন দূরত্বে থাকে? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 03-08 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+              "options": [
+                {
+                  "text": "সমান",
+                  "label": "ক"
+                },
+                {
+                  "text": "অসীম",
+                  "label": "খ"
+                },
+                {
+                  "text": "অসমান",
+                  "label": "গ"
+                },
+                {
+                  "text": "শূন্য",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "ক",
+              "shortSolution": "সঠিক উত্তর: ক। বৃত্তের সংজ্ঞা অনুযায়ী সব বিন্দু কেন্দ্র থেকে সমদূরবর্তী।",
+              "chapter": "04",
+              "topic": "বৃত্তের সংজ্ঞা",
+              "difficulty": "Medium",
+              "probability": "Conceptual Trap"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-04-set-03-q09",
+              "question": "ব্যাসার্ধ 8 হলে ব্যাস কত?",
+              "options": [
+                {
+                  "text": "10",
+                  "label": "ক"
+                },
+                {
+                  "text": "64",
+                  "label": "খ"
+                },
+                {
+                  "text": "8",
+                  "label": "গ"
+                },
+                {
+                  "text": "16",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "ঘ",
+              "shortSolution": "সঠিক উত্তর: ঘ। ব্যাস = 2 × ব্যাসার্ধ।",
+              "chapter": "04",
+              "topic": "ব্যাস",
+              "difficulty": "Medium",
+              "probability": "Mega Hot"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-04-set-03-q10",
+              "question": "$x^2+y^2+4=0$ বাস্তব বৃত্ত নির্দেশ করে কি?",
+              "options": [
+                {
+                  "text": "না",
+                  "label": "ক"
+                },
+                {
+                  "text": "হ্যাঁ",
+                  "label": "খ"
+                },
+                {
+                  "text": "শুধু এক বিন্দু",
+                  "label": "গ"
+                },
+                {
+                  "text": "তথ্য অপর্যাপ্ত",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "ক",
+              "shortSolution": "সঠিক উত্তর: ক। $r^2=-a$; $a>0$ হলে বাস্তব ব্যাসার্ধ নেই।",
+              "chapter": "04",
+              "topic": "বাস্তব বৃত্তের শর্ত",
+              "difficulty": "Medium",
+              "probability": "Very Hot"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-04-set-03-q11",
+              "question": "$(x-5)^2+(y-6)^2=64$ বৃত্তের কেন্দ্র ও ব্যাসার্ধ কত?",
+              "options": [
+                {
+                  "text": "$(0,0),1$",
+                  "label": "ক"
+                },
+                {
+                  "text": "$(-5,-6), 8$",
+                  "label": "খ"
+                },
+                {
+                  "text": "$(5,6), 8$",
+                  "label": "গ"
+                },
+                {
+                  "text": "$(5,6), 64$",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "গ",
+              "shortSolution": "সঠিক উত্তর: গ। Standard form থেকে কেন্দ্র $(h,k)$ ও ব্যাসার্ধ $r$।",
+              "chapter": "04",
+              "topic": "কেন্দ্র ও ব্যাসার্ধ",
+              "difficulty": "Medium",
+              "probability": "Board Favourite"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-04-set-03-q12",
+              "question": "$x^2+y^2=36$ বৃত্তের ব্যাসার্ধ কত? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 03-12 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+              "options": [
+                {
+                  "text": "36",
+                  "label": "ক"
+                },
+                {
+                  "text": "6",
+                  "label": "খ"
+                },
+                {
+                  "text": "12",
+                  "label": "গ"
+                },
+                {
+                  "text": "1",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "খ",
+              "shortSolution": "সঠিক উত্তর: খ। $x^2+y^2=r^2$।",
+              "chapter": "04",
+              "topic": "মূলবিন্দু-কেন্দ্রিক বৃত্ত",
+              "difficulty": "Medium",
+              "probability": "Conceptual Trap"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-04-set-03-q13",
+              "question": "বৃত্তের স্পর্শক স্পর্শবিন্দুতে ব্যাসার্ধের সাথে কত কোণ করে? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 03-13 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+              "options": [
+                {
+                  "text": "$0^\\circ$",
+                  "label": "ক"
+                },
+                {
+                  "text": "$45^\\circ$",
+                  "label": "খ"
+                },
+                {
+                  "text": "$180^\\circ$",
+                  "label": "গ"
+                },
+                {
+                  "text": "$90^\\circ$",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "ঘ",
+              "shortSolution": "সঠিক উত্তর: ঘ। স্পর্শক ব্যাসার্ধের উপর লম্ব।",
+              "chapter": "04",
+              "topic": "স্পর্শক",
+              "difficulty": "Medium",
+              "probability": "Mega Hot"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-04-set-03-q14",
+              "question": "ব্যাসের প্রান্তবিন্দু $(8,2)$ ও $(7,5)$ হলে কেন্দ্র কোনটি?",
+              "options": [
+                {
+                  "text": "$($\\frac{15}{2}$,$\\frac{7}{2}$)$",
+                  "label": "ক"
+                },
+                {
+                  "text": "$(1,-3)$",
+                  "label": "খ"
+                },
+                {
+                  "text": "$(15,7)$",
+                  "label": "গ"
+                },
+                {
+                  "text": "$(0,0)$",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "ক",
+              "shortSolution": "সঠিক উত্তর: ক। কেন্দ্র হলো ব্যাসের প্রান্তবিন্দুর midpoint।",
+              "chapter": "04",
+              "topic": "ব্যাস ও কেন্দ্র",
+              "difficulty": "Medium",
+              "probability": "Very Hot"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-04-set-03-q15",
+              "question": "বৃত্তের সাধারণ সমীকরণে $x^2$ ও $y^2$ এর সহগ কেমন? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 03-15 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+              "options": [
+                {
+                  "text": "দুটিই 0",
+                  "label": "ক"
+                },
+                {
+                  "text": "সমান",
+                  "label": "খ"
+                },
+                {
+                  "text": "বিপরীত চিহ্নের",
+                  "label": "গ"
+                },
+                {
+                  "text": "যেকোনো",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "খ",
+              "shortSolution": "সঠিক উত্তর: খ। বৃত্তে $x^2$ ও $y^2$ এর সহগ সমান হয়।",
+              "chapter": "04",
+              "topic": "সাধারণ সমীকরণ",
+              "difficulty": "Hard",
+              "probability": "Board Favourite"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-04-set-03-q16",
+              "question": "$x^2+y^2=25$ বৃত্তের $x$-অক্ষের ছেদবিন্দু কোনগুলো? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 03-16 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+              "options": [
+                {
+                  "text": "$(0,5),(0,-5)$",
+                  "label": "ক"
+                },
+                {
+                  "text": "$(0,0)",
+                  "label": "খ"
+                },
+                {
+                  "text": "$(5,5)$",
+                  "label": "গ"
+                },
+                {
+                  "text": "$(5,0),(-5,0)$",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "ঘ",
+              "shortSolution": "সঠিক উত্তর: ঘ। $y=0$ বসালে $x=\\pm a$।",
+              "chapter": "04",
+              "topic": "অক্ষের ছেদবিন্দু",
+              "difficulty": "Hard",
+              "probability": "Conceptual Trap"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-04-set-03-q17",
+              "question": "কেন্দ্র $(6,5)$ এবং ব্যাসার্ধ 6 হলে বৃত্তের সমীকরণ কোনটি?",
+              "options": [
+                {
+                  "text": "$(x-6)^2+(y-5)^2=36$",
+                  "label": "ক"
+                },
+                {
+                  "text": "$(x+6)^2+(y+5)^2=36$",
+                  "label": "খ"
+                },
+                {
+                  "text": "$(x-6)+(y-5)=6$",
+                  "label": "গ"
+                },
+                {
+                  "text": "$x^2+y^2=36$",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "ক",
+              "shortSolution": "সঠিক উত্তর: ক। Standard circle equation।",
+              "chapter": "04",
+              "topic": "বৃত্তের সমীকরণ",
+              "difficulty": "Hard",
+              "probability": "Mega Hot"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-04-set-03-q18",
+              "question": "বৃত্তের সকল বিন্দু কেন্দ্র থেকে কেমন দূরত্বে থাকে? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 03-18 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+              "options": [
+                {
+                  "text": "অসমান",
+                  "label": "ক"
+                },
+                {
+                  "text": "অসীম",
+                  "label": "খ"
+                },
+                {
+                  "text": "সমান",
+                  "label": "গ"
+                },
+                {
+                  "text": "শূন্য",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "গ",
+              "shortSolution": "সঠিক উত্তর: গ। বৃত্তের সংজ্ঞা অনুযায়ী সব বিন্দু কেন্দ্র থেকে সমদূরবর্তী।",
+              "chapter": "04",
+              "topic": "বৃত্তের সংজ্ঞা",
+              "difficulty": "Hard",
+              "probability": "Very Hot"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-04-set-03-q19",
+              "question": "ব্যাসার্ধ 8 হলে ব্যাস কত? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 03-19 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+              "options": [
+                {
+                  "text": "8",
+                  "label": "ক"
+                },
+                {
+                  "text": "10",
+                  "label": "খ"
+                },
+                {
+                  "text": "64",
+                  "label": "গ"
+                },
+                {
+                  "text": "16",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "ঘ",
+              "shortSolution": "সঠিক উত্তর: ঘ। ব্যাস = 2 × ব্যাসার্ধ।",
+              "chapter": "04",
+              "topic": "ব্যাস",
+              "difficulty": "Hard",
+              "probability": "Board Favourite"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-04-set-03-q20",
+              "question": "$x^2+y^2+4=0$ বাস্তব বৃত্ত নির্দেশ করে কি? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 03-20 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+              "options": [
+                {
+                  "text": "তথ্য অপর্যাপ্ত",
+                  "label": "ক"
+                },
+                {
+                  "text": "না",
+                  "label": "খ"
+                },
+                {
+                  "text": "শুধু এক বিন্দু",
+                  "label": "গ"
+                },
+                {
+                  "text": "হ্যাঁ",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "খ",
+              "shortSolution": "সঠিক উত্তর: খ। $r^2=-a$; $a>0$ হলে বাস্তব ব্যাসার্ধ নেই।",
+              "chapter": "04",
+              "topic": "বাস্তব বৃত্তের শর্ত",
+              "difficulty": "Hard",
+              "probability": "Conceptual Trap"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-04-set-03-q21",
+              "question": "$(x-5)^2+(y-2)^2=36$ বৃত্তের কেন্দ্র ও ব্যাসার্ধ কত?",
+              "options": [
+                {
+                  "text": "$(5,2), 36$",
+                  "label": "ক"
+                },
+                {
+                  "text": "$(-5,-2), 6$",
+                  "label": "খ"
+                },
+                {
+                  "text": "$(0,0),1$",
+                  "label": "গ"
+                },
+                {
+                  "text": "$(5,2), 6$",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "ঘ",
+              "shortSolution": "সঠিক উত্তর: ঘ। Standard form থেকে কেন্দ্র $(h,k)$ ও ব্যাসার্ধ $r$।",
+              "chapter": "04",
+              "topic": "কেন্দ্র ও ব্যাসার্ধ",
+              "difficulty": "Hard",
+              "probability": "Mega Hot"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-04-set-03-q22",
+              "question": "$x^2+y^2=36$ বৃত্তের ব্যাসার্ধ কত? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 03-22 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+              "options": [
+                {
+                  "text": "12",
+                  "label": "ক"
+                },
+                {
+                  "text": "1",
+                  "label": "খ"
+                },
+                {
+                  "text": "36",
+                  "label": "গ"
+                },
+                {
+                  "text": "6",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "ঘ",
+              "shortSolution": "সঠিক উত্তর: ঘ। $x^2+y^2=r^2$।",
+              "chapter": "04",
+              "topic": "মূলবিন্দু-কেন্দ্রিক বৃত্ত",
+              "difficulty": "Board Standard",
+              "probability": "Very Hot"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-04-set-03-q23",
+              "question": "বৃত্তের স্পর্শক স্পর্শবিন্দুতে ব্যাসার্ধের সাথে কত কোণ করে? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 03-23 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+              "options": [
+                {
+                  "text": "$90^\\circ$",
+                  "label": "ক"
+                },
+                {
+                  "text": "$45^\\circ$",
+                  "label": "খ"
+                },
+                {
+                  "text": "$180^\\circ$",
+                  "label": "গ"
+                },
+                {
+                  "text": "$0^\\circ$",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "ক",
+              "shortSolution": "সঠিক উত্তর: ক। স্পর্শক ব্যাসার্ধের উপর লম্ব।",
+              "chapter": "04",
+              "topic": "স্পর্শক",
+              "difficulty": "Board Standard",
+              "probability": "Board Favourite"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-04-set-03-q24",
+              "question": "ব্যাসের প্রান্তবিন্দু $(8,5)$ ও $(5,3)$ হলে কেন্দ্র কোনটি?",
+              "options": [
+                {
+                  "text": "$(3,2)$",
+                  "label": "ক"
+                },
+                {
+                  "text": "$($\\frac{13}{2}$,4)$",
+                  "label": "খ"
+                },
+                {
+                  "text": "$(0,0)$",
+                  "label": "গ"
+                },
+                {
+                  "text": "$(13,8)$",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "খ",
+              "shortSolution": "সঠিক উত্তর: খ। কেন্দ্র হলো ব্যাসের প্রান্তবিন্দুর midpoint।",
+              "chapter": "04",
+              "topic": "ব্যাস ও কেন্দ্র",
+              "difficulty": "Board Standard",
+              "probability": "Conceptual Trap"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-04-set-03-q25",
+              "question": "বৃত্তের সাধারণ সমীকরণে $x^2$ ও $y^2$ এর সহগ কেমন? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 03-25 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+              "options": [
+                {
+                  "text": "সমান",
+                  "label": "ক"
+                },
+                {
+                  "text": "যেকোনো",
+                  "label": "খ"
+                },
+                {
+                  "text": "দুটিই 0",
+                  "label": "গ"
+                },
+                {
+                  "text": "বিপরীত চিহ্নের",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "ক",
+              "shortSolution": "সঠিক উত্তর: ক। বৃত্তে $x^2$ ও $y^2$ এর সহগ সমান হয়।",
+              "chapter": "04",
+              "topic": "সাধারণ সমীকরণ",
+              "difficulty": "Board Standard",
+              "probability": "Mega Hot"
+            }
+          ]
+        },
+        {
+          "id": "hsc-higher-math-1st-paper-chapter-04-set-04",
+          "title": "Chapter 04 Hyper Mega Hot Set 04",
+          "questions": [
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-04-set-04-q01",
+              "question": "$(x-6)^2+(y-3)^2=49$ বৃত্তের কেন্দ্র ও ব্যাসার্ধ কত?",
+              "options": [
+                {
+                  "text": "$(0,0),1$",
+                  "label": "ক"
+                },
+                {
+                  "text": "$(6,3), 7$",
+                  "label": "খ"
+                },
+                {
+                  "text": "$(-6,-3), 7$",
+                  "label": "গ"
+                },
+                {
+                  "text": "$(6,3), 49$",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "খ",
+              "shortSolution": "সঠিক উত্তর: খ। Standard form থেকে কেন্দ্র $(h,k)$ ও ব্যাসার্ধ $r$।",
+              "chapter": "04",
+              "topic": "কেন্দ্র ও ব্যাসার্ধ",
+              "difficulty": "Easy",
+              "probability": "Very Hot"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-04-set-04-q02",
+              "question": "$x^2+y^2=49$ বৃত্তের ব্যাসার্ধ কত?",
+              "options": [
+                {
+                  "text": "1",
+                  "label": "ক"
+                },
+                {
+                  "text": "49",
+                  "label": "খ"
+                },
+                {
+                  "text": "7",
+                  "label": "গ"
+                },
+                {
+                  "text": "14",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "গ",
+              "shortSolution": "সঠিক উত্তর: গ। $x^2+y^2=r^2$।",
+              "chapter": "04",
+              "topic": "মূলবিন্দু-কেন্দ্রিক বৃত্ত",
+              "difficulty": "Easy",
+              "probability": "Board Favourite"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-04-set-04-q03",
+              "question": "বৃত্তের স্পর্শক স্পর্শবিন্দুতে ব্যাসার্ধের সাথে কত কোণ করে? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 04-03 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+              "options": [
+                {
+                  "text": "$90^\\circ$",
+                  "label": "ক"
+                },
+                {
+                  "text": "$0^\\circ$",
+                  "label": "খ"
+                },
+                {
+                  "text": "$45^\\circ$",
+                  "label": "গ"
+                },
+                {
+                  "text": "$180^\\circ$",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "ক",
+              "shortSolution": "সঠিক উত্তর: ক। স্পর্শক ব্যাসার্ধের উপর লম্ব।",
+              "chapter": "04",
+              "topic": "স্পর্শক",
+              "difficulty": "Easy",
+              "probability": "Conceptual Trap"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-04-set-04-q04",
+              "question": "ব্যাসের প্রান্তবিন্দু $(9,6)$ ও $(6,7)$ হলে কেন্দ্র কোনটি?",
+              "options": [
+                {
+                  "text": "$(3,-1)$",
+                  "label": "ক"
+                },
+                {
+                  "text": "$($\\frac{15}{2}$,$\\frac{13}{2}$)$",
+                  "label": "খ"
+                },
+                {
+                  "text": "$(0,0)$",
+                  "label": "গ"
+                },
+                {
+                  "text": "$(15,13)$",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "খ",
+              "shortSolution": "সঠিক উত্তর: খ। কেন্দ্র হলো ব্যাসের প্রান্তবিন্দুর midpoint।",
+              "chapter": "04",
+              "topic": "ব্যাস ও কেন্দ্র",
+              "difficulty": "Easy",
+              "probability": "Mega Hot"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-04-set-04-q05",
+              "question": "বৃত্তের সাধারণ সমীকরণে $x^2$ ও $y^2$ এর সহগ কেমন? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 04-05 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+              "options": [
+                {
+                  "text": "সমান",
+                  "label": "ক"
+                },
+                {
+                  "text": "যেকোনো",
+                  "label": "খ"
+                },
+                {
+                  "text": "বিপরীত চিহ্নের",
+                  "label": "গ"
+                },
+                {
+                  "text": "দুটিই 0",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "ক",
+              "shortSolution": "সঠিক উত্তর: ক। বৃত্তে $x^2$ ও $y^2$ এর সহগ সমান হয়।",
+              "chapter": "04",
+              "topic": "সাধারণ সমীকরণ",
+              "difficulty": "Easy",
+              "probability": "Very Hot"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-04-set-04-q06",
+              "question": "$x^2+y^2=36$ বৃত্তের $x$-অক্ষের ছেদবিন্দু কোনগুলো?",
+              "options": [
+                {
+                  "text": "$(0,0)",
+                  "label": "ক"
+                },
+                {
+                  "text": "$(6,0),(-6,0)$",
+                  "label": "খ"
+                },
+                {
+                  "text": "$(0,6),(0,-6)$",
+                  "label": "গ"
+                },
+                {
+                  "text": "$(6,6)$",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "খ",
+              "shortSolution": "সঠিক উত্তর: খ। $y=0$ বসালে $x=\\pm a$।",
+              "chapter": "04",
+              "topic": "অক্ষের ছেদবিন্দু",
+              "difficulty": "Easy",
+              "probability": "Board Favourite"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-04-set-04-q07",
+              "question": "কেন্দ্র $(7,2)$ এবং ব্যাসার্ধ 9 হলে বৃত্তের সমীকরণ কোনটি?",
+              "options": [
+                {
+                  "text": "$(x+7)^2+(y+2)^2=81$",
+                  "label": "ক"
+                },
+                {
+                  "text": "$x^2+y^2=81$",
+                  "label": "খ"
+                },
+                {
+                  "text": "$(x-7)^2+(y-2)^2=81$",
+                  "label": "গ"
+                },
+                {
+                  "text": "$(x-7)+(y-2)=9$",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "গ",
+              "shortSolution": "সঠিক উত্তর: গ। Standard circle equation।",
+              "chapter": "04",
+              "topic": "বৃত্তের সমীকরণ",
+              "difficulty": "Easy",
+              "probability": "Conceptual Trap"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-04-set-04-q08",
+              "question": "বৃত্তের সকল বিন্দু কেন্দ্র থেকে কেমন দূরত্বে থাকে? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 04-08 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+              "options": [
+                {
+                  "text": "অসমান",
+                  "label": "ক"
+                },
+                {
+                  "text": "শূন্য",
+                  "label": "খ"
+                },
+                {
+                  "text": "সমান",
+                  "label": "গ"
+                },
+                {
+                  "text": "অসীম",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "গ",
+              "shortSolution": "সঠিক উত্তর: গ। বৃত্তের সংজ্ঞা অনুযায়ী সব বিন্দু কেন্দ্র থেকে সমদূরবর্তী।",
+              "chapter": "04",
+              "topic": "বৃত্তের সংজ্ঞা",
+              "difficulty": "Medium",
+              "probability": "Mega Hot"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-04-set-04-q09",
+              "question": "ব্যাসার্ধ 9 হলে ব্যাস কত?",
+              "options": [
+                {
+                  "text": "9",
+                  "label": "ক"
+                },
+                {
+                  "text": "81",
+                  "label": "খ"
+                },
+                {
+                  "text": "18",
+                  "label": "গ"
+                },
+                {
+                  "text": "11",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "গ",
+              "shortSolution": "সঠিক উত্তর: গ। ব্যাস = 2 × ব্যাসার্ধ।",
+              "chapter": "04",
+              "topic": "ব্যাস",
+              "difficulty": "Medium",
+              "probability": "Very Hot"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-04-set-04-q10",
+              "question": "$x^2+y^2+5=0$ বাস্তব বৃত্ত নির্দেশ করে কি?",
+              "options": [
+                {
+                  "text": "হ্যাঁ",
+                  "label": "ক"
+                },
+                {
+                  "text": "শুধু এক বিন্দু",
+                  "label": "খ"
+                },
+                {
+                  "text": "তথ্য অপর্যাপ্ত",
+                  "label": "গ"
+                },
+                {
+                  "text": "না",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "ঘ",
+              "shortSolution": "সঠিক উত্তর: ঘ। $r^2=-a$; $a>0$ হলে বাস্তব ব্যাসার্ধ নেই।",
+              "chapter": "04",
+              "topic": "বাস্তব বৃত্তের শর্ত",
+              "difficulty": "Medium",
+              "probability": "Board Favourite"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-04-set-04-q11",
+              "question": "$(x-6)^2+(y-6)^2=81$ বৃত্তের কেন্দ্র ও ব্যাসার্ধ কত?",
+              "options": [
+                {
+                  "text": "$(6,6), 9$",
+                  "label": "ক"
+                },
+                {
+                  "text": "$(6,6), 81$",
+                  "label": "খ"
+                },
+                {
+                  "text": "$(-6,-6), 9$",
+                  "label": "গ"
+                },
+                {
+                  "text": "$(0,0),1$",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "ক",
+              "shortSolution": "সঠিক উত্তর: ক। Standard form থেকে কেন্দ্র $(h,k)$ ও ব্যাসার্ধ $r$।",
+              "chapter": "04",
+              "topic": "কেন্দ্র ও ব্যাসার্ধ",
+              "difficulty": "Medium",
+              "probability": "Conceptual Trap"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-04-set-04-q12",
+              "question": "$x^2+y^2=49$ বৃত্তের ব্যাসার্ধ কত? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 04-12 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+              "options": [
+                {
+                  "text": "7",
+                  "label": "ক"
+                },
+                {
+                  "text": "49",
+                  "label": "খ"
+                },
+                {
+                  "text": "14",
+                  "label": "গ"
+                },
+                {
+                  "text": "1",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "ক",
+              "shortSolution": "সঠিক উত্তর: ক। $x^2+y^2=r^2$।",
+              "chapter": "04",
+              "topic": "মূলবিন্দু-কেন্দ্রিক বৃত্ত",
+              "difficulty": "Medium",
+              "probability": "Mega Hot"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-04-set-04-q13",
+              "question": "বৃত্তের স্পর্শক স্পর্শবিন্দুতে ব্যাসার্ধের সাথে কত কোণ করে? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 04-13 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+              "options": [
+                {
+                  "text": "$0^\\circ$",
+                  "label": "ক"
+                },
+                {
+                  "text": "$180^\\circ$",
+                  "label": "খ"
+                },
+                {
+                  "text": "$45^\\circ$",
+                  "label": "গ"
+                },
+                {
+                  "text": "$90^\\circ$",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "ঘ",
+              "shortSolution": "সঠিক উত্তর: ঘ। স্পর্শক ব্যাসার্ধের উপর লম্ব।",
+              "chapter": "04",
+              "topic": "স্পর্শক",
+              "difficulty": "Medium",
+              "probability": "Very Hot"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-04-set-04-q14",
+              "question": "ব্যাসের প্রান্তবিন্দু $(9,2)$ ও $(8,5)$ হলে কেন্দ্র কোনটি?",
+              "options": [
+                {
+                  "text": "$(1,-3)$",
+                  "label": "ক"
+                },
+                {
+                  "text": "$($\\frac{17}{2}$,$\\frac{7}{2}$)$",
+                  "label": "খ"
+                },
+                {
+                  "text": "$(17,7)$",
+                  "label": "গ"
+                },
+                {
+                  "text": "$(0,0)$",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "খ",
+              "shortSolution": "সঠিক উত্তর: খ। কেন্দ্র হলো ব্যাসের প্রান্তবিন্দুর midpoint।",
+              "chapter": "04",
+              "topic": "ব্যাস ও কেন্দ্র",
+              "difficulty": "Medium",
+              "probability": "Board Favourite"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-04-set-04-q15",
+              "question": "বৃত্তের সাধারণ সমীকরণে $x^2$ ও $y^2$ এর সহগ কেমন? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 04-15 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+              "options": [
+                {
+                  "text": "যেকোনো",
+                  "label": "ক"
+                },
+                {
+                  "text": "সমান",
+                  "label": "খ"
+                },
+                {
+                  "text": "বিপরীত চিহ্নের",
+                  "label": "গ"
+                },
+                {
+                  "text": "দুটিই 0",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "খ",
+              "shortSolution": "সঠিক উত্তর: খ। বৃত্তে $x^2$ ও $y^2$ এর সহগ সমান হয়।",
+              "chapter": "04",
+              "topic": "সাধারণ সমীকরণ",
+              "difficulty": "Hard",
+              "probability": "Conceptual Trap"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-04-set-04-q16",
+              "question": "$x^2+y^2=36$ বৃত্তের $x$-অক্ষের ছেদবিন্দু কোনগুলো? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 04-16 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+              "options": [
+                {
+                  "text": "$(0,6),(0,-6)$",
+                  "label": "ক"
+                },
+                {
+                  "text": "$(6,6)$",
+                  "label": "খ"
+                },
+                {
+                  "text": "$(0,0)",
+                  "label": "গ"
+                },
+                {
+                  "text": "$(6,0),(-6,0)$",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "ঘ",
+              "shortSolution": "সঠিক উত্তর: ঘ। $y=0$ বসালে $x=\\pm a$।",
+              "chapter": "04",
+              "topic": "অক্ষের ছেদবিন্দু",
+              "difficulty": "Hard",
+              "probability": "Mega Hot"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-04-set-04-q17",
+              "question": "কেন্দ্র $(7,5)$ এবং ব্যাসার্ধ 7 হলে বৃত্তের সমীকরণ কোনটি?",
+              "options": [
+                {
+                  "text": "$(x-7)^2+(y-5)^2=49$",
+                  "label": "ক"
+                },
+                {
+                  "text": "$(x-7)+(y-5)=7$",
+                  "label": "খ"
+                },
+                {
+                  "text": "$(x+7)^2+(y+5)^2=49$",
+                  "label": "গ"
+                },
+                {
+                  "text": "$x^2+y^2=49$",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "ক",
+              "shortSolution": "সঠিক উত্তর: ক। Standard circle equation।",
+              "chapter": "04",
+              "topic": "বৃত্তের সমীকরণ",
+              "difficulty": "Hard",
+              "probability": "Very Hot"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-04-set-04-q18",
+              "question": "বৃত্তের সকল বিন্দু কেন্দ্র থেকে কেমন দূরত্বে থাকে? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 04-18 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+              "options": [
+                {
+                  "text": "অসীম",
+                  "label": "ক"
+                },
+                {
+                  "text": "সমান",
+                  "label": "খ"
+                },
+                {
+                  "text": "অসমান",
+                  "label": "গ"
+                },
+                {
+                  "text": "শূন্য",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "খ",
+              "shortSolution": "সঠিক উত্তর: খ। বৃত্তের সংজ্ঞা অনুযায়ী সব বিন্দু কেন্দ্র থেকে সমদূরবর্তী।",
+              "chapter": "04",
+              "topic": "বৃত্তের সংজ্ঞা",
+              "difficulty": "Hard",
+              "probability": "Board Favourite"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-04-set-04-q19",
+              "question": "ব্যাসার্ধ 9 হলে ব্যাস কত? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 04-19 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+              "options": [
+                {
+                  "text": "18",
+                  "label": "ক"
+                },
+                {
+                  "text": "81",
+                  "label": "খ"
+                },
+                {
+                  "text": "9",
+                  "label": "গ"
+                },
+                {
+                  "text": "11",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "ক",
+              "shortSolution": "সঠিক উত্তর: ক। ব্যাস = 2 × ব্যাসার্ধ।",
+              "chapter": "04",
+              "topic": "ব্যাস",
+              "difficulty": "Hard",
+              "probability": "Conceptual Trap"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-04-set-04-q20",
+              "question": "$x^2+y^2+5=0$ বাস্তব বৃত্ত নির্দেশ করে কি? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 04-20 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+              "options": [
+                {
+                  "text": "শুধু এক বিন্দু",
+                  "label": "ক"
+                },
+                {
+                  "text": "হ্যাঁ",
+                  "label": "খ"
+                },
+                {
+                  "text": "না",
+                  "label": "গ"
+                },
+                {
+                  "text": "তথ্য অপর্যাপ্ত",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "গ",
+              "shortSolution": "সঠিক উত্তর: গ। $r^2=-a$; $a>0$ হলে বাস্তব ব্যাসার্ধ নেই।",
+              "chapter": "04",
+              "topic": "বাস্তব বৃত্তের শর্ত",
+              "difficulty": "Hard",
+              "probability": "Mega Hot"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-04-set-04-q21",
+              "question": "$(x-6)^2+(y-2)^2=49$ বৃত্তের কেন্দ্র ও ব্যাসার্ধ কত?",
+              "options": [
+                {
+                  "text": "$(6,2), 49$",
+                  "label": "ক"
+                },
+                {
+                  "text": "$(0,0),1$",
+                  "label": "খ"
+                },
+                {
+                  "text": "$(-6,-2), 7$",
+                  "label": "গ"
+                },
+                {
+                  "text": "$(6,2), 7$",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "ঘ",
+              "shortSolution": "সঠিক উত্তর: ঘ। Standard form থেকে কেন্দ্র $(h,k)$ ও ব্যাসার্ধ $r$।",
+              "chapter": "04",
+              "topic": "কেন্দ্র ও ব্যাসার্ধ",
+              "difficulty": "Hard",
+              "probability": "Very Hot"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-04-set-04-q22",
+              "question": "$x^2+y^2=49$ বৃত্তের ব্যাসার্ধ কত? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 04-22 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+              "options": [
+                {
+                  "text": "1",
+                  "label": "ক"
+                },
+                {
+                  "text": "49",
+                  "label": "খ"
+                },
+                {
+                  "text": "7",
+                  "label": "গ"
+                },
+                {
+                  "text": "14",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "গ",
+              "shortSolution": "সঠিক উত্তর: গ। $x^2+y^2=r^2$।",
+              "chapter": "04",
+              "topic": "মূলবিন্দু-কেন্দ্রিক বৃত্ত",
+              "difficulty": "Board Standard",
+              "probability": "Board Favourite"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-04-set-04-q23",
+              "question": "বৃত্তের স্পর্শক স্পর্শবিন্দুতে ব্যাসার্ধের সাথে কত কোণ করে? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 04-23 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+              "options": [
+                {
+                  "text": "$45^\\circ$",
+                  "label": "ক"
+                },
+                {
+                  "text": "$180^\\circ$",
+                  "label": "খ"
+                },
+                {
+                  "text": "$0^\\circ$",
+                  "label": "গ"
+                },
+                {
+                  "text": "$90^\\circ$",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "ঘ",
+              "shortSolution": "সঠিক উত্তর: ঘ। স্পর্শক ব্যাসার্ধের উপর লম্ব।",
+              "chapter": "04",
+              "topic": "স্পর্শক",
+              "difficulty": "Board Standard",
+              "probability": "Conceptual Trap"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-04-set-04-q24",
+              "question": "ব্যাসের প্রান্তবিন্দু $(9,5)$ ও $(6,3)$ হলে কেন্দ্র কোনটি?",
+              "options": [
+                {
+                  "text": "$(3,2)$",
+                  "label": "ক"
+                },
+                {
+                  "text": "$(0,0)$",
+                  "label": "খ"
+                },
+                {
+                  "text": "$(15,8)$",
+                  "label": "গ"
+                },
+                {
+                  "text": "$($\\frac{15}{2}$,4)$",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "ঘ",
+              "shortSolution": "সঠিক উত্তর: ঘ। কেন্দ্র হলো ব্যাসের প্রান্তবিন্দুর midpoint।",
+              "chapter": "04",
+              "topic": "ব্যাস ও কেন্দ্র",
+              "difficulty": "Board Standard",
+              "probability": "Mega Hot"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-04-set-04-q25",
+              "question": "বৃত্তের সাধারণ সমীকরণে $x^2$ ও $y^2$ এর সহগ কেমন? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 04-25 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+              "options": [
+                {
+                  "text": "সমান",
+                  "label": "ক"
+                },
+                {
+                  "text": "বিপরীত চিহ্নের",
+                  "label": "খ"
+                },
+                {
+                  "text": "যেকোনো",
+                  "label": "গ"
+                },
+                {
+                  "text": "দুটিই 0",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "ক",
+              "shortSolution": "সঠিক উত্তর: ক। বৃত্তে $x^2$ ও $y^2$ এর সহগ সমান হয়।",
+              "chapter": "04",
+              "topic": "সাধারণ সমীকরণ",
+              "difficulty": "Board Standard",
+              "probability": "Very Hot"
+            }
+          ]
+        },
+        {
+          "id": "hsc-higher-math-1st-paper-chapter-04-set-05",
+          "title": "Chapter 04 Hyper Mega Hot Set 05",
+          "questions": [
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-04-set-05-q01",
+              "question": "$(x-7)^2+(y-3)^2=64$ বৃত্তের কেন্দ্র ও ব্যাসার্ধ কত?",
+              "options": [
+                {
+                  "text": "$(7,3), 64$",
+                  "label": "ক"
+                },
+                {
+                  "text": "$(-7,-3), 8$",
+                  "label": "খ"
+                },
+                {
+                  "text": "$(7,3), 8$",
+                  "label": "গ"
+                },
+                {
+                  "text": "$(0,0),1$",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "গ",
+              "shortSolution": "সঠিক উত্তর: গ। Standard form থেকে কেন্দ্র $(h,k)$ ও ব্যাসার্ধ $r$।",
+              "chapter": "04",
+              "topic": "কেন্দ্র ও ব্যাসার্ধ",
+              "difficulty": "Easy",
+              "probability": "Board Favourite"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-04-set-05-q02",
+              "question": "$x^2+y^2=64$ বৃত্তের ব্যাসার্ধ কত?",
+              "options": [
+                {
+                  "text": "8",
+                  "label": "ক"
+                },
+                {
+                  "text": "16",
+                  "label": "খ"
+                },
+                {
+                  "text": "1",
+                  "label": "গ"
+                },
+                {
+                  "text": "64",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "ক",
+              "shortSolution": "সঠিক উত্তর: ক। $x^2+y^2=r^2$।",
+              "chapter": "04",
+              "topic": "মূলবিন্দু-কেন্দ্রিক বৃত্ত",
+              "difficulty": "Easy",
+              "probability": "Conceptual Trap"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-04-set-05-q03",
+              "question": "বৃত্তের স্পর্শক স্পর্শবিন্দুতে ব্যাসার্ধের সাথে কত কোণ করে? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 05-03 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+              "options": [
+                {
+                  "text": "$180^\\circ$",
+                  "label": "ক"
+                },
+                {
+                  "text": "$45^\\circ$",
+                  "label": "খ"
+                },
+                {
+                  "text": "$0^\\circ$",
+                  "label": "গ"
+                },
+                {
+                  "text": "$90^\\circ$",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "ঘ",
+              "shortSolution": "সঠিক উত্তর: ঘ। স্পর্শক ব্যাসার্ধের উপর লম্ব।",
+              "chapter": "04",
+              "topic": "স্পর্শক",
+              "difficulty": "Easy",
+              "probability": "Mega Hot"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-04-set-05-q04",
+              "question": "ব্যাসের প্রান্তবিন্দু $(10,6)$ ও $(7,7)$ হলে কেন্দ্র কোনটি?",
+              "options": [
+                {
+                  "text": "$(17,13)$",
+                  "label": "ক"
+                },
+                {
+                  "text": "$(3,-1)$",
+                  "label": "খ"
+                },
+                {
+                  "text": "$($\\frac{17}{2}$,$\\frac{13}{2}$)$",
+                  "label": "গ"
+                },
+                {
+                  "text": "$(0,0)$",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "গ",
+              "shortSolution": "সঠিক উত্তর: গ। কেন্দ্র হলো ব্যাসের প্রান্তবিন্দুর midpoint।",
+              "chapter": "04",
+              "topic": "ব্যাস ও কেন্দ্র",
+              "difficulty": "Easy",
+              "probability": "Very Hot"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-04-set-05-q05",
+              "question": "বৃত্তের সাধারণ সমীকরণে $x^2$ ও $y^2$ এর সহগ কেমন? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 05-05 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+              "options": [
+                {
+                  "text": "দুটিই 0",
+                  "label": "ক"
+                },
+                {
+                  "text": "বিপরীত চিহ্নের",
+                  "label": "খ"
+                },
+                {
+                  "text": "যেকোনো",
+                  "label": "গ"
+                },
+                {
+                  "text": "সমান",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "ঘ",
+              "shortSolution": "সঠিক উত্তর: ঘ। বৃত্তে $x^2$ ও $y^2$ এর সহগ সমান হয়।",
+              "chapter": "04",
+              "topic": "সাধারণ সমীকরণ",
+              "difficulty": "Easy",
+              "probability": "Board Favourite"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-04-set-05-q06",
+              "question": "$x^2+y^2=49$ বৃত্তের $x$-অক্ষের ছেদবিন্দু কোনগুলো?",
+              "options": [
+                {
+                  "text": "$(0,0)",
+                  "label": "ক"
+                },
+                {
+                  "text": "$(7,0),(-7,0)$",
+                  "label": "খ"
+                },
+                {
+                  "text": "$(7,7)$",
+                  "label": "গ"
+                },
+                {
+                  "text": "$(0,7),(0,-7)$",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "খ",
+              "shortSolution": "সঠিক উত্তর: খ। $y=0$ বসালে $x=\\pm a$।",
+              "chapter": "04",
+              "topic": "অক্ষের ছেদবিন্দু",
+              "difficulty": "Easy",
+              "probability": "Conceptual Trap"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-04-set-05-q07",
+              "question": "কেন্দ্র $(8,2)$ এবং ব্যাসার্ধ 10 হলে বৃত্তের সমীকরণ কোনটি?",
+              "options": [
+                {
+                  "text": "$x^2+y^2=100$",
+                  "label": "ক"
+                },
+                {
+                  "text": "$(x-8)+(y-2)=10$",
+                  "label": "খ"
+                },
+                {
+                  "text": "$(x-8)^2+(y-2)^2=100$",
+                  "label": "গ"
+                },
+                {
+                  "text": "$(x+8)^2+(y+2)^2=100$",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "গ",
+              "shortSolution": "সঠিক উত্তর: গ। Standard circle equation।",
+              "chapter": "04",
+              "topic": "বৃত্তের সমীকরণ",
+              "difficulty": "Easy",
+              "probability": "Mega Hot"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-04-set-05-q08",
+              "question": "বৃত্তের সকল বিন্দু কেন্দ্র থেকে কেমন দূরত্বে থাকে? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 05-08 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+              "options": [
+                {
+                  "text": "শূন্য",
+                  "label": "ক"
+                },
+                {
+                  "text": "সমান",
+                  "label": "খ"
+                },
+                {
+                  "text": "অসীম",
+                  "label": "গ"
+                },
+                {
+                  "text": "অসমান",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "খ",
+              "shortSolution": "সঠিক উত্তর: খ। বৃত্তের সংজ্ঞা অনুযায়ী সব বিন্দু কেন্দ্র থেকে সমদূরবর্তী।",
+              "chapter": "04",
+              "topic": "বৃত্তের সংজ্ঞা",
+              "difficulty": "Medium",
+              "probability": "Very Hot"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-04-set-05-q09",
+              "question": "ব্যাসার্ধ 10 হলে ব্যাস কত?",
+              "options": [
+                {
+                  "text": "20",
+                  "label": "ক"
+                },
+                {
+                  "text": "100",
+                  "label": "খ"
+                },
+                {
+                  "text": "12",
+                  "label": "গ"
+                },
+                {
+                  "text": "10",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "ক",
+              "shortSolution": "সঠিক উত্তর: ক। ব্যাস = 2 × ব্যাসার্ধ।",
+              "chapter": "04",
+              "topic": "ব্যাস",
+              "difficulty": "Medium",
+              "probability": "Board Favourite"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-04-set-05-q10",
+              "question": "$x^2+y^2+6=0$ বাস্তব বৃত্ত নির্দেশ করে কি?",
+              "options": [
+                {
+                  "text": "হ্যাঁ",
+                  "label": "ক"
+                },
+                {
+                  "text": "শুধু এক বিন্দু",
+                  "label": "খ"
+                },
+                {
+                  "text": "তথ্য অপর্যাপ্ত",
+                  "label": "গ"
+                },
+                {
+                  "text": "না",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "ঘ",
+              "shortSolution": "সঠিক উত্তর: ঘ। $r^2=-a$; $a>0$ হলে বাস্তব ব্যাসার্ধ নেই।",
+              "chapter": "04",
+              "topic": "বাস্তব বৃত্তের শর্ত",
+              "difficulty": "Medium",
+              "probability": "Conceptual Trap"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-04-set-05-q11",
+              "question": "$(x-7)^2+(y-6)^2=100$ বৃত্তের কেন্দ্র ও ব্যাসার্ধ কত?",
+              "options": [
+                {
+                  "text": "$(-7,-6), 10$",
+                  "label": "ক"
+                },
+                {
+                  "text": "$(7,6), 100$",
+                  "label": "খ"
+                },
+                {
+                  "text": "$(7,6), 10$",
+                  "label": "গ"
+                },
+                {
+                  "text": "$(0,0),1$",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "গ",
+              "shortSolution": "সঠিক উত্তর: গ। Standard form থেকে কেন্দ্র $(h,k)$ ও ব্যাসার্ধ $r$।",
+              "chapter": "04",
+              "topic": "কেন্দ্র ও ব্যাসার্ধ",
+              "difficulty": "Medium",
+              "probability": "Mega Hot"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-04-set-05-q12",
+              "question": "$x^2+y^2=64$ বৃত্তের ব্যাসার্ধ কত? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 05-12 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+              "options": [
+                {
+                  "text": "1",
+                  "label": "ক"
+                },
+                {
+                  "text": "8",
+                  "label": "খ"
+                },
+                {
+                  "text": "16",
+                  "label": "গ"
+                },
+                {
+                  "text": "64",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "খ",
+              "shortSolution": "সঠিক উত্তর: খ। $x^2+y^2=r^2$।",
+              "chapter": "04",
+              "topic": "মূলবিন্দু-কেন্দ্রিক বৃত্ত",
+              "difficulty": "Medium",
+              "probability": "Very Hot"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-04-set-05-q13",
+              "question": "বৃত্তের স্পর্শক স্পর্শবিন্দুতে ব্যাসার্ধের সাথে কত কোণ করে? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 05-13 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+              "options": [
+                {
+                  "text": "$90^\\circ$",
+                  "label": "ক"
+                },
+                {
+                  "text": "$0^\\circ$",
+                  "label": "খ"
+                },
+                {
+                  "text": "$45^\\circ$",
+                  "label": "গ"
+                },
+                {
+                  "text": "$180^\\circ$",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "ক",
+              "shortSolution": "সঠিক উত্তর: ক। স্পর্শক ব্যাসার্ধের উপর লম্ব।",
+              "chapter": "04",
+              "topic": "স্পর্শক",
+              "difficulty": "Medium",
+              "probability": "Board Favourite"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-04-set-05-q14",
+              "question": "ব্যাসের প্রান্তবিন্দু $(10,2)$ ও $(9,5)$ হলে কেন্দ্র কোনটি?",
+              "options": [
+                {
+                  "text": "$($\\frac{19}{2}$,$\\frac{7}{2}$)$",
+                  "label": "ক"
+                },
+                {
+                  "text": "$(19,7)$",
+                  "label": "খ"
+                },
+                {
+                  "text": "$(0,0)$",
+                  "label": "গ"
+                },
+                {
+                  "text": "$(1,-3)$",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "ক",
+              "shortSolution": "সঠিক উত্তর: ক। কেন্দ্র হলো ব্যাসের প্রান্তবিন্দুর midpoint।",
+              "chapter": "04",
+              "topic": "ব্যাস ও কেন্দ্র",
+              "difficulty": "Medium",
+              "probability": "Conceptual Trap"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-04-set-05-q15",
+              "question": "বৃত্তের সাধারণ সমীকরণে $x^2$ ও $y^2$ এর সহগ কেমন? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 05-15 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+              "options": [
+                {
+                  "text": "যেকোনো",
+                  "label": "ক"
+                },
+                {
+                  "text": "সমান",
+                  "label": "খ"
+                },
+                {
+                  "text": "বিপরীত চিহ্নের",
+                  "label": "গ"
+                },
+                {
+                  "text": "দুটিই 0",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "খ",
+              "shortSolution": "সঠিক উত্তর: খ। বৃত্তে $x^2$ ও $y^2$ এর সহগ সমান হয়।",
+              "chapter": "04",
+              "topic": "সাধারণ সমীকরণ",
+              "difficulty": "Hard",
+              "probability": "Mega Hot"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-04-set-05-q16",
+              "question": "$x^2+y^2=49$ বৃত্তের $x$-অক্ষের ছেদবিন্দু কোনগুলো? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 05-16 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+              "options": [
+                {
+                  "text": "$(7,7)$",
+                  "label": "ক"
+                },
+                {
+                  "text": "$(0,0)",
+                  "label": "খ"
+                },
+                {
+                  "text": "$(0,7),(0,-7)$",
+                  "label": "গ"
+                },
+                {
+                  "text": "$(7,0),(-7,0)$",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "ঘ",
+              "shortSolution": "সঠিক উত্তর: ঘ। $y=0$ বসালে $x=\\pm a$।",
+              "chapter": "04",
+              "topic": "অক্ষের ছেদবিন্দু",
+              "difficulty": "Hard",
+              "probability": "Very Hot"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-04-set-05-q17",
+              "question": "কেন্দ্র $(8,5)$ এবং ব্যাসার্ধ 8 হলে বৃত্তের সমীকরণ কোনটি?",
+              "options": [
+                {
+                  "text": "$x^2+y^2=64$",
+                  "label": "ক"
+                },
+                {
+                  "text": "$(x+8)^2+(y+5)^2=64$",
+                  "label": "খ"
+                },
+                {
+                  "text": "$(x-8)+(y-5)=8$",
+                  "label": "গ"
+                },
+                {
+                  "text": "$(x-8)^2+(y-5)^2=64$",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "ঘ",
+              "shortSolution": "সঠিক উত্তর: ঘ। Standard circle equation।",
+              "chapter": "04",
+              "topic": "বৃত্তের সমীকরণ",
+              "difficulty": "Hard",
+              "probability": "Board Favourite"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-04-set-05-q18",
+              "question": "বৃত্তের সকল বিন্দু কেন্দ্র থেকে কেমন দূরত্বে থাকে? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 05-18 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+              "options": [
+                {
+                  "text": "অসমান",
+                  "label": "ক"
+                },
+                {
+                  "text": "অসীম",
+                  "label": "খ"
+                },
+                {
+                  "text": "শূন্য",
+                  "label": "গ"
+                },
+                {
+                  "text": "সমান",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "ঘ",
+              "shortSolution": "সঠিক উত্তর: ঘ। বৃত্তের সংজ্ঞা অনুযায়ী সব বিন্দু কেন্দ্র থেকে সমদূরবর্তী।",
+              "chapter": "04",
+              "topic": "বৃত্তের সংজ্ঞা",
+              "difficulty": "Hard",
+              "probability": "Conceptual Trap"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-04-set-05-q19",
+              "question": "ব্যাসার্ধ 10 হলে ব্যাস কত? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 05-19 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+              "options": [
+                {
+                  "text": "12",
+                  "label": "ক"
+                },
+                {
+                  "text": "10",
+                  "label": "খ"
+                },
+                {
+                  "text": "100",
+                  "label": "গ"
+                },
+                {
+                  "text": "20",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "ঘ",
+              "shortSolution": "সঠিক উত্তর: ঘ। ব্যাস = 2 × ব্যাসার্ধ।",
+              "chapter": "04",
+              "topic": "ব্যাস",
+              "difficulty": "Hard",
+              "probability": "Mega Hot"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-04-set-05-q20",
+              "question": "$x^2+y^2+6=0$ বাস্তব বৃত্ত নির্দেশ করে কি? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 05-20 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+              "options": [
+                {
+                  "text": "হ্যাঁ",
+                  "label": "ক"
+                },
+                {
+                  "text": "তথ্য অপর্যাপ্ত",
+                  "label": "খ"
+                },
+                {
+                  "text": "না",
+                  "label": "গ"
+                },
+                {
+                  "text": "শুধু এক বিন্দু",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "গ",
+              "shortSolution": "সঠিক উত্তর: গ। $r^2=-a$; $a>0$ হলে বাস্তব ব্যাসার্ধ নেই।",
+              "chapter": "04",
+              "topic": "বাস্তব বৃত্তের শর্ত",
+              "difficulty": "Hard",
+              "probability": "Very Hot"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-04-set-05-q21",
+              "question": "$(x-7)^2+(y-2)^2=64$ বৃত্তের কেন্দ্র ও ব্যাসার্ধ কত?",
+              "options": [
+                {
+                  "text": "$(7,2), 8$",
+                  "label": "ক"
+                },
+                {
+                  "text": "$(0,0),1$",
+                  "label": "খ"
+                },
+                {
+                  "text": "$(7,2), 64$",
+                  "label": "গ"
+                },
+                {
+                  "text": "$(-7,-2), 8$",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "ক",
+              "shortSolution": "সঠিক উত্তর: ক। Standard form থেকে কেন্দ্র $(h,k)$ ও ব্যাসার্ধ $r$।",
+              "chapter": "04",
+              "topic": "কেন্দ্র ও ব্যাসার্ধ",
+              "difficulty": "Hard",
+              "probability": "Board Favourite"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-04-set-05-q22",
+              "question": "$x^2+y^2=64$ বৃত্তের ব্যাসার্ধ কত? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 05-22 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+              "options": [
+                {
+                  "text": "1",
+                  "label": "ক"
+                },
+                {
+                  "text": "8",
+                  "label": "খ"
+                },
+                {
+                  "text": "16",
+                  "label": "গ"
+                },
+                {
+                  "text": "64",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "খ",
+              "shortSolution": "সঠিক উত্তর: খ। $x^2+y^2=r^2$।",
+              "chapter": "04",
+              "topic": "মূলবিন্দু-কেন্দ্রিক বৃত্ত",
+              "difficulty": "Board Standard",
+              "probability": "Conceptual Trap"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-04-set-05-q23",
+              "question": "বৃত্তের স্পর্শক স্পর্শবিন্দুতে ব্যাসার্ধের সাথে কত কোণ করে? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 05-23 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+              "options": [
+                {
+                  "text": "$90^\\circ$",
+                  "label": "ক"
+                },
+                {
+                  "text": "$180^\\circ$",
+                  "label": "খ"
+                },
+                {
+                  "text": "$45^\\circ$",
+                  "label": "গ"
+                },
+                {
+                  "text": "$0^\\circ$",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "ক",
+              "shortSolution": "সঠিক উত্তর: ক। স্পর্শক ব্যাসার্ধের উপর লম্ব।",
+              "chapter": "04",
+              "topic": "স্পর্শক",
+              "difficulty": "Board Standard",
+              "probability": "Mega Hot"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-04-set-05-q24",
+              "question": "ব্যাসের প্রান্তবিন্দু $(10,5)$ ও $(7,3)$ হলে কেন্দ্র কোনটি?",
+              "options": [
+                {
+                  "text": "$(17,8)$",
+                  "label": "ক"
+                },
+                {
+                  "text": "$(0,0)$",
+                  "label": "খ"
+                },
+                {
+                  "text": "$(3,2)$",
+                  "label": "গ"
+                },
+                {
+                  "text": "$($\\frac{17}{2}$,4)$",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "ঘ",
+              "shortSolution": "সঠিক উত্তর: ঘ। কেন্দ্র হলো ব্যাসের প্রান্তবিন্দুর midpoint।",
+              "chapter": "04",
+              "topic": "ব্যাস ও কেন্দ্র",
+              "difficulty": "Board Standard",
+              "probability": "Very Hot"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-04-set-05-q25",
+              "question": "বৃত্তের সাধারণ সমীকরণে $x^2$ ও $y^2$ এর সহগ কেমন? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 05-25 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+              "options": [
+                {
+                  "text": "যেকোনো",
+                  "label": "ক"
+                },
+                {
+                  "text": "সমান",
+                  "label": "খ"
+                },
+                {
+                  "text": "দুটিই 0",
+                  "label": "গ"
+                },
+                {
+                  "text": "বিপরীত চিহ্নের",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "খ",
+              "shortSolution": "সঠিক উত্তর: খ। বৃত্তে $x^2$ ও $y^2$ এর সহগ সমান হয়।",
+              "chapter": "04",
+              "topic": "সাধারণ সমীকরণ",
+              "difficulty": "Board Standard",
+              "probability": "Board Favourite"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

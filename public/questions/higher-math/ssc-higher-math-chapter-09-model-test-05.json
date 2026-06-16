@@ -1,352 +1,302 @@
 [
   {
-    "id": "ssc-higher-math-ch09-set05-q01",
+    "id": "ssc-higher-math-chapter-09-model-test-05-q01",
     "subject": "higher-math",
     "chapter": "ssc-higher-math-chapter-09-model-test-05",
-    "text": "$\\triangle DEF$ এর ক্ষেত্রে নিচের কোনটি সঠিক?",
+    "text": "P(ঘটনা) = 6/8 হলে সম্পূরক = ?",
     "options": [
-      "$\\vec{DE} + \\vec{EF} = \\vec{FD}$",
-      "$\\vec{DE} + \\vec{DF} = \\vec{EF}$",
-      "$\\vec{FE} + \\vec{ED} + \\vec{FD} = 0$",
-      "$\\vec{DE} + \\vec{EF} + \\vec{FD} = 0$"
+      "12",
+      "-4",
+      "8",
+      "4"
     ],
     "image": null,
+    "optionImages": null,
     "timeLimit": 45
   },
   {
-    "id": "ssc-higher-math-ch09-set05-q02",
+    "id": "ssc-higher-math-chapter-09-model-test-05-q02",
     "subject": "higher-math",
     "chapter": "ssc-higher-math-chapter-09-model-test-05",
-    "text": "$P(x, y) = 7x^5 + 5x^4y^4 + y^6$ বহুপদীর মাত্রা কত?",
+    "text": "5x + 7 = 102 হলে x = ?",
     "options": [
-      "5",
-      "6",
-      "7",
-      "8"
+      "19",
+      "21",
+      "20",
+      "18"
     ],
     "image": null,
+    "optionImages": null,
     "timeLimit": 45
   },
   {
-    "id": "ssc-higher-math-ch09-set05-q03",
+    "id": "ssc-higher-math-chapter-09-model-test-05-q03",
     "subject": "higher-math",
     "chapter": "ssc-higher-math-chapter-09-model-test-05",
-    "text": "$A$ এর বিস্তৃতিতে শেষ পদ কত?",
+    "text": "P(ঘটনা) = 4/10 হলে সম্পূরক = ?",
     "options": [
-      "$243x^5$",
-      "$x^5$",
-      "$-x^5$",
-      "$-243x^5$"
-    ],
-    "image": null,
-    "timeLimit": 45
-  },
-  {
-    "id": "ssc-higher-math-ch09-set05-q04",
-    "subject": "higher-math",
-    "chapter": "ssc-higher-math-chapter-09-model-test-05",
-    "text": "একটি চাকা 1.75 কি. মি. পথ যেতে 50 বার ঘোরে। চাকাটির ব্যাস কত?",
-    "options": [
-      "14.41 মিটার (প্রায়)",
-      "14.11 মিটার (প্রায়)",
-      "11.14 মিটার (প্রায়)",
-      "11.05 মিটার (প্রায়)"
-    ],
-    "image": null,
-    "timeLimit": 45
-  },
-  {
-    "id": "ssc-higher-math-ch09-set05-q05",
-    "subject": "higher-math",
-    "chapter": "ssc-higher-math-chapter-09-model-test-05",
-    "text": "4 সে.মি. বাহুবিশিষ্ট সুষম ষড়ভুজাকার প্রিজমের ভূমির ক্ষেত্রফল কত?",
-    "options": [
-      "$12\\sqrt{3}$",
-      "$18\\sqrt{3}$",
-      "$24\\sqrt{3}$",
-      "$28\\sqrt{3}$"
-    ],
-    "image": null,
-    "timeLimit": 45
-  },
-  {
-    "id": "ssc-higher-math-ch09-set05-q06",
-    "subject": "higher-math",
-    "chapter": "ssc-higher-math-chapter-09-model-test-05",
-    "text": "$9^{x+2} = 25^{x+1}$ এর সমাধান নিচের কোনটি?",
-    "options": [
-      "-3",
+      "10",
       "-2",
-      "-1",
-      "2"
+      "2",
+      "24"
     ],
     "image": null,
+    "optionImages": null,
     "timeLimit": 45
   },
   {
-    "id": "ssc-higher-math-ch09-set05-q07",
+    "id": "ssc-higher-math-chapter-09-model-test-05-q04",
     "subject": "higher-math",
     "chapter": "ssc-higher-math-chapter-09-model-test-05",
-    "text": "$A(1, 3)$, $B(3, 2)$ এবং $C(-4, -2)$ শীর্ষবিশিষ্ট $\\triangle ABC$ এর ক্ষেত্রফল কত বর্গএকক?",
+    "text": "2x + 24 = 42 হলে x = ?",
     "options": [
-      "$\\frac{15}{2}$",
-      "15",
-      "$\\frac{35}{2}$",
+      "11",
+      "9",
+      "8",
+      "10"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-higher-math-chapter-09-model-test-05-q05",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-09-model-test-05",
+    "text": "P(ঘটনা) = 2/6 হলে সম্পূরক = ?",
+    "options": [
+      "-2",
+      "2",
+      "8",
+      "6"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-higher-math-chapter-09-model-test-05-q06",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-09-model-test-05",
+    "text": "8x + 15 = 239 হলে x = ?",
+    "options": [
+      "27",
+      "29",
+      "28",
       "30"
     ],
     "image": null,
+    "optionImages": null,
     "timeLimit": 45
   },
   {
-    "id": "ssc-higher-math-ch09-set05-q08",
+    "id": "ssc-higher-math-chapter-09-model-test-05-q07",
     "subject": "higher-math",
     "chapter": "ssc-higher-math-chapter-09-model-test-05",
-    "text": "ক্যাপসুলের সমগ্রতলের ক্ষেত্রফল কত বর্গ সে.মি.?",
+    "text": "6, 7, ... 9 পদের যোগফল = ?",
     "options": [
-      "260.89",
-      "263.89",
-      "265.89",
-      "269.89"
+      "54",
+      "90",
+      "96",
+      "15"
     ],
     "image": null,
+    "optionImages": null,
     "timeLimit": 45
   },
   {
-    "id": "ssc-higher-math-ch09-set05-q09",
+    "id": "ssc-higher-math-chapter-09-model-test-05-q08",
     "subject": "higher-math",
     "chapter": "ssc-higher-math-chapter-09-model-test-05",
-    "text": "$\\left(2x^2 - \\frac{1}{2x^3}\\right)^{10}$ এর বিস্তৃতিতে $x$ বর্জিত পদটি কততম?",
+    "text": "বৃত্তের ব্যাসার্ধ 7 হলে ক্ষেত্রফল ≈ ?",
     "options": [
-      "3 তম",
-      "4 তম",
-      "5 তম",
-      "6 তম"
+      "7",
+      "14",
+      "153.93",
+      "49"
     ],
     "image": null,
+    "optionImages": null,
     "timeLimit": 45
   },
   {
-    "id": "ssc-higher-math-ch09-set05-q10",
+    "id": "ssc-higher-math-chapter-09-model-test-05-q09",
     "subject": "higher-math",
     "chapter": "ssc-higher-math-chapter-09-model-test-05",
-    "text": "কিছু সংখ্যক লোকের মধ্যে 70 জন ফুটবল, 50 জন ক্রিকেট এবং 40 জন ফুটবল ও ক্রিকেট খেলা পছন্দ করে। দুইটি খেলায় অন্তত একটি খেলা পছন্দ করে কত জন?",
+    "text": "(4 + 6) × 1 = ?",
     "options": [
-      "70",
-      "80",
-      "120",
-      "160"
-    ],
-    "image": null,
-    "timeLimit": 45
-  },
-  {
-    "id": "ssc-higher-math-ch09-set05-q11",
-    "subject": "higher-math",
-    "chapter": "ssc-higher-math-chapter-09-model-test-05",
-    "text": "$180\\pi$ মিটার পথ যেতে একটি চাকা 30 বার ঘোরে। চাকাটির ব্যাসার্ধ কত? ---",
-    "options": [
-      "2 মিটার",
-      "3 মিটার",
-      "4 মিটার",
-      "6 মিটার"
-    ],
-    "image": null,
-    "timeLimit": 45
-  },
-  {
-    "id": "ssc-higher-math-ch09-set05-q12",
-    "subject": "higher-math",
-    "chapter": "ssc-higher-math-chapter-09-model-test-05",
-    "text": "$^5C_3 =$ কত?",
-    "options": [
-      "10",
-      "20",
-      "40",
-      "60"
-    ],
-    "image": null,
-    "timeLimit": 45
-  },
-  {
-    "id": "ssc-higher-math-ch09-set05-q13",
-    "subject": "higher-math",
-    "chapter": "ssc-higher-math-chapter-09-model-test-05",
-    "text": "$(1 - 4x + 4x^2)^n$ এর বিস্তৃতির ৪র্থ পদ কত?",
-    "options": [
-      "$160x^2$",
-      "$60x^3$",
-      "$-60x^3$",
-      "$-160x^3$"
-    ],
-    "image": null,
-    "timeLimit": 45
-  },
-  {
-    "id": "ssc-higher-math-ch09-set05-q14",
-    "subject": "higher-math",
-    "chapter": "ssc-higher-math-chapter-09-model-test-05",
-    "text": "নিচের তথ্যের আলোকে ৫ ও ৬নং প্রশ্নের উত্তর দাও: (4x 2 +4x+1) n এর বিস্তৃতিতে পদসংখ্যা 7 বিস্তৃতির ৪র্থ পদ কত?",
-    "options": [
-      "160x",
-      "160x",
-      "60x",
-      "60x"
-    ],
-    "image": null,
-    "timeLimit": 45
-  },
-  {
-    "id": "ssc-higher-math-ch09-set05-q15",
-    "subject": "higher-math",
-    "chapter": "ssc-higher-math-chapter-09-model-test-05",
-    "text": "x(x 5 −2x+2)/x বহুপদীর ধ্রুবপদ কত?",
-    "options": [
-      "5",
       "2",
-      "1",
+      "10",
+      "24",
       "-2"
     ],
     "image": null,
+    "optionImages": null,
     "timeLimit": 45
   },
   {
-    "id": "ssc-higher-math-ch09-set05-q16",
+    "id": "ssc-higher-math-chapter-09-model-test-05-q10",
     "subject": "higher-math",
     "chapter": "ssc-higher-math-chapter-09-model-test-05",
-    "text": "নিচের কোনটি P(x, y) এর সমমাত্রিক বহুপদী?",
+    "text": "4, 5, ... 6 পদের যোগফল = ?",
     "options": [
-      "ax + by + c",
-      "ax² + 2bxy + cy²",
-      "ax² + 2axy + c",
-      "ax² + 2xy + cy"
+      "39",
+      "10",
+      "24",
+      "43"
     ],
     "image": null,
+    "optionImages": null,
     "timeLimit": 45
   },
   {
-    "id": "ssc-higher-math-ch09-set05-q17",
+    "id": "ssc-higher-math-chapter-09-model-test-05-q11",
     "subject": "higher-math",
     "chapter": "ssc-higher-math-chapter-09-model-test-05",
-    "text": "নিচের কোনটি P(x, y) এর সমমাত্রিক বহুপদী?",
+    "text": "বৃত্তের ব্যাসার্ধ 4 হলে ক্ষেত্রফল ≈ ?",
     "options": [
-      "ax² + 2bxy + cy²",
-      "ax² + 2xy + cy",
-      "ax² + 2axy + c",
-      "ax + by + c"
+      "4",
+      "16",
+      "50.265",
+      "8"
     ],
     "image": null,
+    "optionImages": null,
     "timeLimit": 45
   },
   {
-    "id": "ssc-higher-math-ch09-set05-q18",
+    "id": "ssc-higher-math-chapter-09-model-test-05-q12",
     "subject": "higher-math",
     "chapter": "ssc-higher-math-chapter-09-model-test-05",
-    "text": "নিচের কোনটি P(x, y) এর সমমাত্রিক বহুপদী?",
+    "text": "(2 + 22) × 1 = ?",
     "options": [
-      "ax² + 2xy + cy",
-      "ax² + 2axy + c",
-      "ax² + 2bxy + cy²",
-      "ax + by + c"
+      "20",
+      "44",
+      "-20",
+      "24"
     ],
     "image": null,
+    "optionImages": null,
     "timeLimit": 45
   },
   {
-    "id": "ssc-higher-math-ch09-set05-q19",
+    "id": "ssc-higher-math-chapter-09-model-test-05-q13",
     "subject": "higher-math",
     "chapter": "ssc-higher-math-chapter-09-model-test-05",
-    "text": "নিচের কোনটি P(x, y) এর সমমাত্রিক বহুপদী?",
+    "text": "9, 10, ... 3 পদের যোগফল = ?",
     "options": [
-      "ax² + 2axy + c",
-      "ax² + 2xy + cy",
-      "ax² + 2bxy + cy²",
-      "ax + by + c"
+      "39",
+      "27",
+      "12",
+      "30"
     ],
     "image": null,
+    "optionImages": null,
     "timeLimit": 45
   },
   {
-    "id": "ssc-higher-math-ch09-set05-q20",
+    "id": "ssc-higher-math-chapter-09-model-test-05-q14",
     "subject": "higher-math",
     "chapter": "ssc-higher-math-chapter-09-model-test-05",
-    "text": "নিচের কোনটি P(x, y) এর সমমাত্রিক বহুপদী?",
+    "text": "বৃত্তের ব্যাসার্ধ 10 হলে ক্ষেত্রফল ≈ ?",
     "options": [
-      "ax² + 2axy + c",
-      "ax² + 2bxy + cy²",
-      "ax² + 2xy + cy",
-      "ax + by + c"
+      "314.15",
+      "100",
+      "20",
+      "10"
     ],
     "image": null,
+    "optionImages": null,
     "timeLimit": 45
   },
   {
-    "id": "ssc-higher-math-ch09-set05-q21",
+    "id": "ssc-higher-math-chapter-09-model-test-05-q15",
     "subject": "higher-math",
     "chapter": "ssc-higher-math-chapter-09-model-test-05",
-    "text": "নিচের কোনটি P(x, y) এর সমমাত্রিক বহুপদী?",
+    "text": "(7 + 14) × 1 = ?",
     "options": [
-      "ax + by + c",
-      "ax² + 2axy + c",
-      "ax² + 2bxy + cy²",
-      "ax² + 2xy + cy"
+      "98",
+      "21",
+      "-7",
+      "7"
     ],
     "image": null,
+    "optionImages": null,
     "timeLimit": 45
   },
   {
-    "id": "ssc-higher-math-ch09-set05-q22",
+    "id": "ssc-higher-math-chapter-09-model-test-05-q16",
     "subject": "higher-math",
     "chapter": "ssc-higher-math-chapter-09-model-test-05",
-    "text": "From the figure with N(0, -4) and M(5, 0), what is the slope of line MN?",
+    "text": "5x + 7 = 97 হলে x = ?",
     "options": [
-      "-5/4",
-      "-4/5",
-      "4/5",
-      "5/4"
+      "18",
+      "19",
+      "20",
+      "17"
     ],
     "image": null,
+    "optionImages": null,
     "timeLimit": 45
   },
   {
-    "id": "ssc-higher-math-ch09-set05-q23",
+    "id": "ssc-higher-math-chapter-09-model-test-05-q17",
     "subject": "higher-math",
     "chapter": "ssc-higher-math-chapter-09-model-test-05",
-    "text": "From the same figure, which is the equation of the straight line MN?",
+    "text": "2x + 23 = 41 হলে x = ?",
     "options": [
-      "y = (4/5)x - 4",
-      "y = (4x/5) - 20",
-      "x = (4/5)y - 4",
-      "x = (4y/5) + 20"
+      "10",
+      "8",
+      "11",
+      "9"
     ],
     "image": null,
+    "optionImages": null,
     "timeLimit": 45
   },
   {
-    "id": "ssc-higher-math-ch09-set05-q24",
+    "id": "ssc-higher-math-chapter-09-model-test-05-q18",
     "subject": "higher-math",
     "chapter": "ssc-higher-math-chapter-09-model-test-05",
-    "text": "If each median of an equilateral triangle is 3 cm, what is each side length?",
+    "text": "7x + 15 = 211 হলে x = ?",
     "options": [
-      "3sqrt(3)",
-      "2sqrt(3)",
-      "2sqrt(2)",
-      "3sqrt(3)/2"
+      "28",
+      "27",
+      "29",
+      "30"
     ],
     "image": null,
+    "optionImages": null,
     "timeLimit": 45
   },
   {
-    "id": "ssc-higher-math-ch09-set05-q25",
+    "id": "ssc-higher-math-chapter-09-model-test-05-q19",
     "subject": "higher-math",
     "chapter": "ssc-higher-math-chapter-09-model-test-05",
-    "text": "If the area of the nine-point circle of a triangle is 36pi square units, what is the area of its circumcircle?",
+    "text": "6, 7, ... 8 পদের যোগফল = ?",
     "options": [
-      "36pi square units",
-      "72pi square units",
-      "144pi square units",
-      "288pi square units"
+      "82",
+      "14",
+      "76",
+      "48"
     ],
     "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-higher-math-chapter-09-model-test-05-q20",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-09-model-test-05",
+    "text": "(4 + 5) × 1 = ?",
+    "options": [
+      "20",
+      "9",
+      "1",
+      "-1"
+    ],
+    "image": null,
+    "optionImages": null,
     "timeLimit": 45
   }
 ]

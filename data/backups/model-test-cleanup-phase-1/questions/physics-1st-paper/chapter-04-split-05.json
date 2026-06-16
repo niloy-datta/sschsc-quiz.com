@@ -1,0 +1,377 @@
+[
+  {
+    "id": "chapter-04-split-05-q01",
+    "subject": "physics-1st-paper",
+    "chapter": "chapter-04-split-05",
+    "text": "ডাইভার লাফ দেওয়ার পর শূন্যে হাত-পা গুটিয়ে নেয় কেন?",
+    "options": [
+      "বাতাসের বাধা কমানোর জন্য",
+      "জড়তার ভ্রামক কমিয়ে কৌণিক বেগ বাড়ানোর জন্য",
+      "জড়তার ভ্রামক বাড়িয়ে কৌণিক বেগ কমানোর জন্য",
+      "ওজন কমানোর জন্য"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "chapter-04-split-05-q02",
+    "subject": "physics-1st-paper",
+    "chapter": "chapter-04-split-05",
+    "text": "ঘূর্ণনগত শক্তির সমীকরণ কোনটি?",
+    "options": [
+      "1/2 mv^2",
+      "1/2 I ω^2",
+      "1/2 L ω",
+      "খ ও গ উভয়ই"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "chapter-04-split-05-q03",
+    "subject": "physics-1st-paper",
+    "chapter": "chapter-04-split-05",
+    "text": "একটি গোলক গড়িয়ে গেলে তার মোট শক্তি কত?",
+    "options": [
+      "কেবল রৈখিক শক্তি",
+      "কেবল ঘূর্ণন শক্তি",
+      "রৈখিক ও ঘূর্ণন শক্তির যোগফল",
+      "শূন্য"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "chapter-04-split-05-q04",
+    "subject": "physics-1st-paper",
+    "chapter": "chapter-04-split-05",
+    "text": "সমান্তরাল অক্ষ উপপাদ্য (Parallel Axis Theorem) কোনটি?",
+    "options": [
+      "I = I_G + M h^2",
+      "I_z = I_x + I_y",
+      "I = (1/2) M h^2",
+      "I = I_G + M^2 h"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "chapter-04-split-05-q05",
+    "subject": "physics-1st-paper",
+    "chapter": "chapter-04-split-05",
+    "text": "লম্ব অক্ষ উপপাদ্য (Perpendicular Axis Theorem) কোনটি?",
+    "options": [
+      "I = I_G + M h^2",
+      "I_x = I_y + I_z",
+      "I_z = I_x + I_y",
+      "I_z = I_x × I_y"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "chapter-04-split-05-q06",
+    "subject": "physics-1st-paper",
+    "chapter": "chapter-04-split-05",
+    "text": "পৃথিবীর ব্যাসার্ধ হঠাৎ অর্ধেক হলে দিনের দৈর্ঘ্য কত হবে (ভর অপরিবর্তিত)?",
+    "options": [
+      "6 ঘন্টা",
+      "12 ঘন্টা",
+      "24 ঘন্টা",
+      "48 ঘন্টা"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "chapter-04-split-05-q07",
+    "subject": "physics-1st-paper",
+    "chapter": "chapter-04-split-05",
+    "text": "কৌণিক ভরবেগের পরিবর্তনের হার কোনটির সমান?",
+    "options": [
+      "বল",
+      "কাজ",
+      "টর্ক",
+      "ক্ষমতা"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "chapter-04-split-05-q08",
+    "subject": "physics-1st-paper",
+    "chapter": "chapter-04-split-05",
+    "text": "জড়তার ভ্রামকের মাত্রা (dimension) কোনটি?",
+    "options": [
+      "ML^-2",
+      "ML^2",
+      "ML^2 T^-1",
+      "ML^2 T^-2"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "chapter-04-split-05-q09",
+    "subject": "physics-1st-paper",
+    "chapter": "chapter-04-split-05",
+    "text": "কৌণিক ভরবেগের মাত্রা কোনটি?",
+    "options": [
+      "ML^2 T^-2",
+      "ML^2 T^-1",
+      "ML T^-1",
+      "ML^2 T"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "chapter-04-split-05-q10",
+    "subject": "physics-1st-paper",
+    "chapter": "chapter-04-split-05",
+    "text": "প্রকৃতিতে বিদ্যমান মৌলিক বলগুলোর মধ্যে সবচেয়ে শক্তিশালী কোনটি?",
+    "options": [
+      "মহাকর্ষ বল",
+      "তাড়িতচৌম্বক বল",
+      "সবল নিউক্লীয় বল",
+      "দুর্বল নিউক্লীয় বল"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "chapter-04-split-05-q11",
+    "subject": "physics-1st-paper",
+    "chapter": "chapter-04-split-05",
+    "text": "মৌলিক বলগুলোর মধ্যে সবচেয়ে দুর্বল কোনটি?",
+    "options": [
+      "মহাকর্ষ বল",
+      "তাড়িতচৌম্বক বল",
+      "সবল নিউক্লীয় বল",
+      "দুর্বল নিউক্লীয় বল"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "chapter-04-split-05-q12",
+    "subject": "physics-1st-paper",
+    "chapter": "chapter-04-split-05",
+    "text": "সুতা ছিঁড়ে গেলে সুতা বেঁধে রাখা পাথরটি কোন পথে ছিটকে যায়?",
+    "options": [
+      "ব্যাসার্ধ বরাবর কেন্দ্রের দিকে",
+      "ব্যাসার্ধ বরাবর বাইরের দিকে",
+      "স্পর্শক বরাবর",
+      "অধিবৃত্তাকার পথে"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "chapter-04-split-05-q13",
+    "subject": "physics-1st-paper",
+    "chapter": "chapter-04-split-05",
+    "text": "টর্ক τ এবং কৌণিক ত্বরণ α-র মধ্যে সম্পর্ক কী?",
+    "options": [
+      "τ = I α",
+      "τ = I/α",
+      "τ = I α^2",
+      "α = I τ"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "chapter-04-split-05-q14",
+    "subject": "physics-1st-paper",
+    "chapter": "chapter-04-split-05",
+    "text": "কেন্দ্রমুখী বল (Centripetal Force) একটি—",
+    "options": [
+      "অসংরক্ষণশীল বল",
+      "ছদ্ম বল",
+      "বাস্তব বল",
+      "অস্পর্শ বল"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "chapter-04-split-05-q15",
+    "subject": "physics-1st-paper",
+    "chapter": "chapter-04-split-05",
+    "text": "কেন্দ্রবিমুখী বল (Centrifugal Force) কী ধরনের বল?",
+    "options": [
+      "বাস্তব বল",
+      "ছদ্ম বল বা অলিক বল",
+      "ঘর্ষণ বল",
+      "সংরক্ষণশীল বল"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "chapter-04-split-05-q16",
+    "subject": "physics-1st-paper",
+    "chapter": "chapter-04-split-05",
+    "text": "ঘর্ষণ বল কোন ধরনের বল?",
+    "options": [
+      "সংরক্ষণশীল বল",
+      "অসংরক্ষণশীল বল",
+      "কেন্দ্রমুখী বল",
+      "মৌলিক বল"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "chapter-04-split-05-q17",
+    "subject": "physics-1st-paper",
+    "chapter": "chapter-04-split-05",
+    "text": "5 kg ভরের একটি বস্তুর ওপর কত বল প্রয়োগ করলে 2 m/s^2 ত্বরণ হবে?",
+    "options": [
+      "2.5 N",
+      "10 N",
+      "7 N",
+      "20 N"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "chapter-04-split-05-q18",
+    "subject": "physics-1st-paper",
+    "chapter": "chapter-04-split-05",
+    "text": "হাতুড়ি দিয়ে পেরেক ঠোকার সময় হাতুড়ি যে বল প্রয়োগ করে তা কোন বলের উদাহরণ?",
+    "options": [
+      "ঘর্ষণ বল",
+      "ঘাত বল (Impulsive Force)",
+      "কেন্দ্রমুখী বল",
+      "অসংরক্ষণশীল বল"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "chapter-04-split-05-q19",
+    "subject": "physics-1st-paper",
+    "chapter": "chapter-04-split-05",
+    "text": "ঘাত বলের ক্ষেত্রে কোনটি সঠিক?",
+    "options": [
+      "বলটির মান খুব ছোট",
+      "বলটির ক্রিয়াকাল খুব বেশি",
+      "বলটির মান অনেক বেশি এবং ক্রিয়াকাল খুব কম",
+      "এটি একটি ধ্রুব বল"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "chapter-04-split-05-q20",
+    "subject": "physics-1st-paper",
+    "chapter": "chapter-04-split-05",
+    "text": "দুটি বস্তুর স্থিতিস্থাপক সংঘর্ষে কোন রাশিটি সংরক্ষিত থাকে?",
+    "options": [
+      "কেবল ভরবেগ",
+      "কেবল গতিশক্তি",
+      "ভরবেগ এবং গতিশক্তি উভয়ই",
+      "কেবল বিভবশক্তি"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "chapter-04-split-05-q21",
+    "subject": "physics-1st-paper",
+    "chapter": "chapter-04-split-05",
+    "text": "অস্থিতিস্থাপক সংঘর্ষে নিচের কোনটি সংরক্ষিত থাকে না?",
+    "options": [
+      "মোট শক্তি",
+      "ভরবেগ",
+      "গতিশক্তি",
+      "ভর"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "chapter-04-split-05-q22",
+    "subject": "physics-1st-paper",
+    "chapter": "chapter-04-split-05",
+    "text": "ব্যাসার্ধ অর্ধেক এবং বেগ দ্বিগুণ করলে কেন্দ্রমুখী বল কতগুণ হবে?",
+    "options": [
+      "2 গুণ",
+      "4 গুণ",
+      "8 গুণ",
+      "অপরিবর্তিত"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "chapter-04-split-05-q23",
+    "subject": "physics-1st-paper",
+    "chapter": "chapter-04-split-05",
+    "text": "1 kg ভরের একটি বস্তু 1 m ব্যাসার্ধে 1 rad/s কৌণিক বেগে ঘুরছে। এর কেন্দ্রমুখী বল কত?",
+    "options": [
+      "1 N",
+      "2 N",
+      "3 N",
+      "4 N"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "chapter-04-split-05-q24",
+    "subject": "physics-1st-paper",
+    "chapter": "chapter-04-split-05",
+    "text": "সাইকেল আরোহী বাঁক নেওয়ার সময় কেন্দ্রের দিকে হেলে পড়ে কেন?",
+    "options": [
+      "ওজন কমানোর জন্য",
+      "বাতাসের বাধা এড়ানোর জন্য",
+      "প্রয়োজনীয় কেন্দ্রমুখী বল পাওয়ার জন্য",
+      "ঘর্ষণ বল কমানোর জন্য"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "chapter-04-split-05-q25",
+    "subject": "physics-1st-paper",
+    "chapter": "chapter-04-split-05",
+    "text": "জড়তার ভ্রামক বস্তুর কোন কোন বিষয়ের উপর নির্ভর করে?",
+    "options": [
+      "কেবল ভর",
+      "কেবল ঘূর্ণন অক্ষের অবস্থান",
+      "ভর এবং ভরের বন্টন",
+      "কেবল কৌণিক বেগ"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  }
+]

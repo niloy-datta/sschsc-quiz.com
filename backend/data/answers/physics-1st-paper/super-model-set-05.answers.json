@@ -1,156 +1,90 @@
 {
-  "physics-1st-paper-hsc-science-physics-1st-paper-model-tests-super-model-set-05-ts-0": {
-    "answer": "অঘূর্ণনশীল",
-    "answerIndex": 1,
-    "difficulty": 1200,
-    "explanation": "কার্ল শূন্য (∇ ×V =0) নির্দেশ করে ভেক্টর ক্ষেত্রটি ঘূর্ণনশীল নয়, অর্থাৎ এটি অঘূর্ণনশীল (Irrotational) এবং সংরক্ষণশীল (Conservative)।",
-    "topic": "super-model-set-05"
+  "super-model-set-05-q01": {
+    "correctOption": "অঘূর্ণনশীল",
+    "explanation": "কার্ল শূন্য (∇ ×V =0) নির্দেশ করে ভেক্টর ক্ষেত্রটি ঘূর্ণনশীল নয়, অর্থাৎ এটি অঘূর্ণনশীল (Irrotational) এবং সংরক্ষণশীল (Conservative)।"
   },
-  "physics-1st-paper-hsc-science-physics-1st-paper-model-tests-super-model-set-05-ts-1": {
-    "answer": "tan−1 (4)",
-    "answerIndex": 2,
-    "difficulty": 1200,
-    "explanation": "পাল্লা R=g v0 2 ​sin(2θ) ​ এবং উচ্চতা H=2g v0 2 ​sin2 θ ​। R=H বসালে g 2sinθcosθ ​=2g sin2 θ ​⟹4cosθ=sinθ⟹tanθ=4।",
-    "topic": "super-model-set-05"
+  "super-model-set-05-q02": {
+    "correctOption": "tan−1 (4)",
+    "explanation": "পাল্লা R=g v0 2 ​sin(2θ) ​ এবং উচ্চতা H=2g v0 2 ​sin2 θ ​। R=H বসালে g 2sinθcosθ ​=2g sin2 θ ​⟹4cosθ=sinθ⟹tanθ=4।"
   },
-  "physics-1st-paper-hsc-science-physics-1st-paper-model-tests-super-model-set-05-ts-2": {
-    "answer": "I=Mk2",
-    "answerIndex": 1,
-    "difficulty": 1200,
-    "explanation": "চক্রগতির ব্যাসার্ধ এমন একটি দূরত্ব যেখানে বস্তুর সমস্ত ভর কেন্দ্রীভূত থাকলে জড়তার ভ্রামক একই থাকে। সমীকরণটি হলো I=Mk2 ।",
-    "topic": "super-model-set-05"
+  "super-model-set-05-q03": {
+    "correctOption": "I=Mk2",
+    "explanation": "চক্রগতির ব্যাসার্ধ এমন একটি দূরত্ব যেখানে বস্তুর সমস্ত ভর কেন্দ্রীভূত থাকলে জড়তার ভ্রামক একই থাকে। সমীকরণটি হলো I=Mk2 ।"
   },
-  "physics-1st-paper-hsc-science-physics-1st-paper-model-tests-super-model-set-05-ts-3": {
-    "answer": "বিপরীত দিকে সমবেগে যাবে",
-    "answerIndex": 1,
-    "difficulty": 1200,
-    "explanation": "ভরবেগের সংরক্ষণ সূত্র অনুযায়ী, আদি ভরবেগ শূন্য হওয়ায় শেষ ভরবেগও শূন্য হবে। m1 ​v1 ​+m2 ​v2 ​=0⟹mv1 ​=−mv2 ​⟹v1 ​=−v2 ​।",
-    "topic": "super-model-set-05"
+  "super-model-set-05-q04": {
+    "correctOption": "বিপরীত দিকে সমবেগে যাবে",
+    "explanation": "ভরবেগের সংরক্ষণ সূত্র অনুযায়ী, আদি ভরবেগ শূন্য হওয়ায় শেষ ভরবেগও শূন্য হবে। m1 ​v1 ​+m2 ​v2 ​=0⟹mv1 ​=−mv2 ​⟹v1 ​=−v2 ​।"
   },
-  "physics-1st-paper-hsc-science-physics-1st-paper-model-tests-super-model-set-05-ts-4": {
-    "answer": "অসীমে",
-    "answerIndex": 2,
-    "difficulty": 1200,
-    "explanation": "মহাকর্ষীয় বিভব সর্বদা ঋণাত্মক (V=−r GM ​)। অসীমে এর মান শূন্য (0) হয়, যা ঋণাত্মক মানের চেয়ে বড়। তাই অসীমে বিভব সর্বোচ্চ।",
-    "topic": "super-model-set-05"
+  "super-model-set-05-q05": {
+    "correctOption": "অসীমে",
+    "explanation": "মহাকর্ষীয় বিভব সর্বদা ঋণাত্মক (V=−r GM ​)। অসীমে এর মান শূন্য (0) হয়, যা ঋণাত্মক মানের চেয়ে বড়। তাই অসীমে বিভব সর্বোচ্চ।"
   },
-  "physics-1st-paper-hsc-science-physics-1st-paper-model-tests-super-model-set-05-ts-5": {
-    "answer": "রেনল্ডস সংখ্যা (Reynold\\'s number)",
-    "answerIndex": 1,
-    "difficulty": 1200,
-    "explanation": "রেনল্ডস সংখ্যা (Re) একটি মাত্রাহীন সংখ্যা যা নির্দেশ করে তরলের প্রবাহ ধারারেখ হবে (Re < 2000) নাকি বিক্ষিপ্ত হবে (Re > 3000)।",
-    "topic": "super-model-set-05"
+  "super-model-set-05-q06": {
+    "correctOption": "রেনল্ডস সংখ্যা (Reynold\\'s number)",
+    "explanation": "রেনল্ডস সংখ্যা (Re) একটি মাত্রাহীন সংখ্যা যা নির্দেশ করে তরলের প্রবাহ ধারারেখ হবে (Re < 2000) নাকি বিক্ষিপ্ত হবে (Re > 3000)।"
   },
-  "physics-1st-paper-hsc-science-physics-1st-paper-model-tests-super-model-set-05-ts-6": {
-    "answer": "π rad/s",
-    "answerIndex": 0,
-    "difficulty": 1200,
-    "explanation": "কৌণিক কম্পাঙ্ক ω=T 2π ​=2 2π ​=π rad/s।",
-    "topic": "super-model-set-05"
+  "super-model-set-05-q07": {
+    "correctOption": "π rad/s",
+    "explanation": "কৌণিক কম্পাঙ্ক ω=T 2π ​=2 2π ​=π rad/s।"
   },
-  "physics-1st-paper-hsc-science-physics-1st-paper-model-tests-super-model-set-05-ts-7": {
-    "answer": "নিম্ন চাপ ও উচ্চ তাপমাত্রায়",
-    "answerIndex": 1,
-    "difficulty": 1200,
-    "explanation": "নিম্ন চাপ এবং উচ্চ তাপমাত্রায় বাস্তব গ্যাসের অণুগুলোর মধ্যবর্তী আকর্ষণ বল এবং অণুগুলোর আয়তন নগণ্য হয়ে যায়, ফলে তা আদর্শ গ্যাসের সমীকরণ মেনে চলে।",
-    "topic": "super-model-set-05"
+  "super-model-set-05-q08": {
+    "correctOption": "নিম্ন চাপ ও উচ্চ তাপমাত্রায়",
+    "explanation": "নিম্ন চাপ এবং উচ্চ তাপমাত্রায় বাস্তব গ্যাসের অণুগুলোর মধ্যবর্তী আকর্ষণ বল এবং অণুগুলোর আয়তন নগণ্য হয়ে যায়, ফলে তা আদর্শ গ্যাসের সমীকরণ মেনে চলে।"
   },
-  "physics-1st-paper-hsc-science-physics-1st-paper-model-tests-super-model-set-05-ts-8": {
-    "answer": "হাইগ্রোমিটার (Hygrometer)",
-    "answerIndex": 2,
-    "difficulty": 1200,
-    "explanation": "আপেক্ষিক আর্দ্রতা মাপা হয় হাইগ্রোমিটার (বা শুষ্ক ও সিক্ত বাল্ব হাইগ্রোমিটার) দ্বারা।",
-    "topic": "super-model-set-05"
+  "super-model-set-05-q09": {
+    "correctOption": "হাইগ্রোমিটার (Hygrometer)",
+    "explanation": "আপেক্ষিক আর্দ্রতা মাপা হয় হাইগ্রোমিটার (বা শুষ্ক ও সিক্ত বাল্ব হাইগ্রোমিটার) দ্বারা।"
   },
-  "physics-1st-paper-hsc-science-physics-1st-paper-model-tests-super-model-set-05-ts-9": {
-    "answer": "ω2 R",
-    "answerIndex": 1,
-    "difficulty": 1200,
-    "explanation": "আহ্নিক গতির কারণে অভিকর্ষজ ত্বরণের পরিবর্তন g′ =g−ω2 Rcos2 λ। বিষুবরেখায় অক্ষাংশ λ=0∘ , তাই হ্রাস পাওয়া মান ω2 R।",
-    "topic": "super-model-set-05"
+  "super-model-set-05-q10": {
+    "correctOption": "ω2 R",
+    "explanation": "আহ্নিক গতির কারণে অভিকর্ষজ ত্বরণের পরিবর্তন g′ =g−ω2 Rcos2 λ। বিষুবরেখায় অক্ষাংশ λ=0∘ , তাই হ্রাস পাওয়া মান ω2 R।"
   },
-  "physics-1st-paper-hsc-science-physics-1st-paper-model-tests-super-model-set-05-ts-10": {
-    "answer": "9 টি",
-    "answerIndex": 2,
-    "difficulty": 1200,
-    "explanation": "ভেদ করার ক্ষমতা গতিশক্তির সমানুপাতিক। বেগ ৩ গুণ হলে গতিশক্তি (v2 ) 32 =9 গুণ হবে, তাই ৯টি তক্তা ভেদ করতে পারবে।",
-    "topic": "super-model-set-05"
+  "super-model-set-05-q11": {
+    "correctOption": "9 টি",
+    "explanation": "ভেদ করার ক্ষমতা গতিশক্তির সমানুপাতিক। বেগ ৩ গুণ হলে গতিশক্তি (v2 ) 32 =9 গুণ হবে, তাই ৯টি তক্তা ভেদ করতে পারবে।"
   },
-  "physics-1st-paper-hsc-science-physics-1st-paper-model-tests-super-model-set-05-ts-11": {
-    "answer": "সম্পূর্ণ দৃঢ় (Rigid)",
-    "answerIndex": 2,
-    "difficulty": 1200,
-    "explanation": "ইয়ং গুণাঙ্ক Y=Strain Stress ​। সম্পূর্ণ দৃঢ় বস্তুতে বল প্রয়োগেও কোনো বিকৃতি হয় না (Strain = 0)। তাই Y=0 Stress ​=∞।",
-    "topic": "super-model-set-05"
+  "super-model-set-05-q12": {
+    "correctOption": "সম্পূর্ণ দৃঢ় (Rigid)",
+    "explanation": "ইয়ং গুণাঙ্ক Y=Strain Stress ​। সম্পূর্ণ দৃঢ় বস্তুতে বল প্রয়োগেও কোনো বিকৃতি হয় না (Strain = 0)। তাই Y=0 Stress ​=∞।"
   },
-  "physics-1st-paper-hsc-science-physics-1st-paper-model-tests-super-model-set-05-ts-12": {
-    "answer": "না, এটি ধীরে চলবে",
-    "answerIndex": 1,
-    "difficulty": 1200,
-    "explanation": "চাঁদে অভিকর্ষজ ত্বরণ পৃথিবীর চেয়ে কম। দোলনকাল T∝g ​ 1 ​। g কমলে T বাড়বে, অর্থাৎ দোলনকাল ২ সেকেন্ডের বেশি হবে, ফলে ঘড়ি ধীরে চলবে (Lose time)।",
-    "topic": "super-model-set-05"
+  "super-model-set-05-q13": {
+    "correctOption": "না, এটি ধীরে চলবে",
+    "explanation": "চাঁদে অভিকর্ষজ ত্বরণ পৃথিবীর চেয়ে কম। দোলনকাল T∝g ​ 1 ​। g কমলে T বাড়বে, অর্থাৎ দোলনকাল ২ সেকেন্ডের বেশি হবে, ফলে ঘড়ি ধীরে চলবে (Lose time)।"
   },
-  "physics-1st-paper-hsc-science-physics-1st-paper-model-tests-super-model-set-05-ts-13": {
-    "answer": "শূন্য হয়",
-    "answerIndex": 1,
-    "difficulty": 1200,
-    "explanation": "vrms ​∝T ​। পরম শূন্য তাপমাত্রায় (T=0 K) অণুগুলোর গতিশক্তি এবং বেগ গাণিতিকভাবে শূন্য হয়ে যায়।",
-    "topic": "super-model-set-05"
+  "super-model-set-05-q14": {
+    "correctOption": "শূন্য হয়",
+    "explanation": "vrms ​∝T ​। পরম শূন্য তাপমাত্রায় (T=0 K) অণুগুলোর গতিশক্তি এবং বেগ গাণিতিকভাবে শূন্য হয়ে যায়।"
   },
-  "physics-1st-paper-hsc-science-physics-1st-paper-model-tests-super-model-set-05-ts-14": {
-    "answer": "12:1",
-    "answerIndex": 0,
-    "difficulty": 1200,
-    "explanation": "মিনিটের কাঁটার পর্যায়কাল Tm ​=1 h, ঘণ্টার কাঁটার পর্যায়কাল Th ​=12 h। ω∝T 1 ​। তাই ωh ​ ωm ​ ​=Tm ​ Th ​ ​=1 12 ​=12:1।",
-    "topic": "super-model-set-05"
+  "super-model-set-05-q15": {
+    "correctOption": "12:1",
+    "explanation": "মিনিটের কাঁটার পর্যায়কাল Tm ​=1 h, ঘণ্টার কাঁটার পর্যায়কাল Th ​=12 h। ω∝T 1 ​। তাই ωh ​ ωm ​ ​=Tm ​ Th ​ ​=1 12 ​=12:1।"
   },
-  "physics-1st-paper-hsc-science-physics-1st-paper-model-tests-super-model-set-05-ts-15": {
-    "answer": "শূন্য",
-    "answerIndex": 2,
-    "difficulty": 1200,
-    "explanation": "সংরক্ষণশীল বল দ্বারা কৃতকাজ কেবল আদি ও শেষ অবস্থানের উপর নির্ভর করে। পূর্ণচক্রে বস্তু একই স্থানে ফিরে আসায় সরণ শূন্য, তাই কৃতকাজও শূন্য।",
-    "topic": "super-model-set-05"
+  "super-model-set-05-q16": {
+    "correctOption": "শূন্য",
+    "explanation": "সংরক্ষণশীল বল দ্বারা কৃতকাজ কেবল আদি ও শেষ অবস্থানের উপর নির্ভর করে। পূর্ণচক্রে বস্তু একই স্থানে ফিরে আসায় সরণ শূন্য, তাই কৃতকাজও শূন্য।"
   },
-  "physics-1st-paper-hsc-science-physics-1st-paper-model-tests-super-model-set-05-ts-16": {
-    "answer": "r 2T ​",
-    "answerIndex": 0,
-    "difficulty": 1200,
-    "explanation": "পানির ভেতরে থাকা বুদবুদের মাত্র একটি তরল পৃষ্ঠ থাকে, তাই অতিরিক্ত চাপ P=r 2T ​। (সাবানের বুদবুদের ক্ষেত্রে দুটি পৃষ্ঠ থাকায় r 4T ​ হয়)।",
-    "topic": "super-model-set-05"
+  "super-model-set-05-q17": {
+    "correctOption": "r 2T ​",
+    "explanation": "পানির ভেতরে থাকা বুদবুদের মাত্র একটি তরল পৃষ্ঠ থাকে, তাই অতিরিক্ত চাপ P=r 2T ​। (সাবানের বুদবুদের ক্ষেত্রে দুটি পৃষ্ঠ থাকায় r 4T ​ হয়)।"
   },
-  "physics-1st-paper-hsc-science-physics-1st-paper-model-tests-super-model-set-05-ts-17": {
-    "answer": "E=−dr dV ​",
-    "answerIndex": 0,
-    "difficulty": 1200,
-    "explanation": "মহাকর্ষীয় প্রাবল্য হলো মহাকর্ষীয় বিভবের ঋণাত্মক নতিমাত্রা (Negative Gradient)।",
-    "topic": "super-model-set-05"
+  "super-model-set-05-q18": {
+    "correctOption": "E=−dr dV ​",
+    "explanation": "মহাকর্ষীয় প্রাবল্য হলো মহাকর্ষীয় বিভবের ঋণাত্মক নতিমাত্রা (Negative Gradient)।"
   },
-  "physics-1st-paper-hsc-science-physics-1st-paper-model-tests-super-model-set-05-ts-18": {
-    "answer": "নিট টর্ক শূন্য হতে হবে",
-    "answerIndex": 1,
-    "difficulty": 1200,
-    "explanation": "নিউটনের গতির ২য় সূত্রের ঘূর্ণন রূপ অনুযায়ী τ=dt dL ​। যদি বাহ্যিক নিট টর্ক τ=0 হয়, তবে L (কৌণিক ভরবেগ) ধ্রুব থাকে।",
-    "topic": "super-model-set-05"
+  "super-model-set-05-q19": {
+    "correctOption": "নিট টর্ক শূন্য হতে হবে",
+    "explanation": "নিউটনের গতির ২য় সূত্রের ঘূর্ণন রূপ অনুযায়ী τ=dt dL ​। যদি বাহ্যিক নিট টর্ক τ=0 হয়, তবে L (কৌণিক ভরবেগ) ধ্রুব থাকে।"
   },
-  "physics-1st-paper-hsc-science-physics-1st-paper-model-tests-super-model-set-05-ts-19": {
-    "answer": "মূলবিন্দুগামী সরলরেখা (ঋণাত্মক ঢাল)",
-    "answerIndex": 0,
-    "difficulty": 1200,
-    "explanation": "a=−ω2 x। এটি y=−mx আকৃতির সমীকরণ, যা মূলবিন্দুগামী একটি সরলরেখা এবং এর ঢাল ঋণাত্মক।",
-    "topic": "super-model-set-05"
+  "super-model-set-05-q20": {
+    "correctOption": "মূলবিন্দুগামী সরলরেখা (ঋণাত্মক ঢাল)",
+    "explanation": "a=−ω2 x। এটি y=−mx আকৃতির সমীকরণ, যা মূলবিন্দুগামী একটি সরলরেখা এবং এর ঢাল ঋণাত্মক।"
   },
-  "physics-1st-paper-hsc-science-physics-1st-paper-model-tests-super-model-set-05-ts-20": {
-    "answer": "273 1 ​ K−1",
-    "answerIndex": 0,
-    "difficulty": 1200,
-    "explanation": "চার্লসের সূত্র অনুসারে স্থির চাপে প্রতি ডিগ্রি সেলসিয়াস তাপমাত্রা বৃদ্ধিতে গ্যাসের আয়তন তার 0∘ C এর আয়তনের 1/273 অংশ বৃদ্ধি পায়।",
-    "topic": "super-model-set-05"
+  "super-model-set-05-q21": {
+    "correctOption": "273 1 ​ K−1",
+    "explanation": "চার্লসের সূত্র অনুসারে স্থির চাপে প্রতি ডিগ্রি সেলসিয়াস তাপমাত্রা বৃদ্ধিতে গ্যাসের আয়তন তার 0∘ C এর আয়তনের 1/273 অংশ বৃদ্ধি পায়।"
   },
-  "physics-1st-paper-hsc-science-physics-1st-paper-model-tests-super-model-set-05-ts-21": {
-    "answer": "A +B =B +A",
-    "answerIndex": 1,
-    "difficulty": 1200,
-    "explanation": "বিনিময় সূত্র নির্দেশ করে যে ভেক্টর যোগের ক্ষেত্রে ক্রম পরিবর্তন করলেও লব্ধির মান ও দিক অপরিবর্তিত থাকে।",
-    "topic": "super-model-set-05"
+  "super-model-set-05-q22": {
+    "correctOption": "A +B =B +A",
+    "explanation": "বিনিময় সূত্র নির্দেশ করে যে ভেক্টর যোগের ক্ষেত্রে ক্রম পরিবর্তন করলেও লব্ধির মান ও দিক অপরিবর্তিত থাকে।"
   }
 }

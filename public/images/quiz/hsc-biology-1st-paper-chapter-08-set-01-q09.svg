@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="100%" height="100%" viewBox="0 0 360 220">
+  <defs>
+    <radialGradient id="bg" cx="50%" cy="45%" r="75%">
+      <stop offset="0%" stop-color="#1e293b"/>
+      <stop offset="100%" stop-color="#020617"/>
+    </radialGradient>
+    <radialGradient id="green" cx="35%" cy="30%" r="70%">
+      <stop offset="0%" stop-color="#86efac"/>
+      <stop offset="100%" stop-color="#166534"/>
+    </radialGradient>
+    <radialGradient id="blue" cx="35%" cy="30%" r="70%">
+      <stop offset="0%" stop-color="#93c5fd"/>
+      <stop offset="100%" stop-color="#1e40af"/>
+    </radialGradient>
+    <style>
+      .outer{fill:#052e16;stroke:#86efac;stroke-width:2}
+      .a{fill:url(#green);stroke:#dcfce7;stroke-width:2}
+      .b{fill:url(#blue);stroke:#dbeafe;stroke-width:2}
+      .x{fill:#facc15;stroke:#fef3c7;stroke-width:1.5}
+      .label{font-family:Arial,sans-serif;font-size:21px;font-weight:900;fill:#fff}
+    </style>
+  </defs>
+  <rect width="360" height="220" rx="18" fill="url(#bg)"/>
+  <ellipse cx="112" cy="112" rx="70" ry="58" class="outer"/>
+  <ellipse cx="248" cy="112" rx="70" ry="58" class="outer"/>
+  <ellipse cx="112" cy="112" rx="46" ry="35" class="a"/>
+  <ellipse cx="248" cy="112" rx="46" ry="35" class="b"/>
+  <circle cx="112" cy="112" r="18" class="x"/>
+  <circle cx="236" cy="112" r="13" class="x"/>
+  <circle cx="260" cy="112" r="13" class="x"/>
+  <text x="112" y="52" text-anchor="middle" class="label">A</text>
+  <text x="248" y="52" text-anchor="middle" class="label">B</text>
+</svg>

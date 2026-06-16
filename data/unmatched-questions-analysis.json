@@ -1,0 +1,717 @@
+{
+  "total": 1784,
+  "bySubject": {
+    "biology": 147,
+    "chemistry": 32,
+    "general-math": 164,
+    "higher-math": 174,
+    "ict": 18,
+    "physics": 500
+  },
+  "topKeywords": {
+    "কোনটি": 443,
+    "নিচের": 419,
+    "একটি": 295,
+    "করে": 287,
+    "লেখচিত্র": 277,
+    "সঠিক": 276,
+    "চিত্রে": 271,
+    "হলে": 249,
+    "তড়িৎ": 210,
+    "উদ্দীপকে": 209,
+    "এবং": 209,
+    "উদ্দীপকের": 186,
+    "ভেক্টর": 184,
+    "লেন্সের": 164,
+    "দূরত্ব": 164,
+    "লেন্স": 161,
+    "হবে": 158,
+    "বনাম": 146,
+    "মান": 145,
+    "কোন": 143,
+    "দর্পণ": 142,
+    "ফোকাস": 140,
+    "আলো": 134,
+    "ব্যাসার্ধ": 129,
+    "বর্তনী": 128,
+    "উত্তর": 127,
+    "কোণ": 120,
+    "অবতল": 118,
+    "আলোক": 117,
+    "বল": 116,
+    "দর্পণের": 113,
+    "বক্রতা": 111,
+    "বক্রতার": 107,
+    "গ্রাফ": 106,
+    "দাও": 105,
+    "তাপ": 104,
+    "বেগ": 104,
+    "সেমি": 101,
+    "কোনো": 100,
+    "নির্দেশ": 98,
+    "অক্ষের": 96,
+    "সমীকরণ": 95,
+    "একক": 92,
+    "চিত্রের": 91,
+    "সাথে": 88,
+    "ঢাল": 86,
+    "বৃত্ত": 85,
+    "ভেক্টরের": 85,
+    "আলোকে": 83,
+    "ভর": 81,
+    "থেকে": 80,
+    "ক্ষেত্রে": 80,
+    "উৎপন্ন": 78,
+    "প্রশ্নের": 75,
+    "সর্বোচ্চ": 73,
+    "ক্ষমতার": 72,
+    "ক্ষমতা": 69,
+    "উপর": 69,
+    "গ্যাসের": 65,
+    "বর্তনীর": 61,
+    "প্রতিবিম্ব": 61,
+    "হলো": 59,
+    "কীরূপ": 59,
+    "দিয়ে": 59,
+    "মধ্যে": 58,
+    "লেখচিত্রটি": 58,
+    "বস্তু": 56,
+    "কেমন": 55,
+    "সময়": 51,
+    "ত্রিভুজ": 50,
+    "বৃত্তের": 50,
+    "কেন্দ্র": 50,
+    "বর্তনীতে": 49,
+    "বলে": 48,
+    "করা": 47,
+    "ররর": 47,
+    "গতিশক্তি": 47,
+    "স্থির": 47,
+    "ক্ষেত্রফল": 46,
+    "সরলরেখা": 46,
+    "দিকের": 46,
+    "গ্রাফের": 46,
+    "আদর্শ": 45,
+    "পরিবর্তন": 45,
+    "লেখচিত্রের": 45,
+    "সমান": 43,
+    "আপতিত": 43,
+    "চিত্র": 42,
+    "করো": 41,
+    "ত্রিভুজের": 41,
+    "ক্রিয়ায়": 41,
+    "দুটি": 40,
+    "উত্তল": 40,
+    "জন্য": 39,
+    "হতে": 39,
+    "ধনাত্মক": 39,
+    "চাপ": 37,
+    "কম্পাঙ্ক": 37,
+    "গঠিত": 37,
+    "সম্পর্কযুক্ত": 37
+  },
+  "sampleBySubject": {
+    "biology": [
+      {
+        "id": "biology-ssc-science-biology-board-questions-year-wise-2023-chattogram-ts-19",
+        "text": "পত্রের রন্ধ্র (Stomata) প্রধানত উদ্ভিদের কোন শারীরবৃত্তীয় প্রক্রিয়ার হার নিয়ন্ত্রণ করে?",
+        "image": "/images/quiz/bio-stomata.svg"
+      },
+      {
+        "id": "biology-ssc-science-biology-board-questions-year-wise-2023-dhaka-ts-8",
+        "text": "DNA অণুর একটি পূর্ণ ঘূর্ণনের (অংশের) দৈর্ঘ্য কত? (উদ্দীপকের চিত্রানুসারে) English meaning: What is the length of one ful",
+        "image": "/images/quiz/premium/biology-ssc-science-biology-board-questions-year-wise-2023-dhaka-ts-8.svg"
+      },
+      {
+        "id": "biology-ssc-science-biology-board-questions-year-wise-2022-rajshahi-ts-2",
+        "text": "উপরের চিত্রটি কোন Gate কে নির্দেশ করে?",
+        "image": "/images/quiz/premium/biology-ssc-science-biology-board-questions-year-wise-2022-rajshahi-ts-2.svg"
+      },
+      {
+        "id": "ssc-biology-board-standard-model-test-01-q01",
+        "text": "উদ্দীপক: শিক্ষক ক্লাসে এমন দুটি কোষীয় অঙ্গাণুর কথা বললেন, যার একটি (A) কোষে শক্তি উৎপাদন করে এবং অপরটি (B) উদ্ভিদ কোষে খ",
+        "image": "/images/quiz/bio-mitochondria-chloroplast.svg"
+      },
+      {
+        "id": "ssc-biology-board-standard-model-test-01-q02",
+        "text": "উদ্দীপক: শিক্ষক ক্লাসে এমন দুটি কোষীয় অঙ্গাণুর কথা বললেন, যার একটি (A) কোষে শক্তি উৎপাদন করে এবং অপরটি (B) উদ্ভিদ কোষে খ",
+        "image": "/images/quiz/bio-mitochondria-chloroplast.svg"
+      },
+      {
+        "id": "ssc-biology-board-standard-model-test-01-q16",
+        "text": "উদ্দীপক: বিজ্ঞানী মেন্ডেল মটরগাছ নিয়ে গবেষণার মাধ্যমে বংশগতির দুটি সূত্র প্রদান করেন। তার পরীক্ষার প্রধান উপাদান ছিল ক্র",
+        "image": "/images/quiz/premium/ssc-biology-board-standard-model-test-01-q16.svg"
+      },
+      {
+        "id": "ssc-biology-board-standard-model-test-02-q03",
+        "text": "চিত্রে একটি স্নায়ুকোষ বা নিউরন দেখানো হলো। উদ্দীপনা গ্রহণ করে কোষদেহের দিকে প্রেরণ করে নিউরনের কোন অংশ?",
+        "image": "/images/quiz/premium/ssc-biology-board-standard-model-test-02-q03.svg"
+      },
+      {
+        "id": "ssc-biology-board-standard-model-test-02-q08",
+        "text": "উদ্দীপক: গ্রীষ্মের দুপুরে একটি বিশাল বটগাছের নিচে দাঁড়ালে বেশ শীতল অনুভব হয়। শিক্ষক জানালেন, উদ্ভিদের পাতায় অবস্থিত একটি",
+        "image": "/images/quiz/premium/ssc-biology-board-standard-model-test-02-q08.svg"
+      },
+      {
+        "id": "ssc-biology-board-standard-model-test-02-q17",
+        "text": "উদ্দীপক: রহিম সাহেবের বয়স ৫০ বছর। ইদানীং তিনি খুব দুর্বল বোধ করছেন, ঘন ঘন প্রস্রাব হচ্ছে এবং ক্ষতস্থান সহজে শুকাচ্ছে না।",
+        "image": "/images/quiz/premium/ssc-biology-board-standard-model-test-02-q17.svg"
+      },
+      {
+        "id": "ssc-biology-board-standard-model-test-02-q22",
+        "text": "চিত্রে দুটি নিউরনের সংযোগস্থল দেখানো হলে, এই ফাঁকা স্থানটিকে কী বলা হয় যার মাধ্যমে স্নায়ু উদ্দীপনা পরিবাহিত হয়?",
+        "image": "/images/quiz/premium/ssc-biology-board-standard-model-test-02-q22.svg"
+      },
+      {
+        "id": "ssc-biology-high-common-sets-2-6-split-03-q09",
+        "text": "চিত্রে যদি জাইলেম ও ফ্লোয়েম দেখানো থাকে, খাদ্য পরিবহনকারী টিস্যু কোনটি? English meaning: If a diagram shows xylem and p",
+        "image": "/images/quiz/premium/ssc-biology-high-common-sets-2-6-split-03-q09.svg"
+      },
+      {
+        "id": "biology-ssc-science-biology-board-questions-year-wise-2023-sylhet-ts-22",
+        "text": "উদ্দীপকের উদ্ভিদের এই নরম ও রসালো অংশের প্রধান টিস্যু কোনটি?",
+        "image": "/images/quiz/premium/biology-ssc-science-biology-board-questions-year-wise-2023-sylhet-ts-22.svg"
+      },
+      {
+        "id": "biology-1st-paper-hsc-science-biology-1st-paper-board-questions-year-wise-2023-barishal-ts-4",
+        "text": "উদ্দীপকে বর্ণিত রোগের নাম কী? (ডেঙ্গুর লক্ষণ)",
+        "image": "/images/quiz/premium/biology-1st-paper-hsc-science-biology-1st-paper-board-questions-year-wise-2023-barishal-ts-4.svg"
+      },
+      {
+        "id": "biology-1st-paper-hsc-science-biology-1st-paper-board-questions-year-wise-2023-barishal-ts-5",
+        "text": "উদ্দীপকের মনির রোগের জীবাণু— (ম্যালেরিয়ার লক্ষণ)\ni. মশার দেহে যৌন জনন ঘটায় ii. লোহিত রক্ত কণিকা ধ্বংস করে iii. পাইরোজেন ",
+        "image": "/images/quiz/premium/biology-1st-paper-hsc-science-biology-1st-paper-board-questions-year-wise-2023-barishal-ts-5.svg"
+      },
+      {
+        "id": "biology-1st-paper-hsc-science-biology-1st-paper-board-questions-year-wise-2023-barishal-ts-10",
+        "text": "উদ্দীপকের প্রথম অঙ্গাণুটি কী? (দ্বি-স্তরী ঝিল্লি)",
+        "image": "/images/quiz/premium/biology-1st-paper-hsc-science-biology-1st-paper-board-questions-year-wise-2023-barishal-ts-10.svg"
+      },
+      {
+        "id": "biology-1st-paper-hsc-science-biology-1st-paper-board-questions-year-wise-2023-barishal-ts-16",
+        "text": "উদ্দীপকে প্রক্রিয়ার সূচনাকারী উৎসেচক কোনটি? (গ্লাইকোলাইসিস)",
+        "image": "/images/quiz/premium/biology-1st-paper-hsc-science-biology-1st-paper-board-questions-year-wise-2023-barishal-ts-16.svg"
+      },
+      {
+        "id": "biology-1st-paper-hsc-science-biology-1st-paper-board-questions-year-wise-2023-barishal-ts-17",
+        "text": "উদ্দীপকের চক্রে— (ক্রেবস চক্র)\ni. CO₂ নির্গত হয় ii. NAD বিজারিত হয় iii. FADH₂ উৎপন্ন হয়\nনিচের কোনটি সঠিক?",
+        "image": "/images/quiz/premium/biology-1st-paper-hsc-science-biology-1st-paper-board-questions-year-wise-2023-barishal-ts-17.svg"
+      },
+      {
+        "id": "biology-1st-paper-hsc-science-biology-1st-paper-board-questions-year-wise-2023-chattogram-ts-9",
+        "text": "উদ্দীপকের 'P' চিহ্নিত অণুজীবে বিদ্যমান— (ফায ভাইরাস)",
+        "image": "/images/quiz/premium/biology-1st-paper-hsc-science-biology-1st-paper-board-questions-year-wise-2023-chattogram-ts-9.svg"
+      },
+      {
+        "id": "biology-1st-paper-hsc-science-biology-1st-paper-board-questions-year-wise-2023-chattogram-ts-10",
+        "text": "উদ্দীপকের নির্দেশিত 'P' ও 'Q' উভয় গোষ্ঠীর অণুজীব— (ভাইরাস ও ব্যাকটেরিয়া)\ni. রোগ সৃষ্টি করে ii. জিন প্রকৌশলে ব্যবহৃত হয় i",
+        "image": "/images/quiz/premium/biology-1st-paper-hsc-science-biology-1st-paper-board-questions-year-wise-2023-chattogram-ts-10.svg"
+      },
+      {
+        "id": "biology-1st-paper-hsc-science-biology-1st-paper-board-questions-year-wise-2023-cumilla-ts-3",
+        "text": "উদ্দীপকের চিত্রটিতে দেখানো প্রক্রিয়ার জনক কে? (টিস্যু কালচার)",
+        "image": "/images/quiz/premium/biology-1st-paper-hsc-science-biology-1st-paper-board-questions-year-wise-2023-cumilla-ts-3.svg"
+      }
+    ],
+    "chemistry": [
+      {
+        "id": "chemistry-ssc-science-chemistry-board-questions-year-wise-2025-barishal-ts-2",
+        "text": "উদ্দীপকের আলোকে ৩ ও ৪নং প্রশ্নের উত্তর দাও :\nC₃H₆ (A) + H₂O + [O] --(KMnO₄/KOH)--> 'X'\nবিক্রিয়ায় উৎপন্ন 'X' যৌগটির সংকেত",
+        "image": "/images/quiz/premium/chemistry-ssc-science-chemistry-board-questions-year-wise-2025-barishal-ts-2.svg"
+      },
+      {
+        "id": "chemistry-ssc-science-chemistry-board-questions-year-wise-2025-barishal-ts-3",
+        "text": "উদ্দীপকের বিক্রিয়ায়-\ni. 'X' যৌগটি পানিতে অদ্রবণীয়\nii. 'A' যৌগটি পলিমার গঠনে সক্ষম\niii. 'A' যৌগটি Br₂ এর লাল বর্ণ অপসারণ ",
+        "image": "/images/quiz/premium/chemistry-ssc-science-chemistry-board-questions-year-wise-2025-barishal-ts-3.svg"
+      },
+      {
+        "id": "chemistry-ssc-science-chemistry-board-questions-year-wise-2025-barishal-ts-22",
+        "text": "উদ্দীপকের বিক্রিয়া অনুযায়ী :\nH₂S₂O₇ + H₂O → 'A'\n'A' যৌগটির নাম কী?",
+        "image": "/images/quiz/premium/chemistry-ssc-science-chemistry-board-questions-year-wise-2025-barishal-ts-22.svg"
+      },
+      {
+        "id": "chapter-05-split-01-q16",
+        "text": "ফসফোনিয়াম ফসফেট এর সংকেত কোনটি? (Board Repeated)",
+        "image": "/images/quiz/premium/chapter-05-split-01-q16.svg"
+      },
+      {
+        "id": "chapter-06-split-02-q24",
+        "text": "প্রমাণ অবস্থায় CO₂ গ্যাসের ঘনত্ব কত (g/L)?",
+        "image": "/images/quiz/premium/chapter-06-split-02-q24.svg"
+      },
+      {
+        "id": "chemistry-ssc-science-chemistry-board-questions-year-wise-2025-chattogram-ts-5",
+        "text": "উদ্দীপকের B (SO₃) যৌগটির-\ni. জলীয় দ্রবণ অম্লধর্মী\nii. কেন্দ্রীয় পরমাণুর জারণসংখ্যা +৪\niii. ক্ষেত্রে অষ্টক নিয়মের ব্যতিক্",
+        "image": "/images/quiz/premium/chemistry-ssc-science-chemistry-board-questions-year-wise-2025-chattogram-ts-5.svg"
+      },
+      {
+        "id": "chemistry-ssc-science-chemistry-board-questions-year-wise-2025-cumilla-ts-2",
+        "text": "উদ্দীপকের তথ্যানুযায়ী:\nমৌল  গ্রুপ  পর্যায়\nX     ১৩    ৩\nY     ১৭    ৩\nউদ্দীপকের XY₃ যৌগের ক্ষেত্রে-\ni. যৌগটি আর্দ্রবিশ্ল",
+        "image": "/images/quiz/premium/chemistry-ssc-science-chemistry-board-questions-year-wise-2025-cumilla-ts-2.svg"
+      },
+      {
+        "id": "chemistry-ssc-science-chemistry-board-questions-year-wise-2025-cumilla-ts-10",
+        "text": "ইলেকট্রনের মাধ্যমে তড়িৎ পরিবহন করে-\ni. গ্রাফাইট\nii. কয়লা\niii. নিকেল\nনিচের কোনটি সঠিক?",
+        "image": "/images/quiz/premium/chemistry-ssc-science-chemistry-board-questions-year-wise-2025-cumilla-ts-10.svg"
+      },
+      {
+        "id": "chemistry-ssc-science-chemistry-board-questions-year-wise-2025-cumilla-ts-17",
+        "text": "CaC₂ + 2H₂O → A + Ca(OH)₂\nউদ্দীপকের 'A' যৌগ হতে প্রস্তুত করা যায়-\ni. পি.ভিসি (PVC)\nii. ইথান্যাল\niii. টেট্রাব্রোমোইথেন\nনি",
+        "image": "/images/quiz/premium/chemistry-ssc-science-chemistry-board-questions-year-wise-2025-cumilla-ts-17.svg"
+      },
+      {
+        "id": "chemistry-ssc-science-chemistry-board-questions-year-wise-2025-cumilla-ts-23",
+        "text": "উদ্দীপকের 'A' পাত্রে ২৫০ mL দ্রবণে ৩ গ্রাম Na₂CO₃ দ্রবীভূত আছে। পাত্রের দ্রবণের মোলারিটি কত?",
+        "image": "/images/quiz/premium/chemistry-ssc-science-chemistry-board-questions-year-wise-2025-cumilla-ts-23.svg"
+      },
+      {
+        "id": "chemistry-ssc-science-chemistry-board-questions-year-wise-2025-cumilla-ts-24",
+        "text": "উদ্দীপকের 'A' পাত্রের Na₂CO₃ দ্রবণ এবং 'B' পাত্রের এসিড দ্রবণকে একত্রে মিশ্রিত করলে-\ni. প্রশমন বিক্রিয়া হয়\nii. জারণ-বি",
+        "image": "/images/quiz/premium/chemistry-ssc-science-chemistry-board-questions-year-wise-2025-cumilla-ts-24.svg"
+      },
+      {
+        "id": "chemistry-ssc-science-chemistry-board-questions-year-wise-2023-dhaka-ts-3",
+        "text": "উদ্দীপকের-\ni. 'A' পাত্রে উৎপন্ন গ্যাস (CO₂) অম্লধর্মী\nii. 'B' পাত্রে সংগঠিত বিক্রিয়াটি (ঝিনুক/খোসার সাথে বিক্রিয়া) রেড",
+        "image": "/images/quiz/premium/chemistry-ssc-science-chemistry-board-questions-year-wise-2023-dhaka-ts-3.svg"
+      },
+      {
+        "id": "chemistry-ssc-science-chemistry-board-questions-year-wise-2025-dinajpur-ts-7",
+        "text": "Ca(OH)₂ + Cl₂ --(40°C)--> A + H₂O;\nউদ্দীপকে 'A' যৌগটি-\ni. জীবাণু ধ্বংসকরণে ব্যবহৃত হয়\nii. পানির সাথে বিক্রিয়ায় HOCl তৈরি",
+        "image": "/images/quiz/premium/chemistry-ssc-science-chemistry-board-questions-year-wise-2025-dinajpur-ts-7.svg"
+      },
+      {
+        "id": "chemistry-ssc-science-chemistry-board-questions-year-wise-2025-dinajpur-ts-18",
+        "text": "কোনটির তাপীয় বক্ররেখার লেখচিত্র ভিন্ন হবে?",
+        "image": "/images/quiz/premium/chemistry-ssc-science-chemistry-board-questions-year-wise-2025-dinajpur-ts-18.svg"
+      },
+      {
+        "id": "chemistry-ssc-science-chemistry-board-questions-year-wise-2025-jashore-ts-6",
+        "text": "FeCl₃(aq) + NaOH(aq) → X + লবণ (aq)\nউদ্দীপকে 'X' যৌগটি কীরূপ বর্ণ প্রদর্শন করে?",
+        "image": "/images/quiz/premium/chemistry-ssc-science-chemistry-board-questions-year-wise-2025-jashore-ts-6.svg"
+      },
+      {
+        "id": "chemistry-ssc-science-chemistry-board-questions-year-wise-2025-jashore-ts-14",
+        "text": "উদ্দীপকের আয়নটিতে ইলেকট্রন সংখ্যা কত? (যেখানে এটি একটি d+ আয়ন)",
+        "image": "/images/quiz/premium/chemistry-ssc-science-chemistry-board-questions-year-wise-2025-jashore-ts-14.svg"
+      },
+      {
+        "id": "chemistry-ssc-science-chemistry-board-questions-year-wise-2025-jashore-ts-15",
+        "text": "উদ্দীপকের আয়নে কতটি নিউট্রন আছে?",
+        "image": "/images/quiz/premium/chemistry-ssc-science-chemistry-board-questions-year-wise-2025-jashore-ts-15.svg"
+      },
+      {
+        "id": "chemistry-ssc-science-chemistry-board-questions-year-wise-2025-mymensingh-ts-5",
+        "text": "উদ্দীপকের তথ্য অনুযায়ী :\n'A' + H₂O --(20% H₂SO₄ / 2% HgSO₄, 80°C)--> CH₃CH₂CHO\nCH₃CH₂CHO + [O] --(K₂Cr₂O₇/H₂SO₄)--> 'B'\n",
+        "image": "/images/quiz/premium/chemistry-ssc-science-chemistry-board-questions-year-wise-2025-mymensingh-ts-5.svg"
+      },
+      {
+        "id": "chemistry-ssc-science-chemistry-board-questions-year-wise-2025-mymensingh-ts-6",
+        "text": "উদ্দীপকের 'B' যৌগটি (প্রোপানয়িক এসিড)-\ni. Zn এর সাথে বিক্রিয়ায় H₂ গ্যাস উৎপন্ন করে\nii. NaOH এর সাথে বিক্রিয়ায় সোডিয়াম প",
+        "image": "/images/quiz/cell-terminal-pd-alt.svg"
+      },
+      {
+        "id": "chemistry-ssc-science-chemistry-board-questions-year-wise-2025-mymensingh-ts-18",
+        "text": "উদ্দীপকের সংকর ধাতুটির নাম কী?\n[উদ্দীপক: একটি সংকর ধাতুর অলংকার, কলকব্জার বিয়ারিং, বৈদ্যুতিক সুইচ, দরজার হাতল, ডেকচি পাত",
+        "image": "/images/quiz/premium/chemistry-ssc-science-chemistry-board-questions-year-wise-2025-mymensingh-ts-18.svg"
+      }
+    ],
+    "general-math": [
+      {
+        "id": "general-math-ssc-science-general-math-board-questions-year-wise-2022-barishal-ts-1",
+        "text": "সমকোণী ত্রিভুজের अतिভুজ সংলগ্ন কোণদ্বয় কীরূপ?",
+        "image": "/images/quiz/geo-right-triangle-trig.svg"
+      },
+      {
+        "id": "general-math-ssc-science-general-math-board-questions-year-wise-2022-barishal-ts-10",
+        "text": "x² - 5x + 6 = 0 সমীকরণটির মূলদ্বয় কত?",
+        "image": "/images/quiz/premium/general-math-ssc-science-general-math-board-questions-year-wise-2022-barishal-ts-10.svg"
+      },
+      {
+        "id": "general-math-ssc-science-general-math-board-questions-year-wise-2024-barishal-ts-1",
+        "text": "সমকোণী ত্রিভুজের अतिভুজ সংলগ্ন কোণদ্বয় কীরূপ?",
+        "image": "/images/quiz/geo-right-triangle-trig.svg"
+      },
+      {
+        "id": "general-math-ssc-science-general-math-board-questions-year-wise-2024-barishal-ts-10",
+        "text": "x² - 5x + 6 = 0 সমীকরণটির মূলদ্বয় কত?",
+        "image": "/images/quiz/premium/general-math-ssc-science-general-math-board-questions-year-wise-2024-barishal-ts-10.svg"
+      },
+      {
+        "id": "general-math-ssc-science-general-math-board-questions-year-wise-2025-barishal-ts-1",
+        "text": "ax + by = a² এবং bx - ay = ab সমীকরণদ্বয়ের (x, y) = কত?",
+        "image": "/images/quiz/premium/general-math-ssc-science-general-math-board-questions-year-wise-2025-barishal-ts-1.svg"
+      },
+      {
+        "id": "general-math-ssc-science-general-math-board-questions-year-wise-2025-barishal-ts-15",
+        "text": "চিত্রে, O কেন্দ্রবিশিষ্ট ABC বৃত্ত এবং ∠ABC = 60°। ∠ACO = কত?",
+        "image": "/images/quiz/hm-resultant-5n-7n-60.svg"
+      },
+      {
+        "id": "general-math-ssc-science-general-math-board-questions-year-wise-2025-barishal-ts-16",
+        "text": "চিত্রে, O কেন্দ্রবিশিষ্ট ABC বৃত্ত এবং ∠ABC = 60°। sin∠BAC = কত?",
+        "image": "/images/quiz/hm-resultant-5n-7n-60.svg"
+      },
+      {
+        "id": "general-math-ssc-science-general-math-board-questions-year-wise-2025-barishal-ts-19",
+        "text": "চিত্রে θ কোণের মান কত?",
+        "image": "/images/quiz/premium/general-math-ssc-science-general-math-board-questions-year-wise-2025-barishal-ts-19.svg"
+      },
+      {
+        "id": "general-math-ssc-science-general-math-board-questions-year-wise-2025-barishal-ts-24",
+        "text": "x² - x = 6 সমীকরণের সমাধান সেট কোনটি?",
+        "image": "/images/quiz/premium/general-math-ssc-science-general-math-board-questions-year-wise-2025-barishal-ts-24.svg"
+      },
+      {
+        "id": "general-math-ssc-science-general-math-board-questions-year-wise-2025-barishal-ts-27",
+        "text": "কোনো বৃত্তের ব্যাসার্ধ 10 সেমি. হলে, এর যে বৃত্তচাপ কেন্দ্রে 60° কোণ তৈরি করে তার দৈর্ঘ্য কত?",
+        "image": "/images/quiz/hm-resultant-5n-7n-60.svg"
+      },
+      {
+        "id": "general-math-ssc-science-general-math-board-questions-year-wise-2025-barishal-ts-28",
+        "text": "চিত্রে O কেন্দ্রবিশিষ্ট বৃত্তের দুইটি স্পর্শক PA ও PB। চিত্রানুসারে—\ni. AB জ্যা\nii. △OAB সমবাহু ত্রিভুজ\niii. △PAB সমদ্বি",
+        "image": "/images/quiz/premium/general-math-ssc-science-general-math-board-questions-year-wise-2025-barishal-ts-28.svg"
+      },
+      {
+        "id": "general-math-ssc-science-general-math-board-questions-year-wise-2026-barishal-ts-1",
+        "text": "সমকোণী ত্রিভুজের अतिভুজ সংলগ্ন কোণদ্বয় কীরূপ?",
+        "image": "/images/quiz/geo-right-triangle-trig.svg"
+      },
+      {
+        "id": "general-math-ssc-science-general-math-board-questions-year-wise-2026-barishal-ts-10",
+        "text": "x² - 5x + 6 = 0 সমীকরণটির মূলদ্বয় কত?",
+        "image": "/images/quiz/premium/general-math-ssc-science-general-math-board-questions-year-wise-2026-barishal-ts-10.svg"
+      },
+      {
+        "id": "general-math-ssc-science-general-math-board-questions-year-wise-2022-chattogram-ts-1",
+        "text": "সমকোণী ত্রিভুজের अतिভুজ সংলগ্ন কোণদ্বয় কীরূপ?",
+        "image": "/images/quiz/geo-right-triangle-trig.svg"
+      },
+      {
+        "id": "general-math-ssc-science-general-math-board-questions-year-wise-2022-chattogram-ts-10",
+        "text": "x² - 5x + 6 = 0 সমীকরণটির মূলদ্বয় কত?",
+        "image": "/images/quiz/premium/general-math-ssc-science-general-math-board-questions-year-wise-2022-chattogram-ts-10.svg"
+      },
+      {
+        "id": "general-math-ssc-science-general-math-board-questions-year-wise-2023-chattogram-ts-3",
+        "text": "চিত্রে O হলো কেন্দ্র, OR = 3 সেমি. এবং PR = 4 সেমি. হলে OP-এর দৈর্ঘ্য কত?",
+        "image": "/images/quiz/premium/general-math-ssc-science-general-math-board-questions-year-wise-2023-chattogram-ts-3.svg"
+      },
+      {
+        "id": "general-math-ssc-science-general-math-board-questions-year-wise-2023-chattogram-ts-4",
+        "text": "নিচের কোনটি একটি সমকোণী ত্রিভুজ তৈরিতে সঠিক?",
+        "image": "/images/quiz/geo-right-triangle-trig.svg"
+      },
+      {
+        "id": "general-math-ssc-science-general-math-board-questions-year-wise-2023-chattogram-ts-16",
+        "text": "চিত্রে ABCDEF একটি বহভুজ, ∠x = কত?",
+        "image": "/images/quiz/premium/general-math-ssc-science-general-math-board-questions-year-wise-2023-chattogram-ts-16.svg"
+      },
+      {
+        "id": "general-math-ssc-science-general-math-board-questions-year-wise-2023-chattogram-ts-17",
+        "text": "চিত্রের তথ্য অনুযায়ী বৃত্তের ব্যাসার্ধ কত?",
+        "image": "/images/quiz/premium/general-math-ssc-science-general-math-board-questions-year-wise-2023-chattogram-ts-17.svg"
+      },
+      {
+        "id": "general-math-ssc-science-general-math-board-questions-year-wise-2023-chattogram-ts-21",
+        "text": "নিচের কোনটি সমকোণী ত্রিভুজের শর্ত হতে পারে?",
+        "image": "/images/quiz/geo-right-triangle-trig.svg"
+      }
+    ],
+    "higher-math": [
+      {
+        "id": "higher-math-ssc-science-higher-math-board-questions-year-wise-2022-barishal-ts-7",
+        "text": "3y = 3x + 1 সরলরেখাটি x-অক্ষের ধনাত্মক দিকের সাথে কত ডিগ্রি কোণ উৎপন্ন করে?",
+        "image": "/images/quiz/premium/higher-math-ssc-science-higher-math-board-questions-year-wise-2022-barishal-ts-7.svg"
+      },
+      {
+        "id": "higher-math-ssc-science-higher-math-board-questions-year-wise-2023-barishal-ts-9",
+        "text": "$3y = 3x + 1$ সরলরেখাটি $x$-অক্ষের ধনাত্মক দিকের সাথে কত ডিগ্রি কোণ উৎপন্ন করে?",
+        "image": "/images/quiz/premium/higher-math-ssc-science-higher-math-board-questions-year-wise-2023-barishal-ts-9.svg"
+      },
+      {
+        "id": "higher-math-ssc-science-higher-math-board-questions-year-wise-2024-barishal-ts-1",
+        "text": "চিত্রে, O কেন্দ্র হলে নিচের কোনটি সঠিক? (চিত্রটি অনুপস্থিত)",
+        "image": "/images/quiz/premium/higher-math-ssc-science-higher-math-board-questions-year-wise-2024-barishal-ts-1.svg"
+      },
+      {
+        "id": "higher-math-ssc-science-higher-math-board-questions-year-wise-2024-barishal-ts-8",
+        "text": "নিচের কোনটি ফাংশন? *(অপশনগুলোতে চিত্র/গ্রাফ ছিল যা এখানে অনুপস্থিত)*",
+        "image": "/images/quiz/premium/higher-math-ssc-science-higher-math-board-questions-year-wise-2024-barishal-ts-8.svg"
+      },
+      {
+        "id": "higher-math-ssc-science-higher-math-board-questions-year-wise-2024-barishal-ts-9",
+        "text": "$y = x - 5$ এবং $y = -x + 5$ এর ছেদবিন্দু—",
+        "image": "/images/quiz/premium/higher-math-ssc-science-higher-math-board-questions-year-wise-2024-barishal-ts-9.svg"
+      },
+      {
+        "id": "higher-math-ssc-science-higher-math-board-questions-year-wise-2024-barishal-ts-19",
+        "text": "$2y = \\frac{x}{k} + 3$ এবং $5y - 10x + 8 = 0$ সরলরেখাদ্বয় সমান্তরাল হলে $k$ এর মান কত?",
+        "image": "/images/quiz/premium/higher-math-ssc-science-higher-math-board-questions-year-wise-2024-barishal-ts-19.svg"
+      },
+      {
+        "id": "higher-math-ssc-science-higher-math-board-questions-year-wise-2024-barishal-ts-21",
+        "text": "চিত্রে, $ABCD$ বৃত্তের কেন্দ্র $O$, $BM \\perp AC$, $ME \\perp BC$ এবং $AB = BC$।\ni. $AC \\cdot BD = AB(CD + AD)$\nii. $AF \\",
+        "image": "/images/quiz/premium/higher-math-ssc-science-higher-math-board-questions-year-wise-2024-barishal-ts-21.svg"
+      },
+      {
+        "id": "higher-math-ssc-science-higher-math-board-questions-year-wise-2024-barishal-ts-24",
+        "text": "চিত্রে $PA \\perp QR$, $AQ = 7cm$ এবং $QR = 16 cm$ হলে $\\triangle PAQ$ ও $\\triangle PAR$ এর ক্ষেত্রফলদ্বয়ের অনুপাত কত?",
+        "image": "/images/quiz/premium/higher-math-ssc-science-higher-math-board-questions-year-wise-2024-barishal-ts-24.svg"
+      },
+      {
+        "id": "higher-math-ssc-science-higher-math-board-questions-year-wise-2026-barishal-ts-7",
+        "text": "3y = 3x + 1 সরলরেখাটি x-অক্ষের ধনাত্মক দিকের সাথে কত ডিগ্রি কোণ উৎপন্ন করে?",
+        "image": "/images/quiz/premium/higher-math-ssc-science-higher-math-board-questions-year-wise-2026-barishal-ts-7.svg"
+      },
+      {
+        "id": "higher-math-ssc-science-higher-math-board-questions-year-wise-2022-chattogram-ts-7",
+        "text": "3y = 3x + 1 সরলরেখাটি x-অক্ষের ধনাত্মক দিকের সাথে কত ডিগ্রি কোণ উৎপন্ন করে?",
+        "image": "/images/quiz/premium/higher-math-ssc-science-higher-math-board-questions-year-wise-2022-chattogram-ts-7.svg"
+      },
+      {
+        "id": "higher-math-ssc-science-higher-math-board-questions-year-wise-2023-chattogram-ts-7",
+        "text": "3y = 3x + 1 সরলরেখাটি x-অক্ষের ধনাত্মক দিকের সাথে কত ডিগ্রি কোণ উৎপন্ন করে?",
+        "image": "/images/quiz/premium/higher-math-ssc-science-higher-math-board-questions-year-wise-2023-chattogram-ts-7.svg"
+      },
+      {
+        "id": "higher-math-ssc-science-higher-math-board-questions-year-wise-2024-chattogram-ts-0",
+        "text": "$\\sqrt{3}x + y - 5 = 0$ রেখাটি $x$-অক্ষের ধনাত্মক দিকের সাথে উৎপন্ন কোণের পরিমাণ কত?",
+        "image": "/images/quiz/premium/higher-math-ssc-science-higher-math-board-questions-year-wise-2024-chattogram-ts-0.svg"
+      },
+      {
+        "id": "higher-math-ssc-science-higher-math-board-questions-year-wise-2024-chattogram-ts-3",
+        "text": "**নিচের তথ্যের আলোকে 4 ও 5 নং প্রশ্নের উত্তর দাও:**\nচিত্রে $\\triangle ABC$ এ $\\angle B = 90^\\circ$ এবং $BC$ ও $AB$ এর মধ",
+        "image": "/images/quiz/premium/higher-math-ssc-science-higher-math-board-questions-year-wise-2024-chattogram-ts-3.svg"
+      },
+      {
+        "id": "higher-math-ssc-science-higher-math-board-questions-year-wise-2024-chattogram-ts-16",
+        "text": "**নিচের তথ্যের আলোকে 17 ও 18 নং প্রশ্নের উত্তর দাও:**\nচিত্রে $x$-অক্ষ এবং $y$-অক্ষের ওপর দুটি বিন্দু $A(4, 0)$ এবং $B(0,",
+        "image": "/images/quiz/premium/higher-math-ssc-science-higher-math-board-questions-year-wise-2024-chattogram-ts-16.svg"
+      },
+      {
+        "id": "higher-math-ssc-science-higher-math-board-questions-year-wise-2024-chattogram-ts-19",
+        "text": "HIGHER MATHEMATICS শব্দটির অক্ষরগুলো পৃথকভাবে একটি বাক্সে রাখা আছে। দৈবভাবে একটি বর্ণ তোলা হলো। বর্ণটি $A$ অথবা $H$ না হ",
+        "image": "/images/quiz/premium/higher-math-ssc-science-higher-math-board-questions-year-wise-2024-chattogram-ts-19.svg"
+      },
+      {
+        "id": "higher-math-ssc-science-higher-math-board-questions-year-wise-2025-chattogram-ts-7",
+        "text": "3y = 3x + 1 সরলরেখাটি x-অক্ষের ধনাত্মক দিকের সাথে কত ডিগ্রি কোণ উৎপন্ন করে?",
+        "image": "/images/quiz/premium/higher-math-ssc-science-higher-math-board-questions-year-wise-2025-chattogram-ts-7.svg"
+      },
+      {
+        "id": "higher-math-ssc-science-higher-math-board-questions-year-wise-2026-chattogram-ts-7",
+        "text": "3y = 3x + 1 সরলরেখাটি x-অক্ষের ধনাত্মক দিকের সাথে কত ডিগ্রি কোণ উৎপন্ন করে?",
+        "image": "/images/quiz/premium/higher-math-ssc-science-higher-math-board-questions-year-wise-2026-chattogram-ts-7.svg"
+      },
+      {
+        "id": "higher-math-ssc-science-higher-math-board-questions-year-wise-2022-cumilla-ts-7",
+        "text": "3y = 3x + 1 সরলরেখাটি x-অক্ষের ধনাত্মক দিকের সাথে কত ডিগ্রি কোণ উৎপন্ন করে?",
+        "image": "/images/quiz/premium/higher-math-ssc-science-higher-math-board-questions-year-wise-2022-cumilla-ts-7.svg"
+      },
+      {
+        "id": "higher-math-ssc-science-higher-math-board-questions-year-wise-2023-cumilla-ts-6",
+        "text": "-3 ঢাল বিশিষ্ট সরলরেখাটি x-অক্ষের ধনাত্মক দিকের সাথে কত ডিগ্রি কোণ উৎপন্ন করে?",
+        "image": "/images/quiz/premium/higher-math-ssc-science-higher-math-board-questions-year-wise-2023-cumilla-ts-6.svg"
+      },
+      {
+        "id": "higher-math-ssc-science-higher-math-board-questions-year-wise-2023-cumilla-ts-11",
+        "text": "2 সে.মি. ব্যাসার্ধবিশিষ্ট একটি বৃত্তের একটি চাপ কেন্দ্রে 90° কোণ উৎপন্ন করলে চাপের দৈর্ঘ্য কত সে.মি. হবে?",
+        "image": "/images/quiz/ssc-work-zero-90deg.svg"
+      }
+    ],
+    "ict": [
+      {
+        "id": "chapter-2-split-02-q14",
+        "text": "Radio wave কোন ধরনের medium?",
+        "image": "/images/quiz/wave-transverse.svg"
+      },
+      {
+        "id": "chapter-2-split-02-q15",
+        "text": "Microwave communication-এ সাধারণত দরকার—",
+        "image": "/images/quiz/wave-transverse.svg"
+      },
+      {
+        "id": "hsc-ict-chapter-01-model-test-05-q16",
+        "text": "Microwave communication-এ সাধারণত দরকার—",
+        "image": "/images/quiz/wave-transverse.svg"
+      },
+      {
+        "id": "hsc-ict-chapter-01-model-test-06-q05",
+        "text": "Microwave communication-এ সাধারণত দরকার—",
+        "image": "/images/quiz/wave-transverse.svg"
+      },
+      {
+        "id": "hsc-ict-chapter-01-model-test-06-q24",
+        "text": "Radio wave কোন ধরনের medium?",
+        "image": "/images/quiz/wave-transverse.svg"
+      },
+      {
+        "id": "hsc-ict-chapter-01-model-test-07-q13",
+        "text": "Radio wave কোন ধরনের medium?",
+        "image": "/images/quiz/wave-transverse.svg"
+      },
+      {
+        "id": "hsc-ict-chapter-01-model-test-08-q02",
+        "text": "Radio wave কোন ধরনের medium?",
+        "image": "/images/quiz/wave-transverse.svg"
+      },
+      {
+        "id": "hsc-ict-chapter-02-model-test-06-q25",
+        "text": "Microwave communication-এ সাধারণত দরকার—",
+        "image": "/images/quiz/wave-transverse.svg"
+      },
+      {
+        "id": "hsc-ict-chapter-02-model-test-07-q18",
+        "text": "Microwave communication-এ সাধারণত দরকার—",
+        "image": "/images/quiz/wave-transverse.svg"
+      },
+      {
+        "id": "hsc-ict-chapter-02-model-test-08-q11",
+        "text": "Microwave communication-এ সাধারণত দরকার—",
+        "image": "/images/quiz/wave-transverse.svg"
+      },
+      {
+        "id": "hsc-ict-chapter-02-model-test-09-q04",
+        "text": "Microwave communication-এ সাধারণত দরকার—",
+        "image": "/images/quiz/wave-transverse.svg"
+      },
+      {
+        "id": "hsc-ict-chapter-02-model-test-09-q23",
+        "text": "Radio wave কোন ধরনের medium?",
+        "image": "/images/quiz/wave-transverse.svg"
+      },
+      {
+        "id": "hsc-ict-chapter-02-model-test-10-q16",
+        "text": "Radio wave কোন ধরনের medium?",
+        "image": "/images/quiz/wave-transverse.svg"
+      },
+      {
+        "id": "hsc-ict-chapter-03-model-test-05-q17",
+        "text": "Microwave communication-এ সাধারণত দরকার—",
+        "image": "/images/quiz/wave-transverse.svg"
+      },
+      {
+        "id": "hsc-ict-chapter-03-model-test-06-q06",
+        "text": "Microwave communication-এ সাধারণত দরকার—",
+        "image": "/images/quiz/wave-transverse.svg"
+      },
+      {
+        "id": "hsc-ict-chapter-03-model-test-06-q25",
+        "text": "Radio wave কোন ধরনের medium?",
+        "image": "/images/quiz/wave-transverse.svg"
+      },
+      {
+        "id": "hsc-ict-chapter-03-model-test-07-q14",
+        "text": "Radio wave কোন ধরনের medium?",
+        "image": "/images/quiz/wave-transverse.svg"
+      },
+      {
+        "id": "hsc-ict-chapter-03-model-test-08-q03",
+        "text": "Radio wave কোন ধরনের medium?",
+        "image": "/images/quiz/wave-transverse.svg"
+      }
+    ],
+    "physics": [
+      {
+        "id": "physics-ssc-science-physics-board-questions-year-wise-2022-barishal-ts-0",
+        "text": "একটি অবতল দর্পণের ফোকাস দূরত্ব 16 সেমি। এর বক্রতার ব্যাসার্ধ কত?",
+        "image": "/images/quiz/ssc-concave-mirror.svg"
+      },
+      {
+        "id": "physics-ssc-science-physics-board-questions-year-wise-2022-barishal-ts-6",
+        "text": "নিচের কোনটি ভেক্টর রাশি?",
+        "image": "/images/quiz/premium/physics-ssc-science-physics-board-questions-year-wise-2022-barishal-ts-6.svg"
+      },
+      {
+        "id": "physics-ssc-science-physics-board-questions-year-wise-2022-barishal-ts-12",
+        "text": "লেন্সের ক্ষমতার একক কোনটি?",
+        "image": "/images/quiz/premium/physics-ssc-science-physics-board-questions-year-wise-2022-barishal-ts-12.svg"
+      },
+      {
+        "id": "physics-ssc-science-physics-board-questions-year-wise-2022-barishal-ts-19",
+        "text": "একটি অবতল দর্পণের ফোকাস দূরত্ব 22 সেমি। এর বক্রতার ব্যাসার্ধ কত?",
+        "image": "/images/quiz/ssc-concave-mirror.svg"
+      },
+      {
+        "id": "physics-ssc-science-physics-board-questions-year-wise-2024-barishal-ts-3",
+        "text": " নিচের উদ্দীপকের আলোকে ৪ ও ৫নং প্রশ্নগুলোর উত্তর দাও :\n৪. ধ মাধ্যমের সাপেক্ষে ন মাধ্যমের প্রতিসরণাঙ্ক কত?\n২ ২\n২\n২\n২)",
+        "image": "/images/quiz/premium/physics-ssc-science-physics-board-questions-year-wise-2024-barishal-ts-3.svg"
+      },
+      {
+        "id": "physics-ssc-science-physics-board-questions-year-wise-2024-barishal-ts-4",
+        "text": " নিচের উদ্দীপকের আলোকে ৪ ও ৫নং প্রশ্নগুলোর উত্তর দাও :\n৫. উদ্দীপকের ঘটনায়Ñ\nর. শ–ন্য মাধ্যমের সাপেক্ষে ন মাধ্যমের তুলনায়",
+        "image": "/images/quiz/premium/physics-ssc-science-physics-board-questions-year-wise-2024-barishal-ts-4.svg"
+      },
+      {
+        "id": "physics-ssc-science-physics-board-questions-year-wise-2024-barishal-ts-9",
+        "text": " নিচের উদ্দীপকের আলোকে ১০ ও ১১ নং প্রশ্নগুলোর উত্তর দাও :\n২০০\n১৫০\n10^{০}\n৫০\n১০ ২০ ৩০ ৪০ ০\nসময় (সে.)\nবেগ ম/িসে\nএকটি গাড়ি",
+        "image": "/images/quiz/premium/physics-ssc-science-physics-board-questions-year-wise-2024-barishal-ts-9.svg"
+      },
+      {
+        "id": "physics-ssc-science-physics-board-questions-year-wise-2024-barishal-ts-10",
+        "text": " নিচের উদ্দীপকের আলোকে ১০ ও ১১ নং প্রশ্নগুলোর উত্তর দাও :\n২০০\n১৫০\n10^{০}\n৫০\n১০ ২০ ৩০ ৪০ ০\nসময় (সে.)\nবেগ ম/িসে\nএকটি গাড়ি",
+        "image": "/images/quiz/premium/physics-ssc-science-physics-board-questions-year-wise-2024-barishal-ts-10.svg"
+      },
+      {
+        "id": "physics-ssc-science-physics-board-questions-year-wise-2024-barishal-ts-16",
+        "text": " নিচের উদ্দীপকের আলোকে ১৭ ও ১৮ নং প্রশ্নগুলোর উত্তর দাও :\n A B C\nঝ\nছ = ২০C (বায়ু)\n১৬.৫স ০.৫স ৩স\nউৎস থেকে প্রতিফলক পৃষ",
+        "image": "/images/quiz/premium/physics-ssc-science-physics-board-questions-year-wise-2024-barishal-ts-16.svg"
+      },
+      {
+        "id": "physics-ssc-science-physics-board-questions-year-wise-2024-barishal-ts-17",
+        "text": " নিচের উদ্দীপকের আলোকে ১৭ ও ১৮ নং প্রশ্নগুলোর উত্তর দাও :\n A B C\nঝ\nছ = ২০C (বায়ু)\n১৬.৫স ০.৫স ৩স\nউৎস থেকে প্রতিফলক পৃষ",
+        "image": "/images/quiz/premium/physics-ssc-science-physics-board-questions-year-wise-2024-barishal-ts-17.svg"
+      },
+      {
+        "id": "physics-ssc-science-physics-board-questions-year-wise-2025-barishal-ts-1",
+        "text": "চোখ দূরের বস্তু দেখতে পায় না কারণ—\ni. চক্ষু লেন্সের অভিসারী ক্ষমতা বৃদ্ধি পেলে\nii. অক্ষি গোলকের ব্যাসার্ধ বৃদ্ধি পেলে\nii",
+        "image": "/images/quiz/ssc-myopia-eye.svg"
+      },
+      {
+        "id": "physics-ssc-science-physics-board-questions-year-wise-2026-barishal-ts-0",
+        "text": "একটি অবতল দর্পণের ফোকাস দূরত্ব 16 সেমি। এর বক্রতার ব্যাসার্ধ কত?",
+        "image": "/images/quiz/ssc-concave-mirror.svg"
+      },
+      {
+        "id": "physics-ssc-science-physics-board-questions-year-wise-2026-barishal-ts-6",
+        "text": "নিচের কোনটি ভেক্টর রাশি?",
+        "image": "/images/quiz/premium/physics-ssc-science-physics-board-questions-year-wise-2026-barishal-ts-6.svg"
+      },
+      {
+        "id": "physics-ssc-science-physics-board-questions-year-wise-2026-barishal-ts-12",
+        "text": "লেন্সের ক্ষমতার একক কোনটি?",
+        "image": "/images/quiz/premium/physics-ssc-science-physics-board-questions-year-wise-2026-barishal-ts-12.svg"
+      },
+      {
+        "id": "physics-ssc-science-physics-board-questions-year-wise-2026-barishal-ts-19",
+        "text": "একটি অবতল দর্পণের ফোকাস দূরত্ব 22 সেমি। এর বক্রতার ব্যাসার্ধ কত?",
+        "image": "/images/quiz/ssc-concave-mirror.svg"
+      },
+      {
+        "id": "physics-ssc-science-physics-board-questions-year-wise-2022-chattogram-ts-0",
+        "text": "একটি অবতল দর্পণের ফোকাস দূরত্ব 8 সেমি। এর বক্রতার ব্যাসার্ধ কত?",
+        "image": "/images/quiz/ssc-concave-mirror.svg"
+      },
+      {
+        "id": "physics-ssc-science-physics-board-questions-year-wise-2022-chattogram-ts-6",
+        "text": "নিচের কোনটি ভেক্টর রাশি?",
+        "image": "/images/quiz/premium/physics-ssc-science-physics-board-questions-year-wise-2022-chattogram-ts-6.svg"
+      },
+      {
+        "id": "physics-ssc-science-physics-board-questions-year-wise-2022-chattogram-ts-12",
+        "text": "লেন্সের ক্ষমতার একক কোনটি?",
+        "image": "/images/quiz/premium/physics-ssc-science-physics-board-questions-year-wise-2022-chattogram-ts-12.svg"
+      },
+      {
+        "id": "physics-ssc-science-physics-board-questions-year-wise-2022-chattogram-ts-19",
+        "text": "একটি অবতল দর্পণের ফোকাস দূরত্ব 15 সেমি। এর বক্রতার ব্যাসার্ধ কত?",
+        "image": "/images/quiz/ssc-concave-mirror.svg"
+      },
+      {
+        "id": "physics-ssc-science-physics-board-questions-year-wise-2023-chattogram-ts-0",
+        "text": "একটি অবতল দর্পণের ফোকাস দূরত্ব 8 সেমি। এর বক্রতার ব্যাসার্ধ কত?",
+        "image": "/images/quiz/ssc-concave-mirror.svg"
+      }
+    ]
+  }
+}

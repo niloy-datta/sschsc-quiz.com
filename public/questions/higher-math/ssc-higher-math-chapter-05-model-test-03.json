@@ -1,352 +1,302 @@
 [
   {
-    "id": "ssc-higher-math-ch05-set03-q01",
+    "id": "ssc-higher-math-chapter-05-model-test-03-q01",
     "subject": "higher-math",
     "chapter": "ssc-higher-math-chapter-05-model-test-03",
-    "text": "দ্বিঘাত সমীকরণের মূল 3 ও 5 হলে সমীকরণটি কোনটি?",
+    "text": "P(ঘটনা) = 2/6 হলে সম্পূরক = ?",
     "options": [
-      "x² − 8x + 15 = 0",
-      "x² − 15x + 8 = 0",
-      "x² + 8x + 15 = 0",
-      "x² + 15x − 8 = 0"
-    ],
-    "image": null,
-    "timeLimit": 45
-  },
-  {
-    "id": "ssc-higher-math-ch05-set03-q02",
-    "subject": "higher-math",
-    "chapter": "ssc-higher-math-chapter-05-model-test-03",
-    "text": "x² − 9x + 20 = 0 সমীকরণের মূলদ্বয় কোনটি?",
-    "options": [
-      "4, 20",
-      "4, 5",
-      "9, 20",
-      "-4, -5"
-    ],
-    "image": null,
-    "timeLimit": 45
-  },
-  {
-    "id": "ssc-higher-math-ch05-set03-q03",
-    "subject": "higher-math",
-    "chapter": "ssc-higher-math-chapter-05-model-test-03",
-    "text": "দ্বিঘাত সমীকরণের মূল 4 ও 6 হলে সমীকরণটি কোনটি?",
-    "options": [
-      "x² + 10x + 24 = 0",
-      "x² − 10x + 24 = 0",
-      "x² − 24x + 10 = 0",
-      "x² + 24x − 10 = 0"
-    ],
-    "image": null,
-    "timeLimit": 45
-  },
-  {
-    "id": "ssc-higher-math-ch05-set03-q04",
-    "subject": "higher-math",
-    "chapter": "ssc-higher-math-chapter-05-model-test-03",
-    "text": "x² − 6x + 8 = 0 সমীকরণের মূলদ্বয় কোনটি?",
-    "options": [
-      "2, 4",
-      "2, 8",
-      "6, 8",
-      "-2, -4"
-    ],
-    "image": null,
-    "timeLimit": 45
-  },
-  {
-    "id": "ssc-higher-math-ch05-set03-q05",
-    "subject": "higher-math",
-    "chapter": "ssc-higher-math-chapter-05-model-test-03",
-    "text": "দ্বিঘাত সমীকরণের মূল 5 ও 7 হলে সমীকরণটি কোনটি?",
-    "options": [
-      "x² − 35x + 12 = 0",
-      "x² + 12x + 35 = 0",
-      "x² + 35x − 12 = 0",
-      "x² − 12x + 35 = 0"
-    ],
-    "image": null,
-    "timeLimit": 45
-  },
-  {
-    "id": "ssc-higher-math-ch05-set03-q06",
-    "subject": "higher-math",
-    "chapter": "ssc-higher-math-chapter-05-model-test-03",
-    "text": "x² − 15x + 54 = 0 সমীকরণের মূলদ্বয় কোনটি?",
-    "options": [
-      "6, 54",
-      "15, 54",
-      "6, 9",
-      "-6, -9"
-    ],
-    "image": null,
-    "timeLimit": 45
-  },
-  {
-    "id": "ssc-higher-math-ch05-set03-q07",
-    "subject": "higher-math",
-    "chapter": "ssc-higher-math-chapter-05-model-test-03",
-    "text": "দ্বিঘাত সমীকরণের মূল 6 ও 8 হলে সমীকরণটি কোনটি?",
-    "options": [
-      "x² + 48x − 14 = 0",
-      "x² − 48x + 14 = 0",
-      "x² + 14x + 48 = 0",
-      "x² − 14x + 48 = 0"
-    ],
-    "image": null,
-    "timeLimit": 45
-  },
-  {
-    "id": "ssc-higher-math-ch05-set03-q08",
-    "subject": "higher-math",
-    "chapter": "ssc-higher-math-chapter-05-model-test-03",
-    "text": "x² − 9x + 20 = 0 সমীকরণের মূলদ্বয় কোনটি?",
-    "options": [
-      "4, 5",
-      "4, 20",
-      "9, 20",
-      "-4, -5"
-    ],
-    "image": null,
-    "timeLimit": 45
-  },
-  {
-    "id": "ssc-higher-math-ch05-set03-q09",
-    "subject": "higher-math",
-    "chapter": "ssc-higher-math-chapter-05-model-test-03",
-    "text": "দ্বিঘাত সমীকরণের মূল 2 ও 4 হলে সমীকরণটি কোনটি?",
-    "options": [
-      "x² − 8x + 6 = 0",
-      "x² + 6x + 8 = 0",
-      "x² − 6x + 8 = 0",
-      "x² + 8x − 6 = 0"
-    ],
-    "image": null,
-    "timeLimit": 45
-  },
-  {
-    "id": "ssc-higher-math-ch05-set03-q10",
-    "subject": "higher-math",
-    "chapter": "ssc-higher-math-chapter-05-model-test-03",
-    "text": "x² − 6x + 8 = 0 সমীকরণের মূলদ্বয় কোনটি?",
-    "options": [
-      "2, 4",
-      "6, 8",
-      "-2, -4",
-      "2, 8"
-    ],
-    "image": null,
-    "timeLimit": 45
-  },
-  {
-    "id": "ssc-higher-math-ch05-set03-q11",
-    "subject": "higher-math",
-    "chapter": "ssc-higher-math-chapter-05-model-test-03",
-    "text": "দ্বিঘাত সমীকরণের মূল 3 ও 5 হলে সমীকরণটি কোনটি?",
-    "options": [
-      "x² + 15x − 8 = 0",
-      "x² − 8x + 15 = 0",
-      "x² − 15x + 8 = 0",
-      "x² + 8x + 15 = 0"
-    ],
-    "image": null,
-    "timeLimit": 45
-  },
-  {
-    "id": "ssc-higher-math-ch05-set03-q12",
-    "subject": "higher-math",
-    "chapter": "ssc-higher-math-chapter-05-model-test-03",
-    "text": "x² − 15x + 54 = 0 সমীকরণের মূলদ্বয় কোনটি?",
-    "options": [
-      "6, 9",
-      "6, 54",
-      "15, 54",
-      "-6, -9"
-    ],
-    "image": null,
-    "timeLimit": 45
-  },
-  {
-    "id": "ssc-higher-math-ch05-set03-q13",
-    "subject": "higher-math",
-    "chapter": "ssc-higher-math-chapter-05-model-test-03",
-    "text": "দ্বিঘাত সমীকরণের মূল 4 ও 6 হলে সমীকরণটি কোনটি?",
-    "options": [
-      "x² − 24x + 10 = 0",
-      "x² − 10x + 24 = 0",
-      "x² + 24x − 10 = 0",
-      "x² + 10x + 24 = 0"
-    ],
-    "image": null,
-    "timeLimit": 45
-  },
-  {
-    "id": "ssc-higher-math-ch05-set03-q14",
-    "subject": "higher-math",
-    "chapter": "ssc-higher-math-chapter-05-model-test-03",
-    "text": "x² − 9x + 20 = 0 সমীকরণের মূলদ্বয় কোনটি?",
-    "options": [
-      "4, 5",
-      "-4, -5",
-      "4, 20",
-      "9, 20"
-    ],
-    "image": null,
-    "timeLimit": 45
-  },
-  {
-    "id": "ssc-higher-math-ch05-set03-q15",
-    "subject": "higher-math",
-    "chapter": "ssc-higher-math-chapter-05-model-test-03",
-    "text": "দ্বিঘাত সমীকরণের মূল 5 ও 7 হলে সমীকরণটি কোনটি?",
-    "options": [
-      "x² − 12x + 35 = 0",
-      "x² + 35x − 12 = 0",
-      "x² + 12x + 35 = 0",
-      "x² − 35x + 12 = 0"
-    ],
-    "image": null,
-    "timeLimit": 45
-  },
-  {
-    "id": "ssc-higher-math-ch05-set03-q16",
-    "subject": "higher-math",
-    "chapter": "ssc-higher-math-chapter-05-model-test-03",
-    "text": "x² − 6x + 8 = 0 সমীকরণের মূলদ্বয় কোনটি?",
-    "options": [
-      "2, 8",
-      "6, 8",
-      "-2, -4",
-      "2, 4"
-    ],
-    "image": null,
-    "timeLimit": 45
-  },
-  {
-    "id": "ssc-higher-math-ch05-set03-q17",
-    "subject": "higher-math",
-    "chapter": "ssc-higher-math-chapter-05-model-test-03",
-    "text": "দ্বিঘাত সমীকরণের মূল 6 ও 8 হলে সমীকরণটি কোনটি?",
-    "options": [
-      "x² + 14x + 48 = 0",
-      "x² − 48x + 14 = 0",
-      "x² + 48x − 14 = 0",
-      "x² − 14x + 48 = 0"
-    ],
-    "image": null,
-    "timeLimit": 45
-  },
-  {
-    "id": "ssc-higher-math-ch05-set03-q18",
-    "subject": "higher-math",
-    "chapter": "ssc-higher-math-chapter-05-model-test-03",
-    "text": "x² − 15x + 54 = 0 সমীকরণের মূলদ্বয় কোনটি?",
-    "options": [
-      "15, 54",
-      "6, 54",
-      "-6, -9",
-      "6, 9"
-    ],
-    "image": null,
-    "timeLimit": 45
-  },
-  {
-    "id": "ssc-higher-math-ch05-set03-q19",
-    "subject": "higher-math",
-    "chapter": "ssc-higher-math-chapter-05-model-test-03",
-    "text": "দ্বিঘাত সমীকরণের মূল 2 ও 4 হলে সমীকরণটি কোনটি?",
-    "options": [
-      "x² − 6x + 8 = 0",
-      "x² − 8x + 6 = 0",
-      "x² + 6x + 8 = 0",
-      "x² + 8x − 6 = 0"
-    ],
-    "image": null,
-    "timeLimit": 45
-  },
-  {
-    "id": "ssc-higher-math-ch05-set03-q20",
-    "subject": "higher-math",
-    "chapter": "ssc-higher-math-chapter-05-model-test-03",
-    "text": "x² -10x + 24 = 0 সমীকরণের বিচ্যুতি/বিচারক D কত?",
-    "options": [
-      "4",
-      "12",
-      "196",
-      "8"
-    ],
-    "image": null,
-    "timeLimit": 45
-  },
-  {
-    "id": "ssc-higher-math-ch05-set03-q21",
-    "subject": "higher-math",
-    "chapter": "ssc-higher-math-chapter-05-model-test-03",
-    "text": "x² -12x + 35 = 0 সমীকরণের বিচ্যুতি/বিচারক D কত?",
-    "options": [
-      "12",
-      "284",
-      "4",
-      "8"
-    ],
-    "image": null,
-    "timeLimit": 45
-  },
-  {
-    "id": "ssc-higher-math-ch05-set03-q22",
-    "subject": "higher-math",
-    "chapter": "ssc-higher-math-chapter-05-model-test-03",
-    "text": "x² -4x + 3 = 0 সমীকরণের বিচ্যুতি/বিচারক D কত?",
-    "options": [
-      "12",
-      "28",
+      "-2",
+      "2",
       "8",
+      "6"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-higher-math-chapter-05-model-test-03-q02",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-05-model-test-03",
+    "text": "8x + 15 = 239 হলে x = ?",
+    "options": [
+      "28",
+      "29",
+      "27",
+      "30"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-higher-math-chapter-05-model-test-03-q03",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-05-model-test-03",
+    "text": "P(ঘটনা) = 6/8 হলে সম্পূরক = ?",
+    "options": [
+      "8",
+      "12",
+      "-4",
       "4"
     ],
     "image": null,
+    "optionImages": null,
     "timeLimit": 45
   },
   {
-    "id": "ssc-higher-math-ch05-set03-q23",
+    "id": "ssc-higher-math-chapter-05-model-test-03-q04",
     "subject": "higher-math",
     "chapter": "ssc-higher-math-chapter-05-model-test-03",
-    "text": "x² -12x + 32 = 0 সমীকরণের বিচ্যুতি/বিচারক D কত?",
+    "text": "5x + 7 = 97 হলে x = ?",
     "options": [
-      "12",
-      "16",
-      "272",
-      "20"
+      "19",
+      "20",
+      "18",
+      "17"
     ],
     "image": null,
+    "optionImages": null,
     "timeLimit": 45
   },
   {
-    "id": "ssc-higher-math-ch05-set03-q24",
+    "id": "ssc-higher-math-chapter-05-model-test-03-q05",
     "subject": "higher-math",
     "chapter": "ssc-higher-math-chapter-05-model-test-03",
-    "text": "x² -14x + 45 = 0 সমীকরণের বিচ্যুতি/বিচারক D কত?",
+    "text": "P(ঘটনা) = 4/10 হলে সম্পূরক = ?",
     "options": [
-      "12",
-      "376",
-      "16",
-      "20"
+      "2",
+      "10",
+      "-2",
+      "24"
     ],
     "image": null,
+    "optionImages": null,
     "timeLimit": 45
   },
   {
-    "id": "ssc-higher-math-ch05-set03-q25",
+    "id": "ssc-higher-math-chapter-05-model-test-03-q06",
     "subject": "higher-math",
     "chapter": "ssc-higher-math-chapter-05-model-test-03",
-    "text": "x² -6x + 5 = 0 সমীকরণের বিচ্যুতি/বিচারক D কত?",
+    "text": "2x + 24 = 42 হলে x = ?",
     "options": [
-      "12",
-      "16",
-      "56",
-      "20"
+      "9",
+      "8",
+      "11",
+      "10"
     ],
     "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-higher-math-chapter-05-model-test-03-q07",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-05-model-test-03",
+    "text": "9, 10, ... 3 পদের যোগফল = ?",
+    "options": [
+      "39",
+      "12",
+      "27",
+      "30"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-higher-math-chapter-05-model-test-03-q08",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-05-model-test-03",
+    "text": "বৃত্তের ব্যাসার্ধ 10 হলে ক্ষেত্রফল ≈ ?",
+    "options": [
+      "314.15",
+      "100",
+      "20",
+      "10"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-higher-math-chapter-05-model-test-03-q09",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-05-model-test-03",
+    "text": "(7 + 14) × 1 = ?",
+    "options": [
+      "98",
+      "21",
+      "-7",
+      "7"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-higher-math-chapter-05-model-test-03-q10",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-05-model-test-03",
+    "text": "6, 7, ... 8 পদের যোগফল = ?",
+    "options": [
+      "14",
+      "82",
+      "76",
+      "48"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-higher-math-chapter-05-model-test-03-q11",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-05-model-test-03",
+    "text": "বৃত্তের ব্যাসার্ধ 7 হলে ক্ষেত্রফল ≈ ?",
+    "options": [
+      "7",
+      "153.93",
+      "14",
+      "49"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-higher-math-chapter-05-model-test-03-q12",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-05-model-test-03",
+    "text": "(4 + 5) × 1 = ?",
+    "options": [
+      "1",
+      "20",
+      "9",
+      "-1"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-higher-math-chapter-05-model-test-03-q13",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-05-model-test-03",
+    "text": "3, 4, ... 6 পদের যোগফল = ?",
+    "options": [
+      "18",
+      "33",
+      "9",
+      "36"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-higher-math-chapter-05-model-test-03-q14",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-05-model-test-03",
+    "text": "বৃত্তের ব্যাসার্ধ 4 হলে ক্ষেত্রফল ≈ ?",
+    "options": [
+      "50.265",
+      "4",
+      "16",
+      "8"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-higher-math-chapter-05-model-test-03-q15",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-05-model-test-03",
+    "text": "(2 + 22) × 1 = ?",
+    "options": [
+      "44",
+      "-20",
+      "20",
+      "24"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-higher-math-chapter-05-model-test-03-q16",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-05-model-test-03",
+    "text": "7x + 15 = 211 হলে x = ?",
+    "options": [
+      "28",
+      "27",
+      "29",
+      "30"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-higher-math-chapter-05-model-test-03-q17",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-05-model-test-03",
+    "text": "2x + 23 = 39 হলে x = ?",
+    "options": [
+      "10",
+      "9",
+      "7",
+      "8"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-higher-math-chapter-05-model-test-03-q18",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-05-model-test-03",
+    "text": "(7 + 13) × 1 = ?",
+    "options": [
+      "91",
+      "-6",
+      "20",
+      "6"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-higher-math-chapter-05-model-test-03-q19",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-05-model-test-03",
+    "text": "5x + 6 = 96 হলে x = ?",
+    "options": [
+      "20",
+      "18",
+      "19",
+      "17"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-higher-math-chapter-05-model-test-03-q20",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-05-model-test-03",
+    "text": "7x + 15 = 204 হলে x = ?",
+    "options": [
+      "27",
+      "26",
+      "28",
+      "29"
+    ],
+    "image": null,
+    "optionImages": null,
     "timeLimit": 45
   }
 ]

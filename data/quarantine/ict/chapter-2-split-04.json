@@ -1,0 +1,282 @@
+{
+  "setId": "chapter-2-split-04",
+  "reason": "DUPLICATE_OF_chapter-2-split-04",
+  "quarantinedAt": "2026-06-13T17:58:59.988Z",
+  "questions": [
+    {
+      "id": "chapter-2-split-04-q01",
+      "questionText": "Network interface card-এর সংক্ষিপ্ত রূপ—",
+      "optionA": "NIC",
+      "optionB": "DNS",
+      "optionC": "URL",
+      "optionD": "FTP",
+      "correctOption": "A",
+      "explanation": "Network Interface Card বা NIC কম্পিউটারের মাদারবোর্ডে লাগানো থাকে, যার মাধ্যমে ল্যান ক্যাবল যুক্ত করা হয়।",
+      "questionNo": 1
+    },
+    {
+      "id": "chapter-2-split-04-q02",
+      "questionText": "NIC-এর কাজ কী?",
+      "optionA": "কম্পিউটারকে নেটওয়ার্কে যুক্ত করা",
+      "optionB": "ছবি আঁকা",
+      "optionC": "SQL query চালানো",
+      "optionD": "HTML লেখা",
+      "correctOption": "A",
+      "explanation": "NIC এর প্রধান কাজ হলো কম্পিউটার এবং নেটওয়ার্ক মাধ্যমের মধ্যে ডেটা আদান-প্রদানের সংযোগ তৈরি করা।",
+      "questionNo": 2
+    },
+    {
+      "id": "chapter-2-split-04-q03",
+      "questionText": "Modem-এর কাজ কী?",
+      "optionA": "Modulation-demodulation",
+      "optionB": "শুধু print",
+      "optionC": "শুধু scan",
+      "optionD": "শুধু delete",
+      "correctOption": "A",
+      "explanation": "মডেম প্রেরক প্রান্তে ডিজিটাল সিগন্যালকে অ্যানালগ (Modulation) এবং প্রাপক প্রান্তে অ্যানালগকে ডিজিটালে (Demodulation) রূপান্তর করে।",
+      "questionNo": 3
+    },
+    {
+      "id": "chapter-2-split-04-q04",
+      "questionText": "Modem শব্দটি এসেছে—",
+      "optionA": "Modulator + Demodulator",
+      "optionB": "Mobile + Data",
+      "optionC": "Monitor + Device",
+      "optionD": "Model + Domain",
+      "correctOption": "A",
+      "explanation": "Modulator এর Mo এবং Demodulator এর Dem নিয়ে Modem শব্দটি গঠিত হয়েছে।",
+      "questionNo": 4
+    },
+    {
+      "id": "chapter-2-split-04-q05",
+      "questionText": "Hub কোন স্তরের ডিভাইস হিসেবে পরিচিত?",
+      "optionA": "সাধারণ broadcasting device",
+      "optionB": "intelligent routing device",
+      "optionC": "database device",
+      "optionD": "programming device",
+      "correctOption": "A",
+      "explanation": "হাব একটি সাধারণ ডিভাইস যা ডেটা পেলে তা না বুঝেই নেটওয়ার্কে যুক্ত সব কম্পিউটারের কাছে পাঠিয়ে দেয় (Broadcast)।",
+      "questionNo": 5
+    },
+    {
+      "id": "chapter-2-split-04-q06",
+      "questionText": "Hub ডেটা পাঠায়—",
+      "optionA": "সব port-এ",
+      "optionB": "শুধু নির্দিষ্ট destination-এ",
+      "optionC": "শুধু server-এ",
+      "optionD": "কোনো port-এ নয়",
+      "correctOption": "A",
+      "explanation": "হাব সিগন্যাল রিসিভ করলে তা ওই পোর্টে যুক্ত সব কম্পিউটারের কাছে পাঠিয়ে দেয়, যার কারণে নেটওয়ার্কে জ্যাম সৃষ্টি হতে পারে।",
+      "questionNo": 6
+    },
+    {
+      "id": "chapter-2-split-04-q07",
+      "questionText": "Switch ডেটা পাঠায়—",
+      "optionA": "নির্দিষ্ট destination port-এ",
+      "optionB": "সবসময় সব port-এ",
+      "optionC": "শুধু printer-এ",
+      "optionD": "শুধু monitor-এ",
+      "correctOption": "A",
+      "explanation": "সুইচ একটি বুদ্ধিমান ডিভাইস, এটি MAC অ্যাড্রেস রিড করে ডেটা শুধুমাত্র যে কম্পিউটারের জন্য পাঠানো হয়েছে, নির্দিষ্ট করে তার কাছেই পাঠায়।",
+      "questionNo": 7
+    },
+    {
+      "id": "chapter-2-split-04-q08",
+      "questionText": "Router-এর কাজ কী?",
+      "optionA": "এক নেটওয়ার্ক থেকে অন্য নেটওয়ার্কে ডেটা পাঠানো",
+      "optionB": "table cell তৈরি",
+      "optionC": "C program run",
+      "optionD": "CSS design",
+      "correctOption": "A",
+      "explanation": "রাউটার হলো একটি বুদ্ধিমান ডিভাইস যা বিভিন্ন নেটওয়ার্ক যুক্ত করে এবং ডেটা প্যাকেটকে সবচেয়ে ভালো বা শর্টকাট পথ দিয়ে গন্তব্যে পাঠায় (Routing)।",
+      "questionNo": 8
+    },
+    {
+      "id": "chapter-2-split-04-q09",
+      "questionText": "Repeater-এর কাজ—",
+      "optionA": "দুর্বল signal শক্তিশালী করে পাঠানো",
+      "optionB": "ডেটা delete করা",
+      "optionC": "database তৈরি",
+      "optionD": "website design",
+      "correctOption": "A",
+      "explanation": "ক্যাবল দিয়ে যাওয়ার সময় ডেটা সিগন্যাল দুর্বল হয়ে পড়ে। রিপিটার সেই দুর্বল সিগন্যাল রিসিভ করে তাকে আবার শক্তিশালী করে বা পুনরায় তৈরি করে সামনের দিকে পাঠায়।",
+      "questionNo": 9
+    },
+    {
+      "id": "chapter-2-split-04-q10",
+      "questionText": "Bridge ব্যবহৃত হয়—",
+      "optionA": "network segment সংযুক্ত করতে",
+      "optionB": "picture edit করতে",
+      "optionC": "table format করতে",
+      "optionD": "SQL delete করতে",
+      "correctOption": "A",
+      "explanation": "ব্রিজ একই প্রোটোকল বিশিষ্ট একাধিক ল্যান বা নেটওয়ার্ক সেগমেন্টকে যুক্ত করে একটি বড় নেটওয়ার্ক তৈরি করতে ব্যবহৃত হয়।",
+      "questionNo": 10
+    },
+    {
+      "id": "chapter-2-split-04-q11",
+      "questionText": "Gateway-এর কাজ—",
+      "optionA": "ভিন্ন protocol-এর network সংযুক্ত করা",
+      "optionB": "শুধু monitor চালানো",
+      "optionC": "কেবল print করা",
+      "optionD": "কেবল type করা",
+      "correctOption": "A",
+      "explanation": "গেটওয়ে হলো এমন একটি ডিভাইস বা সফটওয়্যার যা সম্পূর্ণ ভিন্ন প্রোটোকল ব্যবহার করা নেটওয়ার্কগুলোকে যুক্ত করতে পারে।",
+      "questionNo": 11
+    },
+    {
+      "id": "chapter-2-split-04-q12",
+      "questionText": "Server কী?",
+      "optionA": "সেবা প্রদানকারী কম্পিউটার",
+      "optionB": "সেবা গ্রহণকারী মাত্র",
+      "optionC": "keyboard",
+      "optionD": "mouse",
+      "correctOption": "A",
+      "explanation": "সার্ভার হলো একটি শক্তিশালী কম্পিউটার, যা নেটওয়ার্কের অন্য কম্পিউটারগুলোকে ডেটা, ফাইল বা সার্ভিস প্রদান করে।",
+      "questionNo": 12
+    },
+    {
+      "id": "chapter-2-split-04-q13",
+      "questionText": "Client কী?",
+      "optionA": "সেবা গ্রহণকারী কম্পিউটার",
+      "optionB": "সবসময় server",
+      "optionC": "কেবল router",
+      "optionD": "শুধু cable",
+      "correctOption": "A",
+      "explanation": "নেটওয়ার্কে যে কম্পিউটারগুলো সার্ভার থেকে ডেটা বা সার্ভিস গ্রহণ করে, তাদের ক্লায়েন্ট বলে।",
+      "questionNo": 13
+    },
+    {
+      "id": "chapter-2-split-04-q14",
+      "questionText": "Client-server network-এ server-এর কাজ—",
+      "optionA": "resource/service provide করা",
+      "optionB": "cable কাটা",
+      "optionC": "virus ছড়ানো",
+      "optionD": "CSS করা",
+      "correctOption": "A",
+      "explanation": "ক্লাইয়েন্ট-সার্ভার নেটওয়ার্কে সার্ভার ফাইল শেয়ার করা, ডেটাবেস পরিচালনা বা প্রিন্টিং সেবা প্রদান করে।",
+      "questionNo": 14
+    },
+    {
+      "id": "chapter-2-split-04-q15",
+      "questionText": "Peer-to-peer network-এ—",
+      "optionA": "প্রতিটি কম্পিউটার resource share করতে পারে",
+      "optionB": "শুধু server থাকে",
+      "optionC": "client থাকে না",
+      "optionD": "protocol লাগে না",
+      "correctOption": "A",
+      "explanation": "পিয়ার-টু-পিয়ার নেটওয়ার্কে কোনো ডেডিকেটেড সার্ভার থাকে না, প্রতিটি কম্পিউটারই একই সাথে ক্লায়েন্ট এবং সার্ভার হিসেবে কাজ করতে পারে।",
+      "questionNo": 15
+    },
+    {
+      "id": "chapter-2-split-04-q16",
+      "questionText": "Internet কী?",
+      "optionA": "network of networks",
+      "optionB": "local printer",
+      "optionC": "এক কম্পিউটার",
+      "optionD": "শুধু browser",
+      "correctOption": "A",
+      "explanation": "ইন্টারনেট হলো বিশ্বজুড়ে ছড়িয়ে থাকা অসংখ্য নেটওয়ার্কের একটি বিশাল আন্তঃসংযোগ বা Network of networks।",
+      "questionNo": 16
+    },
+    {
+      "id": "chapter-2-split-04-q17",
+      "questionText": "WWW-এর পূর্ণরূপ—",
+      "optionA": "World Wide Web",
+      "optionB": "Web World Work",
+      "optionC": "Wide Web Window",
+      "optionD": "World Web Word",
+      "correctOption": "A",
+      "explanation": "WWW এর পূর্ণরূপ হলো World Wide Web, যা ইন্টারনেটের মাধ্যমে অ্যাক্সেসযোগ্য ইন্টারলিংকড হাইপারটেক্সট ডকুমেন্টের একটি সিস্টেম।",
+      "questionNo": 17
+    },
+    {
+      "id": "chapter-2-split-04-q18",
+      "questionText": "URL-এর পূর্ণরূপ—",
+      "optionA": "Uniform Resource Locator",
+      "optionB": "Universal Routing Link",
+      "optionC": "User Resource Line",
+      "optionD": "Unique Router Location",
+      "correctOption": "A",
+      "explanation": "URL এর পূর্ণরূপ Uniform Resource Locator, যা ইন্টারনেটে থাকা কোনো ওয়েবপেজ বা ফাইলের নির্দিষ্ট ঠিকানা।",
+      "questionNo": 18
+    },
+    {
+      "id": "chapter-2-split-04-q19",
+      "questionText": "HTTP ব্যবহৃত হয়—",
+      "optionA": "web page transfer-এ",
+      "optionB": "database delete-এ",
+      "optionC": "cable joining-এ",
+      "optionD": "C output-এ",
+      "correctOption": "A",
+      "explanation": "HTTP (Hypertext Transfer Protocol) মূলত ওয়েবসর্ভার থেকে ক্লায়েন্টের ব্রাউজারে ওয়েবপেজ বা HTML ডেটা আদান-প্রদানের জন্য ব্যবহৃত হয়।",
+      "questionNo": 19
+    },
+    {
+      "id": "chapter-2-split-04-q20",
+      "questionText": "HTTPS-এ S বোঝায়—",
+      "optionA": "Secure",
+      "optionB": "Server",
+      "optionC": "Simple",
+      "optionD": "Signal",
+      "correctOption": "A",
+      "explanation": "HTTPS (Hypertext Transfer Protocol Secure) এ 'S' বলতে Secure বোঝায়, অর্থাৎ ডেটা এনক্রিপ্ট হয়ে নিরাপদে আদান-প্রদান হবে।",
+      "questionNo": 20
+    },
+    {
+      "id": "chapter-2-split-04-q21",
+      "questionText": "FTP ব্যবহৃত হয়—",
+      "optionA": "file transfer-এ",
+      "optionB": "table design-এ",
+      "optionC": "virus তৈরি করতে",
+      "optionD": "flowchart আঁকতে",
+      "correctOption": "A",
+      "explanation": "FTP (File Transfer Protocol) ইন্টারনেটে এক কম্পিউটার থেকে অন্য কম্পিউটারে বা সার্ভারে ফাইল আপলোড বা ডাউনলোড করার জন্য ব্যবহৃত হয়।",
+      "questionNo": 21
+    },
+    {
+      "id": "chapter-2-split-04-q22",
+      "questionText": "TCP/IP হলো—",
+      "optionA": "internet communication protocol suite",
+      "optionB": "HTML tag",
+      "optionC": "CSS property",
+      "optionD": "database key",
+      "correctOption": "A",
+      "explanation": "TCP/IP (Transmission Control Protocol/Internet Protocol) হলো ইন্টারনেটের সবচেয়ে মৌলিক প্রোটোকল স্যুট বা নিয়মাবলি, যার উপর ভিত্তি করে ইন্টারনেট চলে।",
+      "questionNo": 22
+    },
+    {
+      "id": "chapter-2-split-04-q23",
+      "questionText": "IP address-এর কাজ—",
+      "optionA": "network device শনাক্ত করা",
+      "optionB": "ওয়েবপেজ রং করা",
+      "optionC": "table বানানো",
+      "optionD": "print করা",
+      "correctOption": "A",
+      "explanation": "IP অ্যাড্রেস হলো ইন্টারনেটে সংযুক্ত প্রতিটি ডিভাইসের একটি অদ্বিতীয় লজিক্যাল ঠিকানা, যার মাধ্যমে ডিভাইসটিকে চেনা যায়।",
+      "questionNo": 23
+    },
+    {
+      "id": "chapter-2-split-04-q24",
+      "questionText": "DNS-এর কাজ—",
+      "optionA": "domain name কে IP address-এ রূপান্তর",
+      "optionB": "IP মুছে ফেলা",
+      "optionC": "virus scan",
+      "optionD": "image resize",
+      "correctOption": "A",
+      "explanation": "DNS (Domain Name System) এর কাজ হলো মানুষের পড়ার উপযোগী ওয়েব ঠিকানাকে (যেমন google.com) কম্পিউটারের আইপি অ্যাড্রেসে (যেমন 142.250.190.46) পরিবর্তন করা।",
+      "questionNo": 24
+    },
+    {
+      "id": "chapter-2-split-04-q25",
+      "questionText": "Browser-এর কাজ—",
+      "optionA": "web page প্রদর্শন",
+      "optionB": "router configure only",
+      "optionC": "signal repeat",
+      "optionD": "cable connect",
+      "correctOption": "A",
+      "explanation": "ওয়েব ব্রাউজার (যেমন ক্রোম, ফায়ারফক্স) হলো একটি অ্যাপ্লিকেশন সফটওয়্যার যা ইন্টারনেট থেকে তথ্য বা ওয়েবপেজ এনে ব্যবহারকারীকে প্রদর্শন করে।",
+      "questionNo": 25
+    }
+  ]
+}

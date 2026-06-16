@@ -1,0 +1,1790 @@
+{
+  "generatedAt": "2026-06-16T01:06:30.109Z",
+  "sectionA": {
+    "routes": [
+      {
+        "label": "Home (/)",
+        "path": "app/page.tsx",
+        "status": "LIVE",
+        "exists": true
+      },
+      {
+        "label": "/[level] (SSC/HSC Hub)",
+        "path": "app/[level]/page.tsx",
+        "status": "LIVE",
+        "exists": true
+      },
+      {
+        "label": "/[level]/[subject]",
+        "path": "app/[level]/[subject]/page.tsx",
+        "status": "LIVE",
+        "exists": true
+      },
+      {
+        "label": "/[level]/[subject]/chapters",
+        "path": "app/[level]/[subject]/chapters/page.tsx",
+        "status": "LIVE",
+        "exists": true
+      },
+      {
+        "label": "/[level]/[subject]/chapter/[slug]",
+        "path": "app/[level]/[subject]/chapter/[chapterSlug]/page.tsx",
+        "status": "LIVE",
+        "exists": true
+      },
+      {
+        "label": "/[level]/[subject]/chapter/[slug]/set/[id]",
+        "path": "app/[level]/[subject]/chapter/[chapterSlug]/set/[setId]/page.tsx",
+        "status": "LIVE",
+        "exists": true
+      },
+      {
+        "label": "/[level]/[subject]/set/[id]",
+        "path": "app/[level]/[subject]/set/[setId]/page.tsx",
+        "status": "LIVE",
+        "exists": true
+      },
+      {
+        "label": "/[level]/[subject]/model-tests",
+        "path": "app/[level]/[subject]/model-tests/page.tsx",
+        "status": "LIVE",
+        "exists": true
+      },
+      {
+        "label": "/[level]/[subject]/model-tests/[testId]",
+        "path": "app/[level]/[subject]/model-tests/[testId]/page.tsx",
+        "status": "LIVE",
+        "exists": true
+      },
+      {
+        "label": "/[level]/model-tests (Hub)",
+        "path": "app/[level]/model-tests/page.tsx",
+        "status": "LIVE",
+        "exists": true
+      },
+      {
+        "label": "/[level]/final-focus",
+        "path": "app/[level]/final-focus/page.tsx",
+        "status": "LIVE",
+        "exists": true
+      },
+      {
+        "label": "/[level]/full-book-test",
+        "path": "app/[level]/full-book-test/page.tsx",
+        "status": "LIVE",
+        "exists": true
+      },
+      {
+        "label": "/hsc-board-questions",
+        "path": "app/hsc-board-questions/page.tsx",
+        "status": "LIVE",
+        "exists": true
+      },
+      {
+        "label": "/hsc-board-questions/[subject]",
+        "path": "app/hsc-board-questions/[subject]/page.tsx",
+        "status": "LIVE",
+        "exists": true
+      },
+      {
+        "label": "/hsc-board-questions/[subject]/[paper]",
+        "path": "app/hsc-board-questions/[subject]/[paper]/page.tsx",
+        "status": "LIVE",
+        "exists": true
+      },
+      {
+        "label": "/hsc-board-questions/[subject]/[paper]/[year]",
+        "path": "app/hsc-board-questions/[subject]/[paper]/[year]/page.tsx",
+        "status": "LIVE",
+        "exists": true
+      },
+      {
+        "label": "/ssc-board-questions",
+        "path": "app/ssc-board-questions/page.tsx",
+        "status": "LIVE",
+        "exists": true
+      },
+      {
+        "label": "/ssc-board-questions/[subject]",
+        "path": "app/ssc-board-questions/[subject]/page.tsx",
+        "status": "LIVE",
+        "exists": true
+      },
+      {
+        "label": "/ssc-board-questions/[subject]/[year]",
+        "path": "app/ssc-board-questions/[subject]/[year]/page.tsx",
+        "status": "LIVE",
+        "exists": true
+      },
+      {
+        "label": "API /api/subjects",
+        "path": "app/api/subjects/route.ts",
+        "status": "LIVE (proxy)",
+        "exists": true
+      },
+      {
+        "label": "API /api/questions",
+        "path": "app/api/questions/route.ts",
+        "status": "DISABLED",
+        "exists": true
+      },
+      {
+        "label": "API /api/quizzes",
+        "path": "app/api/quizzes/route.ts",
+        "status": "LIVE (proxy)",
+        "exists": true
+      },
+      {
+        "label": "/api/questions (status check)",
+        "path": "app/api/questions/route.ts",
+        "status": "DISABLED (returns 403 — static JSON only)",
+        "exists": true
+      }
+    ],
+    "apis": [
+      {
+        "endpoint": "/api/subjects",
+        "status": "LIVE (proxy to backend)",
+        "backendDependent": true,
+        "hasStaticFallback": true
+      },
+      {
+        "endpoint": "/api/quizzes",
+        "status": "LIVE (proxy to backend, answer-stripping)",
+        "backendDependent": true,
+        "stripsAnswers": true,
+        "hasStaticFallback": true
+      }
+    ],
+    "summary": ""
+  },
+  "sectionB": {
+    "papers": [
+      {
+        "label": "Physics 1st Paper",
+        "slug": "physics-1st-paper",
+        "exists": true,
+        "totalChapters": 10,
+        "chapters": [
+          {
+            "chapter": "01",
+            "chapterName": "অধ্যায় 01",
+            "isGenericName": true,
+            "setCount": 8,
+            "totalQuestions": 181,
+            "averageQuestionsPerSet": 23,
+            "incompleteSetCount": 4,
+            "status": "WARNING"
+          },
+          {
+            "chapter": "02",
+            "chapterName": "অধ্যায় 02",
+            "isGenericName": true,
+            "setCount": 10,
+            "totalQuestions": 217,
+            "averageQuestionsPerSet": 22,
+            "incompleteSetCount": 7,
+            "status": "OK"
+          },
+          {
+            "chapter": "03",
+            "chapterName": "অধ্যায় 03",
+            "isGenericName": true,
+            "setCount": 10,
+            "totalQuestions": 247,
+            "averageQuestionsPerSet": 25,
+            "incompleteSetCount": 3,
+            "status": "OK"
+          },
+          {
+            "chapter": "04",
+            "chapterName": "অধ্যায় 04",
+            "isGenericName": true,
+            "setCount": 16,
+            "totalQuestions": 501,
+            "averageQuestionsPerSet": 31,
+            "incompleteSetCount": 0,
+            "status": "OK"
+          },
+          {
+            "chapter": "05",
+            "chapterName": "অধ্যায় 05",
+            "isGenericName": true,
+            "setCount": 13,
+            "totalQuestions": 374,
+            "averageQuestionsPerSet": 29,
+            "incompleteSetCount": 0,
+            "status": "OK"
+          },
+          {
+            "chapter": "06",
+            "chapterName": "অধ্যায় 06",
+            "isGenericName": true,
+            "setCount": 13,
+            "totalQuestions": 365,
+            "averageQuestionsPerSet": 28,
+            "incompleteSetCount": 0,
+            "status": "OK"
+          },
+          {
+            "chapter": "07",
+            "chapterName": "অধ্যায় 07",
+            "isGenericName": true,
+            "setCount": 10,
+            "totalQuestions": 250,
+            "averageQuestionsPerSet": 25,
+            "incompleteSetCount": 0,
+            "status": "OK"
+          },
+          {
+            "chapter": "08",
+            "chapterName": "অধ্যায় 08",
+            "isGenericName": true,
+            "setCount": 15,
+            "totalQuestions": 429,
+            "averageQuestionsPerSet": 29,
+            "incompleteSetCount": 4,
+            "status": "OK"
+          },
+          {
+            "chapter": "09",
+            "chapterName": "অধ্যায় 09",
+            "isGenericName": true,
+            "setCount": 10,
+            "totalQuestions": 250,
+            "averageQuestionsPerSet": 25,
+            "incompleteSetCount": 0,
+            "status": "OK"
+          },
+          {
+            "chapter": "10",
+            "chapterName": "অধ্যায় 10",
+            "isGenericName": true,
+            "setCount": 14,
+            "totalQuestions": 421,
+            "averageQuestionsPerSet": 30,
+            "incompleteSetCount": 3,
+            "status": "OK"
+          }
+        ]
+      },
+      {
+        "label": "Physics 2nd Paper",
+        "slug": "physics-2nd-paper",
+        "exists": true,
+        "totalChapters": 10,
+        "chapters": [
+          {
+            "chapter": "01",
+            "chapterName": "অধ্যায় 01",
+            "isGenericName": true,
+            "setCount": 8,
+            "totalQuestions": 184,
+            "averageQuestionsPerSet": 23,
+            "incompleteSetCount": 3,
+            "status": "WARNING"
+          },
+          {
+            "chapter": "02",
+            "chapterName": "অধ্যায় 02",
+            "isGenericName": true,
+            "setCount": 10,
+            "totalQuestions": 211,
+            "averageQuestionsPerSet": 21,
+            "incompleteSetCount": 10,
+            "status": "OK"
+          },
+          {
+            "chapter": "03",
+            "chapterName": "অধ্যায় 03",
+            "isGenericName": true,
+            "setCount": 10,
+            "totalQuestions": 250,
+            "averageQuestionsPerSet": 25,
+            "incompleteSetCount": 0,
+            "status": "OK"
+          },
+          {
+            "chapter": "04",
+            "chapterName": "অধ্যায় 04",
+            "isGenericName": true,
+            "setCount": 10,
+            "totalQuestions": 220,
+            "averageQuestionsPerSet": 22,
+            "incompleteSetCount": 7,
+            "status": "OK"
+          },
+          {
+            "chapter": "05",
+            "chapterName": "অধ্যায় 05",
+            "isGenericName": true,
+            "setCount": 10,
+            "totalQuestions": 223,
+            "averageQuestionsPerSet": 22,
+            "incompleteSetCount": 7,
+            "status": "OK"
+          },
+          {
+            "chapter": "06",
+            "chapterName": "অধ্যায় 06",
+            "isGenericName": true,
+            "setCount": 10,
+            "totalQuestions": 216,
+            "averageQuestionsPerSet": 22,
+            "incompleteSetCount": 8,
+            "status": "OK"
+          },
+          {
+            "chapter": "07",
+            "chapterName": "অধ্যায় 07",
+            "isGenericName": true,
+            "setCount": 10,
+            "totalQuestions": 222,
+            "averageQuestionsPerSet": 22,
+            "incompleteSetCount": 7,
+            "status": "OK"
+          },
+          {
+            "chapter": "08",
+            "chapterName": "অধ্যায় 08",
+            "isGenericName": true,
+            "setCount": 10,
+            "totalQuestions": 212,
+            "averageQuestionsPerSet": 21,
+            "incompleteSetCount": 8,
+            "status": "OK"
+          },
+          {
+            "chapter": "09",
+            "chapterName": "অধ্যায় 09",
+            "isGenericName": true,
+            "setCount": 10,
+            "totalQuestions": 219,
+            "averageQuestionsPerSet": 22,
+            "incompleteSetCount": 7,
+            "status": "OK"
+          },
+          {
+            "chapter": "10",
+            "chapterName": "অধ্যায় 10",
+            "isGenericName": true,
+            "setCount": 10,
+            "totalQuestions": 222,
+            "averageQuestionsPerSet": 22,
+            "incompleteSetCount": 7,
+            "status": "OK"
+          }
+        ]
+      },
+      {
+        "label": "Chemistry 1st Paper",
+        "slug": "chemistry-1st-paper",
+        "exists": true,
+        "totalChapters": 5,
+        "chapters": [
+          {
+            "chapter": "01",
+            "chapterName": "অধ্যায় 01",
+            "isGenericName": true,
+            "setCount": 5,
+            "totalQuestions": 125,
+            "averageQuestionsPerSet": 25,
+            "incompleteSetCount": 0,
+            "status": "WARNING"
+          },
+          {
+            "chapter": "02",
+            "chapterName": "অধ্যায় 02",
+            "isGenericName": true,
+            "setCount": 5,
+            "totalQuestions": 125,
+            "averageQuestionsPerSet": 25,
+            "incompleteSetCount": 0,
+            "status": "WARNING"
+          },
+          {
+            "chapter": "03",
+            "chapterName": "অধ্যায় 03",
+            "isGenericName": true,
+            "setCount": 5,
+            "totalQuestions": 125,
+            "averageQuestionsPerSet": 25,
+            "incompleteSetCount": 0,
+            "status": "WARNING"
+          },
+          {
+            "chapter": "04",
+            "chapterName": "অধ্যায় 04",
+            "isGenericName": true,
+            "setCount": 5,
+            "totalQuestions": 125,
+            "averageQuestionsPerSet": 25,
+            "incompleteSetCount": 0,
+            "status": "WARNING"
+          },
+          {
+            "chapter": "05",
+            "chapterName": "অধ্যায় 05",
+            "isGenericName": true,
+            "setCount": 5,
+            "totalQuestions": 125,
+            "averageQuestionsPerSet": 25,
+            "incompleteSetCount": 0,
+            "status": "WARNING"
+          }
+        ]
+      },
+      {
+        "label": "Chemistry 2nd Paper",
+        "slug": "chemistry-2nd-paper",
+        "exists": true,
+        "totalChapters": 1,
+        "chapters": [
+          {
+            "chapter": "05",
+            "chapterName": "অধ্যায় 05",
+            "isGenericName": true,
+            "setCount": 5,
+            "totalQuestions": 200,
+            "averageQuestionsPerSet": 40,
+            "incompleteSetCount": 0,
+            "status": "WARNING"
+          }
+        ]
+      },
+      {
+        "label": "Biology 1st Paper",
+        "slug": "biology-1st-paper",
+        "exists": true,
+        "totalChapters": 12,
+        "chapters": [
+          {
+            "chapter": "01",
+            "chapterName": "অধ্যায় 01",
+            "isGenericName": true,
+            "setCount": 10,
+            "totalQuestions": 250,
+            "averageQuestionsPerSet": 25,
+            "incompleteSetCount": 0,
+            "status": "OK"
+          },
+          {
+            "chapter": "02",
+            "chapterName": "অধ্যায় 02",
+            "isGenericName": true,
+            "setCount": 10,
+            "totalQuestions": 250,
+            "averageQuestionsPerSet": 25,
+            "incompleteSetCount": 0,
+            "status": "OK"
+          },
+          {
+            "chapter": "03",
+            "chapterName": "অধ্যায় 03",
+            "isGenericName": true,
+            "setCount": 10,
+            "totalQuestions": 250,
+            "averageQuestionsPerSet": 25,
+            "incompleteSetCount": 0,
+            "status": "OK"
+          },
+          {
+            "chapter": "04",
+            "chapterName": "অধ্যায় 04",
+            "isGenericName": true,
+            "setCount": 10,
+            "totalQuestions": 250,
+            "averageQuestionsPerSet": 25,
+            "incompleteSetCount": 0,
+            "status": "OK"
+          },
+          {
+            "chapter": "05",
+            "chapterName": "অধ্যায় 05",
+            "isGenericName": true,
+            "setCount": 10,
+            "totalQuestions": 250,
+            "averageQuestionsPerSet": 25,
+            "incompleteSetCount": 0,
+            "status": "OK"
+          },
+          {
+            "chapter": "06",
+            "chapterName": "অধ্যায় 06",
+            "isGenericName": true,
+            "setCount": 10,
+            "totalQuestions": 250,
+            "averageQuestionsPerSet": 25,
+            "incompleteSetCount": 0,
+            "status": "OK"
+          },
+          {
+            "chapter": "07",
+            "chapterName": "অধ্যায় 07",
+            "isGenericName": true,
+            "setCount": 10,
+            "totalQuestions": 250,
+            "averageQuestionsPerSet": 25,
+            "incompleteSetCount": 0,
+            "status": "OK"
+          },
+          {
+            "chapter": "08",
+            "chapterName": "অধ্যায় 08",
+            "isGenericName": true,
+            "setCount": 10,
+            "totalQuestions": 250,
+            "averageQuestionsPerSet": 25,
+            "incompleteSetCount": 0,
+            "status": "OK"
+          },
+          {
+            "chapter": "09",
+            "chapterName": "অধ্যায় 09",
+            "isGenericName": true,
+            "setCount": 10,
+            "totalQuestions": 250,
+            "averageQuestionsPerSet": 25,
+            "incompleteSetCount": 0,
+            "status": "OK"
+          },
+          {
+            "chapter": "10",
+            "chapterName": "অধ্যায় 10",
+            "isGenericName": true,
+            "setCount": 10,
+            "totalQuestions": 250,
+            "averageQuestionsPerSet": 25,
+            "incompleteSetCount": 0,
+            "status": "OK"
+          },
+          {
+            "chapter": "11",
+            "chapterName": "অধ্যায় 11",
+            "isGenericName": true,
+            "setCount": 10,
+            "totalQuestions": 250,
+            "averageQuestionsPerSet": 25,
+            "incompleteSetCount": 0,
+            "status": "OK"
+          },
+          {
+            "chapter": "12",
+            "chapterName": "অধ্যায় 12",
+            "isGenericName": true,
+            "setCount": 10,
+            "totalQuestions": 250,
+            "averageQuestionsPerSet": 25,
+            "incompleteSetCount": 0,
+            "status": "OK"
+          }
+        ]
+      },
+      {
+        "label": "Biology 2nd Paper",
+        "slug": "biology-2nd-paper",
+        "exists": true,
+        "totalChapters": 12,
+        "chapters": [
+          {
+            "chapter": "01",
+            "chapterName": "অধ্যায় 01",
+            "isGenericName": true,
+            "setCount": 6,
+            "totalQuestions": 142,
+            "averageQuestionsPerSet": 24,
+            "incompleteSetCount": 1,
+            "status": "WARNING"
+          },
+          {
+            "chapter": "02",
+            "chapterName": "অধ্যায় 02",
+            "isGenericName": true,
+            "setCount": 6,
+            "totalQuestions": 128,
+            "averageQuestionsPerSet": 21,
+            "incompleteSetCount": 1,
+            "status": "WARNING"
+          },
+          {
+            "chapter": "03",
+            "chapterName": "অধ্যায় 03",
+            "isGenericName": true,
+            "setCount": 2,
+            "totalQuestions": 50,
+            "averageQuestionsPerSet": 25,
+            "incompleteSetCount": 0,
+            "status": "RED"
+          },
+          {
+            "chapter": "04",
+            "chapterName": "অধ্যায় 04",
+            "isGenericName": true,
+            "setCount": 5,
+            "totalQuestions": 125,
+            "averageQuestionsPerSet": 25,
+            "incompleteSetCount": 0,
+            "status": "WARNING"
+          },
+          {
+            "chapter": "05",
+            "chapterName": "অধ্যায় 05",
+            "isGenericName": true,
+            "setCount": 5,
+            "totalQuestions": 125,
+            "averageQuestionsPerSet": 25,
+            "incompleteSetCount": 0,
+            "status": "WARNING"
+          },
+          {
+            "chapter": "06",
+            "chapterName": "অধ্যায় 06",
+            "isGenericName": true,
+            "setCount": 1,
+            "totalQuestions": 25,
+            "averageQuestionsPerSet": 25,
+            "incompleteSetCount": 0,
+            "status": "RED"
+          },
+          {
+            "chapter": "07",
+            "chapterName": "অধ্যায় 07",
+            "isGenericName": true,
+            "setCount": 5,
+            "totalQuestions": 125,
+            "averageQuestionsPerSet": 25,
+            "incompleteSetCount": 0,
+            "status": "WARNING"
+          },
+          {
+            "chapter": "08",
+            "chapterName": "অধ্যায় 08",
+            "isGenericName": true,
+            "setCount": 5,
+            "totalQuestions": 125,
+            "averageQuestionsPerSet": 25,
+            "incompleteSetCount": 0,
+            "status": "WARNING"
+          },
+          {
+            "chapter": "09",
+            "chapterName": "অধ্যায় 09",
+            "isGenericName": true,
+            "setCount": 1,
+            "totalQuestions": 25,
+            "averageQuestionsPerSet": 25,
+            "incompleteSetCount": 0,
+            "status": "RED"
+          },
+          {
+            "chapter": "10",
+            "chapterName": "অধ্যায় 10",
+            "isGenericName": true,
+            "setCount": 1,
+            "totalQuestions": 25,
+            "averageQuestionsPerSet": 25,
+            "incompleteSetCount": 0,
+            "status": "RED"
+          },
+          {
+            "chapter": "11",
+            "chapterName": "অধ্যায় 11",
+            "isGenericName": true,
+            "setCount": 1,
+            "totalQuestions": 25,
+            "averageQuestionsPerSet": 25,
+            "incompleteSetCount": 0,
+            "status": "RED"
+          },
+          {
+            "chapter": "12",
+            "chapterName": "অধ্যায় 12",
+            "isGenericName": true,
+            "setCount": 1,
+            "totalQuestions": 25,
+            "averageQuestionsPerSet": 25,
+            "incompleteSetCount": 0,
+            "status": "RED"
+          }
+        ]
+      },
+      {
+        "label": "Higher Math 1st Paper",
+        "slug": "higher-math-1st-paper",
+        "exists": true,
+        "totalChapters": 10,
+        "chapters": [
+          {
+            "chapter": "01",
+            "chapterName": "অধ্যায় 01",
+            "isGenericName": true,
+            "setCount": 5,
+            "totalQuestions": 125,
+            "averageQuestionsPerSet": 25,
+            "incompleteSetCount": 0,
+            "status": "WARNING"
+          },
+          {
+            "chapter": "02",
+            "chapterName": "অধ্যায় 02",
+            "isGenericName": true,
+            "setCount": 5,
+            "totalQuestions": 125,
+            "averageQuestionsPerSet": 25,
+            "incompleteSetCount": 0,
+            "status": "WARNING"
+          },
+          {
+            "chapter": "03",
+            "chapterName": "অধ্যায় 03",
+            "isGenericName": true,
+            "setCount": 5,
+            "totalQuestions": 125,
+            "averageQuestionsPerSet": 25,
+            "incompleteSetCount": 0,
+            "status": "WARNING"
+          },
+          {
+            "chapter": "04",
+            "chapterName": "অধ্যায় 04",
+            "isGenericName": true,
+            "setCount": 5,
+            "totalQuestions": 125,
+            "averageQuestionsPerSet": 25,
+            "incompleteSetCount": 0,
+            "status": "WARNING"
+          },
+          {
+            "chapter": "05",
+            "chapterName": "অধ্যায় 05",
+            "isGenericName": true,
+            "setCount": 5,
+            "totalQuestions": 125,
+            "averageQuestionsPerSet": 25,
+            "incompleteSetCount": 0,
+            "status": "WARNING"
+          },
+          {
+            "chapter": "06",
+            "chapterName": "অধ্যায় 06",
+            "isGenericName": true,
+            "setCount": 5,
+            "totalQuestions": 125,
+            "averageQuestionsPerSet": 25,
+            "incompleteSetCount": 0,
+            "status": "WARNING"
+          },
+          {
+            "chapter": "07",
+            "chapterName": "অধ্যায় 07",
+            "isGenericName": true,
+            "setCount": 5,
+            "totalQuestions": 125,
+            "averageQuestionsPerSet": 25,
+            "incompleteSetCount": 0,
+            "status": "WARNING"
+          },
+          {
+            "chapter": "08",
+            "chapterName": "অধ্যায় 08",
+            "isGenericName": true,
+            "setCount": 5,
+            "totalQuestions": 125,
+            "averageQuestionsPerSet": 25,
+            "incompleteSetCount": 0,
+            "status": "WARNING"
+          },
+          {
+            "chapter": "09",
+            "chapterName": "অধ্যায় 09",
+            "isGenericName": true,
+            "setCount": 5,
+            "totalQuestions": 125,
+            "averageQuestionsPerSet": 25,
+            "incompleteSetCount": 0,
+            "status": "WARNING"
+          },
+          {
+            "chapter": "10",
+            "chapterName": "অধ্যায় 10",
+            "isGenericName": true,
+            "setCount": 5,
+            "totalQuestions": 125,
+            "averageQuestionsPerSet": 25,
+            "incompleteSetCount": 0,
+            "status": "WARNING"
+          }
+        ]
+      },
+      {
+        "label": "Higher Math 2nd Paper",
+        "slug": "higher-math-2nd-paper",
+        "exists": true,
+        "totalChapters": 0,
+        "chapters": []
+      }
+    ],
+    "summary": ""
+  },
+  "sectionC": {
+    "subjects": [
+      {
+        "label": "Physics",
+        "slug": "physics",
+        "exists": true,
+        "totalChapters": 14,
+        "chapters": [
+          {
+            "chapter": "01",
+            "chapterName": "অধ্যায় 01",
+            "isGenericName": true,
+            "setCount": 6,
+            "totalQuestions": 147,
+            "averageQuestionsPerSet": 25,
+            "incompleteSetCount": 1,
+            "status": "WARNING"
+          },
+          {
+            "chapter": "02",
+            "chapterName": "অধ্যায় 02",
+            "isGenericName": true,
+            "setCount": 5,
+            "totalQuestions": 125,
+            "averageQuestionsPerSet": 25,
+            "incompleteSetCount": 0,
+            "status": "WARNING"
+          },
+          {
+            "chapter": "03",
+            "chapterName": "অধ্যায় 03",
+            "isGenericName": true,
+            "setCount": 5,
+            "totalQuestions": 125,
+            "averageQuestionsPerSet": 25,
+            "incompleteSetCount": 0,
+            "status": "WARNING"
+          },
+          {
+            "chapter": "04",
+            "chapterName": "অধ্যায় 04",
+            "isGenericName": true,
+            "setCount": 5,
+            "totalQuestions": 125,
+            "averageQuestionsPerSet": 25,
+            "incompleteSetCount": 0,
+            "status": "WARNING"
+          },
+          {
+            "chapter": "05",
+            "chapterName": "অধ্যায় 05",
+            "isGenericName": true,
+            "setCount": 5,
+            "totalQuestions": 125,
+            "averageQuestionsPerSet": 25,
+            "incompleteSetCount": 0,
+            "status": "WARNING"
+          },
+          {
+            "chapter": "06",
+            "chapterName": "অধ্যায় 06",
+            "isGenericName": true,
+            "setCount": 5,
+            "totalQuestions": 125,
+            "averageQuestionsPerSet": 25,
+            "incompleteSetCount": 0,
+            "status": "WARNING"
+          },
+          {
+            "chapter": "07",
+            "chapterName": "অধ্যায় 07",
+            "isGenericName": true,
+            "setCount": 5,
+            "totalQuestions": 125,
+            "averageQuestionsPerSet": 25,
+            "incompleteSetCount": 0,
+            "status": "WARNING"
+          },
+          {
+            "chapter": "08",
+            "chapterName": "অধ্যায় 08",
+            "isGenericName": true,
+            "setCount": 5,
+            "totalQuestions": 125,
+            "averageQuestionsPerSet": 25,
+            "incompleteSetCount": 0,
+            "status": "WARNING"
+          },
+          {
+            "chapter": "09",
+            "chapterName": "অধ্যায় 09",
+            "isGenericName": true,
+            "setCount": 5,
+            "totalQuestions": 125,
+            "averageQuestionsPerSet": 25,
+            "incompleteSetCount": 0,
+            "status": "WARNING"
+          },
+          {
+            "chapter": "10",
+            "chapterName": "অধ্যায় 10",
+            "isGenericName": true,
+            "setCount": 5,
+            "totalQuestions": 125,
+            "averageQuestionsPerSet": 25,
+            "incompleteSetCount": 0,
+            "status": "WARNING"
+          },
+          {
+            "chapter": "11",
+            "chapterName": "অধ্যায় 11",
+            "isGenericName": true,
+            "setCount": 5,
+            "totalQuestions": 125,
+            "averageQuestionsPerSet": 25,
+            "incompleteSetCount": 0,
+            "status": "WARNING"
+          },
+          {
+            "chapter": "12",
+            "chapterName": "অধ্যায় 12",
+            "isGenericName": true,
+            "setCount": 5,
+            "totalQuestions": 125,
+            "averageQuestionsPerSet": 25,
+            "incompleteSetCount": 0,
+            "status": "WARNING"
+          },
+          {
+            "chapter": "13",
+            "chapterName": "অধ্যায় 13",
+            "isGenericName": true,
+            "setCount": 5,
+            "totalQuestions": 125,
+            "averageQuestionsPerSet": 25,
+            "incompleteSetCount": 0,
+            "status": "WARNING"
+          },
+          {
+            "chapter": "14",
+            "chapterName": "অধ্যায় 14",
+            "isGenericName": true,
+            "setCount": 5,
+            "totalQuestions": 125,
+            "averageQuestionsPerSet": 25,
+            "incompleteSetCount": 0,
+            "status": "WARNING"
+          }
+        ]
+      },
+      {
+        "label": "Chemistry",
+        "slug": "chemistry",
+        "exists": true,
+        "totalChapters": 12,
+        "chapters": [
+          {
+            "chapter": "01",
+            "chapterName": "অধ্যায় 01",
+            "isGenericName": true,
+            "setCount": 5,
+            "totalQuestions": 125,
+            "averageQuestionsPerSet": 25,
+            "incompleteSetCount": 0,
+            "status": "WARNING"
+          },
+          {
+            "chapter": "02",
+            "chapterName": "অধ্যায় 02",
+            "isGenericName": true,
+            "setCount": 5,
+            "totalQuestions": 125,
+            "averageQuestionsPerSet": 25,
+            "incompleteSetCount": 0,
+            "status": "WARNING"
+          },
+          {
+            "chapter": "03",
+            "chapterName": "অধ্যায় 03",
+            "isGenericName": true,
+            "setCount": 5,
+            "totalQuestions": 125,
+            "averageQuestionsPerSet": 25,
+            "incompleteSetCount": 0,
+            "status": "WARNING"
+          },
+          {
+            "chapter": "04",
+            "chapterName": "অধ্যায় 04",
+            "isGenericName": true,
+            "setCount": 7,
+            "totalQuestions": 180,
+            "averageQuestionsPerSet": 26,
+            "incompleteSetCount": 0,
+            "status": "WARNING"
+          },
+          {
+            "chapter": "05",
+            "chapterName": "অধ্যায় 05",
+            "isGenericName": true,
+            "setCount": 9,
+            "totalQuestions": 400,
+            "averageQuestionsPerSet": 44,
+            "incompleteSetCount": 0,
+            "status": "WARNING"
+          },
+          {
+            "chapter": "06",
+            "chapterName": "অধ্যায় 06",
+            "isGenericName": true,
+            "setCount": 6,
+            "totalQuestions": 257,
+            "averageQuestionsPerSet": 43,
+            "incompleteSetCount": 0,
+            "status": "WARNING"
+          },
+          {
+            "chapter": "07",
+            "chapterName": "অধ্যায় 07",
+            "isGenericName": true,
+            "setCount": 5,
+            "totalQuestions": 125,
+            "averageQuestionsPerSet": 25,
+            "incompleteSetCount": 0,
+            "status": "WARNING"
+          },
+          {
+            "chapter": "08",
+            "chapterName": "অধ্যায় 08",
+            "isGenericName": true,
+            "setCount": 5,
+            "totalQuestions": 125,
+            "averageQuestionsPerSet": 25,
+            "incompleteSetCount": 0,
+            "status": "WARNING"
+          },
+          {
+            "chapter": "09",
+            "chapterName": "অধ্যায় 09",
+            "isGenericName": true,
+            "setCount": 7,
+            "totalQuestions": 180,
+            "averageQuestionsPerSet": 26,
+            "incompleteSetCount": 0,
+            "status": "WARNING"
+          },
+          {
+            "chapter": "10",
+            "chapterName": "অধ্যায় 10",
+            "isGenericName": true,
+            "setCount": 1,
+            "totalQuestions": 25,
+            "averageQuestionsPerSet": 25,
+            "incompleteSetCount": 0,
+            "status": "RED"
+          },
+          {
+            "chapter": "11",
+            "chapterName": "অধ্যায় 11",
+            "isGenericName": true,
+            "setCount": 5,
+            "totalQuestions": 125,
+            "averageQuestionsPerSet": 25,
+            "incompleteSetCount": 0,
+            "status": "WARNING"
+          },
+          {
+            "chapter": "12",
+            "chapterName": "অধ্যায় 12",
+            "isGenericName": true,
+            "setCount": 5,
+            "totalQuestions": 125,
+            "averageQuestionsPerSet": 25,
+            "incompleteSetCount": 0,
+            "status": "WARNING"
+          }
+        ]
+      },
+      {
+        "label": "Biology",
+        "slug": "biology",
+        "exists": true,
+        "totalChapters": 0,
+        "chapters": []
+      },
+      {
+        "label": "Higher Math",
+        "slug": "higher-math",
+        "exists": true,
+        "totalChapters": 13,
+        "chapters": [
+          {
+            "chapter": "01",
+            "chapterName": "অধ্যায় 01",
+            "isGenericName": true,
+            "setCount": 5,
+            "totalQuestions": 125,
+            "averageQuestionsPerSet": 25,
+            "incompleteSetCount": 0,
+            "status": "WARNING"
+          },
+          {
+            "chapter": "02",
+            "chapterName": "অধ্যায় 02",
+            "isGenericName": true,
+            "setCount": 5,
+            "totalQuestions": 125,
+            "averageQuestionsPerSet": 25,
+            "incompleteSetCount": 0,
+            "status": "WARNING"
+          },
+          {
+            "chapter": "03",
+            "chapterName": "অধ্যায় 03",
+            "isGenericName": true,
+            "setCount": 5,
+            "totalQuestions": 125,
+            "averageQuestionsPerSet": 25,
+            "incompleteSetCount": 0,
+            "status": "WARNING"
+          },
+          {
+            "chapter": "04",
+            "chapterName": "অধ্যায় 04",
+            "isGenericName": true,
+            "setCount": 5,
+            "totalQuestions": 125,
+            "averageQuestionsPerSet": 25,
+            "incompleteSetCount": 0,
+            "status": "WARNING"
+          },
+          {
+            "chapter": "05",
+            "chapterName": "অধ্যায় 05",
+            "isGenericName": true,
+            "setCount": 5,
+            "totalQuestions": 125,
+            "averageQuestionsPerSet": 25,
+            "incompleteSetCount": 0,
+            "status": "WARNING"
+          },
+          {
+            "chapter": "06",
+            "chapterName": "অধ্যায় 06",
+            "isGenericName": true,
+            "setCount": 5,
+            "totalQuestions": 125,
+            "averageQuestionsPerSet": 25,
+            "incompleteSetCount": 0,
+            "status": "WARNING"
+          },
+          {
+            "chapter": "07",
+            "chapterName": "অধ্যায় 07",
+            "isGenericName": true,
+            "setCount": 5,
+            "totalQuestions": 125,
+            "averageQuestionsPerSet": 25,
+            "incompleteSetCount": 0,
+            "status": "WARNING"
+          },
+          {
+            "chapter": "08",
+            "chapterName": "অধ্যায় 08",
+            "isGenericName": true,
+            "setCount": 5,
+            "totalQuestions": 125,
+            "averageQuestionsPerSet": 25,
+            "incompleteSetCount": 0,
+            "status": "WARNING"
+          },
+          {
+            "chapter": "09",
+            "chapterName": "অধ্যায় 09",
+            "isGenericName": true,
+            "setCount": 7,
+            "totalQuestions": 180,
+            "averageQuestionsPerSet": 26,
+            "incompleteSetCount": 0,
+            "status": "WARNING"
+          },
+          {
+            "chapter": "10",
+            "chapterName": "অধ্যায় 10",
+            "isGenericName": true,
+            "setCount": 5,
+            "totalQuestions": 125,
+            "averageQuestionsPerSet": 25,
+            "incompleteSetCount": 0,
+            "status": "WARNING"
+          },
+          {
+            "chapter": "11",
+            "chapterName": "অধ্যায় 11",
+            "isGenericName": true,
+            "setCount": 5,
+            "totalQuestions": 111,
+            "averageQuestionsPerSet": 22,
+            "incompleteSetCount": 5,
+            "status": "WARNING"
+          },
+          {
+            "chapter": "12",
+            "chapterName": "অধ্যায় 12",
+            "isGenericName": true,
+            "setCount": 5,
+            "totalQuestions": 125,
+            "averageQuestionsPerSet": 25,
+            "incompleteSetCount": 0,
+            "status": "WARNING"
+          },
+          {
+            "chapter": "13",
+            "chapterName": "অধ্যায় 13",
+            "isGenericName": true,
+            "setCount": 5,
+            "totalQuestions": 125,
+            "averageQuestionsPerSet": 25,
+            "incompleteSetCount": 0,
+            "status": "WARNING"
+          }
+        ]
+      },
+      {
+        "label": "General Math",
+        "slug": "general-math",
+        "exists": true,
+        "totalChapters": 8,
+        "chapters": [
+          {
+            "chapter": "01",
+            "chapterName": "অধ্যায় 01",
+            "isGenericName": true,
+            "setCount": 4,
+            "totalQuestions": 166,
+            "averageQuestionsPerSet": 42,
+            "incompleteSetCount": 0,
+            "status": "RED"
+          },
+          {
+            "chapter": "02",
+            "chapterName": "অধ্যায় 02",
+            "isGenericName": true,
+            "setCount": 1,
+            "totalQuestions": 30,
+            "averageQuestionsPerSet": 30,
+            "incompleteSetCount": 0,
+            "status": "RED"
+          },
+          {
+            "chapter": "09",
+            "chapterName": "অধ্যায় 09",
+            "isGenericName": true,
+            "setCount": 1,
+            "totalQuestions": 30,
+            "averageQuestionsPerSet": 30,
+            "incompleteSetCount": 0,
+            "status": "RED"
+          },
+          {
+            "chapter": "11",
+            "chapterName": "অধ্যায় 11",
+            "isGenericName": true,
+            "setCount": 1,
+            "totalQuestions": 30,
+            "averageQuestionsPerSet": 30,
+            "incompleteSetCount": 0,
+            "status": "RED"
+          },
+          {
+            "chapter": "12",
+            "chapterName": "অধ্যায় 12",
+            "isGenericName": true,
+            "setCount": 1,
+            "totalQuestions": 30,
+            "averageQuestionsPerSet": 30,
+            "incompleteSetCount": 0,
+            "status": "RED"
+          },
+          {
+            "chapter": "13",
+            "chapterName": "অধ্যায় 13",
+            "isGenericName": true,
+            "setCount": 1,
+            "totalQuestions": 1,
+            "averageQuestionsPerSet": 1,
+            "incompleteSetCount": 1,
+            "status": "RED"
+          },
+          {
+            "chapter": "16",
+            "chapterName": "অধ্যায় 16",
+            "isGenericName": true,
+            "setCount": 1,
+            "totalQuestions": 30,
+            "averageQuestionsPerSet": 30,
+            "incompleteSetCount": 0,
+            "status": "RED"
+          },
+          {
+            "chapter": "17",
+            "chapterName": "অধ্যায় 17",
+            "isGenericName": true,
+            "setCount": 1,
+            "totalQuestions": 30,
+            "averageQuestionsPerSet": 30,
+            "incompleteSetCount": 0,
+            "status": "RED"
+          }
+        ]
+      }
+    ],
+    "summary": ""
+  },
+  "sectionD": {
+    "items": [
+      {
+        "totalSvgFiles": 420,
+        "premiumSvgFiles": 2060
+      },
+      {
+        "generatedDir": true,
+        "generatedCount": 2245
+      },
+      {
+        "missingImages": 0,
+        "missingImageDetails": []
+      }
+    ],
+    "summary": ""
+  },
+  "sectionE": {
+    "files": [
+      {
+        "path": "public/quiz-data/ssc/physics.json",
+        "label": "Quiz Data: ssc physics",
+        "exists": true,
+        "type": "quiz-data"
+      },
+      {
+        "path": "public/quiz-data/ssc/physics.model-tests.index.json",
+        "label": "Model Test Index: ssc physics",
+        "exists": true,
+        "type": "model-test-index"
+      },
+      {
+        "path": "public/quiz-data/ssc/chemistry.json",
+        "label": "Quiz Data: ssc chemistry",
+        "exists": true,
+        "type": "quiz-data"
+      },
+      {
+        "path": "public/quiz-data/ssc/chemistry.model-tests.index.json",
+        "label": "Model Test Index: ssc chemistry",
+        "exists": true,
+        "type": "model-test-index"
+      },
+      {
+        "path": "public/quiz-data/ssc/biology.json",
+        "label": "Quiz Data: ssc biology",
+        "exists": true,
+        "type": "quiz-data"
+      },
+      {
+        "path": "public/quiz-data/ssc/biology.model-tests.index.json",
+        "label": "Model Test Index: ssc biology",
+        "exists": true,
+        "type": "model-test-index"
+      },
+      {
+        "path": "public/quiz-data/ssc/higher-math.json",
+        "label": "Quiz Data: ssc higher-math",
+        "exists": true,
+        "type": "quiz-data"
+      },
+      {
+        "path": "public/quiz-data/ssc/higher-math.model-tests.index.json",
+        "label": "Model Test Index: ssc higher-math",
+        "exists": true,
+        "type": "model-test-index"
+      },
+      {
+        "path": "public/quiz-data/ssc/general-math.json",
+        "label": "Quiz Data: ssc general-math",
+        "exists": true,
+        "type": "quiz-data"
+      },
+      {
+        "path": "public/quiz-data/ssc/general-math.model-tests.index.json",
+        "label": "Model Test Index: ssc general-math",
+        "exists": true,
+        "type": "model-test-index"
+      },
+      {
+        "path": "public/quiz-data/hsc/physics-1st-paper.json",
+        "label": "Quiz Data: hsc physics-1st-paper",
+        "exists": true,
+        "type": "quiz-data"
+      },
+      {
+        "path": "public/quiz-data/hsc/physics-1st-paper.model-tests.index.json",
+        "label": "Model Test Index: hsc physics-1st-paper",
+        "exists": true,
+        "type": "model-test-index"
+      },
+      {
+        "path": "public/quiz-data/hsc/physics-2nd-paper.json",
+        "label": "Quiz Data: hsc physics-2nd-paper",
+        "exists": true,
+        "type": "quiz-data"
+      },
+      {
+        "path": "public/quiz-data/hsc/physics-2nd-paper.model-tests.index.json",
+        "label": "Model Test Index: hsc physics-2nd-paper",
+        "exists": true,
+        "type": "model-test-index"
+      },
+      {
+        "path": "public/quiz-data/hsc/chemistry-1st-paper.json",
+        "label": "Quiz Data: hsc chemistry-1st-paper",
+        "exists": true,
+        "type": "quiz-data"
+      },
+      {
+        "path": "public/quiz-data/hsc/chemistry-1st-paper.model-tests.index.json",
+        "label": "Model Test Index: hsc chemistry-1st-paper",
+        "exists": true,
+        "type": "model-test-index"
+      },
+      {
+        "path": "public/quiz-data/hsc/chemistry-2nd-paper.json",
+        "label": "Quiz Data: hsc chemistry-2nd-paper",
+        "exists": true,
+        "type": "quiz-data"
+      },
+      {
+        "path": "public/quiz-data/hsc/chemistry-2nd-paper.model-tests.index.json",
+        "label": "Model Test Index: hsc chemistry-2nd-paper",
+        "exists": true,
+        "type": "model-test-index"
+      },
+      {
+        "path": "public/quiz-data/hsc/biology-1st-paper.json",
+        "label": "Quiz Data: hsc biology-1st-paper",
+        "exists": true,
+        "type": "quiz-data"
+      },
+      {
+        "path": "public/quiz-data/hsc/biology-1st-paper.model-tests.index.json",
+        "label": "Model Test Index: hsc biology-1st-paper",
+        "exists": true,
+        "type": "model-test-index"
+      },
+      {
+        "path": "public/quiz-data/hsc/biology-2nd-paper.json",
+        "label": "Quiz Data: hsc biology-2nd-paper",
+        "exists": true,
+        "type": "quiz-data"
+      },
+      {
+        "path": "public/quiz-data/hsc/biology-2nd-paper.model-tests.index.json",
+        "label": "Model Test Index: hsc biology-2nd-paper",
+        "exists": true,
+        "type": "model-test-index"
+      },
+      {
+        "path": "public/quiz-data/hsc/higher-math-1st-paper.json",
+        "label": "Quiz Data: hsc higher-math-1st-paper",
+        "exists": true,
+        "type": "quiz-data"
+      },
+      {
+        "path": "public/quiz-data/hsc/higher-math-1st-paper.model-tests.index.json",
+        "label": "Model Test Index: hsc higher-math-1st-paper",
+        "exists": true,
+        "type": "model-test-index"
+      },
+      {
+        "path": "public/quiz-data/hsc/higher-math-2nd-paper.json",
+        "label": "Quiz Data: hsc higher-math-2nd-paper",
+        "exists": true,
+        "type": "quiz-data"
+      },
+      {
+        "path": "public/quiz-data/hsc/higher-math-2nd-paper.model-tests.index.json",
+        "label": "Model Test Index: hsc higher-math-2nd-paper",
+        "exists": true,
+        "type": "model-test-index"
+      },
+      {
+        "path": "public/quiz-data/manifest.json",
+        "label": "Quiz Data Manifest",
+        "exists": true,
+        "type": "manifest"
+      },
+      {
+        "path": "public/questions/physics/",
+        "label": "Questions Dir: physics",
+        "exists": true,
+        "hasIndex": true,
+        "fileCount": 123,
+        "type": "questions-dir"
+      },
+      {
+        "path": "public/questions/chemistry/",
+        "label": "Questions Dir: chemistry",
+        "exists": true,
+        "hasIndex": true,
+        "fileCount": 136,
+        "type": "questions-dir"
+      },
+      {
+        "path": "public/questions/biology/",
+        "label": "Questions Dir: biology",
+        "exists": true,
+        "hasIndex": true,
+        "fileCount": 45,
+        "type": "questions-dir"
+      },
+      {
+        "path": "public/questions/higher-math/",
+        "label": "Questions Dir: higher-math",
+        "exists": true,
+        "hasIndex": true,
+        "fileCount": 126,
+        "type": "questions-dir"
+      },
+      {
+        "path": "public/questions/general-math/",
+        "label": "Questions Dir: general-math",
+        "exists": true,
+        "hasIndex": true,
+        "fileCount": 64,
+        "type": "questions-dir"
+      },
+      {
+        "path": "public/questions/physics-1st-paper/",
+        "label": "Questions Dir: physics-1st-paper",
+        "exists": true,
+        "hasIndex": true,
+        "fileCount": 235,
+        "type": "questions-dir"
+      },
+      {
+        "path": "public/questions/physics-2nd-paper/",
+        "label": "Questions Dir: physics-2nd-paper",
+        "exists": true,
+        "hasIndex": true,
+        "fileCount": 135,
+        "type": "questions-dir"
+      },
+      {
+        "path": "public/questions/chemistry-1st-paper/",
+        "label": "Questions Dir: chemistry-1st-paper",
+        "exists": true,
+        "hasIndex": true,
+        "fileCount": 102,
+        "type": "questions-dir"
+      },
+      {
+        "path": "public/questions/chemistry-2nd-paper/",
+        "label": "Questions Dir: chemistry-2nd-paper",
+        "exists": true,
+        "hasIndex": true,
+        "fileCount": 66,
+        "type": "questions-dir"
+      },
+      {
+        "path": "public/questions/biology-1st-paper/",
+        "label": "Questions Dir: biology-1st-paper",
+        "exists": true,
+        "hasIndex": true,
+        "fileCount": 184,
+        "type": "questions-dir"
+      },
+      {
+        "path": "public/questions/biology-2nd-paper/",
+        "label": "Questions Dir: biology-2nd-paper",
+        "exists": true,
+        "hasIndex": true,
+        "fileCount": 99,
+        "type": "questions-dir"
+      },
+      {
+        "path": "public/questions/higher-math-1st-paper/",
+        "label": "Questions Dir: higher-math-1st-paper",
+        "exists": true,
+        "hasIndex": true,
+        "fileCount": 110,
+        "type": "questions-dir"
+      },
+      {
+        "path": "public/questions/higher-math-2nd-paper/",
+        "label": "Questions Dir: higher-math-2nd-paper",
+        "exists": true,
+        "hasIndex": true,
+        "fileCount": 59,
+        "type": "questions-dir"
+      },
+      {
+        "path": "public/questions/ict/",
+        "label": "Questions Dir: ict",
+        "exists": false,
+        "hasIndex": false,
+        "fileCount": 0,
+        "type": "questions-dir"
+      }
+    ],
+    "summary": ""
+  },
+  "topProblems": [
+    "WARNING: Physics 1st Paper — Chapter 01: generic name \"অধ্যায় 01\"",
+    "INCOMPLETE: Physics 1st Paper — Chapter 01: 4 sets have <25 questions",
+    "WARNING: Physics 1st Paper — Chapter 02: generic name \"অধ্যায় 02\"",
+    "INCOMPLETE: Physics 1st Paper — Chapter 02: 7 sets have <25 questions",
+    "WARNING: Physics 1st Paper — Chapter 03: generic name \"অধ্যায় 03\"",
+    "INCOMPLETE: Physics 1st Paper — Chapter 03: 3 sets have <25 questions",
+    "WARNING: Physics 1st Paper — Chapter 04: generic name \"অধ্যায় 04\"",
+    "WARNING: Physics 1st Paper — Chapter 05: generic name \"অধ্যায় 05\"",
+    "WARNING: Physics 1st Paper — Chapter 06: generic name \"অধ্যায় 06\"",
+    "WARNING: Physics 1st Paper — Chapter 07: generic name \"অধ্যায় 07\"",
+    "WARNING: Physics 1st Paper — Chapter 08: generic name \"অধ্যায় 08\"",
+    "INCOMPLETE: Physics 1st Paper — Chapter 08: 4 sets have <25 questions",
+    "WARNING: Physics 1st Paper — Chapter 09: generic name \"অধ্যায় 09\"",
+    "WARNING: Physics 1st Paper — Chapter 10: generic name \"অধ্যায় 10\"",
+    "INCOMPLETE: Physics 1st Paper — Chapter 10: 3 sets have <25 questions",
+    "WARNING: Physics 2nd Paper — Chapter 01: generic name \"অধ্যায় 01\"",
+    "INCOMPLETE: Physics 2nd Paper — Chapter 01: 3 sets have <25 questions",
+    "WARNING: Physics 2nd Paper — Chapter 02: generic name \"অধ্যায় 02\"",
+    "INCOMPLETE: Physics 2nd Paper — Chapter 02: 10 sets have <25 questions",
+    "WARNING: Physics 2nd Paper — Chapter 03: generic name \"অধ্যায় 03\"",
+    "WARNING: Physics 2nd Paper — Chapter 04: generic name \"অধ্যায় 04\"",
+    "INCOMPLETE: Physics 2nd Paper — Chapter 04: 7 sets have <25 questions",
+    "WARNING: Physics 2nd Paper — Chapter 05: generic name \"অধ্যায় 05\"",
+    "INCOMPLETE: Physics 2nd Paper — Chapter 05: 7 sets have <25 questions",
+    "WARNING: Physics 2nd Paper — Chapter 06: generic name \"অধ্যায় 06\"",
+    "INCOMPLETE: Physics 2nd Paper — Chapter 06: 8 sets have <25 questions",
+    "WARNING: Physics 2nd Paper — Chapter 07: generic name \"অধ্যায় 07\"",
+    "INCOMPLETE: Physics 2nd Paper — Chapter 07: 7 sets have <25 questions",
+    "WARNING: Physics 2nd Paper — Chapter 08: generic name \"অধ্যায় 08\"",
+    "INCOMPLETE: Physics 2nd Paper — Chapter 08: 8 sets have <25 questions",
+    "WARNING: Physics 2nd Paper — Chapter 09: generic name \"অধ্যায় 09\"",
+    "INCOMPLETE: Physics 2nd Paper — Chapter 09: 7 sets have <25 questions",
+    "WARNING: Physics 2nd Paper — Chapter 10: generic name \"অধ্যায় 10\"",
+    "INCOMPLETE: Physics 2nd Paper — Chapter 10: 7 sets have <25 questions",
+    "WARNING: Chemistry 1st Paper — Chapter 01: generic name \"অধ্যায় 01\"",
+    "WARNING: Chemistry 1st Paper — Chapter 02: generic name \"অধ্যায় 02\"",
+    "WARNING: Chemistry 1st Paper — Chapter 03: generic name \"অধ্যায় 03\"",
+    "WARNING: Chemistry 1st Paper — Chapter 04: generic name \"অধ্যায় 04\"",
+    "WARNING: Chemistry 1st Paper — Chapter 05: generic name \"অধ্যায় 05\"",
+    "WARNING: Chemistry 2nd Paper — Chapter 05: generic name \"অধ্যায় 05\"",
+    "WARNING: Biology 1st Paper — Chapter 01: generic name \"অধ্যায় 01\"",
+    "WARNING: Biology 1st Paper — Chapter 02: generic name \"অধ্যায় 02\"",
+    "WARNING: Biology 1st Paper — Chapter 03: generic name \"অধ্যায় 03\"",
+    "WARNING: Biology 1st Paper — Chapter 04: generic name \"অধ্যায় 04\"",
+    "WARNING: Biology 1st Paper — Chapter 05: generic name \"অধ্যায় 05\"",
+    "WARNING: Biology 1st Paper — Chapter 06: generic name \"অধ্যায় 06\"",
+    "WARNING: Biology 1st Paper — Chapter 07: generic name \"অধ্যায় 07\"",
+    "WARNING: Biology 1st Paper — Chapter 08: generic name \"অধ্যায় 08\"",
+    "WARNING: Biology 1st Paper — Chapter 09: generic name \"অধ্যায় 09\"",
+    "WARNING: Biology 1st Paper — Chapter 10: generic name \"অধ্যায় 10\"",
+    "WARNING: Biology 1st Paper — Chapter 11: generic name \"অধ্যায় 11\"",
+    "WARNING: Biology 1st Paper — Chapter 12: generic name \"অধ্যায় 12\"",
+    "WARNING: Biology 2nd Paper — Chapter 01: generic name \"অধ্যায় 01\"",
+    "INCOMPLETE: Biology 2nd Paper — Chapter 01: 1 sets have <25 questions",
+    "WARNING: Biology 2nd Paper — Chapter 02: generic name \"অধ্যায় 02\"",
+    "INCOMPLETE: Biology 2nd Paper — Chapter 02: 1 sets have <25 questions",
+    "RED: Biology 2nd Paper — Chapter 03 (অধ্যায় 03): only 2 sets",
+    "WARNING: Biology 2nd Paper — Chapter 03: generic name \"অধ্যায় 03\"",
+    "WARNING: Biology 2nd Paper — Chapter 04: generic name \"অধ্যায় 04\"",
+    "WARNING: Biology 2nd Paper — Chapter 05: generic name \"অধ্যায় 05\"",
+    "RED: Biology 2nd Paper — Chapter 06 (অধ্যায় 06): only 1 sets",
+    "WARNING: Biology 2nd Paper — Chapter 06: generic name \"অধ্যায় 06\"",
+    "WARNING: Biology 2nd Paper — Chapter 07: generic name \"অধ্যায় 07\"",
+    "WARNING: Biology 2nd Paper — Chapter 08: generic name \"অধ্যায় 08\"",
+    "RED: Biology 2nd Paper — Chapter 09 (অধ্যায় 09): only 1 sets",
+    "WARNING: Biology 2nd Paper — Chapter 09: generic name \"অধ্যায় 09\"",
+    "RED: Biology 2nd Paper — Chapter 10 (অধ্যায় 10): only 1 sets",
+    "WARNING: Biology 2nd Paper — Chapter 10: generic name \"অধ্যায় 10\"",
+    "RED: Biology 2nd Paper — Chapter 11 (অধ্যায় 11): only 1 sets",
+    "WARNING: Biology 2nd Paper — Chapter 11: generic name \"অধ্যায় 11\"",
+    "RED: Biology 2nd Paper — Chapter 12 (অধ্যায় 12): only 1 sets",
+    "WARNING: Biology 2nd Paper — Chapter 12: generic name \"অধ্যায় 12\"",
+    "WARNING: Higher Math 1st Paper — Chapter 01: generic name \"অধ্যায় 01\"",
+    "WARNING: Higher Math 1st Paper — Chapter 02: generic name \"অধ্যায় 02\"",
+    "WARNING: Higher Math 1st Paper — Chapter 03: generic name \"অধ্যায় 03\"",
+    "WARNING: Higher Math 1st Paper — Chapter 04: generic name \"অধ্যায় 04\"",
+    "WARNING: Higher Math 1st Paper — Chapter 05: generic name \"অধ্যায় 05\"",
+    "WARNING: Higher Math 1st Paper — Chapter 06: generic name \"অধ্যায় 06\"",
+    "WARNING: Higher Math 1st Paper — Chapter 07: generic name \"অধ্যায় 07\"",
+    "WARNING: Higher Math 1st Paper — Chapter 08: generic name \"অধ্যায় 08\"",
+    "WARNING: Higher Math 1st Paper — Chapter 09: generic name \"অধ্যায় 09\"",
+    "WARNING: Higher Math 1st Paper — Chapter 10: generic name \"অধ্যায় 10\"",
+    "WARNING: SSC Physics — Chapter 01: generic name \"অধ্যায় 01\"",
+    "INCOMPLETE: SSC Physics — Chapter 01: 1 sets have <25 questions",
+    "WARNING: SSC Physics — Chapter 02: generic name \"অধ্যায় 02\"",
+    "WARNING: SSC Physics — Chapter 03: generic name \"অধ্যায় 03\"",
+    "WARNING: SSC Physics — Chapter 04: generic name \"অধ্যায় 04\"",
+    "WARNING: SSC Physics — Chapter 05: generic name \"অধ্যায় 05\"",
+    "WARNING: SSC Physics — Chapter 06: generic name \"অধ্যায় 06\"",
+    "WARNING: SSC Physics — Chapter 07: generic name \"অধ্যায় 07\"",
+    "WARNING: SSC Physics — Chapter 08: generic name \"অধ্যায় 08\"",
+    "WARNING: SSC Physics — Chapter 09: generic name \"অধ্যায় 09\"",
+    "WARNING: SSC Physics — Chapter 10: generic name \"অধ্যায় 10\"",
+    "WARNING: SSC Physics — Chapter 11: generic name \"অধ্যায় 11\"",
+    "WARNING: SSC Physics — Chapter 12: generic name \"অধ্যায় 12\"",
+    "WARNING: SSC Physics — Chapter 13: generic name \"অধ্যায় 13\"",
+    "WARNING: SSC Physics — Chapter 14: generic name \"অধ্যায় 14\"",
+    "WARNING: SSC Chemistry — Chapter 01: generic name \"অধ্যায় 01\"",
+    "WARNING: SSC Chemistry — Chapter 02: generic name \"অধ্যায় 02\"",
+    "WARNING: SSC Chemistry — Chapter 03: generic name \"অধ্যায় 03\"",
+    "WARNING: SSC Chemistry — Chapter 04: generic name \"অধ্যায় 04\"",
+    "WARNING: SSC Chemistry — Chapter 05: generic name \"অধ্যায় 05\"",
+    "WARNING: SSC Chemistry — Chapter 06: generic name \"অধ্যায় 06\"",
+    "WARNING: SSC Chemistry — Chapter 07: generic name \"অধ্যায় 07\"",
+    "WARNING: SSC Chemistry — Chapter 08: generic name \"অধ্যায় 08\"",
+    "WARNING: SSC Chemistry — Chapter 09: generic name \"অধ্যায় 09\"",
+    "RED: SSC Chemistry — Chapter 10 (অধ্যায় 10): only 1 sets",
+    "WARNING: SSC Chemistry — Chapter 10: generic name \"অধ্যায় 10\"",
+    "WARNING: SSC Chemistry — Chapter 11: generic name \"অধ্যায় 11\"",
+    "WARNING: SSC Chemistry — Chapter 12: generic name \"অধ্যায় 12\"",
+    "WARNING: SSC Higher Math — Chapter 01: generic name \"অধ্যায় 01\"",
+    "WARNING: SSC Higher Math — Chapter 02: generic name \"অধ্যায় 02\"",
+    "WARNING: SSC Higher Math — Chapter 03: generic name \"অধ্যায় 03\"",
+    "WARNING: SSC Higher Math — Chapter 04: generic name \"অধ্যায় 04\"",
+    "WARNING: SSC Higher Math — Chapter 05: generic name \"অধ্যায় 05\"",
+    "WARNING: SSC Higher Math — Chapter 06: generic name \"অধ্যায় 06\"",
+    "WARNING: SSC Higher Math — Chapter 07: generic name \"অধ্যায় 07\"",
+    "WARNING: SSC Higher Math — Chapter 08: generic name \"অধ্যায় 08\"",
+    "WARNING: SSC Higher Math — Chapter 09: generic name \"অধ্যায় 09\"",
+    "WARNING: SSC Higher Math — Chapter 10: generic name \"অধ্যায় 10\"",
+    "WARNING: SSC Higher Math — Chapter 11: generic name \"অধ্যায় 11\"",
+    "INCOMPLETE: SSC Higher Math — Chapter 11: 5 sets have <25 questions",
+    "WARNING: SSC Higher Math — Chapter 12: generic name \"অধ্যায় 12\"",
+    "WARNING: SSC Higher Math — Chapter 13: generic name \"অধ্যায় 13\"",
+    "RED: SSC General Math — Chapter 01 (অধ্যায় 01): only 4 sets",
+    "WARNING: SSC General Math — Chapter 01: generic name \"অধ্যায় 01\"",
+    "RED: SSC General Math — Chapter 02 (অধ্যায় 02): only 1 sets",
+    "WARNING: SSC General Math — Chapter 02: generic name \"অধ্যায় 02\"",
+    "RED: SSC General Math — Chapter 09 (অধ্যায় 09): only 1 sets",
+    "WARNING: SSC General Math — Chapter 09: generic name \"অধ্যায় 09\"",
+    "RED: SSC General Math — Chapter 11 (অধ্যায় 11): only 1 sets",
+    "WARNING: SSC General Math — Chapter 11: generic name \"অধ্যায় 11\"",
+    "RED: SSC General Math — Chapter 12 (অধ্যায় 12): only 1 sets",
+    "WARNING: SSC General Math — Chapter 12: generic name \"অধ্যায় 12\"",
+    "RED: SSC General Math — Chapter 13 (অধ্যায় 13): only 1 sets",
+    "WARNING: SSC General Math — Chapter 13: generic name \"অধ্যায় 13\"",
+    "INCOMPLETE: SSC General Math — Chapter 13: 1 sets have <25 questions",
+    "RED: SSC General Math — Chapter 16 (অধ্যায় 16): only 1 sets",
+    "WARNING: SSC General Math — Chapter 16: generic name \"অধ্যায় 16\"",
+    "RED: SSC General Math — Chapter 17 (অধ্যায় 17): only 1 sets",
+    "WARNING: SSC General Math — Chapter 17: generic name \"অধ্যায় 17\"",
+    "MISSING: Questions Dir: ict — public/questions/ict/",
+    "DISABLED: API /api/questions"
+  ],
+  "totals": {
+    "chapters": 107,
+    "redCount": 15,
+    "warningCount": 62,
+    "okCount": 30
+  }
+}

@@ -1,101 +1,101 @@
 {
-  "hsc-higher-math-2nd-paper-tier-a-set-02-q01": {
+  "hsc-higher-math-2nd-paper-tier-a-hot-model-test-02-q01": {
     "correctOption": "25",
     "explanation": "\\(|z_1z_2|=|z_1||z_2|=5\\times5=25\\)।"
   },
-  "hsc-higher-math-2nd-paper-tier-a-set-02-q02": {
+  "hsc-higher-math-2nd-paper-tier-a-hot-model-test-02-q02": {
     "correctOption": "\\(\\pi-\\tan^{-1}\\frac34\\)",
     "explanation": "\\((-4,3)\\) দ্বিতীয় চতুর্ভাগে, তাই principal argument \\(\\pi-\\tan^{-1}(3/4)\\)।"
   },
-  "hsc-higher-math-2nd-paper-tier-a-set-02-q03": {
+  "hsc-higher-math-2nd-paper-tier-a-hot-model-test-02-q03": {
     "correctOption": "160 m",
     "explanation": "\\(R=\\frac{u^2\\sin2\\theta}{g}=\\frac{1600}{10}=160\\) m।"
   },
-  "hsc-higher-math-2nd-paper-tier-a-set-02-q04": {
+  "hsc-higher-math-2nd-paper-tier-a-hot-model-test-02-q04": {
     "correctOption": "40 m",
     "explanation": "\\(H=\\frac{u^2\\sin^2\\theta}{2g}=\\frac{1600\\cdot1/2}{20}=40\\) m।"
   },
-  "hsc-higher-math-2nd-paper-tier-a-set-02-q05": {
+  "hsc-higher-math-2nd-paper-tier-a-hot-model-test-02-q05": {
     "correctOption": "\\((x-1)^2+(y-1)^2=9\\)",
     "explanation": "\\(z=x+iy\\) বসালে কেন্দ্র \\((1,1)\\), ব্যাসার্ধ 3-এর বৃত্ত।"
   },
-  "hsc-higher-math-2nd-paper-tier-a-set-02-q06": {
+  "hsc-higher-math-2nd-paper-tier-a-hot-model-test-02-q06": {
     "correctOption": "\\(\\pm(4-3i)\\)",
     "explanation": "\\((4-3i)^2=16-24i-9=7-24i\\)।"
   },
-  "hsc-higher-math-2nd-paper-tier-a-set-02-q07": {
+  "hsc-higher-math-2nd-paper-tier-a-hot-model-test-02-q07": {
     "correctOption": "76",
     "explanation": "\\((\\alpha+\\beta)^3-3\\alpha\\beta(\\alpha+\\beta)=64+12=76\\)।"
   },
-  "hsc-higher-math-2nd-paper-tier-a-set-02-q08": {
+  "hsc-higher-math-2nd-paper-tier-a-hot-model-test-02-q08": {
     "correctOption": "সব \\(k\\)-এর জন্য বাস্তব ও অসমান",
     "explanation": "\\(D=(2k)^2-4(k^2-1)=4>0\\); তাই সব \\(k\\)-এ বাস্তব ও অসমান।"
   },
-  "hsc-higher-math-2nd-paper-tier-a-set-02-q09": {
+  "hsc-higher-math-2nd-paper-tier-a-hot-model-test-02-q09": {
     "correctOption": "\\((0,-2)\\)",
     "explanation": "\\(x^2=4ay\\Rightarrow4a=-8\\Rightarrow a=-2\\), focus \\((0,a)\\)।"
   },
-  "hsc-higher-math-2nd-paper-tier-a-set-02-q10": {
+  "hsc-higher-math-2nd-paper-tier-a-hot-model-test-02-q10": {
     "correctOption": "\\(\\frac53\\)",
     "explanation": "অধিবৃত্তে \\(e=\\sqrt{1+b^2/a^2}=\\sqrt{1+16/9}=5/3\\)।"
   },
-  "hsc-higher-math-2nd-paper-tier-a-set-02-q11": {
+  "hsc-higher-math-2nd-paper-tier-a-hot-model-test-02-q11": {
     "correctOption": "\\(\\frac{2\\pi}{3}\\)",
     "explanation": "\\(\\cos^{-1}x\\)-এর range \\([0,\\pi]\\); তাই মান \\(2\\pi/3\\)।"
   },
-  "hsc-higher-math-2nd-paper-tier-a-set-02-q12": {
+  "hsc-higher-math-2nd-paper-tier-a-hot-model-test-02-q12": {
     "correctOption": "\\(\\frac{3\\pi}{4}\\)",
     "explanation": "product \\(>1\\); তাই quadrant correction দিয়ে \\(\\pi+\\tan^{-1}(-1)=3\\pi/4\\)।"
   },
-  "hsc-higher-math-2nd-paper-tier-a-set-02-q13": {
+  "hsc-higher-math-2nd-paper-tier-a-hot-model-test-02-q13": {
     "correctOption": "2 m",
     "explanation": "লব্ধির অবস্থান \\(x=\\frac{20\\times3}{10+20}=2\\) m।"
   },
-  "hsc-higher-math-2nd-paper-tier-a-set-02-q14": {
+  "hsc-higher-math-2nd-paper-tier-a-hot-model-test-02-q14": {
     "correctOption": "\\(\\frac{8}{27}\\)",
     "explanation": "\\(P(X=0)=\\binom30(1/3)^0(2/3)^3=8/27\\)।"
   },
-  "hsc-higher-math-2nd-paper-tier-a-set-02-q15": {
+  "hsc-higher-math-2nd-paper-tier-a-hot-model-test-02-q15": {
     "correctOption": "i, ii ও iii",
     "explanation": "\\(1+\\omega=-\\omega^2\\), তাই \\((1+\\omega)^2=\\omega^4=\\omega\\); বাকি দুটিও সত্য।"
   },
-  "hsc-higher-math-2nd-paper-tier-a-set-02-q16": {
+  "hsc-higher-math-2nd-paper-tier-a-hot-model-test-02-q16": {
     "correctOption": "i, ii ও iii",
     "explanation": "তিনটি range-ই board MCQ-তে frequent domain-range trap।"
   },
-  "hsc-higher-math-2nd-paper-tier-a-set-02-q17": {
+  "hsc-higher-math-2nd-paper-tier-a-hot-model-test-02-q17": {
     "correctOption": "i, ii ও iii",
     "explanation": "Completing square: \\((x-2)^2+(y+3)^2=25\\)।"
   },
-  "hsc-higher-math-2nd-paper-tier-a-set-02-q18": {
+  "hsc-higher-math-2nd-paper-tier-a-hot-model-test-02-q18": {
     "correctOption": "i, ii ও iii",
     "explanation": "\\(s=\\frac12at^2=25\\), \\(v=at=10\\), এবং \\(v^2=2as\\)।"
   },
-  "hsc-higher-math-2nd-paper-tier-a-set-02-q19": {
+  "hsc-higher-math-2nd-paper-tier-a-hot-model-test-02-q19": {
     "correctOption": "i, ii ও iii",
     "explanation": "স্বাধীন হলে \\(P(A\\cap B)=P(A)P(B)\\) এবং \\(P(A|B)=P(A)\\)।"
   },
-  "hsc-higher-math-2nd-paper-tier-a-set-02-q20": {
+  "hsc-higher-math-2nd-paper-tier-a-hot-model-test-02-q20": {
     "correctOption": "i, ii ও iii",
     "explanation": "ঘন সমীকরণে \\(\\sum\\alpha=6,\\sum\\alpha\\beta=11,\\alpha\\beta\\gamma=6\\)।"
   },
-  "hsc-higher-math-2nd-paper-tier-a-set-02-q21": {
+  "hsc-higher-math-2nd-paper-tier-a-hot-model-test-02-q21": {
     "correctOption": "\\(x=-4\\)",
     "explanation": "\\(4a=16\\Rightarrow a=4\\); directrix \\(x=-a=-4\\)।"
   },
-  "hsc-higher-math-2nd-paper-tier-a-set-02-q22": {
+  "hsc-higher-math-2nd-paper-tier-a-hot-model-test-02-q22": {
     "correctOption": "\\(x=\\frac{n\\pi}{2}\\)",
     "explanation": "\\(2x=n\\pi\\Rightarrow x=n\\pi/2\\)।"
   },
-  "hsc-higher-math-2nd-paper-tier-a-set-02-q23": {
+  "hsc-higher-math-2nd-paper-tier-a-hot-model-test-02-q23": {
     "correctOption": "\\(P\\)",
     "explanation": "\\(R=\\sqrt{P^2+P^2+2P^2\\cos120^\\circ}=P\\)।"
   },
-  "hsc-higher-math-2nd-paper-tier-a-set-02-q24": {
+  "hsc-higher-math-2nd-paper-tier-a-hot-model-test-02-q24": {
     "correctOption": "0",
     "explanation": "Face card বলতে J,Q,K বোঝায়; ace face card নয়।"
   },
-  "hsc-higher-math-2nd-paper-tier-a-set-02-q25": {
+  "hsc-higher-math-2nd-paper-tier-a-hot-model-test-02-q25": {
     "correctOption": "\\(\\frac{11}{36}\\)",
     "explanation": "Complement: কোনো 6 না আসা \\((5/6)^2=25/36\\); তাই সম্ভাবনা \\(11/36\\)।"
   }

@@ -2,6 +2,7 @@
 
 import React, { useEffect, useMemo, useState } from "react";
 import Link from "next/link";
+import { usePathname, useRouter, useSearchParams } from "next/navigation";
 import { api } from "@/lib/api";
 import { useAuth } from "@/context/AuthContext";
 import { loadModelTestsFromStatic } from "@/lib/model-test-loader";
@@ -141,6 +142,9 @@ export function ModelTestsListClient({
   headline,
 }: Props) {
   const { user } = useAuth();
+  const router = useRouter();
+  const pathname = usePathname();
+  const searchParams = useSearchParams();
   const [allModelTests, setAllModelTests] = useState<ModelTestItem[]>([]);
   const [loading, setLoading] = useState(true);
   
@@ -151,9 +155,38 @@ export function ModelTestsListClient({
   const [activeCategory, setActiveCategory] = useState<ModelTestCategoryTab>("chapterWise");
   const [chapterFilter, setChapterFilter] = useState<number | "all">("all");
 
+  const replaceQuery = (next: {
+    category?: ModelTestCategoryTab;
+    chapter?: number | "all";
+  }) => {
+    const params = new URLSearchParams(searchParams.toString());
+    const category = next.category ?? activeCategory;
+    params.set("tab", category === "paperWise" ? "paper" : "chapter");
+    const chapter = next.chapter ?? chapterFilter;
+    if (chapter === "all") {
+      params.delete("chapter");
+    } else {
+      params.set("chapter", String(chapter).padStart(2, "0"));
+    }
+    const qs = params.toString();
+    router.replace(qs ? `${pathname}?${qs}` : pathname, { scroll: false });
+  };
+
   useEffect(() => {
-    setChapterFilter("all");
-  }, [activeCategory]);
+    const tab = searchParams.get("tab");
+    if (tab === "paper" || tab === "paperWise") {
+      setActiveCategory("paperWise");
+    } else if (tab === "chapter" || tab === "chapterWise") {
+      setActiveCategory("chapterWise");
+    }
+    const ch = searchParams.get("chapter");
+    if (!ch || ch === "all") {
+      setChapterFilter("all");
+    } else {
+      const n = Number.parseInt(ch, 10);
+      if (!Number.isNaN(n) && n > 0) setChapterFilter(n);
+    }
+  }, [searchParams]);
 
   useEffect(() => {
     async function loadData() {
@@ -480,6 +513,7 @@ export function ModelTestsListClient({
     setSelectedFilter("all");
     setSelectedSort("default");
     setChapterFilter("all");
+    replaceQuery({ chapter: "all" });
   };
 
   const switchCategory = (tab: ModelTestCategoryTab) => {
@@ -487,6 +521,8 @@ export function ModelTestsListClient({
     setSearchQuery("");
     setSelectedFilter("all");
     setSelectedSort("default");
+    setChapterFilter("all");
+    replaceQuery({ category: tab, chapter: "all" });
   };
 
   const statValues: Record<string, string> = {
@@ -610,7 +646,9 @@ export function ModelTestsListClient({
                 value={chapterFilter === "all" ? "all" : String(chapterFilter)}
                 onChange={(e) => {
                   const val = e.target.value;
-                  setChapterFilter(val === "all" ? "all" : Number(val));
+                  const next = val === "all" ? "all" : Number(val);
+                  setChapterFilter(next);
+                  replaceQuery({ chapter: next });
                 }}
                 className="h-9 min-w-[140px] rounded-lg border border-slate-700/70 bg-black/30 px-3 text-sm font-semibold text-white outline-none focus:border-cyan-400/50"
               >
@@ -631,7 +669,10 @@ export function ModelTestsListClient({
               </span>
               <button
                 type="button"
-                onClick={() => setChapterFilter("all")}
+                onClick={() => {
+                  setChapterFilter("all");
+                  replaceQuery({ chapter: "all" });
+                }}
                 className="text-sm font-bold text-cyan-400 hover:text-cyan-300 cursor-pointer"
               >
                 ← ফিরে যান

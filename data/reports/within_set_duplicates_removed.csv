@@ -1,0 +1,30 @@
+Level | Subject | Paper | Test ID | File Path | Removed Question ID | Duplicate Of | Final Question Count | Status
+SSC | physics | SSC physics | (multiple sets) | public/quiz-data/ssc | 81 questions | within-set-duplicate | 77 | CLEANED
+SSC | physics | SSC physics | (duplicate sets) | public/quiz-data/ssc | 8 duplicate sets removed | full-set-duplicate | 77 | REMOVED
+SSC | physics | SSC physics | (incomplete sets) | public/quiz-data/ssc | 1 incomplete sets removed | incomplete-after-cleanup | 77 | REMOVED
+SSC | chemistry | SSC chemistry | (multiple sets) | public/quiz-data/ssc | 156 questions | within-set-duplicate | 63 | CLEANED
+SSC | chemistry | SSC chemistry | (duplicate sets) | public/quiz-data/ssc | 15 duplicate sets removed | full-set-duplicate | 63 | REMOVED
+SSC | chemistry | SSC chemistry | (incomplete sets) | public/quiz-data/ssc | 16 incomplete sets removed | incomplete-after-cleanup | 63 | REMOVED
+SSC | biology | SSC biology | (multiple sets) | public/quiz-data/ssc | 130 questions | within-set-duplicate | 5 | CLEANED
+SSC | biology | SSC biology | (duplicate sets) | public/quiz-data/ssc | 9 duplicate sets removed | full-set-duplicate | 5 | REMOVED
+SSC | biology | SSC biology | (incomplete sets) | public/quiz-data/ssc | 1 incomplete sets removed | incomplete-after-cleanup | 5 | REMOVED
+SSC | Higher Math | SSC Higher Math | (multiple sets) | public/quiz-data/ssc | 318 questions | within-set-duplicate | 76 | CLEANED
+SSC | Higher Math | SSC Higher Math | (duplicate sets) | public/quiz-data/ssc | 5 duplicate sets removed | full-set-duplicate | 76 | REMOVED
+SSC | Higher Math | SSC Higher Math | (incomplete sets) | public/quiz-data/ssc | 1 incomplete sets removed | incomplete-after-cleanup | 76 | REMOVED
+SSC | General Math | SSC General Math | (multiple sets) | public/quiz-data/ssc | 6 questions | within-set-duplicate | 24 | CLEANED
+SSC | General Math | SSC General Math | (duplicate sets) | public/quiz-data/ssc | 2 duplicate sets removed | full-set-duplicate | 24 | REMOVED
+SSC | General Math | SSC General Math | (incomplete sets) | public/quiz-data/ssc | 2 incomplete sets removed | incomplete-after-cleanup | 24 | REMOVED
+HSC | Physics 1st Paper | HSC Physics 1st Paper | (duplicate sets) | public/quiz-data/hsc | 16 duplicate sets removed | full-set-duplicate | 151 | REMOVED
+HSC | Physics 1st Paper | HSC Physics 1st Paper | (incomplete sets) | public/quiz-data/hsc | 4 incomplete sets removed | incomplete-after-cleanup | 151 | REMOVED
+HSC | Physics 2nd Paper | HSC Physics 2nd Paper | (multiple sets) | public/quiz-data/hsc | 25 questions | within-set-duplicate | 123 | CLEANED
+HSC | Chemistry 2nd Paper | HSC Chemistry 2nd Paper | (multiple sets) | public/quiz-data/hsc | 60 questions | within-set-duplicate | 24 | CLEANED
+HSC | Chemistry 2nd Paper | HSC Chemistry 2nd Paper | (duplicate sets) | public/quiz-data/hsc | 4 duplicate sets removed | full-set-duplicate | 24 | REMOVED
+HSC | Chemistry 2nd Paper | HSC Chemistry 2nd Paper | (incomplete sets) | public/quiz-data/hsc | 5 incomplete sets removed | incomplete-after-cleanup | 24 | REMOVED
+HSC | Biology 1st Paper | HSC Biology 1st Paper | (multiple sets) | public/quiz-data/hsc | 195 questions | within-set-duplicate | 130 | CLEANED
+HSC | Biology 1st Paper | HSC Biology 1st Paper | (duplicate sets) | public/quiz-data/hsc | 14 duplicate sets removed | full-set-duplicate | 130 | REMOVED
+HSC | Biology 1st Paper | HSC Biology 1st Paper | (incomplete sets) | public/quiz-data/hsc | 1 incomplete sets removed | incomplete-after-cleanup | 130 | REMOVED
+HSC | Biology 2nd Paper | HSC Biology 2nd Paper | (multiple sets) | public/quiz-data/hsc | 143 questions | within-set-duplicate | 51 | CLEANED
+HSC | Biology 2nd Paper | HSC Biology 2nd Paper | (duplicate sets) | public/quiz-data/hsc | 10 duplicate sets removed | full-set-duplicate | 51 | REMOVED
+HSC | Biology 2nd Paper | HSC Biology 2nd Paper | (incomplete sets) | public/quiz-data/hsc | 3 incomplete sets removed | incomplete-after-cleanup | 51 | REMOVED
+HSC | Higher Math 1st Paper | HSC Higher Math 1st Paper | (multiple sets) | public/quiz-data/hsc | 30 questions | within-set-duplicate | 75 | CLEANED
+HSC | Higher Math 2nd Paper | HSC Higher Math 2nd Paper | (multiple sets) | public/quiz-data/hsc | 60 questions | within-set-duplicate | 22 | CLEANED

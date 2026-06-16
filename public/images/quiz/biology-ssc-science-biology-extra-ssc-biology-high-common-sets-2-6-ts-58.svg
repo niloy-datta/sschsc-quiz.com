@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="100%" height="100%" viewBox="0 0 360 220">
+  <defs>
+    <style>
+      .bg{fill:#020617}
+      .section{fill:#052e16;stroke:#22c55e;stroke-width:3}
+      .x{fill:#1d4ed8;stroke:#bfdbfe;stroke-width:2}
+      .p{fill:#ca8a04;stroke:#fef08a;stroke-width:2}
+      .arrow{stroke:#facc15;stroke-width:2.5;fill:none;stroke-linecap:round}
+      .label{font-family:"Noto Sans Bengali",Arial,sans-serif;font-size:15px;font-weight:800;fill:#e5e7eb}
+      .small{font-family:"Noto Sans Bengali",Arial,sans-serif;font-size:12px;font-weight:700;fill:#cbd5e1}
+    </style>
+  </defs>
+
+  <rect width="360" height="220" rx="18" class="bg"/>
+
+  <circle cx="180" cy="110" r="82" class="section"/>
+
+  <circle cx="150" cy="110" r="36" class="x"/>
+  <circle cx="210" cy="110" r="36" class="p"/>
+
+  <path d="M210 74 C245 80 263 98 275 120" class="arrow"/>
+  <path d="M275 120 C262 145 242 158 210 146" class="arrow"/>
+
+  <text x="150" y="116" text-anchor="middle" class="label">জাইলেম</text>
+  <text x="210" y="116" text-anchor="middle" class="label">ফ্লোয়েম</text>
+  <text x="210" y="166" text-anchor="middle" class="small">খাদ্য পরিবহন</text>
+</svg>

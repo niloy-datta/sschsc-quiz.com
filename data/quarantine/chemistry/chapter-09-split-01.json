@@ -1,0 +1,282 @@
+{
+  "setId": "chapter-09-split-01",
+  "reason": "DUPLICATE_OF_chapter-09-split-01",
+  "quarantinedAt": "2026-06-16T10:44:44.715Z",
+  "questions": [
+    {
+      "id": "chapter-09-split-01-q01",
+      "questionText": "Q1. pH মান 7 নির্দেশ করে? English: A pH of 7 indicates?",
+      "optionA": "Neutral",
+      "optionB": "Acidic",
+      "optionC": "Basic",
+      "optionD": "Strong acid",
+      "correctOption": "A",
+      "explanation": "pH 7 is neutral (pure water at 25°C).",
+      "questionNo": 1
+    },
+    {
+      "id": "chapter-09-split-01-q02",
+      "questionText": "Q2. লিটমাস কাগজ লাল থেকে নীল হয় কোন অবস্থায়? English: Litmus turns blue under which condition?",
+      "optionA": "Base",
+      "optionB": "Acid",
+      "optionC": "Neutral",
+      "optionD": "Oxidizing",
+      "correctOption": "A",
+      "explanation": "Litmus turns blue in basic/alkaline solutions.",
+      "questionNo": 2
+    },
+    {
+      "id": "chapter-09-split-01-q03",
+      "questionText": "Q3. HCl + NaOH → ? English: Product of HCl + NaOH is?",
+      "optionA": "NaCl + H2O",
+      "optionB": "NaOH + H2",
+      "optionC": "H2 + Cl2",
+      "optionD": "NaClO + H2O",
+      "correctOption": "A",
+      "explanation": "Acid + base → salt + water (neutralization).",
+      "questionNo": 3
+    },
+    {
+      "id": "chapter-09-split-01-q04",
+      "questionText": "Q4. কোন লবণ হলে পানিতে দ্রবীভূত হলে এসিডিক দ্রবণ তৈরি হতে পারে (hydrolysis)? English: Which salt produces acidic solution on hydrolysis?",
+      "optionA": "NH4Cl",
+      "optionB": "NaCl",
+      "optionC": "KNO3",
+      "optionD": "Na2SO4",
+      "correctOption": "A",
+      "explanation": "NH4+ is the conjugate acid of weak base NH3 → acidic hydrolysis.",
+      "questionNo": 4
+    },
+    {
+      "id": "chapter-09-split-01-q05",
+      "questionText": "Q5. শক্তিশালী অ্যাসিডের উদাহরণ কোনটি? English: Which is a strong acid?",
+      "optionA": "HCl",
+      "optionB": "CH3COOH",
+      "optionC": "H2CO3",
+      "optionD": "H2O",
+      "correctOption": "A",
+      "explanation": "HCl fully ionizes in water (strong acid).",
+      "questionNo": 5
+    },
+    {
+      "id": "chapter-09-split-01-q06",
+      "questionText": "Q6. অনুপ্রবেশ সূচক (universal indicator) লাল থেকে সবুজ পর্যন্ত কোথায় পড়ে? English: Universal indicator shows green at roughly which pH?",
+      "optionA": "~7",
+      "optionB": "~1",
+      "optionC": "~14",
+      "optionD": "~3",
+      "correctOption": "A",
+      "explanation": "Green corresponds to neutral pH (~7).",
+      "questionNo": 6
+    },
+    {
+      "id": "chapter-09-split-01-q07",
+      "questionText": "Q7. Na2CO3 (sodium carbonate) পানিতে দ্রবীভূত হলে pH কি ধরনের হবে? English: Aqueous solution of Na2CO3 is?",
+      "optionA": "Basic",
+      "optionB": "Acidic",
+      "optionC": "Neutral",
+      "optionD": "Amphoteric",
+      "correctOption": "A",
+      "explanation": "Carbonate ion hydrolyzes to give OH- → basic solution.",
+      "questionNo": 7
+    },
+    {
+      "id": "chapter-09-split-01-q08",
+      "questionText": "Q8. অ্যাসিড + কার্বোনেট বিক্রিয়ায় কি নির্গত হয়? English: What gas evolves when acid reacts with carbonate?",
+      "optionA": "CO2",
+      "optionB": "O2",
+      "optionC": "H2",
+      "optionD": "N2",
+      "correctOption": "A",
+      "explanation": "Acid + carbonate → CO2 gas evolution.",
+      "questionNo": 8
+    },
+    {
+      "id": "chapter-09-split-01-q09",
+      "questionText": "Q9. কোনটি একটি ক্ষার (alkali)? English: Which is an alkali?",
+      "optionA": "NaOH",
+      "optionB": "HCl",
+      "optionC": "CO2",
+      "optionD": "NH4Cl",
+      "correctOption": "A",
+      "explanation": "NaOH is a soluble base (alkali).",
+      "questionNo": 9
+    },
+    {
+      "id": "chapter-09-split-01-q10",
+      "questionText": "Q10. pH মান 3 ও 5 যুক্ত হলে H+ ঘনত্ব কেমন অনুপাত থাকে? English: If pH 3 vs pH 5, H+ concentration ratio?",
+      "optionA": "100 times",
+      "optionB": "10 times",
+      "optionC": "1/100",
+      "optionD": "2 times",
+      "correctOption": "A",
+      "explanation": "pH difference 2 → [H+] differs by 10^2 = 100.",
+      "questionNo": 10
+    },
+    {
+      "id": "chapter-09-split-01-q11",
+      "questionText": "Q11. তাত্ত্বিকভাবে কিভাবে লবণ তৈরি হয়? English: Salt is typically formed by?",
+      "optionA": "Neutralization of acid and base",
+      "optionB": "Mixing two salts",
+      "optionC": "Heating metals",
+      "optionD": "Electrolysis only",
+      "correctOption": "A",
+      "explanation": "Salt commonly forms from acid–base neutralization.",
+      "questionNo": 11
+    },
+    {
+      "id": "chapter-09-split-01-q12",
+      "questionText": "Q12. HCl gas পানিতে দ্রবীভূত হলে কী গঠন করে? English: HCl gas dissolved in water forms?",
+      "optionA": "Hydrochloric acid (HCl(aq))",
+      "optionB": "Hypochlorous acid",
+      "optionC": "Chlorine",
+      "optionD": "Sodium chloride",
+      "correctOption": "A",
+      "explanation": "HCl gas dissolves producing hydrochloric acid solution.",
+      "questionNo": 12
+    },
+    {
+      "id": "chapter-09-split-01-q13",
+      "questionText": "Q13. কোন indicator লাল থেকে নীল হয় যদি pH বেড়ে যায়? English: Which indicator turns from red to blue on increasing pH?",
+      "optionA": "Litmus",
+      "optionB": "Methyl orange",
+      "optionC": "Phenolphthalein",
+      "optionD": "Bromothymol blue",
+      "correctOption": "A",
+      "explanation": "Litmus turns red in acid and blue in base.",
+      "questionNo": 13
+    },
+    {
+      "id": "chapter-09-split-01-q14",
+      "questionText": "Q14. NaCl কখনো অ্যাসিডিক বা ক্ষারীয় দ্রবণ দেয়? English: Does NaCl in water give acidic or basic solution?",
+      "optionA": "Neither — neutral",
+      "optionB": "Acidic",
+      "optionC": "Basic",
+      "optionD": "Amphoteric",
+      "correctOption": "A",
+      "explanation": "NaCl from strong acid & strong base → neutral salt.",
+      "questionNo": 14
+    },
+    {
+      "id": "chapter-09-split-01-q15",
+      "questionText": "Q15. NaOH (aq) কে কোন ব্যবহারে বেশি ব্যবহার করা হয়? English: NaOH aqueous used commonly for?",
+      "optionA": "Titration of acids/industrial neutralization",
+      "optionB": "Fuel",
+      "optionC": "As oxidizer",
+      "optionD": "As inert gas",
+      "correctOption": "A",
+      "explanation": "NaOH is used for neutralization and titrations.",
+      "questionNo": 15
+    },
+    {
+      "id": "chapter-09-split-01-q16",
+      "questionText": "Q16. কোন acid টির সোজা সংস্করণ শক্তিশালী: HNO3, H2SO4, HCl — কোনটি শক্তিশালী? English: Which of these is a strong acid?",
+      "optionA": "All are strong acids",
+      "optionB": "Only HCl",
+      "optionC": "Only HNO3",
+      "optionD": "Only H2SO4",
+      "correctOption": "A",
+      "explanation": "HCl, HNO3 and H2SO4 are all strong (fully dissociate) strong mineral acids.",
+      "questionNo": 16
+    },
+    {
+      "id": "chapter-09-split-01-q17",
+      "questionText": "Q17. Buffer solution কি? English: What is a buffer solution?",
+      "optionA": "Resists pH change on addition of small amounts of acid/base",
+      "optionB": "Changes pH rapidly",
+      "optionC": "Neutral solution only",
+      "optionD": "Strong acid solution",
+      "correctOption": "A",
+      "explanation": "Buffer resists pH change by neutralizing added acid/base.",
+      "questionNo": 17
+    },
+    {
+      "id": "chapter-09-split-01-q18",
+      "questionText": "Q18. Titration curve-এ endpoint নির্ণয়ের জন্য কোনটি ব্যবহার করা হয়? English: Which is used to detect titration endpoint?",
+      "optionA": "Indicator color change",
+      "optionB": "pH meter only",
+      "optionC": "Boiling point",
+      "optionD": "Density",
+      "correctOption": "A",
+      "explanation": "Indicators show a sudden color change near equivalence point.",
+      "questionNo": 18
+    },
+    {
+      "id": "chapter-09-split-01-q19",
+      "questionText": "Q19. Which salt gives basic solution: NaF, NH4Cl, KCl, NaNO3? (Bangla question omitted for brevity) English: Which salt makes solution basic?",
+      "optionA": "NaF",
+      "optionB": "NH4Cl",
+      "optionC": "KCl",
+      "optionD": "NaNO3",
+      "correctOption": "A",
+      "explanation": "F- is conjugate base of weak acid HF → solution basic.",
+      "questionNo": 19
+    },
+    {
+      "id": "chapter-09-split-01-q20",
+      "questionText": "Q20. H2SO4 + 2NaOH → ? English: Product of H2SO4 + 2NaOH?",
+      "optionA": "Na2SO4 + 2H2O",
+      "optionB": "NaHSO4 + H2O",
+      "optionC": "Na2S + O2",
+      "optionD": "NaSO3 + H2O",
+      "correctOption": "A",
+      "explanation": "Diprotic acid neutralizes with two moles of base giving sulfate salt and water.",
+      "questionNo": 20
+    },
+    {
+      "id": "chapter-09-split-01-q21",
+      "questionText": "Q21. Acid rain প্রধানত কোন গ্যাস থেকে আসে? English: Acid rain mainly originates from which gas?",
+      "optionA": "SO2/NOx",
+      "optionB": "O2",
+      "optionC": "CO2",
+      "optionD": "H2",
+      "correctOption": "A",
+      "explanation": "Sulfur dioxide and nitrogen oxides form acids in atmosphere.",
+      "questionNo": 21
+    },
+    {
+      "id": "chapter-09-split-01-q22",
+      "questionText": "Q22. Which indicator is colorless in acidic and pink in basic (phenolphthalein)? English: Phenolphthalein is...",
+      "optionA": "Colorless in acid, pink in base",
+      "optionB": "Pink in acid, colorless in base",
+      "optionC": "Always colorless",
+      "optionD": "Always pink",
+      "correctOption": "A",
+      "explanation": "Phenolphthalein is colorless below pH ~8.2 and pink above ~10.",
+      "questionNo": 22
+    },
+    {
+      "id": "chapter-09-split-01-q23",
+      "questionText": "Q23. Which salt formed from weak acid and strong base gives basic solution? English: Example?",
+      "optionA": "NaCH3COO",
+      "optionB": "NH4Cl",
+      "optionC": "NaCl",
+      "optionD": "KNO3",
+      "correctOption": "A",
+      "explanation": "Acetate ion hydrolyzes producing OH- → basic solution.",
+      "questionNo": 23
+    },
+    {
+      "id": "chapter-09-split-01-q24",
+      "questionText": "Q24. Which is amphoteric oxide: Al2O3, CO2, SO2, Na2O? English: Amphoteric oxide is?",
+      "optionA": "Al2O3",
+      "optionB": "CO2",
+      "optionC": "SO2",
+      "optionD": "Na2O",
+      "correctOption": "A",
+      "explanation": "Aluminium oxide reacts with both acids and bases → amphoteric.",
+      "questionNo": 24
+    },
+    {
+      "id": "chapter-09-split-01-q25",
+      "questionText": "Q25. A solution has [H+] = 1×10^-4 M, pH = ? English: pH value?",
+      "optionA": "4",
+      "optionB": "10",
+      "optionC": "7",
+      "optionD": "14",
+      "correctOption": "A",
+      "explanation": "pH = -log[H+] = 4.",
+      "questionNo": 25
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="100%" height="100%" viewBox="0 0 360 220">
+  <defs>
+    <radialGradient id="bg" cx="50%" cy="45%" r="75%">
+      <stop offset="0%" stop-color="#047857"/>
+      <stop offset="100%" stop-color="#020617"/>
+    </radialGradient>
+    <filter id="g">
+      <feDropShadow dx="0" dy="0" stdDeviation="5" flood-color="#fde047" flood-opacity=".7"/>
+    </filter>
+    <style>
+      .cell{fill:#052e16;stroke:#bbf7d0;stroke-width:3}
+      .dna{fill:none;stroke:#38bdf8;stroke-width:4;stroke-linecap:round}
+      .pl{fill:none;stroke:#fde047;stroke-width:8;stroke-linecap:round;filter:url(#g)}
+      .label{font-family:Arial,sans-serif;font-size:19px;font-weight:900;fill:#fff}
+    </style>
+  </defs>
+  <rect width="360" height="220" rx="18" fill="url(#bg)"/>
+  <rect x="65" y="49" width="230" height="122" rx="61" class="cell"/>
+  <path d="M100 112 C132 78 164 146 196 112 S248 78 272 112" class="dna"/>
+  <ellipse cx="145" cy="134" rx="31" ry="22" class="pl"/>
+  <text x="145" y="139" text-anchor="middle" class="label">P</text>
+</svg>

@@ -1,0 +1,282 @@
+{
+  "setId": "chapter-08-split-04",
+  "reason": "DUPLICATE_OF_chapter-08-split-04",
+  "quarantinedAt": "2026-06-16T10:44:44.889Z",
+  "questions": [
+    {
+      "id": "chapter-08-split-04-q01",
+      "questionText": "স্পন্দনশীল বস্তুতে শক্তি কীভাবে পরিবর্তিত হয়?",
+      "optionA": "স্থির গতিশক্তি",
+      "optionB": "স্থির বিভবশক্তি",
+      "optionC": "গতি ও বিভব শক্তির মধ্যে রূপান্তর",
+      "optionD": "শক্তি বৃদ্ধি পায়",
+      "correctOption": "C",
+      "explanation": "",
+      "questionNo": 1
+    },
+    {
+      "id": "chapter-08-split-04-q02",
+      "questionText": "একটি স্প্রিং-ভর সিস্টেমে ভর m এবং স্প্রিং ধ্রুবক k, এর কৌণিক কম্পাঙ্ক ω₁; ভর দ্বিগুণ করলে ω₂ কত?",
+      "optionA": "ω₁/√2",
+      "optionB": "√2 ω₁",
+      "optionC": "ω₁/2",
+      "optionD": "2ω₁",
+      "correctOption": "A",
+      "explanation": "",
+      "questionNo": 2
+    },
+    {
+      "id": "chapter-08-split-04-q03",
+      "questionText": "সরল ছন্দিত গতির বৈশিষ্ট্য নয় কোনটি?",
+      "optionA": "গতিপথ সরলরেখা",
+      "optionB": "ত্বরণ সরণের সমানুপাতিক ও বিপরীতমুখী",
+      "optionC": "বেগ ধ্রুব",
+      "optionD": "পর্যাবৃত্ত গতি",
+      "correctOption": "C",
+      "explanation": "",
+      "questionNo": 3
+    },
+    {
+      "id": "chapter-08-split-04-q04",
+      "questionText": "একটি কণা SHM করছে। বিস্তার 5 cm, দোলনকাল 0.2 s। সর্বোচ্চ বেগ (cm/s) কত?",
+      "optionA": "50π",
+      "optionB": "25π",
+      "optionC": "10π",
+      "optionD": "5π",
+      "correctOption": "A",
+      "explanation": "",
+      "questionNo": 4
+    },
+    {
+      "id": "chapter-08-split-04-q05",
+      "questionText": "একটি সরল দোলকের দোলনকাল T₁ = 2 s, দৈর্ঘ্য 1 m। দৈর্ঘ্য 0.5 m করলে T₂ কত?",
+      "optionA": "√2 s",
+      "optionB": "2 s",
+      "optionC": "1 s",
+      "optionD": "4 s",
+      "correctOption": "A",
+      "explanation": "",
+      "questionNo": 5
+    },
+    {
+      "id": "chapter-08-split-04-q06",
+      "questionText": "কম্পাঙ্কের SI একক কী?",
+      "optionA": "হার্জ (Hz)",
+      "optionB": "রেডিয়ান/সে",
+      "optionC": "সেকেন্ড",
+      "optionD": "মিটার/সে",
+      "correctOption": "A",
+      "explanation": "",
+      "questionNo": 6
+    },
+    {
+      "id": "chapter-08-split-04-q07",
+      "questionText": "স্পন্দনকালের একক কী?",
+      "optionA": "হার্জ",
+      "optionB": "সেকেন্ড",
+      "optionC": "রেডিয়ান",
+      "optionD": "মিটার",
+      "correctOption": "B",
+      "explanation": "",
+      "questionNo": 7
+    },
+    {
+      "id": "chapter-08-split-04-q08",
+      "questionText": "একটি সরল দোলকের দৈর্ঘ্য 0.4 m, g=10 m/s², দোলনকাল কত?",
+      "optionA": "0.4π s",
+      "optionB": "0.8π s",
+      "optionC": "2π s",
+      "optionD": "0.2π s",
+      "correctOption": "A",
+      "explanation": "",
+      "questionNo": 8
+    },
+    {
+      "id": "chapter-08-split-04-q09",
+      "questionText": "একটি স্প্রিং ধ্রুবক k=200 N/m, ভর 2 kg, বিস্তার 0.1 m, মোট শক্তি কত?",
+      "optionA": "1 J",
+      "optionB": "2 J",
+      "optionC": "0.5 J",
+      "optionD": "4 J",
+      "correctOption": "A",
+      "explanation": "",
+      "questionNo": 9
+    },
+    {
+      "id": "chapter-08-split-04-q10",
+      "questionText": "অবমন্দন বল F_d = ?",
+      "optionA": "−bv",
+      "optionB": "−kx",
+      "optionC": "−b v²",
+      "optionD": "−k x²",
+      "correctOption": "A",
+      "explanation": "",
+      "questionNo": 10
+    },
+    {
+      "id": "chapter-08-split-04-q11",
+      "questionText": "একটি দোলক ঘড়ি বিষুবরেখা থেকে মেরুতে নিলে ঘড়িটি –",
+      "optionA": "ধীরে চলবে",
+      "optionB": "দ্রুত চলবে",
+      "optionC": "সঠিক সময় দেবে",
+      "optionD": "থেমে যাবে",
+      "correctOption": "B",
+      "explanation": "",
+      "questionNo": 11
+    },
+    {
+      "id": "chapter-08-split-04-q12",
+      "questionText": "সরল দোলকের সূত্র শুধুমাত্র কখন প্রযোজ্য?",
+      "optionA": "বিস্তার ছোট হলে",
+      "optionB": "যেকোনো বিস্তারে",
+      "optionC": "শুধু বড় বিস্তারে",
+      "optionD": "কোনো নির্দিষ্টতায় নয়",
+      "correctOption": "A",
+      "explanation": "",
+      "questionNo": 12
+    },
+    {
+      "id": "chapter-08-split-04-q13",
+      "questionText": "একটি স্প্রিং-ভর সিস্টেমের গতির সমীকরণ m d²x/dt² + kx = 0, এর সমাধান কোনটি?",
+      "optionA": "x = A sin ωt + B cos ωt",
+      "optionB": "x = A t²",
+      "optionC": "x = A eᵏᵗ",
+      "optionD": "x = A ln t",
+      "correctOption": "A",
+      "explanation": "",
+      "questionNo": 13
+    },
+    {
+      "id": "chapter-08-split-04-q14",
+      "questionText": "SHM-এ দশা (phase) φ = ?",
+      "optionA": "ωt + φ₀",
+      "optionB": "ωt",
+      "optionC": "φ₀",
+      "optionD": "2π/T",
+      "correctOption": "A",
+      "explanation": "",
+      "questionNo": 14
+    },
+    {
+      "id": "chapter-08-split-04-q15",
+      "questionText": "একটি কণার SHM এর বিস্তার 10 cm, কৌণিক কম্পাঙ্ক π rad/s, সর্বোচ্চ ত্বরণ কত?",
+      "optionA": "10π² cm/s²",
+      "optionB": "100π² cm/s²",
+      "optionC": "100 cm/s²",
+      "optionD": "10 cm/s²",
+      "correctOption": "A",
+      "explanation": "",
+      "questionNo": 15
+    },
+    {
+      "id": "chapter-08-split-04-q16",
+      "questionText": "একটি স্প্রিং ধ্রুবক k এর স্প্রিংকে টেনে রাখা হলে তার প্রসারণ x, সঞ্চিত বিভবশক্তি U = ?",
+      "optionA": "½kx²",
+      "optionB": "kx²",
+      "optionC": "½k/x²",
+      "optionD": "kx",
+      "correctOption": "A",
+      "explanation": "",
+      "questionNo": 16
+    },
+    {
+      "id": "chapter-08-split-04-q17",
+      "questionText": "একটি দোলক ঘড়ির দোলনকাল 1 s, দৈর্ঘ্য কত? (g=π²)",
+      "optionA": "0.25 m",
+      "optionB": "0.5 m",
+      "optionC": "1 m",
+      "optionD": "2 m",
+      "correctOption": "A",
+      "explanation": "",
+      "questionNo": 17
+    },
+    {
+      "id": "chapter-08-split-04-q18",
+      "questionText": "SHM-এ গতিশক্তি ও বিভবশক্তির গড় মান কী?",
+      "optionA": "Eₖ_avg = Eₚ_avg = ¼kA²",
+      "optionB": "Eₖ_avg = Eₚ_avg = ½kA²",
+      "optionC": "Eₖ_avg = ½kA², Eₚ_avg = 0",
+      "optionD": "ভিন্ন",
+      "correctOption": "A",
+      "explanation": "",
+      "questionNo": 18
+    },
+    {
+      "id": "chapter-08-split-04-q19",
+      "questionText": "একটি সরল দোলকের গোলকের ভর দ্বিগুণ করলে দোলনকাল কেমন হয়?",
+      "optionA": "অপরিবর্তিত থাকে",
+      "optionB": "দ্বিগুণ হয়",
+      "optionC": "অর্ধেক হয়",
+      "optionD": "√2 গুণ হয়",
+      "correctOption": "A",
+      "explanation": "",
+      "questionNo": 19
+    },
+    {
+      "id": "chapter-08-split-04-q20",
+      "questionText": "শব্দ সৃষ্টির জন্য কোনটি দায়ী?",
+      "optionA": "SHM",
+      "optionB": "পর্যাবৃত্ত গতি",
+      "optionC": "অনুনাদ",
+      "optionD": "উপরের সবগুলোই",
+      "correctOption": "D",
+      "explanation": "",
+      "questionNo": 20
+    },
+    {
+      "id": "chapter-08-split-04-q21",
+      "questionText": "একটি স্প্রিং এর সাথে ভর ঝুলিয়ে 2 cm টেনে ছেড়ে দেওয়া হলো, বিস্তার 2 cm, দোলনকাল T। ভর দ্বিগুণ করলে বিস্তার কত?",
+      "optionA": "2 cm",
+      "optionB": "4 cm",
+      "optionC": "1 cm",
+      "optionD": "0",
+      "correctOption": "A",
+      "explanation": "",
+      "questionNo": 21
+    },
+    {
+      "id": "chapter-08-split-04-q22",
+      "questionText": "একটি স্প্রিং-ভর সিস্টেমে কৌণিক কম্পাঙ্ক ω = 10 rad/s, বিস্তার 0.05 m, সর্বোচ্চ বেগ কত?",
+      "optionA": "0.5 m/s",
+      "optionB": "1 m/s",
+      "optionC": "5 m/s",
+      "optionD": "0.05 m/s",
+      "correctOption": "A",
+      "explanation": "",
+      "questionNo": 22
+    },
+    {
+      "id": "chapter-08-split-04-q23",
+      "questionText": "একটি দোলক ঘড়িকে লিফটে উপরে ত্বরণ a সহকারে তুললে দোলনকাল কেমন হবে?",
+      "optionA": "T' = 2π√(L/(g+a))",
+      "optionB": "T' = 2π√(L/(g-a))",
+      "optionC": "T' = 2π√(L/g)",
+      "optionD": "T' = 0",
+      "correctOption": "A",
+      "explanation": "",
+      "questionNo": 23
+    },
+    {
+      "id": "chapter-08-split-04-q24",
+      "questionText": "লিফট নিচে পড়ন্ত হলে (a=g) দোলনকাল কত?",
+      "optionA": "অসীম",
+      "optionB": "0",
+      "optionC": "T=2π√(L/g)",
+      "optionD": "T=2π√(L/0)",
+      "correctOption": "A",
+      "explanation": "",
+      "questionNo": 24
+    },
+    {
+      "id": "chapter-08-split-04-q25",
+      "questionText": "পর্যাবৃত্ত গতির উদাহরণ কোনটি?",
+      "optionA": "ঘড়ির কাঁটার গতি",
+      "optionB": "পড়ন্ত বস্তুর গতি",
+      "optionC": "সরলরেখায় ধ্রুব ত্বরণের গতি",
+      "optionD": "একটি বস্তুকে ছুঁড়ে দেওয়া",
+      "correctOption": "A",
+      "explanation": "",
+      "questionNo": 25
+    }
+  ]
+}

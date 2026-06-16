@@ -1,177 +1,82 @@
 {
-  "ssc-higher-math-ch08-set03-q01": {
-    "answer": "$-\\cot\\theta$",
-    "answerIndex": 0,
-    "difficulty": 1200,
-    "explanation": "সঠিক উত্তর: ক। — 2023 সালের barishal বোর্ড/বোর্ড-প্যাটার্ন থেকে পাওয়া বা অনুরূপ হওয়ায় এটি high-priority।",
-    "topic": "Board-standard concept"
+  "ssc-higher-math-chapter-08-model-test-03-q01": {
+    "correctOption": "5",
+    "explanation": "probability"
   },
-  "ssc-higher-math-ch08-set03-q02": {
-    "answer": "-1/sqrt(3)",
-    "answerIndex": 1,
-    "difficulty": 1200,
-    "explanation": "সঠিক উত্তর: খ। — 2025 সালের mymensingh বোর্ড/বোর্ড-প্যাটার্ন থেকে পাওয়া বা অনুরূপ হওয়ায় এটি high-priority।",
-    "topic": "Board-standard concept"
+  "ssc-higher-math-chapter-08-model-test-03-q02": {
+    "correctOption": "25",
+    "explanation": "equation"
   },
-  "ssc-higher-math-ch08-set03-q03": {
-    "answer": "8 units",
-    "answerIndex": 2,
-    "difficulty": 1200,
-    "explanation": "সঠিক উত্তর: গ। — 2025 সালের mymensingh বোর্ড/বোর্ড-প্যাটার্ন থেকে পাওয়া বা অনুরূপ হওয়ায় এটি high-priority।",
-    "topic": "Board-standard concept"
+  "ssc-higher-math-chapter-08-model-test-03-q03": {
+    "correctOption": "-5",
+    "explanation": "probability"
   },
-  "ssc-higher-math-ch08-set03-q04": {
-    "answer": "720 cu cm",
-    "answerIndex": 1,
-    "difficulty": 1200,
-    "explanation": "সঠিক উত্তর: খ। — 2025 সালের mymensingh বোর্ড/বোর্ড-প্যাটার্ন থেকে পাওয়া বা অনুরূপ হওয়ায় এটি high-priority।",
-    "topic": "Board-standard concept"
+  "ssc-higher-math-chapter-08-model-test-03-q04": {
+    "correctOption": "15",
+    "explanation": "equation"
   },
-  "ssc-higher-math-ch08-set03-q05": {
-    "answer": "128",
-    "answerIndex": 1,
-    "difficulty": 1200,
-    "explanation": "সঠিক উত্তর: খ। — 2025 সালের mymensingh বোর্ড/বোর্ড-প্যাটার্ন থেকে পাওয়া বা অনুরূপ হওয়ায় এটি high-priority।",
-    "topic": "Board-standard concept"
+  "ssc-higher-math-chapter-08-model-test-03-q05": {
+    "correctOption": "8",
+    "explanation": "probability"
   },
-  "ssc-higher-math-ch08-set03-q06": {
-    "answer": "$\\frac{p^2 + 1}{p^2 - 1}$",
-    "answerIndex": 2,
-    "difficulty": 1200,
-    "explanation": "সঠিক উত্তর: গ। — 2024 সালের jashore বোর্ড/বোর্ড-প্যাটার্ন থেকে পাওয়া বা অনুরূপ হওয়ায় এটি high-priority।",
-    "topic": "Board-standard concept"
+  "ssc-higher-math-chapter-08-model-test-03-q06": {
+    "correctOption": "6",
+    "explanation": "equation"
   },
-  "ssc-higher-math-ch08-set03-q07": {
-    "answer": "1",
-    "answerIndex": 1,
-    "difficulty": 1200,
-    "explanation": "মূল অভেদ/সংজ্ঞা থেকে sin²θ + cos²θ = 1। — Identity-based MCQ বোর্ডে বারবার আসে। — Board-standard concept টপিকটি syllabus + model/board pattern অনুযায়ী repeated high-priority area।",
-    "topic": "Board-standard concept"
+  "ssc-higher-math-chapter-08-model-test-03-q07": {
+    "correctOption": "18",
+    "explanation": "circle"
   },
-  "ssc-higher-math-ch08-set03-q08": {
-    "answer": "i ও ii",
-    "answerIndex": 0,
-    "difficulty": 1200,
-    "explanation": "secθ=1/cosθ, তাই iii ভুল। — Identity-based multi-statement board standard। — Board-standard concept টপিকটি syllabus + model/board pattern অনুযায়ী repeated high-priority area।",
-    "topic": "Board-standard concept"
+  "ssc-higher-math-chapter-08-model-test-03-q08": {
+    "correctOption": "17",
+    "explanation": "algebra"
   },
-  "ssc-higher-math-ch08-set03-q09": {
-    "answer": "sec²θ",
-    "answerIndex": 3,
-    "difficulty": 1200,
-    "explanation": "মূল অভেদ/সংজ্ঞা থেকে 1 + tan²θ = sec²θ। — Identity-based MCQ বোর্ডে বারবার আসে। — Board-standard concept টপিকটি syllabus + model/board pattern অনুযায়ী repeated high-priority area।",
-    "topic": "Board-standard concept"
+  "ssc-higher-math-chapter-08-model-test-03-q09": {
+    "correctOption": "68",
+    "explanation": "series"
   },
-  "ssc-higher-math-ch08-set03-q10": {
-    "answer": "cosec²θ",
-    "answerIndex": 0,
-    "difficulty": 1200,
-    "explanation": "মূল অভেদ/সংজ্ঞা থেকে 1 + cot²θ = cosec²θ। — Identity-based MCQ বোর্ডে বারবার আসে। — Board-standard concept টপিকটি syllabus + model/board pattern অনুযায়ী repeated high-priority area।",
-    "topic": "Board-standard concept"
+  "ssc-higher-math-chapter-08-model-test-03-q10": {
+    "correctOption": "113.09",
+    "explanation": "circle"
   },
-  "ssc-higher-math-ch08-set03-q11": {
-    "answer": "sinθ/cosθ",
-    "answerIndex": 1,
-    "difficulty": 1200,
-    "explanation": "মূল অভেদ/সংজ্ঞা থেকে tanθ = sinθ/cosθ। — Identity-based MCQ বোর্ডে বারবার আসে। — Board-standard concept টপিকটি syllabus + model/board pattern অনুযায়ী repeated high-priority area।",
-    "topic": "Board-standard concept"
+  "ssc-higher-math-chapter-08-model-test-03-q11": {
+    "correctOption": "7",
+    "explanation": "algebra"
   },
-  "ssc-higher-math-ch08-set03-q12": {
-    "answer": "cosθ/sinθ",
-    "answerIndex": 3,
-    "difficulty": 1200,
-    "explanation": "মূল অভেদ/সংজ্ঞা থেকে cotθ = cosθ/sinθ। — Identity-based MCQ বোর্ডে বারবার আসে। — Board-standard concept টপিকটি syllabus + model/board pattern অনুযায়ী repeated high-priority area।",
-    "topic": "Board-standard concept"
+  "ssc-higher-math-chapter-08-model-test-03-q12": {
+    "correctOption": "25",
+    "explanation": "series"
   },
-  "ssc-higher-math-ch08-set03-q13": {
-    "answer": "i ও ii",
-    "answerIndex": 0,
-    "difficulty": 1200,
-    "explanation": "secθ=1/cosθ, তাই iii ভুল। — Identity-based multi-statement board standard। — Board-standard concept টপিকটি syllabus + model/board pattern অনুযায়ী repeated high-priority area।",
-    "topic": "Board-standard concept"
+  "ssc-higher-math-chapter-08-model-test-03-q13": {
+    "correctOption": "9",
+    "explanation": "circle"
   },
-  "ssc-higher-math-ch08-set03-q14": {
-    "answer": "1",
-    "answerIndex": 2,
-    "difficulty": 1200,
-    "explanation": "মূল অভেদ/সংজ্ঞা থেকে sin²θ + cos²θ = 1। — Identity-based MCQ বোর্ডে বারবার আসে। — Board-standard concept টপিকটি syllabus + model/board pattern অনুযায়ী repeated high-priority area।",
-    "topic": "Board-standard concept"
+  "ssc-higher-math-chapter-08-model-test-03-q14": {
+    "correctOption": "28",
+    "explanation": "algebra"
   },
-  "ssc-higher-math-ch08-set03-q15": {
-    "answer": "i ও ii",
-    "answerIndex": 1,
-    "difficulty": 1200,
-    "explanation": "secθ=1/cosθ, তাই iii ভুল। — Identity-based multi-statement board standard। — Board-standard concept টপিকটি syllabus + model/board pattern অনুযায়ী repeated high-priority area।",
-    "topic": "Board-standard concept"
+  "ssc-higher-math-chapter-08-model-test-03-q15": {
+    "correctOption": "125",
+    "explanation": "series"
   },
-  "ssc-higher-math-ch08-set03-q16": {
-    "answer": "sec²θ",
-    "answerIndex": 0,
-    "difficulty": 1200,
-    "explanation": "মূল অভেদ/সংজ্ঞা থেকে 1 + tan²θ = sec²θ। — Identity-based MCQ বোর্ডে বারবার আসে। — Board-standard concept টপিকটি syllabus + model/board pattern অনুযায়ী repeated high-priority area।",
-    "topic": "Board-standard concept"
+  "ssc-higher-math-chapter-08-model-test-03-q16": {
+    "correctOption": "25",
+    "explanation": "equation"
   },
-  "ssc-higher-math-ch08-set03-q17": {
-    "answer": "cosec²θ",
-    "answerIndex": 0,
-    "difficulty": 1200,
-    "explanation": "মূল অভেদ/সংজ্ঞা থেকে 1 + cot²θ = cosec²θ। — Identity-based MCQ বোর্ডে বারবার আসে। — Board-standard concept টপিকটি syllabus + model/board pattern অনুযায়ী repeated high-priority area।",
-    "topic": "Board-standard concept"
+  "ssc-higher-math-chapter-08-model-test-03-q17": {
+    "correctOption": "6",
+    "explanation": "algebra"
   },
-  "ssc-higher-math-ch08-set03-q18": {
-    "answer": "sinθ/cosθ",
-    "answerIndex": 0,
-    "difficulty": 1200,
-    "explanation": "মূল অভেদ/সংজ্ঞা থেকে tanθ = sinθ/cosθ। — Identity-based MCQ বোর্ডে বারবার আসে। — Board-standard concept টপিকটি syllabus + model/board pattern অনুযায়ী repeated high-priority area।",
-    "topic": "Board-standard concept"
+  "ssc-higher-math-chapter-08-model-test-03-q18": {
+    "correctOption": "5",
+    "explanation": "equation"
   },
-  "ssc-higher-math-ch08-set03-q19": {
-    "answer": "i ও ii",
-    "answerIndex": 2,
-    "difficulty": 1200,
-    "explanation": "secθ=1/cosθ, তাই iii ভুল। — Identity-based multi-statement board standard। — Board-standard concept টপিকটি syllabus + model/board pattern অনুযায়ী repeated high-priority area।",
-    "topic": "Board-standard concept"
+  "ssc-higher-math-chapter-08-model-test-03-q19": {
+    "correctOption": "-4",
+    "explanation": "probability"
   },
-  "ssc-higher-math-ch08-set03-q20": {
-    "answer": "cosθ/sinθ",
-    "answerIndex": 1,
-    "difficulty": 1200,
-    "explanation": "মূল অভেদ/সংজ্ঞা থেকে cotθ = cosθ/sinθ। — Identity-based MCQ বোর্ডে বারবার আসে। — Board-standard concept টপিকটি syllabus + model/board pattern অনুযায়ী repeated high-priority area।",
-    "topic": "Board-standard concept"
-  },
-  "ssc-higher-math-ch08-set03-q21": {
-    "answer": "i ও ii",
-    "answerIndex": 2,
-    "difficulty": 1200,
-    "explanation": "secθ=1/cosθ, তাই iii ভুল। — Identity-based multi-statement board standard। — Board-standard concept টপিকটি syllabus + model/board pattern অনুযায়ী repeated high-priority area।",
-    "topic": "Board-standard concept"
-  },
-  "ssc-higher-math-ch08-set03-q22": {
-    "answer": "i ও ii",
-    "answerIndex": 1,
-    "difficulty": 1200,
-    "explanation": "secθ=1/cosθ, তাই iii ভুল। — Identity-based multi-statement board standard। — Board-standard concept টপিকটি syllabus + model/board pattern অনুযায়ী repeated high-priority area।",
-    "topic": "Board-standard concept"
-  },
-  "ssc-higher-math-ch08-set03-q23": {
-    "answer": "cosec²θ",
-    "answerIndex": 3,
-    "difficulty": 1200,
-    "explanation": "মূল অভেদ/সংজ্ঞা থেকে 1 + cot²θ = cosec²θ। — Identity-based MCQ বোর্ডে বারবার আসে। — Board-standard concept টপিকটি syllabus + model/board pattern অনুযায়ী repeated high-priority area।",
-    "topic": "Board-standard concept"
-  },
-  "ssc-higher-math-ch08-set03-q24": {
-    "answer": "sinθ/cosθ",
-    "answerIndex": 0,
-    "difficulty": 1200,
-    "explanation": "মূল অভেদ/সংজ্ঞা থেকে tanθ = sinθ/cosθ। — Identity-based MCQ বোর্ডে বারবার আসে। — Board-standard concept টপিকটি syllabus + model/board pattern অনুযায়ী repeated high-priority area।",
-    "topic": "Board-standard concept"
-  },
-  "ssc-higher-math-ch08-set03-q25": {
-    "answer": "i ও ii",
-    "answerIndex": 0,
-    "difficulty": 1200,
-    "explanation": "secθ=1/cosθ, তাই iii ভুল। — Identity-based multi-statement board standard। — Board-standard concept টপিকটি syllabus + model/board pattern অনুযায়ী repeated high-priority area।",
-    "topic": "Board-standard concept"
+  "ssc-higher-math-chapter-08-model-test-03-q20": {
+    "correctOption": "5",
+    "explanation": "algebra"
   }
 }

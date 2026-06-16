@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="100%" height="100%" viewBox="0 0 360 220">
+  <defs>
+    <marker id="arrow" markerWidth="8" markerHeight="8" refX="7" refY="3" orient="auto">
+      <path d="M0,0 L0,6 L8,3 z" fill="#f59e0b"/>
+    </marker>
+    <style>
+      .bg{fill:#020617}
+      .neuron{fill:none;stroke:#38bdf8;stroke-width:5;stroke-linecap:round;stroke-linejoin:round}
+      .body{fill:#0f172a;stroke:#38bdf8;stroke-width:4}
+      .nucleus{fill:#f59e0b}
+      .signal{stroke:#f59e0b;stroke-width:2.4;fill:none;marker-end:url(#arrow)}
+      .label{font-family:Arial,sans-serif;font-size:17px;font-weight:800;fill:#e5e7eb}
+    </style>
+  </defs>
+  <rect width="360" height="220" rx="18" class="bg"/>
+  <circle cx="125" cy="110" r="34" class="body"/>
+  <circle cx="125" cy="110" r="10" class="nucleus"/>
+  <path d="M95 100 C70 82 55 70 38 50" class="neuron"/>
+  <path d="M98 120 C70 130 55 145 38 165" class="neuron"/>
+  <path d="M113 78 C102 55 95 42 78 25" class="neuron"/>
+  <path d="M113 142 C100 165 95 178 78 198" class="neuron"/>
+  <path d="M158 110 C205 95 238 102 286 110" class="neuron"/>
+  <path d="M286 110 L320 90" class="neuron"/>
+  <path d="M286 110 L320 130" class="neuron"/>
+  <path d="M48 55 C72 76 92 92 112 104" class="signal"/>
+  <text x="55" y="42" text-anchor="middle" class="label">A</text>
+  <text x="125" y="158" text-anchor="middle" class="label">B</text>
+  <text x="230" y="92" text-anchor="middle" class="label">C</text>
+  <text x="318" y="80" text-anchor="middle" class="label">D</text>
+</svg>

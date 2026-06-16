@@ -1,0 +1,77 @@
+{
+  "setId": "ssc-general-math-chapter-03-model-test-03",
+  "reason": "DUPLICATE_OF_ssc-general-math-chapter-03-model-test-06",
+  "quarantinedAt": "2026-06-14T19:53:00.961Z",
+  "questions": [
+    {
+      "id": "ssc-general-math-chapter-03-model-test-03-q01",
+      "questionText": "x=2 হলে মান কত?",
+      "optionA": "c",
+      "optionB": "180",
+      "optionC": "y",
+      "optionD": "x",
+      "correctOption": "A",
+      "explanation": "substitution",
+      "chapter": "03",
+      "topic": "সমীকরণ",
+      "difficulty": "Board Standard",
+      "questionNo": 1
+    },
+    {
+      "id": "ssc-general-math-chapter-03-model-test-03-q02",
+      "questionText": "x=3 হলে মান কত?",
+      "optionA": "2",
+      "optionB": "y",
+      "optionC": "2x",
+      "optionD": "1",
+      "correctOption": "A",
+      "explanation": "substitution",
+      "chapter": "03",
+      "topic": "সমীকরণ",
+      "difficulty": "Board Standard",
+      "questionNo": 2
+    },
+    {
+      "id": "ssc-general-math-chapter-03-model-test-03-q03",
+      "questionText": "x=4 হলে মান কত?",
+      "optionA": "c",
+      "optionB": "b",
+      "optionC": "-1",
+      "optionD": "8",
+      "correctOption": "D",
+      "explanation": "substitution",
+      "chapter": "03",
+      "topic": "সমীকরণ",
+      "difficulty": "Board Standard",
+      "questionNo": 3
+    },
+    {
+      "id": "ssc-general-math-chapter-03-model-test-03-q04",
+      "questionText": "x=5 হলে মান কত?",
+      "optionA": "c",
+      "optionB": "10",
+      "optionC": "y",
+      "optionD": "180",
+      "correctOption": "B",
+      "explanation": "substitution",
+      "chapter": "03",
+      "topic": "সমীকরণ",
+      "difficulty": "Board Standard",
+      "questionNo": 4
+    },
+    {
+      "id": "ssc-general-math-chapter-03-model-test-03-q05",
+      "questionText": "x=1 হলে মান কত?",
+      "optionA": "0",
+      "optionB": "x",
+      "optionC": "2",
+      "optionD": "c",
+      "correctOption": "C",
+      "explanation": "substitution",
+      "chapter": "03",
+      "topic": "সমীকরণ",
+      "difficulty": "Board Standard",
+      "questionNo": 5
+    }
+  ]
+}

@@ -1,0 +1,282 @@
+{
+  "setId": "chapter-04-split-01",
+  "reason": "DUPLICATE_OF_chapter-04-split-01",
+  "quarantinedAt": "2026-06-16T10:44:44.884Z",
+  "questions": [
+    {
+      "id": "chapter-04-split-01-q01",
+      "questionText": "নিচের কোন পদার্থটি সবচেয়ে বেশি স্থিতিস্থাপক?",
+      "optionA": "রাবার",
+      "optionB": "তামা",
+      "optionC": "ইস্পাত",
+      "optionD": "কাচ",
+      "correctOption": "C",
+      "explanation": "",
+      "questionNo": 1
+    },
+    {
+      "id": "chapter-04-split-01-q02",
+      "questionText": "ইয়ং-এর গুণাঙ্ক ($Y$) কোন বিষয়ের উপর নির্ভর করে?",
+      "optionA": "তারের দৈর্ঘ্য",
+      "optionB": "তারের প্রস্থচ্ছেদ",
+      "optionC": "পদার্থের উপাদান",
+      "optionD": "প্রযুক্ত বল",
+      "correctOption": "C",
+      "explanation": "",
+      "questionNo": 2
+    },
+    {
+      "id": "chapter-04-split-01-q03",
+      "questionText": "দৈর্ঘ্য বিকৃতির (Longitudinal Strain) একক কী?",
+      "optionA": "মিটার",
+      "optionB": "মিটার/সেকেন্ড",
+      "optionC": "নিউটন/মিটার",
+      "optionD": "এর কোনো একক নেই",
+      "correctOption": "D",
+      "explanation": "",
+      "questionNo": 3
+    },
+    {
+      "id": "chapter-04-split-01-q04",
+      "questionText": "আয়তন গুণাঙ্কের (Bulk Modulus) বিপরীত রাশিকে কী বলে?",
+      "optionA": "দৃঢ়তা",
+      "optionB": "সংনম্যতা (Compressibility)",
+      "optionC": "নমনীয়তা",
+      "optionD": "সান্দ্রতা",
+      "correctOption": "B",
+      "explanation": "",
+      "questionNo": 4
+    },
+    {
+      "id": "chapter-04-split-01-q05",
+      "questionText": "একটি আদর্শ দৃঢ় বস্তুর (Perfectly Rigid Body) ইয়ং গুণাঙ্ক কত?",
+      "optionA": "শূন্য",
+      "optionB": "১",
+      "optionC": "অসীম",
+      "optionD": "বলা অসম্ভব",
+      "correctOption": "C",
+      "explanation": "",
+      "questionNo": 5
+    },
+    {
+      "id": "chapter-04-split-01-q06",
+      "questionText": "তরল ও গ্যাসীয় পদার্থের ক্ষেত্রে কোন স্থিতিস্থাপক গুণাঙ্কটি প্রযোজ্য?",
+      "optionA": "ইয়ং-এর গুণাঙ্ক",
+      "optionB": "দৃঢ়তার গুণাঙ্ক",
+      "optionC": "আয়তন গুণাঙ্ক",
+      "optionD": "পয়সনের অনুপাত",
+      "correctOption": "C",
+      "explanation": "",
+      "questionNo": 6
+    },
+    {
+      "id": "chapter-04-split-01-q07",
+      "questionText": "আকার পরিবর্তনের ফলে সৃষ্ট পীড়ন ও বিকৃতির অনুপাতকে কী বলে?",
+      "optionA": "ইয়ং-এর গুণাঙ্ক",
+      "optionB": "আয়তন গুণাঙ্ক",
+      "optionC": "দৃঢ়তার গুণাঙ্ক (Modulus of Rigidity)",
+      "optionD": "পয়সনের অনুপাত",
+      "correctOption": "C",
+      "explanation": "",
+      "questionNo": 7
+    },
+    {
+      "id": "chapter-04-split-01-q08",
+      "questionText": "স্থিতিস্থাপক ক্লান্তি (Elastic Fatigue) কী?",
+      "optionA": "বস্তু চিরতরে স্থিতিস্থাপকতা হারানো",
+      "optionB": "বারবার পীড়ন প্রয়োগের ফলে সাময়িকভাবে স্থিতিস্থাপকতা হ্রাস পাওয়া",
+      "optionC": "বস্তুর আয়তন বৃদ্ধি পাওয়া",
+      "optionD": "তারের ছিঁড়ে যাওয়া",
+      "correctOption": "B",
+      "explanation": "",
+      "questionNo": 8
+    },
+    {
+      "id": "chapter-04-split-01-q09",
+      "questionText": "অসহ পীড়ন (Breaking Stress) কিসের উপর নির্ভর করে?",
+      "optionA": "পদার্থের উপাদান",
+      "optionB": "দৈর্ঘ্য",
+      "optionC": "প্রস্থচ্ছেদ",
+      "optionD": "প্রযুক্ত বল",
+      "correctOption": "A",
+      "explanation": "",
+      "questionNo": 9
+    },
+    {
+      "id": "chapter-04-split-01-q10",
+      "questionText": "একটি তারের ব্যাসার্ধ অর্ধেক করা হলে এর অসহ ভার (Breaking Load) কতগুণ হবে?",
+      "optionA": "দ্বিগুণ",
+      "optionB": "চারগুণ",
+      "optionC": "অর্ধেক",
+      "optionD": "এক-চতুর্থাংশ",
+      "correctOption": "D",
+      "explanation": "",
+      "questionNo": 10
+    },
+    {
+      "id": "chapter-04-split-01-q11",
+      "questionText": "হুকের সূত্র পদার্থের কোন অবস্থায় প্রযোজ্য?",
+      "optionA": "প্লাস্টিক সীমার মধ্যে",
+      "optionB": "স্থিতিস্থাপক সীমার মধ্যে",
+      "optionC": "অসহ সীমার মধ্যে",
+      "optionD": "ভাঙন বিন্দুতে",
+      "correctOption": "B",
+      "explanation": "",
+      "questionNo": 11
+    },
+    {
+      "id": "chapter-04-split-01-q12",
+      "questionText": "পীড়ন (Stress) ও চাপের (Pressure) মধ্যে মূল পার্থক্য কী?",
+      "optionA": "এককের পার্থক্য",
+      "optionB": "মাত্রার পার্থক্য",
+      "optionC": "চাপ বাহ্যিক বল, আর পীড়ন হলো বস্তুর ভেতরের প্রতিরোধকারী বল",
+      "optionD": "কোনো পার্থক্য নেই",
+      "correctOption": "C",
+      "explanation": "",
+      "questionNo": 12
+    },
+    {
+      "id": "chapter-04-split-01-q13",
+      "questionText": "পয়সনের অনুপাত ($\\\\sigma$) এর তাত্ত্বিক সীমা কত?",
+      "optionA": "$-1 \\\\le \\\\sigma \\\\le 0.5$",
+      "optionB": "$0 \\\\le \\\\sigma \\\\le 0.5$",
+      "optionC": "$-1 \\\\le \\\\sigma \\\\le 1$",
+      "optionD": "$-0.5 \\\\le \\\\sigma \\\\le 1$",
+      "correctOption": "A",
+      "explanation": "",
+      "questionNo": 13
+    },
+    {
+      "id": "chapter-04-split-01-q14",
+      "questionText": "কোনো পদার্থের পয়সনের অনুপাত $0.5$ হলে বস্তুটির—",
+      "optionA": "আয়তন বাড়ে",
+      "optionB": "আয়তন কমে",
+      "optionC": "আয়তন অপরিবর্তিত থাকে (অসংনম্য)",
+      "optionD": "দৈর্ঘ্য বাড়ে না",
+      "correctOption": "C",
+      "explanation": "",
+      "questionNo": 14
+    },
+    {
+      "id": "chapter-04-split-01-q15",
+      "questionText": "একটি তারের দৈর্ঘ্য বিকৃতি $0.02$ এবং পার্শ্ব বিকৃতি $0.005$। পয়সনের অনুপাত কত?",
+      "optionA": "$0.2$",
+      "optionB": "$0.25$",
+      "optionC": "$0.4$",
+      "optionD": "$4$",
+      "correctOption": "B",
+      "explanation": "",
+      "questionNo": 15
+    },
+    {
+      "id": "chapter-04-split-01-q16",
+      "questionText": "দুটি তারের উপাদানের ইয়ং গুণাঙ্ক একই। এদের দৈর্ঘ্যের অনুপাত $1:2$ এবং ব্যাসার্ধের অনুপাত $2:1$। একই বল প্রয়োগ করলে এদের দৈর্ঘ্য বৃদ্ধির অনুপাত কত হবে?",
+      "optionA": "$1:8$",
+      "optionB": "$8:1$",
+      "optionC": "$1:4$",
+      "optionD": "$4:1$",
+      "correctOption": "A",
+      "explanation": "",
+      "questionNo": 16
+    },
+    {
+      "id": "chapter-04-split-01-q17",
+      "questionText": "পয়সনের অনুপাত কেবলমাত্র কোন ধরনের পদার্থের বৈশিষ্ট্য?",
+      "optionA": "কঠিন",
+      "optionB": "তরল",
+      "optionC": "বায়বীয়",
+      "optionD": "প্লাজমা",
+      "correctOption": "A",
+      "explanation": "",
+      "questionNo": 17
+    },
+    {
+      "id": "chapter-04-split-01-q18",
+      "questionText": "তারকে টেনে দ্বিগুণ করা হলে এর বিকৃতি কত?",
+      "optionA": "১",
+      "optionB": "২",
+      "optionC": "০.৫",
+      "optionD": "শূন্য",
+      "correctOption": "A",
+      "explanation": "",
+      "questionNo": 18
+    },
+    {
+      "id": "chapter-04-split-01-q19",
+      "questionText": "তার টেনে দ্বিগুণ করলে ইয়ং-এর গুণাঙ্ক কত হবে?",
+      "optionA": "দ্বিগুণ",
+      "optionB": "অর্ধেক",
+      "optionC": "চারগুণ",
+      "optionD": "অপরিবর্তিত থাকবে",
+      "correctOption": "D",
+      "explanation": "",
+      "questionNo": 19
+    },
+    {
+      "id": "chapter-04-split-01-q20",
+      "questionText": "স্থিতিস্থাপকতা তাপমাত্রার সাথে কীভাবে পরিবর্তিত হয়?",
+      "optionA": "তাপমাত্রা বাড়লে স্থিতিস্থাপকতা বাড়ে",
+      "optionB": "তাপমাত্রা বাড়লে স্থিতিস্থাপকতা কমে",
+      "optionC": "অপরিবর্তিত থাকে",
+      "optionD": "উপাদানের উপর নির্ভর করে না",
+      "correctOption": "B",
+      "explanation": "",
+      "questionNo": 20
+    },
+    {
+      "id": "chapter-04-split-01-q21",
+      "questionText": "পৃষ্ঠটান ($T$) এর একক কোনটি?",
+      "optionA": "N/m",
+      "optionB": "J/m$^2$",
+      "optionC": "ক এবং খ উভয়ই",
+      "optionD": "N·m",
+      "correctOption": "C",
+      "explanation": "",
+      "questionNo": 21
+    },
+    {
+      "id": "chapter-04-split-01-q22",
+      "questionText": "তরলের পৃষ্ঠটান মূলত কোন বলের কারণে সৃষ্টি হয়?",
+      "optionA": "আসঞ্জন বল (Adhesive force)",
+      "optionB": "সংশক্তি বল (Cohesive force)",
+      "optionC": "মহাকর্ষ বল",
+      "optionD": "তড়িৎ বল",
+      "correctOption": "B",
+      "explanation": "",
+      "questionNo": 22
+    },
+    {
+      "id": "chapter-04-split-01-q23",
+      "questionText": "তাপমাত্রা বৃদ্ধি করলে তরলের পৃষ্ঠটান কীরূপ হয়?",
+      "optionA": "বৃদ্ধি পায়",
+      "optionB": "হ্রাস পায়",
+      "optionC": "অপরিবর্তিত থাকে",
+      "optionD": "প্রথমে কমে পরে বাড়ে",
+      "correctOption": "B",
+      "explanation": "",
+      "questionNo": 23
+    },
+    {
+      "id": "chapter-04-split-01-q24",
+      "questionText": "পানিতে ডিটারজেন্ট বা সাবান মেশালে পানির পৃষ্ঠটান—",
+      "optionA": "কমে",
+      "optionB": "বাড়ে",
+      "optionC": "অপরিবর্তিত থাকে",
+      "optionD": "শূন্য হয়",
+      "correctOption": "A",
+      "explanation": "",
+      "questionNo": 24
+    },
+    {
+      "id": "chapter-04-split-01-q25",
+      "questionText": "একটি তরল ফোঁটা (Drop) গোলকাকার ধারণ করে কেন?",
+      "optionA": "অভিকর্ষের কারণে",
+      "optionB": "পৃষ্ঠটানের কারণে",
+      "optionC": "সান্দ্রতার কারণে",
+      "optionD": "বায়ুচাপের কারণে",
+      "correctOption": "B",
+      "explanation": "",
+      "questionNo": 25
+    }
+  ]
+}

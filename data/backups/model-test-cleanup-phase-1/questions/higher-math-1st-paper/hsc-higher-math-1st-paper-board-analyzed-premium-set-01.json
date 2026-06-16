@@ -1,0 +1,377 @@
+[
+  {
+    "id": "hsc-higher-math-1st-paper-board-analyzed-premium-set-01-q01",
+    "subject": "higher-math-1st-paper",
+    "chapter": "hsc-higher-math-1st-paper-board-analyzed-premium-set-01",
+    "text": "মূলবিন্দু থেকে 3x - 4y + 5 = 0 রেখার লম্ব দূরত্ব কত?",
+    "options": [
+      "২",
+      "০",
+      "৫",
+      "১"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-higher-math-1st-paper-board-analyzed-premium-set-01-q02",
+    "subject": "higher-math-1st-paper",
+    "chapter": "hsc-higher-math-1st-paper-board-analyzed-premium-set-01",
+    "text": "d/dx (ln x) এর মান কত?",
+    "options": [
+      "ln x",
+      "e^x",
+      "1/x",
+      "x"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-higher-math-1st-paper-board-analyzed-premium-set-01-q03",
+    "subject": "higher-math-1st-paper",
+    "chapter": "hsc-higher-math-1st-paper-board-analyzed-premium-set-01",
+    "text": "(2, 3) এবং (4, 5) বিন্দুগামী সরলরেখার ঢাল কত?",
+    "options": [
+      "০",
+      "১",
+      "-১",
+      "২"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-higher-math-1st-paper-board-analyzed-premium-set-01-q04",
+    "subject": "higher-math-1st-paper",
+    "chapter": "hsc-higher-math-1st-paper-board-analyzed-premium-set-01",
+    "text": "lim_{x->0} (sin x / x) এর মান কত?",
+    "options": [
+      "১",
+      "বিদ্যমান নেই",
+      "০",
+      "অসীম"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-higher-math-1st-paper-board-analyzed-premium-set-01-q05",
+    "subject": "higher-math-1st-paper",
+    "chapter": "hsc-higher-math-1st-paper-board-analyzed-premium-set-01",
+    "text": "sin(A+B) এর সমতুল্য সূত্র কোনটি?",
+    "options": [
+      "cos A cos B - sin A sin B",
+      "sin A cos B - cos A sin B",
+      "কোনোটিই নয়",
+      "sin A cos B + cos A sin B"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-higher-math-1st-paper-board-analyzed-premium-set-01-q06",
+    "subject": "higher-math-1st-paper",
+    "chapter": "hsc-higher-math-1st-paper-board-analyzed-premium-set-01",
+    "text": "ম্যাট্রিক্সের ডিটারমিন্যান্ট শূন্য হলে তাকে কী ম্যাট্রিক্স বলে?",
+    "options": [
+      "প্রতিসম ম্যাট্রিক্স",
+      "অভেদক ম্যাট্রিক্স",
+      "অ-ব্যতিক্রমী ম্যাট্রিক্স",
+      "ব্যতিক্রমী ম্যাট্রিক্স"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-higher-math-1st-paper-board-analyzed-premium-set-01-q07",
+    "subject": "higher-math-1st-paper",
+    "chapter": "hsc-higher-math-1st-paper-board-analyzed-premium-set-01",
+    "text": "$\\int_0^1 xdx$ কত?",
+    "options": [
+      "$\\frac13$",
+      "$\\frac12$",
+      "1",
+      "0"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-higher-math-1st-paper-board-analyzed-premium-set-01-q08",
+    "subject": "higher-math-1st-paper",
+    "chapter": "hsc-higher-math-1st-paper-board-analyzed-premium-set-01",
+    "text": "$\\sin^2\\theta+\\cos^2\\theta$ কত?",
+    "options": [
+      "$\\sec^2\\theta$",
+      "1",
+      "0",
+      "$\\tan\\theta$"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-higher-math-1st-paper-board-analyzed-premium-set-01-q09",
+    "subject": "higher-math-1st-paper",
+    "chapter": "hsc-higher-math-1st-paper-board-analyzed-premium-set-01",
+    "text": "$f(x)=x^2$ ফাংশনটি কেমন?",
+    "options": [
+      "Even",
+      "Periodic",
+      "Odd",
+      "Constant"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-higher-math-1st-paper-board-analyzed-premium-set-01-q10",
+    "subject": "higher-math-1st-paper",
+    "chapter": "hsc-higher-math-1st-paper-board-analyzed-premium-set-01",
+    "text": "$(x-3)^2+(y-2)^2=16$ বৃত্তের কেন্দ্র ও ব্যাসার্ধ কত?",
+    "options": [
+      "$(3,2), 16$",
+      "$(0,0),1$",
+      "$(3,2), 4$",
+      "$(-3,-2), 4$"
+    ],
+    "image": "/images/quiz/hsc-higher-math-1st-paper-board-analyzed-premium-set-01-q10.svg",
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-higher-math-1st-paper-board-analyzed-premium-set-01-q11",
+    "subject": "higher-math-1st-paper",
+    "chapter": "hsc-higher-math-1st-paper-board-analyzed-premium-set-01",
+    "text": "$(x-3)^2+(y-3)^2=16$ বৃত্তের কেন্দ্র ও ব্যাসার্ধ কত?",
+    "options": [
+      "$(3,3), 16$",
+      "$(-3,-3), 4$",
+      "$(0,0),1$",
+      "$(3,3), 4$"
+    ],
+    "image": "/images/quiz/hsc-higher-math-1st-paper-board-analyzed-premium-set-01-q11.svg",
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-higher-math-1st-paper-board-analyzed-premium-set-01-q12",
+    "subject": "higher-math-1st-paper",
+    "chapter": "hsc-higher-math-1st-paper-board-analyzed-premium-set-01",
+    "text": "$(x-3)^2+(y-6)^2=36$ বৃত্তের কেন্দ্র ও ব্যাসার্ধ কত?",
+    "options": [
+      "$(0,0),1$",
+      "$(3,6), 6$",
+      "$(-3,-6), 6$",
+      "$(3,6), 36$"
+    ],
+    "image": "/images/quiz/hsc-higher-math-1st-paper-board-analyzed-premium-set-01-q12.svg",
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-higher-math-1st-paper-board-analyzed-premium-set-01-q13",
+    "subject": "higher-math-1st-paper",
+    "chapter": "hsc-higher-math-1st-paper-board-analyzed-premium-set-01",
+    "text": "$(x-4)^2+(y-2)^2=25$ বৃত্তের কেন্দ্র ও ব্যাসার্ধ কত?",
+    "options": [
+      "$(4,2), 25$",
+      "$(0,0),1$",
+      "$(4,2), 5$",
+      "$(-4,-2), 5$"
+    ],
+    "image": "/images/quiz/hsc-higher-math-1st-paper-board-analyzed-premium-set-01-q13.svg",
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-higher-math-1st-paper-board-analyzed-premium-set-01-q14",
+    "subject": "higher-math-1st-paper",
+    "chapter": "hsc-higher-math-1st-paper-board-analyzed-premium-set-01",
+    "text": "$(x-4)^2+(y-3)^2=25$ বৃত্তের কেন্দ্র ও ব্যাসার্ধ কত?",
+    "options": [
+      "$(4,3), 5$",
+      "$(4,3), 25$",
+      "$(0,0),1$",
+      "$(-4,-3), 5$"
+    ],
+    "image": "/images/quiz/hsc-higher-math-1st-paper-board-analyzed-premium-set-01-q14.svg",
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-higher-math-1st-paper-board-analyzed-premium-set-01-q15",
+    "subject": "higher-math-1st-paper",
+    "chapter": "hsc-higher-math-1st-paper-board-analyzed-premium-set-01",
+    "text": "$(x-4)^2+(y-6)^2=49$ বৃত্তের কেন্দ্র ও ব্যাসার্ধ কত?",
+    "options": [
+      "$(0,0),1$",
+      "$(4,6), 7$",
+      "$(-4,-6), 7$",
+      "$(4,6), 49$"
+    ],
+    "image": "/images/quiz/hsc-higher-math-1st-paper-board-analyzed-premium-set-01-q15.svg",
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-higher-math-1st-paper-board-analyzed-premium-set-01-q16",
+    "subject": "higher-math-1st-paper",
+    "chapter": "hsc-higher-math-1st-paper-board-analyzed-premium-set-01",
+    "text": "$(x-5)^2+(y-2)^2=36$ বৃত্তের কেন্দ্র ও ব্যাসার্ধ কত?",
+    "options": [
+      "$(5,2), 36$",
+      "$(-5,-2), 6$",
+      "$(0,0),1$",
+      "$(5,2), 6$"
+    ],
+    "image": "/images/quiz/hsc-higher-math-1st-paper-board-analyzed-premium-set-01-q16.svg",
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-higher-math-1st-paper-board-analyzed-premium-set-01-q17",
+    "subject": "higher-math-1st-paper",
+    "chapter": "hsc-higher-math-1st-paper-board-analyzed-premium-set-01",
+    "text": "$(x-5)^2+(y-3)^2=36$ বৃত্তের কেন্দ্র ও ব্যাসার্ধ কত?",
+    "options": [
+      "$(0,0),1$",
+      "$(-5,-3), 6$",
+      "$(5,3), 36$",
+      "$(5,3), 6$"
+    ],
+    "image": "/images/quiz/hsc-higher-math-1st-paper-board-analyzed-premium-set-01-q17.svg",
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-higher-math-1st-paper-board-analyzed-premium-set-01-q18",
+    "subject": "higher-math-1st-paper",
+    "chapter": "hsc-higher-math-1st-paper-board-analyzed-premium-set-01",
+    "text": "$(x-5)^2+(y-6)^2=64$ বৃত্তের কেন্দ্র ও ব্যাসার্ধ কত?",
+    "options": [
+      "$(0,0),1$",
+      "$(-5,-6), 8$",
+      "$(5,6), 8$",
+      "$(5,6), 64$"
+    ],
+    "image": "/images/quiz/hsc-higher-math-1st-paper-board-analyzed-premium-set-01-q18.svg",
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-higher-math-1st-paper-board-analyzed-premium-set-01-q19",
+    "subject": "higher-math-1st-paper",
+    "chapter": "hsc-higher-math-1st-paper-board-analyzed-premium-set-01",
+    "text": "$(x-6)^2+(y-2)^2=49$ বৃত্তের কেন্দ্র ও ব্যাসার্ধ কত?",
+    "options": [
+      "$(6,2), 49$",
+      "$(0,0),1$",
+      "$(-6,-2), 7$",
+      "$(6,2), 7$"
+    ],
+    "image": "/images/quiz/hsc-higher-math-1st-paper-board-analyzed-premium-set-01-q19.svg",
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-higher-math-1st-paper-board-analyzed-premium-set-01-q20",
+    "subject": "higher-math-1st-paper",
+    "chapter": "hsc-higher-math-1st-paper-board-analyzed-premium-set-01",
+    "text": "$(x-6)^2+(y-3)^2=49$ বৃত্তের কেন্দ্র ও ব্যাসার্ধ কত?",
+    "options": [
+      "$(0,0),1$",
+      "$(6,3), 7$",
+      "$(-6,-3), 7$",
+      "$(6,3), 49$"
+    ],
+    "image": "/images/quiz/hsc-higher-math-1st-paper-board-analyzed-premium-set-01-q20.svg",
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-higher-math-1st-paper-board-analyzed-premium-set-01-q21",
+    "subject": "higher-math-1st-paper",
+    "chapter": "hsc-higher-math-1st-paper-board-analyzed-premium-set-01",
+    "text": "$(x-6)^2+(y-6)^2=81$ বৃত্তের কেন্দ্র ও ব্যাসার্ধ কত?",
+    "options": [
+      "$(6,6), 9$",
+      "$(6,6), 81$",
+      "$(-6,-6), 9$",
+      "$(0,0),1$"
+    ],
+    "image": "/images/quiz/hsc-higher-math-1st-paper-board-analyzed-premium-set-01-q21.svg",
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-higher-math-1st-paper-board-analyzed-premium-set-01-q22",
+    "subject": "higher-math-1st-paper",
+    "chapter": "hsc-higher-math-1st-paper-board-analyzed-premium-set-01",
+    "text": "$(x-7)^2+(y-2)^2=64$ বৃত্তের কেন্দ্র ও ব্যাসার্ধ কত?",
+    "options": [
+      "$(7,2), 8$",
+      "$(0,0),1$",
+      "$(7,2), 64$",
+      "$(-7,-2), 8$"
+    ],
+    "image": "/images/quiz/hsc-higher-math-1st-paper-board-analyzed-premium-set-01-q22.svg",
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-higher-math-1st-paper-board-analyzed-premium-set-01-q23",
+    "subject": "higher-math-1st-paper",
+    "chapter": "hsc-higher-math-1st-paper-board-analyzed-premium-set-01",
+    "text": "$(x-7)^2+(y-3)^2=64$ বৃত্তের কেন্দ্র ও ব্যাসার্ধ কত?",
+    "options": [
+      "$(7,3), 64$",
+      "$(-7,-3), 8$",
+      "$(7,3), 8$",
+      "$(0,0),1$"
+    ],
+    "image": "/images/quiz/hsc-higher-math-1st-paper-board-analyzed-premium-set-01-q23.svg",
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-higher-math-1st-paper-board-analyzed-premium-set-01-q24",
+    "subject": "higher-math-1st-paper",
+    "chapter": "hsc-higher-math-1st-paper-board-analyzed-premium-set-01",
+    "text": "$(x-7)^2+(y-6)^2=100$ বৃত্তের কেন্দ্র ও ব্যাসার্ধ কত?",
+    "options": [
+      "$(-7,-6), 10$",
+      "$(7,6), 100$",
+      "$(7,6), 10$",
+      "$(0,0),1$"
+    ],
+    "image": "/images/quiz/hsc-higher-math-1st-paper-board-analyzed-premium-set-01-q24.svg",
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-higher-math-1st-paper-board-analyzed-premium-set-01-q25",
+    "subject": "higher-math-1st-paper",
+    "chapter": "hsc-higher-math-1st-paper-board-analyzed-premium-set-01",
+    "text": "$1+\\tan^2\\theta$ কত?",
+    "options": [
+      "$\\sin^2\\theta$",
+      "$\\sec^2\\theta$",
+      "$\\cos^2\\theta$",
+      "$\\cosec^2\\theta$"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  }
+]

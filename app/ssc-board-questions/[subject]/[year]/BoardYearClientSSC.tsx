@@ -105,9 +105,14 @@ export default function BoardYearClientSSC({
 
         {availableBoards.length === 0 ? (
           <Card variant="glass" className="p-8 text-center border-white/5">
-            <AlertCircle className="h-10 w-10 text-slate-500 mx-auto mb-3 animate-bounce" />
-            <p className="text-slate-400 text-sm">
-              প্রশ্ন এখনো যোগ করা হয়নি।
+            <AlertCircle className="h-10 w-10 text-amber-500/70 mx-auto mb-3" />
+            <p className="text-slate-300 font-semibold text-base mb-1">
+              {year} সালের বোর্ড প্রশ্ন এখনো যোগ করা হয়নি
+            </p>
+            <p className="text-slate-500 text-sm">
+              {parseInt(year) >= 2026
+                ? "এই বিষয়ের ২০২৬ সালের বোর্ড MCQ প্রশ্ন শীঘ্রই আসছে। অন্য বিষয় বা বছর চেষ্টা করুন।"
+                : "এই বছরের প্রশ্নপত্র এখনো আপলোড করা হয়নি।"}
             </p>
           </Card>
         ) : (

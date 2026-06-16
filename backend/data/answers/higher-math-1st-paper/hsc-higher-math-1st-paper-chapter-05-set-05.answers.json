@@ -1,0 +1,102 @@
+{
+  "hsc-higher-math-1st-paper-chapter-05-set-05-q01": {
+    "correctOption": "42",
+    "explanation": "সঠিক উত্তর: গ। $nP_r=n!/(n-r)!$।"
+  },
+  "hsc-higher-math-1st-paper-chapter-05-set-05-q02": {
+    "correctOption": "28",
+    "explanation": "সঠিক উত্তর: খ। $nC_r=n!/[r!(n-r)!]$।"
+  },
+  "hsc-higher-math-1st-paper-chapter-05-set-05-q03": {
+    "correctOption": "1",
+    "explanation": "সঠিক উত্তর: ঘ। $nC_0=1$।"
+  },
+  "hsc-higher-math-1st-paper-chapter-05-set-05-q04": {
+    "correctOption": "3628800",
+    "explanation": "সঠিক উত্তর: গ। $n$টি ভিন্ন বস্তুর arrangement $n!$।"
+  },
+  "hsc-higher-math-1st-paper-chapter-05-set-05-q05": {
+    "correctOption": "20",
+    "explanation": "সঠিক উত্তর: ঘ। কমিটিতে order গুরুত্বপূর্ণ নয়।"
+  },
+  "hsc-higher-math-1st-paper-chapter-05-set-05-q06": {
+    "correctOption": "$nP_r=r!\\,nC_r$",
+    "explanation": "সঠিক উত্তর: খ। বিন্যাসে নির্বাচিত r বস্তুর arrange করার factor $r!$।"
+  },
+  "hsc-higher-math-1st-paper-chapter-05-set-05-q07": {
+    "correctOption": "$nC_r=nC_{n-r}$",
+    "explanation": "সঠিক উত্তর: খ। Combination-এর মৌলিক ধর্ম।"
+  },
+  "hsc-higher-math-1st-paper-chapter-05-set-05-q08": {
+    "correctOption": "512",
+    "explanation": "সঠিক উত্তর: ক। $n$ element set-এর subset সংখ্যা $2^n$।"
+  },
+  "hsc-higher-math-1st-paper-chapter-05-set-05-q09": {
+    "correctOption": "90",
+    "explanation": "সঠিক উত্তর: গ। প্রথম স্থানে n এবং দ্বিতীয় স্থানে n-1 পছন্দ।"
+  },
+  "hsc-higher-math-1st-paper-chapter-05-set-05-q10": {
+    "correctOption": "না",
+    "explanation": "সঠিক উত্তর: ঘ। সমাবেশে নির্বাচন গুরুত্বপূর্ণ, বিন্যাস নয়।"
+  },
+  "hsc-higher-math-1st-paper-chapter-05-set-05-q11": {
+    "correctOption": "42",
+    "explanation": "সঠিক উত্তর: খ। $nP_r=n!/(n-r)!$।"
+  },
+  "hsc-higher-math-1st-paper-chapter-05-set-05-q12": {
+    "correctOption": "28",
+    "explanation": "সঠিক উত্তর: গ। $nC_r=n!/[r!(n-r)!]$।"
+  },
+  "hsc-higher-math-1st-paper-chapter-05-set-05-q13": {
+    "correctOption": "1",
+    "explanation": "সঠিক উত্তর: খ। $nC_0=1$।"
+  },
+  "hsc-higher-math-1st-paper-chapter-05-set-05-q14": {
+    "correctOption": "3628800",
+    "explanation": "সঠিক উত্তর: খ। $n$টি ভিন্ন বস্তুর arrangement $n!$।"
+  },
+  "hsc-higher-math-1st-paper-chapter-05-set-05-q15": {
+    "correctOption": "20",
+    "explanation": "সঠিক উত্তর: ঘ। কমিটিতে order গুরুত্বপূর্ণ নয়।"
+  },
+  "hsc-higher-math-1st-paper-chapter-05-set-05-q16": {
+    "correctOption": "$nP_r=r!\\,nC_r$",
+    "explanation": "সঠিক উত্তর: খ। বিন্যাসে নির্বাচিত r বস্তুর arrange করার factor $r!$।"
+  },
+  "hsc-higher-math-1st-paper-chapter-05-set-05-q17": {
+    "correctOption": "$nC_r=nC_{n-r}$",
+    "explanation": "সঠিক উত্তর: গ। Combination-এর মৌলিক ধর্ম।"
+  },
+  "hsc-higher-math-1st-paper-chapter-05-set-05-q18": {
+    "correctOption": "512",
+    "explanation": "সঠিক উত্তর: ক। $n$ element set-এর subset সংখ্যা $2^n$।"
+  },
+  "hsc-higher-math-1st-paper-chapter-05-set-05-q19": {
+    "correctOption": "90",
+    "explanation": "সঠিক উত্তর: গ। প্রথম স্থানে n এবং দ্বিতীয় স্থানে n-1 পছন্দ।"
+  },
+  "hsc-higher-math-1st-paper-chapter-05-set-05-q20": {
+    "correctOption": "না",
+    "explanation": "সঠিক উত্তর: খ। সমাবেশে নির্বাচন গুরুত্বপূর্ণ, বিন্যাস নয়।"
+  },
+  "hsc-higher-math-1st-paper-chapter-05-set-05-q21": {
+    "correctOption": "42",
+    "explanation": "সঠিক উত্তর: ঘ। $nP_r=n!/(n-r)!$।"
+  },
+  "hsc-higher-math-1st-paper-chapter-05-set-05-q22": {
+    "correctOption": "28",
+    "explanation": "সঠিক উত্তর: ক। $nC_r=n!/[r!(n-r)!]$।"
+  },
+  "hsc-higher-math-1st-paper-chapter-05-set-05-q23": {
+    "correctOption": "1",
+    "explanation": "সঠিক উত্তর: খ। $nC_0=1$।"
+  },
+  "hsc-higher-math-1st-paper-chapter-05-set-05-q24": {
+    "correctOption": "3628800",
+    "explanation": "সঠিক উত্তর: গ। $n$টি ভিন্ন বস্তুর arrangement $n!$।"
+  },
+  "hsc-higher-math-1st-paper-chapter-05-set-05-q25": {
+    "correctOption": "20",
+    "explanation": "সঠিক উত্তর: গ। কমিটিতে order গুরুত্বপূর্ণ নয়।"
+  }
+}

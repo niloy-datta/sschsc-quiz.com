@@ -20,6 +20,7 @@ export type NormalizedQuestion = {
   sourceBoard?: string | null;
   stimulusId?: string | null;
   stimulus?: string | null;
+  image?: string | null;
 };
 
 export type QuizSetType =

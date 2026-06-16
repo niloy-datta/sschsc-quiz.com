@@ -1,0 +1,3544 @@
+{
+  "level": "HSC",
+  "subject": "higher-math-1st-paper",
+  "datasetType": "chapterwise_hyper_mega_hot_board_standard",
+  "confidenceLabel": "Hyper Mega Hot — Highest Probability Board-Standard Pattern Cache",
+  "chapterWise": [
+    {
+      "chapter": "07",
+      "chapterName": "সংযুক্ত কোণের ত্রিকোণমিতিক অনুপাত",
+      "sets": [
+        {
+          "id": "hsc-higher-math-1st-paper-chapter-07-set-01",
+          "title": "Chapter 07 Hyper Mega Hot Set 01",
+          "questions": [
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-07-set-01-q01",
+              "question": "$\\sin(A+B)$ এর সঠিক সূত্র কোনটি?",
+              "options": [
+                {
+                  "text": "$\\sin A\\cos B+\\cos A\\sin B$",
+                  "label": "ক"
+                },
+                {
+                  "text": "$\\tan A+\\tan B$",
+                  "label": "খ"
+                },
+                {
+                  "text": "$\\sin A\\cos B-\\cos A\\sin B$",
+                  "label": "গ"
+                },
+                {
+                  "text": "$\\cos A\\cos B-\\sin A\\sin B$",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "ক",
+              "shortSolution": "সঠিক উত্তর: ক। যোগকোণের sine সূত্র প্রয়োগ করা হয়েছে।",
+              "chapter": "07",
+              "topic": "যোগকোণের sine",
+              "difficulty": "Easy",
+              "probability": "Board Favourite"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-07-set-01-q02",
+              "question": "$\\cos(A+B)$ এর সঠিক সূত্র কোনটি?",
+              "options": [
+                {
+                  "text": "$\\sin A\\cos B+\\cos A\\sin B$",
+                  "label": "ক"
+                },
+                {
+                  "text": "$\\cos A\\cos B-\\sin A\\sin B$",
+                  "label": "খ"
+                },
+                {
+                  "text": "$\\cos A\\cos B+\\sin A\\sin B$",
+                  "label": "গ"
+                },
+                {
+                  "text": "$\\tan A+\\tan B$",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "খ",
+              "shortSolution": "সঠিক উত্তর: খ। যোগকোণের cosine সূত্র প্রয়োগ করা হয়েছে।",
+              "chapter": "07",
+              "topic": "যোগকোণের cosine",
+              "difficulty": "Easy",
+              "probability": "Conceptual Trap"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-07-set-01-q03",
+              "question": "$\\tan(A+B)$ এর সঠিক সূত্র কোনটি?",
+              "options": [
+                {
+                  "text": "$\\frac{\\tan A-\\tan B}{1+\\tan A\\tan B}$",
+                  "label": "ক"
+                },
+                {
+                  "text": "$1-\\tan A\\tan B$",
+                  "label": "খ"
+                },
+                {
+                  "text": "$\\frac{\\tan A+\\tan B}{1-\\tan A\\tan B}$",
+                  "label": "গ"
+                },
+                {
+                  "text": "$\\tan A+\\tan B$",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "গ",
+              "shortSolution": "সঠিক উত্তর: গ। যোগকোণের tangent সূত্র প্রয়োগ করা হয়েছে।",
+              "chapter": "07",
+              "topic": "যোগকোণের tangent",
+              "difficulty": "Easy",
+              "probability": "Mega Hot"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-07-set-01-q04",
+              "question": "$\\sin2A$ এর সঠিক সূত্র কোনটি?",
+              "options": [
+                {
+                  "text": "$\\cos^2A-\\sin^2A$",
+                  "label": "ক"
+                },
+                {
+                  "text": "$2\\tan A$",
+                  "label": "খ"
+                },
+                {
+                  "text": "$2\\sin A\\cos A$",
+                  "label": "গ"
+                },
+                {
+                  "text": "$1-2\\sin^2A$",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "গ",
+              "shortSolution": "সঠিক উত্তর: গ। দ্বিগুণ কোণ সূত্র প্রয়োগ করা হয়েছে।",
+              "chapter": "07",
+              "topic": "দ্বিগুণ কোণ",
+              "difficulty": "Easy",
+              "probability": "Very Hot"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-07-set-01-q05",
+              "question": "$\\cos2A$ এর সঠিক সূত্র কোনটি?",
+              "options": [
+                {
+                  "text": "$\\sin^2A+\\cos^2A$",
+                  "label": "ক"
+                },
+                {
+                  "text": "$2\\sin A\\cos A$",
+                  "label": "খ"
+                },
+                {
+                  "text": "$\\cos^2A-\\sin^2A$",
+                  "label": "গ"
+                },
+                {
+                  "text": "$2\\tan A$",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "গ",
+              "shortSolution": "সঠিক উত্তর: গ। দ্বিগুণ কোণ সূত্র প্রয়োগ করা হয়েছে।",
+              "chapter": "07",
+              "topic": "দ্বিগুণ কোণ",
+              "difficulty": "Easy",
+              "probability": "Board Favourite"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-07-set-01-q06",
+              "question": "$\\tan2A$ এর সূত্র কোনটি?",
+              "options": [
+                {
+                  "text": "$2\\sin A\\cos A$",
+                  "label": "ক"
+                },
+                {
+                  "text": "$\\frac{\\tan A}{1+\\tan^2A}$",
+                  "label": "খ"
+                },
+                {
+                  "text": "$\\frac{2\\tan A}{1-\\tan^2A}$",
+                  "label": "গ"
+                },
+                {
+                  "text": "$1-\\tan^2A$",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "গ",
+              "shortSolution": "সঠিক উত্তর: গ। দ্বিগুণ কোণের tangent সূত্র।",
+              "chapter": "07",
+              "topic": "দ্বিগুণ কোণ",
+              "difficulty": "Easy",
+              "probability": "Conceptual Trap"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-07-set-01-q07",
+              "question": "$\\sin75^\\circ$ কোনভাবে লেখা যায়?",
+              "options": [
+                {
+                  "text": "$\\sin(45^\\circ+30^\\circ)$",
+                  "label": "ক"
+                },
+                {
+                  "text": "$\\sin(45^\\circ-30^\\circ)$",
+                  "label": "খ"
+                },
+                {
+                  "text": "$\\tan(45^\\circ+30^\\circ)$",
+                  "label": "গ"
+                },
+                {
+                  "text": "$\\cos(45^\\circ+30^\\circ)$",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "ক",
+              "shortSolution": "সঠিক উত্তর: ক। $75=45+30$।",
+              "chapter": "07",
+              "topic": "বিশেষ কোণের প্রয়োগ",
+              "difficulty": "Easy",
+              "probability": "Mega Hot"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-07-set-01-q08",
+              "question": "$\\cos15^\\circ$ কোনভাবে লেখা যায়?",
+              "options": [
+                {
+                  "text": "$\\sin(45^\\circ-30^\\circ)$",
+                  "label": "ক"
+                },
+                {
+                  "text": "$\\tan(45^\\circ-30^\\circ)$",
+                  "label": "খ"
+                },
+                {
+                  "text": "$\\cos(45^\\circ+30^\\circ)$",
+                  "label": "গ"
+                },
+                {
+                  "text": "$\\cos(45^\\circ-30^\\circ)$",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "ঘ",
+              "shortSolution": "সঠিক উত্তর: ঘ। $15=45-30$।",
+              "chapter": "07",
+              "topic": "বিশেষ কোণের প্রয়োগ",
+              "difficulty": "Medium",
+              "probability": "Very Hot"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-07-set-01-q09",
+              "question": "$\\sin A\\cos B+\\cos A\\sin B$ কোনটির সমান?",
+              "options": [
+                {
+                  "text": "$\\tan(A+B)$",
+                  "label": "ক"
+                },
+                {
+                  "text": "$\\cos(A+B)$",
+                  "label": "খ"
+                },
+                {
+                  "text": "$\\sin(A-B)$",
+                  "label": "গ"
+                },
+                {
+                  "text": "$\\sin(A+B)$",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "ঘ",
+              "shortSolution": "সঠিক উত্তর: ঘ। এটি sine যোগকোণের formula।",
+              "chapter": "07",
+              "topic": "Formula শনাক্তকরণ",
+              "difficulty": "Medium",
+              "probability": "Board Favourite"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-07-set-01-q10",
+              "question": "$\\cos A\\cos B+\\sin A\\sin B$ কোনটির সমান?",
+              "options": [
+                {
+                  "text": "$\\tan(A-B)$",
+                  "label": "ক"
+                },
+                {
+                  "text": "$\\cos(A-B)$",
+                  "label": "খ"
+                },
+                {
+                  "text": "$\\cos(A+B)$",
+                  "label": "গ"
+                },
+                {
+                  "text": "$\\sin(A+B)$",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "খ",
+              "shortSolution": "সঠিক উত্তর: খ। এটি cosine বিয়োগকোণের formula।",
+              "chapter": "07",
+              "topic": "Formula শনাক্তকরণ",
+              "difficulty": "Medium",
+              "probability": "Conceptual Trap"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-07-set-01-q11",
+              "question": "$\\sin(A+B)$ এর সঠিক সূত্র কোনটি? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 01-11 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+              "options": [
+                {
+                  "text": "$\\cos A\\cos B-\\sin A\\sin B$",
+                  "label": "ক"
+                },
+                {
+                  "text": "$\\sin A\\cos B-\\cos A\\sin B$",
+                  "label": "খ"
+                },
+                {
+                  "text": "$\\tan A+\\tan B$",
+                  "label": "গ"
+                },
+                {
+                  "text": "$\\sin A\\cos B+\\cos A\\sin B$",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "ঘ",
+              "shortSolution": "সঠিক উত্তর: ঘ। যোগকোণের sine সূত্র প্রয়োগ করা হয়েছে।",
+              "chapter": "07",
+              "topic": "যোগকোণের sine",
+              "difficulty": "Medium",
+              "probability": "Mega Hot"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-07-set-01-q12",
+              "question": "$\\cos(A+B)$ এর সঠিক সূত্র কোনটি? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 01-12 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+              "options": [
+                {
+                  "text": "$\\cos A\\cos B+\\sin A\\sin B$",
+                  "label": "ক"
+                },
+                {
+                  "text": "$\\cos A\\cos B-\\sin A\\sin B$",
+                  "label": "খ"
+                },
+                {
+                  "text": "$\\sin A\\cos B+\\cos A\\sin B$",
+                  "label": "গ"
+                },
+                {
+                  "text": "$\\tan A+\\tan B$",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "খ",
+              "shortSolution": "সঠিক উত্তর: খ। যোগকোণের cosine সূত্র প্রয়োগ করা হয়েছে।",
+              "chapter": "07",
+              "topic": "যোগকোণের cosine",
+              "difficulty": "Medium",
+              "probability": "Very Hot"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-07-set-01-q13",
+              "question": "$\\tan(A+B)$ এর সঠিক সূত্র কোনটি? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 01-13 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+              "options": [
+                {
+                  "text": "$\\tan A+\\tan B$",
+                  "label": "ক"
+                },
+                {
+                  "text": "$\\frac{\\tan A+\\tan B}{1-\\tan A\\tan B}$",
+                  "label": "খ"
+                },
+                {
+                  "text": "$\\frac{\\tan A-\\tan B}{1+\\tan A\\tan B}$",
+                  "label": "গ"
+                },
+                {
+                  "text": "$1-\\tan A\\tan B$",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "খ",
+              "shortSolution": "সঠিক উত্তর: খ। যোগকোণের tangent সূত্র প্রয়োগ করা হয়েছে।",
+              "chapter": "07",
+              "topic": "যোগকোণের tangent",
+              "difficulty": "Medium",
+              "probability": "Board Favourite"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-07-set-01-q14",
+              "question": "$\\sin2A$ এর সঠিক সূত্র কোনটি? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 01-14 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+              "options": [
+                {
+                  "text": "$2\\sin A\\cos A$",
+                  "label": "ক"
+                },
+                {
+                  "text": "$2\\tan A$",
+                  "label": "খ"
+                },
+                {
+                  "text": "$\\cos^2A-\\sin^2A$",
+                  "label": "গ"
+                },
+                {
+                  "text": "$1-2\\sin^2A$",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "ক",
+              "shortSolution": "সঠিক উত্তর: ক। দ্বিগুণ কোণ সূত্র প্রয়োগ করা হয়েছে।",
+              "chapter": "07",
+              "topic": "দ্বিগুণ কোণ",
+              "difficulty": "Medium",
+              "probability": "Conceptual Trap"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-07-set-01-q15",
+              "question": "$\\cos2A$ এর সঠিক সূত্র কোনটি? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 01-15 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+              "options": [
+                {
+                  "text": "$\\sin^2A+\\cos^2A$",
+                  "label": "ক"
+                },
+                {
+                  "text": "$2\\sin A\\cos A$",
+                  "label": "খ"
+                },
+                {
+                  "text": "$\\cos^2A-\\sin^2A$",
+                  "label": "গ"
+                },
+                {
+                  "text": "$2\\tan A$",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "গ",
+              "shortSolution": "সঠিক উত্তর: গ। দ্বিগুণ কোণ সূত্র প্রয়োগ করা হয়েছে।",
+              "chapter": "07",
+              "topic": "দ্বিগুণ কোণ",
+              "difficulty": "Hard",
+              "probability": "Mega Hot"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-07-set-01-q16",
+              "question": "$\\tan2A$ এর সূত্র কোনটি? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 01-16 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+              "options": [
+                {
+                  "text": "$1-\\tan^2A$",
+                  "label": "ক"
+                },
+                {
+                  "text": "$\\frac{\\tan A}{1+\\tan^2A}$",
+                  "label": "খ"
+                },
+                {
+                  "text": "$\\frac{2\\tan A}{1-\\tan^2A}$",
+                  "label": "গ"
+                },
+                {
+                  "text": "$2\\sin A\\cos A$",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "গ",
+              "shortSolution": "সঠিক উত্তর: গ। দ্বিগুণ কোণের tangent সূত্র।",
+              "chapter": "07",
+              "topic": "দ্বিগুণ কোণ",
+              "difficulty": "Hard",
+              "probability": "Very Hot"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-07-set-01-q17",
+              "question": "$\\sin75^\\circ$ কোনভাবে লেখা যায়? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 01-17 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+              "options": [
+                {
+                  "text": "$\\sin(45^\\circ-30^\\circ)$",
+                  "label": "ক"
+                },
+                {
+                  "text": "$\\sin(45^\\circ+30^\\circ)$",
+                  "label": "খ"
+                },
+                {
+                  "text": "$\\cos(45^\\circ+30^\\circ)$",
+                  "label": "গ"
+                },
+                {
+                  "text": "$\\tan(45^\\circ+30^\\circ)$",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "খ",
+              "shortSolution": "সঠিক উত্তর: খ। $75=45+30$।",
+              "chapter": "07",
+              "topic": "বিশেষ কোণের প্রয়োগ",
+              "difficulty": "Hard",
+              "probability": "Board Favourite"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-07-set-01-q18",
+              "question": "$\\cos15^\\circ$ কোনভাবে লেখা যায়? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 01-18 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+              "options": [
+                {
+                  "text": "$\\cos(45^\\circ+30^\\circ)$",
+                  "label": "ক"
+                },
+                {
+                  "text": "$\\tan(45^\\circ-30^\\circ)$",
+                  "label": "খ"
+                },
+                {
+                  "text": "$\\cos(45^\\circ-30^\\circ)$",
+                  "label": "গ"
+                },
+                {
+                  "text": "$\\sin(45^\\circ-30^\\circ)$",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "গ",
+              "shortSolution": "সঠিক উত্তর: গ। $15=45-30$।",
+              "chapter": "07",
+              "topic": "বিশেষ কোণের প্রয়োগ",
+              "difficulty": "Hard",
+              "probability": "Conceptual Trap"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-07-set-01-q19",
+              "question": "$\\sin A\\cos B+\\cos A\\sin B$ কোনটির সমান? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 01-19 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+              "options": [
+                {
+                  "text": "$\\cos(A+B)$",
+                  "label": "ক"
+                },
+                {
+                  "text": "$\\sin(A+B)$",
+                  "label": "খ"
+                },
+                {
+                  "text": "$\\sin(A-B)$",
+                  "label": "গ"
+                },
+                {
+                  "text": "$\\tan(A+B)$",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "খ",
+              "shortSolution": "সঠিক উত্তর: খ। এটি sine যোগকোণের formula।",
+              "chapter": "07",
+              "topic": "Formula শনাক্তকরণ",
+              "difficulty": "Hard",
+              "probability": "Mega Hot"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-07-set-01-q20",
+              "question": "$\\cos A\\cos B+\\sin A\\sin B$ কোনটির সমান? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 01-20 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+              "options": [
+                {
+                  "text": "$\\cos(A+B)$",
+                  "label": "ক"
+                },
+                {
+                  "text": "$\\tan(A-B)$",
+                  "label": "খ"
+                },
+                {
+                  "text": "$\\sin(A+B)$",
+                  "label": "গ"
+                },
+                {
+                  "text": "$\\cos(A-B)$",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "ঘ",
+              "shortSolution": "সঠিক উত্তর: ঘ। এটি cosine বিয়োগকোণের formula।",
+              "chapter": "07",
+              "topic": "Formula শনাক্তকরণ",
+              "difficulty": "Hard",
+              "probability": "Very Hot"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-07-set-01-q21",
+              "question": "$\\sin(A+B)$ এর সঠিক সূত্র কোনটি? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 01-21 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+              "options": [
+                {
+                  "text": "$\\sin A\\cos B+\\cos A\\sin B$",
+                  "label": "ক"
+                },
+                {
+                  "text": "$\\cos A\\cos B-\\sin A\\sin B$",
+                  "label": "খ"
+                },
+                {
+                  "text": "$\\tan A+\\tan B$",
+                  "label": "গ"
+                },
+                {
+                  "text": "$\\sin A\\cos B-\\cos A\\sin B$",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "ক",
+              "shortSolution": "সঠিক উত্তর: ক। যোগকোণের sine সূত্র প্রয়োগ করা হয়েছে।",
+              "chapter": "07",
+              "topic": "যোগকোণের sine",
+              "difficulty": "Hard",
+              "probability": "Board Favourite"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-07-set-01-q22",
+              "question": "$\\cos(A+B)$ এর সঠিক সূত্র কোনটি? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 01-22 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+              "options": [
+                {
+                  "text": "$\\cos A\\cos B+\\sin A\\sin B$",
+                  "label": "ক"
+                },
+                {
+                  "text": "$\\cos A\\cos B-\\sin A\\sin B$",
+                  "label": "খ"
+                },
+                {
+                  "text": "$\\sin A\\cos B+\\cos A\\sin B$",
+                  "label": "গ"
+                },
+                {
+                  "text": "$\\tan A+\\tan B$",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "খ",
+              "shortSolution": "সঠিক উত্তর: খ। যোগকোণের cosine সূত্র প্রয়োগ করা হয়েছে।",
+              "chapter": "07",
+              "topic": "যোগকোণের cosine",
+              "difficulty": "Board Standard",
+              "probability": "Conceptual Trap"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-07-set-01-q23",
+              "question": "$\\tan(A+B)$ এর সঠিক সূত্র কোনটি? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 01-23 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+              "options": [
+                {
+                  "text": "$\\tan A+\\tan B$",
+                  "label": "ক"
+                },
+                {
+                  "text": "$\\frac{\\tan A-\\tan B}{1+\\tan A\\tan B}$",
+                  "label": "খ"
+                },
+                {
+                  "text": "$1-\\tan A\\tan B$",
+                  "label": "গ"
+                },
+                {
+                  "text": "$\\frac{\\tan A+\\tan B}{1-\\tan A\\tan B}$",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "ঘ",
+              "shortSolution": "সঠিক উত্তর: ঘ। যোগকোণের tangent সূত্র প্রয়োগ করা হয়েছে।",
+              "chapter": "07",
+              "topic": "যোগকোণের tangent",
+              "difficulty": "Board Standard",
+              "probability": "Mega Hot"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-07-set-01-q24",
+              "question": "$\\sin2A$ এর সঠিক সূত্র কোনটি? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 01-24 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+              "options": [
+                {
+                  "text": "$2\\tan A$",
+                  "label": "ক"
+                },
+                {
+                  "text": "$2\\sin A\\cos A$",
+                  "label": "খ"
+                },
+                {
+                  "text": "$\\cos^2A-\\sin^2A$",
+                  "label": "গ"
+                },
+                {
+                  "text": "$1-2\\sin^2A$",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "খ",
+              "shortSolution": "সঠিক উত্তর: খ। দ্বিগুণ কোণ সূত্র প্রয়োগ করা হয়েছে।",
+              "chapter": "07",
+              "topic": "দ্বিগুণ কোণ",
+              "difficulty": "Board Standard",
+              "probability": "Very Hot"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-07-set-01-q25",
+              "question": "$\\cos2A$ এর সঠিক সূত্র কোনটি? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 01-25 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+              "options": [
+                {
+                  "text": "$2\\sin A\\cos A$",
+                  "label": "ক"
+                },
+                {
+                  "text": "$2\\tan A$",
+                  "label": "খ"
+                },
+                {
+                  "text": "$\\cos^2A-\\sin^2A$",
+                  "label": "গ"
+                },
+                {
+                  "text": "$\\sin^2A+\\cos^2A$",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "গ",
+              "shortSolution": "সঠিক উত্তর: গ। দ্বিগুণ কোণ সূত্র প্রয়োগ করা হয়েছে।",
+              "chapter": "07",
+              "topic": "দ্বিগুণ কোণ",
+              "difficulty": "Board Standard",
+              "probability": "Board Favourite"
+            }
+          ]
+        },
+        {
+          "id": "hsc-higher-math-1st-paper-chapter-07-set-02",
+          "title": "Chapter 07 Hyper Mega Hot Set 02",
+          "questions": [
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-07-set-02-q01",
+              "question": "$\\sin(A+B)$ এর সঠিক সূত্র কোনটি? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 02-01 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+              "options": [
+                {
+                  "text": "$\\tan A+\\tan B$",
+                  "label": "ক"
+                },
+                {
+                  "text": "$\\cos A\\cos B-\\sin A\\sin B$",
+                  "label": "খ"
+                },
+                {
+                  "text": "$\\sin A\\cos B-\\cos A\\sin B$",
+                  "label": "গ"
+                },
+                {
+                  "text": "$\\sin A\\cos B+\\cos A\\sin B$",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "ঘ",
+              "shortSolution": "সঠিক উত্তর: ঘ। যোগকোণের sine সূত্র প্রয়োগ করা হয়েছে।",
+              "chapter": "07",
+              "topic": "যোগকোণের sine",
+              "difficulty": "Easy",
+              "probability": "Conceptual Trap"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-07-set-02-q02",
+              "question": "$\\cos(A+B)$ এর সঠিক সূত্র কোনটি? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 02-02 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+              "options": [
+                {
+                  "text": "$\\cos A\\cos B+\\sin A\\sin B$",
+                  "label": "ক"
+                },
+                {
+                  "text": "$\\sin A\\cos B+\\cos A\\sin B$",
+                  "label": "খ"
+                },
+                {
+                  "text": "$\\tan A+\\tan B$",
+                  "label": "গ"
+                },
+                {
+                  "text": "$\\cos A\\cos B-\\sin A\\sin B$",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "ঘ",
+              "shortSolution": "সঠিক উত্তর: ঘ। যোগকোণের cosine সূত্র প্রয়োগ করা হয়েছে।",
+              "chapter": "07",
+              "topic": "যোগকোণের cosine",
+              "difficulty": "Easy",
+              "probability": "Mega Hot"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-07-set-02-q03",
+              "question": "$\\tan(A+B)$ এর সঠিক সূত্র কোনটি? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 02-03 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+              "options": [
+                {
+                  "text": "$\\frac{\\tan A+\\tan B}{1-\\tan A\\tan B}$",
+                  "label": "ক"
+                },
+                {
+                  "text": "$\\frac{\\tan A-\\tan B}{1+\\tan A\\tan B}$",
+                  "label": "খ"
+                },
+                {
+                  "text": "$1-\\tan A\\tan B$",
+                  "label": "গ"
+                },
+                {
+                  "text": "$\\tan A+\\tan B$",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "ক",
+              "shortSolution": "সঠিক উত্তর: ক। যোগকোণের tangent সূত্র প্রয়োগ করা হয়েছে।",
+              "chapter": "07",
+              "topic": "যোগকোণের tangent",
+              "difficulty": "Easy",
+              "probability": "Very Hot"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-07-set-02-q04",
+              "question": "$\\sin2A$ এর সঠিক সূত্র কোনটি? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 02-04 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+              "options": [
+                {
+                  "text": "$2\\sin A\\cos A$",
+                  "label": "ক"
+                },
+                {
+                  "text": "$2\\tan A$",
+                  "label": "খ"
+                },
+                {
+                  "text": "$\\cos^2A-\\sin^2A$",
+                  "label": "গ"
+                },
+                {
+                  "text": "$1-2\\sin^2A$",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "ক",
+              "shortSolution": "সঠিক উত্তর: ক। দ্বিগুণ কোণ সূত্র প্রয়োগ করা হয়েছে।",
+              "chapter": "07",
+              "topic": "দ্বিগুণ কোণ",
+              "difficulty": "Easy",
+              "probability": "Board Favourite"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-07-set-02-q05",
+              "question": "$\\cos2A$ এর সঠিক সূত্র কোনটি? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 02-05 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+              "options": [
+                {
+                  "text": "$\\sin^2A+\\cos^2A$",
+                  "label": "ক"
+                },
+                {
+                  "text": "$2\\sin A\\cos A$",
+                  "label": "খ"
+                },
+                {
+                  "text": "$2\\tan A$",
+                  "label": "গ"
+                },
+                {
+                  "text": "$\\cos^2A-\\sin^2A$",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "ঘ",
+              "shortSolution": "সঠিক উত্তর: ঘ। দ্বিগুণ কোণ সূত্র প্রয়োগ করা হয়েছে।",
+              "chapter": "07",
+              "topic": "দ্বিগুণ কোণ",
+              "difficulty": "Easy",
+              "probability": "Conceptual Trap"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-07-set-02-q06",
+              "question": "$\\tan2A$ এর সূত্র কোনটি? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 02-06 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+              "options": [
+                {
+                  "text": "$\\frac{2\\tan A}{1-\\tan^2A}$",
+                  "label": "ক"
+                },
+                {
+                  "text": "$\\frac{\\tan A}{1+\\tan^2A}$",
+                  "label": "খ"
+                },
+                {
+                  "text": "$1-\\tan^2A$",
+                  "label": "গ"
+                },
+                {
+                  "text": "$2\\sin A\\cos A$",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "ক",
+              "shortSolution": "সঠিক উত্তর: ক। দ্বিগুণ কোণের tangent সূত্র।",
+              "chapter": "07",
+              "topic": "দ্বিগুণ কোণ",
+              "difficulty": "Easy",
+              "probability": "Mega Hot"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-07-set-02-q07",
+              "question": "$\\sin75^\\circ$ কোনভাবে লেখা যায়? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 02-07 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+              "options": [
+                {
+                  "text": "$\\cos(45^\\circ+30^\\circ)$",
+                  "label": "ক"
+                },
+                {
+                  "text": "$\\sin(45^\\circ+30^\\circ)$",
+                  "label": "খ"
+                },
+                {
+                  "text": "$\\sin(45^\\circ-30^\\circ)$",
+                  "label": "গ"
+                },
+                {
+                  "text": "$\\tan(45^\\circ+30^\\circ)$",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "খ",
+              "shortSolution": "সঠিক উত্তর: খ। $75=45+30$।",
+              "chapter": "07",
+              "topic": "বিশেষ কোণের প্রয়োগ",
+              "difficulty": "Easy",
+              "probability": "Very Hot"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-07-set-02-q08",
+              "question": "$\\cos15^\\circ$ কোনভাবে লেখা যায়? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 02-08 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+              "options": [
+                {
+                  "text": "$\\sin(45^\\circ-30^\\circ)$",
+                  "label": "ক"
+                },
+                {
+                  "text": "$\\cos(45^\\circ-30^\\circ)$",
+                  "label": "খ"
+                },
+                {
+                  "text": "$\\cos(45^\\circ+30^\\circ)$",
+                  "label": "গ"
+                },
+                {
+                  "text": "$\\tan(45^\\circ-30^\\circ)$",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "খ",
+              "shortSolution": "সঠিক উত্তর: খ। $15=45-30$।",
+              "chapter": "07",
+              "topic": "বিশেষ কোণের প্রয়োগ",
+              "difficulty": "Medium",
+              "probability": "Board Favourite"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-07-set-02-q09",
+              "question": "$\\sin A\\cos B+\\cos A\\sin B$ কোনটির সমান? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 02-09 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+              "options": [
+                {
+                  "text": "$\\cos(A+B)$",
+                  "label": "ক"
+                },
+                {
+                  "text": "$\\sin(A-B)$",
+                  "label": "খ"
+                },
+                {
+                  "text": "$\\sin(A+B)$",
+                  "label": "গ"
+                },
+                {
+                  "text": "$\\tan(A+B)$",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "গ",
+              "shortSolution": "সঠিক উত্তর: গ। এটি sine যোগকোণের formula।",
+              "chapter": "07",
+              "topic": "Formula শনাক্তকরণ",
+              "difficulty": "Medium",
+              "probability": "Conceptual Trap"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-07-set-02-q10",
+              "question": "$\\cos A\\cos B+\\sin A\\sin B$ কোনটির সমান? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 02-10 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+              "options": [
+                {
+                  "text": "$\\tan(A-B)$",
+                  "label": "ক"
+                },
+                {
+                  "text": "$\\cos(A-B)$",
+                  "label": "খ"
+                },
+                {
+                  "text": "$\\cos(A+B)$",
+                  "label": "গ"
+                },
+                {
+                  "text": "$\\sin(A+B)$",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "খ",
+              "shortSolution": "সঠিক উত্তর: খ। এটি cosine বিয়োগকোণের formula।",
+              "chapter": "07",
+              "topic": "Formula শনাক্তকরণ",
+              "difficulty": "Medium",
+              "probability": "Mega Hot"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-07-set-02-q11",
+              "question": "$\\sin(A+B)$ এর সঠিক সূত্র কোনটি? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 02-11 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+              "options": [
+                {
+                  "text": "$\\cos A\\cos B-\\sin A\\sin B$",
+                  "label": "ক"
+                },
+                {
+                  "text": "$\\sin A\\cos B-\\cos A\\sin B$",
+                  "label": "খ"
+                },
+                {
+                  "text": "$\\tan A+\\tan B$",
+                  "label": "গ"
+                },
+                {
+                  "text": "$\\sin A\\cos B+\\cos A\\sin B$",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "ঘ",
+              "shortSolution": "সঠিক উত্তর: ঘ। যোগকোণের sine সূত্র প্রয়োগ করা হয়েছে।",
+              "chapter": "07",
+              "topic": "যোগকোণের sine",
+              "difficulty": "Medium",
+              "probability": "Very Hot"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-07-set-02-q12",
+              "question": "$\\cos(A+B)$ এর সঠিক সূত্র কোনটি? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 02-12 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+              "options": [
+                {
+                  "text": "$\\sin A\\cos B+\\cos A\\sin B$",
+                  "label": "ক"
+                },
+                {
+                  "text": "$\\cos A\\cos B+\\sin A\\sin B$",
+                  "label": "খ"
+                },
+                {
+                  "text": "$\\cos A\\cos B-\\sin A\\sin B$",
+                  "label": "গ"
+                },
+                {
+                  "text": "$\\tan A+\\tan B$",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "গ",
+              "shortSolution": "সঠিক উত্তর: গ। যোগকোণের cosine সূত্র প্রয়োগ করা হয়েছে।",
+              "chapter": "07",
+              "topic": "যোগকোণের cosine",
+              "difficulty": "Medium",
+              "probability": "Board Favourite"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-07-set-02-q13",
+              "question": "$\\tan(A+B)$ এর সঠিক সূত্র কোনটি? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 02-13 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+              "options": [
+                {
+                  "text": "$\\frac{\\tan A+\\tan B}{1-\\tan A\\tan B}$",
+                  "label": "ক"
+                },
+                {
+                  "text": "$1-\\tan A\\tan B$",
+                  "label": "খ"
+                },
+                {
+                  "text": "$\\tan A+\\tan B$",
+                  "label": "গ"
+                },
+                {
+                  "text": "$\\frac{\\tan A-\\tan B}{1+\\tan A\\tan B}$",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "ক",
+              "shortSolution": "সঠিক উত্তর: ক। যোগকোণের tangent সূত্র প্রয়োগ করা হয়েছে।",
+              "chapter": "07",
+              "topic": "যোগকোণের tangent",
+              "difficulty": "Medium",
+              "probability": "Conceptual Trap"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-07-set-02-q14",
+              "question": "$\\sin2A$ এর সঠিক সূত্র কোনটি? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 02-14 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+              "options": [
+                {
+                  "text": "$2\\tan A$",
+                  "label": "ক"
+                },
+                {
+                  "text": "$\\cos^2A-\\sin^2A$",
+                  "label": "খ"
+                },
+                {
+                  "text": "$1-2\\sin^2A$",
+                  "label": "গ"
+                },
+                {
+                  "text": "$2\\sin A\\cos A$",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "ঘ",
+              "shortSolution": "সঠিক উত্তর: ঘ। দ্বিগুণ কোণ সূত্র প্রয়োগ করা হয়েছে।",
+              "chapter": "07",
+              "topic": "দ্বিগুণ কোণ",
+              "difficulty": "Medium",
+              "probability": "Mega Hot"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-07-set-02-q15",
+              "question": "$\\cos2A$ এর সঠিক সূত্র কোনটি? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 02-15 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+              "options": [
+                {
+                  "text": "$2\\tan A$",
+                  "label": "ক"
+                },
+                {
+                  "text": "$\\cos^2A-\\sin^2A$",
+                  "label": "খ"
+                },
+                {
+                  "text": "$2\\sin A\\cos A$",
+                  "label": "গ"
+                },
+                {
+                  "text": "$\\sin^2A+\\cos^2A$",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "খ",
+              "shortSolution": "সঠিক উত্তর: খ। দ্বিগুণ কোণ সূত্র প্রয়োগ করা হয়েছে।",
+              "chapter": "07",
+              "topic": "দ্বিগুণ কোণ",
+              "difficulty": "Hard",
+              "probability": "Very Hot"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-07-set-02-q16",
+              "question": "$\\tan2A$ এর সূত্র কোনটি? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 02-16 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+              "options": [
+                {
+                  "text": "$2\\sin A\\cos A$",
+                  "label": "ক"
+                },
+                {
+                  "text": "$\\frac{2\\tan A}{1-\\tan^2A}$",
+                  "label": "খ"
+                },
+                {
+                  "text": "$\\frac{\\tan A}{1+\\tan^2A}$",
+                  "label": "গ"
+                },
+                {
+                  "text": "$1-\\tan^2A$",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "খ",
+              "shortSolution": "সঠিক উত্তর: খ। দ্বিগুণ কোণের tangent সূত্র।",
+              "chapter": "07",
+              "topic": "দ্বিগুণ কোণ",
+              "difficulty": "Hard",
+              "probability": "Board Favourite"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-07-set-02-q17",
+              "question": "$\\sin75^\\circ$ কোনভাবে লেখা যায়? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 02-17 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+              "options": [
+                {
+                  "text": "$\\tan(45^\\circ+30^\\circ)$",
+                  "label": "ক"
+                },
+                {
+                  "text": "$\\sin(45^\\circ+30^\\circ)$",
+                  "label": "খ"
+                },
+                {
+                  "text": "$\\sin(45^\\circ-30^\\circ)$",
+                  "label": "গ"
+                },
+                {
+                  "text": "$\\cos(45^\\circ+30^\\circ)$",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "খ",
+              "shortSolution": "সঠিক উত্তর: খ। $75=45+30$।",
+              "chapter": "07",
+              "topic": "বিশেষ কোণের প্রয়োগ",
+              "difficulty": "Hard",
+              "probability": "Conceptual Trap"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-07-set-02-q18",
+              "question": "$\\cos15^\\circ$ কোনভাবে লেখা যায়? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 02-18 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+              "options": [
+                {
+                  "text": "$\\tan(45^\\circ-30^\\circ)$",
+                  "label": "ক"
+                },
+                {
+                  "text": "$\\cos(45^\\circ+30^\\circ)$",
+                  "label": "খ"
+                },
+                {
+                  "text": "$\\sin(45^\\circ-30^\\circ)$",
+                  "label": "গ"
+                },
+                {
+                  "text": "$\\cos(45^\\circ-30^\\circ)$",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "ঘ",
+              "shortSolution": "সঠিক উত্তর: ঘ। $15=45-30$।",
+              "chapter": "07",
+              "topic": "বিশেষ কোণের প্রয়োগ",
+              "difficulty": "Hard",
+              "probability": "Mega Hot"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-07-set-02-q19",
+              "question": "$\\sin A\\cos B+\\cos A\\sin B$ কোনটির সমান? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 02-19 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+              "options": [
+                {
+                  "text": "$\\sin(A-B)$",
+                  "label": "ক"
+                },
+                {
+                  "text": "$\\tan(A+B)$",
+                  "label": "খ"
+                },
+                {
+                  "text": "$\\sin(A+B)$",
+                  "label": "গ"
+                },
+                {
+                  "text": "$\\cos(A+B)$",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "গ",
+              "shortSolution": "সঠিক উত্তর: গ। এটি sine যোগকোণের formula।",
+              "chapter": "07",
+              "topic": "Formula শনাক্তকরণ",
+              "difficulty": "Hard",
+              "probability": "Very Hot"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-07-set-02-q20",
+              "question": "$\\cos A\\cos B+\\sin A\\sin B$ কোনটির সমান? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 02-20 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+              "options": [
+                {
+                  "text": "$\\cos(A-B)$",
+                  "label": "ক"
+                },
+                {
+                  "text": "$\\sin(A+B)$",
+                  "label": "খ"
+                },
+                {
+                  "text": "$\\cos(A+B)$",
+                  "label": "গ"
+                },
+                {
+                  "text": "$\\tan(A-B)$",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "ক",
+              "shortSolution": "সঠিক উত্তর: ক। এটি cosine বিয়োগকোণের formula।",
+              "chapter": "07",
+              "topic": "Formula শনাক্তকরণ",
+              "difficulty": "Hard",
+              "probability": "Board Favourite"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-07-set-02-q21",
+              "question": "$\\sin(A+B)$ এর সঠিক সূত্র কোনটি? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 02-21 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+              "options": [
+                {
+                  "text": "$\\sin A\\cos B-\\cos A\\sin B$",
+                  "label": "ক"
+                },
+                {
+                  "text": "$\\tan A+\\tan B$",
+                  "label": "খ"
+                },
+                {
+                  "text": "$\\cos A\\cos B-\\sin A\\sin B$",
+                  "label": "গ"
+                },
+                {
+                  "text": "$\\sin A\\cos B+\\cos A\\sin B$",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "ঘ",
+              "shortSolution": "সঠিক উত্তর: ঘ। যোগকোণের sine সূত্র প্রয়োগ করা হয়েছে।",
+              "chapter": "07",
+              "topic": "যোগকোণের sine",
+              "difficulty": "Hard",
+              "probability": "Conceptual Trap"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-07-set-02-q22",
+              "question": "$\\cos(A+B)$ এর সঠিক সূত্র কোনটি? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 02-22 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+              "options": [
+                {
+                  "text": "$\\sin A\\cos B+\\cos A\\sin B$",
+                  "label": "ক"
+                },
+                {
+                  "text": "$\\cos A\\cos B-\\sin A\\sin B$",
+                  "label": "খ"
+                },
+                {
+                  "text": "$\\cos A\\cos B+\\sin A\\sin B$",
+                  "label": "গ"
+                },
+                {
+                  "text": "$\\tan A+\\tan B$",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "খ",
+              "shortSolution": "সঠিক উত্তর: খ। যোগকোণের cosine সূত্র প্রয়োগ করা হয়েছে।",
+              "chapter": "07",
+              "topic": "যোগকোণের cosine",
+              "difficulty": "Board Standard",
+              "probability": "Mega Hot"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-07-set-02-q23",
+              "question": "$\\tan(A+B)$ এর সঠিক সূত্র কোনটি? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 02-23 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+              "options": [
+                {
+                  "text": "$\\tan A+\\tan B$",
+                  "label": "ক"
+                },
+                {
+                  "text": "$\\frac{\\tan A+\\tan B}{1-\\tan A\\tan B}$",
+                  "label": "খ"
+                },
+                {
+                  "text": "$1-\\tan A\\tan B$",
+                  "label": "গ"
+                },
+                {
+                  "text": "$\\frac{\\tan A-\\tan B}{1+\\tan A\\tan B}$",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "খ",
+              "shortSolution": "সঠিক উত্তর: খ। যোগকোণের tangent সূত্র প্রয়োগ করা হয়েছে।",
+              "chapter": "07",
+              "topic": "যোগকোণের tangent",
+              "difficulty": "Board Standard",
+              "probability": "Very Hot"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-07-set-02-q24",
+              "question": "$\\sin2A$ এর সঠিক সূত্র কোনটি? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 02-24 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+              "options": [
+                {
+                  "text": "$2\\tan A$",
+                  "label": "ক"
+                },
+                {
+                  "text": "$\\cos^2A-\\sin^2A$",
+                  "label": "খ"
+                },
+                {
+                  "text": "$2\\sin A\\cos A$",
+                  "label": "গ"
+                },
+                {
+                  "text": "$1-2\\sin^2A$",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "গ",
+              "shortSolution": "সঠিক উত্তর: গ। দ্বিগুণ কোণ সূত্র প্রয়োগ করা হয়েছে।",
+              "chapter": "07",
+              "topic": "দ্বিগুণ কোণ",
+              "difficulty": "Board Standard",
+              "probability": "Board Favourite"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-07-set-02-q25",
+              "question": "$\\cos2A$ এর সঠিক সূত্র কোনটি? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 02-25 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+              "options": [
+                {
+                  "text": "$\\sin^2A+\\cos^2A$",
+                  "label": "ক"
+                },
+                {
+                  "text": "$\\cos^2A-\\sin^2A$",
+                  "label": "খ"
+                },
+                {
+                  "text": "$2\\tan A$",
+                  "label": "গ"
+                },
+                {
+                  "text": "$2\\sin A\\cos A$",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "খ",
+              "shortSolution": "সঠিক উত্তর: খ। দ্বিগুণ কোণ সূত্র প্রয়োগ করা হয়েছে।",
+              "chapter": "07",
+              "topic": "দ্বিগুণ কোণ",
+              "difficulty": "Board Standard",
+              "probability": "Conceptual Trap"
+            }
+          ]
+        },
+        {
+          "id": "hsc-higher-math-1st-paper-chapter-07-set-03",
+          "title": "Chapter 07 Hyper Mega Hot Set 03",
+          "questions": [
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-07-set-03-q01",
+              "question": "$\\sin(A+B)$ এর সঠিক সূত্র কোনটি? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 03-01 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+              "options": [
+                {
+                  "text": "$\\tan A+\\tan B$",
+                  "label": "ক"
+                },
+                {
+                  "text": "$\\sin A\\cos B-\\cos A\\sin B$",
+                  "label": "খ"
+                },
+                {
+                  "text": "$\\cos A\\cos B-\\sin A\\sin B$",
+                  "label": "গ"
+                },
+                {
+                  "text": "$\\sin A\\cos B+\\cos A\\sin B$",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "ঘ",
+              "shortSolution": "সঠিক উত্তর: ঘ। যোগকোণের sine সূত্র প্রয়োগ করা হয়েছে।",
+              "chapter": "07",
+              "topic": "যোগকোণের sine",
+              "difficulty": "Easy",
+              "probability": "Mega Hot"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-07-set-03-q02",
+              "question": "$\\cos(A+B)$ এর সঠিক সূত্র কোনটি? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 03-02 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+              "options": [
+                {
+                  "text": "$\\cos A\\cos B-\\sin A\\sin B$",
+                  "label": "ক"
+                },
+                {
+                  "text": "$\\tan A+\\tan B$",
+                  "label": "খ"
+                },
+                {
+                  "text": "$\\sin A\\cos B+\\cos A\\sin B$",
+                  "label": "গ"
+                },
+                {
+                  "text": "$\\cos A\\cos B+\\sin A\\sin B$",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "ক",
+              "shortSolution": "সঠিক উত্তর: ক। যোগকোণের cosine সূত্র প্রয়োগ করা হয়েছে।",
+              "chapter": "07",
+              "topic": "যোগকোণের cosine",
+              "difficulty": "Easy",
+              "probability": "Very Hot"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-07-set-03-q03",
+              "question": "$\\tan(A+B)$ এর সঠিক সূত্র কোনটি? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 03-03 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+              "options": [
+                {
+                  "text": "$\\frac{\\tan A+\\tan B}{1-\\tan A\\tan B}$",
+                  "label": "ক"
+                },
+                {
+                  "text": "$\\frac{\\tan A-\\tan B}{1+\\tan A\\tan B}$",
+                  "label": "খ"
+                },
+                {
+                  "text": "$1-\\tan A\\tan B$",
+                  "label": "গ"
+                },
+                {
+                  "text": "$\\tan A+\\tan B$",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "ক",
+              "shortSolution": "সঠিক উত্তর: ক। যোগকোণের tangent সূত্র প্রয়োগ করা হয়েছে।",
+              "chapter": "07",
+              "topic": "যোগকোণের tangent",
+              "difficulty": "Easy",
+              "probability": "Board Favourite"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-07-set-03-q04",
+              "question": "$\\sin2A$ এর সঠিক সূত্র কোনটি? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 03-04 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+              "options": [
+                {
+                  "text": "$2\\tan A$",
+                  "label": "ক"
+                },
+                {
+                  "text": "$\\cos^2A-\\sin^2A$",
+                  "label": "খ"
+                },
+                {
+                  "text": "$2\\sin A\\cos A$",
+                  "label": "গ"
+                },
+                {
+                  "text": "$1-2\\sin^2A$",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "গ",
+              "shortSolution": "সঠিক উত্তর: গ। দ্বিগুণ কোণ সূত্র প্রয়োগ করা হয়েছে।",
+              "chapter": "07",
+              "topic": "দ্বিগুণ কোণ",
+              "difficulty": "Easy",
+              "probability": "Conceptual Trap"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-07-set-03-q05",
+              "question": "$\\cos2A$ এর সঠিক সূত্র কোনটি? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 03-05 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+              "options": [
+                {
+                  "text": "$\\cos^2A-\\sin^2A$",
+                  "label": "ক"
+                },
+                {
+                  "text": "$2\\sin A\\cos A$",
+                  "label": "খ"
+                },
+                {
+                  "text": "$\\sin^2A+\\cos^2A$",
+                  "label": "গ"
+                },
+                {
+                  "text": "$2\\tan A$",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "ক",
+              "shortSolution": "সঠিক উত্তর: ক। দ্বিগুণ কোণ সূত্র প্রয়োগ করা হয়েছে।",
+              "chapter": "07",
+              "topic": "দ্বিগুণ কোণ",
+              "difficulty": "Easy",
+              "probability": "Mega Hot"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-07-set-03-q06",
+              "question": "$\\tan2A$ এর সূত্র কোনটি? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 03-06 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+              "options": [
+                {
+                  "text": "$1-\\tan^2A$",
+                  "label": "ক"
+                },
+                {
+                  "text": "$2\\sin A\\cos A$",
+                  "label": "খ"
+                },
+                {
+                  "text": "$\\frac{2\\tan A}{1-\\tan^2A}$",
+                  "label": "গ"
+                },
+                {
+                  "text": "$\\frac{\\tan A}{1+\\tan^2A}$",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "গ",
+              "shortSolution": "সঠিক উত্তর: গ। দ্বিগুণ কোণের tangent সূত্র।",
+              "chapter": "07",
+              "topic": "দ্বিগুণ কোণ",
+              "difficulty": "Easy",
+              "probability": "Very Hot"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-07-set-03-q07",
+              "question": "$\\sin75^\\circ$ কোনভাবে লেখা যায়? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 03-07 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+              "options": [
+                {
+                  "text": "$\\tan(45^\\circ+30^\\circ)$",
+                  "label": "ক"
+                },
+                {
+                  "text": "$\\cos(45^\\circ+30^\\circ)$",
+                  "label": "খ"
+                },
+                {
+                  "text": "$\\sin(45^\\circ-30^\\circ)$",
+                  "label": "গ"
+                },
+                {
+                  "text": "$\\sin(45^\\circ+30^\\circ)$",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "ঘ",
+              "shortSolution": "সঠিক উত্তর: ঘ। $75=45+30$।",
+              "chapter": "07",
+              "topic": "বিশেষ কোণের প্রয়োগ",
+              "difficulty": "Easy",
+              "probability": "Board Favourite"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-07-set-03-q08",
+              "question": "$\\cos15^\\circ$ কোনভাবে লেখা যায়? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 03-08 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+              "options": [
+                {
+                  "text": "$\\sin(45^\\circ-30^\\circ)$",
+                  "label": "ক"
+                },
+                {
+                  "text": "$\\tan(45^\\circ-30^\\circ)$",
+                  "label": "খ"
+                },
+                {
+                  "text": "$\\cos(45^\\circ+30^\\circ)$",
+                  "label": "গ"
+                },
+                {
+                  "text": "$\\cos(45^\\circ-30^\\circ)$",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "ঘ",
+              "shortSolution": "সঠিক উত্তর: ঘ। $15=45-30$।",
+              "chapter": "07",
+              "topic": "বিশেষ কোণের প্রয়োগ",
+              "difficulty": "Medium",
+              "probability": "Conceptual Trap"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-07-set-03-q09",
+              "question": "$\\sin A\\cos B+\\cos A\\sin B$ কোনটির সমান? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 03-09 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+              "options": [
+                {
+                  "text": "$\\sin(A-B)$",
+                  "label": "ক"
+                },
+                {
+                  "text": "$\\tan(A+B)$",
+                  "label": "খ"
+                },
+                {
+                  "text": "$\\sin(A+B)$",
+                  "label": "গ"
+                },
+                {
+                  "text": "$\\cos(A+B)$",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "গ",
+              "shortSolution": "সঠিক উত্তর: গ। এটি sine যোগকোণের formula।",
+              "chapter": "07",
+              "topic": "Formula শনাক্তকরণ",
+              "difficulty": "Medium",
+              "probability": "Mega Hot"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-07-set-03-q10",
+              "question": "$\\cos A\\cos B+\\sin A\\sin B$ কোনটির সমান? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 03-10 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+              "options": [
+                {
+                  "text": "$\\sin(A+B)$",
+                  "label": "ক"
+                },
+                {
+                  "text": "$\\cos(A+B)$",
+                  "label": "খ"
+                },
+                {
+                  "text": "$\\cos(A-B)$",
+                  "label": "গ"
+                },
+                {
+                  "text": "$\\tan(A-B)$",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "গ",
+              "shortSolution": "সঠিক উত্তর: গ। এটি cosine বিয়োগকোণের formula।",
+              "chapter": "07",
+              "topic": "Formula শনাক্তকরণ",
+              "difficulty": "Medium",
+              "probability": "Very Hot"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-07-set-03-q11",
+              "question": "$\\sin(A+B)$ এর সঠিক সূত্র কোনটি? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 03-11 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+              "options": [
+                {
+                  "text": "$\\cos A\\cos B-\\sin A\\sin B$",
+                  "label": "ক"
+                },
+                {
+                  "text": "$\\tan A+\\tan B$",
+                  "label": "খ"
+                },
+                {
+                  "text": "$\\sin A\\cos B-\\cos A\\sin B$",
+                  "label": "গ"
+                },
+                {
+                  "text": "$\\sin A\\cos B+\\cos A\\sin B$",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "ঘ",
+              "shortSolution": "সঠিক উত্তর: ঘ। যোগকোণের sine সূত্র প্রয়োগ করা হয়েছে।",
+              "chapter": "07",
+              "topic": "যোগকোণের sine",
+              "difficulty": "Medium",
+              "probability": "Board Favourite"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-07-set-03-q12",
+              "question": "$\\cos(A+B)$ এর সঠিক সূত্র কোনটি? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 03-12 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+              "options": [
+                {
+                  "text": "$\\sin A\\cos B+\\cos A\\sin B$",
+                  "label": "ক"
+                },
+                {
+                  "text": "$\\cos A\\cos B+\\sin A\\sin B$",
+                  "label": "খ"
+                },
+                {
+                  "text": "$\\cos A\\cos B-\\sin A\\sin B$",
+                  "label": "গ"
+                },
+                {
+                  "text": "$\\tan A+\\tan B$",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "গ",
+              "shortSolution": "সঠিক উত্তর: গ। যোগকোণের cosine সূত্র প্রয়োগ করা হয়েছে।",
+              "chapter": "07",
+              "topic": "যোগকোণের cosine",
+              "difficulty": "Medium",
+              "probability": "Conceptual Trap"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-07-set-03-q13",
+              "question": "$\\tan(A+B)$ এর সঠিক সূত্র কোনটি? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 03-13 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+              "options": [
+                {
+                  "text": "$\\frac{\\tan A-\\tan B}{1+\\tan A\\tan B}$",
+                  "label": "ক"
+                },
+                {
+                  "text": "$\\tan A+\\tan B$",
+                  "label": "খ"
+                },
+                {
+                  "text": "$1-\\tan A\\tan B$",
+                  "label": "গ"
+                },
+                {
+                  "text": "$\\frac{\\tan A+\\tan B}{1-\\tan A\\tan B}$",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "ঘ",
+              "shortSolution": "সঠিক উত্তর: ঘ। যোগকোণের tangent সূত্র প্রয়োগ করা হয়েছে।",
+              "chapter": "07",
+              "topic": "যোগকোণের tangent",
+              "difficulty": "Medium",
+              "probability": "Mega Hot"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-07-set-03-q14",
+              "question": "$\\sin2A$ এর সঠিক সূত্র কোনটি? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 03-14 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+              "options": [
+                {
+                  "text": "$2\\tan A$",
+                  "label": "ক"
+                },
+                {
+                  "text": "$2\\sin A\\cos A$",
+                  "label": "খ"
+                },
+                {
+                  "text": "$\\cos^2A-\\sin^2A$",
+                  "label": "গ"
+                },
+                {
+                  "text": "$1-2\\sin^2A$",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "খ",
+              "shortSolution": "সঠিক উত্তর: খ। দ্বিগুণ কোণ সূত্র প্রয়োগ করা হয়েছে।",
+              "chapter": "07",
+              "topic": "দ্বিগুণ কোণ",
+              "difficulty": "Medium",
+              "probability": "Very Hot"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-07-set-03-q15",
+              "question": "$\\cos2A$ এর সঠিক সূত্র কোনটি? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 03-15 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+              "options": [
+                {
+                  "text": "$\\cos^2A-\\sin^2A$",
+                  "label": "ক"
+                },
+                {
+                  "text": "$\\sin^2A+\\cos^2A$",
+                  "label": "খ"
+                },
+                {
+                  "text": "$2\\tan A$",
+                  "label": "গ"
+                },
+                {
+                  "text": "$2\\sin A\\cos A$",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "ক",
+              "shortSolution": "সঠিক উত্তর: ক। দ্বিগুণ কোণ সূত্র প্রয়োগ করা হয়েছে।",
+              "chapter": "07",
+              "topic": "দ্বিগুণ কোণ",
+              "difficulty": "Hard",
+              "probability": "Board Favourite"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-07-set-03-q16",
+              "question": "$\\tan2A$ এর সূত্র কোনটি? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 03-16 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+              "options": [
+                {
+                  "text": "$\\frac{\\tan A}{1+\\tan^2A}$",
+                  "label": "ক"
+                },
+                {
+                  "text": "$\\frac{2\\tan A}{1-\\tan^2A}$",
+                  "label": "খ"
+                },
+                {
+                  "text": "$1-\\tan^2A$",
+                  "label": "গ"
+                },
+                {
+                  "text": "$2\\sin A\\cos A$",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "খ",
+              "shortSolution": "সঠিক উত্তর: খ। দ্বিগুণ কোণের tangent সূত্র।",
+              "chapter": "07",
+              "topic": "দ্বিগুণ কোণ",
+              "difficulty": "Hard",
+              "probability": "Conceptual Trap"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-07-set-03-q17",
+              "question": "$\\sin75^\\circ$ কোনভাবে লেখা যায়? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 03-17 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+              "options": [
+                {
+                  "text": "$\\sin(45^\\circ+30^\\circ)$",
+                  "label": "ক"
+                },
+                {
+                  "text": "$\\tan(45^\\circ+30^\\circ)$",
+                  "label": "খ"
+                },
+                {
+                  "text": "$\\cos(45^\\circ+30^\\circ)$",
+                  "label": "গ"
+                },
+                {
+                  "text": "$\\sin(45^\\circ-30^\\circ)$",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "ক",
+              "shortSolution": "সঠিক উত্তর: ক। $75=45+30$।",
+              "chapter": "07",
+              "topic": "বিশেষ কোণের প্রয়োগ",
+              "difficulty": "Hard",
+              "probability": "Mega Hot"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-07-set-03-q18",
+              "question": "$\\cos15^\\circ$ কোনভাবে লেখা যায়? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 03-18 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+              "options": [
+                {
+                  "text": "$\\sin(45^\\circ-30^\\circ)$",
+                  "label": "ক"
+                },
+                {
+                  "text": "$\\tan(45^\\circ-30^\\circ)$",
+                  "label": "খ"
+                },
+                {
+                  "text": "$\\cos(45^\\circ-30^\\circ)$",
+                  "label": "গ"
+                },
+                {
+                  "text": "$\\cos(45^\\circ+30^\\circ)$",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "গ",
+              "shortSolution": "সঠিক উত্তর: গ। $15=45-30$।",
+              "chapter": "07",
+              "topic": "বিশেষ কোণের প্রয়োগ",
+              "difficulty": "Hard",
+              "probability": "Very Hot"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-07-set-03-q19",
+              "question": "$\\sin A\\cos B+\\cos A\\sin B$ কোনটির সমান? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 03-19 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+              "options": [
+                {
+                  "text": "$\\sin(A+B)$",
+                  "label": "ক"
+                },
+                {
+                  "text": "$\\cos(A+B)$",
+                  "label": "খ"
+                },
+                {
+                  "text": "$\\sin(A-B)$",
+                  "label": "গ"
+                },
+                {
+                  "text": "$\\tan(A+B)$",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "ক",
+              "shortSolution": "সঠিক উত্তর: ক। এটি sine যোগকোণের formula।",
+              "chapter": "07",
+              "topic": "Formula শনাক্তকরণ",
+              "difficulty": "Hard",
+              "probability": "Board Favourite"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-07-set-03-q20",
+              "question": "$\\cos A\\cos B+\\sin A\\sin B$ কোনটির সমান? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 03-20 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+              "options": [
+                {
+                  "text": "$\\cos(A-B)$",
+                  "label": "ক"
+                },
+                {
+                  "text": "$\\sin(A+B)$",
+                  "label": "খ"
+                },
+                {
+                  "text": "$\\tan(A-B)$",
+                  "label": "গ"
+                },
+                {
+                  "text": "$\\cos(A+B)$",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "ক",
+              "shortSolution": "সঠিক উত্তর: ক। এটি cosine বিয়োগকোণের formula।",
+              "chapter": "07",
+              "topic": "Formula শনাক্তকরণ",
+              "difficulty": "Hard",
+              "probability": "Conceptual Trap"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-07-set-03-q21",
+              "question": "$\\sin(A+B)$ এর সঠিক সূত্র কোনটি? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 03-21 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+              "options": [
+                {
+                  "text": "$\\sin A\\cos B+\\cos A\\sin B$",
+                  "label": "ক"
+                },
+                {
+                  "text": "$\\sin A\\cos B-\\cos A\\sin B$",
+                  "label": "খ"
+                },
+                {
+                  "text": "$\\cos A\\cos B-\\sin A\\sin B$",
+                  "label": "গ"
+                },
+                {
+                  "text": "$\\tan A+\\tan B$",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "ক",
+              "shortSolution": "সঠিক উত্তর: ক। যোগকোণের sine সূত্র প্রয়োগ করা হয়েছে।",
+              "chapter": "07",
+              "topic": "যোগকোণের sine",
+              "difficulty": "Hard",
+              "probability": "Mega Hot"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-07-set-03-q22",
+              "question": "$\\cos(A+B)$ এর সঠিক সূত্র কোনটি? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 03-22 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+              "options": [
+                {
+                  "text": "$\\cos A\\cos B+\\sin A\\sin B$",
+                  "label": "ক"
+                },
+                {
+                  "text": "$\\cos A\\cos B-\\sin A\\sin B$",
+                  "label": "খ"
+                },
+                {
+                  "text": "$\\sin A\\cos B+\\cos A\\sin B$",
+                  "label": "গ"
+                },
+                {
+                  "text": "$\\tan A+\\tan B$",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "খ",
+              "shortSolution": "সঠিক উত্তর: খ। যোগকোণের cosine সূত্র প্রয়োগ করা হয়েছে।",
+              "chapter": "07",
+              "topic": "যোগকোণের cosine",
+              "difficulty": "Board Standard",
+              "probability": "Very Hot"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-07-set-03-q23",
+              "question": "$\\tan(A+B)$ এর সঠিক সূত্র কোনটি? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 03-23 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+              "options": [
+                {
+                  "text": "$\\frac{\\tan A-\\tan B}{1+\\tan A\\tan B}$",
+                  "label": "ক"
+                },
+                {
+                  "text": "$1-\\tan A\\tan B$",
+                  "label": "খ"
+                },
+                {
+                  "text": "$\\tan A+\\tan B$",
+                  "label": "গ"
+                },
+                {
+                  "text": "$\\frac{\\tan A+\\tan B}{1-\\tan A\\tan B}$",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "ঘ",
+              "shortSolution": "সঠিক উত্তর: ঘ। যোগকোণের tangent সূত্র প্রয়োগ করা হয়েছে।",
+              "chapter": "07",
+              "topic": "যোগকোণের tangent",
+              "difficulty": "Board Standard",
+              "probability": "Board Favourite"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-07-set-03-q24",
+              "question": "$\\sin2A$ এর সঠিক সূত্র কোনটি? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 03-24 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+              "options": [
+                {
+                  "text": "$1-2\\sin^2A$",
+                  "label": "ক"
+                },
+                {
+                  "text": "$\\cos^2A-\\sin^2A$",
+                  "label": "খ"
+                },
+                {
+                  "text": "$2\\sin A\\cos A$",
+                  "label": "গ"
+                },
+                {
+                  "text": "$2\\tan A$",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "গ",
+              "shortSolution": "সঠিক উত্তর: গ। দ্বিগুণ কোণ সূত্র প্রয়োগ করা হয়েছে।",
+              "chapter": "07",
+              "topic": "দ্বিগুণ কোণ",
+              "difficulty": "Board Standard",
+              "probability": "Conceptual Trap"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-07-set-03-q25",
+              "question": "$\\cos2A$ এর সঠিক সূত্র কোনটি? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 03-25 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+              "options": [
+                {
+                  "text": "$2\\sin A\\cos A$",
+                  "label": "ক"
+                },
+                {
+                  "text": "$\\cos^2A-\\sin^2A$",
+                  "label": "খ"
+                },
+                {
+                  "text": "$2\\tan A$",
+                  "label": "গ"
+                },
+                {
+                  "text": "$\\sin^2A+\\cos^2A$",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "খ",
+              "shortSolution": "সঠিক উত্তর: খ। দ্বিগুণ কোণ সূত্র প্রয়োগ করা হয়েছে।",
+              "chapter": "07",
+              "topic": "দ্বিগুণ কোণ",
+              "difficulty": "Board Standard",
+              "probability": "Mega Hot"
+            }
+          ]
+        },
+        {
+          "id": "hsc-higher-math-1st-paper-chapter-07-set-04",
+          "title": "Chapter 07 Hyper Mega Hot Set 04",
+          "questions": [
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-07-set-04-q01",
+              "question": "$\\sin(A+B)$ এর সঠিক সূত্র কোনটি? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 04-01 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+              "options": [
+                {
+                  "text": "$\\cos A\\cos B-\\sin A\\sin B$",
+                  "label": "ক"
+                },
+                {
+                  "text": "$\\tan A+\\tan B$",
+                  "label": "খ"
+                },
+                {
+                  "text": "$\\sin A\\cos B-\\cos A\\sin B$",
+                  "label": "গ"
+                },
+                {
+                  "text": "$\\sin A\\cos B+\\cos A\\sin B$",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "ঘ",
+              "shortSolution": "সঠিক উত্তর: ঘ। যোগকোণের sine সূত্র প্রয়োগ করা হয়েছে।",
+              "chapter": "07",
+              "topic": "যোগকোণের sine",
+              "difficulty": "Easy",
+              "probability": "Very Hot"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-07-set-04-q02",
+              "question": "$\\cos(A+B)$ এর সঠিক সূত্র কোনটি? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 04-02 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+              "options": [
+                {
+                  "text": "$\\sin A\\cos B+\\cos A\\sin B$",
+                  "label": "ক"
+                },
+                {
+                  "text": "$\\cos A\\cos B-\\sin A\\sin B$",
+                  "label": "খ"
+                },
+                {
+                  "text": "$\\cos A\\cos B+\\sin A\\sin B$",
+                  "label": "গ"
+                },
+                {
+                  "text": "$\\tan A+\\tan B$",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "খ",
+              "shortSolution": "সঠিক উত্তর: খ। যোগকোণের cosine সূত্র প্রয়োগ করা হয়েছে।",
+              "chapter": "07",
+              "topic": "যোগকোণের cosine",
+              "difficulty": "Easy",
+              "probability": "Board Favourite"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-07-set-04-q03",
+              "question": "$\\tan(A+B)$ এর সঠিক সূত্র কোনটি? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 04-03 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+              "options": [
+                {
+                  "text": "$\\tan A+\\tan B$",
+                  "label": "ক"
+                },
+                {
+                  "text": "$\\frac{\\tan A+\\tan B}{1-\\tan A\\tan B}$",
+                  "label": "খ"
+                },
+                {
+                  "text": "$\\frac{\\tan A-\\tan B}{1+\\tan A\\tan B}$",
+                  "label": "গ"
+                },
+                {
+                  "text": "$1-\\tan A\\tan B$",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "খ",
+              "shortSolution": "সঠিক উত্তর: খ। যোগকোণের tangent সূত্র প্রয়োগ করা হয়েছে।",
+              "chapter": "07",
+              "topic": "যোগকোণের tangent",
+              "difficulty": "Easy",
+              "probability": "Conceptual Trap"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-07-set-04-q04",
+              "question": "$\\sin2A$ এর সঠিক সূত্র কোনটি? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 04-04 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+              "options": [
+                {
+                  "text": "$\\cos^2A-\\sin^2A$",
+                  "label": "ক"
+                },
+                {
+                  "text": "$2\\tan A$",
+                  "label": "খ"
+                },
+                {
+                  "text": "$2\\sin A\\cos A$",
+                  "label": "গ"
+                },
+                {
+                  "text": "$1-2\\sin^2A$",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "গ",
+              "shortSolution": "সঠিক উত্তর: গ। দ্বিগুণ কোণ সূত্র প্রয়োগ করা হয়েছে।",
+              "chapter": "07",
+              "topic": "দ্বিগুণ কোণ",
+              "difficulty": "Easy",
+              "probability": "Mega Hot"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-07-set-04-q05",
+              "question": "$\\cos2A$ এর সঠিক সূত্র কোনটি? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 04-05 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+              "options": [
+                {
+                  "text": "$\\cos^2A-\\sin^2A$",
+                  "label": "ক"
+                },
+                {
+                  "text": "$2\\tan A$",
+                  "label": "খ"
+                },
+                {
+                  "text": "$\\sin^2A+\\cos^2A$",
+                  "label": "গ"
+                },
+                {
+                  "text": "$2\\sin A\\cos A$",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "ক",
+              "shortSolution": "সঠিক উত্তর: ক। দ্বিগুণ কোণ সূত্র প্রয়োগ করা হয়েছে।",
+              "chapter": "07",
+              "topic": "দ্বিগুণ কোণ",
+              "difficulty": "Easy",
+              "probability": "Very Hot"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-07-set-04-q06",
+              "question": "$\\tan2A$ এর সূত্র কোনটি? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 04-06 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+              "options": [
+                {
+                  "text": "$\\frac{\\tan A}{1+\\tan^2A}$",
+                  "label": "ক"
+                },
+                {
+                  "text": "$\\frac{2\\tan A}{1-\\tan^2A}$",
+                  "label": "খ"
+                },
+                {
+                  "text": "$1-\\tan^2A$",
+                  "label": "গ"
+                },
+                {
+                  "text": "$2\\sin A\\cos A$",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "খ",
+              "shortSolution": "সঠিক উত্তর: খ। দ্বিগুণ কোণের tangent সূত্র।",
+              "chapter": "07",
+              "topic": "দ্বিগুণ কোণ",
+              "difficulty": "Easy",
+              "probability": "Board Favourite"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-07-set-04-q07",
+              "question": "$\\sin75^\\circ$ কোনভাবে লেখা যায়? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 04-07 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+              "options": [
+                {
+                  "text": "$\\sin(45^\\circ-30^\\circ)$",
+                  "label": "ক"
+                },
+                {
+                  "text": "$\\tan(45^\\circ+30^\\circ)$",
+                  "label": "খ"
+                },
+                {
+                  "text": "$\\sin(45^\\circ+30^\\circ)$",
+                  "label": "গ"
+                },
+                {
+                  "text": "$\\cos(45^\\circ+30^\\circ)$",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "গ",
+              "shortSolution": "সঠিক উত্তর: গ। $75=45+30$।",
+              "chapter": "07",
+              "topic": "বিশেষ কোণের প্রয়োগ",
+              "difficulty": "Easy",
+              "probability": "Conceptual Trap"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-07-set-04-q08",
+              "question": "$\\cos15^\\circ$ কোনভাবে লেখা যায়? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 04-08 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+              "options": [
+                {
+                  "text": "$\\cos(45^\\circ-30^\\circ)$",
+                  "label": "ক"
+                },
+                {
+                  "text": "$\\tan(45^\\circ-30^\\circ)$",
+                  "label": "খ"
+                },
+                {
+                  "text": "$\\cos(45^\\circ+30^\\circ)$",
+                  "label": "গ"
+                },
+                {
+                  "text": "$\\sin(45^\\circ-30^\\circ)$",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "ক",
+              "shortSolution": "সঠিক উত্তর: ক। $15=45-30$।",
+              "chapter": "07",
+              "topic": "বিশেষ কোণের প্রয়োগ",
+              "difficulty": "Medium",
+              "probability": "Mega Hot"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-07-set-04-q09",
+              "question": "$\\sin A\\cos B+\\cos A\\sin B$ কোনটির সমান? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 04-09 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+              "options": [
+                {
+                  "text": "$\\tan(A+B)$",
+                  "label": "ক"
+                },
+                {
+                  "text": "$\\sin(A+B)$",
+                  "label": "খ"
+                },
+                {
+                  "text": "$\\sin(A-B)$",
+                  "label": "গ"
+                },
+                {
+                  "text": "$\\cos(A+B)$",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "খ",
+              "shortSolution": "সঠিক উত্তর: খ। এটি sine যোগকোণের formula।",
+              "chapter": "07",
+              "topic": "Formula শনাক্তকরণ",
+              "difficulty": "Medium",
+              "probability": "Very Hot"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-07-set-04-q10",
+              "question": "$\\cos A\\cos B+\\sin A\\sin B$ কোনটির সমান? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 04-10 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+              "options": [
+                {
+                  "text": "$\\sin(A+B)$",
+                  "label": "ক"
+                },
+                {
+                  "text": "$\\tan(A-B)$",
+                  "label": "খ"
+                },
+                {
+                  "text": "$\\cos(A+B)$",
+                  "label": "গ"
+                },
+                {
+                  "text": "$\\cos(A-B)$",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "ঘ",
+              "shortSolution": "সঠিক উত্তর: ঘ। এটি cosine বিয়োগকোণের formula।",
+              "chapter": "07",
+              "topic": "Formula শনাক্তকরণ",
+              "difficulty": "Medium",
+              "probability": "Board Favourite"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-07-set-04-q11",
+              "question": "$\\sin(A+B)$ এর সঠিক সূত্র কোনটি? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 04-11 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+              "options": [
+                {
+                  "text": "$\\sin A\\cos B-\\cos A\\sin B$",
+                  "label": "ক"
+                },
+                {
+                  "text": "$\\tan A+\\tan B$",
+                  "label": "খ"
+                },
+                {
+                  "text": "$\\cos A\\cos B-\\sin A\\sin B$",
+                  "label": "গ"
+                },
+                {
+                  "text": "$\\sin A\\cos B+\\cos A\\sin B$",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "ঘ",
+              "shortSolution": "সঠিক উত্তর: ঘ। যোগকোণের sine সূত্র প্রয়োগ করা হয়েছে।",
+              "chapter": "07",
+              "topic": "যোগকোণের sine",
+              "difficulty": "Medium",
+              "probability": "Conceptual Trap"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-07-set-04-q12",
+              "question": "$\\cos(A+B)$ এর সঠিক সূত্র কোনটি? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 04-12 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+              "options": [
+                {
+                  "text": "$\\tan A+\\tan B$",
+                  "label": "ক"
+                },
+                {
+                  "text": "$\\cos A\\cos B-\\sin A\\sin B$",
+                  "label": "খ"
+                },
+                {
+                  "text": "$\\cos A\\cos B+\\sin A\\sin B$",
+                  "label": "গ"
+                },
+                {
+                  "text": "$\\sin A\\cos B+\\cos A\\sin B$",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "খ",
+              "shortSolution": "সঠিক উত্তর: খ। যোগকোণের cosine সূত্র প্রয়োগ করা হয়েছে।",
+              "chapter": "07",
+              "topic": "যোগকোণের cosine",
+              "difficulty": "Medium",
+              "probability": "Mega Hot"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-07-set-04-q13",
+              "question": "$\\tan(A+B)$ এর সঠিক সূত্র কোনটি? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 04-13 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+              "options": [
+                {
+                  "text": "$\\tan A+\\tan B$",
+                  "label": "ক"
+                },
+                {
+                  "text": "$\\frac{\\tan A+\\tan B}{1-\\tan A\\tan B}$",
+                  "label": "খ"
+                },
+                {
+                  "text": "$\\frac{\\tan A-\\tan B}{1+\\tan A\\tan B}$",
+                  "label": "গ"
+                },
+                {
+                  "text": "$1-\\tan A\\tan B$",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "খ",
+              "shortSolution": "সঠিক উত্তর: খ। যোগকোণের tangent সূত্র প্রয়োগ করা হয়েছে।",
+              "chapter": "07",
+              "topic": "যোগকোণের tangent",
+              "difficulty": "Medium",
+              "probability": "Very Hot"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-07-set-04-q14",
+              "question": "$\\sin2A$ এর সঠিক সূত্র কোনটি? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 04-14 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+              "options": [
+                {
+                  "text": "$2\\tan A$",
+                  "label": "ক"
+                },
+                {
+                  "text": "$2\\sin A\\cos A$",
+                  "label": "খ"
+                },
+                {
+                  "text": "$\\cos^2A-\\sin^2A$",
+                  "label": "গ"
+                },
+                {
+                  "text": "$1-2\\sin^2A$",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "খ",
+              "shortSolution": "সঠিক উত্তর: খ। দ্বিগুণ কোণ সূত্র প্রয়োগ করা হয়েছে।",
+              "chapter": "07",
+              "topic": "দ্বিগুণ কোণ",
+              "difficulty": "Medium",
+              "probability": "Board Favourite"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-07-set-04-q15",
+              "question": "$\\cos2A$ এর সঠিক সূত্র কোনটি? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 04-15 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+              "options": [
+                {
+                  "text": "$2\\sin A\\cos A$",
+                  "label": "ক"
+                },
+                {
+                  "text": "$\\cos^2A-\\sin^2A$",
+                  "label": "খ"
+                },
+                {
+                  "text": "$\\sin^2A+\\cos^2A$",
+                  "label": "গ"
+                },
+                {
+                  "text": "$2\\tan A$",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "খ",
+              "shortSolution": "সঠিক উত্তর: খ। দ্বিগুণ কোণ সূত্র প্রয়োগ করা হয়েছে।",
+              "chapter": "07",
+              "topic": "দ্বিগুণ কোণ",
+              "difficulty": "Hard",
+              "probability": "Conceptual Trap"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-07-set-04-q16",
+              "question": "$\\tan2A$ এর সূত্র কোনটি? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 04-16 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+              "options": [
+                {
+                  "text": "$\\frac{\\tan A}{1+\\tan^2A}$",
+                  "label": "ক"
+                },
+                {
+                  "text": "$1-\\tan^2A$",
+                  "label": "খ"
+                },
+                {
+                  "text": "$2\\sin A\\cos A$",
+                  "label": "গ"
+                },
+                {
+                  "text": "$\\frac{2\\tan A}{1-\\tan^2A}$",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "ঘ",
+              "shortSolution": "সঠিক উত্তর: ঘ। দ্বিগুণ কোণের tangent সূত্র।",
+              "chapter": "07",
+              "topic": "দ্বিগুণ কোণ",
+              "difficulty": "Hard",
+              "probability": "Mega Hot"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-07-set-04-q17",
+              "question": "$\\sin75^\\circ$ কোনভাবে লেখা যায়? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 04-17 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+              "options": [
+                {
+                  "text": "$\\cos(45^\\circ+30^\\circ)$",
+                  "label": "ক"
+                },
+                {
+                  "text": "$\\tan(45^\\circ+30^\\circ)$",
+                  "label": "খ"
+                },
+                {
+                  "text": "$\\sin(45^\\circ+30^\\circ)$",
+                  "label": "গ"
+                },
+                {
+                  "text": "$\\sin(45^\\circ-30^\\circ)$",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "গ",
+              "shortSolution": "সঠিক উত্তর: গ। $75=45+30$।",
+              "chapter": "07",
+              "topic": "বিশেষ কোণের প্রয়োগ",
+              "difficulty": "Hard",
+              "probability": "Very Hot"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-07-set-04-q18",
+              "question": "$\\cos15^\\circ$ কোনভাবে লেখা যায়? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 04-18 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+              "options": [
+                {
+                  "text": "$\\cos(45^\\circ-30^\\circ)$",
+                  "label": "ক"
+                },
+                {
+                  "text": "$\\tan(45^\\circ-30^\\circ)$",
+                  "label": "খ"
+                },
+                {
+                  "text": "$\\cos(45^\\circ+30^\\circ)$",
+                  "label": "গ"
+                },
+                {
+                  "text": "$\\sin(45^\\circ-30^\\circ)$",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "ক",
+              "shortSolution": "সঠিক উত্তর: ক। $15=45-30$।",
+              "chapter": "07",
+              "topic": "বিশেষ কোণের প্রয়োগ",
+              "difficulty": "Hard",
+              "probability": "Board Favourite"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-07-set-04-q19",
+              "question": "$\\sin A\\cos B+\\cos A\\sin B$ কোনটির সমান? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 04-19 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+              "options": [
+                {
+                  "text": "$\\tan(A+B)$",
+                  "label": "ক"
+                },
+                {
+                  "text": "$\\cos(A+B)$",
+                  "label": "খ"
+                },
+                {
+                  "text": "$\\sin(A+B)$",
+                  "label": "গ"
+                },
+                {
+                  "text": "$\\sin(A-B)$",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "গ",
+              "shortSolution": "সঠিক উত্তর: গ। এটি sine যোগকোণের formula।",
+              "chapter": "07",
+              "topic": "Formula শনাক্তকরণ",
+              "difficulty": "Hard",
+              "probability": "Conceptual Trap"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-07-set-04-q20",
+              "question": "$\\cos A\\cos B+\\sin A\\sin B$ কোনটির সমান? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 04-20 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+              "options": [
+                {
+                  "text": "$\\tan(A-B)$",
+                  "label": "ক"
+                },
+                {
+                  "text": "$\\cos(A+B)$",
+                  "label": "খ"
+                },
+                {
+                  "text": "$\\cos(A-B)$",
+                  "label": "গ"
+                },
+                {
+                  "text": "$\\sin(A+B)$",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "গ",
+              "shortSolution": "সঠিক উত্তর: গ। এটি cosine বিয়োগকোণের formula।",
+              "chapter": "07",
+              "topic": "Formula শনাক্তকরণ",
+              "difficulty": "Hard",
+              "probability": "Mega Hot"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-07-set-04-q21",
+              "question": "$\\sin(A+B)$ এর সঠিক সূত্র কোনটি? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 04-21 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+              "options": [
+                {
+                  "text": "$\\cos A\\cos B-\\sin A\\sin B$",
+                  "label": "ক"
+                },
+                {
+                  "text": "$\\tan A+\\tan B$",
+                  "label": "খ"
+                },
+                {
+                  "text": "$\\sin A\\cos B+\\cos A\\sin B$",
+                  "label": "গ"
+                },
+                {
+                  "text": "$\\sin A\\cos B-\\cos A\\sin B$",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "গ",
+              "shortSolution": "সঠিক উত্তর: গ। যোগকোণের sine সূত্র প্রয়োগ করা হয়েছে।",
+              "chapter": "07",
+              "topic": "যোগকোণের sine",
+              "difficulty": "Hard",
+              "probability": "Very Hot"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-07-set-04-q22",
+              "question": "$\\cos(A+B)$ এর সঠিক সূত্র কোনটি? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 04-22 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+              "options": [
+                {
+                  "text": "$\\cos A\\cos B-\\sin A\\sin B$",
+                  "label": "ক"
+                },
+                {
+                  "text": "$\\cos A\\cos B+\\sin A\\sin B$",
+                  "label": "খ"
+                },
+                {
+                  "text": "$\\tan A+\\tan B$",
+                  "label": "গ"
+                },
+                {
+                  "text": "$\\sin A\\cos B+\\cos A\\sin B$",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "ক",
+              "shortSolution": "সঠিক উত্তর: ক। যোগকোণের cosine সূত্র প্রয়োগ করা হয়েছে।",
+              "chapter": "07",
+              "topic": "যোগকোণের cosine",
+              "difficulty": "Board Standard",
+              "probability": "Board Favourite"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-07-set-04-q23",
+              "question": "$\\tan(A+B)$ এর সঠিক সূত্র কোনটি? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 04-23 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+              "options": [
+                {
+                  "text": "$\\frac{\\tan A-\\tan B}{1+\\tan A\\tan B}$",
+                  "label": "ক"
+                },
+                {
+                  "text": "$1-\\tan A\\tan B$",
+                  "label": "খ"
+                },
+                {
+                  "text": "$\\tan A+\\tan B$",
+                  "label": "গ"
+                },
+                {
+                  "text": "$\\frac{\\tan A+\\tan B}{1-\\tan A\\tan B}$",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "ঘ",
+              "shortSolution": "সঠিক উত্তর: ঘ। যোগকোণের tangent সূত্র প্রয়োগ করা হয়েছে।",
+              "chapter": "07",
+              "topic": "যোগকোণের tangent",
+              "difficulty": "Board Standard",
+              "probability": "Conceptual Trap"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-07-set-04-q24",
+              "question": "$\\sin2A$ এর সঠিক সূত্র কোনটি? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 04-24 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+              "options": [
+                {
+                  "text": "$2\\sin A\\cos A$",
+                  "label": "ক"
+                },
+                {
+                  "text": "$\\cos^2A-\\sin^2A$",
+                  "label": "খ"
+                },
+                {
+                  "text": "$1-2\\sin^2A$",
+                  "label": "গ"
+                },
+                {
+                  "text": "$2\\tan A$",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "ক",
+              "shortSolution": "সঠিক উত্তর: ক। দ্বিগুণ কোণ সূত্র প্রয়োগ করা হয়েছে।",
+              "chapter": "07",
+              "topic": "দ্বিগুণ কোণ",
+              "difficulty": "Board Standard",
+              "probability": "Mega Hot"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-07-set-04-q25",
+              "question": "$\\cos2A$ এর সঠিক সূত্র কোনটি? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 04-25 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+              "options": [
+                {
+                  "text": "$2\\tan A$",
+                  "label": "ক"
+                },
+                {
+                  "text": "$2\\sin A\\cos A$",
+                  "label": "খ"
+                },
+                {
+                  "text": "$\\sin^2A+\\cos^2A$",
+                  "label": "গ"
+                },
+                {
+                  "text": "$\\cos^2A-\\sin^2A$",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "ঘ",
+              "shortSolution": "সঠিক উত্তর: ঘ। দ্বিগুণ কোণ সূত্র প্রয়োগ করা হয়েছে।",
+              "chapter": "07",
+              "topic": "দ্বিগুণ কোণ",
+              "difficulty": "Board Standard",
+              "probability": "Very Hot"
+            }
+          ]
+        },
+        {
+          "id": "hsc-higher-math-1st-paper-chapter-07-set-05",
+          "title": "Chapter 07 Hyper Mega Hot Set 05",
+          "questions": [
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-07-set-05-q01",
+              "question": "$\\sin(A+B)$ এর সঠিক সূত্র কোনটি? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 05-01 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+              "options": [
+                {
+                  "text": "$\\cos A\\cos B-\\sin A\\sin B$",
+                  "label": "ক"
+                },
+                {
+                  "text": "$\\tan A+\\tan B$",
+                  "label": "খ"
+                },
+                {
+                  "text": "$\\sin A\\cos B-\\cos A\\sin B$",
+                  "label": "গ"
+                },
+                {
+                  "text": "$\\sin A\\cos B+\\cos A\\sin B$",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "ঘ",
+              "shortSolution": "সঠিক উত্তর: ঘ। যোগকোণের sine সূত্র প্রয়োগ করা হয়েছে।",
+              "chapter": "07",
+              "topic": "যোগকোণের sine",
+              "difficulty": "Easy",
+              "probability": "Board Favourite"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-07-set-05-q02",
+              "question": "$\\cos(A+B)$ এর সঠিক সূত্র কোনটি? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 05-02 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+              "options": [
+                {
+                  "text": "$\\sin A\\cos B+\\cos A\\sin B$",
+                  "label": "ক"
+                },
+                {
+                  "text": "$\\cos A\\cos B+\\sin A\\sin B$",
+                  "label": "খ"
+                },
+                {
+                  "text": "$\\cos A\\cos B-\\sin A\\sin B$",
+                  "label": "গ"
+                },
+                {
+                  "text": "$\\tan A+\\tan B$",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "গ",
+              "shortSolution": "সঠিক উত্তর: গ। যোগকোণের cosine সূত্র প্রয়োগ করা হয়েছে।",
+              "chapter": "07",
+              "topic": "যোগকোণের cosine",
+              "difficulty": "Easy",
+              "probability": "Conceptual Trap"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-07-set-05-q03",
+              "question": "$\\tan(A+B)$ এর সঠিক সূত্র কোনটি? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 05-03 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+              "options": [
+                {
+                  "text": "$1-\\tan A\\tan B$",
+                  "label": "ক"
+                },
+                {
+                  "text": "$\\frac{\\tan A+\\tan B}{1-\\tan A\\tan B}$",
+                  "label": "খ"
+                },
+                {
+                  "text": "$\\frac{\\tan A-\\tan B}{1+\\tan A\\tan B}$",
+                  "label": "গ"
+                },
+                {
+                  "text": "$\\tan A+\\tan B$",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "খ",
+              "shortSolution": "সঠিক উত্তর: খ। যোগকোণের tangent সূত্র প্রয়োগ করা হয়েছে।",
+              "chapter": "07",
+              "topic": "যোগকোণের tangent",
+              "difficulty": "Easy",
+              "probability": "Mega Hot"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-07-set-05-q04",
+              "question": "$\\sin2A$ এর সঠিক সূত্র কোনটি? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 05-04 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+              "options": [
+                {
+                  "text": "$2\\tan A$",
+                  "label": "ক"
+                },
+                {
+                  "text": "$\\cos^2A-\\sin^2A$",
+                  "label": "খ"
+                },
+                {
+                  "text": "$2\\sin A\\cos A$",
+                  "label": "গ"
+                },
+                {
+                  "text": "$1-2\\sin^2A$",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "গ",
+              "shortSolution": "সঠিক উত্তর: গ। দ্বিগুণ কোণ সূত্র প্রয়োগ করা হয়েছে।",
+              "chapter": "07",
+              "topic": "দ্বিগুণ কোণ",
+              "difficulty": "Easy",
+              "probability": "Very Hot"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-07-set-05-q05",
+              "question": "$\\cos2A$ এর সঠিক সূত্র কোনটি? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 05-05 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+              "options": [
+                {
+                  "text": "$2\\sin A\\cos A$",
+                  "label": "ক"
+                },
+                {
+                  "text": "$\\cos^2A-\\sin^2A$",
+                  "label": "খ"
+                },
+                {
+                  "text": "$\\sin^2A+\\cos^2A$",
+                  "label": "গ"
+                },
+                {
+                  "text": "$2\\tan A$",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "খ",
+              "shortSolution": "সঠিক উত্তর: খ। দ্বিগুণ কোণ সূত্র প্রয়োগ করা হয়েছে।",
+              "chapter": "07",
+              "topic": "দ্বিগুণ কোণ",
+              "difficulty": "Easy",
+              "probability": "Board Favourite"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-07-set-05-q06",
+              "question": "$\\tan2A$ এর সূত্র কোনটি? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 05-06 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+              "options": [
+                {
+                  "text": "$\\frac{\\tan A}{1+\\tan^2A}$",
+                  "label": "ক"
+                },
+                {
+                  "text": "$2\\sin A\\cos A$",
+                  "label": "খ"
+                },
+                {
+                  "text": "$1-\\tan^2A$",
+                  "label": "গ"
+                },
+                {
+                  "text": "$\\frac{2\\tan A}{1-\\tan^2A}$",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "ঘ",
+              "shortSolution": "সঠিক উত্তর: ঘ। দ্বিগুণ কোণের tangent সূত্র।",
+              "chapter": "07",
+              "topic": "দ্বিগুণ কোণ",
+              "difficulty": "Easy",
+              "probability": "Conceptual Trap"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-07-set-05-q07",
+              "question": "$\\sin75^\\circ$ কোনভাবে লেখা যায়? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 05-07 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+              "options": [
+                {
+                  "text": "$\\sin(45^\\circ+30^\\circ)$",
+                  "label": "ক"
+                },
+                {
+                  "text": "$\\tan(45^\\circ+30^\\circ)$",
+                  "label": "খ"
+                },
+                {
+                  "text": "$\\cos(45^\\circ+30^\\circ)$",
+                  "label": "গ"
+                },
+                {
+                  "text": "$\\sin(45^\\circ-30^\\circ)$",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "ক",
+              "shortSolution": "সঠিক উত্তর: ক। $75=45+30$।",
+              "chapter": "07",
+              "topic": "বিশেষ কোণের প্রয়োগ",
+              "difficulty": "Easy",
+              "probability": "Mega Hot"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-07-set-05-q08",
+              "question": "$\\cos15^\\circ$ কোনভাবে লেখা যায়? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 05-08 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+              "options": [
+                {
+                  "text": "$\\cos(45^\\circ+30^\\circ)$",
+                  "label": "ক"
+                },
+                {
+                  "text": "$\\sin(45^\\circ-30^\\circ)$",
+                  "label": "খ"
+                },
+                {
+                  "text": "$\\cos(45^\\circ-30^\\circ)$",
+                  "label": "গ"
+                },
+                {
+                  "text": "$\\tan(45^\\circ-30^\\circ)$",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "গ",
+              "shortSolution": "সঠিক উত্তর: গ। $15=45-30$।",
+              "chapter": "07",
+              "topic": "বিশেষ কোণের প্রয়োগ",
+              "difficulty": "Medium",
+              "probability": "Very Hot"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-07-set-05-q09",
+              "question": "$\\sin A\\cos B+\\cos A\\sin B$ কোনটির সমান? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 05-09 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+              "options": [
+                {
+                  "text": "$\\sin(A-B)$",
+                  "label": "ক"
+                },
+                {
+                  "text": "$\\sin(A+B)$",
+                  "label": "খ"
+                },
+                {
+                  "text": "$\\tan(A+B)$",
+                  "label": "গ"
+                },
+                {
+                  "text": "$\\cos(A+B)$",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "খ",
+              "shortSolution": "সঠিক উত্তর: খ। এটি sine যোগকোণের formula।",
+              "chapter": "07",
+              "topic": "Formula শনাক্তকরণ",
+              "difficulty": "Medium",
+              "probability": "Board Favourite"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-07-set-05-q10",
+              "question": "$\\cos A\\cos B+\\sin A\\sin B$ কোনটির সমান? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 05-10 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+              "options": [
+                {
+                  "text": "$\\sin(A+B)$",
+                  "label": "ক"
+                },
+                {
+                  "text": "$\\tan(A-B)$",
+                  "label": "খ"
+                },
+                {
+                  "text": "$\\cos(A+B)$",
+                  "label": "গ"
+                },
+                {
+                  "text": "$\\cos(A-B)$",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "ঘ",
+              "shortSolution": "সঠিক উত্তর: ঘ। এটি cosine বিয়োগকোণের formula।",
+              "chapter": "07",
+              "topic": "Formula শনাক্তকরণ",
+              "difficulty": "Medium",
+              "probability": "Conceptual Trap"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-07-set-05-q11",
+              "question": "$\\sin(A+B)$ এর সঠিক সূত্র কোনটি? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 05-11 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+              "options": [
+                {
+                  "text": "$\\cos A\\cos B-\\sin A\\sin B$",
+                  "label": "ক"
+                },
+                {
+                  "text": "$\\sin A\\cos B+\\cos A\\sin B$",
+                  "label": "খ"
+                },
+                {
+                  "text": "$\\sin A\\cos B-\\cos A\\sin B$",
+                  "label": "গ"
+                },
+                {
+                  "text": "$\\tan A+\\tan B$",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "খ",
+              "shortSolution": "সঠিক উত্তর: খ। যোগকোণের sine সূত্র প্রয়োগ করা হয়েছে।",
+              "chapter": "07",
+              "topic": "যোগকোণের sine",
+              "difficulty": "Medium",
+              "probability": "Mega Hot"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-07-set-05-q12",
+              "question": "$\\cos(A+B)$ এর সঠিক সূত্র কোনটি? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 05-12 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+              "options": [
+                {
+                  "text": "$\\sin A\\cos B+\\cos A\\sin B$",
+                  "label": "ক"
+                },
+                {
+                  "text": "$\\cos A\\cos B-\\sin A\\sin B$",
+                  "label": "খ"
+                },
+                {
+                  "text": "$\\cos A\\cos B+\\sin A\\sin B$",
+                  "label": "গ"
+                },
+                {
+                  "text": "$\\tan A+\\tan B$",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "খ",
+              "shortSolution": "সঠিক উত্তর: খ। যোগকোণের cosine সূত্র প্রয়োগ করা হয়েছে।",
+              "chapter": "07",
+              "topic": "যোগকোণের cosine",
+              "difficulty": "Medium",
+              "probability": "Very Hot"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-07-set-05-q13",
+              "question": "$\\tan(A+B)$ এর সঠিক সূত্র কোনটি? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 05-13 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+              "options": [
+                {
+                  "text": "$\\frac{\\tan A-\\tan B}{1+\\tan A\\tan B}$",
+                  "label": "ক"
+                },
+                {
+                  "text": "$\\tan A+\\tan B$",
+                  "label": "খ"
+                },
+                {
+                  "text": "$1-\\tan A\\tan B$",
+                  "label": "গ"
+                },
+                {
+                  "text": "$\\frac{\\tan A+\\tan B}{1-\\tan A\\tan B}$",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "ঘ",
+              "shortSolution": "সঠিক উত্তর: ঘ। যোগকোণের tangent সূত্র প্রয়োগ করা হয়েছে।",
+              "chapter": "07",
+              "topic": "যোগকোণের tangent",
+              "difficulty": "Medium",
+              "probability": "Board Favourite"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-07-set-05-q14",
+              "question": "$\\sin2A$ এর সঠিক সূত্র কোনটি? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 05-14 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+              "options": [
+                {
+                  "text": "$1-2\\sin^2A$",
+                  "label": "ক"
+                },
+                {
+                  "text": "$2\\sin A\\cos A$",
+                  "label": "খ"
+                },
+                {
+                  "text": "$\\cos^2A-\\sin^2A$",
+                  "label": "গ"
+                },
+                {
+                  "text": "$2\\tan A$",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "খ",
+              "shortSolution": "সঠিক উত্তর: খ। দ্বিগুণ কোণ সূত্র প্রয়োগ করা হয়েছে।",
+              "chapter": "07",
+              "topic": "দ্বিগুণ কোণ",
+              "difficulty": "Medium",
+              "probability": "Conceptual Trap"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-07-set-05-q15",
+              "question": "$\\cos2A$ এর সঠিক সূত্র কোনটি? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 05-15 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+              "options": [
+                {
+                  "text": "$\\sin^2A+\\cos^2A$",
+                  "label": "ক"
+                },
+                {
+                  "text": "$2\\sin A\\cos A$",
+                  "label": "খ"
+                },
+                {
+                  "text": "$2\\tan A$",
+                  "label": "গ"
+                },
+                {
+                  "text": "$\\cos^2A-\\sin^2A$",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "ঘ",
+              "shortSolution": "সঠিক উত্তর: ঘ। দ্বিগুণ কোণ সূত্র প্রয়োগ করা হয়েছে।",
+              "chapter": "07",
+              "topic": "দ্বিগুণ কোণ",
+              "difficulty": "Hard",
+              "probability": "Mega Hot"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-07-set-05-q16",
+              "question": "$\\tan2A$ এর সূত্র কোনটি? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 05-16 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+              "options": [
+                {
+                  "text": "$2\\sin A\\cos A$",
+                  "label": "ক"
+                },
+                {
+                  "text": "$\\frac{\\tan A}{1+\\tan^2A}$",
+                  "label": "খ"
+                },
+                {
+                  "text": "$\\frac{2\\tan A}{1-\\tan^2A}$",
+                  "label": "গ"
+                },
+                {
+                  "text": "$1-\\tan^2A$",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "গ",
+              "shortSolution": "সঠিক উত্তর: গ। দ্বিগুণ কোণের tangent সূত্র।",
+              "chapter": "07",
+              "topic": "দ্বিগুণ কোণ",
+              "difficulty": "Hard",
+              "probability": "Very Hot"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-07-set-05-q17",
+              "question": "$\\sin75^\\circ$ কোনভাবে লেখা যায়? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 05-17 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+              "options": [
+                {
+                  "text": "$\\tan(45^\\circ+30^\\circ)$",
+                  "label": "ক"
+                },
+                {
+                  "text": "$\\sin(45^\\circ-30^\\circ)$",
+                  "label": "খ"
+                },
+                {
+                  "text": "$\\cos(45^\\circ+30^\\circ)$",
+                  "label": "গ"
+                },
+                {
+                  "text": "$\\sin(45^\\circ+30^\\circ)$",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "ঘ",
+              "shortSolution": "সঠিক উত্তর: ঘ। $75=45+30$।",
+              "chapter": "07",
+              "topic": "বিশেষ কোণের প্রয়োগ",
+              "difficulty": "Hard",
+              "probability": "Board Favourite"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-07-set-05-q18",
+              "question": "$\\cos15^\\circ$ কোনভাবে লেখা যায়? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 05-18 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+              "options": [
+                {
+                  "text": "$\\tan(45^\\circ-30^\\circ)$",
+                  "label": "ক"
+                },
+                {
+                  "text": "$\\cos(45^\\circ-30^\\circ)$",
+                  "label": "খ"
+                },
+                {
+                  "text": "$\\sin(45^\\circ-30^\\circ)$",
+                  "label": "গ"
+                },
+                {
+                  "text": "$\\cos(45^\\circ+30^\\circ)$",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "খ",
+              "shortSolution": "সঠিক উত্তর: খ। $15=45-30$।",
+              "chapter": "07",
+              "topic": "বিশেষ কোণের প্রয়োগ",
+              "difficulty": "Hard",
+              "probability": "Conceptual Trap"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-07-set-05-q19",
+              "question": "$\\sin A\\cos B+\\cos A\\sin B$ কোনটির সমান? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 05-19 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+              "options": [
+                {
+                  "text": "$\\sin(A+B)$",
+                  "label": "ক"
+                },
+                {
+                  "text": "$\\tan(A+B)$",
+                  "label": "খ"
+                },
+                {
+                  "text": "$\\cos(A+B)$",
+                  "label": "গ"
+                },
+                {
+                  "text": "$\\sin(A-B)$",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "ক",
+              "shortSolution": "সঠিক উত্তর: ক। এটি sine যোগকোণের formula।",
+              "chapter": "07",
+              "topic": "Formula শনাক্তকরণ",
+              "difficulty": "Hard",
+              "probability": "Mega Hot"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-07-set-05-q20",
+              "question": "$\\cos A\\cos B+\\sin A\\sin B$ কোনটির সমান? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 05-20 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+              "options": [
+                {
+                  "text": "$\\sin(A+B)$",
+                  "label": "ক"
+                },
+                {
+                  "text": "$\\cos(A+B)$",
+                  "label": "খ"
+                },
+                {
+                  "text": "$\\cos(A-B)$",
+                  "label": "গ"
+                },
+                {
+                  "text": "$\\tan(A-B)$",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "গ",
+              "shortSolution": "সঠিক উত্তর: গ। এটি cosine বিয়োগকোণের formula।",
+              "chapter": "07",
+              "topic": "Formula শনাক্তকরণ",
+              "difficulty": "Hard",
+              "probability": "Very Hot"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-07-set-05-q21",
+              "question": "$\\sin(A+B)$ এর সঠিক সূত্র কোনটি? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 05-21 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+              "options": [
+                {
+                  "text": "$\\sin A\\cos B+\\cos A\\sin B$",
+                  "label": "ক"
+                },
+                {
+                  "text": "$\\tan A+\\tan B$",
+                  "label": "খ"
+                },
+                {
+                  "text": "$\\sin A\\cos B-\\cos A\\sin B$",
+                  "label": "গ"
+                },
+                {
+                  "text": "$\\cos A\\cos B-\\sin A\\sin B$",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "ক",
+              "shortSolution": "সঠিক উত্তর: ক। যোগকোণের sine সূত্র প্রয়োগ করা হয়েছে।",
+              "chapter": "07",
+              "topic": "যোগকোণের sine",
+              "difficulty": "Hard",
+              "probability": "Board Favourite"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-07-set-05-q22",
+              "question": "$\\cos(A+B)$ এর সঠিক সূত্র কোনটি? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 05-22 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+              "options": [
+                {
+                  "text": "$\\cos A\\cos B-\\sin A\\sin B$",
+                  "label": "ক"
+                },
+                {
+                  "text": "$\\sin A\\cos B+\\cos A\\sin B$",
+                  "label": "খ"
+                },
+                {
+                  "text": "$\\tan A+\\tan B$",
+                  "label": "গ"
+                },
+                {
+                  "text": "$\\cos A\\cos B+\\sin A\\sin B$",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "ক",
+              "shortSolution": "সঠিক উত্তর: ক। যোগকোণের cosine সূত্র প্রয়োগ করা হয়েছে।",
+              "chapter": "07",
+              "topic": "যোগকোণের cosine",
+              "difficulty": "Board Standard",
+              "probability": "Conceptual Trap"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-07-set-05-q23",
+              "question": "$\\tan(A+B)$ এর সঠিক সূত্র কোনটি? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 05-23 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+              "options": [
+                {
+                  "text": "$\\tan A+\\tan B$",
+                  "label": "ক"
+                },
+                {
+                  "text": "$\\frac{\\tan A+\\tan B}{1-\\tan A\\tan B}$",
+                  "label": "খ"
+                },
+                {
+                  "text": "$\\frac{\\tan A-\\tan B}{1+\\tan A\\tan B}$",
+                  "label": "গ"
+                },
+                {
+                  "text": "$1-\\tan A\\tan B$",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "খ",
+              "shortSolution": "সঠিক উত্তর: খ। যোগকোণের tangent সূত্র প্রয়োগ করা হয়েছে।",
+              "chapter": "07",
+              "topic": "যোগকোণের tangent",
+              "difficulty": "Board Standard",
+              "probability": "Mega Hot"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-07-set-05-q24",
+              "question": "$\\sin2A$ এর সঠিক সূত্র কোনটি? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 05-24 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+              "options": [
+                {
+                  "text": "$\\cos^2A-\\sin^2A$",
+                  "label": "ক"
+                },
+                {
+                  "text": "$2\\sin A\\cos A$",
+                  "label": "খ"
+                },
+                {
+                  "text": "$1-2\\sin^2A$",
+                  "label": "গ"
+                },
+                {
+                  "text": "$2\\tan A$",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "খ",
+              "shortSolution": "সঠিক উত্তর: খ। দ্বিগুণ কোণ সূত্র প্রয়োগ করা হয়েছে।",
+              "chapter": "07",
+              "topic": "দ্বিগুণ কোণ",
+              "difficulty": "Board Standard",
+              "probability": "Very Hot"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-07-set-05-q25",
+              "question": "$\\cos2A$ এর সঠিক সূত্র কোনটি? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 05-25 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+              "options": [
+                {
+                  "text": "$\\cos^2A-\\sin^2A$",
+                  "label": "ক"
+                },
+                {
+                  "text": "$\\sin^2A+\\cos^2A$",
+                  "label": "খ"
+                },
+                {
+                  "text": "$2\\tan A$",
+                  "label": "গ"
+                },
+                {
+                  "text": "$2\\sin A\\cos A$",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "ক",
+              "shortSolution": "সঠিক উত্তর: ক। দ্বিগুণ কোণ সূত্র প্রয়োগ করা হয়েছে।",
+              "chapter": "07",
+              "topic": "দ্বিগুণ কোণ",
+              "difficulty": "Board Standard",
+              "probability": "Board Favourite"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

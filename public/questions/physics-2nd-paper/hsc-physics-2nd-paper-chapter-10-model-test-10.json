@@ -1,6 +1,6 @@
 [
   {
-    "id": "hsc-physics_2ndpaper-chapter-10-set-10-q01",
+    "id": "hsc-physics-2nd-paper-chapter-10-model-test-10-q01",
     "subject": "physics-2nd-paper",
     "chapter": "hsc-physics-2nd-paper-chapter-10-model-test-10",
     "text": "নিচের তত্ত্বের প্রয়োগ নির্ধারণ করো — i. তত্ত্বের ক্রমের উপর নির্ভর করে, ii. উচ্চতর পর্যায়ে মাপচিত্রের উপর নির্ভর করে, iii. তত্ত্বের প্রয়োগের উপর নির্ভর করে. নিচের কোনটি সঠিক?",
@@ -11,10 +11,11 @@
       "উপরোক্ত কোনোটিই নয়"
     ],
     "image": null,
+    "optionImages": null,
     "timeLimit": 45
   },
   {
-    "id": "hsc-physics_2ndpaper-chapter-10-set-10-q02",
+    "id": "hsc-physics-2nd-paper-chapter-10-model-test-10-q02",
     "subject": "physics-2nd-paper",
     "chapter": "hsc-physics-2nd-paper-chapter-10-model-test-10",
     "text": "Y = A ⊕ B লজিক গেটটি সমতুল্য কোন ফাংশনের?",
@@ -25,10 +26,11 @@
       "Ā+B̄"
     ],
     "image": null,
+    "optionImages": null,
     "timeLimit": 45
   },
   {
-    "id": "hsc-physics_2ndpaper-chapter-10-set-10-q03",
+    "id": "hsc-physics-2nd-paper-chapter-10-model-test-10-q03",
     "subject": "physics-2nd-paper",
     "chapter": "hsc-physics-2nd-paper-chapter-10-model-test-10",
     "text": "Y=AD‾B — এটি কোন লজিক গেটের আউটপুট?",
@@ -39,10 +41,11 @@
       "XOR"
     ],
     "image": null,
+    "optionImages": null,
     "timeLimit": 45
   },
   {
-    "id": "hsc-physics_2ndpaper-chapter-10-set-10-q04",
+    "id": "hsc-physics-2nd-paper-chapter-10-model-test-10-q04",
     "subject": "physics-2nd-paper",
     "chapter": "hsc-physics-2nd-paper-chapter-10-model-test-10",
     "text": "নিচের কোনটি NOR গেইট এর বর্তনী চিত্র?",
@@ -52,11 +55,12 @@
       "[বর্তনী ৩]",
       "[বর্তনী ৪]"
     ],
-    "image": null,
+    "image": "/images/quiz/premium/hsc-physics-2nd-paper-chapter-10-model-test-10-q04.svg",
+    "optionImages": null,
     "timeLimit": 45
   },
   {
-    "id": "hsc-physics_2ndpaper-chapter-10-set-10-q05",
+    "id": "hsc-physics-2nd-paper-chapter-10-model-test-10-q05",
     "subject": "physics-2nd-paper",
     "chapter": "hsc-physics-2nd-paper-chapter-10-model-test-10",
     "text": "নিচের কোনটি সর্বজনীন গেইট?",
@@ -67,10 +71,11 @@
       "AND"
     ],
     "image": null,
+    "optionImages": null,
     "timeLimit": 45
   },
   {
-    "id": "hsc-physics_2ndpaper-chapter-10-set-10-q06",
+    "id": "hsc-physics-2nd-paper-chapter-10-model-test-10-q06",
     "subject": "physics-2nd-paper",
     "chapter": "hsc-physics-2nd-paper-chapter-10-model-test-10",
     "text": "(11) i·i = ?",
@@ -81,10 +86,11 @@
       "−1"
     ],
     "image": null,
+    "optionImages": null,
     "timeLimit": 45
   },
   {
-    "id": "hsc-physics_2ndpaper-chapter-10-set-10-q07",
+    "id": "hsc-physics-2nd-paper-chapter-10-model-test-10-q07",
     "subject": "physics-2nd-paper",
     "chapter": "hsc-physics-2nd-paper-chapter-10-model-test-10",
     "text": "ধারকত্বের একক কোনটি?",
@@ -95,38 +101,11 @@
       "কুলম্ব"
     ],
     "image": null,
+    "optionImages": null,
     "timeLimit": 45
   },
   {
-    "id": "hsc-physics_2ndpaper-chapter-10-set-10-q08",
-    "subject": "physics-2nd-paper",
-    "chapter": "hsc-physics-2nd-paper-chapter-10-model-test-10",
-    "text": "ধারকত্বের একক কোনটি?",
-    "options": [
-      "ফ্যারাড",
-      "কুলম্ব",
-      "ওহম",
-      "ভোল্ট"
-    ],
-    "image": null,
-    "timeLimit": 45
-  },
-  {
-    "id": "hsc-physics_2ndpaper-chapter-10-set-10-q09",
-    "subject": "physics-2nd-paper",
-    "chapter": "hsc-physics-2nd-paper-chapter-10-model-test-10",
-    "text": "ধারকত্বের একক কোনটি?",
-    "options": [
-      "কুলম্ব",
-      "ভোল্ট",
-      "ফ্যারাড",
-      "ওহম"
-    ],
-    "image": null,
-    "timeLimit": 45
-  },
-  {
-    "id": "hsc-physics_2ndpaper-chapter-10-set-10-q10",
+    "id": "hsc-physics-2nd-paper-chapter-10-model-test-10-q08",
     "subject": "physics-2nd-paper",
     "chapter": "hsc-physics-2nd-paper-chapter-10-model-test-10",
     "text": "নিউক্লিয়াসের আয়তন এর ভরসংখ্যার কীরূপ?",
@@ -137,10 +116,11 @@
       "ব্যস্তানুপাতিক"
     ],
     "image": null,
+    "optionImages": null,
     "timeLimit": 45
   },
   {
-    "id": "hsc-physics_2ndpaper-chapter-10-set-10-q11",
+    "id": "hsc-physics-2nd-paper-chapter-10-model-test-10-q09",
     "subject": "physics-2nd-paper",
     "chapter": "hsc-physics-2nd-paper-chapter-10-model-test-10",
     "text": "নিচের কোন পদার্থের পরাবৈদ্যুতিক ধ্রুবকের মান সর্বোচ্চ?",
@@ -151,10 +131,11 @@
       "পানি"
     ],
     "image": null,
+    "optionImages": null,
     "timeLimit": 45
   },
   {
-    "id": "hsc-physics_2ndpaper-chapter-10-set-10-q12",
+    "id": "hsc-physics-2nd-paper-chapter-10-model-test-10-q10",
     "subject": "physics-2nd-paper",
     "chapter": "hsc-physics-2nd-paper-chapter-10-model-test-10",
     "text": "নিচের কোন যন্ত্রের সাহায্যে আপেক্ষিক রোদ নির্ণয় করা যায়?",
@@ -165,10 +146,11 @@
       "ভোল্টমিটার"
     ],
     "image": null,
+    "optionImages": null,
     "timeLimit": 45
   },
   {
-    "id": "hsc-physics_2ndpaper-chapter-10-set-10-q13",
+    "id": "hsc-physics-2nd-paper-chapter-10-model-test-10-q11",
     "subject": "physics-2nd-paper",
     "chapter": "hsc-physics-2nd-paper-chapter-10-model-test-10",
     "text": "নিচের কোনটি সঠিক নয়?",
@@ -179,10 +161,11 @@
       "রুদ্ধতাপীয় লেখ সমোষ্ণ লেখ অপেক্ষা বেশি খাড়া"
     ],
     "image": null,
+    "optionImages": null,
     "timeLimit": 45
   },
   {
-    "id": "hsc-physics_2ndpaper-chapter-10-set-10-q14",
+    "id": "hsc-physics-2nd-paper-chapter-10-model-test-10-q12",
     "subject": "physics-2nd-paper",
     "chapter": "hsc-physics-2nd-paper-chapter-10-model-test-10",
     "text": "নির্দিষ্ট পরিমাণ গ্যাসের অভ্যন্তরীণ শক্তি নির্ভর করে কিসের উপর?",
@@ -193,10 +176,11 @@
       "গ্যামা"
     ],
     "image": null,
+    "optionImages": null,
     "timeLimit": 45
   },
   {
-    "id": "hsc-physics_2ndpaper-chapter-10-set-10-q15",
+    "id": "hsc-physics-2nd-paper-chapter-10-model-test-10-q13",
     "subject": "physics-2nd-paper",
     "chapter": "hsc-physics-2nd-paper-chapter-10-model-test-10",
     "text": "পরমাণুর দ্বিতীয় বোর কক্ষপথে ইলেকট্রনের কৌণিক ভরবেগ—",
@@ -207,10 +191,11 @@
       "2\\pi h"
     ],
     "image": null,
+    "optionImages": null,
     "timeLimit": 45
   },
   {
-    "id": "hsc-physics_2ndpaper-chapter-10-set-10-q16",
+    "id": "hsc-physics-2nd-paper-chapter-10-model-test-10-q14",
     "subject": "physics-2nd-paper",
     "chapter": "hsc-physics-2nd-paper-chapter-10-model-test-10",
     "text": "পরিবাহী পদার্থের পরিবহন ব্যান্ড ও যোজন ব্যান্ডের মধ্যে শক্তি ব্যবধান—",
@@ -221,10 +206,11 @@
       "7 eV"
     ],
     "image": null,
+    "optionImages": null,
     "timeLimit": 45
   },
   {
-    "id": "hsc-physics_2ndpaper-chapter-10-set-10-q17",
+    "id": "hsc-physics-2nd-paper-chapter-10-model-test-10-q15",
     "subject": "physics-2nd-paper",
     "chapter": "hsc-physics-2nd-paper-chapter-10-model-test-10",
     "text": "প্লাঙ্কের ধ্রুবক h-এর মাত্রা হচ্ছে—",
@@ -235,10 +221,11 @@
       "ML^2T^{-1}"
     ],
     "image": null,
+    "optionImages": null,
     "timeLimit": 45
   },
   {
-    "id": "hsc-physics_2ndpaper-chapter-10-set-10-q18",
+    "id": "hsc-physics-2nd-paper-chapter-10-model-test-10-q16",
     "subject": "physics-2nd-paper",
     "chapter": "hsc-physics-2nd-paper-chapter-10-model-test-10",
     "text": "ফটোইলেকট্রিক কোষে মৌলিক পদার্থরূপে কোনটিকে ব্যবহার করা হয়েছে?",
@@ -249,10 +236,11 @@
       "212"
     ],
     "image": null,
+    "optionImages": null,
     "timeLimit": 45
   },
   {
-    "id": "hsc-physics_2ndpaper-chapter-10-set-10-q19",
+    "id": "hsc-physics-2nd-paper-chapter-10-model-test-10-q17",
     "subject": "physics-2nd-paper",
     "chapter": "hsc-physics-2nd-paper-chapter-10-model-test-10",
     "text": "ফোটনের বৈশিষ্ট্য হলো— i. এটি চার্জহীন ii. এটির নিশ্চল ভর আছে iii. এটি আলোর বেগে চলে নিচের কোনটি সঠিক?",
@@ -263,10 +251,11 @@
       "i, ii ও iii"
     ],
     "image": null,
+    "optionImages": null,
     "timeLimit": 45
   },
   {
-    "id": "hsc-physics_2ndpaper-chapter-10-set-10-q20",
+    "id": "hsc-physics-2nd-paper-chapter-10-model-test-10-q18",
     "subject": "physics-2nd-paper",
     "chapter": "hsc-physics-2nd-paper-chapter-10-model-test-10",
     "text": "ফোটনের শক্তি (E) বনাম কম্পাঙ্কের (\\nu) লেখচিত্র—",
@@ -277,10 +266,11 @@
       "[লেখচিত্র ৪]"
     ],
     "image": null,
+    "optionImages": null,
     "timeLimit": 45
   },
   {
-    "id": "hsc-physics_2ndpaper-chapter-10-set-10-q21",
+    "id": "hsc-physics-2nd-paper-chapter-10-model-test-10-q19",
     "subject": "physics-2nd-paper",
     "chapter": "hsc-physics-2nd-paper-chapter-10-model-test-10",
     "text": "বর্তনীতে P=10\\Omega, Q=20\\Omega, R=30\\Omega, S=60\\Omega হলে বর্তনীর তুল্যরোধ কত?",
@@ -290,11 +280,12 @@
       "26.67 \\Omega",
       "27.50 \\Omega"
     ],
-    "image": null,
+    "image": "/images/quiz/premium/hsc-physics-2nd-paper-chapter-10-model-test-10-q19.svg",
+    "optionImages": null,
     "timeLimit": 45
   },
   {
-    "id": "hsc-physics_2ndpaper-chapter-10-set-10-q22",
+    "id": "hsc-physics-2nd-paper-chapter-10-model-test-10-q20",
     "subject": "physics-2nd-paper",
     "chapter": "hsc-physics-2nd-paper-chapter-10-model-test-10",
     "text": "বর্তনীতে শুধু রোধের মান পরিবর্তন করা হলে উৎপন্ন তাপের পরিবর্তন নিচের কোন লেখচিত্রটি সমর্থন করে?",
@@ -305,10 +296,11 @@
       "[H-R লেখচিত্র ৪]"
     ],
     "image": null,
+    "optionImages": null,
     "timeLimit": 45
   },
   {
-    "id": "hsc-physics_2ndpaper-chapter-10-set-10-q23",
+    "id": "hsc-physics-2nd-paper-chapter-10-model-test-10-q21",
     "subject": "physics-2nd-paper",
     "chapter": "hsc-physics-2nd-paper-chapter-10-model-test-10",
     "text": "বাতিটি 10 ঘণ্টা ব্যবহৃত হলে জানুয়ারি মাসে মোট বিদ্যুৎ খরচ কত?",
@@ -319,10 +311,11 @@
       "270 টাকা"
     ],
     "image": null,
+    "optionImages": null,
     "timeLimit": 45
   },
   {
-    "id": "hsc-physics_2ndpaper-chapter-10-set-10-q24",
+    "id": "hsc-physics-2nd-paper-chapter-10-model-test-10-q22",
     "subject": "physics-2nd-paper",
     "chapter": "hsc-physics-2nd-paper-chapter-10-model-test-10",
     "text": "বাতির মধ্য দিয়ে কত তড়িৎ প্রবাহিত হবে?",
@@ -333,10 +326,11 @@
       "2500A"
     ],
     "image": null,
+    "optionImages": null,
     "timeLimit": 45
   },
   {
-    "id": "hsc-physics_2ndpaper-chapter-10-set-10-q25",
+    "id": "hsc-physics-2nd-paper-chapter-10-model-test-10-q23",
     "subject": "physics-2nd-paper",
     "chapter": "hsc-physics-2nd-paper-chapter-10-model-test-10",
     "text": "বিনাশী ব্যতিচারের ক্ষেত্রে উপরিপাতিত তরঙ্গদ্বয়ের মধ্যে পথ পার্থক্য হবে—",
@@ -347,6 +341,7 @@
       "\\frac{\\lambda}{2} এর অযুগ্ম গুণিতক"
     ],
     "image": null,
+    "optionImages": null,
     "timeLimit": 45
   }
 ]

@@ -1,352 +1,317 @@
 [
   {
-    "id": "ssc-higher-math-ch09-set01-q01",
+    "id": "ssc-higher-math-chapter-09-model-test-01-q01",
     "subject": "higher-math",
     "chapter": "ssc-higher-math-chapter-09-model-test-01",
-    "text": "5^(log₅ 3) এর মান কত?",
+    "text": "P(ঘটনা) = 2/6 হলে সম্পূরক = ?",
     "options": [
-      "9",
-      "5",
+      "8",
       "2",
-      "3"
-    ],
-    "image": null,
-    "timeLimit": 45
-  },
-  {
-    "id": "ssc-higher-math-ch09-set01-q02",
-    "subject": "higher-math",
-    "chapter": "ssc-higher-math-chapter-09-model-test-01",
-    "text": "log₂ √8 এর মান কত?",
-    "options": [
-      "6",
-      "8",
-      "3",
-      "1.5"
-    ],
-    "image": null,
-    "timeLimit": 45
-  },
-  {
-    "id": "ssc-higher-math-ch09-set01-q03",
-    "subject": "higher-math",
-    "chapter": "ssc-higher-math-chapter-09-model-test-01",
-    "text": "5^(log₅ 3) এর মান কত?",
-    "options": [
-      "5",
-      "3",
-      "9",
-      "2"
-    ],
-    "image": null,
-    "timeLimit": 45
-  },
-  {
-    "id": "ssc-higher-math-ch09-set01-q04",
-    "subject": "higher-math",
-    "chapter": "ssc-higher-math-chapter-09-model-test-01",
-    "text": "log₂ √8 এর মান কত?",
-    "options": [
-      "1.5",
-      "6",
-      "8",
-      "3"
-    ],
-    "image": null,
-    "timeLimit": 45
-  },
-  {
-    "id": "ssc-higher-math-ch09-set01-q05",
-    "subject": "higher-math",
-    "chapter": "ssc-higher-math-chapter-09-model-test-01",
-    "text": "5^(log₅ 3) এর মান কত?",
-    "options": [
-      "2",
-      "9",
-      "5",
-      "3"
-    ],
-    "image": null,
-    "timeLimit": 45
-  },
-  {
-    "id": "ssc-higher-math-ch09-set01-q06",
-    "subject": "higher-math",
-    "chapter": "ssc-higher-math-chapter-09-model-test-01",
-    "text": "log₂ √8 এর মান কত?",
-    "options": [
-      "6",
-      "1.5",
-      "8",
-      "3"
-    ],
-    "image": null,
-    "timeLimit": 45
-  },
-  {
-    "id": "ssc-higher-math-ch09-set01-q07",
-    "subject": "higher-math",
-    "chapter": "ssc-higher-math-chapter-09-model-test-01",
-    "text": "log₂ √8 এর মান কত?",
-    "options": [
-      "3",
-      "8",
-      "1.5",
+      "-2",
       "6"
     ],
     "image": null,
+    "optionImages": null,
     "timeLimit": 45
   },
   {
-    "id": "ssc-higher-math-ch09-set01-q08",
+    "id": "ssc-higher-math-chapter-09-model-test-01-q02",
     "subject": "higher-math",
     "chapter": "ssc-higher-math-chapter-09-model-test-01",
-    "text": "5^(log₅ 3) এর মান কত?",
+    "text": "8x + 16 = 248 হলে x = ?",
     "options": [
-      "5",
-      "2",
+      "29",
+      "28",
+      "30",
+      "31"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-higher-math-chapter-09-model-test-01-q03",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-09-model-test-01",
+    "text": "P(ঘটনা) = 7/9 হলে সম্পূরক = ?",
+    "options": [
+      "-5",
+      "14",
       "9",
-      "3"
-    ],
-    "image": null,
-    "timeLimit": 45
-  },
-  {
-    "id": "ssc-higher-math-ch09-set01-q09",
-    "subject": "higher-math",
-    "chapter": "ssc-higher-math-chapter-09-model-test-01",
-    "text": "log₂ √8 এর মান কত?",
-    "options": [
-      "3",
-      "1.5",
-      "6",
-      "8"
-    ],
-    "image": null,
-    "timeLimit": 45
-  },
-  {
-    "id": "ssc-higher-math-ch09-set01-q10",
-    "subject": "higher-math",
-    "chapter": "ssc-higher-math-chapter-09-model-test-01",
-    "text": "log₂ √8 এর মান কত?",
-    "options": [
-      "8",
-      "1.5",
-      "6",
-      "3"
-    ],
-    "image": null,
-    "timeLimit": 45
-  },
-  {
-    "id": "ssc-higher-math-ch09-set01-q11",
-    "subject": "higher-math",
-    "chapter": "ssc-higher-math-chapter-09-model-test-01",
-    "text": "5^(log₅ 3) এর মান কত?",
-    "options": [
-      "3",
-      "9",
-      "2",
       "5"
     ],
     "image": null,
+    "optionImages": null,
     "timeLimit": 45
   },
   {
-    "id": "ssc-higher-math-ch09-set01-q12",
+    "id": "ssc-higher-math-chapter-09-model-test-01-q04",
     "subject": "higher-math",
     "chapter": "ssc-higher-math-chapter-09-model-test-01",
-    "text": "log₂ √8 এর মান কত?",
+    "text": "5x + 8 = 108 হলে x = ?",
     "options": [
-      "6",
-      "1.5",
-      "3",
+      "22",
+      "20",
+      "21",
+      "19"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-higher-math-chapter-09-model-test-01-q05",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-09-model-test-01",
+    "text": "P(ঘটনা) = 4/10 হলে সম্পূরক = ?",
+    "options": [
+      "-2",
+      "10",
+      "2",
+      "24"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-higher-math-chapter-09-model-test-01-q06",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-09-model-test-01",
+    "text": "2x + 24 = 44 হলে x = ?",
+    "options": [
+      "10",
+      "12",
+      "9",
+      "11"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-higher-math-chapter-09-model-test-01-q07",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-09-model-test-01",
+    "text": "9, 10, ... 3 পদের যোগফল = ?",
+    "options": [
+      "27",
+      "12",
+      "39",
+      "30"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-higher-math-chapter-09-model-test-01-q08",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-09-model-test-01",
+    "text": "বৃত্তের ব্যাসার্ধ 2 হলে ক্ষেত্রফল ≈ ?",
+    "options": [
+      "2",
+      "4",
+      "4",
+      "12.566"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-higher-math-chapter-09-model-test-01-q09",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-09-model-test-01",
+    "text": "(7 + 15) × 1 = ?",
+    "options": [
+      "-8",
+      "22",
+      "105",
       "8"
     ],
     "image": null,
+    "optionImages": null,
     "timeLimit": 45
   },
   {
-    "id": "ssc-higher-math-ch09-set01-q13",
+    "id": "ssc-higher-math-chapter-09-model-test-01-q10",
     "subject": "higher-math",
     "chapter": "ssc-higher-math-chapter-09-model-test-01",
-    "text": "5^(log₅ 3) এর মান কত? ---",
+    "text": "6, 7, ... 9 পদের যোগফল = ?",
     "options": [
-      "5",
-      "9",
-      "2",
-      "3"
+      "90",
+      "96",
+      "54",
+      "15"
     ],
     "image": null,
+    "optionImages": null,
     "timeLimit": 45
   },
   {
-    "id": "ssc-higher-math-ch09-set01-q14",
+    "id": "ssc-higher-math-chapter-09-model-test-01-q11",
     "subject": "higher-math",
     "chapter": "ssc-higher-math-chapter-09-model-test-01",
-    "text": "If log_8 z = 2^(2/3), what is z?",
+    "text": "বৃত্তের ব্যাসার্ধ 8 হলে ক্ষেত্রফল ≈ ?",
     "options": [
-      "4",
-      "8",
       "16",
+      "8",
+      "201.06",
       "64"
     ],
     "image": null,
+    "optionImages": null,
     "timeLimit": 45
   },
   {
-    "id": "ssc-higher-math-ch09-set01-q15",
+    "id": "ssc-higher-math-chapter-09-model-test-01-q12",
     "subject": "higher-math",
     "chapter": "ssc-higher-math-chapter-09-model-test-01",
-    "text": "If F(x, y, z) = x^2 + y^2 + z^2 + 2xy + 2yz + 2zx, then which are correct? i. homogeneous polynomial, ii. symmetric polynomial, iii. F(1, -1, 0) = 4",
+    "text": "(5 + 6) × 1 = ?",
     "options": [
-      "i and ii",
-      "i and iii",
-      "ii and iii",
-      "i, ii and iii"
+      "11",
+      "1",
+      "30",
+      "-1"
     ],
     "image": null,
+    "optionImages": null,
     "timeLimit": 45
   },
   {
-    "id": "ssc-higher-math-ch09-set01-q16",
+    "id": "ssc-higher-math-chapter-09-model-test-01-q13",
     "subject": "higher-math",
     "chapter": "ssc-higher-math-chapter-09-model-test-01",
-    "text": "In triangle PQR, G is the centroid. Which are correct? i. PL : PG = 3 : 2, ii. vector PL + vector QM + vector RN = 0, iii. vector PR + vector PQ = 2 vector PL",
+    "text": "4, 5, ... 6 পদের যোগফল = ?",
     "options": [
-      "i and ii",
-      "i and iii",
-      "ii and iii",
-      "i, ii and iii"
-    ],
-    "image": null,
-    "timeLimit": 45
-  },
-  {
-    "id": "ssc-higher-math-ch09-set01-q17",
-    "subject": "higher-math",
-    "chapter": "ssc-higher-math-chapter-09-model-test-01",
-    "text": "If S = {(-2, 4), (-1, 1), (0, 0), (1, 1)}, then which are correct? i. range of S is {4, 1, 0}, ii. S^-1 = {(4, -2), (1, -1), (0, 0), (1, 1)}, iii. S is one-one function",
-    "options": [
-      "i and ii",
-      "i and iii",
-      "ii and iii",
-      "i, ii and iii"
-    ],
-    "image": null,
-    "timeLimit": 45
-  },
-  {
-    "id": "ssc-higher-math-ch09-set01-q18",
-    "subject": "higher-math",
-    "chapter": "ssc-higher-math-chapter-09-model-test-01",
-    "text": "For the equation 3 + 9x - 2x^2 = 0, which statements about the roots are correct? i. real and irrational, ii. real and rational, iii. real and unequal",
-    "options": [
-      "i and ii",
-      "i and iii",
-      "ii and iii",
-      "i, ii and iii"
-    ],
-    "image": null,
-    "timeLimit": 45
-  },
-  {
-    "id": "ssc-higher-math-ch09-set01-q19",
-    "subject": "higher-math",
-    "chapter": "ssc-higher-math-chapter-09-model-test-01",
-    "text": "If p = 2 - 2log_a(ab), what is the value of 2/p?",
-    "options": [
-      "log_b a",
-      "log_a b",
-      "-log_a b",
-      "-log_b a"
-    ],
-    "image": null,
-    "timeLimit": 45
-  },
-  {
-    "id": "ssc-higher-math-ch09-set01-q20",
-    "subject": "higher-math",
-    "chapter": "ssc-higher-math-chapter-09-model-test-01",
-    "text": "For the line 3x + 2y = 5: i. slope = -3/2, ii. x-intercept = (5/3, 0), iii. y-intercept = 2/5. Which are correct?",
-    "options": [
-      "i and ii",
-      "i and iii",
-      "ii and iii",
-      "i, ii and iii"
-    ],
-    "image": null,
-    "timeLimit": 45
-  },
-  {
-    "id": "ssc-higher-math-ch09-set01-q21",
-    "subject": "higher-math",
-    "chapter": "ssc-higher-math-chapter-09-model-test-01",
-    "text": "If P(x) = x^3 - 2x - 1, then: i. (x + 1) is a factor of P(x), ii. leading coefficient of P(x) is -1, iii. degree of P(x) is 3. Which are correct?",
-    "options": [
-      "i and ii",
-      "i and iii",
-      "ii and iii",
-      "i, ii and iii"
-    ],
-    "image": null,
-    "timeLimit": 45
-  },
-  {
-    "id": "ssc-higher-math-ch09-set01-q22",
-    "subject": "higher-math",
-    "chapter": "ssc-higher-math-chapter-09-model-test-01",
-    "text": "চিত্রে, O কেন্দ্র হলে নিচের কোনটি সঠিক? (চিত্রটি অনুপস্থিত)",
-    "options": [
-      "$\\angle AOB \\propto AB$",
-      "$\\angle AOB \\propto \\frac{1}{AB}$",
-      "$\\angle AOB \\propto AB^2$",
-      "$\\angle AOB \\propto \\frac{1}{AB^2}$"
-    ],
-    "image": null,
-    "timeLimit": 45
-  },
-  {
-    "id": "ssc-higher-math-ch09-set01-q23",
-    "subject": "higher-math",
-    "chapter": "ssc-higher-math-chapter-09-model-test-01",
-    "text": "$A \\cap B = \\emptyset$, $n(A) = 3$ এবং $n(A \\cup B) = 10$ হলে $n(B) =$ ?",
-    "options": [
-      "13",
       "10",
+      "24",
+      "39",
+      "43"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-higher-math-chapter-09-model-test-01-q14",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-09-model-test-01",
+    "text": "বৃত্তের ব্যাসার্ধ 5 হলে ক্ষেত্রফল ≈ ?",
+    "options": [
+      "78.539",
+      "25",
+      "5",
+      "10"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-higher-math-chapter-09-model-test-01-q15",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-09-model-test-01",
+    "text": "(2 + 23) × 1 = ?",
+    "options": [
+      "46",
+      "21",
+      "-21",
+      "25"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-higher-math-chapter-09-model-test-01-q16",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-09-model-test-01",
+    "text": "বৃত্তের ব্যাসার্ধ 7 হলে ক্ষেত্রফল ≈ ?",
+    "options": [
+      "153.93",
+      "14",
       "7",
-      "3"
+      "49"
     ],
     "image": null,
+    "optionImages": null,
     "timeLimit": 45
   },
   {
-    "id": "ssc-higher-math-ch09-set01-q24",
+    "id": "ssc-higher-math-chapter-09-model-test-01-q17",
     "subject": "higher-math",
     "chapter": "ssc-higher-math-chapter-09-model-test-01",
-    "text": "$\\vec{OA} = \\vec{a}$, $\\vec{OB} = \\vec{b}$ এবং $AC = BC$ হলে $\\vec{OC} =$ কত?",
+    "text": "বৃত্তের ব্যাসার্ধ 4 হলে ক্ষেত্রফল ≈ ?",
     "options": [
-      "$\\frac{\\vec{a} - \\vec{b}}{2}$",
-      "$\\frac{\\vec{b} - \\vec{a}}{2}$",
-      "$\\frac{\\vec{a} - \\vec{b}}{2}$ *(বিকল্পগুলোতে টাইপো থাকতে পারে)*",
-      "$\\frac{\\vec{a} + \\vec{b}}{2}$"
+      "4",
+      "16",
+      "50.265",
+      "8"
     ],
     "image": null,
+    "optionImages": null,
     "timeLimit": 45
   },
   {
-    "id": "ssc-higher-math-ch09-set01-q25",
+    "id": "ssc-higher-math-chapter-09-model-test-01-q18",
     "subject": "higher-math",
     "chapter": "ssc-higher-math-chapter-09-model-test-01",
-    "text": "চিত্রে $PA \\perp QR$, $AQ = 7cm$ এবং $QR = 16 cm$ হলে $\\triangle PAQ$ ও $\\triangle PAR$ এর ক্ষেত্রফলদ্বয়ের অনুপাত কত?",
+    "text": "বৃত্তের ব্যাসার্ধ 10 হলে ক্ষেত্রফল ≈ ?",
     "options": [
-      "7:16",
-      "7:9",
-      "9:7",
-      "16:7"
+      "314.15",
+      "100",
+      "20",
+      "10"
     ],
     "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-higher-math-chapter-09-model-test-01-q19",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-09-model-test-01",
+    "text": "(7 + 14) × 1 = ?",
+    "options": [
+      "98",
+      "21",
+      "-7",
+      "7"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-higher-math-chapter-09-model-test-01-q20",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-09-model-test-01",
+    "text": "5x + 7 = 102 হলে x = ?",
+    "options": [
+      "20",
+      "19",
+      "21",
+      "18"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-higher-math-chapter-09-model-test-01-q21",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-09-model-test-01",
+    "text": "2x + 24 = 42 হলে x = ?",
+    "options": [
+      "8",
+      "11",
+      "9",
+      "10"
+    ],
+    "image": null,
+    "optionImages": null,
     "timeLimit": 45
   }
 ]

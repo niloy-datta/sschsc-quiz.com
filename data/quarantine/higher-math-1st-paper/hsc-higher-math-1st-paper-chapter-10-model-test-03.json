@@ -1,0 +1,91 @@
+{
+  "setId": "hsc-higher-math-1st-paper-chapter-10-model-test-03",
+  "reason": "DUPLICATE_OF_hsc-higher-math-1st-paper-chapter-02-model-test-03",
+  "quarantinedAt": "2026-06-13T17:57:55.226Z",
+  "questions": [
+    {
+      "id": "hsc-higher-math-1st-paper-chapter-10-model-test-03-q01",
+      "questionText": "lim_{x->0} (sin x / x) এর মান কত?",
+      "optionA": "০",
+      "optionB": "অসীম",
+      "optionC": "বিদ্যমান নেই",
+      "optionD": "১",
+      "correctOption": "D",
+      "explanation": "",
+      "chapter": "10",
+      "topic": "ত্রিকোণমিতিক অনুপাত",
+      "difficulty": "Board Pattern",
+      "questionNo": 1
+    },
+    {
+      "id": "hsc-higher-math-1st-paper-chapter-10-model-test-03-q02",
+      "questionText": "sin(A+B) এর সমতুল্য সূত্র কোনটি?",
+      "optionA": "cos A cos B - sin A sin B",
+      "optionB": "sin A cos B - cos A sin B",
+      "optionC": "কোনোটিই নয়",
+      "optionD": "sin A cos B + cos A sin B",
+      "correctOption": "D",
+      "explanation": "",
+      "chapter": "10",
+      "topic": "ত্রিকোণমিতিক অনুপাত",
+      "difficulty": "Board Pattern",
+      "questionNo": 2
+    },
+    {
+      "id": "hsc-higher-math-1st-paper-chapter-10-model-test-03-q03",
+      "questionText": "মূলবিন্দু থেকে 3x - 4y + 5 = 0 রেখার লম্ব দূরত্ব কত?",
+      "optionA": "২",
+      "optionB": "৫",
+      "optionC": "০",
+      "optionD": "১",
+      "correctOption": "D",
+      "explanation": "",
+      "chapter": "10",
+      "topic": "সরলরেখা",
+      "difficulty": "Board Pattern",
+      "questionNo": 3
+    },
+    {
+      "id": "hsc-higher-math-1st-paper-chapter-10-model-test-03-q04",
+      "questionText": "ম্যাট্রিক্সের ডিটারমিন্যান্ট শূন্য হলে তাকে কী ম্যাট্রিক্স বলে?",
+      "optionA": "প্রতিসম ম্যাট্রিক্স",
+      "optionB": "অভেদক ম্যাট্রিক্স",
+      "optionC": "অ-ব্যতিক্রমী ম্যাট্রিক্স",
+      "optionD": "ব্যতিক্রমী ম্যাট্রিক্স",
+      "correctOption": "D",
+      "explanation": "",
+      "chapter": "10",
+      "topic": "ম্যাট্রিক্স ও নির্ণায়ক",
+      "difficulty": "Board Pattern",
+      "questionNo": 4
+    },
+    {
+      "id": "hsc-higher-math-1st-paper-chapter-10-model-test-03-q05",
+      "questionText": "$f(x) = |x|$ ফাংশনটির $x = 0$ বিন্দুতে অন্তরজ (Derivative) কত?",
+      "optionA": "1",
+      "optionB": "-1",
+      "optionC": "0",
+      "optionD": "অসংজ্ঞায়িত (Undefined)",
+      "correctOption": "D",
+      "explanation": "$x=0$ বিন্দুতে $|x|$ গ্রাফটিতে একটি তীক্ষ্ণ কোণ (Sharp corner) বা V আকৃতি তৈরি হয়। তাই এই বিন্দুতে কোনো নির্দিষ্ট স্পর্শক আঁকা যায় না (Left hand derivative $\\",
+      "chapter": "10",
+      "topic": "অন্তরীকরণ",
+      "difficulty": "Medium",
+      "questionNo": 5
+    },
+    {
+      "id": "hsc-higher-math-1st-paper-chapter-10-model-test-03-q06",
+      "questionText": "(2, 3) এবং (4, 5) বিন্দুগামী সরলরেখার ঢাল কত?",
+      "optionA": "০",
+      "optionB": "১",
+      "optionC": "-১",
+      "optionD": "২",
+      "correctOption": "B",
+      "explanation": "",
+      "chapter": "10",
+      "topic": "সরলরেখা",
+      "difficulty": "Board Pattern",
+      "questionNo": 6
+    }
+  ]
+}

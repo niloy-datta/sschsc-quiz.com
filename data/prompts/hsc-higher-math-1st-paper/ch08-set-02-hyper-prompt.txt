@@ -1,0 +1,31 @@
+# MICRO HYPER PROMPT — Ch 08 Set 02 ONLY (25 MCQ)
+# Chapter: ফাংশন ও ফাংশনের লেখচিত্র
+# Paste AFTER 00-MASTER-HYPER-PROMPT.txt
+# Save output: data/imports/hsc-higher-math-1st-paper-chapter-08-set-02.json
+
+## TASK
+Generate **ONLY Set 02** for Chapter 08: ফাংশন ও ফাংশনের লেখচিত্র.
+Exactly **25 unique MCQ**. Set ID: hsc-higher-math-1st-paper-chapter-08-set-02
+
+## SET FOCUS
+Numerical application + formula drill
+
+## MEGA HOT SUBTOPICS
+Domain-range, injective/surjective/bijective, composition, inverse, even-odd, piecewise, |x| graphs, transformation of graphs
+
+## JSON (single-set wrapper)
+{
+  "level": "HSC",
+  "subject": "higher-math-1st-paper",
+  "chapterWise": [{
+    "chapter": "08",
+    "chapterName": "ফাংশন ও ফাংশনের লেখচিত্র",
+    "sets": [{
+      "id": "hsc-higher-math-1st-paper-chapter-08-set-02",
+      "title": "Chapter 08 Hyper Mega Hot Set 02",
+      "questions": [ /* exactly 25 */ ]
+    }]
+  }]
+}
+
+Output JSON only.

@@ -1,0 +1,102 @@
+{
+  "chapter-2-split-04-q01": {
+    "correctOption": "NIC",
+    "explanation": "Network Interface Card বা NIC কম্পিউটারের মাদারবোর্ডে লাগানো থাকে, যার মাধ্যমে ল্যান ক্যাবল যুক্ত করা হয়।"
+  },
+  "chapter-2-split-04-q02": {
+    "correctOption": "কম্পিউটারকে নেটওয়ার্কে যুক্ত করা",
+    "explanation": "NIC এর প্রধান কাজ হলো কম্পিউটার এবং নেটওয়ার্ক মাধ্যমের মধ্যে ডেটা আদান-প্রদানের সংযোগ তৈরি করা।"
+  },
+  "chapter-2-split-04-q03": {
+    "correctOption": "Modulation-demodulation",
+    "explanation": "মডেম প্রেরক প্রান্তে ডিজিটাল সিগন্যালকে অ্যানালগ (Modulation) এবং প্রাপক প্রান্তে অ্যানালগকে ডিজিটালে (Demodulation) রূপান্তর করে।"
+  },
+  "chapter-2-split-04-q04": {
+    "correctOption": "Modulator + Demodulator",
+    "explanation": "Modulator এর Mo এবং Demodulator এর Dem নিয়ে Modem শব্দটি গঠিত হয়েছে।"
+  },
+  "chapter-2-split-04-q05": {
+    "correctOption": "সাধারণ broadcasting device",
+    "explanation": "হাব একটি সাধারণ ডিভাইস যা ডেটা পেলে তা না বুঝেই নেটওয়ার্কে যুক্ত সব কম্পিউটারের কাছে পাঠিয়ে দেয় (Broadcast)।"
+  },
+  "chapter-2-split-04-q06": {
+    "correctOption": "সব port-এ",
+    "explanation": "হাব সিগন্যাল রিসিভ করলে তা ওই পোর্টে যুক্ত সব কম্পিউটারের কাছে পাঠিয়ে দেয়, যার কারণে নেটওয়ার্কে জ্যাম সৃষ্টি হতে পারে।"
+  },
+  "chapter-2-split-04-q07": {
+    "correctOption": "নির্দিষ্ট destination port-এ",
+    "explanation": "সুইচ একটি বুদ্ধিমান ডিভাইস, এটি MAC অ্যাড্রেস রিড করে ডেটা শুধুমাত্র যে কম্পিউটারের জন্য পাঠানো হয়েছে, নির্দিষ্ট করে তার কাছেই পাঠায়।"
+  },
+  "chapter-2-split-04-q08": {
+    "correctOption": "এক নেটওয়ার্ক থেকে অন্য নেটওয়ার্কে ডেটা পাঠানো",
+    "explanation": "রাউটার হলো একটি বুদ্ধিমান ডিভাইস যা বিভিন্ন নেটওয়ার্ক যুক্ত করে এবং ডেটা প্যাকেটকে সবচেয়ে ভালো বা শর্টকাট পথ দিয়ে গন্তব্যে পাঠায় (Routing)।"
+  },
+  "chapter-2-split-04-q09": {
+    "correctOption": "দুর্বল signal শক্তিশালী করে পাঠানো",
+    "explanation": "ক্যাবল দিয়ে যাওয়ার সময় ডেটা সিগন্যাল দুর্বল হয়ে পড়ে। রিপিটার সেই দুর্বল সিগন্যাল রিসিভ করে তাকে আবার শক্তিশালী করে বা পুনরায় তৈরি করে সামনের দিকে পাঠায়।"
+  },
+  "chapter-2-split-04-q10": {
+    "correctOption": "network segment সংযুক্ত করতে",
+    "explanation": "ব্রিজ একই প্রোটোকল বিশিষ্ট একাধিক ল্যান বা নেটওয়ার্ক সেগমেন্টকে যুক্ত করে একটি বড় নেটওয়ার্ক তৈরি করতে ব্যবহৃত হয়।"
+  },
+  "chapter-2-split-04-q11": {
+    "correctOption": "ভিন্ন protocol-এর network সংযুক্ত করা",
+    "explanation": "গেটওয়ে হলো এমন একটি ডিভাইস বা সফটওয়্যার যা সম্পূর্ণ ভিন্ন প্রোটোকল ব্যবহার করা নেটওয়ার্কগুলোকে যুক্ত করতে পারে।"
+  },
+  "chapter-2-split-04-q12": {
+    "correctOption": "সেবা প্রদানকারী কম্পিউটার",
+    "explanation": "সার্ভার হলো একটি শক্তিশালী কম্পিউটার, যা নেটওয়ার্কের অন্য কম্পিউটারগুলোকে ডেটা, ফাইল বা সার্ভিস প্রদান করে।"
+  },
+  "chapter-2-split-04-q13": {
+    "correctOption": "সেবা গ্রহণকারী কম্পিউটার",
+    "explanation": "নেটওয়ার্কে যে কম্পিউটারগুলো সার্ভার থেকে ডেটা বা সার্ভিস গ্রহণ করে, তাদের ক্লায়েন্ট বলে।"
+  },
+  "chapter-2-split-04-q14": {
+    "correctOption": "resource/service provide করা",
+    "explanation": "ক্লাইয়েন্ট-সার্ভার নেটওয়ার্কে সার্ভার ফাইল শেয়ার করা, ডেটাবেস পরিচালনা বা প্রিন্টিং সেবা প্রদান করে।"
+  },
+  "chapter-2-split-04-q15": {
+    "correctOption": "প্রতিটি কম্পিউটার resource share করতে পারে",
+    "explanation": "পিয়ার-টু-পিয়ার নেটওয়ার্কে কোনো ডেডিকেটেড সার্ভার থাকে না, প্রতিটি কম্পিউটারই একই সাথে ক্লায়েন্ট এবং সার্ভার হিসেবে কাজ করতে পারে।"
+  },
+  "chapter-2-split-04-q16": {
+    "correctOption": "network of networks",
+    "explanation": "ইন্টারনেট হলো বিশ্বজুড়ে ছড়িয়ে থাকা অসংখ্য নেটওয়ার্কের একটি বিশাল আন্তঃসংযোগ বা Network of networks।"
+  },
+  "chapter-2-split-04-q17": {
+    "correctOption": "World Wide Web",
+    "explanation": "WWW এর পূর্ণরূপ হলো World Wide Web, যা ইন্টারনেটের মাধ্যমে অ্যাক্সেসযোগ্য ইন্টারলিংকড হাইপারটেক্সট ডকুমেন্টের একটি সিস্টেম।"
+  },
+  "chapter-2-split-04-q18": {
+    "correctOption": "Uniform Resource Locator",
+    "explanation": "URL এর পূর্ণরূপ Uniform Resource Locator, যা ইন্টারনেটে থাকা কোনো ওয়েবপেজ বা ফাইলের নির্দিষ্ট ঠিকানা।"
+  },
+  "chapter-2-split-04-q19": {
+    "correctOption": "web page transfer-এ",
+    "explanation": "HTTP (Hypertext Transfer Protocol) মূলত ওয়েবসর্ভার থেকে ক্লায়েন্টের ব্রাউজারে ওয়েবপেজ বা HTML ডেটা আদান-প্রদানের জন্য ব্যবহৃত হয়।"
+  },
+  "chapter-2-split-04-q20": {
+    "correctOption": "Secure",
+    "explanation": "HTTPS (Hypertext Transfer Protocol Secure) এ 'S' বলতে Secure বোঝায়, অর্থাৎ ডেটা এনক্রিপ্ট হয়ে নিরাপদে আদান-প্রদান হবে।"
+  },
+  "chapter-2-split-04-q21": {
+    "correctOption": "file transfer-এ",
+    "explanation": "FTP (File Transfer Protocol) ইন্টারনেটে এক কম্পিউটার থেকে অন্য কম্পিউটারে বা সার্ভারে ফাইল আপলোড বা ডাউনলোড করার জন্য ব্যবহৃত হয়।"
+  },
+  "chapter-2-split-04-q22": {
+    "correctOption": "internet communication protocol suite",
+    "explanation": "TCP/IP (Transmission Control Protocol/Internet Protocol) হলো ইন্টারনেটের সবচেয়ে মৌলিক প্রোটোকল স্যুট বা নিয়মাবলি, যার উপর ভিত্তি করে ইন্টারনেট চলে।"
+  },
+  "chapter-2-split-04-q23": {
+    "correctOption": "network device শনাক্ত করা",
+    "explanation": "IP অ্যাড্রেস হলো ইন্টারনেটে সংযুক্ত প্রতিটি ডিভাইসের একটি অদ্বিতীয় লজিক্যাল ঠিকানা, যার মাধ্যমে ডিভাইসটিকে চেনা যায়।"
+  },
+  "chapter-2-split-04-q24": {
+    "correctOption": "domain name কে IP address-এ রূপান্তর",
+    "explanation": "DNS (Domain Name System) এর কাজ হলো মানুষের পড়ার উপযোগী ওয়েব ঠিকানাকে (যেমন google.com) কম্পিউটারের আইপি অ্যাড্রেসে (যেমন 142.250.190.46) পরিবর্তন করা।"
+  },
+  "chapter-2-split-04-q25": {
+    "correctOption": "web page প্রদর্শন",
+    "explanation": "ওয়েব ব্রাউজার (যেমন ক্রোম, ফায়ারফক্স) হলো একটি অ্যাপ্লিকেশন সফটওয়্যার যা ইন্টারনেট থেকে তথ্য বা ওয়েবপেজ এনে ব্যবহারকারীকে প্রদর্শন করে।"
+  }
+}

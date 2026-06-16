@@ -68,14 +68,6 @@ export function ChapterSetClient({
         quizId: sourceSetId,
         type: "chapter-wise",
       });
-      if (loadedFromPath) {
-        console.log("Fetched Quiz Data:", {
-          setId,
-          path: loadedFromPath,
-          count: initialQuestions.length,
-          source: "server",
-        });
-      }
       return;
     }
 
@@ -133,13 +125,6 @@ export function ChapterSetClient({
         if (!cancelled) {
           setAttemptedPaths(pathsTried);
         }
-
-        console.log("Fetched Quiz Data:", {
-          setId,
-          fetchKey,
-          count: apiQuestions.length,
-          source: "client",
-        });
 
         if (cancelled || !apiQuestions.length) {
           if (!cancelled) {

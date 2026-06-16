@@ -1,177 +1,102 @@
 {
-  "hsc-physics_2ndpaper-chapter-01-set-03-q01": {
-    "answer": "থার্মোমিটার",
-    "answerIndex": 2,
-    "difficulty": 1200,
-    "explanation": "বোর্ড/মডেল/অধ্যায়ভিত্তিক সোর্স প্যাটার্ন থেকে নেওয়া high-priority MCQ।",
-    "topic": "তাপগতিবিদ্যা"
+  "hsc-physics-2nd-paper-chapter-01-model-test-03-q01": {
+    "correctOption": "\\gamma = 1 + \\frac{2}{f}",
+    "explanation": "সঠিক উত্তর: খ। শক্তির সমবণ্টন নীতি থেকে প্রাপ্ত অভ্যন্তরীণ\nশক্তির সমীকরণ ব্যবহার করে প্রমাণ করা যায় যে, যেকোনো আদর্শ গ্যাসের\nক্ষেত্রে \\gamma = 1 + \\frac{2}{f} হয়।"
   },
-  "hsc-physics_2ndpaper-chapter-01-set-03-q02": {
-    "answer": "রুদ্ধতাপীয় পরিবর্তন বয়েলের সূত্র মেনে চলে",
-    "answerIndex": 1,
-    "difficulty": 1200,
-    "explanation": "বোর্ড/মডেল/অধ্যায়ভিত্তিক সোর্স প্যাটার্ন থেকে নেওয়া high-priority MCQ।",
-    "topic": "তাপগতিবিদ্যা"
+  "hsc-physics-2nd-paper-chapter-01-model-test-03-q02": {
+    "correctOption": "মহাবিশ্বের এনট্রপি সর্বোচ্চ হওয়া",
+    "explanation": "সঠিক উত্তর: গ। প্রাকৃতিক প্রক্রিয়ার\nফলে মহাবিশ্বের এনট্রপি বা বিশৃঙ্খলা ক্রমাগত বাড়ছে। এনট্রপি যখন সর্বোচ্চ অবস্থায়\nপৌঁছাবে, তখন তাপের আদান-প্রদান করে কাজ করার মতো কোনো শক্তি থাকবে না। এই\nঅবস্থাকে তাপীয় মৃত্যু বলে।"
   },
-  "hsc-physics_2ndpaper-chapter-01-set-03-q03": {
-    "answer": "তাপমাত্রা",
-    "answerIndex": 2,
-    "difficulty": 1200,
-    "explanation": "বোর্ড/মডেল/অধ্যায়ভিত্তিক সোর্স প্যাটার্ন থেকে নেওয়া high-priority MCQ।",
-    "topic": "তাপগতিবিদ্যা"
+  "hsc-physics-2nd-paper-chapter-01-model-test-03-q03": {
+    "correctOption": "\\Delta U = 0, \\Delta W = 0",
+    "explanation": "সঠিক উত্তর: গ। মুক্ত প্রসারণে বাইরে থেকে তাপ আসে না\n(\\Delta Q = 0), এবং শূন্যস্থানে প্রসারিত হওয়ায় গ্যাসকে কোনো কাজ করতে হয় না\n(\\Delta W = 0)। প্রথম সূত্রমতে, \\Delta U = \\Delta Q - \\Delta W = 0।"
   },
-  "hsc-physics_2ndpaper-chapter-01-set-03-q04": {
-    "answer": "100%",
-    "answerIndex": 3,
-    "difficulty": 1200,
-    "explanation": "বোর্ড/মডেল/অধ্যায়ভিত্তিক সোর্স প্যাটার্ন থেকে নেওয়া high-priority MCQ।",
-    "topic": "তাপগতিবিদ্যা"
+  "hsc-physics-2nd-paper-chapter-01-model-test-03-q04": {
+    "correctOption": "26.8\\%",
+    "explanation": "সঠিক উত্তর: ক। পানির স্ফুটনাঙ্ক T_1 = 373 \\text{ K} এবং হিমাঙ্ক\nT_2 = 273 \\text{ K}। কর্মদক্ষতা\n\\eta = (1 - \\frac{273}{373}) \\times 100\\% = \\frac{100}{373} \\times 100\\% \\approx 26.8\\%।"
   },
-  "hsc-physics_2ndpaper-chapter-01-set-03-q05": {
-    "answer": "i, ii ও iii",
-    "answerIndex": 3,
-    "difficulty": 1200,
-    "explanation": "বোর্ড/মডেল/অধ্যায়ভিত্তিক সোর্স প্যাটার্ন থেকে নেওয়া high-priority MCQ।",
-    "topic": "তাপগতিবিদ্যা"
+  "hsc-physics-2nd-paper-chapter-01-model-test-03-q05": {
+    "correctOption": "কেলভিন-প্ল্যাঙ্কের বিবৃতি",
+    "explanation": "সঠিক উত্তর: ঘ। লর্ড\nকেলভিন এবং ম্যাক্স প্ল্যাঙ্ক মিলিতভাবে তাপ ইঞ্জিনের কর্মদক্ষতার এই\nসীমাবদ্ধতা প্রকাশ করেন, যা কেলভিন-প্ল্যাঙ্ক বিবৃতি নামে\nপরিচিত।"
   },
-  "hsc-physics_2ndpaper-chapter-01-set-03-q06": {
-    "answer": "(\\frac{dp}{dv})_{রুদ্ধতাপীয়} = \\gamma \\times (\\frac{dp}{dv})_{সমোষ্ণ}",
-    "answerIndex": 0,
-    "difficulty": 1200,
-    "explanation": "বোর্ড/মডেল/অধ্যায়ভিত্তিক সোর্স প্যাটার্ন থেকে নেওয়া high-priority MCQ।",
-    "topic": "তাপগতিবিদ্যা"
+  "hsc-physics-2nd-paper-chapter-01-model-test-03-q06": {
+    "correctOption": "গ্যাসের চাপ",
+    "explanation": "সঠিক উত্তর: খ।\nসমউষ্ণ প্রক্রিয়ার ক্ষেত্রে আয়তন গুণাঙ্ক E_{\\text{iso}} = P (গ্যাসের চাপ)।\nঅন্যদিকে রুদ্ধতাপীয় আয়তন গুণাঙ্ক E_{\\text{adi}} = \\gamma P।"
   },
-  "hsc-physics_2ndpaper-chapter-01-set-03-q07": {
-    "answer": "এই প্রশ্নের জন্য কোনোটিই নয়",
-    "answerIndex": 3,
-    "difficulty": 1200,
-    "explanation": "প্রশ্নে দেওয়া সীমাবদ্ধ তথ্য অনুযায়ী উপযুক্ত বিকল্পটি উপরের মধ্যে নয়। — বোর্ড/মডেল/অধ্যায়ভিত্তিক সোর্স প্যাটার্ন থেকে নেওয়া high-priority MCQ।",
-    "topic": "তাপগতিবিদ্যা"
+  "hsc-physics-2nd-paper-chapter-01-model-test-03-q07": {
+    "correctOption": "1013 \\text{ J K}^{-1}",
+    "explanation": "সঠিক উত্তর: ক। তাপমাত্রা পরিবর্তনের ক্ষেত্রে এনট্রপি\n\\Delta S = m s \\ln\\left(\\frac{T_2}{T_1}\\right)। এখানে m = 1, s = 4200,\nT_1 = 293 \\text{ K}, T_2 = 373 \\text{ K}।\n\\Delta S = 1 \\times 4200 \\times \\ln\\left(\\frac{373}{293}\\right) \\approx 4200 \\times 0.2413 \\approx 1013 \\text{ J K}^{-1}।"
   },
-  "hsc-physics_2ndpaper-chapter-01-set-03-q08": {
-    "answer": "400 J",
-    "answerIndex": 1,
-    "difficulty": 1200,
-    "explanation": "K = Q₂/W ⇒ W = Q₂/K = 1000/2.5 = 400 J — বোর্ড/মডেল/অধ্যায়ভিত্তিক সোর্স প্যাটার্ন থেকে নেওয়া high-priority MCQ।",
-    "topic": "তাপগতিবিদ্যা"
+  "hsc-physics-2nd-paper-chapter-01-model-test-03-q08": {
+    "correctOption": "i ও ii",
+    "explanation": "সঠিক উত্তর: ক। চাপ এবং তাপমাত্রা বস্তুর ভরের ওপর নির্ভর করে\nনা, তাই এরা ইনটেনসিভ চলক। অন্যদিকে ভর, আয়তন এবং অভ্যন্তরীণ শক্তি ভরের ওপর\nনির্ভরশীল বলে এক্সটেনসিভ চলক। iii ভুল।"
   },
-  "hsc-physics_2ndpaper-chapter-01-set-03-q09": {
-    "answer": "আয়তন",
-    "answerIndex": 0,
-    "difficulty": 1200,
-    "explanation": "গোলকের পরিধি এবং কেন্দ্রের তথ্য আয়তন নির্ধারণের সাথে সম্পর্কিত। — বোর্ড/মডেল/অধ্যায়ভিত্তিক সোর্স প্যাটার্ন থেকে নেওয়া high-priority MCQ।",
-    "topic": "তাপগতিবিদ্যা"
+  "hsc-physics-2nd-paper-chapter-01-model-test-03-q09": {
+    "correctOption": "2077.5 \\text{ J}",
+    "explanation": "সঠিক উত্তর: খ। রুদ্ধতাপীয় প্রক্রিয়ায় কাজ,\nW = \\frac{nR}{\\gamma-1}(T_1 - T_2)। এখানে n=2, T_1=300, T_2=250, \\gamma=1.4।\nW = \\frac{2 \\times 8.31}{1.4 - 1} \\times 50 = \\frac{16.62}{0.4} \\times 50 = 41.55 \\times 50 = 2077.5 \\text{ J}।"
   },
-  "hsc-physics_2ndpaper-chapter-01-set-03-q10": {
-    "answer": "তাপীয় প্রক্রিয়া",
-    "answerIndex": 1,
-    "difficulty": 1200,
-    "explanation": "প্রদত্ত বিবরণ অনুযায়ী এটি একটি তাপীয় প্রক্রিয়া হিসেবে ধরা হয়েছে। — বোর্ড/মডেল/অধ্যায়ভিত্তিক সোর্স প্যাটার্ন থেকে নেওয়া high-priority MCQ।",
-    "topic": "তাপগতিবিদ্যা"
+  "hsc-physics-2nd-paper-chapter-01-model-test-03-q10": {
+    "correctOption": "আয়তন অক্ষের সমান্তরাল সরলরেখা",
+    "explanation": "সঠিক উত্তর: ক। সমচাপ প্রক্রিয়ায় আয়তন\nপরিবর্তিত হলেও চাপ স্থির থাকে। ফলে y-অক্ষ বরাবর মানের কোনো পরিবর্তন হয়\nনা, যা একটি x-অক্ষের (আয়তন অক্ষের) সমান্তরাল সরলরেখা তৈরি করে।"
   },
-  "hsc-physics_2ndpaper-chapter-01-set-03-q11": {
-    "answer": "সমচতুর্ভুজ",
-    "answerIndex": 1,
-    "difficulty": 1200,
-    "explanation": "টেন ও প্রক্ষেপণের সম্মিলিত প্রয়োগ সমচতুর্ভুজ আকৃতি তৈরি করতে পারে। — বোর্ড/মডেল/অধ্যায়ভিত্তিক সোর্স প্যাটার্ন থেকে নেওয়া high-priority MCQ।",
-    "topic": "তাপগতিবিদ্যা"
+  "hsc-physics-2nd-paper-chapter-01-model-test-03-q11": {
+    "correctOption": "\\frac{Q_1}{T_1} = \\frac{Q_2}{T_2}",
+    "explanation": "সঠিক উত্তর: খ। প্রত্যাগামী বা কার্নো ইঞ্জিনের ক্ষেত্রে\nকর্মদক্ষতা \\eta = 1 - \\frac{Q_2}{Q_1} = 1 - \\frac{T_2}{T_1}।\nএখান থেকে লেখা যায় \\frac{Q_2}{Q_1} = \\frac{T_2}{T_1} বা\n\\frac{Q_1}{T_1} = \\frac{Q_2}{T_2}।"
   },
-  "hsc-physics_2ndpaper-chapter-01-set-03-q12": {
-    "answer": "L2TI",
-    "answerIndex": 2,
-    "difficulty": 1200,
-    "explanation": "তাপীয় শক্তি/শক্তির মাত্রা L^2 M T^-2 হলেও দেওয়া বিকল্পের মধ্যে সবচেয়ে কাছেরটি L2TI। — বোর্ড/মডেল/অধ্যায়ভিত্তিক সোর্স প্যাটার্ন থেকে নেওয়া high-priority MCQ।",
-    "topic": "তাপগতিবিদ্যা"
+  "hsc-physics-2nd-paper-chapter-01-model-test-03-q12": {
+    "correctOption": "i ও iii",
+    "explanation": "সঠিক উত্তর: খ। কার্নো চক্রের ৪টি ধাপ: সমউষ্ণ প্রসারণ,\nরুদ্ধতাপীয় প্রসারণ, সমউষ্ণ সংকোচন (৩য় ধাপ), এবং রুদ্ধতাপীয়\nসংকোচন (৪র্থ ধাপ)। তাই ii নম্বর ভুল।"
   },
-  "hsc-physics_2ndpaper-chapter-01-set-03-q13": {
-    "answer": "তাপমাত্রা",
-    "answerIndex": 1,
-    "difficulty": 1200,
-    "explanation": "তাপমাত্রা একটি স্কেলার পরিমাণ, তাই এটি অপূর্ব পরিমাণ। — বোর্ড/মডেল/অধ্যায়ভিত্তিক সোর্স প্যাটার্ন থেকে নেওয়া high-priority MCQ।",
-    "topic": "তাপগতিবিদ্যা"
+  "hsc-physics-2nd-paper-chapter-01-model-test-03-q13": {
+    "correctOption": "9",
+    "explanation": "সঠিক উত্তর: খ। রেফ্রিজারেটরের COP,\nK = \\frac{T_2}{T_1 - T_2}। এখানে T_1 = 27+273 = 300 \\text{ K},\nT_2 = -3+273 = 270 \\text{ K}। সুতরাং\nK = \\frac{270}{300 - 270} = \\frac{270}{30} = 9।"
   },
-  "hsc-physics_2ndpaper-chapter-01-set-03-q14": {
-    "answer": "\\frac{1}{\\gamma}",
-    "answerIndex": 0,
-    "difficulty": 1200,
-    "explanation": "বোর্ড/মডেল/অধ্যায়ভিত্তিক সোর্স প্যাটার্ন থেকে নেওয়া high-priority MCQ।",
-    "topic": "তাপগতিবিদ্যা"
+  "hsc-physics-2nd-paper-chapter-01-model-test-03-q14": {
+    "correctOption": "সিস্টেম কর্তৃক পরিবেশের ওপর কাজ করা হলে dW ধনাত্মক",
+    "explanation": "সঠিক উত্তর: খ। চিহ্নের প্রথা অনুযায়ী,\nসিস্টেমে তাপ দেয়া হলে dQ (+), সিস্টেম থেকে তাপ বের হলে dQ (-)। সিস্টেম\nনিজে কাজ করলে (প্রসারণ) dW (+), এবং সিস্টেমের ওপর কাজ করা হলে (সংকোচন)\ndW (-) হয়।"
   },
-  "hsc-physics_2ndpaper-chapter-01-set-03-q15": {
-    "answer": "-0.2857",
-    "answerIndex": 0,
-    "difficulty": 1200,
-    "explanation": "বোর্ড/মডেল/অধ্যায়ভিত্তিক সোর্স প্যাটার্ন থেকে নেওয়া high-priority MCQ।",
-    "topic": "তাপগতিবিদ্যা"
+  "hsc-physics-2nd-paper-chapter-01-model-test-03-q15": {
+    "correctOption": "স্থির চাপে গ্যাসকে প্রসারণজনিত বাহ্যিক কাজ সম্পাদন\nকরতে হয়",
+    "explanation": "সঠিক উত্তর:\nগ। স্থির আয়তনে সরবরাহকৃত তাপ কেবল অভ্যন্তরীণ শক্তি বাড়ায়। কিন্তু স্থির চাপে\nআয়তন প্রসারণের কারণে গ্যাসকে বাহ্যিক কাজ করতে হয়, তাই একই পরিমাণ তাপমাত্রা\nবৃদ্ধির জন্য অতিরিক্ত তাপ সরবরাহ করতে হয়।"
   },
-  "hsc-physics_2ndpaper-chapter-01-set-03-q16": {
-    "answer": "ii ও iii",
-    "answerIndex": 2,
-    "difficulty": 1200,
-    "explanation": "বোর্ড/মডেল/অধ্যায়ভিত্তিক সোর্স প্যাটার্ন থেকে নেওয়া high-priority MCQ।",
-    "topic": "তাপগতিবিদ্যা"
+  "hsc-physics-2nd-paper-chapter-01-model-test-03-q16": {
+    "correctOption": "3",
+    "explanation": "সঠিক উত্তর: খ। এক-পরমাণুক গ্যাসের\n(যেমন- হিলিয়াম, নিয়ন) অণু শুধু ত্রিমাত্রিক রৈখিক গতি লাভ করতে পারে। তাই এদের\nরৈখিক গতির স্বাধীনতার মাত্রা ৩।"
   },
-  "hsc-physics_2ndpaper-chapter-01-set-03-q17": {
-    "answer": "ii ও iii",
-    "answerIndex": 2,
-    "difficulty": 1200,
-    "explanation": "বোর্ড/মডেল/অধ্যায়ভিত্তিক সোর্স প্যাটার্ন থেকে নেওয়া high-priority MCQ।",
-    "topic": "তাপগতিবিদ্যা"
+  "hsc-physics-2nd-paper-chapter-01-model-test-03-q17": {
+    "correctOption": "i ও ii",
+    "explanation": "সঠিক উত্তর: ক। রুদ্ধতাপীয়\nপ্রক্রিয়ায় তাপের আদান-প্রদান হতে দেওয়া হয় না। এজন্য পাত্রের দেয়াল\nকুপরিবাহী হওয়া প্রয়োজন এবং প্রক্রিয়াটি এত দ্রুত ঘটাতে হয় যেন তাপ চলাচলের\nসময় না পায়। এতে চাপ ও আয়তন উভয়েরই পরিবর্তন ঘটে।"
   },
-  "hsc-physics_2ndpaper-chapter-01-set-03-q18": {
-    "answer": "3",
-    "answerIndex": 0,
-    "difficulty": 1200,
-    "explanation": "বোর্ড/মডেল/অধ্যায়ভিত্তিক সোর্স প্যাটার্ন থেকে নেওয়া high-priority MCQ।",
-    "topic": "তাপগতিবিদ্যা"
+  "hsc-physics-2nd-paper-chapter-01-model-test-03-q18": {
+    "correctOption": "[M L^2 T^{-2} \\theta^{-1} mol^{-1}]",
+    "explanation": "সঠিক উত্তর: ক। আদর্শ গ্যাস সমীকরণ PV = nRT থেকে\nR = \\frac{PV}{nT} = \\frac{W}{nT}। কাজের মাত্রা [M L^2 T^{-2}], মোল সংখ্যার\nমাত্রা mol এবং তাপমাত্রার মাত্রা \\theta। সুতরাং R এর মাত্রা\n[M L^2 T^{-2} \\theta^{-1} mol^{-1}]।"
   },
-  "hsc-physics_2ndpaper-chapter-01-set-03-q19": {
-    "answer": "উৎস ও গ্রাহকের তাপমাত্রার পার্থক্য বাড়াতে হবে",
-    "answerIndex": 1,
-    "difficulty": 1200,
-    "explanation": "বোর্ড/মডেল/অধ্যায়ভিত্তিক সোর্স প্যাটার্ন থেকে নেওয়া high-priority MCQ।",
-    "topic": "তাপগতিবিদ্যা"
+  "hsc-physics-2nd-paper-chapter-01-model-test-03-q19": {
+    "correctOption": "627^\\circ\\text{C}",
+    "explanation": "সঠিক উত্তর: গ। স্থির আয়তনে চাপের সূত্র\nঅনুযায়ী \\frac{P_1}{T_1} = \\frac{P_2}{T_2}। এখানে T_1 = 300 \\text{ K},\nP_2 = 3P_1। সুতরাং T_2 = \\frac{3P_1 \\times 300}{P_1} = 900 \\text{ K}।\nসেলসিয়াস স্কেলে 900 - 273 = 627^\\circ\\text{C}।"
   },
-  "hsc-physics_2ndpaper-chapter-01-set-03-q20": {
-    "answer": "উৎস ও গ্রাহকের তাপমাত্রার পার্থক্য বাড়াতে হবে",
-    "answerIndex": 0,
-    "difficulty": 1200,
-    "explanation": "বোর্ড/মডেল/অধ্যায়ভিত্তিক সোর্স প্যাটার্ন থেকে নেওয়া high-priority MCQ।",
-    "topic": "তাপগতিবিদ্যা"
+  "hsc-physics-2nd-paper-chapter-01-model-test-03-q20": {
+    "correctOption": "প্রতি চক্রে মোট নিট কৃত কাজ",
+    "explanation": "সঠিক উত্তর: গ। P-V লেখচিত্রে কোনো\nবক্ররেখা দ্বারা আবদ্ধ ক্ষেত্রের ক্ষেত্রফল কাজ নির্দেশ করে। একটি\nসম্পূর্ণ চক্রে ঘড়ির কাঁটার দিকে আবর্তিত লুপের আবদ্ধ ক্ষেত্রফল প্রতি চক্রে\nইঞ্জিন দ্বারা সম্পাদিত নিট কাজের সমান।"
   },
-  "hsc-physics_2ndpaper-chapter-01-set-03-q21": {
-    "answer": "উৎস ও গ্রাহকের তাপমাত্রার পার্থক্য বাড়াতে হবে",
-    "answerIndex": 2,
-    "difficulty": 1200,
-    "explanation": "বোর্ড/মডেল/অধ্যায়ভিত্তিক সোর্স প্যাটার্ন থেকে নেওয়া high-priority MCQ।",
-    "topic": "তাপগতিবিদ্যা"
+  "hsc-physics-2nd-paper-chapter-01-model-test-03-q21": {
+    "correctOption": "4 \\times 10^5 \\text{ J}",
+    "explanation": "সঠিক উত্তর: খ। স্থির চাপে কাজের সমীকরণ W = P(V_2 - V_1)। এখানে\nP = 2 \\times 10^5 \\text{ Pa} এবং \\Delta V = 2.5 - 0.5 = 2.0 \\text{ m}^3।\nঅতএব W = 2 \\times 10^5 \\times 2 = 4 \\times 10^5 \\text{ J}।"
   },
-  "hsc-physics_2ndpaper-chapter-01-set-03-q22": {
-    "answer": "উৎস ও গ্রাহকের তাপমাত্রার পার্থক্য বাড়াতে হবে",
-    "answerIndex": 3,
-    "difficulty": 1200,
-    "explanation": "বোর্ড/মডেল/অধ্যায়ভিত্তিক সোর্স প্যাটার্ন থেকে নেওয়া high-priority MCQ।",
-    "topic": "তাপগতিবিদ্যা"
+  "hsc-physics-2nd-paper-chapter-01-model-test-03-q22": {
+    "correctOption": "সিস্টেম থেকে তাপ\nঅপসারিত হয়",
+    "explanation": "সঠিক উত্তর: খ। সমউষ্ণ প্রক্রিয়ায়\nতাপমাত্রা অপরিবর্তিত থাকে বলে dU=0। প্রথম সূত্রমতে dQ = dW। যদি dW\nঋণাত্মক হয় (অর্থাৎ পরিবেশ দ্বারা সিস্টেম সংকুচিত হয়), তবে dQ ও ঋণাত্মক\nহবে, যার অর্থ সিস্টেম থেকে তাপ পরিবেশে অপসারিত হচ্ছে।"
   },
-  "hsc-physics_2ndpaper-chapter-01-set-03-q23": {
-    "answer": "এনট্রপি",
-    "answerIndex": 3,
-    "difficulty": 1200,
-    "explanation": "বোর্ড/মডেল/অধ্যায়ভিত্তিক সোর্স প্যাটার্ন থেকে নেওয়া high-priority MCQ।",
-    "topic": "তাপগতিবিদ্যা"
+  "hsc-physics-2nd-paper-chapter-01-model-test-03-q23": {
+    "correctOption": "900 \\text{ J}",
+    "explanation": "সঠিক উত্তর: খ। তাপ\nইঞ্জিনের ক্ষেত্রে, গৃহীত তাপ Q_1 = W + Q_2। এখানে Q_1 = 1500 \\text{ J}\nএবং কৃত কাজ W = 600 \\text{ J}। সুতরাং বর্জিত তাপ\nQ_2 = 1500 - 600 = 900 \\text{ J}।"
   },
-  "hsc-physics_2ndpaper-chapter-01-set-03-q24": {
-    "answer": "জুল",
-    "answerIndex": 3,
-    "difficulty": 1200,
-    "explanation": "বোর্ড/মডেল/অধ্যায়ভিত্তিক সোর্স প্যাটার্ন থেকে নেওয়া high-priority MCQ।",
-    "topic": "তাপগতিবিদ্যা"
+  "hsc-physics-2nd-paper-chapter-01-model-test-03-q24": {
+    "correctOption": "\\frac{5}{2}RT",
+    "explanation": "সঠিক\nউত্তর: খ। দ্বি-পরমাণুক গ্যাসের (যেমন- O_2, N_2) স্বাধীনতার মাত্রা f = 5।\nসমীকরণে n = 1 এবং f = 5 বসালে অভ্যন্তরীণ শক্তি U = \\frac{5}{2}RT পাওয়া যায়।"
   },
-  "hsc-physics_2ndpaper-chapter-01-set-03-q25": {
-    "answer": "জুল",
-    "answerIndex": 2,
-    "difficulty": 1200,
-    "explanation": "বোর্ড/মডেল/অধ্যায়ভিত্তিক সোর্স প্যাটার্ন থেকে নেওয়া high-priority MCQ।",
-    "topic": "তাপগতিবিদ্যা"
+  "hsc-physics-2nd-paper-chapter-01-model-test-03-q25": {
+    "correctOption": "আদর্শ গ্যাস",
+    "explanation": "সঠিক\nউত্তর: গ। বিজ্ঞানী সাদী কার্নো তাঁর তাত্ত্বিক আদর্শ তাপ ইঞ্জিনে কার্যকরী\nপদার্থ হিসেবে সম্পূর্ণ আদর্শ গ্যাস বিবেচনা করেছিলেন, কারণ এটি\nতাপগতিবিদ্যার সূত্রগুলো নিখুঁতভাবে মেনে চলে।"
   }
 }

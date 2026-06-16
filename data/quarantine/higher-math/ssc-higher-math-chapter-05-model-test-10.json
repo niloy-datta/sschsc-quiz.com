@@ -1,0 +1,77 @@
+{
+  "setId": "ssc-higher-math-chapter-05-model-test-10",
+  "reason": "DUPLICATE_OF_ssc-higher-math-chapter-05-model-test-06",
+  "quarantinedAt": "2026-06-14T19:53:00.842Z",
+  "questions": [
+    {
+      "id": "ssc-higher-math-chapter-05-model-test-10-q01",
+      "questionText": "sin(2θ) এর মান নির্ণয়",
+      "optionA": "-1",
+      "optionB": "1",
+      "optionC": "y",
+      "optionD": "180",
+      "correctOption": "A",
+      "explanation": "basic trig",
+      "chapter": "05",
+      "topic": "ত্রিকোণমিতি",
+      "difficulty": "Board Standard",
+      "questionNo": 1
+    },
+    {
+      "id": "ssc-higher-math-chapter-05-model-test-10-q02",
+      "questionText": "sin(3θ) এর মান নির্ণয়",
+      "optionA": "a+b",
+      "optionB": "180",
+      "optionC": "3",
+      "optionD": "0",
+      "correctOption": "C",
+      "explanation": "basic trig",
+      "chapter": "05",
+      "topic": "ত্রিকোণমিতি",
+      "difficulty": "Board Standard",
+      "questionNo": 2
+    },
+    {
+      "id": "ssc-higher-math-chapter-05-model-test-10-q03",
+      "questionText": "sin(4θ) এর মান নির্ণয়",
+      "optionA": "0",
+      "optionB": "1",
+      "optionC": "a+b",
+      "optionD": "180",
+      "correctOption": "A",
+      "explanation": "basic trig",
+      "chapter": "05",
+      "topic": "ত্রিকোণমিতি",
+      "difficulty": "Board Standard",
+      "questionNo": 3
+    },
+    {
+      "id": "ssc-higher-math-chapter-05-model-test-10-q04",
+      "questionText": "sin(5θ) এর মান নির্ণয়",
+      "optionA": "y",
+      "optionB": "5",
+      "optionC": "a-b",
+      "optionD": "1",
+      "correctOption": "B",
+      "explanation": "basic trig",
+      "chapter": "05",
+      "topic": "ত্রিকোণমিতি",
+      "difficulty": "Board Standard",
+      "questionNo": 4
+    },
+    {
+      "id": "ssc-higher-math-chapter-05-model-test-10-q05",
+      "questionText": "sin(1θ) এর মান নির্ণয়",
+      "optionA": "a+b",
+      "optionB": "1",
+      "optionC": "x",
+      "optionD": "360",
+      "correctOption": "B",
+      "explanation": "basic trig",
+      "chapter": "05",
+      "topic": "ত্রিকোণমিতি",
+      "difficulty": "Board Standard",
+      "questionNo": 5
+    }
+  ]
+}

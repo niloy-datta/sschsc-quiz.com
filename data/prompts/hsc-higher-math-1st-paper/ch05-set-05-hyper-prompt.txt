@@ -1,0 +1,31 @@
+# MICRO HYPER PROMPT — Ch 05 Set 05 ONLY (25 MCQ)
+# Chapter: বিন্যাস ও সমাবেশ
+# Paste AFTER 00-MASTER-HYPER-PROMPT.txt
+# Save output: data/imports/hsc-higher-math-1st-paper-chapter-05-set-05.json
+
+## TASK
+Generate **ONLY Set 05** for Chapter 05: বিন্যাস ও সমাবেশ.
+Exactly **25 unique MCQ**. Set ID: hsc-higher-math-1st-paper-chapter-05-set-05
+
+## SET FOCUS
+Hard + Conceptual Trap + Final Board Simulator
+
+## MEGA HOT SUBTOPICS
+nPr, nCr, factorial, circular permutation, repetition, division into groups, binomial counting, board word problems
+
+## JSON (single-set wrapper)
+{
+  "level": "HSC",
+  "subject": "higher-math-1st-paper",
+  "chapterWise": [{
+    "chapter": "05",
+    "chapterName": "বিন্যাস ও সমাবেশ",
+    "sets": [{
+      "id": "hsc-higher-math-1st-paper-chapter-05-set-05",
+      "title": "Chapter 05 Hyper Mega Hot Set 05",
+      "questions": [ /* exactly 25 */ ]
+    }]
+  }]
+}
+
+Output JSON only.

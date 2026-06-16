@@ -1,0 +1,127 @@
+{
+  "sourceFile": "hsc_all_questions.txt",
+  "rawParsedQuestions": 16847,
+  "rawSubjectCount": {
+    "biology-1st-paper": 3762,
+    "biology-2nd-paper": 1535,
+    "chemistry-1st-paper": 1500,
+    "chemistry-2nd-paper": 695,
+    "higher-math-1st-paper": 1881,
+    "higher-math-2nd-paper": 595,
+    "physics-1st-paper": 4182,
+    "physics-2nd-paper": 2697
+  },
+  "rawSourceTypeCount": {
+    "model_test": 3469,
+    "chapterwise_compiled_practice": 10134,
+    "board_pattern_transformed": 716,
+    "previous_year_board_question": 2528
+  },
+  "uniqueAfterDeduplication": 6660,
+  "uniqueSubjectCount": {
+    "biology-1st-paper": 672,
+    "biology-2nd-paper": 547,
+    "chemistry-1st-paper": 936,
+    "chemistry-2nd-paper": 375,
+    "higher-math-1st-paper": 1558,
+    "higher-math-2nd-paper": 220,
+    "physics-1st-paper": 1750,
+    "physics-2nd-paper": 602
+  },
+  "uniqueSourceTypeCount": {
+    "board_pattern_transformed": 401,
+    "model_test": 2224,
+    "previous_year_board_question": 1030,
+    "chapterwise_compiled_practice": 3005
+  },
+  "acceptedStandaloneQuestions": 5999,
+  "acceptedStandaloneByPaper": {
+    "biology-1st-paper": 575,
+    "biology-2nd-paper": 524,
+    "chemistry-1st-paper": 680,
+    "chemistry-2nd-paper": 335,
+    "higher-math-1st-paper": 1515,
+    "higher-math-2nd-paper": 199,
+    "physics-1st-paper": 1645,
+    "physics-2nd-paper": 526
+  },
+  "reviewNeededQuestions": 661,
+  "reviewNeededByPaper": {
+    "biology-1st-paper": 97,
+    "biology-2nd-paper": 23,
+    "chemistry-1st-paper": 256,
+    "chemistry-2nd-paper": 40,
+    "higher-math-1st-paper": 43,
+    "higher-math-2nd-paper": 21,
+    "physics-1st-paper": 105,
+    "physics-2nd-paper": 76
+  },
+  "practiceSetSummary": [
+    {
+      "paperSlug": "biology-1st-paper",
+      "paperName": "HSC Biology 1st Paper",
+      "cleanQuestionAvailable": 575,
+      "generatedSets": 10,
+      "questionsInSets": 250,
+      "note": "Full 10 sets generated from clean source."
+    },
+    {
+      "paperSlug": "biology-2nd-paper",
+      "paperName": "HSC Biology 2nd Paper",
+      "cleanQuestionAvailable": 524,
+      "generatedSets": 10,
+      "questionsInSets": 250,
+      "note": "Full 10 sets generated from clean source."
+    },
+    {
+      "paperSlug": "chemistry-1st-paper",
+      "paperName": "HSC Chemistry 1st Paper",
+      "cleanQuestionAvailable": 680,
+      "generatedSets": 10,
+      "questionsInSets": 250,
+      "note": "Full 10 sets generated from clean source."
+    },
+    {
+      "paperSlug": "chemistry-2nd-paper",
+      "paperName": "HSC Chemistry 2nd Paper",
+      "cleanQuestionAvailable": 335,
+      "generatedSets": 10,
+      "questionsInSets": 250,
+      "note": "Full 10 sets generated from clean source."
+    },
+    {
+      "paperSlug": "higher-math-1st-paper",
+      "paperName": "HSC Higher Math 1st Paper",
+      "cleanQuestionAvailable": 1515,
+      "generatedSets": 10,
+      "questionsInSets": 250,
+      "note": "Full 10 sets generated from clean source."
+    },
+    {
+      "paperSlug": "higher-math-2nd-paper",
+      "paperName": "HSC Higher Math 2nd Paper",
+      "cleanQuestionAvailable": 199,
+      "generatedSets": 7,
+      "questionsInSets": 175,
+      "note": "No duplicate/fake filler used. Sets limited by clean uploaded source."
+    },
+    {
+      "paperSlug": "physics-1st-paper",
+      "paperName": "HSC Physics 1st Paper",
+      "cleanQuestionAvailable": 1645,
+      "generatedSets": 10,
+      "questionsInSets": 250,
+      "note": "Full 10 sets generated from clean source."
+    },
+    {
+      "paperSlug": "physics-2nd-paper",
+      "paperName": "HSC Physics 2nd Paper",
+      "cleanQuestionAvailable": 526,
+      "generatedSets": 10,
+      "questionsInSets": 250,
+      "note": "Full 10 sets generated from clean source."
+    }
+  ],
+  "validation": "No duplicate question IDs inside generated practice sets; every generated practice question has 4 options and valid correctOption.",
+  "importantNote": "Higher Math 2nd Paper has fewer than 250 clean standalone unique MCQs in the uploaded file; generated sets are limited rather than filled with fake duplicates."
+}

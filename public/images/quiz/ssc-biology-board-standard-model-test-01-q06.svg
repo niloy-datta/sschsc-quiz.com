@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="100%" height="100%" viewBox="0 0 360 220">
+  <defs>
+    <style>
+      .bg{fill:#020617}
+      .tube{fill:none;stroke:#38bdf8;stroke-width:6;stroke-linecap:round;stroke-linejoin:round}
+      .cap{fill:none;stroke:#f59e0b;stroke-width:5}
+      .vessel{fill:none;stroke:#ef4444;stroke-width:4;stroke-linecap:round}
+      .label{font-family:Arial,sans-serif;font-size:17px;font-weight:800;fill:#e5e7eb}
+      .small{font-family:Arial,sans-serif;font-size:12px;font-weight:700;fill:#cbd5e1}
+    </style>
+  </defs>
+  <rect width="360" height="220" rx="18" class="bg"/>
+  <circle cx="92" cy="72" r="38" class="cap"/>
+  <circle cx="92" cy="72" r="20" fill="none" stroke="#ef4444" stroke-width="5"/>
+  <path d="M130 72 C165 70 175 90 150 105 C120 123 145 145 180 132 C215 118 230 145 198 162 C168 180 195 196 238 178" class="tube"/>
+  <path d="M238 178 C270 160 270 105 240 90 C220 80 225 62 260 60" class="tube"/>
+  <path d="M260 60 V185" class="tube"/>
+  <path d="M45 70 C55 55 70 48 92 52" class="vessel"/>
+  <path d="M92 92 C70 105 55 110 42 125" class="vessel"/>
+  <text x="86" y="76" text-anchor="middle" class="label">A</text>
+  <text x="175" y="155" text-anchor="middle" class="label">B</text>
+  <text x="210" y="92" text-anchor="middle" class="label">C</text>
+  <text x="278" y="128" text-anchor="middle" class="label">D</text>
+  <text x="92" y="126" text-anchor="middle" class="small">Bowman's capsule</text>
+</svg>

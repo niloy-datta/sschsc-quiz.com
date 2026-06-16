@@ -24,6 +24,7 @@ def score_submission(
     skipped_count = 0
 
     explanations = {}
+    correct_answer_indexes = {}
     correct_difficulties = []
     wrong_difficulties = []
 
@@ -41,7 +42,8 @@ def score_submission(
             skipped_count += 1
             continue
 
-        correct_ans = ans_data.get("answer")
+        correct_ans = ans_data.get("answer") or ans_data.get("correctOption")
+        correct_ans_idx = int(ans_data.get("answerIndex", 0) or 0)
         explanation = ans_data.get("explanation", "")
         difficulty = int(ans_data.get("difficulty") or 1200)
         topic = ans_data.get("topic") or "General"
@@ -56,6 +58,7 @@ def score_submission(
         difficulty_stats[difficulty][1] += 1
 
         explanations[q_id] = explanation
+        correct_answer_indexes[q_id] = correct_ans_idx
 
         if not student_ans:
             skipped_count += 1
@@ -104,5 +107,7 @@ def score_submission(
         "eloRatingChange": elo_delta,
         "weakTopics": weak_topics,
         "strongTopics": strong_topics,
-        "explanations": explanations
+        "explanations": explanations,
+        "correctAnswerIndexes": correct_answer_indexes
     }
+

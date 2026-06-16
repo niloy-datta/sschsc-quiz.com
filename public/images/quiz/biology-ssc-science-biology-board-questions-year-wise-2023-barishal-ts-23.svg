@@ -1,0 +1,29 @@
+<svg viewBox="0 0 360 220" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0f172a"/>
+      <stop offset="100%" stop-color="#1e1b4b"/>
+    </linearGradient>
+    <filter id="glow" x="-30%" y="-30%" width="160%" height="160%">
+      <feDropShadow dx="0" dy="0" stdDeviation="4" flood-color="#22d3ee" flood-opacity="0.55"/>
+    </filter>
+  </defs>
+  <rect width="360" height="220" rx="14" fill="url(#bg)" stroke="#334155" stroke-width="1.5"/>
+  
+    <!-- Main stem -->
+    <path d="M180,180 L180,70" stroke="#475569" stroke-width="6" stroke-linecap="round"/>
+    <path d="M180,100 Q150,80 120,80" fill="none" stroke="#22d3ee" stroke-width="3" stroke-linecap="round" filter="url(#glow)"/>
+    <path d="M180,130 Q210,110 240,110" fill="none" stroke="#34d399" stroke-width="3" stroke-linecap="round"/>
+    
+    <!-- Apical bud (removed/inhibited) -->
+    <circle cx="180" cy="70" r="8" fill="#f472b6"/>
+    <text x="180" y="55" fill="#fda4af" font-size="10" font-family="Segoe UI" text-anchor="middle">শীর্ষ মুকুল (Apical Bud)</text>
+    
+    <!-- Lateral buds / branches -->
+    <circle cx="120" cy="80" r="5" fill="#38bdf8"/>
+    <circle cx="240" cy="110" r="5" fill="#38bdf8"/>
+    <text x="100" y="75" fill="#e2e8f0" font-size="10" font-family="Segoe UI">পার্শ্বীয় বৃদ্ধি</text>
+    <text x="248" y="115" fill="#e2e8f0" font-size="10" font-family="Segoe UI">শাখা বৃদ্ধি</text>
+  
+  <text x="180" y="208" fill="#94a3b8" font-family="Segoe UI, system-ui, sans-serif" font-size="11" text-anchor="middle">উদ্ভিদ হরমোন — পার্শ্বীয় শাখা বৃদ্ধি</text>
+</svg>

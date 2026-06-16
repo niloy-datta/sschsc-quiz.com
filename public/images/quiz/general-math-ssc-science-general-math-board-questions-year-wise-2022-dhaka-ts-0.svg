@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 360 220" width="100%" height="100%">
+  <rect width="360" height="220" rx="18" fill="#020617"/>
+  <polygon points="75,165 285,165 180,45" fill="#111827" stroke="#38bdf8" stroke-width="4"/>
+  <path d="M108 165 A36 36 0 0 1 94 137" stroke="#facc15" stroke-width="5" fill="none"/>
+  <path d="M252 165 A36 36 0 0 0 266 137" stroke="#22c55e" stroke-width="5" fill="none"/>
+  <path d="M158 68 A30 30 0 0 0 202 68" stroke="#fb7185" stroke-width="5" fill="none"/>
+  <text x="180" y="205" text-anchor="middle" fill="#fff" font-size="18" font-weight="900">sum of angles</text>
+</svg>

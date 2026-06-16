@@ -1,0 +1,21 @@
+<svg width="100%" height="100%" viewBox="0 0 420 260" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Acid-Base Titration Endpoint">
+  <defs>
+    <marker id="arrow" markerWidth="8" markerHeight="8" refX="7" refY="3.5" orient="auto">
+      <path d="M0,0 L0,7 L8,3.5 z" fill="#0f172a"/>
+    </marker>
+    <marker id="arrowBlue" markerWidth="8" markerHeight="8" refX="7" refY="3.5" orient="auto">
+      <path d="M0,0 L0,7 L8,3.5 z" fill="#2563eb"/>
+    </marker>
+  </defs>
+  <rect width="420" height="260" rx="18" fill="#f8fafc"/>
+  <rect x="14" y="14" width="392" height="232" rx="14" fill="#ffffff" stroke="#cbd5e1" stroke-width="1.5"/>
+  <text x="210.0" y="38" text-anchor="middle" font-family="Arial, sans-serif" font-size="15" font-weight="700" fill="#0f172a">Acid-Base Titration Endpoint</text>
+  
+  <path d="M190 65 H230 L222 165 Q210 185 198 165 Z" fill="#e0f2fe" stroke="#0284c7" stroke-width="2"/>
+  <line x1="210" y1="165" x2="210" y2="205" stroke="#0284c7" stroke-width="2"/>
+  <path d="M130 205 H290" stroke="#0f172a" stroke-width="2"/>
+  <path d="M156 115 H264 L247 205 H173 Z" fill="#fce7f3" stroke="#db2777" stroke-width="2"/>
+  <text x="210" y="95" text-anchor="middle" font-size="11" fill="#0284c7">Burette</text>
+  <text x="210" y="223" text-anchor="middle" font-size="12" fill="#475569">Endpoint colour change</text>
+
+</svg>

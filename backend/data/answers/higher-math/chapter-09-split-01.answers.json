@@ -1,0 +1,102 @@
+{
+  "chapter-09-split-01-q01": {
+    "correctOption": "aᵐ⁺ⁿ",
+    "explanation": "সূচকের গুণন সূত্র: একই ভিত্তির ঘাতগুলোর গুণফলে ঘাতগুলো যোগ হয়। aᵐ × aⁿ = aᵐ⁺ⁿ."
+  },
+  "chapter-09-split-01-q02": {
+    "correctOption": "1",
+    "explanation": "শূন্য ব্যতীত যেকোনো অশূন্য সংখ্যার ঘাত 0 হলে তার মান 1। এটি সূচকের মৌলিক সূত্র।"
+  },
+  "chapter-09-split-01-q03": {
+    "correctOption": "3",
+    "explanation": "10³ = 1000, সুতরাং log₁₀ 1000 = 3। সাধারণ লগারিদমের জন্য ভিত্তি 10 ধরা হয়।"
+  },
+  "chapter-09-split-01-q04": {
+    "correctOption": "1",
+    "explanation": "a¹ = a, তাই logₐ a = 1। এটি লগারিদমের সর্বাধিক ব্যবহৃত মৌলিক বৈশিষ্ট্য।"
+  },
+  "chapter-09-split-01-q05": {
+    "correctOption": "3",
+    "explanation": "2³ = 8, সুতরাং log₂ 8 = 3। ভিত্তি 2-এর লগারিদম বোর্ডে প্রায়ই আসে।"
+  },
+  "chapter-09-split-01-q06": {
+    "correctOption": "1/8",
+    "explanation": "a⁻ⁿ = 1/aⁿ সূত্রানুসারে 2⁻³ = 1/2³ = 1/8। ঋণাত্মক ঘাতের এই রূপান্তর শিক্ষার্থীরা প্রায়ই ভুল করে।"
+  },
+  "chapter-09-split-01-q07": {
+    "correctOption": "0",
+    "explanation": "যেকোনো গ্রহণযোগ্য ভিত্তির জন্য logₐ 1 = 0, কারণ a⁰ = 1।"
+  },
+  "chapter-09-split-01-q08": {
+    "correctOption": "a^(mn)",
+    "explanation": "ঘাতের ঘাত সূত্র: (aᵐ)ⁿ = a^(m×n) = a^(mn)। এটি সূচকের অন্যতম গুরুত্বপূর্ণ সূত্র।"
+  },
+  "chapter-09-split-01-q09": {
+    "correctOption": "4",
+    "explanation": "3⁴ = 81, সুতরাং log₃ 81 = 4। এটি সরাসরি সংজ্ঞা থেকে আসে।"
+  },
+  "chapter-09-split-01-q10": {
+    "correctOption": "8",
+    "explanation": "logₓ 64 = 2 অর্থাৎ x² = 64 ⇒ x = 8 (ভিত্তি সর্বদা ধনাত্মক ও 1 নয়)। 32 বেছে নেওয়া একটি কমন ভুল।"
+  },
+  "chapter-09-split-01-q11": {
+    "correctOption": "3/2",
+    "explanation": "5√5 = 5 × 5^(1/2) = 5^(3/2), তাই log₅ 5√5 = 3/2।"
+  },
+  "chapter-09-split-01-q12": {
+    "correctOption": "logₐ b",
+    "explanation": "লগারিদমের সংজ্ঞা: aˣ = b ⇔ x = logₐ b। এটি অধ্যায়ের সবচেয়ে মৌলিক ধারণা।"
+  },
+  "chapter-09-split-01-q13": {
+    "correctOption": "–3",
+    "explanation": "0.001 = 10⁻³, সুতরাং log₁₀ 0.001 = –3। দশমিকের লগারিদমে ঋণাত্মক মান বোর্ডে বারবার এসেছে।"
+  },
+  "chapter-09-split-01-q14": {
+    "correctOption": "উভয় B ও C",
+    "explanation": "log₂ 16 + log₂ 4 = log₂(16×4) = log₂ 64 = 6। একাধিক সঠিক উত্তর থাকলে 'উভয়' অপশনটি সঠিক।"
+  },
+  "chapter-09-split-01-q15": {
+    "correctOption": "3/2",
+    "explanation": "7√7 = 7^(3/2), তাই log₇ 7√7 = 3/2। পূর্ববর্তী প্রশ্নের অনুরূপ, ভিন্ন ভিত্তিতে অনুশীলন জরুরি।"
+  },
+  "chapter-09-split-01-q16": {
+    "correctOption": "logₐ(MN) = logₐ M + logₐ N",
+    "explanation": "শুধুমাত্র গুণফলের লগারিদমই লগারিদমদ্বয়ের যোগফলের সমান। যোগ-বিয়োগের জন্য কোনো লগ বৈশিষ্ট্য নেই। এটি পরীক্ষার ক্লাসিক ফাঁদ।"
+  },
+  "chapter-09-split-01-q17": {
+    "correctOption": "0.7781",
+    "explanation": "log 6 = log(2×3) = log 2 + log 3 = 0.3010 + 0.4771 = 0.7781। প্রায় প্রতি বোর্ডেই প্রদত্ত মান ব্যবহারের প্রশ্ন থাকে।"
+  },
+  "chapter-09-split-01-q18": {
+    "correctOption": "2",
+    "explanation": "3ˣ⁺¹ = 3³ ⇒ x+1 = 3 ⇒ x = 2। সমান ভিত্তিতে উভয়পক্ষ এনে ঘাত তুলনা করাই মূল কৌশল।"
+  },
+  "chapter-09-split-01-q19": {
+    "correctOption": "5/2",
+    "explanation": "4ˣ = 32 ⇒ 2²ˣ = 2⁵ ⇒ 2x = 5 ⇒ x = 5/2। ভগ্নাংশ ঘাতবিশিষ্ট লগারিদম বোর্ডে ক্রমবর্ধমান হারে আসছে।"
+  },
+  "chapter-09-split-01-q20": {
+    "correctOption": "উভয় B ও C",
+    "explanation": "log 2 + log 5 = log(2×5) = log 10 = 1। B ও C উভয়ই সঠিক। বোর্ড MCQ-তে একাধিক সঠিক উত্তরের এই প্যাটার্ন গুরুত্বপূর্ণ।"
+  },
+  "chapter-09-split-01-q21": {
+    "correctOption": "64",
+    "explanation": "ধাপে ধাপে: log₃(log₄ x) = 2⁰ = 1 ⇒ log₄ x = 3¹ = 3 ⇒ x = 4³ = 64। নেস্টেড লগ মেধাবী শিক্ষার্থীদের জন্য বোর্ডের পছন্দের প্রশ্ন।"
+  },
+  "chapter-09-split-01-q22": {
+    "correctOption": "6",
+    "explanation": "(√3)ˣ = 27 ⇒ 3^(x/2) = 3³ ⇒ x/2 = 3 ⇒ x = 6। করণীযুক্ত ভিত্তি সম্পন্ন লগারিদম উচ্চতর দক্ষতা যাচাই করে।"
+  },
+  "chapter-09-split-01-q23": {
+    "correctOption": "60",
+    "explanation": "log x = log 100 + log 3 – log 5 = log(100×3/5) = log 60 ⇒ x = 60। বামপক্ষে ধ্রুবক 2-কে log 100 রূপে লেখাই মূল কৌশল।"
+  },
+  "chapter-09-split-01-q24": {
+    "correctOption": "log((a+b)/3) = (1/2)(log a + log b)",
+    "explanation": "a²+b²=7ab ⇒ (a+b)²=9ab ⇒ (a+b)/3=√(ab)। উভয়পক্ষে log নিলে log((a+b)/3) = (1/2)(log a + log b) পাওয়া যায়। এটি বোর্ডের ক্লাসিক প্রমাণ-ভিত্তিক MCQ।"
+  },
+  "chapter-09-split-01-q25": {
+    "correctOption": "x = 5",
+    "explanation": "log₅[(x+1)(x-1)] = log₅ 24 ⇒ x²-1=24 ⇒ x=±5। কিন্তু x=-5 হলে log₅(-4) অসংজ্ঞায়িত। তাই বৈধ মূল x=5। ডোমেইন যাচাই না করলে ভুল হয়।"
+  }
+}

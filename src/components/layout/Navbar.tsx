@@ -15,6 +15,7 @@ const mainNavLinks = [
   { href: "/ssc-board-questions", label: "SSC বোর্ড প্রশ্ন" },
   { href: "/hsc-board-questions", label: "HSC বোর্ড প্রশ্ন" },
   { href: "/leaderboard", label: "লিডারবোর্ড" },
+  { href: "/leaderboard/college-wars", label: "⚔️ College Wars" },
 ];
 
 export function Navbar() {

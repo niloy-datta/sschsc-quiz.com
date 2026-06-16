@@ -1,0 +1,24 @@
+<svg width="100%" height="100%" viewBox="0 0 420 260" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Series LCR Circuit">
+  <defs>
+    <marker id="arrow" markerWidth="8" markerHeight="8" refX="7" refY="3.5" orient="auto"><path d="M0,0 L0,7 L8,3.5 z" fill="#0f172a"/></marker>
+    <marker id="arrowBlue" markerWidth="8" markerHeight="8" refX="7" refY="3.5" orient="auto"><path d="M0,0 L0,7 L8,3.5 z" fill="#2563eb"/></marker>
+  </defs>
+  <rect width="420" height="260" rx="18" fill="#f8fafc"/>
+  <rect x="14" y="14" width="392" height="232" rx="14" fill="#ffffff" stroke="#cbd5e1" stroke-width="1.5"/>
+  <text x="210" y="38" text-anchor="middle" font-family="Arial, sans-serif" font-size="15" font-weight="700" fill="#0f172a">Series LCR Circuit</text>
+  
+  <g stroke="#0f172a" stroke-width="2.2" fill="none">
+    <line x1="55" y1="130" x2="105" y2="130"/>
+    <path d="M105 130 h10 l7 -13 l7 26 l7 -26 l7 26 l7 -13 h10"/>
+    <text x="132" y="102" text-anchor="middle" font-size="13" fill="#2563eb">R</text>
+    <path d="M165 130 C165 105,195 105,195 130 C195 155,225 155,225 130"/>
+    <text x="195" y="102" text-anchor="middle" font-size="13" fill="#2563eb">L</text>
+    <line x1="245" y1="102" x2="245" y2="158"/>
+    <line x1="265" y1="102" x2="265" y2="158"/>
+    <line x1="225" y1="130" x2="245" y2="130"/>
+    <line x1="265" y1="130" x2="330" y2="130"/>
+    <text x="255" y="92" text-anchor="middle" font-size="13" fill="#2563eb">C</text>
+  </g>
+  <text x="210" y="222" text-anchor="middle" font-size="12" fill="#475569">Series LCR circuit at resonance</text>
+
+</svg>

@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="100%" height="100%" viewBox="0 0 360 220">
+  <defs>
+    <linearGradient id="spectrum" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#7c3aed"/>
+      <stop offset="18%" stop-color="#2563eb"/>
+      <stop offset="36%" stop-color="#22c55e"/>
+      <stop offset="58%" stop-color="#facc15"/>
+      <stop offset="76%" stop-color="#f97316"/>
+      <stop offset="100%" stop-color="#ef4444"/>
+    </linearGradient>
+    <style>
+      .bg{fill:#020617}
+      .wave{fill:none;stroke:#38bdf8;stroke-width:3;stroke-linecap:round}
+      .axis{stroke:#e5e7eb;stroke-width:2}
+      .bar{fill:url(#spectrum);stroke:#e5e7eb;stroke-width:1.2}
+      .label{font-family:Arial,sans-serif;font-size:13px;font-weight:800;fill:#e5e7eb}
+      .small{font-family:Arial,sans-serif;font-size:11px;font-weight:700;fill:#cbd5e1}
+    </style>
+  </defs>
+
+  <rect width="360" height="220" rx="18" class="bg"/>
+
+  <rect x="45" y="42" width="270" height="26" rx="8" class="bar"/>
+
+  <path d="M48 135 C72 88 105 88 130 135 S188 182 213 135 S270 88 312 135" class="wave"/>
+
+  <line x1="48" y1="170" x2="312" y2="170" class="axis"/>
+  <text x="50" y="190" class="small">400 nm</text>
+  <text x="260" y="190" class="small">700 nm</text>
+
+  <circle cx="278" cy="55" r="8" fill="#ef4444"/>
+  <text x="278" y="33" text-anchor="middle" class="label">লাল আলো</text>
+</svg>

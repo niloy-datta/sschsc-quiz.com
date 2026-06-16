@@ -1,0 +1,25 @@
+<svg width="100%" height="100%" viewBox="0 0 360 220" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="tRNA ক্লোভার-লিফ মডেল">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#07111f"/>
+      <stop offset="100%" stop-color="#0f172a"/>
+    </linearGradient>
+    <filter id="glow"><feGaussianBlur stdDeviation="2.2" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+    <marker id="arrow" markerWidth="8" markerHeight="8" refX="7" refY="3" orient="auto"><path d="M0,0 L0,6 L8,3 z" fill="#67e8f9"/></marker>
+  </defs>
+  <rect width="360" height="220" rx="18" fill="url(#bg)"/>
+  <rect x="10" y="10" width="340" height="200" rx="14" fill="#ffffff" opacity=".035" stroke="#38bdf8" stroke-opacity=".24"/>
+  <text x="180" y="28" text-anchor="middle" fill="#e0f2fe" font-size="12.5" font-weight="700" font-family="Noto Sans Bengali, Arial, sans-serif">tRNA ক্লোভার-লিফ মডেল</text>
+  <text x="180" y="44" text-anchor="middle" fill="#93c5fd" font-size="9.5" font-family="Noto Sans Bengali, Arial, sans-serif">প্রোটিন সংশ্লেষণে কোড বহনকারী RNA</text>
+  
+  <g filter="url(#glow)" fill="none" stroke="#38bdf8" stroke-width="3" stroke-linecap="round">
+    <path d="M180 55 C155 75,155 105,180 120 C205 105,205 75,180 55"/>
+    <path d="M180 120 C145 130,145 170,180 185 C215 170,215 130,180 120"/>
+    <path d="M180 120 C123 105,105 135,130 154"/>
+    <path d="M180 120 C237 105,255 135,230 154"/>
+    <line x1="180" y1="55" x2="180" y2="35"/>
+  </g>
+  <text x="180" y="28" text-anchor="middle" fill="#fef3c7" font-size="10" font-family="Noto Sans Bengali, Arial">Amino acid</text>
+  <text x="180" y="203" text-anchor="middle" fill="#e0f2fe" font-size="11" font-family="Noto Sans Bengali, Arial">tRNA Clover-leaf model</text>
+  
+</svg>

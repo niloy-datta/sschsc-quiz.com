@@ -23,7 +23,7 @@ async def get_user_progress(current_user: dict = Depends(require_user)):
         "chemistry-1st-paper", "chemistry-2nd-paper",
         "biology-1st-paper", "biology-2nd-paper",
         "higher-math-1st-paper", "higher-math-2nd-paper",
-        "ict", "physics", "chemistry", "biology", "general-math", "higher-math"
+        "physics", "chemistry", "biology", "general-math", "higher-math"
     ]
 
     progress_summary = []

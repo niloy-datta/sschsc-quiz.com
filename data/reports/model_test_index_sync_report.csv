@@ -1,0 +1,14 @@
+Level | Subject | Paper | Mega JSON File | Index File | Mega Count | Index Count | Missing In Index | Missing In Mega | Status
+SSC | biology | biology | public/quiz-data/ssc/biology.json | public/quiz-data/ssc/biology.model-tests.index.json | 5 | 5 | none | none | SYNC_OK
+SSC | chemistry | chemistry | public/quiz-data/ssc/chemistry.json | public/quiz-data/ssc/chemistry.model-tests.index.json | 63 | 63 | none | none | SYNC_OK
+SSC | general-math | general-math | public/quiz-data/ssc/general-math.json | public/quiz-data/ssc/general-math.model-tests.index.json | 24 | 24 | none | none | SYNC_OK
+SSC | higher-math | higher-math | public/quiz-data/ssc/higher-math.json | public/quiz-data/ssc/higher-math.model-tests.index.json | 76 | 76 | none | none | SYNC_OK
+SSC | physics | physics | public/quiz-data/ssc/physics.json | public/quiz-data/ssc/physics.model-tests.index.json | 77 | 77 | none | none | SYNC_OK
+HSC | biology-1st-paper | biology-1st-paper | public/quiz-data/hsc/biology-1st-paper.json | public/quiz-data/hsc/biology-1st-paper.model-tests.index.json | 130 | 130 | none | none | SYNC_OK
+HSC | biology-2nd-paper | biology-2nd-paper | public/quiz-data/hsc/biology-2nd-paper.json | public/quiz-data/hsc/biology-2nd-paper.model-tests.index.json | 51 | 51 | none | none | SYNC_OK
+HSC | chemistry-1st-paper | chemistry-1st-paper | public/quiz-data/hsc/chemistry-1st-paper.json | public/quiz-data/hsc/chemistry-1st-paper.model-tests.index.json | 59 | 59 | none | none | SYNC_OK
+HSC | chemistry-2nd-paper | chemistry-2nd-paper | public/quiz-data/hsc/chemistry-2nd-paper.json | public/quiz-data/hsc/chemistry-2nd-paper.model-tests.index.json | 24 | 24 | none | none | SYNC_OK
+HSC | higher-math-1st-paper | higher-math-1st-paper | public/quiz-data/hsc/higher-math-1st-paper.json | public/quiz-data/hsc/higher-math-1st-paper.model-tests.index.json | 75 | 75 | none | none | SYNC_OK
+HSC | higher-math-2nd-paper | higher-math-2nd-paper | public/quiz-data/hsc/higher-math-2nd-paper.json | public/quiz-data/hsc/higher-math-2nd-paper.model-tests.index.json | 22 | 22 | none | none | SYNC_OK
+HSC | physics-1st-paper | physics-1st-paper | public/quiz-data/hsc/physics-1st-paper.json | public/quiz-data/hsc/physics-1st-paper.model-tests.index.json | 151 | 151 | none | none | SYNC_OK
+HSC | physics-2nd-paper | physics-2nd-paper | public/quiz-data/hsc/physics-2nd-paper.json | public/quiz-data/hsc/physics-2nd-paper.model-tests.index.json | 123 | 123 | none | none | SYNC_OK

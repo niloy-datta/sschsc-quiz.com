@@ -1,156 +1,90 @@
 {
-  "physics-1st-paper-hsc-science-physics-1st-paper-model-tests-super-model-set-09-ts-0": {
-    "answer": "স্কেলার ক্ষেত্রকে ভেক্টর ক্ষেত্রে রূপান্তর করে",
-    "answerIndex": 0,
-    "difficulty": 1200,
-    "explanation": "গ্রেডিয়েন্ট কোনো স্কেলার ক্ষেত্রের ওপর অপারেট করে একটি ভেক্টর রাশি তৈরি করে, যা ওই স্কেলার রাশির সর্বাধিক পরিবর্তনের হার ও দিক নির্দেশ করে।",
-    "topic": "super-model-set-09"
+  "super-model-set-09-q01": {
+    "correctOption": "স্কেলার ক্ষেত্রকে ভেক্টর ক্ষেত্রে রূপান্তর করে",
+    "explanation": "গ্রেডিয়েন্ট কোনো স্কেলার ক্ষেত্রের ওপর অপারেট করে একটি ভেক্টর রাশি তৈরি করে, যা ওই স্কেলার রাশির সর্বাধিক পরিবর্তনের হার ও দিক নির্দেশ করে।"
   },
-  "physics-1st-paper-hsc-science-physics-1st-paper-model-tests-super-model-set-09-ts-1": {
-    "answer": "16",
-    "answerIndex": 2,
-    "difficulty": 1200,
-    "explanation": "ভেদ করার ক্ষমতা গতিশক্তির সমানুপাতিক। বেগ ৪ গুণ হলে গতিশক্তি (v2 ) 42 =16 গুণ হবে, তাই ১৬টি তক্তা ভেদ করতে পারবে।",
-    "topic": "super-model-set-09"
+  "super-model-set-09-q02": {
+    "correctOption": "16",
+    "explanation": "ভেদ করার ক্ষমতা গতিশক্তির সমানুপাতিক। বেগ ৪ গুণ হলে গতিশক্তি (v2 ) 42 =16 গুণ হবে, তাই ১৬টি তক্তা ভেদ করতে পারবে।"
   },
-  "physics-1st-paper-hsc-science-physics-1st-paper-model-tests-super-model-set-09-ts-2": {
-    "answer": "rad/s2",
-    "answerIndex": 1,
-    "difficulty": 1200,
-    "explanation": "কৌণিক বেগ পরিবর্তনের হারকে কৌণিক ত্বরণ বলে। এর একক রেডিয়ান পার সেকেন্ড স্কয়ার (rad/s2 )।",
-    "topic": "super-model-set-09"
+  "super-model-set-09-q03": {
+    "correctOption": "rad/s2",
+    "explanation": "কৌণিক বেগ পরিবর্তনের হারকে কৌণিক ত্বরণ বলে। এর একক রেডিয়ান পার সেকেন্ড স্কয়ার (rad/s2 )।"
   },
-  "physics-1st-paper-hsc-science-physics-1st-paper-model-tests-super-model-set-09-ts-3": {
-    "answer": "অসীমে",
-    "answerIndex": 2,
-    "difficulty": 1200,
-    "explanation": "g′ =g(R+h R ​)2 । h→∞ হলে g′ →0 হয়। (পৃষ্ঠ থেকে উপরে গেলে অসীমে শূন্য হয়, আর নিচে নামলে কেন্দ্রে শূন্য হয়)।",
-    "topic": "super-model-set-09"
+  "super-model-set-09-q04": {
+    "correctOption": "অসীমে",
+    "explanation": "g′ =g(R+h R ​)2 । h→∞ হলে g′ →0 হয়। (পৃষ্ঠ থেকে উপরে গেলে অসীমে শূন্য হয়, আর নিচে নামলে কেন্দ্রে শূন্য হয়)।"
   },
-  "physics-1st-paper-hsc-science-physics-1st-paper-model-tests-super-model-set-09-ts-4": {
-    "answer": "চাপ",
-    "answerIndex": 3,
-    "difficulty": 1200,
-    "explanation": "নিউটনের সূত্রানুসারে F=ηAdx dv ​। এখানে চাপের কোনো ভূমিকা নেই।",
-    "topic": "super-model-set-09"
+  "super-model-set-09-q05": {
+    "correctOption": "চাপ",
+    "explanation": "নিউটনের সূত্রানুসারে F=ηAdx dv ​। এখানে চাপের কোনো ভূমিকা নেই।"
   },
-  "physics-1st-paper-hsc-science-physics-1st-paper-model-tests-super-model-set-09-ts-5": {
-    "answer": "3 : 1",
-    "answerIndex": 2,
-    "difficulty": 1200,
-    "explanation": "বিভবশক্তি Ep ​=2 1 ​kx2 =2 1 ​k(A/2)2 =4 1 ​(2 1 ​kA2 )=4 1 ​E। গতিশক্তি Ek ​=E−Ep ​=4 3 ​E। অনুপাত Ek ​:Ep ​=4 3 ​:4 1 ​=3:1।",
-    "topic": "super-model-set-09"
+  "super-model-set-09-q06": {
+    "correctOption": "3 : 1",
+    "explanation": "বিভবশক্তি Ep ​=2 1 ​kx2 =2 1 ​k(A/2)2 =4 1 ​(2 1 ​kA2 )=4 1 ​E। গতিশক্তি Ek ​=E−Ep ​=4 3 ​E। অনুপাত Ek ​:Ep ​=4 3 ​:4 1 ​=3:1।"
   },
-  "physics-1st-paper-hsc-science-physics-1st-paper-model-tests-super-model-set-09-ts-6": {
-    "answer": "আইসোথার্ম (Isotherm)",
-    "answerIndex": 2,
-    "difficulty": 1200,
-    "explanation": "স্থির তাপমাত্রায় সম্পন্ন হওয়া প্রক্রিয়াকে সমোষ্ণ (Isothermal) প্রক্রিয়া বলে, তাই এই লেখচিত্রকে আইসোথার্ম বা সমোষ্ণ রেখা বলা হয়।",
-    "topic": "super-model-set-09"
+  "super-model-set-09-q07": {
+    "correctOption": "আইসোথার্ম (Isotherm)",
+    "explanation": "স্থির তাপমাত্রায় সম্পন্ন হওয়া প্রক্রিয়াকে সমোষ্ণ (Isothermal) প্রক্রিয়া বলে, তাই এই লেখচিত্রকে আইসোথার্ম বা সমোষ্ণ রেখা বলা হয়।"
   },
-  "physics-1st-paper-hsc-science-physics-1st-paper-model-tests-super-model-set-09-ts-7": {
-    "answer": "25 m",
-    "answerIndex": 0,
-    "difficulty": 1200,
-    "explanation": "সর্বাধিক পাল্লার ক্ষেত্রে θ=45∘ এবং Rmax ​=4H। তাই H=Rmax ​/4=100/4=25 m।",
-    "topic": "super-model-set-09"
+  "super-model-set-09-q08": {
+    "correctOption": "25 m",
+    "explanation": "সর্বাধিক পাল্লার ক্ষেত্রে θ=45∘ এবং Rmax ​=4H। তাই H=Rmax ​/4=100/4=25 m।"
   },
-  "physics-1st-paper-hsc-science-physics-1st-paper-model-tests-super-model-set-09-ts-8": {
-    "answer": "ভর একই থাকবে কিন্তু ওজন পরিবর্তন হবে",
-    "answerIndex": 2,
-    "difficulty": 1200,
-    "explanation": "ভর পদার্থের মৌলিক ধর্ম, যা স্থানভেদে বদলায় না। কিন্তু ওজন (W=mg) অভিকর্ষজ ত্বরণের ওপর নির্ভর করে, যা চাঁদে আলাদা।",
-    "topic": "super-model-set-09"
+  "super-model-set-09-q09": {
+    "correctOption": "ভর একই থাকবে কিন্তু ওজন পরিবর্তন হবে",
+    "explanation": "ভর পদার্থের মৌলিক ধর্ম, যা স্থানভেদে বদলায় না। কিন্তু ওজন (W=mg) অভিকর্ষজ ত্বরণের ওপর নির্ভর করে, যা চাঁদে আলাদা।"
   },
-  "physics-1st-paper-hsc-science-physics-1st-paper-model-tests-super-model-set-09-ts-9": {
-    "answer": "সমানুপাতিক",
-    "answerIndex": 1,
-    "difficulty": 1200,
-    "explanation": "হুকের সূত্র অনুযায়ী স্থিতিস্থাপক সীমার মধ্যে পীড়ন বিকৃতির সমানুপাতিক।",
-    "topic": "super-model-set-09"
+  "super-model-set-09-q10": {
+    "correctOption": "সমানুপাতিক",
+    "explanation": "হুকের সূত্র অনুযায়ী স্থিতিস্থাপক সীমার মধ্যে পীড়ন বিকৃতির সমানুপাতিক।"
   },
-  "physics-1st-paper-hsc-science-physics-1st-paper-model-tests-super-model-set-09-ts-10": {
-    "answer": "1 m",
-    "answerIndex": 1,
-    "difficulty": 1200,
-    "explanation": "T=2πL/g ​। সেকেন্ড দোলকের T=2 s। 2=2πL/π2 ​⟹1=L ​⟹L=1 m। (বাস্তবে 0.993 m)।",
-    "topic": "super-model-set-09"
+  "super-model-set-09-q11": {
+    "correctOption": "1 m",
+    "explanation": "T=2πL/g ​। সেকেন্ড দোলকের T=2 s। 2=2πL/π2 ​⟹1=L ​⟹L=1 m। (বাস্তবে 0.993 m)।"
   },
-  "physics-1st-paper-hsc-science-physics-1st-paper-model-tests-super-model-set-09-ts-11": {
-    "answer": "T1 ​ P1 ​V1 ​ ​=T2 ​ P2 ​V2 ​ ​",
-    "answerIndex": 2,
-    "difficulty": 1200,
-    "explanation": "নির্দিষ্ট ভরের গ্যাসের ক্ষেত্রে বয়েলের সূত্র (PV=const) এবং চার্লসের সূত্র (V/T=const) মিলিয়ে T PV ​=const পাওয়া যায়।",
-    "topic": "super-model-set-09"
+  "super-model-set-09-q12": {
+    "correctOption": "T1 ​ P1 ​V1 ​ ​=T2 ​ P2 ​V2 ​ ​",
+    "explanation": "নির্দিষ্ট ভরের গ্যাসের ক্ষেত্রে বয়েলের সূত্র (PV=const) এবং চার্লসের সূত্র (V/T=const) মিলিয়ে T PV ​=const পাওয়া যায়।"
   },
-  "physics-1st-paper-hsc-science-physics-1st-paper-model-tests-super-model-set-09-ts-12": {
-    "answer": "অসীম",
-    "answerIndex": 1,
-    "difficulty": 1200,
-    "explanation": "যদি P =Q ​ হয়, তবে অন্তর (সর্বনিম্ন লব্ধি) P−P=0। সর্বোচ্চ মান P+P=2P। অনুপাত 2P/0=∞।",
-    "topic": "super-model-set-09"
+  "super-model-set-09-q13": {
+    "correctOption": "অসীম",
+    "explanation": "যদি P =Q ​ হয়, তবে অন্তর (সর্বনিম্ন লব্ধি) P−P=0। সর্বোচ্চ মান P+P=2P। অনুপাত 2P/0=∞।"
   },
-  "physics-1st-paper-hsc-science-physics-1st-paper-model-tests-super-model-set-09-ts-13": {
-    "answer": "X-অক্ষ বরাবর সরলরেখা",
-    "answerIndex": 2,
-    "difficulty": 1200,
-    "explanation": "সমবেগে চলমান বস্তুর ত্বরণ সর্বদা শূন্য (a=0)। তাই লেখচিত্রটি X-অক্ষ (সময় অক্ষ) এর ওপর দিয়ে যাবে।",
-    "topic": "super-model-set-09"
+  "super-model-set-09-q14": {
+    "correctOption": "X-অক্ষ বরাবর সরলরেখা",
+    "explanation": "সমবেগে চলমান বস্তুর ত্বরণ সর্বদা শূন্য (a=0)। তাই লেখচিত্রটি X-অক্ষ (সময় অক্ষ) এর ওপর দিয়ে যাবে।"
   },
-  "physics-1st-paper-hsc-science-physics-1st-paper-model-tests-super-model-set-09-ts-14": {
-    "answer": "শূন্য",
-    "answerIndex": 2,
-    "difficulty": 1200,
-    "explanation": "কেন্দ্রমুখী বল সর্বদা গতির (সরণের) দিকের সাথে 90° কোণে কাজ করে। তাই W=Fscos(90∘ )=0।",
-    "topic": "super-model-set-09"
+  "super-model-set-09-q15": {
+    "correctOption": "শূন্য",
+    "explanation": "কেন্দ্রমুখী বল সর্বদা গতির (সরণের) দিকের সাথে 90° কোণে কাজ করে। তাই W=Fscos(90∘ )=0।"
   },
-  "physics-1st-paper-hsc-science-physics-1st-paper-model-tests-super-model-set-09-ts-15": {
-    "answer": "L=Iω",
-    "answerIndex": 1,
-    "difficulty": 1200,
-    "explanation": "রৈখিক গতির p=mv এর ঘূর্ণন সমতুল্য হলো L=Iω।",
-    "topic": "super-model-set-09"
+  "super-model-set-09-q16": {
+    "correctOption": "L=Iω",
+    "explanation": "রৈখিক গতির p=mv এর ঘূর্ণন সমতুল্য হলো L=Iω।"
   },
-  "physics-1st-paper-hsc-science-physics-1st-paper-model-tests-super-model-set-09-ts-16": {
-    "answer": "মেরু অঞ্চলে",
-    "answerIndex": 1,
-    "difficulty": 1200,
-    "explanation": "মহাকর্ষীয় প্রাবল্য (বা অভিকর্ষজ ত্বরণ g) পৃথিবীর কেন্দ্র থেকে দূরত্বের বর্গের ব্যস্তানুপাতিক। মেরু অঞ্চলে ব্যাসার্ধ সবচেয়ে কম হওয়ায় প্রাবল্য সবচেয়ে বেশি।",
-    "topic": "super-model-set-09"
+  "super-model-set-09-q17": {
+    "correctOption": "মেরু অঞ্চলে",
+    "explanation": "মহাকর্ষীয় প্রাবল্য (বা অভিকর্ষজ ত্বরণ g) পৃথিবীর কেন্দ্র থেকে দূরত্বের বর্গের ব্যস্তানুপাতিক। মেরু অঞ্চলে ব্যাসার্ধ সবচেয়ে কম হওয়ায় প্রাবল্য সবচেয়ে বেশি।"
   },
-  "physics-1st-paper-hsc-science-physics-1st-paper-model-tests-super-model-set-09-ts-17": {
-    "answer": "0.2",
-    "answerIndex": 1,
-    "difficulty": 1200,
-    "explanation": "পয়সনের অনুপাত σ=দৈর্ঘ্য বিকৃতি পার্শ্ব বিকৃতি ​=0.1 0.02 ​=0.2।",
-    "topic": "super-model-set-09"
+  "super-model-set-09-q18": {
+    "correctOption": "0.2",
+    "explanation": "পয়সনের অনুপাত σ=দৈর্ঘ্য বিকৃতি পার্শ্ব বিকৃতি ​=0.1 0.02 ​=0.2।"
   },
-  "physics-1st-paper-hsc-science-physics-1st-paper-model-tests-super-model-set-09-ts-18": {
-    "answer": "T/8",
-    "answerIndex": 2,
-    "difficulty": 1200,
-    "explanation": "গতিশক্তি = বিভবশক্তি হলে x=2 ​ A ​। সরণের সমীকরণ x=Asin(T 2π ​t) এ মান বসালে sin(T 2π ​t)=2 ​ 1 ​⟹T 2π ​t=4 π ​⟹t=8 T ​।",
-    "topic": "super-model-set-09"
+  "super-model-set-09-q19": {
+    "correctOption": "T/8",
+    "explanation": "গতিশক্তি = বিভবশক্তি হলে x=2 ​ A ​। সরণের সমীকরণ x=Asin(T 2π ​t) এ মান বসালে sin(T 2π ​t)=2 ​ 1 ​⟹T 2π ​t=4 π ​⟹t=8 T ​।"
   },
-  "physics-1st-paper-hsc-science-physics-1st-paper-model-tests-super-model-set-09-ts-19": {
-    "answer": "−40∘",
-    "answerIndex": 1,
-    "difficulty": 1200,
-    "explanation": "5 C ​=9 F−32 ​ এ C=F=x বসালে x=−40 পাওয়া যায়।",
-    "topic": "super-model-set-09"
+  "super-model-set-09-q20": {
+    "correctOption": "−40∘",
+    "explanation": "5 C ​=9 F−32 ​ এ C=F=x বসালে x=−40 পাওয়া যায়।"
   },
-  "physics-1st-paper-hsc-science-physics-1st-paper-model-tests-super-model-set-09-ts-20": {
-    "answer": "3",
-    "answerIndex": 1,
-    "difficulty": 1200,
-    "explanation": "হিলিয়াম একটি এক-পারমাণবিক (Monoatomic) গ্যাস। এর কেবলমাত্র ৩টি রৈখিক স্বাধীনতার মাত্রা থাকে।",
-    "topic": "super-model-set-09"
+  "super-model-set-09-q21": {
+    "correctOption": "3",
+    "explanation": "হিলিয়াম একটি এক-পারমাণবিক (Monoatomic) গ্যাস। এর কেবলমাত্র ৩টি রৈখিক স্বাধীনতার মাত্রা থাকে।"
   },
-  "physics-1st-paper-hsc-science-physics-1st-paper-model-tests-super-model-set-09-ts-21": {
-    "answer": "180°",
-    "answerIndex": 2,
-    "difficulty": 1200,
-    "explanation": "দুটি ভেক্টর পরস্পর বিপরীত দিকে কাজ করলে (মধ্যবর্তী কোণ 180°) তাদের লব্ধির মান বিয়োগফলের সমান হয়, যা সর্বনিম্ন।",
-    "topic": "super-model-set-09"
+  "super-model-set-09-q22": {
+    "correctOption": "180°",
+    "explanation": "দুটি ভেক্টর পরস্পর বিপরীত দিকে কাজ করলে (মধ্যবর্তী কোণ 180°) তাদের লব্ধির মান বিয়োগফলের সমান হয়, যা সর্বনিম্ন।"
   }
 }

@@ -1,0 +1,282 @@
+{
+  "setId": "chapter-06-split-05",
+  "reason": "DUPLICATE_OF_chapter-06-split-05",
+  "quarantinedAt": "2026-06-16T10:44:44.714Z",
+  "questions": [
+    {
+      "id": "chapter-06-split-05-q01",
+      "questionText": "প্রমাণ অবস্থায় ৪.৪৮ লিটার CO₂ গ্যাসে কত মোল CO₂ আছে?",
+      "optionA": "০.১ মোল",
+      "optionB": "০.২ মোল",
+      "optionC": "০.৫ মোল",
+      "optionD": "২ মোল",
+      "correctOption": "B",
+      "explanation": "সঠিক উত্তর: B (০.২ মোল)। ব্যাখ্যা: মোল = ৪.৪৮ / ২২.৪ = ০.২ মোল।",
+      "questionNo": 1
+    },
+    {
+      "id": "chapter-06-split-05-q02",
+      "questionText": "প্রমাণ অবস্থায় ১১.২ লিটার O₂ গ্যাসে কতটি অক্সিজেন পরমাণু থাকে?",
+      "optionA": "৬.০২৩ × ১০²৩ টি",
+      "optionB": "৩.০১১ × ১০²৩ টি",
+      "optionC": "১.২০৪ × ১০²৪ টি",
+      "optionD": "১.৫০৫ × ১০²৩ টি",
+      "correctOption": "A",
+      "explanation": "সঠিক উত্তর: A (৬.০২৩ × ১০²৩ টি)। ব্যাখ্যা: ১১.২L = ০.৫ মোল O₂ অণু। ১ অণুতে ২টি পরমাণু। তাই পরমাণু = ০.৫ ×",
+      "questionNo": 2
+    },
+    {
+      "id": "chapter-06-split-05-q03",
+      "questionText": "লিমিটিং বিক্রিয়ক (Limiting reactant) কাকে বলে?",
+      "optionA": "বিক্রিয়ায় যা উদ্বৃত্ত থাকে",
+      "optionB": "বিক্রিয়ায় যা আগে শেষ হয়ে যায়",
+      "optionC": "বিক্রিয়ায় উৎপন্ন পদার্থ",
+      "optionD": "প্রভাবক হিসেবে কাজ করে",
+      "correctOption": "B",
+      "explanation": "সঠিক উত্তর: B (বিক্রিয়ায় যা আগে শেষ হয়ে যায়)। ব্যাখ্যা: একাধিক বিক্রিয়কের মধ্যে যে বিক্রিয়কটি বিক্রিয়া করে আগে শেষ হয়ে",
+      "questionNo": 3
+    },
+    {
+      "id": "chapter-06-split-05-q04",
+      "questionText": "4g হাইড্রোজেন ও 16g অক্সিজেন মিশ্রিত করে স্পার্ক করলে কোনটি লিমিটিং বিক্রিয়ক হবে?",
+      "optionA": "হাইড্রোজেন",
+      "optionB": "অক্সিজেন",
+      "optionC": "উভয়ই",
+      "optionD": "কোনোটিই নয়",
+      "correctOption": "B",
+      "explanation": "সঠিক উত্তর: B (অক্সিজেন)। ব্যাখ্যা: 2H₂(৪g) + O₂(৩২g) → 2H₂O। ৪g H₂ এর জন্য ৩২g O₂ লাগে, কিন্তু আছে",
+      "questionNo": 4
+    },
+    {
+      "id": "chapter-06-split-05-q05",
+      "questionText": "10g ম্যাগনেসিয়াম ও 10g অক্সিজেন বিক্রিয়া করলে লিমিটিং বিক্রিয়ক কোনটি?",
+      "optionA": "ম্যাগনেসিয়াম",
+      "optionB": "অক্সিজেন",
+      "optionC": "ম্যাগনেসিয়াম অক্সাইড",
+      "optionD": "উভয়েই শেষ হবে",
+      "correctOption": "A",
+      "explanation": "সঠিক উত্তর: A (ম্যাগনেসিয়াম)। ব্যাখ্যা: 2Mg(৪৮g) + O₂(৩২g) → 2MgO। ১০g O₂ এর জন্য Mg লাগে (৪৮/৩২)×১০ =",
+      "questionNo": 5
+    },
+    {
+      "id": "chapter-06-split-05-q06",
+      "questionText": "১ মোল N₂ ও ৪ মোল H₂ মিশ্রিত করে অ্যামোনিয়া তৈরি করলে কোনটি লিমিটিং বিক্রিয়ক?",
+      "optionA": "N₂",
+      "optionB": "H₂",
+      "optionC": "NH₃",
+      "optionD": "কোনোটিই নয়",
+      "correctOption": "A",
+      "explanation": "সঠিক উত্তর: A (N₂)। ব্যাখ্যা: N₂ + 3H₂ → 2NH₃। ১ মোল N₂ এর জন্য ৩ মোল H₂ লাগে। H₂ আছে ৪ মোল",
+      "questionNo": 6
+    },
+    {
+      "id": "chapter-06-split-05-q07",
+      "questionText": "৫ গ্রাম কার্বন (C) কে ২০ গ্রাম অক্সিজেনের (O₂) সাথে পোড়ালে লিমিটিং বিক্রিয়ক কোনটি?",
+      "optionA": "কার্বন",
+      "optionB": "অক্সিজেন",
+      "optionC": "CO₂",
+      "optionD": "কার্বন মনোক্সাইড",
+      "correctOption": "A",
+      "explanation": "সঠিক উত্তর: A (কার্বন)। ব্যাখ্যা: C(১২g) + O₂(৩২g) → CO₂। ১২g C এর জন্য ৩২g O₂ লাগে। ৫g এর জন্য",
+      "questionNo": 7
+    },
+    {
+      "id": "chapter-06-split-05-q08",
+      "questionText": "বিক্রিয়ায় উৎপাদের পরিমাণ কোনটির ওপর নির্ভর করে?",
+      "optionA": "উদ্বৃত্ত বিক্রিয়কের ওপর",
+      "optionB": "লিমিটিং বিক্রিয়কের ওপর",
+      "optionC": "বিক্রিয়ার পাত্রের ওপর",
+      "optionD": "তাপমাত্রা ও চাপের ওপর (শুধুমাত্র)",
+      "correctOption": "B",
+      "explanation": "সঠিক উত্তর: B (লিমিটিং বিক্রিয়কের ওপর)। ব্যাখ্যা: লিমিটিং বিক্রিয়ক শেষ হয়ে গেলে বিক্রিয়া থেমে যায়, তাই এটি",
+      "questionNo": 8
+    },
+    {
+      "id": "chapter-06-split-05-q09",
+      "questionText": "10g CaCO₃ এর সাথে 10g HCl এর বিক্রিয়ায় কোনটি লিমিটিং বিক্রিয়ক?",
+      "optionA": "CaCO₃",
+      "optionB": "HCl",
+      "optionC": "CO₂",
+      "optionD": "CaCl₂",
+      "correctOption": "A",
+      "explanation": "সঠিক উত্তর: A (CaCO₃)। ব্যাখ্যা: CaCO₃(১০০g) + 2HCl(৭৩g)। 10g CaCO₃ এর জন্য 7.3g HCl লাগে। HCl",
+      "questionNo": 9
+    },
+    {
+      "id": "chapter-06-split-05-q10",
+      "questionText": "যে বিক্রিয়ক বিক্রিয়া শেষে পাত্রে অবশিষ্ট থাকে, তাকে কী বলে?",
+      "optionA": "লিমিটিং বিক্রিয়ক",
+      "optionB": "অতিরিক্ত বা উদ্বৃত্ত বিক্রিয়ক",
+      "optionC": "প্রভাবক",
+      "optionD": "উৎপাদ",
+      "correctOption": "B",
+      "explanation": "সঠিক উত্তর: B (অতিরিক্ত বা উদ্বৃত্ত বিক্রিয়ক)",
+      "questionNo": 10
+    },
+    {
+      "id": "chapter-06-split-05-q11",
+      "questionText": "৪ মোল Al এবং ২ মোল O₂ বিক্রিয়া করে Al₂O₃ তৈরি করলে লিমিটিং বিক্রিয়ক কোনটি?",
+      "optionA": "Al",
+      "optionB": "O₂",
+      "optionC": "Al₂O₃",
+      "optionD": "উভয়ই",
+      "correctOption": "B",
+      "explanation": "সঠিক উত্তর: B (O₂)। ব্যাখ্যা: 4Al + 3O₂ → 2Al₂O₃। ৪ মোল Al এর জন্য ৩ মোল O₂ প্রয়োজন। কিন্তু",
+      "questionNo": 11
+    },
+    {
+      "id": "chapter-06-split-05-q12",
+      "questionText": "শিল্প কারখানায় লিমিটিং বিক্রিয়ক নির্বাচন কেন গুরুত্বপূর্ণ?",
+      "optionA": "বিক্রিয়ার রং পরিবর্তনের জন্য",
+      "optionB": "দামি বিক্রিয়ক যেন নষ্ট না হয় (অর্থনৈতিক সাশ্রয়)",
+      "optionC": "বিক্রিয়া দ্রুত করার জন্য",
+      "optionD": "পাত্র যেন ফেটে না যায়",
+      "correctOption": "B",
+      "explanation": "সঠিক উত্তর: B (দামি বিক্রিয়ক যেন নষ্ট না হয় (অর্থনৈতিক সাশ্রয়)। ব্যাখ্যা: দামি কাঁচামালকে লিমিটিং বিক্রিয়ক হিসেবে ব্যবহার করলে সেটি",
+      "questionNo": 12
+    },
+    {
+      "id": "chapter-06-split-05-q13",
+      "questionText": "দ্রবণের মোলারিটি বা ঘনমাত্রা (S) নির্ণয়ের সঠিক সূত্র কোনটি?",
+      "optionA": "S = MV / 1000W",
+      "optionB": "S = 1000W / MV",
+      "optionC": "S = W / 1000MV",
+      "optionD": "S = 1000M / WV",
+      "correctOption": "B",
+      "explanation": "সঠিক উত্তর: B (S = 1000W / MV)। ব্যাখ্যা: যেখানে W = দ্রবের ভর (g), M = আণবিক ভর, V = দ্রবণের আয়তন (mL)।",
+      "questionNo": 13
+    },
+    {
+      "id": "chapter-06-split-05-q14",
+      "questionText": "১ লিটার দ্রবণে ১০৬ গ্রাম Na₂CO₃ দ্রবীভূত থাকলে দ্রবণের ঘনমাত্রা কত?",
+      "optionA": "০.১ M",
+      "optionB": "০.৫ M",
+      "optionC": "১.০ M",
+      "optionD": "২.০ M",
+      "correctOption": "C",
+      "explanation": "সঠিক উত্তর: C (১.০ M)। ব্যাখ্যা: Na₂CO₃ এর আণবিক ভর ১০৬। ১ লিটার দ্রবণে ১ মোল (১০৬g) দ্রব থাকলে",
+      "questionNo": 14
+    },
+    {
+      "id": "chapter-06-split-05-q15",
+      "questionText": "১ মোলার (0.1 M) দ্রবণকে কী বলা হয়?",
+      "optionA": "সেমিমোলার দ্রবণ",
+      "optionB": "ডেসিমোলার দ্রবণ",
+      "optionC": "সেন্টিমোলার দ্রবণ",
+      "optionD": "মোলার দ্রবণ",
+      "correctOption": "B",
+      "explanation": "সঠিক উত্তর: B (ডেসিমোলার দ্রবণ)",
+      "questionNo": 15
+    },
+    {
+      "id": "chapter-06-split-05-q16",
+      "questionText": "সেমিমোলার (Semi-molar) দ্রবণের ঘনমাত্রা কত?",
+      "optionA": "১.০ M",
+      "optionB": "০.৫ M",
+      "optionC": "০.১ M",
+      "optionD": "০.০১ M",
+      "correctOption": "B",
+      "explanation": "সঠিক উত্তর: B (০.৫ M)",
+      "questionNo": 16
+    },
+    {
+      "id": "chapter-06-split-05-q17",
+      "questionText": "100 mL দ্রবণে 4g NaOH দ্রবীভূত থাকলে মোলারিটি কত?",
+      "optionA": "০.১ M",
+      "optionB": "০.৫ M",
+      "optionC": "১.০ M",
+      "optionD": "২.০ M",
+      "correctOption": "C",
+      "explanation": "সঠিক উত্তর: C (১.০ M)। ব্যাখ্যা: S = (৪ × ১০০০) / (৪০ × ১০০) = ১.০ M।",
+      "questionNo": 17
+    },
+    {
+      "id": "chapter-06-split-05-q18",
+      "questionText": "250 mL 0.1 M NaOH দ্রবণ তৈরিতে কী পরিমাণ NaOH প্রয়োজন?",
+      "optionA": "১ গ্রাম",
+      "optionB": "২ গ্রাম",
+      "optionC": "৪ গ্রাম",
+      "optionD": "১০ গ্রাম",
+      "correctOption": "A",
+      "explanation": "সঠিক উত্তর: A (১ গ্রাম)। ব্যাখ্যা: W = (S × M × V) / ১০০০ = (০.১ × ৪০ × ২৫০) / ১০০০ = ১ গ্রাম।",
+      "questionNo": 18
+    },
+    {
+      "id": "chapter-06-split-05-q19",
+      "questionText": "মোলারিটির একক কী?",
+      "optionA": "mol / kg",
+      "optionB": "g / L",
+      "optionC": "mol / L (বা M)",
+      "optionD": "kg / L",
+      "correctOption": "C",
+      "explanation": "সঠিক উত্তর: C (mol / L (বা M)। ব্যাখ্যা: ১ লিটার দ্রবণে কত মোল দ্রব আছে, তা-ই মোলারিটি।",
+      "questionNo": 19
+    },
+    {
+      "id": "chapter-06-split-05-q20",
+      "questionText": "200 mL 0.5 M Na₂CO₃ দ্রবণে দ্রবের ভর কত?",
+      "optionA": "৫.৩ গ্রাম",
+      "optionB": "১০.৬ গ্রাম",
+      "optionC": "২১.২ গ্রাম",
+      "optionD": "৫৩ গ্রাম",
+      "correctOption": "B",
+      "explanation": "সঠিক উত্তর: B (১০.৬ গ্রাম)। ব্যাখ্যা: W = (০.৫ × ১০৬ × ২০০) / ১০০০ = ১০.৬ গ্রাম।",
+      "questionNo": 20
+    },
+    {
+      "id": "chapter-06-split-05-q21",
+      "questionText": "সেন্টিমোলার (Centimolar) দ্রবণের ঘনমাত্রা কত?",
+      "optionA": "১.০ M",
+      "optionB": "০.১ M",
+      "optionC": "০.০১ M",
+      "optionD": "০.০০১ M",
+      "correctOption": "C",
+      "explanation": "সঠিক উত্তর: C (০.০১ M)",
+      "questionNo": 21
+    },
+    {
+      "id": "chapter-06-split-05-q22",
+      "questionText": "নির্দিষ্ট তাপমাত্রায় কোনো দ্রবণে যদি আরও দ্রব দ্রবীভূত করা যায়, তবে তাকে কী দ্রবণ বলে?",
+      "optionA": "সম্পৃক্ত দ্রবণ",
+      "optionB": "অসম্পৃক্ত দ্রবণ",
+      "optionC": "অতিপৃক্ত দ্রবণ",
+      "optionD": "প্রমাণ দ্রবণ",
+      "correctOption": "B",
+      "explanation": "সঠিক উত্তর: B (অসম্পৃক্ত দ্রবণ)",
+      "questionNo": 22
+    },
+    {
+      "id": "chapter-06-split-05-q23",
+      "questionText": "শতকরা উৎপাদ (Percentage Yield) নির্ণয়ের সঠিক সূত্র কোনটি?",
+      "optionA": "(প্রকৃত উৎপাদ / তাত্ত্বিক উৎপাদ) × ১০০",
+      "optionB": "(তাত্ত্বিক উৎপাদ / প্রকৃত উৎপাদ) × ১০০",
+      "optionC": "প্রকৃত উৎপাদ × তাত্ত্বিক উৎপাদ × ১০০",
+      "optionD": "(প্রকৃত উৎপাদ - তাত্ত্বিক উৎপাদ) × ১০০",
+      "correctOption": "A",
+      "explanation": "সঠিক উত্তর: A ((প্রকৃত উৎপাদ / তাত্ত্বিক উৎপাদ)",
+      "questionNo": 23
+    },
+    {
+      "id": "chapter-06-split-05-q24",
+      "questionText": "রাসায়নিক বিক্রিয়ায় প্রকৃত উৎপাদ সাধারণত তাত্ত্বিক উৎপাদের চেয়ে কম হয় কেন?",
+      "optionA": "বিক্রিয়কে ভেজাল থাকলে",
+      "optionB": "পার্শ্ব বিক্রিয়া ঘটলে",
+      "optionC": "উৎপাদ সংগ্রহের সময় অপচয় হলে",
+      "optionD": "উপরের সবগুলো",
+      "correctOption": "D",
+      "explanation": "সঠিক উত্তর: D (উপরের সবগুলো)। ব্যাখ্যা: এ সকল কারণেই বিক্রিয়ায় ১০০% উৎপাদ পাওয়া যায় না।",
+      "questionNo": 24
+    },
+    {
+      "id": "chapter-06-split-05-q25",
+      "questionText": "কোনো বিক্রিয়ায় তাত্ত্বিক উৎপাদের পরিমাণ 10g, কিন্তু বাস্তবে 9g উৎপাদ পাওয়া গেল। শতকরা উৎপাদ কত?",
+      "optionA": "৯০%",
+      "optionB": "৯৯%",
+      "optionC": "৮০%",
+      "optionD": "৮১%",
+      "correctOption": "A",
+      "explanation": "সঠিক উত্তর: A (৯০%)। ব্যাখ্যা: (৯ / ১০) × ১০০ = ৯০%।",
+      "questionNo": 25
+    }
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "setId": "hsc-higher-math-2nd-paper-chapter-04-model-test-02",
+  "reason": "DUPLICATE_OF_hsc-higher-math-2nd-paper-chapter-01-model-test-06",
+  "quarantinedAt": "2026-06-13T17:57:55.276Z",
+  "questions": [
+    {
+      "id": "hsc-higher-math-2nd-paper-chapter-04-model-test-02-q01",
+      "questionText": "sin⁻¹ x + cos⁻¹ x এর মান কত?",
+      "optionA": "কোনোটিই নয়",
+      "optionB": "π",
+      "optionC": "০",
+      "optionD": "π/2",
+      "correctOption": "D",
+      "explanation": "",
+      "chapter": "04",
+      "topic": "বিপরীত ত্রিকোণমিতিক ফাংশন ও সমীকরণ",
+      "difficulty": "Board Pattern",
+      "questionNo": 1
+    },
+    {
+      "id": "hsc-higher-math-2nd-paper-chapter-04-model-test-02-q02",
+      "questionText": "কনিকের উৎকেন্দ্রিকতা e < 1 হলে তা কী নির্দেশ করে?",
+      "optionA": "উপবৃত্ত",
+      "optionB": "পরাবৃত্ত",
+      "optionC": "বৃত্ত",
+      "optionD": "অধিবৃত্ত",
+      "correctOption": "A",
+      "explanation": "",
+      "chapter": "04",
+      "topic": "কনিক",
+      "difficulty": "Board Pattern",
+      "questionNo": 2
+    },
+    {
+      "id": "hsc-higher-math-2nd-paper-chapter-04-model-test-02-q03",
+      "questionText": "কনিকের উৎকেন্দ্রিকতা e = 1 হলে তা কী নির্দেশ করে?",
+      "optionA": "অধিবৃত্ত",
+      "optionB": "উপবৃত্ত",
+      "optionC": "বৃত্ত",
+      "optionD": "পরাবৃত্ত",
+      "correctOption": "D",
+      "explanation": "",
+      "chapter": "04",
+      "topic": "কনিক",
+      "difficulty": "Board Pattern",
+      "questionNo": 3
+    },
+    {
+      "id": "hsc-higher-math-2nd-paper-chapter-04-model-test-02-q04",
+      "questionText": "জটিল সংখ্যা z = x + iy এর মডুলাস কত?",
+      "optionA": "x² + y²",
+      "optionB": "√(x² - y²)",
+      "optionC": "x + y",
+      "optionD": "√(x² + y²)",
+      "correctOption": "D",
+      "explanation": "",
+      "chapter": "04",
+      "topic": "জটিল সংখ্যা",
+      "difficulty": "Board Pattern",
+      "questionNo": 4
+    },
+    {
+      "id": "hsc-higher-math-2nd-paper-chapter-04-model-test-02-q05",
+      "questionText": "দ্বিপদী সমীকরণ ax² + bx + c = 0 এর নিশ্চয়ক কত?",
+      "optionA": "√b² - 4ac",
+      "optionB": "b² - 4ac",
+      "optionC": "4ac - b²",
+      "optionD": "b² + 4ac",
+      "correctOption": "B",
+      "explanation": "",
+      "chapter": "04",
+      "topic": "দ্বিপদী বিস্তৃতি",
+      "difficulty": "Board Pattern",
+      "questionNo": 5
+    }
+  ]
+}

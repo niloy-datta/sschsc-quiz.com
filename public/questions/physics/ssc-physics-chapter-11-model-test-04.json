@@ -1,6 +1,51 @@
 [
   {
-    "id": "ssc-physics-ch11-set04-q01",
+    "id": "ssc-physics-chapter-11-model-test-04-q01",
+    "subject": "physics",
+    "chapter": "ssc-physics-chapter-11-model-test-04",
+    "text": "ট্রান্সফরমারের সেকেন্ডারি কয়েলের প্যাঁচসংখ্যা 10 গুণ করলে সেকেন্ডারি ভোল্টেজ কত গুণ হবে?",
+    "options": [
+      "0.1",
+      "1",
+      "10",
+      "100"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-chapter-11-model-test-04-q02",
+    "subject": "physics",
+    "chapter": "ssc-physics-chapter-11-model-test-04",
+    "text": "২২. বর্তনীর- র. রোধগুলোতে তড়িৎ প্রবাহ একই রর. রোধগুলো একই বিভব পার্থক্য লাভ করে ররর. তুল্যরোধ ১ Omega নিচের কোনটি সঠিক?",
+    "options": [
+      "র",
+      "রর",
+      "র ও রর",
+      "রর ও ররর"
+    ],
+    "image": "/images/quiz/premium/ssc-physics-chapter-11-model-test-03-q14.svg",
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-chapter-11-model-test-04-q03",
+    "subject": "physics",
+    "chapter": "ssc-physics-chapter-11-model-test-04",
+    "text": "২৩. অই এর মধ্য দিয়ে তড়িৎপ্রবাহের মান কত?",
+    "options": [
+      "১ A",
+      "২ A",
+      "৩ A",
+      "৬ A"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-chapter-11-model-test-04-q04",
     "subject": "physics",
     "chapter": "ssc-physics-chapter-11-model-test-04",
     "text": " উপরের তথ্য থেকে নিচের ১৬ ও ১৭ নম্বর প্রশ্নের উত্তর দাও : ১৬. প্রদর্শিত বর্তনীর জন্য র. তিনটি রোধকের বিভব পার্থক্য ভিন্ন হবে রর. সকল রোধকের জন্য বিদু্যৎ প্রবাহ অপরিবর্তিত থাকবে ররর. 'B' বিন্দুর বিভব 'C' বিন্দুর বিভব অপেক্ষা কম হবে নিচের কোনটি সঠিক?",
@@ -11,10 +56,11 @@
       "র, রর ও ররর"
     ],
     "image": null,
+    "optionImages": null,
     "timeLimit": 45
   },
   {
-    "id": "ssc-physics-ch11-set04-q02",
+    "id": "ssc-physics-chapter-11-model-test-04-q05",
     "subject": "physics",
     "chapter": "ssc-physics-chapter-11-model-test-04",
     "text": " উপরের তথ্য থেকে নিচের ১৬ ও ১৭ নম্বর প্রশ্নের উত্তর দাও : ১৭. বর্তনীর তড়িৎ প্রবাহের মান কত?",
@@ -24,11 +70,12 @@
       "৩অ",
       "০.৩অ"
     ],
-    "image": null,
+    "image": "/images/quiz/premium/ssc-physics-chapter-11-model-test-03-q17.svg",
+    "optionImages": null,
     "timeLimit": 45
   },
   {
-    "id": "ssc-physics-ch11-set04-q03",
+    "id": "ssc-physics-chapter-11-model-test-04-q06",
     "subject": "physics",
     "chapter": "ssc-physics-chapter-11-model-test-04",
     "text": "বর্তনীতে ব্যবহৃত রোধক কত প্রকার?",
@@ -38,11 +85,12 @@
       "4",
       "5"
     ],
-    "image": null,
+    "image": "/images/quiz/premium/ssc-physics-chapter-11-model-test-03-q18.svg",
+    "optionImages": null,
     "timeLimit": 45
   },
   {
-    "id": "ssc-physics-ch11-set04-q04",
+    "id": "ssc-physics-chapter-11-model-test-04-q07",
     "subject": "physics",
     "chapter": "ssc-physics-chapter-11-model-test-04",
     "text": "বর্তনীতে কী পরিমাণ তড়িৎ প্রবাহিত হচ্ছে? [R₁ = 6Ω, R₂ = 4Ω, R₃ = 2Ω, EMF = 6V]",
@@ -52,11 +100,12 @@
       "5.5 A",
       "72 A"
     ],
-    "image": null,
+    "image": "/images/quiz/premium/ssc-physics-chapter-11-model-test-03-q19.svg",
+    "optionImages": null,
     "timeLimit": 45
   },
   {
-    "id": "ssc-physics-ch11-set04-q05",
+    "id": "ssc-physics-chapter-11-model-test-04-q08",
     "subject": "physics",
     "chapter": "ssc-physics-chapter-11-model-test-04",
     "text": "সকলটি রোধকে সমান্তরালে সাজালে তুল্য রোধ 'Rp' কেমন হবে? [R₁ = 6Ω, R₂ = 4Ω, R₃ = 2Ω]",
@@ -67,10 +116,11 @@
       "Rp < R₂ এবং Rp > R₃"
     ],
     "image": null,
+    "optionImages": null,
     "timeLimit": 45
   },
   {
-    "id": "ssc-physics-ch11-set04-q06",
+    "id": "ssc-physics-chapter-11-model-test-04-q09",
     "subject": "physics",
     "chapter": "ssc-physics-chapter-11-model-test-04",
     "text": "বাল্বটির রোধ কত? [60W – 220V বাল্ব]",
@@ -81,10 +131,11 @@
       "806.67 Ω"
     ],
     "image": null,
+    "optionImages": null,
     "timeLimit": 45
   },
   {
-    "id": "ssc-physics-ch11-set04-q07",
+    "id": "ssc-physics-chapter-11-model-test-04-q10",
     "subject": "physics",
     "chapter": "ssc-physics-chapter-11-model-test-04",
     "text": "বর্তনীর তুল্যরোধ কত? [20V উৎস, 6Ω ও 12Ω সমান্তরাল, তারপর 6Ω শ্রেণিতে]",
@@ -94,11 +145,12 @@
       "24 Ω",
       "30 Ω"
     ],
-    "image": null,
+    "image": "/images/quiz/premium/ssc-physics-chapter-11-model-test-03-q22.svg",
+    "optionImages": null,
     "timeLimit": 45
   },
   {
-    "id": "ssc-physics-ch11-set04-q08",
+    "id": "ssc-physics-chapter-11-model-test-04-q11",
     "subject": "physics",
     "chapter": "ssc-physics-chapter-11-model-test-04",
     "text": "বর্তনীর মূল তড়িৎ প্রবাহ কত? [6V উৎস, R₁ = 2Ω, R₂ = 3Ω, R₃ = 5Ω শ্রেণিবদ্ধ এবং V = 5V]",
@@ -108,11 +160,12 @@
       "2 A",
       "0.5 A"
     ],
-    "image": null,
+    "image": "/images/quiz/premium/ssc-physics-chapter-11-model-test-03-q23.svg",
+    "optionImages": null,
     "timeLimit": 45
   },
   {
-    "id": "ssc-physics-ch11-set04-q09",
+    "id": "ssc-physics-chapter-11-model-test-04-q12",
     "subject": "physics",
     "chapter": "ssc-physics-chapter-11-model-test-04",
     "text": "তড়িৎ প্রবাহের একক কোনটি?",
@@ -123,10 +176,11 @@
       "ওহম"
     ],
     "image": null,
+    "optionImages": null,
     "timeLimit": 45
   },
   {
-    "id": "ssc-physics-ch11-set04-q10",
+    "id": "ssc-physics-chapter-11-model-test-04-q13",
     "subject": "physics",
     "chapter": "ssc-physics-chapter-11-model-test-04",
     "text": "তড়িৎ আধানের একক কী?",
@@ -137,216 +191,187 @@
       "কুলম্ব"
     ],
     "image": null,
+    "optionImages": null,
     "timeLimit": 45
   },
   {
-    "id": "ssc-physics-ch11-set04-q11",
+    "id": "ssc-physics-chapter-11-model-test-04-q14",
     "subject": "physics",
     "chapter": "ssc-physics-chapter-11-model-test-04",
-    "text": "তড়িৎ প্রবাহের একক কোনটি?",
+    "text": "একটি পরিবাহীর রোধ 6 Ω এবং দুই প্রান্তের বিভব পার্থক্য 29 V হলে এর তড়িৎ প্রবাহ কত?",
     "options": [
-      "ওহম",
-      "ওয়াট",
-      "ভোল্ট",
-      "অ্যাম্পিয়ার"
+      "174 A",
+      "0.21 A",
+      "35 A",
+      "4.8 A"
     ],
     "image": null,
+    "optionImages": null,
     "timeLimit": 45
   },
   {
-    "id": "ssc-physics-ch11-set04-q12",
+    "id": "ssc-physics-chapter-11-model-test-04-q15",
     "subject": "physics",
     "chapter": "ssc-physics-chapter-11-model-test-04",
-    "text": "তড়িৎ আধানের একক কী?",
+    "text": "একটি পরিবাহীর রোধ 3 Ω এবং দুই প্রান্তের বিভব পার্থক্য 16 V হলে এর তড়িৎ প্রবাহ কত?",
     "options": [
-      "অ্যাম্পিয়ার",
-      "ভোল্ট",
-      "ওহম",
-      "কুলম্ব"
+      "5.3 A",
+      "48 A",
+      "0.19 A",
+      "19 A"
     ],
     "image": null,
+    "optionImages": null,
     "timeLimit": 45
   },
   {
-    "id": "ssc-physics-ch11-set04-q13",
+    "id": "ssc-physics-chapter-11-model-test-04-q16",
     "subject": "physics",
     "chapter": "ssc-physics-chapter-11-model-test-04",
-    "text": "তড়িৎ প্রবাহের একক কোনটি?",
+    "text": "একটি পরিবাহীর রোধ 10 Ω এবং দুই প্রান্তের বিভব পার্থক্য 12 V হলে এর তড়িৎ প্রবাহ কত?",
     "options": [
-      "অ্যাম্পিয়ার",
-      "ওয়াট",
-      "ওহম",
-      "ভোল্ট"
+      "120 A",
+      "0.83 A",
+      "22 A",
+      "1.2 A"
     ],
     "image": null,
+    "optionImages": null,
     "timeLimit": 45
   },
   {
-    "id": "ssc-physics-ch11-set04-q14",
+    "id": "ssc-physics-chapter-11-model-test-04-q17",
     "subject": "physics",
     "chapter": "ssc-physics-chapter-11-model-test-04",
-    "text": "তড়িৎ আধানের একক কী?",
+    "text": "একটি পরিবাহীর রোধ 4 Ω এবং দুই প্রান্তের বিভব পার্থক্য 24 V হলে এর তড়িৎ প্রবাহ কত?",
     "options": [
-      "ভোল্ট",
-      "কুলম্ব",
-      "ওহম",
-      "অ্যাম্পিয়ার"
+      "96 A",
+      "6.0 A",
+      "0.17 A",
+      "28 A"
     ],
     "image": null,
+    "optionImages": null,
     "timeLimit": 45
   },
   {
-    "id": "ssc-physics-ch11-set04-q15",
+    "id": "ssc-physics-chapter-11-model-test-04-q18",
     "subject": "physics",
     "chapter": "ssc-physics-chapter-11-model-test-04",
-    "text": "তড়িৎ প্রবাহের একক কোনটি?",
+    "text": "একটি পরিবাহীর রোধ 2 Ω এবং দুই প্রান্তের বিভব পার্থক্য 15 V হলে এর তড়িৎ প্রবাহ কত?",
     "options": [
-      "অ্যাম্পিয়ার",
-      "ভোল্ট",
-      "ওহম",
-      "ওয়াট"
+      "0.13 A",
+      "30 A",
+      "17 A",
+      "7.5 A"
     ],
     "image": null,
+    "optionImages": null,
     "timeLimit": 45
   },
   {
-    "id": "ssc-physics-ch11-set04-q16",
+    "id": "ssc-physics-chapter-11-model-test-04-q19",
     "subject": "physics",
     "chapter": "ssc-physics-chapter-11-model-test-04",
-    "text": "তড়িৎ আধানের একক কী?",
+    "text": "একটি পরিবাহীর রোধ 8 Ω এবং দুই প্রান্তের বিভব পার্থক্য 13 V হলে এর তড়িৎ প্রবাহ কত?",
     "options": [
-      "ওহম",
-      "কুলম্ব",
-      "ভোল্ট",
-      "অ্যাম্পিয়ার"
+      "104 A",
+      "21 A",
+      "1.6 A",
+      "0.62 A"
     ],
     "image": null,
+    "optionImages": null,
     "timeLimit": 45
   },
   {
-    "id": "ssc-physics-ch11-set04-q17",
+    "id": "ssc-physics-chapter-11-model-test-04-q20",
     "subject": "physics",
     "chapter": "ssc-physics-chapter-11-model-test-04",
-    "text": "তড়িৎ প্রবাহের একক কোনটি?",
+    "text": "একটি পরিবাহীর রোধ 2 Ω এবং দুই প্রান্তের বিভব পার্থক্য 10 V হলে এর তড়িৎ প্রবাহ কত?",
     "options": [
-      "অ্যাম্পিয়ার",
-      "ওহম",
-      "ভোল্ট",
-      "ওয়াট"
+      "5.0 A",
+      "12 A",
+      "20 A",
+      "0.20 A"
     ],
     "image": null,
+    "optionImages": null,
     "timeLimit": 45
   },
   {
-    "id": "ssc-physics-ch11-set04-q18",
+    "id": "ssc-physics-chapter-11-model-test-04-q21",
     "subject": "physics",
     "chapter": "ssc-physics-chapter-11-model-test-04",
-    "text": "তড়িৎ আধানের একক কী?",
+    "text": "একটি পরিবাহীর রোধ 2 Ω এবং দুই প্রান্তের বিভব পার্থক্য 30 V হলে এর তড়িৎ প্রবাহ কত?",
     "options": [
-      "ওহম",
-      "কুলম্ব",
-      "অ্যাম্পিয়ার",
-      "ভোল্ট"
+      "60 A",
+      "0.07 A",
+      "32 A",
+      "15.0 A"
     ],
     "image": null,
+    "optionImages": null,
     "timeLimit": 45
   },
   {
-    "id": "ssc-physics-ch11-set04-q19",
+    "id": "ssc-physics-chapter-11-model-test-04-q22",
     "subject": "physics",
     "chapter": "ssc-physics-chapter-11-model-test-04",
-    "text": "তড়িৎ প্রবাহের একক কোনটি?",
+    "text": "একটি পরিবাহীর রোধ 7 Ω এবং দুই প্রান্তের বিভব পার্থক্য 23 V হলে এর তড়িৎ প্রবাহ কত?",
     "options": [
-      "ওয়াট",
-      "ওহম",
-      "ভোল্ট",
-      "অ্যাম্পিয়ার"
+      "3.3 A",
+      "0.30 A",
+      "161 A",
+      "30 A"
     ],
     "image": null,
+    "optionImages": null,
     "timeLimit": 45
   },
   {
-    "id": "ssc-physics-ch11-set04-q20",
+    "id": "ssc-physics-chapter-11-model-test-04-q23",
     "subject": "physics",
     "chapter": "ssc-physics-chapter-11-model-test-04",
-    "text": "তড়িৎ আধানের একক কী?",
+    "text": "একটি পরিবাহীর রোধ 6 Ω এবং দুই প্রান্তের বিভব পার্থক্য 14 V হলে এর তড়িৎ প্রবাহ কত?",
     "options": [
-      "কুলম্ব",
-      "ওহম",
-      "অ্যাম্পিয়ার",
-      "ভোল্ট"
+      "84 A",
+      "0.43 A",
+      "20 A",
+      "2.3 A"
     ],
     "image": null,
+    "optionImages": null,
     "timeLimit": 45
   },
   {
-    "id": "ssc-physics-ch11-set04-q21",
+    "id": "ssc-physics-chapter-11-model-test-04-q24",
     "subject": "physics",
     "chapter": "ssc-physics-chapter-11-model-test-04",
-    "text": "তড়িৎ প্রবাহের একক কোনটি?",
+    "text": "একটি পরিবাহীর রোধ 6 Ω এবং দুই প্রান্তের বিভব পার্থক্য 12 V হলে এর তড়িৎ প্রবাহ কত?",
     "options": [
-      "ওহম",
-      "ভোল্ট",
-      "ওয়াট",
-      "অ্যাম্পিয়ার"
+      "0.50 A",
+      "72 A",
+      "18 A",
+      "2.0 A"
     ],
     "image": null,
+    "optionImages": null,
     "timeLimit": 45
   },
   {
-    "id": "ssc-physics-ch11-set04-q22",
+    "id": "ssc-physics-chapter-11-model-test-04-q25",
     "subject": "physics",
     "chapter": "ssc-physics-chapter-11-model-test-04",
-    "text": "তড়িৎ আধানের একক কী?",
+    "text": "একটি পরিবাহীর রোধ 4 Ω এবং দুই প্রান্তের বিভব পার্থক্য 23 V হলে এর তড়িৎ প্রবাহ কত?",
     "options": [
-      "ভোল্ট",
-      "কুলম্ব",
-      "অ্যাম্পিয়ার",
-      "ওহম"
+      "5.8 A",
+      "27 A",
+      "92 A",
+      "0.17 A"
     ],
     "image": null,
-    "timeLimit": 45
-  },
-  {
-    "id": "ssc-physics-ch11-set04-q23",
-    "subject": "physics",
-    "chapter": "ssc-physics-chapter-11-model-test-04",
-    "text": "২৫। পরিবাহীর রোধ তারের দৈর্ঘ্যের সাথে কীভাবে সম্পর্কিত?",
-    "options": [
-      "সমান",
-      "বর্গের সমান",
-      "সমানুপাতিক",
-      "বর্গের সমানুপাতিক"
-    ],
-    "image": null,
-    "timeLimit": 45
-  },
-  {
-    "id": "ssc-physics-ch11-set04-q24",
-    "subject": "physics",
-    "chapter": "ssc-physics-chapter-11-model-test-04",
-    "text": "কোনটি রূপার আপেক্ষিক রোধ?",
-    "options": [
-      "1.59 × 10⁻⁸ Ωm",
-      "1.68 × 10⁻⁸ Ωm",
-      "2.44 × 10⁻⁸ Ωm",
-      "2.50 × 10⁻⁶ Ωm"
-    ],
-    "image": null,
-    "timeLimit": 45
-  },
-  {
-    "id": "ssc-physics-ch11-set04-q25",
-    "subject": "physics",
-    "chapter": "ssc-physics-chapter-11-model-test-04",
-    "text": "চার্জের প্রবাহ নিচের কোনটির উপর নির্ভর করে?",
-    "options": [
-      "বিভব পার্থক্য",
-      "পরিবাহীর রোধ",
-      "সঞ্চিত শক্তি",
-      "তড়িৎ তীব্রতা"
-    ],
-    "image": null,
+    "optionImages": null,
     "timeLimit": 45
   }
 ]

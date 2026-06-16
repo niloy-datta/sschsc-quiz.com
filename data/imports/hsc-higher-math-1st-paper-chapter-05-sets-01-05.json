@@ -1,0 +1,3544 @@
+{
+  "level": "HSC",
+  "subject": "higher-math-1st-paper",
+  "datasetType": "chapterwise_hyper_mega_hot_board_standard",
+  "confidenceLabel": "Hyper Mega Hot — Highest Probability Board-Standard Pattern Cache",
+  "chapterWise": [
+    {
+      "chapter": "05",
+      "chapterName": "বিন্যাস ও সমাবেশ",
+      "sets": [
+        {
+          "id": "hsc-higher-math-1st-paper-chapter-05-set-01",
+          "title": "Chapter 05 Hyper Mega Hot Set 01",
+          "questions": [
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-05-set-01-q01",
+              "question": "$5P_2$ এর মান কত?",
+              "options": [
+                {
+                  "text": "20",
+                  "label": "ক"
+                },
+                {
+                  "text": "10",
+                  "label": "খ"
+                },
+                {
+                  "text": "25",
+                  "label": "গ"
+                },
+                {
+                  "text": "7",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "ক",
+              "shortSolution": "সঠিক উত্তর: ক। $nP_r=n!/(n-r)!$।",
+              "chapter": "05",
+              "topic": "বিন্যাস",
+              "difficulty": "Easy",
+              "probability": "Board Favourite"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-05-set-01-q02",
+              "question": "$5C_2$ এর মান কত?",
+              "options": [
+                {
+                  "text": "10",
+                  "label": "ক"
+                },
+                {
+                  "text": "25",
+                  "label": "খ"
+                },
+                {
+                  "text": "11",
+                  "label": "গ"
+                },
+                {
+                  "text": "20",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "ক",
+              "shortSolution": "সঠিক উত্তর: ক। $nC_r=n!/[r!(n-r)!]$।",
+              "chapter": "05",
+              "topic": "সমাবেশ",
+              "difficulty": "Easy",
+              "probability": "Conceptual Trap"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-05-set-01-q03",
+              "question": "$5C_0$ এর মান কত?",
+              "options": [
+                {
+                  "text": "5",
+                  "label": "ক"
+                },
+                {
+                  "text": "1",
+                  "label": "খ"
+                },
+                {
+                  "text": "0",
+                  "label": "গ"
+                },
+                {
+                  "text": "5!",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "খ",
+              "shortSolution": "সঠিক উত্তর: খ। $nC_0=1$।",
+              "chapter": "05",
+              "topic": "সমাবেশের মৌলিক মান",
+              "difficulty": "Easy",
+              "probability": "Mega Hot"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-05-set-01-q04",
+              "question": "6টি ভিন্ন বস্তু এক সারিতে সাজানো যায় কতভাবে?",
+              "options": [
+                {
+                  "text": "720",
+                  "label": "ক"
+                },
+                {
+                  "text": "6",
+                  "label": "খ"
+                },
+                {
+                  "text": "36",
+                  "label": "গ"
+                },
+                {
+                  "text": "15",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "ক",
+              "shortSolution": "সঠিক উত্তর: ক। $n$টি ভিন্ন বস্তুর arrangement $n!$।",
+              "chapter": "05",
+              "topic": "বস্তুর বিন্যাস",
+              "difficulty": "Easy",
+              "probability": "Very Hot"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-05-set-01-q05",
+              "question": "5 জন থেকে 3 জনের কমিটি কতভাবে গঠন করা যায়?",
+              "options": [
+                {
+                  "text": "60",
+                  "label": "ক"
+                },
+                {
+                  "text": "11",
+                  "label": "খ"
+                },
+                {
+                  "text": "15",
+                  "label": "গ"
+                },
+                {
+                  "text": "10",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "ঘ",
+              "shortSolution": "সঠিক উত্তর: ঘ। কমিটিতে order গুরুত্বপূর্ণ নয়।",
+              "chapter": "05",
+              "topic": "কমিটি গঠন",
+              "difficulty": "Easy",
+              "probability": "Board Favourite"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-05-set-01-q06",
+              "question": "$nP_r$ ও $nC_r$ এর সম্পর্ক কোনটি?",
+              "options": [
+                {
+                  "text": "$nP_r=r!\\,nC_r$",
+                  "label": "ক"
+                },
+                {
+                  "text": "$nP_r=nC_r$",
+                  "label": "খ"
+                },
+                {
+                  "text": "$nP_r+nC_r=1$",
+                  "label": "গ"
+                },
+                {
+                  "text": "$nC_r=r!\\,nP_r$",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "ক",
+              "shortSolution": "সঠিক উত্তর: ক। বিন্যাসে নির্বাচিত r বস্তুর arrange করার factor $r!$।",
+              "chapter": "05",
+              "topic": "বিন্যাস-সমাবেশ সম্পর্ক",
+              "difficulty": "Easy",
+              "probability": "Conceptual Trap"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-05-set-01-q07",
+              "question": "$nC_r$ এর symmetry property কোনটি?",
+              "options": [
+                {
+                  "text": "$nC_r=nP_r$",
+                  "label": "ক"
+                },
+                {
+                  "text": "$nC_r=rC_n$",
+                  "label": "খ"
+                },
+                {
+                  "text": "$nC_r=0$",
+                  "label": "গ"
+                },
+                {
+                  "text": "$nC_r=nC_{n-r}$",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "ঘ",
+              "shortSolution": "সঠিক উত্তর: ঘ। Combination-এর মৌলিক ধর্ম।",
+              "chapter": "05",
+              "topic": "সমাবেশের ধর্ম",
+              "difficulty": "Easy",
+              "probability": "Mega Hot"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-05-set-01-q08",
+              "question": "5টি উপাদানবিশিষ্ট সেটের subset সংখ্যা কত?",
+              "options": [
+                {
+                  "text": "10",
+                  "label": "ক"
+                },
+                {
+                  "text": "120",
+                  "label": "খ"
+                },
+                {
+                  "text": "25",
+                  "label": "গ"
+                },
+                {
+                  "text": "32",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "ঘ",
+              "shortSolution": "সঠিক উত্তর: ঘ। $n$ element set-এর subset সংখ্যা $2^n$।",
+              "chapter": "05",
+              "topic": "Subset count",
+              "difficulty": "Medium",
+              "probability": "Very Hot"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-05-set-01-q09",
+              "question": "6টি ভিন্ন অঙ্ক দিয়ে repetition ছাড়া 2 অঙ্কের সংখ্যা কতটি?",
+              "options": [
+                {
+                  "text": "7",
+                  "label": "ক"
+                },
+                {
+                  "text": "15",
+                  "label": "খ"
+                },
+                {
+                  "text": "36",
+                  "label": "গ"
+                },
+                {
+                  "text": "30",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "ঘ",
+              "shortSolution": "সঠিক উত্তর: ঘ। প্রথম স্থানে n এবং দ্বিতীয় স্থানে n-1 পছন্দ।",
+              "chapter": "05",
+              "topic": "সংখ্যা গঠন",
+              "difficulty": "Medium",
+              "probability": "Board Favourite"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-05-set-01-q10",
+              "question": "Combination-এ order কি গুরুত্বপূর্ণ?",
+              "options": [
+                {
+                  "text": "সবসময়",
+                  "label": "ক"
+                },
+                {
+                  "text": "না",
+                  "label": "খ"
+                },
+                {
+                  "text": "হ্যাঁ",
+                  "label": "গ"
+                },
+                {
+                  "text": "শুধু 2টি বস্তু হলে",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "খ",
+              "shortSolution": "সঠিক উত্তর: খ। সমাবেশে নির্বাচন গুরুত্বপূর্ণ, বিন্যাস নয়।",
+              "chapter": "05",
+              "topic": "সমাবেশের ধারণা",
+              "difficulty": "Medium",
+              "probability": "Conceptual Trap"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-05-set-01-q11",
+              "question": "$5P_2$ এর মান কত? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 01-11 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+              "options": [
+                {
+                  "text": "25",
+                  "label": "ক"
+                },
+                {
+                  "text": "7",
+                  "label": "খ"
+                },
+                {
+                  "text": "10",
+                  "label": "গ"
+                },
+                {
+                  "text": "20",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "ঘ",
+              "shortSolution": "সঠিক উত্তর: ঘ। $nP_r=n!/(n-r)!$।",
+              "chapter": "05",
+              "topic": "বিন্যাস",
+              "difficulty": "Medium",
+              "probability": "Mega Hot"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-05-set-01-q12",
+              "question": "$5C_2$ এর মান কত? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 01-12 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+              "options": [
+                {
+                  "text": "10",
+                  "label": "ক"
+                },
+                {
+                  "text": "20",
+                  "label": "খ"
+                },
+                {
+                  "text": "11",
+                  "label": "গ"
+                },
+                {
+                  "text": "25",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "ক",
+              "shortSolution": "সঠিক উত্তর: ক। $nC_r=n!/[r!(n-r)!]$।",
+              "chapter": "05",
+              "topic": "সমাবেশ",
+              "difficulty": "Medium",
+              "probability": "Very Hot"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-05-set-01-q13",
+              "question": "$5C_0$ এর মান কত? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 01-13 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+              "options": [
+                {
+                  "text": "5!",
+                  "label": "ক"
+                },
+                {
+                  "text": "5",
+                  "label": "খ"
+                },
+                {
+                  "text": "0",
+                  "label": "গ"
+                },
+                {
+                  "text": "1",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "ঘ",
+              "shortSolution": "সঠিক উত্তর: ঘ। $nC_0=1$।",
+              "chapter": "05",
+              "topic": "সমাবেশের মৌলিক মান",
+              "difficulty": "Medium",
+              "probability": "Board Favourite"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-05-set-01-q14",
+              "question": "6টি ভিন্ন বস্তু এক সারিতে সাজানো যায় কতভাবে? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 01-14 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+              "options": [
+                {
+                  "text": "15",
+                  "label": "ক"
+                },
+                {
+                  "text": "6",
+                  "label": "খ"
+                },
+                {
+                  "text": "720",
+                  "label": "গ"
+                },
+                {
+                  "text": "36",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "গ",
+              "shortSolution": "সঠিক উত্তর: গ। $n$টি ভিন্ন বস্তুর arrangement $n!$।",
+              "chapter": "05",
+              "topic": "বস্তুর বিন্যাস",
+              "difficulty": "Medium",
+              "probability": "Conceptual Trap"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-05-set-01-q15",
+              "question": "5 জন থেকে 3 জনের কমিটি কতভাবে গঠন করা যায়? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 01-15 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+              "options": [
+                {
+                  "text": "15",
+                  "label": "ক"
+                },
+                {
+                  "text": "11",
+                  "label": "খ"
+                },
+                {
+                  "text": "10",
+                  "label": "গ"
+                },
+                {
+                  "text": "60",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "গ",
+              "shortSolution": "সঠিক উত্তর: গ। কমিটিতে order গুরুত্বপূর্ণ নয়।",
+              "chapter": "05",
+              "topic": "কমিটি গঠন",
+              "difficulty": "Hard",
+              "probability": "Mega Hot"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-05-set-01-q16",
+              "question": "$nP_r$ ও $nC_r$ এর সম্পর্ক কোনটি? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 01-16 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+              "options": [
+                {
+                  "text": "$nP_r=r!\\,nC_r$",
+                  "label": "ক"
+                },
+                {
+                  "text": "$nC_r=r!\\,nP_r$",
+                  "label": "খ"
+                },
+                {
+                  "text": "$nP_r=nC_r$",
+                  "label": "গ"
+                },
+                {
+                  "text": "$nP_r+nC_r=1$",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "ক",
+              "shortSolution": "সঠিক উত্তর: ক। বিন্যাসে নির্বাচিত r বস্তুর arrange করার factor $r!$।",
+              "chapter": "05",
+              "topic": "বিন্যাস-সমাবেশ সম্পর্ক",
+              "difficulty": "Hard",
+              "probability": "Very Hot"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-05-set-01-q17",
+              "question": "$nC_r$ এর symmetry property কোনটি? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 01-17 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+              "options": [
+                {
+                  "text": "$nC_r=nP_r$",
+                  "label": "ক"
+                },
+                {
+                  "text": "$nC_r=rC_n$",
+                  "label": "খ"
+                },
+                {
+                  "text": "$nC_r=0$",
+                  "label": "গ"
+                },
+                {
+                  "text": "$nC_r=nC_{n-r}$",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "ঘ",
+              "shortSolution": "সঠিক উত্তর: ঘ। Combination-এর মৌলিক ধর্ম।",
+              "chapter": "05",
+              "topic": "সমাবেশের ধর্ম",
+              "difficulty": "Hard",
+              "probability": "Board Favourite"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-05-set-01-q18",
+              "question": "5টি উপাদানবিশিষ্ট সেটের subset সংখ্যা কত? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 01-18 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+              "options": [
+                {
+                  "text": "10",
+                  "label": "ক"
+                },
+                {
+                  "text": "32",
+                  "label": "খ"
+                },
+                {
+                  "text": "25",
+                  "label": "গ"
+                },
+                {
+                  "text": "120",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "খ",
+              "shortSolution": "সঠিক উত্তর: খ। $n$ element set-এর subset সংখ্যা $2^n$।",
+              "chapter": "05",
+              "topic": "Subset count",
+              "difficulty": "Hard",
+              "probability": "Conceptual Trap"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-05-set-01-q19",
+              "question": "6টি ভিন্ন অঙ্ক দিয়ে repetition ছাড়া 2 অঙ্কের সংখ্যা কতটি? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 01-19 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+              "options": [
+                {
+                  "text": "30",
+                  "label": "ক"
+                },
+                {
+                  "text": "7",
+                  "label": "খ"
+                },
+                {
+                  "text": "36",
+                  "label": "গ"
+                },
+                {
+                  "text": "15",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "ক",
+              "shortSolution": "সঠিক উত্তর: ক। প্রথম স্থানে n এবং দ্বিতীয় স্থানে n-1 পছন্দ।",
+              "chapter": "05",
+              "topic": "সংখ্যা গঠন",
+              "difficulty": "Hard",
+              "probability": "Mega Hot"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-05-set-01-q20",
+              "question": "Combination-এ order কি গুরুত্বপূর্ণ? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 01-20 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+              "options": [
+                {
+                  "text": "না",
+                  "label": "ক"
+                },
+                {
+                  "text": "হ্যাঁ",
+                  "label": "খ"
+                },
+                {
+                  "text": "সবসময়",
+                  "label": "গ"
+                },
+                {
+                  "text": "শুধু 2টি বস্তু হলে",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "ক",
+              "shortSolution": "সঠিক উত্তর: ক। সমাবেশে নির্বাচন গুরুত্বপূর্ণ, বিন্যাস নয়।",
+              "chapter": "05",
+              "topic": "সমাবেশের ধারণা",
+              "difficulty": "Hard",
+              "probability": "Very Hot"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-05-set-01-q21",
+              "question": "$5P_2$ এর মান কত? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 01-21 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+              "options": [
+                {
+                  "text": "10",
+                  "label": "ক"
+                },
+                {
+                  "text": "7",
+                  "label": "খ"
+                },
+                {
+                  "text": "25",
+                  "label": "গ"
+                },
+                {
+                  "text": "20",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "ঘ",
+              "shortSolution": "সঠিক উত্তর: ঘ। $nP_r=n!/(n-r)!$।",
+              "chapter": "05",
+              "topic": "বিন্যাস",
+              "difficulty": "Hard",
+              "probability": "Board Favourite"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-05-set-01-q22",
+              "question": "$5C_2$ এর মান কত? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 01-22 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+              "options": [
+                {
+                  "text": "25",
+                  "label": "ক"
+                },
+                {
+                  "text": "20",
+                  "label": "খ"
+                },
+                {
+                  "text": "10",
+                  "label": "গ"
+                },
+                {
+                  "text": "11",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "গ",
+              "shortSolution": "সঠিক উত্তর: গ। $nC_r=n!/[r!(n-r)!]$।",
+              "chapter": "05",
+              "topic": "সমাবেশ",
+              "difficulty": "Board Standard",
+              "probability": "Conceptual Trap"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-05-set-01-q23",
+              "question": "$5C_0$ এর মান কত? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 01-23 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+              "options": [
+                {
+                  "text": "1",
+                  "label": "ক"
+                },
+                {
+                  "text": "0",
+                  "label": "খ"
+                },
+                {
+                  "text": "5",
+                  "label": "গ"
+                },
+                {
+                  "text": "5!",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "ক",
+              "shortSolution": "সঠিক উত্তর: ক। $nC_0=1$।",
+              "chapter": "05",
+              "topic": "সমাবেশের মৌলিক মান",
+              "difficulty": "Board Standard",
+              "probability": "Mega Hot"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-05-set-01-q24",
+              "question": "6টি ভিন্ন বস্তু এক সারিতে সাজানো যায় কতভাবে? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 01-24 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+              "options": [
+                {
+                  "text": "36",
+                  "label": "ক"
+                },
+                {
+                  "text": "720",
+                  "label": "খ"
+                },
+                {
+                  "text": "6",
+                  "label": "গ"
+                },
+                {
+                  "text": "15",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "খ",
+              "shortSolution": "সঠিক উত্তর: খ। $n$টি ভিন্ন বস্তুর arrangement $n!$।",
+              "chapter": "05",
+              "topic": "বস্তুর বিন্যাস",
+              "difficulty": "Board Standard",
+              "probability": "Very Hot"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-05-set-01-q25",
+              "question": "5 জন থেকে 3 জনের কমিটি কতভাবে গঠন করা যায়? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 01-25 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+              "options": [
+                {
+                  "text": "15",
+                  "label": "ক"
+                },
+                {
+                  "text": "60",
+                  "label": "খ"
+                },
+                {
+                  "text": "11",
+                  "label": "গ"
+                },
+                {
+                  "text": "10",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "ঘ",
+              "shortSolution": "সঠিক উত্তর: ঘ। কমিটিতে order গুরুত্বপূর্ণ নয়।",
+              "chapter": "05",
+              "topic": "কমিটি গঠন",
+              "difficulty": "Board Standard",
+              "probability": "Board Favourite"
+            }
+          ]
+        },
+        {
+          "id": "hsc-higher-math-1st-paper-chapter-05-set-02",
+          "title": "Chapter 05 Hyper Mega Hot Set 02",
+          "questions": [
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-05-set-02-q01",
+              "question": "$5P_2$ এর মান কত? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 02-01 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+              "options": [
+                {
+                  "text": "10",
+                  "label": "ক"
+                },
+                {
+                  "text": "20",
+                  "label": "খ"
+                },
+                {
+                  "text": "25",
+                  "label": "গ"
+                },
+                {
+                  "text": "7",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "খ",
+              "shortSolution": "সঠিক উত্তর: খ। $nP_r=n!/(n-r)!$।",
+              "chapter": "05",
+              "topic": "বিন্যাস",
+              "difficulty": "Easy",
+              "probability": "Conceptual Trap"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-05-set-02-q02",
+              "question": "$5C_2$ এর মান কত? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 02-02 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+              "options": [
+                {
+                  "text": "10",
+                  "label": "ক"
+                },
+                {
+                  "text": "25",
+                  "label": "খ"
+                },
+                {
+                  "text": "20",
+                  "label": "গ"
+                },
+                {
+                  "text": "11",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "ক",
+              "shortSolution": "সঠিক উত্তর: ক। $nC_r=n!/[r!(n-r)!]$।",
+              "chapter": "05",
+              "topic": "সমাবেশ",
+              "difficulty": "Easy",
+              "probability": "Mega Hot"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-05-set-02-q03",
+              "question": "$6C_0$ এর মান কত?",
+              "options": [
+                {
+                  "text": "1",
+                  "label": "ক"
+                },
+                {
+                  "text": "6",
+                  "label": "খ"
+                },
+                {
+                  "text": "6!",
+                  "label": "গ"
+                },
+                {
+                  "text": "0",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "ক",
+              "shortSolution": "সঠিক উত্তর: ক। $nC_0=1$।",
+              "chapter": "05",
+              "topic": "সমাবেশের মৌলিক মান",
+              "difficulty": "Easy",
+              "probability": "Very Hot"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-05-set-02-q04",
+              "question": "7টি ভিন্ন বস্তু এক সারিতে সাজানো যায় কতভাবে?",
+              "options": [
+                {
+                  "text": "7",
+                  "label": "ক"
+                },
+                {
+                  "text": "21",
+                  "label": "খ"
+                },
+                {
+                  "text": "5040",
+                  "label": "গ"
+                },
+                {
+                  "text": "49",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "গ",
+              "shortSolution": "সঠিক উত্তর: গ। $n$টি ভিন্ন বস্তুর arrangement $n!$।",
+              "chapter": "05",
+              "topic": "বস্তুর বিন্যাস",
+              "difficulty": "Easy",
+              "probability": "Board Favourite"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-05-set-02-q05",
+              "question": "5 জন থেকে 3 জনের কমিটি কতভাবে গঠন করা যায়? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 02-05 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+              "options": [
+                {
+                  "text": "11",
+                  "label": "ক"
+                },
+                {
+                  "text": "10",
+                  "label": "খ"
+                },
+                {
+                  "text": "15",
+                  "label": "গ"
+                },
+                {
+                  "text": "60",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "খ",
+              "shortSolution": "সঠিক উত্তর: খ। কমিটিতে order গুরুত্বপূর্ণ নয়।",
+              "chapter": "05",
+              "topic": "কমিটি গঠন",
+              "difficulty": "Easy",
+              "probability": "Conceptual Trap"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-05-set-02-q06",
+              "question": "$nP_r$ ও $nC_r$ এর সম্পর্ক কোনটি? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 02-06 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+              "options": [
+                {
+                  "text": "$nP_r=nC_r$",
+                  "label": "ক"
+                },
+                {
+                  "text": "$nP_r=r!\\,nC_r$",
+                  "label": "খ"
+                },
+                {
+                  "text": "$nC_r=r!\\,nP_r$",
+                  "label": "গ"
+                },
+                {
+                  "text": "$nP_r+nC_r=1$",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "খ",
+              "shortSolution": "সঠিক উত্তর: খ। বিন্যাসে নির্বাচিত r বস্তুর arrange করার factor $r!$।",
+              "chapter": "05",
+              "topic": "বিন্যাস-সমাবেশ সম্পর্ক",
+              "difficulty": "Easy",
+              "probability": "Mega Hot"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-05-set-02-q07",
+              "question": "$nC_r$ এর symmetry property কোনটি? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 02-07 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+              "options": [
+                {
+                  "text": "$nC_r=nP_r$",
+                  "label": "ক"
+                },
+                {
+                  "text": "$nC_r=0$",
+                  "label": "খ"
+                },
+                {
+                  "text": "$nC_r=rC_n$",
+                  "label": "গ"
+                },
+                {
+                  "text": "$nC_r=nC_{n-r}$",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "ঘ",
+              "shortSolution": "সঠিক উত্তর: ঘ। Combination-এর মৌলিক ধর্ম।",
+              "chapter": "05",
+              "topic": "সমাবেশের ধর্ম",
+              "difficulty": "Easy",
+              "probability": "Very Hot"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-05-set-02-q08",
+              "question": "6টি উপাদানবিশিষ্ট সেটের subset সংখ্যা কত?",
+              "options": [
+                {
+                  "text": "12",
+                  "label": "ক"
+                },
+                {
+                  "text": "720",
+                  "label": "খ"
+                },
+                {
+                  "text": "36",
+                  "label": "গ"
+                },
+                {
+                  "text": "64",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "ঘ",
+              "shortSolution": "সঠিক উত্তর: ঘ। $n$ element set-এর subset সংখ্যা $2^n$।",
+              "chapter": "05",
+              "topic": "Subset count",
+              "difficulty": "Medium",
+              "probability": "Board Favourite"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-05-set-02-q09",
+              "question": "7টি ভিন্ন অঙ্ক দিয়ে repetition ছাড়া 2 অঙ্কের সংখ্যা কতটি?",
+              "options": [
+                {
+                  "text": "49",
+                  "label": "ক"
+                },
+                {
+                  "text": "8",
+                  "label": "খ"
+                },
+                {
+                  "text": "21",
+                  "label": "গ"
+                },
+                {
+                  "text": "42",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "ঘ",
+              "shortSolution": "সঠিক উত্তর: ঘ। প্রথম স্থানে n এবং দ্বিতীয় স্থানে n-1 পছন্দ।",
+              "chapter": "05",
+              "topic": "সংখ্যা গঠন",
+              "difficulty": "Medium",
+              "probability": "Conceptual Trap"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-05-set-02-q10",
+              "question": "Combination-এ order কি গুরুত্বপূর্ণ? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 02-10 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+              "options": [
+                {
+                  "text": "হ্যাঁ",
+                  "label": "ক"
+                },
+                {
+                  "text": "না",
+                  "label": "খ"
+                },
+                {
+                  "text": "শুধু 2টি বস্তু হলে",
+                  "label": "গ"
+                },
+                {
+                  "text": "সবসময়",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "খ",
+              "shortSolution": "সঠিক উত্তর: খ। সমাবেশে নির্বাচন গুরুত্বপূর্ণ, বিন্যাস নয়।",
+              "chapter": "05",
+              "topic": "সমাবেশের ধারণা",
+              "difficulty": "Medium",
+              "probability": "Mega Hot"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-05-set-02-q11",
+              "question": "$5P_2$ এর মান কত? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 02-11 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+              "options": [
+                {
+                  "text": "25",
+                  "label": "ক"
+                },
+                {
+                  "text": "7",
+                  "label": "খ"
+                },
+                {
+                  "text": "10",
+                  "label": "গ"
+                },
+                {
+                  "text": "20",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "ঘ",
+              "shortSolution": "সঠিক উত্তর: ঘ। $nP_r=n!/(n-r)!$।",
+              "chapter": "05",
+              "topic": "বিন্যাস",
+              "difficulty": "Medium",
+              "probability": "Very Hot"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-05-set-02-q12",
+              "question": "$5C_2$ এর মান কত? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 02-12 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+              "options": [
+                {
+                  "text": "11",
+                  "label": "ক"
+                },
+                {
+                  "text": "25",
+                  "label": "খ"
+                },
+                {
+                  "text": "20",
+                  "label": "গ"
+                },
+                {
+                  "text": "10",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "ঘ",
+              "shortSolution": "সঠিক উত্তর: ঘ। $nC_r=n!/[r!(n-r)!]$।",
+              "chapter": "05",
+              "topic": "সমাবেশ",
+              "difficulty": "Medium",
+              "probability": "Board Favourite"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-05-set-02-q13",
+              "question": "$6C_0$ এর মান কত? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 02-13 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+              "options": [
+                {
+                  "text": "1",
+                  "label": "ক"
+                },
+                {
+                  "text": "0",
+                  "label": "খ"
+                },
+                {
+                  "text": "6",
+                  "label": "গ"
+                },
+                {
+                  "text": "6!",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "ক",
+              "shortSolution": "সঠিক উত্তর: ক। $nC_0=1$।",
+              "chapter": "05",
+              "topic": "সমাবেশের মৌলিক মান",
+              "difficulty": "Medium",
+              "probability": "Conceptual Trap"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-05-set-02-q14",
+              "question": "7টি ভিন্ন বস্তু এক সারিতে সাজানো যায় কতভাবে? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 02-14 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+              "options": [
+                {
+                  "text": "21",
+                  "label": "ক"
+                },
+                {
+                  "text": "7",
+                  "label": "খ"
+                },
+                {
+                  "text": "5040",
+                  "label": "গ"
+                },
+                {
+                  "text": "49",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "গ",
+              "shortSolution": "সঠিক উত্তর: গ। $n$টি ভিন্ন বস্তুর arrangement $n!$।",
+              "chapter": "05",
+              "topic": "বস্তুর বিন্যাস",
+              "difficulty": "Medium",
+              "probability": "Mega Hot"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-05-set-02-q15",
+              "question": "5 জন থেকে 3 জনের কমিটি কতভাবে গঠন করা যায়? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 02-15 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+              "options": [
+                {
+                  "text": "11",
+                  "label": "ক"
+                },
+                {
+                  "text": "15",
+                  "label": "খ"
+                },
+                {
+                  "text": "10",
+                  "label": "গ"
+                },
+                {
+                  "text": "60",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "গ",
+              "shortSolution": "সঠিক উত্তর: গ। কমিটিতে order গুরুত্বপূর্ণ নয়।",
+              "chapter": "05",
+              "topic": "কমিটি গঠন",
+              "difficulty": "Hard",
+              "probability": "Very Hot"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-05-set-02-q16",
+              "question": "$nP_r$ ও $nC_r$ এর সম্পর্ক কোনটি? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 02-16 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+              "options": [
+                {
+                  "text": "$nP_r=r!\\,nC_r$",
+                  "label": "ক"
+                },
+                {
+                  "text": "$nP_r+nC_r=1$",
+                  "label": "খ"
+                },
+                {
+                  "text": "$nC_r=r!\\,nP_r$",
+                  "label": "গ"
+                },
+                {
+                  "text": "$nP_r=nC_r$",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "ক",
+              "shortSolution": "সঠিক উত্তর: ক। বিন্যাসে নির্বাচিত r বস্তুর arrange করার factor $r!$।",
+              "chapter": "05",
+              "topic": "বিন্যাস-সমাবেশ সম্পর্ক",
+              "difficulty": "Hard",
+              "probability": "Board Favourite"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-05-set-02-q17",
+              "question": "$nC_r$ এর symmetry property কোনটি? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 02-17 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+              "options": [
+                {
+                  "text": "$nC_r=rC_n$",
+                  "label": "ক"
+                },
+                {
+                  "text": "$nC_r=nC_{n-r}$",
+                  "label": "খ"
+                },
+                {
+                  "text": "$nC_r=nP_r$",
+                  "label": "গ"
+                },
+                {
+                  "text": "$nC_r=0$",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "খ",
+              "shortSolution": "সঠিক উত্তর: খ। Combination-এর মৌলিক ধর্ম।",
+              "chapter": "05",
+              "topic": "সমাবেশের ধর্ম",
+              "difficulty": "Hard",
+              "probability": "Conceptual Trap"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-05-set-02-q18",
+              "question": "6টি উপাদানবিশিষ্ট সেটের subset সংখ্যা কত? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 02-18 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+              "options": [
+                {
+                  "text": "720",
+                  "label": "ক"
+                },
+                {
+                  "text": "12",
+                  "label": "খ"
+                },
+                {
+                  "text": "36",
+                  "label": "গ"
+                },
+                {
+                  "text": "64",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "ঘ",
+              "shortSolution": "সঠিক উত্তর: ঘ। $n$ element set-এর subset সংখ্যা $2^n$।",
+              "chapter": "05",
+              "topic": "Subset count",
+              "difficulty": "Hard",
+              "probability": "Mega Hot"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-05-set-02-q19",
+              "question": "7টি ভিন্ন অঙ্ক দিয়ে repetition ছাড়া 2 অঙ্কের সংখ্যা কতটি? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 02-19 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+              "options": [
+                {
+                  "text": "49",
+                  "label": "ক"
+                },
+                {
+                  "text": "21",
+                  "label": "খ"
+                },
+                {
+                  "text": "42",
+                  "label": "গ"
+                },
+                {
+                  "text": "8",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "গ",
+              "shortSolution": "সঠিক উত্তর: গ। প্রথম স্থানে n এবং দ্বিতীয় স্থানে n-1 পছন্দ।",
+              "chapter": "05",
+              "topic": "সংখ্যা গঠন",
+              "difficulty": "Hard",
+              "probability": "Very Hot"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-05-set-02-q20",
+              "question": "Combination-এ order কি গুরুত্বপূর্ণ? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 02-20 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+              "options": [
+                {
+                  "text": "হ্যাঁ",
+                  "label": "ক"
+                },
+                {
+                  "text": "না",
+                  "label": "খ"
+                },
+                {
+                  "text": "শুধু 2টি বস্তু হলে",
+                  "label": "গ"
+                },
+                {
+                  "text": "সবসময়",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "খ",
+              "shortSolution": "সঠিক উত্তর: খ। সমাবেশে নির্বাচন গুরুত্বপূর্ণ, বিন্যাস নয়।",
+              "chapter": "05",
+              "topic": "সমাবেশের ধারণা",
+              "difficulty": "Hard",
+              "probability": "Board Favourite"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-05-set-02-q21",
+              "question": "$5P_2$ এর মান কত? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 02-21 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+              "options": [
+                {
+                  "text": "7",
+                  "label": "ক"
+                },
+                {
+                  "text": "25",
+                  "label": "খ"
+                },
+                {
+                  "text": "10",
+                  "label": "গ"
+                },
+                {
+                  "text": "20",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "ঘ",
+              "shortSolution": "সঠিক উত্তর: ঘ। $nP_r=n!/(n-r)!$।",
+              "chapter": "05",
+              "topic": "বিন্যাস",
+              "difficulty": "Hard",
+              "probability": "Conceptual Trap"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-05-set-02-q22",
+              "question": "$5C_2$ এর মান কত? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 02-22 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+              "options": [
+                {
+                  "text": "25",
+                  "label": "ক"
+                },
+                {
+                  "text": "10",
+                  "label": "খ"
+                },
+                {
+                  "text": "20",
+                  "label": "গ"
+                },
+                {
+                  "text": "11",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "খ",
+              "shortSolution": "সঠিক উত্তর: খ। $nC_r=n!/[r!(n-r)!]$।",
+              "chapter": "05",
+              "topic": "সমাবেশ",
+              "difficulty": "Board Standard",
+              "probability": "Mega Hot"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-05-set-02-q23",
+              "question": "$6C_0$ এর মান কত? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 02-23 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+              "options": [
+                {
+                  "text": "0",
+                  "label": "ক"
+                },
+                {
+                  "text": "6",
+                  "label": "খ"
+                },
+                {
+                  "text": "1",
+                  "label": "গ"
+                },
+                {
+                  "text": "6!",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "গ",
+              "shortSolution": "সঠিক উত্তর: গ। $nC_0=1$।",
+              "chapter": "05",
+              "topic": "সমাবেশের মৌলিক মান",
+              "difficulty": "Board Standard",
+              "probability": "Very Hot"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-05-set-02-q24",
+              "question": "7টি ভিন্ন বস্তু এক সারিতে সাজানো যায় কতভাবে? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 02-24 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+              "options": [
+                {
+                  "text": "49",
+                  "label": "ক"
+                },
+                {
+                  "text": "7",
+                  "label": "খ"
+                },
+                {
+                  "text": "21",
+                  "label": "গ"
+                },
+                {
+                  "text": "5040",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "ঘ",
+              "shortSolution": "সঠিক উত্তর: ঘ। $n$টি ভিন্ন বস্তুর arrangement $n!$।",
+              "chapter": "05",
+              "topic": "বস্তুর বিন্যাস",
+              "difficulty": "Board Standard",
+              "probability": "Board Favourite"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-05-set-02-q25",
+              "question": "5 জন থেকে 3 জনের কমিটি কতভাবে গঠন করা যায়? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 02-25 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+              "options": [
+                {
+                  "text": "15",
+                  "label": "ক"
+                },
+                {
+                  "text": "11",
+                  "label": "খ"
+                },
+                {
+                  "text": "10",
+                  "label": "গ"
+                },
+                {
+                  "text": "60",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "গ",
+              "shortSolution": "সঠিক উত্তর: গ। কমিটিতে order গুরুত্বপূর্ণ নয়।",
+              "chapter": "05",
+              "topic": "কমিটি গঠন",
+              "difficulty": "Board Standard",
+              "probability": "Conceptual Trap"
+            }
+          ]
+        },
+        {
+          "id": "hsc-higher-math-1st-paper-chapter-05-set-03",
+          "title": "Chapter 05 Hyper Mega Hot Set 03",
+          "questions": [
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-05-set-03-q01",
+              "question": "$5P_2$ এর মান কত? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 03-01 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+              "options": [
+                {
+                  "text": "20",
+                  "label": "ক"
+                },
+                {
+                  "text": "7",
+                  "label": "খ"
+                },
+                {
+                  "text": "10",
+                  "label": "গ"
+                },
+                {
+                  "text": "25",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "ক",
+              "shortSolution": "সঠিক উত্তর: ক। $nP_r=n!/(n-r)!$।",
+              "chapter": "05",
+              "topic": "বিন্যাস",
+              "difficulty": "Easy",
+              "probability": "Mega Hot"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-05-set-03-q02",
+              "question": "$6C_2$ এর মান কত?",
+              "options": [
+                {
+                  "text": "15",
+                  "label": "ক"
+                },
+                {
+                  "text": "16",
+                  "label": "খ"
+                },
+                {
+                  "text": "36",
+                  "label": "গ"
+                },
+                {
+                  "text": "30",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "ক",
+              "shortSolution": "সঠিক উত্তর: ক। $nC_r=n!/[r!(n-r)!]$।",
+              "chapter": "05",
+              "topic": "সমাবেশ",
+              "difficulty": "Easy",
+              "probability": "Very Hot"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-05-set-03-q03",
+              "question": "$7C_0$ এর মান কত?",
+              "options": [
+                {
+                  "text": "7",
+                  "label": "ক"
+                },
+                {
+                  "text": "0",
+                  "label": "খ"
+                },
+                {
+                  "text": "1",
+                  "label": "গ"
+                },
+                {
+                  "text": "7!",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "গ",
+              "shortSolution": "সঠিক উত্তর: গ। $nC_0=1$।",
+              "chapter": "05",
+              "topic": "সমাবেশের মৌলিক মান",
+              "difficulty": "Easy",
+              "probability": "Board Favourite"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-05-set-03-q04",
+              "question": "8টি ভিন্ন বস্তু এক সারিতে সাজানো যায় কতভাবে?",
+              "options": [
+                {
+                  "text": "28",
+                  "label": "ক"
+                },
+                {
+                  "text": "40320",
+                  "label": "খ"
+                },
+                {
+                  "text": "64",
+                  "label": "গ"
+                },
+                {
+                  "text": "8",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "খ",
+              "shortSolution": "সঠিক উত্তর: খ। $n$টি ভিন্ন বস্তুর arrangement $n!$।",
+              "chapter": "05",
+              "topic": "বস্তুর বিন্যাস",
+              "difficulty": "Easy",
+              "probability": "Conceptual Trap"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-05-set-03-q05",
+              "question": "5 জন থেকে 3 জনের কমিটি কতভাবে গঠন করা যায়? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 03-05 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+              "options": [
+                {
+                  "text": "15",
+                  "label": "ক"
+                },
+                {
+                  "text": "60",
+                  "label": "খ"
+                },
+                {
+                  "text": "10",
+                  "label": "গ"
+                },
+                {
+                  "text": "11",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "গ",
+              "shortSolution": "সঠিক উত্তর: গ। কমিটিতে order গুরুত্বপূর্ণ নয়।",
+              "chapter": "05",
+              "topic": "কমিটি গঠন",
+              "difficulty": "Easy",
+              "probability": "Mega Hot"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-05-set-03-q06",
+              "question": "$nP_r$ ও $nC_r$ এর সম্পর্ক কোনটি? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 03-06 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+              "options": [
+                {
+                  "text": "$nP_r=r!\\,nC_r$",
+                  "label": "ক"
+                },
+                {
+                  "text": "$nP_r+nC_r=1$",
+                  "label": "খ"
+                },
+                {
+                  "text": "$nC_r=r!\\,nP_r$",
+                  "label": "গ"
+                },
+                {
+                  "text": "$nP_r=nC_r$",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "ক",
+              "shortSolution": "সঠিক উত্তর: ক। বিন্যাসে নির্বাচিত r বস্তুর arrange করার factor $r!$।",
+              "chapter": "05",
+              "topic": "বিন্যাস-সমাবেশ সম্পর্ক",
+              "difficulty": "Easy",
+              "probability": "Very Hot"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-05-set-03-q07",
+              "question": "$nC_r$ এর symmetry property কোনটি? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 03-07 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+              "options": [
+                {
+                  "text": "$nC_r=0$",
+                  "label": "ক"
+                },
+                {
+                  "text": "$nC_r=nP_r$",
+                  "label": "খ"
+                },
+                {
+                  "text": "$nC_r=nC_{n-r}$",
+                  "label": "গ"
+                },
+                {
+                  "text": "$nC_r=rC_n$",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "গ",
+              "shortSolution": "সঠিক উত্তর: গ। Combination-এর মৌলিক ধর্ম।",
+              "chapter": "05",
+              "topic": "সমাবেশের ধর্ম",
+              "difficulty": "Easy",
+              "probability": "Board Favourite"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-05-set-03-q08",
+              "question": "7টি উপাদানবিশিষ্ট সেটের subset সংখ্যা কত?",
+              "options": [
+                {
+                  "text": "14",
+                  "label": "ক"
+                },
+                {
+                  "text": "5040",
+                  "label": "খ"
+                },
+                {
+                  "text": "128",
+                  "label": "গ"
+                },
+                {
+                  "text": "49",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "গ",
+              "shortSolution": "সঠিক উত্তর: গ। $n$ element set-এর subset সংখ্যা $2^n$।",
+              "chapter": "05",
+              "topic": "Subset count",
+              "difficulty": "Medium",
+              "probability": "Conceptual Trap"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-05-set-03-q09",
+              "question": "8টি ভিন্ন অঙ্ক দিয়ে repetition ছাড়া 2 অঙ্কের সংখ্যা কতটি?",
+              "options": [
+                {
+                  "text": "28",
+                  "label": "ক"
+                },
+                {
+                  "text": "64",
+                  "label": "খ"
+                },
+                {
+                  "text": "9",
+                  "label": "গ"
+                },
+                {
+                  "text": "56",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "ঘ",
+              "shortSolution": "সঠিক উত্তর: ঘ। প্রথম স্থানে n এবং দ্বিতীয় স্থানে n-1 পছন্দ।",
+              "chapter": "05",
+              "topic": "সংখ্যা গঠন",
+              "difficulty": "Medium",
+              "probability": "Mega Hot"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-05-set-03-q10",
+              "question": "Combination-এ order কি গুরুত্বপূর্ণ? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 03-10 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+              "options": [
+                {
+                  "text": "হ্যাঁ",
+                  "label": "ক"
+                },
+                {
+                  "text": "সবসময়",
+                  "label": "খ"
+                },
+                {
+                  "text": "না",
+                  "label": "গ"
+                },
+                {
+                  "text": "শুধু 2টি বস্তু হলে",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "গ",
+              "shortSolution": "সঠিক উত্তর: গ। সমাবেশে নির্বাচন গুরুত্বপূর্ণ, বিন্যাস নয়।",
+              "chapter": "05",
+              "topic": "সমাবেশের ধারণা",
+              "difficulty": "Medium",
+              "probability": "Very Hot"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-05-set-03-q11",
+              "question": "$5P_2$ এর মান কত? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 03-11 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+              "options": [
+                {
+                  "text": "10",
+                  "label": "ক"
+                },
+                {
+                  "text": "25",
+                  "label": "খ"
+                },
+                {
+                  "text": "7",
+                  "label": "গ"
+                },
+                {
+                  "text": "20",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "ঘ",
+              "shortSolution": "সঠিক উত্তর: ঘ। $nP_r=n!/(n-r)!$।",
+              "chapter": "05",
+              "topic": "বিন্যাস",
+              "difficulty": "Medium",
+              "probability": "Board Favourite"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-05-set-03-q12",
+              "question": "$6C_2$ এর মান কত? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 03-12 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+              "options": [
+                {
+                  "text": "15",
+                  "label": "ক"
+                },
+                {
+                  "text": "30",
+                  "label": "খ"
+                },
+                {
+                  "text": "36",
+                  "label": "গ"
+                },
+                {
+                  "text": "16",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "ক",
+              "shortSolution": "সঠিক উত্তর: ক। $nC_r=n!/[r!(n-r)!]$।",
+              "chapter": "05",
+              "topic": "সমাবেশ",
+              "difficulty": "Medium",
+              "probability": "Conceptual Trap"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-05-set-03-q13",
+              "question": "$7C_0$ এর মান কত? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 03-13 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+              "options": [
+                {
+                  "text": "0",
+                  "label": "ক"
+                },
+                {
+                  "text": "7",
+                  "label": "খ"
+                },
+                {
+                  "text": "1",
+                  "label": "গ"
+                },
+                {
+                  "text": "7!",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "গ",
+              "shortSolution": "সঠিক উত্তর: গ। $nC_0=1$।",
+              "chapter": "05",
+              "topic": "সমাবেশের মৌলিক মান",
+              "difficulty": "Medium",
+              "probability": "Mega Hot"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-05-set-03-q14",
+              "question": "8টি ভিন্ন বস্তু এক সারিতে সাজানো যায় কতভাবে? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 03-14 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+              "options": [
+                {
+                  "text": "28",
+                  "label": "ক"
+                },
+                {
+                  "text": "40320",
+                  "label": "খ"
+                },
+                {
+                  "text": "8",
+                  "label": "গ"
+                },
+                {
+                  "text": "64",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "খ",
+              "shortSolution": "সঠিক উত্তর: খ। $n$টি ভিন্ন বস্তুর arrangement $n!$।",
+              "chapter": "05",
+              "topic": "বস্তুর বিন্যাস",
+              "difficulty": "Medium",
+              "probability": "Very Hot"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-05-set-03-q15",
+              "question": "5 জন থেকে 3 জনের কমিটি কতভাবে গঠন করা যায়? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 03-15 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+              "options": [
+                {
+                  "text": "11",
+                  "label": "ক"
+                },
+                {
+                  "text": "10",
+                  "label": "খ"
+                },
+                {
+                  "text": "60",
+                  "label": "গ"
+                },
+                {
+                  "text": "15",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "খ",
+              "shortSolution": "সঠিক উত্তর: খ। কমিটিতে order গুরুত্বপূর্ণ নয়।",
+              "chapter": "05",
+              "topic": "কমিটি গঠন",
+              "difficulty": "Hard",
+              "probability": "Board Favourite"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-05-set-03-q16",
+              "question": "$nP_r$ ও $nC_r$ এর সম্পর্ক কোনটি? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 03-16 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+              "options": [
+                {
+                  "text": "$nP_r=nC_r$",
+                  "label": "ক"
+                },
+                {
+                  "text": "$nC_r=r!\\,nP_r$",
+                  "label": "খ"
+                },
+                {
+                  "text": "$nP_r=r!\\,nC_r$",
+                  "label": "গ"
+                },
+                {
+                  "text": "$nP_r+nC_r=1$",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "গ",
+              "shortSolution": "সঠিক উত্তর: গ। বিন্যাসে নির্বাচিত r বস্তুর arrange করার factor $r!$।",
+              "chapter": "05",
+              "topic": "বিন্যাস-সমাবেশ সম্পর্ক",
+              "difficulty": "Hard",
+              "probability": "Conceptual Trap"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-05-set-03-q17",
+              "question": "$nC_r$ এর symmetry property কোনটি? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 03-17 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+              "options": [
+                {
+                  "text": "$nC_r=nC_{n-r}$",
+                  "label": "ক"
+                },
+                {
+                  "text": "$nC_r=rC_n$",
+                  "label": "খ"
+                },
+                {
+                  "text": "$nC_r=nP_r$",
+                  "label": "গ"
+                },
+                {
+                  "text": "$nC_r=0$",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "ক",
+              "shortSolution": "সঠিক উত্তর: ক। Combination-এর মৌলিক ধর্ম।",
+              "chapter": "05",
+              "topic": "সমাবেশের ধর্ম",
+              "difficulty": "Hard",
+              "probability": "Mega Hot"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-05-set-03-q18",
+              "question": "7টি উপাদানবিশিষ্ট সেটের subset সংখ্যা কত? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 03-18 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+              "options": [
+                {
+                  "text": "14",
+                  "label": "ক"
+                },
+                {
+                  "text": "5040",
+                  "label": "খ"
+                },
+                {
+                  "text": "128",
+                  "label": "গ"
+                },
+                {
+                  "text": "49",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "গ",
+              "shortSolution": "সঠিক উত্তর: গ। $n$ element set-এর subset সংখ্যা $2^n$।",
+              "chapter": "05",
+              "topic": "Subset count",
+              "difficulty": "Hard",
+              "probability": "Very Hot"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-05-set-03-q19",
+              "question": "8টি ভিন্ন অঙ্ক দিয়ে repetition ছাড়া 2 অঙ্কের সংখ্যা কতটি? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 03-19 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+              "options": [
+                {
+                  "text": "9",
+                  "label": "ক"
+                },
+                {
+                  "text": "28",
+                  "label": "খ"
+                },
+                {
+                  "text": "56",
+                  "label": "গ"
+                },
+                {
+                  "text": "64",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "গ",
+              "shortSolution": "সঠিক উত্তর: গ। প্রথম স্থানে n এবং দ্বিতীয় স্থানে n-1 পছন্দ।",
+              "chapter": "05",
+              "topic": "সংখ্যা গঠন",
+              "difficulty": "Hard",
+              "probability": "Board Favourite"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-05-set-03-q20",
+              "question": "Combination-এ order কি গুরুত্বপূর্ণ? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 03-20 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+              "options": [
+                {
+                  "text": "হ্যাঁ",
+                  "label": "ক"
+                },
+                {
+                  "text": "না",
+                  "label": "খ"
+                },
+                {
+                  "text": "শুধু 2টি বস্তু হলে",
+                  "label": "গ"
+                },
+                {
+                  "text": "সবসময়",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "খ",
+              "shortSolution": "সঠিক উত্তর: খ। সমাবেশে নির্বাচন গুরুত্বপূর্ণ, বিন্যাস নয়।",
+              "chapter": "05",
+              "topic": "সমাবেশের ধারণা",
+              "difficulty": "Hard",
+              "probability": "Conceptual Trap"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-05-set-03-q21",
+              "question": "$5P_2$ এর মান কত? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 03-21 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+              "options": [
+                {
+                  "text": "7",
+                  "label": "ক"
+                },
+                {
+                  "text": "20",
+                  "label": "খ"
+                },
+                {
+                  "text": "10",
+                  "label": "গ"
+                },
+                {
+                  "text": "25",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "খ",
+              "shortSolution": "সঠিক উত্তর: খ। $nP_r=n!/(n-r)!$।",
+              "chapter": "05",
+              "topic": "বিন্যাস",
+              "difficulty": "Hard",
+              "probability": "Mega Hot"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-05-set-03-q22",
+              "question": "$6C_2$ এর মান কত? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 03-22 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+              "options": [
+                {
+                  "text": "36",
+                  "label": "ক"
+                },
+                {
+                  "text": "16",
+                  "label": "খ"
+                },
+                {
+                  "text": "30",
+                  "label": "গ"
+                },
+                {
+                  "text": "15",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "ঘ",
+              "shortSolution": "সঠিক উত্তর: ঘ। $nC_r=n!/[r!(n-r)!]$।",
+              "chapter": "05",
+              "topic": "সমাবেশ",
+              "difficulty": "Board Standard",
+              "probability": "Very Hot"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-05-set-03-q23",
+              "question": "$7C_0$ এর মান কত? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 03-23 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+              "options": [
+                {
+                  "text": "1",
+                  "label": "ক"
+                },
+                {
+                  "text": "7!",
+                  "label": "খ"
+                },
+                {
+                  "text": "0",
+                  "label": "গ"
+                },
+                {
+                  "text": "7",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "ক",
+              "shortSolution": "সঠিক উত্তর: ক। $nC_0=1$।",
+              "chapter": "05",
+              "topic": "সমাবেশের মৌলিক মান",
+              "difficulty": "Board Standard",
+              "probability": "Board Favourite"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-05-set-03-q24",
+              "question": "8টি ভিন্ন বস্তু এক সারিতে সাজানো যায় কতভাবে? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 03-24 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+              "options": [
+                {
+                  "text": "64",
+                  "label": "ক"
+                },
+                {
+                  "text": "28",
+                  "label": "খ"
+                },
+                {
+                  "text": "8",
+                  "label": "গ"
+                },
+                {
+                  "text": "40320",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "ঘ",
+              "shortSolution": "সঠিক উত্তর: ঘ। $n$টি ভিন্ন বস্তুর arrangement $n!$।",
+              "chapter": "05",
+              "topic": "বস্তুর বিন্যাস",
+              "difficulty": "Board Standard",
+              "probability": "Conceptual Trap"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-05-set-03-q25",
+              "question": "5 জন থেকে 3 জনের কমিটি কতভাবে গঠন করা যায়? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 03-25 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+              "options": [
+                {
+                  "text": "60",
+                  "label": "ক"
+                },
+                {
+                  "text": "11",
+                  "label": "খ"
+                },
+                {
+                  "text": "15",
+                  "label": "গ"
+                },
+                {
+                  "text": "10",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "ঘ",
+              "shortSolution": "সঠিক উত্তর: ঘ। কমিটিতে order গুরুত্বপূর্ণ নয়।",
+              "chapter": "05",
+              "topic": "কমিটি গঠন",
+              "difficulty": "Board Standard",
+              "probability": "Mega Hot"
+            }
+          ]
+        },
+        {
+          "id": "hsc-higher-math-1st-paper-chapter-05-set-04",
+          "title": "Chapter 05 Hyper Mega Hot Set 04",
+          "questions": [
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-05-set-04-q01",
+              "question": "$6P_2$ এর মান কত?",
+              "options": [
+                {
+                  "text": "30",
+                  "label": "ক"
+                },
+                {
+                  "text": "15",
+                  "label": "খ"
+                },
+                {
+                  "text": "36",
+                  "label": "গ"
+                },
+                {
+                  "text": "8",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "ক",
+              "shortSolution": "সঠিক উত্তর: ক। $nP_r=n!/(n-r)!$।",
+              "chapter": "05",
+              "topic": "বিন্যাস",
+              "difficulty": "Easy",
+              "probability": "Very Hot"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-05-set-04-q02",
+              "question": "$7C_2$ এর মান কত?",
+              "options": [
+                {
+                  "text": "42",
+                  "label": "ক"
+                },
+                {
+                  "text": "22",
+                  "label": "খ"
+                },
+                {
+                  "text": "21",
+                  "label": "গ"
+                },
+                {
+                  "text": "49",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "গ",
+              "shortSolution": "সঠিক উত্তর: গ। $nC_r=n!/[r!(n-r)!]$।",
+              "chapter": "05",
+              "topic": "সমাবেশ",
+              "difficulty": "Easy",
+              "probability": "Board Favourite"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-05-set-04-q03",
+              "question": "$8C_0$ এর মান কত?",
+              "options": [
+                {
+                  "text": "1",
+                  "label": "ক"
+                },
+                {
+                  "text": "0",
+                  "label": "খ"
+                },
+                {
+                  "text": "8!",
+                  "label": "গ"
+                },
+                {
+                  "text": "8",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "ক",
+              "shortSolution": "সঠিক উত্তর: ক। $nC_0=1$।",
+              "chapter": "05",
+              "topic": "সমাবেশের মৌলিক মান",
+              "difficulty": "Easy",
+              "probability": "Conceptual Trap"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-05-set-04-q04",
+              "question": "9টি ভিন্ন বস্তু এক সারিতে সাজানো যায় কতভাবে?",
+              "options": [
+                {
+                  "text": "36",
+                  "label": "ক"
+                },
+                {
+                  "text": "81",
+                  "label": "খ"
+                },
+                {
+                  "text": "362880",
+                  "label": "গ"
+                },
+                {
+                  "text": "9",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "গ",
+              "shortSolution": "সঠিক উত্তর: গ। $n$টি ভিন্ন বস্তুর arrangement $n!$।",
+              "chapter": "05",
+              "topic": "বস্তুর বিন্যাস",
+              "difficulty": "Easy",
+              "probability": "Mega Hot"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-05-set-04-q05",
+              "question": "5 জন থেকে 3 জনের কমিটি কতভাবে গঠন করা যায়? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 04-05 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+              "options": [
+                {
+                  "text": "15",
+                  "label": "ক"
+                },
+                {
+                  "text": "10",
+                  "label": "খ"
+                },
+                {
+                  "text": "11",
+                  "label": "গ"
+                },
+                {
+                  "text": "60",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "খ",
+              "shortSolution": "সঠিক উত্তর: খ। কমিটিতে order গুরুত্বপূর্ণ নয়।",
+              "chapter": "05",
+              "topic": "কমিটি গঠন",
+              "difficulty": "Easy",
+              "probability": "Very Hot"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-05-set-04-q06",
+              "question": "$nP_r$ ও $nC_r$ এর সম্পর্ক কোনটি? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 04-06 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+              "options": [
+                {
+                  "text": "$nP_r=r!\\,nC_r$",
+                  "label": "ক"
+                },
+                {
+                  "text": "$nP_r+nC_r=1$",
+                  "label": "খ"
+                },
+                {
+                  "text": "$nP_r=nC_r$",
+                  "label": "গ"
+                },
+                {
+                  "text": "$nC_r=r!\\,nP_r$",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "ক",
+              "shortSolution": "সঠিক উত্তর: ক। বিন্যাসে নির্বাচিত r বস্তুর arrange করার factor $r!$।",
+              "chapter": "05",
+              "topic": "বিন্যাস-সমাবেশ সম্পর্ক",
+              "difficulty": "Easy",
+              "probability": "Board Favourite"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-05-set-04-q07",
+              "question": "$nC_r$ এর symmetry property কোনটি? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 04-07 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+              "options": [
+                {
+                  "text": "$nC_r=nP_r$",
+                  "label": "ক"
+                },
+                {
+                  "text": "$nC_r=rC_n$",
+                  "label": "খ"
+                },
+                {
+                  "text": "$nC_r=0$",
+                  "label": "গ"
+                },
+                {
+                  "text": "$nC_r=nC_{n-r}$",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "ঘ",
+              "shortSolution": "সঠিক উত্তর: ঘ। Combination-এর মৌলিক ধর্ম।",
+              "chapter": "05",
+              "topic": "সমাবেশের ধর্ম",
+              "difficulty": "Easy",
+              "probability": "Conceptual Trap"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-05-set-04-q08",
+              "question": "8টি উপাদানবিশিষ্ট সেটের subset সংখ্যা কত?",
+              "options": [
+                {
+                  "text": "256",
+                  "label": "ক"
+                },
+                {
+                  "text": "16",
+                  "label": "খ"
+                },
+                {
+                  "text": "64",
+                  "label": "গ"
+                },
+                {
+                  "text": "40320",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "ক",
+              "shortSolution": "সঠিক উত্তর: ক। $n$ element set-এর subset সংখ্যা $2^n$।",
+              "chapter": "05",
+              "topic": "Subset count",
+              "difficulty": "Medium",
+              "probability": "Mega Hot"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-05-set-04-q09",
+              "question": "9টি ভিন্ন অঙ্ক দিয়ে repetition ছাড়া 2 অঙ্কের সংখ্যা কতটি?",
+              "options": [
+                {
+                  "text": "36",
+                  "label": "ক"
+                },
+                {
+                  "text": "81",
+                  "label": "খ"
+                },
+                {
+                  "text": "10",
+                  "label": "গ"
+                },
+                {
+                  "text": "72",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "ঘ",
+              "shortSolution": "সঠিক উত্তর: ঘ। প্রথম স্থানে n এবং দ্বিতীয় স্থানে n-1 পছন্দ।",
+              "chapter": "05",
+              "topic": "সংখ্যা গঠন",
+              "difficulty": "Medium",
+              "probability": "Very Hot"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-05-set-04-q10",
+              "question": "Combination-এ order কি গুরুত্বপূর্ণ? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 04-10 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+              "options": [
+                {
+                  "text": "শুধু 2টি বস্তু হলে",
+                  "label": "ক"
+                },
+                {
+                  "text": "সবসময়",
+                  "label": "খ"
+                },
+                {
+                  "text": "হ্যাঁ",
+                  "label": "গ"
+                },
+                {
+                  "text": "না",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "ঘ",
+              "shortSolution": "সঠিক উত্তর: ঘ। সমাবেশে নির্বাচন গুরুত্বপূর্ণ, বিন্যাস নয়।",
+              "chapter": "05",
+              "topic": "সমাবেশের ধারণা",
+              "difficulty": "Medium",
+              "probability": "Board Favourite"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-05-set-04-q11",
+              "question": "$6P_2$ এর মান কত? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 04-11 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+              "options": [
+                {
+                  "text": "8",
+                  "label": "ক"
+                },
+                {
+                  "text": "36",
+                  "label": "খ"
+                },
+                {
+                  "text": "30",
+                  "label": "গ"
+                },
+                {
+                  "text": "15",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "গ",
+              "shortSolution": "সঠিক উত্তর: গ। $nP_r=n!/(n-r)!$।",
+              "chapter": "05",
+              "topic": "বিন্যাস",
+              "difficulty": "Medium",
+              "probability": "Conceptual Trap"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-05-set-04-q12",
+              "question": "$7C_2$ এর মান কত? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 04-12 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+              "options": [
+                {
+                  "text": "22",
+                  "label": "ক"
+                },
+                {
+                  "text": "42",
+                  "label": "খ"
+                },
+                {
+                  "text": "49",
+                  "label": "গ"
+                },
+                {
+                  "text": "21",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "ঘ",
+              "shortSolution": "সঠিক উত্তর: ঘ। $nC_r=n!/[r!(n-r)!]$।",
+              "chapter": "05",
+              "topic": "সমাবেশ",
+              "difficulty": "Medium",
+              "probability": "Mega Hot"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-05-set-04-q13",
+              "question": "$8C_0$ এর মান কত? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 04-13 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+              "options": [
+                {
+                  "text": "8!",
+                  "label": "ক"
+                },
+                {
+                  "text": "0",
+                  "label": "খ"
+                },
+                {
+                  "text": "8",
+                  "label": "গ"
+                },
+                {
+                  "text": "1",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "ঘ",
+              "shortSolution": "সঠিক উত্তর: ঘ। $nC_0=1$।",
+              "chapter": "05",
+              "topic": "সমাবেশের মৌলিক মান",
+              "difficulty": "Medium",
+              "probability": "Very Hot"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-05-set-04-q14",
+              "question": "9টি ভিন্ন বস্তু এক সারিতে সাজানো যায় কতভাবে? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 04-14 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+              "options": [
+                {
+                  "text": "362880",
+                  "label": "ক"
+                },
+                {
+                  "text": "81",
+                  "label": "খ"
+                },
+                {
+                  "text": "36",
+                  "label": "গ"
+                },
+                {
+                  "text": "9",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "ক",
+              "shortSolution": "সঠিক উত্তর: ক। $n$টি ভিন্ন বস্তুর arrangement $n!$।",
+              "chapter": "05",
+              "topic": "বস্তুর বিন্যাস",
+              "difficulty": "Medium",
+              "probability": "Board Favourite"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-05-set-04-q15",
+              "question": "5 জন থেকে 3 জনের কমিটি কতভাবে গঠন করা যায়? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 04-15 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+              "options": [
+                {
+                  "text": "60",
+                  "label": "ক"
+                },
+                {
+                  "text": "11",
+                  "label": "খ"
+                },
+                {
+                  "text": "10",
+                  "label": "গ"
+                },
+                {
+                  "text": "15",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "গ",
+              "shortSolution": "সঠিক উত্তর: গ। কমিটিতে order গুরুত্বপূর্ণ নয়।",
+              "chapter": "05",
+              "topic": "কমিটি গঠন",
+              "difficulty": "Hard",
+              "probability": "Conceptual Trap"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-05-set-04-q16",
+              "question": "$nP_r$ ও $nC_r$ এর সম্পর্ক কোনটি? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 04-16 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+              "options": [
+                {
+                  "text": "$nP_r+nC_r=1$",
+                  "label": "ক"
+                },
+                {
+                  "text": "$nP_r=nC_r$",
+                  "label": "খ"
+                },
+                {
+                  "text": "$nP_r=r!\\,nC_r$",
+                  "label": "গ"
+                },
+                {
+                  "text": "$nC_r=r!\\,nP_r$",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "গ",
+              "shortSolution": "সঠিক উত্তর: গ। বিন্যাসে নির্বাচিত r বস্তুর arrange করার factor $r!$।",
+              "chapter": "05",
+              "topic": "বিন্যাস-সমাবেশ সম্পর্ক",
+              "difficulty": "Hard",
+              "probability": "Mega Hot"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-05-set-04-q17",
+              "question": "$nC_r$ এর symmetry property কোনটি? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 04-17 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+              "options": [
+                {
+                  "text": "$nC_r=nC_{n-r}$",
+                  "label": "ক"
+                },
+                {
+                  "text": "$nC_r=rC_n$",
+                  "label": "খ"
+                },
+                {
+                  "text": "$nC_r=0$",
+                  "label": "গ"
+                },
+                {
+                  "text": "$nC_r=nP_r$",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "ক",
+              "shortSolution": "সঠিক উত্তর: ক। Combination-এর মৌলিক ধর্ম।",
+              "chapter": "05",
+              "topic": "সমাবেশের ধর্ম",
+              "difficulty": "Hard",
+              "probability": "Very Hot"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-05-set-04-q18",
+              "question": "8টি উপাদানবিশিষ্ট সেটের subset সংখ্যা কত? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 04-18 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+              "options": [
+                {
+                  "text": "64",
+                  "label": "ক"
+                },
+                {
+                  "text": "16",
+                  "label": "খ"
+                },
+                {
+                  "text": "40320",
+                  "label": "গ"
+                },
+                {
+                  "text": "256",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "ঘ",
+              "shortSolution": "সঠিক উত্তর: ঘ। $n$ element set-এর subset সংখ্যা $2^n$।",
+              "chapter": "05",
+              "topic": "Subset count",
+              "difficulty": "Hard",
+              "probability": "Board Favourite"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-05-set-04-q19",
+              "question": "9টি ভিন্ন অঙ্ক দিয়ে repetition ছাড়া 2 অঙ্কের সংখ্যা কতটি? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 04-19 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+              "options": [
+                {
+                  "text": "36",
+                  "label": "ক"
+                },
+                {
+                  "text": "81",
+                  "label": "খ"
+                },
+                {
+                  "text": "72",
+                  "label": "গ"
+                },
+                {
+                  "text": "10",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "গ",
+              "shortSolution": "সঠিক উত্তর: গ। প্রথম স্থানে n এবং দ্বিতীয় স্থানে n-1 পছন্দ।",
+              "chapter": "05",
+              "topic": "সংখ্যা গঠন",
+              "difficulty": "Hard",
+              "probability": "Conceptual Trap"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-05-set-04-q20",
+              "question": "Combination-এ order কি গুরুত্বপূর্ণ? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 04-20 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+              "options": [
+                {
+                  "text": "শুধু 2টি বস্তু হলে",
+                  "label": "ক"
+                },
+                {
+                  "text": "সবসময়",
+                  "label": "খ"
+                },
+                {
+                  "text": "হ্যাঁ",
+                  "label": "গ"
+                },
+                {
+                  "text": "না",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "ঘ",
+              "shortSolution": "সঠিক উত্তর: ঘ। সমাবেশে নির্বাচন গুরুত্বপূর্ণ, বিন্যাস নয়।",
+              "chapter": "05",
+              "topic": "সমাবেশের ধারণা",
+              "difficulty": "Hard",
+              "probability": "Mega Hot"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-05-set-04-q21",
+              "question": "$6P_2$ এর মান কত? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 04-21 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+              "options": [
+                {
+                  "text": "30",
+                  "label": "ক"
+                },
+                {
+                  "text": "15",
+                  "label": "খ"
+                },
+                {
+                  "text": "8",
+                  "label": "গ"
+                },
+                {
+                  "text": "36",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "ক",
+              "shortSolution": "সঠিক উত্তর: ক। $nP_r=n!/(n-r)!$।",
+              "chapter": "05",
+              "topic": "বিন্যাস",
+              "difficulty": "Hard",
+              "probability": "Very Hot"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-05-set-04-q22",
+              "question": "$7C_2$ এর মান কত? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 04-22 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+              "options": [
+                {
+                  "text": "21",
+                  "label": "ক"
+                },
+                {
+                  "text": "42",
+                  "label": "খ"
+                },
+                {
+                  "text": "49",
+                  "label": "গ"
+                },
+                {
+                  "text": "22",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "ক",
+              "shortSolution": "সঠিক উত্তর: ক। $nC_r=n!/[r!(n-r)!]$।",
+              "chapter": "05",
+              "topic": "সমাবেশ",
+              "difficulty": "Board Standard",
+              "probability": "Board Favourite"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-05-set-04-q23",
+              "question": "$8C_0$ এর মান কত? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 04-23 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+              "options": [
+                {
+                  "text": "0",
+                  "label": "ক"
+                },
+                {
+                  "text": "8!",
+                  "label": "খ"
+                },
+                {
+                  "text": "8",
+                  "label": "গ"
+                },
+                {
+                  "text": "1",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "ঘ",
+              "shortSolution": "সঠিক উত্তর: ঘ। $nC_0=1$।",
+              "chapter": "05",
+              "topic": "সমাবেশের মৌলিক মান",
+              "difficulty": "Board Standard",
+              "probability": "Conceptual Trap"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-05-set-04-q24",
+              "question": "9টি ভিন্ন বস্তু এক সারিতে সাজানো যায় কতভাবে? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 04-24 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+              "options": [
+                {
+                  "text": "36",
+                  "label": "ক"
+                },
+                {
+                  "text": "9",
+                  "label": "খ"
+                },
+                {
+                  "text": "81",
+                  "label": "গ"
+                },
+                {
+                  "text": "362880",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "ঘ",
+              "shortSolution": "সঠিক উত্তর: ঘ। $n$টি ভিন্ন বস্তুর arrangement $n!$।",
+              "chapter": "05",
+              "topic": "বস্তুর বিন্যাস",
+              "difficulty": "Board Standard",
+              "probability": "Mega Hot"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-05-set-04-q25",
+              "question": "5 জন থেকে 3 জনের কমিটি কতভাবে গঠন করা যায়? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 04-25 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+              "options": [
+                {
+                  "text": "15",
+                  "label": "ক"
+                },
+                {
+                  "text": "10",
+                  "label": "খ"
+                },
+                {
+                  "text": "60",
+                  "label": "গ"
+                },
+                {
+                  "text": "11",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "খ",
+              "shortSolution": "সঠিক উত্তর: খ। কমিটিতে order গুরুত্বপূর্ণ নয়।",
+              "chapter": "05",
+              "topic": "কমিটি গঠন",
+              "difficulty": "Board Standard",
+              "probability": "Very Hot"
+            }
+          ]
+        },
+        {
+          "id": "hsc-higher-math-1st-paper-chapter-05-set-05",
+          "title": "Chapter 05 Hyper Mega Hot Set 05",
+          "questions": [
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-05-set-05-q01",
+              "question": "$7P_2$ এর মান কত?",
+              "options": [
+                {
+                  "text": "21",
+                  "label": "ক"
+                },
+                {
+                  "text": "9",
+                  "label": "খ"
+                },
+                {
+                  "text": "42",
+                  "label": "গ"
+                },
+                {
+                  "text": "49",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "গ",
+              "shortSolution": "সঠিক উত্তর: গ। $nP_r=n!/(n-r)!$।",
+              "chapter": "05",
+              "topic": "বিন্যাস",
+              "difficulty": "Easy",
+              "probability": "Board Favourite"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-05-set-05-q02",
+              "question": "$8C_2$ এর মান কত?",
+              "options": [
+                {
+                  "text": "56",
+                  "label": "ক"
+                },
+                {
+                  "text": "28",
+                  "label": "খ"
+                },
+                {
+                  "text": "29",
+                  "label": "গ"
+                },
+                {
+                  "text": "64",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "খ",
+              "shortSolution": "সঠিক উত্তর: খ। $nC_r=n!/[r!(n-r)!]$।",
+              "chapter": "05",
+              "topic": "সমাবেশ",
+              "difficulty": "Easy",
+              "probability": "Conceptual Trap"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-05-set-05-q03",
+              "question": "$9C_0$ এর মান কত?",
+              "options": [
+                {
+                  "text": "9!",
+                  "label": "ক"
+                },
+                {
+                  "text": "9",
+                  "label": "খ"
+                },
+                {
+                  "text": "0",
+                  "label": "গ"
+                },
+                {
+                  "text": "1",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "ঘ",
+              "shortSolution": "সঠিক উত্তর: ঘ। $nC_0=1$।",
+              "chapter": "05",
+              "topic": "সমাবেশের মৌলিক মান",
+              "difficulty": "Easy",
+              "probability": "Mega Hot"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-05-set-05-q04",
+              "question": "10টি ভিন্ন বস্তু এক সারিতে সাজানো যায় কতভাবে?",
+              "options": [
+                {
+                  "text": "10",
+                  "label": "ক"
+                },
+                {
+                  "text": "45",
+                  "label": "খ"
+                },
+                {
+                  "text": "3628800",
+                  "label": "গ"
+                },
+                {
+                  "text": "100",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "গ",
+              "shortSolution": "সঠিক উত্তর: গ। $n$টি ভিন্ন বস্তুর arrangement $n!$।",
+              "chapter": "05",
+              "topic": "বস্তুর বিন্যাস",
+              "difficulty": "Easy",
+              "probability": "Very Hot"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-05-set-05-q05",
+              "question": "6 জন থেকে 3 জনের কমিটি কতভাবে গঠন করা যায়?",
+              "options": [
+                {
+                  "text": "120",
+                  "label": "ক"
+                },
+                {
+                  "text": "21",
+                  "label": "খ"
+                },
+                {
+                  "text": "18",
+                  "label": "গ"
+                },
+                {
+                  "text": "20",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "ঘ",
+              "shortSolution": "সঠিক উত্তর: ঘ। কমিটিতে order গুরুত্বপূর্ণ নয়।",
+              "chapter": "05",
+              "topic": "কমিটি গঠন",
+              "difficulty": "Easy",
+              "probability": "Board Favourite"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-05-set-05-q06",
+              "question": "$nP_r$ ও $nC_r$ এর সম্পর্ক কোনটি? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 05-06 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+              "options": [
+                {
+                  "text": "$nP_r+nC_r=1$",
+                  "label": "ক"
+                },
+                {
+                  "text": "$nP_r=r!\\,nC_r$",
+                  "label": "খ"
+                },
+                {
+                  "text": "$nC_r=r!\\,nP_r$",
+                  "label": "গ"
+                },
+                {
+                  "text": "$nP_r=nC_r$",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "খ",
+              "shortSolution": "সঠিক উত্তর: খ। বিন্যাসে নির্বাচিত r বস্তুর arrange করার factor $r!$।",
+              "chapter": "05",
+              "topic": "বিন্যাস-সমাবেশ সম্পর্ক",
+              "difficulty": "Easy",
+              "probability": "Conceptual Trap"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-05-set-05-q07",
+              "question": "$nC_r$ এর symmetry property কোনটি? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 05-07 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+              "options": [
+                {
+                  "text": "$nC_r=0$",
+                  "label": "ক"
+                },
+                {
+                  "text": "$nC_r=nC_{n-r}$",
+                  "label": "খ"
+                },
+                {
+                  "text": "$nC_r=nP_r$",
+                  "label": "গ"
+                },
+                {
+                  "text": "$nC_r=rC_n$",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "খ",
+              "shortSolution": "সঠিক উত্তর: খ। Combination-এর মৌলিক ধর্ম।",
+              "chapter": "05",
+              "topic": "সমাবেশের ধর্ম",
+              "difficulty": "Easy",
+              "probability": "Mega Hot"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-05-set-05-q08",
+              "question": "9টি উপাদানবিশিষ্ট সেটের subset সংখ্যা কত?",
+              "options": [
+                {
+                  "text": "512",
+                  "label": "ক"
+                },
+                {
+                  "text": "362880",
+                  "label": "খ"
+                },
+                {
+                  "text": "81",
+                  "label": "গ"
+                },
+                {
+                  "text": "18",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "ক",
+              "shortSolution": "সঠিক উত্তর: ক। $n$ element set-এর subset সংখ্যা $2^n$।",
+              "chapter": "05",
+              "topic": "Subset count",
+              "difficulty": "Medium",
+              "probability": "Very Hot"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-05-set-05-q09",
+              "question": "10টি ভিন্ন অঙ্ক দিয়ে repetition ছাড়া 2 অঙ্কের সংখ্যা কতটি?",
+              "options": [
+                {
+                  "text": "45",
+                  "label": "ক"
+                },
+                {
+                  "text": "11",
+                  "label": "খ"
+                },
+                {
+                  "text": "90",
+                  "label": "গ"
+                },
+                {
+                  "text": "100",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "গ",
+              "shortSolution": "সঠিক উত্তর: গ। প্রথম স্থানে n এবং দ্বিতীয় স্থানে n-1 পছন্দ।",
+              "chapter": "05",
+              "topic": "সংখ্যা গঠন",
+              "difficulty": "Medium",
+              "probability": "Board Favourite"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-05-set-05-q10",
+              "question": "Combination-এ order কি গুরুত্বপূর্ণ? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 05-10 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+              "options": [
+                {
+                  "text": "হ্যাঁ",
+                  "label": "ক"
+                },
+                {
+                  "text": "শুধু 2টি বস্তু হলে",
+                  "label": "খ"
+                },
+                {
+                  "text": "সবসময়",
+                  "label": "গ"
+                },
+                {
+                  "text": "না",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "ঘ",
+              "shortSolution": "সঠিক উত্তর: ঘ। সমাবেশে নির্বাচন গুরুত্বপূর্ণ, বিন্যাস নয়।",
+              "chapter": "05",
+              "topic": "সমাবেশের ধারণা",
+              "difficulty": "Medium",
+              "probability": "Conceptual Trap"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-05-set-05-q11",
+              "question": "$7P_2$ এর মান কত? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 05-11 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+              "options": [
+                {
+                  "text": "49",
+                  "label": "ক"
+                },
+                {
+                  "text": "42",
+                  "label": "খ"
+                },
+                {
+                  "text": "21",
+                  "label": "গ"
+                },
+                {
+                  "text": "9",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "খ",
+              "shortSolution": "সঠিক উত্তর: খ। $nP_r=n!/(n-r)!$।",
+              "chapter": "05",
+              "topic": "বিন্যাস",
+              "difficulty": "Medium",
+              "probability": "Mega Hot"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-05-set-05-q12",
+              "question": "$8C_2$ এর মান কত? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 05-12 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+              "options": [
+                {
+                  "text": "29",
+                  "label": "ক"
+                },
+                {
+                  "text": "56",
+                  "label": "খ"
+                },
+                {
+                  "text": "28",
+                  "label": "গ"
+                },
+                {
+                  "text": "64",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "গ",
+              "shortSolution": "সঠিক উত্তর: গ। $nC_r=n!/[r!(n-r)!]$।",
+              "chapter": "05",
+              "topic": "সমাবেশ",
+              "difficulty": "Medium",
+              "probability": "Very Hot"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-05-set-05-q13",
+              "question": "$9C_0$ এর মান কত? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 05-13 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+              "options": [
+                {
+                  "text": "0",
+                  "label": "ক"
+                },
+                {
+                  "text": "1",
+                  "label": "খ"
+                },
+                {
+                  "text": "9",
+                  "label": "গ"
+                },
+                {
+                  "text": "9!",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "খ",
+              "shortSolution": "সঠিক উত্তর: খ। $nC_0=1$।",
+              "chapter": "05",
+              "topic": "সমাবেশের মৌলিক মান",
+              "difficulty": "Medium",
+              "probability": "Board Favourite"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-05-set-05-q14",
+              "question": "10টি ভিন্ন বস্তু এক সারিতে সাজানো যায় কতভাবে? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 05-14 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+              "options": [
+                {
+                  "text": "100",
+                  "label": "ক"
+                },
+                {
+                  "text": "3628800",
+                  "label": "খ"
+                },
+                {
+                  "text": "45",
+                  "label": "গ"
+                },
+                {
+                  "text": "10",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "খ",
+              "shortSolution": "সঠিক উত্তর: খ। $n$টি ভিন্ন বস্তুর arrangement $n!$।",
+              "chapter": "05",
+              "topic": "বস্তুর বিন্যাস",
+              "difficulty": "Medium",
+              "probability": "Conceptual Trap"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-05-set-05-q15",
+              "question": "6 জন থেকে 3 জনের কমিটি কতভাবে গঠন করা যায়? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 05-15 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+              "options": [
+                {
+                  "text": "120",
+                  "label": "ক"
+                },
+                {
+                  "text": "18",
+                  "label": "খ"
+                },
+                {
+                  "text": "21",
+                  "label": "গ"
+                },
+                {
+                  "text": "20",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "ঘ",
+              "shortSolution": "সঠিক উত্তর: ঘ। কমিটিতে order গুরুত্বপূর্ণ নয়।",
+              "chapter": "05",
+              "topic": "কমিটি গঠন",
+              "difficulty": "Hard",
+              "probability": "Mega Hot"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-05-set-05-q16",
+              "question": "$nP_r$ ও $nC_r$ এর সম্পর্ক কোনটি? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 05-16 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+              "options": [
+                {
+                  "text": "$nP_r=nC_r$",
+                  "label": "ক"
+                },
+                {
+                  "text": "$nP_r=r!\\,nC_r$",
+                  "label": "খ"
+                },
+                {
+                  "text": "$nP_r+nC_r=1$",
+                  "label": "গ"
+                },
+                {
+                  "text": "$nC_r=r!\\,nP_r$",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "খ",
+              "shortSolution": "সঠিক উত্তর: খ। বিন্যাসে নির্বাচিত r বস্তুর arrange করার factor $r!$।",
+              "chapter": "05",
+              "topic": "বিন্যাস-সমাবেশ সম্পর্ক",
+              "difficulty": "Hard",
+              "probability": "Very Hot"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-05-set-05-q17",
+              "question": "$nC_r$ এর symmetry property কোনটি? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 05-17 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+              "options": [
+                {
+                  "text": "$nC_r=rC_n$",
+                  "label": "ক"
+                },
+                {
+                  "text": "$nC_r=nP_r$",
+                  "label": "খ"
+                },
+                {
+                  "text": "$nC_r=nC_{n-r}$",
+                  "label": "গ"
+                },
+                {
+                  "text": "$nC_r=0$",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "গ",
+              "shortSolution": "সঠিক উত্তর: গ। Combination-এর মৌলিক ধর্ম।",
+              "chapter": "05",
+              "topic": "সমাবেশের ধর্ম",
+              "difficulty": "Hard",
+              "probability": "Board Favourite"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-05-set-05-q18",
+              "question": "9টি উপাদানবিশিষ্ট সেটের subset সংখ্যা কত? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 05-18 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+              "options": [
+                {
+                  "text": "512",
+                  "label": "ক"
+                },
+                {
+                  "text": "81",
+                  "label": "খ"
+                },
+                {
+                  "text": "18",
+                  "label": "গ"
+                },
+                {
+                  "text": "362880",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "ক",
+              "shortSolution": "সঠিক উত্তর: ক। $n$ element set-এর subset সংখ্যা $2^n$।",
+              "chapter": "05",
+              "topic": "Subset count",
+              "difficulty": "Hard",
+              "probability": "Conceptual Trap"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-05-set-05-q19",
+              "question": "10টি ভিন্ন অঙ্ক দিয়ে repetition ছাড়া 2 অঙ্কের সংখ্যা কতটি? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 05-19 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+              "options": [
+                {
+                  "text": "45",
+                  "label": "ক"
+                },
+                {
+                  "text": "11",
+                  "label": "খ"
+                },
+                {
+                  "text": "90",
+                  "label": "গ"
+                },
+                {
+                  "text": "100",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "গ",
+              "shortSolution": "সঠিক উত্তর: গ। প্রথম স্থানে n এবং দ্বিতীয় স্থানে n-1 পছন্দ।",
+              "chapter": "05",
+              "topic": "সংখ্যা গঠন",
+              "difficulty": "Hard",
+              "probability": "Mega Hot"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-05-set-05-q20",
+              "question": "Combination-এ order কি গুরুত্বপূর্ণ? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 05-20 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+              "options": [
+                {
+                  "text": "হ্যাঁ",
+                  "label": "ক"
+                },
+                {
+                  "text": "না",
+                  "label": "খ"
+                },
+                {
+                  "text": "শুধু 2টি বস্তু হলে",
+                  "label": "গ"
+                },
+                {
+                  "text": "সবসময়",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "খ",
+              "shortSolution": "সঠিক উত্তর: খ। সমাবেশে নির্বাচন গুরুত্বপূর্ণ, বিন্যাস নয়।",
+              "chapter": "05",
+              "topic": "সমাবেশের ধারণা",
+              "difficulty": "Hard",
+              "probability": "Very Hot"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-05-set-05-q21",
+              "question": "$7P_2$ এর মান কত? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 05-21 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+              "options": [
+                {
+                  "text": "9",
+                  "label": "ক"
+                },
+                {
+                  "text": "49",
+                  "label": "খ"
+                },
+                {
+                  "text": "21",
+                  "label": "গ"
+                },
+                {
+                  "text": "42",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "ঘ",
+              "shortSolution": "সঠিক উত্তর: ঘ। $nP_r=n!/(n-r)!$।",
+              "chapter": "05",
+              "topic": "বিন্যাস",
+              "difficulty": "Hard",
+              "probability": "Board Favourite"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-05-set-05-q22",
+              "question": "$8C_2$ এর মান কত? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 05-22 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+              "options": [
+                {
+                  "text": "28",
+                  "label": "ক"
+                },
+                {
+                  "text": "29",
+                  "label": "খ"
+                },
+                {
+                  "text": "56",
+                  "label": "গ"
+                },
+                {
+                  "text": "64",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "ক",
+              "shortSolution": "সঠিক উত্তর: ক। $nC_r=n!/[r!(n-r)!]$।",
+              "chapter": "05",
+              "topic": "সমাবেশ",
+              "difficulty": "Board Standard",
+              "probability": "Conceptual Trap"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-05-set-05-q23",
+              "question": "$9C_0$ এর মান কত? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 05-23 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+              "options": [
+                {
+                  "text": "0",
+                  "label": "ক"
+                },
+                {
+                  "text": "1",
+                  "label": "খ"
+                },
+                {
+                  "text": "9!",
+                  "label": "গ"
+                },
+                {
+                  "text": "9",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "খ",
+              "shortSolution": "সঠিক উত্তর: খ। $nC_0=1$।",
+              "chapter": "05",
+              "topic": "সমাবেশের মৌলিক মান",
+              "difficulty": "Board Standard",
+              "probability": "Mega Hot"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-05-set-05-q24",
+              "question": "10টি ভিন্ন বস্তু এক সারিতে সাজানো যায় কতভাবে? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 05-24 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+              "options": [
+                {
+                  "text": "45",
+                  "label": "ক"
+                },
+                {
+                  "text": "10",
+                  "label": "খ"
+                },
+                {
+                  "text": "3628800",
+                  "label": "গ"
+                },
+                {
+                  "text": "100",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "গ",
+              "shortSolution": "সঠিক উত্তর: গ। $n$টি ভিন্ন বস্তুর arrangement $n!$।",
+              "chapter": "05",
+              "topic": "বস্তুর বিন্যাস",
+              "difficulty": "Board Standard",
+              "probability": "Very Hot"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-05-set-05-q25",
+              "question": "6 জন থেকে 3 জনের কমিটি কতভাবে গঠন করা যায়? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 05-25 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+              "options": [
+                {
+                  "text": "21",
+                  "label": "ক"
+                },
+                {
+                  "text": "18",
+                  "label": "খ"
+                },
+                {
+                  "text": "20",
+                  "label": "গ"
+                },
+                {
+                  "text": "120",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "গ",
+              "shortSolution": "সঠিক উত্তর: গ। কমিটিতে order গুরুত্বপূর্ণ নয়।",
+              "chapter": "05",
+              "topic": "কমিটি গঠন",
+              "difficulty": "Board Standard",
+              "probability": "Board Favourite"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

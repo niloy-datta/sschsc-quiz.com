@@ -1,352 +1,377 @@
 [
   {
-    "id": "ssc-physics-ch13-set02-q01",
+    "id": "ssc-physics-chapter-13-model-test-02-q01",
     "subject": "physics",
     "chapter": "ssc-physics-chapter-13-model-test-02",
-    "text": "১০. কোন যন্ত্রের সাহায্যে A.C কে উ.C করা যায়?",
+    "text": "p-n junction diode-এর কাজ—",
     "options": [
-      "ট্রানজিস্টর",
-      "অর্ধপরিবাহী",
-      "ট্রান্সফর্মার",
-      "ডায়োড"
+      "rectification",
+      "amplification",
+      "oscillation",
+      "modulation"
     ],
     "image": null,
+    "optionImages": null,
     "timeLimit": 45
   },
   {
-    "id": "ssc-physics-ch13-set02-q02",
+    "id": "ssc-physics-chapter-13-model-test-02-q02",
     "subject": "physics",
     "chapter": "ssc-physics-chapter-13-model-test-02",
-    "text": "৪. ইলেকট্রনিক সার্কিটে ট্রানজিস্টর ব্যবহার হয়Ñ র. বিবর্ধক হিসেবে রর. রেকটিফায়ার হিসেবে ররর. msগ্রাহক হিসেবে নিচের কোনটি সঠিক?",
+    "text": "IC (Integrated Circuit) তৈরিতে ব্যবহৃত উপাদান—",
     "options": [
-      "র ও রর",
-      "র ও ররর",
-      "রর ও ররর",
-      "র, রর ও ররর"
+      "Silicon",
+      "Iron",
+      "Copper wire only",
+      "Glass"
     ],
     "image": null,
+    "optionImages": null,
     "timeLimit": 45
   },
   {
-    "id": "ssc-physics-ch13-set02-q03",
+    "id": "ssc-physics-chapter-13-model-test-02-q03",
     "subject": "physics",
     "chapter": "ssc-physics-chapter-13-model-test-02",
-    "text": "npn ট্রানজিস্টরের যে অংশে কারেন্ট প্রবেশ করে তার নাম কী?",
+    "text": "AM বেতার ব্যান্ড 616 kHz কোন পরিসরে পড়ে?",
     "options": [
-      "বেস",
-      "ইনপুট",
-      "এমিটার",
-      "কালেক্টর"
+      "616 Hz",
+      "616 MHz",
+      "616 kHz",
+      "61.6 kHz"
     ],
     "image": null,
+    "optionImages": null,
     "timeLimit": 45
   },
   {
-    "id": "ssc-physics-ch13-set02-q04",
+    "id": "ssc-physics-chapter-13-model-test-02-q04",
     "subject": "physics",
     "chapter": "ssc-physics-chapter-13-model-test-02",
-    "text": "নিচের কোন প্রতীকটি n-p-n ট্রানজিস্টরকে নির্দেশ করে?",
+    "text": "অ্যাম্প্লিফায়ারে সিগন্যাল—",
     "options": [
-      "চিত্র ক",
-      "চিত্র খ",
-      "চিত্র গ",
-      "চিত্র ঘ"
+      "বৃদ্ধি পায়",
+      "হ্রাস পায়",
+      "স্থির থাকে",
+      "বিপরীত হয়"
     ],
     "image": null,
+    "optionImages": null,
     "timeLimit": 45
   },
   {
-    "id": "ssc-physics-ch13-set02-q05",
+    "id": "ssc-physics-chapter-13-model-test-02-q05",
     "subject": "physics",
     "chapter": "ssc-physics-chapter-13-model-test-02",
-    "text": "একটি পরিবাহীর রোধ 6 Ω এবং দুই প্রান্তের বিভব পার্থক্য 29 V হলে এর তড়িৎ প্রবাহ কত?",
+    "text": "X-ray তৈরিতে ব্যবহৃত হয়—",
     "options": [
-      "174 A",
-      "0.21 A",
-      "{(v+r)} A",
-      "4.8 A"
+      "coolidge tube",
+      "Geiger counter",
+      "cyclotron",
+      "cloud chamber"
     ],
     "image": null,
+    "optionImages": null,
     "timeLimit": 45
   },
   {
-    "id": "ssc-physics-ch13-set02-q06",
+    "id": "ssc-physics-chapter-13-model-test-02-q06",
     "subject": "physics",
     "chapter": "ssc-physics-chapter-13-model-test-02",
-    "text": "একটি পরিবাহীর রোধ 3 Ω এবং দুই প্রান্তের বিভব পার্থক্য 16 V হলে এর তড়িৎ প্রবাহ কত?",
+    "text": "সেমিকন্ডাক্টর ডোপিংয়ে n-type তৈরিতে যোগ হয়—",
     "options": [
-      "5.3 A",
-      "48 A",
-      "0.19 A",
-      "{(v+r)} A"
+      "Pentavalent",
+      "Trivalent",
+      "Monovalent",
+      "Noble gas"
     ],
     "image": null,
+    "optionImages": null,
     "timeLimit": 45
   },
   {
-    "id": "ssc-physics-ch13-set02-q07",
+    "id": "ssc-physics-chapter-13-model-test-02-q07",
     "subject": "physics",
     "chapter": "ssc-physics-chapter-13-model-test-02",
-    "text": "একটি পরিবাহীর রোধ 10 Ω এবং দুই প্রান্তের বিভব পার্থক্য 12 V হলে এর তড়িৎ প্রবাহ কত?",
+    "text": "ক্যাথোড রে থিউবে ক্যাথোড রশ্মি—",
     "options": [
-      "120 A",
-      "0.83 A",
-      "{(v+r)} A",
-      "1.2 A"
+      "electron",
+      "proton",
+      "neutron",
+      "alpha"
     ],
     "image": null,
+    "optionImages": null,
     "timeLimit": 45
   },
   {
-    "id": "ssc-physics-ch13-set02-q08",
+    "id": "ssc-physics-chapter-13-model-test-02-q08",
     "subject": "physics",
     "chapter": "ssc-physics-chapter-13-model-test-02",
-    "text": "একটি পরিবাহীর রোধ 4 Ω এবং দুই প্রান্তের বিভব পার্থক্য 24 V হলে এর তড়িৎ প্রবাহ কত?",
+    "text": "e/m অনুপাত আবিষ্কার করেন—",
     "options": [
-      "96 A",
-      "6.0 A",
-      "0.17 A",
-      "{(v+r)} A"
+      "থমসন",
+      "রাদারফোর্ড",
+      "বোর",
+      "চাদউইক"
     ],
     "image": null,
+    "optionImages": null,
     "timeLimit": 45
   },
   {
-    "id": "ssc-physics-ch13-set02-q09",
+    "id": "ssc-physics-chapter-13-model-test-02-q09",
     "subject": "physics",
     "chapter": "ssc-physics-chapter-13-model-test-02",
-    "text": "একটি পরিবাহীর রোধ 2 Ω এবং দুই প্রান্তের বিভব পার্থক্য 15 V হলে এর তড়িৎ প্রবাহ কত?",
+    "text": "লজিক গেট AND-এর সত্য তালিকায় (1,1) হলে আউটপুট—",
     "options": [
-      "0.13 A",
-      "30 A",
-      "{(v+r)} A",
-      "7.5 A"
+      "1",
+      "0",
+      "undefined",
+      "high-Z"
     ],
     "image": null,
+    "optionImages": null,
     "timeLimit": 45
   },
   {
-    "id": "ssc-physics-ch13-set02-q10",
+    "id": "ssc-physics-chapter-13-model-test-02-q10",
     "subject": "physics",
     "chapter": "ssc-physics-chapter-13-model-test-02",
-    "text": "একটি পরিবাহীর রোধ 8 Ω এবং দুই প্রান্তের বিভব পার্থক্য 13 V হলে এর তড়িৎ প্রবাহ কত?",
+    "text": "ট্রানজিস্টর কোন ধরনের যন্ত্র?",
     "options": [
-      "104 A",
-      "{(v+r)} A",
-      "1.6 A",
-      "0.62 A"
+      "সেমিকন্ডাক্টর",
+      "ভ্যাকিউম টিউব",
+      "গ্যাস টিউব",
+      "ধাতব"
     ],
     "image": null,
+    "optionImages": null,
     "timeLimit": 45
   },
   {
-    "id": "ssc-physics-ch13-set02-q11",
+    "id": "ssc-physics-chapter-13-model-test-02-q11",
     "subject": "physics",
     "chapter": "ssc-physics-chapter-13-model-test-02",
-    "text": "একটি পরিবাহীর রোধ 2 Ω এবং দুই প্রান্তের বিভব পার্থক্য 10 V হলে এর তড়িৎ প্রবাহ কত?",
+    "text": "ফটোইলেকট্রিক ক্রিয়ায় কোন কণা নির্গত হয়?",
     "options": [
-      "5.0 A",
-      "{(v+r)} A",
-      "20 A",
-      "0.20 A"
+      "ইলেকট্রন",
+      "প্রোটন",
+      "নিউট্রন",
+      "ফোটন"
     ],
     "image": null,
+    "optionImages": null,
     "timeLimit": 45
   },
   {
-    "id": "ssc-physics-ch13-set02-q12",
+    "id": "ssc-physics-chapter-13-model-test-02-q12",
     "subject": "physics",
     "chapter": "ssc-physics-chapter-13-model-test-02",
-    "text": "একটি পরিবাহীর রোধ 2 Ω এবং দুই প্রান্তের বিভব পার্থক্য 30 V হলে এর তড়িৎ প্রবাহ কত?",
+    "text": "Zener diode breakdown voltage 2 V হলে স্থিতিশীল বিভব—",
     "options": [
-      "60 A",
-      "0.07 A",
-      "{(v+r)} A",
-      "15.0 A"
+      "4",
+      "4",
+      "1",
+      "2"
     ],
     "image": null,
+    "optionImages": null,
     "timeLimit": 45
   },
   {
-    "id": "ssc-physics-ch13-set02-q13",
+    "id": "ssc-physics-chapter-13-model-test-02-q13",
     "subject": "physics",
     "chapter": "ssc-physics-chapter-13-model-test-02",
-    "text": "একটি পরিবাহীর রোধ 7 Ω এবং দুই প্রান্তের বিভব পার্থক্য 23 V হলে এর তড়িৎ প্রবাহ কত?",
+    "text": "রেডিও সক্রিয় যন্ত্রে তরঙ্গ নির্বাচন করে—",
     "options": [
-      "3.3 A",
-      "0.30 A",
-      "161 A",
-      "{(v+r)} A"
+      "tuning circuit",
+      "rectifier",
+      "transformer",
+      "fuse"
     ],
     "image": null,
+    "optionImages": null,
     "timeLimit": 45
   },
   {
-    "id": "ssc-physics-ch13-set02-q14",
+    "id": "ssc-physics-chapter-13-model-test-02-q14",
     "subject": "physics",
     "chapter": "ssc-physics-chapter-13-model-test-02",
-    "text": "একটি পরিবাহীর রোধ 6 Ω এবং দুই প্রান্তের বিভব পার্থক্য 14 V হলে এর তড়িৎ প্রবাহ কত?",
+    "text": "LED-এ আলো উৎপাদনের মূল কারণ—",
     "options": [
-      "84 A",
-      "0.43 A",
-      "{(v+r)} A",
-      "2.3 A"
+      "recombination",
+      "reflection",
+      "refraction",
+      "polarization"
     ],
     "image": null,
+    "optionImages": null,
     "timeLimit": 45
   },
   {
-    "id": "ssc-physics-ch13-set02-q15",
+    "id": "ssc-physics-chapter-13-model-test-02-q15",
     "subject": "physics",
     "chapter": "ssc-physics-chapter-13-model-test-02",
-    "text": "একটি পরিবাহীর রোধ 6 Ω এবং দুই প্রান্তের বিভব পার্থক্য 12 V হলে এর তড়িৎ প্রবাহ কত?",
+    "text": "5-bit binary-তে সর্বোচ্চ দশমিক মান—",
     "options": [
-      "0.50 A",
-      "72 A",
-      "{(v+r)} A",
-      "2.0 A"
+      "32",
+      "31",
+      "25",
+      "5"
     ],
     "image": null,
+    "optionImages": null,
     "timeLimit": 45
   },
   {
-    "id": "ssc-physics-ch13-set02-q16",
+    "id": "ssc-physics-chapter-13-model-test-02-q16",
     "subject": "physics",
     "chapter": "ssc-physics-chapter-13-model-test-02",
-    "text": "একটি পরিবাহীর রোধ 4 Ω এবং দুই প্রান্তের বিভব পার্থক্য 23 V হলে এর তড়িৎ প্রবাহ কত?",
+    "text": "নিউক্লিয়াসে প্রোটনের সংখ্যাকে বলে—",
     "options": [
-      "5.8 A",
-      "{(v+r)} A",
-      "92 A",
-      "0.17 A"
+      "atomic number",
+      "mass number",
+      "quantum number",
+      "Avogadro number"
     ],
     "image": null,
+    "optionImages": null,
     "timeLimit": 45
   },
   {
-    "id": "ssc-physics-ch13-set02-q17",
+    "id": "ssc-physics-chapter-13-model-test-02-q17",
     "subject": "physics",
     "chapter": "ssc-physics-chapter-13-model-test-02",
-    "text": "একটি পরিবাহীর রোধ 2 Ω এবং দুই প্রান্তের বিভব পার্থক্য 21 V হলে এর তড়িৎ প্রবাহ কত?",
+    "text": "Zener diode breakdown voltage 9 V হলে স্থিতিশীল বিভব—",
     "options": [
-      "10.5 A",
-      "{(v+r)} A",
-      "0.10 A",
-      "42 A"
+      "9",
+      "11",
+      "18",
+      "8"
     ],
     "image": null,
+    "optionImages": null,
     "timeLimit": 45
   },
   {
-    "id": "ssc-physics-ch13-set02-q18",
+    "id": "ssc-physics-chapter-13-model-test-02-q18",
     "subject": "physics",
     "chapter": "ssc-physics-chapter-13-model-test-02",
-    "text": "একটি পরিবাহীর রোধ 7 Ω এবং দুই প্রান্তের বিভব পার্থক্য 28 V হলে এর তড়িৎ প্রবাহ কত?",
+    "text": "AM বেতার ব্যান্ড 540 kHz কোন পরিসরে পড়ে?",
     "options": [
-      "196 A",
-      "4.0 A",
-      "{(v+r)} A",
-      "0.25 A"
+      "540 kHz",
+      "540 MHz",
+      "54 kHz",
+      "540 Hz"
     ],
     "image": null,
+    "optionImages": null,
     "timeLimit": 45
   },
   {
-    "id": "ssc-physics-ch13-set02-q19",
+    "id": "ssc-physics-chapter-13-model-test-02-q19",
     "subject": "physics",
     "chapter": "ssc-physics-chapter-13-model-test-02",
-    "text": "চোখ দূরের বস্তু দেখতে পায় না কারণ— i. চক্ষু লেন্সের অভিসারী ক্ষমতা বৃদ্ধি পেলে ii. অক্ষি গোলকের ব্যাসার্ধ বৃদ্ধি পেলে iii. চক্ষু লেন্সের ফোকাস দূরত্ব বৃদ্ধি পেলে নিচের কোনটি সঠিক?",
+    "text": "Zener diode breakdown voltage 4 V হলে স্থিতিশীল বিভব—",
     "options": [
-      "i ও ii",
-      "ii ও iii",
-      "i ও iii",
-      "i, ii ও iii"
+      "3",
+      "8",
+      "6",
+      "4"
     ],
     "image": null,
+    "optionImages": null,
     "timeLimit": 45
   },
   {
-    "id": "ssc-physics-ch13-set02-q20",
+    "id": "ssc-physics-chapter-13-model-test-02-q20",
     "subject": "physics",
     "chapter": "ssc-physics-chapter-13-model-test-02",
-    "text": "একটি গাড়ির বেগ $12\\text{ ms}^{-1}$। গাড়িতে $2.5\\text{ ms}^{-2}$ মন্দন সৃষ্টি করা হলে $4\\text{ s}$ পর গাড়ির বেগ কত হবে? শেষবেগ $v = u - at = 12 - (2.5 \\times 4) = 12 - 10 = 2\\text{ ms}^{-1}$।",
+    "text": "AM বেতার ব্যান্ড 163 kHz কোন পরিসরে পড়ে?",
     "options": [
-      "$2\\text{ ms}^{-1}$",
-      "$22\\text{ ms}^{-1}$",
-      "$45.5\\text{ ms}^{-1}$",
-      "$50.5\\text{ ms}^{-1}$"
+      "163 Hz",
+      "16.3 kHz",
+      "163 MHz",
+      "163 kHz"
     ],
     "image": null,
+    "optionImages": null,
     "timeLimit": 45
   },
   {
-    "id": "ssc-physics-ch13-set02-q21",
+    "id": "ssc-physics-chapter-13-model-test-02-q21",
     "subject": "physics",
     "chapter": "ssc-physics-chapter-13-model-test-02",
-    "text": "উচ্চ ধাপী ট্রান্সফরমারের ক্ষেত্রে— i. $V_s > V_p$ ii. $n_p > n_s$ iii. $I_p > I_s$ নিচের কোনটি সঠিক?",
+    "text": "Zener diode breakdown voltage 10 V হলে স্থিতিশীল বিভব—",
     "options": [
-      "i",
-      "ii",
-      "i ও iii",
-      "ii ও iii"
+      "12",
+      "20",
+      "10",
+      "9"
     ],
     "image": null,
+    "optionImages": null,
     "timeLimit": 45
   },
   {
-    "id": "ssc-physics-ch13-set02-q22",
+    "id": "ssc-physics-chapter-13-model-test-02-q22",
     "subject": "physics",
     "chapter": "ssc-physics-chapter-13-model-test-02",
-    "text": "শব্দের ক্ষেত্রে— i. তাপমাত্রা বাড়লে বায়ুতে শব্দের বেগ হ্রাস পায় ii. বিস্তার দ্বিগুণ করলে তীব্রতা চারগুণ হবে iii. বাতাসের ঘনত্ব কমলে শব্দের বেগ বৃদ্ধি পাবে নিচের কোনটি সঠিক? ii. শব্দের তীব্রতা বিস্তারের বর্গের সমানুপাতিক ($I \\propto A^2$), তাই বিস্তার দ্বিগুণ করলে তীব্রতা চারগুণ হবে। iii. শব্দের বেগ ঘনত্বের ব্যস্তানুপাতিক ($v \\propto \\frac{1}{\\sqrt{\\rho}}$), তাই বাতাসের ঘনত্ব কমলে শব্দের বেগ বৃদ্ধি পাবে।",
+    "text": "AM বেতার ব্যান্ড 586 kHz কোন পরিসরে পড়ে?",
     "options": [
-      "i",
-      "ii",
-      "i ও iii",
-      "ii ও iii"
+      "586 MHz",
+      "586 Hz",
+      "586 kHz",
+      "58.6 kHz"
     ],
     "image": null,
+    "optionImages": null,
     "timeLimit": 45
   },
   {
-    "id": "ssc-physics-ch13-set02-q23",
+    "id": "ssc-physics-chapter-13-model-test-02-q23",
     "subject": "physics",
     "chapter": "ssc-physics-chapter-13-model-test-02",
-    "text": "উদ্দীপক: চিত্রে $AB = 200\\text{ cm}$, $MN = NH = 0.5\\text{ m}$ এবং তরঙ্গটি A থেকে D তে যেতে সময় লাগে $0.025\\text{ s}$। তরঙ্গটির কম্পাঙ্ক কত হার্জ? A থেকে D পর্যন্ত তরঙ্গটি মোট ২টি পূর্ণ তরঙ্গ সম্পন্ন করে। ২টি কম্পন সম্পন্ন করতে প্রয়োজনীয় সময় $t = 0.025\\text{ s}$। তাহলে পর্যায়কাল $T = \\frac{0.025}{2} = 0.0125\\text{ s}$। কম্পাঙ্ক $f = \\frac{1}{T} = \\frac{1}{0.0125} = 80\\text{ Hz}$।",
+    "text": "6-bit binary-তে সর্বোচ্চ দশমিক মান—",
     "options": [
-      "$40$",
-      "$80$",
-      "$160$",
-      "$240$"
+      "64",
+      "6",
+      "63",
+      "36"
     ],
     "image": null,
+    "optionImages": null,
     "timeLimit": 45
   },
   {
-    "id": "ssc-physics-ch13-set02-q24",
+    "id": "ssc-physics-chapter-13-model-test-02-q24",
     "subject": "physics",
     "chapter": "ssc-physics-chapter-13-model-test-02",
-    "text": "উদ্দীপক: চিত্রে $AB = 200\\text{ cm}$, $MN = NH = 0.5\\text{ m}$ এবং তরঙ্গটি A থেকে D তে যেতে সময় লাগে $0.025\\text{ s}$। তরঙ্গটির— i. E ও H তে দশা একই ii. বিস্তার $1\\text{ m}$ iii. বেগ $160\\text{ ms}^{-1}$ নিচের কোনটি সঠিক? ii. তরঙ্গের বিস্তার $A = NH = 0.5\\text{ m}$। তাই এটি ভুল। iii. তরঙ্গ বেগ $v = f\\lambda = 80\\text{ Hz} \\times 2\\text{ m} = 160\\text{ ms}^{-1}$। তাই এটি সঠিক।",
+    "text": "AM বেতার ব্যান্ড 209 kHz কোন পরিসরে পড়ে?",
     "options": [
-      "i",
-      "ii",
-      "iii",
-      "ii ও iii"
+      "209 kHz",
+      "20.9 kHz",
+      "209 Hz",
+      "209 MHz"
     ],
     "image": null,
+    "optionImages": null,
     "timeLimit": 45
   },
   {
-    "id": "ssc-physics-ch13-set02-q25",
+    "id": "ssc-physics-chapter-13-model-test-02-q25",
     "subject": "physics",
     "chapter": "ssc-physics-chapter-13-model-test-02",
-    "text": "চলন্ত গাড়ির চাকার গতি— i. ঘূর্ণন গতি ii. পর্যায় বৃত্ত গতি iii. স্পন্দন গতি নিচের কোনটি সঠিক?",
+    "text": "4-bit binary-তে সর্বোচ্চ দশমিক মান—",
     "options": [
-      "i",
-      "i ও ii",
-      "ii ও iii",
-      "i, ii ও iii"
+      "15",
+      "16",
+      "4",
+      "16"
     ],
     "image": null,
+    "optionImages": null,
     "timeLimit": 45
   }
 ]

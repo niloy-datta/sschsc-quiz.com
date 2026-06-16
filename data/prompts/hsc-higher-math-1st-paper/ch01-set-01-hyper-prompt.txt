@@ -1,0 +1,31 @@
+# MICRO HYPER PROMPT — Ch 01 Set 01 ONLY (25 MCQ)
+# Chapter: ম্যাট্রিক্স ও নির্ণায়ক
+# Paste AFTER 00-MASTER-HYPER-PROMPT.txt
+# Save output: data/imports/hsc-higher-math-1st-paper-chapter-01-set-01.json
+
+## TASK
+Generate **ONLY Set 01** for Chapter 01: ম্যাট্রিক্স ও নির্ণায়ক.
+Exactly **25 unique MCQ**. Set ID: hsc-higher-math-1st-paper-chapter-01-set-01
+
+## SET FOCUS
+Fundamentals + easy-medium board classics
+
+## MEGA HOT SUBTOPICS
+Order, types, addition, multiplication, transpose, symmetric/skew, determinant 2x2/3x3, minors, cofactors, adjoint, inverse A^{-1}=adj(A)/|A|, singular/non-singular, Cramer rule, matrix equation AX=B
+
+## JSON (single-set wrapper)
+{
+  "level": "HSC",
+  "subject": "higher-math-1st-paper",
+  "chapterWise": [{
+    "chapter": "01",
+    "chapterName": "ম্যাট্রিক্স ও নির্ণায়ক",
+    "sets": [{
+      "id": "hsc-higher-math-1st-paper-chapter-01-set-01",
+      "title": "Chapter 01 Hyper Mega Hot Set 01",
+      "questions": [ /* exactly 25 */ ]
+    }]
+  }]
+}
+
+Output JSON only.

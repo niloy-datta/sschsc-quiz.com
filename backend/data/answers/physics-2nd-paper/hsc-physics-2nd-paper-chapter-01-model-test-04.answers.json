@@ -1,177 +1,102 @@
 {
-  "hsc-physics_2ndpaper-chapter-01-set-04-q01": {
-    "answer": "400 J",
-    "answerIndex": 1,
-    "difficulty": 1200,
-    "explanation": "K = Q₂/W ⇒ W = Q₂/K = 1000/2.5 = 400 J — বোর্ড/মডেল/অধ্যায়ভিত্তিক সোর্স প্যাটার্ন থেকে নেওয়া high-priority MCQ।",
-    "topic": "তাপগতিবিদ্যা"
+  "hsc-physics-2nd-paper-chapter-01-model-test-04-q01": {
+    "correctOption": "পানির ত্রৈধ বিন্দুর তাপমাত্রার $\\frac{1}{273.16}$ অংশ",
+    "explanation": "সঠিক উত্তর: খ। কেলভিনের আন্তর্জাতিক সংজ্ঞা অনুযায়ী, পানির ত্রৈধ বিন্দুর (Triple point) তাপমাত্রার $\\frac{1}{273.16}$ ভাগকে $1 \\text{ Kelvin}$ ($1 \\text{ K}$) বলা হয়।"
   },
-  "hsc-physics_2ndpaper-chapter-01-set-04-q02": {
-    "answer": "আয়তন",
-    "answerIndex": 0,
-    "difficulty": 1200,
-    "explanation": "গোলকের পরিধি এবং কেন্দ্রের তথ্য আয়তন নির্ধারণের সাথে সম্পর্কিত। — বোর্ড/মডেল/অধ্যায়ভিত্তিক সোর্স প্যাটার্ন থেকে নেওয়া high-priority MCQ।",
-    "topic": "তাপগতিবিদ্যা"
+  "hsc-physics-2nd-paper-chapter-01-model-test-04-q02": {
+    "correctOption": "তৃতীয় সূত্র",
+    "explanation": "সঠিক উত্তর: ঘ। বিজ্ঞানী নার্নস্ট (Nernst) প্রস্তাব করেন যে, কোনো সসীম সংখ্যক প্রক্রিয়ার মাধ্যমে কোনো সিস্টেমের তাপমাত্রাকে পরম শূন্যে নামিয়ে আনা অসম্ভব। এটি তাপগতিবিদ্যার তৃতীয় সূত্র নামে পরিচিত।"
   },
-  "hsc-physics_2ndpaper-chapter-01-set-04-q03": {
-    "answer": "তাপীয় প্রক্রিয়া",
-    "answerIndex": 1,
-    "difficulty": 1200,
-    "explanation": "প্রদত্ত বিবরণ অনুযায়ী এটি একটি তাপীয় প্রক্রিয়া হিসেবে ধরা হয়েছে। — বোর্ড/মডেল/অধ্যায়ভিত্তিক সোর্স প্যাটার্ন থেকে নেওয়া high-priority MCQ।",
-    "topic": "তাপগতিবিদ্যা"
+  "hsc-physics-2nd-paper-chapter-01-model-test-04-q03": {
+    "correctOption": "কৃত কাজ",
+    "explanation": "সঠিক উত্তর: গ। অভ্যন্তরীণ শক্তি, এনট্রপি ও তাপমাত্রা কেবল সিস্টেমের প্রাথমিক ও চূড়ান্ত অবস্থার ওপর নির্ভর করে। কিন্তু কৃত কাজ ($W$) এবং শোষিত/বর্জিত তাপ ($Q$) সিস্টেমটি কোন পথে পরিবর্তিত হলো তার ওপর নির্ভর করে, তাই এরা Path function।"
   },
-  "hsc-physics_2ndpaper-chapter-01-set-04-q04": {
-    "answer": "সমচতুর্ভুজ",
-    "answerIndex": 1,
-    "difficulty": 1200,
-    "explanation": "টেন ও প্রক্ষেপণের সম্মিলিত প্রয়োগ সমচতুর্ভুজ আকৃতি তৈরি করতে পারে। — বোর্ড/মডেল/অধ্যায়ভিত্তিক সোর্স প্যাটার্ন থেকে নেওয়া high-priority MCQ।",
-    "topic": "তাপগতিবিদ্যা"
+  "hsc-physics-2nd-paper-chapter-01-model-test-04-q04": {
+    "correctOption": "গ্যাসের চাপ",
+    "explanation": "সঠিক উত্তর: খ। স্থির আয়তন গ্যাস থার্মোমিটারে তাপমাত্রা পরিবর্তনের সাথে সাথে গ্যাসের চাপের পরিবর্তনকে কাজে লাগিয়ে তাপমাত্রা পরিমাপ করা হয়। তাই এখানে গ্যাসের চাপ হলো উষ্ণতামিতিক ধর্ম।"
   },
-  "hsc-physics_2ndpaper-chapter-01-set-04-q05": {
-    "answer": "L2TI",
-    "answerIndex": 2,
-    "difficulty": 1200,
-    "explanation": "তাপীয় শক্তি/শক্তির মাত্রা L^2 M T^-2 হলেও দেওয়া বিকল্পের মধ্যে সবচেয়ে কাছেরটি L2TI। — বোর্ড/মডেল/অধ্যায়ভিত্তিক সোর্স প্যাটার্ন থেকে নেওয়া high-priority MCQ।",
-    "topic": "তাপগতিবিদ্যা"
+  "hsc-physics-2nd-paper-chapter-01-model-test-04-q05": {
+    "correctOption": "রুদ্ধতাপীয় প্রসারণ",
+    "explanation": "সঠিক উত্তর: গ। টায়ার ফাটার প্রক্রিয়াটি অত্যন্ত দ্রুত ঘটে বলে পরিবেশের সাথে তাপ আদান-প্রদানের সময় পায় না (রুদ্ধতাপীয়)। এ সময় সংকুচিত বাতাস প্রসারিত হতে নিজস্ব অভ্যন্তরীণ শক্তি ব্যয় করে, ফলে বাতাসের তাপমাত্রা কমে গিয়ে ঠান্ডা অনুভূত হয়।"
   },
-  "hsc-physics_2ndpaper-chapter-01-set-04-q06": {
-    "answer": "তাপমাত্রা",
-    "answerIndex": 1,
-    "difficulty": 1200,
-    "explanation": "তাপমাত্রা একটি স্কেলার পরিমাণ, তাই এটি অপূর্ব পরিমাণ। — বোর্ড/মডেল/অধ্যায়ভিত্তিক সোর্স প্যাটার্ন থেকে নেওয়া high-priority MCQ।",
-    "topic": "তাপগতিবিদ্যা"
+  "hsc-physics-2nd-paper-chapter-01-model-test-04-q06": {
+    "correctOption": "সমচাপ প্রক্রিয়ায়",
+    "explanation": "সঠিক উত্তর: গ। P-V লেখচিত্রে প্রসারণের ক্ষেত্রে সমচাপ রেখার নিচের ক্ষেত্রফল সবচেয়ে বেশি হয়, তারপর সমউষ্ণ রেখা এবং রুদ্ধতাপীয় রেখার নিচের ক্ষেত্রফল সবচেয়ে কম। তাই সমচাপ প্রক্রিয়ায় কাজ সর্বাধিক।"
   },
-  "hsc-physics_2ndpaper-chapter-01-set-04-q07": {
-    "answer": "\\frac{1}{\\gamma}",
-    "answerIndex": 0,
-    "difficulty": 1200,
-    "explanation": "বোর্ড/মডেল/অধ্যায়ভিত্তিক সোর্স প্যাটার্ন থেকে নেওয়া high-priority MCQ।",
-    "topic": "তাপগতিবিদ্যা"
+  "hsc-physics-2nd-paper-chapter-01-model-test-04-q07": {
+    "correctOption": "প্রতি চক্রে নিট গৃহীত বা বর্জিত তাপ",
+    "explanation": "সঠিক উত্তর: ঘ। T-S চিত্রে আবদ্ধ ক্ষেত্রফল $Q = \\int T \\, dS$ নির্দেশ করে, যা এক চক্রে নিট তাপের পরিমাণ। শক্তির সংরক্ষণশীলতা অনুযায়ী এক পূর্ণ চক্রে এই নিট তাপই ইঞ্জিন দ্বারা সম্পাদিত নিট কাজের সমান হয়।"
   },
-  "hsc-physics_2ndpaper-chapter-01-set-04-q08": {
-    "answer": "-0.2857",
-    "answerIndex": 0,
-    "difficulty": 1200,
-    "explanation": "বোর্ড/মডেল/অধ্যায়ভিত্তিক সোর্স প্যাটার্ন থেকে নেওয়া high-priority MCQ।",
-    "topic": "তাপগতিবিদ্যা"
+  "hsc-physics-2nd-paper-chapter-01-model-test-04-q08": {
+    "correctOption": "i ও iii",
+    "explanation": "সঠিক উত্তর: খ। বদ্ধ সিস্টেম পরিবেশের সাথে শক্তি (তাপ বা কাজ) আদান-প্রদান করতে পারে কিন্তু ভরের কোনো আদান-প্রদান করে না। তাই ii নম্বর বিবৃতিটি ভুল।"
   },
-  "hsc-physics_2ndpaper-chapter-01-set-04-q09": {
-    "answer": "ii ও iii",
-    "answerIndex": 2,
-    "difficulty": 1200,
-    "explanation": "বোর্ড/মডেল/অধ্যায়ভিত্তিক সোর্স প্যাটার্ন থেকে নেওয়া high-priority MCQ।",
-    "topic": "তাপগতিবিদ্যা"
+  "hsc-physics-2nd-paper-chapter-01-model-test-04-q09": {
+    "correctOption": "তাপ শক্তিকে যান্ত্রিক শক্তিতে",
+    "explanation": "সঠিক উত্তর: গ। তাপ ইঞ্জিন এমন একটি যন্ত্র যা কোনো উৎস থেকে তাপ শক্তি গ্রহণ করে তার একটি অংশকে যান্ত্রিক শক্তিতে (কৃত কাজ) রূপান্তরিত করে এবং অবশিষ্টাংশ তাপ গ্রাহকে বর্জন করে।"
   },
-  "hsc-physics_2ndpaper-chapter-01-set-04-q10": {
-    "answer": "ii ও iii",
-    "answerIndex": 2,
-    "difficulty": 1200,
-    "explanation": "বোর্ড/মডেল/অধ্যায়ভিত্তিক সোর্স প্যাটার্ন থেকে নেওয়া high-priority MCQ।",
-    "topic": "তাপগতিবিদ্যা"
+  "hsc-physics-2nd-paper-chapter-01-model-test-04-q10": {
+    "correctOption": "$8.3 \\text{ J mol}^{-1}\\text{K}^{-1}$",
+    "explanation": "সঠিক উত্তর: খ। মেয়ারের সূত্র অনুযায়ী, $C_p - C_v = R$। এখানে $R = 20.8 - 12.5 = 8.3 \\text{ J mol}^{-1}\\text{K}^{-1}$।"
   },
-  "hsc-physics_2ndpaper-chapter-01-set-04-q11": {
-    "answer": "3",
-    "answerIndex": 0,
-    "difficulty": 1200,
-    "explanation": "বোর্ড/মডেল/অধ্যায়ভিত্তিক সোর্স প্যাটার্ন থেকে নেওয়া high-priority MCQ।",
-    "topic": "তাপগতিবিদ্যা"
+  "hsc-physics-2nd-paper-chapter-01-model-test-04-q11": {
+    "correctOption": "রূদ্ধতাপীয় প্রত্যাগামী প্রক্রিয়ায় এনট্রপি সর্বদা বৃদ্ধি পায়",
+    "explanation": "সঠিক উত্তর: গ। রুদ্ধতাপীয় প্রক্রিয়ায় কোনো তাপের আদান-প্রদান হয় না ($\\Delta Q = 0$)। তাই একটি প্রত্যাগামী রুদ্ধতাপীয় প্রক্রিয়ায় এনট্রপির পরিবর্তন $\\Delta S = \\frac{\\Delta Q}{T} = 0$ হয়, অর্থাৎ এনট্রপি স্থির থাকে বা সম-এনট্রপিক হয়।"
   },
-  "hsc-physics_2ndpaper-chapter-01-set-04-q12": {
-    "answer": "উৎস ও গ্রাহকের তাপমাত্রার পার্থক্য বাড়াতে হবে",
-    "answerIndex": 1,
-    "difficulty": 1200,
-    "explanation": "বোর্ড/মডেল/অধ্যায়ভিত্তিক সোর্স প্যাটার্ন থেকে নেওয়া high-priority MCQ।",
-    "topic": "তাপগতিবিদ্যা"
+  "hsc-physics-2nd-paper-chapter-01-model-test-04-q12": {
+    "correctOption": "$\\Delta Q = \\Delta W$",
+    "explanation": "সঠিক উত্তর: গ। একটি পূর্ণ চক্র শেষে সিস্টেম আদি অবস্থায় ফিরে আসায় অভ্যন্তরীণ শক্তির কোনো পরিবর্তন হয় না ($\\Delta U = 0$)। তাপগতিবিদ্যার প্রথম সূত্র $\\Delta Q = \\Delta U + \\Delta W$ তে মানটি বসালে $\\Delta Q = \\Delta W$ পাওয়া যায়।"
   },
-  "hsc-physics_2ndpaper-chapter-01-set-04-q13": {
-    "answer": "উৎস ও গ্রাহকের তাপমাত্রার পার্থক্য বাড়াতে হবে",
-    "answerIndex": 0,
-    "difficulty": 1200,
-    "explanation": "বোর্ড/মডেল/অধ্যায়ভিত্তিক সোর্স প্যাটার্ন থেকে নেওয়া high-priority MCQ।",
-    "topic": "তাপগতিবিদ্যা"
+  "hsc-physics-2nd-paper-chapter-01-model-test-04-q13": {
+    "correctOption": "পদার্থের অবস্থার পরিবর্তনে চাপ ও তাপমাত্রার সম্পর্ক",
+    "explanation": "সঠিক উত্তর: গ। পদার্থের অবস্থার পরিবর্তনের সময় (যেমন- কঠিন থেকে তরল, তরল থেকে বাষ্প) চাপ ও তাপমাত্রার মধ্যে যে সম্পর্ক বিদ্যমান, তা ক্লসিয়াস-ক্লেপেরন সমীকরণ $\\frac{dP}{dT} = \\frac{L}{T(V_2 - V_1)}$ দ্বারা ব্যাখ্যা করা হয়।"
   },
-  "hsc-physics_2ndpaper-chapter-01-set-04-q14": {
-    "answer": "উৎস ও গ্রাহকের তাপমাত্রার পার্থক্য বাড়াতে হবে",
-    "answerIndex": 2,
-    "difficulty": 1200,
-    "explanation": "বোর্ড/মডেল/অধ্যায়ভিত্তিক সোর্স প্যাটার্ন থেকে নেওয়া high-priority MCQ।",
-    "topic": "তাপগতিবিদ্যা"
+  "hsc-physics-2nd-paper-chapter-01-model-test-04-q14": {
+    "correctOption": "i ও ii",
+    "explanation": "সঠিক উত্তর: ক। প্রত্যাগামী প্রক্রিয়া একটি আদর্শ বা তাত্ত্বিক প্রক্রিয়া, এটি স্বতঃস্ফূর্ত প্রাকৃতিক প্রক্রিয়া নয়। প্রাকৃতিকভাবে ঘটা সকল স্বতঃস্ফূর্ত প্রক্রিয়াই অপ্রত্যাগামী। তাই iii ভুল।"
   },
-  "hsc-physics_2ndpaper-chapter-01-set-04-q15": {
-    "answer": "উৎস ও গ্রাহকের তাপমাত্রার পার্থক্য বাড়াতে হবে",
-    "answerIndex": 3,
-    "difficulty": 1200,
-    "explanation": "বোর্ড/মডেল/অধ্যায়ভিত্তিক সোর্স প্যাটার্ন থেকে নেওয়া high-priority MCQ।",
-    "topic": "তাপগতিবিদ্যা"
+  "hsc-physics-2nd-paper-chapter-01-model-test-04-q15": {
+    "correctOption": "$600 \\text{ J}$",
+    "explanation": "সঠিক উত্তর: গ। শক্তির সংরক্ষণশীলতা অনুযায়ী, রেফ্রিজারেটরের ক্ষেত্রে পরিবেশে বর্জিত তাপ ($Q_1$) = শীতল প্রকোষ্ঠ থেকে অপসারিত তাপ ($Q_2$) + কৃত কাজ ($W$)। সুতরাং, $Q_1 = 500 + 100 = 600 \\text{ J}$।"
   },
-  "hsc-physics_2ndpaper-chapter-01-set-04-q16": {
-    "answer": "এনট্রপি",
-    "answerIndex": 3,
-    "difficulty": 1200,
-    "explanation": "বোর্ড/মডেল/অধ্যায়ভিত্তিক সোর্স প্যাটার্ন থেকে নেওয়া high-priority MCQ।",
-    "topic": "তাপগতিবিদ্যা"
+  "hsc-physics-2nd-paper-chapter-01-model-test-04-q16": {
+    "correctOption": "এনট্রপি হ্রাস পাবে",
+    "explanation": "সঠিক উত্তর: খ। বাষ্প যখন পানিতে ঘনীভূত হয়, তখন তা সুপ্ততাপ বর্জন করে ($\\Delta Q$ ঋণাত্মক)। ফলে সিস্টেমের এনট্রপি পরিবর্তন $\\Delta S = \\frac{-\\Delta Q}{T}$ ঋণাত্মক হয়, অর্থাৎ এনট্রপি হ্রাস পায় এবং বিশৃঙ্খলা কমে যায়।"
   },
-  "hsc-physics_2ndpaper-chapter-01-set-04-q17": {
-    "answer": "জুল",
-    "answerIndex": 3,
-    "difficulty": 1200,
-    "explanation": "বোর্ড/মডেল/অধ্যায়ভিত্তিক সোর্স প্যাটার্ন থেকে নেওয়া high-priority MCQ।",
-    "topic": "তাপগতিবিদ্যা"
+  "hsc-physics-2nd-paper-chapter-01-model-test-04-q17": {
+    "correctOption": "$\\Delta Q = 0$",
+    "explanation": "সঠিক উত্তর: ঘ। সমউষ্ণ প্রক্রিয়ায় সিস্টেম ও পরিবেশের মধ্যে তাপের অবাধ আদান-প্রদান ঘটে, যেন তাপমাত্রা স্থির থাকে। তাই $\\Delta Q$ শূন্য হয় না, বরং $\\Delta Q = \\Delta W$ হয়। $\\Delta Q = 0$ হলো রুদ্ধতাপীয় প্রক্রিয়ার বৈশিষ্ট্য।"
   },
-  "hsc-physics_2ndpaper-chapter-01-set-04-q18": {
-    "answer": "জুল",
-    "answerIndex": 2,
-    "difficulty": 1200,
-    "explanation": "বোর্ড/মডেল/অধ্যায়ভিত্তিক সোর্স প্যাটার্ন থেকে নেওয়া high-priority MCQ।",
-    "topic": "তাপগতিবিদ্যা"
+  "hsc-physics-2nd-paper-chapter-01-model-test-04-q18": {
+    "correctOption": "এক-পরমাণুক (Monoatomic)",
+    "explanation": "সঠিক উত্তর: ক। এক-পরমাণুক গ্যাসের (যেমন- হিলিয়াম, আর্গন) ক্ষেত্রে স্বাধীনতার মাত্রা $f=3$। ফলে $\\gamma = 1 + \\frac{2}{3} = \\frac{5}{3} \\approx 1.67$ হয়।"
   },
-  "hsc-physics_2ndpaper-chapter-01-set-04-q19": {
-    "answer": "জুল",
-    "answerIndex": 0,
-    "difficulty": 1200,
-    "explanation": "বোর্ড/মডেল/অধ্যায়ভিত্তিক সোর্স প্যাটার্ন থেকে নেওয়া high-priority MCQ।",
-    "topic": "তাপগতিবিদ্যা"
+  "hsc-physics-2nd-paper-chapter-01-model-test-04-q19": {
+    "correctOption": "ক্লসিয়াস",
+    "explanation": "সঠিক উত্তর: খ। এটি তাপগতিবিদ্যার দ্বিতীয় সূত্রের বিখ্যাত ক্লসিয়াসের বিবৃতি। এই নীতির ওপর ভিত্তি করেই মূলত রেফ্রিজারেটর বা এসি কাজ করে, যেখানে কম্প্রেসর বাহ্যিক শক্তি সরবরাহ করে।"
   },
-  "hsc-physics_2ndpaper-chapter-01-set-04-q20": {
-    "answer": "জুল",
-    "answerIndex": 2,
-    "difficulty": 1200,
-    "explanation": "বোর্ড/মডেল/অধ্যায়ভিত্তিক সোর্স প্যাটার্ন থেকে নেওয়া high-priority MCQ।",
-    "topic": "তাপগতিবিদ্যা"
+  "hsc-physics-2nd-paper-chapter-01-model-test-04-q20": {
+    "correctOption": "$300 \\text{ J}$",
+    "explanation": "সঠিক উত্তর: খ। স্থির চাপে কৃত কাজ $W = P \\Delta V$। এখানে $P = 10^5 \\text{ Pa}$ এবং $\\Delta V = (5 - 2) \\times 10^{-3} = 3 \\times 10^{-3} \\text{ m}^3$। অতএব, $W = 10^5 \\times 3 \\times 10^{-3} = 300 \\text{ J}$।"
   },
-  "hsc-physics_2ndpaper-chapter-01-set-04-q21": {
-    "answer": "থার্মোমিটার",
-    "answerIndex": 2,
-    "difficulty": 1200,
-    "explanation": "বোর্ড/মডেল/অধ্যায়ভিত্তিক সোর্স প্যাটার্ন থেকে নেওয়া high-priority MCQ।",
-    "topic": "তাপগতিবিদ্যা"
+  "hsc-physics-2nd-paper-chapter-01-model-test-04-q21": {
+    "correctOption": "$300 \\text{ J}$ বৃদ্ধি পাবে",
+    "explanation": "সঠিক উত্তর: ক। তাপগতিবিদ্যার প্রথম সূত্র অনুযায়ী, $\\Delta Q = \\Delta U + \\Delta W$। এখানে সরবরাহকৃত তাপ $\\Delta Q = +600 \\text{ J}$ এবং কৃত কাজ $\\Delta W = +300 \\text{ J}$। ফলে অভ্যন্তরীণ শক্তির পরিবর্তন $\\Delta U = 600 - 300 = +300 \\text{ J}$, অর্থাৎ বৃদ্ধি পাবে।"
   },
-  "hsc-physics_2ndpaper-chapter-01-set-04-q22": {
-    "answer": "রুদ্ধতাপীয় পরিবর্তন বয়েলের সূত্র মেনে চলে",
-    "answerIndex": 1,
-    "difficulty": 1200,
-    "explanation": "বোর্ড/মডেল/অধ্যায়ভিত্তিক সোর্স প্যাটার্ন থেকে নেওয়া high-priority MCQ।",
-    "topic": "তাপগতিবিদ্যা"
+  "hsc-physics-2nd-paper-chapter-01-model-test-04-q22": {
+    "correctOption": "$25\\%$",
+    "explanation": "সঠিক উত্তর: খ। কর্মদক্ষতা $\\eta = \\left(1 - \\frac{T_2}{T_1}\\right) \\times 100\\%$। এখানে $T_1 = 400 \\text{ K}$, $T_2 = 300 \\text{ K}$। ফলে $\\eta = \\left(1 - \\frac{300}{400}\\right) \\times 100\\% = \\left(1 - 0.75\\right) \\times 100\\% = 25\\%$।"
   },
-  "hsc-physics_2ndpaper-chapter-01-set-04-q23": {
-    "answer": "তাপমাত্রা",
-    "answerIndex": 2,
-    "difficulty": 1200,
-    "explanation": "বোর্ড/মডেল/অধ্যায়ভিত্তিক সোর্স প্যাটার্ন থেকে নেওয়া high-priority MCQ।",
-    "topic": "তাপগতিবিদ্যা"
+  "hsc-physics-2nd-paper-chapter-01-model-test-04-q23": {
+    "correctOption": "$900 \\text{ J}$",
+    "explanation": "সঠিক উত্তর: ঘ। কার্নো ইঞ্জিনের ক্ষেত্রে $\\frac{Q_1}{T_1} = \\frac{Q_2}{T_2}$। সুতরাং বর্জিত তাপ $Q_2 = \\frac{T_2}{T_1} \\times Q_1 = \\frac{300}{400} \\times 1200 = \\frac{3}{4} \\times 1200 = 900 \\text{ J}$।"
   },
-  "hsc-physics_2ndpaper-chapter-01-set-04-q24": {
-    "answer": "100%",
-    "answerIndex": 3,
-    "difficulty": 1200,
-    "explanation": "বোর্ড/মডেল/অধ্যায়ভিত্তিক সোর্স প্যাটার্ন থেকে নেওয়া high-priority MCQ।",
-    "topic": "তাপগতিবিদ্যা"
+  "hsc-physics-2nd-paper-chapter-01-model-test-04-q24": {
+    "correctOption": "$dU = -dW$",
+    "explanation": "সঠিক উত্তর: খ। রুদ্ধতাপীয় প্রক্রিয়ায় সিস্টেম ও পরিবেশের মধ্যে কোনো তাপের আদান-প্রদান ঘটে না, অর্থাৎ $dQ = 0$। তাপগতিবিদ্যার প্রথম সূত্র $dQ = dU + dW$ অনুযায়ী, $0 = dU + dW \\implies dU = -dW$ হয়।"
   },
-  "hsc-physics_2ndpaper-chapter-01-set-04-q25": {
-    "answer": "i, ii ও iii",
-    "answerIndex": 3,
-    "difficulty": 1200,
-    "explanation": "বোর্ড/মডেল/অধ্যায়ভিত্তিক সোর্স প্যাটার্ন থেকে নেওয়া high-priority MCQ।",
-    "topic": "তাপগতিবিদ্যা"
+  "hsc-physics-2nd-paper-chapter-01-model-test-04-q25": {
+    "correctOption": "$2461.54 \\text{ J K}^{-1}$",
+    "explanation": "সঠিক উত্তর: খ। এনট্রপির পরিবর্তন $\\Delta S = \\frac{m L_f}{T}$। ভর $m = 2 \\text{ kg}$, $L_f = 3.36 \\times 10^5 \\text{ J kg}^{-1}$ এবং তাপমাত্রা $T = 273 \\text{ K}$। অতএব, $\\Delta S = \\frac{2 \\times 3.36 \\times 10^5}{273} \\approx 2461.54 \\text{ J K}^{-1}$।"
   }
 }

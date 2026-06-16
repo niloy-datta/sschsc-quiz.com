@@ -1,0 +1,77 @@
+{
+  "setId": "hsc-higher-math-1st-paper-chapter-04-model-test-02",
+  "reason": "DUPLICATE_OF_hsc-higher-math-1st-paper-chapter-02-model-test-06",
+  "quarantinedAt": "2026-06-13T17:57:55.212Z",
+  "questions": [
+    {
+      "id": "hsc-higher-math-1st-paper-chapter-04-model-test-02-q01",
+      "questionText": "A এবং B দুটি ম্যাট্রিক্স। AB গুণন সংজ্ঞায়িত হলে A এর কলাম সংখ্যা B এর কীসের সমান হবে?",
+      "optionA": "সারি সংখ্যা",
+      "optionB": "কলাম সংখ্যা",
+      "optionC": "কোনোটিই নয়",
+      "optionD": "মান",
+      "correctOption": "A",
+      "explanation": "",
+      "chapter": "04",
+      "topic": "ম্যাট্রিক্স ও নির্ণায়ক",
+      "difficulty": "Board Pattern",
+      "questionNo": 1
+    },
+    {
+      "id": "hsc-higher-math-1st-paper-chapter-04-model-test-02-q02",
+      "questionText": "d/dx (ln x) এর মান কত?",
+      "optionA": "ln x",
+      "optionB": "e^x",
+      "optionC": "1/x",
+      "optionD": "x",
+      "correctOption": "C",
+      "explanation": "",
+      "chapter": "04",
+      "topic": "অন্তরীকরণ",
+      "difficulty": "Board Pattern",
+      "questionNo": 2
+    },
+    {
+      "id": "hsc-higher-math-1st-paper-chapter-04-model-test-02-q03",
+      "questionText": "lim_{x->0} (sin x / x) এর মান কত?",
+      "optionA": "১",
+      "optionB": "বিদ্যমান নেই",
+      "optionC": "০",
+      "optionD": "অসীম",
+      "correctOption": "A",
+      "explanation": "",
+      "chapter": "04",
+      "topic": "ত্রিকোণমিতিক অনুপাত",
+      "difficulty": "Board Pattern",
+      "questionNo": 3
+    },
+    {
+      "id": "hsc-higher-math-1st-paper-chapter-04-model-test-02-q04",
+      "questionText": "sin(A+B) এর সমতুল্য সূত্র কোনটি?",
+      "optionA": "cos A cos B - sin A sin B",
+      "optionB": "sin A cos B - cos A sin B",
+      "optionC": "কোনোটিই নয়",
+      "optionD": "sin A cos B + cos A sin B",
+      "correctOption": "D",
+      "explanation": "",
+      "chapter": "04",
+      "topic": "ত্রিকোণমিতিক অনুপাত",
+      "difficulty": "Board Pattern",
+      "questionNo": 4
+    },
+    {
+      "id": "hsc-higher-math-1st-paper-chapter-04-model-test-02-q05",
+      "questionText": "মূলবিন্দু থেকে 3x - 4y + 5 = 0 রেখার লম্ব দূরত্ব কত?",
+      "optionA": "২",
+      "optionB": "৫",
+      "optionC": "০",
+      "optionD": "১",
+      "correctOption": "D",
+      "explanation": "",
+      "chapter": "04",
+      "topic": "সরলরেখা",
+      "difficulty": "Board Pattern",
+      "questionNo": 5
+    }
+  ]
+}

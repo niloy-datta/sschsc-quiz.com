@@ -1,0 +1,102 @@
+{
+  "hsc-higher-math-2nd-paper-board-analyzed-premium-set-07-q01": {
+    "correctOption": "১৩",
+    "explanation": "\\(\\alpha+\\beta=5,\\alpha\\beta=6\\); তাই \\(\\alpha^2+\\beta^2=25-12=13\\)।"
+  },
+  "hsc-higher-math-2nd-paper-board-analyzed-premium-set-07-q02": {
+    "correctOption": "\\(\\frac{98}{9}\\)",
+    "explanation": "মূল \\(\\alpha,2\\alpha\\); \\(3\\alpha=7\\Rightarrow\\alpha=7/3\\); product \\(2\\alpha^2=98/9\\)।"
+  },
+  "hsc-higher-math-2nd-paper-board-analyzed-premium-set-07-q03": {
+    "correctOption": "\\((0,-2)\\)",
+    "explanation": "\\(x^2=4ay\\Rightarrow4a=-8\\Rightarrow a=-2\\), focus \\((0,a)\\)।"
+  },
+  "hsc-higher-math-2nd-paper-board-analyzed-premium-set-07-q04": {
+    "correctOption": "20",
+    "explanation": "\\(x^2=4ay\\Rightarrow4a=20\\); latus rectum \\(=4a=20\\)।"
+  },
+  "hsc-higher-math-2nd-paper-board-analyzed-premium-set-07-q05": {
+    "correctOption": "\\((0,0),(-2,0)\\)",
+    "explanation": "\\(y^2=-8x=4ax\\Rightarrow a=-2\\); vertex origin, focus \\((-2,0)\\)।"
+  },
+  "hsc-higher-math-2nd-paper-board-analyzed-premium-set-07-q06": {
+    "correctOption": "\\(x=3\\)",
+    "explanation": "\\(y^2=4ax\\Rightarrow a=-3\\); directrix \\(x=-a=3\\)।"
+  },
+  "hsc-higher-math-2nd-paper-board-analyzed-premium-set-07-q07": {
+    "correctOption": "\\(x=-4\\)",
+    "explanation": "\\(4a=16\\Rightarrow a=4\\); directrix \\(x=-a=-4\\)।"
+  },
+  "hsc-higher-math-2nd-paper-board-analyzed-premium-set-07-q08": {
+    "correctOption": "\\(\\frac{2\\pi}{3}\\)",
+    "explanation": "বিন্দুটি দ্বিতীয় চতুর্ভাগে, তাই argument \\(\\pi-\\tan^{-1}\\sqrt3=2\\pi/3\\)।"
+  },
+  "hsc-higher-math-2nd-paper-board-analyzed-premium-set-07-q09": {
+    "correctOption": "5",
+    "explanation": "\\(|z|=\\sqrt{(-3)^2+(-4)^2}=5\\)।"
+  },
+  "hsc-higher-math-2nd-paper-board-analyzed-premium-set-07-q10": {
+    "correctOption": "\\(-\\frac{5\\pi}{6}\\)",
+    "explanation": "বিন্দুটি তৃতীয় চতুর্ভাগে; principal argument \\(-5\\pi/6\\)।"
+  },
+  "hsc-higher-math-2nd-paper-board-analyzed-premium-set-07-q11": {
+    "correctOption": "\\(-\\frac\\pi3\\)",
+    "explanation": "চতুর্থ চতুর্ভাগে; \\(\\tan\\theta=-\\sqrt3\\), তাই \\(\\arg z=-\\pi/3\\)।"
+  },
+  "hsc-higher-math-2nd-paper-board-analyzed-premium-set-07-q12": {
+    "correctOption": "-8",
+    "explanation": "De Moivre: \\(z^3=8\\text{cis}\\,\\pi=-8\\)।"
+  },
+  "hsc-higher-math-2nd-paper-board-analyzed-premium-set-07-q13": {
+    "correctOption": "\\((x-1)^2+(y-1)^2=9\\)",
+    "explanation": "\\(z=x+iy\\) বসালে কেন্দ্র \\((1,1)\\), ব্যাসার্ধ 3-এর বৃত্ত।"
+  },
+  "hsc-higher-math-2nd-paper-board-analyzed-premium-set-07-q14": {
+    "correctOption": "\\(x=0\\)",
+    "explanation": "বিন্দুটি \\((2,0)\\) ও \\((-2,0)\\) থেকে সমদূরবর্তী, তাই লম্ব সমদ্বিখণ্ডক \\(x=0\\)।"
+  },
+  "hsc-higher-math-2nd-paper-board-analyzed-premium-set-07-q15": {
+    "correctOption": "\\(x^2=12y\\)",
+    "explanation": "শীর্ষ origin, \\(a=3\\); তাই \\(x^2=4ay=12y\\)।"
+  },
+  "hsc-higher-math-2nd-paper-board-analyzed-premium-set-07-q16": {
+    "correctOption": "80 m",
+    "explanation": "\\(45^\\circ\\)-এ \\(H=u^2/(4g)\\) এবং \\(R_{max}=u^2/g=4H=80\\) m।"
+  },
+  "hsc-higher-math-2nd-paper-board-analyzed-premium-set-07-q17": {
+    "correctOption": "\\(\\frac16\\)",
+    "explanation": "প্রথমটি জোড় হলে ১৮টি ফল; যোগফল ৮: \\((2,6),(4,4),(6,2)\\), তাই \\(3/18=1/6\\)।"
+  },
+  "hsc-higher-math-2nd-paper-board-analyzed-premium-set-07-q18": {
+    "correctOption": "0",
+    "explanation": "Face card বলতে J,Q,K বোঝায়; ace face card নয়।"
+  },
+  "hsc-higher-math-2nd-paper-board-analyzed-premium-set-07-q19": {
+    "correctOption": "\\(\\frac{4}{13}\\)",
+    "explanation": "\\(P=\\frac4{52}+\\frac{13}{52}-\\frac1{52}=\\frac{16}{52}=\\frac4{13}\\)।"
+  },
+  "hsc-higher-math-2nd-paper-board-analyzed-premium-set-07-q20": {
+    "correctOption": "\\(\\frac1{26}\\)",
+    "explanation": "Red queen 2টি; মোট 52, তাই সম্ভাবনা \\(2/52=1/26\\)।"
+  },
+  "hsc-higher-math-2nd-paper-board-analyzed-premium-set-07-q21": {
+    "correctOption": "\\(\\frac38\\)",
+    "explanation": "\\(\\binom32(1/2)^3=3/8\\)।"
+  },
+  "hsc-higher-math-2nd-paper-board-analyzed-premium-set-07-q22": {
+    "correctOption": "$y-10=10(x-5)$",
+    "explanation": "সঠিক উত্তর: খ। Point-slope form ব্যবহৃত।"
+  },
+  "hsc-higher-math-2nd-paper-board-analyzed-premium-set-07-q23": {
+    "correctOption": "$y-10=10(x-7)$",
+    "explanation": "সঠিক উত্তর: ক। Point-slope form ব্যবহৃত।"
+  },
+  "hsc-higher-math-2nd-paper-board-analyzed-premium-set-07-q24": {
+    "correctOption": "$y-11=11(x-5)$",
+    "explanation": "সঠিক উত্তর: খ। Point-slope form ব্যবহৃত।"
+  },
+  "hsc-higher-math-2nd-paper-board-analyzed-premium-set-07-q25": {
+    "correctOption": "$y-11=11(x-7)$",
+    "explanation": "সঠিক উত্তর: খ। Point-slope form ব্যবহৃত।"
+  }
+}

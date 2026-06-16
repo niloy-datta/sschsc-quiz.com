@@ -1,0 +1,3544 @@
+{
+  "level": "HSC",
+  "subject": "higher-math-1st-paper",
+  "datasetType": "chapterwise_hyper_mega_hot_board_standard",
+  "confidenceLabel": "Hyper Mega Hot — Highest Probability Board-Standard Pattern Cache",
+  "chapterWise": [
+    {
+      "chapter": "02",
+      "chapterName": "ভেক্টর",
+      "sets": [
+        {
+          "id": "hsc-higher-math-1st-paper-chapter-02-set-01",
+          "title": "Chapter 02 Hyper Mega Hot Set 01",
+          "questions": [
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-02-set-01-q01",
+              "question": "$\\vec a=(3,3,4)$ হলে $|\\vec a|^2$ কত?",
+              "options": [
+                {
+                  "text": "36",
+                  "label": "ক"
+                },
+                {
+                  "text": "35",
+                  "label": "খ"
+                },
+                {
+                  "text": "34",
+                  "label": "গ"
+                },
+                {
+                  "text": "10",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "গ",
+              "shortSolution": "সঠিক উত্তর: গ। $|a|^2=x^2+y^2+z^2$।",
+              "chapter": "02",
+              "topic": "ভেক্টরের মান",
+              "difficulty": "Easy",
+              "probability": "Board Favourite"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-02-set-01-q02",
+              "question": "$\\vec a=(4,4,5)$ ও $\\vec b=(4,5,4)$ হলে $\\vec a\\cdot\\vec b$ কত?",
+              "options": [
+                {
+                  "text": "57",
+                  "label": "ক"
+                },
+                {
+                  "text": "0",
+                  "label": "খ"
+                },
+                {
+                  "text": "-56",
+                  "label": "গ"
+                },
+                {
+                  "text": "56",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "ঘ",
+              "shortSolution": "সঠিক উত্তর: ঘ। Dot product = corresponding components-এর গুণফলের যোগ।",
+              "chapter": "02",
+              "topic": "Dot product",
+              "difficulty": "Easy",
+              "probability": "Conceptual Trap"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-02-set-01-q03",
+              "question": "দুটি non-zero vector perpendicular হলে dot product কত?",
+              "options": [
+                {
+                  "text": "0",
+                  "label": "ক"
+                },
+                {
+                  "text": "উভয়ের মানের গুণফল",
+                  "label": "খ"
+                },
+                {
+                  "text": "-1",
+                  "label": "গ"
+                },
+                {
+                  "text": "1",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "ক",
+              "shortSolution": "সঠিক উত্তর: ক। লম্ব ভেক্টরের dot product 0।",
+              "chapter": "02",
+              "topic": "লম্ব ভেক্টর",
+              "difficulty": "Easy",
+              "probability": "Mega Hot"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-02-set-01-q04",
+              "question": "$\\vec b=6\\vec a$ হলে $\\vec a$ ও $\\vec b$ কেমন?",
+              "options": [
+                {
+                  "text": "সমান্তরাল",
+                  "label": "ক"
+                },
+                {
+                  "text": "অসংজ্ঞায়িত",
+                  "label": "খ"
+                },
+                {
+                  "text": "লম্ব",
+                  "label": "গ"
+                },
+                {
+                  "text": "বিপরীত নয়",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "ক",
+              "shortSolution": "সঠিক উত্তর: ক। একটি অন্যটির scalar multiple হলে তারা সমান্তরাল।",
+              "chapter": "02",
+              "topic": "সমান্তরাল ভেক্টর",
+              "difficulty": "Easy",
+              "probability": "Very Hot"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-02-set-01-q05",
+              "question": "$\\hat i\\times\\hat j$ কত?",
+              "options": [
+                {
+                  "text": "$-\\hat k$",
+                  "label": "ক"
+                },
+                {
+                  "text": "0",
+                  "label": "খ"
+                },
+                {
+                  "text": "$\\hat i$",
+                  "label": "গ"
+                },
+                {
+                  "text": "$\\hat k$",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "ঘ",
+              "shortSolution": "সঠিক উত্তর: ঘ। Right-handed system-এ $i\\times j=k$।",
+              "chapter": "02",
+              "topic": "Vector product",
+              "difficulty": "Easy",
+              "probability": "Board Favourite"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-02-set-01-q06",
+              "question": "$|\\vec a\\times\\vec b|$ এর সূত্র কোনটি?",
+              "options": [
+                {
+                  "text": "$|a||b|\\sin\\theta$",
+                  "label": "ক"
+                },
+                {
+                  "text": "$|a|+|b|$",
+                  "label": "খ"
+                },
+                {
+                  "text": "$a\\cdot b$",
+                  "label": "গ"
+                },
+                {
+                  "text": "$|a||b|\\cos\\theta$",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "ক",
+              "shortSolution": "সঠিক উত্তর: ক। Cross product-এর magnitude $|a||b|\\sin\\theta$।",
+              "chapter": "02",
+              "topic": "Cross product",
+              "difficulty": "Easy",
+              "probability": "Conceptual Trap"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-02-set-01-q07",
+              "question": "$\\vec a\\cdot\\vec b=|a||b|$ হলে মধ্যবর্তী কোণ কত?",
+              "options": [
+                {
+                  "text": "$45^\\circ$",
+                  "label": "ক"
+                },
+                {
+                  "text": "$180^\\circ$",
+                  "label": "খ"
+                },
+                {
+                  "text": "$90^\\circ$",
+                  "label": "গ"
+                },
+                {
+                  "text": "$0^\\circ$",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "ঘ",
+              "shortSolution": "সঠিক উত্তর: ঘ। $\\cos\\theta=1$ হলে $\\theta=0^\\circ$।",
+              "chapter": "02",
+              "topic": "ভেক্টরের কোণ",
+              "difficulty": "Easy",
+              "probability": "Mega Hot"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-02-set-01-q08",
+              "question": "Vector product-এর দিক কেমন?",
+              "options": [
+                {
+                  "text": "প্রথমটির সমান্তরাল",
+                  "label": "ক"
+                },
+                {
+                  "text": "উভয় ভেক্টরের উপর লম্ব",
+                  "label": "খ"
+                },
+                {
+                  "text": "সবসময় $x$-অক্ষ বরাবর",
+                  "label": "গ"
+                },
+                {
+                  "text": "দ্বিতীয়টির সমান্তরাল",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "খ",
+              "shortSolution": "সঠিক উত্তর: খ। Cross product উভয় ভেক্টরের plane-এর normal।",
+              "chapter": "02",
+              "topic": "Vector product direction",
+              "difficulty": "Medium",
+              "probability": "Very Hot"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-02-set-01-q09",
+              "question": "$\\vec a\\cdot\\vec a$ কোনটির সমান?",
+              "options": [
+                {
+                  "text": "$|\\vec a|^2$",
+                  "label": "ক"
+                },
+                {
+                  "text": "0",
+                  "label": "খ"
+                },
+                {
+                  "text": "$2|\\vec a|$",
+                  "label": "গ"
+                },
+                {
+                  "text": "$|\\vec a|$",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "ক",
+              "shortSolution": "সঠিক উত্তর: ক। $a\\cdot a=|a||a|\\cos0=|a|^2$।",
+              "chapter": "02",
+              "topic": "Dot product",
+              "difficulty": "Medium",
+              "probability": "Board Favourite"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-02-set-01-q10",
+              "question": "Unit vector-এর magnitude কত?",
+              "options": [
+                {
+                  "text": "যেকোনো",
+                  "label": "ক"
+                },
+                {
+                  "text": "-1",
+                  "label": "খ"
+                },
+                {
+                  "text": "1",
+                  "label": "গ"
+                },
+                {
+                  "text": "0",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "গ",
+              "shortSolution": "সঠিক উত্তর: গ। সংজ্ঞা অনুসারে unit vector-এর magnitude 1।",
+              "chapter": "02",
+              "topic": "Unit vector",
+              "difficulty": "Medium",
+              "probability": "Conceptual Trap"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-02-set-01-q11",
+              "question": "$\\vec a=(3,6,6)$ হলে $|\\vec a|^2$ কত?",
+              "options": [
+                {
+                  "text": "81",
+                  "label": "ক"
+                },
+                {
+                  "text": "15",
+                  "label": "খ"
+                },
+                {
+                  "text": "108",
+                  "label": "গ"
+                },
+                {
+                  "text": "82",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "ক",
+              "shortSolution": "সঠিক উত্তর: ক। $|a|^2=x^2+y^2+z^2$।",
+              "chapter": "02",
+              "topic": "ভেক্টরের মান",
+              "difficulty": "Medium",
+              "probability": "Mega Hot"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-02-set-01-q12",
+              "question": "$\\vec a=(4,7,3)$ ও $\\vec b=(7,3,4)$ হলে $\\vec a\\cdot\\vec b$ কত?",
+              "options": [
+                {
+                  "text": "-61",
+                  "label": "ক"
+                },
+                {
+                  "text": "61",
+                  "label": "খ"
+                },
+                {
+                  "text": "62",
+                  "label": "গ"
+                },
+                {
+                  "text": "0",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "খ",
+              "shortSolution": "সঠিক উত্তর: খ। Dot product = corresponding components-এর গুণফলের যোগ।",
+              "chapter": "02",
+              "topic": "Dot product",
+              "difficulty": "Medium",
+              "probability": "Very Hot"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-02-set-01-q13",
+              "question": "দুটি non-zero vector perpendicular হলে dot product কত? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 01-13 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+              "options": [
+                {
+                  "text": "1",
+                  "label": "ক"
+                },
+                {
+                  "text": "উভয়ের মানের গুণফল",
+                  "label": "খ"
+                },
+                {
+                  "text": "-1",
+                  "label": "গ"
+                },
+                {
+                  "text": "0",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "ঘ",
+              "shortSolution": "সঠিক উত্তর: ঘ। লম্ব ভেক্টরের dot product 0।",
+              "chapter": "02",
+              "topic": "লম্ব ভেক্টর",
+              "difficulty": "Medium",
+              "probability": "Board Favourite"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-02-set-01-q14",
+              "question": "$\\vec b=6\\vec a$ হলে $\\vec a$ ও $\\vec b$ কেমন? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 01-14 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+              "options": [
+                {
+                  "text": "লম্ব",
+                  "label": "ক"
+                },
+                {
+                  "text": "অসংজ্ঞায়িত",
+                  "label": "খ"
+                },
+                {
+                  "text": "সমান্তরাল",
+                  "label": "গ"
+                },
+                {
+                  "text": "বিপরীত নয়",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "গ",
+              "shortSolution": "সঠিক উত্তর: গ। একটি অন্যটির scalar multiple হলে তারা সমান্তরাল।",
+              "chapter": "02",
+              "topic": "সমান্তরাল ভেক্টর",
+              "difficulty": "Medium",
+              "probability": "Conceptual Trap"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-02-set-01-q15",
+              "question": "$\\hat i\\times\\hat j$ কত? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 01-15 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+              "options": [
+                {
+                  "text": "0",
+                  "label": "ক"
+                },
+                {
+                  "text": "$-\\hat k$",
+                  "label": "খ"
+                },
+                {
+                  "text": "$\\hat i$",
+                  "label": "গ"
+                },
+                {
+                  "text": "$\\hat k$",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "ঘ",
+              "shortSolution": "সঠিক উত্তর: ঘ। Right-handed system-এ $i\\times j=k$।",
+              "chapter": "02",
+              "topic": "Vector product",
+              "difficulty": "Hard",
+              "probability": "Mega Hot"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-02-set-01-q16",
+              "question": "$|\\vec a\\times\\vec b|$ এর সূত্র কোনটি? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 01-16 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+              "options": [
+                {
+                  "text": "$a\\cdot b$",
+                  "label": "ক"
+                },
+                {
+                  "text": "$|a||b|\\cos\\theta$",
+                  "label": "খ"
+                },
+                {
+                  "text": "$|a||b|\\sin\\theta$",
+                  "label": "গ"
+                },
+                {
+                  "text": "$|a|+|b|$",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "গ",
+              "shortSolution": "সঠিক উত্তর: গ। Cross product-এর magnitude $|a||b|\\sin\\theta$।",
+              "chapter": "02",
+              "topic": "Cross product",
+              "difficulty": "Hard",
+              "probability": "Very Hot"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-02-set-01-q17",
+              "question": "$\\vec a\\cdot\\vec b=|a||b|$ হলে মধ্যবর্তী কোণ কত? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 01-17 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+              "options": [
+                {
+                  "text": "$0^\\circ$",
+                  "label": "ক"
+                },
+                {
+                  "text": "$180^\\circ$",
+                  "label": "খ"
+                },
+                {
+                  "text": "$45^\\circ$",
+                  "label": "গ"
+                },
+                {
+                  "text": "$90^\\circ$",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "ক",
+              "shortSolution": "সঠিক উত্তর: ক। $\\cos\\theta=1$ হলে $\\theta=0^\\circ$।",
+              "chapter": "02",
+              "topic": "ভেক্টরের কোণ",
+              "difficulty": "Hard",
+              "probability": "Board Favourite"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-02-set-01-q18",
+              "question": "Vector product-এর দিক কেমন? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 01-18 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+              "options": [
+                {
+                  "text": "প্রথমটির সমান্তরাল",
+                  "label": "ক"
+                },
+                {
+                  "text": "সবসময় $x$-অক্ষ বরাবর",
+                  "label": "খ"
+                },
+                {
+                  "text": "উভয় ভেক্টরের উপর লম্ব",
+                  "label": "গ"
+                },
+                {
+                  "text": "দ্বিতীয়টির সমান্তরাল",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "গ",
+              "shortSolution": "সঠিক উত্তর: গ। Cross product উভয় ভেক্টরের plane-এর normal।",
+              "chapter": "02",
+              "topic": "Vector product direction",
+              "difficulty": "Hard",
+              "probability": "Conceptual Trap"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-02-set-01-q19",
+              "question": "$\\vec a\\cdot\\vec a$ কোনটির সমান? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 01-19 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+              "options": [
+                {
+                  "text": "$|\\vec a|^2$",
+                  "label": "ক"
+                },
+                {
+                  "text": "$2|\\vec a|$",
+                  "label": "খ"
+                },
+                {
+                  "text": "0",
+                  "label": "গ"
+                },
+                {
+                  "text": "$|\\vec a|$",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "ক",
+              "shortSolution": "সঠিক উত্তর: ক। $a\\cdot a=|a||a|\\cos0=|a|^2$।",
+              "chapter": "02",
+              "topic": "Dot product",
+              "difficulty": "Hard",
+              "probability": "Mega Hot"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-02-set-01-q20",
+              "question": "Unit vector-এর magnitude কত? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 01-20 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+              "options": [
+                {
+                  "text": "0",
+                  "label": "ক"
+                },
+                {
+                  "text": "1",
+                  "label": "খ"
+                },
+                {
+                  "text": "যেকোনো",
+                  "label": "গ"
+                },
+                {
+                  "text": "-1",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "খ",
+              "shortSolution": "সঠিক উত্তর: খ। সংজ্ঞা অনুসারে unit vector-এর magnitude 1।",
+              "chapter": "02",
+              "topic": "Unit vector",
+              "difficulty": "Hard",
+              "probability": "Very Hot"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-02-set-01-q21",
+              "question": "$\\vec a=(3,2,4)$ হলে $|\\vec a|^2$ কত?",
+              "options": [
+                {
+                  "text": "29",
+                  "label": "ক"
+                },
+                {
+                  "text": "24",
+                  "label": "খ"
+                },
+                {
+                  "text": "30",
+                  "label": "গ"
+                },
+                {
+                  "text": "9",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "ক",
+              "shortSolution": "সঠিক উত্তর: ক। $|a|^2=x^2+y^2+z^2$।",
+              "chapter": "02",
+              "topic": "ভেক্টরের মান",
+              "difficulty": "Hard",
+              "probability": "Board Favourite"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-02-set-01-q22",
+              "question": "$\\vec a=(4,3,5)$ ও $\\vec b=(3,5,4)$ হলে $\\vec a\\cdot\\vec b$ কত?",
+              "options": [
+                {
+                  "text": "47",
+                  "label": "ক"
+                },
+                {
+                  "text": "48",
+                  "label": "খ"
+                },
+                {
+                  "text": "0",
+                  "label": "গ"
+                },
+                {
+                  "text": "-47",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "ক",
+              "shortSolution": "সঠিক উত্তর: ক। Dot product = corresponding components-এর গুণফলের যোগ।",
+              "chapter": "02",
+              "topic": "Dot product",
+              "difficulty": "Board Standard",
+              "probability": "Conceptual Trap"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-02-set-01-q23",
+              "question": "দুটি non-zero vector perpendicular হলে dot product কত? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 01-23 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+              "options": [
+                {
+                  "text": "উভয়ের মানের গুণফল",
+                  "label": "ক"
+                },
+                {
+                  "text": "-1",
+                  "label": "খ"
+                },
+                {
+                  "text": "1",
+                  "label": "গ"
+                },
+                {
+                  "text": "0",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "ঘ",
+              "shortSolution": "সঠিক উত্তর: ঘ। লম্ব ভেক্টরের dot product 0।",
+              "chapter": "02",
+              "topic": "লম্ব ভেক্টর",
+              "difficulty": "Board Standard",
+              "probability": "Mega Hot"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-02-set-01-q24",
+              "question": "$\\vec b=6\\vec a$ হলে $\\vec a$ ও $\\vec b$ কেমন? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 01-24 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+              "options": [
+                {
+                  "text": "বিপরীত নয়",
+                  "label": "ক"
+                },
+                {
+                  "text": "অসংজ্ঞায়িত",
+                  "label": "খ"
+                },
+                {
+                  "text": "লম্ব",
+                  "label": "গ"
+                },
+                {
+                  "text": "সমান্তরাল",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "ঘ",
+              "shortSolution": "সঠিক উত্তর: ঘ। একটি অন্যটির scalar multiple হলে তারা সমান্তরাল।",
+              "chapter": "02",
+              "topic": "সমান্তরাল ভেক্টর",
+              "difficulty": "Board Standard",
+              "probability": "Very Hot"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-02-set-01-q25",
+              "question": "$\\hat i\\times\\hat j$ কত? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 01-25 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+              "options": [
+                {
+                  "text": "$\\hat i$",
+                  "label": "ক"
+                },
+                {
+                  "text": "$\\hat k$",
+                  "label": "খ"
+                },
+                {
+                  "text": "$-\\hat k$",
+                  "label": "গ"
+                },
+                {
+                  "text": "0",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "খ",
+              "shortSolution": "সঠিক উত্তর: খ। Right-handed system-এ $i\\times j=k$।",
+              "chapter": "02",
+              "topic": "Vector product",
+              "difficulty": "Board Standard",
+              "probability": "Board Favourite"
+            }
+          ]
+        },
+        {
+          "id": "hsc-higher-math-1st-paper-chapter-02-set-02",
+          "title": "Chapter 02 Hyper Mega Hot Set 02",
+          "questions": [
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-02-set-02-q01",
+              "question": "$\\vec a=(4,3,5)$ হলে $|\\vec a|^2$ কত?",
+              "options": [
+                {
+                  "text": "60",
+                  "label": "ক"
+                },
+                {
+                  "text": "12",
+                  "label": "খ"
+                },
+                {
+                  "text": "51",
+                  "label": "গ"
+                },
+                {
+                  "text": "50",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "ঘ",
+              "shortSolution": "সঠিক উত্তর: ঘ। $|a|^2=x^2+y^2+z^2$।",
+              "chapter": "02",
+              "topic": "ভেক্টরের মান",
+              "difficulty": "Easy",
+              "probability": "Conceptual Trap"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-02-set-02-q02",
+              "question": "$\\vec a=(5,4,6)$ ও $\\vec b=(4,6,5)$ হলে $\\vec a\\cdot\\vec b$ কত?",
+              "options": [
+                {
+                  "text": "-74",
+                  "label": "ক"
+                },
+                {
+                  "text": "74",
+                  "label": "খ"
+                },
+                {
+                  "text": "0",
+                  "label": "গ"
+                },
+                {
+                  "text": "75",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "খ",
+              "shortSolution": "সঠিক উত্তর: খ। Dot product = corresponding components-এর গুণফলের যোগ।",
+              "chapter": "02",
+              "topic": "Dot product",
+              "difficulty": "Easy",
+              "probability": "Mega Hot"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-02-set-02-q03",
+              "question": "দুটি non-zero vector perpendicular হলে dot product কত? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 02-03 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+              "options": [
+                {
+                  "text": "উভয়ের মানের গুণফল",
+                  "label": "ক"
+                },
+                {
+                  "text": "1",
+                  "label": "খ"
+                },
+                {
+                  "text": "-1",
+                  "label": "গ"
+                },
+                {
+                  "text": "0",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "ঘ",
+              "shortSolution": "সঠিক উত্তর: ঘ। লম্ব ভেক্টরের dot product 0।",
+              "chapter": "02",
+              "topic": "লম্ব ভেক্টর",
+              "difficulty": "Easy",
+              "probability": "Very Hot"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-02-set-02-q04",
+              "question": "$\\vec b=7\\vec a$ হলে $\\vec a$ ও $\\vec b$ কেমন?",
+              "options": [
+                {
+                  "text": "অসংজ্ঞায়িত",
+                  "label": "ক"
+                },
+                {
+                  "text": "সমান্তরাল",
+                  "label": "খ"
+                },
+                {
+                  "text": "লম্ব",
+                  "label": "গ"
+                },
+                {
+                  "text": "বিপরীত নয়",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "খ",
+              "shortSolution": "সঠিক উত্তর: খ। একটি অন্যটির scalar multiple হলে তারা সমান্তরাল।",
+              "chapter": "02",
+              "topic": "সমান্তরাল ভেক্টর",
+              "difficulty": "Easy",
+              "probability": "Board Favourite"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-02-set-02-q05",
+              "question": "$\\hat i\\times\\hat j$ কত? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 02-05 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+              "options": [
+                {
+                  "text": "$\\hat k$",
+                  "label": "ক"
+                },
+                {
+                  "text": "0",
+                  "label": "খ"
+                },
+                {
+                  "text": "$\\hat i$",
+                  "label": "গ"
+                },
+                {
+                  "text": "$-\\hat k$",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "ক",
+              "shortSolution": "সঠিক উত্তর: ক। Right-handed system-এ $i\\times j=k$।",
+              "chapter": "02",
+              "topic": "Vector product",
+              "difficulty": "Easy",
+              "probability": "Conceptual Trap"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-02-set-02-q06",
+              "question": "$|\\vec a\\times\\vec b|$ এর সূত্র কোনটি? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 02-06 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+              "options": [
+                {
+                  "text": "$|a||b|\\sin\\theta$",
+                  "label": "ক"
+                },
+                {
+                  "text": "$|a|+|b|$",
+                  "label": "খ"
+                },
+                {
+                  "text": "$a\\cdot b$",
+                  "label": "গ"
+                },
+                {
+                  "text": "$|a||b|\\cos\\theta$",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "ক",
+              "shortSolution": "সঠিক উত্তর: ক। Cross product-এর magnitude $|a||b|\\sin\\theta$।",
+              "chapter": "02",
+              "topic": "Cross product",
+              "difficulty": "Easy",
+              "probability": "Mega Hot"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-02-set-02-q07",
+              "question": "$\\vec a\\cdot\\vec b=|a||b|$ হলে মধ্যবর্তী কোণ কত? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 02-07 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+              "options": [
+                {
+                  "text": "$180^\\circ$",
+                  "label": "ক"
+                },
+                {
+                  "text": "$45^\\circ$",
+                  "label": "খ"
+                },
+                {
+                  "text": "$90^\\circ$",
+                  "label": "গ"
+                },
+                {
+                  "text": "$0^\\circ$",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "ঘ",
+              "shortSolution": "সঠিক উত্তর: ঘ। $\\cos\\theta=1$ হলে $\\theta=0^\\circ$।",
+              "chapter": "02",
+              "topic": "ভেক্টরের কোণ",
+              "difficulty": "Easy",
+              "probability": "Very Hot"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-02-set-02-q08",
+              "question": "Vector product-এর দিক কেমন? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 02-08 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+              "options": [
+                {
+                  "text": "উভয় ভেক্টরের উপর লম্ব",
+                  "label": "ক"
+                },
+                {
+                  "text": "প্রথমটির সমান্তরাল",
+                  "label": "খ"
+                },
+                {
+                  "text": "দ্বিতীয়টির সমান্তরাল",
+                  "label": "গ"
+                },
+                {
+                  "text": "সবসময় $x$-অক্ষ বরাবর",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "ক",
+              "shortSolution": "সঠিক উত্তর: ক। Cross product উভয় ভেক্টরের plane-এর normal।",
+              "chapter": "02",
+              "topic": "Vector product direction",
+              "difficulty": "Medium",
+              "probability": "Board Favourite"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-02-set-02-q09",
+              "question": "$\\vec a\\cdot\\vec a$ কোনটির সমান? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 02-09 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+              "options": [
+                {
+                  "text": "$|\\vec a|^2$",
+                  "label": "ক"
+                },
+                {
+                  "text": "0",
+                  "label": "খ"
+                },
+                {
+                  "text": "$|\\vec a|$",
+                  "label": "গ"
+                },
+                {
+                  "text": "$2|\\vec a|$",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "ক",
+              "shortSolution": "সঠিক উত্তর: ক। $a\\cdot a=|a||a|\\cos0=|a|^2$।",
+              "chapter": "02",
+              "topic": "Dot product",
+              "difficulty": "Medium",
+              "probability": "Conceptual Trap"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-02-set-02-q10",
+              "question": "Unit vector-এর magnitude কত? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 02-10 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+              "options": [
+                {
+                  "text": "যেকোনো",
+                  "label": "ক"
+                },
+                {
+                  "text": "1",
+                  "label": "খ"
+                },
+                {
+                  "text": "-1",
+                  "label": "গ"
+                },
+                {
+                  "text": "0",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "খ",
+              "shortSolution": "সঠিক উত্তর: খ। সংজ্ঞা অনুসারে unit vector-এর magnitude 1।",
+              "chapter": "02",
+              "topic": "Unit vector",
+              "difficulty": "Medium",
+              "probability": "Mega Hot"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-02-set-02-q11",
+              "question": "$\\vec a=(4,6,7)$ হলে $|\\vec a|^2$ কত?",
+              "options": [
+                {
+                  "text": "17",
+                  "label": "ক"
+                },
+                {
+                  "text": "101",
+                  "label": "খ"
+                },
+                {
+                  "text": "168",
+                  "label": "গ"
+                },
+                {
+                  "text": "102",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "খ",
+              "shortSolution": "সঠিক উত্তর: খ। $|a|^2=x^2+y^2+z^2$।",
+              "chapter": "02",
+              "topic": "ভেক্টরের মান",
+              "difficulty": "Medium",
+              "probability": "Very Hot"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-02-set-02-q12",
+              "question": "$\\vec a=(5,7,4)$ ও $\\vec b=(7,4,5)$ হলে $\\vec a\\cdot\\vec b$ কত?",
+              "options": [
+                {
+                  "text": "84",
+                  "label": "ক"
+                },
+                {
+                  "text": "-83",
+                  "label": "খ"
+                },
+                {
+                  "text": "0",
+                  "label": "গ"
+                },
+                {
+                  "text": "83",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "ঘ",
+              "shortSolution": "সঠিক উত্তর: ঘ। Dot product = corresponding components-এর গুণফলের যোগ।",
+              "chapter": "02",
+              "topic": "Dot product",
+              "difficulty": "Medium",
+              "probability": "Board Favourite"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-02-set-02-q13",
+              "question": "দুটি non-zero vector perpendicular হলে dot product কত? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 02-13 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+              "options": [
+                {
+                  "text": "-1",
+                  "label": "ক"
+                },
+                {
+                  "text": "উভয়ের মানের গুণফল",
+                  "label": "খ"
+                },
+                {
+                  "text": "0",
+                  "label": "গ"
+                },
+                {
+                  "text": "1",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "গ",
+              "shortSolution": "সঠিক উত্তর: গ। লম্ব ভেক্টরের dot product 0।",
+              "chapter": "02",
+              "topic": "লম্ব ভেক্টর",
+              "difficulty": "Medium",
+              "probability": "Conceptual Trap"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-02-set-02-q14",
+              "question": "$\\vec b=7\\vec a$ হলে $\\vec a$ ও $\\vec b$ কেমন? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 02-14 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+              "options": [
+                {
+                  "text": "লম্ব",
+                  "label": "ক"
+                },
+                {
+                  "text": "সমান্তরাল",
+                  "label": "খ"
+                },
+                {
+                  "text": "বিপরীত নয়",
+                  "label": "গ"
+                },
+                {
+                  "text": "অসংজ্ঞায়িত",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "খ",
+              "shortSolution": "সঠিক উত্তর: খ। একটি অন্যটির scalar multiple হলে তারা সমান্তরাল।",
+              "chapter": "02",
+              "topic": "সমান্তরাল ভেক্টর",
+              "difficulty": "Medium",
+              "probability": "Mega Hot"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-02-set-02-q15",
+              "question": "$\\hat i\\times\\hat j$ কত? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 02-15 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+              "options": [
+                {
+                  "text": "$\\hat i$",
+                  "label": "ক"
+                },
+                {
+                  "text": "0",
+                  "label": "খ"
+                },
+                {
+                  "text": "$-\\hat k$",
+                  "label": "গ"
+                },
+                {
+                  "text": "$\\hat k$",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "ঘ",
+              "shortSolution": "সঠিক উত্তর: ঘ। Right-handed system-এ $i\\times j=k$।",
+              "chapter": "02",
+              "topic": "Vector product",
+              "difficulty": "Hard",
+              "probability": "Very Hot"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-02-set-02-q16",
+              "question": "$|\\vec a\\times\\vec b|$ এর সূত্র কোনটি? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 02-16 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+              "options": [
+                {
+                  "text": "$|a|+|b|$",
+                  "label": "ক"
+                },
+                {
+                  "text": "$|a||b|\\cos\\theta$",
+                  "label": "খ"
+                },
+                {
+                  "text": "$|a||b|\\sin\\theta$",
+                  "label": "গ"
+                },
+                {
+                  "text": "$a\\cdot b$",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "গ",
+              "shortSolution": "সঠিক উত্তর: গ। Cross product-এর magnitude $|a||b|\\sin\\theta$।",
+              "chapter": "02",
+              "topic": "Cross product",
+              "difficulty": "Hard",
+              "probability": "Board Favourite"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-02-set-02-q17",
+              "question": "$\\vec a\\cdot\\vec b=|a||b|$ হলে মধ্যবর্তী কোণ কত? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 02-17 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+              "options": [
+                {
+                  "text": "$90^\\circ$",
+                  "label": "ক"
+                },
+                {
+                  "text": "$0^\\circ$",
+                  "label": "খ"
+                },
+                {
+                  "text": "$180^\\circ$",
+                  "label": "গ"
+                },
+                {
+                  "text": "$45^\\circ$",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "খ",
+              "shortSolution": "সঠিক উত্তর: খ। $\\cos\\theta=1$ হলে $\\theta=0^\\circ$।",
+              "chapter": "02",
+              "topic": "ভেক্টরের কোণ",
+              "difficulty": "Hard",
+              "probability": "Conceptual Trap"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-02-set-02-q18",
+              "question": "Vector product-এর দিক কেমন? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 02-18 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+              "options": [
+                {
+                  "text": "সবসময় $x$-অক্ষ বরাবর",
+                  "label": "ক"
+                },
+                {
+                  "text": "প্রথমটির সমান্তরাল",
+                  "label": "খ"
+                },
+                {
+                  "text": "দ্বিতীয়টির সমান্তরাল",
+                  "label": "গ"
+                },
+                {
+                  "text": "উভয় ভেক্টরের উপর লম্ব",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "ঘ",
+              "shortSolution": "সঠিক উত্তর: ঘ। Cross product উভয় ভেক্টরের plane-এর normal।",
+              "chapter": "02",
+              "topic": "Vector product direction",
+              "difficulty": "Hard",
+              "probability": "Mega Hot"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-02-set-02-q19",
+              "question": "$\\vec a\\cdot\\vec a$ কোনটির সমান? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 02-19 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+              "options": [
+                {
+                  "text": "$|\\vec a|^2$",
+                  "label": "ক"
+                },
+                {
+                  "text": "0",
+                  "label": "খ"
+                },
+                {
+                  "text": "$2|\\vec a|$",
+                  "label": "গ"
+                },
+                {
+                  "text": "$|\\vec a|$",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "ক",
+              "shortSolution": "সঠিক উত্তর: ক। $a\\cdot a=|a||a|\\cos0=|a|^2$।",
+              "chapter": "02",
+              "topic": "Dot product",
+              "difficulty": "Hard",
+              "probability": "Very Hot"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-02-set-02-q20",
+              "question": "Unit vector-এর magnitude কত? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 02-20 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+              "options": [
+                {
+                  "text": "যেকোনো",
+                  "label": "ক"
+                },
+                {
+                  "text": "0",
+                  "label": "খ"
+                },
+                {
+                  "text": "1",
+                  "label": "গ"
+                },
+                {
+                  "text": "-1",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "গ",
+              "shortSolution": "সঠিক উত্তর: গ। সংজ্ঞা অনুসারে unit vector-এর magnitude 1।",
+              "chapter": "02",
+              "topic": "Unit vector",
+              "difficulty": "Hard",
+              "probability": "Board Favourite"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-02-set-02-q21",
+              "question": "$\\vec a=(4,2,5)$ হলে $|\\vec a|^2$ কত?",
+              "options": [
+                {
+                  "text": "45",
+                  "label": "ক"
+                },
+                {
+                  "text": "46",
+                  "label": "খ"
+                },
+                {
+                  "text": "40",
+                  "label": "গ"
+                },
+                {
+                  "text": "11",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "ক",
+              "shortSolution": "সঠিক উত্তর: ক। $|a|^2=x^2+y^2+z^2$।",
+              "chapter": "02",
+              "topic": "ভেক্টরের মান",
+              "difficulty": "Hard",
+              "probability": "Conceptual Trap"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-02-set-02-q22",
+              "question": "$\\vec a=(5,3,6)$ ও $\\vec b=(3,6,5)$ হলে $\\vec a\\cdot\\vec b$ কত?",
+              "options": [
+                {
+                  "text": "63",
+                  "label": "ক"
+                },
+                {
+                  "text": "0",
+                  "label": "খ"
+                },
+                {
+                  "text": "64",
+                  "label": "গ"
+                },
+                {
+                  "text": "-63",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "ক",
+              "shortSolution": "সঠিক উত্তর: ক। Dot product = corresponding components-এর গুণফলের যোগ।",
+              "chapter": "02",
+              "topic": "Dot product",
+              "difficulty": "Board Standard",
+              "probability": "Mega Hot"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-02-set-02-q23",
+              "question": "দুটি non-zero vector perpendicular হলে dot product কত? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 02-23 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+              "options": [
+                {
+                  "text": "1",
+                  "label": "ক"
+                },
+                {
+                  "text": "উভয়ের মানের গুণফল",
+                  "label": "খ"
+                },
+                {
+                  "text": "0",
+                  "label": "গ"
+                },
+                {
+                  "text": "-1",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "গ",
+              "shortSolution": "সঠিক উত্তর: গ। লম্ব ভেক্টরের dot product 0।",
+              "chapter": "02",
+              "topic": "লম্ব ভেক্টর",
+              "difficulty": "Board Standard",
+              "probability": "Very Hot"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-02-set-02-q24",
+              "question": "$\\vec b=7\\vec a$ হলে $\\vec a$ ও $\\vec b$ কেমন? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 02-24 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+              "options": [
+                {
+                  "text": "বিপরীত নয়",
+                  "label": "ক"
+                },
+                {
+                  "text": "অসংজ্ঞায়িত",
+                  "label": "খ"
+                },
+                {
+                  "text": "লম্ব",
+                  "label": "গ"
+                },
+                {
+                  "text": "সমান্তরাল",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "ঘ",
+              "shortSolution": "সঠিক উত্তর: ঘ। একটি অন্যটির scalar multiple হলে তারা সমান্তরাল।",
+              "chapter": "02",
+              "topic": "সমান্তরাল ভেক্টর",
+              "difficulty": "Board Standard",
+              "probability": "Board Favourite"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-02-set-02-q25",
+              "question": "$\\hat i\\times\\hat j$ কত? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 02-25 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+              "options": [
+                {
+                  "text": "$-\\hat k$",
+                  "label": "ক"
+                },
+                {
+                  "text": "$\\hat k$",
+                  "label": "খ"
+                },
+                {
+                  "text": "$\\hat i$",
+                  "label": "গ"
+                },
+                {
+                  "text": "0",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "খ",
+              "shortSolution": "সঠিক উত্তর: খ। Right-handed system-এ $i\\times j=k$।",
+              "chapter": "02",
+              "topic": "Vector product",
+              "difficulty": "Board Standard",
+              "probability": "Conceptual Trap"
+            }
+          ]
+        },
+        {
+          "id": "hsc-higher-math-1st-paper-chapter-02-set-03",
+          "title": "Chapter 02 Hyper Mega Hot Set 03",
+          "questions": [
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-02-set-03-q01",
+              "question": "$\\vec a=(5,3,6)$ হলে $|\\vec a|^2$ কত?",
+              "options": [
+                {
+                  "text": "70",
+                  "label": "ক"
+                },
+                {
+                  "text": "90",
+                  "label": "খ"
+                },
+                {
+                  "text": "71",
+                  "label": "গ"
+                },
+                {
+                  "text": "14",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "ক",
+              "shortSolution": "সঠিক উত্তর: ক। $|a|^2=x^2+y^2+z^2$।",
+              "chapter": "02",
+              "topic": "ভেক্টরের মান",
+              "difficulty": "Easy",
+              "probability": "Mega Hot"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-02-set-03-q02",
+              "question": "$\\vec a=(6,4,7)$ ও $\\vec b=(4,7,6)$ হলে $\\vec a\\cdot\\vec b$ কত?",
+              "options": [
+                {
+                  "text": "94",
+                  "label": "ক"
+                },
+                {
+                  "text": "95",
+                  "label": "খ"
+                },
+                {
+                  "text": "0",
+                  "label": "গ"
+                },
+                {
+                  "text": "-94",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "ক",
+              "shortSolution": "সঠিক উত্তর: ক। Dot product = corresponding components-এর গুণফলের যোগ।",
+              "chapter": "02",
+              "topic": "Dot product",
+              "difficulty": "Easy",
+              "probability": "Very Hot"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-02-set-03-q03",
+              "question": "দুটি non-zero vector perpendicular হলে dot product কত? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 03-03 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+              "options": [
+                {
+                  "text": "1",
+                  "label": "ক"
+                },
+                {
+                  "text": "0",
+                  "label": "খ"
+                },
+                {
+                  "text": "-1",
+                  "label": "গ"
+                },
+                {
+                  "text": "উভয়ের মানের গুণফল",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "খ",
+              "shortSolution": "সঠিক উত্তর: খ। লম্ব ভেক্টরের dot product 0।",
+              "chapter": "02",
+              "topic": "লম্ব ভেক্টর",
+              "difficulty": "Easy",
+              "probability": "Board Favourite"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-02-set-03-q04",
+              "question": "$\\vec b=8\\vec a$ হলে $\\vec a$ ও $\\vec b$ কেমন?",
+              "options": [
+                {
+                  "text": "সমান্তরাল",
+                  "label": "ক"
+                },
+                {
+                  "text": "বিপরীত নয়",
+                  "label": "খ"
+                },
+                {
+                  "text": "অসংজ্ঞায়িত",
+                  "label": "গ"
+                },
+                {
+                  "text": "লম্ব",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "ক",
+              "shortSolution": "সঠিক উত্তর: ক। একটি অন্যটির scalar multiple হলে তারা সমান্তরাল।",
+              "chapter": "02",
+              "topic": "সমান্তরাল ভেক্টর",
+              "difficulty": "Easy",
+              "probability": "Conceptual Trap"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-02-set-03-q05",
+              "question": "$\\hat i\\times\\hat j$ কত? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 03-05 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+              "options": [
+                {
+                  "text": "0",
+                  "label": "ক"
+                },
+                {
+                  "text": "$\\hat k$",
+                  "label": "খ"
+                },
+                {
+                  "text": "$-\\hat k$",
+                  "label": "গ"
+                },
+                {
+                  "text": "$\\hat i$",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "খ",
+              "shortSolution": "সঠিক উত্তর: খ। Right-handed system-এ $i\\times j=k$।",
+              "chapter": "02",
+              "topic": "Vector product",
+              "difficulty": "Easy",
+              "probability": "Mega Hot"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-02-set-03-q06",
+              "question": "$|\\vec a\\times\\vec b|$ এর সূত্র কোনটি? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 03-06 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+              "options": [
+                {
+                  "text": "$|a||b|\\cos\\theta$",
+                  "label": "ক"
+                },
+                {
+                  "text": "$|a||b|\\sin\\theta$",
+                  "label": "খ"
+                },
+                {
+                  "text": "$|a|+|b|$",
+                  "label": "গ"
+                },
+                {
+                  "text": "$a\\cdot b$",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "খ",
+              "shortSolution": "সঠিক উত্তর: খ। Cross product-এর magnitude $|a||b|\\sin\\theta$।",
+              "chapter": "02",
+              "topic": "Cross product",
+              "difficulty": "Easy",
+              "probability": "Very Hot"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-02-set-03-q07",
+              "question": "$\\vec a\\cdot\\vec b=|a||b|$ হলে মধ্যবর্তী কোণ কত? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 03-07 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+              "options": [
+                {
+                  "text": "$180^\\circ$",
+                  "label": "ক"
+                },
+                {
+                  "text": "$0^\\circ$",
+                  "label": "খ"
+                },
+                {
+                  "text": "$90^\\circ$",
+                  "label": "গ"
+                },
+                {
+                  "text": "$45^\\circ$",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "খ",
+              "shortSolution": "সঠিক উত্তর: খ। $\\cos\\theta=1$ হলে $\\theta=0^\\circ$।",
+              "chapter": "02",
+              "topic": "ভেক্টরের কোণ",
+              "difficulty": "Easy",
+              "probability": "Board Favourite"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-02-set-03-q08",
+              "question": "Vector product-এর দিক কেমন? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 03-08 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+              "options": [
+                {
+                  "text": "দ্বিতীয়টির সমান্তরাল",
+                  "label": "ক"
+                },
+                {
+                  "text": "সবসময় $x$-অক্ষ বরাবর",
+                  "label": "খ"
+                },
+                {
+                  "text": "উভয় ভেক্টরের উপর লম্ব",
+                  "label": "গ"
+                },
+                {
+                  "text": "প্রথমটির সমান্তরাল",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "গ",
+              "shortSolution": "সঠিক উত্তর: গ। Cross product উভয় ভেক্টরের plane-এর normal।",
+              "chapter": "02",
+              "topic": "Vector product direction",
+              "difficulty": "Medium",
+              "probability": "Conceptual Trap"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-02-set-03-q09",
+              "question": "$\\vec a\\cdot\\vec a$ কোনটির সমান? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 03-09 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+              "options": [
+                {
+                  "text": "$2|\\vec a|$",
+                  "label": "ক"
+                },
+                {
+                  "text": "$|\\vec a|$",
+                  "label": "খ"
+                },
+                {
+                  "text": "0",
+                  "label": "গ"
+                },
+                {
+                  "text": "$|\\vec a|^2$",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "ঘ",
+              "shortSolution": "সঠিক উত্তর: ঘ। $a\\cdot a=|a||a|\\cos0=|a|^2$।",
+              "chapter": "02",
+              "topic": "Dot product",
+              "difficulty": "Medium",
+              "probability": "Mega Hot"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-02-set-03-q10",
+              "question": "Unit vector-এর magnitude কত? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 03-10 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+              "options": [
+                {
+                  "text": "0",
+                  "label": "ক"
+                },
+                {
+                  "text": "1",
+                  "label": "খ"
+                },
+                {
+                  "text": "-1",
+                  "label": "গ"
+                },
+                {
+                  "text": "যেকোনো",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "খ",
+              "shortSolution": "সঠিক উত্তর: খ। সংজ্ঞা অনুসারে unit vector-এর magnitude 1।",
+              "chapter": "02",
+              "topic": "Unit vector",
+              "difficulty": "Medium",
+              "probability": "Very Hot"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-02-set-03-q11",
+              "question": "$\\vec a=(5,6,8)$ হলে $|\\vec a|^2$ কত?",
+              "options": [
+                {
+                  "text": "240",
+                  "label": "ক"
+                },
+                {
+                  "text": "125",
+                  "label": "খ"
+                },
+                {
+                  "text": "126",
+                  "label": "গ"
+                },
+                {
+                  "text": "19",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "খ",
+              "shortSolution": "সঠিক উত্তর: খ। $|a|^2=x^2+y^2+z^2$।",
+              "chapter": "02",
+              "topic": "ভেক্টরের মান",
+              "difficulty": "Medium",
+              "probability": "Board Favourite"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-02-set-03-q12",
+              "question": "$\\vec a=(6,7,5)$ ও $\\vec b=(7,5,6)$ হলে $\\vec a\\cdot\\vec b$ কত?",
+              "options": [
+                {
+                  "text": "107",
+                  "label": "ক"
+                },
+                {
+                  "text": "0",
+                  "label": "খ"
+                },
+                {
+                  "text": "108",
+                  "label": "গ"
+                },
+                {
+                  "text": "-107",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "ক",
+              "shortSolution": "সঠিক উত্তর: ক। Dot product = corresponding components-এর গুণফলের যোগ।",
+              "chapter": "02",
+              "topic": "Dot product",
+              "difficulty": "Medium",
+              "probability": "Conceptual Trap"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-02-set-03-q13",
+              "question": "দুটি non-zero vector perpendicular হলে dot product কত? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 03-13 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+              "options": [
+                {
+                  "text": "-1",
+                  "label": "ক"
+                },
+                {
+                  "text": "1",
+                  "label": "খ"
+                },
+                {
+                  "text": "0",
+                  "label": "গ"
+                },
+                {
+                  "text": "উভয়ের মানের গুণফল",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "গ",
+              "shortSolution": "সঠিক উত্তর: গ। লম্ব ভেক্টরের dot product 0।",
+              "chapter": "02",
+              "topic": "লম্ব ভেক্টর",
+              "difficulty": "Medium",
+              "probability": "Mega Hot"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-02-set-03-q14",
+              "question": "$\\vec b=8\\vec a$ হলে $\\vec a$ ও $\\vec b$ কেমন? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 03-14 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+              "options": [
+                {
+                  "text": "অসংজ্ঞায়িত",
+                  "label": "ক"
+                },
+                {
+                  "text": "লম্ব",
+                  "label": "খ"
+                },
+                {
+                  "text": "সমান্তরাল",
+                  "label": "গ"
+                },
+                {
+                  "text": "বিপরীত নয়",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "গ",
+              "shortSolution": "সঠিক উত্তর: গ। একটি অন্যটির scalar multiple হলে তারা সমান্তরাল।",
+              "chapter": "02",
+              "topic": "সমান্তরাল ভেক্টর",
+              "difficulty": "Medium",
+              "probability": "Very Hot"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-02-set-03-q15",
+              "question": "$\\hat i\\times\\hat j$ কত? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 03-15 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+              "options": [
+                {
+                  "text": "$\\hat i$",
+                  "label": "ক"
+                },
+                {
+                  "text": "0",
+                  "label": "খ"
+                },
+                {
+                  "text": "$\\hat k$",
+                  "label": "গ"
+                },
+                {
+                  "text": "$-\\hat k$",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "গ",
+              "shortSolution": "সঠিক উত্তর: গ। Right-handed system-এ $i\\times j=k$।",
+              "chapter": "02",
+              "topic": "Vector product",
+              "difficulty": "Hard",
+              "probability": "Board Favourite"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-02-set-03-q16",
+              "question": "$|\\vec a\\times\\vec b|$ এর সূত্র কোনটি? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 03-16 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+              "options": [
+                {
+                  "text": "$|a|+|b|$",
+                  "label": "ক"
+                },
+                {
+                  "text": "$a\\cdot b$",
+                  "label": "খ"
+                },
+                {
+                  "text": "$|a||b|\\sin\\theta$",
+                  "label": "গ"
+                },
+                {
+                  "text": "$|a||b|\\cos\\theta$",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "গ",
+              "shortSolution": "সঠিক উত্তর: গ। Cross product-এর magnitude $|a||b|\\sin\\theta$।",
+              "chapter": "02",
+              "topic": "Cross product",
+              "difficulty": "Hard",
+              "probability": "Conceptual Trap"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-02-set-03-q17",
+              "question": "$\\vec a\\cdot\\vec b=|a||b|$ হলে মধ্যবর্তী কোণ কত? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 03-17 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+              "options": [
+                {
+                  "text": "$0^\\circ$",
+                  "label": "ক"
+                },
+                {
+                  "text": "$90^\\circ$",
+                  "label": "খ"
+                },
+                {
+                  "text": "$180^\\circ$",
+                  "label": "গ"
+                },
+                {
+                  "text": "$45^\\circ$",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "ক",
+              "shortSolution": "সঠিক উত্তর: ক। $\\cos\\theta=1$ হলে $\\theta=0^\\circ$।",
+              "chapter": "02",
+              "topic": "ভেক্টরের কোণ",
+              "difficulty": "Hard",
+              "probability": "Mega Hot"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-02-set-03-q18",
+              "question": "Vector product-এর দিক কেমন? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 03-18 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+              "options": [
+                {
+                  "text": "সবসময় $x$-অক্ষ বরাবর",
+                  "label": "ক"
+                },
+                {
+                  "text": "প্রথমটির সমান্তরাল",
+                  "label": "খ"
+                },
+                {
+                  "text": "দ্বিতীয়টির সমান্তরাল",
+                  "label": "গ"
+                },
+                {
+                  "text": "উভয় ভেক্টরের উপর লম্ব",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "ঘ",
+              "shortSolution": "সঠিক উত্তর: ঘ। Cross product উভয় ভেক্টরের plane-এর normal।",
+              "chapter": "02",
+              "topic": "Vector product direction",
+              "difficulty": "Hard",
+              "probability": "Very Hot"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-02-set-03-q19",
+              "question": "$\\vec a\\cdot\\vec a$ কোনটির সমান? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 03-19 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+              "options": [
+                {
+                  "text": "$2|\\vec a|$",
+                  "label": "ক"
+                },
+                {
+                  "text": "$|\\vec a|$",
+                  "label": "খ"
+                },
+                {
+                  "text": "$|\\vec a|^2$",
+                  "label": "গ"
+                },
+                {
+                  "text": "0",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "গ",
+              "shortSolution": "সঠিক উত্তর: গ। $a\\cdot a=|a||a|\\cos0=|a|^2$।",
+              "chapter": "02",
+              "topic": "Dot product",
+              "difficulty": "Hard",
+              "probability": "Board Favourite"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-02-set-03-q20",
+              "question": "Unit vector-এর magnitude কত? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 03-20 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+              "options": [
+                {
+                  "text": "-1",
+                  "label": "ক"
+                },
+                {
+                  "text": "যেকোনো",
+                  "label": "খ"
+                },
+                {
+                  "text": "1",
+                  "label": "গ"
+                },
+                {
+                  "text": "0",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "গ",
+              "shortSolution": "সঠিক উত্তর: গ। সংজ্ঞা অনুসারে unit vector-এর magnitude 1।",
+              "chapter": "02",
+              "topic": "Unit vector",
+              "difficulty": "Hard",
+              "probability": "Conceptual Trap"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-02-set-03-q21",
+              "question": "$\\vec a=(5,2,6)$ হলে $|\\vec a|^2$ কত?",
+              "options": [
+                {
+                  "text": "66",
+                  "label": "ক"
+                },
+                {
+                  "text": "65",
+                  "label": "খ"
+                },
+                {
+                  "text": "13",
+                  "label": "গ"
+                },
+                {
+                  "text": "60",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "খ",
+              "shortSolution": "সঠিক উত্তর: খ। $|a|^2=x^2+y^2+z^2$।",
+              "chapter": "02",
+              "topic": "ভেক্টরের মান",
+              "difficulty": "Hard",
+              "probability": "Mega Hot"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-02-set-03-q22",
+              "question": "$\\vec a=(6,3,7)$ ও $\\vec b=(3,7,6)$ হলে $\\vec a\\cdot\\vec b$ কত?",
+              "options": [
+                {
+                  "text": "82",
+                  "label": "ক"
+                },
+                {
+                  "text": "81",
+                  "label": "খ"
+                },
+                {
+                  "text": "-81",
+                  "label": "গ"
+                },
+                {
+                  "text": "0",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "খ",
+              "shortSolution": "সঠিক উত্তর: খ। Dot product = corresponding components-এর গুণফলের যোগ।",
+              "chapter": "02",
+              "topic": "Dot product",
+              "difficulty": "Board Standard",
+              "probability": "Very Hot"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-02-set-03-q23",
+              "question": "দুটি non-zero vector perpendicular হলে dot product কত? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 03-23 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+              "options": [
+                {
+                  "text": "উভয়ের মানের গুণফল",
+                  "label": "ক"
+                },
+                {
+                  "text": "-1",
+                  "label": "খ"
+                },
+                {
+                  "text": "1",
+                  "label": "গ"
+                },
+                {
+                  "text": "0",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "ঘ",
+              "shortSolution": "সঠিক উত্তর: ঘ। লম্ব ভেক্টরের dot product 0।",
+              "chapter": "02",
+              "topic": "লম্ব ভেক্টর",
+              "difficulty": "Board Standard",
+              "probability": "Board Favourite"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-02-set-03-q24",
+              "question": "$\\vec b=8\\vec a$ হলে $\\vec a$ ও $\\vec b$ কেমন? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 03-24 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+              "options": [
+                {
+                  "text": "সমান্তরাল",
+                  "label": "ক"
+                },
+                {
+                  "text": "লম্ব",
+                  "label": "খ"
+                },
+                {
+                  "text": "অসংজ্ঞায়িত",
+                  "label": "গ"
+                },
+                {
+                  "text": "বিপরীত নয়",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "ক",
+              "shortSolution": "সঠিক উত্তর: ক। একটি অন্যটির scalar multiple হলে তারা সমান্তরাল।",
+              "chapter": "02",
+              "topic": "সমান্তরাল ভেক্টর",
+              "difficulty": "Board Standard",
+              "probability": "Conceptual Trap"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-02-set-03-q25",
+              "question": "$\\hat i\\times\\hat j$ কত? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 03-25 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+              "options": [
+                {
+                  "text": "0",
+                  "label": "ক"
+                },
+                {
+                  "text": "$\\hat k$",
+                  "label": "খ"
+                },
+                {
+                  "text": "$\\hat i$",
+                  "label": "গ"
+                },
+                {
+                  "text": "$-\\hat k$",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "খ",
+              "shortSolution": "সঠিক উত্তর: খ। Right-handed system-এ $i\\times j=k$।",
+              "chapter": "02",
+              "topic": "Vector product",
+              "difficulty": "Board Standard",
+              "probability": "Mega Hot"
+            }
+          ]
+        },
+        {
+          "id": "hsc-higher-math-1st-paper-chapter-02-set-04",
+          "title": "Chapter 02 Hyper Mega Hot Set 04",
+          "questions": [
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-02-set-04-q01",
+              "question": "$\\vec a=(6,3,7)$ হলে $|\\vec a|^2$ কত?",
+              "options": [
+                {
+                  "text": "16",
+                  "label": "ক"
+                },
+                {
+                  "text": "126",
+                  "label": "খ"
+                },
+                {
+                  "text": "94",
+                  "label": "গ"
+                },
+                {
+                  "text": "95",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "গ",
+              "shortSolution": "সঠিক উত্তর: গ। $|a|^2=x^2+y^2+z^2$।",
+              "chapter": "02",
+              "topic": "ভেক্টরের মান",
+              "difficulty": "Easy",
+              "probability": "Very Hot"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-02-set-04-q02",
+              "question": "$\\vec a=(7,4,8)$ ও $\\vec b=(4,8,7)$ হলে $\\vec a\\cdot\\vec b$ কত?",
+              "options": [
+                {
+                  "text": "-116",
+                  "label": "ক"
+                },
+                {
+                  "text": "116",
+                  "label": "খ"
+                },
+                {
+                  "text": "117",
+                  "label": "গ"
+                },
+                {
+                  "text": "0",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "খ",
+              "shortSolution": "সঠিক উত্তর: খ। Dot product = corresponding components-এর গুণফলের যোগ।",
+              "chapter": "02",
+              "topic": "Dot product",
+              "difficulty": "Easy",
+              "probability": "Board Favourite"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-02-set-04-q03",
+              "question": "দুটি non-zero vector perpendicular হলে dot product কত? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 04-03 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+              "options": [
+                {
+                  "text": "উভয়ের মানের গুণফল",
+                  "label": "ক"
+                },
+                {
+                  "text": "1",
+                  "label": "খ"
+                },
+                {
+                  "text": "0",
+                  "label": "গ"
+                },
+                {
+                  "text": "-1",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "গ",
+              "shortSolution": "সঠিক উত্তর: গ। লম্ব ভেক্টরের dot product 0।",
+              "chapter": "02",
+              "topic": "লম্ব ভেক্টর",
+              "difficulty": "Easy",
+              "probability": "Conceptual Trap"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-02-set-04-q04",
+              "question": "$\\vec b=9\\vec a$ হলে $\\vec a$ ও $\\vec b$ কেমন?",
+              "options": [
+                {
+                  "text": "বিপরীত নয়",
+                  "label": "ক"
+                },
+                {
+                  "text": "অসংজ্ঞায়িত",
+                  "label": "খ"
+                },
+                {
+                  "text": "লম্ব",
+                  "label": "গ"
+                },
+                {
+                  "text": "সমান্তরাল",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "ঘ",
+              "shortSolution": "সঠিক উত্তর: ঘ। একটি অন্যটির scalar multiple হলে তারা সমান্তরাল।",
+              "chapter": "02",
+              "topic": "সমান্তরাল ভেক্টর",
+              "difficulty": "Easy",
+              "probability": "Mega Hot"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-02-set-04-q05",
+              "question": "$\\hat i\\times\\hat j$ কত? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 04-05 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+              "options": [
+                {
+                  "text": "$\\hat i$",
+                  "label": "ক"
+                },
+                {
+                  "text": "$\\hat k$",
+                  "label": "খ"
+                },
+                {
+                  "text": "$-\\hat k$",
+                  "label": "গ"
+                },
+                {
+                  "text": "0",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "খ",
+              "shortSolution": "সঠিক উত্তর: খ। Right-handed system-এ $i\\times j=k$।",
+              "chapter": "02",
+              "topic": "Vector product",
+              "difficulty": "Easy",
+              "probability": "Very Hot"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-02-set-04-q06",
+              "question": "$|\\vec a\\times\\vec b|$ এর সূত্র কোনটি? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 04-06 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+              "options": [
+                {
+                  "text": "$|a||b|\\sin\\theta$",
+                  "label": "ক"
+                },
+                {
+                  "text": "$a\\cdot b$",
+                  "label": "খ"
+                },
+                {
+                  "text": "$|a|+|b|$",
+                  "label": "গ"
+                },
+                {
+                  "text": "$|a||b|\\cos\\theta$",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "ক",
+              "shortSolution": "সঠিক উত্তর: ক। Cross product-এর magnitude $|a||b|\\sin\\theta$।",
+              "chapter": "02",
+              "topic": "Cross product",
+              "difficulty": "Easy",
+              "probability": "Board Favourite"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-02-set-04-q07",
+              "question": "$\\vec a\\cdot\\vec b=|a||b|$ হলে মধ্যবর্তী কোণ কত? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 04-07 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+              "options": [
+                {
+                  "text": "$0^\\circ$",
+                  "label": "ক"
+                },
+                {
+                  "text": "$45^\\circ$",
+                  "label": "খ"
+                },
+                {
+                  "text": "$180^\\circ$",
+                  "label": "গ"
+                },
+                {
+                  "text": "$90^\\circ$",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "ক",
+              "shortSolution": "সঠিক উত্তর: ক। $\\cos\\theta=1$ হলে $\\theta=0^\\circ$।",
+              "chapter": "02",
+              "topic": "ভেক্টরের কোণ",
+              "difficulty": "Easy",
+              "probability": "Conceptual Trap"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-02-set-04-q08",
+              "question": "Vector product-এর দিক কেমন? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 04-08 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+              "options": [
+                {
+                  "text": "প্রথমটির সমান্তরাল",
+                  "label": "ক"
+                },
+                {
+                  "text": "দ্বিতীয়টির সমান্তরাল",
+                  "label": "খ"
+                },
+                {
+                  "text": "উভয় ভেক্টরের উপর লম্ব",
+                  "label": "গ"
+                },
+                {
+                  "text": "সবসময় $x$-অক্ষ বরাবর",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "গ",
+              "shortSolution": "সঠিক উত্তর: গ। Cross product উভয় ভেক্টরের plane-এর normal।",
+              "chapter": "02",
+              "topic": "Vector product direction",
+              "difficulty": "Medium",
+              "probability": "Mega Hot"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-02-set-04-q09",
+              "question": "$\\vec a\\cdot\\vec a$ কোনটির সমান? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 04-09 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+              "options": [
+                {
+                  "text": "$|\\vec a|^2$",
+                  "label": "ক"
+                },
+                {
+                  "text": "$2|\\vec a|$",
+                  "label": "খ"
+                },
+                {
+                  "text": "0",
+                  "label": "গ"
+                },
+                {
+                  "text": "$|\\vec a|$",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "ক",
+              "shortSolution": "সঠিক উত্তর: ক। $a\\cdot a=|a||a|\\cos0=|a|^2$।",
+              "chapter": "02",
+              "topic": "Dot product",
+              "difficulty": "Medium",
+              "probability": "Very Hot"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-02-set-04-q10",
+              "question": "Unit vector-এর magnitude কত? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 04-10 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+              "options": [
+                {
+                  "text": "যেকোনো",
+                  "label": "ক"
+                },
+                {
+                  "text": "1",
+                  "label": "খ"
+                },
+                {
+                  "text": "0",
+                  "label": "গ"
+                },
+                {
+                  "text": "-1",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "খ",
+              "shortSolution": "সঠিক উত্তর: খ। সংজ্ঞা অনুসারে unit vector-এর magnitude 1।",
+              "chapter": "02",
+              "topic": "Unit vector",
+              "difficulty": "Medium",
+              "probability": "Board Favourite"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-02-set-04-q11",
+              "question": "$\\vec a=(6,6,9)$ হলে $|\\vec a|^2$ কত?",
+              "options": [
+                {
+                  "text": "324",
+                  "label": "ক"
+                },
+                {
+                  "text": "21",
+                  "label": "খ"
+                },
+                {
+                  "text": "153",
+                  "label": "গ"
+                },
+                {
+                  "text": "154",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "গ",
+              "shortSolution": "সঠিক উত্তর: গ। $|a|^2=x^2+y^2+z^2$।",
+              "chapter": "02",
+              "topic": "ভেক্টরের মান",
+              "difficulty": "Medium",
+              "probability": "Conceptual Trap"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-02-set-04-q12",
+              "question": "$\\vec a=(7,7,6)$ ও $\\vec b=(7,6,7)$ হলে $\\vec a\\cdot\\vec b$ কত?",
+              "options": [
+                {
+                  "text": "134",
+                  "label": "ক"
+                },
+                {
+                  "text": "133",
+                  "label": "খ"
+                },
+                {
+                  "text": "0",
+                  "label": "গ"
+                },
+                {
+                  "text": "-133",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "খ",
+              "shortSolution": "সঠিক উত্তর: খ। Dot product = corresponding components-এর গুণফলের যোগ।",
+              "chapter": "02",
+              "topic": "Dot product",
+              "difficulty": "Medium",
+              "probability": "Mega Hot"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-02-set-04-q13",
+              "question": "দুটি non-zero vector perpendicular হলে dot product কত? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 04-13 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+              "options": [
+                {
+                  "text": "উভয়ের মানের গুণফল",
+                  "label": "ক"
+                },
+                {
+                  "text": "0",
+                  "label": "খ"
+                },
+                {
+                  "text": "1",
+                  "label": "গ"
+                },
+                {
+                  "text": "-1",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "খ",
+              "shortSolution": "সঠিক উত্তর: খ। লম্ব ভেক্টরের dot product 0।",
+              "chapter": "02",
+              "topic": "লম্ব ভেক্টর",
+              "difficulty": "Medium",
+              "probability": "Very Hot"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-02-set-04-q14",
+              "question": "$\\vec b=9\\vec a$ হলে $\\vec a$ ও $\\vec b$ কেমন? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 04-14 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+              "options": [
+                {
+                  "text": "লম্ব",
+                  "label": "ক"
+                },
+                {
+                  "text": "অসংজ্ঞায়িত",
+                  "label": "খ"
+                },
+                {
+                  "text": "বিপরীত নয়",
+                  "label": "গ"
+                },
+                {
+                  "text": "সমান্তরাল",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "ঘ",
+              "shortSolution": "সঠিক উত্তর: ঘ। একটি অন্যটির scalar multiple হলে তারা সমান্তরাল।",
+              "chapter": "02",
+              "topic": "সমান্তরাল ভেক্টর",
+              "difficulty": "Medium",
+              "probability": "Board Favourite"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-02-set-04-q15",
+              "question": "$\\hat i\\times\\hat j$ কত? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 04-15 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+              "options": [
+                {
+                  "text": "0",
+                  "label": "ক"
+                },
+                {
+                  "text": "$-\\hat k$",
+                  "label": "খ"
+                },
+                {
+                  "text": "$\\hat i$",
+                  "label": "গ"
+                },
+                {
+                  "text": "$\\hat k$",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "ঘ",
+              "shortSolution": "সঠিক উত্তর: ঘ। Right-handed system-এ $i\\times j=k$।",
+              "chapter": "02",
+              "topic": "Vector product",
+              "difficulty": "Hard",
+              "probability": "Conceptual Trap"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-02-set-04-q16",
+              "question": "$|\\vec a\\times\\vec b|$ এর সূত্র কোনটি? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 04-16 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+              "options": [
+                {
+                  "text": "$a\\cdot b$",
+                  "label": "ক"
+                },
+                {
+                  "text": "$|a||b|\\cos\\theta$",
+                  "label": "খ"
+                },
+                {
+                  "text": "$|a|+|b|$",
+                  "label": "গ"
+                },
+                {
+                  "text": "$|a||b|\\sin\\theta$",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "ঘ",
+              "shortSolution": "সঠিক উত্তর: ঘ। Cross product-এর magnitude $|a||b|\\sin\\theta$।",
+              "chapter": "02",
+              "topic": "Cross product",
+              "difficulty": "Hard",
+              "probability": "Mega Hot"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-02-set-04-q17",
+              "question": "$\\vec a\\cdot\\vec b=|a||b|$ হলে মধ্যবর্তী কোণ কত? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 04-17 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+              "options": [
+                {
+                  "text": "$90^\\circ$",
+                  "label": "ক"
+                },
+                {
+                  "text": "$180^\\circ$",
+                  "label": "খ"
+                },
+                {
+                  "text": "$45^\\circ$",
+                  "label": "গ"
+                },
+                {
+                  "text": "$0^\\circ$",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "ঘ",
+              "shortSolution": "সঠিক উত্তর: ঘ। $\\cos\\theta=1$ হলে $\\theta=0^\\circ$।",
+              "chapter": "02",
+              "topic": "ভেক্টরের কোণ",
+              "difficulty": "Hard",
+              "probability": "Very Hot"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-02-set-04-q18",
+              "question": "Vector product-এর দিক কেমন? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 04-18 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+              "options": [
+                {
+                  "text": "উভয় ভেক্টরের উপর লম্ব",
+                  "label": "ক"
+                },
+                {
+                  "text": "সবসময় $x$-অক্ষ বরাবর",
+                  "label": "খ"
+                },
+                {
+                  "text": "দ্বিতীয়টির সমান্তরাল",
+                  "label": "গ"
+                },
+                {
+                  "text": "প্রথমটির সমান্তরাল",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "ক",
+              "shortSolution": "সঠিক উত্তর: ক। Cross product উভয় ভেক্টরের plane-এর normal।",
+              "chapter": "02",
+              "topic": "Vector product direction",
+              "difficulty": "Hard",
+              "probability": "Board Favourite"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-02-set-04-q19",
+              "question": "$\\vec a\\cdot\\vec a$ কোনটির সমান? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 04-19 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+              "options": [
+                {
+                  "text": "0",
+                  "label": "ক"
+                },
+                {
+                  "text": "$|\\vec a|^2$",
+                  "label": "খ"
+                },
+                {
+                  "text": "$|\\vec a|$",
+                  "label": "গ"
+                },
+                {
+                  "text": "$2|\\vec a|$",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "খ",
+              "shortSolution": "সঠিক উত্তর: খ। $a\\cdot a=|a||a|\\cos0=|a|^2$।",
+              "chapter": "02",
+              "topic": "Dot product",
+              "difficulty": "Hard",
+              "probability": "Conceptual Trap"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-02-set-04-q20",
+              "question": "Unit vector-এর magnitude কত? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 04-20 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+              "options": [
+                {
+                  "text": "0",
+                  "label": "ক"
+                },
+                {
+                  "text": "-1",
+                  "label": "খ"
+                },
+                {
+                  "text": "1",
+                  "label": "গ"
+                },
+                {
+                  "text": "যেকোনো",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "গ",
+              "shortSolution": "সঠিক উত্তর: গ। সংজ্ঞা অনুসারে unit vector-এর magnitude 1।",
+              "chapter": "02",
+              "topic": "Unit vector",
+              "difficulty": "Hard",
+              "probability": "Mega Hot"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-02-set-04-q21",
+              "question": "$\\vec a=(6,2,7)$ হলে $|\\vec a|^2$ কত?",
+              "options": [
+                {
+                  "text": "15",
+                  "label": "ক"
+                },
+                {
+                  "text": "84",
+                  "label": "খ"
+                },
+                {
+                  "text": "90",
+                  "label": "গ"
+                },
+                {
+                  "text": "89",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "ঘ",
+              "shortSolution": "সঠিক উত্তর: ঘ। $|a|^2=x^2+y^2+z^2$।",
+              "chapter": "02",
+              "topic": "ভেক্টরের মান",
+              "difficulty": "Hard",
+              "probability": "Very Hot"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-02-set-04-q22",
+              "question": "$\\vec a=(7,3,8)$ ও $\\vec b=(3,8,7)$ হলে $\\vec a\\cdot\\vec b$ কত?",
+              "options": [
+                {
+                  "text": "-101",
+                  "label": "ক"
+                },
+                {
+                  "text": "0",
+                  "label": "খ"
+                },
+                {
+                  "text": "101",
+                  "label": "গ"
+                },
+                {
+                  "text": "102",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "গ",
+              "shortSolution": "সঠিক উত্তর: গ। Dot product = corresponding components-এর গুণফলের যোগ।",
+              "chapter": "02",
+              "topic": "Dot product",
+              "difficulty": "Board Standard",
+              "probability": "Board Favourite"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-02-set-04-q23",
+              "question": "দুটি non-zero vector perpendicular হলে dot product কত? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 04-23 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+              "options": [
+                {
+                  "text": "-1",
+                  "label": "ক"
+                },
+                {
+                  "text": "উভয়ের মানের গুণফল",
+                  "label": "খ"
+                },
+                {
+                  "text": "1",
+                  "label": "গ"
+                },
+                {
+                  "text": "0",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "ঘ",
+              "shortSolution": "সঠিক উত্তর: ঘ। লম্ব ভেক্টরের dot product 0।",
+              "chapter": "02",
+              "topic": "লম্ব ভেক্টর",
+              "difficulty": "Board Standard",
+              "probability": "Conceptual Trap"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-02-set-04-q24",
+              "question": "$\\vec b=9\\vec a$ হলে $\\vec a$ ও $\\vec b$ কেমন? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 04-24 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+              "options": [
+                {
+                  "text": "বিপরীত নয়",
+                  "label": "ক"
+                },
+                {
+                  "text": "লম্ব",
+                  "label": "খ"
+                },
+                {
+                  "text": "অসংজ্ঞায়িত",
+                  "label": "গ"
+                },
+                {
+                  "text": "সমান্তরাল",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "ঘ",
+              "shortSolution": "সঠিক উত্তর: ঘ। একটি অন্যটির scalar multiple হলে তারা সমান্তরাল।",
+              "chapter": "02",
+              "topic": "সমান্তরাল ভেক্টর",
+              "difficulty": "Board Standard",
+              "probability": "Mega Hot"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-02-set-04-q25",
+              "question": "$\\hat i\\times\\hat j$ কত? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 04-25 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+              "options": [
+                {
+                  "text": "$-\\hat k$",
+                  "label": "ক"
+                },
+                {
+                  "text": "0",
+                  "label": "খ"
+                },
+                {
+                  "text": "$\\hat i$",
+                  "label": "গ"
+                },
+                {
+                  "text": "$\\hat k$",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "ঘ",
+              "shortSolution": "সঠিক উত্তর: ঘ। Right-handed system-এ $i\\times j=k$।",
+              "chapter": "02",
+              "topic": "Vector product",
+              "difficulty": "Board Standard",
+              "probability": "Very Hot"
+            }
+          ]
+        },
+        {
+          "id": "hsc-higher-math-1st-paper-chapter-02-set-05",
+          "title": "Chapter 02 Hyper Mega Hot Set 05",
+          "questions": [
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-02-set-05-q01",
+              "question": "$\\vec a=(7,3,8)$ হলে $|\\vec a|^2$ কত?",
+              "options": [
+                {
+                  "text": "123",
+                  "label": "ক"
+                },
+                {
+                  "text": "122",
+                  "label": "খ"
+                },
+                {
+                  "text": "18",
+                  "label": "গ"
+                },
+                {
+                  "text": "168",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "খ",
+              "shortSolution": "সঠিক উত্তর: খ। $|a|^2=x^2+y^2+z^2$।",
+              "chapter": "02",
+              "topic": "ভেক্টরের মান",
+              "difficulty": "Easy",
+              "probability": "Board Favourite"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-02-set-05-q02",
+              "question": "$\\vec a=(8,4,9)$ ও $\\vec b=(4,9,8)$ হলে $\\vec a\\cdot\\vec b$ কত?",
+              "options": [
+                {
+                  "text": "141",
+                  "label": "ক"
+                },
+                {
+                  "text": "140",
+                  "label": "খ"
+                },
+                {
+                  "text": "0",
+                  "label": "গ"
+                },
+                {
+                  "text": "-140",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "খ",
+              "shortSolution": "সঠিক উত্তর: খ। Dot product = corresponding components-এর গুণফলের যোগ।",
+              "chapter": "02",
+              "topic": "Dot product",
+              "difficulty": "Easy",
+              "probability": "Conceptual Trap"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-02-set-05-q03",
+              "question": "দুটি non-zero vector perpendicular হলে dot product কত? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 05-03 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+              "options": [
+                {
+                  "text": "0",
+                  "label": "ক"
+                },
+                {
+                  "text": "উভয়ের মানের গুণফল",
+                  "label": "খ"
+                },
+                {
+                  "text": "1",
+                  "label": "গ"
+                },
+                {
+                  "text": "-1",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "ক",
+              "shortSolution": "সঠিক উত্তর: ক। লম্ব ভেক্টরের dot product 0।",
+              "chapter": "02",
+              "topic": "লম্ব ভেক্টর",
+              "difficulty": "Easy",
+              "probability": "Mega Hot"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-02-set-05-q04",
+              "question": "$\\vec b=10\\vec a$ হলে $\\vec a$ ও $\\vec b$ কেমন?",
+              "options": [
+                {
+                  "text": "সমান্তরাল",
+                  "label": "ক"
+                },
+                {
+                  "text": "অসংজ্ঞায়িত",
+                  "label": "খ"
+                },
+                {
+                  "text": "বিপরীত নয়",
+                  "label": "গ"
+                },
+                {
+                  "text": "লম্ব",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "ক",
+              "shortSolution": "সঠিক উত্তর: ক। একটি অন্যটির scalar multiple হলে তারা সমান্তরাল।",
+              "chapter": "02",
+              "topic": "সমান্তরাল ভেক্টর",
+              "difficulty": "Easy",
+              "probability": "Very Hot"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-02-set-05-q05",
+              "question": "$\\hat i\\times\\hat j$ কত? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 05-05 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+              "options": [
+                {
+                  "text": "0",
+                  "label": "ক"
+                },
+                {
+                  "text": "$-\\hat k$",
+                  "label": "খ"
+                },
+                {
+                  "text": "$\\hat i$",
+                  "label": "গ"
+                },
+                {
+                  "text": "$\\hat k$",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "ঘ",
+              "shortSolution": "সঠিক উত্তর: ঘ। Right-handed system-এ $i\\times j=k$।",
+              "chapter": "02",
+              "topic": "Vector product",
+              "difficulty": "Easy",
+              "probability": "Board Favourite"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-02-set-05-q06",
+              "question": "$|\\vec a\\times\\vec b|$ এর সূত্র কোনটি? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 05-06 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+              "options": [
+                {
+                  "text": "$|a|+|b|$",
+                  "label": "ক"
+                },
+                {
+                  "text": "$|a||b|\\cos\\theta$",
+                  "label": "খ"
+                },
+                {
+                  "text": "$a\\cdot b$",
+                  "label": "গ"
+                },
+                {
+                  "text": "$|a||b|\\sin\\theta$",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "ঘ",
+              "shortSolution": "সঠিক উত্তর: ঘ। Cross product-এর magnitude $|a||b|\\sin\\theta$।",
+              "chapter": "02",
+              "topic": "Cross product",
+              "difficulty": "Easy",
+              "probability": "Conceptual Trap"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-02-set-05-q07",
+              "question": "$\\vec a\\cdot\\vec b=|a||b|$ হলে মধ্যবর্তী কোণ কত? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 05-07 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+              "options": [
+                {
+                  "text": "$180^\\circ$",
+                  "label": "ক"
+                },
+                {
+                  "text": "$45^\\circ$",
+                  "label": "খ"
+                },
+                {
+                  "text": "$0^\\circ$",
+                  "label": "গ"
+                },
+                {
+                  "text": "$90^\\circ$",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "গ",
+              "shortSolution": "সঠিক উত্তর: গ। $\\cos\\theta=1$ হলে $\\theta=0^\\circ$।",
+              "chapter": "02",
+              "topic": "ভেক্টরের কোণ",
+              "difficulty": "Easy",
+              "probability": "Mega Hot"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-02-set-05-q08",
+              "question": "Vector product-এর দিক কেমন? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 05-08 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+              "options": [
+                {
+                  "text": "সবসময় $x$-অক্ষ বরাবর",
+                  "label": "ক"
+                },
+                {
+                  "text": "দ্বিতীয়টির সমান্তরাল",
+                  "label": "খ"
+                },
+                {
+                  "text": "উভয় ভেক্টরের উপর লম্ব",
+                  "label": "গ"
+                },
+                {
+                  "text": "প্রথমটির সমান্তরাল",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "গ",
+              "shortSolution": "সঠিক উত্তর: গ। Cross product উভয় ভেক্টরের plane-এর normal।",
+              "chapter": "02",
+              "topic": "Vector product direction",
+              "difficulty": "Medium",
+              "probability": "Very Hot"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-02-set-05-q09",
+              "question": "$\\vec a\\cdot\\vec a$ কোনটির সমান? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 05-09 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+              "options": [
+                {
+                  "text": "$|\\vec a|^2$",
+                  "label": "ক"
+                },
+                {
+                  "text": "0",
+                  "label": "খ"
+                },
+                {
+                  "text": "$2|\\vec a|$",
+                  "label": "গ"
+                },
+                {
+                  "text": "$|\\vec a|$",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "ক",
+              "shortSolution": "সঠিক উত্তর: ক। $a\\cdot a=|a||a|\\cos0=|a|^2$।",
+              "chapter": "02",
+              "topic": "Dot product",
+              "difficulty": "Medium",
+              "probability": "Board Favourite"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-02-set-05-q10",
+              "question": "Unit vector-এর magnitude কত? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 05-10 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+              "options": [
+                {
+                  "text": "যেকোনো",
+                  "label": "ক"
+                },
+                {
+                  "text": "1",
+                  "label": "খ"
+                },
+                {
+                  "text": "-1",
+                  "label": "গ"
+                },
+                {
+                  "text": "0",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "খ",
+              "shortSolution": "সঠিক উত্তর: খ। সংজ্ঞা অনুসারে unit vector-এর magnitude 1।",
+              "chapter": "02",
+              "topic": "Unit vector",
+              "difficulty": "Medium",
+              "probability": "Conceptual Trap"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-02-set-05-q11",
+              "question": "$\\vec a=(7,6,10)$ হলে $|\\vec a|^2$ কত?",
+              "options": [
+                {
+                  "text": "185",
+                  "label": "ক"
+                },
+                {
+                  "text": "186",
+                  "label": "খ"
+                },
+                {
+                  "text": "420",
+                  "label": "গ"
+                },
+                {
+                  "text": "23",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "ক",
+              "shortSolution": "সঠিক উত্তর: ক। $|a|^2=x^2+y^2+z^2$।",
+              "chapter": "02",
+              "topic": "ভেক্টরের মান",
+              "difficulty": "Medium",
+              "probability": "Mega Hot"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-02-set-05-q12",
+              "question": "$\\vec a=(8,7,7)$ ও $\\vec b=(7,7,8)$ হলে $\\vec a\\cdot\\vec b$ কত?",
+              "options": [
+                {
+                  "text": "0",
+                  "label": "ক"
+                },
+                {
+                  "text": "-161",
+                  "label": "খ"
+                },
+                {
+                  "text": "162",
+                  "label": "গ"
+                },
+                {
+                  "text": "161",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "ঘ",
+              "shortSolution": "সঠিক উত্তর: ঘ। Dot product = corresponding components-এর গুণফলের যোগ।",
+              "chapter": "02",
+              "topic": "Dot product",
+              "difficulty": "Medium",
+              "probability": "Very Hot"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-02-set-05-q13",
+              "question": "দুটি non-zero vector perpendicular হলে dot product কত? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 05-13 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+              "options": [
+                {
+                  "text": "উভয়ের মানের গুণফল",
+                  "label": "ক"
+                },
+                {
+                  "text": "0",
+                  "label": "খ"
+                },
+                {
+                  "text": "1",
+                  "label": "গ"
+                },
+                {
+                  "text": "-1",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "খ",
+              "shortSolution": "সঠিক উত্তর: খ। লম্ব ভেক্টরের dot product 0।",
+              "chapter": "02",
+              "topic": "লম্ব ভেক্টর",
+              "difficulty": "Medium",
+              "probability": "Board Favourite"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-02-set-05-q14",
+              "question": "$\\vec b=10\\vec a$ হলে $\\vec a$ ও $\\vec b$ কেমন? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 05-14 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+              "options": [
+                {
+                  "text": "সমান্তরাল",
+                  "label": "ক"
+                },
+                {
+                  "text": "অসংজ্ঞায়িত",
+                  "label": "খ"
+                },
+                {
+                  "text": "বিপরীত নয়",
+                  "label": "গ"
+                },
+                {
+                  "text": "লম্ব",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "ক",
+              "shortSolution": "সঠিক উত্তর: ক। একটি অন্যটির scalar multiple হলে তারা সমান্তরাল।",
+              "chapter": "02",
+              "topic": "সমান্তরাল ভেক্টর",
+              "difficulty": "Medium",
+              "probability": "Conceptual Trap"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-02-set-05-q15",
+              "question": "$\\hat i\\times\\hat j$ কত? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 05-15 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+              "options": [
+                {
+                  "text": "0",
+                  "label": "ক"
+                },
+                {
+                  "text": "$\\hat i$",
+                  "label": "খ"
+                },
+                {
+                  "text": "$\\hat k$",
+                  "label": "গ"
+                },
+                {
+                  "text": "$-\\hat k$",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "গ",
+              "shortSolution": "সঠিক উত্তর: গ। Right-handed system-এ $i\\times j=k$।",
+              "chapter": "02",
+              "topic": "Vector product",
+              "difficulty": "Hard",
+              "probability": "Mega Hot"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-02-set-05-q16",
+              "question": "$|\\vec a\\times\\vec b|$ এর সূত্র কোনটি? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 05-16 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+              "options": [
+                {
+                  "text": "$|a|+|b|$",
+                  "label": "ক"
+                },
+                {
+                  "text": "$|a||b|\\cos\\theta$",
+                  "label": "খ"
+                },
+                {
+                  "text": "$a\\cdot b$",
+                  "label": "গ"
+                },
+                {
+                  "text": "$|a||b|\\sin\\theta$",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "ঘ",
+              "shortSolution": "সঠিক উত্তর: ঘ। Cross product-এর magnitude $|a||b|\\sin\\theta$।",
+              "chapter": "02",
+              "topic": "Cross product",
+              "difficulty": "Hard",
+              "probability": "Very Hot"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-02-set-05-q17",
+              "question": "$\\vec a\\cdot\\vec b=|a||b|$ হলে মধ্যবর্তী কোণ কত? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 05-17 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+              "options": [
+                {
+                  "text": "$180^\\circ$",
+                  "label": "ক"
+                },
+                {
+                  "text": "$90^\\circ$",
+                  "label": "খ"
+                },
+                {
+                  "text": "$0^\\circ$",
+                  "label": "গ"
+                },
+                {
+                  "text": "$45^\\circ$",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "গ",
+              "shortSolution": "সঠিক উত্তর: গ। $\\cos\\theta=1$ হলে $\\theta=0^\\circ$।",
+              "chapter": "02",
+              "topic": "ভেক্টরের কোণ",
+              "difficulty": "Hard",
+              "probability": "Board Favourite"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-02-set-05-q18",
+              "question": "Vector product-এর দিক কেমন? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 05-18 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+              "options": [
+                {
+                  "text": "প্রথমটির সমান্তরাল",
+                  "label": "ক"
+                },
+                {
+                  "text": "দ্বিতীয়টির সমান্তরাল",
+                  "label": "খ"
+                },
+                {
+                  "text": "উভয় ভেক্টরের উপর লম্ব",
+                  "label": "গ"
+                },
+                {
+                  "text": "সবসময় $x$-অক্ষ বরাবর",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "গ",
+              "shortSolution": "সঠিক উত্তর: গ। Cross product উভয় ভেক্টরের plane-এর normal।",
+              "chapter": "02",
+              "topic": "Vector product direction",
+              "difficulty": "Hard",
+              "probability": "Conceptual Trap"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-02-set-05-q19",
+              "question": "$\\vec a\\cdot\\vec a$ কোনটির সমান? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 05-19 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+              "options": [
+                {
+                  "text": "$2|\\vec a|$",
+                  "label": "ক"
+                },
+                {
+                  "text": "0",
+                  "label": "খ"
+                },
+                {
+                  "text": "$|\\vec a|$",
+                  "label": "গ"
+                },
+                {
+                  "text": "$|\\vec a|^2$",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "ঘ",
+              "shortSolution": "সঠিক উত্তর: ঘ। $a\\cdot a=|a||a|\\cos0=|a|^2$।",
+              "chapter": "02",
+              "topic": "Dot product",
+              "difficulty": "Hard",
+              "probability": "Mega Hot"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-02-set-05-q20",
+              "question": "Unit vector-এর magnitude কত? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 05-20 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+              "options": [
+                {
+                  "text": "0",
+                  "label": "ক"
+                },
+                {
+                  "text": "যেকোনো",
+                  "label": "খ"
+                },
+                {
+                  "text": "-1",
+                  "label": "গ"
+                },
+                {
+                  "text": "1",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "ঘ",
+              "shortSolution": "সঠিক উত্তর: ঘ। সংজ্ঞা অনুসারে unit vector-এর magnitude 1।",
+              "chapter": "02",
+              "topic": "Unit vector",
+              "difficulty": "Hard",
+              "probability": "Very Hot"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-02-set-05-q21",
+              "question": "$\\vec a=(7,2,8)$ হলে $|\\vec a|^2$ কত?",
+              "options": [
+                {
+                  "text": "112",
+                  "label": "ক"
+                },
+                {
+                  "text": "17",
+                  "label": "খ"
+                },
+                {
+                  "text": "118",
+                  "label": "গ"
+                },
+                {
+                  "text": "117",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "ঘ",
+              "shortSolution": "সঠিক উত্তর: ঘ। $|a|^2=x^2+y^2+z^2$।",
+              "chapter": "02",
+              "topic": "ভেক্টরের মান",
+              "difficulty": "Hard",
+              "probability": "Board Favourite"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-02-set-05-q22",
+              "question": "$\\vec a=(8,3,9)$ ও $\\vec b=(3,9,8)$ হলে $\\vec a\\cdot\\vec b$ কত?",
+              "options": [
+                {
+                  "text": "-123",
+                  "label": "ক"
+                },
+                {
+                  "text": "124",
+                  "label": "খ"
+                },
+                {
+                  "text": "123",
+                  "label": "গ"
+                },
+                {
+                  "text": "0",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "গ",
+              "shortSolution": "সঠিক উত্তর: গ। Dot product = corresponding components-এর গুণফলের যোগ।",
+              "chapter": "02",
+              "topic": "Dot product",
+              "difficulty": "Board Standard",
+              "probability": "Conceptual Trap"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-02-set-05-q23",
+              "question": "দুটি non-zero vector perpendicular হলে dot product কত? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 05-23 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+              "options": [
+                {
+                  "text": "উভয়ের মানের গুণফল",
+                  "label": "ক"
+                },
+                {
+                  "text": "0",
+                  "label": "খ"
+                },
+                {
+                  "text": "-1",
+                  "label": "গ"
+                },
+                {
+                  "text": "1",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "খ",
+              "shortSolution": "সঠিক উত্তর: খ। লম্ব ভেক্টরের dot product 0।",
+              "chapter": "02",
+              "topic": "লম্ব ভেক্টর",
+              "difficulty": "Board Standard",
+              "probability": "Mega Hot"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-02-set-05-q24",
+              "question": "$\\vec b=10\\vec a$ হলে $\\vec a$ ও $\\vec b$ কেমন? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 05-24 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+              "options": [
+                {
+                  "text": "লম্ব",
+                  "label": "ক"
+                },
+                {
+                  "text": "সমান্তরাল",
+                  "label": "খ"
+                },
+                {
+                  "text": "অসংজ্ঞায়িত",
+                  "label": "গ"
+                },
+                {
+                  "text": "বিপরীত নয়",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "খ",
+              "shortSolution": "সঠিক উত্তর: খ। একটি অন্যটির scalar multiple হলে তারা সমান্তরাল।",
+              "chapter": "02",
+              "topic": "সমান্তরাল ভেক্টর",
+              "difficulty": "Board Standard",
+              "probability": "Very Hot"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-02-set-05-q25",
+              "question": "$\\hat i\\times\\hat j$ কত? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 05-25 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+              "options": [
+                {
+                  "text": "$\\hat k$",
+                  "label": "ক"
+                },
+                {
+                  "text": "$\\hat i$",
+                  "label": "খ"
+                },
+                {
+                  "text": "0",
+                  "label": "গ"
+                },
+                {
+                  "text": "$-\\hat k$",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "ক",
+              "shortSolution": "সঠিক উত্তর: ক। Right-handed system-এ $i\\times j=k$।",
+              "chapter": "02",
+              "topic": "Vector product",
+              "difficulty": "Board Standard",
+              "probability": "Board Favourite"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

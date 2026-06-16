@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="100%" height="100%" viewBox="0 0 360 220">
+  <defs>
+    <radialGradient id="bg" cx="50%" cy="45%" r="75%">
+      <stop offset="0%" stop-color="#7c2d12"/>
+      <stop offset="100%" stop-color="#020617"/>
+    </radialGradient>
+    <filter id="shadow">
+      <feDropShadow dx="0" dy="7" stdDeviation="5" flood-color="#000" flood-opacity=".45"/>
+    </filter>
+    <style>
+      .liver{fill:#b45309;stroke:#fed7aa;stroke-width:3;filter:url(#shadow)}
+      .pancreas{fill:#facc15;stroke:#fff7ed;stroke-width:2.5;filter:url(#shadow)}
+      .duo{fill:none;stroke:#38bdf8;stroke-width:7;stroke-linecap:round}
+      .label{font-family:Arial,sans-serif;font-size:18px;font-weight:900;fill:#fff}
+    </style>
+  </defs>
+
+  <rect width="360" height="220" rx="18" fill="url(#bg)"/>
+
+  <path d="M70 80 C100 42 175 38 220 68 C245 88 230 125 190 130 C135 137 83 124 70 80Z" class="liver"/>
+  <path d="M145 145 C190 120 245 128 292 148 C250 170 195 172 145 145Z" class="pancreas"/>
+  <path d="M268 92 C312 112 304 170 260 182" class="duo"/>
+
+  <text x="145" y="84" text-anchor="middle" class="label">A</text>
+  <text x="220" y="151" text-anchor="middle" class="label">B</text>
+</svg>

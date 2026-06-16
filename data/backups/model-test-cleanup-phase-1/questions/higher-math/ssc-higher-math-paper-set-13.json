@@ -1,0 +1,352 @@
+[
+  {
+    "id": "ssc-higher-math-paper-set-13-q01",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-paper-set-13",
+    "text": "$\\frac{d}{dx}x^15$ কত?",
+    "options": [
+      "$14x^15$",
+      "$15x^14$",
+      "$x^14$",
+      "$x^15$"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-higher-math-paper-set-13-q02",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-paper-set-13",
+    "text": "$\\int x^16dx$ কত?",
+    "options": [
+      "$\\frac{x^17}{17}+C$",
+      "$x^17+C$",
+      "$16x^15+C$",
+      "$\\frac{x^16}{16}+C$"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-higher-math-paper-set-13-q03",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-paper-set-13",
+    "text": "$17P_2$ এর মান কত?",
+    "options": [
+      "19",
+      "272",
+      "136",
+      "85"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-higher-math-paper-set-13-q04",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-paper-set-13",
+    "text": "$18C_2$ এর মান কত?",
+    "options": [
+      "153",
+      "19",
+      "324",
+      "306"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-higher-math-paper-set-13-q05",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-paper-set-13",
+    "text": "ঢাল 14 এবং বিন্দু $(7,14)$ দিয়ে অতিক্রান্ত রেখার সমীকরণ কোনটি?",
+    "options": [
+      "$y+14=14(x-7)$",
+      "$y-14=14(x-7)$",
+      "$x-14=14(y-7)$",
+      "$y-14=7(x-14)$"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-higher-math-paper-set-13-q06",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-paper-set-13",
+    "text": "$x^2+y^2=225$ বৃত্তের ব্যাসার্ধ কত?",
+    "options": [
+      "30",
+      "225",
+      "15",
+      "16"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-higher-math-paper-set-13-q07",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-paper-set-13",
+    "text": "$\\sin^2\\theta+\\cos^2\\theta$ কত?",
+    "options": [
+      "0",
+      "1",
+      "$\\tan\\theta$",
+      "$\\sec^2\\theta$"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-higher-math-paper-set-13-q08",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-paper-set-13",
+    "text": "$\\sin(A+B)$ সূত্র কোনটি?",
+    "options": [
+      "$\\sin A\\cos B+\\cos A\\sin B$",
+      "$\\cos A\\cos B-\\sin A\\sin B$",
+      "$\\tan A+\\tan B$",
+      "$\\sin A\\cos B-\\cos A\\sin B$"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-higher-math-paper-set-13-q09",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-paper-set-13",
+    "text": "$f(x)=x^2$ ফাংশনটি কেমন?",
+    "options": [
+      "Constant",
+      "Odd",
+      "Periodic",
+      "Even"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-higher-math-paper-set-13-q10",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-paper-set-13",
+    "text": "$\\vec a\\cdot\\vec b=0$ হলে দুটি ভেক্টর কেমন?",
+    "options": [
+      "লম্ব",
+      "সমান্তরাল",
+      "সমান",
+      "একক"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-higher-math-paper-set-13-q11",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-paper-set-13",
+    "text": "$A^2=A$ হলে matrix কী?",
+    "options": [
+      "Scalar",
+      "Nilpotent",
+      "Idempotent",
+      "Orthogonal"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-higher-math-paper-set-13-q12",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-paper-set-13",
+    "text": "$\\int_0^1 xdx$ কত?",
+    "options": [
+      "0",
+      "$\\frac13$",
+      "1",
+      "$\\frac12$"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-higher-math-paper-set-13-q13",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-paper-set-13",
+    "text": "$\\frac{d}{dx}x^17$ কত?",
+    "options": [
+      "$x^17$",
+      "$17x^16$",
+      "$x^16$",
+      "$16x^17$"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-higher-math-paper-set-13-q14",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-paper-set-13",
+    "text": "$\\int x^18dx$ কত?",
+    "options": [
+      "$x^19+C$",
+      "$18x^17+C$",
+      "$\\frac{x^18}{18}+C$",
+      "$\\frac{x^19}{19}+C$"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-higher-math-paper-set-13-q15",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-paper-set-13",
+    "text": "$14P_2$ এর মান কত?",
+    "options": [
+      "182",
+      "91",
+      "16",
+      "42"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-higher-math-paper-set-13-q16",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-paper-set-13",
+    "text": "$15C_2$ এর মান কত?",
+    "options": [
+      "16",
+      "210",
+      "225",
+      "105"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-higher-math-paper-set-13-q17",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-paper-set-13",
+    "text": "ঢাল 16 এবং বিন্দু $(5,16)$ দিয়ে অতিক্রান্ত রেখার সমীকরণ কোনটি?",
+    "options": [
+      "$x-16=16(y-5)$",
+      "$y-16=16(x-5)$",
+      "$y+16=16(x-5)$",
+      "$y-16=5(x-16)$"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-higher-math-paper-set-13-q18",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-paper-set-13",
+    "text": "$x^2+y^2=289$ বৃত্তের ব্যাসার্ধ কত?",
+    "options": [
+      "34",
+      "17",
+      "18",
+      "289"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-higher-math-paper-set-13-q19",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-paper-set-13",
+    "text": "$\\sin^2\\theta+\\cos^2\\theta$ কত?",
+    "options": [
+      "$\\sec^2\\theta$",
+      "1",
+      "$\\tan\\theta$",
+      "0"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-higher-math-paper-set-13-q20",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-paper-set-13",
+    "text": "$\\sin(A+B)$ সূত্র কোনটি?",
+    "options": [
+      "$\\sin A\\cos B-\\cos A\\sin B$",
+      "$\\sin A\\cos B+\\cos A\\sin B$",
+      "$\\tan A+\\tan B$",
+      "$\\cos A\\cos B-\\sin A\\sin B$"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-higher-math-paper-set-13-q21",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-paper-set-13",
+    "text": "$f(x)=x^2$ ফাংশনটি কেমন?",
+    "options": [
+      "Constant",
+      "Even",
+      "Odd",
+      "Periodic"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-higher-math-paper-set-13-q22",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-paper-set-13",
+    "text": "$\\vec a\\cdot\\vec b=0$ হলে দুটি ভেক্টর কেমন?",
+    "options": [
+      "একক",
+      "লম্ব",
+      "সমান্তরাল",
+      "সমান"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-higher-math-paper-set-13-q23",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-paper-set-13",
+    "text": "$A^2=A$ হলে matrix কী?",
+    "options": [
+      "Scalar",
+      "Orthogonal",
+      "Idempotent",
+      "Nilpotent"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-higher-math-paper-set-13-q24",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-paper-set-13",
+    "text": "$\\int_0^1 xdx$ কত?",
+    "options": [
+      "$\\frac12$",
+      "$\\frac13$",
+      "0",
+      "1"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-higher-math-paper-set-13-q25",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-paper-set-13",
+    "text": "$\\frac{d}{dx}x^14$ কত?",
+    "options": [
+      "$x^13$",
+      "$x^14$",
+      "$14x^13$",
+      "$13x^14$"
+    ],
+    "image": null,
+    "timeLimit": 45
+  }
+]

@@ -1,5 +1,9 @@
 import type { ApiQuestion } from "@/types/quiz";
 import { expectedMcqForSubject } from "@/lib/quiz/registry";
+import {
+  isPlaceholderQuestionText,
+  sanitizeQuizText,
+} from "@/lib/sanitize-quiz-text";
 import type {
   BanglaOptionLabel,
   AnswerIndex,
@@ -98,16 +102,21 @@ function indexToLatin(idx: AnswerIndex): string {
 function isBrokenOcrQuestion(text: string): boolean {
   const t = text.trim();
   if (!t || t.length < 3) return true;
+  if (isPlaceholderQuestionText(t)) return true;
   if (/^(graph|figure|image)\s*only/i.test(t)) return true;
   if (t === "..." || t === "---") return true;
   return false;
 }
 
 function extractOptions(raw: Record<string, unknown>): string[] | null {
+  const sanitizeOpt = (s: string) => sanitizeQuizText(s, "option");
+
   if (Array.isArray(raw.options)) {
     const opts = raw.options.map((o) => {
-      if (typeof o === "string") return o.trim();
-      if (o && typeof o === "object" && "text" in o) return String((o as { text: string }).text).trim();
+      if (typeof o === "string") return sanitizeOpt(o.trim());
+      if (o && typeof o === "object" && "text" in o) {
+        return sanitizeOpt(String((o as { text: string }).text).trim());
+      }
       return "";
     });
     if (opts.filter(Boolean).length >= 4) return opts.slice(0, 4);
@@ -118,7 +127,7 @@ function extractOptions(raw: Record<string, unknown>): string[] | null {
     raw.optionB,
     raw.optionC,
     raw.optionD,
-  ].map((v) => (typeof v === "string" ? v.trim() : String(v ?? "").trim()));
+  ].map((v) => sanitizeOpt(typeof v === "string" ? v.trim() : String(v ?? "").trim()));
 
   if (fromFields.filter(Boolean).length >= 4) return fromFields;
 
@@ -132,7 +141,7 @@ function extractQuestionText(raw: Record<string, unknown>): string {
     raw.text ??
     raw.q ??
     "";
-  return String(q).trim();
+  return sanitizeQuizText(String(q).trim(), "question");
 }
 
 function inferCorrectIndex(
@@ -248,6 +257,12 @@ export function normalizeQuestion(
       record.stimulusId != null ? String(record.stimulusId) : null,
     stimulus:
       record.stimulus != null ? String(record.stimulus) : null,
+    image:
+      typeof record.image === "string"
+        ? record.image
+        : typeof record.svg === "string"
+          ? record.svg
+          : null,
   };
 }
 
@@ -286,6 +301,7 @@ export function toApiQuestion(nq: NormalizedQuestion): ApiQuestion {
     correctOption: indexToLatin(nq.answerIndex),
     chapter: nq.chapter,
     explanation: nq.explanation ?? nq.shortSolution,
+    image: nq.image ?? null,
   };
 }
 
@@ -803,7 +819,8 @@ export function getChapterQuizSets(
       const ch = s.chapter ? normalizeChapterId(s.chapter) : "";
       if (ch === target) return true;
       const fromKey = extractChapterFromSourceKey(s.sourceKey ?? s.id);
-      return fromKey.chapter === target;
+      if (!fromKey.chapter) return false;
+      return normalizeChapterId(fromKey.chapter) === target;
     })
     .sort((a, b) => a.id.localeCompare(b.id));
 }

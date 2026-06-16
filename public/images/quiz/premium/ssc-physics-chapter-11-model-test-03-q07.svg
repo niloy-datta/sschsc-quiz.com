@@ -1,0 +1,62 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 520" width="900" height="520">
+  <style>
+  @keyframes pulse { 0%,100% { opacity: 0.6; } 50% { opacity: 1; } }
+  @keyframes flow { 0% { stroke-dashoffset: 20; } 100% { stroke-dashoffset: 0; } }
+  @keyframes breathe { 0%,100% { opacity: 0.7; } 50% { opacity: 1; } }
+  @keyframes fade-in { 0% { opacity: 0; transform: translateY(8px); } 100% { opacity: 1; } }
+  .anim-pulse { animation: pulse 2.5s ease-in-out infinite; }
+  .anim-flow { stroke-dasharray: 6 4; animation: flow 1s linear infinite; }
+  .anim-breathe { animation: breathe 3s ease-in-out infinite; }
+  .anim-fade { animation: fade-in 0.6s ease-out forwards; opacity: 0; }
+  .delay-1 { animation-delay: 0.2s; }
+  .delay-2 { animation-delay: 0.4s; }
+  .delay-3 { animation-delay: 0.6s; }
+</style>
+  <defs>
+  <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+    <stop offset="0%" stop-color="#0f172a"/><stop offset="100%" stop-color="#1e1b4b"/>
+  </linearGradient>
+  <filter id="glow" x="-30%" y="-30%" width="160%" height="160%">
+    <feGaussianBlur in="SourceAlpha" stdDeviation="3"/>
+    <feFlood flood-color="#22d3ee" flood-opacity="0.45"/>
+    <feComposite in2="blur" operator="in"/>
+    <feMerge><feMergeNode/><feMergeNode in="SourceGraphic"/></feMerge>
+  </filter>
+  <marker id="arrow" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="6" markerHeight="6" orient="auto">
+    <path d="M0 0 L10 5 L0 10 z" fill="#22d3ee"/>
+  </marker>
+</defs>
+  <rect width="900" height="520" fill="url(#bgGrad)" rx="16"/>
+  
+    <g class="anim-fade">
+      <!-- Principal axis -->
+      <line x1="100" y1="250" x2="800" y2="250" stroke="#475569" stroke-width="2"/>
+      <!-- Lens -->
+      <g transform="translate(450,250)">
+        <path d="M0,-80 Q25,-40 25,0 Q25,40 0,80" fill="none" stroke="#22d3ee" stroke-width="3" class="anim-breathe"/>
+        <path d="M0,-80 Q-25,-40 -25,0 Q-25,40 0,80" fill="none" stroke="#22d3ee" stroke-width="3" class="anim-breathe delay-1"/>
+        <!-- Focal points -->
+        <circle cx="100" cy="0" r="5" fill="#f472b6" class="anim-pulse"/>
+        <text x="100" y="-10" fill="#f472b6" font-size="12">F</text>
+        <circle cx="-100" cy="0" r="5" fill="#f472b6" class="anim-pulse delay-1"/>
+        <text x="-120" y="-10" fill="#f472b6" font-size="12">F'</text>
+        <!-- 2F -->
+        <circle cx="200" cy="0" r="3" fill="#64748b"/>
+        <text x="200" y="-10" fill="#64748b" font-size="11">2F</text>
+        <circle cx="-200" cy="0" r="3" fill="#64748b"/>
+        <text x="-220" y="-10" fill="#64748b" font-size="11">2F'</text>
+        <!-- Center -->
+        <text x="-5" y="-90" fill="#22d3ee" font-size="12">O</text>
+      </g>
+      <!-- Object arrow -->
+      <line x1="250" y1="250" x2="250" y2="130" stroke="#fbbf24" stroke-width="4" class="anim-pulse"/>
+      <polygon points="250,130 245,140 255,140" fill="#fbbf24"/>
+      <text x="260" y="190" fill="#fbbf24" font-size="13">বস্তু</text>
+      <!-- Rays -->
+      <line x1="250" y1="130" x2="450" y2="130" stroke="#22d3ee" stroke-width="1.5" class="anim-flow" marker-end="url(#arrow)"/>
+      <line x1="250" y1="130" x2="450" y2="250" stroke="#22d3ee" stroke-width="1.5" class="anim-flow delay-2" marker-end="url(#arrow)"/>
+      <line x1="250" y1="130" x2="550" y2="130" stroke="#22d3ee" stroke-width="1.5" class="anim-flow delay-1" marker-end="url(#arrow)"/>
+    </g>
+  
+  <text x="450" y="490" text-anchor="middle" fill="#94a3b8" font-size="12" font-family="sans-serif">আলোক চিত্র · লেন্স · রশ্মি</text>
+</svg>

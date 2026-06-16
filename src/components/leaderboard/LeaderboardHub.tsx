@@ -12,7 +12,6 @@ import { LeaderboardSkeleton } from "@/components/leaderboard/LeaderboardSkeleto
 import { RankTierBadge } from "@/components/leaderboard/RankTierBadge";
 import {
   BADGE_LABELS,
-  aggregateColleges,
   fetchLeaderboard,
   filterLeaderboard,
   formatAccuracy,
@@ -28,6 +27,7 @@ import {
   Flame,
   Globe,
   Medal,
+  Swords,
   Target,
   Trophy,
   TrendingUp,
@@ -340,7 +340,6 @@ export function LeaderboardHub() {
     };
   }, [user, filtered, levelTab]);
 
-  const collegeWars = useMemo(() => aggregateColleges(filtered), [filtered]);
   const top100 = computeTop100Insight(myEntry?.rank, myEntry?.points ?? 0, filtered);
 
   const hasPerformance =
@@ -540,36 +539,18 @@ export function LeaderboardHub() {
             )}
 
             <Card variant="glass" className="p-4">
-              <h2 className="mb-3 text-base font-black text-white">
-                সেরা কলেজ ({levelTab === "ssc" ? "SSC" : "HSC"})
+              <h2 className="mb-3 flex items-center gap-2 text-base font-black text-white">
+                <Swords className="h-4 w-4 text-purple-400" />
+                ⚔️ College Wars
               </h2>
-              {collegeWars.length > 0 ? (
-                <ul className="space-y-2">
-                  {collegeWars.map((c, i) => (
-                    <li
-                      key={c.name}
-                      className="flex items-center gap-2 rounded-xl bg-white/[0.03] px-3 py-2"
-                    >
-                      <span className="flex h-7 w-7 shrink-0 items-center justify-center rounded-full bg-purple-500/20 text-xs font-bold text-purple-300">
-                        {formatBnNumber(i + 1)}
-                      </span>
-                      <span className="min-w-0 flex-1 truncate text-sm text-slate-200">
-                        {c.name}
-                      </span>
-                      <span className="text-xs font-bold text-cyan-400">
-                        {formatBnNumber(c.score)}
-                      </span>
-                    </li>
-                  ))}
-                </ul>
-              ) : (
-                <div className="rounded-xl border border-dashed border-white/10 p-6 text-center">
-                  <p className="text-sm font-semibold text-slate-300">College Wars শীঘ্রই আসছে</p>
-                  <p className="mt-1 text-xs text-slate-500">
-                    কলেজ যুক্ত হলে এখানে সেরা কলেজ দেখা যাবে
-                  </p>
-                </div>
-              )}
+              <p className="text-xs text-slate-400 leading-relaxed mb-3">
+                কলেজ বনাম কলেজ ব্যাটেল — দেখো তোমার কলেজ কত নম্বরে আছে, ড্রিল-ডাউন করে বিস্তারিত দেখো
+              </p>
+              <Link href="/leaderboard/college-wars">
+                <Button className="w-full" size="sm">
+                  ⚔️ College Wars খুলুন
+                </Button>
+              </Link>
             </Card>
 
             <Card variant="glass" className="p-4">

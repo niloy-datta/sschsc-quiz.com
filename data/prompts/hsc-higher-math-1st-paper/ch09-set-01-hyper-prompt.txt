@@ -1,0 +1,31 @@
+# MICRO HYPER PROMPT — Ch 09 Set 01 ONLY (25 MCQ)
+# Chapter: অন্তরীকরণ
+# Paste AFTER 00-MASTER-HYPER-PROMPT.txt
+# Save output: data/imports/hsc-higher-math-1st-paper-chapter-09-set-01.json
+
+## TASK
+Generate **ONLY Set 01** for Chapter 09: অন্তরীকরণ.
+Exactly **25 unique MCQ**. Set ID: hsc-higher-math-1st-paper-chapter-09-set-01
+
+## SET FOCUS
+Fundamentals + easy-medium board classics
+
+## MEGA HOT SUBTOPICS
+Power rule, product/quotient/chain rule, implicit, parametric, tangent-normal, rate of change, max-min (2nd derivative test)
+
+## JSON (single-set wrapper)
+{
+  "level": "HSC",
+  "subject": "higher-math-1st-paper",
+  "chapterWise": [{
+    "chapter": "09",
+    "chapterName": "অন্তরীকরণ",
+    "sets": [{
+      "id": "hsc-higher-math-1st-paper-chapter-09-set-01",
+      "title": "Chapter 09 Hyper Mega Hot Set 01",
+      "questions": [ /* exactly 25 */ ]
+    }]
+  }]
+}
+
+Output JSON only.

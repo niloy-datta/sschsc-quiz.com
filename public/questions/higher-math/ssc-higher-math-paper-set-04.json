@@ -1,0 +1,287 @@
+[
+  {
+    "id": "ssc-higher-math-paper-set-04-q01",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-paper-set-04",
+    "text": "$\\frac{d}{dx}x^6$ কত?",
+    "options": [
+      "$6x^5$",
+      "$x^5$",
+      "$x^6$",
+      "$5x^6$"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-higher-math-paper-set-04-q02",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-paper-set-04",
+    "text": "$\\int x^7dx$ কত?",
+    "options": [
+      "$\\frac{x^7}{7}+C$",
+      "$x^8+C$",
+      "$\\frac{x^8}{8}+C$",
+      "$7x^6+C$"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-higher-math-paper-set-04-q03",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-paper-set-04",
+    "text": "$8P_2$ এর মান কত?",
+    "options": [
+      "28",
+      "10",
+      "40",
+      "56"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-higher-math-paper-set-04-q04",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-paper-set-04",
+    "text": "$9C_2$ এর মান কত?",
+    "options": [
+      "10",
+      "72",
+      "81",
+      "36"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-higher-math-paper-set-04-q05",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-paper-set-04",
+    "text": "ঢাল 5 এবং বিন্দু $(7,5)$ দিয়ে অতিক্রান্ত রেখার সমীকরণ কোনটি?",
+    "options": [
+      "$y+5=5(x-7)$",
+      "$x-5=5(y-7)$",
+      "$y-5=5(x-7)$",
+      "$y-5=7(x-5)$"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-higher-math-paper-set-04-q06",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-paper-set-04",
+    "text": "$x^2+y^2=36$ বৃত্তের ব্যাসার্ধ কত?",
+    "options": [
+      "7",
+      "6",
+      "12",
+      "36"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-higher-math-paper-set-04-q07",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-paper-set-04",
+    "text": "$\\sin^2\\theta+\\cos^2\\theta$ কত?",
+    "options": [
+      "$\\tan\\theta$",
+      "$\\sec^2\\theta$",
+      "1",
+      "0"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-higher-math-paper-set-04-q08",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-paper-set-04",
+    "text": "$\\sin(A+B)$ সূত্র কোনটি?",
+    "options": [
+      "$\\sin A\\cos B+\\cos A\\sin B$",
+      "$\\sin A\\cos B-\\cos A\\sin B$",
+      "$\\cos A\\cos B-\\sin A\\sin B$",
+      "$\\tan A+\\tan B$"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-higher-math-paper-set-04-q09",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-paper-set-04",
+    "text": "$f(x)=x^2$ ফাংশনটি কেমন?",
+    "options": [
+      "Even",
+      "Constant",
+      "Periodic",
+      "Odd"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-higher-math-paper-set-04-q10",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-paper-set-04",
+    "text": "$\\vec a\\cdot\\vec b=0$ হলে দুটি ভেক্টর কেমন?",
+    "options": [
+      "সমান",
+      "একক",
+      "লম্ব",
+      "সমান্তরাল"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-higher-math-paper-set-04-q11",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-paper-set-04",
+    "text": "$A^2=A$ হলে matrix কী?",
+    "options": [
+      "Orthogonal",
+      "Idempotent",
+      "Scalar",
+      "Nilpotent"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-higher-math-paper-set-04-q12",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-paper-set-04",
+    "text": "$\\int_0^1 xdx$ কত?",
+    "options": [
+      "0",
+      "$\\frac12$",
+      "$\\frac13$",
+      "1"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-higher-math-paper-set-04-q13",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-paper-set-04",
+    "text": "$\\frac{d}{dx}x^8$ কত?",
+    "options": [
+      "$7x^8$",
+      "$x^7$",
+      "$8x^7$",
+      "$x^8$"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-higher-math-paper-set-04-q14",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-paper-set-04",
+    "text": "$\\int x^9dx$ কত?",
+    "options": [
+      "$\\frac{x^9}{9}+C$",
+      "$x^10+C$",
+      "$9x^8+C$",
+      "$\\frac{x^10}{10}+C$"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-higher-math-paper-set-04-q15",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-paper-set-04",
+    "text": "$5P_2$ এর মান কত?",
+    "options": [
+      "20",
+      "10",
+      "15",
+      "7"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-higher-math-paper-set-04-q16",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-paper-set-04",
+    "text": "$6C_2$ এর মান কত?",
+    "options": [
+      "36",
+      "30",
+      "7",
+      "15"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-higher-math-paper-set-04-q17",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-paper-set-04",
+    "text": "ঢাল 7 এবং বিন্দু $(5,7)$ দিয়ে অতিক্রান্ত রেখার সমীকরণ কোনটি?",
+    "options": [
+      "$y+7=7(x-5)$",
+      "$x-7=7(y-5)$",
+      "$y-7=5(x-7)$",
+      "$y-7=7(x-5)$"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-higher-math-paper-set-04-q18",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-paper-set-04",
+    "text": "$x^2+y^2=64$ বৃত্তের ব্যাসার্ধ কত?",
+    "options": [
+      "16",
+      "8",
+      "9",
+      "64"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-higher-math-paper-set-04-q19",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-paper-set-04",
+    "text": "$\\frac{d}{dx}x^5$ কত?",
+    "options": [
+      "$x^5$",
+      "$x^4$",
+      "$4x^5$",
+      "$5x^4$"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  }
+]

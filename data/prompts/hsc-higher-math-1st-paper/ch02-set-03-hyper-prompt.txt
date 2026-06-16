@@ -1,0 +1,31 @@
+# MICRO HYPER PROMPT — Ch 02 Set 03 ONLY (25 MCQ)
+# Chapter: ভেক্টর
+# Paste AFTER 00-MASTER-HYPER-PROMPT.txt
+# Save output: data/imports/hsc-higher-math-1st-paper-chapter-02-set-03.json
+
+## TASK
+Generate **ONLY Set 03** for Chapter 02: ভেক্টর.
+Exactly **25 unique MCQ**. Set ID: hsc-higher-math-1st-paper-chapter-02-set-03
+
+## SET FOCUS
+i/ii/iii analytical heavy + traps
+
+## MEGA HOT SUBTOPICS
+Module, unit vector, direction cosines, dot product, cross product, scalar triple product, vector equation of line, projection, angle between vectors, coplanarity
+
+## JSON (single-set wrapper)
+{
+  "level": "HSC",
+  "subject": "higher-math-1st-paper",
+  "chapterWise": [{
+    "chapter": "02",
+    "chapterName": "ভেক্টর",
+    "sets": [{
+      "id": "hsc-higher-math-1st-paper-chapter-02-set-03",
+      "title": "Chapter 02 Hyper Mega Hot Set 03",
+      "questions": [ /* exactly 25 */ ]
+    }]
+  }]
+}
+
+Output JSON only.

@@ -1,101 +1,101 @@
 {
-  "hsc-higher-math-1st-paper-tier-a-set-08-q01": {
+  "hsc-higher-math-1st-paper-tier-a-hot-model-test-08-q01": {
     "correctOption": "$3$",
     "explanation": "প্রথম বৃত্তের সমীকরণ $x^2 + y^2 = r^2$ এর সাথে তুলনা করলে $r^2 = 9 \\Rightarrow r = 3$।"
   },
-  "hsc-higher-math-1st-paper-tier-a-set-08-q02": {
+  "hsc-higher-math-1st-paper-tier-a-hot-model-test-08-q02": {
     "correctOption": "$5$",
     "explanation": "১ম বৃত্তের কেন্দ্র $C_1(0,0)$। ২য় বৃত্তের কেন্দ্র $C_2(4, 3)$। দূরত্ব $d = \\sqrt{(4-0)^2 + (3-0)^2} = \\sqrt{16+9} = 5$।"
   },
-  "hsc-higher-math-1st-paper-tier-a-set-08-q03": {
+  "hsc-higher-math-1st-paper-tier-a-hot-model-test-08-q03": {
     "correctOption": "$0$",
     "explanation": "২য় সারির উপাদানগুলোকে ২ দিয়ে গুণ করলে ৩য় সারি পাওয়া যায়। অর্থাৎ, ২য় ও ৩য় সারি সমানুপাতিক। তাই নির্ণায়কের মান ০।"
   },
-  "hsc-higher-math-1st-paper-tier-a-set-08-q04": {
+  "hsc-higher-math-1st-paper-tier-a-hot-model-test-08-q04": {
     "correctOption": "$0$",
     "explanation": "যেহেতু মূল নির্ণায়কের মান ০, তাই একে যেকোনো স্কেলার দিয়ে গুণ করলেও মান ০-ই থাকবে।"
   },
-  "hsc-higher-math-1st-paper-tier-a-set-08-q05": {
+  "hsc-higher-math-1st-paper-tier-a-hot-model-test-08-q05": {
     "correctOption": "$1/2$",
     "explanation": "ধরি $z = \\ln x \\Rightarrow dz = \\frac{1}{x}dx$। $x=1$ হলে $z=0$, $x=e$ হলে $z=1$। $\\int_0^1 z \\, dz = [z^2/2]_0^1 = 1/2$।"
   },
-  "hsc-higher-math-1st-paper-tier-a-set-08-q06": {
+  "hsc-higher-math-1st-paper-tier-a-hot-model-test-08-q06": {
     "correctOption": "$8$",
     "explanation": "ল্যাগ্রাঞ্জের অভেদ: $|\\vec{a} \\times \\vec{b}|^2 + (\\vec{a} \\cdot \\vec{b})^2 = |\\vec{a}|^2|\\vec{b}|^2$। $|\\vec{a} \\times \\vec{b}|^2 + 36 = 100 \\Rightarrow |\\vec{a} \\times \\vec{b}|^2 = 64 \\Rightarrow |\\vec{a} \\times \\vec{b}| = 8$।"
   },
-  "hsc-higher-math-1st-paper-tier-a-set-08-q07": {
+  "hsc-higher-math-1st-paper-tier-a-hot-model-test-08-q07": {
     "correctOption": "$1$",
     "explanation": "ধরি $\\frac{1}{x} = h$। যখন $x \\to \\infty$, তখন $h \\to 0$। প্রদত্ত রাশি $\\lim_{h \\to 0} \\frac{\\sin h}{h} = 1$।"
   },
-  "hsc-higher-math-1st-paper-tier-a-set-08-q08": {
+  "hsc-higher-math-1st-paper-tier-a-hot-model-test-08-q08": {
     "correctOption": "$4$",
     "explanation": "${}^nC_x = {}^nC_y$ হলে $x+y=n$। এখানে $r + r + 2 = 10 \\Rightarrow 2r = 8 \\Rightarrow r = 4$।"
   },
-  "hsc-higher-math-1st-paper-tier-a-set-08-q09": {
+  "hsc-higher-math-1st-paper-tier-a-hot-model-test-08-q09": {
     "correctOption": "$2x e^{x^2}$",
     "explanation": "চেইন রুল প্রয়োগ করে: $\\frac{d}{dx}(e^{x^2}) = e^{x^2} \\cdot \\frac{d}{dx}(x^2) = 2x e^{x^2}$।"
   },
-  "hsc-higher-math-1st-paper-tier-a-set-08-q10": {
+  "hsc-higher-math-1st-paper-tier-a-hot-model-test-08-q10": {
     "correctOption": "$\\frac{8}{\\sqrt{5}}$",
     "explanation": "সমীকরণগুলো $2x-y+3=0$ এবং $2x-y-5=0$। দূরত্ব $d = \\frac{|3 - (-5)|}{\\sqrt{2^2+(-1)^2}} = \\frac{8}{\\sqrt{5}}$।"
   },
-  "hsc-higher-math-1st-paper-tier-a-set-08-q11": {
+  "hsc-higher-math-1st-paper-tier-a-hot-model-test-08-q11": {
     "correctOption": "$\\sin^{-1} x + c$",
     "explanation": "এটি বিপরীত ত্রিকোণমিতিক ফাংশনের অন্তরীকরণের উল্টো (সমাকলন) আদর্শ সূত্র।"
   },
-  "hsc-higher-math-1st-paper-tier-a-set-08-q12": {
+  "hsc-higher-math-1st-paper-tier-a-hot-model-test-08-q12": {
     "correctOption": "$2 + \\sqrt{3}$",
     "explanation": "$\\tan(45^\\circ + 30^\\circ) = \\frac{\\tan 45^\\circ + \\tan 30^\\circ}{1 - \\tan 45^\\circ \\tan 30^\\circ} = \\frac{1 + 1/\\sqrt{3}}{1 - 1/\\sqrt{3}} = \\frac{\\sqrt{3}+1}{\\sqrt{3}-1} = 2 + \\sqrt{3}$।"
   },
-  "hsc-higher-math-1st-paper-tier-a-set-08-q13": {
+  "hsc-higher-math-1st-paper-tier-a-hot-model-test-08-q13": {
     "correctOption": "$\\frac{n(n-3)}{2}$",
     "explanation": "কর্ণসংখ্যা = ${}^nC_2 - n = \\frac{n(n-1)}{2} - n = \\frac{n^2 - n - 2n}{2} = \\frac{n^2 - 3n}{2} = \\frac{n(n-3)}{2}$।"
   },
-  "hsc-higher-math-1st-paper-tier-a-set-08-q14": {
+  "hsc-higher-math-1st-paper-tier-a-hot-model-test-08-q14": {
     "correctOption": "নির্ণায়কের মান",
     "explanation": "কোনো নির্ণায়কের একটি সারির উপাদানগুলোর সাথে তাদের নিজ নিজ সহগুণক (Cofactor) এর গুণফলের যোগফল ওই নির্ণায়কের মান নির্দেশ করে।"
   },
-  "hsc-higher-math-1st-paper-tier-a-set-08-q15": {
+  "hsc-higher-math-1st-paper-tier-a-hot-model-test-08-q15": {
     "correctOption": "i ও ii",
     "explanation": "স্পর্শক $y$-অক্ষের সমান্তরাল হলে $\\frac{dy}{dx} = \\infty$ বা অসংজ্ঞায়িত হয়। তাই iii ভুল।"
   },
-  "hsc-higher-math-1st-paper-tier-a-set-08-q16": {
+  "hsc-higher-math-1st-paper-tier-a-hot-model-test-08-q16": {
     "correctOption": "i ও ii",
     "explanation": "ক্রস গুণনের নিয়ম অনুযায়ী $\\hat{i} \\times \\hat{j} = \\hat{k}$ কিন্তু $\\hat{j} \\times \\hat{i} = -\\hat{k}$। তাই iii ভুল।"
   },
-  "hsc-higher-math-1st-paper-tier-a-set-08-q17": {
+  "hsc-higher-math-1st-paper-tier-a-hot-model-test-08-q17": {
     "correctOption": "i, ii ও iii",
     "explanation": "বৃত্তের সমীকরণের সাধারণ বৈশিষ্ট্য এবং ব্যাসার্ধের শর্ত অনুযায়ী তিনটি তথ্যই একদম সঠিক।"
   },
-  "hsc-higher-math-1st-paper-tier-a-set-08-q18": {
+  "hsc-higher-math-1st-paper-tier-a-hot-model-test-08-q18": {
     "correctOption": "i, ii ও iii",
     "explanation": "নির্দিষ্ট ও অনির্দিষ্ট সমাকলনের মৌলিক ধর্ম অনুযায়ী তিনটি উক্তিই সঠিক।"
   },
-  "hsc-higher-math-1st-paper-tier-a-set-08-q19": {
+  "hsc-higher-math-1st-paper-tier-a-hot-model-test-08-q19": {
     "correctOption": "i, ii ও iii",
     "explanation": "গুণিতক কোণকে ট্যানজেন্টের (Tangent) মাধ্যমে প্রকাশের এই তিনটি সূত্রই একদম সঠিক।"
   },
-  "hsc-higher-math-1st-paper-tier-a-set-08-q20": {
+  "hsc-higher-math-1st-paper-tier-a-hot-model-test-08-q20": {
     "correctOption": "i, ii ও iii",
     "explanation": "সমান্তরাল রেখার ঢাল, মধ্যবর্তী কোণের সূত্র এবং অক্ষের খণ্ডিতাংশ রূপ সমীকরণের বৈশিষ্ট্য অনুযায়ী সবগুলো সঠিক।"
   },
-  "hsc-higher-math-1st-paper-tier-a-set-08-q21": {
+  "hsc-higher-math-1st-paper-tier-a-hot-model-test-08-q21": {
     "correctOption": "$x^2$",
     "explanation": "অন্তরীকরণ এবং সমাকলন হলো একে অপরের বিপরীত প্রক্রিয়া। তাই কোনো ফাংশনকে একবার সমাকলন করে আবার অন্তরীকরণ করলে মূল ফাংশনটিই পাওয়া যায়।"
   },
-  "hsc-higher-math-1st-paper-tier-a-set-08-q22": {
+  "hsc-higher-math-1st-paper-tier-a-hot-model-test-08-q22": {
     "correctOption": "$e$",
     "explanation": "এটি লিমিটের সূচকীয় ফাংশনের একটি প্রমিত (Standard) সূত্র। মান সর্বদা $e$।"
   },
-  "hsc-higher-math-1st-paper-tier-a-set-08-q23": {
+  "hsc-higher-math-1st-paper-tier-a-hot-model-test-08-q23": {
     "correctOption": "$90^\\circ$",
     "explanation": "সূত্র: $|30H - 5.5M|$। এখানে $H=9, M=0$। $|270 - 0| = 270^\\circ$। যেহেতু এটি $180^\\circ$ এর চেয়ে বড়, তাই $360^\\circ - 270^\\circ = 90^\\circ$।"
   },
-  "hsc-higher-math-1st-paper-tier-a-set-08-q24": {
+  "hsc-higher-math-1st-paper-tier-a-hot-model-test-08-q24": {
     "correctOption": "$-1$",
     "explanation": "$\\frac{dy}{dx} = 2x - 4 = 0 \\Rightarrow x=2$। $x=2$ বসালে $y = (2)^2 - 4(2) + 3 = 4 - 8 + 3 = -1$।"
   },
-  "hsc-higher-math-1st-paper-tier-a-set-08-q25": {
+  "hsc-higher-math-1st-paper-tier-a-hot-model-test-08-q25": {
     "correctOption": "$1$",
     "explanation": "শর্টকাট: পরম মানের এই ধরনের সমাকলনে এটি দুটি সমান ক্ষেত্রফলের ত্রিভুজ তৈরি করে। $\\frac{1}{2}(1 \\times 1) + \\frac{1}{2}(1 \\times 1) = 0.5 + 0.5 = 1$।"
   }

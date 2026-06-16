@@ -489,28 +489,6 @@ export function SubjectDetailClient({
         ))}
       </div>
 
-      {activeTab === "model" && (
-        <div className="mb-4 flex flex-wrap gap-2 rounded-2xl border border-white/10 bg-white/[0.04] p-1">
-          {MODEL_SUB_TABS.map((tab) => (
-            <button
-              key={tab.id}
-              type="button"
-              onClick={() => setModelTab(tab.id)}
-              className={cn(
-                "min-h-[40px] flex-1 rounded-xl px-3 py-2 text-xs font-bold transition-all sm:text-sm",
-                modelCategory === tab.id
-                  ? tab.id === "paperWise"
-                    ? "bg-gradient-to-r from-purple-600/90 to-violet-600/80 text-white"
-                    : "bg-gradient-to-r from-cyan-600/90 to-blue-600/80 text-white"
-                  : "text-slate-400 hover:bg-white/5 hover:text-white",
-              )}
-            >
-              {tab.label}
-            </button>
-          ))}
-        </div>
-      )}
-
       {activeTab !== "board" && (
         <ModelTestFilterBar
           searchQuery={searchQuery}
@@ -525,9 +503,7 @@ export function SubjectDetailClient({
           searchPlaceholder={
             activeTab === "chapter"
               ? "অধ্যায় নম্বর বা নাম লিখুন..."
-              : modelCategory === "paperWise"
-                ? "টেস্ট নম্বর লিখুন..."
-                : "অধ্যায় বা টেস্ট নম্বর লিখুন..."
+              : "অধ্যায় বা টেস্ট নম্বর লিখুন..."
           }
           hasActiveFilters={hasActiveFilters}
           onClearAll={clearAllFilters}
@@ -563,7 +539,6 @@ export function SubjectDetailClient({
               chapterItems={filteredChapterModelItems}
               modelTestPathPrefix={modelTestPathPrefix}
               expandAll={hasActiveFilters}
-              category={modelCategory}
             />
           ) : null}
         </>

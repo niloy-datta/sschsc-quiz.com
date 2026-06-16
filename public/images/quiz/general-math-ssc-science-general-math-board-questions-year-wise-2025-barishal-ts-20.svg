@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 360 220" width="100%" height="100%">
+<rect width="360" height="220" rx="18" fill="#020617"/>
+<circle cx="170" cy="110" r="75" fill="#0f172a" stroke="#38bdf8" stroke-width="4"/>
+<circle cx="200" cy="110" r="45" fill="none" stroke="#facc15" stroke-width="4"/>
+<circle cx="170" cy="110" r="5" fill="#38bdf8"/><text x="155" y="104" font-size="15" font-weight="900" fill="#fff">O₁</text>
+<circle cx="200" cy="110" r="5" fill="#facc15"/><text x="208" y="104" font-size="15" font-weight="900" fill="#fff">O₂</text>
+<line x1="170" y1="110" x2="200" y2="110" stroke="#fff" stroke-width="3"/>
+<text x="180" y="202" text-anchor="middle" font-size="18" font-weight="900" fill="#fff">distance = R − r</text>
+</svg>

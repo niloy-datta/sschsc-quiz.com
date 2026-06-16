@@ -1,0 +1,352 @@
+[
+  {
+    "id": "hsc-ict-chapter-01-model-test-01-q01",
+    "subject": "ict",
+    "chapter": "hsc-ict-chapter-01-model-test-01",
+    "text": "Analog signal কেমন হয়?",
+    "options": [
+      "ধারাবাহিক",
+      "বিচ্ছিন্ন",
+      "শুধু ০ ও ১",
+      "শুধু টেক্সট"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-ict-chapter-01-model-test-01-q02",
+    "subject": "ict",
+    "chapter": "hsc-ict-chapter-01-model-test-01",
+    "text": "Bandwidth বলতে বোঝায়—",
+    "options": [
+      "ডেটা পরিবহনের ক্ষমতা",
+      "কেবল দৈর্ঘ্য",
+      "কম্পিউটারের ওজন",
+      "ফাইলের নাম"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-ict-chapter-01-model-test-01-q03",
+    "subject": "ict",
+    "chapter": "hsc-ict-chapter-01-model-test-01",
+    "text": "Bandwidth বেশি হলে সাধারণত—",
+    "options": [
+      "ডেটা ধীরে যায়",
+      "ডেটা দ্রুত যায়",
+      "নেটওয়ার্ক বন্ধ হয়",
+      "ডেটা মুছে যায়"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-ict-chapter-01-model-test-01-q04",
+    "subject": "ict",
+    "chapter": "hsc-ict-chapter-01-model-test-01",
+    "text": "Baud rate কোনটির সাথে সম্পর্কিত?",
+    "options": [
+      "সিগন্যাল পরিবর্তনের হার",
+      "টেবিল ডিজাইন",
+      "SQL query",
+      "CSS color"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-ict-chapter-01-model-test-01-q05",
+    "subject": "ict",
+    "chapter": "hsc-ict-chapter-01-model-test-01",
+    "text": "Bit-এর পূর্ণরূপ কী?",
+    "options": [
+      "Binary digit",
+      "Basic internet tool",
+      "Binary table",
+      "Byte item"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-ict-chapter-01-model-test-01-q06",
+    "subject": "ict",
+    "chapter": "hsc-ict-chapter-01-model-test-01",
+    "text": "Bluetooth কোন ধরনের যোগাযোগ?",
+    "options": [
+      "Wireless",
+      "Wired",
+      "Fiber",
+      "Coaxial"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-ict-chapter-01-model-test-01-q07",
+    "subject": "ict",
+    "chapter": "hsc-ict-chapter-01-model-test-01",
+    "text": "Bluetooth-এর range সাধারণত—",
+    "options": [
+      "কম দূরত্ব",
+      "মহাদেশজুড়ে",
+      "স্যাটেলাইট দূরত্ব",
+      "WAN level"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-ict-chapter-01-model-test-01-q08",
+    "subject": "ict",
+    "chapter": "hsc-ict-chapter-01-model-test-01",
+    "text": "Bridge ব্যবহৃত হয়—",
+    "options": [
+      "network segment সংযুক্ত করতে",
+      "picture edit করতে",
+      "table format করতে",
+      "SQL delete করতে"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-ict-chapter-01-model-test-01-q09",
+    "subject": "ict",
+    "chapter": "hsc-ict-chapter-01-model-test-01",
+    "text": "Browser-এর কাজ—",
+    "options": [
+      "web page প্রদর্শন",
+      "router configure only",
+      "signal repeat",
+      "cable connect"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-ict-chapter-01-model-test-01-q10",
+    "subject": "ict",
+    "chapter": "hsc-ict-chapter-01-model-test-01",
+    "text": "Bus topology-এর প্রধান cable-কে বলা হয়—",
+    "options": [
+      "Backbone",
+      "Server",
+      "Router",
+      "Client"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-ict-chapter-01-model-test-01-q11",
+    "subject": "ict",
+    "chapter": "hsc-ict-chapter-01-model-test-01",
+    "text": "Bus topology-তে সব কম্পিউটার যুক্ত থাকে—",
+    "options": [
+      "একটি প্রধান cable-এ",
+      "একটি ring-এ",
+      "একটি star-এ",
+      "কোনো cable ছাড়াই"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-ict-chapter-01-model-test-01-q12",
+    "subject": "ict",
+    "chapter": "hsc-ict-chapter-01-model-test-01",
+    "text": "Cable ছাড়া মোবাইল যোগাযোগ হয় কোন মাধ্যমে?",
+    "options": [
+      "Radio wave",
+      "Coaxial cable",
+      "Optical fiber",
+      "Twisted pair"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-ict-chapter-01-model-test-01-q13",
+    "subject": "ict",
+    "chapter": "hsc-ict-chapter-01-model-test-01",
+    "text": "Client কী?",
+    "options": [
+      "সেবা গ্রহণকারী কম্পিউটার",
+      "সবসময় server",
+      "কেবল router",
+      "শুধু cable"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-ict-chapter-01-model-test-01-q14",
+    "subject": "ict",
+    "chapter": "hsc-ict-chapter-01-model-test-01",
+    "text": "Client-server network-এ server-এর কাজ—",
+    "options": [
+      "resource/service provide করা",
+      "cable কাটা",
+      "virus ছড়ানো",
+      "CSS করা"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-ict-chapter-01-model-test-01-q15",
+    "subject": "ict",
+    "chapter": "hsc-ict-chapter-01-model-test-01",
+    "text": "Cloud computing বলতে বোঝায়—",
+    "options": [
+      "internet-based computing service",
+      "শুধু local hard disk",
+      "শুধু keyboard",
+      "শুধু offline calculator"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-ict-chapter-01-model-test-01-q16",
+    "subject": "ict",
+    "chapter": "hsc-ict-chapter-01-model-test-01",
+    "text": "Cloud computing-এর ঝুঁকি—",
+    "options": [
+      "privacy/security risk",
+      "speed সবসময় infinite",
+      "কোনো cost নেই",
+      "network লাগে না"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-ict-chapter-01-model-test-01-q17",
+    "subject": "ict",
+    "chapter": "hsc-ict-chapter-01-model-test-01",
+    "text": "Cloud computing-এর সুবিধা—",
+    "options": [
+      "যেকোনো স্থান থেকে access",
+      "internet ছাড়া সবসময় access",
+      "ডেটা সবসময় হারায়",
+      "কোনো security লাগে না"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-ict-chapter-01-model-test-01-q18",
+    "subject": "ict",
+    "chapter": "hsc-ict-chapter-01-model-test-01",
+    "text": "Cloud storage-এর উদাহরণ—",
+    "options": [
+      "Google Drive",
+      "MS Paint",
+      "Calculator",
+      "Notepad offline"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-ict-chapter-01-model-test-01-q19",
+    "subject": "ict",
+    "chapter": "hsc-ict-chapter-01-model-test-01",
+    "text": "Coaxial cable-এ সাধারণত থাকে—",
+    "options": [
+      "কেন্দ্রীয় conductor",
+      "শুধু বাতাস",
+      "শুধু আলো",
+      "শুধু সফটওয়্যার"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-ict-chapter-01-model-test-01-q20",
+    "subject": "ict",
+    "chapter": "hsc-ict-chapter-01-model-test-01",
+    "text": "DNS না থাকলে ব্যবহারকারীকে কী মনে রাখতে হতো?",
+    "options": [
+      "IP address",
+      "CSS color",
+      "table name",
+      "keyboard key"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-ict-chapter-01-model-test-01-q21",
+    "subject": "ict",
+    "chapter": "hsc-ict-chapter-01-model-test-01",
+    "text": "DNS-এর কাজ—",
+    "options": [
+      "domain name কে IP address-এ রূপান্তর",
+      "IP মুছে ফেলা",
+      "virus scan",
+      "image resize"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-ict-chapter-01-model-test-01-q22",
+    "subject": "ict",
+    "chapter": "hsc-ict-chapter-01-model-test-01",
+    "text": "Digital signal কেমন হয়?",
+    "options": [
+      "ধারাবাহিক",
+      "বিচ্ছিন্ন",
+      "শুধু শব্দ",
+      "শুধু আলো"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-ict-chapter-01-model-test-01-q23",
+    "subject": "ict",
+    "chapter": "hsc-ict-chapter-01-model-test-01",
+    "text": "Domain name কী?",
+    "options": [
+      "ওয়েবসাইটের মানুষের পড়ার উপযোগী নাম",
+      "computer RAM",
+      "database row",
+      "cable type"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-ict-chapter-01-model-test-01-q24",
+    "subject": "ict",
+    "chapter": "hsc-ict-chapter-01-model-test-01",
+    "text": "Error detection দরকার কেন?",
+    "options": [
+      "ডেটা ভুল হয়েছে কি না বুঝতে",
+      "কেবল সাজাতে",
+      "HTML লিখতে",
+      "ডেটাবেজ মুছতে"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-ict-chapter-01-model-test-01-q25",
+    "subject": "ict",
+    "chapter": "hsc-ict-chapter-01-model-test-01",
+    "text": "Extranet কী?",
+    "options": [
+      "সীমিত external user access সহ private network",
+      "সম্পূর্ণ offline file",
+      "keyboard layout",
+      "monitor size"
+    ],
+    "image": null,
+    "timeLimit": 45
+  }
+]

@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="100%" height="100%" viewBox="0 0 360 220">
+  <defs>
+    <radialGradient id="bg" cx="50%" cy="45%" r="75%">
+      <stop offset="0%" stop-color="#1e293b"/>
+      <stop offset="100%" stop-color="#020617"/>
+    </radialGradient>
+    <marker id="arrow" markerWidth="8" markerHeight="8" refX="7" refY="3" orient="auto">
+      <path d="M0,0 L0,6 L8,3 z" fill="#ef4444"/>
+    </marker>
+    <style>
+      .capsule{fill:#0f172a;stroke:#f59e0b;stroke-width:4}
+      .glomerulus{fill:none;stroke:#ef4444;stroke-width:5;stroke-linecap:round}
+      .artery{fill:none;stroke:#ef4444;stroke-width:5;stroke-linecap:round;marker-end:url(#arrow)}
+      .capillary{fill:none;stroke:#38bdf8;stroke-width:3;stroke-linecap:round}
+      .label{font-family:Arial,sans-serif;font-size:18px;font-weight:900;fill:#fff}
+    </style>
+  </defs>
+
+  <rect width="360" height="220" rx="18" fill="url(#bg)"/>
+
+  <circle cx="110" cy="95" r="45" class="capsule"/>
+  <path d="M88 93 C100 70 130 72 132 95 C134 120 98 122 94 100 C90 82 122 82 124 102" class="glomerulus"/>
+
+  <path d="M137 92 C175 85 202 92 230 112" class="artery"/>
+
+  <path d="M230 112 C260 95 292 102 306 132" class="capillary"/>
+  <path d="M230 112 C260 132 292 125 306 152" class="capillary"/>
+  <path d="M230 112 C255 154 278 164 310 172" class="capillary"/>
+
+  <text x="110" y="98" text-anchor="middle" class="label">A</text>
+  <text x="178" y="82" text-anchor="middle" class="label">B</text>
+</svg>

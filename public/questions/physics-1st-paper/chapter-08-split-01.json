@@ -1,0 +1,377 @@
+[
+  {
+    "id": "chapter-08-split-01-q01",
+    "subject": "physics-1st-paper",
+    "chapter": "chapter-08-split-01",
+    "text": "পর্যাবৃত্ত গতি কাকে বলে?",
+    "options": [
+      "যে গতি একটি নির্দিষ্ট বিন্দুকে কেন্দ্র করে বারবার ফিরে আসে",
+      "যে গতি সরলরেখায় ঘটে",
+      "যে গতি বৃত্তাকার পথে ঘটে",
+      "যে গতির বেগ ধ্রুব থাকে"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "chapter-08-split-01-q02",
+    "subject": "physics-1st-paper",
+    "chapter": "chapter-08-split-01",
+    "text": "সরল ছন্দিত স্পন্দনের গতিপথ কেমন?",
+    "options": [
+      "বৃত্তাকার",
+      "উপবৃত্তাকার",
+      "সরলরেখা",
+      "পরাবৃত্তাকার"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "chapter-08-split-01-q03",
+    "subject": "physics-1st-paper",
+    "chapter": "chapter-08-split-01",
+    "text": "সরল ছন্দিত গতির ক্ষেত্রে ত্বরণ ও সরণের মধ্যে সম্পর্ক কোনটি?",
+    "options": [
+      "a ∝ x²",
+      "a ∝ −x",
+      "a ∝ 1/x",
+      "a = ধ্রুবক"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "chapter-08-split-01-q04",
+    "subject": "physics-1st-paper",
+    "chapter": "chapter-08-split-01",
+    "text": "সরল ছন্দিত গতির গতীয় সমীকরণ কোনটি?",
+    "options": [
+      "F = ma",
+      "d²x/dt² + ω²x = 0",
+      "dx/dt = v",
+      "F = −kx"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "chapter-08-split-01-q05",
+    "subject": "physics-1st-paper",
+    "chapter": "chapter-08-split-01",
+    "text": "সরল ছন্দিত গতির ক্ষেত্রে কৌণিক কম্পাঙ্ক ω = ?",
+    "options": [
+      "2π/T",
+      "1/T",
+      "T/2π",
+      "2πT"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "chapter-08-split-01-q06",
+    "subject": "physics-1st-paper",
+    "chapter": "chapter-08-split-01",
+    "text": "স্পন্দনকাল T এবং কম্পাঙ্ক f এর সম্পর্ক কোনটি?",
+    "options": [
+      "T = f",
+      "T = 1/f",
+      "T = f²",
+      "T = 2πf"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "chapter-08-split-01-q07",
+    "subject": "physics-1st-paper",
+    "chapter": "chapter-08-split-01",
+    "text": "স্প্রিং-ভর সিস্টেমের দোলনকাল T = ? (m ভর, k স্প্রিং ধ্রুবক)",
+    "options": [
+      "2π√(m/k)",
+      "2π√(k/m)",
+      "1/(2π)√(m/k)",
+      "2π√(k/m)"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "chapter-08-split-01-q08",
+    "subject": "physics-1st-paper",
+    "chapter": "chapter-08-split-01",
+    "text": "সরল দোলকের দোলনকাল T = ?",
+    "options": [
+      "2π√(L/g)",
+      "2π√(g/L)",
+      "1/(2π)√(L/g)",
+      "2π√(L/g²)"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "chapter-08-split-01-q09",
+    "subject": "physics-1st-paper",
+    "chapter": "chapter-08-split-01",
+    "text": "সরল দোলকের দোলনকাল নিচের কোনটির উপর নির্ভর করে না?",
+    "options": [
+      "দোলকের দৈর্ঘ্য",
+      "অভিকর্ষজ ত্বরণ",
+      "গোলকের ভর",
+      "কোনোটিই নয়"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "chapter-08-split-01-q10",
+    "subject": "physics-1st-paper",
+    "chapter": "chapter-08-split-01",
+    "text": "একটি সরল দোলকের দৈর্ঘ্য 4 গুণ করলে দোলনকাল কত গুণ হবে?",
+    "options": [
+      "2 গুণ",
+      "4 গুণ",
+      "16 গুণ",
+      "অপরিবর্তিত"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "chapter-08-split-01-q11",
+    "subject": "physics-1st-paper",
+    "chapter": "chapter-08-split-01",
+    "text": "স্প্রিং ধ্রুবক k₁ ও k₂ শ্রেণিতে যুক্ত করলে তুল্য ধ্রুবক কত?",
+    "options": [
+      "k₁ + k₂",
+      "k₁k₂/(k₁+k₂)",
+      "√(k₁k₂)",
+      "1/k₁ + 1/k₂"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "chapter-08-split-01-q12",
+    "subject": "physics-1st-paper",
+    "chapter": "chapter-08-split-01",
+    "text": "দুটি স্প্রিং সমান্তরালে যুক্ত করলে তুল্য ধ্রুবক কত?",
+    "options": [
+      "k₁ + k₂",
+      "k₁k₂/(k₁+k₂)",
+      "√(k₁k₂)",
+      "1/k₁ + 1/k₂"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "chapter-08-split-01-q13",
+    "subject": "physics-1st-paper",
+    "chapter": "chapter-08-split-01",
+    "text": "সরল ছন্দিত গতির ক্ষেত্রে গতিশক্তি সর্বোচ্চ কোন অবস্থানে?",
+    "options": [
+      "প্রান্তিক অবস্থান",
+      "সাম্য অবস্থান",
+      "মধ্যবর্তী অবস্থান",
+      "সর্বত্র সমান"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "chapter-08-split-01-q14",
+    "subject": "physics-1st-paper",
+    "chapter": "chapter-08-split-01",
+    "text": "সরল ছন্দিত গতিতে বিভব শক্তি সর্বোচ্চ কোথায়?",
+    "options": [
+      "সাম্য অবস্থানে",
+      "প্রান্তিক অবস্থানে",
+      "গতিশক্তির সমান থাকে",
+      "শূন্য থাকে"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "chapter-08-split-01-q15",
+    "subject": "physics-1st-paper",
+    "chapter": "chapter-08-split-01",
+    "text": "SHM-এ মোট যান্ত্রিক শক্তি E = ?",
+    "options": [
+      "½kA²",
+      "kA²",
+      "½mv²_max",
+      "ক ও গ উভয়ই"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "chapter-08-split-01-q16",
+    "subject": "physics-1st-paper",
+    "chapter": "chapter-08-split-01",
+    "text": "সেকেন্ড দোলকের দোলনকাল কত?",
+    "options": [
+      "1 সেকেন্ড",
+      "2 সেকেন্ড",
+      "0.5 সেকেন্ড",
+      "4 সেকেন্ড"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "chapter-08-split-01-q17",
+    "subject": "physics-1st-paper",
+    "chapter": "chapter-08-split-01",
+    "text": "সেকেন্ড দোলকের কার্যকর দৈর্ঘ্য কত?",
+    "options": [
+      "প্রায় 0.25 m",
+      "প্রায় 1 m",
+      "প্রায় 2 m",
+      "প্রায় 0.99 m"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "chapter-08-split-01-q18",
+    "subject": "physics-1st-paper",
+    "chapter": "chapter-08-split-01",
+    "text": "পৃথিবীতে একটি সেকেন্ড দোলকের দৈর্ঘ্য L₁, চাঁদে L₂ হলে L₂/L₁? (g_চাঁদ = g/6)",
+    "options": [
+      "6",
+      "1/6",
+      "√6",
+      "1/√6"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "chapter-08-split-01-q19",
+    "subject": "physics-1st-paper",
+    "chapter": "chapter-08-split-01",
+    "text": "একটি খনি থেকে খনির গভীরে গেলে দোলনকাল কেমন হয়?",
+    "options": [
+      "বাড়ে",
+      "কমে",
+      "অপরিবর্তিত",
+      "শূন্য হয়"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "chapter-08-split-01-q20",
+    "subject": "physics-1st-paper",
+    "chapter": "chapter-08-split-01",
+    "text": "পাহাড়ে নিলে সরল দোলকের দোলনকাল –",
+    "options": [
+      "বাড়ে",
+      "কমে",
+      "একই থাকে",
+      "দোলক থেমে যায়"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "chapter-08-split-01-q21",
+    "subject": "physics-1st-paper",
+    "chapter": "chapter-08-split-01",
+    "text": "মুক্তভাবে পড়ন্ত লিফটে একটি সরল দোলকের দোলনকাল কত?",
+    "options": [
+      "শূন্য",
+      "অসীম",
+      "T = 2π√(L/g)",
+      "T = 0"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "chapter-08-split-01-q22",
+    "subject": "physics-1st-paper",
+    "chapter": "chapter-08-split-01",
+    "text": "একটি স্প্রিং-এর বল ধ্রুবক k এবং ভর m হলে তার কৌণিক কম্পাঙ্ক ω = ?",
+    "options": [
+      "√(k/m)",
+      "k/m",
+      "√(m/k)",
+      "m/k"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "chapter-08-split-01-q23",
+    "subject": "physics-1st-paper",
+    "chapter": "chapter-08-split-01",
+    "text": "একটি স্প্রিংকে 2 cm টেনে ছেড়ে দিলে তার বিস্তার কত?",
+    "options": [
+      "2 cm",
+      "4 cm",
+      "0 cm",
+      "তথ্য অসম্পূর্ণ"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "chapter-08-split-01-q24",
+    "subject": "physics-1st-paper",
+    "chapter": "chapter-08-split-01",
+    "text": "একটি সরল দোলকের দোলনকাল T₁ = 2 s, এর দৈর্ঘ্য 4 গুণ করলে T₂ কত?",
+    "options": [
+      "2 s",
+      "4 s",
+      "1 s",
+      "8 s"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "chapter-08-split-01-q25",
+    "subject": "physics-1st-paper",
+    "chapter": "chapter-08-split-01",
+    "text": "একটি স্প্রিং ধ্রুবক k, ভর m স্পন্দিত হচ্ছে। বিস্তার A হলে সর্বোচ্চ বেগ কত?",
+    "options": [
+      "A√(k/m)",
+      "A k/m",
+      "A√(m/k)",
+      "A k²/m"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  }
+]

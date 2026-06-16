@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="100%" height="100%" viewBox="0 0 360 220">
+  <defs>
+    <radialGradient id="bg" cx="50%" cy="45%" r="75%">
+      <stop offset="0%" stop-color="#1e293b"/>
+      <stop offset="100%" stop-color="#020617"/>
+    </radialGradient>
+    <filter id="glow">
+      <feDropShadow dx="0" dy="0" stdDeviation="3" flood-color="#38bdf8" flood-opacity=".55"/>
+    </filter>
+    <style>
+      .tube{fill:none;stroke:#38bdf8;stroke-width:6;stroke-linecap:round;stroke-linejoin:round;filter:url(#glow)}
+      .cap{fill:#0f172a;stroke:#f59e0b;stroke-width:4}
+      .blood{fill:none;stroke:#ef4444;stroke-width:4;stroke-linecap:round}
+      .label{font-family:Arial,sans-serif;font-size:18px;font-weight:900;fill:#fff}
+    </style>
+  </defs>
+
+  <rect width="360" height="220" rx="18" fill="url(#bg)"/>
+
+  <circle cx="85" cy="72" r="38" class="cap"/>
+  <circle cx="85" cy="72" r="20" fill="none" stroke="#ef4444" stroke-width="5"/>
+
+  <path d="M122 72 C160 70 174 92 146 108
+           C112 127 145 148 180 132
+           C218 115 230 150 198 168
+           C172 183 198 194 238 178" class="tube"/>
+
+  <path d="M238 178 C272 156 272 110 242 92 C220 80 226 62 260 60" class="tube"/>
+  <path d="M260 60 V188" class="tube"/>
+
+  <path d="M42 70 C55 54 70 48 85 52" class="blood"/>
+  <path d="M85 92 C68 103 54 112 42 126" class="blood"/>
+
+  <text x="85" y="77" text-anchor="middle" class="label">A</text>
+  <text x="178" y="158" text-anchor="middle" class="label">B</text>
+  <text x="214" y="92" text-anchor="middle" class="label">C</text>
+  <text x="282" y="128" text-anchor="middle" class="label">D</text>
+</svg>

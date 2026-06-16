@@ -1,0 +1,23 @@
+<svg width="100%" height="100%" viewBox="0 0 420 260" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="NOR Gate Circuit">
+  <defs>
+    <marker id="arrow" markerWidth="8" markerHeight="8" refX="7" refY="3.5" orient="auto"><path d="M0,0 L0,7 L8,3.5 z" fill="#0f172a"/></marker>
+    <marker id="arrowBlue" markerWidth="8" markerHeight="8" refX="7" refY="3.5" orient="auto"><path d="M0,0 L0,7 L8,3.5 z" fill="#2563eb"/></marker>
+  </defs>
+  <rect width="420" height="260" rx="18" fill="#f8fafc"/>
+  <rect x="14" y="14" width="392" height="232" rx="14" fill="#ffffff" stroke="#cbd5e1" stroke-width="1.5"/>
+  <text x="210" y="38" text-anchor="middle" font-family="Arial, sans-serif" font-size="15" font-weight="700" fill="#0f172a">NOR Gate Circuit</text>
+  
+  <g stroke="#0f172a" stroke-width="2.4" fill="none" stroke-linecap="round" stroke-linejoin="round">
+    <line x1="55" y1="95" x2="120" y2="95"/>
+    <line x1="55" y1="155" x2="120" y2="155"/>
+    <path d="M120 72 C162 78,188 98,205 125 C188 152,162 172,120 178 C139 140,139 110,120 72 Z" fill="#e0f2fe"/>
+    <path d="M116 72 C138 105,138 145,116 178"/>
+    <circle cx="218" cy="125" r="10" fill="#ffffff"/>
+    <line x1="228" y1="125" x2="330" y2="125"/>
+  </g>
+  <text x="45" y="99" font-size="14" font-family="Arial" fill="#0f172a">A</text>
+  <text x="45" y="159" font-size="14" font-family="Arial" fill="#0f172a">B</text>
+  <text x="340" y="130" font-size="14" font-family="Arial" fill="#0f172a">Y</text>
+  <text x="210" y="212" text-anchor="middle" font-family="Arial" font-size="12" fill="#334155">NOR = OR gate + NOT bubble</text>
+
+</svg>

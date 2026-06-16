@@ -1,0 +1,3544 @@
+{
+  "level": "HSC",
+  "subject": "higher-math-1st-paper",
+  "datasetType": "chapterwise_hyper_mega_hot_board_standard",
+  "confidenceLabel": "Hyper Mega Hot — Highest Probability Board-Standard Pattern Cache",
+  "chapterWise": [
+    {
+      "chapter": "03",
+      "chapterName": "সরলরেখা",
+      "sets": [
+        {
+          "id": "hsc-higher-math-1st-paper-chapter-03-set-01",
+          "title": "Chapter 03 Hyper Mega Hot Set 01",
+          "questions": [
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-03-set-01-q01",
+              "question": "বিন্দু $(3,3)$ ও $(4,4)$ যোগকারী রেখার ঢাল কত?",
+              "options": [
+                {
+                  "text": "1",
+                  "label": "ক"
+                },
+                {
+                  "text": "1 + 3",
+                  "label": "খ"
+                },
+                {
+                  "text": "1 + 2",
+                  "label": "গ"
+                },
+                {
+                  "text": "1 + 1",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "ক",
+              "shortSolution": "সঠিক উত্তর: ক। $m=(y_2-y_1)/(x_2-x_1)$।",
+              "chapter": "03",
+              "topic": "ঢাল",
+              "difficulty": "Easy",
+              "probability": "Board Favourite"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-03-set-01-q02",
+              "question": "ঢাল 4 এবং বিন্দু $(4,5)$ দিয়ে অতিক্রান্ত রেখার সমীকরণ কোনটি?",
+              "options": [
+                {
+                  "text": "$y=-4x-11$",
+                  "label": "ক"
+                },
+                {
+                  "text": "$y=4x-10$",
+                  "label": "খ"
+                },
+                {
+                  "text": "$y=4x-11$",
+                  "label": "গ"
+                },
+                {
+                  "text": "$x=4y-11$",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "গ",
+              "shortSolution": "সঠিক উত্তর: গ। $y-y_1=m(x-x_1)$।",
+              "chapter": "03",
+              "topic": "বিন্দু-ঢাল রূপ",
+              "difficulty": "Easy",
+              "probability": "Conceptual Trap"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-03-set-01-q03",
+              "question": "$\\frac{x}{5}+\\frac{y}{5}=1$ রেখার ছেদাংশ কত?",
+              "options": [
+                {
+                  "text": "10",
+                  "label": "ক"
+                },
+                {
+                  "text": "$x$-অক্ষে 5, $y$-অক্ষে 5 + 3",
+                  "label": "খ"
+                },
+                {
+                  "text": "$x$-অক্ষে 5, $y$-অক্ষে 5",
+                  "label": "গ"
+                },
+                {
+                  "text": "উভয় 0",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "গ",
+              "shortSolution": "সঠিক উত্তর: গ। Intercept form থেকে সরাসরি ছেদাংশ পাওয়া যায়।",
+              "chapter": "03",
+              "topic": "ছেদাংশ রূপ",
+              "difficulty": "Easy",
+              "probability": "Mega Hot"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-03-set-01-q04",
+              "question": "বিন্দু $(6,3)$ থেকে রেখা $6x+6y-7=0$ এর দূরত্ব কত?",
+              "options": [
+                {
+                  "text": "$\\sqrt{72}$",
+                  "label": "ক"
+                },
+                {
+                  "text": "$\\frac{47}{\\sqrt{72}}$",
+                  "label": "খ"
+                },
+                {
+                  "text": "$\\frac{47}{72}$",
+                  "label": "গ"
+                },
+                {
+                  "text": "$\\frac{48}{\\sqrt{72}}$",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "খ",
+              "shortSolution": "সঠিক উত্তর: খ। $|ax_1+by_1+c|/\\sqrt{a^2+b^2}$।",
+              "chapter": "03",
+              "topic": "বিন্দু থেকে রেখার দূরত্ব",
+              "difficulty": "Easy",
+              "probability": "Very Hot"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-03-set-01-q05",
+              "question": "দুটি রেখা parallel হলে তাদের ঢাল কেমন?",
+              "options": [
+                {
+                  "text": "যোগফল 0",
+                  "label": "ক"
+                },
+                {
+                  "text": "অসংজ্ঞায়িত",
+                  "label": "খ"
+                },
+                {
+                  "text": "গুণফল -1",
+                  "label": "গ"
+                },
+                {
+                  "text": "সমান",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "ঘ",
+              "shortSolution": "সঠিক উত্তর: ঘ। Parallel রেখার slope সমান।",
+              "chapter": "03",
+              "topic": "সমান্তরাল রেখা",
+              "difficulty": "Easy",
+              "probability": "Board Favourite"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-03-set-01-q06",
+              "question": "একটি রেখার ঢাল 3 হলে তার উপর লম্ব রেখার ঢাল কত?",
+              "options": [
+                {
+                  "text": "-3",
+                  "label": "ক"
+                },
+                {
+                  "text": "3",
+                  "label": "খ"
+                },
+                {
+                  "text": "$\\frac{1}{3}$",
+                  "label": "গ"
+                },
+                {
+                  "text": "$\\frac{-1}{3}$",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "ঘ",
+              "shortSolution": "সঠিক উত্তর: ঘ। লম্ব রেখার ঢালের গুণফল -1।",
+              "chapter": "03",
+              "topic": "লম্ব রেখা",
+              "difficulty": "Easy",
+              "probability": "Conceptual Trap"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-03-set-01-q07",
+              "question": "$4x+2y+6=0$ রেখার ঢাল কত?",
+              "options": [
+                {
+                  "text": "2",
+                  "label": "ক"
+                },
+                {
+                  "text": "-2",
+                  "label": "খ"
+                },
+                {
+                  "text": "-2 + 3",
+                  "label": "গ"
+                },
+                {
+                  "text": "4",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "খ",
+              "shortSolution": "সঠিক উত্তর: খ। $ax+by+c=0$ হলে slope $-a/b$।",
+              "chapter": "03",
+              "topic": "সাধারণ রূপ থেকে ঢাল",
+              "difficulty": "Easy",
+              "probability": "Mega Hot"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-03-set-01-q08",
+              "question": "$y=k$ রেখাটি কোন অক্ষের সমান্তরাল?",
+              "options": [
+                {
+                  "text": "$y$-অক্ষ",
+                  "label": "ক"
+                },
+                {
+                  "text": "কোনোটিই নয়",
+                  "label": "খ"
+                },
+                {
+                  "text": "$x$-অক্ষ",
+                  "label": "গ"
+                },
+                {
+                  "text": "উভয় অক্ষ",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "গ",
+              "shortSolution": "সঠিক উত্তর: গ। $y=$ constant হলে horizontal line।",
+              "chapter": "03",
+              "topic": "অক্ষের সমান্তরাল রেখা",
+              "difficulty": "Medium",
+              "probability": "Very Hot"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-03-set-01-q09",
+              "question": "দুটি রেখার ঢালের গুণফল -1 হলে তারা কেমন?",
+              "options": [
+                {
+                  "text": "লম্ব",
+                  "label": "ক"
+                },
+                {
+                  "text": "কোনোটিই নয়",
+                  "label": "খ"
+                },
+                {
+                  "text": "সমান্তরাল",
+                  "label": "গ"
+                },
+                {
+                  "text": "অভিন্ন",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "ক",
+              "shortSolution": "সঠিক উত্তর: ক। Perpendicular রেখার slopes product -1।",
+              "chapter": "03",
+              "topic": "লম্ব রেখার শর্ত",
+              "difficulty": "Medium",
+              "probability": "Board Favourite"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-03-set-01-q10",
+              "question": "রেখা $ax+by+c=0$ ও $a'x+b'y+c'=0$ parallel হওয়ার শর্ত কোনটি?",
+              "options": [
+                {
+                  "text": "$a+b=0$",
+                  "label": "ক"
+                },
+                {
+                  "text": "$c=c'$",
+                  "label": "খ"
+                },
+                {
+                  "text": "$aa'+bb'=0$",
+                  "label": "গ"
+                },
+                {
+                  "text": "$ab'-a'b=0$",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "ঘ",
+              "shortSolution": "সঠিক উত্তর: ঘ। Parallel হলে coefficient ratio সমান, অর্থাৎ $ab'-a'b=0$।",
+              "chapter": "03",
+              "topic": "সমান্তরাল রেখার শর্ত",
+              "difficulty": "Medium",
+              "probability": "Conceptual Trap"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-03-set-01-q11",
+              "question": "বিন্দু $(3,6)$ ও $(6,8)$ যোগকারী রেখার ঢাল কত?",
+              "options": [
+                {
+                  "text": "3",
+                  "label": "ক"
+                },
+                {
+                  "text": "2",
+                  "label": "খ"
+                },
+                {
+                  "text": "$\\frac{3}{2}$",
+                  "label": "গ"
+                },
+                {
+                  "text": "$\\frac{2}{3}$",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "ঘ",
+              "shortSolution": "সঠিক উত্তর: ঘ। $m=(y_2-y_1)/(x_2-x_1)$।",
+              "chapter": "03",
+              "topic": "ঢাল",
+              "difficulty": "Medium",
+              "probability": "Mega Hot"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-03-set-01-q12",
+              "question": "ঢাল 4 এবং বিন্দু $(7,3)$ দিয়ে অতিক্রান্ত রেখার সমীকরণ কোনটি?",
+              "options": [
+                {
+                  "text": "$y=4x-24$",
+                  "label": "ক"
+                },
+                {
+                  "text": "$y=4x-25$",
+                  "label": "খ"
+                },
+                {
+                  "text": "$x=4y-25$",
+                  "label": "গ"
+                },
+                {
+                  "text": "$y=-4x-25$",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "খ",
+              "shortSolution": "সঠিক উত্তর: খ। $y-y_1=m(x-x_1)$।",
+              "chapter": "03",
+              "topic": "বিন্দু-ঢাল রূপ",
+              "difficulty": "Medium",
+              "probability": "Very Hot"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-03-set-01-q13",
+              "question": "$\\frac{x}{5}+\\frac{y}{8}=1$ রেখার ছেদাংশ কত?",
+              "options": [
+                {
+                  "text": "$x$-অক্ষে 5, $y$-অক্ষে 8",
+                  "label": "ক"
+                },
+                {
+                  "text": "$x$-অক্ষে 8, $y$-অক্ষে 5",
+                  "label": "খ"
+                },
+                {
+                  "text": "13",
+                  "label": "গ"
+                },
+                {
+                  "text": "উভয় 0",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "ক",
+              "shortSolution": "সঠিক উত্তর: ক। Intercept form থেকে সরাসরি ছেদাংশ পাওয়া যায়।",
+              "chapter": "03",
+              "topic": "ছেদাংশ রূপ",
+              "difficulty": "Medium",
+              "probability": "Board Favourite"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-03-set-01-q14",
+              "question": "বিন্দু $(2,5)$ থেকে রেখা $6x+2y-5=0$ এর দূরত্ব কত?",
+              "options": [
+                {
+                  "text": "$\\frac{18}{\\sqrt{40}}$",
+                  "label": "ক"
+                },
+                {
+                  "text": "$\\sqrt{40}$",
+                  "label": "খ"
+                },
+                {
+                  "text": "$\\frac{17}{\\sqrt{40}}$",
+                  "label": "গ"
+                },
+                {
+                  "text": "$\\frac{17}{40}$",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "গ",
+              "shortSolution": "সঠিক উত্তর: গ। $|ax_1+by_1+c|/\\sqrt{a^2+b^2}$।",
+              "chapter": "03",
+              "topic": "বিন্দু থেকে রেখার দূরত্ব",
+              "difficulty": "Medium",
+              "probability": "Conceptual Trap"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-03-set-01-q15",
+              "question": "দুটি রেখা parallel হলে তাদের ঢাল কেমন? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 01-15 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+              "options": [
+                {
+                  "text": "যোগফল 0",
+                  "label": "ক"
+                },
+                {
+                  "text": "অসংজ্ঞায়িত",
+                  "label": "খ"
+                },
+                {
+                  "text": "গুণফল -1",
+                  "label": "গ"
+                },
+                {
+                  "text": "সমান",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "ঘ",
+              "shortSolution": "সঠিক উত্তর: ঘ। Parallel রেখার slope সমান।",
+              "chapter": "03",
+              "topic": "সমান্তরাল রেখা",
+              "difficulty": "Hard",
+              "probability": "Mega Hot"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-03-set-01-q16",
+              "question": "একটি রেখার ঢাল 3 হলে তার উপর লম্ব রেখার ঢাল কত? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 01-16 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+              "options": [
+                {
+                  "text": "$\\frac{-1}{3}$",
+                  "label": "ক"
+                },
+                {
+                  "text": "$\\frac{1}{3}$",
+                  "label": "খ"
+                },
+                {
+                  "text": "-3",
+                  "label": "গ"
+                },
+                {
+                  "text": "3",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "ক",
+              "shortSolution": "সঠিক উত্তর: ক। লম্ব রেখার ঢালের গুণফল -1।",
+              "chapter": "03",
+              "topic": "লম্ব রেখা",
+              "difficulty": "Hard",
+              "probability": "Very Hot"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-03-set-01-q17",
+              "question": "$4x+5y+4=0$ রেখার ঢাল কত?",
+              "options": [
+                {
+                  "text": "5",
+                  "label": "ক"
+                },
+                {
+                  "text": "4",
+                  "label": "খ"
+                },
+                {
+                  "text": "$\\frac{4}{5}$",
+                  "label": "গ"
+                },
+                {
+                  "text": "$\\frac{-4}{5}$",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "ঘ",
+              "shortSolution": "সঠিক উত্তর: ঘ। $ax+by+c=0$ হলে slope $-a/b$।",
+              "chapter": "03",
+              "topic": "সাধারণ রূপ থেকে ঢাল",
+              "difficulty": "Hard",
+              "probability": "Board Favourite"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-03-set-01-q18",
+              "question": "$y=k$ রেখাটি কোন অক্ষের সমান্তরাল? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 01-18 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+              "options": [
+                {
+                  "text": "$x$-অক্ষ",
+                  "label": "ক"
+                },
+                {
+                  "text": "কোনোটিই নয়",
+                  "label": "খ"
+                },
+                {
+                  "text": "উভয় অক্ষ",
+                  "label": "গ"
+                },
+                {
+                  "text": "$y$-অক্ষ",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "ক",
+              "shortSolution": "সঠিক উত্তর: ক। $y=$ constant হলে horizontal line।",
+              "chapter": "03",
+              "topic": "অক্ষের সমান্তরাল রেখা",
+              "difficulty": "Hard",
+              "probability": "Conceptual Trap"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-03-set-01-q19",
+              "question": "দুটি রেখার ঢালের গুণফল -1 হলে তারা কেমন? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 01-19 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+              "options": [
+                {
+                  "text": "সমান্তরাল",
+                  "label": "ক"
+                },
+                {
+                  "text": "লম্ব",
+                  "label": "খ"
+                },
+                {
+                  "text": "কোনোটিই নয়",
+                  "label": "গ"
+                },
+                {
+                  "text": "অভিন্ন",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "খ",
+              "shortSolution": "সঠিক উত্তর: খ। Perpendicular রেখার slopes product -1।",
+              "chapter": "03",
+              "topic": "লম্ব রেখার শর্ত",
+              "difficulty": "Hard",
+              "probability": "Mega Hot"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-03-set-01-q20",
+              "question": "রেখা $ax+by+c=0$ ও $a'x+b'y+c'=0$ parallel হওয়ার শর্ত কোনটি? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 01-20 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+              "options": [
+                {
+                  "text": "$c=c'$",
+                  "label": "ক"
+                },
+                {
+                  "text": "$a+b=0$",
+                  "label": "খ"
+                },
+                {
+                  "text": "$ab'-a'b=0$",
+                  "label": "গ"
+                },
+                {
+                  "text": "$aa'+bb'=0$",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "গ",
+              "shortSolution": "সঠিক উত্তর: গ। Parallel হলে coefficient ratio সমান, অর্থাৎ $ab'-a'b=0$।",
+              "chapter": "03",
+              "topic": "সমান্তরাল রেখার শর্ত",
+              "difficulty": "Hard",
+              "probability": "Very Hot"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-03-set-01-q21",
+              "question": "বিন্দু $(3,2)$ ও $(4,6)$ যোগকারী রেখার ঢাল কত?",
+              "options": [
+                {
+                  "text": "4 + 3",
+                  "label": "ক"
+                },
+                {
+                  "text": "1",
+                  "label": "খ"
+                },
+                {
+                  "text": "4",
+                  "label": "গ"
+                },
+                {
+                  "text": "$\\frac{1}{4}$",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "গ",
+              "shortSolution": "সঠিক উত্তর: গ। $m=(y_2-y_1)/(x_2-x_1)$।",
+              "chapter": "03",
+              "topic": "ঢাল",
+              "difficulty": "Hard",
+              "probability": "Board Favourite"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-03-set-01-q22",
+              "question": "ঢাল 4 এবং বিন্দু $(3,5)$ দিয়ে অতিক্রান্ত রেখার সমীকরণ কোনটি?",
+              "options": [
+                {
+                  "text": "$y=-4x-7$",
+                  "label": "ক"
+                },
+                {
+                  "text": "$y=4x-6$",
+                  "label": "খ"
+                },
+                {
+                  "text": "$y=4x-7$",
+                  "label": "গ"
+                },
+                {
+                  "text": "$x=4y-7$",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "গ",
+              "shortSolution": "সঠিক উত্তর: গ। $y-y_1=m(x-x_1)$।",
+              "chapter": "03",
+              "topic": "বিন্দু-ঢাল রূপ",
+              "difficulty": "Board Standard",
+              "probability": "Conceptual Trap"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-03-set-01-q23",
+              "question": "$\\frac{x}{5}+\\frac{y}{4}=1$ রেখার ছেদাংশ কত?",
+              "options": [
+                {
+                  "text": "9",
+                  "label": "ক"
+                },
+                {
+                  "text": "$x$-অক্ষে 5, $y$-অক্ষে 4",
+                  "label": "খ"
+                },
+                {
+                  "text": "উভয় 0",
+                  "label": "গ"
+                },
+                {
+                  "text": "$x$-অক্ষে 4, $y$-অক্ষে 5",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "খ",
+              "shortSolution": "সঠিক উত্তর: খ। Intercept form থেকে সরাসরি ছেদাংশ পাওয়া যায়।",
+              "chapter": "03",
+              "topic": "ছেদাংশ রূপ",
+              "difficulty": "Board Standard",
+              "probability": "Mega Hot"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-03-set-01-q24",
+              "question": "বিন্দু $(5,3)$ থেকে রেখা $6x+5y-3=0$ এর দূরত্ব কত?",
+              "options": [
+                {
+                  "text": "$\\frac{43}{\\sqrt{61}}$",
+                  "label": "ক"
+                },
+                {
+                  "text": "$\\sqrt{61}$",
+                  "label": "খ"
+                },
+                {
+                  "text": "$\\frac{42}{\\sqrt{61}}$",
+                  "label": "গ"
+                },
+                {
+                  "text": "$\\frac{42}{61}$",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "গ",
+              "shortSolution": "সঠিক উত্তর: গ। $|ax_1+by_1+c|/\\sqrt{a^2+b^2}$।",
+              "chapter": "03",
+              "topic": "বিন্দু থেকে রেখার দূরত্ব",
+              "difficulty": "Board Standard",
+              "probability": "Very Hot"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-03-set-01-q25",
+              "question": "দুটি রেখা parallel হলে তাদের ঢাল কেমন? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 01-25 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+              "options": [
+                {
+                  "text": "গুণফল -1",
+                  "label": "ক"
+                },
+                {
+                  "text": "সমান",
+                  "label": "খ"
+                },
+                {
+                  "text": "যোগফল 0",
+                  "label": "গ"
+                },
+                {
+                  "text": "অসংজ্ঞায়িত",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "খ",
+              "shortSolution": "সঠিক উত্তর: খ। Parallel রেখার slope সমান।",
+              "chapter": "03",
+              "topic": "সমান্তরাল রেখা",
+              "difficulty": "Board Standard",
+              "probability": "Board Favourite"
+            }
+          ]
+        },
+        {
+          "id": "hsc-higher-math-1st-paper-chapter-03-set-02",
+          "title": "Chapter 03 Hyper Mega Hot Set 02",
+          "questions": [
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-03-set-02-q01",
+              "question": "বিন্দু $(4,3)$ ও $(5,4)$ যোগকারী রেখার ঢাল কত?",
+              "options": [
+                {
+                  "text": "1 + 2",
+                  "label": "ক"
+                },
+                {
+                  "text": "1 + 1",
+                  "label": "খ"
+                },
+                {
+                  "text": "1",
+                  "label": "গ"
+                },
+                {
+                  "text": "1 + 3",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "গ",
+              "shortSolution": "সঠিক উত্তর: গ। $m=(y_2-y_1)/(x_2-x_1)$।",
+              "chapter": "03",
+              "topic": "ঢাল",
+              "difficulty": "Easy",
+              "probability": "Conceptual Trap"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-03-set-02-q02",
+              "question": "ঢাল 5 এবং বিন্দু $(4,6)$ দিয়ে অতিক্রান্ত রেখার সমীকরণ কোনটি?",
+              "options": [
+                {
+                  "text": "$y=5x-13$",
+                  "label": "ক"
+                },
+                {
+                  "text": "$y=-5x-14$",
+                  "label": "খ"
+                },
+                {
+                  "text": "$y=5x-14$",
+                  "label": "গ"
+                },
+                {
+                  "text": "$x=5y-14$",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "গ",
+              "shortSolution": "সঠিক উত্তর: গ। $y-y_1=m(x-x_1)$।",
+              "chapter": "03",
+              "topic": "বিন্দু-ঢাল রূপ",
+              "difficulty": "Easy",
+              "probability": "Mega Hot"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-03-set-02-q03",
+              "question": "$\\frac{x}{6}+\\frac{y}{5}=1$ রেখার ছেদাংশ কত?",
+              "options": [
+                {
+                  "text": "উভয় 0",
+                  "label": "ক"
+                },
+                {
+                  "text": "$x$-অক্ষে 5, $y$-অক্ষে 6",
+                  "label": "খ"
+                },
+                {
+                  "text": "$x$-অক্ষে 6, $y$-অক্ষে 5",
+                  "label": "গ"
+                },
+                {
+                  "text": "11",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "গ",
+              "shortSolution": "সঠিক উত্তর: গ। Intercept form থেকে সরাসরি ছেদাংশ পাওয়া যায়।",
+              "chapter": "03",
+              "topic": "ছেদাংশ রূপ",
+              "difficulty": "Easy",
+              "probability": "Very Hot"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-03-set-02-q04",
+              "question": "বিন্দু $(6,4)$ থেকে রেখা $7x+6y-7=0$ এর দূরত্ব কত?",
+              "options": [
+                {
+                  "text": "$\\frac{59}{\\sqrt{85}}$",
+                  "label": "ক"
+                },
+                {
+                  "text": "$\\sqrt{85}$",
+                  "label": "খ"
+                },
+                {
+                  "text": "$\\frac{59}{85}$",
+                  "label": "গ"
+                },
+                {
+                  "text": "$\\frac{60}{\\sqrt{85}}$",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "ক",
+              "shortSolution": "সঠিক উত্তর: ক। $|ax_1+by_1+c|/\\sqrt{a^2+b^2}$।",
+              "chapter": "03",
+              "topic": "বিন্দু থেকে রেখার দূরত্ব",
+              "difficulty": "Easy",
+              "probability": "Board Favourite"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-03-set-02-q05",
+              "question": "দুটি রেখা parallel হলে তাদের ঢাল কেমন? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 02-05 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+              "options": [
+                {
+                  "text": "গুণফল -1",
+                  "label": "ক"
+                },
+                {
+                  "text": "যোগফল 0",
+                  "label": "খ"
+                },
+                {
+                  "text": "সমান",
+                  "label": "গ"
+                },
+                {
+                  "text": "অসংজ্ঞায়িত",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "গ",
+              "shortSolution": "সঠিক উত্তর: গ। Parallel রেখার slope সমান।",
+              "chapter": "03",
+              "topic": "সমান্তরাল রেখা",
+              "difficulty": "Easy",
+              "probability": "Conceptual Trap"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-03-set-02-q06",
+              "question": "একটি রেখার ঢাল 4 হলে তার উপর লম্ব রেখার ঢাল কত?",
+              "options": [
+                {
+                  "text": "4",
+                  "label": "ক"
+                },
+                {
+                  "text": "$\\frac{1}{4}$",
+                  "label": "খ"
+                },
+                {
+                  "text": "$\\frac{-1}{4}$",
+                  "label": "গ"
+                },
+                {
+                  "text": "-4",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "গ",
+              "shortSolution": "সঠিক উত্তর: গ। লম্ব রেখার ঢালের গুণফল -1।",
+              "chapter": "03",
+              "topic": "লম্ব রেখা",
+              "difficulty": "Easy",
+              "probability": "Mega Hot"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-03-set-02-q07",
+              "question": "$5x+2y+7=0$ রেখার ঢাল কত?",
+              "options": [
+                {
+                  "text": "5",
+                  "label": "ক"
+                },
+                {
+                  "text": "$\\frac{-5}{2}$",
+                  "label": "খ"
+                },
+                {
+                  "text": "$\\frac{5}{2}$",
+                  "label": "গ"
+                },
+                {
+                  "text": "2",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "খ",
+              "shortSolution": "সঠিক উত্তর: খ। $ax+by+c=0$ হলে slope $-a/b$।",
+              "chapter": "03",
+              "topic": "সাধারণ রূপ থেকে ঢাল",
+              "difficulty": "Easy",
+              "probability": "Very Hot"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-03-set-02-q08",
+              "question": "$y=k$ রেখাটি কোন অক্ষের সমান্তরাল? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 02-08 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+              "options": [
+                {
+                  "text": "উভয় অক্ষ",
+                  "label": "ক"
+                },
+                {
+                  "text": "$x$-অক্ষ",
+                  "label": "খ"
+                },
+                {
+                  "text": "কোনোটিই নয়",
+                  "label": "গ"
+                },
+                {
+                  "text": "$y$-অক্ষ",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "খ",
+              "shortSolution": "সঠিক উত্তর: খ। $y=$ constant হলে horizontal line।",
+              "chapter": "03",
+              "topic": "অক্ষের সমান্তরাল রেখা",
+              "difficulty": "Medium",
+              "probability": "Board Favourite"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-03-set-02-q09",
+              "question": "দুটি রেখার ঢালের গুণফল -1 হলে তারা কেমন? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 02-09 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+              "options": [
+                {
+                  "text": "অভিন্ন",
+                  "label": "ক"
+                },
+                {
+                  "text": "লম্ব",
+                  "label": "খ"
+                },
+                {
+                  "text": "সমান্তরাল",
+                  "label": "গ"
+                },
+                {
+                  "text": "কোনোটিই নয়",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "খ",
+              "shortSolution": "সঠিক উত্তর: খ। Perpendicular রেখার slopes product -1।",
+              "chapter": "03",
+              "topic": "লম্ব রেখার শর্ত",
+              "difficulty": "Medium",
+              "probability": "Conceptual Trap"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-03-set-02-q10",
+              "question": "রেখা $ax+by+c=0$ ও $a'x+b'y+c'=0$ parallel হওয়ার শর্ত কোনটি? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 02-10 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+              "options": [
+                {
+                  "text": "$ab'-a'b=0$",
+                  "label": "ক"
+                },
+                {
+                  "text": "$c=c'$",
+                  "label": "খ"
+                },
+                {
+                  "text": "$a+b=0$",
+                  "label": "গ"
+                },
+                {
+                  "text": "$aa'+bb'=0$",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "ক",
+              "shortSolution": "সঠিক উত্তর: ক। Parallel হলে coefficient ratio সমান, অর্থাৎ $ab'-a'b=0$।",
+              "chapter": "03",
+              "topic": "সমান্তরাল রেখার শর্ত",
+              "difficulty": "Medium",
+              "probability": "Mega Hot"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-03-set-02-q11",
+              "question": "বিন্দু $(4,6)$ ও $(7,8)$ যোগকারী রেখার ঢাল কত?",
+              "options": [
+                {
+                  "text": "2",
+                  "label": "ক"
+                },
+                {
+                  "text": "$\\frac{3}{2}$",
+                  "label": "খ"
+                },
+                {
+                  "text": "3",
+                  "label": "গ"
+                },
+                {
+                  "text": "$\\frac{2}{3}$",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "ঘ",
+              "shortSolution": "সঠিক উত্তর: ঘ। $m=(y_2-y_1)/(x_2-x_1)$।",
+              "chapter": "03",
+              "topic": "ঢাল",
+              "difficulty": "Medium",
+              "probability": "Very Hot"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-03-set-02-q12",
+              "question": "ঢাল 5 এবং বিন্দু $(7,4)$ দিয়ে অতিক্রান্ত রেখার সমীকরণ কোনটি?",
+              "options": [
+                {
+                  "text": "$y=5x-31$",
+                  "label": "ক"
+                },
+                {
+                  "text": "$y=-5x-31$",
+                  "label": "খ"
+                },
+                {
+                  "text": "$y=5x-30$",
+                  "label": "গ"
+                },
+                {
+                  "text": "$x=5y-31$",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "ক",
+              "shortSolution": "সঠিক উত্তর: ক। $y-y_1=m(x-x_1)$।",
+              "chapter": "03",
+              "topic": "বিন্দু-ঢাল রূপ",
+              "difficulty": "Medium",
+              "probability": "Board Favourite"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-03-set-02-q13",
+              "question": "$\\frac{x}{6}+\\frac{y}{8}=1$ রেখার ছেদাংশ কত?",
+              "options": [
+                {
+                  "text": "উভয় 0",
+                  "label": "ক"
+                },
+                {
+                  "text": "14",
+                  "label": "খ"
+                },
+                {
+                  "text": "$x$-অক্ষে 8, $y$-অক্ষে 6",
+                  "label": "গ"
+                },
+                {
+                  "text": "$x$-অক্ষে 6, $y$-অক্ষে 8",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "ঘ",
+              "shortSolution": "সঠিক উত্তর: ঘ। Intercept form থেকে সরাসরি ছেদাংশ পাওয়া যায়।",
+              "chapter": "03",
+              "topic": "ছেদাংশ রূপ",
+              "difficulty": "Medium",
+              "probability": "Conceptual Trap"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-03-set-02-q14",
+              "question": "বিন্দু $(2,6)$ থেকে রেখা $7x+2y-5=0$ এর দূরত্ব কত?",
+              "options": [
+                {
+                  "text": "$\\frac{22}{\\sqrt{53}}$",
+                  "label": "ক"
+                },
+                {
+                  "text": "$\\frac{21}{\\sqrt{53}}$",
+                  "label": "খ"
+                },
+                {
+                  "text": "$\\frac{21}{53}$",
+                  "label": "গ"
+                },
+                {
+                  "text": "$\\sqrt{53}$",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "খ",
+              "shortSolution": "সঠিক উত্তর: খ। $|ax_1+by_1+c|/\\sqrt{a^2+b^2}$।",
+              "chapter": "03",
+              "topic": "বিন্দু থেকে রেখার দূরত্ব",
+              "difficulty": "Medium",
+              "probability": "Mega Hot"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-03-set-02-q15",
+              "question": "দুটি রেখা parallel হলে তাদের ঢাল কেমন? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 02-15 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+              "options": [
+                {
+                  "text": "যোগফল 0",
+                  "label": "ক"
+                },
+                {
+                  "text": "সমান",
+                  "label": "খ"
+                },
+                {
+                  "text": "অসংজ্ঞায়িত",
+                  "label": "গ"
+                },
+                {
+                  "text": "গুণফল -1",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "খ",
+              "shortSolution": "সঠিক উত্তর: খ। Parallel রেখার slope সমান।",
+              "chapter": "03",
+              "topic": "সমান্তরাল রেখা",
+              "difficulty": "Hard",
+              "probability": "Very Hot"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-03-set-02-q16",
+              "question": "একটি রেখার ঢাল 4 হলে তার উপর লম্ব রেখার ঢাল কত? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 02-16 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+              "options": [
+                {
+                  "text": "4",
+                  "label": "ক"
+                },
+                {
+                  "text": "-4",
+                  "label": "খ"
+                },
+                {
+                  "text": "$\\frac{1}{4}$",
+                  "label": "গ"
+                },
+                {
+                  "text": "$\\frac{-1}{4}$",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "ঘ",
+              "shortSolution": "সঠিক উত্তর: ঘ। লম্ব রেখার ঢালের গুণফল -1।",
+              "chapter": "03",
+              "topic": "লম্ব রেখা",
+              "difficulty": "Hard",
+              "probability": "Board Favourite"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-03-set-02-q17",
+              "question": "$5x+5y+5=0$ রেখার ঢাল কত?",
+              "options": [
+                {
+                  "text": "1",
+                  "label": "ক"
+                },
+                {
+                  "text": "-1",
+                  "label": "খ"
+                },
+                {
+                  "text": "5",
+                  "label": "গ"
+                },
+                {
+                  "text": "-1 + 3",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "খ",
+              "shortSolution": "সঠিক উত্তর: খ। $ax+by+c=0$ হলে slope $-a/b$।",
+              "chapter": "03",
+              "topic": "সাধারণ রূপ থেকে ঢাল",
+              "difficulty": "Hard",
+              "probability": "Conceptual Trap"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-03-set-02-q18",
+              "question": "$y=k$ রেখাটি কোন অক্ষের সমান্তরাল? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 02-18 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+              "options": [
+                {
+                  "text": "উভয় অক্ষ",
+                  "label": "ক"
+                },
+                {
+                  "text": "$x$-অক্ষ",
+                  "label": "খ"
+                },
+                {
+                  "text": "$y$-অক্ষ",
+                  "label": "গ"
+                },
+                {
+                  "text": "কোনোটিই নয়",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "খ",
+              "shortSolution": "সঠিক উত্তর: খ। $y=$ constant হলে horizontal line।",
+              "chapter": "03",
+              "topic": "অক্ষের সমান্তরাল রেখা",
+              "difficulty": "Hard",
+              "probability": "Mega Hot"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-03-set-02-q19",
+              "question": "দুটি রেখার ঢালের গুণফল -1 হলে তারা কেমন? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 02-19 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+              "options": [
+                {
+                  "text": "কোনোটিই নয়",
+                  "label": "ক"
+                },
+                {
+                  "text": "অভিন্ন",
+                  "label": "খ"
+                },
+                {
+                  "text": "সমান্তরাল",
+                  "label": "গ"
+                },
+                {
+                  "text": "লম্ব",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "ঘ",
+              "shortSolution": "সঠিক উত্তর: ঘ। Perpendicular রেখার slopes product -1।",
+              "chapter": "03",
+              "topic": "লম্ব রেখার শর্ত",
+              "difficulty": "Hard",
+              "probability": "Very Hot"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-03-set-02-q20",
+              "question": "রেখা $ax+by+c=0$ ও $a'x+b'y+c'=0$ parallel হওয়ার শর্ত কোনটি? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 02-20 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+              "options": [
+                {
+                  "text": "$aa'+bb'=0$",
+                  "label": "ক"
+                },
+                {
+                  "text": "$ab'-a'b=0$",
+                  "label": "খ"
+                },
+                {
+                  "text": "$c=c'$",
+                  "label": "গ"
+                },
+                {
+                  "text": "$a+b=0$",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "খ",
+              "shortSolution": "সঠিক উত্তর: খ। Parallel হলে coefficient ratio সমান, অর্থাৎ $ab'-a'b=0$।",
+              "chapter": "03",
+              "topic": "সমান্তরাল রেখার শর্ত",
+              "difficulty": "Hard",
+              "probability": "Board Favourite"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-03-set-02-q21",
+              "question": "বিন্দু $(4,2)$ ও $(5,6)$ যোগকারী রেখার ঢাল কত?",
+              "options": [
+                {
+                  "text": "4",
+                  "label": "ক"
+                },
+                {
+                  "text": "4 + 3",
+                  "label": "খ"
+                },
+                {
+                  "text": "$\\frac{1}{4}$",
+                  "label": "গ"
+                },
+                {
+                  "text": "1",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "ক",
+              "shortSolution": "সঠিক উত্তর: ক। $m=(y_2-y_1)/(x_2-x_1)$।",
+              "chapter": "03",
+              "topic": "ঢাল",
+              "difficulty": "Hard",
+              "probability": "Conceptual Trap"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-03-set-02-q22",
+              "question": "ঢাল 5 এবং বিন্দু $(3,6)$ দিয়ে অতিক্রান্ত রেখার সমীকরণ কোনটি?",
+              "options": [
+                {
+                  "text": "$x=5y-9$",
+                  "label": "ক"
+                },
+                {
+                  "text": "$y=5x-9$",
+                  "label": "খ"
+                },
+                {
+                  "text": "$y=5x-8$",
+                  "label": "গ"
+                },
+                {
+                  "text": "$y=-5x-9$",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "খ",
+              "shortSolution": "সঠিক উত্তর: খ। $y-y_1=m(x-x_1)$।",
+              "chapter": "03",
+              "topic": "বিন্দু-ঢাল রূপ",
+              "difficulty": "Board Standard",
+              "probability": "Mega Hot"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-03-set-02-q23",
+              "question": "$\\frac{x}{6}+\\frac{y}{4}=1$ রেখার ছেদাংশ কত?",
+              "options": [
+                {
+                  "text": "10",
+                  "label": "ক"
+                },
+                {
+                  "text": "$x$-অক্ষে 6, $y$-অক্ষে 4",
+                  "label": "খ"
+                },
+                {
+                  "text": "উভয় 0",
+                  "label": "গ"
+                },
+                {
+                  "text": "$x$-অক্ষে 4, $y$-অক্ষে 6",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "খ",
+              "shortSolution": "সঠিক উত্তর: খ। Intercept form থেকে সরাসরি ছেদাংশ পাওয়া যায়।",
+              "chapter": "03",
+              "topic": "ছেদাংশ রূপ",
+              "difficulty": "Board Standard",
+              "probability": "Very Hot"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-03-set-02-q24",
+              "question": "বিন্দু $(5,4)$ থেকে রেখা $7x+5y-3=0$ এর দূরত্ব কত?",
+              "options": [
+                {
+                  "text": "$\\frac{52}{\\sqrt{74}}$",
+                  "label": "ক"
+                },
+                {
+                  "text": "$\\frac{52}{74}$",
+                  "label": "খ"
+                },
+                {
+                  "text": "$\\frac{53}{\\sqrt{74}}$",
+                  "label": "গ"
+                },
+                {
+                  "text": "$\\sqrt{74}$",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "ক",
+              "shortSolution": "সঠিক উত্তর: ক। $|ax_1+by_1+c|/\\sqrt{a^2+b^2}$।",
+              "chapter": "03",
+              "topic": "বিন্দু থেকে রেখার দূরত্ব",
+              "difficulty": "Board Standard",
+              "probability": "Board Favourite"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-03-set-02-q25",
+              "question": "দুটি রেখা parallel হলে তাদের ঢাল কেমন? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 02-25 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+              "options": [
+                {
+                  "text": "যোগফল 0",
+                  "label": "ক"
+                },
+                {
+                  "text": "অসংজ্ঞায়িত",
+                  "label": "খ"
+                },
+                {
+                  "text": "সমান",
+                  "label": "গ"
+                },
+                {
+                  "text": "গুণফল -1",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "গ",
+              "shortSolution": "সঠিক উত্তর: গ। Parallel রেখার slope সমান।",
+              "chapter": "03",
+              "topic": "সমান্তরাল রেখা",
+              "difficulty": "Board Standard",
+              "probability": "Conceptual Trap"
+            }
+          ]
+        },
+        {
+          "id": "hsc-higher-math-1st-paper-chapter-03-set-03",
+          "title": "Chapter 03 Hyper Mega Hot Set 03",
+          "questions": [
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-03-set-03-q01",
+              "question": "বিন্দু $(5,3)$ ও $(6,4)$ যোগকারী রেখার ঢাল কত?",
+              "options": [
+                {
+                  "text": "1",
+                  "label": "ক"
+                },
+                {
+                  "text": "1 + 1",
+                  "label": "খ"
+                },
+                {
+                  "text": "1 + 2",
+                  "label": "গ"
+                },
+                {
+                  "text": "1 + 3",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "ক",
+              "shortSolution": "সঠিক উত্তর: ক। $m=(y_2-y_1)/(x_2-x_1)$।",
+              "chapter": "03",
+              "topic": "ঢাল",
+              "difficulty": "Easy",
+              "probability": "Mega Hot"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-03-set-03-q02",
+              "question": "ঢাল 6 এবং বিন্দু $(4,7)$ দিয়ে অতিক্রান্ত রেখার সমীকরণ কোনটি?",
+              "options": [
+                {
+                  "text": "$x=6y-17$",
+                  "label": "ক"
+                },
+                {
+                  "text": "$y=6x-17$",
+                  "label": "খ"
+                },
+                {
+                  "text": "$y=-6x-17$",
+                  "label": "গ"
+                },
+                {
+                  "text": "$y=6x-16$",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "খ",
+              "shortSolution": "সঠিক উত্তর: খ। $y-y_1=m(x-x_1)$।",
+              "chapter": "03",
+              "topic": "বিন্দু-ঢাল রূপ",
+              "difficulty": "Easy",
+              "probability": "Very Hot"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-03-set-03-q03",
+              "question": "$\\frac{x}{7}+\\frac{y}{5}=1$ রেখার ছেদাংশ কত?",
+              "options": [
+                {
+                  "text": "$x$-অক্ষে 7, $y$-অক্ষে 5",
+                  "label": "ক"
+                },
+                {
+                  "text": "12",
+                  "label": "খ"
+                },
+                {
+                  "text": "$x$-অক্ষে 5, $y$-অক্ষে 7",
+                  "label": "গ"
+                },
+                {
+                  "text": "উভয় 0",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "ক",
+              "shortSolution": "সঠিক উত্তর: ক। Intercept form থেকে সরাসরি ছেদাংশ পাওয়া যায়।",
+              "chapter": "03",
+              "topic": "ছেদাংশ রূপ",
+              "difficulty": "Easy",
+              "probability": "Board Favourite"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-03-set-03-q04",
+              "question": "বিন্দু $(6,5)$ থেকে রেখা $8x+6y-7=0$ এর দূরত্ব কত?",
+              "options": [
+                {
+                  "text": "$\\frac{71}{\\sqrt{100}}$",
+                  "label": "ক"
+                },
+                {
+                  "text": "$\\frac{71}{100}$",
+                  "label": "খ"
+                },
+                {
+                  "text": "$\\frac{72}{\\sqrt{100}}$",
+                  "label": "গ"
+                },
+                {
+                  "text": "$\\sqrt{100}$",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "ক",
+              "shortSolution": "সঠিক উত্তর: ক। $|ax_1+by_1+c|/\\sqrt{a^2+b^2}$।",
+              "chapter": "03",
+              "topic": "বিন্দু থেকে রেখার দূরত্ব",
+              "difficulty": "Easy",
+              "probability": "Conceptual Trap"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-03-set-03-q05",
+              "question": "দুটি রেখা parallel হলে তাদের ঢাল কেমন? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 03-05 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+              "options": [
+                {
+                  "text": "সমান",
+                  "label": "ক"
+                },
+                {
+                  "text": "গুণফল -1",
+                  "label": "খ"
+                },
+                {
+                  "text": "অসংজ্ঞায়িত",
+                  "label": "গ"
+                },
+                {
+                  "text": "যোগফল 0",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "ক",
+              "shortSolution": "সঠিক উত্তর: ক। Parallel রেখার slope সমান।",
+              "chapter": "03",
+              "topic": "সমান্তরাল রেখা",
+              "difficulty": "Easy",
+              "probability": "Mega Hot"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-03-set-03-q06",
+              "question": "একটি রেখার ঢাল 5 হলে তার উপর লম্ব রেখার ঢাল কত?",
+              "options": [
+                {
+                  "text": "-5",
+                  "label": "ক"
+                },
+                {
+                  "text": "$\\frac{1}{5}$",
+                  "label": "খ"
+                },
+                {
+                  "text": "5",
+                  "label": "গ"
+                },
+                {
+                  "text": "$\\frac{-1}{5}$",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "ঘ",
+              "shortSolution": "সঠিক উত্তর: ঘ। লম্ব রেখার ঢালের গুণফল -1।",
+              "chapter": "03",
+              "topic": "লম্ব রেখা",
+              "difficulty": "Easy",
+              "probability": "Very Hot"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-03-set-03-q07",
+              "question": "$6x+2y+8=0$ রেখার ঢাল কত?",
+              "options": [
+                {
+                  "text": "6",
+                  "label": "ক"
+                },
+                {
+                  "text": "-3",
+                  "label": "খ"
+                },
+                {
+                  "text": "2",
+                  "label": "গ"
+                },
+                {
+                  "text": "3",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "খ",
+              "shortSolution": "সঠিক উত্তর: খ। $ax+by+c=0$ হলে slope $-a/b$।",
+              "chapter": "03",
+              "topic": "সাধারণ রূপ থেকে ঢাল",
+              "difficulty": "Easy",
+              "probability": "Board Favourite"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-03-set-03-q08",
+              "question": "$y=k$ রেখাটি কোন অক্ষের সমান্তরাল? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 03-08 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+              "options": [
+                {
+                  "text": "$y$-অক্ষ",
+                  "label": "ক"
+                },
+                {
+                  "text": "উভয় অক্ষ",
+                  "label": "খ"
+                },
+                {
+                  "text": "কোনোটিই নয়",
+                  "label": "গ"
+                },
+                {
+                  "text": "$x$-অক্ষ",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "ঘ",
+              "shortSolution": "সঠিক উত্তর: ঘ। $y=$ constant হলে horizontal line।",
+              "chapter": "03",
+              "topic": "অক্ষের সমান্তরাল রেখা",
+              "difficulty": "Medium",
+              "probability": "Conceptual Trap"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-03-set-03-q09",
+              "question": "দুটি রেখার ঢালের গুণফল -1 হলে তারা কেমন? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 03-09 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+              "options": [
+                {
+                  "text": "সমান্তরাল",
+                  "label": "ক"
+                },
+                {
+                  "text": "কোনোটিই নয়",
+                  "label": "খ"
+                },
+                {
+                  "text": "অভিন্ন",
+                  "label": "গ"
+                },
+                {
+                  "text": "লম্ব",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "ঘ",
+              "shortSolution": "সঠিক উত্তর: ঘ। Perpendicular রেখার slopes product -1।",
+              "chapter": "03",
+              "topic": "লম্ব রেখার শর্ত",
+              "difficulty": "Medium",
+              "probability": "Mega Hot"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-03-set-03-q10",
+              "question": "রেখা $ax+by+c=0$ ও $a'x+b'y+c'=0$ parallel হওয়ার শর্ত কোনটি? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 03-10 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+              "options": [
+                {
+                  "text": "$a+b=0$",
+                  "label": "ক"
+                },
+                {
+                  "text": "$ab'-a'b=0$",
+                  "label": "খ"
+                },
+                {
+                  "text": "$c=c'$",
+                  "label": "গ"
+                },
+                {
+                  "text": "$aa'+bb'=0$",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "খ",
+              "shortSolution": "সঠিক উত্তর: খ। Parallel হলে coefficient ratio সমান, অর্থাৎ $ab'-a'b=0$।",
+              "chapter": "03",
+              "topic": "সমান্তরাল রেখার শর্ত",
+              "difficulty": "Medium",
+              "probability": "Very Hot"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-03-set-03-q11",
+              "question": "বিন্দু $(5,6)$ ও $(8,8)$ যোগকারী রেখার ঢাল কত?",
+              "options": [
+                {
+                  "text": "$\\frac{3}{2}$",
+                  "label": "ক"
+                },
+                {
+                  "text": "3",
+                  "label": "খ"
+                },
+                {
+                  "text": "$\\frac{2}{3}$",
+                  "label": "গ"
+                },
+                {
+                  "text": "2",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "গ",
+              "shortSolution": "সঠিক উত্তর: গ। $m=(y_2-y_1)/(x_2-x_1)$।",
+              "chapter": "03",
+              "topic": "ঢাল",
+              "difficulty": "Medium",
+              "probability": "Board Favourite"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-03-set-03-q12",
+              "question": "ঢাল 6 এবং বিন্দু $(7,5)$ দিয়ে অতিক্রান্ত রেখার সমীকরণ কোনটি?",
+              "options": [
+                {
+                  "text": "$y=6x-36$",
+                  "label": "ক"
+                },
+                {
+                  "text": "$y=6x-37$",
+                  "label": "খ"
+                },
+                {
+                  "text": "$x=6y-37$",
+                  "label": "গ"
+                },
+                {
+                  "text": "$y=-6x-37$",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "খ",
+              "shortSolution": "সঠিক উত্তর: খ। $y-y_1=m(x-x_1)$।",
+              "chapter": "03",
+              "topic": "বিন্দু-ঢাল রূপ",
+              "difficulty": "Medium",
+              "probability": "Conceptual Trap"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-03-set-03-q13",
+              "question": "$\\frac{x}{7}+\\frac{y}{8}=1$ রেখার ছেদাংশ কত?",
+              "options": [
+                {
+                  "text": "15",
+                  "label": "ক"
+                },
+                {
+                  "text": "উভয় 0",
+                  "label": "খ"
+                },
+                {
+                  "text": "$x$-অক্ষে 8, $y$-অক্ষে 7",
+                  "label": "গ"
+                },
+                {
+                  "text": "$x$-অক্ষে 7, $y$-অক্ষে 8",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "ঘ",
+              "shortSolution": "সঠিক উত্তর: ঘ। Intercept form থেকে সরাসরি ছেদাংশ পাওয়া যায়।",
+              "chapter": "03",
+              "topic": "ছেদাংশ রূপ",
+              "difficulty": "Medium",
+              "probability": "Mega Hot"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-03-set-03-q14",
+              "question": "বিন্দু $(2,7)$ থেকে রেখা $8x+2y-5=0$ এর দূরত্ব কত?",
+              "options": [
+                {
+                  "text": "$\\frac{26}{\\sqrt{68}}$",
+                  "label": "ক"
+                },
+                {
+                  "text": "$\\frac{25}{68}$",
+                  "label": "খ"
+                },
+                {
+                  "text": "$\\sqrt{68}$",
+                  "label": "গ"
+                },
+                {
+                  "text": "$\\frac{25}{\\sqrt{68}}$",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "ঘ",
+              "shortSolution": "সঠিক উত্তর: ঘ। $|ax_1+by_1+c|/\\sqrt{a^2+b^2}$।",
+              "chapter": "03",
+              "topic": "বিন্দু থেকে রেখার দূরত্ব",
+              "difficulty": "Medium",
+              "probability": "Very Hot"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-03-set-03-q15",
+              "question": "দুটি রেখা parallel হলে তাদের ঢাল কেমন? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 03-15 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+              "options": [
+                {
+                  "text": "যোগফল 0",
+                  "label": "ক"
+                },
+                {
+                  "text": "সমান",
+                  "label": "খ"
+                },
+                {
+                  "text": "গুণফল -1",
+                  "label": "গ"
+                },
+                {
+                  "text": "অসংজ্ঞায়িত",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "খ",
+              "shortSolution": "সঠিক উত্তর: খ। Parallel রেখার slope সমান।",
+              "chapter": "03",
+              "topic": "সমান্তরাল রেখা",
+              "difficulty": "Hard",
+              "probability": "Board Favourite"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-03-set-03-q16",
+              "question": "একটি রেখার ঢাল 5 হলে তার উপর লম্ব রেখার ঢাল কত? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 03-16 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+              "options": [
+                {
+                  "text": "$\\frac{-1}{5}$",
+                  "label": "ক"
+                },
+                {
+                  "text": "$\\frac{1}{5}$",
+                  "label": "খ"
+                },
+                {
+                  "text": "5",
+                  "label": "গ"
+                },
+                {
+                  "text": "-5",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "ক",
+              "shortSolution": "সঠিক উত্তর: ক। লম্ব রেখার ঢালের গুণফল -1।",
+              "chapter": "03",
+              "topic": "লম্ব রেখা",
+              "difficulty": "Hard",
+              "probability": "Conceptual Trap"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-03-set-03-q17",
+              "question": "$6x+5y+6=0$ রেখার ঢাল কত?",
+              "options": [
+                {
+                  "text": "$\\frac{6}{5}$",
+                  "label": "ক"
+                },
+                {
+                  "text": "$\\frac{-6}{5}$",
+                  "label": "খ"
+                },
+                {
+                  "text": "6",
+                  "label": "গ"
+                },
+                {
+                  "text": "5",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "খ",
+              "shortSolution": "সঠিক উত্তর: খ। $ax+by+c=0$ হলে slope $-a/b$।",
+              "chapter": "03",
+              "topic": "সাধারণ রূপ থেকে ঢাল",
+              "difficulty": "Hard",
+              "probability": "Mega Hot"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-03-set-03-q18",
+              "question": "$y=k$ রেখাটি কোন অক্ষের সমান্তরাল? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 03-18 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+              "options": [
+                {
+                  "text": "উভয় অক্ষ",
+                  "label": "ক"
+                },
+                {
+                  "text": "কোনোটিই নয়",
+                  "label": "খ"
+                },
+                {
+                  "text": "$y$-অক্ষ",
+                  "label": "গ"
+                },
+                {
+                  "text": "$x$-অক্ষ",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "ঘ",
+              "shortSolution": "সঠিক উত্তর: ঘ। $y=$ constant হলে horizontal line।",
+              "chapter": "03",
+              "topic": "অক্ষের সমান্তরাল রেখা",
+              "difficulty": "Hard",
+              "probability": "Very Hot"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-03-set-03-q19",
+              "question": "দুটি রেখার ঢালের গুণফল -1 হলে তারা কেমন? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 03-19 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+              "options": [
+                {
+                  "text": "কোনোটিই নয়",
+                  "label": "ক"
+                },
+                {
+                  "text": "লম্ব",
+                  "label": "খ"
+                },
+                {
+                  "text": "সমান্তরাল",
+                  "label": "গ"
+                },
+                {
+                  "text": "অভিন্ন",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "খ",
+              "shortSolution": "সঠিক উত্তর: খ। Perpendicular রেখার slopes product -1।",
+              "chapter": "03",
+              "topic": "লম্ব রেখার শর্ত",
+              "difficulty": "Hard",
+              "probability": "Board Favourite"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-03-set-03-q20",
+              "question": "রেখা $ax+by+c=0$ ও $a'x+b'y+c'=0$ parallel হওয়ার শর্ত কোনটি? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 03-20 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+              "options": [
+                {
+                  "text": "$c=c'$",
+                  "label": "ক"
+                },
+                {
+                  "text": "$a+b=0$",
+                  "label": "খ"
+                },
+                {
+                  "text": "$aa'+bb'=0$",
+                  "label": "গ"
+                },
+                {
+                  "text": "$ab'-a'b=0$",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "ঘ",
+              "shortSolution": "সঠিক উত্তর: ঘ। Parallel হলে coefficient ratio সমান, অর্থাৎ $ab'-a'b=0$।",
+              "chapter": "03",
+              "topic": "সমান্তরাল রেখার শর্ত",
+              "difficulty": "Hard",
+              "probability": "Conceptual Trap"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-03-set-03-q21",
+              "question": "বিন্দু $(5,2)$ ও $(6,6)$ যোগকারী রেখার ঢাল কত?",
+              "options": [
+                {
+                  "text": "$\\frac{1}{4}$",
+                  "label": "ক"
+                },
+                {
+                  "text": "4 + 3",
+                  "label": "খ"
+                },
+                {
+                  "text": "4",
+                  "label": "গ"
+                },
+                {
+                  "text": "1",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "গ",
+              "shortSolution": "সঠিক উত্তর: গ। $m=(y_2-y_1)/(x_2-x_1)$।",
+              "chapter": "03",
+              "topic": "ঢাল",
+              "difficulty": "Hard",
+              "probability": "Mega Hot"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-03-set-03-q22",
+              "question": "ঢাল 6 এবং বিন্দু $(3,7)$ দিয়ে অতিক্রান্ত রেখার সমীকরণ কোনটি?",
+              "options": [
+                {
+                  "text": "$x=6y-11$",
+                  "label": "ক"
+                },
+                {
+                  "text": "$y=6x-11$",
+                  "label": "খ"
+                },
+                {
+                  "text": "$y=6x-10$",
+                  "label": "গ"
+                },
+                {
+                  "text": "$y=-6x-11$",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "খ",
+              "shortSolution": "সঠিক উত্তর: খ। $y-y_1=m(x-x_1)$।",
+              "chapter": "03",
+              "topic": "বিন্দু-ঢাল রূপ",
+              "difficulty": "Board Standard",
+              "probability": "Very Hot"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-03-set-03-q23",
+              "question": "$\\frac{x}{7}+\\frac{y}{4}=1$ রেখার ছেদাংশ কত?",
+              "options": [
+                {
+                  "text": "11",
+                  "label": "ক"
+                },
+                {
+                  "text": "$x$-অক্ষে 7, $y$-অক্ষে 4",
+                  "label": "খ"
+                },
+                {
+                  "text": "উভয় 0",
+                  "label": "গ"
+                },
+                {
+                  "text": "$x$-অক্ষে 4, $y$-অক্ষে 7",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "খ",
+              "shortSolution": "সঠিক উত্তর: খ। Intercept form থেকে সরাসরি ছেদাংশ পাওয়া যায়।",
+              "chapter": "03",
+              "topic": "ছেদাংশ রূপ",
+              "difficulty": "Board Standard",
+              "probability": "Board Favourite"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-03-set-03-q24",
+              "question": "বিন্দু $(5,5)$ থেকে রেখা $8x+5y-3=0$ এর দূরত্ব কত?",
+              "options": [
+                {
+                  "text": "$\\frac{62}{89}$",
+                  "label": "ক"
+                },
+                {
+                  "text": "$\\sqrt{89}$",
+                  "label": "খ"
+                },
+                {
+                  "text": "$\\frac{63}{\\sqrt{89}}$",
+                  "label": "গ"
+                },
+                {
+                  "text": "$\\frac{62}{\\sqrt{89}}$",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "ঘ",
+              "shortSolution": "সঠিক উত্তর: ঘ। $|ax_1+by_1+c|/\\sqrt{a^2+b^2}$।",
+              "chapter": "03",
+              "topic": "বিন্দু থেকে রেখার দূরত্ব",
+              "difficulty": "Board Standard",
+              "probability": "Conceptual Trap"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-03-set-03-q25",
+              "question": "দুটি রেখা parallel হলে তাদের ঢাল কেমন? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 03-25 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+              "options": [
+                {
+                  "text": "গুণফল -1",
+                  "label": "ক"
+                },
+                {
+                  "text": "সমান",
+                  "label": "খ"
+                },
+                {
+                  "text": "যোগফল 0",
+                  "label": "গ"
+                },
+                {
+                  "text": "অসংজ্ঞায়িত",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "খ",
+              "shortSolution": "সঠিক উত্তর: খ। Parallel রেখার slope সমান।",
+              "chapter": "03",
+              "topic": "সমান্তরাল রেখা",
+              "difficulty": "Board Standard",
+              "probability": "Mega Hot"
+            }
+          ]
+        },
+        {
+          "id": "hsc-higher-math-1st-paper-chapter-03-set-04",
+          "title": "Chapter 03 Hyper Mega Hot Set 04",
+          "questions": [
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-03-set-04-q01",
+              "question": "বিন্দু $(6,3)$ ও $(7,4)$ যোগকারী রেখার ঢাল কত?",
+              "options": [
+                {
+                  "text": "1 + 1",
+                  "label": "ক"
+                },
+                {
+                  "text": "1 + 2",
+                  "label": "খ"
+                },
+                {
+                  "text": "1",
+                  "label": "গ"
+                },
+                {
+                  "text": "1 + 3",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "গ",
+              "shortSolution": "সঠিক উত্তর: গ। $m=(y_2-y_1)/(x_2-x_1)$।",
+              "chapter": "03",
+              "topic": "ঢাল",
+              "difficulty": "Easy",
+              "probability": "Very Hot"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-03-set-04-q02",
+              "question": "ঢাল 7 এবং বিন্দু $(4,8)$ দিয়ে অতিক্রান্ত রেখার সমীকরণ কোনটি?",
+              "options": [
+                {
+                  "text": "$y=-7x-20$",
+                  "label": "ক"
+                },
+                {
+                  "text": "$x=7y-20$",
+                  "label": "খ"
+                },
+                {
+                  "text": "$y=7x-20$",
+                  "label": "গ"
+                },
+                {
+                  "text": "$y=7x-19$",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "গ",
+              "shortSolution": "সঠিক উত্তর: গ। $y-y_1=m(x-x_1)$।",
+              "chapter": "03",
+              "topic": "বিন্দু-ঢাল রূপ",
+              "difficulty": "Easy",
+              "probability": "Board Favourite"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-03-set-04-q03",
+              "question": "$\\frac{x}{8}+\\frac{y}{5}=1$ রেখার ছেদাংশ কত?",
+              "options": [
+                {
+                  "text": "$x$-অক্ষে 5, $y$-অক্ষে 8",
+                  "label": "ক"
+                },
+                {
+                  "text": "$x$-অক্ষে 8, $y$-অক্ষে 5",
+                  "label": "খ"
+                },
+                {
+                  "text": "13",
+                  "label": "গ"
+                },
+                {
+                  "text": "উভয় 0",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "খ",
+              "shortSolution": "সঠিক উত্তর: খ। Intercept form থেকে সরাসরি ছেদাংশ পাওয়া যায়।",
+              "chapter": "03",
+              "topic": "ছেদাংশ রূপ",
+              "difficulty": "Easy",
+              "probability": "Conceptual Trap"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-03-set-04-q04",
+              "question": "বিন্দু $(6,6)$ থেকে রেখা $9x+6y-7=0$ এর দূরত্ব কত?",
+              "options": [
+                {
+                  "text": "$\\sqrt{117}$",
+                  "label": "ক"
+                },
+                {
+                  "text": "$\\frac{83}{\\sqrt{117}}$",
+                  "label": "খ"
+                },
+                {
+                  "text": "$\\frac{84}{\\sqrt{117}}$",
+                  "label": "গ"
+                },
+                {
+                  "text": "$\\frac{83}{117}$",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "খ",
+              "shortSolution": "সঠিক উত্তর: খ। $|ax_1+by_1+c|/\\sqrt{a^2+b^2}$।",
+              "chapter": "03",
+              "topic": "বিন্দু থেকে রেখার দূরত্ব",
+              "difficulty": "Easy",
+              "probability": "Mega Hot"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-03-set-04-q05",
+              "question": "দুটি রেখা parallel হলে তাদের ঢাল কেমন? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 04-05 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+              "options": [
+                {
+                  "text": "অসংজ্ঞায়িত",
+                  "label": "ক"
+                },
+                {
+                  "text": "গুণফল -1",
+                  "label": "খ"
+                },
+                {
+                  "text": "যোগফল 0",
+                  "label": "গ"
+                },
+                {
+                  "text": "সমান",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "ঘ",
+              "shortSolution": "সঠিক উত্তর: ঘ। Parallel রেখার slope সমান।",
+              "chapter": "03",
+              "topic": "সমান্তরাল রেখা",
+              "difficulty": "Easy",
+              "probability": "Very Hot"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-03-set-04-q06",
+              "question": "একটি রেখার ঢাল 6 হলে তার উপর লম্ব রেখার ঢাল কত?",
+              "options": [
+                {
+                  "text": "-6",
+                  "label": "ক"
+                },
+                {
+                  "text": "6",
+                  "label": "খ"
+                },
+                {
+                  "text": "$\\frac{-1}{6}$",
+                  "label": "গ"
+                },
+                {
+                  "text": "$\\frac{1}{6}$",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "গ",
+              "shortSolution": "সঠিক উত্তর: গ। লম্ব রেখার ঢালের গুণফল -1।",
+              "chapter": "03",
+              "topic": "লম্ব রেখা",
+              "difficulty": "Easy",
+              "probability": "Board Favourite"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-03-set-04-q07",
+              "question": "$7x+2y+9=0$ রেখার ঢাল কত?",
+              "options": [
+                {
+                  "text": "7",
+                  "label": "ক"
+                },
+                {
+                  "text": "$\\frac{-7}{2}$",
+                  "label": "খ"
+                },
+                {
+                  "text": "2",
+                  "label": "গ"
+                },
+                {
+                  "text": "$\\frac{7}{2}$",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "খ",
+              "shortSolution": "সঠিক উত্তর: খ। $ax+by+c=0$ হলে slope $-a/b$।",
+              "chapter": "03",
+              "topic": "সাধারণ রূপ থেকে ঢাল",
+              "difficulty": "Easy",
+              "probability": "Conceptual Trap"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-03-set-04-q08",
+              "question": "$y=k$ রেখাটি কোন অক্ষের সমান্তরাল? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 04-08 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+              "options": [
+                {
+                  "text": "কোনোটিই নয়",
+                  "label": "ক"
+                },
+                {
+                  "text": "$x$-অক্ষ",
+                  "label": "খ"
+                },
+                {
+                  "text": "$y$-অক্ষ",
+                  "label": "গ"
+                },
+                {
+                  "text": "উভয় অক্ষ",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "খ",
+              "shortSolution": "সঠিক উত্তর: খ। $y=$ constant হলে horizontal line।",
+              "chapter": "03",
+              "topic": "অক্ষের সমান্তরাল রেখা",
+              "difficulty": "Medium",
+              "probability": "Mega Hot"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-03-set-04-q09",
+              "question": "দুটি রেখার ঢালের গুণফল -1 হলে তারা কেমন? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 04-09 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+              "options": [
+                {
+                  "text": "সমান্তরাল",
+                  "label": "ক"
+                },
+                {
+                  "text": "কোনোটিই নয়",
+                  "label": "খ"
+                },
+                {
+                  "text": "লম্ব",
+                  "label": "গ"
+                },
+                {
+                  "text": "অভিন্ন",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "গ",
+              "shortSolution": "সঠিক উত্তর: গ। Perpendicular রেখার slopes product -1।",
+              "chapter": "03",
+              "topic": "লম্ব রেখার শর্ত",
+              "difficulty": "Medium",
+              "probability": "Very Hot"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-03-set-04-q10",
+              "question": "রেখা $ax+by+c=0$ ও $a'x+b'y+c'=0$ parallel হওয়ার শর্ত কোনটি? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 04-10 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+              "options": [
+                {
+                  "text": "$a+b=0$",
+                  "label": "ক"
+                },
+                {
+                  "text": "$c=c'$",
+                  "label": "খ"
+                },
+                {
+                  "text": "$ab'-a'b=0$",
+                  "label": "গ"
+                },
+                {
+                  "text": "$aa'+bb'=0$",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "গ",
+              "shortSolution": "সঠিক উত্তর: গ। Parallel হলে coefficient ratio সমান, অর্থাৎ $ab'-a'b=0$।",
+              "chapter": "03",
+              "topic": "সমান্তরাল রেখার শর্ত",
+              "difficulty": "Medium",
+              "probability": "Board Favourite"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-03-set-04-q11",
+              "question": "বিন্দু $(6,6)$ ও $(9,8)$ যোগকারী রেখার ঢাল কত?",
+              "options": [
+                {
+                  "text": "3",
+                  "label": "ক"
+                },
+                {
+                  "text": "2",
+                  "label": "খ"
+                },
+                {
+                  "text": "$\\frac{3}{2}$",
+                  "label": "গ"
+                },
+                {
+                  "text": "$\\frac{2}{3}$",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "ঘ",
+              "shortSolution": "সঠিক উত্তর: ঘ। $m=(y_2-y_1)/(x_2-x_1)$।",
+              "chapter": "03",
+              "topic": "ঢাল",
+              "difficulty": "Medium",
+              "probability": "Conceptual Trap"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-03-set-04-q12",
+              "question": "ঢাল 7 এবং বিন্দু $(7,6)$ দিয়ে অতিক্রান্ত রেখার সমীকরণ কোনটি?",
+              "options": [
+                {
+                  "text": "$y=-7x-43$",
+                  "label": "ক"
+                },
+                {
+                  "text": "$y=7x-42$",
+                  "label": "খ"
+                },
+                {
+                  "text": "$y=7x-43$",
+                  "label": "গ"
+                },
+                {
+                  "text": "$x=7y-43$",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "গ",
+              "shortSolution": "সঠিক উত্তর: গ। $y-y_1=m(x-x_1)$।",
+              "chapter": "03",
+              "topic": "বিন্দু-ঢাল রূপ",
+              "difficulty": "Medium",
+              "probability": "Mega Hot"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-03-set-04-q13",
+              "question": "$\\frac{x}{8}+\\frac{y}{8}=1$ রেখার ছেদাংশ কত?",
+              "options": [
+                {
+                  "text": "উভয় 0",
+                  "label": "ক"
+                },
+                {
+                  "text": "16",
+                  "label": "খ"
+                },
+                {
+                  "text": "$x$-অক্ষে 8, $y$-অক্ষে 8 + 3",
+                  "label": "গ"
+                },
+                {
+                  "text": "$x$-অক্ষে 8, $y$-অক্ষে 8",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "ঘ",
+              "shortSolution": "সঠিক উত্তর: ঘ। Intercept form থেকে সরাসরি ছেদাংশ পাওয়া যায়।",
+              "chapter": "03",
+              "topic": "ছেদাংশ রূপ",
+              "difficulty": "Medium",
+              "probability": "Very Hot"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-03-set-04-q14",
+              "question": "বিন্দু $(2,8)$ থেকে রেখা $9x+2y-5=0$ এর দূরত্ব কত?",
+              "options": [
+                {
+                  "text": "$\\sqrt{85}$",
+                  "label": "ক"
+                },
+                {
+                  "text": "$\\frac{29}{\\sqrt{85}}$",
+                  "label": "খ"
+                },
+                {
+                  "text": "$\\frac{30}{\\sqrt{85}}$",
+                  "label": "গ"
+                },
+                {
+                  "text": "$\\frac{29}{85}$",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "খ",
+              "shortSolution": "সঠিক উত্তর: খ। $|ax_1+by_1+c|/\\sqrt{a^2+b^2}$।",
+              "chapter": "03",
+              "topic": "বিন্দু থেকে রেখার দূরত্ব",
+              "difficulty": "Medium",
+              "probability": "Board Favourite"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-03-set-04-q15",
+              "question": "দুটি রেখা parallel হলে তাদের ঢাল কেমন? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 04-15 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+              "options": [
+                {
+                  "text": "সমান",
+                  "label": "ক"
+                },
+                {
+                  "text": "যোগফল 0",
+                  "label": "খ"
+                },
+                {
+                  "text": "অসংজ্ঞায়িত",
+                  "label": "গ"
+                },
+                {
+                  "text": "গুণফল -1",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "ক",
+              "shortSolution": "সঠিক উত্তর: ক। Parallel রেখার slope সমান।",
+              "chapter": "03",
+              "topic": "সমান্তরাল রেখা",
+              "difficulty": "Hard",
+              "probability": "Conceptual Trap"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-03-set-04-q16",
+              "question": "একটি রেখার ঢাল 6 হলে তার উপর লম্ব রেখার ঢাল কত? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 04-16 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+              "options": [
+                {
+                  "text": "-6",
+                  "label": "ক"
+                },
+                {
+                  "text": "$\\frac{1}{6}$",
+                  "label": "খ"
+                },
+                {
+                  "text": "$\\frac{-1}{6}$",
+                  "label": "গ"
+                },
+                {
+                  "text": "6",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "গ",
+              "shortSolution": "সঠিক উত্তর: গ। লম্ব রেখার ঢালের গুণফল -1।",
+              "chapter": "03",
+              "topic": "লম্ব রেখা",
+              "difficulty": "Hard",
+              "probability": "Mega Hot"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-03-set-04-q17",
+              "question": "$7x+5y+7=0$ রেখার ঢাল কত?",
+              "options": [
+                {
+                  "text": "$\\frac{-7}{5}$",
+                  "label": "ক"
+                },
+                {
+                  "text": "5",
+                  "label": "খ"
+                },
+                {
+                  "text": "7",
+                  "label": "গ"
+                },
+                {
+                  "text": "$\\frac{7}{5}$",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "ক",
+              "shortSolution": "সঠিক উত্তর: ক। $ax+by+c=0$ হলে slope $-a/b$।",
+              "chapter": "03",
+              "topic": "সাধারণ রূপ থেকে ঢাল",
+              "difficulty": "Hard",
+              "probability": "Very Hot"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-03-set-04-q18",
+              "question": "$y=k$ রেখাটি কোন অক্ষের সমান্তরাল? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 04-18 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+              "options": [
+                {
+                  "text": "উভয় অক্ষ",
+                  "label": "ক"
+                },
+                {
+                  "text": "$y$-অক্ষ",
+                  "label": "খ"
+                },
+                {
+                  "text": "$x$-অক্ষ",
+                  "label": "গ"
+                },
+                {
+                  "text": "কোনোটিই নয়",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "গ",
+              "shortSolution": "সঠিক উত্তর: গ। $y=$ constant হলে horizontal line।",
+              "chapter": "03",
+              "topic": "অক্ষের সমান্তরাল রেখা",
+              "difficulty": "Hard",
+              "probability": "Board Favourite"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-03-set-04-q19",
+              "question": "দুটি রেখার ঢালের গুণফল -1 হলে তারা কেমন? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 04-19 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+              "options": [
+                {
+                  "text": "কোনোটিই নয়",
+                  "label": "ক"
+                },
+                {
+                  "text": "সমান্তরাল",
+                  "label": "খ"
+                },
+                {
+                  "text": "অভিন্ন",
+                  "label": "গ"
+                },
+                {
+                  "text": "লম্ব",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "ঘ",
+              "shortSolution": "সঠিক উত্তর: ঘ। Perpendicular রেখার slopes product -1।",
+              "chapter": "03",
+              "topic": "লম্ব রেখার শর্ত",
+              "difficulty": "Hard",
+              "probability": "Conceptual Trap"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-03-set-04-q20",
+              "question": "রেখা $ax+by+c=0$ ও $a'x+b'y+c'=0$ parallel হওয়ার শর্ত কোনটি? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 04-20 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+              "options": [
+                {
+                  "text": "$c=c'$",
+                  "label": "ক"
+                },
+                {
+                  "text": "$a+b=0$",
+                  "label": "খ"
+                },
+                {
+                  "text": "$aa'+bb'=0$",
+                  "label": "গ"
+                },
+                {
+                  "text": "$ab'-a'b=0$",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "ঘ",
+              "shortSolution": "সঠিক উত্তর: ঘ। Parallel হলে coefficient ratio সমান, অর্থাৎ $ab'-a'b=0$।",
+              "chapter": "03",
+              "topic": "সমান্তরাল রেখার শর্ত",
+              "difficulty": "Hard",
+              "probability": "Mega Hot"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-03-set-04-q21",
+              "question": "বিন্দু $(6,2)$ ও $(7,6)$ যোগকারী রেখার ঢাল কত?",
+              "options": [
+                {
+                  "text": "4 + 3",
+                  "label": "ক"
+                },
+                {
+                  "text": "1",
+                  "label": "খ"
+                },
+                {
+                  "text": "$\\frac{1}{4}$",
+                  "label": "গ"
+                },
+                {
+                  "text": "4",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "ঘ",
+              "shortSolution": "সঠিক উত্তর: ঘ। $m=(y_2-y_1)/(x_2-x_1)$।",
+              "chapter": "03",
+              "topic": "ঢাল",
+              "difficulty": "Hard",
+              "probability": "Very Hot"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-03-set-04-q22",
+              "question": "ঢাল 7 এবং বিন্দু $(3,8)$ দিয়ে অতিক্রান্ত রেখার সমীকরণ কোনটি?",
+              "options": [
+                {
+                  "text": "$y=-7x-13$",
+                  "label": "ক"
+                },
+                {
+                  "text": "$x=7y-13$",
+                  "label": "খ"
+                },
+                {
+                  "text": "$y=7x-12$",
+                  "label": "গ"
+                },
+                {
+                  "text": "$y=7x-13$",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "ঘ",
+              "shortSolution": "সঠিক উত্তর: ঘ। $y-y_1=m(x-x_1)$।",
+              "chapter": "03",
+              "topic": "বিন্দু-ঢাল রূপ",
+              "difficulty": "Board Standard",
+              "probability": "Board Favourite"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-03-set-04-q23",
+              "question": "$\\frac{x}{8}+\\frac{y}{4}=1$ রেখার ছেদাংশ কত?",
+              "options": [
+                {
+                  "text": "$x$-অক্ষে 4, $y$-অক্ষে 8",
+                  "label": "ক"
+                },
+                {
+                  "text": "$x$-অক্ষে 8, $y$-অক্ষে 4",
+                  "label": "খ"
+                },
+                {
+                  "text": "উভয় 0",
+                  "label": "গ"
+                },
+                {
+                  "text": "12",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "খ",
+              "shortSolution": "সঠিক উত্তর: খ। Intercept form থেকে সরাসরি ছেদাংশ পাওয়া যায়।",
+              "chapter": "03",
+              "topic": "ছেদাংশ রূপ",
+              "difficulty": "Board Standard",
+              "probability": "Conceptual Trap"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-03-set-04-q24",
+              "question": "বিন্দু $(5,6)$ থেকে রেখা $9x+5y-3=0$ এর দূরত্ব কত?",
+              "options": [
+                {
+                  "text": "$\\sqrt{106}$",
+                  "label": "ক"
+                },
+                {
+                  "text": "$\\frac{72}{106}$",
+                  "label": "খ"
+                },
+                {
+                  "text": "$\\frac{72}{\\sqrt{106}}$",
+                  "label": "গ"
+                },
+                {
+                  "text": "$\\frac{73}{\\sqrt{106}}$",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "গ",
+              "shortSolution": "সঠিক উত্তর: গ। $|ax_1+by_1+c|/\\sqrt{a^2+b^2}$।",
+              "chapter": "03",
+              "topic": "বিন্দু থেকে রেখার দূরত্ব",
+              "difficulty": "Board Standard",
+              "probability": "Mega Hot"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-03-set-04-q25",
+              "question": "দুটি রেখা parallel হলে তাদের ঢাল কেমন? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 04-25 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+              "options": [
+                {
+                  "text": "যোগফল 0",
+                  "label": "ক"
+                },
+                {
+                  "text": "সমান",
+                  "label": "খ"
+                },
+                {
+                  "text": "অসংজ্ঞায়িত",
+                  "label": "গ"
+                },
+                {
+                  "text": "গুণফল -1",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "খ",
+              "shortSolution": "সঠিক উত্তর: খ। Parallel রেখার slope সমান।",
+              "chapter": "03",
+              "topic": "সমান্তরাল রেখা",
+              "difficulty": "Board Standard",
+              "probability": "Very Hot"
+            }
+          ]
+        },
+        {
+          "id": "hsc-higher-math-1st-paper-chapter-03-set-05",
+          "title": "Chapter 03 Hyper Mega Hot Set 05",
+          "questions": [
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-03-set-05-q01",
+              "question": "বিন্দু $(7,3)$ ও $(8,4)$ যোগকারী রেখার ঢাল কত?",
+              "options": [
+                {
+                  "text": "1 + 3",
+                  "label": "ক"
+                },
+                {
+                  "text": "1 + 1",
+                  "label": "খ"
+                },
+                {
+                  "text": "1",
+                  "label": "গ"
+                },
+                {
+                  "text": "1 + 2",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "গ",
+              "shortSolution": "সঠিক উত্তর: গ। $m=(y_2-y_1)/(x_2-x_1)$।",
+              "chapter": "03",
+              "topic": "ঢাল",
+              "difficulty": "Easy",
+              "probability": "Board Favourite"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-03-set-05-q02",
+              "question": "ঢাল 8 এবং বিন্দু $(4,9)$ দিয়ে অতিক্রান্ত রেখার সমীকরণ কোনটি?",
+              "options": [
+                {
+                  "text": "$y=8x-23$",
+                  "label": "ক"
+                },
+                {
+                  "text": "$y=8x-22$",
+                  "label": "খ"
+                },
+                {
+                  "text": "$y=-8x-23$",
+                  "label": "গ"
+                },
+                {
+                  "text": "$x=8y-23$",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "ক",
+              "shortSolution": "সঠিক উত্তর: ক। $y-y_1=m(x-x_1)$।",
+              "chapter": "03",
+              "topic": "বিন্দু-ঢাল রূপ",
+              "difficulty": "Easy",
+              "probability": "Conceptual Trap"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-03-set-05-q03",
+              "question": "$\\frac{x}{9}+\\frac{y}{5}=1$ রেখার ছেদাংশ কত?",
+              "options": [
+                {
+                  "text": "উভয় 0",
+                  "label": "ক"
+                },
+                {
+                  "text": "14",
+                  "label": "খ"
+                },
+                {
+                  "text": "$x$-অক্ষে 9, $y$-অক্ষে 5",
+                  "label": "গ"
+                },
+                {
+                  "text": "$x$-অক্ষে 5, $y$-অক্ষে 9",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "গ",
+              "shortSolution": "সঠিক উত্তর: গ। Intercept form থেকে সরাসরি ছেদাংশ পাওয়া যায়।",
+              "chapter": "03",
+              "topic": "ছেদাংশ রূপ",
+              "difficulty": "Easy",
+              "probability": "Mega Hot"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-03-set-05-q04",
+              "question": "বিন্দু $(6,7)$ থেকে রেখা $10x+6y-7=0$ এর দূরত্ব কত?",
+              "options": [
+                {
+                  "text": "$\\sqrt{136}$",
+                  "label": "ক"
+                },
+                {
+                  "text": "$\\frac{95}{136}$",
+                  "label": "খ"
+                },
+                {
+                  "text": "$\\frac{95}{\\sqrt{136}}$",
+                  "label": "গ"
+                },
+                {
+                  "text": "$\\frac{96}{\\sqrt{136}}$",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "গ",
+              "shortSolution": "সঠিক উত্তর: গ। $|ax_1+by_1+c|/\\sqrt{a^2+b^2}$।",
+              "chapter": "03",
+              "topic": "বিন্দু থেকে রেখার দূরত্ব",
+              "difficulty": "Easy",
+              "probability": "Very Hot"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-03-set-05-q05",
+              "question": "দুটি রেখা parallel হলে তাদের ঢাল কেমন? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 05-05 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+              "options": [
+                {
+                  "text": "সমান",
+                  "label": "ক"
+                },
+                {
+                  "text": "অসংজ্ঞায়িত",
+                  "label": "খ"
+                },
+                {
+                  "text": "গুণফল -1",
+                  "label": "গ"
+                },
+                {
+                  "text": "যোগফল 0",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "ক",
+              "shortSolution": "সঠিক উত্তর: ক। Parallel রেখার slope সমান।",
+              "chapter": "03",
+              "topic": "সমান্তরাল রেখা",
+              "difficulty": "Easy",
+              "probability": "Board Favourite"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-03-set-05-q06",
+              "question": "একটি রেখার ঢাল 7 হলে তার উপর লম্ব রেখার ঢাল কত?",
+              "options": [
+                {
+                  "text": "-7",
+                  "label": "ক"
+                },
+                {
+                  "text": "$\\frac{-1}{7}$",
+                  "label": "খ"
+                },
+                {
+                  "text": "7",
+                  "label": "গ"
+                },
+                {
+                  "text": "$\\frac{1}{7}$",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "খ",
+              "shortSolution": "সঠিক উত্তর: খ। লম্ব রেখার ঢালের গুণফল -1।",
+              "chapter": "03",
+              "topic": "লম্ব রেখা",
+              "difficulty": "Easy",
+              "probability": "Conceptual Trap"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-03-set-05-q07",
+              "question": "$8x+2y+10=0$ রেখার ঢাল কত?",
+              "options": [
+                {
+                  "text": "-4",
+                  "label": "ক"
+                },
+                {
+                  "text": "4",
+                  "label": "খ"
+                },
+                {
+                  "text": "2",
+                  "label": "গ"
+                },
+                {
+                  "text": "8",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "ক",
+              "shortSolution": "সঠিক উত্তর: ক। $ax+by+c=0$ হলে slope $-a/b$।",
+              "chapter": "03",
+              "topic": "সাধারণ রূপ থেকে ঢাল",
+              "difficulty": "Easy",
+              "probability": "Mega Hot"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-03-set-05-q08",
+              "question": "$y=k$ রেখাটি কোন অক্ষের সমান্তরাল? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 05-08 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+              "options": [
+                {
+                  "text": "উভয় অক্ষ",
+                  "label": "ক"
+                },
+                {
+                  "text": "$y$-অক্ষ",
+                  "label": "খ"
+                },
+                {
+                  "text": "কোনোটিই নয়",
+                  "label": "গ"
+                },
+                {
+                  "text": "$x$-অক্ষ",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "ঘ",
+              "shortSolution": "সঠিক উত্তর: ঘ। $y=$ constant হলে horizontal line।",
+              "chapter": "03",
+              "topic": "অক্ষের সমান্তরাল রেখা",
+              "difficulty": "Medium",
+              "probability": "Very Hot"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-03-set-05-q09",
+              "question": "দুটি রেখার ঢালের গুণফল -1 হলে তারা কেমন? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 05-09 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+              "options": [
+                {
+                  "text": "অভিন্ন",
+                  "label": "ক"
+                },
+                {
+                  "text": "কোনোটিই নয়",
+                  "label": "খ"
+                },
+                {
+                  "text": "লম্ব",
+                  "label": "গ"
+                },
+                {
+                  "text": "সমান্তরাল",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "গ",
+              "shortSolution": "সঠিক উত্তর: গ। Perpendicular রেখার slopes product -1।",
+              "chapter": "03",
+              "topic": "লম্ব রেখার শর্ত",
+              "difficulty": "Medium",
+              "probability": "Board Favourite"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-03-set-05-q10",
+              "question": "রেখা $ax+by+c=0$ ও $a'x+b'y+c'=0$ parallel হওয়ার শর্ত কোনটি? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 05-10 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+              "options": [
+                {
+                  "text": "$c=c'$",
+                  "label": "ক"
+                },
+                {
+                  "text": "$aa'+bb'=0$",
+                  "label": "খ"
+                },
+                {
+                  "text": "$a+b=0$",
+                  "label": "গ"
+                },
+                {
+                  "text": "$ab'-a'b=0$",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "ঘ",
+              "shortSolution": "সঠিক উত্তর: ঘ। Parallel হলে coefficient ratio সমান, অর্থাৎ $ab'-a'b=0$।",
+              "chapter": "03",
+              "topic": "সমান্তরাল রেখার শর্ত",
+              "difficulty": "Medium",
+              "probability": "Conceptual Trap"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-03-set-05-q11",
+              "question": "বিন্দু $(7,6)$ ও $(10,8)$ যোগকারী রেখার ঢাল কত?",
+              "options": [
+                {
+                  "text": "2",
+                  "label": "ক"
+                },
+                {
+                  "text": "$\\frac{2}{3}$",
+                  "label": "খ"
+                },
+                {
+                  "text": "$\\frac{3}{2}$",
+                  "label": "গ"
+                },
+                {
+                  "text": "3",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "খ",
+              "shortSolution": "সঠিক উত্তর: খ। $m=(y_2-y_1)/(x_2-x_1)$।",
+              "chapter": "03",
+              "topic": "ঢাল",
+              "difficulty": "Medium",
+              "probability": "Mega Hot"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-03-set-05-q12",
+              "question": "ঢাল 8 এবং বিন্দু $(7,7)$ দিয়ে অতিক্রান্ত রেখার সমীকরণ কোনটি?",
+              "options": [
+                {
+                  "text": "$y=8x-49$",
+                  "label": "ক"
+                },
+                {
+                  "text": "$y=8x-48$",
+                  "label": "খ"
+                },
+                {
+                  "text": "$y=-8x-49$",
+                  "label": "গ"
+                },
+                {
+                  "text": "$x=8y-49$",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "ক",
+              "shortSolution": "সঠিক উত্তর: ক। $y-y_1=m(x-x_1)$।",
+              "chapter": "03",
+              "topic": "বিন্দু-ঢাল রূপ",
+              "difficulty": "Medium",
+              "probability": "Very Hot"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-03-set-05-q13",
+              "question": "$\\frac{x}{9}+\\frac{y}{8}=1$ রেখার ছেদাংশ কত?",
+              "options": [
+                {
+                  "text": "$x$-অক্ষে 8, $y$-অক্ষে 9",
+                  "label": "ক"
+                },
+                {
+                  "text": "উভয় 0",
+                  "label": "খ"
+                },
+                {
+                  "text": "$x$-অক্ষে 9, $y$-অক্ষে 8",
+                  "label": "গ"
+                },
+                {
+                  "text": "17",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "গ",
+              "shortSolution": "সঠিক উত্তর: গ। Intercept form থেকে সরাসরি ছেদাংশ পাওয়া যায়।",
+              "chapter": "03",
+              "topic": "ছেদাংশ রূপ",
+              "difficulty": "Medium",
+              "probability": "Board Favourite"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-03-set-05-q14",
+              "question": "বিন্দু $(2,9)$ থেকে রেখা $10x+2y-5=0$ এর দূরত্ব কত?",
+              "options": [
+                {
+                  "text": "$\\frac{33}{104}$",
+                  "label": "ক"
+                },
+                {
+                  "text": "$\\frac{33}{\\sqrt{104}}$",
+                  "label": "খ"
+                },
+                {
+                  "text": "$\\frac{34}{\\sqrt{104}}$",
+                  "label": "গ"
+                },
+                {
+                  "text": "$\\sqrt{104}$",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "খ",
+              "shortSolution": "সঠিক উত্তর: খ। $|ax_1+by_1+c|/\\sqrt{a^2+b^2}$।",
+              "chapter": "03",
+              "topic": "বিন্দু থেকে রেখার দূরত্ব",
+              "difficulty": "Medium",
+              "probability": "Conceptual Trap"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-03-set-05-q15",
+              "question": "দুটি রেখা parallel হলে তাদের ঢাল কেমন? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 05-15 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+              "options": [
+                {
+                  "text": "গুণফল -1",
+                  "label": "ক"
+                },
+                {
+                  "text": "সমান",
+                  "label": "খ"
+                },
+                {
+                  "text": "যোগফল 0",
+                  "label": "গ"
+                },
+                {
+                  "text": "অসংজ্ঞায়িত",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "খ",
+              "shortSolution": "সঠিক উত্তর: খ। Parallel রেখার slope সমান।",
+              "chapter": "03",
+              "topic": "সমান্তরাল রেখা",
+              "difficulty": "Hard",
+              "probability": "Mega Hot"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-03-set-05-q16",
+              "question": "একটি রেখার ঢাল 7 হলে তার উপর লম্ব রেখার ঢাল কত? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 05-16 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+              "options": [
+                {
+                  "text": "$\\frac{-1}{7}$",
+                  "label": "ক"
+                },
+                {
+                  "text": "7",
+                  "label": "খ"
+                },
+                {
+                  "text": "-7",
+                  "label": "গ"
+                },
+                {
+                  "text": "$\\frac{1}{7}$",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "ক",
+              "shortSolution": "সঠিক উত্তর: ক। লম্ব রেখার ঢালের গুণফল -1।",
+              "chapter": "03",
+              "topic": "লম্ব রেখা",
+              "difficulty": "Hard",
+              "probability": "Very Hot"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-03-set-05-q17",
+              "question": "$8x+5y+8=0$ রেখার ঢাল কত?",
+              "options": [
+                {
+                  "text": "$\\frac{-8}{5}$",
+                  "label": "ক"
+                },
+                {
+                  "text": "5",
+                  "label": "খ"
+                },
+                {
+                  "text": "8",
+                  "label": "গ"
+                },
+                {
+                  "text": "$\\frac{8}{5}$",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "ক",
+              "shortSolution": "সঠিক উত্তর: ক। $ax+by+c=0$ হলে slope $-a/b$।",
+              "chapter": "03",
+              "topic": "সাধারণ রূপ থেকে ঢাল",
+              "difficulty": "Hard",
+              "probability": "Board Favourite"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-03-set-05-q18",
+              "question": "$y=k$ রেখাটি কোন অক্ষের সমান্তরাল? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 05-18 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+              "options": [
+                {
+                  "text": "কোনোটিই নয়",
+                  "label": "ক"
+                },
+                {
+                  "text": "$y$-অক্ষ",
+                  "label": "খ"
+                },
+                {
+                  "text": "উভয় অক্ষ",
+                  "label": "গ"
+                },
+                {
+                  "text": "$x$-অক্ষ",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "ঘ",
+              "shortSolution": "সঠিক উত্তর: ঘ। $y=$ constant হলে horizontal line।",
+              "chapter": "03",
+              "topic": "অক্ষের সমান্তরাল রেখা",
+              "difficulty": "Hard",
+              "probability": "Conceptual Trap"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-03-set-05-q19",
+              "question": "দুটি রেখার ঢালের গুণফল -1 হলে তারা কেমন? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 05-19 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+              "options": [
+                {
+                  "text": "কোনোটিই নয়",
+                  "label": "ক"
+                },
+                {
+                  "text": "লম্ব",
+                  "label": "খ"
+                },
+                {
+                  "text": "সমান্তরাল",
+                  "label": "গ"
+                },
+                {
+                  "text": "অভিন্ন",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "খ",
+              "shortSolution": "সঠিক উত্তর: খ। Perpendicular রেখার slopes product -1।",
+              "chapter": "03",
+              "topic": "লম্ব রেখার শর্ত",
+              "difficulty": "Hard",
+              "probability": "Mega Hot"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-03-set-05-q20",
+              "question": "রেখা $ax+by+c=0$ ও $a'x+b'y+c'=0$ parallel হওয়ার শর্ত কোনটি? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 05-20 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+              "options": [
+                {
+                  "text": "$aa'+bb'=0$",
+                  "label": "ক"
+                },
+                {
+                  "text": "$c=c'$",
+                  "label": "খ"
+                },
+                {
+                  "text": "$a+b=0$",
+                  "label": "গ"
+                },
+                {
+                  "text": "$ab'-a'b=0$",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "ঘ",
+              "shortSolution": "সঠিক উত্তর: ঘ। Parallel হলে coefficient ratio সমান, অর্থাৎ $ab'-a'b=0$।",
+              "chapter": "03",
+              "topic": "সমান্তরাল রেখার শর্ত",
+              "difficulty": "Hard",
+              "probability": "Very Hot"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-03-set-05-q21",
+              "question": "বিন্দু $(7,2)$ ও $(8,6)$ যোগকারী রেখার ঢাল কত?",
+              "options": [
+                {
+                  "text": "4 + 3",
+                  "label": "ক"
+                },
+                {
+                  "text": "$\\frac{1}{4}$",
+                  "label": "খ"
+                },
+                {
+                  "text": "4",
+                  "label": "গ"
+                },
+                {
+                  "text": "1",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "গ",
+              "shortSolution": "সঠিক উত্তর: গ। $m=(y_2-y_1)/(x_2-x_1)$।",
+              "chapter": "03",
+              "topic": "ঢাল",
+              "difficulty": "Hard",
+              "probability": "Board Favourite"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-03-set-05-q22",
+              "question": "ঢাল 8 এবং বিন্দু $(3,9)$ দিয়ে অতিক্রান্ত রেখার সমীকরণ কোনটি?",
+              "options": [
+                {
+                  "text": "$x=8y-15$",
+                  "label": "ক"
+                },
+                {
+                  "text": "$y=8x-15$",
+                  "label": "খ"
+                },
+                {
+                  "text": "$y=8x-14$",
+                  "label": "গ"
+                },
+                {
+                  "text": "$y=-8x-15$",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "খ",
+              "shortSolution": "সঠিক উত্তর: খ। $y-y_1=m(x-x_1)$।",
+              "chapter": "03",
+              "topic": "বিন্দু-ঢাল রূপ",
+              "difficulty": "Board Standard",
+              "probability": "Conceptual Trap"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-03-set-05-q23",
+              "question": "$\\frac{x}{9}+\\frac{y}{4}=1$ রেখার ছেদাংশ কত?",
+              "options": [
+                {
+                  "text": "$x$-অক্ষে 4, $y$-অক্ষে 9",
+                  "label": "ক"
+                },
+                {
+                  "text": "$x$-অক্ষে 9, $y$-অক্ষে 4",
+                  "label": "খ"
+                },
+                {
+                  "text": "উভয় 0",
+                  "label": "গ"
+                },
+                {
+                  "text": "13",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "খ",
+              "shortSolution": "সঠিক উত্তর: খ। Intercept form থেকে সরাসরি ছেদাংশ পাওয়া যায়।",
+              "chapter": "03",
+              "topic": "ছেদাংশ রূপ",
+              "difficulty": "Board Standard",
+              "probability": "Mega Hot"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-03-set-05-q24",
+              "question": "বিন্দু $(5,7)$ থেকে রেখা $10x+5y-3=0$ এর দূরত্ব কত?",
+              "options": [
+                {
+                  "text": "$\\frac{83}{\\sqrt{125}}$",
+                  "label": "ক"
+                },
+                {
+                  "text": "$\\frac{82}{\\sqrt{125}}$",
+                  "label": "খ"
+                },
+                {
+                  "text": "$\\sqrt{125}$",
+                  "label": "গ"
+                },
+                {
+                  "text": "$\\frac{82}{125}$",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "খ",
+              "shortSolution": "সঠিক উত্তর: খ। $|ax_1+by_1+c|/\\sqrt{a^2+b^2}$।",
+              "chapter": "03",
+              "topic": "বিন্দু থেকে রেখার দূরত্ব",
+              "difficulty": "Board Standard",
+              "probability": "Very Hot"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-03-set-05-q25",
+              "question": "দুটি রেখা parallel হলে তাদের ঢাল কেমন? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 05-25 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+              "options": [
+                {
+                  "text": "গুণফল -1",
+                  "label": "ক"
+                },
+                {
+                  "text": "যোগফল 0",
+                  "label": "খ"
+                },
+                {
+                  "text": "অসংজ্ঞায়িত",
+                  "label": "গ"
+                },
+                {
+                  "text": "সমান",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "ঘ",
+              "shortSolution": "সঠিক উত্তর: ঘ। Parallel রেখার slope সমান।",
+              "chapter": "03",
+              "topic": "সমান্তরাল রেখা",
+              "difficulty": "Board Standard",
+              "probability": "Board Favourite"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

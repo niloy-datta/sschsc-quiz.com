@@ -1,0 +1,24 @@
+<svg width="100%" height="100%" viewBox="0 0 360 220" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="পানিতে নিমজ্জিত বস্তু">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#07111f"/>
+      <stop offset="100%" stop-color="#0f172a"/>
+    </linearGradient>
+    <filter id="glow"><feGaussianBlur stdDeviation="2.2" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+    <marker id="arrow" markerWidth="8" markerHeight="8" refX="7" refY="3" orient="auto"><path d="M0,0 L0,6 L8,3 z" fill="#67e8f9"/></marker>
+  </defs>
+  <rect width="360" height="220" rx="18" fill="url(#bg)"/>
+  <rect x="10" y="10" width="340" height="200" rx="14" fill="#ffffff" opacity=".035" stroke="#38bdf8" stroke-opacity=".24"/>
+  <text x="180" y="28" text-anchor="middle" fill="#e0f2fe" font-size="12.5" font-weight="700" font-family="Noto Sans Bengali, Arial, sans-serif">পানিতে নিমজ্জিত বস্তু</text>
+  <text x="180" y="44" text-anchor="middle" fill="#93c5fd" font-size="9.5" font-family="Noto Sans Bengali, Arial, sans-serif">Upthrust / buoyancy diagram</text>
+  <g filter="url(#glow)">
+    <rect x="85" y="70" width="190" height="110" rx="12" fill="#082f49" stroke="#38bdf8" stroke-width="2"/>
+    <path d="M90 100 C125 88,160 112,195 100 C225 88,250 108,272 96" fill="none" stroke="#67e8f9" stroke-width="3"/>
+    <rect x="157" y="112" width="46" height="46" rx="8" fill="#334155" stroke="#fbbf24" stroke-width="2"/>
+    <line x1="180" y1="112" x2="180" y2="76" stroke="#a3e635" stroke-width="4" marker-end="url(#arrow)"/>
+    <line x1="180" y1="158" x2="180" y2="195" stroke="#f87171" stroke-width="4" marker-end="url(#arrow)"/>
+    <text x="205" y="86" fill="#bbf7d0" font-size="10" font-family="Noto Sans Bengali, Arial">উর্ধ্বমুখী বল</text>
+    <text x="205" y="190" fill="#fecaca" font-size="10" font-family="Noto Sans Bengali, Arial">ওজন</text>
+  </g>
+  
+</svg>

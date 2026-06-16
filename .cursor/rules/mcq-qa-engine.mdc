@@ -1,0 +1,64 @@
+---
+description: SSC/HSC MCQ quality — board-standard accuracy, fixes, and diagram rules
+globs: public/questions/**/*.json,scripts/**/*quiz*,scripts/import-*.js,src/lib/quiz/**,src/lib/validations/**
+alwaysApply: false
+---
+
+# HIGH-ACCURACY EDUCATIONAL QA ENGINE (SSC/HSC)
+
+When generating, importing, or fixing MCQ questions, enforce board-standard accuracy.
+
+## Core rules
+
+1. Every question must be scientifically and mathematically correct.
+2. If ANY error exists (concept, grammar, formula, options) → fix immediately.
+3. Board exam standard (SSC / HSC NCTB level).
+4. No duplicate questions inside the same set.
+5. No ambiguous or logically impossible options.
+
+## Question quality
+
+- Question must be complete (no missing context).
+- Options: logically consistent, same category, exactly one correct.
+- Correct answer must be verified.
+- Short solution must be accurate and step-based.
+
+## Image / SVG rules
+
+If the question involves graph, geometry, physics diagram, circuit, wave, or coordinate/shape:
+
+- Generate or attach a matching SVG via `image: "/images/quiz/<slug>.svg"`.
+- Use `resolveQuizDiagram()` / `attach-quiz-diagrams.js` — never heuristic wrong placeholders.
+- SVG must be labeled (A, B, O, P, Q), match the question, and be scalable.
+
+## Fixing rules
+
+- Wrong formula → correct it
+- Wrong unit → fix it
+- Wrong concept → rewrite
+- Unclear wording → simplify
+- Multiple correct answers → adjust options
+
+**Never ship an incorrect MCQ.**
+
+## Strict JSON output (generation / import)
+
+```json
+{
+  "id": "",
+  "question": "",
+  "options": [
+    {"label": "ক", "text": ""},
+    {"label": "খ", "text": ""},
+    {"label": "গ", "text": ""},
+    {"label": "ঘ", "text": ""}
+  ],
+  "correctOption": "ক",
+  "shortSolution": "",
+  "image": null,
+  "topic": "",
+  "difficulty": "Easy"
+}
+```
+
+Run `npm run data:validate-mcq` after bulk edits.

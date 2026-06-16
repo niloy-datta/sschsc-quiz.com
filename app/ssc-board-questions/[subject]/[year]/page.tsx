@@ -28,6 +28,8 @@ export default async function SSCBoardYearPage({ params }: Props) {
 }
 
 export async function generateStaticParams() {
+  // 2026 data is real for: chemistry, general-math (math), higher-math
+  // 2026 data is placeholder for: physics, biology (hidden from index.json)
   const subjects = ["physics", "chemistry", "biology", "higher-math", "math"];
   const years = ["2022", "2023", "2024", "2025", "2026"];
   const params = [];

@@ -1,0 +1,21 @@
+<svg width="100%" height="100%" viewBox="0 0 420 260" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Transformer">
+  <defs>
+    <marker id="arrow" markerWidth="8" markerHeight="8" refX="7" refY="3.5" orient="auto">
+      <path d="M0,0 L0,7 L8,3.5 z" fill="#0f172a"/>
+    </marker>
+    <marker id="arrowBlue" markerWidth="8" markerHeight="8" refX="7" refY="3.5" orient="auto">
+      <path d="M0,0 L0,7 L8,3.5 z" fill="#2563eb"/>
+    </marker>
+  </defs>
+  <rect width="420" height="260" rx="18" fill="#f8fafc"/>
+  <rect x="14" y="14" width="392" height="232" rx="14" fill="#ffffff" stroke="#cbd5e1" stroke-width="1.5"/>
+  <text x="210.0" y="38" text-anchor="middle" font-family="Arial, sans-serif" font-size="15" font-weight="700" fill="#0f172a">Transformer</text>
+  
+  <rect x="170" y="70" width="80" height="120" rx="8" fill="none" stroke="#475569" stroke-width="6"/>
+  <path d="M115 78 C150 86,150 100,115 108 C150 116,150 130,115 138 C150 146,150 160,115 168" fill="none" stroke="#2563eb" stroke-width="2.5"/>
+  <path d="M305 78 C270 86,270 100,305 108 C270 116,270 130,305 138 C270 146,270 160,305 168" fill="none" stroke="#ea580c" stroke-width="2.5"/>
+  <text x="112" y="62" text-anchor="middle" font-size="12" fill="#2563eb">Primary coil</text>
+  <text x="308" y="62" text-anchor="middle" font-size="12" fill="#ea580c">Secondary coil</text>
+  <text x="210" y="222" text-anchor="middle" font-size="12" fill="#475569">Np = 550, Ns = 125, Vp = 220 V</text>
+
+</svg>

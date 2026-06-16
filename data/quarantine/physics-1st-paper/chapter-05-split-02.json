@@ -1,0 +1,282 @@
+{
+  "setId": "chapter-05-split-02",
+  "reason": "DUPLICATE_OF_chapter-05-split-02",
+  "quarantinedAt": "2026-06-16T10:44:44.887Z",
+  "questions": [
+    {
+      "id": "chapter-05-split-02-q01",
+      "questionText": "একটি বুলেট একটি কাঠের ব্লকে 3 cm ঢোকার পর বেগ অর্ধেক হারায়। বুলেটটি আর কতটুকু ভেতরে ঢুকবে?",
+      "optionA": "1 cm",
+      "optionB": "1.5 cm",
+      "optionC": "2 cm",
+      "optionD": "3 cm",
+      "correctOption": "A",
+      "explanation": "",
+      "questionNo": 1
+    },
+    {
+      "id": "chapter-05-split-02-q02",
+      "questionText": "2 kg ভরের একটি বস্তু 10 m/s বেগে চলতে থাকলে বস্তুটিকে থামাতে কত কাজ করতে হবে?",
+      "optionA": "10 J",
+      "optionB": "50 J",
+      "optionC": "100 J",
+      "optionD": "200 J",
+      "correctOption": "C",
+      "explanation": "",
+      "questionNo": 2
+    },
+    {
+      "id": "chapter-05-split-02-q03",
+      "questionText": "একটি বস্তুর গতিশক্তি প্রাথমিক গতিশক্তির 16 গুণ হলে শেষ ভরবেগ আদি ভরবেগের কত গুণ হবে?",
+      "optionA": "2 গুণ",
+      "optionB": "4 গুণ",
+      "optionC": "8 গুণ",
+      "optionD": "16 গুণ",
+      "correctOption": "B",
+      "explanation": "",
+      "questionNo": 3
+    },
+    {
+      "id": "chapter-05-split-02-q04",
+      "questionText": "5 kg ভরের বস্তুর ভরবেগ 20 kg m/s হলে গতিশক্তি কত?",
+      "optionA": "20 J",
+      "optionB": "40 J",
+      "optionC": "80 J",
+      "optionD": "100 J",
+      "correctOption": "B",
+      "explanation": "",
+      "questionNo": 4
+    },
+    {
+      "id": "chapter-05-split-02-q05",
+      "questionText": "গতিশক্তির মান কখনো কীরূপ হতে পারে না?",
+      "optionA": "ধনাত্মক",
+      "optionB": "শূন্য",
+      "optionC": "ঋণাত্মক",
+      "optionD": "ভগ্নাংশ",
+      "correctOption": "C",
+      "explanation": "",
+      "questionNo": 5
+    },
+    {
+      "id": "chapter-05-split-02-q06",
+      "questionText": "সংরক্ষণশীল বল দ্বারা কৃতকাজ বস্তুর বিভব শক্তির পরিবর্তনের—",
+      "optionA": "সমান",
+      "optionB": "ঋণাত্মক মানের সমান",
+      "optionC": "দ্বিগুণ",
+      "optionD": "অর্ধেক",
+      "correctOption": "B",
+      "explanation": "",
+      "questionNo": 6
+    },
+    {
+      "id": "chapter-05-split-02-q07",
+      "questionText": "একটি বস্তুকে খাড়া উপরের দিকে ছুঁড়ে দিলে তার গতিশক্তি ও বিভব শক্তির যোগফল—",
+      "optionA": "উচ্চতার সাথে বৃদ্ধি পায়",
+      "optionB": "উচ্চতার সাথে হ্রাস পায়",
+      "optionC": "সর্বদা ধ্রুব থাকে",
+      "optionD": "শূন্য হয়",
+      "correctOption": "C",
+      "explanation": "",
+      "questionNo": 7
+    },
+    {
+      "id": "chapter-05-split-02-q08",
+      "questionText": "একটি পড়ন্ত বস্তুর ক্ষেত্রে ভূমি থেকে কত উচ্চতায় এর গতিশক্তি বিভব শক্তির দ্বিগুণ হবে? (মোট উচ্চতা $H$)",
+      "optionA": "$H/2$",
+      "optionB": "$H/3$",
+      "optionC": "$2H/3$",
+      "optionD": "$H/4$",
+      "correctOption": "B",
+      "explanation": "",
+      "questionNo": 8
+    },
+    {
+      "id": "chapter-05-split-02-q09",
+      "questionText": "একটি পড়ন্ত বস্তুর ক্ষেত্রে ভূমি থেকে কত উচ্চতায় এর বিভব শক্তি গতিশক্তির দ্বিগুণ হবে? (মোট উচ্চতা $H$)",
+      "optionA": "$H/2$",
+      "optionB": "$H/3$",
+      "optionC": "$2H/3$",
+      "optionD": "$H/4$",
+      "correctOption": "C",
+      "explanation": "",
+      "questionNo": 9
+    },
+    {
+      "id": "chapter-05-split-02-q10",
+      "questionText": "10 m উচ্চতা থেকে একটি বস্তুকে বিনা বাধায় পড়তে দিলে কত উচ্চতায় এর গতিশক্তি ও বিভব শক্তি সমান হবে?",
+      "optionA": "2 m",
+      "optionB": "3 m",
+      "optionC": "4 m",
+      "optionD": "5 m",
+      "correctOption": "D",
+      "explanation": "",
+      "questionNo": 10
+    },
+    {
+      "id": "chapter-05-split-02-q11",
+      "questionText": "সরল দোলকের বব যখন সাম্যাবস্থান (Mean Position) অতিক্রম করে, তখন তার শক্তি কীরূপ থাকে?",
+      "optionA": "সম্পূর্ণ বিভব শক্তি",
+      "optionB": "সম্পূর্ণ গতিশক্তি",
+      "optionC": "অর্ধেক গতি ও অর্ধেক বিভব",
+      "optionD": "শক্তি শূন্য থাকে",
+      "correctOption": "B",
+      "explanation": "",
+      "questionNo": 11
+    },
+    {
+      "id": "chapter-05-split-02-q12",
+      "questionText": "সরল দোলকের সর্বোচ্চ বিস্তারে (Extreme Position) ববের শক্তি কীরূপ থাকে?",
+      "optionA": "সম্পূর্ণ বিভব শক্তি",
+      "optionB": "সম্পূর্ণ গতিশক্তি",
+      "optionC": "অর্ধেক গতি ও অর্ধেক বিভব",
+      "optionD": "শক্তি শূন্য থাকে",
+      "correctOption": "A",
+      "explanation": "",
+      "questionNo": 12
+    },
+    {
+      "id": "chapter-05-split-02-q13",
+      "questionText": "একটি স্প্রিংকে টেনে এর দৈর্ঘ্য দ্বিগুণ করা হলে, স্প্রিংয়ের সঞ্চিত বিভব শক্তি কতগুণ হবে?",
+      "optionA": "দ্বিগুণ",
+      "optionB": "চারগুণ",
+      "optionC": "অর্ধেক",
+      "optionD": "অপরিবর্তিত থাকবে",
+      "correctOption": "B",
+      "explanation": "",
+      "questionNo": 13
+    },
+    {
+      "id": "chapter-05-split-02-q14",
+      "questionText": "যান্ত্রিক শক্তির নিত্যতা সূত্র (Conservation of Mechanical Energy) কখন প্রযোজ্য?",
+      "optionA": "যখন ঘর্ষণ বল ক্রিয়া করে",
+      "optionB": "যখন কেবল সংরক্ষণশীল বল ক্রিয়া করে",
+      "optionC": "যখন অসংরক্ষণশীল বল ক্রিয়া করে",
+      "optionD": "সর্বদা প্রযোজ্য",
+      "correctOption": "B",
+      "explanation": "",
+      "questionNo": 14
+    },
+    {
+      "id": "chapter-05-split-02-q15",
+      "questionText": "একটি বলকে $h$ উচ্চতা থেকে ফেলে দিলে সেটি মাটিতে ধাক্কা খেয়ে $h/2$ উচ্চতায় ওঠে। ধাক্কায় কত শতাংশ শক্তি ক্ষয় হলো?",
+      "optionA": "25%",
+      "optionB": "50%",
+      "optionC": "75%",
+      "optionD": "100%",
+      "correctOption": "B",
+      "explanation": "",
+      "questionNo": 15
+    },
+    {
+      "id": "chapter-05-split-02-q16",
+      "questionText": "$m$ ভরের একটি বস্তুকে অনুভূমিকের সাথে $\\\\theta$ কোণে আনত একটি ঘর্ষণহীন তল বেয়ে $s$ দূরত্ব তুললে বিভব শক্তির পরিবর্তন কত?",
+      "optionA": "$mgs$",
+      "optionB": "$mgs\\\\cos\\\\theta$",
+      "optionC": "$mgs\\\\sin\\\\theta$",
+      "optionD": "0",
+      "correctOption": "C",
+      "explanation": "",
+      "questionNo": 16
+    },
+    {
+      "id": "chapter-05-split-02-q17",
+      "questionText": "শক্তির মাত্রা (Dimension of Energy) নিচের কোনটির মাত্রার সমান?",
+      "optionA": "বল",
+      "optionB": "ক্ষমতা",
+      "optionC": "ভরবেগ",
+      "optionD": "কাজ",
+      "correctOption": "D",
+      "explanation": "",
+      "questionNo": 17
+    },
+    {
+      "id": "chapter-05-split-02-q18",
+      "questionText": "বস্তুর বেগ দ্বিগুণ করলে তার—",
+      "optionA": "গতিশক্তি দ্বিগুণ হবে",
+      "optionB": "ভরবেগ চারগুণ হবে",
+      "optionC": "গতিশক্তি চারগুণ হবে",
+      "optionD": "বিভব শক্তি দ্বিগুণ হবে",
+      "correctOption": "C",
+      "explanation": "",
+      "questionNo": 18
+    },
+    {
+      "id": "chapter-05-split-02-q19",
+      "questionText": "1 kWh (কিলোওয়াট-ঘণ্টা) সমান কত জুল?",
+      "optionA": "$3.6 \\\\times 10^3$ J",
+      "optionB": "$3.6 \\\\times 10^5$ J",
+      "optionC": "$3.6 \\\\times 10^6$ J",
+      "optionD": "$3.6 \\\\times 10^8$ J",
+      "correctOption": "C",
+      "explanation": "",
+      "questionNo": 19
+    },
+    {
+      "id": "chapter-05-split-02-q20",
+      "questionText": "মেঘ থেকে বৃষ্টি পড়ার সময় কোন শক্তি কোন শক্তিতে রূপান্তরিত হয়?",
+      "optionA": "গতিশক্তি $\\\\rightarrow$ বিভব শক্তি",
+      "optionB": "বিভব শক্তি $\\\\rightarrow$ গতিশক্তি",
+      "optionC": "তাপশক্তি $\\\\rightarrow$ গতিশক্তি",
+      "optionD": "রাসায়নিক শক্তি $\\\\rightarrow$ গতিশক্তি",
+      "correctOption": "B",
+      "explanation": "",
+      "questionNo": 20
+    },
+    {
+      "id": "chapter-05-split-02-q21",
+      "questionText": "একটি বস্তুর গতিশক্তি 10 J এবং এর ভর 5 kg। বস্তুটির রৈখিক ভরবেগ কত?",
+      "optionA": "10 kg m/s",
+      "optionB": "20 kg m/s",
+      "optionC": "50 kg m/s",
+      "optionD": "100 kg m/s",
+      "correctOption": "A",
+      "explanation": "",
+      "questionNo": 21
+    },
+    {
+      "id": "chapter-05-split-02-q22",
+      "questionText": "স্প্রিংয়ে সঞ্চিত শক্তি দ্বারা কৃতকাজ বস্তুর গতিশক্তির—",
+      "optionA": "সমান",
+      "optionB": "অর্ধেক",
+      "optionC": "দ্বিগুণ",
+      "optionD": "ঋণাত্মক",
+      "correctOption": "A",
+      "explanation": "",
+      "questionNo": 22
+    },
+    {
+      "id": "chapter-05-split-02-q23",
+      "questionText": "মহাকর্ষীয় বিভব শক্তি সর্বদা কীরূপ হয়?",
+      "optionA": "ধনাত্মক",
+      "optionB": "ঋণাত্মক",
+      "optionC": "শূন্য",
+      "optionD": "ধনাত্মক বা শূন্য",
+      "correctOption": "B",
+      "explanation": "",
+      "questionNo": 23
+    },
+    {
+      "id": "chapter-05-split-02-q24",
+      "questionText": "1 H.P. (অশ্বক্ষমতা) সমান কত ওয়াট (Watt)?",
+      "optionA": "546 W",
+      "optionB": "746 W",
+      "optionC": "1000 W",
+      "optionD": "3600 W",
+      "correctOption": "B",
+      "explanation": "",
+      "questionNo": 24
+    },
+    {
+      "id": "chapter-05-split-02-q25",
+      "questionText": "কর্মদক্ষতার একক কী?",
+      "optionA": "জুল",
+      "optionB": "ওয়াট",
+      "optionC": "পার্সেন্টেজ (%)",
+      "optionD": "এর কোনো একক নেই",
+      "correctOption": "D",
+      "explanation": "",
+      "questionNo": 25
+    }
+  ]
+}

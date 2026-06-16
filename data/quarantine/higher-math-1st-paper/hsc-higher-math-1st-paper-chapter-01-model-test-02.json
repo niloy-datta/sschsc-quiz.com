@@ -1,0 +1,63 @@
+{
+  "setId": "hsc-higher-math-1st-paper-chapter-01-model-test-02",
+  "reason": "DUPLICATE_OF_hsc-higher-math-1st-paper-chapter-01-model-test-06",
+  "quarantinedAt": "2026-06-13T17:57:55.215Z",
+  "questions": [
+    {
+      "id": "hsc-higher-math-1st-paper-chapter-01-model-test-02-q01",
+      "questionText": "ম্যাট্রিক্সের ডিটারমিন্যান্ট শূন্য হলে তাকে কী ম্যাট্রিক্স বলে?",
+      "optionA": "প্রতিসম ম্যাট্রিক্স",
+      "optionB": "অভেদক ম্যাট্রিক্স",
+      "optionC": "অ-ব্যতিক্রমী ম্যাট্রিক্স",
+      "optionD": "ব্যতিক্রমী ম্যাট্রিক্স",
+      "correctOption": "D",
+      "explanation": "",
+      "chapter": "01",
+      "topic": "ম্যাট্রিক্স ও নির্ণায়ক",
+      "difficulty": "Board Pattern",
+      "questionNo": 1
+    },
+    {
+      "id": "hsc-higher-math-1st-paper-chapter-01-model-test-02-q02",
+      "questionText": "A এবং B দুটি ম্যাট্রিক্স। AB গুণন সংজ্ঞায়িত হলে A এর কলাম সংখ্যা B এর কীসের সমান হবে?",
+      "optionA": "কলাম সংখ্যা",
+      "optionB": "কোনোটিই নয়",
+      "optionC": "মান",
+      "optionD": "সারি সংখ্যা",
+      "correctOption": "D",
+      "explanation": "",
+      "chapter": "01",
+      "topic": "ম্যাট্রিক্স ও নির্ণায়ক",
+      "difficulty": "Board Pattern",
+      "questionNo": 2
+    },
+    {
+      "id": "hsc-higher-math-1st-paper-chapter-01-model-test-02-q03",
+      "questionText": "d/dx (ln x) এর মান কত?",
+      "optionA": "ln x",
+      "optionB": "e^x",
+      "optionC": "1/x",
+      "optionD": "x",
+      "correctOption": "C",
+      "explanation": "",
+      "chapter": "01",
+      "topic": "অন্তরীকরণ",
+      "difficulty": "Board Pattern",
+      "questionNo": 3
+    },
+    {
+      "id": "hsc-higher-math-1st-paper-chapter-01-model-test-02-q04",
+      "questionText": "lim_{x->0} (sin x / x) এর মান কত?",
+      "optionA": "১",
+      "optionB": "বিদ্যমান নেই",
+      "optionC": "০",
+      "optionD": "অসীম",
+      "correctOption": "A",
+      "explanation": "",
+      "chapter": "01",
+      "topic": "ত্রিকোণমিতিক অনুপাত",
+      "difficulty": "Board Pattern",
+      "questionNo": 4
+    }
+  ]
+}

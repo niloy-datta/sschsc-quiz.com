@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="520" viewBox="0 0 900 520">
+  <defs>
+    <marker id="arrow" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto">
+      <path d="M0,0 L0,6 L9,3 z" fill="#111827"/>
+    </marker>
+    <style>
+      .bg { fill:#f8fafc; }
+      .box { fill:#ffffff; stroke:#cbd5e1; stroke-width:2; }
+      .car { fill:#dbeafe; stroke:#2563eb; stroke-width:4; }
+      .wheel { fill:#ffffff; stroke:#111827; stroke-width:5; }
+      .rim { fill:none; stroke:#2563eb; stroke-width:2.5; }
+      .road { stroke:#475569; stroke-width:6; }
+      .dash { stroke:#94a3b8; stroke-width:3; stroke-dasharray:18 12; }
+      .rot { stroke:#ef4444; stroke-width:4; fill:none; marker-end:url(#arrow); }
+      .move { stroke:#16a34a; stroke-width:4; fill:none; marker-end:url(#arrow); }
+      .circleMotion { stroke:#f59e0b; stroke-width:3; fill:none; stroke-dasharray:8 8; }
+      .label { font-family:"Noto Sans Bengali", Arial, sans-serif; font-size:22px; font-weight:700; fill:#111827; }
+      .small { font-family:"Noto Sans Bengali", Arial, sans-serif; font-size:18px; font-weight:600; fill:#334155; }
+    </style>
+  </defs>
+  <rect x="10" y="10" width="880" height="500" rx="22" class="bg"/>
+  <rect x="30" y="30" width="840" height="460" rx="18" class="box"/>
+  <line x1="70" y1="405" x2="830" y2="405" class="road"/>
+  <line x1="70" y1="432" x2="830" y2="432" class="dash"/>
+  <path d="M145 330 L210 265 C230 245, 265 238, 310 238 L475 238 C530 238, 575 255, 610 292 L690 292 C725 292, 750 318, 750 350 L750 365 L145 365 Z" class="car"/>
+  <rect x="260" y="260" width="95" height="58" rx="8" fill="#eff6ff" stroke="#2563eb" stroke-width="3"/>
+  <rect x="375" y="260" width="95" height="58" rx="8" fill="#eff6ff" stroke="#2563eb" stroke-width="3"/>
+  <rect x="490" y="260" width="82" height="58" rx="8" fill="#eff6ff" stroke="#2563eb" stroke-width="3"/>
+  <circle cx="270" cy="365" r="60" class="wheel"/>
+  <circle cx="270" cy="365" r="30" class="rim"/>
+  <line x1="270" y1="305" x2="270" y2="425" stroke="#111827" stroke-width="3"/>
+  <line x1="210" y1="365" x2="330" y2="365" stroke="#111827" stroke-width="3"/>
+  <circle cx="620" cy="365" r="60" class="wheel"/>
+  <circle cx="620" cy="365" r="30" class="rim"/>
+  <line x1="620" y1="305" x2="620" y2="425" stroke="#111827" stroke-width="3"/>
+  <line x1="560" y1="365" x2="680" y2="365" stroke="#111827" stroke-width="3"/>
+  <line x1="150" y1="160" x2="740" y2="160" class="move"/>
+  <text x="330" y="145" class="label">����ǰ ���� ���</text>
+  <path d="M320 365 A50 50 0 1 1 270 315" class="rot"/>
+  <text x="335" y="330" class="label">�°ͣ� ���</text>
+  <path d="M620 365 m -38,0 a38,38 0 1,1 76,0 a38,38 0 1,1 -76,0" class="circleMotion"/>
+  <text x="690" y="370" class="label">��ͯ�� �äͤ ���</text>
+  <text x="120" y="465" class="small">���ͤ ��ܿ� ���� �˰� ��� ��� ���� ��ܿ� ���� ����� ����� ���d</text>
+</svg>

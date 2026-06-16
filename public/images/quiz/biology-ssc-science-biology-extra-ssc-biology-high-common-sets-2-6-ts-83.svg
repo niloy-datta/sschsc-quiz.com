@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="100%" height="100%" viewBox="0 0 360 220">
+  <defs>
+    <marker id="arrow" markerWidth="8" markerHeight="8" refX="7" refY="3" orient="auto">
+      <path d="M0,0 L0,6 L8,3 z" fill="#facc15"/>
+    </marker>
+    <style>
+      .bg{fill:#020617}
+      .organ{fill:#7c2d12;stroke:#fdba74;stroke-width:3}
+      .tube{fill:none;stroke:#38bdf8;stroke-width:8;stroke-linecap:round;stroke-linejoin:round}
+      .flow{stroke:#facc15;stroke-width:2.5;fill:none;marker-end:url(#arrow)}
+      .label{font-family:"Noto Sans Bengali",Arial,sans-serif;font-size:14px;font-weight:800;fill:#e5e7eb}
+      .small{font-family:"Noto Sans Bengali",Arial,sans-serif;font-size:11px;font-weight:700;fill:#cbd5e1}
+    </style>
+  </defs>
+
+  <rect width="360" height="220" rx="18" class="bg"/>
+
+  <path d="M132 38 C142 70 142 92 122 116 C100 145 116 176 153 178 C193 180 218 150 204 118 C194 96 174 88 165 72 C158 58 150 45 132 38Z" class="organ"/>
+
+  <path d="M198 136 C230 138 254 124 282 140 C306 154 303 182 275 188 C242 195 226 174 238 154" class="tube"/>
+
+  <path d="M150 80 C162 105 174 120 198 136" class="flow"/>
+  <path d="M214 140 C235 145 252 143 275 153" class="flow"/>
+
+  <text x="145" y="203" text-anchor="middle" class="label">পাকস্থলী</text>
+  <text x="263" y="203" text-anchor="middle" class="label">ক্ষুদ্রান্ত্র</text>
+  <text x="232" y="119" text-anchor="middle" class="small">পরবর্তী অংশ</text>
+</svg>

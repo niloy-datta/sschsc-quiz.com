@@ -1,0 +1,377 @@
+[
+  {
+    "id": "hsc-higher-math-1st-paper-chapter-08-set-02-q01",
+    "subject": "higher-math-1st-paper",
+    "chapter": "hsc-higher-math-1st-paper-chapter-08-set-02",
+    "text": "$f(x)=x+4$ হলে $f(3)$ কত?",
+    "options": [
+      "3",
+      "4",
+      "1",
+      "7"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-higher-math-1st-paper-chapter-08-set-02-q02",
+    "subject": "higher-math-1st-paper",
+    "chapter": "hsc-higher-math-1st-paper-chapter-08-set-02",
+    "text": "$f(x)=x^2+5$ হলে $f(4)$ কত?",
+    "options": [
+      "21",
+      "11",
+      "16",
+      "9"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-higher-math-1st-paper-chapter-08-set-02-q03",
+    "subject": "higher-math-1st-paper",
+    "chapter": "hsc-higher-math-1st-paper-chapter-08-set-02",
+    "text": "$f(x)=\\frac1{x-2}$ এর domain-এ কোন মান থাকবে না? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 02-03 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+    "options": [
+      "3",
+      "0",
+      "2",
+      "1"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-higher-math-1st-paper-chapter-08-set-02-q04",
+    "subject": "higher-math-1st-paper",
+    "chapter": "hsc-higher-math-1st-paper-chapter-08-set-02",
+    "text": "$f(x)=x^2$ ফাংশনটি কেমন? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 02-04 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+    "options": [
+      "Even",
+      "Constant",
+      "Odd",
+      "Periodic"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-higher-math-1st-paper-chapter-08-set-02-q05",
+    "subject": "higher-math-1st-paper",
+    "chapter": "hsc-higher-math-1st-paper-chapter-08-set-02",
+    "text": "$f(x)=x^3$ ফাংশনটি কেমন? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 02-05 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+    "options": [
+      "Periodic",
+      "Odd",
+      "Constant",
+      "Even"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-higher-math-1st-paper-chapter-08-set-02-q06",
+    "subject": "higher-math-1st-paper",
+    "chapter": "hsc-higher-math-1st-paper-chapter-08-set-02",
+    "text": "$f(x)=2x+3$ এর inverse কোনটি? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 02-06 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+    "options": [
+      "$x+3$",
+      "$f^{-1}(x)=\\frac{x-3}{2}$",
+      "$\\frac{x+3}{2}$",
+      "$2x-3$"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-higher-math-1st-paper-chapter-08-set-02-q07",
+    "subject": "higher-math-1st-paper",
+    "chapter": "hsc-higher-math-1st-paper-chapter-08-set-02",
+    "text": "$f(x)=x+1$, $g(x)=2x$ হলে $(f\\circ g)(x)$ কত? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 02-07 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+    "options": [
+      "$2x$",
+      "$x+2$",
+      "$2x+1$",
+      "$2x+2$"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-higher-math-1st-paper-chapter-08-set-02-q08",
+    "subject": "higher-math-1st-paper",
+    "chapter": "hsc-higher-math-1st-paper-chapter-08-set-02",
+    "text": "$y=x^2$ এর graph কোন ধরনের? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 02-08 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+    "options": [
+      "অধিবৃত্ত",
+      "সরলরেখা",
+      "বৃত্ত",
+      "উর্ধ্বমুখী parabola"
+    ],
+    "image": "/images/quiz/premium/hsc-higher-math-1st-paper-chapter-08-set-02-q08.svg",
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-higher-math-1st-paper-chapter-08-set-02-q09",
+    "subject": "higher-math-1st-paper",
+    "chapter": "hsc-higher-math-1st-paper-chapter-08-set-02",
+    "text": "$f(x)=|x|$ এর range কী? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 02-09 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+    "options": [
+      "$(-\\infty,\\infty)$",
+      "$(0,\\infty)$",
+      "$(-\\infty,0]$",
+      "$[0,\\infty)$"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-higher-math-1st-paper-chapter-08-set-02-q10",
+    "subject": "higher-math-1st-paper",
+    "chapter": "hsc-higher-math-1st-paper-chapter-08-set-02",
+    "text": "Function-এ প্রতিটি input-এর output কয়টি? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 02-10 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+    "options": [
+      "একটি",
+      "দুটি",
+      "অসীম",
+      "শূন্য"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-higher-math-1st-paper-chapter-08-set-02-q11",
+    "subject": "higher-math-1st-paper",
+    "chapter": "hsc-higher-math-1st-paper-chapter-08-set-02",
+    "text": "$f(x)=x+4$ হলে $f(6)$ কত?",
+    "options": [
+      "6",
+      "10",
+      "-2",
+      "4"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-higher-math-1st-paper-chapter-08-set-02-q12",
+    "subject": "higher-math-1st-paper",
+    "chapter": "hsc-higher-math-1st-paper-chapter-08-set-02",
+    "text": "$f(x)=x^2+5$ হলে $f(7)$ কত?",
+    "options": [
+      "54",
+      "44",
+      "49",
+      "12"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-higher-math-1st-paper-chapter-08-set-02-q13",
+    "subject": "higher-math-1st-paper",
+    "chapter": "hsc-higher-math-1st-paper-chapter-08-set-02",
+    "text": "$f(x)=\\frac1{x-2}$ এর domain-এ কোন মান থাকবে না? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 02-13 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+    "options": [
+      "1",
+      "0",
+      "2",
+      "3"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-higher-math-1st-paper-chapter-08-set-02-q14",
+    "subject": "higher-math-1st-paper",
+    "chapter": "hsc-higher-math-1st-paper-chapter-08-set-02",
+    "text": "$f(x)=x^2$ ফাংশনটি কেমন? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 02-14 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+    "options": [
+      "Odd",
+      "Even",
+      "Constant",
+      "Periodic"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-higher-math-1st-paper-chapter-08-set-02-q15",
+    "subject": "higher-math-1st-paper",
+    "chapter": "hsc-higher-math-1st-paper-chapter-08-set-02",
+    "text": "$f(x)=x^3$ ফাংশনটি কেমন? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 02-15 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+    "options": [
+      "Constant",
+      "Odd",
+      "Even",
+      "Periodic"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-higher-math-1st-paper-chapter-08-set-02-q16",
+    "subject": "higher-math-1st-paper",
+    "chapter": "hsc-higher-math-1st-paper-chapter-08-set-02",
+    "text": "$f(x)=2x+3$ এর inverse কোনটি? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 02-16 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+    "options": [
+      "$x+3$",
+      "$\\frac{x+3}{2}$",
+      "$f^{-1}(x)=\\frac{x-3}{2}$",
+      "$2x-3$"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-higher-math-1st-paper-chapter-08-set-02-q17",
+    "subject": "higher-math-1st-paper",
+    "chapter": "hsc-higher-math-1st-paper-chapter-08-set-02",
+    "text": "$f(x)=x+1$, $g(x)=2x$ হলে $(f\\circ g)(x)$ কত? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 02-17 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+    "options": [
+      "$2x$",
+      "$2x+1$",
+      "$x+2$",
+      "$2x+2$"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-higher-math-1st-paper-chapter-08-set-02-q18",
+    "subject": "higher-math-1st-paper",
+    "chapter": "hsc-higher-math-1st-paper-chapter-08-set-02",
+    "text": "$y=x^2$ এর graph কোন ধরনের? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 02-18 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+    "options": [
+      "উর্ধ্বমুখী parabola",
+      "বৃত্ত",
+      "অধিবৃত্ত",
+      "সরলরেখা"
+    ],
+    "image": "/images/quiz/premium/hsc-higher-math-1st-paper-chapter-08-set-02-q18.svg",
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-higher-math-1st-paper-chapter-08-set-02-q19",
+    "subject": "higher-math-1st-paper",
+    "chapter": "hsc-higher-math-1st-paper-chapter-08-set-02",
+    "text": "$f(x)=|x|$ এর range কী? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 02-19 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+    "options": [
+      "$(0,\\infty)$",
+      "$(-\\infty,0]$",
+      "$(-\\infty,\\infty)$",
+      "$[0,\\infty)$"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-higher-math-1st-paper-chapter-08-set-02-q20",
+    "subject": "higher-math-1st-paper",
+    "chapter": "hsc-higher-math-1st-paper-chapter-08-set-02",
+    "text": "Function-এ প্রতিটি input-এর output কয়টি? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 02-20 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+    "options": [
+      "অসীম",
+      "একটি",
+      "শূন্য",
+      "দুটি"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-higher-math-1st-paper-chapter-08-set-02-q21",
+    "subject": "higher-math-1st-paper",
+    "chapter": "hsc-higher-math-1st-paper-chapter-08-set-02",
+    "text": "$f(x)=x+4$ হলে $f(2)$ কত?",
+    "options": [
+      "6 + 3",
+      "2",
+      "4",
+      "6"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-higher-math-1st-paper-chapter-08-set-02-q22",
+    "subject": "higher-math-1st-paper",
+    "chapter": "hsc-higher-math-1st-paper-chapter-08-set-02",
+    "text": "$f(x)=x^2+5$ হলে $f(3)$ কত?",
+    "options": [
+      "4",
+      "9",
+      "8",
+      "14"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-higher-math-1st-paper-chapter-08-set-02-q23",
+    "subject": "higher-math-1st-paper",
+    "chapter": "hsc-higher-math-1st-paper-chapter-08-set-02",
+    "text": "$f(x)=\\frac1{x-2}$ এর domain-এ কোন মান থাকবে না? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 02-23 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+    "options": [
+      "0",
+      "3",
+      "1",
+      "2"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-higher-math-1st-paper-chapter-08-set-02-q24",
+    "subject": "higher-math-1st-paper",
+    "chapter": "hsc-higher-math-1st-paper-chapter-08-set-02",
+    "text": "$f(x)=x^2$ ফাংশনটি কেমন? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 02-24 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+    "options": [
+      "Constant",
+      "Even",
+      "Periodic",
+      "Odd"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-higher-math-1st-paper-chapter-08-set-02-q25",
+    "subject": "higher-math-1st-paper",
+    "chapter": "hsc-higher-math-1st-paper-chapter-08-set-02",
+    "text": "$f(x)=x^3$ ফাংশনটি কেমন? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 02-25 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+    "options": [
+      "Even",
+      "Constant",
+      "Periodic",
+      "Odd"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  }
+]

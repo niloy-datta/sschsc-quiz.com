@@ -1,0 +1,27 @@
+{
+  "setId": "physics_questions",
+  "reason": "HIDDEN_LEGACY_KEY",
+  "quarantinedAt": "2026-06-13T17:57:54.781Z",
+  "questions": [
+    {
+      "id": "physics-1st-paper-hsc-science-physics-physics-questions-json-0",
+      "questionText": "বল ভ্রামক (টর্ক)-এর মাত্রা সমীকরণ কোনটি?",
+      "optionA": "ML²T⁻²",
+      "optionB": "MLT⁻²",
+      "optionC": "ML²T⁻¹",
+      "optionD": "MLT⁻¹",
+      "correctOption": "A",
+      "explanation": "টর্ক = বল × দূরত্ব = MLT⁻² × L = ML²T⁻²; কাজ/শক্তির মাত্রাও একই।"
+    },
+    {
+      "id": "physics-1st-paper-hsc-science-physics-physics-questions-json-1",
+      "questionText": "আলোকবর্ষ কোন রাশির একক?",
+      "optionA": "সময়",
+      "optionB": "বেগ",
+      "optionC": "দূরত্ব",
+      "optionD": "আলোর তীব্রতা",
+      "correctOption": "C",
+      "explanation": "আলোকবর্ষ = আলো ১ বছরে অতিক্রান্ত দূরত্ব, তাই এটি দূরত্বের একক।"
+    }
+  ]
+}

@@ -1,0 +1,282 @@
+{
+  "setId": "chapter-05-split-01",
+  "reason": "DUPLICATE_OF_chapter-05-split-01",
+  "quarantinedAt": "2026-06-16T10:44:44.708Z",
+  "questions": [
+    {
+      "id": "chapter-05-split-01-q01",
+      "questionText": "কার্বনের যোজনী কত? (Board Repeated)",
+      "optionA": "২ ও ৪",
+      "optionB": "৩ ও ৪",
+      "optionC": "৫",
+      "optionD": "১ ও ২",
+      "correctOption": "A",
+      "explanation": "সঠিক উত্তর: A (২ ও ৪)। ব্যাখ্যা: কার্বনের স্বাভাবিক অবস্থায় যোজনী ২ এবং উত্তেজিত অবস্থায় যোজনী ৪ হয়।",
+      "questionNo": 1
+    },
+    {
+      "id": "chapter-05-split-01-q02",
+      "questionText": "নিচের কোন মৌলটির যোজনী ইলেকট্রন ও যোজনী একই?",
+      "optionA": "S",
+      "optionB": "O",
+      "optionC": "Ca",
+      "optionD": "Cl",
+      "correctOption": "C",
+      "explanation": "সঠিক উত্তর: C (Ca)। ব্যাখ্যা: ক্যালসিয়ামের (Ca) সর্বশেষ কক্ষপথে ২টি ইলেকট্রন থাকে (যোজ্যতা ইলেকট্রন ২) এবং এটি ২টি ইলেকট্রন ত্যাগ করে বিক্রিয়া করে (যোজনী ২)।",
+      "questionNo": 2
+    },
+    {
+      "id": "chapter-05-split-01-q03",
+      "questionText": "অ্যালুমিনিয়ামের (Al) যোজ্যতা ইলেকট্রন কত?",
+      "optionA": "১",
+      "optionB": "২",
+      "optionC": "৩",
+      "optionD": "১৩",
+      "correctOption": "C",
+      "explanation": "সঠিক উত্তর: C (৩)। ব্যাখ্যা: Al (১৩) এর ইলেকট্রন বিন্যাস ২, ৮, ৩। সর্বশেষ কক্ষপথের ইলেকট্রনই যোজ্যতা ইলেকট্রন।",
+      "questionNo": 3
+    },
+    {
+      "id": "chapter-05-split-01-q04",
+      "questionText": "নিচের কোন মৌলটি পরিবর্তনশীল যোজনী প্রদর্শন করে না?",
+      "optionA": "Fe",
+      "optionB": "Cu",
+      "optionC": "S",
+      "optionD": "Na",
+      "correctOption": "D",
+      "explanation": "সঠিক উত্তর: D (Na)। ব্যাখ্যা: ক্ষার ধাতু সোডিয়ামের যোজনী সবসময় ১। Fe (২,৩), Cu (১,২), S (২,৪,৬) পরিবর্তনশীল যোজনী দেখায়।",
+      "questionNo": 4
+    },
+    {
+      "id": "chapter-05-split-01-q05",
+      "questionText": "ফসফরাসের পরিবর্তনশীল যোজনী কোনগুলো?",
+      "optionA": "২ ও ৪",
+      "optionB": "৩ ও ৫",
+      "optionC": "১ ও ৩",
+      "optionD": "২, ৪ ও ৬",
+      "correctOption": "B",
+      "explanation": "সঠিক উত্তর: B (৩ ও ৫)। ব্যাখ্যা: ফসফরাস ৩ ও ৫ যোজনী প্রদর্শন করে।",
+      "questionNo": 5
+    },
+    {
+      "id": "chapter-05-split-01-q06",
+      "questionText": "অক্সিজেনের যোজ্যতা ইলেকট্রন কয়টি?",
+      "optionA": "২",
+      "optionB": "৪",
+      "optionC": "6",
+      "optionD": "৮",
+      "correctOption": "C",
+      "explanation": "সঠিক উত্তর: C (৬)। ব্যাখ্যা: O (৮) এর ইলেকট্রন বিন্যাস ২, ৬। তাই যোজ্যতা ইলেকট্রন ৬, কিন্তু যোজনী ২।",
+      "questionNo": 6
+    },
+    {
+      "id": "chapter-05-split-01-q07",
+      "questionText": "আয়রন (Fe) এর সর্বোচ্চ যোজনী কত?",
+      "optionA": "২",
+      "optionB": "৩",
+      "optionC": "৪",
+      "optionD": "৬",
+      "correctOption": "B",
+      "explanation": "সঠিক উত্তর: B (৩)। ব্যাখ্যা: Fe সাধারণত ২ (ফেরাস) এবং ৩ (ফেরিক) যোজনী প্রদর্শন করে।",
+      "questionNo": 7
+    },
+    {
+      "id": "chapter-05-split-01-q08",
+      "questionText": "ফ্লোরিনের (F) যোজনী কত?",
+      "optionA": "১",
+      "optionB": "২",
+      "optionC": "৭",
+      "optionD": "৯",
+      "correctOption": "A",
+      "explanation": "সঠিক উত্তর: A (১)। ব্যাখ্যা: ফ্লোরিনের যোজনী ১।",
+      "questionNo": 8
+    },
+    {
+      "id": "chapter-05-split-01-q09",
+      "questionText": "একই গ্রুপের মৌলসমূহের কোন বৈশিষ্ট্যটি একই থাকে?",
+      "optionA": "পারমাণবিক ভর",
+      "optionB": "প্রোটন সংখ্যা",
+      "optionC": "যোজ্যতা ইলেকট্রন সংখ্যা",
+      "optionD": "নিউট্রন সংখ্যা",
+      "correctOption": "C",
+      "explanation": "সঠিক উত্তর: C (যোজ্যতা ইলেকট্রন সংখ্যা)। ব্যাখ্যা: একই গ্রুপের মৌলসমূহের সর্বশেষ শক্তিস্তরের ইলেকট্রন সংখ্যা বা যোজ্যতা ইলেকট্রন সংখ্যা একই থাকে।",
+      "questionNo": 9
+    },
+    {
+      "id": "chapter-05-split-01-q10",
+      "questionText": "সিলিকন (Si) এর যোজনী কত?",
+      "optionA": "২",
+      "optionB": "৩",
+      "optionC": "৪",
+      "optionD": "৫",
+      "correctOption": "C",
+      "explanation": "সঠিক উত্তর: C (৪)। ব্যাখ্যা: সিলিকনের যোজনী ৪।",
+      "questionNo": 10
+    },
+    {
+      "id": "chapter-05-split-01-q11",
+      "questionText": "আর্গন (Ar) এর যোজনী কত?",
+      "optionA": "০",
+      "optionB": "৮",
+      "optionC": "২",
+      "optionD": "৪",
+      "correctOption": "A",
+      "explanation": "সঠিক উত্তর: A (০)। ব্যাখ্যা: নিষ্ক্রিয় গ্যাসগুলো ইলেকট্রন আদান-প্রদান বা শেয়ার করে না, তাই এদের যোজনী শূন্য।",
+      "questionNo": 11
+    },
+    {
+      "id": "chapter-05-split-01-q12",
+      "questionText": "হ্যালোজেন গ্রুপের মৌলগুলোর সাধারণ যোজনী কত?",
+      "optionA": "০",
+      "optionB": "১",
+      "optionC": "২",
+      "optionD": "৭",
+      "correctOption": "B",
+      "explanation": "সঠিক উত্তর: B (১)। ব্যাখ্যা: হ্যালোজেন মৌলসমূহ ১টি ইলেকট্রন গ্রহণ করে স্থিতিশীলতা পায়, তাই এদের যোজনী ১।",
+      "questionNo": 12
+    },
+    {
+      "id": "chapter-05-split-01-q13",
+      "questionText": "SF₄ যৌগে সালফারের সুপ্ত যোজনী কত? (Board Repeated)",
+      "optionA": "০",
+      "optionB": "২",
+      "optionC": "৪",
+      "optionD": "৬",
+      "correctOption": "B",
+      "explanation": "সঠিক উত্তর: B (২)। ব্যাখ্যা: সুপ্ত যোজনী = সর্বোচ্চ যোজনী (৬) - সক্রিয় যোজনী (৪) = ২।",
+      "questionNo": 13
+    },
+    {
+      "id": "chapter-05-split-01-q14",
+      "questionText": "SO₂ যৌগে সালফারের সুপ্ত যোজনী কত?",
+      "optionA": "২",
+      "optionB": "৪",
+      "optionC": "৬",
+      "optionD": "০",
+      "correctOption": "A",
+      "explanation": "সঠিক উত্তর: A (২)। ব্যাখ্যা: SO₂ যৌগে S এর সক্রিয় যোজনী ৪। সুপ্ত যোজনী = ৬ - ৪ = ২।",
+      "questionNo": 14
+    },
+    {
+      "id": "chapter-05-split-01-q15",
+      "questionText": "FeCl₂ যৌগে আয়রনের সুপ্ত যোজনী কত?",
+      "optionA": "১",
+      "optionB": "২",
+      "optionC": "৩",
+      "optionD": "০",
+      "correctOption": "A",
+      "explanation": "সঠিক উত্তর: A (১)। ব্যাখ্যা: Fe এর সর্বোচ্চ যোজনী ৩। FeCl₂ এ সক্রিয় যোজনী ২। সুপ্ত যোজনী = ৩ - ২ = ১।",
+      "questionNo": 15
+    },
+    {
+      "id": "chapter-05-split-01-q16",
+      "questionText": "ফসফোনিয়াম ফসফেট এর সংকেত কোনটি? (Board Repeated)",
+      "optionA": "PH₄PO₄",
+      "optionB": "PH₄(PO₄)₃",
+      "optionC": "(PH₄)₂PO₄",
+      "optionD": "(PH₄)₃PO₄",
+      "correctOption": "D",
+      "explanation": "সঠিক উত্তর: D ((PH₄)। ব্যাখ্যা: ফসফোনিয়াম (PH₄⁺) এর যোজনী ১, ফসফেট (PO₄³⁻) এর যোজনী ৩।",
+      "questionNo": 16
+    },
+    {
+      "id": "chapter-05-split-01-q17",
+      "questionText": "সালফেট (SO₄) যৌগমূলকের আধান কত?",
+      "optionA": "-১",
+      "optionB": "-২",
+      "optionC": "+২",
+      "optionD": "-৩",
+      "correctOption": "B",
+      "explanation": "সঠিক উত্তর: B (-২)। ব্যাখ্যা: সালফেট যৌগমূলকের সংকেত SO₄²⁻, তাই আধান -২।",
+      "questionNo": 17
+    },
+    {
+      "id": "chapter-05-split-01-q18",
+      "questionText": "নিচের কোনটি ধনাত্মক যৌগমূলক?",
+      "optionA": "ফসফোনিয়াম",
+      "optionB": "ফসফেট",
+      "optionC": "সালফেট",
+      "optionD": "কার্বনেট",
+      "correctOption": "A",
+      "explanation": "সঠিক উত্তর: A (ফসফোনিয়াম)। ব্যাখ্যা: NH₄⁺ (অ্যামোনিয়াম) এবং PH₄⁺ (ফসফোনিয়াম) হলো ধনাত্মক যৌগমূলক।",
+      "questionNo": 18
+    },
+    {
+      "id": "chapter-05-split-01-q19",
+      "questionText": "CO (কার্বন মনোক্সাইড) যৌগে কার্বনের সুপ্ত যোজনী কত?",
+      "optionA": "২",
+      "optionB": "৪",
+      "optionC": "০",
+      "optionD": "৬",
+      "correctOption": "A",
+      "explanation": "সঠিক উত্তর: A (২)। ব্যাখ্যা: কার্বনের সর্বোচ্চ যোজনী ৪। CO যৌগে কার্বনের সক্রিয় যোজনী ২। সুপ্ত যোজনী = ৪ - ২ = ২।",
+      "questionNo": 19
+    },
+    {
+      "id": "chapter-05-split-01-q20",
+      "questionText": "অ্যালুমিনিয়াম সালফেট যৌগে কয়টি পরমাণু আছে?",
+      "optionA": "১২",
+      "optionB": "১৪",
+      "optionC": "১৫",
+      "optionD": "১৭",
+      "correctOption": "D",
+      "explanation": "সঠিক উত্তর: D (১৭)। ব্যাখ্যা: সংকেত Al₂(SO₄)₃। Al=২টি, S=৩টি, O=১২টি। মোট = ২+৩+১২ = ১৭টি।",
+      "questionNo": 20
+    },
+    {
+      "id": "chapter-05-split-01-q21",
+      "questionText": "বাইকার্বনেট (Hydrogen carbonate) মূলকের যোজনী কত?",
+      "optionA": "১",
+      "optionB": "২",
+      "optionC": "৩",
+      "optionD": "৪",
+      "correctOption": "A",
+      "explanation": "সঠিক উত্তর: A (১)। ব্যাখ্যা: HCO₃⁻ এর যোজনী ১।",
+      "questionNo": 21
+    },
+    {
+      "id": "chapter-05-split-01-q22",
+      "questionText": "CO₂ যৌগে কার্বনের সুপ্ত যোজনী কত?",
+      "optionA": "০",
+      "optionB": "২",
+      "optionC": "৪",
+      "optionD": "৮",
+      "correctOption": "A",
+      "explanation": "সঠিক উত্তর: A (০)। ব্যাখ্যা: CO₂ এ কার্বনের সক্রিয় যোজনী ৪, এবং সর্বোচ্চ যোজনীও ৪। সুপ্ত যোজনী = ৪ - ৪ = ০।",
+      "questionNo": 22
+    },
+    {
+      "id": "chapter-05-split-01-q23",
+      "questionText": "কোন যৌগটিতে অষ্টক সম্প্রসারণ ঘটেছে?",
+      "optionA": "CH₄",
+      "optionB": "PCl₅",
+      "optionC": "BF₃",
+      "optionD": "NH₃",
+      "correctOption": "B",
+      "explanation": "সঠিক উত্তর: B (PCl₅)। ব্যাখ্যা: PCl₅ এ ফসফরাসের শেষ কক্ষপথে ১০টি ইলেকট্রন (৫ জোড়া) থাকে, যা ৮ এর বেশি।",
+      "questionNo": 23
+    },
+    {
+      "id": "chapter-05-split-01-q24",
+      "questionText": "নিচের কোন যৌগটিতে অষ্টক সংকোচন (Incomplete Octet) দেখা যায়?",
+      "optionA": "BF₃",
+      "optionB": "PCl₃",
+      "optionC": "SF₆",
+      "optionD": "H₂O",
+      "correctOption": "A",
+      "explanation": "সঠিক উত্তর: A (BF₃)। ব্যাখ্যা: BF₃ এ বোরনের চারপাশে মাত্র ৬টি ইলেকট্রন থাকে (অষ্টক অপূর্ণ)।",
+      "questionNo": 24
+    },
+    {
+      "id": "chapter-05-split-01-q25",
+      "questionText": "SO₃ যৌগের কেন্দ্রীয় পরমাণুতে অষ্টক নিয়মের কী ঘটে? (Board Repeated)",
+      "optionA": "অষ্টক সংকোচন",
+      "optionB": "অষ্টক সম্প্রসারণ",
+      "optionC": "দুইয়ের নিয়ম মানে",
+      "optionD": "অষ্টক পূর্ণ থাকে",
+      "correctOption": "B",
+      "explanation": "সঠিক উত্তর: B (অষ্টক সম্প্রসারণ)। ব্যাখ্যা: SO₃ যৌগে সালফার পরমাণুর চারপাশে ৬ জোড়া বা ১২টি ইলেকট্রন থাকে।",
+      "questionNo": 25
+    }
+  ]
+}

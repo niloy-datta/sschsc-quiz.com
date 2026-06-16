@@ -4,12 +4,15 @@ import {
   unifiedSubjectBasePath,
 } from "@/lib/quiz/unified-routes";
 
+const BLOCKED_SUBJECTS = ["ict"];
+
 type Props = { params: { level: string; subject: string } };
 
 /** Subject model-test list lives on the subject hub (`?tab=model`). Keep this route for old links. */
 export default function UnifiedSubjectModelTestsPage({ params }: Props) {
   const routeLevel = normalizeRouteLevel(params.level);
   if (!routeLevel) notFound();
+  if (BLOCKED_SUBJECTS.includes(params.subject)) notFound();
 
   redirect(`${unifiedSubjectBasePath(routeLevel, params.subject)}?tab=model&model=paper`);
 }

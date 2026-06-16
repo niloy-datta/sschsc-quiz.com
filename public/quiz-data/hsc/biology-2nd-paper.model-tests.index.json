@@ -2,114 +2,6 @@
   "level": "hsc",
   "subject": "biology-2nd-paper",
   "modelTests": {
-    "hsczoologyset1": {
-      "questionCount": 50,
-      "scope": "paper",
-      "displayTitle": "Paper Model Test 01",
-      "durationMinutes": 25,
-      "tags": [
-        "paper-wise"
-      ]
-    },
-    "hsczoologyset10": {
-      "questionCount": 10,
-      "scope": "paper",
-      "displayTitle": "Paper Model Test 10",
-      "durationMinutes": 25,
-      "tags": [
-        "paper-wise"
-      ]
-    },
-    "hsczoologyset2": {
-      "questionCount": 25,
-      "scope": "paper",
-      "displayTitle": "Paper Model Test 02",
-      "durationMinutes": 25,
-      "tags": [
-        "paper-wise"
-      ]
-    },
-    "hsczoologyset3": {
-      "questionCount": 25,
-      "scope": "paper",
-      "displayTitle": "Paper Model Test 03",
-      "durationMinutes": 25,
-      "tags": [
-        "paper-wise"
-      ]
-    },
-    "hsczoologyset4": {
-      "questionCount": 25,
-      "scope": "paper",
-      "displayTitle": "Paper Model Test 04",
-      "durationMinutes": 25,
-      "tags": [
-        "paper-wise"
-      ]
-    },
-    "hsczoologyset9": {
-      "questionCount": 10,
-      "scope": "paper",
-      "displayTitle": "Paper Model Test 09",
-      "durationMinutes": 25,
-      "tags": [
-        "paper-wise"
-      ]
-    },
-    "hsczoologysets16to20": {
-      "questionCount": 50,
-      "scope": "paper",
-      "displayTitle": "Paper Model Test 20",
-      "durationMinutes": 25,
-      "tags": [
-        "paper-wise"
-      ]
-    },
-    "hsczoologysets21to25": {
-      "questionCount": 50,
-      "scope": "paper",
-      "displayTitle": "Paper Model Test 25",
-      "durationMinutes": 25,
-      "tags": [
-        "paper-wise"
-      ]
-    },
-    "hsczoologysets26to30": {
-      "questionCount": 50,
-      "scope": "paper",
-      "displayTitle": "Paper Model Test 30",
-      "durationMinutes": 25,
-      "tags": [
-        "paper-wise"
-      ]
-    },
-    "hsczoologysets5and6": {
-      "questionCount": 50,
-      "scope": "paper",
-      "displayTitle": "Paper Model Test 06",
-      "durationMinutes": 25,
-      "tags": [
-        "paper-wise"
-      ]
-    },
-    "hsczoologysets6to10": {
-      "questionCount": 50,
-      "scope": "paper",
-      "displayTitle": "Paper Model Test 10",
-      "durationMinutes": 25,
-      "tags": [
-        "paper-wise"
-      ]
-    },
-    "hsczoologysets7and8": {
-      "questionCount": 20,
-      "scope": "paper",
-      "displayTitle": "Paper Model Test 08",
-      "durationMinutes": 25,
-      "tags": [
-        "paper-wise"
-      ]
-    },
     "hsc-biology-2nd-paper-tier-a-hot-model-test-01": {
       "questionCount": 25,
       "scope": "paper",
@@ -150,945 +42,6 @@
         "mega-hot",
         "paper-wise",
         "hyper-exclusive"
-      ]
-    },
-    "hsc-biology-2nd-paper-tier-a-hot-model-test-04": {
-      "questionCount": 25,
-      "scope": "paper",
-      "displayTitle": "Paper Model Test 04",
-      "durationMinutes": 25,
-      "tags": [
-        "hot",
-        "high-priority",
-        "board-standard",
-        "paper-wise"
-      ]
-    },
-    "hsc-biology-2nd-paper-tier-a-hot-model-test-05": {
-      "questionCount": 25,
-      "scope": "paper",
-      "displayTitle": "Paper Model Test 05",
-      "durationMinutes": 25,
-      "tags": [
-        "hot",
-        "high-priority",
-        "board-standard",
-        "paper-wise"
-      ]
-    },
-    "hsc-biology-2nd-paper-whole-model-test-01": {
-      "questionCount": 25,
-      "scope": "wholeSyllabus",
-      "displayTitle": "Model Test 01",
-      "durationMinutes": 25,
-      "importance": "high",
-      "tags": [
-        "whole-syllabus",
-        "high-priority"
-      ],
-      "chaptersCovered": [
-        {
-          "chapter": "chapter-01",
-          "chapterName": "প্রাণীর বিভিন্নতা ও শ্রেণিবিন্যাস"
-        },
-        {
-          "chapter": "chapter-02",
-          "chapterName": "প্রাণীর পরিচিতি"
-        },
-        {
-          "chapter": "chapter-03",
-          "chapterName": "মানব শারীরতত্ত্ব: পরিপাক ও শোষণ"
-        },
-        {
-          "chapter": "chapter-04",
-          "chapterName": "মানব শারীরতত্ত্ব: রক্ত ও সঞ্চালন"
-        },
-        {
-          "chapter": "chapter-05",
-          "chapterName": "মানব শারীরতত্ত্ব: শ্বাসক্রিয়া ও শ্বসন"
-        },
-        {
-          "chapter": "chapter-06",
-          "chapterName": "মানব শারীরতত্ত্ব: বর্জ্য ও নিষ্কাশন"
-        },
-        {
-          "chapter": "chapter-07",
-          "chapterName": "মানব শারীরতত্ত্ব: চলন ও অঙ্গচালনা"
-        },
-        {
-          "chapter": "chapter-08",
-          "chapterName": "মানব শারীরতত্ত্ব: সমন্বয় ও নিয়ন্ত্রণ"
-        },
-        {
-          "chapter": "chapter-09",
-          "chapterName": "মানব জীবনের ধারাবাহিকতা"
-        },
-        {
-          "chapter": "chapter-10",
-          "chapterName": "মানবদেহের প্রতিরক্ষা"
-        },
-        {
-          "chapter": "chapter-11",
-          "chapterName": "জিনতত্ত্ব ও বিবর্তন"
-        },
-        {
-          "chapter": "chapter-12",
-          "chapterName": "প্রাণীর আচরণ"
-        }
-      ]
-    },
-    "hsc-biology-2nd-paper-whole-model-test-02": {
-      "questionCount": 25,
-      "scope": "wholeSyllabus",
-      "displayTitle": "Model Test 02",
-      "durationMinutes": 25,
-      "importance": "high",
-      "tags": [
-        "whole-syllabus",
-        "high-priority"
-      ],
-      "chaptersCovered": [
-        {
-          "chapter": "chapter-01",
-          "chapterName": "প্রাণীর বিভিন্নতা ও শ্রেণিবিন্যাস"
-        },
-        {
-          "chapter": "chapter-02",
-          "chapterName": "প্রাণীর পরিচিতি"
-        },
-        {
-          "chapter": "chapter-03",
-          "chapterName": "মানব শারীরতত্ত্ব: পরিপাক ও শোষণ"
-        },
-        {
-          "chapter": "chapter-04",
-          "chapterName": "মানব শারীরতত্ত্ব: রক্ত ও সঞ্চালন"
-        },
-        {
-          "chapter": "chapter-05",
-          "chapterName": "মানব শারীরতত্ত্ব: শ্বাসক্রিয়া ও শ্বসন"
-        },
-        {
-          "chapter": "chapter-06",
-          "chapterName": "মানব শারীরতত্ত্ব: বর্জ্য ও নিষ্কাশন"
-        },
-        {
-          "chapter": "chapter-07",
-          "chapterName": "মানব শারীরতত্ত্ব: চলন ও অঙ্গচালনা"
-        },
-        {
-          "chapter": "chapter-08",
-          "chapterName": "মানব শারীরতত্ত্ব: সমন্বয় ও নিয়ন্ত্রণ"
-        },
-        {
-          "chapter": "chapter-09",
-          "chapterName": "মানব জীবনের ধারাবাহিকতা"
-        },
-        {
-          "chapter": "chapter-10",
-          "chapterName": "মানবদেহের প্রতিরক্ষা"
-        },
-        {
-          "chapter": "chapter-11",
-          "chapterName": "জিনতত্ত্ব ও বিবর্তন"
-        },
-        {
-          "chapter": "chapter-12",
-          "chapterName": "প্রাণীর আচরণ"
-        }
-      ]
-    },
-    "hsc-biology-2nd-paper-whole-model-test-03": {
-      "questionCount": 25,
-      "scope": "wholeSyllabus",
-      "displayTitle": "Model Test 03",
-      "durationMinutes": 25,
-      "importance": "high",
-      "tags": [
-        "whole-syllabus",
-        "high-priority"
-      ],
-      "chaptersCovered": [
-        {
-          "chapter": "chapter-01",
-          "chapterName": "প্রাণীর বিভিন্নতা ও শ্রেণিবিন্যাস"
-        },
-        {
-          "chapter": "chapter-02",
-          "chapterName": "প্রাণীর পরিচিতি"
-        },
-        {
-          "chapter": "chapter-03",
-          "chapterName": "মানব শারীরতত্ত্ব: পরিপাক ও শোষণ"
-        },
-        {
-          "chapter": "chapter-04",
-          "chapterName": "মানব শারীরতত্ত্ব: রক্ত ও সঞ্চালন"
-        },
-        {
-          "chapter": "chapter-05",
-          "chapterName": "মানব শারীরতত্ত্ব: শ্বাসক্রিয়া ও শ্বসন"
-        },
-        {
-          "chapter": "chapter-06",
-          "chapterName": "মানব শারীরতত্ত্ব: বর্জ্য ও নিষ্কাশন"
-        },
-        {
-          "chapter": "chapter-07",
-          "chapterName": "মানব শারীরতত্ত্ব: চলন ও অঙ্গচালনা"
-        },
-        {
-          "chapter": "chapter-08",
-          "chapterName": "মানব শারীরতত্ত্ব: সমন্বয় ও নিয়ন্ত্রণ"
-        },
-        {
-          "chapter": "chapter-09",
-          "chapterName": "মানব জীবনের ধারাবাহিকতা"
-        },
-        {
-          "chapter": "chapter-10",
-          "chapterName": "মানবদেহের প্রতিরক্ষা"
-        },
-        {
-          "chapter": "chapter-11",
-          "chapterName": "জিনতত্ত্ব ও বিবর্তন"
-        },
-        {
-          "chapter": "chapter-12",
-          "chapterName": "প্রাণীর আচরণ"
-        }
-      ]
-    },
-    "hsc-biology-2nd-paper-whole-model-test-04": {
-      "questionCount": 25,
-      "scope": "wholeSyllabus",
-      "displayTitle": "Model Test 04",
-      "durationMinutes": 25,
-      "importance": "high",
-      "tags": [
-        "whole-syllabus",
-        "high-priority"
-      ],
-      "chaptersCovered": [
-        {
-          "chapter": "chapter-01",
-          "chapterName": "প্রাণীর বিভিন্নতা ও শ্রেণিবিন্যাস"
-        },
-        {
-          "chapter": "chapter-02",
-          "chapterName": "প্রাণীর পরিচিতি"
-        },
-        {
-          "chapter": "chapter-03",
-          "chapterName": "মানব শারীরতত্ত্ব: পরিপাক ও শোষণ"
-        },
-        {
-          "chapter": "chapter-04",
-          "chapterName": "মানব শারীরতত্ত্ব: রক্ত ও সঞ্চালন"
-        },
-        {
-          "chapter": "chapter-05",
-          "chapterName": "মানব শারীরতত্ত্ব: শ্বাসক্রিয়া ও শ্বসন"
-        },
-        {
-          "chapter": "chapter-06",
-          "chapterName": "মানব শারীরতত্ত্ব: বর্জ্য ও নিষ্কাশন"
-        },
-        {
-          "chapter": "chapter-07",
-          "chapterName": "মানব শারীরতত্ত্ব: চলন ও অঙ্গচালনা"
-        },
-        {
-          "chapter": "chapter-08",
-          "chapterName": "মানব শারীরতত্ত্ব: সমন্বয় ও নিয়ন্ত্রণ"
-        },
-        {
-          "chapter": "chapter-09",
-          "chapterName": "মানব জীবনের ধারাবাহিকতা"
-        },
-        {
-          "chapter": "chapter-10",
-          "chapterName": "মানবদেহের প্রতিরক্ষা"
-        },
-        {
-          "chapter": "chapter-11",
-          "chapterName": "জিনতত্ত্ব ও বিবর্তন"
-        },
-        {
-          "chapter": "chapter-12",
-          "chapterName": "প্রাণীর আচরণ"
-        }
-      ]
-    },
-    "hsc-biology-2nd-paper-whole-model-test-05": {
-      "questionCount": 25,
-      "scope": "wholeSyllabus",
-      "displayTitle": "Model Test 05",
-      "durationMinutes": 25,
-      "importance": "high",
-      "tags": [
-        "whole-syllabus",
-        "high-priority"
-      ],
-      "chaptersCovered": [
-        {
-          "chapter": "chapter-01",
-          "chapterName": "প্রাণীর বিভিন্নতা ও শ্রেণিবিন্যাস"
-        },
-        {
-          "chapter": "chapter-02",
-          "chapterName": "প্রাণীর পরিচিতি"
-        },
-        {
-          "chapter": "chapter-03",
-          "chapterName": "মানব শারীরতত্ত্ব: পরিপাক ও শোষণ"
-        },
-        {
-          "chapter": "chapter-04",
-          "chapterName": "মানব শারীরতত্ত্ব: রক্ত ও সঞ্চালন"
-        },
-        {
-          "chapter": "chapter-05",
-          "chapterName": "মানব শারীরতত্ত্ব: শ্বাসক্রিয়া ও শ্বসন"
-        },
-        {
-          "chapter": "chapter-06",
-          "chapterName": "মানব শারীরতত্ত্ব: বর্জ্য ও নিষ্কাশন"
-        },
-        {
-          "chapter": "chapter-07",
-          "chapterName": "মানব শারীরতত্ত্ব: চলন ও অঙ্গচালনা"
-        },
-        {
-          "chapter": "chapter-08",
-          "chapterName": "মানব শারীরতত্ত্ব: সমন্বয় ও নিয়ন্ত্রণ"
-        },
-        {
-          "chapter": "chapter-09",
-          "chapterName": "মানব জীবনের ধারাবাহিকতা"
-        },
-        {
-          "chapter": "chapter-10",
-          "chapterName": "মানবদেহের প্রতিরক্ষা"
-        },
-        {
-          "chapter": "chapter-11",
-          "chapterName": "জিনতত্ত্ব ও বিবর্তন"
-        },
-        {
-          "chapter": "chapter-12",
-          "chapterName": "প্রাণীর আচরণ"
-        }
-      ]
-    },
-    "hsc-biology-2nd-paper-whole-model-test-06": {
-      "questionCount": 25,
-      "scope": "wholeSyllabus",
-      "displayTitle": "Model Test 06",
-      "durationMinutes": 25,
-      "importance": "high",
-      "tags": [
-        "whole-syllabus",
-        "high-priority"
-      ],
-      "chaptersCovered": [
-        {
-          "chapter": "chapter-01",
-          "chapterName": "প্রাণীর বিভিন্নতা ও শ্রেণিবিন্যাস"
-        },
-        {
-          "chapter": "chapter-02",
-          "chapterName": "প্রাণীর পরিচিতি"
-        },
-        {
-          "chapter": "chapter-03",
-          "chapterName": "মানব শারীরতত্ত্ব: পরিপাক ও শোষণ"
-        },
-        {
-          "chapter": "chapter-04",
-          "chapterName": "মানব শারীরতত্ত্ব: রক্ত ও সঞ্চালন"
-        },
-        {
-          "chapter": "chapter-05",
-          "chapterName": "মানব শারীরতত্ত্ব: শ্বাসক্রিয়া ও শ্বসন"
-        },
-        {
-          "chapter": "chapter-06",
-          "chapterName": "মানব শারীরতত্ত্ব: বর্জ্য ও নিষ্কাশন"
-        },
-        {
-          "chapter": "chapter-07",
-          "chapterName": "মানব শারীরতত্ত্ব: চলন ও অঙ্গচালনা"
-        },
-        {
-          "chapter": "chapter-08",
-          "chapterName": "মানব শারীরতত্ত্ব: সমন্বয় ও নিয়ন্ত্রণ"
-        },
-        {
-          "chapter": "chapter-09",
-          "chapterName": "মানব জীবনের ধারাবাহিকতা"
-        },
-        {
-          "chapter": "chapter-10",
-          "chapterName": "মানবদেহের প্রতিরক্ষা"
-        },
-        {
-          "chapter": "chapter-11",
-          "chapterName": "জিনতত্ত্ব ও বিবর্তন"
-        },
-        {
-          "chapter": "chapter-12",
-          "chapterName": "প্রাণীর আচরণ"
-        }
-      ]
-    },
-    "hsc-biology-2nd-paper-whole-model-test-07": {
-      "questionCount": 25,
-      "scope": "wholeSyllabus",
-      "displayTitle": "Model Test 07",
-      "durationMinutes": 25,
-      "importance": "high",
-      "tags": [
-        "whole-syllabus",
-        "high-priority"
-      ],
-      "chaptersCovered": [
-        {
-          "chapter": "chapter-01",
-          "chapterName": "প্রাণীর বিভিন্নতা ও শ্রেণিবিন্যাস"
-        },
-        {
-          "chapter": "chapter-02",
-          "chapterName": "প্রাণীর পরিচিতি"
-        },
-        {
-          "chapter": "chapter-03",
-          "chapterName": "মানব শারীরতত্ত্ব: পরিপাক ও শোষণ"
-        },
-        {
-          "chapter": "chapter-04",
-          "chapterName": "মানব শারীরতত্ত্ব: রক্ত ও সঞ্চালন"
-        },
-        {
-          "chapter": "chapter-05",
-          "chapterName": "মানব শারীরতত্ত্ব: শ্বাসক্রিয়া ও শ্বসন"
-        },
-        {
-          "chapter": "chapter-06",
-          "chapterName": "মানব শারীরতত্ত্ব: বর্জ্য ও নিষ্কাশন"
-        },
-        {
-          "chapter": "chapter-07",
-          "chapterName": "মানব শারীরতত্ত্ব: চলন ও অঙ্গচালনা"
-        },
-        {
-          "chapter": "chapter-08",
-          "chapterName": "মানব শারীরতত্ত্ব: সমন্বয় ও নিয়ন্ত্রণ"
-        },
-        {
-          "chapter": "chapter-09",
-          "chapterName": "মানব জীবনের ধারাবাহিকতা"
-        },
-        {
-          "chapter": "chapter-10",
-          "chapterName": "মানবদেহের প্রতিরক্ষা"
-        },
-        {
-          "chapter": "chapter-11",
-          "chapterName": "জিনতত্ত্ব ও বিবর্তন"
-        },
-        {
-          "chapter": "chapter-12",
-          "chapterName": "প্রাণীর আচরণ"
-        }
-      ]
-    },
-    "hsc-biology-2nd-paper-whole-model-test-08": {
-      "questionCount": 25,
-      "scope": "wholeSyllabus",
-      "displayTitle": "Model Test 08",
-      "durationMinutes": 25,
-      "importance": "high",
-      "tags": [
-        "whole-syllabus",
-        "high-priority"
-      ],
-      "chaptersCovered": [
-        {
-          "chapter": "chapter-01",
-          "chapterName": "প্রাণীর বিভিন্নতা ও শ্রেণিবিন্যাস"
-        },
-        {
-          "chapter": "chapter-02",
-          "chapterName": "প্রাণীর পরিচিতি"
-        },
-        {
-          "chapter": "chapter-03",
-          "chapterName": "মানব শারীরতত্ত্ব: পরিপাক ও শোষণ"
-        },
-        {
-          "chapter": "chapter-04",
-          "chapterName": "মানব শারীরতত্ত্ব: রক্ত ও সঞ্চালন"
-        },
-        {
-          "chapter": "chapter-05",
-          "chapterName": "মানব শারীরতত্ত্ব: শ্বাসক্রিয়া ও শ্বসন"
-        },
-        {
-          "chapter": "chapter-06",
-          "chapterName": "মানব শারীরতত্ত্ব: বর্জ্য ও নিষ্কাশন"
-        },
-        {
-          "chapter": "chapter-07",
-          "chapterName": "মানব শারীরতত্ত্ব: চলন ও অঙ্গচালনা"
-        },
-        {
-          "chapter": "chapter-08",
-          "chapterName": "মানব শারীরতত্ত্ব: সমন্বয় ও নিয়ন্ত্রণ"
-        },
-        {
-          "chapter": "chapter-09",
-          "chapterName": "মানব জীবনের ধারাবাহিকতা"
-        },
-        {
-          "chapter": "chapter-10",
-          "chapterName": "মানবদেহের প্রতিরক্ষা"
-        },
-        {
-          "chapter": "chapter-11",
-          "chapterName": "জিনতত্ত্ব ও বিবর্তন"
-        },
-        {
-          "chapter": "chapter-12",
-          "chapterName": "প্রাণীর আচরণ"
-        }
-      ]
-    },
-    "hsc-biology-2nd-paper-whole-model-test-09": {
-      "questionCount": 25,
-      "scope": "wholeSyllabus",
-      "displayTitle": "Model Test 09",
-      "durationMinutes": 25,
-      "importance": "high",
-      "tags": [
-        "whole-syllabus",
-        "high-priority"
-      ],
-      "chaptersCovered": [
-        {
-          "chapter": "chapter-01",
-          "chapterName": "প্রাণীর বিভিন্নতা ও শ্রেণিবিন্যাস"
-        },
-        {
-          "chapter": "chapter-02",
-          "chapterName": "প্রাণীর পরিচিতি"
-        },
-        {
-          "chapter": "chapter-03",
-          "chapterName": "মানব শারীরতত্ত্ব: পরিপাক ও শোষণ"
-        },
-        {
-          "chapter": "chapter-04",
-          "chapterName": "মানব শারীরতত্ত্ব: রক্ত ও সঞ্চালন"
-        },
-        {
-          "chapter": "chapter-05",
-          "chapterName": "মানব শারীরতত্ত্ব: শ্বাসক্রিয়া ও শ্বসন"
-        },
-        {
-          "chapter": "chapter-06",
-          "chapterName": "মানব শারীরতত্ত্ব: বর্জ্য ও নিষ্কাশন"
-        },
-        {
-          "chapter": "chapter-07",
-          "chapterName": "মানব শারীরতত্ত্ব: চলন ও অঙ্গচালনা"
-        },
-        {
-          "chapter": "chapter-08",
-          "chapterName": "মানব শারীরতত্ত্ব: সমন্বয় ও নিয়ন্ত্রণ"
-        },
-        {
-          "chapter": "chapter-09",
-          "chapterName": "মানব জীবনের ধারাবাহিকতা"
-        },
-        {
-          "chapter": "chapter-10",
-          "chapterName": "মানবদেহের প্রতিরক্ষা"
-        },
-        {
-          "chapter": "chapter-11",
-          "chapterName": "জিনতত্ত্ব ও বিবর্তন"
-        },
-        {
-          "chapter": "chapter-12",
-          "chapterName": "প্রাণীর আচরণ"
-        }
-      ]
-    },
-    "hsc-biology-2nd-paper-whole-model-test-10": {
-      "questionCount": 25,
-      "scope": "wholeSyllabus",
-      "displayTitle": "Model Test 10",
-      "durationMinutes": 25,
-      "importance": "high",
-      "tags": [
-        "whole-syllabus",
-        "high-priority"
-      ],
-      "chaptersCovered": [
-        {
-          "chapter": "chapter-01",
-          "chapterName": "প্রাণীর বিভিন্নতা ও শ্রেণিবিন্যাস"
-        },
-        {
-          "chapter": "chapter-02",
-          "chapterName": "প্রাণীর পরিচিতি"
-        },
-        {
-          "chapter": "chapter-03",
-          "chapterName": "মানব শারীরতত্ত্ব: পরিপাক ও শোষণ"
-        },
-        {
-          "chapter": "chapter-04",
-          "chapterName": "মানব শারীরতত্ত্ব: রক্ত ও সঞ্চালন"
-        },
-        {
-          "chapter": "chapter-05",
-          "chapterName": "মানব শারীরতত্ত্ব: শ্বাসক্রিয়া ও শ্বসন"
-        },
-        {
-          "chapter": "chapter-06",
-          "chapterName": "মানব শারীরতত্ত্ব: বর্জ্য ও নিষ্কাশন"
-        },
-        {
-          "chapter": "chapter-07",
-          "chapterName": "মানব শারীরতত্ত্ব: চলন ও অঙ্গচালনা"
-        },
-        {
-          "chapter": "chapter-08",
-          "chapterName": "মানব শারীরতত্ত্ব: সমন্বয় ও নিয়ন্ত্রণ"
-        },
-        {
-          "chapter": "chapter-09",
-          "chapterName": "মানব জীবনের ধারাবাহিকতা"
-        },
-        {
-          "chapter": "chapter-10",
-          "chapterName": "মানবদেহের প্রতিরক্ষা"
-        },
-        {
-          "chapter": "chapter-11",
-          "chapterName": "জিনতত্ত্ব ও বিবর্তন"
-        },
-        {
-          "chapter": "chapter-12",
-          "chapterName": "প্রাণীর আচরণ"
-        }
-      ]
-    },
-    "hsc-biology-2nd-paper-whole-model-test-11": {
-      "questionCount": 25,
-      "scope": "wholeSyllabus",
-      "displayTitle": "Model Test 11",
-      "durationMinutes": 25,
-      "importance": "high",
-      "tags": [
-        "whole-syllabus",
-        "high-priority"
-      ],
-      "chaptersCovered": [
-        {
-          "chapter": "chapter-01",
-          "chapterName": "প্রাণীর বিভিন্নতা ও শ্রেণিবিন্যাস"
-        },
-        {
-          "chapter": "chapter-02",
-          "chapterName": "প্রাণীর পরিচিতি"
-        },
-        {
-          "chapter": "chapter-03",
-          "chapterName": "মানব শারীরতত্ত্ব: পরিপাক ও শোষণ"
-        },
-        {
-          "chapter": "chapter-04",
-          "chapterName": "মানব শারীরতত্ত্ব: রক্ত ও সঞ্চালন"
-        },
-        {
-          "chapter": "chapter-05",
-          "chapterName": "মানব শারীরতত্ত্ব: শ্বাসক্রিয়া ও শ্বসন"
-        },
-        {
-          "chapter": "chapter-06",
-          "chapterName": "মানব শারীরতত্ত্ব: বর্জ্য ও নিষ্কাশন"
-        },
-        {
-          "chapter": "chapter-07",
-          "chapterName": "মানব শারীরতত্ত্ব: চলন ও অঙ্গচালনা"
-        },
-        {
-          "chapter": "chapter-08",
-          "chapterName": "মানব শারীরতত্ত্ব: সমন্বয় ও নিয়ন্ত্রণ"
-        },
-        {
-          "chapter": "chapter-09",
-          "chapterName": "মানব জীবনের ধারাবাহিকতা"
-        },
-        {
-          "chapter": "chapter-10",
-          "chapterName": "মানবদেহের প্রতিরক্ষা"
-        },
-        {
-          "chapter": "chapter-11",
-          "chapterName": "জিনতত্ত্ব ও বিবর্তন"
-        },
-        {
-          "chapter": "chapter-12",
-          "chapterName": "প্রাণীর আচরণ"
-        }
-      ]
-    },
-    "hsc-biology-2nd-paper-whole-model-test-12": {
-      "questionCount": 25,
-      "scope": "wholeSyllabus",
-      "displayTitle": "Model Test 12",
-      "durationMinutes": 25,
-      "importance": "high",
-      "tags": [
-        "whole-syllabus",
-        "high-priority"
-      ],
-      "chaptersCovered": [
-        {
-          "chapter": "chapter-01",
-          "chapterName": "প্রাণীর বিভিন্নতা ও শ্রেণিবিন্যাস"
-        },
-        {
-          "chapter": "chapter-02",
-          "chapterName": "প্রাণীর পরিচিতি"
-        },
-        {
-          "chapter": "chapter-03",
-          "chapterName": "মানব শারীরতত্ত্ব: পরিপাক ও শোষণ"
-        },
-        {
-          "chapter": "chapter-04",
-          "chapterName": "মানব শারীরতত্ত্ব: রক্ত ও সঞ্চালন"
-        },
-        {
-          "chapter": "chapter-05",
-          "chapterName": "মানব শারীরতত্ত্ব: শ্বাসক্রিয়া ও শ্বসন"
-        },
-        {
-          "chapter": "chapter-06",
-          "chapterName": "মানব শারীরতত্ত্ব: বর্জ্য ও নিষ্কাশন"
-        },
-        {
-          "chapter": "chapter-07",
-          "chapterName": "মানব শারীরতত্ত্ব: চলন ও অঙ্গচালনা"
-        },
-        {
-          "chapter": "chapter-08",
-          "chapterName": "মানব শারীরতত্ত্ব: সমন্বয় ও নিয়ন্ত্রণ"
-        },
-        {
-          "chapter": "chapter-09",
-          "chapterName": "মানব জীবনের ধারাবাহিকতা"
-        },
-        {
-          "chapter": "chapter-10",
-          "chapterName": "মানবদেহের প্রতিরক্ষা"
-        },
-        {
-          "chapter": "chapter-11",
-          "chapterName": "জিনতত্ত্ব ও বিবর্তন"
-        },
-        {
-          "chapter": "chapter-12",
-          "chapterName": "প্রাণীর আচরণ"
-        }
-      ]
-    },
-    "hsc-biology-2nd-paper-whole-model-test-13": {
-      "questionCount": 25,
-      "scope": "wholeSyllabus",
-      "displayTitle": "Model Test 13",
-      "durationMinutes": 25,
-      "importance": "high",
-      "tags": [
-        "whole-syllabus",
-        "high-priority"
-      ],
-      "chaptersCovered": [
-        {
-          "chapter": "chapter-01",
-          "chapterName": "প্রাণীর বিভিন্নতা ও শ্রেণিবিন্যাস"
-        },
-        {
-          "chapter": "chapter-02",
-          "chapterName": "প্রাণীর পরিচিতি"
-        },
-        {
-          "chapter": "chapter-03",
-          "chapterName": "মানব শারীরতত্ত্ব: পরিপাক ও শোষণ"
-        },
-        {
-          "chapter": "chapter-04",
-          "chapterName": "মানব শারীরতত্ত্ব: রক্ত ও সঞ্চালন"
-        },
-        {
-          "chapter": "chapter-05",
-          "chapterName": "মানব শারীরতত্ত্ব: শ্বাসক্রিয়া ও শ্বসন"
-        },
-        {
-          "chapter": "chapter-06",
-          "chapterName": "মানব শারীরতত্ত্ব: বর্জ্য ও নিষ্কাশন"
-        },
-        {
-          "chapter": "chapter-07",
-          "chapterName": "মানব শারীরতত্ত্ব: চলন ও অঙ্গচালনা"
-        },
-        {
-          "chapter": "chapter-08",
-          "chapterName": "মানব শারীরতত্ত্ব: সমন্বয় ও নিয়ন্ত্রণ"
-        },
-        {
-          "chapter": "chapter-09",
-          "chapterName": "মানব জীবনের ধারাবাহিকতা"
-        },
-        {
-          "chapter": "chapter-10",
-          "chapterName": "মানবদেহের প্রতিরক্ষা"
-        },
-        {
-          "chapter": "chapter-11",
-          "chapterName": "জিনতত্ত্ব ও বিবর্তন"
-        },
-        {
-          "chapter": "chapter-12",
-          "chapterName": "প্রাণীর আচরণ"
-        }
-      ]
-    },
-    "hsc-biology-2nd-paper-whole-model-test-14": {
-      "questionCount": 25,
-      "scope": "wholeSyllabus",
-      "displayTitle": "Model Test 14",
-      "durationMinutes": 25,
-      "importance": "high",
-      "tags": [
-        "whole-syllabus",
-        "high-priority"
-      ],
-      "chaptersCovered": [
-        {
-          "chapter": "chapter-01",
-          "chapterName": "প্রাণীর বিভিন্নতা ও শ্রেণিবিন্যাস"
-        },
-        {
-          "chapter": "chapter-02",
-          "chapterName": "প্রাণীর পরিচিতি"
-        },
-        {
-          "chapter": "chapter-03",
-          "chapterName": "মানব শারীরতত্ত্ব: পরিপাক ও শোষণ"
-        },
-        {
-          "chapter": "chapter-04",
-          "chapterName": "মানব শারীরতত্ত্ব: রক্ত ও সঞ্চালন"
-        },
-        {
-          "chapter": "chapter-05",
-          "chapterName": "মানব শারীরতত্ত্ব: শ্বাসক্রিয়া ও শ্বসন"
-        },
-        {
-          "chapter": "chapter-06",
-          "chapterName": "মানব শারীরতত্ত্ব: বর্জ্য ও নিষ্কাশন"
-        },
-        {
-          "chapter": "chapter-07",
-          "chapterName": "মানব শারীরতত্ত্ব: চলন ও অঙ্গচালনা"
-        },
-        {
-          "chapter": "chapter-08",
-          "chapterName": "মানব শারীরতত্ত্ব: সমন্বয় ও নিয়ন্ত্রণ"
-        },
-        {
-          "chapter": "chapter-09",
-          "chapterName": "মানব জীবনের ধারাবাহিকতা"
-        },
-        {
-          "chapter": "chapter-10",
-          "chapterName": "মানবদেহের প্রতিরক্ষা"
-        },
-        {
-          "chapter": "chapter-11",
-          "chapterName": "জিনতত্ত্ব ও বিবর্তন"
-        },
-        {
-          "chapter": "chapter-12",
-          "chapterName": "প্রাণীর আচরণ"
-        }
-      ]
-    },
-    "hsc-biology-2nd-paper-whole-model-test-15": {
-      "questionCount": 25,
-      "scope": "wholeSyllabus",
-      "displayTitle": "Model Test 15",
-      "durationMinutes": 25,
-      "importance": "high",
-      "tags": [
-        "whole-syllabus",
-        "high-priority"
-      ],
-      "chaptersCovered": [
-        {
-          "chapter": "chapter-01",
-          "chapterName": "প্রাণীর বিভিন্নতা ও শ্রেণিবিন্যাস"
-        },
-        {
-          "chapter": "chapter-02",
-          "chapterName": "প্রাণীর পরিচিতি"
-        },
-        {
-          "chapter": "chapter-03",
-          "chapterName": "মানব শারীরতত্ত্ব: পরিপাক ও শোষণ"
-        },
-        {
-          "chapter": "chapter-04",
-          "chapterName": "মানব শারীরতত্ত্ব: রক্ত ও সঞ্চালন"
-        },
-        {
-          "chapter": "chapter-05",
-          "chapterName": "মানব শারীরতত্ত্ব: শ্বাসক্রিয়া ও শ্বসন"
-        },
-        {
-          "chapter": "chapter-06",
-          "chapterName": "মানব শারীরতত্ত্ব: বর্জ্য ও নিষ্কাশন"
-        },
-        {
-          "chapter": "chapter-07",
-          "chapterName": "মানব শারীরতত্ত্ব: চলন ও অঙ্গচালনা"
-        },
-        {
-          "chapter": "chapter-08",
-          "chapterName": "মানব শারীরতত্ত্ব: সমন্বয় ও নিয়ন্ত্রণ"
-        },
-        {
-          "chapter": "chapter-09",
-          "chapterName": "মানব জীবনের ধারাবাহিকতা"
-        },
-        {
-          "chapter": "chapter-10",
-          "chapterName": "মানবদেহের প্রতিরক্ষা"
-        },
-        {
-          "chapter": "chapter-11",
-          "chapterName": "জিনতত্ত্ব ও বিবর্তন"
-        },
-        {
-          "chapter": "chapter-12",
-          "chapterName": "প্রাণীর আচরণ"
-        }
       ]
     },
     "hsc-biology-2nd-paper-whole-model-test-16": {
@@ -1152,248 +105,763 @@
         }
       ]
     },
-    "hsc-biology-2nd-paper-whole-model-test-17": {
+    "hsc-biology-2nd-paper-chapter-01-high-priority-set-01": {
       "questionCount": 25,
-      "scope": "wholeSyllabus",
-      "displayTitle": "Model Test 17",
+      "scope": "chapter",
+      "displayTitle": "Chapter 01 Model Test 01",
       "durationMinutes": 25,
       "importance": "high",
       "tags": [
-        "whole-syllabus",
+        "chapter-wise",
         "high-priority"
       ],
       "chaptersCovered": [
         {
-          "chapter": "chapter-01",
+          "chapter": "01",
           "chapterName": "প্রাণীর বিভিন্নতা ও শ্রেণিবিন্যাস"
-        },
+        }
+      ]
+    },
+    "hsc-biology-2nd-paper-chapter-01-high-priority-set-02": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "Chapter 01 Model Test 02",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "high-priority"
+      ],
+      "chaptersCovered": [
         {
-          "chapter": "chapter-02",
-          "chapterName": "প্রাণীর পরিচিতি"
-        },
+          "chapter": "01",
+          "chapterName": "প্রাণীর বিভিন্নতা ও শ্রেণিবিন্যাস"
+        }
+      ]
+    },
+    "hsc-biology-2nd-paper-chapter-01-high-priority-set-03": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "Chapter 01 Model Test 03",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "high-priority"
+      ],
+      "chaptersCovered": [
         {
-          "chapter": "chapter-03",
+          "chapter": "01",
+          "chapterName": "প্রাণীর বিভিন্নতা ও শ্রেণিবিন্যাস"
+        }
+      ]
+    },
+    "hsc-biology-2nd-paper-chapter-02-high-priority-set-01": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "Chapter 02 Model Test 01",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "high-priority"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "02",
+          "chapterName": "প্রাণীর পরিচিতি: হাইড্রা ও ঘাসফড়িং"
+        }
+      ]
+    },
+    "hsc-biology-2nd-paper-chapter-03-high-priority-set-01": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "Chapter 03 Model Test 01",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "high-priority"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "03",
           "chapterName": "মানব শারীরতত্ত্ব: পরিপাক ও শোষণ"
-        },
+        }
+      ]
+    },
+    "hsc-biology-2nd-paper-chapter-03-high-priority-set-02": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "Chapter 03 Model Test 02",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "high-priority"
+      ],
+      "chaptersCovered": [
         {
-          "chapter": "chapter-04",
+          "chapter": "03",
+          "chapterName": "মানব শারীরতত্ত্ব: পরিপাক ও শোষণ"
+        }
+      ]
+    },
+    "hsc-biology-2nd-paper-chapter-04-high-priority-set-01": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "Chapter 04 Model Test 01",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "high-priority"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "04",
           "chapterName": "মানব শারীরতত্ত্ব: রক্ত ও সঞ্চালন"
-        },
+        }
+      ]
+    },
+    "hsc-biology-2nd-paper-chapter-04-high-priority-set-02": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "Chapter 04 Model Test 02",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "high-priority"
+      ],
+      "chaptersCovered": [
         {
-          "chapter": "chapter-05",
+          "chapter": "04",
+          "chapterName": "মানব শারীরতত্ত্ব: রক্ত ও সঞ্চালন"
+        }
+      ]
+    },
+    "hsc-biology-2nd-paper-chapter-04-high-priority-set-03": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "Chapter 04 Model Test 03",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "high-priority"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "04",
+          "chapterName": "মানব শারীরতত্ত্ব: রক্ত ও সঞ্চালন"
+        }
+      ]
+    },
+    "hsc-biology-2nd-paper-chapter-05-high-priority-set-01": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "Chapter 05 Model Test 01",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "high-priority"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "05",
           "chapterName": "মানব শারীরতত্ত্ব: শ্বাসক্রিয়া ও শ্বসন"
-        },
+        }
+      ]
+    },
+    "hsc-biology-2nd-paper-chapter-05-high-priority-set-02": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "Chapter 05 Model Test 02",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "high-priority"
+      ],
+      "chaptersCovered": [
         {
-          "chapter": "chapter-06",
+          "chapter": "05",
+          "chapterName": "মানব শারীরতত্ত্ব: শ্বাসক্রিয়া ও শ্বসন"
+        }
+      ]
+    },
+    "hsc-biology-2nd-paper-chapter-06-high-priority-set-01": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "Chapter 06 Model Test 01",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "high-priority"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "06",
           "chapterName": "মানব শারীরতত্ত্ব: বর্জ্য ও নিষ্কাশন"
-        },
+        }
+      ]
+    },
+    "hsc-biology-2nd-paper-chapter-07-high-priority-set-01": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "Chapter 07 Model Test 01",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "high-priority"
+      ],
+      "chaptersCovered": [
         {
-          "chapter": "chapter-07",
+          "chapter": "07",
           "chapterName": "মানব শারীরতত্ত্ব: চলন ও অঙ্গচালনা"
-        },
+        }
+      ]
+    },
+    "hsc-biology-2nd-paper-chapter-07-high-priority-set-02": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "Chapter 07 Model Test 02",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "high-priority"
+      ],
+      "chaptersCovered": [
         {
-          "chapter": "chapter-08",
+          "chapter": "07",
+          "chapterName": "মানব শারীরতত্ত্ব: চলন ও অঙ্গচালনা"
+        }
+      ]
+    },
+    "hsc-biology-2nd-paper-chapter-08-high-priority-set-01": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "Chapter 08 Model Test 01",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "high-priority"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "08",
           "chapterName": "মানব শারীরতত্ত্ব: সমন্বয় ও নিয়ন্ত্রণ"
-        },
+        }
+      ]
+    },
+    "hsc-biology-2nd-paper-chapter-10-high-priority-set-01": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "Chapter 10 Model Test 01",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "high-priority"
+      ],
+      "chaptersCovered": [
         {
-          "chapter": "chapter-09",
-          "chapterName": "মানব জীবনের ধারাবাহিকতা"
-        },
-        {
-          "chapter": "chapter-10",
+          "chapter": "10",
           "chapterName": "মানবদেহের প্রতিরক্ষা"
-        },
+        }
+      ]
+    },
+    "hsc-biology-2nd-paper-chapter-11-high-priority-set-01": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "Chapter 11 Model Test 01",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "high-priority"
+      ],
+      "chaptersCovered": [
         {
-          "chapter": "chapter-11",
+          "chapter": "11",
           "chapterName": "জিনতত্ত্ব ও বিবর্তন"
-        },
+        }
+      ]
+    },
+    "hsc-biology-2nd-paper-chapter-01-high-priority-set-04": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "Chapter 01 Model Test 04",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "high-priority"
+      ],
+      "chaptersCovered": [
         {
-          "chapter": "chapter-12",
+          "chapter": "01",
+          "chapterName": "প্রাণীর বিভিন্নতা ও শ্রেণিবিন্যাস"
+        }
+      ]
+    },
+    "hsc-biology-2nd-paper-chapter-01-high-priority-set-05": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "Chapter 01 Model Test 05",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "high-priority"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "01",
+          "chapterName": "প্রাণীর বিভিন্নতা ও শ্রেণিবিন্যাস"
+        }
+      ]
+    },
+    "hsc-biology-2nd-paper-chapter-02-high-priority-set-02": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "Chapter 02 Model Test 02",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "high-priority"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "02",
+          "chapterName": "প্রাণীর পরিচিতি: হাইড্রা ও ঘাসফড়িং"
+        }
+      ]
+    },
+    "hsc-biology-2nd-paper-chapter-02-high-priority-set-03": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "Chapter 02 Model Test 03",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "high-priority"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "02",
+          "chapterName": "প্রাণীর পরিচিতি: হাইড্রা ও ঘাসফড়িং"
+        }
+      ]
+    },
+    "hsc-biology-2nd-paper-chapter-02-high-priority-set-04": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "Chapter 02 Model Test 04",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "high-priority"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "02",
+          "chapterName": "প্রাণীর পরিচিতি: হাইড্রা ও ঘাসফড়িং"
+        }
+      ]
+    },
+    "hsc-biology-2nd-paper-chapter-02-high-priority-set-05": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "Chapter 02 Model Test 05",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "high-priority"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "02",
+          "chapterName": "প্রাণীর পরিচিতি: হাইড্রা ও ঘাসফড়িং"
+        }
+      ]
+    },
+    "hsc-biology-2nd-paper-chapter-04-high-priority-set-04": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "Chapter 04 Model Test 04",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "high-priority"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "04",
+          "chapterName": "মানব শারীরতত্ত্ব: রক্ত ও সঞ্চালন"
+        }
+      ]
+    },
+    "hsc-biology-2nd-paper-chapter-04-high-priority-set-05": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "Chapter 04 Model Test 05",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "high-priority"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "04",
+          "chapterName": "মানব শারীরতত্ত্ব: রক্ত ও সঞ্চালন"
+        }
+      ]
+    },
+    "hsc-biology-2nd-paper-chapter-05-high-priority-set-03": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "Chapter 05 Model Test 03",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "high-priority"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "05",
+          "chapterName": "মানব শারীরতত্ত্ব: শ্বাসক্রিয়া ও শ্বসন"
+        }
+      ]
+    },
+    "hsc-biology-2nd-paper-chapter-05-high-priority-set-04": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "Chapter 05 Model Test 04",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "high-priority"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "05",
+          "chapterName": "মানব শারীরতত্ত্ব: শ্বাসক্রিয়া ও শ্বসন"
+        }
+      ]
+    },
+    "hsc-biology-2nd-paper-chapter-05-high-priority-set-05": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "Chapter 05 Model Test 05",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "high-priority"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "05",
+          "chapterName": "মানব শারীরতত্ত্ব: শ্বাসক্রিয়া ও শ্বসন"
+        }
+      ]
+    },
+    "hsc-biology-2nd-paper-chapter-07-high-priority-set-03": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "Chapter 07 Model Test 03",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "high-priority"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "07",
+          "chapterName": "মানব শারীরতত্ত্ব: চলন ও অঙ্গচালনা"
+        }
+      ]
+    },
+    "hsc-biology-2nd-paper-chapter-07-high-priority-set-04": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "Chapter 07 Model Test 04",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "high-priority"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "07",
+          "chapterName": "মানব শারীরতত্ত্ব: চলন ও অঙ্গচালনা"
+        }
+      ]
+    },
+    "hsc-biology-2nd-paper-chapter-07-high-priority-set-05": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "Chapter 07 Model Test 05",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "high-priority"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "07",
+          "chapterName": "মানব শারীরতত্ত্ব: চলন ও অঙ্গচালনা"
+        }
+      ]
+    },
+    "hsc-biology-2nd-paper-chapter-08-high-priority-set-02": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "Chapter 08 Model Test 02",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "high-priority"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "08",
+          "chapterName": "মানব শারীরতত্ত্ব: সমন্বয় ও নিয়ন্ত্রণ"
+        }
+      ]
+    },
+    "hsc-biology-2nd-paper-chapter-08-high-priority-set-03": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "Chapter 08 Model Test 03",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "high-priority"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "08",
+          "chapterName": "মানব শারীরতত্ত্ব: সমন্বয় ও নিয়ন্ত্রণ"
+        }
+      ]
+    },
+    "hsc-biology-2nd-paper-chapter-08-high-priority-set-04": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "Chapter 08 Model Test 04",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "high-priority"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "08",
+          "chapterName": "মানব শারীরতত্ত্ব: সমন্বয় ও নিয়ন্ত্রণ"
+        }
+      ]
+    },
+    "hsc-biology-2nd-paper-chapter-08-high-priority-set-05": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "Chapter 08 Model Test 05",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "high-priority"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "08",
+          "chapterName": "মানব শারীরতত্ত্ব: সমন্বয় ও নিয়ন্ত্রণ"
+        }
+      ]
+    },
+    "hsc-biology-2nd-paper-chapter-09-high-priority-set-01": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "Chapter 09 Model Test 01",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "high-priority"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "09",
+          "chapterName": "মানব জীবনের ধারাবাহিকতা"
+        }
+      ]
+    },
+    "hsc-biology-2nd-paper-chapter-12-high-priority-set-01": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "Chapter 12 Model Test 01",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "high-priority"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "12",
           "chapterName": "প্রাণীর আচরণ"
         }
       ]
     },
-    "hsc-biology-2nd-paper-whole-model-test-18": {
+    "hsc-biology-2nd-paper-board-analyzed-premium-set-01": {
       "questionCount": 25,
-      "scope": "wholeSyllabus",
-      "displayTitle": "Model Test 18",
+      "scope": "paper",
+      "displayTitle": "Board Analyzed Premium Set 01",
       "durationMinutes": 25,
       "importance": "high",
       "tags": [
-        "whole-syllabus",
+        "board-analyzed",
+        "premium",
+        "paper-wise",
         "high-priority"
-      ],
-      "chaptersCovered": [
-        {
-          "chapter": "chapter-01",
-          "chapterName": "প্রাণীর বিভিন্নতা ও শ্রেণিবিন্যাস"
-        },
-        {
-          "chapter": "chapter-02",
-          "chapterName": "প্রাণীর পরিচিতি"
-        },
-        {
-          "chapter": "chapter-03",
-          "chapterName": "মানব শারীরতত্ত্ব: পরিপাক ও শোষণ"
-        },
-        {
-          "chapter": "chapter-04",
-          "chapterName": "মানব শারীরতত্ত্ব: রক্ত ও সঞ্চালন"
-        },
-        {
-          "chapter": "chapter-05",
-          "chapterName": "মানব শারীরতত্ত্ব: শ্বাসক্রিয়া ও শ্বসন"
-        },
-        {
-          "chapter": "chapter-06",
-          "chapterName": "মানব শারীরতত্ত্ব: বর্জ্য ও নিষ্কাশন"
-        },
-        {
-          "chapter": "chapter-07",
-          "chapterName": "মানব শারীরতত্ত্ব: চলন ও অঙ্গচালনা"
-        },
-        {
-          "chapter": "chapter-08",
-          "chapterName": "মানব শারীরতত্ত্ব: সমন্বয় ও নিয়ন্ত্রণ"
-        },
-        {
-          "chapter": "chapter-09",
-          "chapterName": "মানব জীবনের ধারাবাহিকতা"
-        },
-        {
-          "chapter": "chapter-10",
-          "chapterName": "মানবদেহের প্রতিরক্ষা"
-        },
-        {
-          "chapter": "chapter-11",
-          "chapterName": "জিনতত্ত্ব ও বিবর্তন"
-        },
-        {
-          "chapter": "chapter-12",
-          "chapterName": "প্রাণীর আচরণ"
-        }
       ]
     },
-    "hsc-biology-2nd-paper-whole-model-test-19": {
+    "hsc-biology-2nd-paper-board-analyzed-premium-set-02": {
       "questionCount": 25,
-      "scope": "wholeSyllabus",
-      "displayTitle": "Model Test 19",
+      "scope": "paper",
+      "displayTitle": "Board Analyzed Premium Set 02",
       "durationMinutes": 25,
       "importance": "high",
       "tags": [
-        "whole-syllabus",
+        "board-analyzed",
+        "premium",
+        "paper-wise",
         "high-priority"
-      ],
-      "chaptersCovered": [
-        {
-          "chapter": "chapter-01",
-          "chapterName": "প্রাণীর বিভিন্নতা ও শ্রেণিবিন্যাস"
-        },
-        {
-          "chapter": "chapter-02",
-          "chapterName": "প্রাণীর পরিচিতি"
-        },
-        {
-          "chapter": "chapter-03",
-          "chapterName": "মানব শারীরতত্ত্ব: পরিপাক ও শোষণ"
-        },
-        {
-          "chapter": "chapter-04",
-          "chapterName": "মানব শারীরতত্ত্ব: রক্ত ও সঞ্চালন"
-        },
-        {
-          "chapter": "chapter-05",
-          "chapterName": "মানব শারীরতত্ত্ব: শ্বাসক্রিয়া ও শ্বসন"
-        },
-        {
-          "chapter": "chapter-06",
-          "chapterName": "মানব শারীরতত্ত্ব: বর্জ্য ও নিষ্কাশন"
-        },
-        {
-          "chapter": "chapter-07",
-          "chapterName": "মানব শারীরতত্ত্ব: চলন ও অঙ্গচালনা"
-        },
-        {
-          "chapter": "chapter-08",
-          "chapterName": "মানব শারীরতত্ত্ব: সমন্বয় ও নিয়ন্ত্রণ"
-        },
-        {
-          "chapter": "chapter-09",
-          "chapterName": "মানব জীবনের ধারাবাহিকতা"
-        },
-        {
-          "chapter": "chapter-10",
-          "chapterName": "মানবদেহের প্রতিরক্ষা"
-        },
-        {
-          "chapter": "chapter-11",
-          "chapterName": "জিনতত্ত্ব ও বিবর্তন"
-        },
-        {
-          "chapter": "chapter-12",
-          "chapterName": "প্রাণীর আচরণ"
-        }
       ]
     },
-    "hsc-biology-2nd-paper-whole-model-test-20": {
+    "hsc-biology-2nd-paper-board-analyzed-premium-set-03": {
       "questionCount": 25,
-      "scope": "wholeSyllabus",
-      "displayTitle": "Model Test 20",
+      "scope": "paper",
+      "displayTitle": "Board Analyzed Premium Set 03",
       "durationMinutes": 25,
       "importance": "high",
       "tags": [
-        "whole-syllabus",
+        "board-analyzed",
+        "premium",
+        "paper-wise",
         "high-priority"
-      ],
-      "chaptersCovered": [
-        {
-          "chapter": "chapter-01",
-          "chapterName": "প্রাণীর বিভিন্নতা ও শ্রেণিবিন্যাস"
-        },
-        {
-          "chapter": "chapter-02",
-          "chapterName": "প্রাণীর পরিচিতি"
-        },
-        {
-          "chapter": "chapter-03",
-          "chapterName": "মানব শারীরতত্ত্ব: পরিপাক ও শোষণ"
-        },
-        {
-          "chapter": "chapter-04",
-          "chapterName": "মানব শারীরতত্ত্ব: রক্ত ও সঞ্চালন"
-        },
-        {
-          "chapter": "chapter-05",
-          "chapterName": "মানব শারীরতত্ত্ব: শ্বাসক্রিয়া ও শ্বসন"
-        },
-        {
-          "chapter": "chapter-06",
-          "chapterName": "মানব শারীরতত্ত্ব: বর্জ্য ও নিষ্কাশন"
-        },
-        {
-          "chapter": "chapter-07",
-          "chapterName": "মানব শারীরতত্ত্ব: চলন ও অঙ্গচালনা"
-        },
-        {
-          "chapter": "chapter-08",
-          "chapterName": "মানব শারীরতত্ত্ব: সমন্বয় ও নিয়ন্ত্রণ"
-        },
-        {
-          "chapter": "chapter-09",
-          "chapterName": "মানব জীবনের ধারাবাহিকতা"
-        },
-        {
-          "chapter": "chapter-10",
-          "chapterName": "মানবদেহের প্রতিরক্ষা"
-        },
-        {
-          "chapter": "chapter-11",
-          "chapterName": "জিনতত্ত্ব ও বিবর্তন"
-        },
-        {
-          "chapter": "chapter-12",
-          "chapterName": "প্রাণীর আচরণ"
-        }
+      ]
+    },
+    "hsc-biology-2nd-paper-board-analyzed-premium-set-04": {
+      "questionCount": 25,
+      "scope": "paper",
+      "displayTitle": "Board Analyzed Premium Set 04",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "board-analyzed",
+        "premium",
+        "paper-wise",
+        "high-priority"
+      ]
+    },
+    "hsc-biology-2nd-paper-board-analyzed-premium-set-05": {
+      "questionCount": 25,
+      "scope": "paper",
+      "displayTitle": "Board Analyzed Premium Set 05",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "board-analyzed",
+        "premium",
+        "paper-wise",
+        "high-priority"
+      ]
+    },
+    "hsc-biology-2nd-paper-board-analyzed-premium-set-06": {
+      "questionCount": 25,
+      "scope": "paper",
+      "displayTitle": "Board Analyzed Premium Set 06",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "board-analyzed",
+        "premium",
+        "paper-wise",
+        "high-priority"
+      ]
+    },
+    "hsc-biology-2nd-paper-board-analyzed-premium-set-07": {
+      "questionCount": 25,
+      "scope": "paper",
+      "displayTitle": "Board Analyzed Premium Set 07",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "board-analyzed",
+        "premium",
+        "paper-wise",
+        "high-priority"
+      ]
+    },
+    "hsc-biology-2nd-paper-board-analyzed-premium-set-08": {
+      "questionCount": 25,
+      "scope": "paper",
+      "displayTitle": "Board Analyzed Premium Set 08",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "board-analyzed",
+        "premium",
+        "paper-wise",
+        "high-priority"
+      ]
+    },
+    "hsc-biology-2nd-paper-board-analyzed-premium-set-09": {
+      "questionCount": 25,
+      "scope": "paper",
+      "displayTitle": "Board Analyzed Premium Set 09",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "board-analyzed",
+        "premium",
+        "paper-wise",
+        "high-priority"
+      ]
+    },
+    "hsc-biology-2nd-paper-board-analyzed-premium-set-10": {
+      "questionCount": 25,
+      "scope": "paper",
+      "displayTitle": "Board Analyzed Premium Set 10",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "board-analyzed",
+        "premium",
+        "paper-wise",
+        "high-priority"
       ]
     }
   }

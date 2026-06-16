@@ -1,0 +1,282 @@
+{
+  "setId": "chapter-05-split-01",
+  "reason": "DUPLICATE_OF_chapter-05-split-01",
+  "quarantinedAt": "2026-06-16T10:44:45.128Z",
+  "questions": [
+    {
+      "id": "chapter-05-split-01-q01",
+      "questionText": "প্রাকৃতিক গ্যাসের প্রধান উপাদান কোনটি?",
+      "optionA": "ইথেন",
+      "optionB": "মিথেন",
+      "optionC": "প্রোপেন",
+      "optionD": "বিউটেন",
+      "correctOption": "B",
+      "explanation": "সঠিক উত্তর: B (মিথেন)",
+      "questionNo": 1
+    },
+    {
+      "id": "chapter-05-split-01-q02",
+      "questionText": "বাংলাদেশে প্রাপ্ত প্রাকৃতিক গ্যাসে মিথেনের (CH₄) পরিমাণ প্রায় কত?",
+      "optionA": "৭০-৮০%",
+      "optionB": "৮০-৯০%",
+      "optionC": "৯৫-৯৯.৯৯%",
+      "optionD": "৫০-৬০%",
+      "correctOption": "C",
+      "explanation": "সঠিক উত্তর: C (৯৫-৯৯.৯৯%)",
+      "questionNo": 2
+    },
+    {
+      "id": "chapter-05-split-01-q03",
+      "questionText": "সবচেয়ে উন্নত মানের কয়লা (যাতে কার্বনের পরিমাণ সবচেয়ে বেশি) কোনটি?",
+      "optionA": "পিট",
+      "optionB": "লিগনাইট",
+      "optionC": "বিটুমিনাস",
+      "optionD": "অ্যানথ্রাসাইট",
+      "correctOption": "D",
+      "explanation": "সঠিক উত্তর: D (অ্যানথ্রাসাইট)",
+      "questionNo": 3
+    },
+    {
+      "id": "chapter-05-split-01-q04",
+      "questionText": "কোন কয়লায় কার্বনের পরিমাণ সবচেয়ে কম থাকে?",
+      "optionA": "পিট",
+      "optionB": "লিগনাইট",
+      "optionC": "অ্যানথ্রাসাইট",
+      "optionD": "কোক",
+      "correctOption": "A",
+      "explanation": "সঠিক উত্তর: A (পিট)",
+      "questionNo": 4
+    },
+    {
+      "id": "chapter-05-split-01-q05",
+      "questionText": "অ্যানথ্রাসাইট কয়লায় কার্বনের শতকরা পরিমাণ কত?",
+      "optionA": "৫০-৬০%",
+      "optionB": "৬০-৭০%",
+      "optionC": "৭০-৮০%",
+      "optionD": "৮৫-৯৫%",
+      "correctOption": "D",
+      "explanation": "সঠিক উত্তর: D (৮৫-৯৫%)",
+      "questionNo": 5
+    },
+    {
+      "id": "chapter-05-split-01-q06",
+      "questionText": "বায়োগ্যাসের প্রধান উপাদান কোনটি?",
+      "optionA": "কার্বন ডাইঅক্সাইড",
+      "optionB": "মিথেন",
+      "optionC": "হাইড্রোজেন সালফাইড",
+      "optionD": "নাইট্রোজেন",
+      "correctOption": "B",
+      "explanation": "সঠিক উত্তর: B (মিথেন)",
+      "questionNo": 6
+    },
+    {
+      "id": "chapter-05-split-01-q07",
+      "questionText": "বায়োগ্যাসে মিথেনের শতকরা হার কত?",
+      "optionA": "৩০-৪০%",
+      "optionB": "৬০-৭০%",
+      "optionC": "৮০-৯০%",
+      "optionD": "৯৫-৯৯%",
+      "correctOption": "B",
+      "explanation": "সঠিক উত্তর: B (৬০-৭০%)",
+      "questionNo": 7
+    },
+    {
+      "id": "chapter-05-split-01-q08",
+      "questionText": "সিএনজি (CNG) এর পূর্ণরূপ কী?",
+      "optionA": "Compressed Natural Gas",
+      "optionB": "Carbon Natural Gas",
+      "optionC": "Common Natural Gas",
+      "optionD": "Combustible Natural Gas",
+      "correctOption": "A",
+      "explanation": "সঠিক উত্তর: A (Compressed Natural Gas)",
+      "questionNo": 8
+    },
+    {
+      "id": "chapter-05-split-01-q09",
+      "questionText": "এলপিজি (LPG) এর প্রধান উপাদান কী কী?",
+      "optionA": "মিথেন ও ইথেন",
+      "optionB": "বিউটেন ও প্রোপেন",
+      "optionC": "মিথেন ও বিউটেন",
+      "optionD": "প্রোপেন ও হেক্সেন",
+      "correctOption": "B",
+      "explanation": "সঠিক উত্তর: B (বিউটেন ও প্রোপেন)",
+      "questionNo": 9
+    },
+    {
+      "id": "chapter-05-split-01-q10",
+      "questionText": "পেট্রোলিয়াম শোধনে আংশিক পাতনের সময় সবচেয়ে কম তাপমাত্রায় (20°C এর নিচে) কোনটি পাওয়া যায়?",
+      "optionA": "পেট্রোল বা গ্যাসোলিন",
+      "optionB": "কেরোসিন",
+      "optionC": "পেট্রোলিয়াম গ্যাস",
+      "optionD": "ডিজেল",
+      "correctOption": "C",
+      "explanation": "সঠিক উত্তর: C (পেট্রোলিয়াম গ্যাস)",
+      "questionNo": 10
+    },
+    {
+      "id": "chapter-05-split-01-q11",
+      "questionText": "হেবার প্রণালীতে অ্যামোনিয়া (NH₃) উৎপাদনে প্রভাবক হিসেবে কোনটি ব্যবহৃত হয়?",
+      "optionA": "V₂O₅",
+      "optionB": "Ni চূর্ণ",
+      "optionC": "Pt চূর্ণ",
+      "optionD": "Fe (আয়রন) চূর্ণ",
+      "correctOption": "D",
+      "explanation": "সঠিক উত্তর: D (Fe (আয়রন) চূর্ণ)",
+      "questionNo": 11
+    },
+    {
+      "id": "chapter-05-split-01-q12",
+      "questionText": "হেবার প্রণালীতে অ্যামোনিয়া উৎপাদনে প্রভাবক সহায়ক (Promoter) হিসেবে কোনটি ব্যবহৃত হয়?",
+      "optionA": "Mo (মলিবডেনাম) বা Al₂O₃",
+      "optionB": "Fe",
+      "optionC": "Ni",
+      "optionD": "Cu",
+      "correctOption": "A",
+      "explanation": "সঠিক উত্তর: A (Mo (মলিবডেনাম) বা Al₂O₃)",
+      "questionNo": 12
+    },
+    {
+      "id": "chapter-05-split-01-q13",
+      "questionText": "হেবার প্রণালীতে অ্যামোনিয়া উৎপাদনের জন্য অনুকূল তাপমাত্রা কত?",
+      "optionA": "200 - 300 °C",
+      "optionB": "450 - 500 °C",
+      "optionC": "700 - 800 °C",
+      "optionD": "1000 °C",
+      "correctOption": "B",
+      "explanation": "সঠিক উত্তর: B (450 - 500 °C)",
+      "questionNo": 13
+    },
+    {
+      "id": "chapter-05-split-01-q14",
+      "questionText": "হেবার প্রণালীতে অ্যামোনিয়া উৎপাদনের জন্য অনুকূল চাপ কত?",
+      "optionA": "10 - 20 atm",
+      "optionB": "50 - 100 atm",
+      "optionC": "200 - 250 atm",
+      "optionD": "500 atm",
+      "correctOption": "C",
+      "explanation": "সঠিক উত্তর: C (200 - 250 atm)",
+      "questionNo": 14
+    },
+    {
+      "id": "chapter-05-split-01-q15",
+      "questionText": "ইউরিয়া (Urea) সারের প্রধান কাঁচামাল কোনটি?",
+      "optionA": "কয়লা",
+      "optionB": "প্রাকৃতিক গ্যাস (মিথেন)",
+      "optionC": "পেট্রোলিয়াম",
+      "optionD": "জিপসাম",
+      "correctOption": "B",
+      "explanation": "সঠিক উত্তর: B (প্রাকৃতিক গ্যাস (মিথেন) (এখান থেকে অ্যামোনিয়া ও কার্বন ডাইঅক্সাইড তৈরি করা হয়))",
+      "questionNo": 15
+    },
+    {
+      "id": "chapter-05-split-01-q16",
+      "questionText": "সিনগ্যাস বা ওয়াটার গ্যাস (Synthesis gas) কোন দুটি গ্যাসের মিশ্রণ?",
+      "optionA": "CO ও H₂",
+      "optionB": "CO₂ ও H₂",
+      "optionC": "CO ও N₂",
+      "optionD": "CH₄ ও CO",
+      "correctOption": "A",
+      "explanation": "সঠিক উত্তর: A (CO ও H₂)",
+      "questionNo": 16
+    },
+    {
+      "id": "chapter-05-split-01-q17",
+      "questionText": "ইউরিয়া সারে নাইট্রোজেনের (N₂) শতকরা পরিমাণ কত?",
+      "optionA": "৩০%",
+      "optionB": "৪০%",
+      "optionC": "৪৬%",
+      "optionD": "৬০%",
+      "correctOption": "C",
+      "explanation": "সঠিক উত্তর: C (৪৬%)",
+      "questionNo": 17
+    },
+    {
+      "id": "chapter-05-split-01-q18",
+      "questionText": "ইউরিয়া উৎপাদনে রিঅ্যাক্টরে কত তাপমাত্রা প্রয়োজন?",
+      "optionA": "100 - 120 °C",
+      "optionB": "130 - 150 °C (বা 170-190 °C)",
+      "optionC": "200 - 250 °C",
+      "optionD": "300 °C",
+      "correctOption": "B",
+      "explanation": "সঠিক উত্তর: B (130 - 150 °C (বা 170-190 °C))",
+      "questionNo": 18
+    },
+    {
+      "id": "chapter-05-split-01-q19",
+      "questionText": "ইউরিয়া উৎপাদনে কত চাপ প্রয়োজন?",
+      "optionA": "50 atm",
+      "optionB": "100 atm",
+      "optionC": "130 - 150 atm",
+      "optionD": "250 atm",
+      "correctOption": "C",
+      "explanation": "সঠিক উত্তর: C (130 - 150 atm)",
+      "questionNo": 19
+    },
+    {
+      "id": "chapter-05-split-01-q20",
+      "questionText": "কাঁচের (Glass) প্রধান উপাদান কোনটি?",
+      "optionA": "ক্যালসিয়াম কার্বনেট",
+      "optionB": "সিলিকা (SiO₂)",
+      "optionC": "অ্যালুমিনা",
+      "optionD": "সোডিয়াম কার্বনেট",
+      "correctOption": "B",
+      "explanation": "সঠিক উত্তর: B (সিলিকা (SiO₂))",
+      "questionNo": 20
+    },
+    {
+      "id": "chapter-05-split-01-q21",
+      "questionText": "সাধারণ কাঁচের (Soft glass) রাসায়নিক সংকেত কোনটি?",
+      "optionA": "Na₂O.CaO.6SiO₂",
+      "optionB": "K₂O.CaO.6SiO₂",
+      "optionC": "Na₂O.PbO.6SiO₂",
+      "optionD": "Al₂O₃.2SiO₂.2H₂O",
+      "correctOption": "A",
+      "explanation": "সঠিক উত্তর: A (Na₂O.CaO.6SiO₂)",
+      "questionNo": 21
+    },
+    {
+      "id": "chapter-05-split-01-q22",
+      "questionText": "পাইরেক্স বা বোরোসিলিকেট (Pyrex) কাঁচ তৈরিতে সিলিকার সাথে কোনটি ব্যবহৃত হয়?",
+      "optionA": "PbO",
+      "optionB": "B₂O₃ (বোরন ট্রাইঅক্সাইড)",
+      "optionC": "Al₂O₃",
+      "optionD": "ZnO",
+      "correctOption": "B",
+      "explanation": "সঠিক উত্তর: B (B₂O₃ (বোরন ট্রাইঅক্সাইড))",
+      "questionNo": 22
+    },
+    {
+      "id": "chapter-05-split-01-q23",
+      "questionText": "কাঁচকে নীল বর্ণ করতে কোন অবস্থান্তর ধাতুর অক্সাইড মেশানো হয়?",
+      "optionA": "Cr₂O₃",
+      "optionB": "CoO (কোবাল্ট অক্সাইড)",
+      "optionC": "Cu₂O",
+      "optionD": "Fe₂O₃",
+      "correctOption": "B",
+      "explanation": "সঠিক উত্তর: B (CoO (কোবাল্ট অক্সাইড))",
+      "questionNo": 23
+    },
+    {
+      "id": "chapter-05-split-01-q24",
+      "questionText": "কাঁচকে লাল বর্ণ করতে কোনটি মেশানো হয়?",
+      "optionA": "CoO",
+      "optionB": "Cu₂O বা Se",
+      "optionC": "Cr₂O₃",
+      "optionD": "NiO",
+      "correctOption": "B",
+      "explanation": "সঠিক উত্তর: B (Cu₂O বা Se)",
+      "questionNo": 24
+    },
+    {
+      "id": "chapter-05-split-01-q25",
+      "questionText": "রঙিন কাঁচ তৈরিতে মূলত কী ব্যবহৃত হয়?",
+      "optionA": "ক্ষার ধাতু",
+      "optionB": "মৃতক্ষার ধাতু",
+      "optionC": "অবস্থান্তর ধাতুর অক্সাইড",
+      "optionD": "হ্যালোজেন",
+      "correctOption": "C",
+      "explanation": "সঠিক উত্তর: C (অবস্থান্তর ধাতুর অক্সাইড)",
+      "questionNo": 25
+    }
+  ]
+}

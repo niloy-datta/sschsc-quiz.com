@@ -1,0 +1,282 @@
+{
+  "setId": "chapter-06-split-01",
+  "reason": "DUPLICATE_OF_chapter-06-split-01",
+  "quarantinedAt": "2026-06-16T10:44:44.887Z",
+  "questions": [
+    {
+      "id": "chapter-06-split-01-q01",
+      "questionText": "দুটি বস্তুর মধ্যবর্তী দূরত্ব অর্ধেক করা হলে তাদের মধ্যকার মহাকর্ষ বল কতগুণ হবে?",
+      "optionA": "অর্ধেক",
+      "optionB": "দ্বিগুণ",
+      "optionC": "চারগুণ",
+      "optionD": "এক-চতুর্থাংশ",
+      "correctOption": "C",
+      "explanation": "",
+      "questionNo": 1
+    },
+    {
+      "id": "chapter-06-split-01-q02",
+      "questionText": "মহাকর্ষ বল কোন প্রকৃতির বল?",
+      "optionA": "কেবল আকর্ষণধর্মী",
+      "optionB": "কেবল বিকর্ষণধর্মী",
+      "optionC": "আকর্ষণ ও বিকর্ষণ উভয়ই",
+      "optionD": "অসংরক্ষণশীল",
+      "correctOption": "A",
+      "explanation": "",
+      "questionNo": 2
+    },
+    {
+      "id": "chapter-06-split-01-q03",
+      "questionText": "'G' এর মান সর্বপ্রথম কে ল্যাবরেটরিতে নির্ণয় করেন?",
+      "optionA": "নিউটন",
+      "optionB": "ক্যাভেন্ডিস",
+      "optionC": "গ্যালিলিও",
+      "optionD": "কেপলার",
+      "correctOption": "B",
+      "explanation": "",
+      "questionNo": 3
+    },
+    {
+      "id": "chapter-06-split-01-q04",
+      "questionText": "মহাকর্ষ বল—",
+      "optionA": "মাধ্যমের প্রকৃতির উপর নির্ভর করে",
+      "optionB": "বস্তুর ভরের উপর নির্ভর করে না",
+      "optionC": "সংরক্ষী বল",
+      "optionD": "স্বল্প পাল্লার বল",
+      "correctOption": "C",
+      "explanation": "",
+      "questionNo": 4
+    },
+    {
+      "id": "chapter-06-split-01-q05",
+      "questionText": "পৃথিবীর ঘূর্ণন থেমে গেলে বিষুবীয় অঞ্চলে কোনো বস্তুর ওজন কী হবে?",
+      "optionA": "কমে যাবে",
+      "optionB": "বেড়ে যাবে",
+      "optionC": "অপরিবর্তিত থাকবে",
+      "optionD": "শূন্য হবে",
+      "correctOption": "B",
+      "explanation": "",
+      "questionNo": 5
+    },
+    {
+      "id": "chapter-06-split-01-q06",
+      "questionText": "পৃথিবীর আকৃতি সম্পূর্ণ গোলাকার না হওয়ায় মেরু অঞ্চলে $g$ এর মান—",
+      "optionA": "সবচেয়ে কম",
+      "optionB": "সবচেয়ে বেশি",
+      "optionC": "শূন্য",
+      "optionD": "বিষুবীয় অঞ্চলের সমান",
+      "correctOption": "B",
+      "explanation": "",
+      "questionNo": 6
+    },
+    {
+      "id": "chapter-06-split-01-q07",
+      "questionText": "একটি খনির গভীরে কোনো বস্তুর ওজন ভূ-পৃষ্ঠের ওজনের তুলনায় কেমন হবে?",
+      "optionA": "বেশি",
+      "optionB": "কম",
+      "optionC": "সমান",
+      "optionD": "অসীম",
+      "correctOption": "B",
+      "explanation": "",
+      "questionNo": 7
+    },
+    {
+      "id": "chapter-06-split-01-q08",
+      "questionText": "পৃথিবীর ভর ঠিক রেখে ব্যাসার্ধ অর্ধেক করা হলে ভূ-পৃষ্ঠে $g$ এর মান কতগুণ হবে?",
+      "optionA": "অর্ধেক",
+      "optionB": "দ্বিগুণ",
+      "optionC": "চারগুণ",
+      "optionD": "এক-চতুর্থাংশ",
+      "correctOption": "C",
+      "explanation": "",
+      "questionNo": 8
+    },
+    {
+      "id": "chapter-06-split-01-q09",
+      "questionText": "পৃথিবীর ঘনত্ব ঠিক রেখে ব্যাসার্ধ দ্বিগুণ করা হলে ভূ-পৃষ্ঠে $g$ এর মান কতগুণ হবে?",
+      "optionA": "অর্ধেক",
+      "optionB": "দ্বিগুণ",
+      "optionC": "চারগুণ",
+      "optionD": "অপরিবর্তিত থাকবে",
+      "correctOption": "B",
+      "explanation": "",
+      "questionNo": 9
+    },
+    {
+      "id": "chapter-06-split-01-q10",
+      "questionText": "ভূ-পৃষ্ঠ থেকে $h$ উচ্চতায় এবং $h$ গভীরতায় $g$ এর মান সমান হলে, $h$ এর মান কত? ($h$ অনেক ছোট হলে)",
+      "optionA": "$d = h$",
+      "optionB": "$d = 2h$",
+      "optionC": "$d = h/2$",
+      "optionD": "$d = h^2$",
+      "correctOption": "B",
+      "explanation": "",
+      "questionNo": 10
+    },
+    {
+      "id": "chapter-06-split-01-q11",
+      "questionText": "কোনো বস্তুর ওজন কোথায় শূন্য হয়?",
+      "optionA": "চাঁদে",
+      "optionB": "পৃথিবীর কেন্দ্রে",
+      "optionC": "মেরুতে",
+      "optionD": "খনির গভীরে",
+      "correctOption": "B",
+      "explanation": "",
+      "questionNo": 11
+    },
+    {
+      "id": "chapter-06-split-01-q12",
+      "questionText": "গ্রহের গতির ক্ষেত্রে কেপলারের প্রথম সূত্র কী নামে পরিচিত?",
+      "optionA": "ক্ষেত্রফলের সূত্র",
+      "optionB": "কক্ষপথের সূত্র",
+      "optionC": "আবর্তনকালের সূত্র",
+      "optionD": "মহাকর্ষ সূত্র",
+      "correctOption": "B",
+      "explanation": "",
+      "questionNo": 12
+    },
+    {
+      "id": "chapter-06-split-01-q13",
+      "questionText": "কেপলারের প্রথম সূত্র অনুযায়ী গ্রহগুলোর কক্ষপথ কীরূপ?",
+      "optionA": "বৃত্তাকার",
+      "optionB": "পরাবৃত্তাকার",
+      "optionC": "উপবৃত্তাকার",
+      "optionD": "অধিবৃত্তাকার",
+      "correctOption": "C",
+      "explanation": "",
+      "questionNo": 13
+    },
+    {
+      "id": "chapter-06-split-01-q14",
+      "questionText": "কেপলারের দ্বিতীয় সূত্র (Law of Areas) পদার্থবিজ্ঞানের কোন সংরক্ষণশীলতা নীতির প্রমাণ?",
+      "optionA": "রৈখিক ভরবেগ",
+      "optionB": "গতিশক্তি",
+      "optionC": "কৌণিক ভরবেগ",
+      "optionD": "যান্ত্রিক শক্তি",
+      "correctOption": "C",
+      "explanation": "",
+      "questionNo": 14
+    },
+    {
+      "id": "chapter-06-split-01-q15",
+      "questionText": "গ্রহ যখন সূর্যের নিকটতম অবস্থানে (Perihelion) থাকে, তখন তার বেগ কীরূপ হয়?",
+      "optionA": "সর্বনিম্ন",
+      "optionB": "সর্বোচ্চ",
+      "optionC": "শূন্য",
+      "optionD": "অপরিবর্তিত থাকে",
+      "correctOption": "B",
+      "explanation": "",
+      "questionNo": 15
+    },
+    {
+      "id": "chapter-06-split-01-q16",
+      "questionText": "কেপলারের তৃতীয় সূত্র (Law of Periods) অনুযায়ী গ্রহের আবর্তনকাল ($T$) এবং কক্ষপথের অর্ধ-পরাক্ষ ($R$) এর সম্পর্ক কী?",
+      "optionA": "$T \\\\propto R$",
+      "optionB": "$T \\\\propto R^2$",
+      "optionC": "$T^2 \\\\propto R^3$",
+      "optionD": "$T^3 \\\\propto R^2$",
+      "correctOption": "C",
+      "explanation": "",
+      "questionNo": 16
+    },
+    {
+      "id": "chapter-06-split-01-q17",
+      "questionText": "একটি গ্রহের সূর্য থেকে দূরত্ব পৃথিবীর দূরত্বের ৪ গুণ হলে গ্রহটির আবর্তনকাল কত হবে?",
+      "optionA": "৪ বছর",
+      "optionB": "৮ বছর",
+      "optionC": "১৬ বছর",
+      "optionD": "৬৪ বছর",
+      "correctOption": "B",
+      "explanation": "",
+      "questionNo": 17
+    },
+    {
+      "id": "chapter-06-split-01-q18",
+      "questionText": "সূর্য এবং গ্রহের সংযোজক সরলরেখা সমান সময়ে সমান—",
+      "optionA": "দূরত্ব অতিক্রম করে",
+      "optionB": "ক্ষেত্রফল অতিক্রম করে",
+      "optionC": "কোণ উৎপন্ন করে",
+      "optionD": "আয়তন দখল করে",
+      "correctOption": "B",
+      "explanation": "",
+      "questionNo": 18
+    },
+    {
+      "id": "chapter-06-split-01-q19",
+      "questionText": "কেপলারের সূত্রগুলো নিচের কোন বলের অধীনে গতির জন্য প্রযোজ্য?",
+      "optionA": "কেন্দ্রীয় বল (Central Force)",
+      "optionB": "ঘর্ষণ বল",
+      "optionC": "তাড়িতচৌম্বক বল",
+      "optionD": "নিউক্লীয় বল",
+      "correctOption": "A",
+      "explanation": "",
+      "questionNo": 19
+    },
+    {
+      "id": "chapter-06-split-01-q20",
+      "questionText": "কোনো উপগ্রহ পৃথিবীর খুব কাছ দিয়ে ঘুরলে তার আবর্তনকাল প্রায় কত?",
+      "optionA": "84.6 মিনিট",
+      "optionB": "24 ঘন্টা",
+      "optionC": "365 দিন",
+      "optionD": "27.3 দিন",
+      "correctOption": "A",
+      "explanation": "",
+      "questionNo": 20
+    },
+    {
+      "id": "chapter-06-split-01-q21",
+      "questionText": "কেপলারের সূত্রগুলো কে আবিষ্কার করেন?",
+      "optionA": "টাইকো ব্রাহে",
+      "optionB": "জোহানেস কেপলার",
+      "optionC": "গ্যালিলিও",
+      "optionD": "নিউটন",
+      "correctOption": "B",
+      "explanation": "",
+      "questionNo": 21
+    },
+    {
+      "id": "chapter-06-split-01-q22",
+      "questionText": "চাঁদে কোনো বায়ুমণ্ডল নেই কেন?",
+      "optionA": "চাঁদের ভর বেশি বলে",
+      "optionB": "চাঁদে অভিকর্ষজ ত্বরণ বেশি বলে",
+      "optionC": "চাঁদে গ্যাসের অণুগুলোর গড় বেগ মুক্তিবেগের চেয়ে বেশি বলে",
+      "optionD": "চাঁদে তাপমাত্রা খুব কম বলে",
+      "correctOption": "C",
+      "explanation": "",
+      "questionNo": 22
+    },
+    {
+      "id": "chapter-06-split-01-q23",
+      "questionText": "মুক্তিবেগ বস্তুর ভরের উপর কীভাবে নির্ভর করে?",
+      "optionA": "ভরের সমানুপাতিক",
+      "optionB": "ভরের ব্যস্তানুপাতিক",
+      "optionC": "ভরের বর্গের সমানুপাতিক",
+      "optionD": "বস্তুর ভরের উপর নির্ভর করে না",
+      "correctOption": "D",
+      "explanation": "",
+      "questionNo": 23
+    },
+    {
+      "id": "chapter-06-split-01-q24",
+      "questionText": "একটি গ্রহের ভর ও ব্যাসার্ধ উভয়েই পৃথিবীর দ্বিগুণ। ঐ গ্রহে মুক্তিবেগ পৃথিবীর মুক্তিবেগের কতগুণ?",
+      "optionA": "অর্ধেক",
+      "optionB": "দ্বিগুণ",
+      "optionC": "সমান",
+      "optionD": "চারগুণ",
+      "correctOption": "C",
+      "explanation": "",
+      "questionNo": 24
+    },
+    {
+      "id": "chapter-06-split-01-q25",
+      "questionText": "ভূ-স্থির উপগ্রহের (Geo-stationary Satellite) পর্যায়কাল কত?",
+      "optionA": "১ মাস",
+      "optionB": "১ বছর",
+      "optionC": "২৪ ঘন্টা",
+      "optionD": "১২ ঘন্টা",
+      "correctOption": "C",
+      "explanation": "",
+      "questionNo": 25
+    }
+  ]
+}

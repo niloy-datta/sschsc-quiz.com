@@ -1,0 +1,29 @@
+{
+  "generatedAt": "2026-06-16T10:23:36.667Z",
+  "counts": {
+    "answerFiles": 1491,
+    "publicQuestionFiles": 1473,
+    "orphanAnswers": 0,
+    "missingAnswers": 0,
+    "leakedPublicFiles": 0
+  },
+  "boardYearCoverage": {
+    "ssc": [
+      "2022",
+      "2023",
+      "2024",
+      "2025",
+      "2026"
+    ],
+    "hsc": [
+      "2022",
+      "2023",
+      "2024",
+      "2025"
+    ]
+  },
+  "orphanAnswers": [],
+  "missingAnswers": [],
+  "leakedPublic": [],
+  "status": "SUCCESS"
+}

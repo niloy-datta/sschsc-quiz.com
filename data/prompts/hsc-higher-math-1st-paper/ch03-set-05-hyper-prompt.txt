@@ -1,0 +1,31 @@
+# MICRO HYPER PROMPT — Ch 03 Set 05 ONLY (25 MCQ)
+# Chapter: সরলরেখা
+# Paste AFTER 00-MASTER-HYPER-PROMPT.txt
+# Save output: data/imports/hsc-higher-math-1st-paper-chapter-03-set-05.json
+
+## TASK
+Generate **ONLY Set 05** for Chapter 03: সরলরেখা.
+Exactly **25 unique MCQ**. Set ID: hsc-higher-math-1st-paper-chapter-03-set-05
+
+## SET FOCUS
+Hard + Conceptual Trap + Final Board Simulator
+
+## MEGA HOT SUBTOPICS
+Slope, intercept form, point-slope, two-point form, normal form, distance point-line, distance between parallel lines, angle between lines, concurrency, family of lines
+
+## JSON (single-set wrapper)
+{
+  "level": "HSC",
+  "subject": "higher-math-1st-paper",
+  "chapterWise": [{
+    "chapter": "03",
+    "chapterName": "সরলরেখা",
+    "sets": [{
+      "id": "hsc-higher-math-1st-paper-chapter-03-set-05",
+      "title": "Chapter 03 Hyper Mega Hot Set 05",
+      "questions": [ /* exactly 25 */ ]
+    }]
+  }]
+}
+
+Output JSON only.

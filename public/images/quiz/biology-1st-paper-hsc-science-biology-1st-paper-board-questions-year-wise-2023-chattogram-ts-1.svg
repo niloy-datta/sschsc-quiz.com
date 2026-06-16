@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="100%" height="100%" viewBox="0 0 360 220">
+  <defs>
+    <style>
+      .bg{fill:#020617}
+      .cell{fill:#0f172a;stroke:#38bdf8;stroke-width:3}
+      .spindle{stroke:#94a3b8;stroke-width:1.6;fill:none}
+      .chrom{stroke:#facc15;stroke-width:4;stroke-linecap:round}
+      .label{font-family:Arial,sans-serif;font-size:18px;font-weight:900;fill:#e5e7eb}
+      .small{font-family:"Noto Sans Bengali",Arial,sans-serif;font-size:12px;font-weight:700;fill:#cbd5e1}
+    </style>
+  </defs>
+
+  <rect width="360" height="220" rx="18" class="bg"/>
+
+  <ellipse cx="180" cy="110" rx="112" ry="78" class="cell"/>
+
+  <circle cx="105" cy="110" r="5" fill="#38bdf8"/>
+  <circle cx="255" cy="110" r="5" fill="#38bdf8"/>
+
+  <path d="M105 110 C135 80 160 74 180 104" class="spindle"/>
+  <path d="M105 110 C135 140 160 146 180 116" class="spindle"/>
+  <path d="M255 110 C225 80 200 74 180 104" class="spindle"/>
+  <path d="M255 110 C225 140 200 146 180 116" class="spindle"/>
+
+  <path d="M165 88 L195 132" class="chrom"/>
+  <path d="M195 88 L165 132" class="chrom"/>
+
+  <text x="180" y="82" text-anchor="middle" class="label">A</text>
+  <text x="180" y="203" text-anchor="middle" class="small">কোষ বিভাজন</text>
+</svg>

@@ -1,163 +1,94 @@
 {
-  "physics-1st-paper-hsc-science-physics-1st-paper-model-tests-super-model-set-15-ts-0": {
-    "answer": "180 ∘",
-    "answerIndex": 2,
-    "difficulty": 1200,
-    "explanation": "লক্ষ্য করলে দেখা যায়, B =−( i ^ − j ^ ​ + k ^ )=− A । দুটি ভেক্টর পরস্পরের ঋণাত্মক হলে তারা বিপরীতমুখী হয়, অর্থাৎ এদের মধ্যবর্তী কোণ 180 ∘ ।",
-    "topic": "super-model-set-15"
+  "super-model-set-15-q01": {
+    "correctOption": "180 ∘",
+    "explanation": "লক্ষ্য করলে দেখা যায়, B =−( i ^ − j ^ ​ + k ^ )=− A । দুটি ভেক্টর পরস্পরের ঋণাত্মক হলে তারা বিপরীতমুখী হয়, অর্থাৎ এদের মধ্যবর্তী কোণ 180 ∘ ।"
   },
-  "physics-1st-paper-hsc-science-physics-1st-paper-model-tests-super-model-set-15-ts-1": {
-    "answer": "v 0 ​ cosθ",
-    "answerIndex": 3,
-    "difficulty": 1200,
-    "explanation": "প্রক্ষিপ্ত বস্তুর সর্বোচ্চ উচ্চতায় উলম্ব বেগ (v y ​ ) শূন্য হয়ে যায়, কিন্তু অণুভূমিক বেগ (v x ​ =v 0 ​ cosθ) অপরিবর্তিত থাকে।",
-    "topic": "super-model-set-15"
+  "super-model-set-15-q02": {
+    "correctOption": "v 0 ​ cosθ",
+    "explanation": "প্রক্ষিপ্ত বস্তুর সর্বোচ্চ উচ্চতায় উলম্ব বেগ (v y ​ ) শূন্য হয়ে যায়, কিন্তু অণুভূমিক বেগ (v x ​ =v 0 ​ cosθ) অপরিবর্তিত থাকে।"
   },
-  "physics-1st-paper-hsc-science-physics-1st-paper-model-tests-super-model-set-15-ts-2": {
-    "answer": "মাটি কর্তৃক ঘোড়ার ওপর প্রযুক্ত প্রতিক্রিয়া বল",
-    "answerIndex": 2,
-    "difficulty": 1200,
-    "explanation": "ঘোড়া তীর্যকভাবে মাটিতে বল প্রয়োগ করে (ক্রিয়া)। মাটির সমমানের ও বিপরীতমুখী প্রতিক্রিয়া বলের অণুভূমিক উপাংশই ঘোড়া ও গাড়িকে সামনের দিকে এগিয়ে নেয়।",
-    "topic": "super-model-set-15"
+  "super-model-set-15-q03": {
+    "correctOption": "মাটি কর্তৃক ঘোড়ার ওপর প্রযুক্ত প্রতিক্রিয়া বল",
+    "explanation": "ঘোড়া তীর্যকভাবে মাটিতে বল প্রয়োগ করে (ক্রিয়া)। মাটির সমমানের ও বিপরীতমুখী প্রতিক্রিয়া বলের অণুভূমিক উপাংশই ঘোড়া ও গাড়িকে সামনের দিকে এগিয়ে নেয়।"
   },
-  "physics-1st-paper-hsc-science-physics-1st-paper-model-tests-super-model-set-15-ts-3": {
-    "answer": "কৃতকাজ",
-    "answerIndex": 2,
-    "difficulty": 1200,
-    "explanation": "আমরা জানি, কাজ W=∫Fdx। গাণিতিকভাবে, যেকোনো F−x গ্রাফের বক্ররেখা এবং x-অক্ষের মধ্যবর্তী ক্ষেত্রফলই হলো কাজের পরিমাণ।",
-    "topic": "super-model-set-15"
+  "super-model-set-15-q04": {
+    "correctOption": "কৃতকাজ",
+    "explanation": "আমরা জানি, কাজ W=∫Fdx। গাণিতিকভাবে, যেকোনো F−x গ্রাফের বক্ররেখা এবং x-অক্ষের মধ্যবর্তী ক্ষেত্রফলই হলো কাজের পরিমাণ।"
   },
-  "physics-1st-paper-hsc-science-physics-1st-paper-model-tests-super-model-set-15-ts-4": {
-    "answer": "শূন্য",
-    "answerIndex": 2,
-    "difficulty": 1200,
-    "explanation": "পৃথিবীর অভ্যন্তরে h গভীরতায় g ′ =g(1− R h ​ )। কেন্দ্রে h=R হওয়ায় g ′ =g(1−1)=0।",
-    "topic": "super-model-set-15"
+  "super-model-set-15-q05": {
+    "correctOption": "শূন্য",
+    "explanation": "পৃথিবীর অভ্যন্তরে h গভীরতায় g ′ =g(1− R h ​ )। কেন্দ্রে h=R হওয়ায় g ′ =g(1−1)=0।"
   },
-  "physics-1st-paper-hsc-science-physics-1st-paper-model-tests-super-model-set-15-ts-5": {
-    "answer": "ω 2 A",
-    "answerIndex": 1,
-    "difficulty": 1200,
-    "explanation": "ত্বরণ a=−ω 2 x। ত্বরণের মান সর্বোচ্চ হয় যখন সরণ সর্বোচ্চ (x=A) হয়। সুতরাং a max ​ =ω 2 A।",
-    "topic": "super-model-set-15"
+  "super-model-set-15-q06": {
+    "correctOption": "ω 2 A",
+    "explanation": "ত্বরণ a=−ω 2 x। ত্বরণের মান সর্বোচ্চ হয় যখন সরণ সর্বোচ্চ (x=A) হয়। সুতরাং a max ​ =ω 2 A।"
   },
-  "physics-1st-paper-hsc-science-physics-1st-paper-model-tests-super-model-set-15-ts-6": {
-    "answer": "−273.15 ∘ C",
-    "answerIndex": 2,
-    "difficulty": 1200,
-    "explanation": "চার্লসের সূত্র মতে, V t ​ =V 0 ​ (1+ 273 t ​ )। t=−273 ∘ C বসালে আয়তন গাণিতিকভাবে শূন্য হয়। একে পরম শূন্য তাপমাত্রা বলে।",
-    "topic": "super-model-set-15"
+  "super-model-set-15-q07": {
+    "correctOption": "−273.15 ∘ C",
+    "explanation": "চার্লসের সূত্র মতে, V t ​ =V 0 ​ (1+ 273 t ​ )। t=−273 ∘ C বসালে আয়তন গাণিতিকভাবে শূন্য হয়। একে পরম শূন্য তাপমাত্রা বলে।"
   },
-  "physics-1st-paper-hsc-science-physics-1st-paper-model-tests-super-model-set-15-ts-7": {
-    "answer": "2 1 ​ ∣ A × B ∣",
-    "answerIndex": 1,
-    "difficulty": 1200,
-    "explanation": "সামান্তরিকের ক্ষেত্রফল ∣ A × B ∣। ত্রিভুজটি সামান্তরিকের অর্ধেক হওয়ায় এর ক্ষেত্রফল 2 1 ​ ∣ A × B ∣।",
-    "topic": "super-model-set-15"
+  "super-model-set-15-q08": {
+    "correctOption": "2 1 ​ ∣ A × B ∣",
+    "explanation": "সামান্তরিকের ক্ষেত্রফল ∣ A × B ∣। ত্রিভুজটি সামান্তরিকের অর্ধেক হওয়ায় এর ক্ষেত্রফল 2 1 ​ ∣ A × B ∣।"
   },
-  "physics-1st-paper-hsc-science-physics-1st-paper-model-tests-super-model-set-15-ts-8": {
-    "answer": "৯ গুণ",
-    "answerIndex": 2,
-    "difficulty": 1200,
-    "explanation": "v 2 =u 2 −2as⟹s= 2a u 2 ​ । অর্থাৎ থামার দূরত্ব s∝u 2 । বেগ 3 গুণ করা হলে দূরত্ব 3 2 =9 গুণ হবে।",
-    "topic": "super-model-set-15"
+  "super-model-set-15-q09": {
+    "correctOption": "৯ গুণ",
+    "explanation": "v 2 =u 2 −2as⟹s= 2a u 2 ​ । অর্থাৎ থামার দূরত্ব s∝u 2 । বেগ 3 গুণ করা হলে দূরত্ব 3 2 =9 গুণ হবে।"
   },
-  "physics-1st-paper-hsc-science-physics-1st-paper-model-tests-super-model-set-15-ts-9": {
-    "answer": "80%",
-    "answerIndex": 1,
-    "difficulty": 1200,
-    "explanation": "কর্মদক্ষতা η= মোট প্রদত্ত শক্তি (Input) লভ্য কার্যকর শক্তি (Output) ​ ×100%= 1000 800 ​ ×100%=80%।",
-    "topic": "super-model-set-15"
+  "super-model-set-15-q10": {
+    "correctOption": "80%",
+    "explanation": "কর্মদক্ষতা η= মোট প্রদত্ত শক্তি (Input) লভ্য কার্যকর শক্তি (Output) ​ ×100%= 1000 800 ​ ×100%=80%।"
   },
-  "physics-1st-paper-hsc-science-physics-1st-paper-model-tests-super-model-set-15-ts-10": {
-    "answer": "২৪ ঘণ্টা",
-    "answerIndex": 1,
-    "difficulty": 1200,
-    "explanation": "পৃথিবীর নিজ অক্ষের সাপেক্ষে একবার ঘুরে আসতে ২৪ ঘণ্টা সময় লাগে। ভূ-স্থির উপগ্রহকেও পৃথিবীর সাপেক্ষে স্থির মনে হয়, তাই এর পর্যায়কালও পৃথিবীর আহ্নিক গতির সমান (২৪ ঘণ্টা)।",
-    "topic": "super-model-set-15"
+  "super-model-set-15-q11": {
+    "correctOption": "২৪ ঘণ্টা",
+    "explanation": "পৃথিবীর নিজ অক্ষের সাপেক্ষে একবার ঘুরে আসতে ২৪ ঘণ্টা সময় লাগে। ভূ-স্থির উপগ্রহকেও পৃথিবীর সাপেক্ষে স্থির মনে হয়, তাই এর পর্যায়কালও পৃথিবীর আহ্নিক গতির সমান (২৪ ঘণ্টা)।"
   },
-  "physics-1st-paper-hsc-science-physics-1st-paper-model-tests-super-model-set-15-ts-11": {
-    "answer": "অসীম (∞)",
-    "answerIndex": 2,
-    "difficulty": 1200,
-    "explanation": "ইয়ং গুণাঙ্ক Y= বিকৃতি পীড়ন ​ । সম্পূর্ণ দৃঢ় বস্তুর ক্ষেত্রে বল প্রয়োগেও কোনো বিকৃতি হয় না (বিকৃতি = 0)। তাই Y= 0 পীড়ন ​ =∞।",
-    "topic": "super-model-set-15"
+  "super-model-set-15-q12": {
+    "correctOption": "অসীম (∞)",
+    "explanation": "ইয়ং গুণাঙ্ক Y= বিকৃতি পীড়ন ​ । সম্পূর্ণ দৃঢ় বস্তুর ক্ষেত্রে বল প্রয়োগেও কোনো বিকৃতি হয় না (বিকৃতি = 0)। তাই Y= 0 পীড়ন ​ =∞।"
   },
-  "physics-1st-paper-hsc-science-physics-1st-paper-model-tests-super-model-set-15-ts-12": {
-    "answer": "0.993 m",
-    "answerIndex": 1,
-    "difficulty": 1200,
-    "explanation": "T=2π g L ​ ​ ⟹2=2π 9.8 L ​ ​ ⟹L= π 2 9.8 ​ ≈0.993 m (প্রায় 1 m)।",
-    "topic": "super-model-set-15"
+  "super-model-set-15-q13": {
+    "correctOption": "0.993 m",
+    "explanation": "T=2π g L ​ ​ ⟹2=2π 9.8 L ​ ​ ⟹L= π 2 9.8 ​ ≈0.993 m (প্রায় 1 m)।"
   },
-  "physics-1st-paper-hsc-science-physics-1st-paper-model-tests-super-model-set-15-ts-13": {
-    "answer": "v rms ​ ∝ P ​",
-    "answerIndex": 2,
-    "difficulty": 1200,
-    "explanation": "আমরা জানি P= 3 1 ​ ρv rms 2 ​ ⟹v rms ​ = ρ 3P ​ ​ । স্থির ঘনত্বে (ρ = ধ্রুবক), v rms ​ ∝ P ​ ।",
-    "topic": "super-model-set-15"
+  "super-model-set-15-q14": {
+    "correctOption": "v rms ​ ∝ P ​",
+    "explanation": "আমরা জানি P= 3 1 ​ ρv rms 2 ​ ⟹v rms ​ = ρ 3P ​ ​ । স্থির ঘনত্বে (ρ = ধ্রুবক), v rms ​ ∝ P ​ ।"
   },
-  "physics-1st-paper-hsc-science-physics-1st-paper-model-tests-super-model-set-15-ts-14": {
-    "answer": "A ⋅( B × C )=0",
-    "answerIndex": 1,
-    "difficulty": 1200,
-    "explanation": "তিনটি ভেক্টর সমতলীয় হলে তাদের দ্বারা গঠিত সামান্তরিক ঘনবস্তুর (Parallelepiped) আয়তন শূন্য হয়। ভেক্টরগুলোর স্কেলার ট্রিপল প্রোডাক্ট A ⋅( B × C ) হলো সেই আয়তন।",
-    "topic": "super-model-set-15"
+  "super-model-set-15-q15": {
+    "correctOption": "A ⋅( B × C )=0",
+    "explanation": "তিনটি ভেক্টর সমতলীয় হলে তাদের দ্বারা গঠিত সামান্তরিক ঘনবস্তুর (Parallelepiped) আয়তন শূন্য হয়। ভেক্টরগুলোর স্কেলার ট্রিপল প্রোডাক্ট A ⋅( B × C ) হলো সেই আয়তন।"
   },
-  "physics-1st-paper-hsc-science-physics-1st-paper-model-tests-super-model-set-15-ts-15": {
-    "answer": "45 ∘",
-    "answerIndex": 1,
-    "difficulty": 1200,
-    "explanation": "R= g v 0 2 ​ sin2θ ​ । sin2θ-এর মান সর্বোচ্চ (1) হলে R সর্বাধিক হয়। sin2θ=1⟹2θ=90 ∘ ⟹θ=45 ∘ ।",
-    "topic": "super-model-set-15"
+  "super-model-set-15-q16": {
+    "correctOption": "45 ∘",
+    "explanation": "R= g v 0 2 ​ sin2θ ​ । sin2θ-এর মান সর্বোচ্চ (1) হলে R সর্বাধিক হয়। sin2θ=1⟹2θ=90 ∘ ⟹θ=45 ∘ ।"
   },
-  "physics-1st-paper-hsc-science-physics-1st-paper-model-tests-super-model-set-15-ts-16": {
-    "answer": "5 2 ​ ​ R",
-    "answerIndex": 0,
-    "difficulty": 1200,
-    "explanation": "নিরেট গোলকের জড়তার ভ্রামক I= 5 2 ​ MR 2 । চক্রগতির ব্যাসার্ধের সূত্র I=Mk 2 । তুলনা করলে Mk 2 = 5 2 ​ MR 2 ⟹k= 5 2 ​ ​ R।",
-    "topic": "super-model-set-15"
+  "super-model-set-15-q17": {
+    "correctOption": "5 2 ​ ​ R",
+    "explanation": "নিরেট গোলকের জড়তার ভ্রামক I= 5 2 ​ MR 2 । চক্রগতির ব্যাসার্ধের সূত্র I=Mk 2 । তুলনা করলে Mk 2 = 5 2 ​ MR 2 ⟹k= 5 2 ​ ​ R।"
   },
-  "physics-1st-paper-hsc-science-physics-1st-paper-model-tests-super-model-set-15-ts-17": {
-    "answer": "2L YAl 2 ​",
-    "answerIndex": 1,
-    "difficulty": 1200,
-    "explanation": "সঞ্চিত শক্তি U= 2 1 ​ Fx। এখানে F= L YAl ​ এবং প্রসারণ x=l। সুতরাং U= 2 1 ​ ( L YAl ​ )l= 2L YAl 2 ​ ।",
-    "topic": "super-model-set-15"
+  "super-model-set-15-q18": {
+    "correctOption": "2L YAl 2 ​",
+    "explanation": "সঞ্চিত শক্তি U= 2 1 ​ Fx। এখানে F= L YAl ​ এবং প্রসারণ x=l। সুতরাং U= 2 1 ​ ( L YAl ​ )l= 2L YAl 2 ​ ।"
   },
-  "physics-1st-paper-hsc-science-physics-1st-paper-model-tests-super-model-set-15-ts-18": {
-    "answer": "2 1 ​ গুণ",
-    "answerIndex": 1,
-    "difficulty": 1200,
-    "explanation": "g ′ =g(1− R h ​ )। h=R/2 বসালে, g ′ =g(1− 2 1 ​ )= 2 g ​ ।",
-    "topic": "super-model-set-15"
+  "super-model-set-15-q19": {
+    "correctOption": "2 1 ​ গুণ",
+    "explanation": "g ′ =g(1− R h ​ )। h=R/2 বসালে, g ′ =g(1− 2 1 ​ )= 2 g ​ ।"
   },
-  "physics-1st-paper-hsc-science-physics-1st-paper-model-tests-super-model-set-15-ts-19": {
-    "answer": "পৃষ্ঠটান (Surface Tension)",
-    "answerIndex": 1,
-    "difficulty": 1200,
-    "explanation": "পৃষ্ঠটানের কারণে তরল তার মুক্ত পৃষ্ঠের ক্ষেত্রফল সর্বনিম্ন রাখতে চায়। নির্দিষ্ট আয়তনে গোলকের পৃষ্ঠের ক্ষেত্রফল সবচেয়ে কম হয়।",
-    "topic": "super-model-set-15"
+  "super-model-set-15-q20": {
+    "correctOption": "পৃষ্ঠটান (Surface Tension)",
+    "explanation": "পৃষ্ঠটানের কারণে তরল তার মুক্ত পৃষ্ঠের ক্ষেত্রফল সর্বনিম্ন রাখতে চায়। নির্দিষ্ট আয়তনে গোলকের পৃষ্ঠের ক্ষেত্রফল সবচেয়ে কম হয়।"
   },
-  "physics-1st-paper-hsc-science-physics-1st-paper-model-tests-super-model-set-15-ts-20": {
-    "answer": "2 π ​",
-    "answerIndex": 1,
-    "difficulty": 1200,
-    "explanation": "সরণ x=Asin(ωt) হলে, বেগ v=Aωcos(ωt)=Aωsin(ωt+π/2) এবং ত্বরণ a=−Aω 2 sin(ωt)=Aω 2 sin(ωt+π)। বেগ ও ত্বরণের দশার পার্থক্য π− 2 π ​ = 2 π ​ বা 90 ∘ ।",
-    "topic": "super-model-set-15"
+  "super-model-set-15-q21": {
+    "correctOption": "2 π ​",
+    "explanation": "সরণ x=Asin(ωt) হলে, বেগ v=Aωcos(ωt)=Aωsin(ωt+π/2) এবং ত্বরণ a=−Aω 2 sin(ωt)=Aω 2 sin(ωt+π)। বেগ ও ত্বরণের দশার পার্থক্য π− 2 π ​ = 2 π ​ বা 90 ∘ ।"
   },
-  "physics-1st-paper-hsc-science-physics-1st-paper-model-tests-super-model-set-15-ts-21": {
-    "answer": "6",
-    "answerIndex": 2,
-    "difficulty": 1200,
-    "explanation": "ওজোন একটি বহু-পরমাণুক (Polyatomic) অ-রৈখিক গ্যাস। এর ৩টি রৈখিক এবং ৩টি ঘূর্ণন স্বাধীনতার মাত্রা থাকে, অর্থাৎ মোট মাত্রা ৬ (উচ্চ তাপমাত্রায় কম্পন মাত্রা যুক্ত হতে পারে, তবে সাধারণভাবে ৬ ধরা হয়)।",
-    "topic": "super-model-set-15"
+  "super-model-set-15-q22": {
+    "correctOption": "6",
+    "explanation": "ওজোন একটি বহু-পরমাণুক (Polyatomic) অ-রৈখিক গ্যাস। এর ৩টি রৈখিক এবং ৩টি ঘূর্ণন স্বাধীনতার মাত্রা থাকে, অর্থাৎ মোট মাত্রা ৬ (উচ্চ তাপমাত্রায় কম্পন মাত্রা যুক্ত হতে পারে, তবে সাধারণভাবে ৬ ধরা হয়)।"
   },
-  "physics-1st-paper-hsc-science-physics-1st-paper-model-tests-super-model-set-15-ts-22": {
-    "answer": "বায়ুর তাপমাত্রা ও শিশিরাঙ্ক সমান",
-    "answerIndex": 2,
-    "difficulty": 1200,
-    "explanation": "শিশিরাঙ্ক হলো সেই তাপমাত্রা যেখানে বায়ু সম্পূর্ণ সম্পৃক্ত (১০০% আর্দ্রতা) হয়। বর্তমান তাপমাত্রাতেই আর্দ্রতা ১০০% হলে বর্তমান তাপমাত্রাই হলো শিশিরাঙ্ক।",
-    "topic": "super-model-set-15"
+  "super-model-set-15-q23": {
+    "correctOption": "বায়ুর তাপমাত্রা ও শিশিরাঙ্ক সমান",
+    "explanation": "শিশিরাঙ্ক হলো সেই তাপমাত্রা যেখানে বায়ু সম্পূর্ণ সম্পৃক্ত (১০০% আর্দ্রতা) হয়। বর্তমান তাপমাত্রাতেই আর্দ্রতা ১০০% হলে বর্তমান তাপমাত্রাই হলো শিশিরাঙ্ক।"
   }
 }

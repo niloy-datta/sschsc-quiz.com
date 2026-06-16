@@ -1,0 +1,377 @@
+[
+  {
+    "id": "hsc-higher-math-1st-paper-chapter-09-set-04-q01",
+    "subject": "higher-math-1st-paper",
+    "chapter": "hsc-higher-math-1st-paper-chapter-09-set-04",
+    "text": "$\\frac{d}{dx}x^6$ কত?",
+    "options": [
+      "$6x^5$",
+      "$x^5$",
+      "$x^6$",
+      "$5x^6$"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-higher-math-1st-paper-chapter-09-set-04-q02",
+    "subject": "higher-math-1st-paper",
+    "chapter": "hsc-higher-math-1st-paper-chapter-09-set-04",
+    "text": "$\\frac{d}{dx}(7x)$ কত?",
+    "options": [
+      "0",
+      "$7x$",
+      "8",
+      "7"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-higher-math-1st-paper-chapter-09-set-04-q03",
+    "subject": "higher-math-1st-paper",
+    "chapter": "hsc-higher-math-1st-paper-chapter-09-set-04",
+    "text": "$\\frac{d}{dx}(8)$ কত?",
+    "options": [
+      "0",
+      "$x$",
+      "8",
+      "1"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-higher-math-1st-paper-chapter-09-set-04-q04",
+    "subject": "higher-math-1st-paper",
+    "chapter": "hsc-higher-math-1st-paper-chapter-09-set-04",
+    "text": "$\\frac{d}{dx}(\\sin x)$ কত? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 04-04 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+    "options": [
+      "$-\\cos x$",
+      "$\\cos x$",
+      "$\\sin x$",
+      "$-\\sin x$"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-higher-math-1st-paper-chapter-09-set-04-q05",
+    "subject": "higher-math-1st-paper",
+    "chapter": "hsc-higher-math-1st-paper-chapter-09-set-04",
+    "text": "$\\frac{d}{dx}(\\cos x)$ কত? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 04-05 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+    "options": [
+      "$\\cos x$",
+      "$-\\sin x$",
+      "$-\\cos x$",
+      "$\\sin x$"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-higher-math-1st-paper-chapter-09-set-04-q06",
+    "subject": "higher-math-1st-paper",
+    "chapter": "hsc-higher-math-1st-paper-chapter-09-set-04",
+    "text": "$\\frac{d}{dx}(e^x)$ কত? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 04-06 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+    "options": [
+      "$e^x$",
+      "0",
+      "$xe^{x-1}$",
+      "$\\ln x$"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-higher-math-1st-paper-chapter-09-set-04-q07",
+    "subject": "higher-math-1st-paper",
+    "chapter": "hsc-higher-math-1st-paper-chapter-09-set-04",
+    "text": "$\\frac{d}{dx}(\\ln x)$ কত? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 04-07 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+    "options": [
+      "$\\frac1x$",
+      "$x$",
+      "$e^x$",
+      "$\\ln x$"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-higher-math-1st-paper-chapter-09-set-04-q08",
+    "subject": "higher-math-1st-paper",
+    "chapter": "hsc-higher-math-1st-paper-chapter-09-set-04",
+    "text": "$y=x^2+8x$ হলে $dy/dx$ কত?",
+    "options": [
+      "$2x+8$",
+      "$8x$",
+      "$2x$",
+      "$x^2+{a}$"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-higher-math-1st-paper-chapter-09-set-04-q09",
+    "subject": "higher-math-1st-paper",
+    "chapter": "hsc-higher-math-1st-paper-chapter-09-set-04",
+    "text": "$y=x^2$ বক্ররেখার $x=2$ বিন্দুতে ঢাল কত? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 04-09 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+    "options": [
+      "4",
+      "0",
+      "8",
+      "2"
+    ],
+    "image": "/images/quiz/premium/hsc-higher-math-1st-paper-chapter-09-set-04-q09.svg",
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-higher-math-1st-paper-chapter-09-set-04-q10",
+    "subject": "higher-math-1st-paper",
+    "chapter": "hsc-higher-math-1st-paper-chapter-09-set-04",
+    "text": "$f'(x)>0$ হলে ফাংশনটি কেমন? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 04-10 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+    "options": [
+      "হ্রাসমান",
+      "বর্ধমান",
+      "ধ্রুবক",
+      "অসজ্ঞায়িত"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-higher-math-1st-paper-chapter-09-set-04-q11",
+    "subject": "higher-math-1st-paper",
+    "chapter": "hsc-higher-math-1st-paper-chapter-09-set-04",
+    "text": "$\\frac{d}{dx}x^6$ কত? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 04-11 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+    "options": [
+      "$x^5$",
+      "$6x^5$",
+      "$5x^6$",
+      "$x^6$"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-higher-math-1st-paper-chapter-09-set-04-q12",
+    "subject": "higher-math-1st-paper",
+    "chapter": "hsc-higher-math-1st-paper-chapter-09-set-04",
+    "text": "$\\frac{d}{dx}(7x)$ কত? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 04-12 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+    "options": [
+      "8",
+      "0",
+      "7",
+      "$7x$"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-higher-math-1st-paper-chapter-09-set-04-q13",
+    "subject": "higher-math-1st-paper",
+    "chapter": "hsc-higher-math-1st-paper-chapter-09-set-04",
+    "text": "$\\frac{d}{dx}(8)$ কত? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 04-13 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+    "options": [
+      "8",
+      "$x$",
+      "0",
+      "1"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-higher-math-1st-paper-chapter-09-set-04-q14",
+    "subject": "higher-math-1st-paper",
+    "chapter": "hsc-higher-math-1st-paper-chapter-09-set-04",
+    "text": "$\\frac{d}{dx}(\\sin x)$ কত? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 04-14 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+    "options": [
+      "$-\\sin x$",
+      "$\\sin x$",
+      "$\\cos x$",
+      "$-\\cos x$"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-higher-math-1st-paper-chapter-09-set-04-q15",
+    "subject": "higher-math-1st-paper",
+    "chapter": "hsc-higher-math-1st-paper-chapter-09-set-04",
+    "text": "$\\frac{d}{dx}(\\cos x)$ কত? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 04-15 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+    "options": [
+      "$-\\sin x$",
+      "$\\sin x$",
+      "$-\\cos x$",
+      "$\\cos x$"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-higher-math-1st-paper-chapter-09-set-04-q16",
+    "subject": "higher-math-1st-paper",
+    "chapter": "hsc-higher-math-1st-paper-chapter-09-set-04",
+    "text": "$\\frac{d}{dx}(e^x)$ কত? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 04-16 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+    "options": [
+      "$xe^{x-1}$",
+      "$\\ln x$",
+      "$e^x$",
+      "0"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-higher-math-1st-paper-chapter-09-set-04-q17",
+    "subject": "higher-math-1st-paper",
+    "chapter": "hsc-higher-math-1st-paper-chapter-09-set-04",
+    "text": "$\\frac{d}{dx}(\\ln x)$ কত? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 04-17 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+    "options": [
+      "$e^x$",
+      "$x$",
+      "$\\frac1x$",
+      "$\\ln x$"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-higher-math-1st-paper-chapter-09-set-04-q18",
+    "subject": "higher-math-1st-paper",
+    "chapter": "hsc-higher-math-1st-paper-chapter-09-set-04",
+    "text": "$y=x^2+8x$ হলে $dy/dx$ কত? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 04-18 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+    "options": [
+      "$x^2+{a}$",
+      "$8x$",
+      "$2x$",
+      "$2x+8$"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-higher-math-1st-paper-chapter-09-set-04-q19",
+    "subject": "higher-math-1st-paper",
+    "chapter": "hsc-higher-math-1st-paper-chapter-09-set-04",
+    "text": "$y=x^2$ বক্ররেখার $x=2$ বিন্দুতে ঢাল কত? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 04-19 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+    "options": [
+      "0",
+      "2",
+      "4",
+      "8"
+    ],
+    "image": "/images/quiz/premium/hsc-higher-math-1st-paper-chapter-09-set-04-q19.svg",
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-higher-math-1st-paper-chapter-09-set-04-q20",
+    "subject": "higher-math-1st-paper",
+    "chapter": "hsc-higher-math-1st-paper-chapter-09-set-04",
+    "text": "$f'(x)>0$ হলে ফাংশনটি কেমন? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 04-20 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+    "options": [
+      "অসজ্ঞায়িত",
+      "ধ্রুবক",
+      "বর্ধমান",
+      "হ্রাসমান"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-higher-math-1st-paper-chapter-09-set-04-q21",
+    "subject": "higher-math-1st-paper",
+    "chapter": "hsc-higher-math-1st-paper-chapter-09-set-04",
+    "text": "$\\frac{d}{dx}x^6$ কত? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 04-21 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+    "options": [
+      "$5x^6$",
+      "$6x^5$",
+      "$x^5$",
+      "$x^6$"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-higher-math-1st-paper-chapter-09-set-04-q22",
+    "subject": "higher-math-1st-paper",
+    "chapter": "hsc-higher-math-1st-paper-chapter-09-set-04",
+    "text": "$\\frac{d}{dx}(7x)$ কত? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 04-22 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+    "options": [
+      "8",
+      "7",
+      "0",
+      "$7x$"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-higher-math-1st-paper-chapter-09-set-04-q23",
+    "subject": "higher-math-1st-paper",
+    "chapter": "hsc-higher-math-1st-paper-chapter-09-set-04",
+    "text": "$\\frac{d}{dx}(8)$ কত? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 04-23 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+    "options": [
+      "8",
+      "1",
+      "$x$",
+      "0"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-higher-math-1st-paper-chapter-09-set-04-q24",
+    "subject": "higher-math-1st-paper",
+    "chapter": "hsc-higher-math-1st-paper-chapter-09-set-04",
+    "text": "$\\frac{d}{dx}(\\sin x)$ কত? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 04-24 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+    "options": [
+      "$-\\sin x$",
+      "$-\\cos x$",
+      "$\\sin x$",
+      "$\\cos x$"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-higher-math-1st-paper-chapter-09-set-04-q25",
+    "subject": "higher-math-1st-paper",
+    "chapter": "hsc-higher-math-1st-paper-chapter-09-set-04",
+    "text": "$\\frac{d}{dx}(\\cos x)$ কত? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 04-25 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+    "options": [
+      "$-\\cos x$",
+      "$\\sin x$",
+      "$-\\sin x$",
+      "$\\cos x$"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  }
+]

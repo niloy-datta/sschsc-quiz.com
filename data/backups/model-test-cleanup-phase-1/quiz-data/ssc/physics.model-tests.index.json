@@ -1,0 +1,1367 @@
+{
+  "level": "ssc",
+  "subject": "physics",
+  "modelTests": {
+    "ssc-physics-model-test-03": {
+      "questionCount": 25,
+      "scope": "paper",
+      "displayTitle": "Paper Model Test 03",
+      "durationMinutes": 25,
+      "tags": [
+        "paper-wise"
+      ]
+    },
+    "ssc-physics-model-test-04": {
+      "questionCount": 25,
+      "scope": "paper",
+      "displayTitle": "Paper Model Test 04",
+      "durationMinutes": 25,
+      "tags": [
+        "paper-wise"
+      ]
+    },
+    "ssc-physics-model-test-27": {
+      "questionCount": 25,
+      "scope": "paper",
+      "displayTitle": "Paper Model Test 27",
+      "durationMinutes": 25,
+      "tags": [
+        "paper-wise"
+      ]
+    },
+    "ssc-physics-chapter-01-model-test-01": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "অধ্যায় 1 · ভৌত রাশি ও পরিমাপ · মডেল টেস্ট 01",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "model-test"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "01",
+          "chapterName": "ভৌত রাশি ও পরিমাপ"
+        }
+      ]
+    },
+    "ssc-physics-chapter-01-model-test-02": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "অধ্যায় 1 · ভৌত রাশি ও পরিমাপ · মডেল টেস্ট 02",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "model-test"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "01",
+          "chapterName": "ভৌত রাশি ও পরিমাপ"
+        }
+      ]
+    },
+    "ssc-physics-chapter-01-model-test-03": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "অধ্যায় 1 · ভৌত রাশি ও পরিমাপ · মডেল টেস্ট 03",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "model-test"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "01",
+          "chapterName": "ভৌত রাশি ও পরিমাপ"
+        }
+      ]
+    },
+    "ssc-physics-chapter-02-model-test-01": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "অধ্যায় 2 · গতি · মডেল টেস্ট 01",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "model-test"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "02",
+          "chapterName": "গতি"
+        }
+      ]
+    },
+    "ssc-physics-chapter-02-model-test-04": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "অধ্যায় 2 · গতি · মডেল টেস্ট 04",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "model-test"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "02",
+          "chapterName": "গতি"
+        }
+      ]
+    },
+    "ssc-physics-chapter-03-model-test-01": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "অধ্যায় 3 · বল · মডেল টেস্ট 01",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "model-test"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "03",
+          "chapterName": "বল"
+        }
+      ]
+    },
+    "ssc-physics-chapter-03-model-test-02": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "অধ্যায় 3 · বল · মডেল টেস্ট 02",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "model-test"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "03",
+          "chapterName": "বল"
+        }
+      ]
+    },
+    "ssc-physics-chapter-03-model-test-03": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "অধ্যায় 3 · বল · মডেল টেস্ট 03",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "model-test"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "03",
+          "chapterName": "বল"
+        }
+      ]
+    },
+    "ssc-physics-chapter-03-model-test-04": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "অধ্যায় 3 · বল · মডেল টেস্ট 04",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "model-test"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "03",
+          "chapterName": "বল"
+        }
+      ]
+    },
+    "ssc-physics-chapter-04-model-test-03": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "অধ্যায় 4 · কাজ, ক্ষমতা ও শক্তি · মডেল টেস্ট 03",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "model-test"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "04",
+          "chapterName": "কাজ, ক্ষমতা ও শক্তি"
+        }
+      ]
+    },
+    "ssc-physics-chapter-04-model-test-04": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "অধ্যায় 4 · কাজ, ক্ষমতা ও শক্তি · মডেল টেস্ট 04",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "model-test"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "04",
+          "chapterName": "কাজ, ক্ষমতা ও শক্তি"
+        }
+      ]
+    },
+    "ssc-physics-chapter-04-model-test-05": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "অধ্যায় 4 · কাজ, ক্ষমতা ও শক্তি · মডেল টেস্ট 05",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "model-test"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "04",
+          "chapterName": "কাজ, ক্ষমতা ও শক্তি"
+        }
+      ]
+    },
+    "ssc-physics-chapter-05-model-test-01": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "অধ্যায় 5 · পদার্থের অবস্থা ও চাপ · মডেল টেস্ট 01",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "model-test"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "05",
+          "chapterName": "পদার্থের অবস্থা ও চাপ"
+        }
+      ]
+    },
+    "ssc-physics-chapter-05-model-test-02": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "অধ্যায় 5 · পদার্থের অবস্থা ও চাপ · মডেল টেস্ট 02",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "model-test"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "05",
+          "chapterName": "পদার্থের অবস্থা ও চাপ"
+        }
+      ]
+    },
+    "ssc-physics-chapter-05-model-test-03": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "অধ্যায় 5 · পদার্থের অবস্থা ও চাপ · মডেল টেস্ট 03",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "model-test"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "05",
+          "chapterName": "পদার্থের অবস্থা ও চাপ"
+        }
+      ]
+    },
+    "ssc-physics-chapter-06-model-test-01": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "অধ্যায় 6 · বস্তুর উপর তাপের প্রভাব · মডেল টেস্ট 01",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "model-test"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "06",
+          "chapterName": "বস্তুর উপর তাপের প্রভাব"
+        }
+      ]
+    },
+    "ssc-physics-chapter-07-model-test-01": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "অধ্যায় 7 · তরঙ্গ ও শব্দ · মডেল টেস্ট 01",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "model-test"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "07",
+          "chapterName": "তরঙ্গ ও শব্দ"
+        }
+      ]
+    },
+    "ssc-physics-chapter-07-model-test-02": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "অধ্যায় 7 · তরঙ্গ ও শব্দ · মডেল টেস্ট 02",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "model-test"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "07",
+          "chapterName": "তরঙ্গ ও শব্দ"
+        }
+      ]
+    },
+    "ssc-physics-chapter-07-model-test-03": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "অধ্যায় 7 · তরঙ্গ ও শব্দ · মডেল টেস্ট 03",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "model-test"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "07",
+          "chapterName": "তরঙ্গ ও শব্দ"
+        }
+      ]
+    },
+    "ssc-physics-chapter-07-model-test-04": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "অধ্যায় 7 · তরঙ্গ ও শব্দ · মডেল টেস্ট 04",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "model-test"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "07",
+          "chapterName": "তরঙ্গ ও শব্দ"
+        }
+      ]
+    },
+    "ssc-physics-chapter-08-model-test-01": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "অধ্যায় 8 · আলোর প্রতিফলন · মডেল টেস্ট 01",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "model-test"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "08",
+          "chapterName": "আলোর প্রতিফলন"
+        }
+      ]
+    },
+    "ssc-physics-chapter-08-model-test-02": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "অধ্যায় 8 · আলোর প্রতিফলন · মডেল টেস্ট 02",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "model-test"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "08",
+          "chapterName": "আলোর প্রতিফলন"
+        }
+      ]
+    },
+    "ssc-physics-chapter-08-model-test-03": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "অধ্যায় 8 · আলোর প্রতিফলন · মডেল টেস্ট 03",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "model-test"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "08",
+          "chapterName": "আলোর প্রতিফলন"
+        }
+      ]
+    },
+    "ssc-physics-chapter-11-model-test-01": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "অধ্যায় 11 · চল বিদ্যুৎ · মডেল টেস্ট 01",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "model-test"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "11",
+          "chapterName": "চল বিদ্যুৎ"
+        }
+      ]
+    },
+    "ssc-physics-chapter-11-model-test-05": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "অধ্যায় 11 · চল বিদ্যুৎ · মডেল টেস্ট 05",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "model-test"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "11",
+          "chapterName": "চল বিদ্যুৎ"
+        }
+      ]
+    },
+    "ssc-physics-chapter-01-model-test-04": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "অধ্যায় 1 · ভৌত রাশি ও পরিমাপ · মডেল টেস্ট 04",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "model-test"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "01",
+          "chapterName": "ভৌত রাশি ও পরিমাপ"
+        }
+      ]
+    },
+    "ssc-physics-chapter-01-model-test-05": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "অধ্যায় 1 · ভৌত রাশি ও পরিমাপ · মডেল টেস্ট 05",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "model-test"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "01",
+          "chapterName": "ভৌত রাশি ও পরিমাপ"
+        }
+      ]
+    },
+    "ssc-physics-chapter-02-model-test-02": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "অধ্যায় 2 · গতি · মডেল টেস্ট 02",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "model-test"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "02",
+          "chapterName": "গতি"
+        }
+      ]
+    },
+    "ssc-physics-chapter-02-model-test-03": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "অধ্যায় 2 · গতি · মডেল টেস্ট 03",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "model-test"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "02",
+          "chapterName": "গতি"
+        }
+      ]
+    },
+    "ssc-physics-chapter-02-model-test-05": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "অধ্যায় 2 · গতি · মডেল টেস্ট 05",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "model-test"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "02",
+          "chapterName": "গতি"
+        }
+      ]
+    },
+    "ssc-physics-chapter-03-model-test-05": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "অধ্যায় 3 · বল · মডেল টেস্ট 05",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "model-test"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "03",
+          "chapterName": "বল"
+        }
+      ]
+    },
+    "ssc-physics-chapter-04-model-test-01": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "অধ্যায় 4 · কাজ, ক্ষমতা ও শক্তি · মডেল টেস্ট 01",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "model-test"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "04",
+          "chapterName": "কাজ, ক্ষমতা ও শক্তি"
+        }
+      ]
+    },
+    "ssc-physics-chapter-05-model-test-04": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "অধ্যায় 5 · পদার্থের অবস্থা ও চাপ · মডেল টেস্ট 04",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "model-test"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "05",
+          "chapterName": "পদার্থের অবস্থা ও চাপ"
+        }
+      ]
+    },
+    "ssc-physics-chapter-05-model-test-05": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "অধ্যায় 5 · পদার্থের অবস্থা ও চাপ · মডেল টেস্ট 05",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "model-test"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "05",
+          "chapterName": "পদার্থের অবস্থা ও চাপ"
+        }
+      ]
+    },
+    "ssc-physics-chapter-06-model-test-03": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "অধ্যায় 6 · বস্তুর উপর তাপের প্রভাব · মডেল টেস্ট 03",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "model-test"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "06",
+          "chapterName": "বস্তুর উপর তাপের প্রভাব"
+        }
+      ]
+    },
+    "ssc-physics-chapter-06-model-test-04": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "অধ্যায় 6 · বস্তুর উপর তাপের প্রভাব · মডেল টেস্ট 04",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "model-test"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "06",
+          "chapterName": "বস্তুর উপর তাপের প্রভাব"
+        }
+      ]
+    },
+    "ssc-physics-chapter-06-model-test-05": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "অধ্যায় 6 · বস্তুর উপর তাপের প্রভাব · মডেল টেস্ট 05",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "model-test"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "06",
+          "chapterName": "বস্তুর উপর তাপের প্রভাব"
+        }
+      ]
+    },
+    "ssc-physics-chapter-07-model-test-05": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "অধ্যায় 7 · তরঙ্গ ও শব্দ · মডেল টেস্ট 05",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "model-test"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "07",
+          "chapterName": "তরঙ্গ ও শব্দ"
+        }
+      ]
+    },
+    "ssc-physics-chapter-08-model-test-04": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "অধ্যায় 8 · আলোর প্রতিফলন · মডেল টেস্ট 04",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "model-test"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "08",
+          "chapterName": "আলোর প্রতিফলন"
+        }
+      ]
+    },
+    "ssc-physics-chapter-08-model-test-05": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "অধ্যায় 8 · আলোর প্রতিফলন · মডেল টেস্ট 05",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "model-test"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "08",
+          "chapterName": "আলোর প্রতিফলন"
+        }
+      ]
+    },
+    "ssc-physics-chapter-09-model-test-01": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "অধ্যায় 9 · আলোর প্রতিসরণ · মডেল টেস্ট 01",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "model-test"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "09",
+          "chapterName": "আলোর প্রতিসরণ"
+        }
+      ]
+    },
+    "ssc-physics-chapter-09-model-test-02": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "অধ্যায় 9 · আলোর প্রতিসরণ · মডেল টেস্ট 02",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "model-test"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "09",
+          "chapterName": "আলোর প্রতিসরণ"
+        }
+      ]
+    },
+    "ssc-physics-chapter-09-model-test-03": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "অধ্যায় 9 · আলোর প্রতিসরণ · মডেল টেস্ট 03",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "model-test"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "09",
+          "chapterName": "আলোর প্রতিসরণ"
+        }
+      ]
+    },
+    "ssc-physics-chapter-09-model-test-04": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "অধ্যায় 9 · আলোর প্রতিসরণ · মডেল টেস্ট 04",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "model-test"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "09",
+          "chapterName": "আলোর প্রতিসরণ"
+        }
+      ]
+    },
+    "ssc-physics-chapter-09-model-test-05": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "অধ্যায় 9 · আলোর প্রতিসরণ · মডেল টেস্ট 05",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "model-test"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "09",
+          "chapterName": "আলোর প্রতিসরণ"
+        }
+      ]
+    },
+    "ssc-physics-chapter-11-model-test-02": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "অধ্যায় 11 · চল বিদ্যুৎ · মডেল টেস্ট 02",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "model-test"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "11",
+          "chapterName": "চল বিদ্যুৎ"
+        }
+      ]
+    },
+    "ssc-physics-chapter-11-model-test-03": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "অধ্যায় 11 · চল বিদ্যুৎ · মডেল টেস্ট 03",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "model-test"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "11",
+          "chapterName": "চল বিদ্যুৎ"
+        }
+      ]
+    },
+    "ssc-physics-paper-set-04": {
+      "questionCount": 25,
+      "scope": "paper",
+      "displayTitle": "SSC Physics Paper-wise Model Test Set 04",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "paper-wise",
+        "model-test",
+        "fill-to-15"
+      ]
+    },
+    "ssc-physics-paper-set-05": {
+      "questionCount": 25,
+      "scope": "paper",
+      "displayTitle": "SSC Physics Paper-wise Model Test Set 05",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "paper-wise",
+        "model-test",
+        "fill-to-15"
+      ]
+    },
+    "ssc-physics-paper-set-06": {
+      "questionCount": 25,
+      "scope": "paper",
+      "displayTitle": "SSC Physics Paper-wise Model Test Set 06",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "paper-wise",
+        "model-test",
+        "fill-to-15"
+      ]
+    },
+    "ssc-physics-paper-set-07": {
+      "questionCount": 25,
+      "scope": "paper",
+      "displayTitle": "SSC Physics Paper-wise Model Test Set 07",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "paper-wise",
+        "model-test",
+        "fill-to-15"
+      ]
+    },
+    "ssc-physics-paper-set-08": {
+      "questionCount": 25,
+      "scope": "paper",
+      "displayTitle": "SSC Physics Paper-wise Model Test Set 08",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "paper-wise",
+        "model-test",
+        "fill-to-15"
+      ]
+    },
+    "ssc-physics-paper-set-09": {
+      "questionCount": 25,
+      "scope": "paper",
+      "displayTitle": "SSC Physics Paper-wise Model Test Set 09",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "paper-wise",
+        "model-test",
+        "fill-to-15"
+      ]
+    },
+    "ssc-physics-paper-set-10": {
+      "questionCount": 25,
+      "scope": "paper",
+      "displayTitle": "SSC Physics Paper-wise Model Test Set 10",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "paper-wise",
+        "model-test",
+        "fill-to-15"
+      ]
+    },
+    "ssc-physics-paper-set-11": {
+      "questionCount": 25,
+      "scope": "paper",
+      "displayTitle": "SSC Physics Paper-wise Model Test Set 11",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "paper-wise",
+        "model-test",
+        "fill-to-15"
+      ]
+    },
+    "ssc-physics-paper-set-12": {
+      "questionCount": 25,
+      "scope": "paper",
+      "displayTitle": "SSC Physics Paper-wise Model Test Set 12",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "paper-wise",
+        "model-test",
+        "fill-to-15"
+      ]
+    },
+    "ssc-physics-paper-set-13": {
+      "questionCount": 25,
+      "scope": "paper",
+      "displayTitle": "SSC Physics Paper-wise Model Test Set 13",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "paper-wise",
+        "model-test",
+        "fill-to-15"
+      ]
+    },
+    "ssc-physics-paper-set-14": {
+      "questionCount": 25,
+      "scope": "paper",
+      "displayTitle": "SSC Physics Paper-wise Model Test Set 14",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "paper-wise",
+        "model-test",
+        "fill-to-15"
+      ]
+    },
+    "ssc-physics-paper-set-15": {
+      "questionCount": 25,
+      "scope": "paper",
+      "displayTitle": "SSC Physics Paper-wise Model Test Set 15",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "paper-wise",
+        "model-test",
+        "fill-to-15"
+      ]
+    },
+    "ssc-physics-chapter-04-model-test-02": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "অধ্যায় 4 · কাজ, ক্ষমতা ও শক্তি · মডেল টেস্ট 02",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "model-test"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "04",
+          "chapterName": "কাজ, ক্ষমতা ও শক্তি"
+        }
+      ]
+    },
+    "ssc-physics-chapter-06-model-test-02": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "অধ্যায় 6 · বস্তুর উপর তাপের প্রভাব · মডেল টেস্ট 02",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "model-test"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "06",
+          "chapterName": "বস্তুর উপর তাপের প্রভাব"
+        }
+      ]
+    },
+    "ssc-physics-chapter-11-model-test-04": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "অধ্যায় 11 · চল বিদ্যুৎ · মডেল টেস্ট 04",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "model-test"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "11",
+          "chapterName": "চল বিদ্যুৎ"
+        }
+      ]
+    },
+    "ssc-physics-chapter-10-model-test-01": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "অধ্যায় 10 · স্থির বিদ্যুৎ · মডেল টেস্ট 01",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "model-test"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "10",
+          "chapterName": "স্থির বিদ্যুৎ"
+        }
+      ]
+    },
+    "ssc-physics-chapter-10-model-test-02": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "অধ্যায় 10 · স্থির বিদ্যুৎ · মডেল টেস্ট 02",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "model-test"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "10",
+          "chapterName": "স্থির বিদ্যুৎ"
+        }
+      ]
+    },
+    "ssc-physics-chapter-10-model-test-03": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "অধ্যায় 10 · স্থির বিদ্যুৎ · মডেল টেস্ট 03",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "model-test"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "10",
+          "chapterName": "স্থির বিদ্যুৎ"
+        }
+      ]
+    },
+    "ssc-physics-chapter-10-model-test-04": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "অধ্যায় 10 · স্থির বিদ্যুৎ · মডেল টেস্ট 04",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "model-test"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "10",
+          "chapterName": "স্থির বিদ্যুৎ"
+        }
+      ]
+    },
+    "ssc-physics-chapter-10-model-test-05": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "অধ্যায় 10 · স্থির বিদ্যুৎ · মডেল টেস্ট 05",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "model-test"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "10",
+          "chapterName": "স্থির বিদ্যুৎ"
+        }
+      ]
+    },
+    "ssc-physics-chapter-12-model-test-01": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "অধ্যায় 12 · বিদ্যুতের চৌম্বক ক্রিয়া · মডেল টেস্ট 01",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "model-test"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "12",
+          "chapterName": "বিদ্যুতের চৌম্বক ক্রিয়া"
+        }
+      ]
+    },
+    "ssc-physics-chapter-12-model-test-02": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "অধ্যায় 12 · বিদ্যুতের চৌম্বক ক্রিয়া · মডেল টেস্ট 02",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "model-test"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "12",
+          "chapterName": "বিদ্যুতের চৌম্বক ক্রিয়া"
+        }
+      ]
+    },
+    "ssc-physics-chapter-12-model-test-03": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "অধ্যায় 12 · বিদ্যুতের চৌম্বক ক্রিয়া · মডেল টেস্ট 03",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "model-test"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "12",
+          "chapterName": "বিদ্যুতের চৌম্বক ক্রিয়া"
+        }
+      ]
+    },
+    "ssc-physics-chapter-12-model-test-04": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "অধ্যায় 12 · বিদ্যুতের চৌম্বক ক্রিয়া · মডেল টেস্ট 04",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "model-test"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "12",
+          "chapterName": "বিদ্যুতের চৌম্বক ক্রিয়া"
+        }
+      ]
+    },
+    "ssc-physics-chapter-12-model-test-05": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "অধ্যায় 12 · বিদ্যুতের চৌম্বক ক্রিয়া · মডেল টেস্ট 05",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "model-test"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "12",
+          "chapterName": "বিদ্যুতের চৌম্বক ক্রিয়া"
+        }
+      ]
+    },
+    "ssc-physics-chapter-14-model-test-01": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "অধ্যায় 14 · জীবন বাঁচাতে পদার্থবিজ্ঞান · মডেল টেস্ট 01",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "model-test"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "14",
+          "chapterName": "জীবন বাঁচাতে পদার্থবিজ্ঞান"
+        }
+      ]
+    },
+    "ssc-physics-chapter-14-model-test-02": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "অধ্যায় 14 · জীবন বাঁচাতে পদার্থবিজ্ঞান · মডেল টেস্ট 02",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "model-test"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "14",
+          "chapterName": "জীবন বাঁচাতে পদার্থবিজ্ঞান"
+        }
+      ]
+    },
+    "ssc-physics-chapter-14-model-test-03": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "অধ্যায় 14 · জীবন বাঁচাতে পদার্থবিজ্ঞান · মডেল টেস্ট 03",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "model-test"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "14",
+          "chapterName": "জীবন বাঁচাতে পদার্থবিজ্ঞান"
+        }
+      ]
+    },
+    "ssc-physics-chapter-14-model-test-04": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "অধ্যায় 14 · জীবন বাঁচাতে পদার্থবিজ্ঞান · মডেল টেস্ট 04",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "model-test"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "14",
+          "chapterName": "জীবন বাঁচাতে পদার্থবিজ্ঞান"
+        }
+      ]
+    },
+    "ssc-physics-chapter-14-model-test-05": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "অধ্যায় 14 · জীবন বাঁচাতে পদার্থবিজ্ঞান · মডেল টেস্ট 05",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "model-test"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "14",
+          "chapterName": "জীবন বাঁচাতে পদার্থবিজ্ঞান"
+        }
+      ]
+    },
+    "ssc-physics-chapter-13-model-test-01": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "অধ্যায় 13 · আধুনিক পদার্থবিজ্ঞান ও ইলেকট্রনিক্স · মডেল টেস্ট 01",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "model-test"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "13",
+          "chapterName": "আধুনিক পদার্থবিজ্ঞান ও ইলেকট্রনিক্স"
+        }
+      ]
+    },
+    "ssc-physics-chapter-13-model-test-02": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "অধ্যায় 13 · আধুনিক পদার্থবিজ্ঞান ও ইলেকট্রনিক্স · মডেল টেস্ট 02",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "model-test"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "13",
+          "chapterName": "আধুনিক পদার্থবিজ্ঞান ও ইলেকট্রনিক্স"
+        }
+      ]
+    },
+    "ssc-physics-chapter-13-model-test-03": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "অধ্যায় 13 · আধুনিক পদার্থবিজ্ঞান ও ইলেকট্রনিক্স · মডেল টেস্ট 03",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "model-test"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "13",
+          "chapterName": "আধুনিক পদার্থবিজ্ঞান ও ইলেকট্রনিক্স"
+        }
+      ]
+    },
+    "ssc-physics-chapter-13-model-test-04": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "অধ্যায় 13 · আধুনিক পদার্থবিজ্ঞান ও ইলেকট্রনিক্স · মডেল টেস্ট 04",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "model-test"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "13",
+          "chapterName": "আধুনিক পদার্থবিজ্ঞান ও ইলেকট্রনিক্স"
+        }
+      ]
+    },
+    "ssc-physics-chapter-13-model-test-05": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "অধ্যায় 13 · আধুনিক পদার্থবিজ্ঞান ও ইলেকট্রনিক্স · মডেল টেস্ট 05",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "model-test"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "13",
+          "chapterName": "আধুনিক পদার্থবিজ্ঞান ও ইলেকট্রনিক্স"
+        }
+      ]
+    }
+  }
+}

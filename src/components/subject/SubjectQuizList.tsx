@@ -334,79 +334,82 @@ export function SubjectModelTestList({
   modelTestPathPrefix,
   emptyMessage = "মডেল টেস্ট এখনো যোগ করা হয়নি।",
   expandAll = false,
-  category,
-}: ModelListProps) {
-  const showPaper = category === "paperWise";
-  const showChapter = category === "chapterWise";
-  const items = showPaper ? paperItems : chapterItems;
+}: Omit<ModelListProps, "category">) {
   const chapterGroups = useMemo(
     () => groupItemsByModelTestChapter(chapterItems),
     [chapterItems],
   );
-  const useGroupedChapter = showChapter && chapterGroups.length > 1;
 
-  if (items.length === 0) {
+  if (paperItems.length === 0 && chapterItems.length === 0) {
     return (
       <Card variant="glass" className="p-8 text-center text-slate-500">
         <Target className="mx-auto mb-2 h-8 w-8 text-slate-600" />
-        <p>
-          {showPaper
-            ? "পত্রভিত্তিক মডেল টেস্ট এখনো যোগ করা হয়নি।"
-            : showChapter
-              ? "অধ্যায়ভিত্তিক মডেল টেস্ট এখনো যোগ করা হয়নি।"
-              : emptyMessage}
-        </p>
+        <p className="text-slate-300">{emptyMessage}</p>
       </Card>
     );
   }
 
-  if (showPaper) {
-    return (
-      <div className="space-y-2">
-        {paperItems.map((item) => (
-          <QuizRow key={item.setId} item={item} variant="purple" />
-        ))}
-      </div>
-    );
-  }
-
   return (
-    <div className="space-y-4">
-      {useGroupedChapter ? (
-        chapterGroups.map((group) => (
-          <Card
-            key={group.chapterSlug}
-            variant="glass"
-            className="overflow-hidden border-slate-700/40 bg-slate-950/40 p-0"
-          >
-            <div className="flex items-center gap-3 border-b border-white/[0.05] bg-white/[0.02] px-4 py-3.5">
-              <div className="grid h-11 w-11 shrink-0 place-items-center rounded-xl border border-purple-500/20 bg-purple-500/10 text-purple-300">
-                <Target size={22} />
+    <div className="space-y-6">
+      {/* 1. Paper-wise Model Tests */}
+      {paperItems.length > 0 && (
+        <div className="space-y-3">
+          <h3 className="text-sm font-bold uppercase tracking-wider text-cyan-400">
+            পত্রভিত্তিক মডেল টেস্ট (Paper-wise Model Tests)
+          </h3>
+          <div className="space-y-2">
+            {paperItems.map((item) => (
+              <QuizRow key={item.setId} item={item} variant="purple" />
+            ))}
+          </div>
+        </div>
+      )}
+
+      {/* 2. Chapter-wise Model Tests */}
+      {chapterItems.length > 0 && (
+        <div className="space-y-3">
+          <h3 className="text-sm font-bold uppercase tracking-wider text-purple-400">
+            অধ্যায়ভিত্তিক মডেল টেস্ট (Chapter-wise Model Tests)
+          </h3>
+          <div className="space-y-4">
+            {chapterGroups.length > 1 ? (
+              chapterGroups.map((group) => (
+                <Card
+                  key={group.chapterSlug}
+                  variant="glass"
+                  className="overflow-hidden border-slate-700/40 bg-slate-950/40 p-0"
+                >
+                  <div className="flex items-center gap-3 border-b border-white/[0.05] bg-white/[0.02] px-4 py-3.5">
+                    <div className="grid h-11 w-11 shrink-0 place-items-center rounded-xl border border-purple-500/20 bg-purple-500/10 text-purple-300">
+                      <Target size={22} />
+                    </div>
+                    <div>
+                      <h3 className="text-base font-black text-white sm:text-lg">{group.chapterName}</h3>
+                      <p className="mt-0.5 text-xs font-semibold text-slate-400">
+                        {formatBnCount(group.displaySets.length)} মডেল টেস্ট
+                      </p>
+                    </div>
+                  </div>
+                  <div className="space-y-2 p-3">
+                    {(expandAll ? group.displaySets : group.displaySets.slice(0, 3)).map((item) => (
+                      <QuizRow key={item.setId} item={item} variant="purple" />
+                    ))}
+                    {!expandAll && group.displaySets.length > 3 && (
+                      <p className="py-1 text-center text-xs font-bold text-slate-500">
+                        +{formatBnCount(group.displaySets.length - 3)} আরও মডেল টেস্ট
+                      </p>
+                    )}
+                  </div>
+                </Card>
+              ))
+            ) : (
+              <div className="space-y-2">
+                {chapterItems.map((item) => (
+                  <QuizRow key={item.setId} item={item} variant="purple" />
+                ))}
               </div>
-              <div>
-                <h3 className="text-base font-black text-white sm:text-lg">{group.chapterName}</h3>
-                <p className="mt-0.5 text-xs font-semibold text-slate-400">
-                  {formatBnCount(group.displaySets.length)} মডেল টেস্ট
-                </p>
-              </div>
-            </div>
-            <div className="space-y-2 p-3">
-              {(expandAll ? group.displaySets : group.displaySets.slice(0, 3)).map((item) => (
-                <QuizRow key={item.setId} item={item} variant="purple" />
-              ))}
-              {!expandAll && group.displaySets.length > 3 && (
-                <p className="py-1 text-center text-xs font-bold text-slate-500">
-                  +{formatBnCount(group.displaySets.length - 3)} আরও মডেল টেস্ট
-                </p>
-              )}
-            </div>
-          </Card>
-        ))
-      ) : (
-        <div className="space-y-2">
-          {chapterItems.map((item) => (
-            <QuizRow key={item.setId} item={item} variant="purple" />
-          ))}
+            )}
+          </div>
         </div>
       )}
     </div>

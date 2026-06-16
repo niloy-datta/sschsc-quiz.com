@@ -1,0 +1,26 @@
+<svg width="100%" height="100%" viewBox="0 0 360 220" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="রিকম্বিনেন্ট প্লাজমিড">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#07111f"/>
+      <stop offset="100%" stop-color="#0f172a"/>
+    </linearGradient>
+    <filter id="glow"><feGaussianBlur stdDeviation="2.2" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+    <marker id="arrow" markerWidth="8" markerHeight="8" refX="7" refY="3" orient="auto"><path d="M0,0 L0,6 L8,3 z" fill="#67e8f9"/></marker>
+  </defs>
+  <rect width="360" height="220" rx="18" fill="url(#bg)"/>
+  <rect x="10" y="10" width="340" height="200" rx="14" fill="#ffffff" opacity=".035" stroke="#38bdf8" stroke-opacity=".24"/>
+  <text x="180" y="28" text-anchor="middle" fill="#e0f2fe" font-size="12.5" font-weight="700" font-family="Noto Sans Bengali, Arial, sans-serif">রিকম্বিনেন্ট প্লাজমিড</text>
+  <text x="180" y="44" text-anchor="middle" fill="#93c5fd" font-size="9.5" font-family="Noto Sans Bengali, Arial, sans-serif">ক্রোমোজোম-বহির্ভূত দ্বি-সূত্রক DNA</text>
+  
+  <g filter="url(#glow)">
+    <ellipse cx="115" cy="120" rx="62" ry="38" fill="#1e293b" stroke="#38bdf8" stroke-width="2"/>
+    <text x="115" y="122" text-anchor="middle" fill="#e0f2fe" font-size="12" font-family="Noto Sans Bengali, Arial">E. coli</text>
+    <circle cx="235" cy="120" r="42" fill="none" stroke="#a3e635" stroke-width="5"/>
+    <path d="M220 115 C235 96, 263 100, 270 124" fill="none" stroke="#f472b6" stroke-width="5" stroke-linecap="round"/>
+    <text x="235" y="177" text-anchor="middle" fill="#dcfce7" font-size="11" font-family="Noto Sans Bengali, Arial">প্লাজমিড DNA</text>
+    <line x1="155" y1="120" x2="190" y2="120" stroke="#67e8f9" stroke-width="2" marker-end="url(#arrow)" />
+    <text x="178" y="108" text-anchor="middle" fill="#fef3c7" font-size="9" font-family="Noto Sans Bengali, Arial">প্রবেশ</text>
+    <text x="235" y="122" text-anchor="middle" fill="#f8fafc" font-size="10" font-family="Noto Sans Bengali, Arial">M/Q</text>
+  </g>
+  
+</svg>

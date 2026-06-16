@@ -1,0 +1,282 @@
+{
+  "setId": "chapter-06-split-02",
+  "reason": "DUPLICATE_OF_chapter-06-split-02",
+  "quarantinedAt": "2026-06-16T10:44:44.713Z",
+  "questions": [
+    {
+      "id": "chapter-06-split-02-q01",
+      "questionText": "Q25. Empirical formula of a compound with composition 40% S and 60% O? (S=32,O=16) English: Empirical formula?",
+      "optionA": "SO2",
+      "optionB": "SO3",
+      "optionC": "S2O3",
+      "optionD": "S3O2",
+      "correctOption": "A",
+      "explanation": "Assume 100 g → 40 g S (1.25 mol), 60 g O (3.75 mol) → ratio 1:3 → SO3? Wait compute: 40/32=1.25, 60/16=3.75 divide by 1.25 → 1:3 → SO3. So answer should be SO3. Adjust options accordingly.",
+      "questionNo": 1
+    },
+    {
+      "id": "chapter-06-split-02-q02",
+      "questionText": "Q25-corrected. Empirical formula is?",
+      "optionA": "SO3",
+      "optionB": "SO2",
+      "optionC": "S2O3",
+      "optionD": "S3O2",
+      "correctOption": "A",
+      "explanation": "40/32=1.25; 60/16=3.75 → ratio 1:3 → SO3.",
+      "questionNo": 2
+    },
+    {
+      "id": "chapter-06-split-02-q03",
+      "questionText": "Q26. Which gives number of moles: mass/Mr formula? English: Which formula computes moles?",
+      "optionA": "n = mass/Mr",
+      "optionB": "n = Mr/mass",
+      "optionC": "n = mass×Mr",
+      "optionD": "n = Mr^2/mass",
+      "correctOption": "A",
+      "explanation": "n (mol) = mass (g) / molar mass (g/mol).",
+      "questionNo": 3
+    },
+    {
+      "id": "chapter-06-split-02-q04",
+      "questionText": "Q27. 3.01×10^23 molecules equals how many moles?",
+      "optionA": "0.5 mol",
+      "optionB": "1 mol",
+      "optionC": "0.05 mol",
+      "optionD": "2 mol",
+      "correctOption": "A",
+      "explanation": "3.01×10^23 ≈ 0.5×6.02×10^23 → 0.5 mol.",
+      "questionNo": 4
+    },
+    {
+      "id": "chapter-06-split-02-q05",
+      "questionText": "Q28. If Mr of a gas is 28 g/mol, mass of 0.25 mol = ?",
+      "optionA": "7 g",
+      "optionB": "14 g",
+      "optionC": "28 g",
+      "optionD": "3.5 g",
+      "correctOption": "A",
+      "explanation": "0.25×28 = 7 g.",
+      "questionNo": 5
+    },
+    {
+      "id": "chapter-06-split-02-q06",
+      "questionText": "Q29. A reaction produces 0.2 mol of product; how many molecules is this?",
+      "optionA": "1.204×10^23",
+      "optionB": "6.02×10^22",
+      "optionC": "3.01×10^22",
+      "optionD": "1.204×10^22",
+      "correctOption": "A",
+      "explanation": "0.2×6.02×10^23 = 1.204×10^23.",
+      "questionNo": 6
+    },
+    {
+      "id": "chapter-06-split-02-q07",
+      "questionText": "Q30. Which statement about mole is correct? Equal volumes of gases at same T and P contain equal number of molecules — True or False?",
+      "optionA": "True",
+      "optionB": "False",
+      "optionC": "Only for diatomic gases",
+      "optionD": "Only under STP",
+      "correctOption": "A",
+      "explanation": "Avogadro’s law: equal volumes at same T and P have equal molecules.",
+      "questionNo": 7
+    },
+    {
+      "id": "chapter-06-split-02-q08",
+      "questionText": "অ্যাভোগ্যাড্রো সংখ্যার মান কত? (Board Repeated)",
+      "optionA": "৬.০২৩ × ১০²²",
+      "optionB": "৬.০২৩ × ১০²৩",
+      "optionC": "৬.০২৩ × ১০⁻²³",
+      "optionD": "৬.০২৩ × ১০²৪",
+      "correctOption": "B",
+      "explanation": "সঠিক উত্তর: B (৬.০২৩ × ১০²৩)। ব্যাখ্যা: যেকোনো পদার্থের ১ মোলে উপস্থিত অণু, পরমাণু বা আয়নের সংখ্যা হলো",
+      "questionNo": 8
+    },
+    {
+      "id": "chapter-06-split-02-q09",
+      "questionText": "১ মোল পানির (H₂O) ভর কত?",
+      "optionA": "১০ গ্রাম",
+      "optionB": "১৬ গ্রাম",
+      "optionC": "১৮ গ্রাম",
+      "optionD": "২০ গ্রাম",
+      "correctOption": "C",
+      "explanation": "সঠিক উত্তর: C (১৮ গ্রাম)। ব্যাখ্যা: পানির আণবিক ভর = (১×২) + ১৬ = ১৮। সুতরাং ১ মোল = ১৮ গ্রাম।",
+      "questionNo": 9
+    },
+    {
+      "id": "chapter-06-split-02-q10",
+      "questionText": "৫ গ্রাম CaCO₃ সমান কত মোল?",
+      "optionA": "০.০৫ মোল",
+      "optionB": "০.৫ মোল",
+      "optionC": "৫ মোল",
+      "optionD": "০.১ মোল",
+      "correctOption": "A",
+      "explanation": "সঠিক উত্তর: A (০.০৫ মোল)। ব্যাখ্যা: CaCO₃ এর আণবিক ভর ১০০। মোল সংখ্যা (n) = W/M = ৫ / ১০০ = ০.০৫",
+      "questionNo": 10
+    },
+    {
+      "id": "chapter-06-split-02-q11",
+      "questionText": "১ মোল H₂O তে কতটি পরমাণু আছে?",
+      "optionA": "৬.০২৩ × ১০²৩ টি",
+      "optionB": "১.২০৪ × ১০²৪ টি",
+      "optionC": "১.৮০৬ × ১০²৪ টি",
+      "optionD": "৩.০১১ × ১০²৩ টি",
+      "correctOption": "C",
+      "explanation": "সঠিক উত্তর: C (১.৮০৬ × ১০²৪ টি)। ব্যাখ্যা: ১টি পানির অণুতে ৩টি পরমাণু (২টি H, ১টি O) থাকে। সুতরাং ১ মোলে",
+      "questionNo": 11
+    },
+    {
+      "id": "chapter-06-split-02-q12",
+      "questionText": "কার্বনের ১টি পরমাণুর ভর কত গ্রাম? (Board Repeated)",
+      "optionA": "১.৯৯ × ১০⁻২৩ গ্রাম",
+      "optionB": "১.৬৬ × ১০⁻২৪ গ্রাম",
+      "optionC": "১২ গ্রাম",
+      "optionD": "৬.০২৩ × ১০²৩ গ্রাম",
+      "correctOption": "A",
+      "explanation": "সঠিক উত্তর: A (১.৯৯ × ১০⁻২৩ গ্রাম)। ব্যাখ্যা: ১টি C পরমাণুর ভর = ১২ / (৬.০২৩ × ১০²৩) = ১.৯৯৩ × ১০⁻২৩ গ্রাম।",
+      "questionNo": 12
+    },
+    {
+      "id": "chapter-06-split-02-q13",
+      "questionText": "১০ গ্রাম হাইড্রোজেন (H₂) গ্যাসে কতটি অণু থাকে?",
+      "optionA": "৬.০২৩ × ১০²৩ টি",
+      "optionB": "৩.০১১ × ১০²৪ টি",
+      "optionC": "১.২০৪ × ১০²৪ টি",
+      "optionD": "৬.০২৩ × ১০²৪ টি",
+      "correctOption": "B",
+      "explanation": "সঠিক উত্তর: B (৩.০১১ × ১০²৪ টি)। ব্যাখ্যা: H₂ এর আণবিক ভর ২। মোল = ১০/২ = ৫ মোল। অণুর সংখ্যা = ৫ × (৬.০২৩",
+      "questionNo": 13
+    },
+    {
+      "id": "chapter-06-split-02-q14",
+      "questionText": "১টি কার্বন ডাইঅক্সাইড (CO₂) অণুর প্রকৃত ভর কত?",
+      "optionA": "৭.৩ × ১০⁻২৩ গ্রাম",
+      "optionB": "৪৪ গ্রাম",
+      "optionC": "১.৯৯ × ১০⁻২৩ গ্রাম",
+      "optionD": "৫.৩১ × ১০⁻২৩ গ্রাম",
+      "correctOption": "A",
+      "explanation": "সঠিক উত্তর: A (৭.৩ × ১০⁻২৩ গ্রাম)। ব্যাখ্যা: CO₂ এর আণবিক ভর ৪৪। ১টি অণুর ভর = ৪৪ / (৬.০২৩ × ১০²৩) = ৭.৩০ ×",
+      "questionNo": 14
+    },
+    {
+      "id": "chapter-06-split-02-q15",
+      "questionText": "১ মোল অক্সিজেন গ্যাসে (O₂) কতটি অক্সিজেন পরমাণু থাকে?",
+      "optionA": "৬.০২৩ × ১০²৩ টি",
+      "optionB": "১.২০৪ × ১০²৪ টি",
+      "optionC": "৩.০১১ × ১০²৩ টি",
+      "optionD": "৩২ টি",
+      "correctOption": "B",
+      "explanation": "সঠিক উত্তর: B (১.২০৪ × ১০²৪ টি)। ব্যাখ্যা: ১ মোল O₂ গ্যাসে অণু থাকে ৬.০২৩ × ১০²৩ টি। ১টি অণুতে ২টি পরমাণু",
+      "questionNo": 15
+    },
+    {
+      "id": "chapter-06-split-02-q16",
+      "questionText": "৯ গ্রাম পানিতে কত মোল পানি বিদ্যমান?",
+      "optionA": "১ মোল",
+      "optionB": "০.৫ মোল",
+      "optionC": "০.২৫ মোল",
+      "optionD": "২ মোল",
+      "correctOption": "B",
+      "explanation": "সঠিক উত্তর: B (০.৫ মোল)। ব্যাখ্যা: n = W/M = ৯/১৮ = ০.৫ মোল।",
+      "questionNo": 16
+    },
+    {
+      "id": "chapter-06-split-02-q17",
+      "questionText": "কোনটির ভর সবচেয়ে কম?",
+      "optionA": "১টি প্রোটন",
+      "optionB": "১টি নিউট্রন",
+      "optionC": "১টি ইলেকট্রন",
+      "optionD": "১টি হাইড্রোজেন পরমাণু",
+      "correctOption": "C",
+      "explanation": "সঠিক উত্তর: C (১টি ইলেকট্রন)। ব্যাখ্যা: ১টি ইলেকট্রনের ভর ৯.১১ × ১০⁻২৮ গ্রাম, যা প্রোটন বা নিউট্রনের",
+      "questionNo": 17
+    },
+    {
+      "id": "chapter-06-split-02-q18",
+      "questionText": "প্রমাণ অবস্থায় (STP) ১ মোল যেকোনো গ্যাসের আয়তন কত? (Board Repeated)",
+      "optionA": "২২.৪ লিটার",
+      "optionB": "২৪.৮ লিটার",
+      "optionC": "১.১২ লিটার",
+      "optionD": "৪৪.৮ লিটার",
+      "correctOption": "A",
+      "explanation": "সঠিক উত্তর: A (২২.৪ লিটার)",
+      "questionNo": 18
+    },
+    {
+      "id": "chapter-06-split-02-q19",
+      "questionText": "STP তে ৪৪ গ্রাম CO₂ গ্যাসের আয়তন কত?",
+      "optionA": "১১.২ লিটার",
+      "optionB": "২২.৪ লিটার",
+      "optionC": "৪৪.৮ লিটার",
+      "optionD": "৫.৬ লিটার",
+      "correctOption": "B",
+      "explanation": "সঠিক উত্তর: B (২২.৪ লিটার)। ব্যাখ্যা: ৪৪ গ্রাম CO₂ মানে ১ মোল। আর ১ মোল গ্যাসের আয়তন ২২.৪ লিটার।",
+      "questionNo": 19
+    },
+    {
+      "id": "chapter-06-split-02-q20",
+      "questionText": "প্রমাণ অবস্থায় ১১.২ লিটার অক্সিজেন গ্যাসে কত মোল অক্সিজেন থাকে?",
+      "optionA": "১ মোল",
+      "optionB": "০.৫ মোল",
+      "optionC": "০.২৫ মোল",
+      "optionD": "২ মোল",
+      "correctOption": "B",
+      "explanation": "সঠিক উত্তর: B (০.৫ মোল)। ব্যাখ্যা: মোল (n) = V / ২২.৪ = ১১.২ / ২২.৪ = ০.৫ মোল।",
+      "questionNo": 20
+    },
+    {
+      "id": "chapter-06-split-02-q21",
+      "questionText": "প্রমাণ অবস্থায় ২.২৪ লিটার N₂ গ্যাসের ভর কত?",
+      "optionA": "২.৮ গ্রাম",
+      "optionB": "১৪ গ্রাম",
+      "optionC": "২৮ গ্রাম",
+      "optionD": "৫.৬ গ্রাম",
+      "correctOption": "A",
+      "explanation": "সঠিক উত্তর: A (২.৮ গ্রাম)। ব্যাখ্যা: ২.২৪ লিটার = ০.১ মোল। N₂ এর আণবিক ভর ২৮। ০.১ মোল = ২৮ × ০.১ =",
+      "questionNo": 21
+    },
+    {
+      "id": "chapter-06-split-02-q22",
+      "questionText": "৫ মোল CH₄ (মিথেন) গ্যাসের প্রমাণ অবস্থায় আয়তন কত?",
+      "optionA": "১১২ লিটার",
+      "optionB": "২২.৪ লিটার",
+      "optionC": "৫৬ লিটার",
+      "optionD": "১৬০ লিটার",
+      "correctOption": "A",
+      "explanation": "সঠিক উত্তর: A (১১২ লিটার)। ব্যাখ্যা: ১ মোলের আয়তন ২২.৪ লিটার। ৫ মোলের আয়তন = ৫ × ২২.৪ = ১১২ লিটার।",
+      "questionNo": 22
+    },
+    {
+      "id": "chapter-06-split-02-q23",
+      "questionText": "১০ গ্রাম ভরের নিচের কোন গ্যাসটির আয়তন STP তে সবচেয়ে বেশি হবে?",
+      "optionA": "CO₂",
+      "optionB": "N₂",
+      "optionC": "O₂",
+      "optionD": "H₂",
+      "correctOption": "D",
+      "explanation": "সঠিক উত্তর: D (H₂)। ব্যাখ্যা: যার আণবিক ভর সবচেয়ে কম, তার মোল সংখ্যা সবচেয়ে বেশি হবে (১০/২ =",
+      "questionNo": 23
+    },
+    {
+      "id": "chapter-06-split-02-q24",
+      "questionText": "প্রমাণ অবস্থায় CO₂ গ্যাসের ঘনত্ব কত (g/L)?",
+      "optionA": "১.৯৬ g/L",
+      "optionB": "১.২৫ g/L",
+      "optionC": "২.০৫ g/L",
+      "optionD": "১.৪২ g/L",
+      "correctOption": "A",
+      "explanation": "সঠিক উত্তর: A (১.৯৬ g/L)। ব্যাখ্যা: ঘনত্ব (d) = আণবিক ভর / মোলার আয়তন = ৪৪ / ২২.৪ = ১.৯৬৪",
+      "questionNo": 24
+    },
+    {
+      "id": "chapter-06-split-02-q25",
+      "questionText": "প্রমাণ অবস্থায় ২২.৪ লিটার NH₃ গ্যাসে কতটি অণু থাকে?",
+      "optionA": "৬.০২৩ × ১০²৩ টি",
+      "optionB": "৩.০১১ × ১০²৩ টি",
+      "optionC": "১.২০৪ × ১০²৪ টি",
+      "optionD": "১৭ টি",
+      "correctOption": "A",
+      "explanation": "সঠিক উত্তর: A (৬.০২৩ × ১০²৩ টি)। ব্যাখ্যা: ২২.৪ লিটার মানে ১ মোল, যাতে অ্যাভোগ্যাড্রো সংখ্যক অণু থাকে।",
+      "questionNo": 25
+    }
+  ]
+}

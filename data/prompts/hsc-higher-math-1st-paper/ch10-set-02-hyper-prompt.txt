@@ -1,0 +1,31 @@
+# MICRO HYPER PROMPT — Ch 10 Set 02 ONLY (25 MCQ)
+# Chapter: যোগজীকরণ
+# Paste AFTER 00-MASTER-HYPER-PROMPT.txt
+# Save output: data/imports/hsc-higher-math-1st-paper-chapter-10-set-02.json
+
+## TASK
+Generate **ONLY Set 02** for Chapter 10: যোগজীকরণ.
+Exactly **25 unique MCQ**. Set ID: hsc-higher-math-1st-paper-chapter-10-set-02
+
+## SET FOCUS
+Numerical application + formula drill
+
+## MEGA HOT SUBTOPICS
+Standard integrals, substitution, by parts, partial fraction, definite integral properties, area under curve basics
+
+## JSON (single-set wrapper)
+{
+  "level": "HSC",
+  "subject": "higher-math-1st-paper",
+  "chapterWise": [{
+    "chapter": "10",
+    "chapterName": "যোগজীকরণ",
+    "sets": [{
+      "id": "hsc-higher-math-1st-paper-chapter-10-set-02",
+      "title": "Chapter 10 Hyper Mega Hot Set 02",
+      "questions": [ /* exactly 25 */ ]
+    }]
+  }]
+}
+
+Output JSON only.

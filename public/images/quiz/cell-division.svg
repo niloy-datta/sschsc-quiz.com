@@ -1,0 +1,74 @@
+<svg viewBox="0 0 360 220" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0f172a"/>
+      <stop offset="100%" stop-color="#1e1b4b"/>
+    </linearGradient>
+    <filter id="glow" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="0" dy="0" stdDeviation="3" flood-color="#22d3ee" flood-opacity="0.55"/>
+    </filter>
+    <filter id="glow-pink" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="0" dy="0" stdDeviation="3" flood-color="#f472b6" flood-opacity="0.55"/>
+    </filter>
+  </defs>
+  <rect width="360" height="220" rx="14" fill="url(#bg)" stroke="#334155" stroke-width="1.5"/>
+
+  <text x="180" y="20" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="11" text-anchor="middle" font-weight="bold">কোষ বিভাজন (মাইটোসিস) — Cell Division</text>
+
+  <!-- Prophase -->
+  <circle cx="50" cy="60" r="22" fill="#0f172a" stroke="#22d3ee" stroke-width="2" filter="url(#glow)"/>
+  <!-- Chromosomes condensing -->
+  <path d="M 42 55 L 44 65" stroke="#f472b6" stroke-width="1.5"/>
+  <path d="M 48 52 L 50 64" stroke="#f472b6" stroke-width="1.5"/>
+  <path d="M 54 54 L 56 66" stroke="#f472b6" stroke-width="1.5"/>
+  <path d="M 46 58 L 48 68" stroke="#f472b6" stroke-width="1.5"/>
+  <text x="50" y="42" fill="#67e8f9" font-family="system-ui,sans-serif" font-size="8" text-anchor="middle">প্রোফেজ</text>
+
+  <!-- Metaphase -->
+  <circle cx="130" cy="60" r="22" fill="#0f172a" stroke="#22d3ee" stroke-width="2" filter="url(#glow)"/>
+  <!-- Chromosomes aligned at center -->
+  <line x1="120" y1="60" x2="140" y2="60" stroke="#f472b6" stroke-width="2"/>
+  <line x1="126" y1="56" x2="126" y2="64" stroke="#f472b6" stroke-width="1.5"/>
+  <line x1="132" y1="54" x2="132" y2="66" stroke="#f472b6" stroke-width="1.5"/>
+  <line x1="137" y1="56" x2="137" y2="64" stroke="#f472b6" stroke-width="1.5"/>
+  <!-- Spindle fibers -->
+  <line x1="130" y1="38" x2="126" y2="58" stroke="#a78bfa" stroke-width="0.8" stroke-dasharray="2 2"/>
+  <line x1="130" y1="38" x2="132" y2="58" stroke="#a78bfa" stroke-width="0.8" stroke-dasharray="2 2"/>
+  <line x1="130" y1="82" x2="137" y2="62" stroke="#a78bfa" stroke-width="0.8" stroke-dasharray="2 2"/>
+  <line x1="130" y1="82" x2="126" y2="62" stroke="#a78bfa" stroke-width="0.8" stroke-dasharray="2 2"/>
+  <text x="130" y="42" fill="#fda4af" font-family="system-ui,sans-serif" font-size="8" text-anchor="middle">মেটাফেজ</text>
+
+  <!-- Anaphase -->
+  <circle cx="210" cy="60" r="22" fill="#0f172a" stroke="#22d3ee" stroke-width="2" filter="url(#glow)"/>
+  <!-- Chromosomes separating -->
+  <line x1="198" y1="52" x2="198" y2="65" stroke="#f472b6" stroke-width="2"/>
+  <line x1="203" y1="50" x2="203" y2="63" stroke="#f472b6" stroke-width="2"/>
+  <line x1="218" y1="52" x2="218" y2="65" stroke="#34d399" stroke-width="2"/>
+  <line x1="223" y1="50" x2="223" y2="63" stroke="#34d399" stroke-width="2"/>
+  <!-- Spindle pulling -->
+  <line x1="210" y1="38" x2="200" y2="55" stroke="#a78bfa" stroke-width="0.8" stroke-dasharray="2 2"/>
+  <line x1="210" y1="38" x2="220" y2="55" stroke="#a78bfa" stroke-width="0.8" stroke-dasharray="2 2"/>
+  <text x="210" y="42" fill="#86efac" font-family="system-ui,sans-serif" font-size="8" text-anchor="middle">অ্যানাফেজ</text>
+
+  <!-- Telophase -->
+  <circle cx="290" cy="60" r="22" fill="#0f172a" stroke="#22d3ee" stroke-width="2" filter="url(#glow)"/>
+  <!-- Two nuclei forming -->
+  <circle cx="282" cy="58" r="6" fill="none" stroke="#f472b6" stroke-width="1.5"/>
+  <circle cx="298" cy="58" r="6" fill="none" stroke="#34d399" stroke-width="1.5"/>
+  <!-- Cleavage furrow -->
+  <path d="M 280 78 Q 290 80 300 78" fill="none" stroke="#fde68a" stroke-width="1.5"/>
+  <text x="290" y="42" fill="#fdba74" font-family="system-ui,sans-serif" font-size="8" text-anchor="middle">টেলোফেজ</text>
+
+  <!-- Cytokinesis (daughter cells) -->
+  <circle cx="130" cy="130" r="22" fill="#0f172a" stroke="#22d3ee" stroke-width="2"/>
+  <circle cx="130" cy="130" r="8" fill="none" stroke="#fde68a" stroke-width="1.5"/>
+  <text x="130" y="112" fill="#67e8f9" font-family="system-ui,sans-serif" font-size="8" text-anchor="middle">সাইটোকাইনেসিস</text>
+
+  <circle cx="210" cy="130" r="22" fill="#0f172a" stroke="#22d3ee" stroke-width="2"/>
+  <circle cx="210" cy="130" r="8" fill="none" stroke="#fde68a" stroke-width="1.5"/>
+
+  <!-- Arrow between phases -->
+  <text x="180" y="92" fill="#64748b" font-family="system-ui,sans-serif" font-size="12" text-anchor="middle">→ → →</text>
+
+  <text x="180" y="200" fill="#94a3b8" font-family="system-ui,sans-serif" font-size="10" text-anchor="middle">মাইটোসিস কোষ বিভাজনের বিভিন্ন ধাপ</text>
+</svg>

@@ -8,6 +8,7 @@ export interface Question {
   text: string;
   options: string[];
   image: string | null;
+  optionImages?: string[] | null;
   timeLimit: number;
 }
 
@@ -37,7 +38,9 @@ export interface QuizResults {
   weakTopics: string[];
   strongTopics: string[];
   explanations: Record<string, string>;
+  correctAnswerIndexes?: Record<string, number>;
 }
+
 
 function newSubmissionId(): string {
   if (typeof crypto !== "undefined" && crypto.randomUUID) {

@@ -1,0 +1,282 @@
+{
+  "setId": "chapter-2-split-05",
+  "reason": "DUPLICATE_OF_chapter-2-split-05",
+  "quarantinedAt": "2026-06-13T17:58:59.988Z",
+  "questions": [
+    {
+      "id": "chapter-2-split-05-q01",
+      "questionText": "IP address কী?",
+      "optionA": "নেটওয়ার্কে ডিভাইসের যৌক্তিক ঠিকানা",
+      "optionB": "ওয়েবপেজের রং",
+      "optionC": "ডেটাবেজের field",
+      "optionD": "CSS selector",
+      "correctOption": "A",
+      "explanation": "ইন্টারনেটে সংযুক্ত প্রতিটি ডিভাইসের একটি লজিক্যাল আইডেন্টিটি বা যৌক্তিক ঠিকানাই হলো আইপি অ্যাড্রেস।",
+      "questionNo": 1
+    },
+    {
+      "id": "chapter-2-split-05-q02",
+      "questionText": "IPv4 address সাধারণত কয় bit?",
+      "optionA": "১৬ bit",
+      "optionB": "৩২ bit",
+      "optionC": "৬৪ bit",
+      "optionD": "১২৮ bit",
+      "correctOption": "B",
+      "explanation": "IPv4 অ্যাড্রেস ৩২ বিটের হয়ে থাকে, যা ৮ বিটের ৪টি ভাগে (অকটেট) বিভক্ত থাকে।",
+      "questionNo": 2
+    },
+    {
+      "id": "chapter-2-split-05-q03",
+      "questionText": "IPv6 address কয় bit?",
+      "optionA": "৩২ bit",
+      "optionB": "৬৪ bit",
+      "optionC": "১২৮ bit",
+      "optionD": "২৫৬ bit",
+      "correctOption": "C",
+      "explanation": "ভবিষ্যতের চাহিদা মেটাতে তৈরি করা IPv6 অ্যাড্রেস ১২৮ বিটের হয়ে থাকে।",
+      "questionNo": 3
+    },
+    {
+      "id": "chapter-2-split-05-q04",
+      "questionText": "IPv4 address-এর উদাহরণ কোনটি?",
+      "optionA": "192.168.1.1",
+      "optionB": "www.example.com",
+      "optionC": "user@gmail.com",
+      "optionD": "https",
+      "correctOption": "A",
+      "explanation": "192.168.1.1 হলো একটি সাধারণ লোকাল আইপি অ্যাড্রেস, যেখানে ৪টি অংশ আছে। বাকিগুলো ডোমেইন, ইমেইল বা প্রোটোকল।",
+      "questionNo": 4
+    },
+    {
+      "id": "chapter-2-split-05-q05",
+      "questionText": "Domain name কী?",
+      "optionA": "ওয়েবসাইটের মানুষের পড়ার উপযোগী নাম",
+      "optionB": "computer RAM",
+      "optionC": "database row",
+      "optionD": "cable type",
+      "correctOption": "A",
+      "explanation": "ডোমেইন নেম হলো ইন্টারনেটে কোনো ওয়েবসাইটের ইউনিক টেক্সট-ভিত্তিক নাম, যা মানুষের মনে রাখা সহজ।",
+      "questionNo": 5
+    },
+    {
+      "id": "chapter-2-split-05-q06",
+      "questionText": "`www.google.com` হলো—",
+      "optionA": "domain name",
+      "optionB": "IP address",
+      "optionC": "MAC address",
+      "optionD": "SQL command",
+      "correctOption": "A",
+      "explanation": "google.com হলো ডোমেইন নেম। এটি কোনো আইপি অ্যাড্রেস বা ম্যাক অ্যাড্রেস নয়।",
+      "questionNo": 6
+    },
+    {
+      "id": "chapter-2-split-05-q07",
+      "questionText": "DNS না থাকলে ব্যবহারকারীকে কী মনে রাখতে হতো?",
+      "optionA": "IP address",
+      "optionB": "CSS color",
+      "optionC": "table name",
+      "optionD": "keyboard key",
+      "correctOption": "A",
+      "explanation": "DNS না থাকলে প্রতিটি ওয়েবসাইটের জন্য জটিল সংখ্যার IP অ্যাড্রেস মুখস্থ করে রাখতে হতো।",
+      "questionNo": 7
+    },
+    {
+      "id": "chapter-2-split-05-q08",
+      "questionText": "MAC address কী?",
+      "optionA": "hardware address",
+      "optionB": "domain name",
+      "optionC": "SQL command",
+      "optionD": "HTML attribute",
+      "correctOption": "A",
+      "explanation": "MAC (Media Access Control) অ্যাড্রেস হলো নেটওয়ার্ক ইন্টারফেস কার্ডের (NIC) পারমানেন্ট ফিজিক্যাল বা হার্ডওয়্যার অ্যাড্রেস।",
+      "questionNo": 8
+    },
+    {
+      "id": "chapter-2-split-05-q09",
+      "questionText": "MAC address সাধারণত কোন ডিভাইসের সাথে যুক্ত?",
+      "optionA": "NIC",
+      "optionB": "Monitor",
+      "optionC": "Printer paper",
+      "optionD": "Keyboard button",
+      "correctOption": "A",
+      "explanation": "ম্যানুফ্যাকচারার বা কোম্পানি প্রতিটি নেটওয়ার্ক ইন্টারফেস কার্ড (NIC) বানানোর সময় তাতে একটি ইউনিক ম্যাক অ্যাড্রেস সেট করে দেয়।",
+      "questionNo": 9
+    },
+    {
+      "id": "chapter-2-split-05-q10",
+      "questionText": "Cloud computing বলতে বোঝায়—",
+      "optionA": "internet-based computing service",
+      "optionB": "শুধু local hard disk",
+      "optionC": "শুধু keyboard",
+      "optionD": "শুধু offline calculator",
+      "correctOption": "A",
+      "explanation": "ইন্টারনেটের মাধ্যমে দূরবর্তী কোনো সার্ভার থেকে স্টোরেজ, ডাটাবেস, সফটওয়্যার বা কম্পিউটিং পাওয়ার ভাড়া নেওয়াই হলো ক্লাউড কম্পিউটিং।",
+      "questionNo": 10
+    },
+    {
+      "id": "chapter-2-split-05-q11",
+      "questionText": "Cloud storage-এর উদাহরণ—",
+      "optionA": "Google Drive",
+      "optionB": "MS Paint",
+      "optionC": "Calculator",
+      "optionD": "Notepad offline",
+      "correctOption": "A",
+      "explanation": "Google Drive, Dropbox, OneDrive ইত্যাদি হলো ক্লাউড স্টোরেজের উদাহরণ।",
+      "questionNo": 11
+    },
+    {
+      "id": "chapter-2-split-05-q12",
+      "questionText": "Cloud computing-এর সুবিধা—",
+      "optionA": "যেকোনো স্থান থেকে access",
+      "optionB": "internet ছাড়া সবসময় access",
+      "optionC": "ডেটা সবসময় হারায়",
+      "optionD": "কোনো security লাগে না",
+      "correctOption": "A",
+      "explanation": "ইন্টারনেট থাকলে বিশ্বের যেকোনো জায়গা থেকে, যেকোনো ডিভাইসে ক্লাউডে রাখা ডেটা অ্যাক্সেস করা যায়।",
+      "questionNo": 12
+    },
+    {
+      "id": "chapter-2-split-05-q13",
+      "questionText": "Cloud computing-এর ঝুঁকি—",
+      "optionA": "privacy/security risk",
+      "optionB": "speed সবসময় infinite",
+      "optionC": "কোনো cost নেই",
+      "optionD": "network লাগে না",
+      "correctOption": "A",
+      "explanation": "যেহেতু ডেটা অন্য কারো সার্ভারে থাকে, তাই ক্লাউড কম্পিউটিংয়ে তথ্য ফাঁস বা প্রাইভেসি এবং হ্যাকিংয়ের ঝুঁকি থাকে।",
+      "questionNo": 13
+    },
+    {
+      "id": "chapter-2-split-05-q14",
+      "questionText": "Mobile network-এ cell ধারণা ব্যবহৃত হয় কেন?",
+      "optionA": "area ভাগ করে communication সহজ করতে",
+      "optionB": "HTML লিখতে",
+      "optionC": "SQL চালাতে",
+      "optionD": "virus বানাতে",
+      "correctOption": "A",
+      "explanation": "একটি বড় ভৌগোলিক এলাকাকে ছোট ছোট হেক্সাগোনাল অংশে ভাগ করে (যাকে সেল বলে) প্রতিটিতে টাওয়ার বসিয়ে মোবাইল নেটওয়ার্ক পরিচালনা করা হয়।",
+      "questionNo": 14
+    },
+    {
+      "id": "chapter-2-split-05-q15",
+      "questionText": "GSM সম্পর্কিত কোন ক্ষেত্রে?",
+      "optionA": "mobile communication",
+      "optionB": "database",
+      "optionC": "web design",
+      "optionD": "flowchart",
+      "correctOption": "A",
+      "explanation": "GSM (Global System for Mobile Communications) হলো মোবাইল নেটওয়ার্কে বহুল ব্যবহৃত একটি জনপ্রিয় প্রযুক্তি বা স্ট্যান্ডার্ড।",
+      "questionNo": 15
+    },
+    {
+      "id": "chapter-2-split-05-q16",
+      "questionText": "Wi-Fi সাধারণত ব্যবহৃত হয়—",
+      "optionA": "wireless LAN connection",
+      "optionB": "wired SQL",
+      "optionC": "optical only",
+      "optionD": "simplex TV only",
+      "correctOption": "A",
+      "explanation": "লোকাল এরিয়া নেটওয়ার্কে (LAN) তার ছাড়াই ডিভাইসগুলোকে ইন্টারনেটের সাথে যুক্ত করতে ওয়াই-ফাই ব্যবহৃত হয়।",
+      "questionNo": 16
+    },
+    {
+      "id": "chapter-2-split-05-q17",
+      "questionText": "Bluetooth-এর range সাধারণত—",
+      "optionA": "কম দূরত্ব",
+      "optionB": "মহাদেশজুড়ে",
+      "optionC": "স্যাটেলাইট দূরত্ব",
+      "optionD": "WAN level",
+      "correctOption": "A",
+      "explanation": "ব্লুটুথ সাধারণত ১০ থেকে ১০০ মিটারের মতো খুব শর্ট-রেঞ্জ বা কম দূরত্বের মধ্যে (PAN) কাজ করে।",
+      "questionNo": 17
+    },
+    {
+      "id": "chapter-2-split-05-q18",
+      "questionText": "Hotspot কী?",
+      "optionA": "wireless internet sharing point",
+      "optionB": "database table",
+      "optionC": "HTML tag",
+      "optionD": "logic gate",
+      "correctOption": "A",
+      "explanation": "হটস্পট হলো এমন একটি শারীরিক স্থান যেখান থেকে রাউটার বা মোবাইলের মাধ্যমে ওয়াই-ফাই সিগন্যাল তৈরি করে ইন্টারনেট শেয়ার করা হয়।",
+      "questionNo": 18
+    },
+    {
+      "id": "chapter-2-split-05-q19",
+      "questionText": "Firewall-এর কাজ—",
+      "optionA": "অননুমোদিত access প্রতিরোধ",
+      "optionB": "file print",
+      "optionC": "CSS style",
+      "optionD": "table row",
+      "correctOption": "A",
+      "explanation": "ফায়ারওয়াল একটি নিরাপত্তা সিস্টেম যা কোনো নেটওয়ার্কে বাইরে থেকে অননুমোদিত প্রবেশ বা অ্যাটাক প্রতিরোধ করে।",
+      "questionNo": 19
+    },
+    {
+      "id": "chapter-2-split-05-q20",
+      "questionText": "Proxy server কী করতে পারে?",
+      "optionA": "client ও internet-এর মাঝে intermediary হিসেবে কাজ",
+      "optionB": "keyboard repair",
+      "optionC": "image draw",
+      "optionD": "cable cut",
+      "correctOption": "A",
+      "explanation": "প্রক্সি সার্ভার ব্যবহারকারী (ক্লায়েন্ট) এবং মূল ইন্টারনেটের মাঝখানে থেকে একটি গেটওয়ে বা মাধ্যম হিসেবে কাজ করে প্রাইভেসি নিশ্চিত করে।",
+      "questionNo": 20
+    },
+    {
+      "id": "chapter-2-split-05-q21",
+      "questionText": "Intranet কী?",
+      "optionA": "প্রতিষ্ঠানের অভ্যন্তরীণ network",
+      "optionB": "পুরো internet",
+      "optionC": "শুধু public website",
+      "optionD": "শুধু email address",
+      "correctOption": "A",
+      "explanation": "ইন্ট্রানেট হলো কোনো নির্দিষ্ট অফিস বা কোম্পানির নিজস্ব প্রাইভেট নেটওয়ার্ক, যা শুধু ওই কোম্পানির কর্মীরাই ব্যবহার করতে পারে।",
+      "questionNo": 21
+    },
+    {
+      "id": "chapter-2-split-05-q22",
+      "questionText": "Extranet কী?",
+      "optionA": "সীমিত external user access সহ private network",
+      "optionB": "সম্পূর্ণ offline file",
+      "optionC": "keyboard layout",
+      "optionD": "monitor size",
+      "correctOption": "A",
+      "explanation": "যখন একটি ইন্ট্রানেটকে ইন্টারনেটের মাধ্যমে কিছু নির্দিষ্ট বাইরের ব্যবহারকারী (যেমন ভেন্ডর বা পার্টনার) অ্যাক্সেস করার অনুমতি দেওয়া হয়, তখন তাকে এক্সট্রানেট বলে।",
+      "questionNo": 22
+    },
+    {
+      "id": "chapter-2-split-05-q23",
+      "questionText": "Network security-এর জন্য দরকার—",
+      "optionA": "firewall, password, encryption",
+      "optionB": "password share",
+      "optionC": "open access",
+      "optionD": "virus install",
+      "correctOption": "A",
+      "explanation": "নেটওয়ার্ককে হ্যাকার বা ম্যালওয়্যার থেকে সুরক্ষিত রাখতে ফায়ারওয়াল, শক্তিশালী পাসওয়ার্ড এবং ডেটা এনক্রিপশনের মতো পদ্ধতি ব্যবহার করা হয়।",
+      "questionNo": 23
+    },
+    {
+      "id": "chapter-2-split-05-q24",
+      "questionText": "Practical trap: Hub ও Switch-এর পার্থক্য কোনটি সঠিক?",
+      "optionA": "Hub সব port-এ পাঠায়, Switch নির্দিষ্ট port-এ পাঠায়",
+      "optionB": "Switch সবসময় সব port-এ পাঠায়",
+      "optionC": "Hub শুধু IP তৈরি করে",
+      "optionD": "Switch keyboard হিসেবে কাজ করে",
+      "correctOption": "A",
+      "explanation": "হাব ডেটা পেলে না বুঝেই সব পোর্টে পাঠিয়ে দেয় (ব্রডকাস্ট), কিন্তু সুইচ ডেটা প্যাকেটের ম্যাক অ্যাড্রেস পড়ে শুধু গন্তব্য পোর্টে পাঠায় (ইউনিকাস্ট)।",
+      "questionNo": 24
+    },
+    {
+      "id": "chapter-2-split-05-q25",
+      "questionText": "Practical trap: Domain ও IP-এর পার্থক্য কোনটি সঠিক?",
+      "optionA": "Domain মানুষের জন্য সহজ নাম, IP ডিভাইসের network address",
+      "optionB": "দুটোই CSS property",
+      "optionC": "IP হলো HTML tag",
+      "optionD": "Domain হলো SQL command",
+      "correctOption": "A",
+      "explanation": "কম্পিউটার বা নেটওয়ার্ক চেনে সংখ্যার IP অ্যাড্রেস, আর মানুষের মনে রাখার সুবিধার জন্য ওই অ্যাড্রেসের একটি টেক্সট নাম দেওয়া হয় যাকে Domain Name বলে।",
+      "questionNo": 25
+    }
+  ]
+}

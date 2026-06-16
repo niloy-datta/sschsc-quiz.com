@@ -1,0 +1,377 @@
+[
+  {
+    "id": "chapter-06-split-02-q01",
+    "subject": "physics-1st-paper",
+    "chapter": "chapter-06-split-02",
+    "text": "পার্কিং কক্ষপথ (Parking Orbit) বলতে কোন উপগ্রহের কক্ষপথকে বোঝায়?",
+    "options": [
+      "পোলার উপগ্রহ",
+      "ভূ-স্থির উপগ্রহ",
+      "গুপ্তচর উপগ্রহ",
+      "আবহাওয়া উপগ্রহ"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "chapter-06-split-02-q02",
+    "subject": "physics-1st-paper",
+    "chapter": "chapter-06-split-02",
+    "text": "একটি উপগ্রহের মোট যান্ত্রিক শক্তি ($E$) কত?",
+    "options": [
+      "$E = E_k$",
+      "$E = -E_k$",
+      "$E = E_p$",
+      "$E = 2E_k$"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "chapter-06-split-02-q03",
+    "subject": "physics-1st-paper",
+    "chapter": "chapter-06-split-02",
+    "text": "কৃত্রিম উপগ্রহে নভোচারী ওজনহীনতা অনুভব করেন কেন?",
+    "options": [
+      "সেখানে অভিকর্ষ নেই বলে",
+      "উপগ্রহের কেন্দ্রমুখী ত্বরণ অভিকর্ষজ ত্বরণের সমান বলে",
+      "নভোচারীর ভর শূন্য হয়ে যায় বলে",
+      "সেখানে বায়ুমণ্ডল নেই বলে"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "chapter-06-split-02-q04",
+    "subject": "physics-1st-paper",
+    "chapter": "chapter-06-split-02",
+    "text": "কোনো উপগ্রহের পর্যায়কাল $T$ এবং পৃথিবীর ঘনত্ব $\\\\rho$ হলে $T^2\\\\rho$ এর মান একটি—",
+    "options": [
+      "চলক",
+      "ধ্রুবক",
+      "সময়",
+      "ঘনত্ব"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "chapter-06-split-02-q05",
+    "subject": "physics-1st-paper",
+    "chapter": "chapter-06-split-02",
+    "text": "একটি বস্তুকে মুক্তিবেগে নিক্ষেপ করা হলে তার মোট যান্ত্রিক শক্তি কত হবে?",
+    "options": [
+      "ধনাত্মক",
+      "ঋণাত্মক",
+      "শূন্য",
+      "অসীম"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "chapter-06-split-02-q06",
+    "subject": "physics-1st-paper",
+    "chapter": "chapter-06-split-02",
+    "text": "মুক্তিবেগে নিক্ষিপ্ত বস্তুর গতিপথ কীরূপ?",
+    "options": [
+      "পরাবৃত্ত (Parabola)",
+      "অধিবৃত্ত (Hyperbola)",
+      "বৃত্তাকার",
+      "সরলরেখা"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "chapter-06-split-02-q07",
+    "subject": "physics-1st-paper",
+    "chapter": "chapter-06-split-02",
+    "text": "কৃত্রিম উপগ্রহের প্রদক্ষিণ বেগ বস্তুর—",
+    "options": [
+      "ভরের উপর নির্ভর করে",
+      "ভরের উপর নির্ভর করে না",
+      "ব্যাসার্ধের উপর নির্ভর করে না",
+      "দূরত্বের উপর নির্ভর করে না"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "chapter-06-split-02-q08",
+    "subject": "physics-1st-paper",
+    "chapter": "chapter-06-split-02",
+    "text": "পৃথিবীর আহ্নিক গতি বন্ধ হলে মুক্তিবেগের মানের কী পরিবর্তন হবে?",
+    "options": [
+      "বৃদ্ধি পাবে",
+      "হ্রাস পাবে",
+      "অপরিবর্তিত থাকবে",
+      "শূন্য হবে"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "chapter-06-split-02-q09",
+    "subject": "physics-1st-paper",
+    "chapter": "chapter-06-split-02",
+    "text": "একটি প্রজেক্টাইলকে $v$ বেগে নিক্ষেপ করা হলো যেখানে $v < v_o$ ($v_o=$ প্রদক্ষিণ বেগ)। বস্তুটি কী হবে?",
+    "options": [
+      "বৃত্তাকার পথে ঘুরবে",
+      "পৃথিবীতে ফিরে আসবে",
+      "মহাশূন্যে হারিয়ে যাবে",
+      "উপবৃত্তাকার পথে ঘুরবে"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "chapter-06-split-02-q10",
+    "subject": "physics-1st-paper",
+    "chapter": "chapter-06-split-02",
+    "text": "অসীম দূরত্বে মহাকর্ষীয় বিভবের মান কত?",
+    "options": [
+      "অসীম",
+      "শূন্য",
+      "ধনাত্মক সর্বোচ্চ",
+      "ঋণাত্মক সর্বনিম্ন"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "chapter-06-split-02-q11",
+    "subject": "physics-1st-paper",
+    "chapter": "chapter-06-split-02",
+    "text": "একটি ফাঁপা গোলকের ভেতরে মহাকর্ষীয় বিভব ($V$) কীরূপ?",
+    "options": [
+      "শূন্য",
+      "পৃষ্ঠের বিভবের সমান এবং ধ্রুবক",
+      "কেন্দ্রের দিকে বৃদ্ধি পায়",
+      "পরিবর্তনশীল"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "chapter-06-split-02-q12",
+    "subject": "physics-1st-paper",
+    "chapter": "chapter-06-split-02",
+    "text": "পৃথিবীর কেন্দ্র থেকে পৃষ্ঠ পর্যন্ত মহাকর্ষীয় বিভব—",
+    "options": [
+      "বৃদ্ধি পায়",
+      "হ্রাস পায়",
+      "ধ্রুব থাকে",
+      "প্রথমে বাড়ে পরে কমে"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "chapter-06-split-02-q13",
+    "subject": "physics-1st-paper",
+    "chapter": "chapter-06-split-02",
+    "text": "দুটি ভরের ($m_1$ ও $m_2$) মধ্যবর্তী কোনো বিন্দুতে লব্ধি প্রাবল্য শূন্য হলে ঐ বিন্দুকে কী বলে?",
+    "options": [
+      "ভারকেন্দ্র",
+      "নিরপেক্ষ বিন্দু (Null Point)",
+      "পরম বিন্দু",
+      "ফোকাস"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "chapter-06-split-02-q14",
+    "subject": "physics-1st-paper",
+    "chapter": "chapter-06-split-02",
+    "text": "পৃথিবী ও চাঁদের মাঝখানে নিরপেক্ষ বিন্দুটি কার কাছাকাছি অবস্থিত?",
+    "options": [
+      "পৃথিবীর",
+      "চাঁদের",
+      "একদম মাঝখানে",
+      "বলা অসম্ভব"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "chapter-06-split-02-q15",
+    "subject": "physics-1st-paper",
+    "chapter": "chapter-06-split-02",
+    "text": "একটি সেকেন্ড দোলককে খনির গভীরে নিলে এর দোলনকালের কী পরিবর্তন হবে?",
+    "options": [
+      "কমবে",
+      "বাড়বে",
+      "একই থাকবে",
+      "শূন্য হবে"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "chapter-06-split-02-q16",
+    "subject": "physics-1st-paper",
+    "chapter": "chapter-06-split-02",
+    "text": "কোনো দোলক ঘড়িকে পাহাড়ের চূড়ায় নিলে এটি—",
+    "options": [
+      "দ্রুত চলবে",
+      "ধীরে চলবে (সময় হারাবে)",
+      "সঠিক সময় দেবে",
+      "থেমে যাবে"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "chapter-06-split-02-q17",
+    "subject": "physics-1st-paper",
+    "chapter": "chapter-06-split-02",
+    "text": "মহাকাশযানে রাখা একটি সরল দোলকের দোলনকাল কত?",
+    "options": [
+      "২ সেকেন্ড",
+      "১ সেকেন্ড",
+      "শূন্য",
+      "অসীম"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "chapter-06-split-02-q18",
+    "subject": "physics-1st-paper",
+    "chapter": "chapter-06-split-02",
+    "text": "একটি গ্রহের ভর ও ব্যাসার্ধ উভয়েই পৃথিবীর অর্ধেক। ঐ গ্রহে $g$ এর মান পৃথিবীর $g$ এর কতগুণ?",
+    "options": [
+      "অর্ধেক",
+      "দ্বিগুণ",
+      "চারগুণ",
+      "সমান"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "chapter-06-split-02-q19",
+    "subject": "physics-1st-paper",
+    "chapter": "chapter-06-split-02",
+    "text": "সূর্যকে কেন্দ্র করে ঘূর্ণায়মান পৃথিবীর কৌণিক ভরবেগ সংরক্ষিত থাকে, কারণ—",
+    "options": [
+      "মহাকর্ষ বল একটি কেন্দ্রীয় বল",
+      "সূর্যের ভর অনেক বেশি",
+      "কক্ষপথ উপবৃত্তাকার",
+      "পৃথিবী নিজের অক্ষে ঘোরে"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "chapter-06-split-02-q20",
+    "subject": "physics-1st-paper",
+    "chapter": "chapter-06-split-02",
+    "text": "পৃথিবীর ব্যাসার্ধ ১% সঙ্কুচিত হলে (ভর অপরিবর্তিত) ভূ-পৃষ্ঠে অভিকর্ষজ ত্বরণ কত শতাংশ বৃদ্ধি পাবে?",
+    "options": [
+      "১%",
+      "২%",
+      "০.৫%",
+      "৪%"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "chapter-06-split-02-q21",
+    "subject": "physics-1st-paper",
+    "chapter": "chapter-06-split-02",
+    "text": "পৃথিবী থেকে সূর্যের দূরত্ব বর্তমান দূরত্বের অর্ধেক হলে, ১ বছর সমান কত দিন হতো?",
+    "options": [
+      "৭৩ দিন",
+      "১২৯ দিন",
+      "১৮২ দিন",
+      "২৫০ দিন"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "chapter-06-split-02-q22",
+    "subject": "physics-1st-paper",
+    "chapter": "chapter-06-split-02",
+    "text": "একটি উপগ্রহ পৃথিবীর খুব কাছ দিয়ে ঘুরছে। তার গতিশক্তি দ্বিগুণ করা হলে কী ঘটবে?",
+    "options": [
+      "উপগ্রহটি দ্বিগুণ বেগে ঘুরবে",
+      "উপগ্রহটি পৃথিবীতে পড়ে যাবে",
+      "উপগ্রহটি মুক্তিবেগ লাভ করে মহাকাশে হারিয়ে যাবে",
+      "কক্ষপথের ব্যাসার্ধ অর্ধেক হবে"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "chapter-06-split-02-q23",
+    "subject": "physics-1st-paper",
+    "chapter": "chapter-06-split-02",
+    "text": "একটি উপগ্রহকে পৃথিবী থেকে চাঁদে নিয়ে গেলে এর আবর্তনকালের কী পরিবর্তন হবে? (কক্ষপথের ব্যাসার্ধ একই ধরে)",
+    "options": [
+      "বাড়বে",
+      "কমবে",
+      "একই থাকবে",
+      "শূন্য হবে"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "chapter-06-split-02-q24",
+    "subject": "physics-1st-paper",
+    "chapter": "chapter-06-split-02",
+    "text": "মহাকর্ষীয় প্রাবল্য ও মহাকর্ষীয় বিভবের গ্রাফ কীরূপ? ($r > R$)",
+    "options": [
+      "উভয়ই $1/r$ এর সমানুপাতিক",
+      "প্রাবল্য $1/r^2$ এবং বিভব $1/r$ এর সমানুপাতিক",
+      "প্রাবল্য $1/r$ এবং বিভব $1/r^2$ এর সমানুপাতিক",
+      "উভয়ই $1/r^2$ এর সমানুপাতিক"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "chapter-06-split-02-q25",
+    "subject": "physics-1st-paper",
+    "chapter": "chapter-06-split-02",
+    "text": "একটি বস্তুর ওজন পৃথিবী পৃষ্ঠে $W$। একে পৃথিবীর ব্যাসার্ধের সমান গভীরতায় ($d=R$) নিয়ে গেলে ওজন কত হবে?",
+    "options": [
+      "$W$",
+      "$W/2$",
+      "শূন্য",
+      "$2W$"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  }
+]

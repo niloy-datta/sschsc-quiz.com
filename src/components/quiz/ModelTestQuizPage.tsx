@@ -47,11 +47,16 @@ export function ModelTestQuizPage({
     setResolvedExamName(examName);
   }, [examName]);
 
+  // Server already passes examName from index.json — this is a fallback only
+  // if the server- passed name is still generic ("Model Test").
   useEffect(() => {
+    if (examName !== "Model Test") return; // skip if server already resolved
+    let cancelled = false;
     loadModelTestsFromStatic({
       level: modelTestListing.level,
       subjectSlug: modelTestListing.subjectSlug,
     }).then(({ items }) => {
+      if (cancelled) return;
       const match = items.find((t) => t.sourceKey === testId);
       if (match) {
         setResolvedExamName(
@@ -61,21 +66,14 @@ export function ModelTestQuizPage({
         );
       }
     });
-  }, [modelTestListing, testId]);
+    return () => { cancelled = true; };
+  }, [modelTestListing, testId, examName]);
 
   useEffect(() => {
     if (initialQuestions?.length) {
       setQuestions(initialQuestions);
       setLoading(false);
       setFetchError(null);
-      if (loadedFromPath) {
-        console.log("Fetched Quiz Data:", {
-          testId,
-          path: loadedFromPath,
-          count: initialQuestions.length,
-          source: "server",
-        });
-      }
       return;
     }
 
@@ -99,13 +97,6 @@ export function ModelTestQuizPage({
         if (cancelled) return;
         setAttemptedPaths(result.attemptedPaths);
         if (result.questions.length > 0) {
-          console.log("Fetched Quiz Data:", {
-            testId,
-            apiSubjectSlug,
-            path: result.path,
-            count: result.questions.length,
-            source: "client",
-          });
           setQuestions(result.questions);
           setFetchError(null);
         } else {
@@ -115,8 +106,7 @@ export function ModelTestQuizPage({
           );
         }
       })
-      .catch((err) => {
-        console.error("Failed to load model test questions:", err);
+      .catch(() => {
         if (!cancelled) {
           setQuestions([]);
           setFetchError(

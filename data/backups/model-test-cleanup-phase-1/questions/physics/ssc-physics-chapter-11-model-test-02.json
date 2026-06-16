@@ -1,0 +1,352 @@
+[
+  {
+    "id": "ssc-physics-chapter-11-model-test-02-q01",
+    "subject": "physics",
+    "chapter": "ssc-physics-chapter-11-model-test-02",
+    "text": "উদ্দীপক: চিত্রে প্রদর্শিত বর্তনীতে $R_1 = 4\\ \\Omega$, $R_2 = 2\\ \\Omega$, $R_3 = 6\\ \\Omega$, $R_4 = 2\\ \\Omega$ এবং তড়িৎচালক শক্তি $V = 12\\text{ V}$। উদ্দীপকের বর্তনীতে— i. BC অংশের বিভব পার্থক্য $2.4\\text{ V}$ ii. $R_1$ রোধকের ক্ষমতা $48\\text{ W}$ iii. বর্তনীর বিদ্যুৎ প্রবাহ $1.6\\text{ A}$ নিচের কোনটি সঠিক? BC অংশের তুল্য রোধ $R_p = 1.5\\ \\Omega$। BC অংশের বিভব পার্থক্য $V_{BC} = I \\times R_p = 1.6 \\times 1.5 = 2.4\\text{ V}$ (i সঠিক)। $R_1$ রোধকের ক্ষমতা $P_1 = I^2 R_1 = (1.6)^2 \\times 4 = 10.24\\text{ W}$ (ii ভুল)। অতএব, i ও iii সঠিক।",
+    "options": [
+      "i ও ii",
+      "i ও iii",
+      "ii ও iii",
+      "i, ii ও iii"
+    ],
+    "image": "/images/quiz/ssc-resistor-network.svg",
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-chapter-11-model-test-02-q02",
+    "subject": "physics",
+    "chapter": "ssc-physics-chapter-11-model-test-02",
+    "text": "একটি ট্রান্সফরমারের প্রাইমারি কয়েলের প্যাঁচ সংখ্যা 100, সেকেন্ডারি কয়েলের প্যাঁচ সংখ্যা 1000, প্রাইমারি কয়েল দিয়ে 10V DC দেওয়া হলে সেকেন্ডারি কয়েলে ভোল্টেজ কত?",
+    "options": [
+      "$0\\text{ V}$",
+      "$1\\text{ V}$",
+      "$1000\\text{ V}$",
+      "$10,000\\text{ V}$"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-chapter-11-model-test-02-q03",
+    "subject": "physics",
+    "chapter": "ssc-physics-chapter-11-model-test-02",
+    "text": "(চিত্রভিত্তিক) বর্তনির তুল্যরোধ কত?",
+    "options": [
+      "55Ω",
+      "35Ω",
+      "31.11Ω",
+      "11.11Ω"
+    ],
+    "image": "/images/quiz/ssc-resistor-network.svg",
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-chapter-11-model-test-02-q04",
+    "subject": "physics",
+    "chapter": "ssc-physics-chapter-11-model-test-02",
+    "text": "বর্তনির তুল্যরোধ কত? (চিত্রভিত্তিক)",
+    "options": [
+      "8 Ω",
+      "12 Ω",
+      "16 Ω",
+      "20 Ω"
+    ],
+    "image": "/images/quiz/ssc-resistor-network.svg",
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-chapter-11-model-test-02-q05",
+    "subject": "physics",
+    "chapter": "ssc-physics-chapter-11-model-test-02",
+    "text": "উক্ত বর্তনীতে— (চিত্রভিত্তিক) i. R₁ ও R₃ তে তড়িৎপ্রবাহ সমান ii. R₂ ও R₃ এর ক্ষমতা সমান iii. R₁, R₂ এবং R₃ এর বিভব পার্থক্য সমান",
+    "options": [
+      "i",
+      "ii",
+      "i ও iii",
+      "i, ii ও iii"
+    ],
+    "image": "/images/quiz/premium/ssc-physics-chapter-11-model-test-02-q05.svg",
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-chapter-11-model-test-02-q06",
+    "subject": "physics",
+    "chapter": "ssc-physics-chapter-11-model-test-02",
+    "text": "একটি ট্রান্সফরমারের মুখ্য কুণ্ডলীর ভোল্টেজ 12V এবং তড়িৎপ্রবাহ 3A। গৌণ কুণ্ডলীর তড়িৎ প্রবাহ 4A হলে, গৌণ কুণ্ডলীর ভোল্টেজ কত?",
+    "options": [
+      "3 V",
+      "9 V",
+      "16 V",
+      "36 V"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-chapter-11-model-test-02-q07",
+    "subject": "physics",
+    "chapter": "ssc-physics-chapter-11-model-test-02",
+    "text": "একটি নির্দিষ্ট দৈর্ঘ্যের কোনো পরিবাহীকে ধীরে ধীরে টেনে এর দৈর্ঘ্য দ্বিগুণ করা হলে তারটির আপেক্ষিক রোধ হবে পূর্বের—",
+    "options": [
+      "এক-চতুর্থাংশ",
+      "সমান",
+      "দ্বিগুণ",
+      "চারগুণ"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-chapter-11-model-test-02-q08",
+    "subject": "physics",
+    "chapter": "ssc-physics-chapter-11-model-test-02",
+    "text": "P, Q, R রোধের মধ্যে— (চিত্রভিত্তিক) i. P ও Q একই বিভব পার্থক্যে থাকবে ii. R এর মধ্য দিয়ে বেশি তড়িৎ প্রবাহিত হবে iii. P এর ক্ষমতা Q অপেক্ষা বেশি কিন্তু R অপেক্ষা কম",
+    "options": [
+      "i ও ii",
+      "i ও iii",
+      "ii ও iii",
+      "i, ii ও iii"
+    ],
+    "image": "/images/quiz/premium/ssc-physics-chapter-11-model-test-02-q08.svg",
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-chapter-11-model-test-02-q09",
+    "subject": "physics",
+    "chapter": "ssc-physics-chapter-11-model-test-02",
+    "text": "নিচের কোন লেখচিত্রটি নির্দিষ্ট পরিবাহীর রোধ (R) বনাম ক্ষেত্রফল (A) এর জন্য সঠিক?",
+    "options": [
+      "চিত্র (ক): ক্ষেত্রফলের সাথে সরলরৈখিকভাবে হ্রাসমান রোধ",
+      "চিত্র (খ): ক্ষেত্রফলের সাথে সমানুপাতিক রোধ",
+      "চিত্র (গ): ক্ষেত্রফল পরিবর্তনে অপরিবর্তিত রোধ",
+      "চিত্র (ঘ): ক্ষেত্রফলের সাথে ব্যস্তানুপাতিক হারে হ্রাসমান রোধ (অধিবৃত্তাকার)"
+    ],
+    "image": "/images/quiz/premium/ssc-physics-chapter-11-model-test-02-q09.svg",
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-chapter-11-model-test-02-q10",
+    "subject": "physics",
+    "chapter": "ssc-physics-chapter-11-model-test-02",
+    "text": "ট্রান্সফরমারে আউটপুট ভোল্টেজ বৃদ্ধি করা যায়, যদি—",
+    "options": [
+      "সেকেন্ডারি কয়েলে প্যাঁচসংখ্যা বেশি হয়",
+      "প্রাইমারি কয়েলে প্যাঁচসংখ্যা বেশি হয়",
+      "দুই পাশের কয়েলে প্যাঁচসংখ্যা সমান হয়",
+      "প্রাইমারি কয়েলে ডিসি ভোল্টেজ প্রয়োগ করা হয়"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-chapter-11-model-test-02-q11",
+    "subject": "physics",
+    "chapter": "ssc-physics-chapter-11-model-test-02",
+    "text": "(চিত্রভিত্তিক) বর্তনীতে বিদ্যুৎ প্রবাহের মান কত?",
+    "options": [
+      "3A",
+      "1.33A",
+      "0.75A",
+      "0.33A"
+    ],
+    "image": "/images/quiz/premium/ssc-physics-chapter-11-model-test-02-q11.svg",
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-chapter-11-model-test-02-q12",
+    "subject": "physics",
+    "chapter": "ssc-physics-chapter-11-model-test-02",
+    "text": "(চিত্রভিত্তিক) বর্তনীর রোধগুলো সমান্তরালে সংযুক্ত করলে— i. তুল্যরোধ শ্রেণি তুল্যরোধের 1/4 গুণ হবে ii. ফিউজটি অক্ষত থাকবে iii. বর্তনীর ক্ষমতা 13.5W বৃদ্ধি পাবে",
+    "options": [
+      "i ও ii",
+      "ii ও iii",
+      "i ও iii",
+      "i, ii ও iii"
+    ],
+    "image": "/images/quiz/ssc-resistor-network.svg",
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-chapter-11-model-test-02-q13",
+    "subject": "physics",
+    "chapter": "ssc-physics-chapter-11-model-test-02",
+    "text": " নিচের উদ্দীপকের আলোকে ১৭ ও ১৮ নং প্রশ্নগুলোর উত্তর দাও : R_1 = ৫Omega R_2 = ১০Omega R_3 = ২০Omega ১২ঠ ১৭. র. বর্তনীর তড়িৎ ক্ষমতা ১৬.৮০ড রর. বর্তনীর তাপক্ষয়ের হার ১৬.৮০ড ররর. বর্তনীর তুল্যরোধ ৮.৭৫Omega নিচের কোনটি সঠিক?",
+    "options": [
+      "র ও রর",
+      "র ও ররর",
+      "রর ও ররর",
+      "র, রর ও ররর"
+    ],
+    "image": "/images/quiz/ssc-resistor-network.svg",
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-chapter-11-model-test-02-q14",
+    "subject": "physics",
+    "chapter": "ssc-physics-chapter-11-model-test-02",
+    "text": " নিচের উদ্দীপকের আলোকে ১৭ ও ১৮ নং প্রশ্নগুলোর উত্তর দাও : R_1 = ৫Omega R_2 = ১০Omega R_3 = ২০Omega ১২ঠ ১৮. বর্তনীটিতে ২.৮০অ তড়িৎ প্রবাহমাত্রা পাওয়া যাবÑে র. R_2; R_3 শে্রণিতে যুক্ত করে R_1 এর সাথে সমাš@রালে যুক্ত করলে রর. R_1, R_2 শে্রণিতে যুক্ত করে R_3 এর সাথে সমাš@রালে যুক্ত করলে ররর. R_1, R_2 ও R_3 সমাš@রালে যুক্ত করলে নিচের কোনটি সঠিক? K র ও রর খ র ও ররর গ রর ও ররর",
+    "options": [
+      "ঘ/A",
+      "ঘ/A",
+      "ঘ/A",
+      "ঘ/A"
+    ],
+    "image": "/images/quiz/ssc-resistor-network.svg",
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-chapter-11-model-test-02-q15",
+    "subject": "physics",
+    "chapter": "ssc-physics-chapter-11-model-test-02",
+    "text": " নিচের উদ্দীপকের আলোকে ১৮ ও ১৯ নং প্রশ্নের উত্তর দাও : R_1 ২ Omega R_2 ৪ Omega R_3 ৪ Omega ২২ V ১৮. বর্তনীর তুল্যরোধ কত?",
+    "options": [
+      "১ Omega",
+      "২.৫ Omega",
+      "৪ Omega",
+      "১০ Omega"
+    ],
+    "image": "/images/quiz/ssc-resistor-network.svg",
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-chapter-11-model-test-02-q16",
+    "subject": "physics",
+    "chapter": "ssc-physics-chapter-11-model-test-02",
+    "text": " নিচের উদ্দীপকের আলোকে ১৮ ও ১৯ নং প্রশ্নের উত্তর দাও : R_1 ২ Omega R_2 ৪ Omega R_3 ৪ Omega ২২ V ১৯. R_3 রোধটিকে A cmারণ করল-ে র. বর্তনীর মোট প্রবাহমাত্রা হ্রাস পাবে রর. R_1 ও R_2 এর ক্ষমতা একই হবে ররর. R_1 ও R_2 এর মধ্য দিয়ে একই বিদু্যৎ প্রবাহিত হবে নিচের কোনটি সঠিক?",
+    "options": [
+      "র ও রর",
+      "র ও ররর",
+      "রর ও ররর",
+      "র, রর ও ররর"
+    ],
+    "image": "/images/quiz/ssc-resistor-network.svg",
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-chapter-11-model-test-02-q17",
+    "subject": "physics",
+    "chapter": "ssc-physics-chapter-11-model-test-02",
+    "text": "৭. সার্কিট বে্রকারের মাধ্যমÑে র. বিদু্যৎ প্রবাহ হ্রাস-বৃদ্ধি করা যায় রর. নির্দিষ্ট মাত্রার অতিরিক্ত বিদু্যৎ প্রবাহ হলে বর্তনী বিচ্ছিন্ন করা হয় ররর. বৈদু্যতিক দুর্ঘটনা থেকে যন্ত্রপাতি রক্ষা করে নিচের কোনটি সঠিক?",
+    "options": [
+      "র ও রর",
+      "র ও ররর",
+      "রর ও ররর",
+      "র, রর ও ররর"
+    ],
+    "image": "/images/quiz/premium/ssc-physics-chapter-11-model-test-02-q17.svg",
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-chapter-11-model-test-02-q18",
+    "subject": "physics",
+    "chapter": "ssc-physics-chapter-11-model-test-02",
+    "text": " উদ্দীপকটি লক্ষ কর এবং ২ ও ৩নং প্রশ্নের উত্তর দাও : R_1 = ২ Omega R_2 = ৩ Omega R_3 = ৪ Omega R_4 = ৭ Omega C B উ ঊ A ঊ = ১১ V ২. বর্তনীর তুল্যরোধ কত?",
+    "options": [
+      "৩.৯৪ Omega",
+      "৫.৫ Omega",
+      "৮.১ Omega",
+      "৮.৫৫ Omega"
+    ],
+    "image": "/images/quiz/ssc-resistor-network.svg",
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-chapter-11-model-test-02-q19",
+    "subject": "physics",
+    "chapter": "ssc-physics-chapter-11-model-test-02",
+    "text": " উদ্দীপকটি লক্ষ কর এবং ২ ও ৩নং প্রশ্নের উত্তর দাও : R_1 = ২ Omega R_2 = ৩ Omega R_3 = ৪ Omega R_4 = ৭ Omega C B উ ঊ A ঊ = ১১ V ৩. উক্ত বর্তনীতÑে র. R_2 ও R_4 এর তড়িৎ প্রবাহ একই রর. R_3 এর বিভব পার্থক্য R_2 এর বিভব পার্থক্য অপেক্ষা বেশি ররর. R_1 এর ক্ষমতা ৮ ড নিচের কোনটি সঠিক?",
+    "options": [
+      "র ও রর",
+      "র ও ররর",
+      "রর ও ররর",
+      "র, রর ও ররর"
+    ],
+    "image": "/images/quiz/ssc-resistor-network.svg",
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-chapter-11-model-test-02-q20",
+    "subject": "physics",
+    "chapter": "ssc-physics-chapter-11-model-test-02",
+    "text": " নিচের উদ্দীপকটি লক্ষ কর এবং ১৬ ও ১৭ নং প্রশ্নের উত্তর দাও : A R_1 B R_2 C R_3 উ +----[ ১০ Omega ]----+----[ ১২ Omega ]----+----[ ১৮ Omega ]----+ । । । । +-------------------( ১২ V )-----------------------+ ১৬. প্রদর্শিত বর্তনীর জন্য র. তিনটি রোধকের বিভব পার্থক্য ভিন্ন হবে রর. সকল রোধকের জন্য বিদু্যৎ প্রবাহ অপরিবর্তিত থাকবে ররর. 'B' বিন্দুর বিভব 'C' বিন্দুর বিভব অপেক্ষা কম হবে নিচের কোনটি সঠিক?",
+    "options": [
+      "র ও রর",
+      "র ও ররর",
+      "রর ও ররর",
+      "র, রর ও ররর"
+    ],
+    "image": "/images/quiz/ssc-resistor-network.svg",
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-chapter-11-model-test-02-q21",
+    "subject": "physics",
+    "chapter": "ssc-physics-chapter-11-model-test-02",
+    "text": " নিচের উদ্দীপকটি লক্ষ কর এবং ১৬ ও ১৭ নং প্রশ্নের উত্তর দাও : A R_1 B R_2 C R_3 উ +----[ ১০ Omega ]----+----[ ১২ Omega ]----+----[ ১৮ Omega ]----+ । । । । +-------------------( ১২ V )-----------------------+ ১৭. বর্তনীর তড়িৎ প্রবাহের মান কত?",
+    "options": [
+      "১২অ",
+      "৩.৩৩অ",
+      "৩অ",
+      "০.৩অ"
+    ],
+    "image": "/images/quiz/ssc-resistor-network.svg",
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-chapter-11-model-test-02-q22",
+    "subject": "physics",
+    "chapter": "ssc-physics-chapter-11-model-test-02",
+    "text": "বর্তনীটির ক্ষেত্রে- i. I₁ = I₂ + I₃ ii. I₂ = I₃ iii. I₂ + I₃ = I₄ নিচের কোনটি সঠিক?",
+    "options": [
+      "i",
+      "ii",
+      "i ও iii",
+      "ii ও iii"
+    ],
+    "image": "/images/quiz/premium/ssc-physics-chapter-11-model-test-02-q22.svg",
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-chapter-11-model-test-02-q23",
+    "subject": "physics",
+    "chapter": "ssc-physics-chapter-11-model-test-02",
+    "text": "উদ্দীপকের আলোকে (I-V গ্রাফ): i. A, B এর চেয়ে ভালো পরিবাহক ii. সমতড়িৎ প্রবাহে C অপেক্ষা এর বিভব পার্থক্য বেশি iii. B এর রোধ A এর রোধের চেয়ে বেশি নিচের কোনটি সঠিক?",
+    "options": [
+      "i ও ii",
+      "i ও iii",
+      "ii ও iii",
+      "i, ii ও iii"
+    ],
+    "image": "/images/quiz/premium/ssc-physics-chapter-11-model-test-02-q23.svg",
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-chapter-11-model-test-02-q24",
+    "subject": "physics",
+    "chapter": "ssc-physics-chapter-11-model-test-02",
+    "text": "২৫। পরিবাহীর রোধ তারের দৈর্ঘ্যের সাথে কীভাবে সম্পর্কিত?",
+    "options": [
+      "সমান",
+      "বর্গের সমান",
+      "সমানুপাতিক",
+      "বর্গের সমানুপাতিক"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-chapter-11-model-test-02-q25",
+    "subject": "physics",
+    "chapter": "ssc-physics-chapter-11-model-test-02",
+    "text": "কোনটি রূপার আপেক্ষিক রোধ?",
+    "options": [
+      "1.59 × 10⁻⁸ Ωm",
+      "1.68 × 10⁻⁸ Ωm",
+      "2.44 × 10⁻⁸ Ωm",
+      "2.50 × 10⁻⁶ Ωm"
+    ],
+    "image": null,
+    "timeLimit": 45
+  }
+]

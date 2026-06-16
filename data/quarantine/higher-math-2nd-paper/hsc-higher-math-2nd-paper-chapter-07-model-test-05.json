@@ -1,0 +1,91 @@
+{
+  "setId": "hsc-higher-math-2nd-paper-chapter-07-model-test-05",
+  "reason": "DUPLICATE_OF_hsc-higher-math-2nd-paper-chapter-01-model-test-05",
+  "quarantinedAt": "2026-06-13T17:57:55.289Z",
+  "questions": [
+    {
+      "id": "hsc-higher-math-2nd-paper-chapter-07-model-test-05-q01",
+      "questionText": "sin⁻¹ x + cos⁻¹ x এর মান কত?",
+      "optionA": "কোনোটিই নয়",
+      "optionB": "π",
+      "optionC": "০",
+      "optionD": "π/2",
+      "correctOption": "D",
+      "explanation": "",
+      "chapter": "07",
+      "topic": "বিপরীত ত্রিকোণমিতিক ফাংশন ও সমীকরণ",
+      "difficulty": "Board Pattern",
+      "questionNo": 1
+    },
+    {
+      "id": "hsc-higher-math-2nd-paper-chapter-07-model-test-05-q02",
+      "questionText": "কোন শর্তে $ax^2 + by^2 = 1$ সমীকরণটি একটি বৃত্ত নির্দেশ করবে?",
+      "optionA": "$a = b$ এবং $a, b > 0$",
+      "optionB": "$a > b$",
+      "optionC": "$a < b$",
+      "optionD": "$a = 0$",
+      "correctOption": "A",
+      "explanation": "বৃত্ত হলো একটি বিশেষ ধরনের উপবৃত্ত যার প্রধান ও গৌণ অক্ষ সমান ($a=b$)। সমীকরণে $x^2$ ও $y^2$ এর সহগ সমান ও ধনাত্মক হলে তা বৃত্ত হয়।",
+      "chapter": "07",
+      "topic": "কনিক",
+      "difficulty": "Medium",
+      "questionNo": 2
+    },
+    {
+      "id": "hsc-higher-math-2nd-paper-chapter-07-model-test-05-q03",
+      "questionText": "i² এর মান কত?",
+      "optionA": "i",
+      "optionB": "১",
+      "optionC": "-i",
+      "optionD": "-১",
+      "correctOption": "D",
+      "explanation": "",
+      "chapter": "07",
+      "topic": "জটিল সংখ্যা",
+      "difficulty": "Board Pattern",
+      "questionNo": 3
+    },
+    {
+      "id": "hsc-higher-math-2nd-paper-chapter-07-model-test-05-q04",
+      "questionText": "i² এর মান কত? ---",
+      "optionA": "i",
+      "optionB": "-i",
+      "optionC": "১",
+      "optionD": "-১",
+      "correctOption": "D",
+      "explanation": "",
+      "chapter": "07",
+      "topic": "জটিল সংখ্যা",
+      "difficulty": "Board Pattern",
+      "questionNo": 4
+    },
+    {
+      "id": "hsc-higher-math-2nd-paper-chapter-07-model-test-05-q05",
+      "questionText": "কনিকের উৎকেন্দ্রিকতা e < 1 হলে তা কী নির্দেশ করে?",
+      "optionA": "উপবৃত্ত",
+      "optionB": "পরাবৃত্ত",
+      "optionC": "বৃত্ত",
+      "optionD": "অধিবৃত্ত",
+      "correctOption": "A",
+      "explanation": "",
+      "chapter": "07",
+      "topic": "কনিক",
+      "difficulty": "Board Pattern",
+      "questionNo": 5
+    },
+    {
+      "id": "hsc-higher-math-2nd-paper-chapter-07-model-test-05-q06",
+      "questionText": "কনিকের উৎকেন্দ্রিকতা e = 1 হলে তা কী নির্দেশ করে?",
+      "optionA": "অধিবৃত্ত",
+      "optionB": "উপবৃত্ত",
+      "optionC": "বৃত্ত",
+      "optionD": "পরাবৃত্ত",
+      "correctOption": "D",
+      "explanation": "",
+      "chapter": "07",
+      "topic": "কনিক",
+      "difficulty": "Board Pattern",
+      "questionNo": 6
+    }
+  ]
+}

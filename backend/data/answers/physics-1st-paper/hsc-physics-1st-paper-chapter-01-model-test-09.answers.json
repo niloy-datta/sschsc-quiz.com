@@ -1,177 +1,102 @@
 {
-  "hsc-physics_1stpaper-chapter-01-set-09-q01": {
-    "answer": "একক নেই",
-    "answerIndex": 3,
-    "difficulty": 1200,
-    "explanation": "দুটি বলের (ঘর্ষণ বল ও অভিলম্ব প্রতিক্রিয়া) অনুপাত হওয়ায় এর কোনো একক বা মাত্রা নেই। — বোর্ড/মডেল/অধ্যায়ভিত্তিক সোর্স প্যাটার্ন থেকে নেওয়া high-priority MCQ।",
-    "topic": "ভৌতজগৎ ও পরিমাপ"
+  "hsc-physics-1st-paper-chapter-01-model-test-09-q01": {
+    "correctOption": "একক নেই",
+    "explanation": "দুটি বলের (ঘর্ষণ বল ও অভিলম্ব প্রতিক্রিয়া) অনুপাত হওয়ায় এর কোনো একক বা মাত্রা নেই।"
   },
-  "hsc-physics_1stpaper-chapter-01-set-09-q02": {
-    "answer": "tan⁻¹(0.5)",
-    "answerIndex": 0,
-    "difficulty": 1200,
-    "explanation": "μ = tanθ। — বোর্ড/মডেল/অধ্যায়ভিত্তিক সোর্স প্যাটার্ন থেকে নেওয়া high-priority MCQ।",
-    "topic": "ভৌতজগৎ ও পরিমাপ"
+  "hsc-physics-1st-paper-chapter-01-model-test-09-q02": {
+    "correctOption": "tan⁻¹(0.5)",
+    "explanation": "μ = tanθ।"
   },
-  "hsc-physics_1stpaper-chapter-01-set-09-q03": {
-    "answer": "রেনল্ডস সংখ্যা (Reynold\\'s number)",
-    "answerIndex": 1,
-    "difficulty": 1200,
-    "explanation": "রেনল্ডস সংখ্যা (Re) একটি মাত্রাহীন সংখ্যা যা নির্দেশ করে তরলের প্রবাহ ধারারেখ হবে (Re < 2000) নাকি বিক্ষিপ্ত হবে (Re > 3000)। — বোর্ড/মডেল/অধ্যায়ভিত্তিক সোর্স প্যাটার্ন থেকে নেওয়া high-priority MCQ।",
-    "topic": "ভৌতজগৎ ও পরিমাপ"
+  "hsc-physics-1st-paper-chapter-01-model-test-09-q03": {
+    "correctOption": "রেনল্ডস সংখ্যা (Reynold\\'s number)",
+    "explanation": "রেনল্ডস সংখ্যা (Re) একটি মাত্রাহীন সংখ্যা যা নির্দেশ করে তরলের প্রবাহ ধারারেখ হবে (Re < 2000) নাকি বিক্ষিপ্ত হবে (Re > 3000)।"
   },
-  "hsc-physics_1stpaper-chapter-01-set-09-q04": {
-    "answer": "A ⋅( B × C )=0",
-    "answerIndex": 1,
-    "difficulty": 1200,
-    "explanation": "তিনটি ভেক্টর সমতলীয় হলে তাদের দ্বারা গঠিত সামান্তরিক ঘনবস্তুর (Parallelepiped) আয়তন শূন্য হয়। ভেক্টরগুলোর স্কেলার ট্রিপল প্রোডাক্ট A ⋅( B × C ) হলো সেই আয়তন। — বোর্ড/মডেল/অধ্যায়ভিত্তিক সোর্স প্যাটার্ন থেকে নেওয়া high-priority MCQ।",
-    "topic": "ভৌতজগৎ ও পরিমাপ"
+  "hsc-physics-1st-paper-chapter-01-model-test-09-q04": {
+    "correctOption": "A ⋅( B × C )=0",
+    "explanation": "তিনটি ভেক্টর সমতলীয় হলে তাদের দ্বারা গঠিত সামান্তরিক ঘনবস্তুর (Parallelepiped) আয়তন শূন্য হয়। ভেক্টরগুলোর স্কেলার ট্রিপল প্রোডাক্ট A ⋅( B × C ) হলো সেই আয়তন।"
   },
-  "hsc-physics_1stpaper-chapter-01-set-09-q05": {
-    "answer": "A . (B × C) = 0",
-    "answerIndex": 2,
-    "difficulty": 1200,
-    "explanation": "স্কেলার ত্রিগুণনের মান সামান্তরিক ঘনবস্তুর আয়তন নির্দেশ করে। ভেক্টর তিনটি একই তলে থাকলে আয়তন শূন্য হবে। — বোর্ড/মডেল/অধ্যায়ভিত্তিক সোর্স প্যাটার্ন থেকে নেওয়া high-priority MCQ।",
-    "topic": "ভৌতজগৎ ও পরিমাপ"
+  "hsc-physics-1st-paper-chapter-01-model-test-09-q05": {
+    "correctOption": "A . (B × C) = 0",
+    "explanation": "স্কেলার ত্রিগুণনের মান সামান্তরিক ঘনবস্তুর আয়তন নির্দেশ করে। ভেক্টর তিনটি একই তলে থাকলে আয়তন শূন্য হবে।"
   },
-  "hsc-physics_1stpaper-chapter-01-set-09-q06": {
-    "answer": "অঋণাত্মক স্কেলার",
-    "answerIndex": 2,
-    "difficulty": 1200,
-    "explanation": "দ্রুতি স্কেলার এবং ঋণাত্মক হয় না। — বোর্ড/মডেল/অধ্যায়ভিত্তিক সোর্স প্যাটার্ন থেকে নেওয়া high-priority MCQ।",
-    "topic": "ভৌতজগৎ ও পরিমাপ"
+  "hsc-physics-1st-paper-chapter-01-model-test-09-q06": {
+    "correctOption": "অঋণাত্মক স্কেলার",
+    "explanation": "দ্রুতি স্কেলার এবং ঋণাত্মক হয় না।"
   },
-  "hsc-physics_1stpaper-chapter-01-set-09-q07": {
-    "answer": "স্ক্রু গজ",
-    "answerIndex": 2,
-    "difficulty": 1200,
-    "explanation": "স্ক্রু গজের লঘিষ্ঠ গণন (সাধারণত 0.01 mm) ভার্নিয়ার ক্যালিপার্সের (0.1 mm বা 0.05 mm) চেয়ে কম, তাই এটি বেশি সূক্ষ্ম। — বোর্ড/মডেল/অধ্যায়ভিত্তিক সোর্স প্যাটার্ন থেকে নেওয়া high-priority MCQ।",
-    "topic": "ভৌতজগৎ ও পরিমাপ"
+  "hsc-physics-1st-paper-chapter-01-model-test-09-q07": {
+    "correctOption": "স্ক্রু গজ",
+    "explanation": "স্ক্রু গজের লঘিষ্ঠ গণন (সাধারণত 0.01 mm) ভার্নিয়ার ক্যালিপার্সের (0.1 mm বা 0.05 mm) চেয়ে কম, তাই এটি বেশি সূক্ষ্ম।"
   },
-  "hsc-physics_1stpaper-chapter-01-set-09-q08": {
-    "answer": "আয়তন গুণাঙ্ক 1 ​",
-    "answerIndex": 1,
-    "difficulty": 1200,
-    "explanation": "সংনম্যতা হলো আয়তন গুণাঙ্কের (K) বিপরীত রাশি। C= K 1 ​ । এটি কোনো পদার্থকে কতটা সহজে সংকুচিত করা যায় তা নির্দেশ করে। — বোর্ড/মডেল/অধ্যায়ভিত্তিক সোর্স প্যাটার্ন থেকে নেওয়া high-priority MCQ।",
-    "topic": "ভৌতজগৎ ও পরিমাপ"
+  "hsc-physics-1st-paper-chapter-01-model-test-09-q08": {
+    "correctOption": "আয়তন গুণাঙ্ক 1 ​",
+    "explanation": "সংনম্যতা হলো আয়তন গুণাঙ্কের (K) বিপরীত রাশি। C= K 1 ​ । এটি কোনো পদার্থকে কতটা সহজে সংকুচিত করা যায় তা নির্দেশ করে।"
   },
-  "hsc-physics_1stpaper-chapter-01-set-09-q09": {
-    "answer": "কোনো মাত্রা নেই",
-    "answerIndex": 3,
-    "difficulty": 1200,
-    "explanation": "এটি দুটি বিকৃতির (পার্শ্ব বিকৃতি ও দৈর্ঘ্য বিকৃতি) অনুপাত। বিকৃতির মাত্রা নেই, তাই এরও কোনো মাত্রা নেই। — বোর্ড/মডেল/অধ্যায়ভিত্তিক সোর্স প্যাটার্ন থেকে নেওয়া high-priority MCQ।",
-    "topic": "ভৌতজগৎ ও পরিমাপ"
+  "hsc-physics-1st-paper-chapter-01-model-test-09-q09": {
+    "correctOption": "কোনো মাত্রা নেই",
+    "explanation": "এটি দুটি বিকৃতির (পার্শ্ব বিকৃতি ও দৈর্ঘ্য বিকৃতি) অনুপাত। বিকৃতির মাত্রা নেই, তাই এরও কোনো মাত্রা নেই।"
   },
-  "hsc-physics_1stpaper-chapter-01-set-09-q10": {
-    "answer": "ভর",
-    "answerIndex": 2,
-    "difficulty": 1200,
-    "explanation": "জড়তা হলো বস্তুর অবস্থা পরিবর্তনের বিরুদ্ধে বাধার ধর্ম। রৈখিক গতির ক্ষেত্রে বস্তুর ভরই তার জড়তার পরিমাপ। ভর যত বেশি, জড়তা তত বেশি। — বোর্ড/মডেল/অধ্যায়ভিত্তিক সোর্স প্যাটার্ন থেকে নেওয়া high-priority MCQ।",
-    "topic": "ভৌতজগৎ ও পরিমাপ"
+  "hsc-physics-1st-paper-chapter-01-model-test-09-q10": {
+    "correctOption": "ভর",
+    "explanation": "জড়তা হলো বস্তুর অবস্থা পরিবর্তনের বিরুদ্ধে বাধার ধর্ম। রৈখিক গতির ক্ষেত্রে বস্তুর ভরই তার জড়তার পরিমাপ। ভর যত বেশি, জড়তা তত বেশি।"
   },
-  "hsc-physics_1stpaper-chapter-01-set-09-q11": {
-    "answer": "একই",
-    "answerIndex": 0,
-    "difficulty": 1200,
-    "explanation": "ইমপালস = ভরবেগের পরিবর্তন। — বোর্ড/মডেল/অধ্যায়ভিত্তিক সোর্স প্যাটার্ন থেকে নেওয়া high-priority MCQ।",
-    "topic": "ভৌতজগৎ ও পরিমাপ"
+  "hsc-physics-1st-paper-chapter-01-model-test-09-q11": {
+    "correctOption": "একই",
+    "explanation": "ইমপালস = ভরবেগের পরিবর্তন।"
   },
-  "hsc-physics_1stpaper-chapter-01-set-09-q12": {
-    "answer": "Dyne cm2 /g2",
-    "answerIndex": 1,
-    "difficulty": 1200,
-    "explanation": "SI এককে G এর একক N m2 /kg2 । CGS এককে নিউটনের বদলে ডাইন, মিটারের বদলে সেমি এবং কেজির বদলে গ্রাম বসবে। (মাত্রা থেকে cm3 /g s2 ও লেখা যায়, তবে B বেশি প্রচলিত)। — বোর্ড/মডেল/অধ্যায়ভিত্তিক সোর্স প্যাটার্ন থেকে নেওয়া high-priority MCQ।",
-    "topic": "ভৌতজগৎ ও পরিমাপ"
+  "hsc-physics-1st-paper-chapter-01-model-test-09-q12": {
+    "correctOption": "Dyne cm2 /g2",
+    "explanation": "SI এককে G এর একক N m2 /kg2 । CGS এককে নিউটনের বদলে ডাইন, মিটারের বদলে সেমি এবং কেজির বদলে গ্রাম বসবে। (মাত্রা থেকে cm3 /g s2 ও লেখা যায়, তবে B বেশি প্রচলিত)।"
   },
-  "hsc-physics_1stpaper-chapter-01-set-09-q13": {
-    "answer": "N−1 m2",
-    "answerIndex": 1,
-    "difficulty": 1200,
-    "explanation": "সংনম্যতা হলো আয়তন গুণাঙ্কের বিপরীত রাশি। আয়তন গুণাঙ্কের একক N/m2 , তাই সংনম্যতার একক m2 /N বা N−1 m2 । — বোর্ড/মডেল/অধ্যায়ভিত্তিক সোর্স প্যাটার্ন থেকে নেওয়া high-priority MCQ।",
-    "topic": "ভৌতজগৎ ও পরিমাপ"
+  "hsc-physics-1st-paper-chapter-01-model-test-09-q13": {
+    "correctOption": "N−1 m2",
+    "explanation": "সংনম্যতা হলো আয়তন গুণাঙ্কের বিপরীত রাশি। আয়তন গুণাঙ্কের একক N/m2 , তাই সংনম্যতার একক m2 /N বা N−1 m2 ।"
   },
-  "hsc-physics_1stpaper-chapter-01-set-09-q14": {
-    "answer": "ওপরের সবগুলো",
-    "answerIndex": 3,
-    "difficulty": 1200,
-    "explanation": "SI এককে R=8.314 J/(mol⋅K)। লিটার-অ্যাটমোসফিয়ার এককে 0.0821 এবং ক্যালরি এককে প্রায় 1.987 (বা 2)। সবগুলো মানই সঠিক। — বোর্ড/মডেল/অধ্যায়ভিত্তিক সোর্স প্যাটার্ন থেকে নেওয়া high-priority MCQ।",
-    "topic": "ভৌতজগৎ ও পরিমাপ"
+  "hsc-physics-1st-paper-chapter-01-model-test-09-q14": {
+    "correctOption": "ওপরের সবগুলো",
+    "explanation": "SI এককে R=8.314 J/(mol⋅K)। লিটার-অ্যাটমোসফিয়ার এককে 0.0821 এবং ক্যালরি এককে প্রায় 1.987 (বা 2)। সবগুলো মানই সঠিক।"
   },
-  "hsc-physics_1stpaper-chapter-01-set-09-q15": {
-    "answer": "পয়স (Poise)",
-    "answerIndex": 0,
-    "difficulty": 1200,
-    "explanation": "সান্দ্রতাঙ্কের CGS একক হলো পয়স (Poise)। SI একক হলো Pa⋅s বা ডেকা-পয়স (1 Pa⋅s=10 Poise)। — বোর্ড/মডেল/অধ্যায়ভিত্তিক সোর্স প্যাটার্ন থেকে নেওয়া high-priority MCQ।",
-    "topic": "ভৌতজগৎ ও পরিমাপ"
+  "hsc-physics-1st-paper-chapter-01-model-test-09-q15": {
+    "correctOption": "পয়স (Poise)",
+    "explanation": "সান্দ্রতাঙ্কের CGS একক হলো পয়স (Poise)। SI একক হলো Pa⋅s বা ডেকা-পয়স (1 Pa⋅s=10 Poise)।"
   },
-  "hsc-physics_1stpaper-chapter-01-set-09-q16": {
-    "answer": "৩",
-    "answerIndex": 0,
-    "difficulty": 1200,
-    "explanation": "হিলিয়াম একটি নিষ্ক্রিয় ও এক-পরমাণুক গ্যাস। এক-পরমাণুক গ্যাসের স্বাধীনতার মাত্রা ৩ হয়। — বোর্ড/মডেল/অধ্যায়ভিত্তিক সোর্স প্যাটার্ন থেকে নেওয়া high-priority MCQ।",
-    "topic": "ভৌতজগৎ ও পরিমাপ"
+  "hsc-physics-1st-paper-chapter-01-model-test-09-q16": {
+    "correctOption": "৩",
+    "explanation": "হিলিয়াম একটি নিষ্ক্রিয় ও এক-পরমাণুক গ্যাস। এক-পরমাণুক গ্যাসের স্বাধীনতার মাত্রা ৩ হয়।"
   },
-  "hsc-physics_1stpaper-chapter-01-set-09-q17": {
-    "answer": "ভেক্টর অপারেটর",
-    "answerIndex": 1,
-    "difficulty": 1200,
-    "explanation": "∇ = (∂/∂x)i + (∂/∂y)j + (∂/∂z)k। এটি একটি ভেক্টর ডিফারেন্সিয়াল অপারেটর। — বোর্ড/মডেল/অধ্যায়ভিত্তিক সোর্স প্যাটার্ন থেকে নেওয়া high-priority MCQ।",
-    "topic": "ভৌতজগৎ ও পরিমাপ"
+  "hsc-physics-1st-paper-chapter-01-model-test-09-q17": {
+    "correctOption": "ভেক্টর অপারেটর",
+    "explanation": "∇ = (∂/∂x)i + (∂/∂y)j + (∂/∂z)k। এটি একটি ভেক্টর ডিফারেন্সিয়াল অপারেটর।"
   },
-  "hsc-physics_1stpaper-chapter-01-set-09-q18": {
-    "answer": "ML⁻¹T⁻²",
-    "answerIndex": 1,
-    "difficulty": 1200,
-    "explanation": "বোর্ড/মডেল/অধ্যায়ভিত্তিক সোর্স প্যাটার্ন থেকে নেওয়া high-priority MCQ।",
-    "topic": "ভৌতজগৎ ও পরিমাপ"
+  "hsc-physics-1st-paper-chapter-01-model-test-09-q18": {
+    "correctOption": "ML⁻¹T⁻²",
+    "explanation": ""
   },
-  "hsc-physics_1stpaper-chapter-01-set-09-q19": {
-    "answer": "30°",
-    "answerIndex": 0,
-    "difficulty": 1200,
-    "explanation": "বোর্ড/মডেল/অধ্যায়ভিত্তিক সোর্স প্যাটার্ন থেকে নেওয়া high-priority MCQ।",
-    "topic": "ভৌতজগৎ ও পরিমাপ"
+  "hsc-physics-1st-paper-chapter-01-model-test-09-q19": {
+    "correctOption": "30°",
+    "explanation": ""
   },
-  "hsc-physics_1stpaper-chapter-01-set-09-q20": {
-    "answer": "kT",
-    "answerIndex": 1,
-    "difficulty": 1200,
-    "explanation": "বোর্ড/মডেল/অধ্যায়ভিত্তিক সোর্স প্যাটার্ন থেকে নেওয়া high-priority MCQ।",
-    "topic": "ভৌতজগৎ ও পরিমাপ"
+  "hsc-physics-1st-paper-chapter-01-model-test-09-q20": {
+    "correctOption": "kT",
+    "explanation": ""
   },
-  "hsc-physics_1stpaper-chapter-01-set-09-q21": {
-    "answer": "MLT^{-2}",
-    "answerIndex": 0,
-    "difficulty": 1200,
-    "explanation": "বোর্ড/মডেল/অধ্যায়ভিত্তিক সোর্স প্যাটার্ন থেকে নেওয়া high-priority MCQ।",
-    "topic": "ভৌতজগৎ ও পরিমাপ"
+  "hsc-physics-1st-paper-chapter-01-model-test-09-q21": {
+    "correctOption": "MLT^{-2}",
+    "explanation": ""
   },
-  "hsc-physics_1stpaper-chapter-01-set-09-q22": {
-    "answer": "ফেমটোমিটার",
-    "answerIndex": 0,
-    "difficulty": 1200,
-    "explanation": "বোর্ড/মডেল/অধ্যায়ভিত্তিক সোর্স প্যাটার্ন থেকে নেওয়া high-priority MCQ।",
-    "topic": "ভৌতজগৎ ও পরিমাপ"
+  "hsc-physics-1st-paper-chapter-01-model-test-09-q22": {
+    "correctOption": "ফেমটোমিটার",
+    "explanation": ""
   },
-  "hsc-physics_1stpaper-chapter-01-set-09-q23": {
-    "answer": "ML²",
-    "answerIndex": 1,
-    "difficulty": 1200,
-    "explanation": "বোর্ড/মডেল/অধ্যায়ভিত্তিক সোর্স প্যাটার্ন থেকে নেওয়া high-priority MCQ।",
-    "topic": "ভৌতজগৎ ও পরিমাপ"
+  "hsc-physics-1st-paper-chapter-01-model-test-09-q23": {
+    "correctOption": "ML²",
+    "explanation": ""
   },
-  "hsc-physics_1stpaper-chapter-01-set-09-q24": {
-    "answer": "2",
-    "answerIndex": 0,
-    "difficulty": 1200,
-    "explanation": "বোর্ড/মডেল/অধ্যায়ভিত্তিক সোর্স প্যাটার্ন থেকে নেওয়া high-priority MCQ।",
-    "topic": "ভৌতজগৎ ও পরিমাপ"
+  "hsc-physics-1st-paper-chapter-01-model-test-09-q24": {
+    "correctOption": "2",
+    "explanation": ""
   },
-  "hsc-physics_1stpaper-chapter-01-set-09-q25": {
-    "answer": "i, ii ও iii",
-    "answerIndex": 3,
-    "difficulty": 1200,
-    "explanation": "বোর্ড/মডেল/অধ্যায়ভিত্তিক সোর্স প্যাটার্ন থেকে নেওয়া high-priority MCQ।",
-    "topic": "ভৌতজগৎ ও পরিমাপ"
+  "hsc-physics-1st-paper-chapter-01-model-test-09-q25": {
+    "correctOption": "i, ii ও iii",
+    "explanation": ""
   }
 }

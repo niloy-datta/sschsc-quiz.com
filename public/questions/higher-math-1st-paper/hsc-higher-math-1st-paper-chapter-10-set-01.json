@@ -1,0 +1,377 @@
+[
+  {
+    "id": "hsc-higher-math-1st-paper-chapter-10-set-01-q01",
+    "subject": "higher-math-1st-paper",
+    "chapter": "hsc-higher-math-1st-paper-chapter-10-set-01",
+    "text": "$\\int x^3dx$ কত?",
+    "options": [
+      "$\\frac{x^3}{3}+C$",
+      "$x^4+C$",
+      "$3x^2+C$",
+      "$\\frac{x^4}{4}+C$"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-higher-math-1st-paper-chapter-10-set-01-q02",
+    "subject": "higher-math-1st-paper",
+    "chapter": "hsc-higher-math-1st-paper-chapter-10-set-01",
+    "text": "$\\int 4\\,dx$ কত?",
+    "options": [
+      "$4x+C$",
+      "$x^4+C$",
+      "0",
+      "$4+C$"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-higher-math-1st-paper-chapter-10-set-01-q03",
+    "subject": "higher-math-1st-paper",
+    "chapter": "hsc-higher-math-1st-paper-chapter-10-set-01",
+    "text": "$\\int \\cos x dx$ কত?",
+    "options": [
+      "$\\sin x+C$",
+      "$\\cos x+C$",
+      "$-\\cos x+C$",
+      "$-\\sin x+C$"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-higher-math-1st-paper-chapter-10-set-01-q04",
+    "subject": "higher-math-1st-paper",
+    "chapter": "hsc-higher-math-1st-paper-chapter-10-set-01",
+    "text": "$\\int \\sin x dx$ কত?",
+    "options": [
+      "$\\cos x+C$",
+      "$-\\sin x+C$",
+      "$\\sin x+C$",
+      "$-\\cos x+C$"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-higher-math-1st-paper-chapter-10-set-01-q05",
+    "subject": "higher-math-1st-paper",
+    "chapter": "hsc-higher-math-1st-paper-chapter-10-set-01",
+    "text": "$\\int e^x dx$ কত?",
+    "options": [
+      "$\\ln x+C$",
+      "$e^x+C$",
+      "$xe^{x-1}+C$",
+      "$1/e^x+C$"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-higher-math-1st-paper-chapter-10-set-01-q06",
+    "subject": "higher-math-1st-paper",
+    "chapter": "hsc-higher-math-1st-paper-chapter-10-set-01",
+    "text": "$\\int \\frac1x dx$ কত?",
+    "options": [
+      "$e^x+C$",
+      "$x+C$",
+      "$\\ln|x|+C$",
+      "$1/x^2+C$"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-higher-math-1st-paper-chapter-10-set-01-q07",
+    "subject": "higher-math-1st-paper",
+    "chapter": "hsc-higher-math-1st-paper-chapter-10-set-01",
+    "text": "$\\int (x+4)dx$ কত?",
+    "options": [
+      "$x^2+4+C$",
+      "$\\frac{x^2}{2}+C$",
+      "$\\frac{x^2}{2}+4x+C$",
+      "$1+C$"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-higher-math-1st-paper-chapter-10-set-01-q08",
+    "subject": "higher-math-1st-paper",
+    "chapter": "hsc-higher-math-1st-paper-chapter-10-set-01",
+    "text": "$\\int_0^1 1dx$ কত?",
+    "options": [
+      "0",
+      "2",
+      "1",
+      "$\\frac12$"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-higher-math-1st-paper-chapter-10-set-01-q09",
+    "subject": "higher-math-1st-paper",
+    "chapter": "hsc-higher-math-1st-paper-chapter-10-set-01",
+    "text": "$\\int_0^1 xdx$ কত?",
+    "options": [
+      "$\\frac13$",
+      "$\\frac12$",
+      "1",
+      "0"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-higher-math-1st-paper-chapter-10-set-01-q10",
+    "subject": "higher-math-1st-paper",
+    "chapter": "hsc-higher-math-1st-paper-chapter-10-set-01",
+    "text": "Integration মূলত কোন প্রক্রিয়ার বিপরীত?",
+    "options": [
+      "Matrix multiplication",
+      "Vector product",
+      "Permutation",
+      "Differentiation"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-higher-math-1st-paper-chapter-10-set-01-q11",
+    "subject": "higher-math-1st-paper",
+    "chapter": "hsc-higher-math-1st-paper-chapter-10-set-01",
+    "text": "$\\int x^3dx$ কত? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 01-11 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+    "options": [
+      "$3x^2+C$",
+      "$x^4+C$",
+      "$\\frac{x^3}{3}+C$",
+      "$\\frac{x^4}{4}+C$"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-higher-math-1st-paper-chapter-10-set-01-q12",
+    "subject": "higher-math-1st-paper",
+    "chapter": "hsc-higher-math-1st-paper-chapter-10-set-01",
+    "text": "$\\int 4\\,dx$ কত? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 01-12 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+    "options": [
+      "0",
+      "$4x+C$",
+      "$4+C$",
+      "$x^4+C$"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-higher-math-1st-paper-chapter-10-set-01-q13",
+    "subject": "higher-math-1st-paper",
+    "chapter": "hsc-higher-math-1st-paper-chapter-10-set-01",
+    "text": "$\\int \\cos x dx$ কত? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 01-13 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+    "options": [
+      "$\\sin x+C$",
+      "$-\\sin x+C$",
+      "$\\cos x+C$",
+      "$-\\cos x+C$"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-higher-math-1st-paper-chapter-10-set-01-q14",
+    "subject": "higher-math-1st-paper",
+    "chapter": "hsc-higher-math-1st-paper-chapter-10-set-01",
+    "text": "$\\int \\sin x dx$ কত? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 01-14 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+    "options": [
+      "$-\\cos x+C$",
+      "$-\\sin x+C$",
+      "$\\cos x+C$",
+      "$\\sin x+C$"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-higher-math-1st-paper-chapter-10-set-01-q15",
+    "subject": "higher-math-1st-paper",
+    "chapter": "hsc-higher-math-1st-paper-chapter-10-set-01",
+    "text": "$\\int e^x dx$ কত? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 01-15 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+    "options": [
+      "$\\ln x+C$",
+      "$xe^{x-1}+C$",
+      "$e^x+C$",
+      "$1/e^x+C$"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-higher-math-1st-paper-chapter-10-set-01-q16",
+    "subject": "higher-math-1st-paper",
+    "chapter": "hsc-higher-math-1st-paper-chapter-10-set-01",
+    "text": "$\\int \\frac1x dx$ কত? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 01-16 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+    "options": [
+      "$e^x+C$",
+      "$1/x^2+C$",
+      "$x+C$",
+      "$\\ln|x|+C$"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-higher-math-1st-paper-chapter-10-set-01-q17",
+    "subject": "higher-math-1st-paper",
+    "chapter": "hsc-higher-math-1st-paper-chapter-10-set-01",
+    "text": "$\\int (x+4)dx$ কত? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 01-17 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+    "options": [
+      "$\\frac{x^2}{2}+C$",
+      "$x^2+4+C$",
+      "$\\frac{x^2}{2}+4x+C$",
+      "$1+C$"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-higher-math-1st-paper-chapter-10-set-01-q18",
+    "subject": "higher-math-1st-paper",
+    "chapter": "hsc-higher-math-1st-paper-chapter-10-set-01",
+    "text": "$\\int_0^1 1dx$ কত? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 01-18 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+    "options": [
+      "$\\frac12$",
+      "0",
+      "1",
+      "2"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-higher-math-1st-paper-chapter-10-set-01-q19",
+    "subject": "higher-math-1st-paper",
+    "chapter": "hsc-higher-math-1st-paper-chapter-10-set-01",
+    "text": "$\\int_0^1 xdx$ কত? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 01-19 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+    "options": [
+      "$\\frac12$",
+      "1",
+      "0",
+      "$\\frac13$"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-higher-math-1st-paper-chapter-10-set-01-q20",
+    "subject": "higher-math-1st-paper",
+    "chapter": "hsc-higher-math-1st-paper-chapter-10-set-01",
+    "text": "Integration মূলত কোন প্রক্রিয়ার বিপরীত? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 01-20 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+    "options": [
+      "Vector product",
+      "Matrix multiplication",
+      "Permutation",
+      "Differentiation"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-higher-math-1st-paper-chapter-10-set-01-q21",
+    "subject": "higher-math-1st-paper",
+    "chapter": "hsc-higher-math-1st-paper-chapter-10-set-01",
+    "text": "$\\int x^3dx$ কত? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 01-21 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+    "options": [
+      "$3x^2+C$",
+      "$\\frac{x^4}{4}+C$",
+      "$\\frac{x^3}{3}+C$",
+      "$x^4+C$"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-higher-math-1st-paper-chapter-10-set-01-q22",
+    "subject": "higher-math-1st-paper",
+    "chapter": "hsc-higher-math-1st-paper-chapter-10-set-01",
+    "text": "$\\int 4\\,dx$ কত? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 01-22 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+    "options": [
+      "0",
+      "$4+C$",
+      "$4x+C$",
+      "$x^4+C$"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-higher-math-1st-paper-chapter-10-set-01-q23",
+    "subject": "higher-math-1st-paper",
+    "chapter": "hsc-higher-math-1st-paper-chapter-10-set-01",
+    "text": "$\\int \\cos x dx$ কত? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 01-23 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+    "options": [
+      "$-\\cos x+C$",
+      "$-\\sin x+C$",
+      "$\\cos x+C$",
+      "$\\sin x+C$"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-higher-math-1st-paper-chapter-10-set-01-q24",
+    "subject": "higher-math-1st-paper",
+    "chapter": "hsc-higher-math-1st-paper-chapter-10-set-01",
+    "text": "$\\int \\sin x dx$ কত? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 01-24 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+    "options": [
+      "$\\cos x+C$",
+      "$-\\sin x+C$",
+      "$\\sin x+C$",
+      "$-\\cos x+C$"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-higher-math-1st-paper-chapter-10-set-01-q25",
+    "subject": "higher-math-1st-paper",
+    "chapter": "hsc-higher-math-1st-paper-chapter-10-set-01",
+    "text": "$\\int e^x dx$ কত? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 01-25 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+    "options": [
+      "$1/e^x+C$",
+      "$e^x+C$",
+      "$\\ln x+C$",
+      "$xe^{x-1}+C$"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  }
+]

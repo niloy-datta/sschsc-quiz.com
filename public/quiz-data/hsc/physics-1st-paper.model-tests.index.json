@@ -2,61 +2,6 @@
   "level": "hsc",
   "subject": "physics-1st-paper",
   "modelTests": {
-    "physicsfirstpaperch2set11": {
-      "questionCount": 25,
-      "scope": "chapter",
-      "displayTitle": "Chapter Model Test 11",
-      "durationMinutes": 25,
-      "tags": [
-        "chapter-wise"
-      ]
-    },
-    "physicsfirstpaperch4set14": {
-      "questionCount": 24,
-      "scope": "chapter",
-      "displayTitle": "Chapter Model Test 14",
-      "durationMinutes": 25,
-      "tags": [
-        "chapter-wise"
-      ]
-    },
-    "physicsfirstpaperfinalsets": {
-      "questionCount": 50,
-      "scope": "whole-syllabus",
-      "displayTitle": "Paper Model Test",
-      "durationMinutes": 25,
-      "tags": [
-        "paper-wise",
-        "whole-syllabus-wise"
-      ]
-    },
-    "physicsfirstpapersets10and13": {
-      "questionCount": 50,
-      "scope": "paper",
-      "displayTitle": "Paper Model Test 13",
-      "durationMinutes": 25,
-      "tags": [
-        "paper-wise"
-      ]
-    },
-    "physicsfirstpapersets11and12": {
-      "questionCount": 50,
-      "scope": "paper",
-      "displayTitle": "Paper Model Test 12",
-      "durationMinutes": 25,
-      "tags": [
-        "paper-wise"
-      ]
-    },
-    "physicsfirstpapersets14to17": {
-      "questionCount": 96,
-      "scope": "paper",
-      "displayTitle": "Paper Model Test 17",
-      "durationMinutes": 25,
-      "tags": [
-        "paper-wise"
-      ]
-    },
     "super-model-set-01": {
       "questionCount": 17,
       "scope": "paper",
@@ -192,15 +137,6 @@
         "paper-wise"
       ]
     },
-    "super-model-set-16": {
-      "questionCount": 25,
-      "scope": "paper",
-      "displayTitle": "Paper Model Test 16",
-      "durationMinutes": 25,
-      "tags": [
-        "paper-wise"
-      ]
-    },
     "super-model-set-17": {
       "questionCount": 25,
       "scope": "paper",
@@ -219,102 +155,8 @@
         "paper-wise"
       ]
     },
-    "hsc-physics-1st-paper-tier-a-hot-model-test-01": {
-      "questionCount": 25,
-      "scope": "paper",
-      "displayTitle": "Paper Model Test 01",
-      "durationMinutes": 25,
-      "tags": [
-        "hot",
-        "high-priority",
-        "board-standard",
-        "paper-wise"
-      ]
-    },
-    "hsc-physics-1st-paper-tier-a-hot-model-test-02": {
-      "questionCount": 25,
-      "scope": "paper",
-      "displayTitle": "Paper Model Test 02",
-      "durationMinutes": 25,
-      "tags": [
-        "hot",
-        "high-priority",
-        "board-standard",
-        "paper-wise"
-      ]
-    },
-    "hsc-physics-1st-paper-tier-a-hot-model-test-03": {
-      "questionCount": 25,
-      "scope": "paper",
-      "displayTitle": "Paper Model Test 03",
-      "durationMinutes": 25,
-      "tags": [
-        "hot",
-        "high-priority",
-        "board-standard",
-        "paper-wise"
-      ]
-    },
-    "hsc-physics-1st-paper-tier-a-hot-model-test-04": {
-      "questionCount": 25,
-      "scope": "paper",
-      "displayTitle": "Paper Model Test 04",
-      "durationMinutes": 25,
-      "tags": [
-        "hot",
-        "high-priority",
-        "board-standard",
-        "paper-wise"
-      ]
-    },
-    "hsc-physics-1st-paper-tier-a-hot-model-test-05": {
-      "questionCount": 25,
-      "scope": "paper",
-      "displayTitle": "Paper Model Test 05",
-      "durationMinutes": 25,
-      "tags": [
-        "hot",
-        "high-priority",
-        "board-standard",
-        "paper-wise"
-      ]
-    },
-    "hsc-physics-1st-paper-chapter-01-model-test-01": {
-      "questionCount": 25,
-      "scope": "chapter",
-      "displayTitle": "Chapter 01 Model Test 01",
-      "durationMinutes": 25,
-      "importance": "high",
-      "tags": [
-        "chapter-wise",
-        "high-priority"
-      ],
-      "chaptersCovered": [
-        {
-          "chapter": "01",
-          "chapterName": "ভৌতজগৎ ও পরিমাপ"
-        }
-      ]
-    },
-    "hsc-physics-1st-paper-chapter-01-model-test-02": {
-      "questionCount": 25,
-      "scope": "chapter",
-      "displayTitle": "Chapter 01 Model Test 02",
-      "durationMinutes": 25,
-      "importance": "high",
-      "tags": [
-        "chapter-wise",
-        "high-priority"
-      ],
-      "chaptersCovered": [
-        {
-          "chapter": "01",
-          "chapterName": "ভৌতজগৎ ও পরিমাপ"
-        }
-      ]
-    },
     "hsc-physics-1st-paper-chapter-01-model-test-03": {
-      "questionCount": 25,
+      "questionCount": 19,
       "scope": "chapter",
       "displayTitle": "Chapter 01 Model Test 03",
       "durationMinutes": 25,
@@ -330,78 +172,10 @@
         }
       ]
     },
-    "hsc-physics-1st-paper-chapter-01-model-test-04": {
-      "questionCount": 25,
-      "scope": "chapter",
-      "displayTitle": "Chapter 01 Model Test 04",
-      "durationMinutes": 25,
-      "importance": "high",
-      "tags": [
-        "chapter-wise",
-        "high-priority"
-      ],
-      "chaptersCovered": [
-        {
-          "chapter": "01",
-          "chapterName": "ভৌতজগৎ ও পরিমাপ"
-        }
-      ]
-    },
-    "hsc-physics-1st-paper-chapter-01-model-test-05": {
-      "questionCount": 25,
-      "scope": "chapter",
-      "displayTitle": "Chapter 01 Model Test 05",
-      "durationMinutes": 25,
-      "importance": "high",
-      "tags": [
-        "chapter-wise",
-        "high-priority"
-      ],
-      "chaptersCovered": [
-        {
-          "chapter": "01",
-          "chapterName": "ভৌতজগৎ ও পরিমাপ"
-        }
-      ]
-    },
-    "hsc-physics-1st-paper-chapter-01-model-test-06": {
-      "questionCount": 25,
-      "scope": "chapter",
-      "displayTitle": "Chapter 01 Model Test 06",
-      "durationMinutes": 25,
-      "importance": "high",
-      "tags": [
-        "chapter-wise",
-        "high-priority"
-      ],
-      "chaptersCovered": [
-        {
-          "chapter": "01",
-          "chapterName": "ভৌতজগৎ ও পরিমাপ"
-        }
-      ]
-    },
     "hsc-physics-1st-paper-chapter-01-model-test-07": {
-      "questionCount": 25,
+      "questionCount": 22,
       "scope": "chapter",
       "displayTitle": "Chapter 01 Model Test 07",
-      "durationMinutes": 25,
-      "importance": "high",
-      "tags": [
-        "chapter-wise",
-        "high-priority"
-      ],
-      "chaptersCovered": [
-        {
-          "chapter": "01",
-          "chapterName": "ভৌতজগৎ ও পরিমাপ"
-        }
-      ]
-    },
-    "hsc-physics-1st-paper-chapter-01-model-test-08": {
-      "questionCount": 25,
-      "scope": "chapter",
-      "displayTitle": "Chapter 01 Model Test 08",
       "durationMinutes": 25,
       "importance": "high",
       "tags": [
@@ -432,23 +206,6 @@
         }
       ]
     },
-    "hsc-physics-1st-paper-chapter-01-model-test-10": {
-      "questionCount": 25,
-      "scope": "chapter",
-      "displayTitle": "Chapter 01 Model Test 10",
-      "durationMinutes": 25,
-      "importance": "high",
-      "tags": [
-        "chapter-wise",
-        "high-priority"
-      ],
-      "chaptersCovered": [
-        {
-          "chapter": "01",
-          "chapterName": "ভৌতজগৎ ও পরিমাপ"
-        }
-      ]
-    },
     "hsc-physics-1st-paper-chapter-02-model-test-01": {
       "questionCount": 25,
       "scope": "chapter",
@@ -466,10 +223,10 @@
         }
       ]
     },
-    "hsc-physics-1st-paper-chapter-02-model-test-02": {
-      "questionCount": 25,
+    "hsc-physics-1st-paper-chapter-02-model-test-03": {
+      "questionCount": 24,
       "scope": "chapter",
-      "displayTitle": "Chapter 02 Model Test 02",
+      "displayTitle": "Chapter 02 Model Test 03",
       "durationMinutes": 25,
       "importance": "high",
       "tags": [
@@ -483,10 +240,622 @@
         }
       ]
     },
-    "hsc-physics-1st-paper-chapter-02-model-test-03": {
+    "hsc-physics-1st-paper-chapter-02-model-test-08": {
+      "questionCount": 18,
+      "scope": "chapter",
+      "displayTitle": "Chapter 02 Model Test 08",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "high-priority"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "02",
+          "chapterName": "ভেক্টর"
+        }
+      ]
+    },
+    "hsc-physics-1st-paper-chapter-03-model-test-01": {
       "questionCount": 25,
       "scope": "chapter",
-      "displayTitle": "Chapter 02 Model Test 03",
+      "displayTitle": "Chapter 03 Model Test 01",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "high-priority"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "03",
+          "chapterName": "গতিবিদ্যা"
+        }
+      ]
+    },
+    "hsc-physics-1st-paper-chapter-03-model-test-03": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "Chapter 03 Model Test 03",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "high-priority"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "03",
+          "chapterName": "গতিবিদ্যা"
+        }
+      ]
+    },
+    "hsc-physics-1st-paper-chapter-03-model-test-05": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "Chapter 03 Model Test 05",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "high-priority"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "03",
+          "chapterName": "গতিবিদ্যা"
+        }
+      ]
+    },
+    "hsc-physics-1st-paper-chapter-03-model-test-07": {
+      "questionCount": 24,
+      "scope": "chapter",
+      "displayTitle": "Chapter 03 Model Test 07",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "high-priority"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "03",
+          "chapterName": "গতিবিদ্যা"
+        }
+      ]
+    },
+    "hsc-physics-1st-paper-chapter-03-model-test-09": {
+      "questionCount": 24,
+      "scope": "chapter",
+      "displayTitle": "Chapter 03 Model Test 09",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "high-priority"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "03",
+          "chapterName": "গতিবিদ্যা"
+        }
+      ]
+    },
+    "hsc-physics-1st-paper-chapter-04-model-test-01": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "Chapter 04 Model Test 01",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "high-priority"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "04",
+          "chapterName": "নিউটনীয় বলবিদ্যা"
+        }
+      ]
+    },
+    "hsc-physics-1st-paper-chapter-04-model-test-03": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "Chapter 04 Model Test 03",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "high-priority"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "04",
+          "chapterName": "নিউটনীয় বলবিদ্যা"
+        }
+      ]
+    },
+    "hsc-physics-1st-paper-chapter-04-model-test-05": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "Chapter 04 Model Test 05",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "high-priority"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "04",
+          "chapterName": "নিউটনীয় বলবিদ্যা"
+        }
+      ]
+    },
+    "hsc-physics-1st-paper-chapter-04-model-test-07": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "Chapter 04 Model Test 07",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "high-priority"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "04",
+          "chapterName": "নিউটনীয় বলবিদ্যা"
+        }
+      ]
+    },
+    "hsc-physics-1st-paper-chapter-04-model-test-09": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "Chapter 04 Model Test 09",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "high-priority"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "04",
+          "chapterName": "নিউটনীয় বলবিদ্যা"
+        }
+      ]
+    },
+    "hsc-physics-1st-paper-chapter-05-model-test-01": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "Chapter 05 Model Test 01",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "high-priority"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "05",
+          "chapterName": "কাজ, শক্তি ও ক্ষমতা"
+        }
+      ]
+    },
+    "hsc-physics-1st-paper-chapter-05-model-test-06": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "Chapter 05 Model Test 06",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "high-priority"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "05",
+          "chapterName": "কাজ, শক্তি ও ক্ষমতা"
+        }
+      ]
+    },
+    "hsc-physics-1st-paper-chapter-05-model-test-08": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "Chapter 05 Model Test 08",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "high-priority"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "05",
+          "chapterName": "কাজ, শক্তি ও ক্ষমতা"
+        }
+      ]
+    },
+    "hsc-physics-1st-paper-chapter-05-model-test-10": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "Chapter 05 Model Test 10",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "high-priority"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "05",
+          "chapterName": "কাজ, শক্তি ও ক্ষমতা"
+        }
+      ]
+    },
+    "hsc-physics-1st-paper-chapter-06-model-test-01": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "Chapter 06 Model Test 01",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "high-priority"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "06",
+          "chapterName": "মহাকর্ষ ও অভিকর্ষ"
+        }
+      ]
+    },
+    "hsc-physics-1st-paper-chapter-06-model-test-03": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "Chapter 06 Model Test 03",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "high-priority"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "06",
+          "chapterName": "মহাকর্ষ ও অভিকর্ষ"
+        }
+      ]
+    },
+    "hsc-physics-1st-paper-chapter-06-model-test-08": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "Chapter 06 Model Test 08",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "high-priority"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "06",
+          "chapterName": "মহাকর্ষ ও অভিকর্ষ"
+        }
+      ]
+    },
+    "hsc-physics-1st-paper-chapter-06-model-test-10": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "Chapter 06 Model Test 10",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "high-priority"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "06",
+          "chapterName": "মহাকর্ষ ও অভিকর্ষ"
+        }
+      ]
+    },
+    "hsc-physics-1st-paper-chapter-07-model-test-01": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "Chapter 07 Model Test 01",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "high-priority"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "07",
+          "chapterName": "পদার্থের গাঠনিক ধর্ম"
+        }
+      ]
+    },
+    "hsc-physics-1st-paper-chapter-08-model-test-01": {
+      "questionCount": 20,
+      "scope": "chapter",
+      "displayTitle": "Chapter 08 Model Test 01",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "high-priority"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "08",
+          "chapterName": "পর্যাবৃত্ত গতি"
+        }
+      ]
+    },
+    "hsc-physics-1st-paper-chapter-08-model-test-03": {
+      "questionCount": 19,
+      "scope": "chapter",
+      "displayTitle": "Chapter 08 Model Test 03",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "high-priority"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "08",
+          "chapterName": "পর্যাবৃত্ত গতি"
+        }
+      ]
+    },
+    "hsc-physics-1st-paper-chapter-08-model-test-05": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "Chapter 08 Model Test 05",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "high-priority"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "08",
+          "chapterName": "পর্যাবৃত্ত গতি"
+        }
+      ]
+    },
+    "hsc-physics-1st-paper-chapter-08-model-test-07": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "Chapter 08 Model Test 07",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "high-priority"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "08",
+          "chapterName": "পর্যাবৃত্ত গতি"
+        }
+      ]
+    },
+    "hsc-physics-1st-paper-chapter-08-model-test-09": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "Chapter 08 Model Test 09",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "high-priority"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "08",
+          "chapterName": "পর্যাবৃত্ত গতি"
+        }
+      ]
+    },
+    "hsc-physics-1st-paper-chapter-09-model-test-01": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "Chapter 09 Model Test 01",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "high-priority"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "09",
+          "chapterName": "তরঙ্গ"
+        }
+      ]
+    },
+    "hsc-physics-1st-paper-chapter-10-model-test-01": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "Chapter 10 Model Test 01",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "high-priority"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "10",
+          "chapterName": "আদর্শ গ্যাস ও গ্যাসের গতিতত্ত্ব"
+        }
+      ]
+    },
+    "hsc-physics-1st-paper-chapter-10-model-test-03": {
+      "questionCount": 24,
+      "scope": "chapter",
+      "displayTitle": "Chapter 10 Model Test 03",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "high-priority"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "10",
+          "chapterName": "আদর্শ গ্যাস ও গ্যাসের গতিতত্ত্ব"
+        }
+      ]
+    },
+    "hsc-physics-1st-paper-chapter-10-model-test-05": {
+      "questionCount": 24,
+      "scope": "chapter",
+      "displayTitle": "Chapter 10 Model Test 05",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "high-priority"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "10",
+          "chapterName": "আদর্শ গ্যাস ও গ্যাসের গতিতত্ত্ব"
+        }
+      ]
+    },
+    "hsc-physics-1st-paper-chapter-10-model-test-07": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "Chapter 10 Model Test 07",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "high-priority"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "10",
+          "chapterName": "আদর্শ গ্যাস ও গ্যাসের গতিতত্ত্ব"
+        }
+      ]
+    },
+    "hsc-physics-1st-paper-chapter-10-model-test-09": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "Chapter 10 Model Test 09",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "high-priority"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "10",
+          "chapterName": "আদর্শ গ্যাস ও গ্যাসের গতিতত্ত্ব"
+        }
+      ]
+    },
+    "hsc-physics-1st-paper-chapter-01-model-test-01": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "Chapter 01 Model Test 01",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "high-priority"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "01",
+          "chapterName": "ভৌতজগৎ ও পরিমাপ"
+        }
+      ]
+    },
+    "hsc-physics-1st-paper-chapter-01-model-test-02": {
+      "questionCount": 24,
+      "scope": "chapter",
+      "displayTitle": "Chapter 01 Model Test 02",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "high-priority"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "01",
+          "chapterName": "ভৌতজগৎ ও পরিমাপ"
+        }
+      ]
+    },
+    "hsc-physics-1st-paper-chapter-01-model-test-06": {
+      "questionCount": 16,
+      "scope": "chapter",
+      "displayTitle": "Chapter 01 Model Test 06",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "high-priority"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "01",
+          "chapterName": "ভৌতজগৎ ও পরিমাপ"
+        }
+      ]
+    },
+    "hsc-physics-1st-paper-chapter-01-model-test-08": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "Chapter 01 Model Test 08",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "high-priority"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "01",
+          "chapterName": "ভৌতজগৎ ও পরিমাপ"
+        }
+      ]
+    },
+    "hsc-physics-1st-paper-chapter-01-model-test-10": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "Chapter 01 Model Test 10",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "high-priority"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "01",
+          "chapterName": "ভৌতজগৎ ও পরিমাপ"
+        }
+      ]
+    },
+    "hsc-physics-1st-paper-chapter-02-model-test-02": {
+      "questionCount": 24,
+      "scope": "chapter",
+      "displayTitle": "Chapter 02 Model Test 02",
       "durationMinutes": 25,
       "importance": "high",
       "tags": [
@@ -535,7 +904,7 @@
       ]
     },
     "hsc-physics-1st-paper-chapter-02-model-test-06": {
-      "questionCount": 25,
+      "questionCount": 23,
       "scope": "chapter",
       "displayTitle": "Chapter 02 Model Test 06",
       "durationMinutes": 25,
@@ -552,7 +921,7 @@
       ]
     },
     "hsc-physics-1st-paper-chapter-02-model-test-07": {
-      "questionCount": 25,
+      "questionCount": 21,
       "scope": "chapter",
       "displayTitle": "Chapter 02 Model Test 07",
       "durationMinutes": 25,
@@ -568,25 +937,8 @@
         }
       ]
     },
-    "hsc-physics-1st-paper-chapter-02-model-test-08": {
-      "questionCount": 25,
-      "scope": "chapter",
-      "displayTitle": "Chapter 02 Model Test 08",
-      "durationMinutes": 25,
-      "importance": "high",
-      "tags": [
-        "chapter-wise",
-        "high-priority"
-      ],
-      "chaptersCovered": [
-        {
-          "chapter": "02",
-          "chapterName": "ভেক্টর"
-        }
-      ]
-    },
     "hsc-physics-1st-paper-chapter-02-model-test-09": {
-      "questionCount": 25,
+      "questionCount": 15,
       "scope": "chapter",
       "displayTitle": "Chapter 02 Model Test 09",
       "durationMinutes": 25,
@@ -603,7 +955,7 @@
       ]
     },
     "hsc-physics-1st-paper-chapter-02-model-test-10": {
-      "questionCount": 25,
+      "questionCount": 17,
       "scope": "chapter",
       "displayTitle": "Chapter 02 Model Test 10",
       "durationMinutes": 25,
@@ -619,44 +971,10 @@
         }
       ]
     },
-    "hsc-physics-1st-paper-chapter-03-model-test-01": {
-      "questionCount": 25,
-      "scope": "chapter",
-      "displayTitle": "Chapter 03 Model Test 01",
-      "durationMinutes": 25,
-      "importance": "high",
-      "tags": [
-        "chapter-wise",
-        "high-priority"
-      ],
-      "chaptersCovered": [
-        {
-          "chapter": "03",
-          "chapterName": "গতিবিদ্যা"
-        }
-      ]
-    },
     "hsc-physics-1st-paper-chapter-03-model-test-02": {
       "questionCount": 25,
       "scope": "chapter",
       "displayTitle": "Chapter 03 Model Test 02",
-      "durationMinutes": 25,
-      "importance": "high",
-      "tags": [
-        "chapter-wise",
-        "high-priority"
-      ],
-      "chaptersCovered": [
-        {
-          "chapter": "03",
-          "chapterName": "গতিবিদ্যা"
-        }
-      ]
-    },
-    "hsc-physics-1st-paper-chapter-03-model-test-03": {
-      "questionCount": 25,
-      "scope": "chapter",
-      "displayTitle": "Chapter 03 Model Test 03",
       "durationMinutes": 25,
       "importance": "high",
       "tags": [
@@ -687,23 +1005,6 @@
         }
       ]
     },
-    "hsc-physics-1st-paper-chapter-03-model-test-05": {
-      "questionCount": 25,
-      "scope": "chapter",
-      "displayTitle": "Chapter 03 Model Test 05",
-      "durationMinutes": 25,
-      "importance": "high",
-      "tags": [
-        "chapter-wise",
-        "high-priority"
-      ],
-      "chaptersCovered": [
-        {
-          "chapter": "03",
-          "chapterName": "গতিবিদ্যা"
-        }
-      ]
-    },
     "hsc-physics-1st-paper-chapter-03-model-test-06": {
       "questionCount": 25,
       "scope": "chapter",
@@ -721,44 +1022,10 @@
         }
       ]
     },
-    "hsc-physics-1st-paper-chapter-03-model-test-07": {
-      "questionCount": 25,
-      "scope": "chapter",
-      "displayTitle": "Chapter 03 Model Test 07",
-      "durationMinutes": 25,
-      "importance": "high",
-      "tags": [
-        "chapter-wise",
-        "high-priority"
-      ],
-      "chaptersCovered": [
-        {
-          "chapter": "03",
-          "chapterName": "গতিবিদ্যা"
-        }
-      ]
-    },
     "hsc-physics-1st-paper-chapter-03-model-test-08": {
-      "questionCount": 25,
+      "questionCount": 24,
       "scope": "chapter",
       "displayTitle": "Chapter 03 Model Test 08",
-      "durationMinutes": 25,
-      "importance": "high",
-      "tags": [
-        "chapter-wise",
-        "high-priority"
-      ],
-      "chaptersCovered": [
-        {
-          "chapter": "03",
-          "chapterName": "গতিবিদ্যা"
-        }
-      ]
-    },
-    "hsc-physics-1st-paper-chapter-03-model-test-09": {
-      "questionCount": 25,
-      "scope": "chapter",
-      "displayTitle": "Chapter 03 Model Test 09",
       "durationMinutes": 25,
       "importance": "high",
       "tags": [
@@ -789,44 +1056,10 @@
         }
       ]
     },
-    "hsc-physics-1st-paper-chapter-04-model-test-01": {
-      "questionCount": 25,
-      "scope": "chapter",
-      "displayTitle": "Chapter 04 Model Test 01",
-      "durationMinutes": 25,
-      "importance": "high",
-      "tags": [
-        "chapter-wise",
-        "high-priority"
-      ],
-      "chaptersCovered": [
-        {
-          "chapter": "04",
-          "chapterName": "নিউটনীয় বলবিদ্যা"
-        }
-      ]
-    },
     "hsc-physics-1st-paper-chapter-04-model-test-02": {
       "questionCount": 25,
       "scope": "chapter",
       "displayTitle": "Chapter 04 Model Test 02",
-      "durationMinutes": 25,
-      "importance": "high",
-      "tags": [
-        "chapter-wise",
-        "high-priority"
-      ],
-      "chaptersCovered": [
-        {
-          "chapter": "04",
-          "chapterName": "নিউটনীয় বলবিদ্যা"
-        }
-      ]
-    },
-    "hsc-physics-1st-paper-chapter-04-model-test-03": {
-      "questionCount": 25,
-      "scope": "chapter",
-      "displayTitle": "Chapter 04 Model Test 03",
       "durationMinutes": 25,
       "importance": "high",
       "tags": [
@@ -857,44 +1090,10 @@
         }
       ]
     },
-    "hsc-physics-1st-paper-chapter-04-model-test-05": {
-      "questionCount": 25,
-      "scope": "chapter",
-      "displayTitle": "Chapter 04 Model Test 05",
-      "durationMinutes": 25,
-      "importance": "high",
-      "tags": [
-        "chapter-wise",
-        "high-priority"
-      ],
-      "chaptersCovered": [
-        {
-          "chapter": "04",
-          "chapterName": "নিউটনীয় বলবিদ্যা"
-        }
-      ]
-    },
     "hsc-physics-1st-paper-chapter-04-model-test-06": {
       "questionCount": 25,
       "scope": "chapter",
       "displayTitle": "Chapter 04 Model Test 06",
-      "durationMinutes": 25,
-      "importance": "high",
-      "tags": [
-        "chapter-wise",
-        "high-priority"
-      ],
-      "chaptersCovered": [
-        {
-          "chapter": "04",
-          "chapterName": "নিউটনীয় বলবিদ্যা"
-        }
-      ]
-    },
-    "hsc-physics-1st-paper-chapter-04-model-test-07": {
-      "questionCount": 25,
-      "scope": "chapter",
-      "displayTitle": "Chapter 04 Model Test 07",
       "durationMinutes": 25,
       "importance": "high",
       "tags": [
@@ -925,23 +1124,6 @@
         }
       ]
     },
-    "hsc-physics-1st-paper-chapter-04-model-test-09": {
-      "questionCount": 25,
-      "scope": "chapter",
-      "displayTitle": "Chapter 04 Model Test 09",
-      "durationMinutes": 25,
-      "importance": "high",
-      "tags": [
-        "chapter-wise",
-        "high-priority"
-      ],
-      "chaptersCovered": [
-        {
-          "chapter": "04",
-          "chapterName": "নিউটনীয় বলবিদ্যা"
-        }
-      ]
-    },
     "hsc-physics-1st-paper-chapter-04-model-test-10": {
       "questionCount": 25,
       "scope": "chapter",
@@ -956,23 +1138,6 @@
         {
           "chapter": "04",
           "chapterName": "নিউটনীয় বলবিদ্যা"
-        }
-      ]
-    },
-    "hsc-physics-1st-paper-chapter-05-model-test-01": {
-      "questionCount": 25,
-      "scope": "chapter",
-      "displayTitle": "Chapter 05 Model Test 01",
-      "durationMinutes": 25,
-      "importance": "high",
-      "tags": [
-        "chapter-wise",
-        "high-priority"
-      ],
-      "chaptersCovered": [
-        {
-          "chapter": "05",
-          "chapterName": "কাজ, শক্তি ও ক্ষমতা"
         }
       ]
     },
@@ -1044,44 +1209,10 @@
         }
       ]
     },
-    "hsc-physics-1st-paper-chapter-05-model-test-06": {
-      "questionCount": 25,
-      "scope": "chapter",
-      "displayTitle": "Chapter 05 Model Test 06",
-      "durationMinutes": 25,
-      "importance": "high",
-      "tags": [
-        "chapter-wise",
-        "high-priority"
-      ],
-      "chaptersCovered": [
-        {
-          "chapter": "05",
-          "chapterName": "কাজ, শক্তি ও ক্ষমতা"
-        }
-      ]
-    },
     "hsc-physics-1st-paper-chapter-05-model-test-07": {
       "questionCount": 25,
       "scope": "chapter",
       "displayTitle": "Chapter 05 Model Test 07",
-      "durationMinutes": 25,
-      "importance": "high",
-      "tags": [
-        "chapter-wise",
-        "high-priority"
-      ],
-      "chaptersCovered": [
-        {
-          "chapter": "05",
-          "chapterName": "কাজ, শক্তি ও ক্ষমতা"
-        }
-      ]
-    },
-    "hsc-physics-1st-paper-chapter-05-model-test-08": {
-      "questionCount": 25,
-      "scope": "chapter",
-      "displayTitle": "Chapter 05 Model Test 08",
       "durationMinutes": 25,
       "importance": "high",
       "tags": [
@@ -1112,61 +1243,10 @@
         }
       ]
     },
-    "hsc-physics-1st-paper-chapter-05-model-test-10": {
-      "questionCount": 25,
-      "scope": "chapter",
-      "displayTitle": "Chapter 05 Model Test 10",
-      "durationMinutes": 25,
-      "importance": "high",
-      "tags": [
-        "chapter-wise",
-        "high-priority"
-      ],
-      "chaptersCovered": [
-        {
-          "chapter": "05",
-          "chapterName": "কাজ, শক্তি ও ক্ষমতা"
-        }
-      ]
-    },
-    "hsc-physics-1st-paper-chapter-06-model-test-01": {
-      "questionCount": 25,
-      "scope": "chapter",
-      "displayTitle": "Chapter 06 Model Test 01",
-      "durationMinutes": 25,
-      "importance": "high",
-      "tags": [
-        "chapter-wise",
-        "high-priority"
-      ],
-      "chaptersCovered": [
-        {
-          "chapter": "06",
-          "chapterName": "মহাকর্ষ ও অভিকর্ষ"
-        }
-      ]
-    },
     "hsc-physics-1st-paper-chapter-06-model-test-02": {
       "questionCount": 25,
       "scope": "chapter",
       "displayTitle": "Chapter 06 Model Test 02",
-      "durationMinutes": 25,
-      "importance": "high",
-      "tags": [
-        "chapter-wise",
-        "high-priority"
-      ],
-      "chaptersCovered": [
-        {
-          "chapter": "06",
-          "chapterName": "মহাকর্ষ ও অভিকর্ষ"
-        }
-      ]
-    },
-    "hsc-physics-1st-paper-chapter-06-model-test-03": {
-      "questionCount": 25,
-      "scope": "chapter",
-      "displayTitle": "Chapter 06 Model Test 03",
       "durationMinutes": 25,
       "importance": "high",
       "tags": [
@@ -1248,23 +1328,6 @@
         }
       ]
     },
-    "hsc-physics-1st-paper-chapter-06-model-test-08": {
-      "questionCount": 25,
-      "scope": "chapter",
-      "displayTitle": "Chapter 06 Model Test 08",
-      "durationMinutes": 25,
-      "importance": "high",
-      "tags": [
-        "chapter-wise",
-        "high-priority"
-      ],
-      "chaptersCovered": [
-        {
-          "chapter": "06",
-          "chapterName": "মহাকর্ষ ও অভিকর্ষ"
-        }
-      ]
-    },
     "hsc-physics-1st-paper-chapter-06-model-test-09": {
       "questionCount": 25,
       "scope": "chapter",
@@ -1279,40 +1342,6 @@
         {
           "chapter": "06",
           "chapterName": "মহাকর্ষ ও অভিকর্ষ"
-        }
-      ]
-    },
-    "hsc-physics-1st-paper-chapter-06-model-test-10": {
-      "questionCount": 25,
-      "scope": "chapter",
-      "displayTitle": "Chapter 06 Model Test 10",
-      "durationMinutes": 25,
-      "importance": "high",
-      "tags": [
-        "chapter-wise",
-        "high-priority"
-      ],
-      "chaptersCovered": [
-        {
-          "chapter": "06",
-          "chapterName": "মহাকর্ষ ও অভিকর্ষ"
-        }
-      ]
-    },
-    "hsc-physics-1st-paper-chapter-07-model-test-01": {
-      "questionCount": 25,
-      "scope": "chapter",
-      "displayTitle": "Chapter 07 Model Test 01",
-      "durationMinutes": 25,
-      "importance": "high",
-      "tags": [
-        "chapter-wise",
-        "high-priority"
-      ],
-      "chaptersCovered": [
-        {
-          "chapter": "07",
-          "chapterName": "পদার্থের গাঠনিক ধর্ম"
         }
       ]
     },
@@ -1469,25 +1498,8 @@
         }
       ]
     },
-    "hsc-physics-1st-paper-chapter-08-model-test-01": {
-      "questionCount": 25,
-      "scope": "chapter",
-      "displayTitle": "Chapter 08 Model Test 01",
-      "durationMinutes": 25,
-      "importance": "high",
-      "tags": [
-        "chapter-wise",
-        "high-priority"
-      ],
-      "chaptersCovered": [
-        {
-          "chapter": "08",
-          "chapterName": "পর্যাবৃত্ত গতি"
-        }
-      ]
-    },
     "hsc-physics-1st-paper-chapter-08-model-test-02": {
-      "questionCount": 25,
+      "questionCount": 19,
       "scope": "chapter",
       "displayTitle": "Chapter 08 Model Test 02",
       "durationMinutes": 25,
@@ -1503,44 +1515,10 @@
         }
       ]
     },
-    "hsc-physics-1st-paper-chapter-08-model-test-03": {
-      "questionCount": 25,
-      "scope": "chapter",
-      "displayTitle": "Chapter 08 Model Test 03",
-      "durationMinutes": 25,
-      "importance": "high",
-      "tags": [
-        "chapter-wise",
-        "high-priority"
-      ],
-      "chaptersCovered": [
-        {
-          "chapter": "08",
-          "chapterName": "পর্যাবৃত্ত গতি"
-        }
-      ]
-    },
     "hsc-physics-1st-paper-chapter-08-model-test-04": {
-      "questionCount": 25,
+      "questionCount": 21,
       "scope": "chapter",
       "displayTitle": "Chapter 08 Model Test 04",
-      "durationMinutes": 25,
-      "importance": "high",
-      "tags": [
-        "chapter-wise",
-        "high-priority"
-      ],
-      "chaptersCovered": [
-        {
-          "chapter": "08",
-          "chapterName": "পর্যাবৃত্ত গতি"
-        }
-      ]
-    },
-    "hsc-physics-1st-paper-chapter-08-model-test-05": {
-      "questionCount": 25,
-      "scope": "chapter",
-      "displayTitle": "Chapter 08 Model Test 05",
       "durationMinutes": 25,
       "importance": "high",
       "tags": [
@@ -1571,44 +1549,10 @@
         }
       ]
     },
-    "hsc-physics-1st-paper-chapter-08-model-test-07": {
-      "questionCount": 25,
-      "scope": "chapter",
-      "displayTitle": "Chapter 08 Model Test 07",
-      "durationMinutes": 25,
-      "importance": "high",
-      "tags": [
-        "chapter-wise",
-        "high-priority"
-      ],
-      "chaptersCovered": [
-        {
-          "chapter": "08",
-          "chapterName": "পর্যাবৃত্ত গতি"
-        }
-      ]
-    },
     "hsc-physics-1st-paper-chapter-08-model-test-08": {
       "questionCount": 25,
       "scope": "chapter",
       "displayTitle": "Chapter 08 Model Test 08",
-      "durationMinutes": 25,
-      "importance": "high",
-      "tags": [
-        "chapter-wise",
-        "high-priority"
-      ],
-      "chaptersCovered": [
-        {
-          "chapter": "08",
-          "chapterName": "পর্যাবৃত্ত গতি"
-        }
-      ]
-    },
-    "hsc-physics-1st-paper-chapter-08-model-test-09": {
-      "questionCount": 25,
-      "scope": "chapter",
-      "displayTitle": "Chapter 08 Model Test 09",
       "durationMinutes": 25,
       "importance": "high",
       "tags": [
@@ -1636,23 +1580,6 @@
         {
           "chapter": "08",
           "chapterName": "পর্যাবৃত্ত গতি"
-        }
-      ]
-    },
-    "hsc-physics-1st-paper-chapter-09-model-test-01": {
-      "questionCount": 25,
-      "scope": "chapter",
-      "displayTitle": "Chapter 09 Model Test 01",
-      "durationMinutes": 25,
-      "importance": "high",
-      "tags": [
-        "chapter-wise",
-        "high-priority"
-      ],
-      "chaptersCovered": [
-        {
-          "chapter": "09",
-          "chapterName": "তরঙ্গ"
         }
       ]
     },
@@ -1809,23 +1736,6 @@
         }
       ]
     },
-    "hsc-physics-1st-paper-chapter-10-model-test-01": {
-      "questionCount": 25,
-      "scope": "chapter",
-      "displayTitle": "Chapter 10 Model Test 01",
-      "durationMinutes": 25,
-      "importance": "high",
-      "tags": [
-        "chapter-wise",
-        "high-priority"
-      ],
-      "chaptersCovered": [
-        {
-          "chapter": "10",
-          "chapterName": "আদর্শ গ্যাস ও গ্যাসের গতিতত্ত্ব"
-        }
-      ]
-    },
     "hsc-physics-1st-paper-chapter-10-model-test-02": {
       "questionCount": 25,
       "scope": "chapter",
@@ -1843,44 +1753,10 @@
         }
       ]
     },
-    "hsc-physics-1st-paper-chapter-10-model-test-03": {
-      "questionCount": 25,
-      "scope": "chapter",
-      "displayTitle": "Chapter 10 Model Test 03",
-      "durationMinutes": 25,
-      "importance": "high",
-      "tags": [
-        "chapter-wise",
-        "high-priority"
-      ],
-      "chaptersCovered": [
-        {
-          "chapter": "10",
-          "chapterName": "আদর্শ গ্যাস ও গ্যাসের গতিতত্ত্ব"
-        }
-      ]
-    },
     "hsc-physics-1st-paper-chapter-10-model-test-04": {
-      "questionCount": 25,
+      "questionCount": 24,
       "scope": "chapter",
       "displayTitle": "Chapter 10 Model Test 04",
-      "durationMinutes": 25,
-      "importance": "high",
-      "tags": [
-        "chapter-wise",
-        "high-priority"
-      ],
-      "chaptersCovered": [
-        {
-          "chapter": "10",
-          "chapterName": "আদর্শ গ্যাস ও গ্যাসের গতিতত্ত্ব"
-        }
-      ]
-    },
-    "hsc-physics-1st-paper-chapter-10-model-test-05": {
-      "questionCount": 25,
-      "scope": "chapter",
-      "displayTitle": "Chapter 10 Model Test 05",
       "durationMinutes": 25,
       "importance": "high",
       "tags": [
@@ -1911,44 +1787,10 @@
         }
       ]
     },
-    "hsc-physics-1st-paper-chapter-10-model-test-07": {
-      "questionCount": 25,
-      "scope": "chapter",
-      "displayTitle": "Chapter 10 Model Test 07",
-      "durationMinutes": 25,
-      "importance": "high",
-      "tags": [
-        "chapter-wise",
-        "high-priority"
-      ],
-      "chaptersCovered": [
-        {
-          "chapter": "10",
-          "chapterName": "আদর্শ গ্যাস ও গ্যাসের গতিতত্ত্ব"
-        }
-      ]
-    },
     "hsc-physics-1st-paper-chapter-10-model-test-08": {
       "questionCount": 25,
       "scope": "chapter",
       "displayTitle": "Chapter 10 Model Test 08",
-      "durationMinutes": 25,
-      "importance": "high",
-      "tags": [
-        "chapter-wise",
-        "high-priority"
-      ],
-      "chaptersCovered": [
-        {
-          "chapter": "10",
-          "chapterName": "আদর্শ গ্যাস ও গ্যাসের গতিতত্ত্ব"
-        }
-      ]
-    },
-    "hsc-physics-1st-paper-chapter-10-model-test-09": {
-      "questionCount": 25,
-      "scope": "chapter",
-      "displayTitle": "Chapter 10 Model Test 09",
       "durationMinutes": 25,
       "importance": "high",
       "tags": [
@@ -1977,6 +1819,396 @@
           "chapter": "10",
           "chapterName": "আদর্শ গ্যাস ও গ্যাসের গতিতত্ত্ব"
         }
+      ]
+    },
+    "hsc-physics-1st-paper-board-analyzed-premium-set-01": {
+      "questionCount": 25,
+      "scope": "paper",
+      "displayTitle": "Board Analyzed Premium Set 01",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "board-analyzed",
+        "premium",
+        "paper-wise",
+        "high-priority"
+      ]
+    },
+    "hsc-physics-1st-paper-board-analyzed-premium-set-02": {
+      "questionCount": 25,
+      "scope": "paper",
+      "displayTitle": "Board Analyzed Premium Set 02",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "board-analyzed",
+        "premium",
+        "paper-wise",
+        "high-priority"
+      ]
+    },
+    "hsc-physics-1st-paper-board-analyzed-premium-set-03": {
+      "questionCount": 25,
+      "scope": "paper",
+      "displayTitle": "Board Analyzed Premium Set 03",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "board-analyzed",
+        "premium",
+        "paper-wise",
+        "high-priority"
+      ]
+    },
+    "hsc-physics-1st-paper-board-analyzed-premium-set-04": {
+      "questionCount": 25,
+      "scope": "paper",
+      "displayTitle": "Board Analyzed Premium Set 04",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "board-analyzed",
+        "premium",
+        "paper-wise",
+        "high-priority"
+      ]
+    },
+    "hsc-physics-1st-paper-board-analyzed-premium-set-05": {
+      "questionCount": 25,
+      "scope": "paper",
+      "displayTitle": "Board Analyzed Premium Set 05",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "board-analyzed",
+        "premium",
+        "paper-wise",
+        "high-priority"
+      ]
+    },
+    "hsc-physics-1st-paper-board-analyzed-premium-set-06": {
+      "questionCount": 25,
+      "scope": "paper",
+      "displayTitle": "Board Analyzed Premium Set 06",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "board-analyzed",
+        "premium",
+        "paper-wise",
+        "high-priority"
+      ]
+    },
+    "hsc-physics-1st-paper-board-analyzed-premium-set-07": {
+      "questionCount": 25,
+      "scope": "paper",
+      "displayTitle": "Board Analyzed Premium Set 07",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "board-analyzed",
+        "premium",
+        "paper-wise",
+        "high-priority"
+      ]
+    },
+    "hsc-physics-1st-paper-board-analyzed-premium-set-08": {
+      "questionCount": 25,
+      "scope": "paper",
+      "displayTitle": "Board Analyzed Premium Set 08",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "board-analyzed",
+        "premium",
+        "paper-wise",
+        "high-priority"
+      ]
+    },
+    "hsc-physics-1st-paper-board-analyzed-premium-set-09": {
+      "questionCount": 25,
+      "scope": "paper",
+      "displayTitle": "Board Analyzed Premium Set 09",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "board-analyzed",
+        "premium",
+        "paper-wise",
+        "high-priority"
+      ]
+    },
+    "hsc-physics-1st-paper-board-analyzed-premium-set-10": {
+      "questionCount": 25,
+      "scope": "paper",
+      "displayTitle": "Board Analyzed Premium Set 10",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "board-analyzed",
+        "premium",
+        "paper-wise",
+        "high-priority"
+      ]
+    },
+    "physicsfirstpaperch2set11-split-01-split-01-split-01-split-01-split-01-split-01-split-01-split-01-split-01-split-01-split-01-split-01-split-01": {
+      "questionCount": 25,
+      "scope": "paper",
+      "displayTitle": "physicsfirstpaperch2set11-split-01-split-01-split-01 - Part 1 - Part 1 - Part 1 - Part 1 - Part 1 - Part 1 - Part 1 - Part 1 - Part 1 - Part 1",
+      "durationMinutes": 25,
+      "importance": "medium",
+      "tags": [
+        "paper-wise"
+      ]
+    },
+    "physicsfirstpaperfinalsets-split-01-split-01-split-01-split-01-split-01-split-01-split-01-split-01-split-01-split-01-split-01-split-01-split-01": {
+      "questionCount": 25,
+      "scope": "paper",
+      "displayTitle": "physicsfirstpaperfinalsets-split-01-split-01-split-01 - Part 1 - Part 1 - Part 1 - Part 1 - Part 1 - Part 1 - Part 1 - Part 1 - Part 1 - Part 1",
+      "durationMinutes": 25,
+      "importance": "medium",
+      "tags": [
+        "paper-wise"
+      ]
+    },
+    "physicsfirstpaperfinalsets-split-02-split-01-split-01-split-01-split-01-split-01-split-01-split-01-split-01-split-01-split-01-split-01-split-01": {
+      "questionCount": 25,
+      "scope": "paper",
+      "displayTitle": "physicsfirstpaperfinalsets-split-02-split-01-split-01 - Part 2 - Part 2 - Part 2 - Part 2 - Part 2 - Part 2 - Part 2 - Part 2 - Part 2 - Part 2",
+      "durationMinutes": 25,
+      "importance": "medium",
+      "tags": [
+        "paper-wise"
+      ]
+    },
+    "physicsfirstpapersets10and13-split-01-split-01-split-01-split-01-split-01-split-01-split-01-split-01-split-01-split-01-split-01-split-01-split-01": {
+      "questionCount": 25,
+      "scope": "paper",
+      "displayTitle": "physicsfirstpapersets10and13-split-01-split-01-split-01 - Part 1 - Part 1 - Part 1 - Part 1 - Part 1 - Part 1 - Part 1 - Part 1 - Part 1 - Part 1",
+      "durationMinutes": 25,
+      "importance": "medium",
+      "tags": [
+        "paper-wise"
+      ]
+    },
+    "physicsfirstpapersets10and13-split-02-split-01-split-01-split-01-split-01-split-01-split-01-split-01-split-01-split-01-split-01-split-01-split-01": {
+      "questionCount": 25,
+      "scope": "paper",
+      "displayTitle": "physicsfirstpapersets10and13-split-02-split-01-split-01 - Part 2 - Part 2 - Part 2 - Part 2 - Part 2 - Part 2 - Part 2 - Part 2 - Part 2 - Part 2",
+      "durationMinutes": 25,
+      "importance": "medium",
+      "tags": [
+        "paper-wise"
+      ]
+    },
+    "physicsfirstpapersets11and12-split-01-split-01-split-01-split-01-split-01-split-01-split-01-split-01-split-01-split-01-split-01-split-01-split-01": {
+      "questionCount": 25,
+      "scope": "paper",
+      "displayTitle": "physicsfirstpapersets11and12-split-01-split-01-split-01 - Part 1 - Part 1 - Part 1 - Part 1 - Part 1 - Part 1 - Part 1 - Part 1 - Part 1 - Part 1",
+      "durationMinutes": 25,
+      "importance": "medium",
+      "tags": [
+        "paper-wise"
+      ]
+    },
+    "physicsfirstpapersets11and12-split-02-split-01-split-01-split-01-split-01-split-01-split-01-split-01-split-01-split-01-split-01-split-01-split-01": {
+      "questionCount": 25,
+      "scope": "paper",
+      "displayTitle": "physicsfirstpapersets11and12-split-02-split-01-split-01 - Part 2 - Part 2 - Part 2 - Part 2 - Part 2 - Part 2 - Part 2 - Part 2 - Part 2 - Part 2",
+      "durationMinutes": 25,
+      "importance": "medium",
+      "tags": [
+        "paper-wise"
+      ]
+    },
+    "physicsfirstpapersets14to17-split-01-split-01-split-01-split-01-split-01-split-01-split-01-split-01-split-01-split-01-split-01-split-01-split-01": {
+      "questionCount": 25,
+      "scope": "paper",
+      "displayTitle": "physicsfirstpapersets14to17-split-01-split-01-split-01 - Part 1 - Part 1 - Part 1 - Part 1 - Part 1 - Part 1 - Part 1 - Part 1 - Part 1 - Part 1",
+      "durationMinutes": 25,
+      "importance": "medium",
+      "tags": [
+        "paper-wise"
+      ]
+    },
+    "physicsfirstpapersets14to17-split-02-split-01-split-01-split-01-split-01-split-01-split-01-split-01-split-01-split-01-split-01-split-01-split-01": {
+      "questionCount": 25,
+      "scope": "paper",
+      "displayTitle": "physicsfirstpapersets14to17-split-02-split-01-split-01 - Part 2 - Part 2 - Part 2 - Part 2 - Part 2 - Part 2 - Part 2 - Part 2 - Part 2 - Part 2",
+      "durationMinutes": 25,
+      "importance": "medium",
+      "tags": [
+        "paper-wise"
+      ]
+    },
+    "physicsfirstpapersets14to17-split-03-split-01-split-01-split-01-split-01-split-01-split-01-split-01-split-01-split-01-split-01-split-01-split-01": {
+      "questionCount": 25,
+      "scope": "paper",
+      "displayTitle": "physicsfirstpapersets14to17-split-03-split-01-split-01 - Part 3 - Part 3 - Part 3 - Part 3 - Part 3 - Part 3 - Part 3 - Part 3 - Part 3 - Part 3",
+      "durationMinutes": 25,
+      "importance": "medium",
+      "tags": [
+        "paper-wise"
+      ]
+    },
+    "chapter-04-split-01": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "chapter-04 - Part 1",
+      "durationMinutes": 25,
+      "importance": "medium",
+      "tags": [
+        "paper-wise"
+      ]
+    },
+    "chapter-04-split-02": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "chapter-04 - Part 2",
+      "durationMinutes": 25,
+      "importance": "medium",
+      "tags": [
+        "paper-wise"
+      ]
+    },
+    "chapter-04-split-03": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "chapter-04 - Part 3",
+      "durationMinutes": 25,
+      "importance": "medium",
+      "tags": [
+        "paper-wise"
+      ]
+    },
+    "chapter-04-split-04": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "chapter-04 - Part 4",
+      "durationMinutes": 25,
+      "importance": "medium",
+      "tags": [
+        "paper-wise"
+      ]
+    },
+    "chapter-04-split-05": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "chapter-04 - Part 5",
+      "durationMinutes": 25,
+      "importance": "medium",
+      "tags": [
+        "paper-wise"
+      ]
+    },
+    "chapter-05-split-01": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "chapter-05 - Part 1",
+      "durationMinutes": 25,
+      "importance": "medium",
+      "tags": [
+        "paper-wise"
+      ]
+    },
+    "chapter-05-split-02": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "chapter-05 - Part 2",
+      "durationMinutes": 25,
+      "importance": "medium",
+      "tags": [
+        "paper-wise"
+      ]
+    },
+    "chapter-06-split-01": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "chapter-06 - Part 1",
+      "durationMinutes": 25,
+      "importance": "medium",
+      "tags": [
+        "paper-wise"
+      ]
+    },
+    "chapter-06-split-02": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "chapter-06 - Part 2",
+      "durationMinutes": 25,
+      "importance": "medium",
+      "tags": [
+        "paper-wise"
+      ]
+    },
+    "chapter-08-split-01": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "chapter-08 - Part 1",
+      "durationMinutes": 25,
+      "importance": "medium",
+      "tags": [
+        "paper-wise"
+      ]
+    },
+    "chapter-08-split-02": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "chapter-08 - Part 2",
+      "durationMinutes": 25,
+      "importance": "medium",
+      "tags": [
+        "paper-wise"
+      ]
+    },
+    "chapter-08-split-03": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "chapter-08 - Part 3",
+      "durationMinutes": 25,
+      "importance": "medium",
+      "tags": [
+        "paper-wise"
+      ]
+    },
+    "chapter-08-split-04": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "chapter-08 - Part 4",
+      "durationMinutes": 25,
+      "importance": "medium",
+      "tags": [
+        "paper-wise"
+      ]
+    },
+    "chapter-10-split-01": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "chapter-10 - Part 1",
+      "durationMinutes": 25,
+      "importance": "medium",
+      "tags": [
+        "paper-wise"
+      ]
+    },
+    "chapter-10-split-02": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "chapter-10 - Part 2",
+      "durationMinutes": 25,
+      "importance": "medium",
+      "tags": [
+        "paper-wise"
+      ]
+    },
+    "chapter-10-split-03": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "chapter-10 - Part 3",
+      "durationMinutes": 25,
+      "importance": "medium",
+      "tags": [
+        "paper-wise"
       ]
     }
   }

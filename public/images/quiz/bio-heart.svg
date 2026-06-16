@@ -1,0 +1,102 @@
+<svg viewBox="0 0 400 260" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0a0e27"/>
+      <stop offset="50%" stop-color="#0f172a"/>
+      <stop offset="100%" stop-color="#1a0a2e"/>
+    </linearGradient>
+    <linearGradient id="heart-grad" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#f43f5e"/>
+      <stop offset="50%" stop-color="#e11d48"/>
+      <stop offset="100%" stop-color="#be123c"/>
+    </linearGradient>
+    <linearGradient id="artery" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#f472b6"/>
+      <stop offset="100%" stop-color="#f43f5e"/>
+    </linearGradient>
+    <linearGradient id="vein" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#818cf8"/>
+      <stop offset="100%" stop-color="#6366f1"/>
+    </linearGradient>
+    <filter id="glow" x="-40%" y="-40%" width="180%" height="180%">
+      <feGaussianBlur stdDeviation="4" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <filter id="glow-strong" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="6" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <filter id="drop-shadow">
+      <feDropShadow dx="0" dy="2" stdDeviation="4" flood-color="#000" flood-opacity="0.6"/>
+    </filter>
+    <style>
+      @keyframes heartbeat { 0%,100% { transform:scale(1); } 15% { transform:scale(1.03); } 30% { transform:scale(1); } 45% { transform:scale(1.02); } 60% { transform:scale(1); } }
+      @keyframes pulse-glow { 0%,100% { opacity:0.6; } 50% { opacity:1; } }
+      @keyframes flow { 0% { stroke-dashoffset:10; } 100% { stroke-dashoffset:0; } }
+      .heart { animation:heartbeat 2s ease-in-out infinite; transform-origin:200px 130px; }
+      .glow-pulse { animation:pulse-glow 2s ease-in-out infinite; }
+      .blood-flow { stroke-dasharray:4 3; animation:flow 1s linear infinite; }
+    </style>
+  </defs>
+
+  <rect width="400" height="260" rx="16" fill="url(#bg)" stroke="#1e293b" stroke-width="1.5"/>
+
+  <!-- Decorative particles -->
+  <circle cx="30" cy="30" r="1.5" fill="#f43f5e" opacity="0.3"><animate attributeName="opacity" values="0.3;0.8;0.3" dur="3s" repeatCount="indefinite"/></circle>
+  <circle cx="370" cy="50" r="1" fill="#f472b6" opacity="0.3"><animate attributeName="opacity" values="0.3;0.7;0.3" dur="2.5s" repeatCount="indefinite"/></circle>
+  <circle cx="45" cy="230" r="1" fill="#818cf8" opacity="0.3"><animate attributeName="opacity" values="0.3;0.9;0.3" dur="4s" repeatCount="indefinite"/></circle>
+  <circle cx="360" cy="220" r="1.5" fill="#f43f5e" opacity="0.2"><animate attributeName="opacity" values="0.2;0.7;0.2" dur="3.5s" repeatCount="indefinite"/></circle>
+
+  <text x="200" y="22" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="13" text-anchor="middle" font-weight="bold" filter="url(#glow)">মানব হৃৎপিণ্ড — Human Heart</text>
+
+  <g class="heart">
+    <!-- Superior vena cava (upper vein) -->
+    <path d="M 130 50 L 150 70" fill="none" stroke="url(#vein)" stroke-width="4" filter="url(#glow)"/>
+    <path d="M 270 50 L 250 70" fill="none" stroke="url(#vein)" stroke-width="4" filter="url(#glow)"/>
+    <text x="120" y="48" fill="#a5b4fc" font-family="system-ui,sans-serif" font-size="6" text-anchor="end">অধিশিরা</text>
+
+    <!-- Aorta (major artery arching up) -->
+    <path d="M 220 75 Q 280 40 320 65 Q 340 80 330 100" fill="none" stroke="url(#artery)" stroke-width="5" filter="url(#glow)" class="glow-pulse"/>
+    <text x="325" y="48" fill="#fda4af" font-family="system-ui,sans-serif" font-size="6">মহাধমনী</text>
+    <!-- Branches -->
+    <path d="M 290 55 L 310 42" fill="none" stroke="#f472b6" stroke-width="2.5"/>
+    <path d="M 310 60 L 335 48" fill="none" stroke="#f472b6" stroke-width="2.5"/>
+
+    <!-- Heart body (stylized anatomy) -->
+    <path d="M 140 70 C 170 55, 230 55, 260 70 C 290 85, 300 120, 280 150 C 260 180, 230 200, 200 205 C 170 200, 140 180, 120 150 C 100 120, 110 85, 140 70 Z" fill="#0f172a" stroke="url(#heart-grad)" stroke-width="3" filter="url(#glow-strong)"/>
+
+    <!-- Heart internal chambers -->
+    <!-- Right Atrium -->
+    <path d="M 140 80 C 160 75, 190 80, 195 100 L 180 115 C 165 105, 150 100, 140 95 Z" fill="none" stroke="#f472b6" stroke-width="1.5" opacity="0.6"/>
+    <text x="168" y="98" fill="#fda4af" font-family="system-ui,sans-serif" font-size="6" text-anchor="middle">RA</text>
+
+    <!-- Left Atrium -->
+    <path d="M 205 80 C 220 75, 250 78, 258 90 L 250 110 C 235 100, 215 95, 205 90 Z" fill="none" stroke="#f472b6" stroke-width="1.5" opacity="0.6"/>
+    <text x="233" y="98" fill="#fda4af" font-family="system-ui,sans-serif" font-size="6" text-anchor="middle">LA</text>
+
+    <!-- Septum -->
+    <line x1="200" y1="82" x2="200" y2="170" stroke="#475569" stroke-width="2" stroke-dasharray="3 3"/>
+
+    <!-- Right Ventricle -->
+    <path d="M 135 120 L 170 120 L 180 155 C 165 160, 150 155, 140 145 Z" fill="none" stroke="#818cf8" stroke-width="1.5" opacity="0.6"/>
+    <text x="155" y="145" fill="#a5b4fc" font-family="system-ui,sans-serif" font-size="6" text-anchor="middle">RV</text>
+
+    <!-- Left Ventricle -->
+    <path d="M 225 120 L 260 120 L 265 155 C 250 170, 230 170, 225 155 Z" fill="none" stroke="#818cf8" stroke-width="1.5" opacity="0.6"/>
+    <text x="245" y="145" fill="#a5b4fc" font-family="system-ui,sans-serif" font-size="6" text-anchor="middle">LV</text>
+
+    <!-- Artery (pulmonary) out -->
+    <path d="M 190 75 L 155 40" fill="none" stroke="#f472b6" stroke-width="3" class="blood-flow"/>
+    <path d="M 210 75 L 235 42" fill="none" stroke="#f472b6" stroke-width="3" class="blood-flow"/>
+
+    <!-- Blood flow indicators -->
+    <path d="M 120 55 Q 140 50 155 60" fill="none" stroke="#fde68a" stroke-width="1.5" stroke-dasharray="3 3">
+      <animate attributeName="stroke-dashoffset" from="10" to="0" dur="1s" repeatCount="indefinite"/>
+    </path>
+  </g>
+
+  <!-- Labels -->
+  <rect x="15" y="218" width="370" height="35" rx="6" fill="#131a36" stroke="#1e293b" stroke-width="1"/>
+  <text x="200" y="234" fill="#94a3b8" font-family="system-ui,sans-serif" font-size="8" text-anchor="middle">RA = ডান অলিন্দ · RV = ডান নিলয় · LA = বাম অলিন্দ · LV = বাম নিলয়</text>
+  <text x="200" y="248" fill="#64748b" font-family="system-ui,sans-serif" font-size="7" text-anchor="middle">হৃৎপিণ্ডের চার প্রকোষ্ঠ ও প্রধান রক্তনালীসমূহ</text>
+</svg>

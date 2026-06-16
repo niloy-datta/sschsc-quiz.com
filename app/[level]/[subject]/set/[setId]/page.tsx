@@ -11,6 +11,8 @@ import {
   unifiedSubjectBasePath,
 } from "@/lib/quiz/unified-routes";
 
+const BLOCKED_SUBJECTS = ["ict"];
+
 type Props = {
   params: { level: string; subject: string; setId: string };
 };
@@ -18,6 +20,7 @@ type Props = {
 export default async function UnifiedChapterSetPage({ params }: Props) {
   const routeLevel = normalizeRouteLevel(params.level);
   if (!routeLevel) notFound();
+  if (BLOCKED_SUBJECTS.includes(params.subject)) notFound();
 
   const parsed = parseUnifiedSubjectSlug(routeLevel, params.subject);
   const quizLevel = toQuizLevel(routeLevel);

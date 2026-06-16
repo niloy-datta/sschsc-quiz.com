@@ -11,6 +11,7 @@
       "বাস্তব নয়"
     ],
     "image": null,
+    "optionImages": null,
     "timeLimit": 45
   },
   {
@@ -25,6 +26,7 @@
       "৯০°"
     ],
     "image": null,
+    "optionImages": null,
     "timeLimit": 45
   },
   {
@@ -39,6 +41,7 @@
       "√3/2"
     ],
     "image": null,
+    "optionImages": null,
     "timeLimit": 45
   },
   {
@@ -53,6 +56,7 @@
       "কোনো সম্পর্ক নেই"
     ],
     "image": null,
+    "optionImages": null,
     "timeLimit": 45
   },
   {
@@ -67,6 +71,7 @@
       "43"
     ],
     "image": null,
+    "optionImages": null,
     "timeLimit": 45
   },
   {
@@ -81,6 +86,7 @@
       "৮"
     ],
     "image": null,
+    "optionImages": null,
     "timeLimit": 45
   },
   {
@@ -95,6 +101,7 @@
       "a+c = b+d"
     ],
     "image": null,
+    "optionImages": null,
     "timeLimit": 45
   },
   {
@@ -109,6 +116,7 @@
       "দ্বিগুণ"
     ],
     "image": null,
+    "optionImages": null,
     "timeLimit": 45
   },
   {
@@ -123,6 +131,7 @@
       "29/12"
     ],
     "image": null,
+    "optionImages": null,
     "timeLimit": 45
   },
   {
@@ -137,6 +146,7 @@
       "ভূমি + উচ্চতা"
     ],
     "image": null,
+    "optionImages": null,
     "timeLimit": 45
   },
   {
@@ -151,6 +161,7 @@
       "15"
     ],
     "image": null,
+    "optionImages": null,
     "timeLimit": 45
   },
   {
@@ -165,6 +176,7 @@
       "১২"
     ],
     "image": null,
+    "optionImages": null,
     "timeLimit": 45
   },
   {
@@ -179,6 +191,7 @@
       "৫"
     ],
     "image": null,
+    "optionImages": null,
     "timeLimit": 45
   },
   {
@@ -193,6 +206,7 @@
       "সরলকোণ"
     ],
     "image": null,
+    "optionImages": null,
     "timeLimit": 45
   },
   {
@@ -206,7 +220,8 @@
       "ii ও iii",
       "i, ii ও iii"
     ],
-    "image": null,
+    "image": "/images/quiz/premium/ssc-general-math-model-test-12-q15.svg",
+    "optionImages": null,
     "timeLimit": 45
   },
   {
@@ -221,6 +236,7 @@
       "ভূমি + উচ্চতা"
     ],
     "image": null,
+    "optionImages": null,
     "timeLimit": 45
   },
   {
@@ -235,6 +251,7 @@
       "6"
     ],
     "image": null,
+    "optionImages": null,
     "timeLimit": 45
   },
   {
@@ -249,6 +266,7 @@
       "২:১৫"
     ],
     "image": null,
+    "optionImages": null,
     "timeLimit": 45
   },
   {
@@ -263,24 +281,11 @@
       "০.২৫"
     ],
     "image": null,
+    "optionImages": null,
     "timeLimit": 45
   },
   {
     "id": "ssc-general-math-model-test-12-q20",
-    "subject": "general-math",
-    "chapter": "ssc-general-math-model-test-12",
-    "text": "সমকোণী ত্রিভুজের अतिভুজ সংলগ্ন কোণদ্বয় কীরূপ?",
-    "options": [
-      "স্থূলকোণ",
-      "সমকোণ",
-      "সরলকোণ",
-      "সূক্ষ্মকোণ"
-    ],
-    "image": null,
-    "timeLimit": 45
-  },
-  {
-    "id": "ssc-general-math-model-test-12-q21",
     "subject": "general-math",
     "chapter": "ssc-general-math-model-test-12",
     "text": "cos²0 - sin²0 = 1 হলে, θ এর মান কত?",
@@ -291,10 +296,11 @@
       "90°"
     ],
     "image": null,
+    "optionImages": null,
     "timeLimit": 45
   },
   {
-    "id": "ssc-general-math-model-test-12-q22",
+    "id": "ssc-general-math-model-test-12-q21",
     "subject": "general-math",
     "chapter": "ssc-general-math-model-test-12",
     "text": "4:x = x:9 হলে x-এর ধনাত্মক মান কত?",
@@ -305,10 +311,11 @@
       "৯"
     ],
     "image": null,
+    "optionImages": null,
     "timeLimit": 45
   },
   {
-    "id": "ssc-general-math-model-test-12-q23",
+    "id": "ssc-general-math-model-test-12-q22",
     "subject": "general-math",
     "chapter": "ssc-general-math-model-test-12",
     "text": "চিত্র ABCD-এ O হলো বৃত্তের কেন্দ্র, ∠BAD + ∠BCD এর মান কত?",
@@ -319,10 +326,11 @@
       "360°"
     ],
     "image": null,
+    "optionImages": null,
     "timeLimit": 45
   },
   {
-    "id": "ssc-general-math-model-test-12-q24",
+    "id": "ssc-general-math-model-test-12-q23",
     "subject": "general-math",
     "chapter": "ssc-general-math-model-test-12",
     "text": "মূলদ সংখ্যা কোন আকারে প্রকাশ করা যায়?",
@@ -333,10 +341,11 @@
       "pq"
     ],
     "image": null,
+    "optionImages": null,
     "timeLimit": 45
   },
   {
-    "id": "ssc-general-math-model-test-12-q25",
+    "id": "ssc-general-math-model-test-12-q24",
     "subject": "general-math",
     "chapter": "ssc-general-math-model-test-12",
     "text": "a:b = 3:4 হলে (a+b):b কত?",
@@ -347,6 +356,7 @@
       "৭:৩"
     ],
     "image": null,
+    "optionImages": null,
     "timeLimit": 45
   }
 ]

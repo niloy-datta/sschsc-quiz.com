@@ -1,177 +1,102 @@
 {
-  "physics-1st-paper-hsc-science-physics-1st-paper-model-tests-super-model-set-11-ts-0": {
-    "answer": "7 একক",
-    "answerIndex": 1,
-    "difficulty": 1200,
-    "explanation": "মূলবিন্দু থেকে দূরত্ব হলো অবস্থান ভেক্টরের মান। ∣ r ∣= 2 2 +(−3) 2 +6 2 ​ = 4+9+36 ​ = 49 ​ =7 একক।",
-    "topic": "super-model-set-11"
+  "super-model-set-11-q01": {
+    "correctOption": "7 একক",
+    "explanation": "মূলবিন্দু থেকে দূরত্ব হলো অবস্থান ভেক্টরের মান। ∣ r ∣= 2 2 +(−3) 2 +6 2 ​ = 4+9+36 ​ = 49 ​ =7 একক।"
   },
-  "physics-1st-paper-hsc-science-physics-1st-paper-model-tests-super-model-set-11-ts-1": {
-    "answer": "20.4 m",
-    "answerIndex": 0,
-    "difficulty": 1200,
-    "explanation": "H= 2g v 0 2 ​ sin 2 θ ​ = 2×9.8 40 2 ×(sin30 ∘ ) 2 ​ = 19.6 1600×0.25 ​ = 19.6 400 ​ ≈20.4 m।",
-    "topic": "super-model-set-11"
+  "super-model-set-11-q02": {
+    "correctOption": "20.4 m",
+    "explanation": "H= 2g v 0 2 ​ sin 2 θ ​ = 2×9.8 40 2 ×(sin30 ∘ ) 2 ​ = 19.6 1600×0.25 ​ = 19.6 400 ​ ≈20.4 m।"
   },
-  "physics-1st-paper-hsc-science-physics-1st-paper-model-tests-super-model-set-11-ts-2": {
-    "answer": "τ = dt d L ​",
-    "answerIndex": 0,
-    "difficulty": 1200,
-    "explanation": "নিউটনের গতির দ্বিতীয় সূত্রের ঘূর্ণন রূপ হলো, কোনো বস্তুর ওপর প্রযুক্ত নিট টর্ক তার কৌণিক ভরবেগের পরিবর্তনের হারের সমান।",
-    "topic": "super-model-set-11"
+  "super-model-set-11-q03": {
+    "correctOption": "τ = dt d L ​",
+    "explanation": "নিউটনের গতির দ্বিতীয় সূত্রের ঘূর্ণন রূপ হলো, কোনো বস্তুর ওপর প্রযুক্ত নিট টর্ক তার কৌণিক ভরবেগের পরিবর্তনের হারের সমান।"
   },
-  "physics-1st-paper-hsc-science-physics-1st-paper-model-tests-super-model-set-11-ts-3": {
-    "answer": "P= F ⋅ v",
-    "answerIndex": 1,
-    "difficulty": 1200,
-    "explanation": "ক্ষমতা হলো কাজ করার হার। P= dt dW ​ = dt F ⋅d x ​ = F ⋅ v ।",
-    "topic": "super-model-set-11"
+  "super-model-set-11-q04": {
+    "correctOption": "P= F ⋅ v",
+    "explanation": "ক্ষমতা হলো কাজ করার হার। P= dt dW ​ = dt F ⋅d x ​ = F ⋅ v ।"
   },
-  "physics-1st-paper-hsc-science-physics-1st-paper-model-tests-super-model-set-11-ts-4": {
-    "answer": "32 N",
-    "answerIndex": 0,
-    "difficulty": 1200,
-    "explanation": "g ′ =g( R+h R ​ ) 2 । এখানে h= 2 R ​ । তাহলে g ′ =g( 1.5R R ​ ) 2 =g( 3 2 ​ ) 2 = 9 4 ​ g। ওজন W ′ = 9 4 ​ ×72=32 N।",
-    "topic": "super-model-set-11"
+  "super-model-set-11-q05": {
+    "correctOption": "32 N",
+    "explanation": "g ′ =g( R+h R ​ ) 2 । এখানে h= 2 R ​ । তাহলে g ′ =g( 1.5R R ​ ) 2 =g( 3 2 ​ ) 2 = 9 4 ​ g। ওজন W ′ = 9 4 ​ ×72=32 N।"
   },
-  "physics-1st-paper-hsc-science-physics-1st-paper-model-tests-super-model-set-11-ts-5": {
-    "answer": "N m −1",
-    "answerIndex": 3,
-    "difficulty": 1200,
-    "explanation": "স্থিতিস্থাপক গুণাঙ্কের একক চাপের এককের সমান (N/m 2 বা Pa)। N m −1 হলো স্প্রিং ধ্রুবক বা পৃষ্ঠটানের একক।",
-    "topic": "super-model-set-11"
+  "super-model-set-11-q06": {
+    "correctOption": "N m −1",
+    "explanation": "স্থিতিস্থাপক গুণাঙ্কের একক চাপের এককের সমান (N/m 2 বা Pa)। N m −1 হলো স্প্রিং ধ্রুবক বা পৃষ্ঠটানের একক।"
   },
-  "physics-1st-paper-hsc-science-physics-1st-paper-model-tests-super-model-set-11-ts-6": {
-    "answer": "2 ​ A ​",
-    "answerIndex": 1,
-    "difficulty": 1200,
-    "explanation": "E k ​ =E p ​ ⟹ 2 1 ​ k(A 2 −x 2 )= 2 1 ​ kx 2 ⟹A 2 −x 2 =x 2 ⟹2x 2 =A 2 ⟹x= 2 ​ A ​ ।",
-    "topic": "super-model-set-11"
+  "super-model-set-11-q07": {
+    "correctOption": "2 ​ A ​",
+    "explanation": "E k ​ =E p ​ ⟹ 2 1 ​ k(A 2 −x 2 )= 2 1 ​ kx 2 ⟹A 2 −x 2 =x 2 ⟹2x 2 =A 2 ⟹x= 2 ​ A ​ ।"
   },
-  "physics-1st-paper-hsc-science-physics-1st-paper-model-tests-super-model-set-11-ts-7": {
-    "answer": "33.33%",
-    "answerIndex": 0,
-    "difficulty": 1200,
-    "explanation": "বয়েলের সূত্র: P 1 ​ V 1 ​ =P 2 ​ V 2 ​ । চাপ 50% বাড়লে P 2 ​ =1.5P 1 ​ । তাহলে V 2 ​ = 1.5 V 1 ​ ​ = 3 2 ​ V 1 ​ । আয়তন হ্রাস = V 1 ​ − 3 2 ​ V 1 ​ = 3 1 ​ V 1 ​ , যা শতকরা 33.33%।",
-    "topic": "super-model-set-11"
+  "super-model-set-11-q08": {
+    "correctOption": "33.33%",
+    "explanation": "বয়েলের সূত্র: P 1 ​ V 1 ​ =P 2 ​ V 2 ​ । চাপ 50% বাড়লে P 2 ​ =1.5P 1 ​ । তাহলে V 2 ​ = 1.5 V 1 ​ ​ = 3 2 ​ V 1 ​ । আয়তন হ্রাস = V 1 ​ − 3 2 ​ V 1 ​ = 3 1 ​ V 1 ​ , যা শতকরা 33.33%।"
   },
-  "physics-1st-paper-hsc-science-physics-1st-paper-model-tests-super-model-set-11-ts-8": {
-    "answer": "45 ∘",
-    "answerIndex": 2,
-    "difficulty": 1200,
-    "explanation": "PQcosθ=PQsinθ⟹tanθ=1⟹θ=45 ∘ ।",
-    "topic": "super-model-set-11"
+  "super-model-set-11-q09": {
+    "correctOption": "45 ∘",
+    "explanation": "PQcosθ=PQsinθ⟹tanθ=1⟹θ=45 ∘ ।"
   },
-  "physics-1st-paper-hsc-science-physics-1st-paper-model-tests-super-model-set-11-ts-9": {
-    "answer": "সরণ",
-    "answerIndex": 1,
-    "difficulty": 1200,
-    "explanation": "v= dt ds ​ ⟹ds=vdt। তাই v−t লেখচিত্রের ক্ষেত্রফল (∫vdt) সরণ নির্দেশ করে। (ঢাল নির্দেশ করে ত্বরণ)।",
-    "topic": "super-model-set-11"
+  "super-model-set-11-q10": {
+    "correctOption": "সরণ",
+    "explanation": "v= dt ds ​ ⟹ds=vdt। তাই v−t লেখচিত্রের ক্ষেত্রফল (∫vdt) সরণ নির্দেশ করে। (ঢাল নির্দেশ করে ত্বরণ)।"
   },
-  "physics-1st-paper-hsc-science-physics-1st-paper-model-tests-super-model-set-11-ts-10": {
-    "answer": "32 N",
-    "answerIndex": 2,
-    "difficulty": 1200,
-    "explanation": "সুতার টান কেন্দ্রমুখী বলের জোগান দেয়। F c ​ =mrω 2 =2×1×(4) 2 =2×16=32 N।",
-    "topic": "super-model-set-11"
+  "super-model-set-11-q11": {
+    "correctOption": "32 N",
+    "explanation": "সুতার টান কেন্দ্রমুখী বলের জোগান দেয়। F c ​ =mrω 2 =2×1×(4) 2 =2×16=32 N।"
   },
-  "physics-1st-paper-hsc-science-physics-1st-paper-model-tests-super-model-set-11-ts-11": {
-    "answer": "স্থিতিস্থাপক বিভবশক্তি",
-    "answerIndex": 3,
-    "difficulty": 1200,
-    "explanation": "স্প্রিংয়ের বিকৃতির কারণে যে শক্তি সঞ্চিত হয় তাকে স্থিতিস্থাপক বিভবশক্তি (Elastic Potential Energy) বলে।",
-    "topic": "super-model-set-11"
+  "super-model-set-11-q12": {
+    "correctOption": "স্থিতিস্থাপক বিভবশক্তি",
+    "explanation": "স্প্রিংয়ের বিকৃতির কারণে যে শক্তি সঞ্চিত হয় তাকে স্থিতিস্থাপক বিভবশক্তি (Elastic Potential Energy) বলে।"
   },
-  "physics-1st-paper-hsc-science-physics-1st-paper-model-tests-super-model-set-11-ts-12": {
-    "answer": "36,000 km",
-    "answerIndex": 0,
-    "difficulty": 1200,
-    "explanation": "পার্কিং কক্ষপথ বা ভূ-স্থির উপগ্রহের উচ্চতা পৃথিবী পৃষ্ঠ থেকে আনুমানিক 36,000 km (3.6×10 7 m)।",
-    "topic": "super-model-set-11"
+  "super-model-set-11-q13": {
+    "correctOption": "36,000 km",
+    "explanation": "পার্কিং কক্ষপথ বা ভূ-স্থির উপগ্রহের উচ্চতা পৃথিবী পৃষ্ঠ থেকে আনুমানিক 36,000 km (3.6×10 7 m)।"
   },
-  "physics-1st-paper-hsc-science-physics-1st-paper-model-tests-super-model-set-11-ts-13": {
-    "answer": "শক্তির সংরক্ষণ",
-    "answerIndex": 1,
-    "difficulty": 1200,
-    "explanation": "বার্নোলির উপপাদ্য প্রমাণ করে যে, ধারারেখ প্রবাহে কোনো আদর্শ তরলের প্রতি একক আয়তনে চাপ শক্তি, গতিশক্তি ও বিভবশক্তির সমষ্টি ধ্রুবক থাকে, যা শক্তির সংরক্ষণশীলতা নীতি।",
-    "topic": "super-model-set-11"
+  "super-model-set-11-q14": {
+    "correctOption": "শক্তির সংরক্ষণ",
+    "explanation": "বার্নোলির উপপাদ্য প্রমাণ করে যে, ধারারেখ প্রবাহে কোনো আদর্শ তরলের প্রতি একক আয়তনে চাপ শক্তি, গতিশক্তি ও বিভবশক্তির সমষ্টি ধ্রুবক থাকে, যা শক্তির সংরক্ষণশীলতা নীতি।"
   },
-  "physics-1st-paper-hsc-science-physics-1st-paper-model-tests-super-model-set-11-ts-14": {
-    "answer": "এটি ধীরে চলবে",
-    "answerIndex": 1,
-    "difficulty": 1200,
-    "explanation": "পাহাড়ের চূড়ায় g-এর মান কমে যায়। T∝ g ​ 1 ​ অনুযায়ী, g কমলে T (দোলনকাল) বাড়ে। দোলনকাল বাড়লে ঘড়ি ধীরে চলে (Lose time)।",
-    "topic": "super-model-set-11"
+  "super-model-set-11-q15": {
+    "correctOption": "এটি ধীরে চলবে",
+    "explanation": "পাহাড়ের চূড়ায় g-এর মান কমে যায়। T∝ g ​ 1 ​ অনুযায়ী, g কমলে T (দোলনকাল) বাড়ে। দোলনকাল বাড়লে ঘড়ি ধীরে চলে (Lose time)।"
   },
-  "physics-1st-paper-hsc-science-physics-1st-paper-model-tests-super-model-set-11-ts-15": {
-    "answer": "সমানুপাতিক",
-    "answerIndex": 0,
-    "difficulty": 1200,
-    "explanation": "E k ​ = 2 3 ​ kT, অর্থাৎ গড় গতিশক্তি পরম তাপমাত্রার (T) সরাসরি সমানুপাতিক।",
-    "topic": "super-model-set-11"
+  "super-model-set-11-q16": {
+    "correctOption": "সমানুপাতিক",
+    "explanation": "E k ​ = 2 3 ​ kT, অর্থাৎ গড় গতিশক্তি পরম তাপমাত্রার (T) সরাসরি সমানুপাতিক।"
   },
-  "physics-1st-paper-hsc-science-physics-1st-paper-model-tests-super-model-set-11-ts-16": {
-    "answer": "0",
-    "answerIndex": 1,
-    "difficulty": 1200,
-    "explanation": "একই ভেক্টরের ক্রস গুণফল শূন্য ( j ^ ​ × j ^ ​ =0)। সুতরাং i ^ ⋅0=0।",
-    "topic": "super-model-set-11"
+  "super-model-set-11-q17": {
+    "correctOption": "0",
+    "explanation": "একই ভেক্টরের ক্রস গুণফল শূন্য ( j ^ ​ × j ^ ​ =0)। সুতরাং i ^ ⋅0=0।"
   },
-  "physics-1st-paper-hsc-science-physics-1st-paper-model-tests-super-model-set-11-ts-17": {
-    "answer": "2 m/s 2",
-    "answerIndex": 1,
-    "difficulty": 1200,
-    "explanation": "t-তম সেকেন্ডে সরণের সূত্র: S t ​ =u+ 2 1 ​ a(2t−1)। এখানে S 2 ​ =3, u=0, t=2। 3=0+ 2 1 ​ a(4−1)⟹3=1.5a⟹a=2 m/s 2 ।",
-    "topic": "super-model-set-11"
+  "super-model-set-11-q18": {
+    "correctOption": "2 m/s 2",
+    "explanation": "t-তম সেকেন্ডে সরণের সূত্র: S t ​ =u+ 2 1 ​ a(2t−1)। এখানে S 2 ​ =3, u=0, t=2। 3=0+ 2 1 ​ a(4−1)⟹3=1.5a⟹a=2 m/s 2 ।"
   },
-  "physics-1st-paper-hsc-science-physics-1st-paper-model-tests-super-model-set-11-ts-18": {
-    "answer": "দ্বিগুণ হবে",
-    "answerIndex": 1,
-    "difficulty": 1200,
-    "explanation": "আদি গতিশক্তি E 1 ​ = 2 1 ​ Iω 2 । নতুন গতিশক্তি E 2 ​ = 2 1 ​ ( 2 I ​ )(2ω) 2 = 2 1 ​ ⋅ 2 I ​ ⋅4ω 2 =Iω 2 =2E 1 ​ ।",
-    "topic": "super-model-set-11"
+  "super-model-set-11-q19": {
+    "correctOption": "দ্বিগুণ হবে",
+    "explanation": "আদি গতিশক্তি E 1 ​ = 2 1 ​ Iω 2 । নতুন গতিশক্তি E 2 ​ = 2 1 ​ ( 2 I ​ )(2ω) 2 = 2 1 ​ ⋅ 2 I ​ ⋅4ω 2 =Iω 2 =2E 1 ​ ।"
   },
-  "physics-1st-paper-hsc-science-physics-1st-paper-model-tests-super-model-set-11-ts-19": {
-    "answer": "বস্তুর বিভবশক্তি হ্রাসের সমান",
-    "answerIndex": 1,
-    "difficulty": 1200,
-    "explanation": "সংরক্ষী বল দ্বারা কৃতকাজ বিভবশক্তির ঋণাত্মক পরিবর্তনের সমান (W=−ΔU=U i ​ −U f ​ ), অর্থাৎ বিভবশক্তি হ্রাসের সমান।",
-    "topic": "super-model-set-11"
+  "super-model-set-11-q20": {
+    "correctOption": "বস্তুর বিভবশক্তি হ্রাসের সমান",
+    "explanation": "সংরক্ষী বল দ্বারা কৃতকাজ বিভবশক্তির ঋণাত্মক পরিবর্তনের সমান (W=−ΔU=U i ​ −U f ​ ), অর্থাৎ বিভবশক্তি হ্রাসের সমান।"
   },
-  "physics-1st-paper-hsc-science-physics-1st-paper-model-tests-super-model-set-11-ts-20": {
-    "answer": "− R GM ​",
-    "answerIndex": 3,
-    "difficulty": 1200,
-    "explanation": "মহাকর্ষীয় বিভব অসীমে শূন্য ধরা হয় এবং অসীম থেকে ১ কেজি ভরের বস্তুকে আনতে ঋণাত্মক কাজ করতে হয়, তাই V=− R GM ​ ।",
-    "topic": "super-model-set-11"
+  "super-model-set-11-q21": {
+    "correctOption": "− R GM ​",
+    "explanation": "মহাকর্ষীয় বিভব অসীমে শূন্য ধরা হয় এবং অসীম থেকে ১ কেজি ভরের বস্তুকে আনতে ঋণাত্মক কাজ করতে হয়, তাই V=− R GM ​ ।"
   },
-  "physics-1st-paper-hsc-science-physics-1st-paper-model-tests-super-model-set-11-ts-21": {
-    "answer": "E=T",
-    "answerIndex": 0,
-    "difficulty": 1200,
-    "explanation": "গাণিতিকভাবে পৃষ্ঠশক্তি এবং পৃষ্ঠটান একই (প্রতি একক ক্ষেত্রফল বৃদ্ধিতে কৃতকাজ)। তাই E=T।",
-    "topic": "super-model-set-11"
+  "super-model-set-11-q22": {
+    "correctOption": "E=T",
+    "explanation": "গাণিতিকভাবে পৃষ্ঠশক্তি এবং পৃষ্ঠটান একই (প্রতি একক ক্ষেত্রফল বৃদ্ধিতে কৃতকাজ)। তাই E=T।"
   },
-  "physics-1st-paper-hsc-science-physics-1st-paper-model-tests-super-model-set-11-ts-22": {
-    "answer": "সাম্যাবস্থানে",
-    "answerIndex": 1,
-    "difficulty": 1200,
-    "explanation": "সাম্যাবস্থানে দোলকের বেগ সর্বোচ্চ হয়। যেহেতু ভরবেগ p=mv, তাই সাম্যাবস্থানে ভরবেগও সর্বোচ্চ হয়।",
-    "topic": "super-model-set-11"
+  "super-model-set-11-q23": {
+    "correctOption": "সাম্যাবস্থানে",
+    "explanation": "সাম্যাবস্থানে দোলকের বেগ সর্বোচ্চ হয়। যেহেতু ভরবেগ p=mv, তাই সাম্যাবস্থানে ভরবেগও সর্বোচ্চ হয়।"
   },
-  "physics-1st-paper-hsc-science-physics-1st-paper-model-tests-super-model-set-11-ts-23": {
-    "answer": "স্থির তাপমাত্রা ও স্থির চাপে",
-    "answerIndex": 0,
-    "difficulty": 1200,
-    "explanation": "অ্যাভোগেড্রোর সূত্র বলে, স্থির তাপমাত্রা ও চাপে সমায়তন সকল গ্যাসে সমান সংখ্যক অণু থাকে (V∝n)।",
-    "topic": "super-model-set-11"
+  "super-model-set-11-q24": {
+    "correctOption": "স্থির তাপমাত্রা ও স্থির চাপে",
+    "explanation": "অ্যাভোগেড্রোর সূত্র বলে, স্থির তাপমাত্রা ও চাপে সমায়তন সকল গ্যাসে সমান সংখ্যক অণু থাকে (V∝n)।"
   },
-  "physics-1st-paper-hsc-science-physics-1st-paper-model-tests-super-model-set-11-ts-24": {
-    "answer": "অপরিবর্তিত থাকে",
-    "answerIndex": 2,
-    "difficulty": 1200,
-    "explanation": "শিশিরাঙ্ক নির্ভর করে বায়ুতে উপস্থিত জলীয় বাষ্পের প্রকৃত ভরের ওপর। তাপমাত্রা বাড়ালে জলীয় বাষ্প ধারণ ক্ষমতা বাড়ে, কিন্তু উপস্থিত জলীয় বাষ্পের পরিমাণ না বদলালে শিশিরাঙ্ক স্থির থাকে।",
-    "topic": "super-model-set-11"
+  "super-model-set-11-q25": {
+    "correctOption": "অপরিবর্তিত থাকে",
+    "explanation": "শিশিরাঙ্ক নির্ভর করে বায়ুতে উপস্থিত জলীয় বাষ্পের প্রকৃত ভরের ওপর। তাপমাত্রা বাড়ালে জলীয় বাষ্প ধারণ ক্ষমতা বাড়ে, কিন্তু উপস্থিত জলীয় বাষ্পের পরিমাণ না বদলালে শিশিরাঙ্ক স্থির থাকে।"
   }
 }

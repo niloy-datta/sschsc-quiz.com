@@ -33,3 +33,5 @@ class QuizResultResponse(BaseModel):
     weakTopics: List[str]
     strongTopics: List[str]
     explanations: Dict[str, str]
+    correctAnswerIndexes: Optional[Dict[str, int]] = None
+

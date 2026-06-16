@@ -1,352 +1,302 @@
 [
   {
-    "id": "ssc-higher-math-ch03-set02-q01",
+    "id": "ssc-higher-math-chapter-03-model-test-02-q01",
     "subject": "higher-math",
     "chapter": "ssc-higher-math-chapter-03-model-test-02",
-    "text": "$PQR$ একটি ত্রিভুজ হলে, নিচের কোনটি ভেক্টর বিয়োগের ত্রিভুজ বিধি নির্দেশ করে?",
+    "text": "P(ঘটনা) = 3/8 হলে সম্পূরক = ?",
     "options": [
-      "$\\vec{RQ} = \\vec{RP} - \\vec{PQ}$",
-      "$\\vec{PQ} = \\vec{RQ} - \\vec{RP}$",
-      "$\\vec{PQ} = \\vec{QR} - \\vec{RP}$",
-      "$\\vec{RQ} = \\vec{QP} - \\vec{RP}$"
-    ],
-    "image": null,
-    "timeLimit": 45
-  },
-  {
-    "id": "ssc-higher-math-ch03-set02-q02",
-    "subject": "higher-math",
-    "chapter": "ssc-higher-math-chapter-03-model-test-02",
-    "text": "$\\triangle ABC$ ত্রিভুজের মধ্যমাগুলোর বর্গের সমষ্টি কত বর্গ সে.মি.? *(চিত্রটি অনুপস্থিত)*",
-    "options": [
-      "507",
-      "253.5",
-      "216",
-      "112.67"
-    ],
-    "image": null,
-    "timeLimit": 45
-  },
-  {
-    "id": "ssc-higher-math-ch03-set02-q03",
-    "subject": "higher-math",
-    "chapter": "ssc-higher-math-chapter-03-model-test-02",
-    "text": "একটি ত্রিভুজের পরিবৃত্তের ব্যাস **8 সে.মি.** হলে, ইহার নববিন্দু বৃত্তের ব্যাসার্ধ কত সে.মি.?",
-    "options": [
+      "15",
+      "-2",
       "2",
-      "4",
-      "8",
-      "16"
+      "8"
     ],
     "image": null,
+    "optionImages": null,
     "timeLimit": 45
   },
   {
-    "id": "ssc-higher-math-ch03-set02-q04",
+    "id": "ssc-higher-math-chapter-03-model-test-02-q02",
     "subject": "higher-math",
     "chapter": "ssc-higher-math-chapter-03-model-test-02",
-    "text": "3 সে.মি. উচ্চতা ও 4 সে.মি. ভূমির ব্যাসবিশিষ্ট সমবৃত্তভূমিক কোণকের— i. বক্রতলের ক্ষেত্রফল $= 2\\sqrt{13}\\pi$ বর্গ সে.মি. ii. ভূমির ক্ষেত্রফল $= 4\\pi$ বর্গ সে.মি. iii. আয়তন $= 4\\pi$ ঘন সে.মি. নিচের কোনটি সঠিক?",
+    "text": "9x + 19 = 55 হলে x = ?",
     "options": [
-      "i ও ii",
-      "ii ও iii",
-      "i ও iii",
-      "i, ii ও iii"
-    ],
-    "image": null,
-    "timeLimit": 45
-  },
-  {
-    "id": "ssc-higher-math-ch03-set02-q05",
-    "subject": "higher-math",
-    "chapter": "ssc-higher-math-chapter-03-model-test-02",
-    "text": "সমবাহু ত্রিভুজের পরিবৃত্তের ব্যাসার্ধ 5 সে.মি. হলে, ত্রিভুজটির বাহুর দৈর্ঘ্য কত?",
-    "options": [
-      "$5\\sqrt{3}$ সে.মি.",
-      "$3\\sqrt{5}$ সে.মি.",
-      "5 সে.মি.",
-      "$\\sqrt{3}$ সে.মি."
-    ],
-    "image": null,
-    "timeLimit": 45
-  },
-  {
-    "id": "ssc-higher-math-ch03-set02-q06",
-    "subject": "higher-math",
-    "chapter": "ssc-higher-math-chapter-03-model-test-02",
-    "text": "চিত্রে $\\tan \\theta = \\frac{1}{\\sqrt{3}}$ এবং $O$ বৃত্তের কেন্দ্র হলে— i. বৃত্তের পরিধি $2\\pi$ ii. বৃত্তের ক্ষেত্রফল $\\pi$ iii. $\\triangle ABC$ এর তিনকোণের সমষ্টি $\\pi$ রেডিয়ান নিচের কোনটি সঠিক?",
-    "options": [
-      "i ও ii",
-      "i ও iii",
-      "ii ও iii",
-      "i, ii ও iii"
-    ],
-    "image": null,
-    "timeLimit": 45
-  },
-  {
-    "id": "ssc-higher-math-ch03-set02-q07",
-    "subject": "higher-math",
-    "chapter": "ssc-higher-math-chapter-03-model-test-02",
-    "text": "$\\triangle DEF$ এ, $EF^2 > DE^2 + DF^2$ হলে— i. $\\angle D$ স্থূলকোণ ii. $\\angle E$ সমকোণ iii. $\\angle F$ সূক্ষ্মকোণ নিচের কোনটি সঠিক?",
-    "options": [
-      "i ও ii",
-      "i ও iii",
-      "ii ও iii",
-      "i, ii ও iii"
-    ],
-    "image": null,
-    "timeLimit": 45
-  },
-  {
-    "id": "ssc-higher-math-ch03-set02-q08",
-    "subject": "higher-math",
-    "chapter": "ssc-higher-math-chapter-03-model-test-02",
-    "text": "কোনো ত্রিভুজের উচ্চতা $h$, ভূমির উপর মধ্যমা $d$ এবং ভূমি সংলগ্ন একটি কোণ $\\angle x$ দেওয়া আছে। ত্রিভুজটি অঙ্কন করতে হলে— i. ভূমির উপর লম্ব অঙ্কন করতে হবে ii. $\\angle x$ কে সমদ্বিখণ্ডিত করতে হবে iii. ভূমি থেকে $d$ এর সমান অংশ কাটতে হবে নিচের কোনটি সঠিক?",
-    "options": [
-      "i",
-      "ii",
-      "i ও ii",
-      "i, ii ও iii"
-    ],
-    "image": null,
-    "timeLimit": 45
-  },
-  {
-    "id": "ssc-higher-math-ch03-set02-q09",
-    "subject": "higher-math",
-    "chapter": "ssc-higher-math-chapter-03-model-test-02",
-    "text": "কোনো ত্রিভুজের নববিন্দু বৃত্তের ব্যাসার্ধ 4 সে.মি. হলে, এর পরিবৃত্তের ব্যাসার্ধ কত?",
-    "options": [
-      "2 সে.মি.",
-      "4 সে.মি.",
-      "8 সে.মি.",
-      "16 সে.মি."
-    ],
-    "image": null,
-    "timeLimit": 45
-  },
-  {
-    "id": "ssc-higher-math-ch03-set02-q10",
-    "subject": "higher-math",
-    "chapter": "ssc-higher-math-chapter-03-model-test-02",
-    "text": "$\\triangle ABC$ এর $\\angle ACB$ স্থূলকোণ হলে, নিচের কোনটি সঠিক?",
-    "options": [
-      "$AB^2 = AC^2 + BC^2$",
-      "$AC^2 = AB^2 + BC^2$",
-      "$AB^2 > AC^2 + BC^2$",
-      "$AB^2 < AC^2 + BC^2$"
-    ],
-    "image": null,
-    "timeLimit": 45
-  },
-  {
-    "id": "ssc-higher-math-ch03-set02-q11",
-    "subject": "higher-math",
-    "chapter": "ssc-higher-math-chapter-03-model-test-02",
-    "text": "△ABC এর ∠B সূক্ষ্মকোণ হলে নিচের কোনটি সঠিক?",
-    "options": [
-      "AC",
-      "AC",
-      "AC",
-      "AB"
-    ],
-    "image": null,
-    "timeLimit": 45
-  },
-  {
-    "id": "ssc-higher-math-ch03-set02-q12",
-    "subject": "higher-math",
-    "chapter": "ssc-higher-math-chapter-03-model-test-02",
-    "text": "ABCD বৃত্তস্থ সামান্তরিকের AB 2 +AD 2 =80 বর্গ সে.মি. হলে BD এর মান কত সে.মি.?",
-    "options": [
-      "10 সে.মি.",
-      "5",
+      "6",
+      "3",
       "5",
       "4"
     ],
     "image": null,
+    "optionImages": null,
     "timeLimit": 45
   },
   {
-    "id": "ssc-higher-math-ch03-set02-q13",
+    "id": "ssc-higher-math-chapter-03-model-test-02-q03",
     "subject": "higher-math",
     "chapter": "ssc-higher-math-chapter-03-model-test-02",
-    "text": "**নিচের উদ্দীপকটি পড় এবং ৫ ও ৬নং প্রশ্নের উত্তর দাও:** সজীব সকাল **7:30** টায় বিদ্যালয়ের উদ্দেশ্যে রওনা হয়ে সকাল **7:45** টায় বিদ্যালয়ে পৌঁছায়। তার ঘড়ির মিনিটের কাঁটার দৈর্ঘ্য **4 মি.মি.**। সজীবের রওনা হওয়ার সময় ঘড়ির ঘণ্টার কাঁটা ও মিনিটের কাঁটার অন্তর্গত কোণ কত হবে?",
+    "text": "P(ঘটনা) = 8/11 হলে সম্পূরক = ?",
     "options": [
-      "$\\frac{\\pi}{4}$ রেডিয়ান",
-      "$\\frac{\\pi}{3}$ রেডিয়ান",
-      "$\\frac{5\\pi}{12}$ রেডিয়ান",
-      "$\\frac{7\\pi}{12}$ রেডিয়ান"
+      "11",
+      "5",
+      "24",
+      "-5"
     ],
     "image": null,
+    "optionImages": null,
     "timeLimit": 45
   },
   {
-    "id": "ssc-higher-math-ch03-set02-q14",
+    "id": "ssc-higher-math-chapter-03-model-test-02-q04",
     "subject": "higher-math",
     "chapter": "ssc-higher-math-chapter-03-model-test-02",
-    "text": "**নিচের উদ্দীপকটি পড় এবং ১৩ ও ১৪নং প্রশ্নের উত্তর দাও:** $M(6, -3)$ এবং $N(-1, 4)$ বিন্দুগামী রেখাটি $y$-অক্ষকে $A$ বিন্দুতে ছেদ করে। রেখাটি $x$-অক্ষের ধনাত্মক দিকের সাথে কত কোণ উৎপন্ন করে?",
+    "text": "6x + 11 = 149 হলে x = ?",
     "options": [
-      "30°",
-      "45°",
-      "90°",
-      "135°"
+      "24",
+      "23",
+      "25",
+      "22"
     ],
     "image": null,
+    "optionImages": null,
     "timeLimit": 45
   },
   {
-    "id": "ssc-higher-math-ch03-set02-q15",
+    "id": "ssc-higher-math-chapter-03-model-test-02-q05",
     "subject": "higher-math",
     "chapter": "ssc-higher-math-chapter-03-model-test-02",
-    "text": "একটি ত্রিভুজের নববিন্দু বৃত্তের পরিধি $2\\pi$ সে.মি. হলে ঐ ত্রিভুজের পরিবৃত্তের ক্ষেত্রফল কত?",
+    "text": "P(ঘটনা) = 5/6 হলে সম্পূরক = ?",
     "options": [
-      "$2\\pi$ বর্গ সে.মি.",
-      "$4\\pi$ বর্গ সে.মি.",
-      "$8\\pi$ বর্গ সে.মি.",
-      "$16\\pi$ বর্গ সে.মি."
+      "-4",
+      "6",
+      "5",
+      "4"
     ],
     "image": null,
+    "optionImages": null,
     "timeLimit": 45
   },
   {
-    "id": "ssc-higher-math-ch03-set02-q16",
+    "id": "ssc-higher-math-chapter-03-model-test-02-q06",
     "subject": "higher-math",
     "chapter": "ssc-higher-math-chapter-03-model-test-02",
-    "text": "একটি সমবাহু ত্রিভুজের বাহুর দৈর্ঘ্য **9 সে.মি.** হলে ঐ ত্রিভুজের পরিবৃত্তের ব্যাস কত?",
+    "text": "3x + 3 = 42 হলে x = ?",
     "options": [
-      "3 সে.মি.",
-      "$3\\sqrt{3}$ সে.মি.",
-      "$6\\sqrt{3}$ সে.মি.",
-      "$9\\sqrt{3}$ সে.মি."
+      "12",
+      "15",
+      "13",
+      "14"
     ],
     "image": null,
+    "optionImages": null,
     "timeLimit": 45
   },
   {
-    "id": "ssc-higher-math-ch03-set02-q17",
+    "id": "ssc-higher-math-chapter-03-model-test-02-q07",
     "subject": "higher-math",
     "chapter": "ssc-higher-math-chapter-03-model-test-02",
-    "text": "3y = 3x + 1 সরলরেখাটি x-অক্ষের ধনাত্মক দিকের সাথে কত ডিগ্রি কোণ উৎপন্ন করে?",
+    "text": "2, 3, ... 4 পদের যোগফল = ?",
     "options": [
-      "30°",
-      "60°",
-      "150°",
-      "120°"
+      "8",
+      "6",
+      "16",
+      "14"
     ],
     "image": null,
+    "optionImages": null,
     "timeLimit": 45
   },
   {
-    "id": "ssc-higher-math-ch03-set02-q18",
+    "id": "ssc-higher-math-chapter-03-model-test-02-q08",
     "subject": "higher-math",
     "chapter": "ssc-higher-math-chapter-03-model-test-02",
-    "text": "3y = 3x + 1 সরলরেখাটি x-অক্ষের ধনাত্মক দিকের সাথে কত ডিগ্রি কোণ উৎপন্ন করে?",
+    "text": "বৃত্তের ব্যাসার্ধ 3 হলে ক্ষেত্রফল ≈ ?",
     "options": [
-      "30°",
-      "120°",
-      "60°",
-      "150°"
+      "9",
+      "6",
+      "3",
+      "28.274"
     ],
     "image": null,
+    "optionImages": null,
     "timeLimit": 45
   },
   {
-    "id": "ssc-higher-math-ch03-set02-q19",
+    "id": "ssc-higher-math-chapter-03-model-test-02-q09",
     "subject": "higher-math",
     "chapter": "ssc-higher-math-chapter-03-model-test-02",
-    "text": "3y = 3x + 1 সরলরেখাটি x-অক্ষের ধনাত্মক দিকের সাথে কত ডিগ্রি কোণ উৎপন্ন করে?",
+    "text": "(8 + 18) × 1 = ?",
     "options": [
-      "30°",
-      "150°",
-      "120°",
-      "60°"
+      "-10",
+      "10",
+      "144",
+      "26"
     ],
     "image": null,
+    "optionImages": null,
     "timeLimit": 45
   },
   {
-    "id": "ssc-higher-math-ch03-set02-q20",
+    "id": "ssc-higher-math-chapter-03-model-test-02-q10",
     "subject": "higher-math",
     "chapter": "ssc-higher-math-chapter-03-model-test-02",
-    "text": "3y = 3x + 1 সরলরেখাটি x-অক্ষের ধনাত্মক দিকের সাথে কত ডিগ্রি কোণ উৎপন্ন করে?",
+    "text": "7, 8, ... 10 পদের যোগফল = ?",
     "options": [
-      "150°",
-      "120°",
-      "60°",
-      "30°"
+      "115",
+      "122",
+      "70",
+      "17"
     ],
     "image": null,
+    "optionImages": null,
     "timeLimit": 45
   },
   {
-    "id": "ssc-higher-math-ch03-set02-q21",
+    "id": "ssc-higher-math-chapter-03-model-test-02-q11",
     "subject": "higher-math",
     "chapter": "ssc-higher-math-chapter-03-model-test-02",
-    "text": "3y = 3x + 1 সরলরেখাটি x-অক্ষের ধনাত্মক দিকের সাথে কত ডিগ্রি কোণ উৎপন্ন করে?",
+    "text": "বৃত্তের ব্যাসার্ধ 9 হলে ক্ষেত্রফল ≈ ?",
     "options": [
-      "30°",
-      "120°",
-      "150°",
-      "60°"
+      "18",
+      "81",
+      "254.46",
+      "9"
     ],
     "image": null,
+    "optionImages": null,
     "timeLimit": 45
   },
   {
-    "id": "ssc-higher-math-ch03-set02-q22",
+    "id": "ssc-higher-math-chapter-03-model-test-02-q12",
     "subject": "higher-math",
     "chapter": "ssc-higher-math-chapter-03-model-test-02",
-    "text": "3y = 3x + 1 সরলরেখাটি x-অক্ষের ধনাত্মক দিকের সাথে কত ডিগ্রি কোণ উৎপন্ন করে?",
+    "text": "(6 + 9) × 1 = ?",
     "options": [
-      "120°",
-      "30°",
-      "150°",
-      "60°"
+      "15",
+      "54",
+      "3",
+      "-3"
     ],
     "image": null,
+    "optionImages": null,
     "timeLimit": 45
   },
   {
-    "id": "ssc-higher-math-ch03-set02-q23",
+    "id": "ssc-higher-math-chapter-03-model-test-02-q13",
     "subject": "higher-math",
     "chapter": "ssc-higher-math-chapter-03-model-test-02",
-    "text": "$\\sqrt{3}x + y - 5 = 0$ রেখাটি $x$-অক্ষের ধনাত্মক দিকের সাথে উৎপন্ন কোণের পরিমাণ কত?",
+    "text": "5, 6, ... 7 পদের যোগফল = ?",
     "options": [
-      "$30^\\circ$",
-      "$60^\\circ$",
-      "$120^\\circ$",
-      "$150^\\circ$"
+      "61",
+      "12",
+      "56",
+      "35"
     ],
     "image": null,
+    "optionImages": null,
     "timeLimit": 45
   },
   {
-    "id": "ssc-higher-math-ch03-set02-q24",
+    "id": "ssc-higher-math-chapter-03-model-test-02-q14",
     "subject": "higher-math",
     "chapter": "ssc-higher-math-chapter-03-model-test-02",
-    "text": "$A$ কেন্দ্রবিশিষ্ট বৃত্তের ব্যাসার্ধ 2 সে.মি. এবং $B$ কেন্দ্রবিশিষ্ট বৃত্তের ব্যাসার্ধ 3 সে.মি.। এরা পরস্পর বহিঃস্পর্শ করলে $A$ বিন্দু হতে $B$ কেন্দ্রবিশিষ্ট বৃত্তের উপর অঙ্কিত স্পর্শকের দৈর্ঘ্য কত?",
+    "text": "বৃত্তের ব্যাসার্ধ 6 হলে ক্ষেত্রফল ≈ ?",
     "options": [
-      "2 সে.মি.",
-      "3 সে.মি.",
-      "4 সে.মি.",
-      "5 সে.মি."
+      "113.09",
+      "36",
+      "6",
+      "12"
     ],
     "image": null,
+    "optionImages": null,
     "timeLimit": 45
   },
   {
-    "id": "ssc-higher-math-ch03-set02-q25",
+    "id": "ssc-higher-math-chapter-03-model-test-02-q15",
     "subject": "higher-math",
     "chapter": "ssc-higher-math-chapter-03-model-test-02",
-    "text": "বিকাল ৩:৩০ টায় ঘণ্টার কাঁটা ও মিনিটের কাঁটার মধ্যবর্তী কোণ কত?",
+    "text": "(3 + 1) × 1 = ?",
     "options": [
-      "\\\\(75^\\\\circ\\\\)",
-      "\\\\(85^\\\\circ\\\\)",
-      "\\\\(90^\\\\circ\\\\)",
-      "\\\\(95^\\\\circ\\\\)"
+      "-2",
+      "4",
+      "2",
+      "3"
     ],
     "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-higher-math-chapter-03-model-test-02-q16",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-03-model-test-02",
+    "text": "P(ঘটনা) = 7/10 হলে সম্পূরক = ?",
+    "options": [
+      "10",
+      "21",
+      "4",
+      "-4"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-higher-math-chapter-03-model-test-02-q17",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-03-model-test-02",
+    "text": "3x + 2 = 41 হলে x = ?",
+    "options": [
+      "13",
+      "12",
+      "15",
+      "14"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-higher-math-chapter-03-model-test-02-q18",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-03-model-test-02",
+    "text": "9x + 19 = 46 হলে x = ?",
+    "options": [
+      "4",
+      "5",
+      "2",
+      "3"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-higher-math-chapter-03-model-test-02-q19",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-03-model-test-02",
+    "text": "(8 + 17) × 1 = ?",
+    "options": [
+      "9",
+      "136",
+      "-9",
+      "25"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-higher-math-chapter-03-model-test-02-q20",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-03-model-test-02",
+    "text": "6x + 10 = 148 হলে x = ?",
+    "options": [
+      "23",
+      "24",
+      "25",
+      "22"
+    ],
+    "image": null,
+    "optionImages": null,
     "timeLimit": 45
   }
 ]

@@ -1,0 +1,102 @@
+{
+  "hsc-ict-chapter-02-model-test-08-q01": {
+    "correctOption": "ছোট এলাকায়",
+    "explanation": "একটি বিল্ডিং, অফিস বা স্কুল ক্যাম্পাসের মতো ছোট ভৌগোলিক এলাকার মধ্যে LAN ব্যবহৃত হয়।"
+  },
+  "hsc-ict-chapter-02-model-test-08-q02": {
+    "correctOption": "Star",
+    "explanation": "বর্তমানে প্রায় সব অফিস বা ল্যাবে হাব বা সুইচের সাহায্যে স্টার টপোলজি ব্যবহার করেই লোকাল নেটওয়ার্ক বা LAN তৈরি করা হয়।"
+  },
+  "hsc-ict-chapter-02-model-test-08-q03": {
+    "correctOption": "Twisted pair",
+    "explanation": "বাসা বা অফিসের লোকাল নেটওয়ার্কে রাউটারের সাথে পিসি কানেক্ট করতে টুইস্টেড পেয়ার ক্যাবল (RJ45 কানেক্টরসহ) সবচেয়ে বেশি ব্যবহৃত হয়।"
+  },
+  "hsc-ict-chapter-02-model-test-08-q04": {
+    "correctOption": "Local Area Network",
+    "explanation": "LAN এর পূর্ণরূপ Local Area Network।"
+  },
+  "hsc-ict-chapter-02-model-test-08-q05": {
+    "correctOption": "hardware address",
+    "explanation": "MAC (Media Access Control) অ্যাড্রেস হলো নেটওয়ার্ক ইন্টারফেস কার্ডের (NIC) পারমানেন্ট ফিজিক্যাল বা হার্ডওয়্যার অ্যাড্রেস।"
+  },
+  "hsc-ict-chapter-02-model-test-08-q06": {
+    "correctOption": "NIC",
+    "explanation": "ম্যানুফ্যাকচারার বা কোম্পানি প্রতিটি নেটওয়ার্ক ইন্টারফেস কার্ড (NIC) বানানোর সময় তাতে একটি ইউনিক ম্যাক অ্যাড্রেস সেট করে দেয়।"
+  },
+  "hsc-ict-chapter-02-model-test-08-q07": {
+    "correctOption": "শহর এলাকা",
+    "explanation": "MAN সাধারণত একটি পুরো শহর বা মেট্রোপলিটন এলাকা জুড়ে বিস্তৃত থাকে। কেবল টিভি নেটওয়ার্ক এর ভালো উদাহরণ।"
+  },
+  "hsc-ict-chapter-02-model-test-08-q08": {
+    "correctOption": "Metropolitan Area Network",
+    "explanation": "MAN এর পূর্ণরূপ Metropolitan Area Network।"
+  },
+  "hsc-ict-chapter-02-model-test-08-q09": {
+    "correctOption": "প্রতিটি নোড অনেক নোডের সাথে যুক্ত",
+    "explanation": "মেশ টপোলজিতে একটি নেটওয়ার্কের প্রতিটি কম্পিউটার অন্য সব কম্পিউটারের সাথে সরাসরি ক্যাবল দিয়ে যুক্ত থাকে।"
+  },
+  "hsc-ict-chapter-02-model-test-08-q10": {
+    "correctOption": "fault tolerance বেশি",
+    "explanation": "একটি ক্যাবল নষ্ট হলেও অন্য ক্যাবল দিয়ে ডেটা যেতে পারে, তাই এতে ত্রুটি সহনশীলতা (fault tolerance) বা নির্ভরযোগ্যতা সবচেয়ে বেশি।"
+  },
+  "hsc-ict-chapter-02-model-test-08-q11": {
+    "correctOption": "Line of sight",
+    "explanation": "মাইক্রোওয়েভ বাঁকা পথে চলতে পারে না, তাই ট্রান্সমিটার এবং রিসিভারের মাঝে কোনো বাধা থাকা যাবে না বা সরাসরি দৃষ্টিসীমায় (Line of Sight) থাকতে হবে।"
+  },
+  "hsc-ict-chapter-02-model-test-08-q12": {
+    "correctOption": "area ভাগ করে communication সহজ করতে",
+    "explanation": "একটি বড় ভৌগোলিক এলাকাকে ছোট ছোট হেক্সাগোনাল অংশে ভাগ করে (যাকে সেল বলে) প্রতিটিতে টাওয়ার বসিয়ে মোবাইল নেটওয়ার্ক পরিচালনা করা হয়।"
+  },
+  "hsc-ict-chapter-02-model-test-08-q13": {
+    "correctOption": "Modulator + Demodulator",
+    "explanation": "Modulator এর Mo এবং Demodulator এর Dem নিয়ে Modem শব্দটি গঠিত হয়েছে।"
+  },
+  "hsc-ict-chapter-02-model-test-08-q14": {
+    "correctOption": "Modulation-demodulation",
+    "explanation": "মডেম প্রেরক প্রান্তে ডিজিটাল সিগন্যালকে অ্যানালগ (Modulation) এবং প্রাপক প্রান্তে অ্যানালগকে ডিজিটালে (Demodulation) রূপান্তর করে।"
+  },
+  "hsc-ict-chapter-02-model-test-08-q15": {
+    "correctOption": "কম্পিউটারকে নেটওয়ার্কে যুক্ত করা",
+    "explanation": "NIC এর প্রধান কাজ হলো কম্পিউটার এবং নেটওয়ার্ক মাধ্যমের মধ্যে ডেটা আদান-প্রদানের সংযোগ তৈরি করা।"
+  },
+  "hsc-ict-chapter-02-model-test-08-q16": {
+    "correctOption": "NIC",
+    "explanation": "Network Interface Card বা NIC কম্পিউটারের মাদারবোর্ডে লাগানো থাকে, যার মাধ্যমে ল্যান ক্যাবল যুক্ত করা হয়।"
+  },
+  "hsc-ict-chapter-02-model-test-08-q17": {
+    "correctOption": "firewall, password, encryption",
+    "explanation": "নেটওয়ার্ককে হ্যাকার বা ম্যালওয়্যার থেকে সুরক্ষিত রাখতে ফায়ারওয়াল, শক্তিশালী পাসওয়ার্ড এবং ডেটা এনক্রিপশনের মতো পদ্ধতি ব্যবহার করা হয়।"
+  },
+  "hsc-ict-chapter-02-model-test-08-q18": {
+    "correctOption": "Star-এ central device থাকে",
+    "explanation": "অনেকেই কনফিউজড হয়ে যায়, স্টার টপোলজিতেই শুধু হাব বা সুইচ নামক কেন্দ্রীয় ডিভাইস থাকে। বাস বা রিং-এ থাকে না।"
+  },
+  "hsc-ict-chapter-02-model-test-08-q19": {
+    "correctOption": "অনাকাঙ্ক্ষিত সিগন্যাল",
+    "explanation": "কমিউনিকেশন চ্যানেলে মূল সিগন্যালের সাথে যে অবাঞ্ছিত বা অনাকাঙ্ক্ষিত সিগন্যাল যুক্ত হয়, তাকে Noise বলে।"
+  },
+  "hsc-ict-chapter-02-model-test-08-q20": {
+    "correctOption": "ডেটা বিকৃত হতে পারে",
+    "explanation": "নয়েজ বেশি হলে মূল ডেটার সাথে অবাঞ্ছিত সিগন্যাল যুক্ত হয়ে ডেটা নষ্ট বা বিকৃত হয়ে যাওয়ার সম্ভাবনা থাকে।"
+  },
+  "hsc-ict-chapter-02-model-test-08-q21": {
+    "correctOption": "Guided",
+    "explanation": "যেহেতু এটি একটি ফিজিক্যাল ক্যাবল বা কাঁচের তন্তু, তাই এটি Guided মাধ্যম।"
+  },
+  "hsc-ict-chapter-02-model-test-08-q22": {
+    "correctOption": "আলো দিয়ে",
+    "explanation": "অপটিক্যাল ফাইবার ক্যাবলে ডেটা ইলেকট্রিক্যাল সিগন্যালের পরিবর্তে আলোক সংকেত বা Light signal হিসেবে পরিবাহিত হয়।"
+  },
+  "hsc-ict-chapter-02-model-test-08-q23": {
+    "correctOption": "উচ্চ গতি ও বেশি bandwidth",
+    "explanation": "আলোর বেগে ডেটা ট্রান্সফার হওয়ায় এটি সবচেয়ে দ্রুতগামী, এর ব্যান্ডউইথ অনেক বেশি এবং এতে কোনো ইলেকট্রোম্যাগনেটিক নয়েজ হয় না।"
+  },
+  "hsc-ict-chapter-02-model-test-08-q24": {
+    "correctOption": "Bluetooth দিয়ে মোবাইল-হেডফোন সংযোগ",
+    "explanation": "খুব কাছাকাছি দূরত্বে একজন ব্যক্তির নিজের ডিভাইসগুলোর মধ্যে (যেমন ল্যাপটপ থেকে ব্লুটুথ স্পিকার) সংযোগই হলো PAN।"
+  },
+  "hsc-ict-chapter-02-model-test-08-q25": {
+    "correctOption": "Personal Area Network",
+    "explanation": "PAN এর পূর্ণরূপ Personal Area Network।"
+  }
+}

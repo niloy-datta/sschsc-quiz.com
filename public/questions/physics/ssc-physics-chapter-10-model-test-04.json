@@ -1,352 +1,377 @@
 [
   {
-    "id": "ssc-physics-ch10-set04-q01",
+    "id": "ssc-physics-chapter-10-model-test-04-q01",
     "subject": "physics",
     "chapter": "ssc-physics-chapter-10-model-test-04",
-    "text": "২৪. পে্রাটনের চার্জ কত? K - ১.৬ imes ১০^{-1৯}প গ + ১.৬ imes ১০^{-1৮}প গ ৪৫ ঘ ৫০ খ + ১.৬ imes ১০^{-1৯}প ঘ + ১.৬ imes ১০^{-1৭}প",
+    "text": "q=5 C, V=7 V হলে শক্তি W = qV = ?",
     "options": [
-      "ঘ/A",
-      "ঘ/A",
-      "ঘ/A",
-      "ঘ/A"
+      "12",
+      "0.7142857142857143",
+      "35",
+      "1.4"
     ],
     "image": null,
+    "optionImages": null,
     "timeLimit": 45
   },
   {
-    "id": "ssc-physics-ch10-set04-q02",
+    "id": "ssc-physics-chapter-10-model-test-04-q02",
     "subject": "physics",
     "chapter": "ssc-physics-chapter-10-model-test-04",
-    "text": "কোনো বস্তুতে চার্জের উপস্থিতি নির্ণয়ের জন্য নিচের কোন যন্ত্রটি ব্যবহৃত হয়?",
+    "text": "q=4 C, V=6 V হলে শক্তি W = qV = ?",
     "options": [
-      "ইলেকট্রোস্কোপ",
-      "ভ্যান ডি গ্রাফ মেশিন",
-      "ক্যাপাসিটর",
-      "জেনারেটর"
+      "24",
+      "0.6666666666666666",
+      "10",
+      "1.5"
     ],
     "image": null,
+    "optionImages": null,
     "timeLimit": 45
   },
   {
-    "id": "ssc-physics-ch10-set04-q03",
+    "id": "ssc-physics-chapter-10-model-test-04-q03",
     "subject": "physics",
     "chapter": "ssc-physics-chapter-10-model-test-04",
-    "text": "যেকোনো চার্জ q তার চারপাশে একটি তড়িৎক্ষেত্র তৈরি করে, সে তড়িৎক্ষেত্রের সমীকরণ কোনটি?",
+    "text": "q=4 C, V=5 V হলে শক্তি W = qV = ?",
     "options": [
-      "$E = K\\frac{q}{r^2}$",
-      "$E = K\\frac{q}{r}$",
-      "$E = K\\frac{q^2}{r}$",
-      "$E = K\\frac{q^2}{r^2}$"
+      "9",
+      "20",
+      "1.25",
+      "0.8"
     ],
     "image": null,
+    "optionImages": null,
     "timeLimit": 45
   },
   {
-    "id": "ssc-physics-ch10-set04-q04",
+    "id": "ssc-physics-chapter-10-model-test-04-q04",
     "subject": "physics",
     "chapter": "ssc-physics-chapter-10-model-test-04",
-    "text": "একটি ধারকে 5V বিভব পার্থক্যে 20C চার্জ সঞ্চিত হলে ধারকত্ব কত?",
+    "text": "কুলম্ব সূত্র (প্রশ্ন 8) F = ?",
     "options": [
-      "2 F",
-      "4 F",
-      "25 F",
-      "100 F"
+      "mv",
+      "ma",
+      "kq₁q₂/r²",
+      "IR"
     ],
     "image": null,
+    "optionImages": null,
     "timeLimit": 45
   },
   {
-    "id": "ssc-physics-ch10-set04-q05",
+    "id": "ssc-physics-chapter-10-model-test-04-q05",
     "subject": "physics",
     "chapter": "ssc-physics-chapter-10-model-test-04",
-    "text": "ধারকত্ব 4 F এবং বিভব 3 V হলে সঞ্চিত চার্জ কত?",
+    "text": "q=3 C, V=3 V হলে শক্তি W = qV = ?",
     "options": [
-      "1.33 C",
-      "7 C",
-      "12 C",
-      "16 C"
+      "1",
+      "9",
+      "1",
+      "6"
     ],
     "image": null,
+    "optionImages": null,
     "timeLimit": 45
   },
   {
-    "id": "ssc-physics-ch10-set04-q06",
+    "id": "ssc-physics-chapter-10-model-test-04-q06",
     "subject": "physics",
     "chapter": "ssc-physics-chapter-10-model-test-04",
-    "text": "20 μF ধারককে 100V বিভব পার্থক্যে যুক্ত করলে সঞ্চিত চার্জ কত?",
+    "text": "q=2 C, V=12 V হলে শক্তি W = qV = ?",
     "options": [
-      "2 × 10⁻⁴ C",
-      "2 × 10⁻³ C",
-      "2 × 10⁻² C",
-      "2 C"
+      "0.16666666666666666",
+      "6",
+      "24",
+      "14"
     ],
     "image": null,
+    "optionImages": null,
     "timeLimit": 45
   },
   {
-    "id": "ssc-physics-ch10-set04-q07",
+    "id": "ssc-physics-chapter-10-model-test-04-q07",
     "subject": "physics",
     "chapter": "ssc-physics-chapter-10-model-test-04",
-    "text": "10 μF ধারককে 200V বিভব দিলে চার্জ কত?",
+    "text": "q=2 C, V=11 V হলে শক্তি W = qV = ?",
     "options": [
-      "2×10⁻⁴ C",
-      "2×10⁻³ C",
-      "2×10⁻² C",
-      "2 C"
+      "0.18181818181818182",
+      "5.5",
+      "13",
+      "22"
     ],
     "image": null,
+    "optionImages": null,
     "timeLimit": 45
   },
   {
-    "id": "ssc-physics-ch10-set04-q08",
+    "id": "ssc-physics-chapter-10-model-test-04-q08",
     "subject": "physics",
     "chapter": "ssc-physics-chapter-10-model-test-04",
-    "text": "10 μF ধারককে 100V বিভব পার্থক্যে যুক্ত করলে সঞ্চিত চার্জ কত?",
+    "text": "কুলম্ব সূত্র (প্রশ্ন 16) F = ?",
     "options": [
-      "1.0e-04 C",
-      "1.0e-03 C",
-      "1.0e-02 C",
-      "1000 C"
+      "mv",
+      "ma",
+      "IR",
+      "kq₁q₂/r²"
     ],
     "image": null,
+    "optionImages": null,
     "timeLimit": 45
   },
   {
-    "id": "ssc-physics-ch10-set04-q09",
+    "id": "ssc-physics-chapter-10-model-test-04-q09",
     "subject": "physics",
     "chapter": "ssc-physics-chapter-10-model-test-04",
-    "text": "20 μF ধারককে 50V বিভব পার্থক্যে যুক্ত করলে সঞ্চিত চার্জ কত?",
+    "text": "q=5 C, V=9 V হলে শক্তি W = qV = ?",
     "options": [
-      "1.0e-04 C",
-      "1.0e-03 C",
-      "1.0e-02 C",
-      "1000 C"
+      "0.5555555555555556",
+      "45",
+      "14",
+      "1.8"
     ],
     "image": null,
+    "optionImages": null,
     "timeLimit": 45
   },
   {
-    "id": "ssc-physics-ch10-set04-q10",
+    "id": "ssc-physics-chapter-10-model-test-04-q10",
     "subject": "physics",
     "chapter": "ssc-physics-chapter-10-model-test-04",
-    "text": "50 μF ধারককে 12V বিভব পার্থক্যে যুক্ত করলে সঞ্চিত চার্জ কত?",
+    "text": "কুলম্ব সূত্র (প্রশ্ন 24) F = ?",
     "options": [
-      "6.0e-05 C",
-      "6.0e-04 C",
-      "6.0e-03 C",
-      "600 C"
+      "kq₁q₂/r²",
+      "mv",
+      "ma",
+      "IR"
     ],
     "image": null,
+    "optionImages": null,
     "timeLimit": 45
   },
   {
-    "id": "ssc-physics-ch10-set04-q11",
+    "id": "ssc-physics-chapter-10-model-test-04-q11",
     "subject": "physics",
     "chapter": "ssc-physics-chapter-10-model-test-04",
-    "text": "তড়িৎ ক্ষেত্রের একক কোনটি? (English: Which one is the unit of electric field?)",
+    "text": "q=3 C, V=4 V হলে শক্তি W = qV = ?",
     "options": [
-      "নিউটন/কুলম্ব",
-      "জুল/কুলম্ব",
-      "ওয়াট/ভোল্ট",
-      "ওহম-মিটার"
+      "7",
+      "1.3333333333333333",
+      "12",
+      "0.75"
     ],
     "image": null,
+    "optionImages": null,
     "timeLimit": 45
   },
   {
-    "id": "ssc-physics-ch10-set04-q12",
+    "id": "ssc-physics-chapter-10-model-test-04-q12",
     "subject": "physics",
     "chapter": "ssc-physics-chapter-10-model-test-04",
-    "text": "একটি 75 μF এর ক্যাপাসিটর 220V বিভব পার্থক্যে যুক্ত করা হলে তাতে কতটুকু চার্জ সঞ্চিত হবে?",
+    "text": "q=2 C, V=2 V হলে শক্তি W = qV = ?",
     "options": [
-      "2.93 × 10⁵ C",
-      "1.65 × 10⁴ C",
-      "1.65 × 10⁻² C",
-      "3.40 × 10⁻⁶ C"
+      "4",
+      "1",
+      "1",
+      "4"
     ],
     "image": null,
+    "optionImages": null,
     "timeLimit": 45
   },
   {
-    "id": "ssc-physics-ch10-set04-q13",
+    "id": "ssc-physics-chapter-10-model-test-04-q13",
     "subject": "physics",
     "chapter": "ssc-physics-chapter-10-model-test-04",
-    "text": "কোনো পরিবাহীর মধ্য দিয়ে t সময়ে যদি Q চার্জ প্রবাহিত হয় তবে তড়িৎ প্রবাহ হবে-",
+    "text": "কুলম্ব সূত্র (প্রশ্ন 32) F = ?",
     "options": [
-      "I = Q/t",
-      "I = t/Q",
-      "I = Qt",
-      "I = Q²t"
+      "IR",
+      "ma",
+      "mv",
+      "kq₁q₂/r²"
     ],
     "image": null,
+    "optionImages": null,
     "timeLimit": 45
   },
   {
-    "id": "ssc-physics-ch10-set04-q14",
+    "id": "ssc-physics-chapter-10-model-test-04-q14",
     "subject": "physics",
     "chapter": "ssc-physics-chapter-10-model-test-04",
-    "text": "$5\\text{ C}$ চার্জের জন্য $10\\text{ m}$ দূরে ইলেকট্রিক ফিল্ড কত $\\text{NC}^{-1}$?",
+    "text": "q=1 C, V=10 V হলে শক্তি W = qV = ?",
     "options": [
-      "$4.5 \\times 10^8$",
-      "$4.5 \\times 10^9$",
-      "$1.8 \\times 10^{10}$",
-      "$1.8 \\times 10^{11}$"
+      "11",
+      "10",
+      "0.1",
+      "10"
     ],
     "image": null,
+    "optionImages": null,
     "timeLimit": 45
   },
   {
-    "id": "ssc-physics-ch10-set04-q15",
+    "id": "ssc-physics-chapter-10-model-test-04-q15",
     "subject": "physics",
     "chapter": "ssc-physics-chapter-10-model-test-04",
-    "text": "একটি পরিবাহীর রোধ 6 Ω এবং দুই প্রান্তের বিভব পার্থক্য 29 V হলে এর তড়িৎ প্রবাহ কত?",
+    "text": "q=5 C, V=8 V হলে শক্তি W = qV = ?",
     "options": [
-      "174 A",
-      "0.21 A",
-      "{(v+r)} A",
-      "4.8 A"
+      "0.625",
+      "13",
+      "40",
+      "1.6"
     ],
     "image": null,
+    "optionImages": null,
     "timeLimit": 45
   },
   {
-    "id": "ssc-physics-ch10-set04-q16",
+    "id": "ssc-physics-chapter-10-model-test-04-q16",
     "subject": "physics",
     "chapter": "ssc-physics-chapter-10-model-test-04",
-    "text": "একটি পরিবাহীর রোধ 3 Ω এবং দুই প্রান্তের বিভব পার্থক্য 16 V হলে এর তড়িৎ প্রবাহ কত?",
+    "text": "কুলম্ব সূত্র (প্রশ্ন 40) F = ?",
     "options": [
-      "5.3 A",
-      "48 A",
-      "0.19 A",
-      "{(v+r)} A"
+      "kq₁q₂/r²",
+      "ma",
+      "mv",
+      "IR"
     ],
     "image": null,
+    "optionImages": null,
     "timeLimit": 45
   },
   {
-    "id": "ssc-physics-ch10-set04-q17",
+    "id": "ssc-physics-chapter-10-model-test-04-q17",
     "subject": "physics",
     "chapter": "ssc-physics-chapter-10-model-test-04",
-    "text": "একটি পরিবাহীর রোধ 10 Ω এবং দুই প্রান্তের বিভব পার্থক্য 12 V হলে এর তড়িৎ প্রবাহ কত?",
+    "text": "q=3 C, V=2 V হলে শক্তি W = qV = ?",
     "options": [
-      "120 A",
-      "0.83 A",
-      "{(v+r)} A",
-      "1.2 A"
+      "0.6666666666666666",
+      "1.5",
+      "6",
+      "5"
     ],
     "image": null,
+    "optionImages": null,
     "timeLimit": 45
   },
   {
-    "id": "ssc-physics-ch10-set04-q18",
+    "id": "ssc-physics-chapter-10-model-test-04-q18",
     "subject": "physics",
     "chapter": "ssc-physics-chapter-10-model-test-04",
-    "text": "একটি পরিবাহীর রোধ 4 Ω এবং দুই প্রান্তের বিভব পার্থক্য 24 V হলে এর তড়িৎ প্রবাহ কত?",
+    "text": "কুলম্ব সূত্র (প্রশ্ন 48) F = ?",
     "options": [
-      "96 A",
-      "6.0 A",
-      "0.17 A",
-      "{(v+r)} A"
+      "kq₁q₂/r²",
+      "IR",
+      "mv",
+      "ma"
     ],
     "image": null,
+    "optionImages": null,
     "timeLimit": 45
   },
   {
-    "id": "ssc-physics-ch10-set04-q19",
+    "id": "ssc-physics-chapter-10-model-test-04-q19",
     "subject": "physics",
     "chapter": "ssc-physics-chapter-10-model-test-04",
-    "text": "একটি পরিবাহীর রোধ 2 Ω এবং দুই প্রান্তের বিভব পার্থক্য 15 V হলে এর তড়িৎ প্রবাহ কত?",
+    "text": "q=1 C, V=11 V হলে শক্তি W = qV = ?",
     "options": [
-      "0.13 A",
-      "30 A",
-      "{(v+r)} A",
-      "7.5 A"
+      "12",
+      "0.09090909090909091",
+      "11",
+      "11"
     ],
     "image": null,
+    "optionImages": null,
     "timeLimit": 45
   },
   {
-    "id": "ssc-physics-ch10-set04-q20",
+    "id": "ssc-physics-chapter-10-model-test-04-q20",
     "subject": "physics",
     "chapter": "ssc-physics-chapter-10-model-test-04",
-    "text": "একটি পরিবাহীর রোধ 8 Ω এবং দুই প্রান্তের বিভব পার্থক্য 13 V হলে এর তড়িৎ প্রবাহ কত?",
+    "text": "q=1 C, V=9 V হলে শক্তি W = qV = ?",
     "options": [
-      "104 A",
-      "{(v+r)} A",
-      "1.6 A",
-      "0.62 A"
+      "9",
+      "0.1111111111111111",
+      "10",
+      "9"
     ],
     "image": null,
+    "optionImages": null,
     "timeLimit": 45
   },
   {
-    "id": "ssc-physics-ch10-set04-q21",
+    "id": "ssc-physics-chapter-10-model-test-04-q21",
     "subject": "physics",
     "chapter": "ssc-physics-chapter-10-model-test-04",
-    "text": "একটি পরিবাহীর রোধ 2 Ω এবং দুই প্রান্তের বিভব পার্থক্য 10 V হলে এর তড়িৎ প্রবাহ কত?",
+    "text": "কুলম্ব সূত্র (প্রশ্ন 56) F = ?",
     "options": [
-      "5.0 A",
-      "{(v+r)} A",
-      "20 A",
-      "0.20 A"
+      "ma",
+      "IR",
+      "kq₁q₂/r²",
+      "mv"
     ],
     "image": null,
+    "optionImages": null,
     "timeLimit": 45
   },
   {
-    "id": "ssc-physics-ch10-set04-q22",
+    "id": "ssc-physics-chapter-10-model-test-04-q22",
     "subject": "physics",
     "chapter": "ssc-physics-chapter-10-model-test-04",
-    "text": "একটি পরিবাহীর রোধ 2 Ω এবং দুই প্রান্তের বিভব পার্থক্য 30 V হলে এর তড়িৎ প্রবাহ কত?",
+    "text": "কুলম্ব সূত্র (প্রশ্ন 64) F = ?",
     "options": [
-      "60 A",
-      "0.07 A",
-      "{(v+r)} A",
-      "15.0 A"
+      "mv",
+      "kq₁q₂/r²",
+      "IR",
+      "ma"
     ],
     "image": null,
+    "optionImages": null,
     "timeLimit": 45
   },
   {
-    "id": "ssc-physics-ch10-set04-q23",
+    "id": "ssc-physics-chapter-10-model-test-04-q23",
     "subject": "physics",
     "chapter": "ssc-physics-chapter-10-model-test-04",
-    "text": "একটি পরিবাহীর রোধ 7 Ω এবং দুই প্রান্তের বিভব পার্থক্য 23 V হলে এর তড়িৎ প্রবাহ কত?",
+    "text": "কুলম্ব সূত্র (প্রশ্ন 72) F = ?",
     "options": [
-      "3.3 A",
-      "0.30 A",
-      "161 A",
-      "{(v+r)} A"
+      "IR",
+      "kq₁q₂/r²",
+      "ma",
+      "mv"
     ],
     "image": null,
+    "optionImages": null,
     "timeLimit": 45
   },
   {
-    "id": "ssc-physics-ch10-set04-q24",
+    "id": "ssc-physics-chapter-10-model-test-04-q24",
     "subject": "physics",
     "chapter": "ssc-physics-chapter-10-model-test-04",
-    "text": "একটি পরিবাহীর রোধ 6 Ω এবং দুই প্রান্তের বিভব পার্থক্য 14 V হলে এর তড়িৎ প্রবাহ কত?",
+    "text": "q=4 C, V=7 V হলে শক্তি W = qV = ?",
     "options": [
-      "84 A",
-      "0.43 A",
-      "{(v+r)} A",
-      "2.3 A"
+      "11",
+      "0.5714285714285714",
+      "28",
+      "1.75"
     ],
     "image": null,
+    "optionImages": null,
     "timeLimit": 45
   },
   {
-    "id": "ssc-physics-ch10-set04-q25",
+    "id": "ssc-physics-chapter-10-model-test-04-q25",
     "subject": "physics",
     "chapter": "ssc-physics-chapter-10-model-test-04",
-    "text": "একটি পরিবাহীর রোধ 6 Ω এবং দুই প্রান্তের বিভব পার্থক্য 12 V হলে এর তড়িৎ প্রবাহ কত?",
+    "text": "কুলম্ব সূত্র (প্রশ্ন 80) F = ?",
     "options": [
-      "0.50 A",
-      "72 A",
-      "{(v+r)} A",
-      "2.0 A"
+      "ma",
+      "mv",
+      "kq₁q₂/r²",
+      "IR"
     ],
     "image": null,
+    "optionImages": null,
     "timeLimit": 45
   }
 ]

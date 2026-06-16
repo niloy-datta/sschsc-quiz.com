@@ -75,5 +75,30 @@ export async function loadQuizQuestionsFromDisk(
     }
   }
 
+  for (const filename of filenames) {
+    const megaPath = path.join(
+      process.cwd(),
+      "public",
+      "quiz-data",
+      level,
+      `${fileSlug}.json`,
+    );
+    const publicMegaPath = `/quiz-data/${level}/${fileSlug}.json#${filename}`;
+    attemptedPaths.push(publicMegaPath);
+    try {
+      const raw = await fs.readFile(megaPath, "utf8");
+      const data = JSON.parse(raw) as { modelTests?: Record<string, unknown[]> };
+      const list = data.modelTests?.[filename] ?? data.modelTests?.[setId];
+      if (Array.isArray(list) && list.length > 0) {
+        const questions = mapJsonPayloadToQuestions(list);
+        if (questions.length > 0) {
+          return { questions, path: publicMegaPath, attemptedPaths };
+        }
+      }
+    } catch {
+      /* mega missing */
+    }
+  }
+
   return { questions: [], path: null, attemptedPaths };
 }

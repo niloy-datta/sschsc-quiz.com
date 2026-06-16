@@ -1,0 +1,107 @@
+{
+  "setId": "ssc_physics_questions",
+  "reason": "HIDDEN_LEGACY_KEY",
+  "quarantinedAt": "2026-06-13T17:57:54.220Z",
+  "questions": [
+    {
+      "id": "physics-ssc-science-physics-ssc-physics-questions-json-0",
+      "questionText": "আলোর গতি শূন্যস্থানে কত?",
+      "optionA": "3×10⁸ m/s",
+      "optionB": "3×10⁶ m/s",
+      "optionC": "3×10¹⁰ m/s",
+      "optionD": "3×10⁴ m/s",
+      "correctOption": "A",
+      "explanation": "আলোর গতি শূন্যস্থানে প্রায় ৩×১০⁸ মিটার/সেকেন্ড।"
+    },
+    {
+      "id": "physics-ssc-science-physics-ssc-physics-questions-json-1",
+      "questionText": "বলের SI একক কোনটি?",
+      "optionA": "নিউটন",
+      "optionB": "জুল",
+      "optionC": "প্যাসকেল",
+      "optionD": "ওয়াট",
+      "correctOption": "A",
+      "explanation": "বলের SI একক হল নিউটন (N)। 1 N = 1 kg·m/s²।"
+    },
+    {
+      "id": "physics-ssc-science-physics-ssc-physics-questions-json-2",
+      "questionText": "কাজের SI একক কী?",
+      "optionA": "জুল",
+      "optionB": "ওয়াট",
+      "optionC": "নিউটন",
+      "optionD": "প্যাসকেল",
+      "correctOption": "A",
+      "explanation": "কাজের SI একক জুল (J)। 1 J = 1 N·m।"
+    },
+    {
+      "id": "physics-ssc-science-physics-ssc-physics-questions-json-3",
+      "questionText": "তরঙ্গদৈর্ঘ্য ও কম্পাঙ্কের সম্পর্ক কোনটি?",
+      "optionA": "v = fλ",
+      "optionB": "v = f/λ",
+      "optionC": "v = λ/f",
+      "optionD": "f = vλ",
+      "correctOption": "A",
+      "explanation": "তরঙ্গ বেগ = কম্পাঙ্ক × তরঙ্গদৈর্ঘ্য, অর্থাৎ v = fλ।"
+    },
+    {
+      "id": "physics-ssc-science-physics-ssc-physics-questions-json-4",
+      "questionText": "ওহমের সূত্র কোনটি?",
+      "optionA": "V = IR",
+      "optionB": "I = VR",
+      "optionC": "R = VI",
+      "optionD": "P = IV",
+      "correctOption": "A",
+      "explanation": "ওহমের সূত্র অনুযায়ী, ভোল্টেজ = কারেন্ট × রেজিস্ট্যান্স, অর্থাৎ V = IR।"
+    },
+    {
+      "id": "physics-ssc-science-physics-ssc-physics-questions-json-5",
+      "questionText": "মহাকর্ষীয় ত্বরণ g-এর মান কত?",
+      "optionA": "9.8 m/s²",
+      "optionB": "9.8 m/s",
+      "optionC": "6.4 m/s²",
+      "optionD": "10 km/s",
+      "correctOption": "A",
+      "explanation": "পৃথিবীর পৃষ্ঠে মহাকর্ষীয় ত্বরণ g ≈ 9.8 m/s²।"
+    },
+    {
+      "id": "physics-ssc-science-physics-ssc-physics-questions-json-6",
+      "questionText": "চাপের SI একক কী?",
+      "optionA": "প্যাসকেল",
+      "optionB": "নিউটন",
+      "optionC": "জুল",
+      "optionD": "ওয়াট",
+      "correctOption": "A",
+      "explanation": "চাপের SI একক প্যাসকেল (Pa)। 1 Pa = 1 N/m²।"
+    },
+    {
+      "id": "physics-ssc-science-physics-ssc-physics-questions-json-7",
+      "questionText": "তাপমাত্রার SI একক কোনটি?",
+      "optionA": "কেলভিন",
+      "optionB": "সেলসিয়াস",
+      "optionC": "ফারেনহাইট",
+      "optionD": "জুল",
+      "correctOption": "A",
+      "explanation": "তাপমাত্রার SI একক কেলভিন (K)।"
+    },
+    {
+      "id": "physics-ssc-science-physics-ssc-physics-questions-json-8",
+      "questionText": "বৈদ্যুতিক ক্ষমতার একক কী?",
+      "optionA": "ওয়াট",
+      "optionB": "অ্যাম্পিয়ার",
+      "optionC": "ভোল্ট",
+      "optionD": "ওহম",
+      "correctOption": "A",
+      "explanation": "বৈদ্যুতিক ক্ষমতার একক ওয়াট (W)। P = VI।"
+    },
+    {
+      "id": "physics-ssc-science-physics-ssc-physics-questions-json-9",
+      "questionText": "শব্দের বেগ বায়ুতে প্রায় কত?",
+      "optionA": "340 m/s",
+      "optionB": "300 m/s",
+      "optionC": "500 m/s",
+      "optionD": "150 m/s",
+      "correctOption": "A",
+      "explanation": "স্বাভাবিক তাপমাত্রায় বায়ুতে শব্দের বেগ প্রায় 340 m/s।"
+    }
+  ]
+}

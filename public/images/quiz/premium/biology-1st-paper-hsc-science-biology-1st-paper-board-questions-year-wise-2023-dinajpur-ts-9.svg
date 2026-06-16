@@ -1,0 +1,24 @@
+<svg width="100%" height="100%" viewBox="0 0 360 220" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="DNA গঠন">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#07111f"/>
+      <stop offset="100%" stop-color="#0f172a"/>
+    </linearGradient>
+    <filter id="glow"><feGaussianBlur stdDeviation="2.2" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+    <marker id="arrow" markerWidth="8" markerHeight="8" refX="7" refY="3" orient="auto"><path d="M0,0 L0,6 L8,3 z" fill="#67e8f9"/></marker>
+  </defs>
+  <rect width="360" height="220" rx="18" fill="url(#bg)"/>
+  <rect x="10" y="10" width="340" height="200" rx="14" fill="#ffffff" opacity=".035" stroke="#38bdf8" stroke-opacity=".24"/>
+  <text x="180" y="28" text-anchor="middle" fill="#e0f2fe" font-size="12.5" font-weight="700" font-family="Noto Sans Bengali, Arial, sans-serif">DNA গঠন</text>
+  <text x="180" y="44" text-anchor="middle" fill="#93c5fd" font-size="9.5" font-family="Noto Sans Bengali, Arial, sans-serif">দ্বি-সূত্রক ডাবল হেলিক্স</text>
+  
+  <g filter="url(#glow)">
+    
+    <polyline points="145.0,58 156.98563846510507,68 166.0367746201974,78 169.93737466510137,88 167.73243567064205,98 159.9618036025989,108 148.52800020149667,118 136.23041930775952,128 126.0799376173018,138 120.56174705837257,148 121.02689313342154,158 127.3614918607402,168" fill="none" stroke="#22d3ee" stroke-width="4" stroke-linecap="round"/>
+    <polyline points="215.0,58 203.01436153489493,68 193.9632253798026,78 190.06262533489863,88 192.26756432935795,98 200.0381963974011,108 211.47199979850333,118 223.76958069224048,128 233.9200623826982,138 239.4382529416274,148 238.97310686657846,158 232.63850813925978,168" fill="none" stroke="#f472b6" stroke-width="4" stroke-linecap="round"/>
+    <line x1="145.0" y1="58" x2="215.0" y2="58" stroke="#94a3b8" stroke-width="1.5"/><line x1="156.98563846510507" y1="68" x2="203.01436153489493" y2="68" stroke="#94a3b8" stroke-width="1.5"/><line x1="166.0367746201974" y1="78" x2="193.9632253798026" y2="78" stroke="#94a3b8" stroke-width="1.5"/><line x1="169.93737466510137" y1="88" x2="190.06262533489863" y2="88" stroke="#94a3b8" stroke-width="1.5"/><line x1="167.73243567064205" y1="98" x2="192.26756432935795" y2="98" stroke="#94a3b8" stroke-width="1.5"/><line x1="159.9618036025989" y1="108" x2="200.0381963974011" y2="108" stroke="#94a3b8" stroke-width="1.5"/><line x1="148.52800020149667" y1="118" x2="211.47199979850333" y2="118" stroke="#94a3b8" stroke-width="1.5"/><line x1="136.23041930775952" y1="128" x2="223.76958069224048" y2="128" stroke="#94a3b8" stroke-width="1.5"/><line x1="126.0799376173018" y1="138" x2="233.9200623826982" y2="138" stroke="#94a3b8" stroke-width="1.5"/><line x1="120.56174705837257" y1="148" x2="239.4382529416274" y2="148" stroke="#94a3b8" stroke-width="1.5"/><line x1="121.02689313342154" y1="158" x2="238.97310686657846" y2="158" stroke="#94a3b8" stroke-width="1.5"/><line x1="127.3614918607402" y1="168" x2="232.63850813925978" y2="168" stroke="#94a3b8" stroke-width="1.5"/>
+    <text x="180" y="190" text-anchor="middle" fill="#e0f2fe" font-size="11" font-family="Noto Sans Bengali, Arial">DNA Double Helix</text>
+    <text x="180" y="205" text-anchor="middle" fill="#93c5fd" font-size="9" font-family="Noto Sans Bengali, Arial">Genetic code / master molecule</text>
+  </g>
+  
+</svg>

@@ -1,0 +1,3544 @@
+{
+  "level": "HSC",
+  "subject": "higher-math-1st-paper",
+  "datasetType": "chapterwise_hyper_mega_hot_board_standard",
+  "confidenceLabel": "Hyper Mega Hot — Highest Probability Board-Standard Pattern Cache",
+  "chapterWise": [
+    {
+      "chapter": "09",
+      "chapterName": "অন্তরীকরণ",
+      "sets": [
+        {
+          "id": "hsc-higher-math-1st-paper-chapter-09-set-01",
+          "title": "Chapter 09 Hyper Mega Hot Set 01",
+          "questions": [
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-09-set-01-q01",
+              "question": "$\\frac{d}{dx}x^3$ কত?",
+              "options": [
+                {
+                  "text": "$3x^2$",
+                  "label": "ক"
+                },
+                {
+                  "text": "$2x^3$",
+                  "label": "খ"
+                },
+                {
+                  "text": "$x^2$",
+                  "label": "গ"
+                },
+                {
+                  "text": "$x^3$",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "ক",
+              "shortSolution": "সঠিক উত্তর: ক। Power rule।",
+              "chapter": "09",
+              "topic": "Power rule",
+              "difficulty": "Easy",
+              "probability": "Board Favourite"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-09-set-01-q02",
+              "question": "$\\frac{d}{dx}(4x)$ কত?",
+              "options": [
+                {
+                  "text": "0",
+                  "label": "ক"
+                },
+                {
+                  "text": "$4x$",
+                  "label": "খ"
+                },
+                {
+                  "text": "5",
+                  "label": "গ"
+                },
+                {
+                  "text": "4",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "ঘ",
+              "shortSolution": "সঠিক উত্তর: ঘ। Linear term $ax$-এর derivative $a$।",
+              "chapter": "09",
+              "topic": "রৈখিক অন্তরজ",
+              "difficulty": "Easy",
+              "probability": "Conceptual Trap"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-09-set-01-q03",
+              "question": "$\\frac{d}{dx}(5)$ কত?",
+              "options": [
+                {
+                  "text": "5",
+                  "label": "ক"
+                },
+                {
+                  "text": "1",
+                  "label": "খ"
+                },
+                {
+                  "text": "0",
+                  "label": "গ"
+                },
+                {
+                  "text": "$x$",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "গ",
+              "shortSolution": "সঠিক উত্তর: গ। Constant-এর derivative 0।",
+              "chapter": "09",
+              "topic": "ধ্রুবকের অন্তরজ",
+              "difficulty": "Easy",
+              "probability": "Mega Hot"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-09-set-01-q04",
+              "question": "$\\frac{d}{dx}(\\sin x)$ কত?",
+              "options": [
+                {
+                  "text": "$\\sin x$",
+                  "label": "ক"
+                },
+                {
+                  "text": "$\\cos x$",
+                  "label": "খ"
+                },
+                {
+                  "text": "$-\\sin x$",
+                  "label": "গ"
+                },
+                {
+                  "text": "$-\\cos x$",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "খ",
+              "shortSolution": "সঠিক উত্তর: খ। Standard derivative।",
+              "chapter": "09",
+              "topic": "ত্রিকোণমিতিক অন্তরজ",
+              "difficulty": "Easy",
+              "probability": "Very Hot"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-09-set-01-q05",
+              "question": "$\\frac{d}{dx}(\\cos x)$ কত?",
+              "options": [
+                {
+                  "text": "$\\cos x$",
+                  "label": "ক"
+                },
+                {
+                  "text": "$-\\cos x$",
+                  "label": "খ"
+                },
+                {
+                  "text": "$\\sin x$",
+                  "label": "গ"
+                },
+                {
+                  "text": "$-\\sin x$",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "ঘ",
+              "shortSolution": "সঠিক উত্তর: ঘ। Standard derivative।",
+              "chapter": "09",
+              "topic": "ত্রিকোণমিতিক অন্তরজ",
+              "difficulty": "Easy",
+              "probability": "Board Favourite"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-09-set-01-q06",
+              "question": "$\\frac{d}{dx}(e^x)$ কত?",
+              "options": [
+                {
+                  "text": "$\\ln x$",
+                  "label": "ক"
+                },
+                {
+                  "text": "$xe^{x-1}$",
+                  "label": "খ"
+                },
+                {
+                  "text": "$e^x$",
+                  "label": "গ"
+                },
+                {
+                  "text": "0",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "গ",
+              "shortSolution": "সঠিক উত্তর: গ। $e^x$ নিজেই derivative।",
+              "chapter": "09",
+              "topic": "সূচক অন্তরজ",
+              "difficulty": "Easy",
+              "probability": "Conceptual Trap"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-09-set-01-q07",
+              "question": "$\\frac{d}{dx}(\\ln x)$ কত?",
+              "options": [
+                {
+                  "text": "$\\frac1x$",
+                  "label": "ক"
+                },
+                {
+                  "text": "$e^x$",
+                  "label": "খ"
+                },
+                {
+                  "text": "$\\ln x$",
+                  "label": "গ"
+                },
+                {
+                  "text": "$x$",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "ক",
+              "shortSolution": "সঠিক উত্তর: ক। Standard derivative।",
+              "chapter": "09",
+              "topic": "লগারিদমিক অন্তরজ",
+              "difficulty": "Easy",
+              "probability": "Mega Hot"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-09-set-01-q08",
+              "question": "$y=x^2+5x$ হলে $dy/dx$ কত?",
+              "options": [
+                {
+                  "text": "$2x$",
+                  "label": "ক"
+                },
+                {
+                  "text": "$5x$",
+                  "label": "খ"
+                },
+                {
+                  "text": "$x^2+{a}$",
+                  "label": "গ"
+                },
+                {
+                  "text": "$2x+5$",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "ঘ",
+              "shortSolution": "সঠিক উত্তর: ঘ। Term-wise differentiation।",
+              "chapter": "09",
+              "topic": "যোগের অন্তরজ",
+              "difficulty": "Medium",
+              "probability": "Very Hot"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-09-set-01-q09",
+              "question": "$y=x^2$ বক্ররেখার $x=2$ বিন্দুতে ঢাল কত?",
+              "options": [
+                {
+                  "text": "0",
+                  "label": "ক"
+                },
+                {
+                  "text": "2",
+                  "label": "খ"
+                },
+                {
+                  "text": "8",
+                  "label": "গ"
+                },
+                {
+                  "text": "4",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "ঘ",
+              "shortSolution": "সঠিক উত্তর: ঘ। $dy/dx=2x$, তাই $x=2$ হলে 4।",
+              "chapter": "09",
+              "topic": "স্পর্শকের ঢাল",
+              "difficulty": "Medium",
+              "probability": "Board Favourite"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-09-set-01-q10",
+              "question": "$f'(x)>0$ হলে ফাংশনটি কেমন?",
+              "options": [
+                {
+                  "text": "অসজ্ঞায়িত",
+                  "label": "ক"
+                },
+                {
+                  "text": "বর্ধমান",
+                  "label": "খ"
+                },
+                {
+                  "text": "ধ্রুবক",
+                  "label": "গ"
+                },
+                {
+                  "text": "হ্রাসমান",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "খ",
+              "shortSolution": "সঠিক উত্তর: খ। Derivative positive হলে function increasing।",
+              "chapter": "09",
+              "topic": "বর্ধন-হ্রাস",
+              "difficulty": "Medium",
+              "probability": "Conceptual Trap"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-09-set-01-q11",
+              "question": "$\\frac{d}{dx}x^3$ কত? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 01-11 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+              "options": [
+                {
+                  "text": "$3x^2$",
+                  "label": "ক"
+                },
+                {
+                  "text": "$x^2$",
+                  "label": "খ"
+                },
+                {
+                  "text": "$2x^3$",
+                  "label": "গ"
+                },
+                {
+                  "text": "$x^3$",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "ক",
+              "shortSolution": "সঠিক উত্তর: ক। Power rule।",
+              "chapter": "09",
+              "topic": "Power rule",
+              "difficulty": "Medium",
+              "probability": "Mega Hot"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-09-set-01-q12",
+              "question": "$\\frac{d}{dx}(4x)$ কত? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 01-12 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+              "options": [
+                {
+                  "text": "$4x$",
+                  "label": "ক"
+                },
+                {
+                  "text": "5",
+                  "label": "খ"
+                },
+                {
+                  "text": "4",
+                  "label": "গ"
+                },
+                {
+                  "text": "0",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "গ",
+              "shortSolution": "সঠিক উত্তর: গ। Linear term $ax$-এর derivative $a$।",
+              "chapter": "09",
+              "topic": "রৈখিক অন্তরজ",
+              "difficulty": "Medium",
+              "probability": "Very Hot"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-09-set-01-q13",
+              "question": "$\\frac{d}{dx}(5)$ কত? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 01-13 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+              "options": [
+                {
+                  "text": "0",
+                  "label": "ক"
+                },
+                {
+                  "text": "5",
+                  "label": "খ"
+                },
+                {
+                  "text": "$x$",
+                  "label": "গ"
+                },
+                {
+                  "text": "1",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "ক",
+              "shortSolution": "সঠিক উত্তর: ক। Constant-এর derivative 0।",
+              "chapter": "09",
+              "topic": "ধ্রুবকের অন্তরজ",
+              "difficulty": "Medium",
+              "probability": "Board Favourite"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-09-set-01-q14",
+              "question": "$\\frac{d}{dx}(\\sin x)$ কত? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 01-14 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+              "options": [
+                {
+                  "text": "$-\\cos x$",
+                  "label": "ক"
+                },
+                {
+                  "text": "$-\\sin x$",
+                  "label": "খ"
+                },
+                {
+                  "text": "$\\sin x$",
+                  "label": "গ"
+                },
+                {
+                  "text": "$\\cos x$",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "ঘ",
+              "shortSolution": "সঠিক উত্তর: ঘ। Standard derivative।",
+              "chapter": "09",
+              "topic": "ত্রিকোণমিতিক অন্তরজ",
+              "difficulty": "Medium",
+              "probability": "Conceptual Trap"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-09-set-01-q15",
+              "question": "$\\frac{d}{dx}(\\cos x)$ কত? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 01-15 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+              "options": [
+                {
+                  "text": "$\\sin x$",
+                  "label": "ক"
+                },
+                {
+                  "text": "$-\\cos x$",
+                  "label": "খ"
+                },
+                {
+                  "text": "$\\cos x$",
+                  "label": "গ"
+                },
+                {
+                  "text": "$-\\sin x$",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "ঘ",
+              "shortSolution": "সঠিক উত্তর: ঘ। Standard derivative।",
+              "chapter": "09",
+              "topic": "ত্রিকোণমিতিক অন্তরজ",
+              "difficulty": "Hard",
+              "probability": "Mega Hot"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-09-set-01-q16",
+              "question": "$\\frac{d}{dx}(e^x)$ কত? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 01-16 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+              "options": [
+                {
+                  "text": "0",
+                  "label": "ক"
+                },
+                {
+                  "text": "$e^x$",
+                  "label": "খ"
+                },
+                {
+                  "text": "$\\ln x$",
+                  "label": "গ"
+                },
+                {
+                  "text": "$xe^{x-1}$",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "খ",
+              "shortSolution": "সঠিক উত্তর: খ। $e^x$ নিজেই derivative।",
+              "chapter": "09",
+              "topic": "সূচক অন্তরজ",
+              "difficulty": "Hard",
+              "probability": "Very Hot"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-09-set-01-q17",
+              "question": "$\\frac{d}{dx}(\\ln x)$ কত? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 01-17 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+              "options": [
+                {
+                  "text": "$x$",
+                  "label": "ক"
+                },
+                {
+                  "text": "$e^x$",
+                  "label": "খ"
+                },
+                {
+                  "text": "$\\frac1x$",
+                  "label": "গ"
+                },
+                {
+                  "text": "$\\ln x$",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "গ",
+              "shortSolution": "সঠিক উত্তর: গ। Standard derivative।",
+              "chapter": "09",
+              "topic": "লগারিদমিক অন্তরজ",
+              "difficulty": "Hard",
+              "probability": "Board Favourite"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-09-set-01-q18",
+              "question": "$y=x^2+5x$ হলে $dy/dx$ কত? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 01-18 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+              "options": [
+                {
+                  "text": "$2x+5$",
+                  "label": "ক"
+                },
+                {
+                  "text": "$2x$",
+                  "label": "খ"
+                },
+                {
+                  "text": "$5x$",
+                  "label": "গ"
+                },
+                {
+                  "text": "$x^2+{a}$",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "ক",
+              "shortSolution": "সঠিক উত্তর: ক। Term-wise differentiation।",
+              "chapter": "09",
+              "topic": "যোগের অন্তরজ",
+              "difficulty": "Hard",
+              "probability": "Conceptual Trap"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-09-set-01-q19",
+              "question": "$y=x^2$ বক্ররেখার $x=2$ বিন্দুতে ঢাল কত? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 01-19 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+              "options": [
+                {
+                  "text": "0",
+                  "label": "ক"
+                },
+                {
+                  "text": "4",
+                  "label": "খ"
+                },
+                {
+                  "text": "8",
+                  "label": "গ"
+                },
+                {
+                  "text": "2",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "খ",
+              "shortSolution": "সঠিক উত্তর: খ। $dy/dx=2x$, তাই $x=2$ হলে 4।",
+              "chapter": "09",
+              "topic": "স্পর্শকের ঢাল",
+              "difficulty": "Hard",
+              "probability": "Mega Hot"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-09-set-01-q20",
+              "question": "$f'(x)>0$ হলে ফাংশনটি কেমন? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 01-20 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+              "options": [
+                {
+                  "text": "অসজ্ঞায়িত",
+                  "label": "ক"
+                },
+                {
+                  "text": "ধ্রুবক",
+                  "label": "খ"
+                },
+                {
+                  "text": "বর্ধমান",
+                  "label": "গ"
+                },
+                {
+                  "text": "হ্রাসমান",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "গ",
+              "shortSolution": "সঠিক উত্তর: গ। Derivative positive হলে function increasing।",
+              "chapter": "09",
+              "topic": "বর্ধন-হ্রাস",
+              "difficulty": "Hard",
+              "probability": "Very Hot"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-09-set-01-q21",
+              "question": "$\\frac{d}{dx}x^3$ কত? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 01-21 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+              "options": [
+                {
+                  "text": "$x^3$",
+                  "label": "ক"
+                },
+                {
+                  "text": "$3x^2$",
+                  "label": "খ"
+                },
+                {
+                  "text": "$2x^3$",
+                  "label": "গ"
+                },
+                {
+                  "text": "$x^2$",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "খ",
+              "shortSolution": "সঠিক উত্তর: খ। Power rule।",
+              "chapter": "09",
+              "topic": "Power rule",
+              "difficulty": "Hard",
+              "probability": "Board Favourite"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-09-set-01-q22",
+              "question": "$\\frac{d}{dx}(4x)$ কত? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 01-22 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+              "options": [
+                {
+                  "text": "5",
+                  "label": "ক"
+                },
+                {
+                  "text": "4",
+                  "label": "খ"
+                },
+                {
+                  "text": "$4x$",
+                  "label": "গ"
+                },
+                {
+                  "text": "0",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "খ",
+              "shortSolution": "সঠিক উত্তর: খ। Linear term $ax$-এর derivative $a$।",
+              "chapter": "09",
+              "topic": "রৈখিক অন্তরজ",
+              "difficulty": "Board Standard",
+              "probability": "Conceptual Trap"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-09-set-01-q23",
+              "question": "$\\frac{d}{dx}(5)$ কত? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 01-23 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+              "options": [
+                {
+                  "text": "$x$",
+                  "label": "ক"
+                },
+                {
+                  "text": "1",
+                  "label": "খ"
+                },
+                {
+                  "text": "5",
+                  "label": "গ"
+                },
+                {
+                  "text": "0",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "ঘ",
+              "shortSolution": "সঠিক উত্তর: ঘ। Constant-এর derivative 0।",
+              "chapter": "09",
+              "topic": "ধ্রুবকের অন্তরজ",
+              "difficulty": "Board Standard",
+              "probability": "Mega Hot"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-09-set-01-q24",
+              "question": "$\\frac{d}{dx}(\\sin x)$ কত? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 01-24 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+              "options": [
+                {
+                  "text": "$-\\cos x$",
+                  "label": "ক"
+                },
+                {
+                  "text": "$\\cos x$",
+                  "label": "খ"
+                },
+                {
+                  "text": "$\\sin x$",
+                  "label": "গ"
+                },
+                {
+                  "text": "$-\\sin x$",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "খ",
+              "shortSolution": "সঠিক উত্তর: খ। Standard derivative।",
+              "chapter": "09",
+              "topic": "ত্রিকোণমিতিক অন্তরজ",
+              "difficulty": "Board Standard",
+              "probability": "Very Hot"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-09-set-01-q25",
+              "question": "$\\frac{d}{dx}(\\cos x)$ কত? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 01-25 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+              "options": [
+                {
+                  "text": "$-\\cos x$",
+                  "label": "ক"
+                },
+                {
+                  "text": "$\\cos x$",
+                  "label": "খ"
+                },
+                {
+                  "text": "$-\\sin x$",
+                  "label": "গ"
+                },
+                {
+                  "text": "$\\sin x$",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "গ",
+              "shortSolution": "সঠিক উত্তর: গ। Standard derivative।",
+              "chapter": "09",
+              "topic": "ত্রিকোণমিতিক অন্তরজ",
+              "difficulty": "Board Standard",
+              "probability": "Board Favourite"
+            }
+          ]
+        },
+        {
+          "id": "hsc-higher-math-1st-paper-chapter-09-set-02",
+          "title": "Chapter 09 Hyper Mega Hot Set 02",
+          "questions": [
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-09-set-02-q01",
+              "question": "$\\frac{d}{dx}x^4$ কত?",
+              "options": [
+                {
+                  "text": "$x^4$",
+                  "label": "ক"
+                },
+                {
+                  "text": "$x^3$",
+                  "label": "খ"
+                },
+                {
+                  "text": "$3x^4$",
+                  "label": "গ"
+                },
+                {
+                  "text": "$4x^3$",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "ঘ",
+              "shortSolution": "সঠিক উত্তর: ঘ। Power rule।",
+              "chapter": "09",
+              "topic": "Power rule",
+              "difficulty": "Easy",
+              "probability": "Conceptual Trap"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-09-set-02-q02",
+              "question": "$\\frac{d}{dx}(5x)$ কত?",
+              "options": [
+                {
+                  "text": "5",
+                  "label": "ক"
+                },
+                {
+                  "text": "0",
+                  "label": "খ"
+                },
+                {
+                  "text": "$5x$",
+                  "label": "গ"
+                },
+                {
+                  "text": "6",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "ক",
+              "shortSolution": "সঠিক উত্তর: ক। Linear term $ax$-এর derivative $a$।",
+              "chapter": "09",
+              "topic": "রৈখিক অন্তরজ",
+              "difficulty": "Easy",
+              "probability": "Mega Hot"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-09-set-02-q03",
+              "question": "$\\frac{d}{dx}(6)$ কত?",
+              "options": [
+                {
+                  "text": "$x$",
+                  "label": "ক"
+                },
+                {
+                  "text": "6",
+                  "label": "খ"
+                },
+                {
+                  "text": "0",
+                  "label": "গ"
+                },
+                {
+                  "text": "1",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "গ",
+              "shortSolution": "সঠিক উত্তর: গ। Constant-এর derivative 0।",
+              "chapter": "09",
+              "topic": "ধ্রুবকের অন্তরজ",
+              "difficulty": "Easy",
+              "probability": "Very Hot"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-09-set-02-q04",
+              "question": "$\\frac{d}{dx}(\\sin x)$ কত? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 02-04 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+              "options": [
+                {
+                  "text": "$-\\cos x$",
+                  "label": "ক"
+                },
+                {
+                  "text": "$\\cos x$",
+                  "label": "খ"
+                },
+                {
+                  "text": "$\\sin x$",
+                  "label": "গ"
+                },
+                {
+                  "text": "$-\\sin x$",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "খ",
+              "shortSolution": "সঠিক উত্তর: খ। Standard derivative।",
+              "chapter": "09",
+              "topic": "ত্রিকোণমিতিক অন্তরজ",
+              "difficulty": "Easy",
+              "probability": "Board Favourite"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-09-set-02-q05",
+              "question": "$\\frac{d}{dx}(\\cos x)$ কত? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 02-05 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+              "options": [
+                {
+                  "text": "$-\\sin x$",
+                  "label": "ক"
+                },
+                {
+                  "text": "$\\cos x$",
+                  "label": "খ"
+                },
+                {
+                  "text": "$\\sin x$",
+                  "label": "গ"
+                },
+                {
+                  "text": "$-\\cos x$",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "ক",
+              "shortSolution": "সঠিক উত্তর: ক। Standard derivative।",
+              "chapter": "09",
+              "topic": "ত্রিকোণমিতিক অন্তরজ",
+              "difficulty": "Easy",
+              "probability": "Conceptual Trap"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-09-set-02-q06",
+              "question": "$\\frac{d}{dx}(e^x)$ কত? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 02-06 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+              "options": [
+                {
+                  "text": "0",
+                  "label": "ক"
+                },
+                {
+                  "text": "$xe^{x-1}$",
+                  "label": "খ"
+                },
+                {
+                  "text": "$e^x$",
+                  "label": "গ"
+                },
+                {
+                  "text": "$\\ln x$",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "গ",
+              "shortSolution": "সঠিক উত্তর: গ। $e^x$ নিজেই derivative।",
+              "chapter": "09",
+              "topic": "সূচক অন্তরজ",
+              "difficulty": "Easy",
+              "probability": "Mega Hot"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-09-set-02-q07",
+              "question": "$\\frac{d}{dx}(\\ln x)$ কত? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 02-07 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+              "options": [
+                {
+                  "text": "$e^x$",
+                  "label": "ক"
+                },
+                {
+                  "text": "$x$",
+                  "label": "খ"
+                },
+                {
+                  "text": "$\\frac1x$",
+                  "label": "গ"
+                },
+                {
+                  "text": "$\\ln x$",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "গ",
+              "shortSolution": "সঠিক উত্তর: গ। Standard derivative।",
+              "chapter": "09",
+              "topic": "লগারিদমিক অন্তরজ",
+              "difficulty": "Easy",
+              "probability": "Very Hot"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-09-set-02-q08",
+              "question": "$y=x^2+6x$ হলে $dy/dx$ কত?",
+              "options": [
+                {
+                  "text": "$6x$",
+                  "label": "ক"
+                },
+                {
+                  "text": "$2x$",
+                  "label": "খ"
+                },
+                {
+                  "text": "$2x+6$",
+                  "label": "গ"
+                },
+                {
+                  "text": "$x^2+{a}$",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "গ",
+              "shortSolution": "সঠিক উত্তর: গ। Term-wise differentiation।",
+              "chapter": "09",
+              "topic": "যোগের অন্তরজ",
+              "difficulty": "Medium",
+              "probability": "Board Favourite"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-09-set-02-q09",
+              "question": "$y=x^2$ বক্ররেখার $x=2$ বিন্দুতে ঢাল কত? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 02-09 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+              "options": [
+                {
+                  "text": "4",
+                  "label": "ক"
+                },
+                {
+                  "text": "8",
+                  "label": "খ"
+                },
+                {
+                  "text": "2",
+                  "label": "গ"
+                },
+                {
+                  "text": "0",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "ক",
+              "shortSolution": "সঠিক উত্তর: ক। $dy/dx=2x$, তাই $x=2$ হলে 4।",
+              "chapter": "09",
+              "topic": "স্পর্শকের ঢাল",
+              "difficulty": "Medium",
+              "probability": "Conceptual Trap"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-09-set-02-q10",
+              "question": "$f'(x)>0$ হলে ফাংশনটি কেমন? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 02-10 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+              "options": [
+                {
+                  "text": "অসজ্ঞায়িত",
+                  "label": "ক"
+                },
+                {
+                  "text": "বর্ধমান",
+                  "label": "খ"
+                },
+                {
+                  "text": "হ্রাসমান",
+                  "label": "গ"
+                },
+                {
+                  "text": "ধ্রুবক",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "খ",
+              "shortSolution": "সঠিক উত্তর: খ। Derivative positive হলে function increasing।",
+              "chapter": "09",
+              "topic": "বর্ধন-হ্রাস",
+              "difficulty": "Medium",
+              "probability": "Mega Hot"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-09-set-02-q11",
+              "question": "$\\frac{d}{dx}x^4$ কত? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 02-11 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+              "options": [
+                {
+                  "text": "$4x^3$",
+                  "label": "ক"
+                },
+                {
+                  "text": "$x^3$",
+                  "label": "খ"
+                },
+                {
+                  "text": "$x^4$",
+                  "label": "গ"
+                },
+                {
+                  "text": "$3x^4$",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "ক",
+              "shortSolution": "সঠিক উত্তর: ক। Power rule।",
+              "chapter": "09",
+              "topic": "Power rule",
+              "difficulty": "Medium",
+              "probability": "Very Hot"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-09-set-02-q12",
+              "question": "$\\frac{d}{dx}(5x)$ কত? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 02-12 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+              "options": [
+                {
+                  "text": "0",
+                  "label": "ক"
+                },
+                {
+                  "text": "$5x$",
+                  "label": "খ"
+                },
+                {
+                  "text": "5",
+                  "label": "গ"
+                },
+                {
+                  "text": "6",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "গ",
+              "shortSolution": "সঠিক উত্তর: গ। Linear term $ax$-এর derivative $a$।",
+              "chapter": "09",
+              "topic": "রৈখিক অন্তরজ",
+              "difficulty": "Medium",
+              "probability": "Board Favourite"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-09-set-02-q13",
+              "question": "$\\frac{d}{dx}(6)$ কত? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 02-13 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+              "options": [
+                {
+                  "text": "6",
+                  "label": "ক"
+                },
+                {
+                  "text": "$x$",
+                  "label": "খ"
+                },
+                {
+                  "text": "0",
+                  "label": "গ"
+                },
+                {
+                  "text": "1",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "গ",
+              "shortSolution": "সঠিক উত্তর: গ। Constant-এর derivative 0।",
+              "chapter": "09",
+              "topic": "ধ্রুবকের অন্তরজ",
+              "difficulty": "Medium",
+              "probability": "Conceptual Trap"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-09-set-02-q14",
+              "question": "$\\frac{d}{dx}(\\sin x)$ কত? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 02-14 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+              "options": [
+                {
+                  "text": "$-\\cos x$",
+                  "label": "ক"
+                },
+                {
+                  "text": "$-\\sin x$",
+                  "label": "খ"
+                },
+                {
+                  "text": "$\\cos x$",
+                  "label": "গ"
+                },
+                {
+                  "text": "$\\sin x$",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "গ",
+              "shortSolution": "সঠিক উত্তর: গ। Standard derivative।",
+              "chapter": "09",
+              "topic": "ত্রিকোণমিতিক অন্তরজ",
+              "difficulty": "Medium",
+              "probability": "Mega Hot"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-09-set-02-q15",
+              "question": "$\\frac{d}{dx}(\\cos x)$ কত? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 02-15 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+              "options": [
+                {
+                  "text": "$-\\sin x$",
+                  "label": "ক"
+                },
+                {
+                  "text": "$\\cos x$",
+                  "label": "খ"
+                },
+                {
+                  "text": "$-\\cos x$",
+                  "label": "গ"
+                },
+                {
+                  "text": "$\\sin x$",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "ক",
+              "shortSolution": "সঠিক উত্তর: ক। Standard derivative।",
+              "chapter": "09",
+              "topic": "ত্রিকোণমিতিক অন্তরজ",
+              "difficulty": "Hard",
+              "probability": "Very Hot"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-09-set-02-q16",
+              "question": "$\\frac{d}{dx}(e^x)$ কত? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 02-16 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+              "options": [
+                {
+                  "text": "$xe^{x-1}$",
+                  "label": "ক"
+                },
+                {
+                  "text": "0",
+                  "label": "খ"
+                },
+                {
+                  "text": "$e^x$",
+                  "label": "গ"
+                },
+                {
+                  "text": "$\\ln x$",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "গ",
+              "shortSolution": "সঠিক উত্তর: গ। $e^x$ নিজেই derivative।",
+              "chapter": "09",
+              "topic": "সূচক অন্তরজ",
+              "difficulty": "Hard",
+              "probability": "Board Favourite"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-09-set-02-q17",
+              "question": "$\\frac{d}{dx}(\\ln x)$ কত? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 02-17 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+              "options": [
+                {
+                  "text": "$\\frac1x$",
+                  "label": "ক"
+                },
+                {
+                  "text": "$\\ln x$",
+                  "label": "খ"
+                },
+                {
+                  "text": "$e^x$",
+                  "label": "গ"
+                },
+                {
+                  "text": "$x$",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "ক",
+              "shortSolution": "সঠিক উত্তর: ক। Standard derivative।",
+              "chapter": "09",
+              "topic": "লগারিদমিক অন্তরজ",
+              "difficulty": "Hard",
+              "probability": "Conceptual Trap"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-09-set-02-q18",
+              "question": "$y=x^2+6x$ হলে $dy/dx$ কত? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 02-18 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+              "options": [
+                {
+                  "text": "$6x$",
+                  "label": "ক"
+                },
+                {
+                  "text": "$2x$",
+                  "label": "খ"
+                },
+                {
+                  "text": "$x^2+{a}$",
+                  "label": "গ"
+                },
+                {
+                  "text": "$2x+6$",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "ঘ",
+              "shortSolution": "সঠিক উত্তর: ঘ। Term-wise differentiation।",
+              "chapter": "09",
+              "topic": "যোগের অন্তরজ",
+              "difficulty": "Hard",
+              "probability": "Mega Hot"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-09-set-02-q19",
+              "question": "$y=x^2$ বক্ররেখার $x=2$ বিন্দুতে ঢাল কত? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 02-19 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+              "options": [
+                {
+                  "text": "4",
+                  "label": "ক"
+                },
+                {
+                  "text": "0",
+                  "label": "খ"
+                },
+                {
+                  "text": "8",
+                  "label": "গ"
+                },
+                {
+                  "text": "2",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "ক",
+              "shortSolution": "সঠিক উত্তর: ক। $dy/dx=2x$, তাই $x=2$ হলে 4।",
+              "chapter": "09",
+              "topic": "স্পর্শকের ঢাল",
+              "difficulty": "Hard",
+              "probability": "Very Hot"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-09-set-02-q20",
+              "question": "$f'(x)>0$ হলে ফাংশনটি কেমন? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 02-20 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+              "options": [
+                {
+                  "text": "ধ্রুবক",
+                  "label": "ক"
+                },
+                {
+                  "text": "অসজ্ঞায়িত",
+                  "label": "খ"
+                },
+                {
+                  "text": "বর্ধমান",
+                  "label": "গ"
+                },
+                {
+                  "text": "হ্রাসমান",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "গ",
+              "shortSolution": "সঠিক উত্তর: গ। Derivative positive হলে function increasing।",
+              "chapter": "09",
+              "topic": "বর্ধন-হ্রাস",
+              "difficulty": "Hard",
+              "probability": "Board Favourite"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-09-set-02-q21",
+              "question": "$\\frac{d}{dx}x^4$ কত? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 02-21 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+              "options": [
+                {
+                  "text": "$x^3$",
+                  "label": "ক"
+                },
+                {
+                  "text": "$x^4$",
+                  "label": "খ"
+                },
+                {
+                  "text": "$3x^4$",
+                  "label": "গ"
+                },
+                {
+                  "text": "$4x^3$",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "ঘ",
+              "shortSolution": "সঠিক উত্তর: ঘ। Power rule।",
+              "chapter": "09",
+              "topic": "Power rule",
+              "difficulty": "Hard",
+              "probability": "Conceptual Trap"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-09-set-02-q22",
+              "question": "$\\frac{d}{dx}(5x)$ কত? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 02-22 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+              "options": [
+                {
+                  "text": "6",
+                  "label": "ক"
+                },
+                {
+                  "text": "5",
+                  "label": "খ"
+                },
+                {
+                  "text": "0",
+                  "label": "গ"
+                },
+                {
+                  "text": "$5x$",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "খ",
+              "shortSolution": "সঠিক উত্তর: খ। Linear term $ax$-এর derivative $a$।",
+              "chapter": "09",
+              "topic": "রৈখিক অন্তরজ",
+              "difficulty": "Board Standard",
+              "probability": "Mega Hot"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-09-set-02-q23",
+              "question": "$\\frac{d}{dx}(6)$ কত? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 02-23 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+              "options": [
+                {
+                  "text": "1",
+                  "label": "ক"
+                },
+                {
+                  "text": "6",
+                  "label": "খ"
+                },
+                {
+                  "text": "$x$",
+                  "label": "গ"
+                },
+                {
+                  "text": "0",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "ঘ",
+              "shortSolution": "সঠিক উত্তর: ঘ। Constant-এর derivative 0।",
+              "chapter": "09",
+              "topic": "ধ্রুবকের অন্তরজ",
+              "difficulty": "Board Standard",
+              "probability": "Very Hot"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-09-set-02-q24",
+              "question": "$\\frac{d}{dx}(\\sin x)$ কত? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 02-24 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+              "options": [
+                {
+                  "text": "$-\\cos x$",
+                  "label": "ক"
+                },
+                {
+                  "text": "$\\cos x$",
+                  "label": "খ"
+                },
+                {
+                  "text": "$\\sin x$",
+                  "label": "গ"
+                },
+                {
+                  "text": "$-\\sin x$",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "খ",
+              "shortSolution": "সঠিক উত্তর: খ। Standard derivative।",
+              "chapter": "09",
+              "topic": "ত্রিকোণমিতিক অন্তরজ",
+              "difficulty": "Board Standard",
+              "probability": "Board Favourite"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-09-set-02-q25",
+              "question": "$\\frac{d}{dx}(\\cos x)$ কত? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 02-25 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+              "options": [
+                {
+                  "text": "$\\cos x$",
+                  "label": "ক"
+                },
+                {
+                  "text": "$\\sin x$",
+                  "label": "খ"
+                },
+                {
+                  "text": "$-\\cos x$",
+                  "label": "গ"
+                },
+                {
+                  "text": "$-\\sin x$",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "ঘ",
+              "shortSolution": "সঠিক উত্তর: ঘ। Standard derivative।",
+              "chapter": "09",
+              "topic": "ত্রিকোণমিতিক অন্তরজ",
+              "difficulty": "Board Standard",
+              "probability": "Conceptual Trap"
+            }
+          ]
+        },
+        {
+          "id": "hsc-higher-math-1st-paper-chapter-09-set-03",
+          "title": "Chapter 09 Hyper Mega Hot Set 03",
+          "questions": [
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-09-set-03-q01",
+              "question": "$\\frac{d}{dx}x^5$ কত?",
+              "options": [
+                {
+                  "text": "$x^4$",
+                  "label": "ক"
+                },
+                {
+                  "text": "$5x^4$",
+                  "label": "খ"
+                },
+                {
+                  "text": "$x^5$",
+                  "label": "গ"
+                },
+                {
+                  "text": "$4x^5$",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "খ",
+              "shortSolution": "সঠিক উত্তর: খ। Power rule।",
+              "chapter": "09",
+              "topic": "Power rule",
+              "difficulty": "Easy",
+              "probability": "Mega Hot"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-09-set-03-q02",
+              "question": "$\\frac{d}{dx}(6x)$ কত?",
+              "options": [
+                {
+                  "text": "6",
+                  "label": "ক"
+                },
+                {
+                  "text": "$6x$",
+                  "label": "খ"
+                },
+                {
+                  "text": "0",
+                  "label": "গ"
+                },
+                {
+                  "text": "7",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "ক",
+              "shortSolution": "সঠিক উত্তর: ক। Linear term $ax$-এর derivative $a$।",
+              "chapter": "09",
+              "topic": "রৈখিক অন্তরজ",
+              "difficulty": "Easy",
+              "probability": "Very Hot"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-09-set-03-q03",
+              "question": "$\\frac{d}{dx}(7)$ কত?",
+              "options": [
+                {
+                  "text": "$x$",
+                  "label": "ক"
+                },
+                {
+                  "text": "7",
+                  "label": "খ"
+                },
+                {
+                  "text": "1",
+                  "label": "গ"
+                },
+                {
+                  "text": "0",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "ঘ",
+              "shortSolution": "সঠিক উত্তর: ঘ। Constant-এর derivative 0।",
+              "chapter": "09",
+              "topic": "ধ্রুবকের অন্তরজ",
+              "difficulty": "Easy",
+              "probability": "Board Favourite"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-09-set-03-q04",
+              "question": "$\\frac{d}{dx}(\\sin x)$ কত? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 03-04 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+              "options": [
+                {
+                  "text": "$\\sin x$",
+                  "label": "ক"
+                },
+                {
+                  "text": "$\\cos x$",
+                  "label": "খ"
+                },
+                {
+                  "text": "$-\\sin x$",
+                  "label": "গ"
+                },
+                {
+                  "text": "$-\\cos x$",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "খ",
+              "shortSolution": "সঠিক উত্তর: খ। Standard derivative।",
+              "chapter": "09",
+              "topic": "ত্রিকোণমিতিক অন্তরজ",
+              "difficulty": "Easy",
+              "probability": "Conceptual Trap"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-09-set-03-q05",
+              "question": "$\\frac{d}{dx}(\\cos x)$ কত? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 03-05 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+              "options": [
+                {
+                  "text": "$\\cos x$",
+                  "label": "ক"
+                },
+                {
+                  "text": "$-\\sin x$",
+                  "label": "খ"
+                },
+                {
+                  "text": "$\\sin x$",
+                  "label": "গ"
+                },
+                {
+                  "text": "$-\\cos x$",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "খ",
+              "shortSolution": "সঠিক উত্তর: খ। Standard derivative।",
+              "chapter": "09",
+              "topic": "ত্রিকোণমিতিক অন্তরজ",
+              "difficulty": "Easy",
+              "probability": "Mega Hot"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-09-set-03-q06",
+              "question": "$\\frac{d}{dx}(e^x)$ কত? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 03-06 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+              "options": [
+                {
+                  "text": "$\\ln x$",
+                  "label": "ক"
+                },
+                {
+                  "text": "$e^x$",
+                  "label": "খ"
+                },
+                {
+                  "text": "0",
+                  "label": "গ"
+                },
+                {
+                  "text": "$xe^{x-1}$",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "খ",
+              "shortSolution": "সঠিক উত্তর: খ। $e^x$ নিজেই derivative।",
+              "chapter": "09",
+              "topic": "সূচক অন্তরজ",
+              "difficulty": "Easy",
+              "probability": "Very Hot"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-09-set-03-q07",
+              "question": "$\\frac{d}{dx}(\\ln x)$ কত? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 03-07 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+              "options": [
+                {
+                  "text": "$\\ln x$",
+                  "label": "ক"
+                },
+                {
+                  "text": "$\\frac1x$",
+                  "label": "খ"
+                },
+                {
+                  "text": "$e^x$",
+                  "label": "গ"
+                },
+                {
+                  "text": "$x$",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "খ",
+              "shortSolution": "সঠিক উত্তর: খ। Standard derivative।",
+              "chapter": "09",
+              "topic": "লগারিদমিক অন্তরজ",
+              "difficulty": "Easy",
+              "probability": "Board Favourite"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-09-set-03-q08",
+              "question": "$y=x^2+7x$ হলে $dy/dx$ কত?",
+              "options": [
+                {
+                  "text": "$7x$",
+                  "label": "ক"
+                },
+                {
+                  "text": "$2x$",
+                  "label": "খ"
+                },
+                {
+                  "text": "$x^2+{a}$",
+                  "label": "গ"
+                },
+                {
+                  "text": "$2x+7$",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "ঘ",
+              "shortSolution": "সঠিক উত্তর: ঘ। Term-wise differentiation।",
+              "chapter": "09",
+              "topic": "যোগের অন্তরজ",
+              "difficulty": "Medium",
+              "probability": "Conceptual Trap"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-09-set-03-q09",
+              "question": "$y=x^2$ বক্ররেখার $x=2$ বিন্দুতে ঢাল কত? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 03-09 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+              "options": [
+                {
+                  "text": "4",
+                  "label": "ক"
+                },
+                {
+                  "text": "8",
+                  "label": "খ"
+                },
+                {
+                  "text": "0",
+                  "label": "গ"
+                },
+                {
+                  "text": "2",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "ক",
+              "shortSolution": "সঠিক উত্তর: ক। $dy/dx=2x$, তাই $x=2$ হলে 4।",
+              "chapter": "09",
+              "topic": "স্পর্শকের ঢাল",
+              "difficulty": "Medium",
+              "probability": "Mega Hot"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-09-set-03-q10",
+              "question": "$f'(x)>0$ হলে ফাংশনটি কেমন? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 03-10 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+              "options": [
+                {
+                  "text": "অসজ্ঞায়িত",
+                  "label": "ক"
+                },
+                {
+                  "text": "বর্ধমান",
+                  "label": "খ"
+                },
+                {
+                  "text": "হ্রাসমান",
+                  "label": "গ"
+                },
+                {
+                  "text": "ধ্রুবক",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "খ",
+              "shortSolution": "সঠিক উত্তর: খ। Derivative positive হলে function increasing।",
+              "chapter": "09",
+              "topic": "বর্ধন-হ্রাস",
+              "difficulty": "Medium",
+              "probability": "Very Hot"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-09-set-03-q11",
+              "question": "$\\frac{d}{dx}x^5$ কত? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 03-11 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+              "options": [
+                {
+                  "text": "$5x^4$",
+                  "label": "ক"
+                },
+                {
+                  "text": "$x^5$",
+                  "label": "খ"
+                },
+                {
+                  "text": "$4x^5$",
+                  "label": "গ"
+                },
+                {
+                  "text": "$x^4$",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "ক",
+              "shortSolution": "সঠিক উত্তর: ক। Power rule।",
+              "chapter": "09",
+              "topic": "Power rule",
+              "difficulty": "Medium",
+              "probability": "Board Favourite"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-09-set-03-q12",
+              "question": "$\\frac{d}{dx}(6x)$ কত? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 03-12 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+              "options": [
+                {
+                  "text": "$6x$",
+                  "label": "ক"
+                },
+                {
+                  "text": "6",
+                  "label": "খ"
+                },
+                {
+                  "text": "0",
+                  "label": "গ"
+                },
+                {
+                  "text": "7",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "খ",
+              "shortSolution": "সঠিক উত্তর: খ। Linear term $ax$-এর derivative $a$।",
+              "chapter": "09",
+              "topic": "রৈখিক অন্তরজ",
+              "difficulty": "Medium",
+              "probability": "Conceptual Trap"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-09-set-03-q13",
+              "question": "$\\frac{d}{dx}(7)$ কত? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 03-13 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+              "options": [
+                {
+                  "text": "$x$",
+                  "label": "ক"
+                },
+                {
+                  "text": "0",
+                  "label": "খ"
+                },
+                {
+                  "text": "7",
+                  "label": "গ"
+                },
+                {
+                  "text": "1",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "খ",
+              "shortSolution": "সঠিক উত্তর: খ। Constant-এর derivative 0।",
+              "chapter": "09",
+              "topic": "ধ্রুবকের অন্তরজ",
+              "difficulty": "Medium",
+              "probability": "Mega Hot"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-09-set-03-q14",
+              "question": "$\\frac{d}{dx}(\\sin x)$ কত? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 03-14 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+              "options": [
+                {
+                  "text": "$-\\cos x$",
+                  "label": "ক"
+                },
+                {
+                  "text": "$-\\sin x$",
+                  "label": "খ"
+                },
+                {
+                  "text": "$\\cos x$",
+                  "label": "গ"
+                },
+                {
+                  "text": "$\\sin x$",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "গ",
+              "shortSolution": "সঠিক উত্তর: গ। Standard derivative।",
+              "chapter": "09",
+              "topic": "ত্রিকোণমিতিক অন্তরজ",
+              "difficulty": "Medium",
+              "probability": "Very Hot"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-09-set-03-q15",
+              "question": "$\\frac{d}{dx}(\\cos x)$ কত? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 03-15 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+              "options": [
+                {
+                  "text": "$\\sin x$",
+                  "label": "ক"
+                },
+                {
+                  "text": "$-\\sin x$",
+                  "label": "খ"
+                },
+                {
+                  "text": "$\\cos x$",
+                  "label": "গ"
+                },
+                {
+                  "text": "$-\\cos x$",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "খ",
+              "shortSolution": "সঠিক উত্তর: খ। Standard derivative।",
+              "chapter": "09",
+              "topic": "ত্রিকোণমিতিক অন্তরজ",
+              "difficulty": "Hard",
+              "probability": "Board Favourite"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-09-set-03-q16",
+              "question": "$\\frac{d}{dx}(e^x)$ কত? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 03-16 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+              "options": [
+                {
+                  "text": "0",
+                  "label": "ক"
+                },
+                {
+                  "text": "$\\ln x$",
+                  "label": "খ"
+                },
+                {
+                  "text": "$xe^{x-1}$",
+                  "label": "গ"
+                },
+                {
+                  "text": "$e^x$",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "ঘ",
+              "shortSolution": "সঠিক উত্তর: ঘ। $e^x$ নিজেই derivative।",
+              "chapter": "09",
+              "topic": "সূচক অন্তরজ",
+              "difficulty": "Hard",
+              "probability": "Conceptual Trap"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-09-set-03-q17",
+              "question": "$\\frac{d}{dx}(\\ln x)$ কত? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 03-17 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+              "options": [
+                {
+                  "text": "$\\ln x$",
+                  "label": "ক"
+                },
+                {
+                  "text": "$x$",
+                  "label": "খ"
+                },
+                {
+                  "text": "$e^x$",
+                  "label": "গ"
+                },
+                {
+                  "text": "$\\frac1x$",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "ঘ",
+              "shortSolution": "সঠিক উত্তর: ঘ। Standard derivative।",
+              "chapter": "09",
+              "topic": "লগারিদমিক অন্তরজ",
+              "difficulty": "Hard",
+              "probability": "Mega Hot"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-09-set-03-q18",
+              "question": "$y=x^2+7x$ হলে $dy/dx$ কত? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 03-18 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+              "options": [
+                {
+                  "text": "$2x+7$",
+                  "label": "ক"
+                },
+                {
+                  "text": "$x^2+{a}$",
+                  "label": "খ"
+                },
+                {
+                  "text": "$2x$",
+                  "label": "গ"
+                },
+                {
+                  "text": "$7x$",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "ক",
+              "shortSolution": "সঠিক উত্তর: ক। Term-wise differentiation।",
+              "chapter": "09",
+              "topic": "যোগের অন্তরজ",
+              "difficulty": "Hard",
+              "probability": "Very Hot"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-09-set-03-q19",
+              "question": "$y=x^2$ বক্ররেখার $x=2$ বিন্দুতে ঢাল কত? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 03-19 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+              "options": [
+                {
+                  "text": "2",
+                  "label": "ক"
+                },
+                {
+                  "text": "0",
+                  "label": "খ"
+                },
+                {
+                  "text": "4",
+                  "label": "গ"
+                },
+                {
+                  "text": "8",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "গ",
+              "shortSolution": "সঠিক উত্তর: গ। $dy/dx=2x$, তাই $x=2$ হলে 4।",
+              "chapter": "09",
+              "topic": "স্পর্শকের ঢাল",
+              "difficulty": "Hard",
+              "probability": "Board Favourite"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-09-set-03-q20",
+              "question": "$f'(x)>0$ হলে ফাংশনটি কেমন? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 03-20 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+              "options": [
+                {
+                  "text": "বর্ধমান",
+                  "label": "ক"
+                },
+                {
+                  "text": "ধ্রুবক",
+                  "label": "খ"
+                },
+                {
+                  "text": "অসজ্ঞায়িত",
+                  "label": "গ"
+                },
+                {
+                  "text": "হ্রাসমান",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "ক",
+              "shortSolution": "সঠিক উত্তর: ক। Derivative positive হলে function increasing।",
+              "chapter": "09",
+              "topic": "বর্ধন-হ্রাস",
+              "difficulty": "Hard",
+              "probability": "Conceptual Trap"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-09-set-03-q21",
+              "question": "$\\frac{d}{dx}x^5$ কত? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 03-21 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+              "options": [
+                {
+                  "text": "$x^4$",
+                  "label": "ক"
+                },
+                {
+                  "text": "$4x^5$",
+                  "label": "খ"
+                },
+                {
+                  "text": "$x^5$",
+                  "label": "গ"
+                },
+                {
+                  "text": "$5x^4$",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "ঘ",
+              "shortSolution": "সঠিক উত্তর: ঘ। Power rule।",
+              "chapter": "09",
+              "topic": "Power rule",
+              "difficulty": "Hard",
+              "probability": "Mega Hot"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-09-set-03-q22",
+              "question": "$\\frac{d}{dx}(6x)$ কত? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 03-22 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+              "options": [
+                {
+                  "text": "0",
+                  "label": "ক"
+                },
+                {
+                  "text": "6",
+                  "label": "খ"
+                },
+                {
+                  "text": "$6x$",
+                  "label": "গ"
+                },
+                {
+                  "text": "7",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "খ",
+              "shortSolution": "সঠিক উত্তর: খ। Linear term $ax$-এর derivative $a$।",
+              "chapter": "09",
+              "topic": "রৈখিক অন্তরজ",
+              "difficulty": "Board Standard",
+              "probability": "Very Hot"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-09-set-03-q23",
+              "question": "$\\frac{d}{dx}(7)$ কত? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 03-23 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+              "options": [
+                {
+                  "text": "0",
+                  "label": "ক"
+                },
+                {
+                  "text": "7",
+                  "label": "খ"
+                },
+                {
+                  "text": "$x$",
+                  "label": "গ"
+                },
+                {
+                  "text": "1",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "ক",
+              "shortSolution": "সঠিক উত্তর: ক। Constant-এর derivative 0।",
+              "chapter": "09",
+              "topic": "ধ্রুবকের অন্তরজ",
+              "difficulty": "Board Standard",
+              "probability": "Board Favourite"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-09-set-03-q24",
+              "question": "$\\frac{d}{dx}(\\sin x)$ কত? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 03-24 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+              "options": [
+                {
+                  "text": "$-\\cos x$",
+                  "label": "ক"
+                },
+                {
+                  "text": "$-\\sin x$",
+                  "label": "খ"
+                },
+                {
+                  "text": "$\\sin x$",
+                  "label": "গ"
+                },
+                {
+                  "text": "$\\cos x$",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "ঘ",
+              "shortSolution": "সঠিক উত্তর: ঘ। Standard derivative।",
+              "chapter": "09",
+              "topic": "ত্রিকোণমিতিক অন্তরজ",
+              "difficulty": "Board Standard",
+              "probability": "Conceptual Trap"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-09-set-03-q25",
+              "question": "$\\frac{d}{dx}(\\cos x)$ কত? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 03-25 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+              "options": [
+                {
+                  "text": "$-\\cos x$",
+                  "label": "ক"
+                },
+                {
+                  "text": "$\\cos x$",
+                  "label": "খ"
+                },
+                {
+                  "text": "$-\\sin x$",
+                  "label": "গ"
+                },
+                {
+                  "text": "$\\sin x$",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "গ",
+              "shortSolution": "সঠিক উত্তর: গ। Standard derivative।",
+              "chapter": "09",
+              "topic": "ত্রিকোণমিতিক অন্তরজ",
+              "difficulty": "Board Standard",
+              "probability": "Mega Hot"
+            }
+          ]
+        },
+        {
+          "id": "hsc-higher-math-1st-paper-chapter-09-set-04",
+          "title": "Chapter 09 Hyper Mega Hot Set 04",
+          "questions": [
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-09-set-04-q01",
+              "question": "$\\frac{d}{dx}x^6$ কত?",
+              "options": [
+                {
+                  "text": "$6x^5$",
+                  "label": "ক"
+                },
+                {
+                  "text": "$x^5$",
+                  "label": "খ"
+                },
+                {
+                  "text": "$x^6$",
+                  "label": "গ"
+                },
+                {
+                  "text": "$5x^6$",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "ক",
+              "shortSolution": "সঠিক উত্তর: ক। Power rule।",
+              "chapter": "09",
+              "topic": "Power rule",
+              "difficulty": "Easy",
+              "probability": "Very Hot"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-09-set-04-q02",
+              "question": "$\\frac{d}{dx}(7x)$ কত?",
+              "options": [
+                {
+                  "text": "0",
+                  "label": "ক"
+                },
+                {
+                  "text": "$7x$",
+                  "label": "খ"
+                },
+                {
+                  "text": "8",
+                  "label": "গ"
+                },
+                {
+                  "text": "7",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "ঘ",
+              "shortSolution": "সঠিক উত্তর: ঘ। Linear term $ax$-এর derivative $a$।",
+              "chapter": "09",
+              "topic": "রৈখিক অন্তরজ",
+              "difficulty": "Easy",
+              "probability": "Board Favourite"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-09-set-04-q03",
+              "question": "$\\frac{d}{dx}(8)$ কত?",
+              "options": [
+                {
+                  "text": "0",
+                  "label": "ক"
+                },
+                {
+                  "text": "$x$",
+                  "label": "খ"
+                },
+                {
+                  "text": "8",
+                  "label": "গ"
+                },
+                {
+                  "text": "1",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "ক",
+              "shortSolution": "সঠিক উত্তর: ক। Constant-এর derivative 0।",
+              "chapter": "09",
+              "topic": "ধ্রুবকের অন্তরজ",
+              "difficulty": "Easy",
+              "probability": "Conceptual Trap"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-09-set-04-q04",
+              "question": "$\\frac{d}{dx}(\\sin x)$ কত? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 04-04 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+              "options": [
+                {
+                  "text": "$-\\cos x$",
+                  "label": "ক"
+                },
+                {
+                  "text": "$\\cos x$",
+                  "label": "খ"
+                },
+                {
+                  "text": "$\\sin x$",
+                  "label": "গ"
+                },
+                {
+                  "text": "$-\\sin x$",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "খ",
+              "shortSolution": "সঠিক উত্তর: খ। Standard derivative।",
+              "chapter": "09",
+              "topic": "ত্রিকোণমিতিক অন্তরজ",
+              "difficulty": "Easy",
+              "probability": "Mega Hot"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-09-set-04-q05",
+              "question": "$\\frac{d}{dx}(\\cos x)$ কত? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 04-05 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+              "options": [
+                {
+                  "text": "$\\cos x$",
+                  "label": "ক"
+                },
+                {
+                  "text": "$-\\sin x$",
+                  "label": "খ"
+                },
+                {
+                  "text": "$-\\cos x$",
+                  "label": "গ"
+                },
+                {
+                  "text": "$\\sin x$",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "খ",
+              "shortSolution": "সঠিক উত্তর: খ। Standard derivative।",
+              "chapter": "09",
+              "topic": "ত্রিকোণমিতিক অন্তরজ",
+              "difficulty": "Easy",
+              "probability": "Very Hot"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-09-set-04-q06",
+              "question": "$\\frac{d}{dx}(e^x)$ কত? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 04-06 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+              "options": [
+                {
+                  "text": "$e^x$",
+                  "label": "ক"
+                },
+                {
+                  "text": "0",
+                  "label": "খ"
+                },
+                {
+                  "text": "$xe^{x-1}$",
+                  "label": "গ"
+                },
+                {
+                  "text": "$\\ln x$",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "ক",
+              "shortSolution": "সঠিক উত্তর: ক। $e^x$ নিজেই derivative।",
+              "chapter": "09",
+              "topic": "সূচক অন্তরজ",
+              "difficulty": "Easy",
+              "probability": "Board Favourite"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-09-set-04-q07",
+              "question": "$\\frac{d}{dx}(\\ln x)$ কত? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 04-07 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+              "options": [
+                {
+                  "text": "$\\frac1x$",
+                  "label": "ক"
+                },
+                {
+                  "text": "$x$",
+                  "label": "খ"
+                },
+                {
+                  "text": "$e^x$",
+                  "label": "গ"
+                },
+                {
+                  "text": "$\\ln x$",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "ক",
+              "shortSolution": "সঠিক উত্তর: ক। Standard derivative।",
+              "chapter": "09",
+              "topic": "লগারিদমিক অন্তরজ",
+              "difficulty": "Easy",
+              "probability": "Conceptual Trap"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-09-set-04-q08",
+              "question": "$y=x^2+8x$ হলে $dy/dx$ কত?",
+              "options": [
+                {
+                  "text": "$2x+8$",
+                  "label": "ক"
+                },
+                {
+                  "text": "$8x$",
+                  "label": "খ"
+                },
+                {
+                  "text": "$2x$",
+                  "label": "গ"
+                },
+                {
+                  "text": "$x^2+{a}$",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "ক",
+              "shortSolution": "সঠিক উত্তর: ক। Term-wise differentiation।",
+              "chapter": "09",
+              "topic": "যোগের অন্তরজ",
+              "difficulty": "Medium",
+              "probability": "Mega Hot"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-09-set-04-q09",
+              "question": "$y=x^2$ বক্ররেখার $x=2$ বিন্দুতে ঢাল কত? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 04-09 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+              "options": [
+                {
+                  "text": "4",
+                  "label": "ক"
+                },
+                {
+                  "text": "0",
+                  "label": "খ"
+                },
+                {
+                  "text": "8",
+                  "label": "গ"
+                },
+                {
+                  "text": "2",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "ক",
+              "shortSolution": "সঠিক উত্তর: ক। $dy/dx=2x$, তাই $x=2$ হলে 4।",
+              "chapter": "09",
+              "topic": "স্পর্শকের ঢাল",
+              "difficulty": "Medium",
+              "probability": "Very Hot"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-09-set-04-q10",
+              "question": "$f'(x)>0$ হলে ফাংশনটি কেমন? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 04-10 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+              "options": [
+                {
+                  "text": "হ্রাসমান",
+                  "label": "ক"
+                },
+                {
+                  "text": "বর্ধমান",
+                  "label": "খ"
+                },
+                {
+                  "text": "ধ্রুবক",
+                  "label": "গ"
+                },
+                {
+                  "text": "অসজ্ঞায়িত",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "খ",
+              "shortSolution": "সঠিক উত্তর: খ। Derivative positive হলে function increasing।",
+              "chapter": "09",
+              "topic": "বর্ধন-হ্রাস",
+              "difficulty": "Medium",
+              "probability": "Board Favourite"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-09-set-04-q11",
+              "question": "$\\frac{d}{dx}x^6$ কত? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 04-11 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+              "options": [
+                {
+                  "text": "$x^5$",
+                  "label": "ক"
+                },
+                {
+                  "text": "$6x^5$",
+                  "label": "খ"
+                },
+                {
+                  "text": "$5x^6$",
+                  "label": "গ"
+                },
+                {
+                  "text": "$x^6$",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "খ",
+              "shortSolution": "সঠিক উত্তর: খ। Power rule।",
+              "chapter": "09",
+              "topic": "Power rule",
+              "difficulty": "Medium",
+              "probability": "Conceptual Trap"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-09-set-04-q12",
+              "question": "$\\frac{d}{dx}(7x)$ কত? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 04-12 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+              "options": [
+                {
+                  "text": "8",
+                  "label": "ক"
+                },
+                {
+                  "text": "0",
+                  "label": "খ"
+                },
+                {
+                  "text": "7",
+                  "label": "গ"
+                },
+                {
+                  "text": "$7x$",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "গ",
+              "shortSolution": "সঠিক উত্তর: গ। Linear term $ax$-এর derivative $a$।",
+              "chapter": "09",
+              "topic": "রৈখিক অন্তরজ",
+              "difficulty": "Medium",
+              "probability": "Mega Hot"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-09-set-04-q13",
+              "question": "$\\frac{d}{dx}(8)$ কত? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 04-13 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+              "options": [
+                {
+                  "text": "8",
+                  "label": "ক"
+                },
+                {
+                  "text": "$x$",
+                  "label": "খ"
+                },
+                {
+                  "text": "0",
+                  "label": "গ"
+                },
+                {
+                  "text": "1",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "গ",
+              "shortSolution": "সঠিক উত্তর: গ। Constant-এর derivative 0।",
+              "chapter": "09",
+              "topic": "ধ্রুবকের অন্তরজ",
+              "difficulty": "Medium",
+              "probability": "Very Hot"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-09-set-04-q14",
+              "question": "$\\frac{d}{dx}(\\sin x)$ কত? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 04-14 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+              "options": [
+                {
+                  "text": "$-\\sin x$",
+                  "label": "ক"
+                },
+                {
+                  "text": "$\\sin x$",
+                  "label": "খ"
+                },
+                {
+                  "text": "$\\cos x$",
+                  "label": "গ"
+                },
+                {
+                  "text": "$-\\cos x$",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "গ",
+              "shortSolution": "সঠিক উত্তর: গ। Standard derivative।",
+              "chapter": "09",
+              "topic": "ত্রিকোণমিতিক অন্তরজ",
+              "difficulty": "Medium",
+              "probability": "Board Favourite"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-09-set-04-q15",
+              "question": "$\\frac{d}{dx}(\\cos x)$ কত? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 04-15 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+              "options": [
+                {
+                  "text": "$-\\sin x$",
+                  "label": "ক"
+                },
+                {
+                  "text": "$\\sin x$",
+                  "label": "খ"
+                },
+                {
+                  "text": "$-\\cos x$",
+                  "label": "গ"
+                },
+                {
+                  "text": "$\\cos x$",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "ক",
+              "shortSolution": "সঠিক উত্তর: ক। Standard derivative।",
+              "chapter": "09",
+              "topic": "ত্রিকোণমিতিক অন্তরজ",
+              "difficulty": "Hard",
+              "probability": "Conceptual Trap"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-09-set-04-q16",
+              "question": "$\\frac{d}{dx}(e^x)$ কত? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 04-16 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+              "options": [
+                {
+                  "text": "$xe^{x-1}$",
+                  "label": "ক"
+                },
+                {
+                  "text": "$\\ln x$",
+                  "label": "খ"
+                },
+                {
+                  "text": "$e^x$",
+                  "label": "গ"
+                },
+                {
+                  "text": "0",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "গ",
+              "shortSolution": "সঠিক উত্তর: গ। $e^x$ নিজেই derivative।",
+              "chapter": "09",
+              "topic": "সূচক অন্তরজ",
+              "difficulty": "Hard",
+              "probability": "Mega Hot"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-09-set-04-q17",
+              "question": "$\\frac{d}{dx}(\\ln x)$ কত? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 04-17 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+              "options": [
+                {
+                  "text": "$e^x$",
+                  "label": "ক"
+                },
+                {
+                  "text": "$x$",
+                  "label": "খ"
+                },
+                {
+                  "text": "$\\frac1x$",
+                  "label": "গ"
+                },
+                {
+                  "text": "$\\ln x$",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "গ",
+              "shortSolution": "সঠিক উত্তর: গ। Standard derivative।",
+              "chapter": "09",
+              "topic": "লগারিদমিক অন্তরজ",
+              "difficulty": "Hard",
+              "probability": "Very Hot"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-09-set-04-q18",
+              "question": "$y=x^2+8x$ হলে $dy/dx$ কত? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 04-18 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+              "options": [
+                {
+                  "text": "$x^2+{a}$",
+                  "label": "ক"
+                },
+                {
+                  "text": "$8x$",
+                  "label": "খ"
+                },
+                {
+                  "text": "$2x$",
+                  "label": "গ"
+                },
+                {
+                  "text": "$2x+8$",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "ঘ",
+              "shortSolution": "সঠিক উত্তর: ঘ। Term-wise differentiation।",
+              "chapter": "09",
+              "topic": "যোগের অন্তরজ",
+              "difficulty": "Hard",
+              "probability": "Board Favourite"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-09-set-04-q19",
+              "question": "$y=x^2$ বক্ররেখার $x=2$ বিন্দুতে ঢাল কত? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 04-19 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+              "options": [
+                {
+                  "text": "0",
+                  "label": "ক"
+                },
+                {
+                  "text": "2",
+                  "label": "খ"
+                },
+                {
+                  "text": "4",
+                  "label": "গ"
+                },
+                {
+                  "text": "8",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "গ",
+              "shortSolution": "সঠিক উত্তর: গ। $dy/dx=2x$, তাই $x=2$ হলে 4।",
+              "chapter": "09",
+              "topic": "স্পর্শকের ঢাল",
+              "difficulty": "Hard",
+              "probability": "Conceptual Trap"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-09-set-04-q20",
+              "question": "$f'(x)>0$ হলে ফাংশনটি কেমন? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 04-20 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+              "options": [
+                {
+                  "text": "অসজ্ঞায়িত",
+                  "label": "ক"
+                },
+                {
+                  "text": "ধ্রুবক",
+                  "label": "খ"
+                },
+                {
+                  "text": "বর্ধমান",
+                  "label": "গ"
+                },
+                {
+                  "text": "হ্রাসমান",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "গ",
+              "shortSolution": "সঠিক উত্তর: গ। Derivative positive হলে function increasing।",
+              "chapter": "09",
+              "topic": "বর্ধন-হ্রাস",
+              "difficulty": "Hard",
+              "probability": "Mega Hot"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-09-set-04-q21",
+              "question": "$\\frac{d}{dx}x^6$ কত? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 04-21 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+              "options": [
+                {
+                  "text": "$5x^6$",
+                  "label": "ক"
+                },
+                {
+                  "text": "$6x^5$",
+                  "label": "খ"
+                },
+                {
+                  "text": "$x^5$",
+                  "label": "গ"
+                },
+                {
+                  "text": "$x^6$",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "খ",
+              "shortSolution": "সঠিক উত্তর: খ। Power rule।",
+              "chapter": "09",
+              "topic": "Power rule",
+              "difficulty": "Hard",
+              "probability": "Very Hot"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-09-set-04-q22",
+              "question": "$\\frac{d}{dx}(7x)$ কত? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 04-22 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+              "options": [
+                {
+                  "text": "8",
+                  "label": "ক"
+                },
+                {
+                  "text": "7",
+                  "label": "খ"
+                },
+                {
+                  "text": "0",
+                  "label": "গ"
+                },
+                {
+                  "text": "$7x$",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "খ",
+              "shortSolution": "সঠিক উত্তর: খ। Linear term $ax$-এর derivative $a$।",
+              "chapter": "09",
+              "topic": "রৈখিক অন্তরজ",
+              "difficulty": "Board Standard",
+              "probability": "Board Favourite"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-09-set-04-q23",
+              "question": "$\\frac{d}{dx}(8)$ কত? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 04-23 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+              "options": [
+                {
+                  "text": "8",
+                  "label": "ক"
+                },
+                {
+                  "text": "1",
+                  "label": "খ"
+                },
+                {
+                  "text": "$x$",
+                  "label": "গ"
+                },
+                {
+                  "text": "0",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "ঘ",
+              "shortSolution": "সঠিক উত্তর: ঘ। Constant-এর derivative 0।",
+              "chapter": "09",
+              "topic": "ধ্রুবকের অন্তরজ",
+              "difficulty": "Board Standard",
+              "probability": "Conceptual Trap"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-09-set-04-q24",
+              "question": "$\\frac{d}{dx}(\\sin x)$ কত? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 04-24 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+              "options": [
+                {
+                  "text": "$-\\sin x$",
+                  "label": "ক"
+                },
+                {
+                  "text": "$-\\cos x$",
+                  "label": "খ"
+                },
+                {
+                  "text": "$\\sin x$",
+                  "label": "গ"
+                },
+                {
+                  "text": "$\\cos x$",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "ঘ",
+              "shortSolution": "সঠিক উত্তর: ঘ। Standard derivative।",
+              "chapter": "09",
+              "topic": "ত্রিকোণমিতিক অন্তরজ",
+              "difficulty": "Board Standard",
+              "probability": "Mega Hot"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-09-set-04-q25",
+              "question": "$\\frac{d}{dx}(\\cos x)$ কত? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 04-25 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+              "options": [
+                {
+                  "text": "$-\\cos x$",
+                  "label": "ক"
+                },
+                {
+                  "text": "$\\sin x$",
+                  "label": "খ"
+                },
+                {
+                  "text": "$-\\sin x$",
+                  "label": "গ"
+                },
+                {
+                  "text": "$\\cos x$",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "গ",
+              "shortSolution": "সঠিক উত্তর: গ। Standard derivative।",
+              "chapter": "09",
+              "topic": "ত্রিকোণমিতিক অন্তরজ",
+              "difficulty": "Board Standard",
+              "probability": "Very Hot"
+            }
+          ]
+        },
+        {
+          "id": "hsc-higher-math-1st-paper-chapter-09-set-05",
+          "title": "Chapter 09 Hyper Mega Hot Set 05",
+          "questions": [
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-09-set-05-q01",
+              "question": "$\\frac{d}{dx}x^7$ কত?",
+              "options": [
+                {
+                  "text": "$x^6$",
+                  "label": "ক"
+                },
+                {
+                  "text": "$6x^7$",
+                  "label": "খ"
+                },
+                {
+                  "text": "$7x^6$",
+                  "label": "গ"
+                },
+                {
+                  "text": "$x^7$",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "গ",
+              "shortSolution": "সঠিক উত্তর: গ। Power rule।",
+              "chapter": "09",
+              "topic": "Power rule",
+              "difficulty": "Easy",
+              "probability": "Board Favourite"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-09-set-05-q02",
+              "question": "$\\frac{d}{dx}(8x)$ কত?",
+              "options": [
+                {
+                  "text": "8",
+                  "label": "ক"
+                },
+                {
+                  "text": "0",
+                  "label": "খ"
+                },
+                {
+                  "text": "$8x$",
+                  "label": "গ"
+                },
+                {
+                  "text": "9",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "ক",
+              "shortSolution": "সঠিক উত্তর: ক। Linear term $ax$-এর derivative $a$।",
+              "chapter": "09",
+              "topic": "রৈখিক অন্তরজ",
+              "difficulty": "Easy",
+              "probability": "Conceptual Trap"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-09-set-05-q03",
+              "question": "$\\frac{d}{dx}(9)$ কত?",
+              "options": [
+                {
+                  "text": "$x$",
+                  "label": "ক"
+                },
+                {
+                  "text": "0",
+                  "label": "খ"
+                },
+                {
+                  "text": "9",
+                  "label": "গ"
+                },
+                {
+                  "text": "1",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "খ",
+              "shortSolution": "সঠিক উত্তর: খ। Constant-এর derivative 0।",
+              "chapter": "09",
+              "topic": "ধ্রুবকের অন্তরজ",
+              "difficulty": "Easy",
+              "probability": "Mega Hot"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-09-set-05-q04",
+              "question": "$\\frac{d}{dx}(\\sin x)$ কত? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 05-04 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+              "options": [
+                {
+                  "text": "$-\\sin x$",
+                  "label": "ক"
+                },
+                {
+                  "text": "$\\sin x$",
+                  "label": "খ"
+                },
+                {
+                  "text": "$\\cos x$",
+                  "label": "গ"
+                },
+                {
+                  "text": "$-\\cos x$",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "গ",
+              "shortSolution": "সঠিক উত্তর: গ। Standard derivative।",
+              "chapter": "09",
+              "topic": "ত্রিকোণমিতিক অন্তরজ",
+              "difficulty": "Easy",
+              "probability": "Very Hot"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-09-set-05-q05",
+              "question": "$\\frac{d}{dx}(\\cos x)$ কত? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 05-05 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+              "options": [
+                {
+                  "text": "$-\\cos x$",
+                  "label": "ক"
+                },
+                {
+                  "text": "$\\cos x$",
+                  "label": "খ"
+                },
+                {
+                  "text": "$-\\sin x$",
+                  "label": "গ"
+                },
+                {
+                  "text": "$\\sin x$",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "গ",
+              "shortSolution": "সঠিক উত্তর: গ। Standard derivative।",
+              "chapter": "09",
+              "topic": "ত্রিকোণমিতিক অন্তরজ",
+              "difficulty": "Easy",
+              "probability": "Board Favourite"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-09-set-05-q06",
+              "question": "$\\frac{d}{dx}(e^x)$ কত? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 05-06 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+              "options": [
+                {
+                  "text": "0",
+                  "label": "ক"
+                },
+                {
+                  "text": "$e^x$",
+                  "label": "খ"
+                },
+                {
+                  "text": "$xe^{x-1}$",
+                  "label": "গ"
+                },
+                {
+                  "text": "$\\ln x$",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "খ",
+              "shortSolution": "সঠিক উত্তর: খ। $e^x$ নিজেই derivative।",
+              "chapter": "09",
+              "topic": "সূচক অন্তরজ",
+              "difficulty": "Easy",
+              "probability": "Conceptual Trap"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-09-set-05-q07",
+              "question": "$\\frac{d}{dx}(\\ln x)$ কত? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 05-07 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+              "options": [
+                {
+                  "text": "$\\ln x$",
+                  "label": "ক"
+                },
+                {
+                  "text": "$\\frac1x$",
+                  "label": "খ"
+                },
+                {
+                  "text": "$e^x$",
+                  "label": "গ"
+                },
+                {
+                  "text": "$x$",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "খ",
+              "shortSolution": "সঠিক উত্তর: খ। Standard derivative।",
+              "chapter": "09",
+              "topic": "লগারিদমিক অন্তরজ",
+              "difficulty": "Easy",
+              "probability": "Mega Hot"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-09-set-05-q08",
+              "question": "$y=x^2+9x$ হলে $dy/dx$ কত?",
+              "options": [
+                {
+                  "text": "$2x+9$",
+                  "label": "ক"
+                },
+                {
+                  "text": "$x^2+{a}$",
+                  "label": "খ"
+                },
+                {
+                  "text": "$2x$",
+                  "label": "গ"
+                },
+                {
+                  "text": "$9x$",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "ক",
+              "shortSolution": "সঠিক উত্তর: ক। Term-wise differentiation।",
+              "chapter": "09",
+              "topic": "যোগের অন্তরজ",
+              "difficulty": "Medium",
+              "probability": "Very Hot"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-09-set-05-q09",
+              "question": "$y=x^2$ বক্ররেখার $x=2$ বিন্দুতে ঢাল কত? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 05-09 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+              "options": [
+                {
+                  "text": "8",
+                  "label": "ক"
+                },
+                {
+                  "text": "0",
+                  "label": "খ"
+                },
+                {
+                  "text": "2",
+                  "label": "গ"
+                },
+                {
+                  "text": "4",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "ঘ",
+              "shortSolution": "সঠিক উত্তর: ঘ। $dy/dx=2x$, তাই $x=2$ হলে 4।",
+              "chapter": "09",
+              "topic": "স্পর্শকের ঢাল",
+              "difficulty": "Medium",
+              "probability": "Board Favourite"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-09-set-05-q10",
+              "question": "$f'(x)>0$ হলে ফাংশনটি কেমন? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 05-10 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+              "options": [
+                {
+                  "text": "হ্রাসমান",
+                  "label": "ক"
+                },
+                {
+                  "text": "ধ্রুবক",
+                  "label": "খ"
+                },
+                {
+                  "text": "অসজ্ঞায়িত",
+                  "label": "গ"
+                },
+                {
+                  "text": "বর্ধমান",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "ঘ",
+              "shortSolution": "সঠিক উত্তর: ঘ। Derivative positive হলে function increasing।",
+              "chapter": "09",
+              "topic": "বর্ধন-হ্রাস",
+              "difficulty": "Medium",
+              "probability": "Conceptual Trap"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-09-set-05-q11",
+              "question": "$\\frac{d}{dx}x^7$ কত? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 05-11 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+              "options": [
+                {
+                  "text": "$x^6$",
+                  "label": "ক"
+                },
+                {
+                  "text": "$x^7$",
+                  "label": "খ"
+                },
+                {
+                  "text": "$7x^6$",
+                  "label": "গ"
+                },
+                {
+                  "text": "$6x^7$",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "গ",
+              "shortSolution": "সঠিক উত্তর: গ। Power rule।",
+              "chapter": "09",
+              "topic": "Power rule",
+              "difficulty": "Medium",
+              "probability": "Mega Hot"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-09-set-05-q12",
+              "question": "$\\frac{d}{dx}(8x)$ কত? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 05-12 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+              "options": [
+                {
+                  "text": "0",
+                  "label": "ক"
+                },
+                {
+                  "text": "9",
+                  "label": "খ"
+                },
+                {
+                  "text": "8",
+                  "label": "গ"
+                },
+                {
+                  "text": "$8x$",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "গ",
+              "shortSolution": "সঠিক উত্তর: গ। Linear term $ax$-এর derivative $a$।",
+              "chapter": "09",
+              "topic": "রৈখিক অন্তরজ",
+              "difficulty": "Medium",
+              "probability": "Very Hot"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-09-set-05-q13",
+              "question": "$\\frac{d}{dx}(9)$ কত? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 05-13 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+              "options": [
+                {
+                  "text": "1",
+                  "label": "ক"
+                },
+                {
+                  "text": "9",
+                  "label": "খ"
+                },
+                {
+                  "text": "$x$",
+                  "label": "গ"
+                },
+                {
+                  "text": "0",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "ঘ",
+              "shortSolution": "সঠিক উত্তর: ঘ। Constant-এর derivative 0।",
+              "chapter": "09",
+              "topic": "ধ্রুবকের অন্তরজ",
+              "difficulty": "Medium",
+              "probability": "Board Favourite"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-09-set-05-q14",
+              "question": "$\\frac{d}{dx}(\\sin x)$ কত? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 05-14 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+              "options": [
+                {
+                  "text": "$-\\sin x$",
+                  "label": "ক"
+                },
+                {
+                  "text": "$\\sin x$",
+                  "label": "খ"
+                },
+                {
+                  "text": "$-\\cos x$",
+                  "label": "গ"
+                },
+                {
+                  "text": "$\\cos x$",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "ঘ",
+              "shortSolution": "সঠিক উত্তর: ঘ। Standard derivative।",
+              "chapter": "09",
+              "topic": "ত্রিকোণমিতিক অন্তরজ",
+              "difficulty": "Medium",
+              "probability": "Conceptual Trap"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-09-set-05-q15",
+              "question": "$\\frac{d}{dx}(\\cos x)$ কত? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 05-15 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+              "options": [
+                {
+                  "text": "$\\cos x$",
+                  "label": "ক"
+                },
+                {
+                  "text": "$-\\cos x$",
+                  "label": "খ"
+                },
+                {
+                  "text": "$-\\sin x$",
+                  "label": "গ"
+                },
+                {
+                  "text": "$\\sin x$",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "গ",
+              "shortSolution": "সঠিক উত্তর: গ। Standard derivative।",
+              "chapter": "09",
+              "topic": "ত্রিকোণমিতিক অন্তরজ",
+              "difficulty": "Hard",
+              "probability": "Mega Hot"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-09-set-05-q16",
+              "question": "$\\frac{d}{dx}(e^x)$ কত? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 05-16 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+              "options": [
+                {
+                  "text": "$xe^{x-1}$",
+                  "label": "ক"
+                },
+                {
+                  "text": "$\\ln x$",
+                  "label": "খ"
+                },
+                {
+                  "text": "0",
+                  "label": "গ"
+                },
+                {
+                  "text": "$e^x$",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "ঘ",
+              "shortSolution": "সঠিক উত্তর: ঘ। $e^x$ নিজেই derivative।",
+              "chapter": "09",
+              "topic": "সূচক অন্তরজ",
+              "difficulty": "Hard",
+              "probability": "Very Hot"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-09-set-05-q17",
+              "question": "$\\frac{d}{dx}(\\ln x)$ কত? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 05-17 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+              "options": [
+                {
+                  "text": "$\\frac1x$",
+                  "label": "ক"
+                },
+                {
+                  "text": "$x$",
+                  "label": "খ"
+                },
+                {
+                  "text": "$e^x$",
+                  "label": "গ"
+                },
+                {
+                  "text": "$\\ln x$",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "ক",
+              "shortSolution": "সঠিক উত্তর: ক। Standard derivative।",
+              "chapter": "09",
+              "topic": "লগারিদমিক অন্তরজ",
+              "difficulty": "Hard",
+              "probability": "Board Favourite"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-09-set-05-q18",
+              "question": "$y=x^2+9x$ হলে $dy/dx$ কত? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 05-18 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+              "options": [
+                {
+                  "text": "$2x+9$",
+                  "label": "ক"
+                },
+                {
+                  "text": "$2x$",
+                  "label": "খ"
+                },
+                {
+                  "text": "$x^2+{a}$",
+                  "label": "গ"
+                },
+                {
+                  "text": "$9x$",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "ক",
+              "shortSolution": "সঠিক উত্তর: ক। Term-wise differentiation।",
+              "chapter": "09",
+              "topic": "যোগের অন্তরজ",
+              "difficulty": "Hard",
+              "probability": "Conceptual Trap"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-09-set-05-q19",
+              "question": "$y=x^2$ বক্ররেখার $x=2$ বিন্দুতে ঢাল কত? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 05-19 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+              "options": [
+                {
+                  "text": "2",
+                  "label": "ক"
+                },
+                {
+                  "text": "4",
+                  "label": "খ"
+                },
+                {
+                  "text": "8",
+                  "label": "গ"
+                },
+                {
+                  "text": "0",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "খ",
+              "shortSolution": "সঠিক উত্তর: খ। $dy/dx=2x$, তাই $x=2$ হলে 4।",
+              "chapter": "09",
+              "topic": "স্পর্শকের ঢাল",
+              "difficulty": "Hard",
+              "probability": "Mega Hot"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-09-set-05-q20",
+              "question": "$f'(x)>0$ হলে ফাংশনটি কেমন? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 05-20 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+              "options": [
+                {
+                  "text": "অসজ্ঞায়িত",
+                  "label": "ক"
+                },
+                {
+                  "text": "ধ্রুবক",
+                  "label": "খ"
+                },
+                {
+                  "text": "হ্রাসমান",
+                  "label": "গ"
+                },
+                {
+                  "text": "বর্ধমান",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "ঘ",
+              "shortSolution": "সঠিক উত্তর: ঘ। Derivative positive হলে function increasing।",
+              "chapter": "09",
+              "topic": "বর্ধন-হ্রাস",
+              "difficulty": "Hard",
+              "probability": "Very Hot"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-09-set-05-q21",
+              "question": "$\\frac{d}{dx}x^7$ কত? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 05-21 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+              "options": [
+                {
+                  "text": "$7x^6$",
+                  "label": "ক"
+                },
+                {
+                  "text": "$x^6$",
+                  "label": "খ"
+                },
+                {
+                  "text": "$6x^7$",
+                  "label": "গ"
+                },
+                {
+                  "text": "$x^7$",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "ক",
+              "shortSolution": "সঠিক উত্তর: ক। Power rule।",
+              "chapter": "09",
+              "topic": "Power rule",
+              "difficulty": "Hard",
+              "probability": "Board Favourite"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-09-set-05-q22",
+              "question": "$\\frac{d}{dx}(8x)$ কত? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 05-22 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+              "options": [
+                {
+                  "text": "$8x$",
+                  "label": "ক"
+                },
+                {
+                  "text": "9",
+                  "label": "খ"
+                },
+                {
+                  "text": "8",
+                  "label": "গ"
+                },
+                {
+                  "text": "0",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "গ",
+              "shortSolution": "সঠিক উত্তর: গ। Linear term $ax$-এর derivative $a$।",
+              "chapter": "09",
+              "topic": "রৈখিক অন্তরজ",
+              "difficulty": "Board Standard",
+              "probability": "Conceptual Trap"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-09-set-05-q23",
+              "question": "$\\frac{d}{dx}(9)$ কত? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 05-23 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+              "options": [
+                {
+                  "text": "1",
+                  "label": "ক"
+                },
+                {
+                  "text": "$x$",
+                  "label": "খ"
+                },
+                {
+                  "text": "9",
+                  "label": "গ"
+                },
+                {
+                  "text": "0",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "ঘ",
+              "shortSolution": "সঠিক উত্তর: ঘ। Constant-এর derivative 0।",
+              "chapter": "09",
+              "topic": "ধ্রুবকের অন্তরজ",
+              "difficulty": "Board Standard",
+              "probability": "Mega Hot"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-09-set-05-q24",
+              "question": "$\\frac{d}{dx}(\\sin x)$ কত? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 05-24 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+              "options": [
+                {
+                  "text": "$\\cos x$",
+                  "label": "ক"
+                },
+                {
+                  "text": "$-\\cos x$",
+                  "label": "খ"
+                },
+                {
+                  "text": "$-\\sin x$",
+                  "label": "গ"
+                },
+                {
+                  "text": "$\\sin x$",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "ক",
+              "shortSolution": "সঠিক উত্তর: ক। Standard derivative।",
+              "chapter": "09",
+              "topic": "ত্রিকোণমিতিক অন্তরজ",
+              "difficulty": "Board Standard",
+              "probability": "Very Hot"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-chapter-09-set-05-q25",
+              "question": "$\\frac{d}{dx}(\\cos x)$ কত? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 05-25 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+              "options": [
+                {
+                  "text": "$-\\sin x$",
+                  "label": "ক"
+                },
+                {
+                  "text": "$-\\cos x$",
+                  "label": "খ"
+                },
+                {
+                  "text": "$\\sin x$",
+                  "label": "গ"
+                },
+                {
+                  "text": "$\\cos x$",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "ক",
+              "shortSolution": "সঠিক উত্তর: ক। Standard derivative।",
+              "chapter": "09",
+              "topic": "ত্রিকোণমিতিক অন্তরজ",
+              "difficulty": "Board Standard",
+              "probability": "Board Favourite"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="100%" height="100%" viewBox="0 0 360 220">
+  <defs>
+    <radialGradient id="bg" cx="50%" cy="45%" r="75%">
+      <stop offset="0%" stop-color="#7c2d12"/>
+      <stop offset="100%" stop-color="#020617"/>
+    </radialGradient>
+    <marker id="arrow" markerWidth="8" markerHeight="8" refX="7" refY="3" orient="auto">
+      <path d="M0,0 L0,6 L8,3 z" fill="#e5e7eb"/>
+    </marker>
+    <style>
+      .axis{stroke:#e5e7eb;stroke-width:2.5;marker-end:url(#arrow)}
+      .curve{fill:none;stroke:#facc15;stroke-width:4;stroke-linecap:round;stroke-linejoin:round}
+      .alt{fill:none;stroke:#38bdf8;stroke-width:3;stroke-linecap:round;stroke-dasharray:6 5}
+      .label{font-family:Arial,sans-serif;font-size:12px;font-weight:800;fill:#fff}
+    </style>
+  </defs>
+
+  <rect width="360" height="220" rx="18" fill="url(#bg)"/>
+
+  <line x1="55" y1="170" x2="315" y2="170" class="axis"/>
+  <line x1="55" y1="170" x2="55" y2="40" class="axis"/>
+
+  <polyline points="65,155 120,115 178,115 235,70 295,70" class="curve"/>
+  <path d="M65 155 C125 120 180 88 295 55" class="alt"/>
+
+  <text x="300" y="192" class="label">Heat</text>
+  <text x="18" y="55" class="label">Temp</text>
+</svg>

@@ -1,0 +1,102 @@
+{
+  "hsc-physics-2nd-paper-board-analyzed-premium-set-05-q01": {
+    "correctOption": "1",
+    "explanation": "উত্তর: B) 1 — Uploaded model-test/suggestion pattern থেকে নেওয়া; repeated concept practice-এর জন্য গুরুত্বপূর্ণ।"
+  },
+  "hsc-physics-2nd-paper-board-analyzed-premium-set-05-q02": {
+    "correctOption": "5",
+    "explanation": "উত্তর: B) 5"
+  },
+  "hsc-physics-2nd-paper-board-analyzed-premium-set-05-q03": {
+    "correctOption": "AB̄ + ĀB",
+    "explanation": "XOR গেট: Y = A ⊕ B = A·B̄ + Ā·B। আউটপুট 1 হবে যখন ইনপুটদ্বয় ভিন্ন।"
+  },
+  "hsc-physics-2nd-paper-board-analyzed-premium-set-05-q04": {
+    "correctOption": "NAND",
+    "explanation": "প্রশ্নের প্রদত্ত বিকল্পগুলির মধ্যে NAND নিকটতম বিকল্প হিসেবে নেওয়া হয়েছে।"
+  },
+  "hsc-physics-2nd-paper-board-analyzed-premium-set-05-q05": {
+    "correctOption": "আলোর পূর্ণ অভ্যন্তরীণ প্রতিফলন",
+    "explanation": "অপটিক্যাল ফাইবার পূর্ণ অভ্যন্তরীণ প্রতিফলনের নীতিতে কাজ করে। কোরের প্রতিসরাঙ্ক > ক্ল্যাডিং এর প্রতিসরাঙ্ক।"
+  },
+  "hsc-physics-2nd-paper-board-analyzed-premium-set-05-q06": {
+    "correctOption": "শূন্য (নিরপেক্ষ)",
+    "explanation": "n-type এ ইলেকট্রন মেজরিটি ক্যারিয়ার হলেও পরমাণু সামগ্রিকভাবে চার্জ নিরপেক্ষ থাকে। এটি ঢাকা বোর্ডের প্রিয় ট্রিক!"
+  },
+  "hsc-physics-2nd-paper-board-analyzed-premium-set-05-q07": {
+    "correctOption": "শূন্য",
+    "explanation": "F = qvB sinθ। সমান্তরালে চললে θ = 0°, তাই sin 0° = 0, ফলে বল শূন্য।"
+  },
+  "hsc-physics-2nd-paper-board-analyzed-premium-set-05-q08": {
+    "correctOption": "1.414 (√2)",
+    "explanation": "μ = sin((A+δm)/2) / sin(A/2) = sin45°/sin30° = (1/√2)/(1/2) = √2 = 1.414"
+  },
+  "hsc-physics-2nd-paper-board-analyzed-premium-set-05-q09": {
+    "correctOption": "টরয়েডের কোর এর বাইরের ব্যাসার্ধ",
+    "explanation": "টরয়েডের ভেতরে B = μ₀nI, যা কোরের ব্যাসার্ধের ওপর নির্ভর করে না।"
+  },
+  "hsc-physics-2nd-paper-board-analyzed-premium-set-05-q10": {
+    "correctOption": "E শূন্য, V পৃষ্ঠের সমান (ধ্রুবক)",
+    "explanation": "চার্জ গোলকের বাইরের পৃষ্ঠে থাকে। ভেতরে E=0, তাই V = constant (পৃষ্ঠের বিভবের সমান)।"
+  },
+  "hsc-physics-2nd-paper-board-analyzed-premium-set-05-q11": {
+    "correctOption": "V = E − Ir",
+    "explanation": "ব্যাটারি কারেন্ট সরবরাহ করলে V = E − Ir হয়, কিন্তু ব্যাটারি চার্জ করার সময় V = E + Ir হয়।"
+  },
+  "hsc-physics-2nd-paper-board-analyzed-premium-set-05-q12": {
+    "correctOption": "λ এর পূর্ণ গুণিতক (nλ)",
+    "explanation": "গঠনমূলক ব্যতিচারে পথ পার্থক্য Δx = nλ (n = 0, 1, 2, ...)। ধ্বংসাত্মক ব্যতিচারে Δx = (2n+1)λ/2।"
+  },
+  "hsc-physics-2nd-paper-board-analyzed-premium-set-05-q13": {
+    "correctOption": "দ্রুতগামী ইলেকট্রন",
+    "explanation": "β⁻ কণা হলো দ্রুতগামী ইলেকট্রন। α কণা হিলিয়াম নিউক্লিয়াস, γ রশ্মি তড়িৎচুম্বকীয় তরঙ্গ।"
+  },
+  "hsc-physics-2nd-paper-board-analyzed-premium-set-05-q14": {
+    "correctOption": "ভোল্টমিটার",
+    "explanation": "ভোল্টমিটার বিভব পার্থক্য পরিমাপ করতে ব্যবহৃত হয়।"
+  },
+  "hsc-physics-2nd-paper-board-analyzed-premium-set-05-q15": {
+    "correctOption": "১ অপেক্ষা বড় বা ১ এর সমান হয়",
+    "explanation": "পরম প্রতিসরাঙ্ক μ = c/v, যেহেতু v ≤ c, তাই μ ≥ 1।"
+  },
+  "hsc-physics-2nd-paper-board-analyzed-premium-set-05-q16": {
+    "correctOption": "২টি",
+    "explanation": "সেন্টার ট্যাপড ফুল-ওয়েভ রেকটিফায়ারে ২টি ডায়োড প্রয়োজন। ব্রিজ রেকটিফায়ারে ৪টি ডায়োড লাগে।"
+  },
+  "hsc-physics-2nd-paper-board-analyzed-premium-set-05-q17": {
+    "correctOption": "হেনরি (Henry)",
+    "explanation": "ইন্ডাকট্যান্সের একক হেনরি (H)। ওয়েবার চৌম্বক ফ্লাক্সের, টেসলা চৌম্বকক্ষেত্রের, ফ্যারাড ধারকত্বের একক।"
+  },
+  "hsc-physics-2nd-paper-board-analyzed-premium-set-05-q18": {
+    "correctOption": "−0.2 m",
+    "explanation": "P = 1/f ⇒ f = 1/P = 1/(−5) = −0.2 m = −20 cm। ঋণাত্মক চিহ্ন নির্দেশ করে এটি অবতল লেন্স।"
+  },
+  "hsc-physics-2nd-paper-board-analyzed-premium-set-05-q19": {
+    "correctOption": "U = ½ CV²",
+    "explanation": "ধারকের সঞ্চিত শক্তি U = ½ CV² = ½ QV = Q²/(2C)"
+  },
+  "hsc-physics-2nd-paper-board-analyzed-premium-set-05-q20": {
+    "correctOption": "a^c",
+    "explanation": "প্রবাহগত সংজ্ঞা অনুযায়ী b = a^c."
+  },
+  "hsc-physics-2nd-paper-board-analyzed-premium-set-05-q21": {
+    "correctOption": "1.67Ω",
+    "explanation": "সমান্তরালে Rp = R/n = 5/3 ≈ 1.67 Ω"
+  },
+  "hsc-physics-2nd-paper-board-analyzed-premium-set-05-q22": {
+    "correctOption": "অভ্যন্তরীণ থাকবে",
+    "explanation": "কেন্দ্রীয় সংযোগ দেওয়ার ফলে অনুকূল ধারণা অনুযায়ী অভ্যন্তরীণ অংশ প্রধান থাকে।"
+  },
+  "hsc-physics-2nd-paper-board-analyzed-premium-set-05-q23": {
+    "correctOption": "যে ধাতুর ওপর আলো পড়ে তার",
+    "explanation": "সূচন কম্পাঙ্ক ধাতুর নিজস্ব বৈশিষ্ট্য — এটি ধাতুর কার্যাপেক্ষকের ওপর নির্ভর করে, আপতিত আলোর ওপর নয়।"
+  },
+  "hsc-physics-2nd-paper-board-analyzed-premium-set-05-q24": {
+    "correctOption": "J = σE",
+    "explanation": "ওহমের সূত্রের অণুবীক্ষণিক রূপ: J = σE, যেখানে σ পরিবাহিতা এবং ρ = 1/σ রোধাঙ্ক।"
+  },
+  "hsc-physics-2nd-paper-board-analyzed-premium-set-05-q25": {
+    "correctOption": "I₀/√2",
+    "explanation": "I_rms = I₀/√2 ≈ 0.707 I₀"
+  }
+}

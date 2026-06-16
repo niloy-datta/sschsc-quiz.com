@@ -1,0 +1,31 @@
+# MICRO HYPER PROMPT — Ch 04 Set 02 ONLY (25 MCQ)
+# Chapter: বৃত্ত
+# Paste AFTER 00-MASTER-HYPER-PROMPT.txt
+# Save output: data/imports/hsc-higher-math-1st-paper-chapter-04-set-02.json
+
+## TASK
+Generate **ONLY Set 02** for Chapter 04: বৃত্ত.
+Exactly **25 unique MCQ**. Set ID: hsc-higher-math-1st-paper-chapter-04-set-02
+
+## SET FOCUS
+Numerical application + formula drill
+
+## MEGA HOT SUBTOPICS
+Standard form x^2+y^2=r^2, general form, centre-radius, chord, tangent, normal, two circles intersection, radical axis
+
+## JSON (single-set wrapper)
+{
+  "level": "HSC",
+  "subject": "higher-math-1st-paper",
+  "chapterWise": [{
+    "chapter": "04",
+    "chapterName": "বৃত্ত",
+    "sets": [{
+      "id": "hsc-higher-math-1st-paper-chapter-04-set-02",
+      "title": "Chapter 04 Hyper Mega Hot Set 02",
+      "questions": [ /* exactly 25 */ ]
+    }]
+  }]
+}
+
+Output JSON only.

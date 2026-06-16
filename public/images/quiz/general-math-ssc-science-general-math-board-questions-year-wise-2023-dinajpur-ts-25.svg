@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 360 220" width="100%" height="100%">
+  <rect width="360" height="220" rx="18" fill="#020617"/>
+  <polygon points="75,165 285,165 180,45" fill="#111827" stroke="#38bdf8" stroke-width="4"/>
+  <circle cx="180" cy="165" r="6" fill="#facc15"/>
+  <line x1="180" y1="45" x2="180" y2="165" stroke="#facc15" stroke-width="4"/>
+  <text x="70" y="187" fill="#fff" font-size="18" font-weight="900">A</text>
+  <text x="290" y="187" fill="#fff" font-size="18" font-weight="900">B</text>
+  <text x="180" y="36" text-anchor="middle" fill="#fff" font-size="18" font-weight="900">C</text>
+  <text x="185" y="184" fill="#fff" font-size="15" font-weight="900">D</text>
+</svg>

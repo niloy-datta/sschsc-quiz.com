@@ -1,0 +1,102 @@
+{
+  "hsc-physics-2nd-paper-board-analyzed-premium-set-10-q01": {
+    "correctOption": "i ও ii",
+    "explanation": "সঠিক উত্তর: ক। রুদ্ধতাপীয় প্রক্রিয়ায় তাপের আদান-প্রদান হতে দেওয়া হয় না। এজন্য পাত্রের দেয়াল কুপরিবাহী হওয়া প্রয়োজন এবং প্রক্রিয়াটি এত দ্রুত ঘটাতে হয় যেন তাপ চলাচলের সময় না পায়। এতে চাপ ও আয়তন উভয়েরই পরিবর্তন ঘটে।"
+  },
+  "hsc-physics-2nd-paper-board-analyzed-premium-set-10-q02": {
+    "correctOption": "1500 \\text{ J}",
+    "explanation": "সঠিক উত্তর: গ। শক্তির সংরক্ষণশীলতা নীতি অনুযায়ী, পরিবেশে বর্জিত তাপ (Q_1) = প্রকোষ্ঠ থেকে গৃহীত তাপ (Q_2) + কম্প্রেসরের কাজ (W)। সুতরাং, Q_1 = 1200 + 300 = 1500 \\text{ J}।"
+  },
+  "hsc-physics-2nd-paper-board-analyzed-premium-set-10-q03": {
+    "correctOption": "কাজ ব্যয় করে নিম্ন তাপমাত্রা থেকে উচ্চ তাপমাত্রায় তাপ স্থানান্তর",
+    "explanation": "সঠিক উত্তর: ক। রেফ্রিজারেটর বাহ্যিক কাজ গ্রহণ করে শীতল অংশ থেকে তাপ নিয়ে উষ্ণ পরিবেশে ত্যাগ করে। কাজ ছাড়া এমন বিপরীত তাপপ্রবাহ দ্বিতীয় সূত্রবিরোধী, তাই খ ভুল। গ স্বাভাবিক তাপপ্রবাহ, রেফ্রিজারেটরের উদ্দেশ্য নয়। ঘ কার্যপ্রণালির সঠিক বর্ণনা নয়।"
+  },
+  "hsc-physics-2nd-paper-board-analyzed-premium-set-10-q04": {
+    "correctOption": "\\frac{1}{2} kT",
+    "explanation": "সঠিক উত্তর: ক। ম্যাক্সওয়েল-বোল্টজম্যানের শক্তির সমবণ্টন নীতি অনুসারে, তাপীয় সাম্যাবস্থায় থাকা কোনো গতিশীল সিস্টেমের মোট শক্তি এর প্রতিটি স্বাধীনতার মাত্রায় সমানভাবে বণ্টিত হয় এবং প্রতি মাত্রার জন্য গড় শক্তির পরিমাণ \\frac{1}{2} kT।"
+  },
+  "hsc-physics-2nd-paper-board-analyzed-premium-set-10-q05": {
+    "correctOption": "অপরিবর্তিত থাকে",
+    "explanation": "শূন্যস্থানে প্রসারিত হওয়ায় গ্যাসকে কোনো বাহ্যিক বলের বিরুদ্ধে কাজ করতে হয় না, তাই dW=0। রুদ্ধতাপীয় পরিবেশ হওয়ায় dQ=0। প্রথম সূত্রমতে dU=0 হয়। আদর্শ গ্যাসের অভ্যন্তরীণ শক্তি কেবল তাপমাত্রার ওপর নির্ভর করে বলে তাপমাত্রাও অপরিবর্তিত থাকে।"
+  },
+  "hsc-physics-2nd-paper-board-analyzed-premium-set-10-q06": {
+    "correctOption": "\\Delta U = 0, \\Delta W = 0",
+    "explanation": "সঠিক উত্তর: গ। মুক্ত প্রসারণে বাইরে থেকে তাপ আসে না (\\Delta Q = 0), এবং শূন্যস্থানে প্রসারিত হওয়ায় গ্যাসকে কোনো কাজ করতে হয় না (\\Delta W = 0)। প্রথম সূত্রমতে, \\Delta U = \\Delta Q - \\Delta W = 0।"
+  },
+  "hsc-physics-2nd-paper-board-analyzed-premium-set-10-q07": {
+    "correctOption": "শূন্য",
+    "explanation": "সঠিক উত্তর: গ। গ্যাসের কাজ $W=p\\Delta V$; সম-আয়তন প্রক্রিয়ায় $\\Delta V=0$, তাই $W=0$। $p\\Delta T$ কাজের সূত্র নয়, $V\\Delta p$ সম-আয়তনে কাজ প্রকাশ করে না এবং $nRT$ আদর্শ গ্যাস সমীকরণের অংশ; তাই ক, খ ও ঘ ভুল।"
+  },
+  "hsc-physics-2nd-paper-board-analyzed-premium-set-10-q08": {
+    "correctOption": "সিস্টেম থেকে তাপ অপসারিত হয়",
+    "explanation": "সঠিক উত্তর: খ। সমউষ্ণ প্রক্রিয়ায় তাপমাত্রা অপরিবর্তিত থাকে বলে dU=0। প্রথম সূত্রমতে dQ = dW। যদি dW ঋণাত্মক হয় (অর্থাৎ পরিবেশ দ্বারা সিস্টেম সংকুচিত হয়), তবে dQ ও ঋণাত্মক হবে, যার অর্থ সিস্টেম থেকে তাপ পরিবেশে অপসারিত হচ্ছে।"
+  },
+  "hsc-physics-2nd-paper-board-analyzed-premium-set-10-q09": {
+    "correctOption": "তাদের তাপীয় সাম্যাবস্থা বিদ্যমান বলে",
+    "explanation": "সঠিক উত্তর: খ। তাপ স্বতঃস্ফূর্তভাবে উচ্চ তাপমাত্রা থেকে নিম্ন তাপমাত্রায় প্রবাহিত হয়; তাপমাত্রা সমান হলে কোনো তাপমাত্রা পার্থক্য থাকে না, তাই নিট তাপপ্রবাহ হয় না। ভর বা তাপধারণ ক্ষমতা সমান হওয়া প্রয়োজনীয় নয়, আর আয়তন শূন্য হওয়ার প্রশ্ন নেই; তাই ক, গ ও ঘ ভুল।"
+  },
+  "hsc-physics-2nd-paper-board-analyzed-premium-set-10-q10": {
+    "correctOption": "$341.45\\,K$",
+    "explanation": "সঠিক উত্তর: গ। স্থির আয়তন গ্যাস থার্মোমিটারে $T\\propto p$। তাই $T=273.16 imes rac{25}{20}=341.45\\,K$। ক-তে অনুপাত উল্টো নেওয়া হয়েছে, খ ত্রৈধ বিন্দুর তাপমাত্রা, আর ঘ দ্বিগুণের কাছাকাছি ভুল হিসাব; তাই এগুলো ভুল।"
+  },
+  "hsc-physics-2nd-paper-board-analyzed-premium-set-10-q11": {
+    "correctOption": "স্থির আয়তনে মোলার আপেক্ষিক তাপ",
+    "explanation": "সঠিক উত্তর: খ। সংজ্ঞানুসারে, স্থির আয়তনে ১ মোল গ্যাসের তাপমাত্রা ১ কেলভিন বাড়াতে যে তাপ লাগে তাকে স্থির আয়তনে মোলার আপেক্ষিক তাপ (C_v) বলে।"
+  },
+  "hsc-physics-2nd-paper-board-analyzed-premium-set-10-q12": {
+    "correctOption": "অণুগুলোর গড় গতিশক্তি বাড়ায় দেয়ালে সংঘর্ষের হার ও ভরবেগ পরিবর্তন বাড়ে",
+    "explanation": "সঠিক উত্তর: খ। স্থির আয়তনে তাপমাত্রা বাড়লে অণুগুলোর গড় গতিশক্তি বাড়ে; ফলে পাত্রের দেয়ালে সংঘর্ষের ফলে একক ক্ষেত্রফলে বল বৃদ্ধি পায় এবং চাপ বাড়ে। ক ভুল, কারণ আয়তন স্থির। গ ও ঘ গ্যাসের চাপ বৃদ্ধির সঠিক কারণ নয়।"
+  },
+  "hsc-physics-2nd-paper-board-analyzed-premium-set-10-q13": {
+    "correctOption": "গ্যাসের চাপ",
+    "explanation": "সঠিক উত্তর: খ। স্থির আয়তন গ্যাস থার্মোমিটারে তাপমাত্রা পরিবর্তনের সাথে সাথে গ্যাসের চাপের পরিবর্তনকে কাজে লাগিয়ে তাপমাত্রা পরিমাপ করা হয়। তাই এখানে গ্যাসের চাপ হলো উষ্ণতামিতিক ধর্ম।"
+  },
+  "hsc-physics-2nd-paper-board-analyzed-premium-set-10-q14": {
+    "correctOption": "রুদ্ধতাপীয় প্রসারণ",
+    "explanation": "সঠিক উত্তর: গ। টায়ার ফাটার প্রক্রিয়াটি অত্যন্ত দ্রুত ঘটে বলে পরিবেশের সাথে তাপ আদান-প্রদানের সময় পায় না (রুদ্ধতাপীয়)। এ সময় সংকুচিত বাতাস প্রসারিত হতে নিজস্ব অভ্যন্তরীণ শক্তি ব্যয় করে, ফলে বাতাসের তাপমাত্রা কমে গিয়ে ঠান্ডা অনুভূত হয়।"
+  },
+  "hsc-physics-2nd-paper-board-analyzed-premium-set-10-q15": {
+    "correctOption": "i ও ii",
+    "explanation": "সঠিক উত্তর: ঘ। ত্বরণ ভেক্টর রাশি, তাই iii ভুল।"
+  },
+  "hsc-physics-2nd-paper-board-analyzed-premium-set-10-q16": {
+    "correctOption": "$3\\times10^8$ m/s",
+    "explanation": "সঠিক উত্তর: ঘ। শূন্য মাধ্যমে আলোর বেগ প্রায় $3\\times10^8$ m/s।"
+  },
+  "hsc-physics-2nd-paper-board-analyzed-premium-set-10-q17": {
+    "correctOption": "Tesla",
+    "explanation": "সঠিক উত্তর: গ। চৌম্বক ফ্লাক্স ঘনত্বের একক Tesla।"
+  },
+  "hsc-physics-2nd-paper-board-analyzed-premium-set-10-q18": {
+    "correctOption": "Diopter",
+    "explanation": "সঠিক উত্তর: খ। লেন্সের ক্ষমতার একক diopter।"
+  },
+  "hsc-physics-2nd-paper-board-analyzed-premium-set-10-q19": {
+    "correctOption": "সরণ",
+    "explanation": "সঠিক উত্তর: ক। SHM-এ $F\\propto -x$।"
+  },
+  "hsc-physics-2nd-paper-board-analyzed-premium-set-10-q20": {
+    "correctOption": "15 Ω",
+    "explanation": "সঠিক উত্তর: খ। সমান দুটি রোধ parallel হলে $R_{eq}=R/2$।"
+  },
+  "hsc-physics-2nd-paper-board-analyzed-premium-set-10-q21": {
+    "correctOption": "16 Ω",
+    "explanation": "সঠিক উত্তর: ঘ। সমান দুটি রোধ parallel হলে $R_{eq}=R/2$।"
+  },
+  "hsc-physics-2nd-paper-board-analyzed-premium-set-10-q22": {
+    "correctOption": "931.5 MeV",
+    "explanation": "E = 1 u × c² = 931.5 MeV"
+  },
+  "hsc-physics-2nd-paper-board-analyzed-premium-set-10-q23": {
+    "correctOption": "0.29 Å",
+    "explanation": "λ ≈ 0.286/√E ≈ 0.29 Å"
+  },
+  "hsc-physics-2nd-paper-board-analyzed-premium-set-10-q24": {
+    "correctOption": "1.6×10⁻¹⁹ J",
+    "explanation": "1 eV = 1.6×10⁻¹⁹ J"
+  },
+  "hsc-physics-2nd-paper-board-analyzed-premium-set-10-q25": {
+    "correctOption": "96500 C",
+    "explanation": "তুল্য ওজন = 31.75 g, 1g তুল্য ওজন = 1 eq, প্রয়োজনীয় চার্জ = F = 96500 C"
+  }
+}

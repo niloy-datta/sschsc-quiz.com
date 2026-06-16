@@ -1,0 +1,24 @@
+<svg width="100%" height="100%" viewBox="0 0 420 260" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Pendulum Stimulus">
+  <defs>
+    <marker id="arrow" markerWidth="8" markerHeight="8" refX="7" refY="3.5" orient="auto"><path d="M0,0 L0,7 L8,3.5 z" fill="#0f172a"/></marker>
+    <marker id="arrowBlue" markerWidth="8" markerHeight="8" refX="7" refY="3.5" orient="auto"><path d="M0,0 L0,7 L8,3.5 z" fill="#2563eb"/></marker>
+  </defs>
+  <rect width="420" height="260" rx="18" fill="#f8fafc"/>
+  <rect x="14" y="14" width="392" height="232" rx="14" fill="#ffffff" stroke="#cbd5e1" stroke-width="1.5"/>
+  <text x="210" y="38" text-anchor="middle" font-family="Arial, sans-serif" font-size="15" font-weight="700" fill="#0f172a">Pendulum Stimulus</text>
+  
+  <g stroke="#0f172a" stroke-width="2.2" fill="none">
+    <line x1="210" y1="60" x2="210" y2="195" stroke-dasharray="5 5"/>
+    <line x1="210" y1="60" x2="292" y2="180"/>
+    <circle cx="210" cy="60" r="5" fill="#0f172a"/>
+    <circle cx="292" cy="180" r="18" fill="#bfdbfe" stroke="#2563eb"/>
+    <path d="M210 95 A45 45 0 0 1 238 102" stroke="#f59e0b" stroke-width="2"/>
+    <line x1="210" y1="205" x2="292" y2="205" stroke="#16a34a" stroke-width="2"/>
+    <line x1="210" y1="198" x2="210" y2="212" stroke="#16a34a"/>
+    <line x1="292" y1="198" x2="292" y2="212" stroke="#16a34a"/>
+  </g>
+  <text x="247" y="112" text-anchor="middle" font-size="12" fill="#2563eb">l = 1 m</text>
+  <text x="251" y="225" text-anchor="middle" font-size="12" fill="#16a34a">horizontal displacement = 0.8 m</text>
+  <text x="312" y="184" font-size="12" fill="#0f172a">A</text>
+
+</svg>

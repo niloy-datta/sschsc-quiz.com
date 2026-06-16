@@ -1,352 +1,317 @@
 [
   {
-    "id": "ssc-higher-math-ch08-set02-q01",
+    "id": "ssc-higher-math-chapter-08-model-test-02-q01",
     "subject": "higher-math",
     "chapter": "ssc-higher-math-chapter-08-model-test-02",
-    "text": "$\\beta = \\frac{7\\pi}{2}$ হলে, i. $\\cos (\\beta - \\frac{\\pi}{6}) = -\\frac{1}{2}$ ii. $\\csc (\\beta - \\frac{\\pi}{3}) = -2$ iii. $\\tan (\\beta - \\frac{\\pi}{4}) = -1$ নিচের কোনটি সঠিক?",
+    "text": "P(ঘটনা) = 2/6 হলে সম্পূরক = ?",
     "options": [
-      "i ও ii",
-      "i ও iii",
-      "ii ও iii",
-      "i, ii ও iii"
+      "2",
+      "-2",
+      "8",
+      "6"
     ],
     "image": null,
+    "optionImages": null,
     "timeLimit": 45
   },
   {
-    "id": "ssc-higher-math-ch08-set02-q02",
+    "id": "ssc-higher-math-chapter-08-model-test-02-q02",
     "subject": "higher-math",
     "chapter": "ssc-higher-math-chapter-08-model-test-02",
-    "text": "$\\cos5\\theta = \\sin5\\theta$ হলে, $\\theta$ এর মান কত?",
+    "text": "7x + 15 = 211 হলে x = ?",
     "options": [
-      "$\\frac{5\\pi}{4}$",
-      "$\\frac{\\pi}{2}$",
-      "$\\frac{\\pi}{5}$",
-      "$\\frac{\\pi}{20}$"
+      "29",
+      "27",
+      "28",
+      "30"
     ],
     "image": null,
+    "optionImages": null,
     "timeLimit": 45
   },
   {
-    "id": "ssc-higher-math-ch08-set02-q03",
+    "id": "ssc-higher-math-chapter-08-model-test-02-q03",
     "subject": "higher-math",
     "chapter": "ssc-higher-math-chapter-08-model-test-02",
-    "text": "$\\tan\\theta = -\\sqrt{3}$ এবং $\\frac{\\pi}{2} < \\theta < \\pi$ হলে, $\\theta$ এর মান কত?",
+    "text": "P(ঘটনা) = 6/8 হলে সম্পূরক = ?",
     "options": [
-      "$\\frac{5\\pi}{3}$",
-      "$\\frac{2\\pi}{3}$",
-      "$\\frac{\\pi}{3}$",
-      "$-\\frac{\\pi}{3}$"
+      "12",
+      "8",
+      "-4",
+      "4"
     ],
     "image": null,
+    "optionImages": null,
     "timeLimit": 45
   },
   {
-    "id": "ssc-higher-math-ch08-set02-q04",
+    "id": "ssc-higher-math-chapter-08-model-test-02-q04",
     "subject": "higher-math",
     "chapter": "ssc-higher-math-chapter-08-model-test-02",
-    "text": "$\\sin B = \\frac{1}{2}$ হলে $\\cos 3B - \\sin 3B$ এর মান কত?",
+    "text": "5x + 6 = 96 হলে x = ?",
+    "options": [
+      "20",
+      "19",
+      "18",
+      "17"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-higher-math-chapter-08-model-test-02-q05",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-08-model-test-02",
+    "text": "P(ঘটনা) = 4/10 হলে সম্পূরক = ?",
     "options": [
       "-2",
-      "-1",
+      "2",
+      "10",
+      "24"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-higher-math-chapter-08-model-test-02-q06",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-08-model-test-02",
+    "text": "2x + 23 = 39 হলে x = ?",
+    "options": [
+      "7",
+      "10",
+      "9",
+      "8"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-higher-math-chapter-08-model-test-02-q07",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-08-model-test-02",
+    "text": "9, 10, ... 3 পদের যোগফল = ?",
+    "options": [
+      "27",
+      "39",
+      "12",
+      "30"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-higher-math-chapter-08-model-test-02-q08",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-08-model-test-02",
+    "text": "বৃত্তের ব্যাসার্ধ 10 হলে ক্ষেত্রফল ≈ ?",
+    "options": [
+      "100",
+      "314.15",
+      "20",
+      "10"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-higher-math-chapter-08-model-test-02-q09",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-08-model-test-02",
+    "text": "(7 + 13) × 1 = ?",
+    "options": [
+      "20",
+      "91",
+      "-6",
+      "6"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-higher-math-chapter-08-model-test-02-q10",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-08-model-test-02",
+    "text": "6, 7, ... 8 পদের যোগফল = ?",
+    "options": [
+      "14",
+      "76",
+      "82",
+      "48"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-higher-math-chapter-08-model-test-02-q11",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-08-model-test-02",
+    "text": "বৃত্তের ব্যাসার্ধ 7 হলে ক্ষেত্রফল ≈ ?",
+    "options": [
+      "153.93",
+      "14",
+      "7",
+      "49"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-higher-math-chapter-08-model-test-02-q12",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-08-model-test-02",
+    "text": "(4 + 5) × 1 = ?",
+    "options": [
+      "20",
       "1",
-      "2"
+      "9",
+      "-1"
     ],
     "image": null,
+    "optionImages": null,
     "timeLimit": 45
   },
   {
-    "id": "ssc-higher-math-ch08-set02-q05",
+    "id": "ssc-higher-math-chapter-08-model-test-02-q13",
     "subject": "higher-math",
     "chapter": "ssc-higher-math-chapter-08-model-test-02",
-    "text": "$\\cot\\theta = -\\frac{12}{5}$ এবং $\\cot\\theta$ ও $\\csc\\theta$ বিপরীত চিহ্নবিশিষ্ট হলে, $\\sin\\theta$ এর মান কত?",
+    "text": "3, 4, ... 6 পদের যোগফল = ?",
     "options": [
-      "$-\\frac{5}{12}$",
-      "$-\\frac{5}{13}$",
-      "$\\frac{5}{13}$",
-      "$\\frac{12}{5}$"
+      "33",
+      "18",
+      "9",
+      "36"
     ],
     "image": null,
+    "optionImages": null,
     "timeLimit": 45
   },
   {
-    "id": "ssc-higher-math-ch08-set02-q06",
+    "id": "ssc-higher-math-chapter-08-model-test-02-q14",
     "subject": "higher-math",
     "chapter": "ssc-higher-math-chapter-08-model-test-02",
-    "text": "tan(θ - 13π/2) এর মান কত?",
+    "text": "বৃত্তের ব্যাসার্ধ 4 হলে ক্ষেত্রফল ≈ ?",
     "options": [
-      "-cot θ",
-      "cot θ",
-      "tan θ",
-      "-tan θ"
+      "4",
+      "16",
+      "50.265",
+      "8"
     ],
     "image": null,
+    "optionImages": null,
     "timeLimit": 45
   },
   {
-    "id": "ssc-higher-math-ch08-set02-q07",
+    "id": "ssc-higher-math-chapter-08-model-test-02-q15",
     "subject": "higher-math",
     "chapter": "ssc-higher-math-chapter-08-model-test-02",
-    "text": "tan(θ - 13π/2) এর মান কত?",
+    "text": "(2 + 22) × 1 = ?",
     "options": [
-      "-cot θ",
-      "tan θ",
-      "-tan θ",
-      "cot θ"
+      "20",
+      "-20",
+      "44",
+      "24"
     ],
     "image": null,
+    "optionImages": null,
     "timeLimit": 45
   },
   {
-    "id": "ssc-higher-math-ch08-set02-q08",
+    "id": "ssc-higher-math-chapter-08-model-test-02-q16",
     "subject": "higher-math",
     "chapter": "ssc-higher-math-chapter-08-model-test-02",
-    "text": "tan(θ - 13π/2) এর মান কত?",
+    "text": "7x + 15 = 204 হলে x = ?",
     "options": [
-      "cot θ",
-      "-cot θ",
-      "-tan θ",
-      "tan θ"
+      "26",
+      "27",
+      "28",
+      "29"
     ],
     "image": null,
+    "optionImages": null,
     "timeLimit": 45
   },
   {
-    "id": "ssc-higher-math-ch08-set02-q09",
+    "id": "ssc-higher-math-chapter-08-model-test-02-q17",
     "subject": "higher-math",
     "chapter": "ssc-higher-math-chapter-08-model-test-02",
-    "text": "tan(θ - 13π/2) এর মান কত?",
+    "text": "(2 + 21) × 1 = ?",
     "options": [
-      "-cot θ",
-      "tan θ",
-      "cot θ",
-      "-tan θ"
+      "42",
+      "-19",
+      "19",
+      "23"
     ],
     "image": null,
+    "optionImages": null,
     "timeLimit": 45
   },
   {
-    "id": "ssc-higher-math-ch08-set02-q10",
+    "id": "ssc-higher-math-chapter-08-model-test-02-q18",
     "subject": "higher-math",
     "chapter": "ssc-higher-math-chapter-08-model-test-02",
-    "text": "tan(θ - 13π/2) এর মান কত?",
+    "text": "P(ঘটনা) = 8/12 হলে সম্পূরক = ?",
     "options": [
-      "tan θ",
-      "-cot θ",
-      "-tan θ",
-      "cot θ"
+      "12",
+      "32",
+      "4",
+      "-4"
     ],
     "image": null,
+    "optionImages": null,
     "timeLimit": 45
   },
   {
-    "id": "ssc-higher-math-ch08-set02-q11",
+    "id": "ssc-higher-math-chapter-08-model-test-02-q19",
     "subject": "higher-math",
     "chapter": "ssc-higher-math-chapter-08-model-test-02",
-    "text": "tan(θ - 13π/2) এর মান কত?",
+    "text": "7x + 14 = 203 হলে x = ?",
     "options": [
-      "tan θ",
-      "cot θ",
-      "-cot θ",
-      "-tan θ"
+      "28",
+      "26",
+      "27",
+      "29"
     ],
     "image": null,
+    "optionImages": null,
     "timeLimit": 45
   },
   {
-    "id": "ssc-higher-math-ch08-set02-q12",
+    "id": "ssc-higher-math-chapter-08-model-test-02-q20",
     "subject": "higher-math",
     "chapter": "ssc-higher-math-chapter-08-model-test-02",
-    "text": "What is the intersection point of the lines y = x + 5 and y = -x + 5?",
+    "text": "5x + 6 = 91 হলে x = ?",
     "options": [
-      "(0, 0)",
-      "(-5, 5)",
-      "(5, 0)",
-      "(0, 5)"
+      "17",
+      "19",
+      "18",
+      "16"
     ],
     "image": null,
+    "optionImages": null,
     "timeLimit": 45
   },
   {
-    "id": "ssc-higher-math-ch08-set02-q13",
+    "id": "ssc-higher-math-chapter-08-model-test-02-q21",
     "subject": "higher-math",
     "chapter": "ssc-higher-math-chapter-08-model-test-02",
-    "text": "If tan 20x = cot 10x, what is x in degrees?",
+    "text": "(9 + 21) × 1 = ?",
     "options": [
-      "3 degree",
-      "4 degree",
-      "6 degree",
-      "8 degree"
+      "12",
+      "189",
+      "-12",
+      "30"
     ],
     "image": null,
-    "timeLimit": 45
-  },
-  {
-    "id": "ssc-higher-math-ch08-set02-q14",
-    "subject": "higher-math",
-    "chapter": "ssc-higher-math-chapter-08-model-test-02",
-    "text": "$\\triangle ABC$-এ $\\sec \\left(\\frac{A+B}{2}\\right) = ?$",
-    "options": [
-      "$\\csc \\frac{\\pi}{2}$",
-      "$\\sec \\frac{\\pi}{2}$",
-      "$\\sec \\frac{C}{2}$",
-      "$\\csc \\frac{C}{2}$"
-    ],
-    "image": null,
-    "timeLimit": 45
-  },
-  {
-    "id": "ssc-higher-math-ch08-set02-q15",
-    "subject": "higher-math",
-    "chapter": "ssc-higher-math-chapter-08-model-test-02",
-    "text": "**নিচের তথ্যের আলোকে 1 ও 2 নং প্রশ্নের উত্তর দাও:** $\\tan\\theta = \\frac{2}{3} ; 0 < \\theta < \\frac{\\pi}{2}$ $\\sec\\theta$ এর মান কত?",
-    "options": [
-      "$-\\frac{\\sqrt{13}}{3}$",
-      "$-\\frac{\\sqrt{5}}{3}$",
-      "$\\frac{\\sqrt{5}}{3}$",
-      "$\\frac{\\sqrt{13}}{3}$"
-    ],
-    "image": null,
-    "timeLimit": 45
-  },
-  {
-    "id": "ssc-higher-math-ch08-set02-q16",
-    "subject": "higher-math",
-    "chapter": "ssc-higher-math-chapter-08-model-test-02",
-    "text": "$\\tan(\\theta - \\frac{13\\pi}{2})$ এর মান কত?",
-    "options": [
-      "$-\\cot\\theta$",
-      "$-\\tan\\theta$",
-      "$\\cot\\theta$",
-      "$\\tan\\theta$"
-    ],
-    "image": null,
-    "timeLimit": 45
-  },
-  {
-    "id": "ssc-higher-math-ch08-set02-q17",
-    "subject": "higher-math",
-    "chapter": "ssc-higher-math-chapter-08-model-test-02",
-    "text": "What is the value of tan(-570 degree)?",
-    "options": [
-      "-sqrt(3)",
-      "-1/sqrt(3)",
-      "1/sqrt(3)",
-      "sqrt(3)"
-    ],
-    "image": null,
-    "timeLimit": 45
-  },
-  {
-    "id": "ssc-higher-math-ch08-set02-q18",
-    "subject": "higher-math",
-    "chapter": "ssc-higher-math-chapter-08-model-test-02",
-    "text": "What is the distance of the point P(-8, 6) from the y-axis?",
-    "options": [
-      "-8 units",
-      "6 units",
-      "8 units",
-      "10 units"
-    ],
-    "image": null,
-    "timeLimit": 45
-  },
-  {
-    "id": "ssc-higher-math-ch08-set02-q19",
-    "subject": "higher-math",
-    "chapter": "ssc-higher-math-chapter-08-model-test-02",
-    "text": "A pyramid stands on a square base of side 12 cm. If its height is 15 cm, what is its volume?",
-    "options": [
-      "60 cu cm",
-      "720 cu cm",
-      "1000 cu cm",
-      "2160 cu cm"
-    ],
-    "image": null,
-    "timeLimit": 45
-  },
-  {
-    "id": "ssc-higher-math-ch08-set02-q20",
-    "subject": "higher-math",
-    "chapter": "ssc-higher-math-chapter-08-model-test-02",
-    "text": "What is the constant term in the expansion of (2 - x^2/3)^7?",
-    "options": [
-      "1/2187",
-      "128",
-      "448/3",
-      "2187"
-    ],
-    "image": null,
-    "timeLimit": 45
-  },
-  {
-    "id": "ssc-higher-math-ch08-set02-q21",
-    "subject": "higher-math",
-    "chapter": "ssc-higher-math-chapter-08-model-test-02",
-    "text": "$\\sec\\theta$ এর মান নিচের কোনটি?",
-    "options": [
-      "$\\frac{2p}{p^2 + 1}$",
-      "$\\frac{2p}{p^2 - 1}$",
-      "$\\frac{p^2 + 1}{p^2 - 1}$",
-      "$\\frac{p^2 - 1}{p^2 + 1}$"
-    ],
-    "image": null,
-    "timeLimit": 45
-  },
-  {
-    "id": "ssc-higher-math-ch08-set02-q22",
-    "subject": "higher-math",
-    "chapter": "ssc-higher-math-chapter-08-model-test-02",
-    "text": "sin²θ + cos²θ = কোনটি?",
-    "options": [
-      "0",
-      "1",
-      "tanθ",
-      "sec²θ"
-    ],
-    "image": null,
-    "timeLimit": 45
-  },
-  {
-    "id": "ssc-higher-math-ch08-set02-q23",
-    "subject": "higher-math",
-    "chapter": "ssc-higher-math-chapter-08-model-test-02",
-    "text": "নিচের কোনটি সঠিক? i. sin²θ+cos²θ=1 ii. tanθ=sinθ/cosθ iii. secθ=1/sinθ",
-    "options": [
-      "i ও ii",
-      "i, ii ও iii",
-      "i ও iii",
-      "ii ও iii"
-    ],
-    "image": null,
-    "timeLimit": 45
-  },
-  {
-    "id": "ssc-higher-math-ch08-set02-q24",
-    "subject": "higher-math",
-    "chapter": "ssc-higher-math-chapter-08-model-test-02",
-    "text": "1 + tan²θ = কোনটি?",
-    "options": [
-      "1",
-      "cosec²θ",
-      "cot²θ",
-      "sec²θ"
-    ],
-    "image": null,
-    "timeLimit": 45
-  },
-  {
-    "id": "ssc-higher-math-ch08-set02-q25",
-    "subject": "higher-math",
-    "chapter": "ssc-higher-math-chapter-08-model-test-02",
-    "text": "1 + cot²θ = কোনটি?",
-    "options": [
-      "cosec²θ",
-      "sec²θ",
-      "1",
-      "tan²θ"
-    ],
-    "image": null,
+    "optionImages": null,
     "timeLimit": 45
   }
 ]

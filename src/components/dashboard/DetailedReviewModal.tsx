@@ -15,6 +15,8 @@ import { api } from "@/lib/api";
 import { cn } from "@/lib/utils";
 import { Button } from "@/components/ui/Button";
 import { FormattedQuizText } from "@/lib/format-quiz-text";
+import { QuizQuestionStem } from "@/components/quiz/QuizQuestionStem";
+import { QuizOptionText } from "@/components/quiz/QuizOptionText";
 
 type ReviewQuestion = {
   id: string;
@@ -301,7 +303,7 @@ export function DetailedReviewModal({
                         Q{idx + 1}
                       </span>
                       <div className="text-sm text-white leading-relaxed flex-1">
-                        <FormattedQuizText text={q.text} hideWorkedSolution={false} />
+                        <QuizQuestionStem text={q.text} hideWorkedSolution={false} />
                       </div>
                       {isCorrect && <CheckCircle2 className="h-5 w-5 text-green-400 shrink-0" />}
                       {isWrong && <XCircle className="h-5 w-5 text-red-400 shrink-0" />}
@@ -331,7 +333,7 @@ export function DetailedReviewModal({
                               {BANGLA_OPTS[optIdx] || String.fromCharCode(65 + optIdx)}
                             </span>
                             <span className="flex-1">
-                              <FormattedQuizText text={opt} inline />
+                              <QuizOptionText text={opt} questionText={q.text} />
                             </span>
                             {isAnswer && (
                               <span className="text-[10px] uppercase tracking-wide text-green-300 font-bold shrink-0">
@@ -355,6 +357,7 @@ export function DetailedReviewModal({
                           text={explanation}
                           className="text-xs text-slate-300 flex-1"
                           hideWorkedSolution={false}
+                          mode="explanation"
                         />
                       </div>
                     )}

@@ -1,0 +1,282 @@
+{
+  "setId": "chapter-08-split-03",
+  "reason": "DUPLICATE_OF_chapter-08-split-03",
+  "quarantinedAt": "2026-06-16T10:44:44.889Z",
+  "questions": [
+    {
+      "id": "chapter-08-split-03-q01",
+      "questionText": "সরল দোলকের সূত্র প্রথম কে আবিষ্কার করেন?",
+      "optionA": "নিউটন",
+      "optionB": "গ্যালিলিও",
+      "optionC": "হাইগেনস",
+      "optionD": "কেপলার",
+      "correctOption": "B",
+      "explanation": "",
+      "questionNo": 1
+    },
+    {
+      "id": "chapter-08-split-03-q02",
+      "questionText": "সেকেন্ড দোলকের ধারণা দেন কে?",
+      "optionA": "গ্যালিলিও",
+      "optionB": "হাইগেনস",
+      "optionC": "নিউটন",
+      "optionD": "হুক",
+      "correctOption": "B",
+      "explanation": "",
+      "questionNo": 2
+    },
+    {
+      "id": "chapter-08-split-03-q03",
+      "questionText": "একটি স্প্রিং থেকে ভর সরিয়ে ফেললে কম্পাঙ্ক কত হবে?",
+      "optionA": "অসীম",
+      "optionB": "শূন্য",
+      "optionC": "অপরিবর্তিত",
+      "optionD": "বলা যাবে না",
+      "correctOption": "A",
+      "explanation": "",
+      "questionNo": 3
+    },
+    {
+      "id": "chapter-08-split-03-q04",
+      "questionText": "একটি সরল দোলকের দৈর্ঘ্য 25% কমানো হলে দোলনকাল কত শতাংশ কমবে?",
+      "optionA": "25%",
+      "optionB": "50%",
+      "optionC": "13.4%",
+      "optionD": "75%",
+      "correctOption": "C",
+      "explanation": "",
+      "questionNo": 4
+    },
+    {
+      "id": "chapter-08-split-03-q05",
+      "questionText": "SHM-এ সরণ, বেগ ও ত্বরণের মধ্যে দশা সম্পর্ক কীরূপ?",
+      "optionA": "তিনটি একই দশায়",
+      "optionB": "বেগ ত্বরণের 90° পিছিয়ে",
+      "optionC": "ত্বরণ সরণের 180° সামনে",
+      "optionD": "বেগ ত্বরণের সমদশায়",
+      "correctOption": "C",
+      "explanation": "",
+      "questionNo": 5
+    },
+    {
+      "id": "chapter-08-split-03-q06",
+      "questionText": "অনুনাদ একটি উদাহরণ কোনটি?",
+      "optionA": "সেতু ভেঙে পড়া যখন সৈন্যরা সমতালে পা ফেলে",
+      "optionB": "টেবিলে রাখা রেডিও বাজা",
+      "optionC": "ব্যাটে বলের আঘাত",
+      "optionD": "সাইকেল চালানো",
+      "correctOption": "A",
+      "explanation": "",
+      "questionNo": 6
+    },
+    {
+      "id": "chapter-08-split-03-q07",
+      "questionText": "একটি স্প্রিং-ভর সিস্টেমে অবমন্দন বল থাকলে গতি কী হয়?",
+      "optionA": "সরল ছন্দিত",
+      "optionB": "পর্যাবৃত্ত",
+      "optionC": "অবমন্দিত স্পন্দন",
+      "optionD": "স্থির",
+      "correctOption": "C",
+      "explanation": "",
+      "questionNo": 7
+    },
+    {
+      "id": "chapter-08-split-03-q08",
+      "questionText": "অবমন্দিত স্পন্দনে কৌণিক কম্পাঙ্ক ω' = ? (b = অবমন্দন ধ্রুবক)",
+      "optionA": "√(k/m)",
+      "optionB": "√(k/m - b²/4m²)",
+      "optionC": "√(k/m + b²/4m²)",
+      "optionD": "b/m",
+      "correctOption": "B",
+      "explanation": "",
+      "questionNo": 8
+    },
+    {
+      "id": "chapter-08-split-03-q09",
+      "questionText": "সমালোচনামূলক অবমন্দনের শর্ত কী?",
+      "optionA": "b² = 4mk",
+      "optionB": "b² < 4mk",
+      "optionC": "b² > 4mk",
+      "optionD": "b = 0",
+      "correctOption": "A",
+      "explanation": "",
+      "questionNo": 9
+    },
+    {
+      "id": "chapter-08-split-03-q10",
+      "questionText": "একটি স্প্রিং ধ্রুবক k এর স্প্রিংকে টেনে ছাড়লে তার দোলনকাল T, ভর m দ্বিগুণ করলে দোলনকাল কত?",
+      "optionA": "T",
+      "optionB": "√2 T",
+      "optionC": "2T",
+      "optionD": "T/√2",
+      "correctOption": "B",
+      "explanation": "",
+      "questionNo": 10
+    },
+    {
+      "id": "chapter-08-split-03-q11",
+      "questionText": "একটি সরল দোলকের দৈর্ঘ্য L এবং পৃথিবীতে T = 2π√(L/g)। চাঁদে g কম হলে T –",
+      "optionA": "বাড়ে",
+      "optionB": "কমে",
+      "optionC": "একই থাকে",
+      "optionD": "শূন্য",
+      "correctOption": "A",
+      "explanation": "",
+      "questionNo": 11
+    },
+    {
+      "id": "chapter-08-split-03-q12",
+      "questionText": "দুটি সরল দোলকের দৈর্ঘ্যের অনুপাত 1:4, দোলনকালের অনুপাত কত?",
+      "optionA": "1:2",
+      "optionB": "2:1",
+      "optionC": "1:4",
+      "optionD": "4:1",
+      "correctOption": "A",
+      "explanation": "",
+      "questionNo": 12
+    },
+    {
+      "id": "chapter-08-split-03-q13",
+      "questionText": "একটি কণা SHM করছে, সরণ x = 0.2 cos(10t) m হলে দোলনকাল কত?",
+      "optionA": "π/5 s",
+      "optionB": "π/10 s",
+      "optionC": "0.2 s",
+      "optionD": "10 s",
+      "correctOption": "A",
+      "explanation": "",
+      "questionNo": 13
+    },
+    {
+      "id": "chapter-08-split-03-q14",
+      "questionText": "SHM-এ কণার গতিপথে যে কোনো বিন্দুতে গতিশক্তি Eₖ ও বিভবশক্তি Eₚ এর যোগফল কত?",
+      "optionA": "Eₖ + Eₚ = ½kA²",
+      "optionB": "Eₖ + Eₚ = 0",
+      "optionC": "Eₖ + Eₚ = kA²",
+      "optionD": "পরিবর্তনশীল",
+      "correctOption": "A",
+      "explanation": "",
+      "questionNo": 14
+    },
+    {
+      "id": "chapter-08-split-03-q15",
+      "questionText": "সরল দোলকের গোলকের আকার পরিবর্তন করলে দোলনকালের কী পরিবর্তন হয়?",
+      "optionA": "পরিবর্তন হয়",
+      "optionB": "পরিবর্তন হয় না",
+      "optionC": "দোলন থেমে যায়",
+      "optionD": "T কমে",
+      "correctOption": "B",
+      "explanation": "",
+      "questionNo": 15
+    },
+    {
+      "id": "chapter-08-split-03-q16",
+      "questionText": "একটি স্প্রিং-ভর সিস্টেমে ভর m এবং স্প্রিং ধ্রুবক k থাকলে, যদি স্প্রিংকে সমান দুই টুকরো করে একটি টুকরো ব্যবহার করা হয়, তাহলে নতুন দোলনকাল কত?",
+      "optionA": "T/√2",
+      "optionB": "√2 T",
+      "optionC": "T/2",
+      "optionD": "T",
+      "correctOption": "A",
+      "explanation": "",
+      "questionNo": 16
+    },
+    {
+      "id": "chapter-08-split-03-q17",
+      "questionText": "একটি সরল দোলকের দোলনকাল 2 s, তার দৈর্ঘ্য কত? (g=10 m/s²)",
+      "optionA": "~1 m",
+      "optionB": "~0.5 m",
+      "optionC": "~2 m",
+      "optionD": "~0.25 m",
+      "correctOption": "A",
+      "explanation": "",
+      "questionNo": 17
+    },
+    {
+      "id": "chapter-08-split-03-q18",
+      "questionText": "একটি স্প্রিং-ভর সিস্টেমের বিস্তার দ্বিগুণ করলে সর্বোচ্চ গতিশক্তি কত গুণ হবে?",
+      "optionA": "2 গুণ",
+      "optionB": "4 গুণ",
+      "optionC": "8 গুণ",
+      "optionD": "একই",
+      "correctOption": "B",
+      "explanation": "",
+      "questionNo": 18
+    },
+    {
+      "id": "chapter-08-split-03-q19",
+      "questionText": "SHM-এ সরণ x = A sin ωt রেখে ত্বরণ a = ?",
+      "optionA": "−ω²A sin ωt",
+      "optionB": "ω²A sin ωt",
+      "optionC": "−ωA cos ωt",
+      "optionD": "ω²A cos ωt",
+      "correctOption": "A",
+      "explanation": "",
+      "questionNo": 19
+    },
+    {
+      "id": "chapter-08-split-03-q20",
+      "questionText": "একটি কণার SHM এর সমীকরণ x = 4 sin(πt + π/6) cm। t = 1 সেকেন্ডে সরণ কত?",
+      "optionA": "4 cm",
+      "optionB": "2√3 cm",
+      "optionC": "2 cm",
+      "optionD": "0 cm",
+      "correctOption": "C",
+      "explanation": "",
+      "questionNo": 20
+    },
+    {
+      "id": "chapter-08-split-03-q21",
+      "questionText": "একটি স্প্রিং-ভর সিস্টেমের বল ধ্রুবক k এবং ভর m। বিস্তার A হলে সর্বোচ্চ ত্বরণ কত?",
+      "optionA": "A k/m",
+      "optionB": "A√(k/m)",
+      "optionC": "A (k/m)²",
+      "optionD": "A ω²",
+      "correctOption": "D",
+      "explanation": "",
+      "questionNo": 21
+    },
+    {
+      "id": "chapter-08-split-03-q22",
+      "questionText": "একটি কণার পর্যাবৃত্ত গতির ক্ষেত্রে বল প্রয়োগ না করলে গতি থেমে যায়, এটি কোন গতি?",
+      "optionA": "সরল ছন্দিত",
+      "optionB": "প্রণোদিত স্পন্দন",
+      "optionC": "অবমন্দিত স্পন্দন",
+      "optionD": "পর্যাবৃত্ত কিন্তু SHM নয়",
+      "correctOption": "C",
+      "explanation": "",
+      "questionNo": 22
+    },
+    {
+      "id": "chapter-08-split-03-q23",
+      "questionText": "অনুনাদে শক্তি শোষণ সর্বোচ্চ হয় কেন?",
+      "optionA": "প্রণোদক কম্পাঙ্ক স্বাভাবিক কম্পাঙ্কের সমান বলে",
+      "optionB": "দোলক স্থির থাকে",
+      "optionC": "ঘর্ষণ সবচেয়ে বেশি",
+      "optionD": "বিস্তার শূন্য",
+      "correctOption": "A",
+      "explanation": "",
+      "questionNo": 23
+    },
+    {
+      "id": "chapter-08-split-03-q24",
+      "questionText": "একটি গাড়ির সাসপেনশন স্প্রিং কম্পনরত, এতে শক অ্যাবজর্বার কী ভূমিকা রাখে?",
+      "optionA": "কম্পাঙ্ক বাড়ায়",
+      "optionB": "অবমন্দন সৃষ্টি করে কম্পন কমায়",
+      "optionC": "বিস্তার বাড়ায়",
+      "optionD": "স্প্রিং ধ্রুবক বাড়ায়",
+      "correctOption": "B",
+      "explanation": "",
+      "questionNo": 24
+    },
+    {
+      "id": "chapter-08-split-03-q25",
+      "questionText": "একটি সরল দোলকের গোলককে পানিতে ডোবালে দোলনকাল কেমন হবে?",
+      "optionA": "বাড়বে",
+      "optionB": "কমবে",
+      "optionC": "একই থাকবে",
+      "optionD": "শূন্য হবে",
+      "correctOption": "B",
+      "explanation": "",
+      "questionNo": 25
+    }
+  ]
+}

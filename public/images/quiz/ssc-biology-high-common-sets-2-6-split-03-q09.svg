@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="100%" height="100%" viewBox="0 0 360 220">
+  <defs>
+    <style>
+      .bg{fill:#020617}
+      .stem{fill:#052e16;stroke:#22c55e;stroke-width:3}
+      .bundle{fill:#0f172a;stroke:#38bdf8;stroke-width:2.4}
+      .xylem{fill:#1e3a8a;stroke:#93c5fd;stroke-width:2}
+      .phloem{fill:#713f12;stroke:#facc15;stroke-width:2}
+      .label{font-family:"Noto Sans Bengali",Arial,sans-serif;font-size:15px;font-weight:800;fill:#e5e7eb}
+      .small{font-family:"Noto Sans Bengali",Arial,sans-serif;font-size:12px;font-weight:700;fill:#cbd5e1}
+    </style>
+  </defs>
+
+  <rect width="360" height="220" rx="18" class="bg"/>
+
+  <ellipse cx="180" cy="110" rx="118" ry="82" class="stem"/>
+
+  <ellipse cx="180" cy="110" rx="78" ry="52" class="bundle"/>
+
+  <path d="M120 110 C135 70 165 58 180 96 C195 58 225 70 240 110 C225 150 195 162 180 124 C165 162 135 150 120 110Z" class="xylem"/>
+  <path d="M91 110 C105 68 145 38 180 38 C215 38 255 68 269 110 C255 152 215 182 180 182 C145 182 105 152 91 110Z" class="phloem" opacity=".55"/>
+
+  <text x="180" y="116" text-anchor="middle" class="label">জাইলেম</text>
+  <text x="180" y="34" text-anchor="middle" class="small">ফ্লোয়েম</text>
+  <text x="180" y="205" text-anchor="middle" class="small">ভাস্কুলার বান্ডল</text>
+</svg>

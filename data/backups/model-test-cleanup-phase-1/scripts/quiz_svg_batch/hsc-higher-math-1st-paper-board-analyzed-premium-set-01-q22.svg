@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 360 220" width="100%" height="100%">
+  <rect width="360" height="220" rx="18" fill="#020617"/>
+  <circle cx="180" cy="110" r="76" fill="#111827" stroke="#38bdf8" stroke-width="4"/>
+  <circle cx="180" cy="110" r="5" fill="#facc15"/>
+  <path d="M110 145 C145 80 215 80 250 145" stroke="#22c55e" stroke-width="4" fill="none"/>
+  <line x1="110" y1="145" x2="250" y2="145" stroke="#facc15" stroke-width="4"/>
+  <circle cx="110" cy="145" r="6" fill="#fff"/>
+  <circle cx="250" cy="145" r="6" fill="#fff"/>
+  <text x="188" y="105" fill="#fff" font-size="15" font-weight="900">O</text>
+</svg>

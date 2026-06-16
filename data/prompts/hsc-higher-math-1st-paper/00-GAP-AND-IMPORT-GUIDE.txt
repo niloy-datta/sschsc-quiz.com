@@ -1,0 +1,65 @@
+HSC Higher Mathematics 1st Paper — Gap Report + Import Guide
+============================================================
+
+CURRENT LIVE STATE (after integrity fix + Ch01 import)
+------------------------------------------------------
+| Chapter | Official Name (NCTB)              | Sets Live | Status                          |
+|---------|-----------------------------------|-----------|----------------------------------|
+| 01      | ম্যাট্রিক্স ও নির্ণায়ক            | 5         | ⚠️ WRONG TOPIC (Sets/Functions) + Set 01–05 DUPLICATE |
+| 02      | ভেক্টর                             | 0         | ❌ MISSING                        |
+| 03      | সরলরেখা                           | 0         | ❌ MISSING                        |
+| 04      | বৃত্ত                              | 0         | ❌ MISSING                        |
+| 05      | বিন্যাস ও সমাবেশ                   | 0         | ❌ MISSING                        |
+| 06      | ত্রিকোণমিতিক অনুপাত               | 0         | ❌ MISSING                        |
+| 07      | সংযুক্ত কোণের ত্রিকোণমিতিক অনুপাত | 0         | ❌ MISSING                        |
+| 08      | ফাংশন ও ফাংশনের লেখচিত্র           | 0         | ❌ MISSING (Ch01 content belongs here) |
+| 09      | অন্তরীকরণ                         | 0         | ❌ MISSING                        |
+| 10      | যোগজীকরণ                          | 0         | ❌ MISSING                        |
+
+Paper-wise (already OK): tier-a-hot-model-test 01–10 = 10 sets × 25 MCQ
+
+TARGET (chapter tab like Biology)
+---------------------------------
+10 chapters × 5 sets × 25 MCQ = 50 sets, 1,250 MCQ
+
+SET SLUG (exact — website import match)
+---------------------------------------
+hsc-higher-math-1st-paper-chapter-{NN}-set-{SS}
+
+Examples:
+  hsc-higher-math-1st-paper-chapter-01-set-01
+  hsc-higher-math-1st-paper-chapter-08-set-03
+
+QUESTION ID (exact)
+-------------------
+hsc-higher-math-1st-paper-chapter-{NN}-set-{SS}-q{QQ}
+  QQ = 01 … 25
+
+SAVE JSON FILES (one file per chapter batch)
+--------------------------------------------
+data/imports/hsc-higher-math-1st-paper-chapter-01-sets-01-05.json
+data/imports/hsc-higher-math-1st-paper-chapter-02-sets-01-05.json
+… through chapter-10
+
+IMPORT COMMAND (after AI generates JSON)
+----------------------------------------
+node scripts/import-hsc-chapterwise-json.js data/imports/hsc-higher-math-1st-paper-chapter-XX-sets-01-05.json higher-math-1st-paper
+node scripts/sync-questions-index-from-mega.js higher-math-1st-paper
+
+Then bump QUIZ_DATA_CACHE_VERSION in src/lib/quiz/load-quiz-data.ts
+
+PROMPT FILES (copy-paste to AI)
+-------------------------------
+00-MASTER-HYPER-PROMPT.txt     — shared rules + JSON schema
+ch01-hyper-prompt.txt          — Chapter 01 (Matrices) — REPLACE wrong Ch01 data
+ch02-hyper-prompt.txt          — Chapter 02 (Vector)
+… ch10-hyper-prompt.txt
+
+OPTIONAL: one-set-at-a-time (token save)
+  ch01-set-01-hyper-prompt.txt … ch01-set-05-hyper-prompt.txt
+
+RECOMMENDED ORDER
+-----------------
+1. Ch01 regen (matrices — fixes wrong topic + duplicates)
+2. Ch08 (functions — if you want to keep old Sets content, move to Ch08)
+3. Ch02–07, Ch09–10

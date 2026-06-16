@@ -1,352 +1,317 @@
 [
   {
-    "id": "ssc-higher-math-ch07-set03-q01",
+    "id": "ssc-higher-math-chapter-07-model-test-03-q01",
     "subject": "higher-math",
     "chapter": "ssc-higher-math-chapter-07-model-test-03",
-    "text": "অসীম গুণোত্তর ধারা: 8 + 8/3 + 8/9 + ... এর সমষ্টি কত?",
+    "text": "P(ঘটনা) = 8/11 হলে সম্পূরক = ?",
     "options": [
-      "12",
-      "8",
-      "16/3",
-      "24"
-    ],
-    "image": null,
-    "timeLimit": 45
-  },
-  {
-    "id": "ssc-higher-math-ch07-set03-q02",
-    "subject": "higher-math",
-    "chapter": "ssc-higher-math-chapter-07-model-test-03",
-    "text": "অসীম গুণোত্তর ধারা: 2 + 2/3 + 2/9 + ... এর সমষ্টি কত?",
-    "options": [
-      "4/3",
-      "6",
-      "3",
-      "2"
-    ],
-    "image": null,
-    "timeLimit": 45
-  },
-  {
-    "id": "ssc-higher-math-ch07-set03-q03",
-    "subject": "higher-math",
-    "chapter": "ssc-higher-math-chapter-07-model-test-03",
-    "text": "অসীম গুণোত্তর ধারা: 3 + 1 + 1/3 + ... এর সমষ্টি কত?",
-    "options": [
-      "3",
-      "9",
-      "9/2",
-      "2"
-    ],
-    "image": null,
-    "timeLimit": 45
-  },
-  {
-    "id": "ssc-higher-math-ch07-set03-q04",
-    "subject": "higher-math",
-    "chapter": "ssc-higher-math-chapter-07-model-test-03",
-    "text": "অসীম গুণোত্তর ধারা: 4 + 4/3 + 4/9 + ... এর সমষ্টি কত?",
-    "options": [
-      "12",
-      "6",
-      "8/3",
-      "4"
-    ],
-    "image": null,
-    "timeLimit": 45
-  },
-  {
-    "id": "ssc-higher-math-ch07-set03-q05",
-    "subject": "higher-math",
-    "chapter": "ssc-higher-math-chapter-07-model-test-03",
-    "text": "অসীম গুণোত্তর ধারা: 6 + 2 + 2/3 + ... এর সমষ্টি কত?",
-    "options": [
-      "4",
-      "9",
-      "18",
-      "6"
-    ],
-    "image": null,
-    "timeLimit": 45
-  },
-  {
-    "id": "ssc-higher-math-ch07-set03-q06",
-    "subject": "higher-math",
-    "chapter": "ssc-higher-math-chapter-07-model-test-03",
-    "text": "অসীম গুণোত্তর ধারা: 8 + 8/3 + 8/9 + ... এর সমষ্টি কত?",
-    "options": [
-      "12",
       "24",
-      "16/3",
-      "8"
+      "5",
+      "11",
+      "-5"
     ],
     "image": null,
+    "optionImages": null,
     "timeLimit": 45
   },
   {
-    "id": "ssc-higher-math-ch07-set03-q07",
+    "id": "ssc-higher-math-chapter-07-model-test-03-q02",
     "subject": "higher-math",
     "chapter": "ssc-higher-math-chapter-07-model-test-03",
-    "text": "অসীম গুণোত্তর ধারা: 2 + 2/3 + 2/9 + ... এর সমষ্টি কত?",
+    "text": "7x + 14 = 196 হলে x = ?",
     "options": [
-      "4/3",
-      "2",
-      "3",
-      "6"
+      "26",
+      "25",
+      "27",
+      "28"
     ],
     "image": null,
+    "optionImages": null,
     "timeLimit": 45
   },
   {
-    "id": "ssc-higher-math-ch07-set03-q08",
+    "id": "ssc-higher-math-chapter-07-model-test-03-q03",
     "subject": "higher-math",
     "chapter": "ssc-higher-math-chapter-07-model-test-03",
-    "text": "অসীম গুণোত্তর ধারা: 6 + 6/5 + 6/25 + ... এর সমষ্টি কত?",
+    "text": "P(ঘটনা) = 6/7 হলে সম্পূরক = ?",
     "options": [
-      "15/2",
+      "7",
+      "-5",
       "6",
-      "30",
-      "24/5"
-    ],
-    "image": null,
-    "timeLimit": 45
-  },
-  {
-    "id": "ssc-higher-math-ch07-set03-q09",
-    "subject": "higher-math",
-    "chapter": "ssc-higher-math-chapter-07-model-test-03",
-    "text": "অসীম গুণোত্তর ধারা: 8 + 8/5 + 8/25 + ... এর সমষ্টি কত?",
-    "options": [
-      "8",
-      "40",
-      "10",
-      "32/5"
-    ],
-    "image": null,
-    "timeLimit": 45
-  },
-  {
-    "id": "ssc-higher-math-ch07-set03-q10",
-    "subject": "higher-math",
-    "chapter": "ssc-higher-math-chapter-07-model-test-03",
-    "text": "অসীম গুণোত্তর ধারা: 2 + 2/5 + 2/25 + ... এর সমষ্টি কত?",
-    "options": [
-      "5/2",
-      "8/5",
-      "2",
-      "10"
-    ],
-    "image": null,
-    "timeLimit": 45
-  },
-  {
-    "id": "ssc-higher-math-ch07-set03-q11",
-    "subject": "higher-math",
-    "chapter": "ssc-higher-math-chapter-07-model-test-03",
-    "text": "অসীম গুণোত্তর ধারা: 3 + 3/5 + 3/25 + ... এর সমষ্টি কত?",
-    "options": [
-      "15",
-      "3",
-      "15/4",
-      "12/5"
-    ],
-    "image": null,
-    "timeLimit": 45
-  },
-  {
-    "id": "ssc-higher-math-ch07-set03-q12",
-    "subject": "higher-math",
-    "chapter": "ssc-higher-math-chapter-07-model-test-03",
-    "text": "অসীম গুণোত্তর ধারা: 4 + 4/5 + 4/25 + ... এর সমষ্টি কত?",
-    "options": [
-      "4",
-      "20",
-      "16/5",
       "5"
     ],
     "image": null,
+    "optionImages": null,
     "timeLimit": 45
   },
   {
-    "id": "ssc-higher-math-ch07-set03-q13",
+    "id": "ssc-higher-math-chapter-07-model-test-03-q04",
     "subject": "higher-math",
     "chapter": "ssc-higher-math-chapter-07-model-test-03",
-    "text": "অসীম গুণোত্তর ধারা: 6 + 6/5 + 6/25 + ... এর সমষ্টি কত?",
+    "text": "4x + 5 = 69 হলে x = ?",
     "options": [
-      "24/5",
-      "6",
-      "15/2",
-      "30"
-    ],
-    "image": null,
-    "timeLimit": 45
-  },
-  {
-    "id": "ssc-higher-math-ch07-set03-q14",
-    "subject": "higher-math",
-    "chapter": "ssc-higher-math-chapter-07-model-test-03",
-    "text": "অসীম গুণোত্তর ধারা: 8 + 8/5 + 8/25 + ... এর সমষ্টি কত?",
-    "options": [
-      "10",
-      "8",
-      "40",
-      "32/5"
-    ],
-    "image": null,
-    "timeLimit": 45
-  },
-  {
-    "id": "ssc-higher-math-ch07-set03-q15",
-    "subject": "higher-math",
-    "chapter": "ssc-higher-math-chapter-07-model-test-03",
-    "text": "উদ্দীপক ৩: নিচের তথ্যের ভিত্তিতে ৫ ও ৬ নং প্রশ্নের উত্তর দাও: ধারা, সমাবেশ অথবা সম্ভাবনার basic formula প্রয়োগ করো। ^9C_3 এর মান কত?",
-    "options": [
-      "81",
-      "84",
-      "504",
-      "87"
-    ],
-    "image": null,
-    "timeLimit": 45
-  },
-  {
-    "id": "ssc-higher-math-ch07-set03-q16",
-    "subject": "higher-math",
-    "chapter": "ssc-higher-math-chapter-07-model-test-03",
-    "text": "সমান্তর ধারার প্রথম পদ 9, সাধারণ অন্তর 5 হলে 12তম পদ কত?",
-    "options": [
-      "69",
-      "64",
-      "59",
-      "69"
-    ],
-    "image": null,
-    "timeLimit": 45
-  },
-  {
-    "id": "ssc-higher-math-ch07-set03-q17",
-    "subject": "higher-math",
-    "chapter": "ssc-higher-math-chapter-07-model-test-03",
-    "text": "সমান্তর ধারার a=3, d=3 হলে প্রথম 8টি পদের সমষ্টি কত?",
-    "options": [
-      "111",
-      "108",
-      "48",
-      "105"
-    ],
-    "image": null,
-    "timeLimit": 45
-  },
-  {
-    "id": "ssc-higher-math-ch07-set03-q18",
-    "subject": "higher-math",
-    "chapter": "ssc-higher-math-chapter-07-model-test-03",
-    "text": "উদ্দীপক ৩: নিচের তথ্যের ভিত্তিতে ৫ ও ৬ নং প্রশ্নের উত্তর দাও: ধারা, সমাবেশ অথবা সম্ভাবনার basic formula প্রয়োগ করো। ^8C_2 এর মান কত?",
-    "options": [
-      "28",
-      "30",
-      "26",
-      "56"
-    ],
-    "image": null,
-    "timeLimit": 45
-  },
-  {
-    "id": "ssc-higher-math-ch07-set03-q19",
-    "subject": "higher-math",
-    "chapter": "ssc-higher-math-chapter-07-model-test-03",
-    "text": "সমান্তর ধারার প্রথম পদ 9, সাধারণ অন্তর 6 হলে 12তম পদ কত?",
-    "options": [
-      "75",
-      "81",
-      "81",
-      "69"
-    ],
-    "image": null,
-    "timeLimit": 45
-  },
-  {
-    "id": "ssc-higher-math-ch07-set03-q20",
-    "subject": "higher-math",
-    "chapter": "ssc-higher-math-chapter-07-model-test-03",
-    "text": "সমান্তর ধারার a=4, d=3 হলে প্রথম 9টি পদের সমষ্টি কত?",
-    "options": [
-      "144",
-      "141",
-      "147",
-      "63"
-    ],
-    "image": null,
-    "timeLimit": 45
-  },
-  {
-    "id": "ssc-higher-math-ch07-set03-q21",
-    "subject": "higher-math",
-    "chapter": "ssc-higher-math-chapter-07-model-test-03",
-    "text": "উদ্দীপক ৩: নিচের তথ্যের ভিত্তিতে ৫ ও ৬ নং প্রশ্নের উত্তর দাও: ধারা, সমাবেশ অথবা সম্ভাবনার basic formula প্রয়োগ করো। ^7C_4 এর মান কত?",
-    "options": [
-      "39",
-      "31",
-      "840",
-      "35"
-    ],
-    "image": null,
-    "timeLimit": 45
-  },
-  {
-    "id": "ssc-higher-math-ch07-set03-q22",
-    "subject": "higher-math",
-    "chapter": "ssc-higher-math-chapter-07-model-test-03",
-    "text": "সমান্তর ধারার প্রথম পদ 9, সাধারণ অন্তর 2 হলে 12তম পদ কত?",
-    "options": [
-      "33",
-      "29",
-      "33",
-      "31"
-    ],
-    "image": null,
-    "timeLimit": 45
-  },
-  {
-    "id": "ssc-higher-math-ch07-set03-q23",
-    "subject": "higher-math",
-    "chapter": "ssc-higher-math-chapter-07-model-test-03",
-    "text": "সমান্তর ধারার a=5, d=3 হলে প্রথম 10টি পদের সমষ্টি কত?",
-    "options": [
-      "182",
-      "80",
-      "185",
-      "188"
-    ],
-    "image": null,
-    "timeLimit": 45
-  },
-  {
-    "id": "ssc-higher-math-ch07-set03-q24",
-    "subject": "higher-math",
-    "chapter": "ssc-higher-math-chapter-07-model-test-03",
-    "text": "উদ্দীপক ৩: নিচের তথ্যের ভিত্তিতে ৫ ও ৬ নং প্রশ্নের উত্তর দাও: ধারা, সমাবেশ অথবা সম্ভাবনার basic formula প্রয়োগ করো। ^6C_3 এর মান কত?",
-    "options": [
-      "120",
-      "23",
       "17",
+      "16",
+      "18",
+      "15"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-higher-math-chapter-07-model-test-03-q05",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-07-model-test-03",
+    "text": "P(ঘটনা) = 4/9 হলে সম্পূরক = ?",
+    "options": [
+      "1",
+      "9",
+      "-1",
       "20"
     ],
     "image": null,
+    "optionImages": null,
     "timeLimit": 45
   },
   {
-    "id": "ssc-higher-math-ch07-set03-q25",
+    "id": "ssc-higher-math-chapter-07-model-test-03-q06",
     "subject": "higher-math",
     "chapter": "ssc-higher-math-chapter-07-model-test-03",
-    "text": "সমান্তর ধারার প্রথম পদ 9, সাধারণ অন্তর 3 হলে 12তম পদ কত?",
+    "text": "2x + 22 = 36 হলে x = ?",
     "options": [
-      "42",
-      "45",
-      "39",
-      "45"
+      "6",
+      "8",
+      "9",
+      "7"
     ],
     "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-higher-math-chapter-07-model-test-03-q07",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-07-model-test-03",
+    "text": "বৃত্তের ব্যাসার্ধ 10 হলে ক্ষেত্রফল ≈ ?",
+    "options": [
+      "100",
+      "20",
+      "314.15",
+      "10"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-higher-math-chapter-07-model-test-03-q08",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-07-model-test-03",
+    "text": "(6 + 12) × 1 = ?",
+    "options": [
+      "-6",
+      "18",
+      "72",
+      "6"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-higher-math-chapter-07-model-test-03-q09",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-07-model-test-03",
+    "text": "6, 7, ... 8 পদের যোগফল = ?",
+    "options": [
+      "14",
+      "82",
+      "76",
+      "48"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-higher-math-chapter-07-model-test-03-q10",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-07-model-test-03",
+    "text": "বৃত্তের ব্যাসার্ধ 7 হলে ক্ষেত্রফল ≈ ?",
+    "options": [
+      "7",
+      "153.93",
+      "14",
+      "49"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-higher-math-chapter-07-model-test-03-q11",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-07-model-test-03",
+    "text": "(4 + 4) × 1 = ?",
+    "options": [
+      "8",
+      "0",
+      "0",
+      "16"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-higher-math-chapter-07-model-test-03-q12",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-07-model-test-03",
+    "text": "3, 4, ... 5 পদের যোগফল = ?",
+    "options": [
+      "8",
+      "15",
+      "25",
+      "28"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-higher-math-chapter-07-model-test-03-q13",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-07-model-test-03",
+    "text": "বৃত্তের ব্যাসার্ধ 4 হলে ক্ষেত্রফল ≈ ?",
+    "options": [
+      "4",
+      "8",
+      "16",
+      "50.265"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-higher-math-chapter-07-model-test-03-q14",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-07-model-test-03",
+    "text": "(9 + 20) × 1 = ?",
+    "options": [
+      "180",
+      "-11",
+      "11",
+      "29"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-higher-math-chapter-07-model-test-03-q15",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-07-model-test-03",
+    "text": "8, 9, ... 3 পদের যোগফল = ?",
+    "options": [
+      "11",
+      "24",
+      "35",
+      "27"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-higher-math-chapter-07-model-test-03-q16",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-07-model-test-03",
+    "text": "7x + 13 = 195 হলে x = ?",
+    "options": [
+      "25",
+      "27",
+      "26",
+      "28"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-higher-math-chapter-07-model-test-03-q17",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-07-model-test-03",
+    "text": "(4 + 3) × 1 = ?",
+    "options": [
+      "1",
+      "7",
+      "-1",
+      "12"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-higher-math-chapter-07-model-test-03-q18",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-07-model-test-03",
+    "text": "P(ঘটনা) = 3/8 হলে সম্পূরক = ?",
+    "options": [
+      "2",
+      "-2",
+      "8",
+      "15"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-higher-math-chapter-07-model-test-03-q19",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-07-model-test-03",
+    "text": "2x + 21 = 33 হলে x = ?",
+    "options": [
+      "8",
+      "5",
+      "7",
+      "6"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-higher-math-chapter-07-model-test-03-q20",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-07-model-test-03",
+    "text": "8, 9, ... 10 পদের যোগফল = ?",
+    "options": [
+      "133",
+      "80",
+      "125",
+      "18"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-higher-math-chapter-07-model-test-03-q21",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-07-model-test-03",
+    "text": "বৃত্তের ব্যাসার্ধ 9 হলে ক্ষেত্রফল ≈ ?",
+    "options": [
+      "254.46",
+      "18",
+      "81",
+      "9"
+    ],
+    "image": null,
+    "optionImages": null,
     "timeLimit": 45
   }
 ]

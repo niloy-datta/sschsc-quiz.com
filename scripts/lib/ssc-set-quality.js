@@ -1,0 +1,59 @@
+/**
+ * Detect low-quality / template-spam quiz sets (repeated stems, placeholder text).
+ */
+
+function normalizeStem(text) {
+  return String(text ?? "")
+    .replace(/\s+/g, " ")
+    .trim()
+    .toLowerCase();
+}
+
+function extractText(q) {
+  return String(q?.text ?? q?.questionText ?? q?.question ?? "").trim();
+}
+
+function isJunkQuestionText(text, subject) {
+  const t = String(text ?? "").trim();
+  if (!t || t.length < 6) return true;
+  if (/ Q\d+$/i.test(t) && t.split(/\s+/).length <= 4) return true;
+  if (/^Chemistry Q/i.test(t) || /^Physics Q/i.test(t) || /^Biology Q/i.test(t)) return true;
+  if (/^Higher Math Q/i.test(t)) return true;
+  if (/^Metal\s/i.test(t) || /^Metal সাধারণত/i.test(t)) return true;
+  if (/^Balancing equation/i.test(t)) return true;
+  if (/^\d+ mol পদার্থে/i.test(t)) return true;
+  if (/^সেট ও ফাংশন Q/i.test(t) || /^বীজগণিত Q/i.test(t) || /^ক্রম ও ধারা Q/i.test(t)) return true;
+  if (/^x=\d+ হলে মান কত/i.test(t)) return true;
+  if (subject === "higher-math" && /^x>\d+ smallest integer$/i.test(t)) return true;
+  return false;
+}
+
+function uniqueStemCount(questions) {
+  const stems = new Set();
+  for (const q of questions) {
+    stems.add(normalizeStem(extractText(q)));
+  }
+  return stems.size;
+}
+
+function isLowQualitySet(questions, subject = "") {
+  if (!Array.isArray(questions) || questions.length < 20) return true;
+
+  const texts = questions.map(extractText);
+  const junkHits = texts.filter((t) => isJunkQuestionText(t, subject)).length;
+  const unique = uniqueStemCount(questions);
+
+  if (junkHits >= 2) return true;
+  if (unique < 12) return true;
+  if (junkHits / questions.length > 0.15) return true;
+
+  return false;
+}
+
+module.exports = {
+  normalizeStem,
+  extractText,
+  isJunkQuestionText,
+  isLowQualitySet,
+  uniqueStemCount,
+};

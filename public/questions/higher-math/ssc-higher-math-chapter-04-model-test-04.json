@@ -1,352 +1,317 @@
 [
   {
-    "id": "ssc-higher-math-ch04-set04-q01",
+    "id": "ssc-higher-math-chapter-04-model-test-04-q01",
     "subject": "higher-math",
     "chapter": "ssc-higher-math-chapter-04-model-test-04",
-    "text": "**নিচের তথ্যের আলোকে 4 ও 5 নং প্রশ্নের উত্তর দাও:** চিত্রে $\\triangle ABC$ এ $\\angle B = 90^\\circ$ এবং $BC$ ও $AB$ এর মধ্যবিন্দু যথাক্রমে $P$ ও $M$। $BP = BM = 8$ সে.মি. $BC$ এর উপর $AP$ ও $AC$ এর লম্ব অভিক্ষেপের দৈর্ঘ্যের সমষ্টি কত সে.মি.?",
+    "text": "P(ঘটনা) = 8/11 হলে সম্পূরক = ?",
     "options": [
-      "8",
-      "16",
+      "5",
       "24",
-      "32"
+      "11",
+      "-5"
     ],
     "image": null,
+    "optionImages": null,
     "timeLimit": 45
   },
   {
-    "id": "ssc-higher-math-ch04-set04-q02",
+    "id": "ssc-higher-math-chapter-04-model-test-04-q02",
     "subject": "higher-math",
     "chapter": "ssc-higher-math-chapter-04-model-test-04",
-    "text": "চিত্রে $Y$-অক্ষের সমান্তরাল একটি রেখাংশের উপর $A, B, C$ বিন্দু অবস্থিত, যেখানে $C$ থেকে $X$-অক্ষের উপর লম্ব $CN$ এবং $A$ থেকে $CN$ এর উপর লম্ব $AC$। $BN$ এর উপর $AB$ এর লম্ব অভিক্ষেপ কোনটি?",
+    "text": "7x + 14 = 203 হলে x = ?",
     "options": [
-      "$AC$",
-      "$BC$",
-      "$MN$",
-      "$CN$"
+      "26",
+      "27",
+      "28",
+      "29"
     ],
     "image": null,
+    "optionImages": null,
     "timeLimit": 45
   },
   {
-    "id": "ssc-higher-math-ch04-set04-q03",
+    "id": "ssc-higher-math-chapter-04-model-test-04-q03",
     "subject": "higher-math",
     "chapter": "ssc-higher-math-chapter-04-model-test-04",
-    "text": "চিত্রে $\\triangle ABC$-এ $AD, BE$ ও $CF$ লম্বত্রয় পরস্পর $P$ বিন্দুতে ছেদ করেছে। $P$ বিন্দুর নাম কী?",
-    "options": [
-      "ভরকেন্দ্র",
-      "লম্ববিন্দু",
-      "অন্তকেন্দ্র",
-      "পরিকেন্দ্র"
-    ],
-    "image": null,
-    "timeLimit": 45
-  },
-  {
-    "id": "ssc-higher-math-ch04-set04-q04",
-    "subject": "higher-math",
-    "chapter": "ssc-higher-math-chapter-04-model-test-04",
-    "text": "একটি মুদ্রা 5 বার নিক্ষেপ করা হলে নমুনা বিন্দুর সংখ্যা কত?",
-    "options": [
-      "25",
-      "64",
-      "5",
-      "32"
-    ],
-    "image": null,
-    "timeLimit": 45
-  },
-  {
-    "id": "ssc-higher-math-ch04-set04-q05",
-    "subject": "higher-math",
-    "chapter": "ssc-higher-math-chapter-04-model-test-04",
-    "text": "কোনো ত্রিভুজের নববিন্দু বৃত্তের ব্যাসার্ধ 4 সে.মি. হলে, এর পরিবৃত্তের ব্যাসার্ধ কত?",
-    "options": [
-      "2 সে.মি.",
-      "4 সে.মি.",
-      "16 সে.মি.",
-      "8 সে.মি."
-    ],
-    "image": null,
-    "timeLimit": 45
-  },
-  {
-    "id": "ssc-higher-math-ch04-set04-q06",
-    "subject": "higher-math",
-    "chapter": "ssc-higher-math-chapter-04-model-test-04",
-    "text": "5^(log₅ 3) এর মান কত?",
-    "options": [
-      "9",
-      "5",
-      "2",
-      "3"
-    ],
-    "image": null,
-    "timeLimit": 45
-  },
-  {
-    "id": "ssc-higher-math-ch04-set04-q07",
-    "subject": "higher-math",
-    "chapter": "ssc-higher-math-chapter-04-model-test-04",
-    "text": "log₂ √8 এর মান কত?",
+    "text": "P(ঘটনা) = 6/7 হলে সম্পূরক = ?",
     "options": [
       "6",
-      "8",
-      "3",
-      "1.5"
-    ],
-    "image": null,
-    "timeLimit": 45
-  },
-  {
-    "id": "ssc-higher-math-ch04-set04-q08",
-    "subject": "higher-math",
-    "chapter": "ssc-higher-math-chapter-04-model-test-04",
-    "text": "(1 - 2x)^n এর বিস্তৃতিতে পদসংখ্যা 7 হলে, n এর মান কত?",
-    "options": [
-      "3",
-      "6",
-      "4",
-      "8"
-    ],
-    "image": null,
-    "timeLimit": 45
-  },
-  {
-    "id": "ssc-higher-math-ch04-set04-q09",
-    "subject": "higher-math",
-    "chapter": "ssc-higher-math-chapter-04-model-test-04",
-    "text": "একটি মুদ্রা 5 বার নিক্ষেপ করা হলে নমুনা বিন্দুর সংখ্যা কত?",
-    "options": [
-      "32",
-      "25",
-      "64",
+      "-5",
+      "7",
       "5"
     ],
     "image": null,
+    "optionImages": null,
     "timeLimit": 45
   },
   {
-    "id": "ssc-higher-math-ch04-set04-q10",
+    "id": "ssc-higher-math-chapter-04-model-test-04-q04",
     "subject": "higher-math",
     "chapter": "ssc-higher-math-chapter-04-model-test-04",
-    "text": "কোনো ত্রিভুজের নববিন্দু বৃত্তের ব্যাসার্ধ 4 সে.মি. হলে, এর পরিবৃত্তের ব্যাসার্ধ কত?",
+    "text": "4x + 6 = 74 হলে x = ?",
     "options": [
-      "2 সে.মি.",
-      "16 সে.মি.",
-      "4 সে.মি.",
-      "8 সে.মি."
+      "17",
+      "18",
+      "19",
+      "16"
     ],
     "image": null,
+    "optionImages": null,
     "timeLimit": 45
   },
   {
-    "id": "ssc-higher-math-ch04-set04-q11",
+    "id": "ssc-higher-math-chapter-04-model-test-04-q05",
     "subject": "higher-math",
     "chapter": "ssc-higher-math-chapter-04-model-test-04",
-    "text": "5^(log₅ 3) এর মান কত?",
+    "text": "P(ঘটনা) = 4/9 হলে সম্পূরক = ?",
     "options": [
-      "5",
-      "3",
       "9",
-      "2"
+      "-1",
+      "1",
+      "20"
     ],
     "image": null,
+    "optionImages": null,
     "timeLimit": 45
   },
   {
-    "id": "ssc-higher-math-ch04-set04-q12",
+    "id": "ssc-higher-math-chapter-04-model-test-04-q06",
     "subject": "higher-math",
     "chapter": "ssc-higher-math-chapter-04-model-test-04",
-    "text": "log₂ √8 এর মান কত?",
+    "text": "2x + 22 = 36 হলে x = ?",
     "options": [
-      "1.5",
-      "6",
       "8",
-      "3"
-    ],
-    "image": null,
-    "timeLimit": 45
-  },
-  {
-    "id": "ssc-higher-math-ch04-set04-q13",
-    "subject": "higher-math",
-    "chapter": "ssc-higher-math-chapter-04-model-test-04",
-    "text": "(1 - 2x)^n এর বিস্তৃতিতে পদসংখ্যা 7 হলে, n এর মান কত?",
-    "options": [
+      "9",
       "6",
-      "3",
-      "8",
-      "4"
+      "7"
     ],
     "image": null,
+    "optionImages": null,
     "timeLimit": 45
   },
   {
-    "id": "ssc-higher-math-ch04-set04-q14",
+    "id": "ssc-higher-math-chapter-04-model-test-04-q07",
     "subject": "higher-math",
     "chapter": "ssc-higher-math-chapter-04-model-test-04",
-    "text": "একটি মুদ্রা 5 বার নিক্ষেপ করা হলে নমুনা বিন্দুর সংখ্যা কত?",
+    "text": "8, 9, ... 3 পদের যোগফল = ?",
     "options": [
-      "64",
-      "32",
-      "25",
+      "11",
+      "24",
+      "35",
+      "27"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-higher-math-chapter-04-model-test-04-q08",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-04-model-test-04",
+    "text": "বৃত্তের ব্যাসার্ধ 10 হলে ক্ষেত্রফল ≈ ?",
+    "options": [
+      "20",
+      "100",
+      "314.15",
+      "10"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-higher-math-chapter-04-model-test-04-q09",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-04-model-test-04",
+    "text": "(7 + 12) × 1 = ?",
+    "options": [
+      "19",
+      "-5",
+      "84",
       "5"
     ],
     "image": null,
+    "optionImages": null,
     "timeLimit": 45
   },
   {
-    "id": "ssc-higher-math-ch04-set04-q15",
+    "id": "ssc-higher-math-chapter-04-model-test-04-q10",
     "subject": "higher-math",
     "chapter": "ssc-higher-math-chapter-04-model-test-04",
-    "text": "5^(log₅ 3) এর মান কত?",
+    "text": "6, 7, ... 8 পদের যোগফল = ?",
     "options": [
-      "2",
-      "9",
-      "5",
-      "3"
+      "82",
+      "76",
+      "14",
+      "48"
     ],
     "image": null,
+    "optionImages": null,
     "timeLimit": 45
   },
   {
-    "id": "ssc-higher-math-ch04-set04-q16",
+    "id": "ssc-higher-math-chapter-04-model-test-04-q11",
     "subject": "higher-math",
     "chapter": "ssc-higher-math-chapter-04-model-test-04",
-    "text": "log₂ √8 এর মান কত?",
+    "text": "বৃত্তের ব্যাসার্ধ 7 হলে ক্ষেত্রফল ≈ ?",
     "options": [
-      "6",
-      "1.5",
+      "7",
+      "14",
+      "153.93",
+      "49"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-higher-math-chapter-04-model-test-04-q12",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-04-model-test-04",
+    "text": "(4 + 4) × 1 = ?",
+    "options": [
+      "0",
       "8",
-      "3"
+      "0",
+      "16"
     ],
     "image": null,
+    "optionImages": null,
     "timeLimit": 45
   },
   {
-    "id": "ssc-higher-math-ch04-set04-q17",
+    "id": "ssc-higher-math-chapter-04-model-test-04-q13",
     "subject": "higher-math",
     "chapter": "ssc-higher-math-chapter-04-model-test-04",
-    "text": "(1 - 2x)^n এর বিস্তৃতিতে পদসংখ্যা 7 হলে, n এর মান কত?",
+    "text": "3, 4, ... 5 পদের যোগফল = ?",
     "options": [
+      "15",
+      "8",
+      "25",
+      "28"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-higher-math-chapter-04-model-test-04-q14",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-04-model-test-04",
+    "text": "বৃত্তের ব্যাসার্ধ 4 হলে ক্ষেত্রফল ≈ ?",
+    "options": [
+      "16",
       "4",
       "8",
-      "3",
-      "6"
+      "50.265"
     ],
     "image": null,
+    "optionImages": null,
     "timeLimit": 45
   },
   {
-    "id": "ssc-higher-math-ch04-set04-q18",
+    "id": "ssc-higher-math-chapter-04-model-test-04-q15",
     "subject": "higher-math",
     "chapter": "ssc-higher-math-chapter-04-model-test-04",
-    "text": "একটি মুদ্রা 5 বার নিক্ষেপ করা হলে নমুনা বিন্দুর সংখ্যা কত?",
+    "text": "(9 + 21) × 1 = ?",
     "options": [
-      "32",
-      "64",
+      "12",
+      "189",
+      "-12",
+      "30"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-higher-math-chapter-04-model-test-04-q16",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-04-model-test-04",
+    "text": "7x + 14 = 196 হলে x = ?",
+    "options": [
+      "27",
+      "26",
       "25",
-      "5"
+      "28"
     ],
     "image": null,
+    "optionImages": null,
     "timeLimit": 45
   },
   {
-    "id": "ssc-higher-math-ch04-set04-q19",
+    "id": "ssc-higher-math-chapter-04-model-test-04-q17",
     "subject": "higher-math",
     "chapter": "ssc-higher-math-chapter-04-model-test-04",
-    "text": "কোনো ত্রিভুজের নববিন্দু বৃত্তের ব্যাসার্ধ 4 সে.মি. হলে, এর পরিবৃত্তের ব্যাসার্ধ কত?",
+    "text": "4x + 5 = 73 হলে x = ?",
     "options": [
-      "4 সে.মি.",
-      "8 সে.মি.",
-      "2 সে.মি.",
-      "16 সে.মি."
+      "19",
+      "18",
+      "17",
+      "16"
     ],
     "image": null,
+    "optionImages": null,
     "timeLimit": 45
   },
   {
-    "id": "ssc-higher-math-ch04-set04-q20",
+    "id": "ssc-higher-math-chapter-04-model-test-04-q18",
     "subject": "higher-math",
     "chapter": "ssc-higher-math-chapter-04-model-test-04",
-    "text": "log₂ √8 এর মান কত?",
+    "text": "4x + 5 = 69 হলে x = ?",
     "options": [
-      "3",
+      "17",
+      "16",
+      "18",
+      "15"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-higher-math-chapter-04-model-test-04-q19",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-04-model-test-04",
+    "text": "(9 + 20) × 1 = ?",
+    "options": [
+      "11",
+      "-11",
+      "180",
+      "29"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-higher-math-chapter-04-model-test-04-q20",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-04-model-test-04",
+    "text": "7x + 13 = 195 হলে x = ?",
+    "options": [
+      "26",
+      "25",
+      "27",
+      "28"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-higher-math-chapter-04-model-test-04-q21",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-04-model-test-04",
+    "text": "P(ঘটনা) = 3/8 হলে সম্পূরক = ?",
+    "options": [
+      "-2",
       "8",
-      "1.5",
-      "6"
-    ],
-    "image": null,
-    "timeLimit": 45
-  },
-  {
-    "id": "ssc-higher-math-ch04-set04-q21",
-    "subject": "higher-math",
-    "chapter": "ssc-higher-math-chapter-04-model-test-04",
-    "text": "(1 - 2x)^n এর বিস্তৃতিতে পদসংখ্যা 7 হলে, n এর মান কত?",
-    "options": [
-      "4",
-      "6",
-      "3",
-      "8"
-    ],
-    "image": null,
-    "timeLimit": 45
-  },
-  {
-    "id": "ssc-higher-math-ch04-set04-q22",
-    "subject": "higher-math",
-    "chapter": "ssc-higher-math-chapter-04-model-test-04",
-    "text": "একটি মুদ্রা 5 বার নিক্ষেপ করা হলে নমুনা বিন্দুর সংখ্যা কত?",
-    "options": [
-      "25",
-      "32",
-      "5",
-      "64"
-    ],
-    "image": null,
-    "timeLimit": 45
-  },
-  {
-    "id": "ssc-higher-math-ch04-set04-q23",
-    "subject": "higher-math",
-    "chapter": "ssc-higher-math-chapter-04-model-test-04",
-    "text": "কোনো ত্রিভুজের নববিন্দু বৃত্তের ব্যাসার্ধ 4 সে.মি. হলে, এর পরিবৃত্তের ব্যাসার্ধ কত?",
-    "options": [
-      "8 সে.মি.",
-      "4 সে.মি.",
-      "16 সে.মি.",
-      "2 সে.মি."
-    ],
-    "image": null,
-    "timeLimit": 45
-  },
-  {
-    "id": "ssc-higher-math-ch04-set04-q24",
-    "subject": "higher-math",
-    "chapter": "ssc-higher-math-chapter-04-model-test-04",
-    "text": "5^(log₅ 3) এর মান কত?",
-    "options": [
-      "5",
       "2",
-      "9",
-      "3"
+      "15"
     ],
     "image": null,
-    "timeLimit": 45
-  },
-  {
-    "id": "ssc-higher-math-ch04-set04-q25",
-    "subject": "higher-math",
-    "chapter": "ssc-higher-math-chapter-04-model-test-04",
-    "text": "log₂ √8 এর মান কত?",
-    "options": [
-      "3",
-      "1.5",
-      "6",
-      "8"
-    ],
-    "image": null,
+    "optionImages": null,
     "timeLimit": 45
   }
 ]

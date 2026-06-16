@@ -1,0 +1,24 @@
+<svg width="100%" height="100%" viewBox="0 0 420 260" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Convex Lens Ray Diagram">
+  <defs>
+    <marker id="arrow" markerWidth="8" markerHeight="8" refX="7" refY="3.5" orient="auto">
+      <path d="M0,0 L0,7 L8,3.5 z" fill="#0f172a"/>
+    </marker>
+    <marker id="arrowBlue" markerWidth="8" markerHeight="8" refX="7" refY="3.5" orient="auto">
+      <path d="M0,0 L0,7 L8,3.5 z" fill="#2563eb"/>
+    </marker>
+  </defs>
+  <rect width="420" height="260" rx="18" fill="#f8fafc"/>
+  <rect x="14" y="14" width="392" height="232" rx="14" fill="#ffffff" stroke="#cbd5e1" stroke-width="1.5"/>
+  <text x="210.0" y="38" text-anchor="middle" font-family="Arial, sans-serif" font-size="15" font-weight="700" fill="#0f172a">Convex Lens Ray Diagram</text>
+  
+  <line x1="55" y1="145" x2="365" y2="145" stroke="#0f172a" stroke-width="2"/>
+  <path d="M210 60 C245 100,245 190,210 230 C175 190,175 100,210 60 Z" fill="#e0f2fe" stroke="#0284c7" stroke-width="2.5"/>
+  <circle cx="150" cy="145" r="4" fill="#ea580c"/><text x="150" y="166" text-anchor="middle" font-size="12" fill="#ea580c">F</text>
+  <circle cx="270" cy="145" r="4" fill="#ea580c"/><text x="270" y="166" text-anchor="middle" font-size="12" fill="#ea580c">F</text>
+  <line x1="85" y1="145" x2="85" y2="75" stroke="#0f172a" stroke-width="3"/>
+  <polygon points="85,75 77,92 93,92" fill="#0f172a"/>
+  <line x1="85" y1="80" x2="210" y2="80" stroke="#dc2626" stroke-width="2"/>
+  <line x1="210" y1="80" x2="330" y2="145" stroke="#dc2626" stroke-width="2" marker-end="url(#arrow)"/>
+  <line x1="85" y1="80" x2="330" y2="210" stroke="#16a34a" stroke-width="2" marker-end="url(#arrow)"/>
+
+</svg>

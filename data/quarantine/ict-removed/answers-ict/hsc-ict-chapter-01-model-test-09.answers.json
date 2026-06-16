@@ -1,0 +1,102 @@
+{
+  "hsc-ict-chapter-01-model-test-09-q01": {
+    "correctOption": "পুরো নেটওয়ার্ক প্রভাবিত হয়",
+    "explanation": "স্টার টপোলজির হাব বা সুইচ নষ্ট হয়ে গেলে পুরো নেটওয়ার্কই অচল হয়ে পড়ে।"
+  },
+  "hsc-ict-chapter-01-model-test-09-q02": {
+    "correctOption": "Hub/Switch",
+    "explanation": "স্টার টপোলজিতে সবগুলো কম্পিউটার একটি কেন্দ্রীয় ডিভাইসের (সাধারণত হাব বা সুইচ) সাথে যুক্ত থাকে।"
+  },
+  "hsc-ict-chapter-01-model-test-09-q03": {
+    "correctOption": "নির্দিষ্ট destination port-এ",
+    "explanation": "সুইচ একটি বুদ্ধিমান ডিভাইস, এটি MAC অ্যাড্রেস রিড করে ডেটা শুধুমাত্র যে কম্পিউটারের জন্য পাঠানো হয়েছে, নির্দিষ্ট করে তার কাছেই পাঠায়।"
+  },
+  "hsc-ict-chapter-01-model-test-09-q04": {
+    "correctOption": "internet communication protocol suite",
+    "explanation": "TCP/IP (Transmission Control Protocol/Internet Protocol) হলো ইন্টারনেটের সবচেয়ে মৌলিক প্রোটোকল স্যুট বা নিয়মাবলি, যার উপর ভিত্তি করে ইন্টারনেট চলে।"
+  },
+  "hsc-ict-chapter-01-model-test-09-q05": {
+    "correctOption": "Coaxial cable",
+    "explanation": "টেলিভিশনের ডিশ লাইন বা কেবল টিভি নেটওয়ার্কে সাধারণত কো-অক্সিয়াল ক্যাবল ব্যবহার করা হয়ে থাকে।"
+  },
+  "hsc-ict-chapter-01-model-test-09-q06": {
+    "correctOption": "নেটওয়ার্কের গঠন/বিন্যাস",
+    "explanation": "নেটওয়ার্কের কম্পিউটার বা ডিভাইসগুলোকে কীভাবে বা কোন জ্যামিতিক নকশায় একে অপরের সাথে যুক্ত করা হয়েছে, তার লে-আউটকেই টপোলজি বলে।"
+  },
+  "hsc-ict-chapter-01-model-test-09-q07": {
+    "correctOption": "Font color",
+    "explanation": "মাধ্যম নির্বাচনের সময় খরচ, ব্যান্ডউইথ বা স্পিড এবং দূরত্ব বিবেচনা করতে হয়। ফন্ট কালারের সাথে এর কোনো সম্পর্ক নেই।"
+  },
+  "hsc-ict-chapter-01-model-test-09-q08": {
+    "correctOption": "২",
+    "explanation": "ট্রান্সমিশন মাধ্যম মূলত ২ প্রকার: তারযুক্ত (Guided) এবং তারবিহীন (Unguided) মাধ্যম।"
+  },
+  "hsc-ict-chapter-01-model-test-09-q09": {
+    "correctOption": "Bus ও Star",
+    "explanation": "ট্রি টপোলজি মূলত একাধিক স্টার টপোলজিকে একটি বাস বা ব্যাকবোনের সাথে যুক্ত করে তৈরি করা হয়।"
+  },
+  "hsc-ict-chapter-01-model-test-09-q10": {
+    "correctOption": "LAN",
+    "explanation": "বাসা-বাড়ি, অফিস বা ছোট এলাকার লোকাল এরিয়া নেটওয়ার্কে (LAN) সবচেয়ে বেশি ব্যবহৃত হয় টুইস্টেড পেয়ার ক্যাবল।"
+  },
+  "hsc-ict-chapter-01-model-test-09-q11": {
+    "correctOption": "Uniform Resource Locator",
+    "explanation": "URL এর পূর্ণরূপ Uniform Resource Locator, যা ইন্টারনেটে থাকা কোনো ওয়েবপেজ বা ফাইলের নির্দিষ্ট ঠিকানা।"
+  },
+  "hsc-ict-chapter-01-model-test-09-q12": {
+    "correctOption": "থাকে না",
+    "explanation": "UTP (Unshielded Twisted Pair) তে কোনো এক্সট্রা শিল্ডিং বা মেটাল ফয়েল থাকে না, তাই নয়েজের প্রভাব বেশি পড়ে।"
+  },
+  "hsc-ict-chapter-01-model-test-09-q13": {
+    "correctOption": "Unshielded Twisted Pair",
+    "explanation": "UTP এর পূর্ণরূপ হলো Unshielded Twisted Pair, যেটিতে কোনো প্রতিরক্ষামূলক জ্যাকেট বা শিল্ড থাকে না।"
+  },
+  "hsc-ict-chapter-01-model-test-09-q14": {
+    "correctOption": "তারবিহীন মাধ্যম",
+    "explanation": "Unguided বা অ-পরিচালিত মাধ্যম হলো তারবিহীন মাধ্যম, যেখানে ডেটা বাতাস বা স্পেসের মধ্য দিয়ে যায়।"
+  },
+  "hsc-ict-chapter-01-model-test-09-q15": {
+    "correctOption": "Microwave",
+    "explanation": "রেডিও ওয়েভ, মাইক্রোওয়েভ, স্যাটেলাইট, ইনফ্রারেড ইত্যাদি হলো আনগাইডেড বা ওয়্যারলেস মাধ্যমের উদাহরণ।"
+  },
+  "hsc-ict-chapter-01-model-test-09-q16": {
+    "correctOption": "Internet",
+    "explanation": "ইন্টারনেট হলো বিশ্বজুড়ে ছড়িয়ে থাকা সবচেয়ে বড় ওয়াইড এরিয়া নেটওয়ার্ক বা WAN এর উদাহরণ।"
+  },
+  "hsc-ict-chapter-01-model-test-09-q17": {
+    "correctOption": "Wide Area Network",
+    "explanation": "WAN এর পূর্ণরূপ Wide Area Network।"
+  },
+  "hsc-ict-chapter-01-model-test-09-q18": {
+    "correctOption": "World Wide Web",
+    "explanation": "WWW এর পূর্ণরূপ হলো World Wide Web, যা ইন্টারনেটের মাধ্যমে অ্যাক্সেসযোগ্য ইন্টারলিংকড হাইপারটেক্সট ডকুমেন্টের একটি সিস্টেম।"
+  },
+  "hsc-ict-chapter-01-model-test-09-q19": {
+    "correctOption": "Wireless",
+    "explanation": "ওয়াই-ফাই লোকাল এরিয়া নেটওয়ার্কে ওয়্যারলেস বা তারবিহীন যোগাযোগের জন্য ব্যবহৃত হয়।"
+  },
+  "hsc-ict-chapter-01-model-test-09-q20": {
+    "correctOption": "wireless LAN connection",
+    "explanation": "লোকাল এরিয়া নেটওয়ার্কে (LAN) তার ছাড়াই ডিভাইসগুলোকে ইন্টারনেটের সাথে যুক্ত করতে ওয়াই-ফাই ব্যবহৃত হয়।"
+  },
+  "hsc-ict-chapter-01-model-test-09-q21": {
+    "correctOption": "domain name",
+    "explanation": "google.com হলো ডোমেইন নেম। এটি কোনো আইপি অ্যাড্রেস বা ম্যাক অ্যাড্রেস নয়।"
+  },
+  "hsc-ict-chapter-01-model-test-09-q22": {
+    "correctOption": "Message",
+    "explanation": "যেকোনো ডেটা বা তথ্য যা এক স্থান থেকে অন্য স্থানে পাঠানো হয় তাকে Message বা বার্তা বলা হয়।"
+  },
+  "hsc-ict-chapter-01-model-test-09-q23": {
+    "correctOption": "একাধিক কম্পিউটারের সংযোগ",
+    "explanation": "রিসোর্স বা ডেটা শেয়ার করার উদ্দেশ্যে দুই বা ততোধিক কম্পিউটার বা ডিভাইসকে কোনো মাধ্যম দিয়ে যুক্ত করাকেই নেটওয়ার্ক বলে।"
+  },
+  "hsc-ict-chapter-01-model-test-09-q24": {
+    "correctOption": "Digital",
+    "explanation": "কম্পিউটার বাইনারি ডেটা বা ডিজিটাল সিগন্যাল (০ এবং ১) বুঝতে ও ব্যবহার করতে পারে।"
+  },
+  "hsc-ict-chapter-01-model-test-09-q25": {
+    "correctOption": "Optical fiber",
+    "explanation": "অপটিক্যাল ফাইবারে বিদ্যুৎ ব্যবহার না করে আলো ব্যবহার করা হয়, তাই এতে চৌম্বকীয় ক্ষেত্র বা EMI এর কোনো প্রভাব পড়ে না।"
+  }
+}

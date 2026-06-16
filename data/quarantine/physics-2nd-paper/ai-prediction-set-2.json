@@ -1,0 +1,207 @@
+{
+  "setId": "ai-prediction-set-2",
+  "reason": "HIDDEN_LEGACY_KEY",
+  "quarantinedAt": "2026-06-13T17:57:54.916Z",
+  "questions": [
+    {
+      "id": "physics-2nd-paper-hsc-science-physics-2nd-paper-most-important-ai-prediction-set-2-ts-0",
+      "questionText": "Cp − Cv = R, এই সম্পর্কের ক্ষেত্রে R এর মান কত?",
+      "optionA": "8.314 J/K",
+      "optionB": "8.314 J mol⁻¹ K⁻¹",
+      "optionC": "1.98 cal/mol·K",
+      "optionD": "4.2 J/cal",
+      "correctOption": "B",
+      "explanation": "R = 8.314 J mol⁻¹ K⁻¹ — এটি মোলার গ্যাস ধ্রুবক। এককসহ মনে রাখতে হবে।"
+    },
+    {
+      "id": "physics-2nd-paper-hsc-science-physics-2nd-paper-most-important-ai-prediction-set-2-ts-1",
+      "questionText": "একটি হিমায়কের (Refrigerator) কর্মসম্পাদন সহগ (K) 2.5। যদি এটি শীতল প্রকোষ্ঠ থেকে 1000 J তাপ অপসারণ করে, তবে কম্প্রেসর দ্বারা কত কাজ করা হয়?",
+      "optionA": "2500 J",
+      "optionB": "400 J",
+      "optionC": "1000 J",
+      "optionD": "1250 J",
+      "correctOption": "B",
+      "explanation": "K = Q₂/W ⇒ W = Q₂/K = 1000/2.5 = 400 J"
+    },
+    {
+      "id": "physics-2nd-paper-hsc-science-physics-2nd-paper-most-important-ai-prediction-set-2-ts-2",
+      "questionText": "বায়ু মাধ্যমে দুটি আধানের মধ্যবর্তী বল 80 N। আধান দুটিকে অপরিবর্তিত দূরত্বে পানিতে (K = 80) রাখলে তাদের মধ্যবর্তী বল কত হবে?",
+      "optionA": "80 N",
+      "optionB": "6400 N",
+      "optionC": "1 N",
+      "optionD": "0 N",
+      "correctOption": "C",
+      "explanation": "পানিতে বল = বায়ুতে বল / K = 80/80 = 1 N। ডাইইলেকট্রিক মাধ্যমে বল কমে যায়।"
+    },
+    {
+      "id": "physics-2nd-paper-hsc-science-physics-2nd-paper-most-important-ai-prediction-set-2-ts-3",
+      "questionText": "তড়িৎ ফ্লাক্স (Φ) এর মাত্রা (Dimension) কোনটি?",
+      "optionA": "ML³T⁻²A⁻¹",
+      "optionB": "ML²T⁻³A⁻¹",
+      "optionC": "ML³T⁻³A⁻¹",
+      "optionD": "MLT⁻²A⁻¹",
+      "correctOption": "C",
+      "explanation": "Φ = E·A = (F/q)×A, মাত্রা বিশ্লেষণ করে পাওয়া যায় ML³T⁻³A⁻¹।"
+    },
+    {
+      "id": "physics-2nd-paper-hsc-science-physics-2nd-paper-most-important-ai-prediction-set-2-ts-4",
+      "questionText": "5Ω রোধের ৩টি তারকে সমান্তরালে যুক্ত করলে সমতুল্য রোধ কত হবে?",
+      "optionA": "15Ω",
+      "optionB": "1.67Ω",
+      "optionC": "0.6Ω",
+      "optionD": "7.5Ω",
+      "correctOption": "B",
+      "explanation": "সমান্তরালে Rp = R/n = 5/3 ≈ 1.67 Ω"
+    },
+    {
+      "id": "physics-2nd-paper-hsc-science-physics-2nd-paper-most-important-ai-prediction-set-2-ts-5",
+      "questionText": "তড়িৎ প্রাবল্য (E) এবং প্রবাহ ঘনত্ব (J) এর মধ্যকার সম্পর্ক কোনটি? (σ = পরিবাহিতা)",
+      "optionA": "E = σJ",
+      "optionB": "J = σE",
+      "optionC": "J = ρE",
+      "optionD": "E = J²σ",
+      "correctOption": "B",
+      "explanation": "ওহমের সূত্রের অণুবীক্ষণিক রূপ: J = σE, যেখানে σ পরিবাহিতা এবং ρ = 1/σ রোধাঙ্ক।"
+    },
+    {
+      "id": "physics-2nd-paper-hsc-science-physics-2nd-paper-most-important-ai-prediction-set-2-ts-6",
+      "questionText": "একটি টরয়েডের (Toroid) অভ্যন্তরে উৎপন্ন চৌম্বক ক্ষেত্র (B) কিসের ওপর নির্ভর করে না?",
+      "optionA": "তড়িৎপ্রবাহ",
+      "optionB": "প্যাঁচ সংখ্যা",
+      "optionC": "টরয়েডের কোর এর বাইরের ব্যাসার্ধ",
+      "optionD": "মাধ্যমের ভেদনযোগ্যতা",
+      "correctOption": "C",
+      "explanation": "টরয়েডের ভেতরে B = μ₀nI, যা কোরের ব্যাসার্ধের ওপর নির্ভর করে না।"
+    },
+    {
+      "id": "physics-2nd-paper-hsc-science-physics-2nd-paper-most-important-ai-prediction-set-2-ts-7",
+      "questionText": "মিউচুয়াল ইন্ডাকট্যান্স বা পারস্পরিক আবেশাঙ্কের একক কোনটি?",
+      "optionA": "ওয়েবার",
+      "optionB": "টেসলা",
+      "optionC": "হেনরি (Henry)",
+      "optionD": "ফ্যারাড",
+      "correctOption": "C",
+      "explanation": "ইন্ডাকট্যান্সের একক হেনরি (H)। ওয়েবার চৌম্বক ফ্লাক্সের, টেসলা চৌম্বকক্ষেত্রের, ফ্যারাড ধারকত্বের একক।"
+    },
+    {
+      "id": "physics-2nd-paper-hsc-science-physics-2nd-paper-most-important-ai-prediction-set-2-ts-8",
+      "questionText": "পরম প্রতিসরাঙ্কের (Absolute Refractive Index) মান সর্বদা—",
+      "optionA": "১ এর কম হয়",
+      "optionB": "১ অপেক্ষা বড় বা ১ এর সমান হয়",
+      "optionC": "ঋণাত্মক হয়",
+      "optionD": "শূন্য হয়",
+      "correctOption": "B",
+      "explanation": "পরম প্রতিসরাঙ্ক μ = c/v, যেহেতু v ≤ c, তাই μ ≥ 1।"
+    },
+    {
+      "id": "physics-2nd-paper-hsc-science-physics-2nd-paper-most-important-ai-prediction-set-2-ts-9",
+      "questionText": "অপটিক্যাল ফাইবার তার কোর ও ক্ল্যাডিং এর মধ্যে কোন নীতির ওপর ভিত্তি করে কাজ করে?",
+      "optionA": "আলোর প্রতিফলন",
+      "optionB": "আলোর পূর্ণ অভ্যন্তরীণ প্রতিফলন",
+      "optionC": "আলোর ব্যতিচার",
+      "optionD": "আলোর বিচ্ছুরণ",
+      "correctOption": "B",
+      "explanation": "অপটিক্যাল ফাইবার পূর্ণ অভ্যন্তরীণ প্রতিফলনের নীতিতে কাজ করে। কোরের প্রতিসরাঙ্ক > ক্ল্যাডিং এর প্রতিসরাঙ্ক।"
+    },
+    {
+      "id": "physics-2nd-paper-hsc-science-physics-2nd-paper-most-important-ai-prediction-set-2-ts-10",
+      "questionText": "ব্রুস্টারের সূত্র অনুযায়ী সমবর্তন কোণ (i_p) এবং মাধ্যমের প্রতিসরাঙ্ক (μ) এর সম্পর্ক কোনটি?",
+      "optionA": "tan i_p = μ",
+      "optionB": "sin i_p = μ",
+      "optionC": "cos i_p = μ",
+      "optionD": "cot i_p = μ",
+      "correctOption": "A",
+      "explanation": "ব্রুস্টারের সূত্র: tan i_p = μ। সমবর্তন কোণে প্রতিফলিত রশ্মি সম্পূর্ণ সমবর্তিত হয়।"
+    },
+    {
+      "id": "physics-2nd-paper-hsc-science-physics-2nd-paper-most-important-ai-prediction-set-2-ts-11",
+      "questionText": "যদি কোনো পর্যবেক্ষকের সাপেক্ষে একটি রকেট 0.6c বেগে চলে, তবে অতিক্রান্ত সময় ও স্থির সময়ের অনুপাত (t : t₀) কত?",
+      "optionA": "1.00",
+      "optionB": "0.80",
+      "optionC": "1.25",
+      "optionD": "0.60",
+      "correctOption": "C",
+      "explanation": "t = t₀/√(1 − 0.6²) = t₀/√(1 − 0.36) = t₀/√0.64 = t₀/0.8 = 1.25 t₀"
+    },
+    {
+      "id": "physics-2nd-paper-hsc-science-physics-2nd-paper-most-important-ai-prediction-set-2-ts-12",
+      "questionText": "ফোটোতড়িৎ ক্রিয়ায় সূচন কম্পাঙ্ক (Threshold Frequency) কিসের বৈশিষ্ট্য?",
+      "optionA": "আপতিত আলোর",
+      "optionB": "আপতিত ফোটনের শক্তির",
+      "optionC": "যে ধাতুর ওপর আলো পড়ে তার",
+      "optionD": "উৎপন্ন তড়িৎপ্রবাহের",
+      "correctOption": "C",
+      "explanation": "সূচন কম্পাঙ্ক ধাতুর নিজস্ব বৈশিষ্ট্য — এটি ধাতুর কার্যাপেক্ষকের ওপর নির্ভর করে, আপতিত আলোর ওপর নয়।"
+    },
+    {
+      "id": "physics-2nd-paper-hsc-science-physics-2nd-paper-most-important-ai-prediction-set-2-ts-13",
+      "questionText": "একটি নিউক্লিয়াসের ভর ত্রুটি (Mass Defect) Δm হলে তার বন্ধন শক্তি (Binding Energy) কত?",
+      "optionA": "Δm/c²",
+      "optionB": "Δm c²",
+      "optionC": "Δm c",
+      "optionD": "½ Δm c²",
+      "correctOption": "B",
+      "explanation": "আইনস্টাইনের ভর-শক্তি সমীকরণ: E = Δm c²। ভর ত্রুটিই নিউক্লিয়নে রূপান্তরিত হয়ে বন্ধন শক্তি হিসেবে প্রকাশ পায়।"
+    },
+    {
+      "id": "physics-2nd-paper-hsc-science-physics-2nd-paper-most-important-ai-prediction-set-2-ts-14",
+      "questionText": "তেজস্ক্রিয়তায় β-কণা মূলত কী?",
+      "optionA": "হিলিয়াম নিউক্লিয়াস",
+      "optionB": "দ্রুতগামী ইলেকট্রন",
+      "optionC": "তড়িৎচুম্বকীয় তরঙ্গ",
+      "optionD": "দ্রুতগামী প্রোটন",
+      "correctOption": "B",
+      "explanation": "β⁻ কণা হলো দ্রুতগামী ইলেকট্রন। α কণা হিলিয়াম নিউক্লিয়াস, γ রশ্মি তড়িৎচুম্বকীয় তরঙ্গ।"
+    },
+    {
+      "id": "physics-2nd-paper-hsc-science-physics-2nd-paper-most-important-ai-prediction-set-2-ts-15",
+      "questionText": "একটি n-টাইপ অর্ধপরিবাহীর নিট বা সামগ্রিক চার্জ কত?",
+      "optionA": "ঋণাত্মক",
+      "optionB": "ধনাত্মক",
+      "optionC": "শূন্য (নিরপেক্ষ)",
+      "optionD": "অসীম",
+      "correctOption": "C",
+      "explanation": "n-type এ ইলেকট্রন মেজরিটি ক্যারিয়ার হলেও পরমাণু সামগ্রিকভাবে চার্জ নিরপেক্ষ থাকে। এটি ঢাকা বোর্ডের প্রিয় ট্রিক!"
+    },
+    {
+      "id": "physics-2nd-paper-hsc-science-physics-2nd-paper-most-important-ai-prediction-set-2-ts-16",
+      "questionText": "ফুল-ওয়েভ রেকটিফায়ারের সাহায্যে AC কে DC তে রূপান্তর করতে ন্যূনতম কয়টি ডায়োড প্রয়োজন (সেন্টার ট্যাপড)?",
+      "optionA": "১টি",
+      "optionB": "২টি",
+      "optionC": "৩টি",
+      "optionD": "৪টি",
+      "correctOption": "B",
+      "explanation": "সেন্টার ট্যাপড ফুল-ওয়েভ রেকটিফায়ারে ২টি ডায়োড প্রয়োজন। ব্রিজ রেকটিফায়ারে ৪টি ডায়োড লাগে।"
+    },
+    {
+      "id": "physics-2nd-paper-hsc-science-physics-2nd-paper-most-important-ai-prediction-set-2-ts-17",
+      "questionText": "বুলিয়ান অ্যালজেবরায় A + Ā এর মান কত?",
+      "optionA": "0",
+      "optionB": "1",
+      "optionC": "A",
+      "optionD": "Ā",
+      "correctOption": "B",
+      "explanation": "A + Ā = 1 — এটি বুলিয়ান অ্যালজেবরার কমপ্লিমেন্ট সূত্র।"
+    },
+    {
+      "id": "physics-2nd-paper-hsc-science-physics-2nd-paper-most-important-ai-prediction-set-2-ts-18",
+      "questionText": "নিচের কোন ট্রানজিস্টর অ্যাম্প্লিফায়ার কনফিগারেশনে ভোল্টেজ লাভ ও কারেন্ট লাভ উভয়ই বেশি পাওয়া যায়?",
+      "optionA": "কমন বেস (CB)",
+      "optionB": "কমন এমিটার (CE)",
+      "optionC": "কমন কালেক্টর (CC)",
+      "optionD": "সবগুলোতে সমান",
+      "correctOption": "B",
+      "explanation": "CE কনফিগারেশনে ভোল্টেজ লাভ ও কারেন্ট লাভ উভয়ই বেশি — এজন্যই এটি রেডিও, টিভি ও স্পিকারে সর্বাধিক ব্যবহৃত হয়।"
+    },
+    {
+      "id": "physics-2nd-paper-hsc-science-physics-2nd-paper-most-important-ai-prediction-set-2-ts-19",
+      "questionText": "4000 Å তরঙ্গদৈর্ঘ্যের একটি ফোটনের শক্তি কত ইলেকট্রন ভোল্ট (eV)?",
+      "optionA": "1.2 eV",
+      "optionB": "2.5 eV",
+      "optionC": "3.1 eV",
+      "optionD": "4.5 eV",
+      "correctOption": "C",
+      "explanation": "শর্টকাট সূত্র: E(eV) = 12400/λ(Å) = 12400/4000 = 3.1 eV"
+    }
+  ]
+}

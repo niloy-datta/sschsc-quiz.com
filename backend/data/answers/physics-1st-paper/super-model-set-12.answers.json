@@ -1,177 +1,102 @@
 {
-  "physics-1st-paper-hsc-science-physics-1st-paper-model-tests-super-model-set-12-ts-0": {
-    "answer": "A × B =0",
-    "answerIndex": 1,
-    "difficulty": 1200,
-    "explanation": "সমান্তরাল হলে মধ্যবর্তী কোণ θ=0 ∘ । ক্রস গুণফল ∣ A × B ∣=ABsin0 ∘ =0।",
-    "topic": "super-model-set-12"
+  "super-model-set-12-q01": {
+    "correctOption": "A × B =0",
+    "explanation": "সমান্তরাল হলে মধ্যবর্তী কোণ θ=0 ∘ । ক্রস গুণফল ∣ A × B ∣=ABsin0 ∘ =0।"
   },
-  "physics-1st-paper-hsc-science-physics-1st-paper-model-tests-super-model-set-12-ts-1": {
-    "answer": "4b a 2 ​",
-    "answerIndex": 2,
-    "difficulty": 1200,
-    "explanation": "y=0 বসালে পাল্লা R= b a ​ পাওয়া যায়। সর্বোচ্চ উচ্চতা x= 2 R ​ = 2b a ​ বিন্দুতে ঘটে। x-এর এই মান মূল সমীকরণে বসালে H=a( 2b a ​ )−b( 4b 2 a 2 ​ )= 2b a 2 ​ − 4b a 2 ​ = 4b a 2 ​ ।",
-    "topic": "super-model-set-12"
+  "super-model-set-12-q02": {
+    "correctOption": "4b a 2 ​",
+    "explanation": "y=0 বসালে পাল্লা R= b a ​ পাওয়া যায়। সর্বোচ্চ উচ্চতা x= 2 R ​ = 2b a ​ বিন্দুতে ঘটে। x-এর এই মান মূল সমীকরণে বসালে H=a( 2b a ​ )−b( 4b 2 a 2 ​ )= 2b a 2 ​ − 4b a 2 ​ = 4b a 2 ​ ।"
   },
-  "physics-1st-paper-hsc-science-physics-1st-paper-model-tests-super-model-set-12-ts-2": {
-    "answer": "tanθ= rg v 2 ​",
-    "answerIndex": 0,
-    "difficulty": 1200,
-    "explanation": "সাইকেল আরোহীর ক্ষেত্রে কেন্দ্রমুখী বলের জোগান দেয় ঘর্ষণ ও প্রতিক্রিয়া বলের অণুভূমিক উপাংশ, যা গাণিতিকভাবে tanθ= rg v 2 ​ দ্বারা প্রকাশিত হয়।",
-    "topic": "super-model-set-12"
+  "super-model-set-12-q03": {
+    "correctOption": "tanθ= rg v 2 ​",
+    "explanation": "সাইকেল আরোহীর ক্ষেত্রে কেন্দ্রমুখী বলের জোগান দেয় ঘর্ষণ ও প্রতিক্রিয়া বলের অণুভূমিক উপাংশ, যা গাণিতিকভাবে tanθ= rg v 2 ​ দ্বারা প্রকাশিত হয়।"
   },
-  "physics-1st-paper-hsc-science-physics-1st-paper-model-tests-super-model-set-12-ts-3": {
-    "answer": "1 HP=0.746 kW",
-    "answerIndex": 1,
-    "difficulty": 1200,
-    "explanation": "1 HP=746 W= 1000 746 ​ kW=0.746 kW।",
-    "topic": "super-model-set-12"
+  "super-model-set-12-q04": {
+    "correctOption": "1 HP=0.746 kW",
+    "explanation": "1 HP=746 W= 1000 746 ​ kW=0.746 kW।"
   },
-  "physics-1st-paper-hsc-science-physics-1st-paper-model-tests-super-model-set-12-ts-4": {
-    "answer": "4 F ​",
-    "answerIndex": 3,
-    "difficulty": 1200,
-    "explanation": "মহাকর্ষ বল দূরত্বের বর্গের ব্যস্তানুপাতিক (F∝ d 2 1 ​ )। দূরত্ব দ্বিগুণ (2d) হলে বল 2 2 1 ​ = 4 1 ​ গুণ হবে।",
-    "topic": "super-model-set-12"
+  "super-model-set-12-q05": {
+    "correctOption": "4 F ​",
+    "explanation": "মহাকর্ষ বল দূরত্বের বর্গের ব্যস্তানুপাতিক (F∝ d 2 1 ​ )। দূরত্ব দ্বিগুণ (2d) হলে বল 2 2 1 ​ = 4 1 ​ গুণ হবে।"
   },
-  "physics-1st-paper-hsc-science-physics-1st-paper-model-tests-super-model-set-12-ts-5": {
-    "answer": "গোলকের ঘনত্বের সমানুপাতিক",
-    "answerIndex": 2,
-    "difficulty": 1200,
-    "explanation": "v= 9η 2r 2 (ρ−σ)g ​ । যদি তরলের ঘনত্ব σ নগণ্য হয়, তবে v∝ρ (গোলকের ঘনত্ব)।",
-    "topic": "super-model-set-12"
+  "super-model-set-12-q06": {
+    "correctOption": "গোলকের ঘনত্বের সমানুপাতিক",
+    "explanation": "v= 9η 2r 2 (ρ−σ)g ​ । যদি তরলের ঘনত্ব σ নগণ্য হয়, তবে v∝ρ (গোলকের ঘনত্ব)।"
   },
-  "physics-1st-paper-hsc-science-physics-1st-paper-model-tests-super-model-set-12-ts-6": {
-    "answer": "0.02 J",
-    "answerIndex": 1,
-    "difficulty": 1200,
-    "explanation": "E= 2 1 ​ kx 2 = 2 1 ​ ×100×(0.02) 2 =50×0.0004=0.02 J।",
-    "topic": "super-model-set-12"
+  "super-model-set-12-q07": {
+    "correctOption": "0.02 J",
+    "explanation": "E= 2 1 ​ kx 2 = 2 1 ​ ×100×(0.02) 2 =50×0.0004=0.02 J।"
   },
-  "physics-1st-paper-hsc-science-physics-1st-paper-model-tests-super-model-set-12-ts-7": {
-    "answer": "ρ∝ T 1 ​",
-    "answerIndex": 1,
-    "difficulty": 1200,
-    "explanation": "চার্লসের সূত্র মতে V∝T। ঘনত্ব ρ= V m ​ , তাই V বাড়লে ρ কমে। অর্থাৎ ρ∝ T 1 ​ ।",
-    "topic": "super-model-set-12"
+  "super-model-set-12-q08": {
+    "correctOption": "ρ∝ T 1 ​",
+    "explanation": "চার্লসের সূত্র মতে V∝T। ঘনত্ব ρ= V m ​ , তাই V বাড়লে ρ কমে। অর্থাৎ ρ∝ T 1 ​ ।"
   },
-  "physics-1st-paper-hsc-science-physics-1st-paper-model-tests-super-model-set-12-ts-8": {
-    "answer": "4",
-    "answerIndex": 1,
-    "difficulty": 1200,
-    "explanation": "লম্ব হওয়ার শর্ত A ⋅ B =0⟹(3×c)+(2×−6)=0⟹3c−12=0⟹c=4।",
-    "topic": "super-model-set-12"
+  "super-model-set-12-q09": {
+    "correctOption": "4",
+    "explanation": "লম্ব হওয়ার শর্ত A ⋅ B =0⟹(3×c)+(2×−6)=0⟹3c−12=0⟹c=4।"
   },
-  "physics-1st-paper-hsc-science-physics-1st-paper-model-tests-super-model-set-12-ts-9": {
-    "answer": "I∝ ω 1 ​",
-    "answerIndex": 1,
-    "difficulty": 1200,
-    "explanation": "L=Iω=Constant। সুতরাং, I∝ ω 1 ​ ।",
-    "topic": "super-model-set-12"
+  "super-model-set-12-q10": {
+    "correctOption": "I∝ ω 1 ​",
+    "explanation": "L=Iω=Constant। সুতরাং, I∝ ω 1 ​ ।"
   },
-  "physics-1st-paper-hsc-science-physics-1st-paper-model-tests-super-model-set-12-ts-10": {
-    "answer": "6 ​ T",
-    "answerIndex": 1,
-    "difficulty": 1200,
-    "explanation": "T=2π g L ​ ​ । g যদি 6 গুণ কমে যায়, তবে T মান 6 ​ গুণ বেড়ে যাবে।",
-    "topic": "super-model-set-12"
+  "super-model-set-12-q11": {
+    "correctOption": "6 ​ T",
+    "explanation": "T=2π g L ​ ​ । g যদি 6 গুণ কমে যায়, তবে T মান 6 ​ গুণ বেড়ে যাবে।"
   },
-  "physics-1st-paper-hsc-science-physics-1st-paper-model-tests-super-model-set-12-ts-11": {
-    "answer": "৪ গুণ",
-    "answerIndex": 1,
-    "difficulty": 1200,
-    "explanation": "p= 2mE k ​ ​ ⟹p∝ E k ​ ​ । গতিশক্তি ১৬ গুণ হলে ভরবেগ 16 ​ =4 গুণ হবে।",
-    "topic": "super-model-set-12"
+  "super-model-set-12-q12": {
+    "correctOption": "৪ গুণ",
+    "explanation": "p= 2mE k ​ ​ ⟹p∝ E k ​ ​ । গতিশক্তি ১৬ গুণ হলে ভরবেগ 16 ​ =4 গুণ হবে।"
   },
-  "physics-1st-paper-hsc-science-physics-1st-paper-model-tests-super-model-set-12-ts-12": {
-    "answer": "নিক্ষেপণ কোণের ওপর নির্ভর করে না",
-    "answerIndex": 3,
-    "difficulty": 1200,
-    "explanation": "মুক্তিবেগ একটি স্কেলার রাশি যা কেবল গ্রহের ভর ও ব্যাসার্ধের ওপর নির্ভর করে (v e ​ = R 2GM ​ ​ )। এটি নিক্ষেপণ কোণ নিরপেক্ষ।",
-    "topic": "super-model-set-12"
+  "super-model-set-12-q13": {
+    "correctOption": "নিক্ষেপণ কোণের ওপর নির্ভর করে না",
+    "explanation": "মুক্তিবেগ একটি স্কেলার রাশি যা কেবল গ্রহের ভর ও ব্যাসার্ধের ওপর নির্ভর করে (v e ​ = R 2GM ​ ​ )। এটি নিক্ষেপণ কোণ নিরপেক্ষ।"
   },
-  "physics-1st-paper-hsc-science-physics-1st-paper-model-tests-super-model-set-12-ts-13": {
-    "answer": "0.5 এবং −1",
-    "answerIndex": 1,
-    "difficulty": 1200,
-    "explanation": "গাণিতিক তাত্ত্বিক হিসাব অনুযায়ী পয়সনের অনুপাত −1≤σ≤0.5 সীমার মধ্যে থাকে।",
-    "topic": "super-model-set-12"
+  "super-model-set-12-q14": {
+    "correctOption": "0.5 এবং −1",
+    "explanation": "গাণিতিক তাত্ত্বিক হিসাব অনুযায়ী পয়সনের অনুপাত −1≤σ≤0.5 সীমার মধ্যে থাকে।"
   },
-  "physics-1st-paper-hsc-science-physics-1st-paper-model-tests-super-model-set-12-ts-14": {
-    "answer": "পরাবৃত্ত",
-    "answerIndex": 1,
-    "difficulty": 1200,
-    "explanation": "v rms ​ ∝ T ​ ⟹v rms 2 ​ ∝T। এটি y 2 ∝x আকৃতির সমীকরণ, যা পরাবৃত্ত (Parabola) নির্দেশ করে।",
-    "topic": "super-model-set-12"
+  "super-model-set-12-q15": {
+    "correctOption": "পরাবৃত্ত",
+    "explanation": "v rms ​ ∝ T ​ ⟹v rms 2 ​ ∝T। এটি y 2 ∝x আকৃতির সমীকরণ, যা পরাবৃত্ত (Parabola) নির্দেশ করে।"
   },
-  "physics-1st-paper-hsc-science-physics-1st-paper-model-tests-super-model-set-12-ts-15": {
-    "answer": "সামান্তরিক সূত্র",
-    "answerIndex": 1,
-    "difficulty": 1200,
-    "explanation": "ত্রিভুজ সূত্র হলো সামান্তরিক সূত্রের অর্ধেক অংশ। দুটি সন্নিহিত বাহু ভেক্টর নির্দেশ করলে ত্রিভুজের তৃতীয় বাহু বা সামান্তরিকের কর্ণ একই লব্ধি নির্দেশ করে।",
-    "topic": "super-model-set-12"
+  "super-model-set-12-q16": {
+    "correctOption": "সামান্তরিক সূত্র",
+    "explanation": "ত্রিভুজ সূত্র হলো সামান্তরিক সূত্রের অর্ধেক অংশ। দুটি সন্নিহিত বাহু ভেক্টর নির্দেশ করলে ত্রিভুজের তৃতীয় বাহু বা সামান্তরিকের কর্ণ একই লব্ধি নির্দেশ করে।"
   },
-  "physics-1st-paper-hsc-science-physics-1st-paper-model-tests-super-model-set-12-ts-16": {
-    "answer": "30 N",
-    "answerIndex": 3,
-    "difficulty": 1200,
-    "explanation": "লব্ধির সর্বোচ্চ মান 15+10=25 N এবং সর্বনিম্ন মান 15−10=5 N। সুতরাং 5 N থেকে 25 N এর বাইরের কোনো মান (যেমন 30 N) হওয়া সম্ভব নয়।",
-    "topic": "super-model-set-12"
+  "super-model-set-12-q17": {
+    "correctOption": "30 N",
+    "explanation": "লব্ধির সর্বোচ্চ মান 15+10=25 N এবং সর্বনিম্ন মান 15−10=5 N। সুতরাং 5 N থেকে 25 N এর বাইরের কোনো মান (যেমন 30 N) হওয়া সম্ভব নয়।"
   },
-  "physics-1st-paper-hsc-science-physics-1st-paper-model-tests-super-model-set-12-ts-17": {
-    "answer": "ধ্রুব থাকে",
-    "answerIndex": 2,
-    "difficulty": 1200,
-    "explanation": "বায়ুর বাধা উপেক্ষা করলে অভিকর্ষজ ক্ষেত্রে বস্তুর মোট যান্ত্রিক শক্তি (গতিশক্তি + বিভবশক্তি) সর্বদা সংরক্ষিত বা ধ্রুব থাকে।",
-    "topic": "super-model-set-12"
+  "super-model-set-12-q18": {
+    "correctOption": "ধ্রুব থাকে",
+    "explanation": "বায়ুর বাধা উপেক্ষা করলে অভিকর্ষজ ক্ষেত্রে বস্তুর মোট যান্ত্রিক শক্তি (গতিশক্তি + বিভবশক্তি) সর্বদা সংরক্ষিত বা ধ্রুব থাকে।"
   },
-  "physics-1st-paper-hsc-science-physics-1st-paper-model-tests-super-model-set-12-ts-18": {
-    "answer": "kg m 2",
-    "answerIndex": 1,
-    "difficulty": 1200,
-    "explanation": "I=mr 2 । ভরের একক kg এবং দূরত্বের একক m হওয়ায় এর একক kg m 2 ।",
-    "topic": "super-model-set-12"
+  "super-model-set-12-q19": {
+    "correctOption": "kg m 2",
+    "explanation": "I=mr 2 । ভরের একক kg এবং দূরত্বের একক m হওয়ায় এর একক kg m 2 ।"
   },
-  "physics-1st-paper-hsc-science-physics-1st-paper-model-tests-super-model-set-12-ts-19": {
-    "answer": "g∝r",
-    "answerIndex": 2,
-    "difficulty": 1200,
-    "explanation": "পৃথিবীর অভ্যন্তরে (সুষম গোলক ধরে) g ′ = 3 4 ​ πGρr, অর্থাৎ অভিকর্ষজ ত্বরণ কেন্দ্র হতে দূরত্বের সরাসরি সমানুপাতিক।",
-    "topic": "super-model-set-12"
+  "super-model-set-12-q20": {
+    "correctOption": "g∝r",
+    "explanation": "পৃথিবীর অভ্যন্তরে (সুষম গোলক ধরে) g ′ = 3 4 ​ πGρr, অর্থাৎ অভিকর্ষজ ত্বরণ কেন্দ্র হতে দূরত্বের সরাসরি সমানুপাতিক।"
   },
-  "physics-1st-paper-hsc-science-physics-1st-paper-model-tests-super-model-set-12-ts-20": {
-    "answer": "5 2 ​ MR 2",
-    "answerIndex": 1,
-    "difficulty": 1200,
-    "explanation": "একটি সুষম নিরেট গোলকের (Solid sphere) নিজস্ব অক্ষের সাপেক্ষে জড়তার ভ্রামক 5 2 ​ MR 2 । (ফাঁপা গোলকের ক্ষেত্রে 3 2 ​ MR 2 )।",
-    "topic": "super-model-set-12"
+  "super-model-set-12-q21": {
+    "correctOption": "5 2 ​ MR 2",
+    "explanation": "একটি সুষম নিরেট গোলকের (Solid sphere) নিজস্ব অক্ষের সাপেক্ষে জড়তার ভ্রামক 5 2 ​ MR 2 । (ফাঁপা গোলকের ক্ষেত্রে 3 2 ​ MR 2 )।"
   },
-  "physics-1st-paper-hsc-science-physics-1st-paper-model-tests-super-model-set-12-ts-21": {
-    "answer": "Y",
-    "answerIndex": 1,
-    "difficulty": 1200,
-    "explanation": "Y= Strain Stress ​ । বিকৃতি (Strain) =1 হলে, পীড়ন (Stress) =Y×1=Y।",
-    "topic": "super-model-set-12"
+  "super-model-set-12-q22": {
+    "correctOption": "Y",
+    "explanation": "Y= Strain Stress ​ । বিকৃতি (Strain) =1 হলে, পীড়ন (Stress) =Y×1=Y।"
   },
-  "physics-1st-paper-hsc-science-physics-1st-paper-model-tests-super-model-set-12-ts-22": {
-    "answer": "2T",
-    "answerIndex": 1,
-    "difficulty": 1200,
-    "explanation": "স্প্রিং দোলকের ক্ষেত্রে T=2π k m ​ ​ । অর্থাৎ T∝ m ​ । ভর ৪ গুণ হলে দোলনকাল 4 ​ =2 গুণ হবে।",
-    "topic": "super-model-set-12"
+  "super-model-set-12-q23": {
+    "correctOption": "2T",
+    "explanation": "স্প্রিং দোলকের ক্ষেত্রে T=2π k m ​ ​ । অর্থাৎ T∝ m ​ । ভর ৪ গুণ হলে দোলনকাল 4 ​ =2 গুণ হবে।"
   },
-  "physics-1st-paper-hsc-science-physics-1st-paper-model-tests-super-model-set-12-ts-23": {
-    "answer": "C v ​",
-    "answerIndex": 1,
-    "difficulty": 1200,
-    "explanation": "স্থির আয়তনে এক মোল গ্যাসের তাপমাত্রা ১ কেলভিন বাড়াতে প্রয়োজনীয় তাপকে মোলার আপেক্ষিক তাপ (C v ​ ) বলে।",
-    "topic": "super-model-set-12"
+  "super-model-set-12-q24": {
+    "correctOption": "C v ​",
+    "explanation": "স্থির আয়তনে এক মোল গ্যাসের তাপমাত্রা ১ কেলভিন বাড়াতে প্রয়োজনীয় তাপকে মোলার আপেক্ষিক তাপ (C v ​ ) বলে।"
   },
-  "physics-1st-paper-hsc-science-physics-1st-paper-model-tests-super-model-set-12-ts-24": {
-    "answer": "শূন্য হবে",
-    "answerIndex": 2,
-    "difficulty": 1200,
-    "explanation": "শিশিরাঙ্কে বায়ু জলীয় বাষ্প দ্বারা সম্পৃক্ত থাকে। ফলে সিক্ত বাল্ব থেকে পানি বাষ্পীভূত হতে পারে না এবং তাপমাত্রা কমে না। তাই দুই থার্মোমিটারের পাঠ সমান হয়, পার্থক্য শূন্য থাকে।",
-    "topic": "super-model-set-12"
+  "super-model-set-12-q25": {
+    "correctOption": "শূন্য হবে",
+    "explanation": "শিশিরাঙ্কে বায়ু জলীয় বাষ্প দ্বারা সম্পৃক্ত থাকে। ফলে সিক্ত বাল্ব থেকে পানি বাষ্পীভূত হতে পারে না এবং তাপমাত্রা কমে না। তাই দুই থার্মোমিটারের পাঠ সমান হয়, পার্থক্য শূন্য থাকে।"
   }
 }

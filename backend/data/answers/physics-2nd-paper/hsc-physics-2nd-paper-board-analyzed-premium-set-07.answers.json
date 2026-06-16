@@ -1,0 +1,102 @@
+{
+  "hsc-physics-2nd-paper-board-analyzed-premium-set-07-q01": {
+    "correctOption": "তাপমাত্রার ওপর",
+    "explanation": "সঠিক উত্তর: খ। আদর্শ গ্যাসে অণুগুলোর পারস্পরিক বিভব শক্তি উপেক্ষণীয়, তাই অন্তঃস্থ শক্তি কেবল তাপমাত্রার ফাংশন। চাপ ও আয়তন পরিবর্তিত হলেও তাপমাত্রা অপরিবর্তিত থাকলে অন্তঃস্থ শক্তি বদলায় না; পাত্রের আকৃতি সরাসরি নির্ধারক নয়। তাই ক, গ ও ঘ ভুল।"
+  },
+  "hsc-physics-2nd-paper-board-analyzed-premium-set-07-q02": {
+    "correctOption": "\\frac{5}{2}RT",
+    "explanation": "সঠিক উত্তর: খ। দ্বি-পরমাণুক গ্যাসের (যেমন- O_2, N_2) স্বাধীনতার মাত্রা f = 5। সমীকরণে n = 1 এবং f = 5 বসালে অভ্যন্তরীণ শক্তি U = \\frac{5}{2}RT পাওয়া যায়।"
+  },
+  "hsc-physics-2nd-paper-board-analyzed-premium-set-07-q03": {
+    "correctOption": "i ও ii",
+    "explanation": "সঠিক উত্তর: ক। স্থির আয়তনে আয়তনের পরিবর্তন শূন্য হয় বলে বাহ্যিক কাজ শূন্য (dW=0)। এ অবস্থায় সরবরাহকৃত তাপ কেবল অভ্যন্তরীণ শক্তি বৃদ্ধি করে। তাই iii নং বিবৃতি ভুল।"
+  },
+  "hsc-physics-2nd-paper-board-analyzed-premium-set-07-q04": {
+    "correctOption": "এক-পরমাণুক (Monoatomic)",
+    "explanation": "সঠিক উত্তর: ক। এক-পরমাণুক গ্যাসের (যেমন- হিলিয়াম, আর্গন) ক্ষেত্রে স্বাধীনতার মাত্রা $f=3$। ফলে $\\gamma = 1 + \\frac{2}{3} = \\frac{5}{3} \\approx 1.67$ হয়।"
+  },
+  "hsc-physics-2nd-paper-board-analyzed-premium-set-07-q05": {
+    "correctOption": "শূন্য",
+    "explanation": "সঠিক উত্তর: ক। আদর্শ গ্যাসের অভ্যন্তরীণ শক্তি কেবল এর পরম তাপমাত্রার ওপর নির্ভর করে। সমউষ্ণ প্রক্রিয়ায় তাপমাত্রা স্থির থাকে (\\Delta T = 0), তাই অভ্যন্তরীণ শক্তির কোনো পরিবর্তন হয় না (\\Delta U = 0)।"
+  },
+  "hsc-physics-2nd-paper-board-analyzed-premium-set-07-q06": {
+    "correctOption": "C_p - C_v = R",
+    "explanation": "স্থির চাপে গ্যাসের মোলার আপেক্ষিক তাপ (C_p) সর্বদা স্থির আয়তনে মোলার আপেক্ষিক তাপ (C_v) অপেক্ষা বেশি হয়। এদের পার্থক্য সর্বজনীন গ্যাস ধ্রুবক (R) এর সমান, অর্থাৎ C_p - C_v = R।"
+  },
+  "hsc-physics-2nd-paper-board-analyzed-premium-set-07-q07": {
+    "correctOption": "$pV^{\\gamma}= ext{constant}$",
+    "explanation": "সঠিক উত্তর: গ। প্রত্যাবর্তী রুদ্ধতাপীয় প্রক্রিয়ায় আদর্শ গ্যাস $pV^{\\gamma}= ext{constant}$ মেনে চলে। $pV= ext{constant}$ সমোষ্ণ প্রক্রিয়ার, $ rac{p}{T}= ext{constant}$ স্থির আয়তনে এবং $VT= ext{constant}$ সাধারণ রুদ্ধতাপীয় সম্পর্ক নয়; তাই ক, খ ও ঘ ভুল।"
+  },
+  "hsc-physics-2nd-paper-board-analyzed-premium-set-07-q08": {
+    "correctOption": "i ও ii",
+    "explanation": "সঠিক উত্তর: খ। সমোষ্ণ সম্প্রসারণে আদর্শ গ্যাসের তাপমাত্রা ধ্রুব থাকে, তাই $\\Delta U=0$ এবং প্রথম সূত্র থেকে $Q=W$। কিন্তু $pV^{\\gamma}= ext{constant}$ রুদ্ধতাপীয় প্রক্রিয়ার সম্পর্ক, সমোষ্ণের নয়। তাই শুধু i বা ii-iii বা তিনটিই সঠিক বলা ভুল।"
+  },
+  "hsc-physics-2nd-paper-board-analyzed-premium-set-07-q09": {
+    "correctOption": "সম্পূর্ণ তাপ গ্যাসের কাজের সমান হয়",
+    "explanation": "সঠিক উত্তর: খ। আদর্শ গ্যাসের সমোষ্ণ প্রক্রিয়ায় তাপমাত্রা ধ্রুব থাকে, তাই $\\Delta U=0$ এবং প্রথম সূত্র থেকে $Q=W$। ক ভুল, কারণ অন্তঃস্থ শক্তি বাড়ে না। গ ভুল, কারণ তাপমাত্রা ধ্রুব। ঘ ভুল, কারণ সম্প্রসারণে কাজ করতে গ্যাস তাপ শোষণ করে।"
+  },
+  "hsc-physics-2nd-paper-board-analyzed-premium-set-07-q10": {
+    "correctOption": "পানির ত্রৈধ বিন্দুর তাপমাত্রার $\\frac{1}{273.16}$ অংশ",
+    "explanation": "সঠিক উত্তর: খ। কেলভিনের আন্তর্জাতিক সংজ্ঞা অনুযায়ী, পানির ত্রৈধ বিন্দুর (Triple point) তাপমাত্রার $\\frac{1}{273.16}$ ভাগকে $1 \\text{ Kelvin}$ ($1 \\text{ K}$) বলা হয়।"
+  },
+  "hsc-physics-2nd-paper-board-analyzed-premium-set-07-q11": {
+    "correctOption": "$900 \\text{ J}$",
+    "explanation": "সঠিক উত্তর: ঘ। কার্নো ইঞ্জিনের ক্ষেত্রে $\\frac{Q_1}{T_1} = \\frac{Q_2}{T_2}$। সুতরাং বর্জিত তাপ $Q_2 = \\frac{T_2}{T_1} \\times Q_1 = \\frac{300}{400} \\times 1200 = \\frac{3}{4} \\times 1200 = 900 \\text{ J}$।"
+  },
+  "hsc-physics-2nd-paper-board-analyzed-premium-set-07-q12": {
+    "correctOption": "0 \\text{ J}",
+    "explanation": "সঠিক উত্তর: ক। যেহেতু প্রক্রিয়াটি স্থির আয়তনে সংঘটিত হয়েছে, সেহেতু গ্যাসের আয়তনের কোনো পরিবর্তন হয়নি (\\Delta V = 0)। কৃত কাজ W = P \\Delta V হওয়ায়, সিস্টেম দ্বারা কৃত কাজ শূন্য।"
+  },
+  "hsc-physics-2nd-paper-board-analyzed-premium-set-07-q13": {
+    "correctOption": "$C_p-C_v=R$",
+    "explanation": "সঠিক উত্তর: ক। এক মোল আদর্শ গ্যাসে স্থির চাপে ও স্থির আয়তনে মোলার তাপধারণ ক্ষমতার সম্পর্ক $C_p-C_v=R$। খ-এ চিহ্ন উল্টো, গ-এ যোগফল দেখানো হয়েছে এবং ঘ-এ গুণফল দেখানো হয়েছে; এগুলো মেয়ারের সম্পর্ক নয়।"
+  },
+  "hsc-physics-2nd-paper-board-analyzed-premium-set-07-q14": {
+    "correctOption": "কার্নো ইঞ্জিন",
+    "explanation": "সঠিক উত্তর: ঘ। একই উষ্ণ ও শীতল তাপাধারের মধ্যে প্রত্যাবর্তী কার্নো ইঞ্জিনের দক্ষতা তাত্ত্বিকভাবে সর্বাধিক। বাস্তব ডিজেল ও পেট্রোল ইঞ্জিনে ঘর্ষণ, তাপক্ষয় ও অপরিবর্তনীয়তা থাকে, আর অপরিবর্তনীয় স্টার্লিং ইঞ্জিন কার্নো সীমায় পৌঁছায় না; তাই ক, খ ও গ ভুল।"
+  },
+  "hsc-physics-2nd-paper-board-analyzed-premium-set-07-q15": {
+    "correctOption": "রুদ্ধতাপীয় প্রক্রিয়ায় $\\gamma>1$ হওয়ায় চাপ আয়তনের সঙ্গে দ্রুত পরিবর্তিত হয়",
+    "explanation": "সঠিক উত্তর: ক। সমোষ্ণে $pV= ext{constant}$, আর রুদ্ধতাপীয়ে $pV^{\\gamma}= ext{constant}$ যেখানে $\\gamma>1$; তাই একই আয়তন পরিবর্তনে রুদ্ধতাপীয় প্রক্রিয়ায় চাপের পরিবর্তন বেশি এবং বক্ররেখা বেশি খাড়া। খ ভুল, কারণ রুদ্ধতাপীয়ে তাপমাত্রা সাধারণত বদলায়। গ ভুল, কারণ সমোষ্ণে কাজ হতে পারে। ঘ ভুল, কারণ রুদ্ধতাপীয়ে চাপ ধ্রুব নয়।"
+  },
+  "hsc-physics-2nd-paper-board-analyzed-premium-set-07-q16": {
+    "correctOption": "3",
+    "explanation": "সঠিক উত্তর: খ। এক-পরমাণুক গ্যাসের (যেমন- হিলিয়াম, নিয়ন) অণু শুধু ত্রিমাত্রিক রৈখিক গতি লাভ করতে পারে। তাই এদের রৈখিক গতির স্বাধীনতার মাত্রা ৩।"
+  },
+  "hsc-physics-2nd-paper-board-analyzed-premium-set-07-q17": {
+    "correctOption": "9",
+    "explanation": "সঠিক উত্তর: খ। রেফ্রিজারেটরের COP, K = \\frac{T_2}{T_1 - T_2}। এখানে T_1 = 27+273 = 300 \\text{ K}, T_2 = -3+273 = 270 \\text{ K}। সুতরাং K = \\frac{270}{300 - 270} = \\frac{270}{30} = 9।"
+  },
+  "hsc-physics-2nd-paper-board-analyzed-premium-set-07-q18": {
+    "correctOption": "$40\\%$",
+    "explanation": "সঠিক উত্তর: খ। কার্নো দক্ষতা $\\eta=1- rac{T_C}{T_H}=1- rac{300}{500}=0.40=40\\%$। ক-তে তাপমাত্রা পার্থক্যকে সরাসরি অনুপাত ধরা হয়েছে, গ ও ঘ অতিরিক্ত উচ্চ মান; তাই এগুলো সঠিক নয়।"
+  },
+  "hsc-physics-2nd-paper-board-analyzed-premium-set-07-q19": {
+    "correctOption": "40\\%",
+    "explanation": "সঠিক উত্তর: খ। কর্মদক্ষতা, \\eta = \\left(1 - \\frac{T_2}{T_1}\\right) \\times 100\\%। এখানে T_1 = 500 \\text{ K} এবং T_2 = 300 \\text{ K}। ফলে \\eta = \\left(1 - \\frac{300}{500}\\right) \\times 100\\% = \\left(1 - 0.6\\right) \\times 100\\% = 40\\%।"
+  },
+  "hsc-physics-2nd-paper-board-analyzed-premium-set-07-q20": {
+    "correctOption": "T_2 = 0 \\text{ K} হয়",
+    "explanation": "কার্নো ইঞ্জিনের কর্মদক্ষতা \\eta = \\left(1 - \\frac{T_2}{T_1}\\right)। এর মান 1 বা 100\\% হতে হলে \\frac{T_2}{T_1} এর মান শূন্য হতে হবে, যা কেবলমাত্র তাপ-গ্রাহকের তাপমাত্রা T_2 = 0 \\text{ K} হলেই সম্ভব।"
+  },
+  "hsc-physics-2nd-paper-board-analyzed-premium-set-07-q21": {
+    "correctOption": "600 \\text{ J}",
+    "explanation": "সঠিক উত্তর: খ। শক্তির সংরক্ষণশীলতা নীতি অনুযায়ী, গৃহীত তাপ (Q_1) = বর্জিত তাপ (Q_2) \\+ কৃত কাজ (W)। অর্থাৎ, 1000 = Q_2 + 400 \\implies Q_2 = 1000 - 400 = 600 \\text{ J}।"
+  },
+  "hsc-physics-2nd-paper-board-analyzed-premium-set-07-q22": {
+    "correctOption": "26.8\\%",
+    "explanation": "সঠিক উত্তর: ক। পানির স্ফুটনাঙ্ক T_1 = 373 \\text{ K} এবং হিমাঙ্ক T_2 = 273 \\text{ K}। কর্মদক্ষতা \\eta = (1 - \\frac{273}{373}) \\times 100\\% = \\frac{100}{373} \\times 100\\% \\approx 26.8\\%।"
+  },
+  "hsc-physics-2nd-paper-board-analyzed-premium-set-07-q23": {
+    "correctOption": "$+200\\,J$",
+    "explanation": "সঠিক উত্তর: ঘ। রুদ্ধতাপীয় প্রক্রিয়ায় $Q=0$। বাহ্যিক উৎস গ্যাসের ওপর $200\\,J$ কাজ করলে গ্যাসের দ্বারা কাজ $W=-200\\,J$। তাই $0=\\Delta U+(-200)$ থেকে $\\Delta U=+200\\,J$। ক চিহ্ন ভুল, খ তাপমাত্রা অপরিবর্তিত ধরা হয়েছে এবং গ অর্ধেক মান নেওয়া হয়েছে; তাই এগুলো ভুল।"
+  },
+  "hsc-physics-2nd-paper-board-analyzed-premium-set-07-q24": {
+    "correctOption": "$350\\,J$",
+    "explanation": "সঠিক উত্তর: গ। প্রথম সূত্র অনুযায়ী $Q=\\Delta U+W$। এখানে $Q=600\\,J$ এবং গ্যাস কর্তৃক কাজ $W=250\\,J$; তাই $\\Delta U=600-250=350\\,J$। ক-তে কাজ যোগ করা হয়েছে, খ-তে কাজ বাদ দেওয়া হয়নি এবং ঘ শুধু কৃত কাজ; তাই এগুলো ভুল।"
+  },
+  "hsc-physics-2nd-paper-board-analyzed-premium-set-07-q25": {
+    "correctOption": "25\\%",
+    "explanation": "কর্মদক্ষতা \\eta = \\left(1 - \\frac{Q_2}{Q_1}\\right) \\times 100\\%। এখানে গৃহীত তাপ Q_1 = 800 \\text{ J} এবং বর্জিত তাপ Q_2 = 600 \\text{ J}। ফলে \\eta = \\left(1 - \\frac{600}{800}\\right) \\times 100\\% = (1 - 0.75) \\times 100\\% = 25\\%।"
+  }
+}

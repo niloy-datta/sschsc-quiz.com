@@ -1,177 +1,102 @@
 {
-  "physics-ssc-science-physics-model-tests-ssc-physics-model-test-04-ts-0": {
-    "answer": "7.34 cm",
-    "answerIndex": 1,
-    "difficulty": 1200,
-    "explanation": "দৈর্ঘ্য L = M + V × VC = 7.3 + 8 × 0.005 = 7.34 cm।",
-    "topic": "ssc-physics-model-test-04"
+  "ssc-physics-model-test-04-q01": {
+    "correctOption": "7.34 cm",
+    "explanation": "দৈর্ঘ্য L = M + V × VC = 7.3 + 8 × 0.005 = 7.34 cm।"
   },
-  "physics-ssc-science-physics-model-tests-ssc-physics-model-test-04-ts-1": {
-    "answer": "কাজ",
-    "answerIndex": 2,
-    "difficulty": 1200,
-    "explanation": "কাজ বা শক্তির মাত্রা ML²T⁻²।",
-    "topic": "ssc-physics-model-test-04"
+  "ssc-physics-model-test-04-q02": {
+    "correctOption": "কাজ",
+    "explanation": "কাজ বা শক্তির মাত্রা ML²T⁻²।"
   },
-  "physics-ssc-science-physics-model-tests-ssc-physics-model-test-04-ts-2": {
-    "answer": "6%",
-    "answerIndex": 1,
-    "difficulty": 1200,
-    "explanation": "পৃষ্ঠতলের ক্ষেত্রফল বাহুর বর্গের (l²) সমানুপাতিক, তাই ক্ষেত্রফলের শতকরা ত্রুটি ২ × ৩% = ৬%।",
-    "topic": "ssc-physics-model-test-04"
+  "ssc-physics-model-test-04-q03": {
+    "correctOption": "6%",
+    "explanation": "পৃষ্ঠতলের ক্ষেত্রফল বাহুর বর্গের (l²) সমানুপাতিক, তাই ক্ষেত্রফলের শতকরা ত্রুটি ২ × ৩% = ৬%।"
   },
-  "physics-ssc-science-physics-model-tests-ssc-physics-model-test-04-ts-3": {
-    "answer": "10⁻¹² m",
-    "answerIndex": 1,
-    "difficulty": 1200,
-    "explanation": "1 pm = 10⁻¹² m।",
-    "topic": "ssc-physics-model-test-04"
+  "ssc-physics-model-test-04-q04": {
+    "correctOption": "10⁻¹² m",
+    "explanation": "1 pm = 10⁻¹² m।"
   },
-  "physics-ssc-science-physics-model-tests-ssc-physics-model-test-04-ts-4": {
-    "answer": "5.42 mm",
-    "answerIndex": 0,
-    "difficulty": 1200,
-    "explanation": "পাঠ = রৈখিক স্কেল পাঠ + বৃত্তাকার স্কেল পাঠ × LC = 5 + 42 × 0.01 = 5.42 mm।",
-    "topic": "ssc-physics-model-test-04"
+  "ssc-physics-model-test-04-q05": {
+    "correctOption": "5.42 mm",
+    "explanation": "পাঠ = রৈখিক স্কেল পাঠ + বৃত্তাকার স্কেল পাঠ × LC = 5 + 42 × 0.01 = 5.42 mm।"
   },
-  "physics-ssc-science-physics-model-tests-ssc-physics-model-test-04-ts-5": {
-    "answer": "50 m",
-    "answerIndex": 1,
-    "difficulty": 1200,
-    "explanation": "স্থির অবস্থা থেকে অতিক্রান্ত দূরত্ব s = ½at² = ½ × ৪ × ৫² = ৫০ m।",
-    "topic": "ssc-physics-model-test-04"
+  "ssc-physics-model-test-04-q06": {
+    "correctOption": "50 m",
+    "explanation": "স্থির অবস্থা থেকে অতিক্রান্ত দূরত্ব s = ½at² = ½ × ৪ × ৫² = ৫০ m।"
   },
-  "physics-ssc-science-physics-model-tests-ssc-physics-model-test-04-ts-6": {
-    "answer": "15 ms⁻¹",
-    "answerIndex": 1,
-    "difficulty": 1200,
-    "explanation": "সমত্বরণে গতিশীল বস্তুর গড় বেগ = (u + v)/2 = (০ + ৩০)/২ = ১৫ ms⁻¹।",
-    "topic": "ssc-physics-model-test-04"
+  "ssc-physics-model-test-04-q07": {
+    "correctOption": "15 ms⁻¹",
+    "explanation": "সমত্বরণে গতিশীল বস্তুর গড় বেগ = (u + v)/2 = (০ + ৩০)/২ = ১৫ ms⁻¹।"
   },
-  "physics-ssc-science-physics-model-tests-ssc-physics-model-test-04-ts-7": {
-    "answer": "i ও ii",
-    "answerIndex": 0,
-    "difficulty": 1200,
-    "explanation": "বৃত্তাকার গতিতে বেগের মান ধ্রুব হলেও দিক পরিবর্তনের কারণে বেগ পরিবর্তিত হয় এবং একটি কেন্দ্রমুখী ত্বরণ থাকে, তাই ত্বরণ শূন্য নয়। i ও ii সঠিক।",
-    "topic": "ssc-physics-model-test-04"
+  "ssc-physics-model-test-04-q08": {
+    "correctOption": "i ও ii",
+    "explanation": "বৃত্তাকার গতিতে বেগের মান ধ্রুব হলেও দিক পরিবর্তনের কারণে বেগ পরিবর্তিত হয় এবং একটি কেন্দ্রমুখী ত্বরণ থাকে, তাই ত্বরণ শূন্য নয়। i ও ii সঠিক।"
   },
-  "physics-ssc-science-physics-model-tests-ssc-physics-model-test-04-ts-8": {
-    "answer": "30 kgms⁻¹",
-    "answerIndex": 2,
-    "difficulty": 1200,
-    "explanation": "ভরবেগ p = mv = ৫ × ৬ = ৩০ kgms⁻¹।",
-    "topic": "ssc-physics-model-test-04"
+  "ssc-physics-model-test-04-q09": {
+    "correctOption": "30 kgms⁻¹",
+    "explanation": "ভরবেগ p = mv = ৫ × ৬ = ৩০ kgms⁻¹।"
   },
-  "physics-ssc-science-physics-model-tests-ssc-physics-model-test-04-ts-9": {
-    "answer": "জড়তা",
-    "answerIndex": 1,
-    "difficulty": 1200,
-    "explanation": "নিউটন এর প্রথম সূত্র বস্তুর জড়তা ও বলের গুণগত সংজ্ঞা প্রদান করে।",
-    "topic": "ssc-physics-model-test-04"
+  "ssc-physics-model-test-04-q10": {
+    "correctOption": "জড়তা",
+    "explanation": "নিউটন এর প্রথম সূত্র বস্তুর জড়তা ও বলের গুণগত সংজ্ঞা প্রদান করে।"
   },
-  "physics-ssc-science-physics-model-tests-ssc-physics-model-test-04-ts-10": {
-    "answer": "80 J",
-    "answerIndex": 2,
-    "difficulty": 1200,
-    "explanation": "কাজ W = Fs = ২০ × ৪ = ৮০ J।",
-    "topic": "ssc-physics-model-test-04"
+  "ssc-physics-model-test-04-q11": {
+    "correctOption": "80 J",
+    "explanation": "কাজ W = Fs = ২০ × ৪ = ৮০ J।"
   },
-  "physics-ssc-science-physics-model-tests-ssc-physics-model-test-04-ts-11": {
-    "answer": "200 J",
-    "answerIndex": 2,
-    "difficulty": 1200,
-    "explanation": "বিভবশক্তি E_p = mgh = ২ × ১০ × ১০ = ২০০ J।",
-    "topic": "ssc-physics-model-test-04"
+  "ssc-physics-model-test-04-q12": {
+    "correctOption": "200 J",
+    "explanation": "বিভবশক্তি E_p = mgh = ২ × ১০ × ১০ = ২০০ J।"
   },
-  "physics-ssc-science-physics-model-tests-ssc-physics-model-test-04-ts-12": {
-    "answer": "75%",
-    "answerIndex": 2,
-    "difficulty": 1200,
-    "explanation": "কর্মদক্ষতা η = (লব্ধ কার্যকর শক্তি / মোট প্রদত্ত শক্তি) × ১০০% = (৬  ০০ / ৮০০) × ১০০% = ৭৫%।",
-    "topic": "ssc-physics-model-test-04"
+  "ssc-physics-model-test-04-q13": {
+    "correctOption": "75%",
+    "explanation": "কর্মদক্ষতা η = (লব্ধ কার্যকর শক্তি / মোট প্রদত্ত শক্তি) × ১০০% = (৬  ০০ / ৮০০) × ১০০% = ৭৫%।"
   },
-  "physics-ssc-science-physics-model-tests-ssc-physics-model-test-04-ts-13": {
-    "answer": "20000 Pa",
-    "answerIndex": 2,
-    "difficulty": 1200,
-    "explanation": "চাপ P = hρg = ৪ × ৫০০ × ১০ = ২০,০০০ Pa।",
-    "topic": "ssc-physics-model-test-04"
+  "ssc-physics-model-test-04-q14": {
+    "correctOption": "20000 Pa",
+    "explanation": "চাপ P = hρg = ৪ × ৫০০ × ১০ = ২০,০০০ Pa।"
   },
-  "physics-ssc-science-physics-model-tests-ssc-physics-model-test-04-ts-14": {
-    "answer": "1.5 gcm⁻³",
-    "answerIndex": 1,
-    "difficulty": 1200,
-    "explanation": "ঘনত্ব ρ = m/V = ৭৫০ / ৫০০ = ১.৫ gcm⁻³।",
-    "topic": "ssc-physics-model-test-04"
+  "ssc-physics-model-test-04-q15": {
+    "correctOption": "1.5 gcm⁻³",
+    "explanation": "ঘনত্ব ρ = m/V = ৭৫০ / ৫০০ = ১.৫ gcm⁻³।"
   },
-  "physics-ssc-science-physics-model-tests-ssc-physics-model-test-04-ts-15": {
-    "answer": "i ও ii",
-    "answerIndex": 0,
-    "difficulty": 1200,
-    "explanation": "প্লবতা হলো তরল বা বায়বীয় পদার্থে আংশিক বা সম্পূর্ণ নিমজ্জিত বস্তুর উপর প্রযুক্ত নিট ঊর্ধ্বমুখী বল, যা অপসারিত প্রবাহীর ওজনের সমান। i ও ii সঠিক।",
-    "topic": "ssc-physics-model-test-04"
+  "ssc-physics-model-test-04-q16": {
+    "correctOption": "i ও ii",
+    "explanation": "প্লবতা হলো তরল বা বায়বীয় পদার্থে আংশিক বা সম্পূর্ণ নিমজ্জিত বস্তুর উপর প্রযুক্ত নিট ঊর্ধ্বমুখী বল, যা অপসারিত প্রবাহীর ওজনের সমান। i ও ii সঠিক।"
   },
-  "physics-ssc-science-physics-model-tests-ssc-physics-model-test-04-ts-16": {
-    "answer": "84000 J",
-    "answerIndex": 2,
-    "difficulty": 1200,
-    "explanation": "প্রয়োজনীয় তাপ Q = msΔθ = ০.৫ × ৪২০০ × (৫০ - ৩০) = ৮৪,০০০ J।",
-    "topic": "ssc-physics-model-test-04"
+  "ssc-physics-model-test-04-q17": {
+    "correctOption": "84000 J",
+    "explanation": "প্রয়োজনীয় তাপ Q = msΔθ = ০.৫ × ৪২০০ × (৫০ - ৩০) = ৮৪,০০০ J।"
   },
-  "physics-ssc-science-physics-model-tests-ssc-physics-model-test-04-ts-17": {
-    "answer": "340 ms⁻¹",
-    "answerIndex": 1,
-    "difficulty": 1200,
-    "explanation": "বেগ v = s/t = ৬৮০ / ২ = ৩৪০ ms⁻¹।",
-    "topic": "ssc-physics-model-test-04"
+  "ssc-physics-model-test-04-q18": {
+    "correctOption": "340 ms⁻¹",
+    "explanation": "বেগ v = s/t = ৬৮০ / ২ = ৩৪০ ms⁻¹।"
   },
-  "physics-ssc-science-physics-model-tests-ssc-physics-model-test-04-ts-18": {
-    "answer": "প্রতিফলিত শব্দ 0.1 s বা তার বেশি ব্যবধানে আসবে",
-    "answerIndex": 1,
-    "difficulty": 1200,
-    "explanation": "মস্তিষ্কে শব্দের অনুভূতির স্থায়িত্বকাল ০.১ s, তাই প্রতিধ্বনি শোনার জন্য প্রতিফলিত শব্দ মূল শব্দের অন্তত ০.১ s পর আসতে হবে।",
-    "topic": "ssc-physics-model-test-04"
+  "ssc-physics-model-test-04-q19": {
+    "correctOption": "প্রতিফলিত শব্দ 0.1 s বা তার বেশি ব্যবধানে আসবে",
+    "explanation": "মস্তিষ্কে শব্দের অনুভূতির স্থায়িত্বকাল ০.১ s, তাই প্রতিধ্বনি শোনার জন্য প্রতিফলিত শব্দ মূল শব্দের অন্তত ০.১ s পর আসতে হবে।"
   },
-  "physics-ssc-science-physics-model-tests-ssc-physics-model-test-04-ts-19": {
-    "answer": "বাস্তব, উল্টো, সমান",
-    "answerIndex": 0,
-    "difficulty": 1200,
-    "explanation": "অবতল দর্পণের বক্রতার কেন্দ্রে বস্তু রাখলে প্রতিবিম্ব বক্রতার কেন্দ্রেই গঠিত হয় এবং এটি বাস্তব, উল্টো ও বস্তুর সমান আকারের হয়।",
-    "topic": "ssc-physics-model-test-04"
+  "ssc-physics-model-test-04-q20": {
+    "correctOption": "বাস্তব, উল্টো, সমান",
+    "explanation": "অবতল দর্পণের বক্রতার কেন্দ্রে বস্তু রাখলে প্রতিবিম্ব বক্রতার কেন্দ্রেই গঠিত হয় এবং এটি বাস্তব, উল্টো ও বস্তুর সমান আকারের হয়।"
   },
-  "physics-ssc-science-physics-model-tests-ssc-physics-model-test-04-ts-20": {
-    "answer": "+4D",
-    "answerIndex": 1,
-    "difficulty": 1200,
-    "explanation": "লেন্সের ক্ষমতা P = 1/f (মিটারে) = ১ / ০.২৫ = +৪D।",
-    "topic": "ssc-physics-model-test-04"
+  "ssc-physics-model-test-04-q21": {
+    "correctOption": "+4D",
+    "explanation": "লেন্সের ক্ষমতা P = 1/f (মিটারে) = ১ / ০.২৫ = +৪D।"
   },
-  "physics-ssc-science-physics-model-tests-ssc-physics-model-test-04-ts-21": {
-    "answer": "অপটিক্যাল ফাইবার",
-    "answerIndex": 1,
-    "difficulty": 1200,
-    "explanation": "অপটিক্যাল ফাইবারে আলোর পূর্ণ অভ্যন্তরীণ প্রতিফলনের জন্য ভেতরের কোরের প্রতিসরণাঙ্ক বাইরের ক্ল্যাডিংয়ের চেয়ে বেশি হতে হয়।",
-    "topic": "ssc-physics-model-test-04"
+  "ssc-physics-model-test-04-q22": {
+    "correctOption": "অপটিক্যাল ফাইবার",
+    "explanation": "অপটিক্যাল ফাইবারে আলোর পূর্ণ অভ্যন্তরীণ প্রতিফলনের জন্য ভেতরের কোরের প্রতিসরণাঙ্ক বাইরের ক্ল্যাডিংয়ের চেয়ে বেশি হতে হয়।"
   },
-  "physics-ssc-science-physics-model-tests-ssc-physics-model-test-04-ts-22": {
-    "answer": "4Ω",
-    "answerIndex": 1,
-    "difficulty": 1200,
-    "explanation": "শ্রেণি সংযোগে রোধ = ৪ + ৪ = ৮ Ω; এই ৮ Ω অপর ৮ Ω রোধের সাথে সমান্তরালে থাকায় তুল্য রোধ = (৮ × ৮) / (৮ + ৮) = ৪ Ω।",
-    "topic": "ssc-physics-model-test-04"
+  "ssc-physics-model-test-04-q23": {
+    "correctOption": "4Ω",
+    "explanation": "শ্রেণি সংযোগে রোধ = ৪ + ৪ = ৮ Ω; এই ৮ Ω অপর ৮ Ω রোধের সাথে সমান্তরালে থাকায় তুল্য রোধ = (৮ × ৮) / (৮ + ৮) = ৪ Ω।"
   },
-  "physics-ssc-science-physics-model-tests-ssc-physics-model-test-04-ts-23": {
-    "answer": "12 W",
-    "answerIndex": 1,
-    "difficulty": 1200,
-    "explanation": "ব্যয়িত ক্ষমতা P = V²/R = ৬² / ৩ = ১২ W।",
-    "topic": "ssc-physics-model-test-04"
+  "ssc-physics-model-test-04-q24": {
+    "correctOption": "12 W",
+    "explanation": "ব্যয়িত ক্ষমতা P = V²/R = ৬² / ৩ = ১২ W।"
   },
-  "physics-ssc-science-physics-model-tests-ssc-physics-model-test-04-ts-24": {
-    "answer": "হিলিয়াম নিউক্লিয়াস",
-    "answerIndex": 1,
-    "difficulty": 1200,
-    "explanation": "আলফা রশ্মি বা কণা হলো মূলত দ্বি-ধনাত্মক চার্জযুক্ত হিলিয়াম নিউক্লিয়াস (He²⁺)।",
-    "topic": "ssc-physics-model-test-04"
+  "ssc-physics-model-test-04-q25": {
+    "correctOption": "হিলিয়াম নিউক্লিয়াস",
+    "explanation": "আলফা রশ্মি বা কণা হলো মূলত দ্বি-ধনাত্মক চার্জযুক্ত হিলিয়াম নিউক্লিয়াস (He²⁺)।"
   }
 }

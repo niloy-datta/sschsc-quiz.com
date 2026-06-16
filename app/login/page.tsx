@@ -4,7 +4,7 @@ import React, { Suspense, useState } from "react";
 import Link from "next/link";
 import { useSearchParams } from "next/navigation";
 import { useAuth } from "@/context/AuthContext";
-import { Brain, LogIn, Mail, Lock, X, Chrome } from "lucide-react";
+import { Brain, LogIn, Mail, Lock, X, Chrome, RefreshCw, AlertTriangle } from "lucide-react";
 
 const inputWithIconClass =
   "h-12 w-full rounded-xl border border-white/10 bg-slate-950/60 pl-10 pr-4 text-sm text-white outline-none transition-colors placeholder:text-slate-500 focus:border-cyan-400";
@@ -26,6 +26,8 @@ function LoginPageContent() {
     error,
     setError,
     loading,
+    backendStatus,
+    retryBackend,
   } = useAuth();
   const [isRegister, setIsRegister] = useState(false);
   const [email, setEmail] = useState("");
@@ -76,6 +78,8 @@ function LoginPageContent() {
   };
 
   const displayError = localError || error;
+  const isBackendDown = backendStatus === "down" && !localError;
+  const isRetrying = backendStatus === "checking";
 
   return (
     <section className="flex min-h-[calc(100vh-4rem)] items-center justify-center bg-[#07111F] px-4 py-10 font-bangla text-white">
@@ -96,7 +100,32 @@ function LoginPageContent() {
           </p>
         </div>
 
-        {displayError && (
+        {isBackendDown && (
+          <div className="mb-4 rounded-xl border border-amber-500/20 bg-amber-500/10 p-4">
+            <div className="flex items-start gap-3">
+              <AlertTriangle className="mt-0.5 h-5 w-5 shrink-0 text-amber-400" />
+              <div className="flex-1">
+                <p className="text-sm font-medium text-amber-300">
+                  ব্যাকএন্ড সার্ভার সংযুক্ত নেই
+                </p>
+                <p className="mt-1 text-xs text-amber-400/70">
+                  FastAPI সার্ভার (port 8000) চালু নেই। আলাদা টার্মিনালে <code className="rounded bg-slate-800 px-1 py-0.5">pnpm dev:backend</code> চালান।
+                </p>
+                <button
+                  type="button"
+                  onClick={retryBackend}
+                  disabled={isRetrying}
+                  className="mt-3 flex items-center gap-1.5 rounded-lg bg-amber-500/20 px-3 py-1.5 text-xs font-medium text-amber-300 transition-colors hover:bg-amber-500/30 disabled:opacity-50"
+                >
+                  <RefreshCw className={`h-3.5 w-3.5 ${isRetrying ? "animate-spin" : ""}`} />
+                  {isRetrying ? "সংযোগ চেষ্টা হচ্ছে..." : "আবার চেষ্টা করুন"}
+                </button>
+              </div>
+            </div>
+          </div>
+        )}
+
+        {displayError && !isBackendDown && (
           <div className="mb-4 flex items-center gap-2 rounded-xl border border-red-500/20 bg-red-500/10 p-3 text-sm text-red-400">
             <X className="h-4 w-4 shrink-0" />
             <span>{displayError}</span>

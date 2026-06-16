@@ -1,0 +1,21 @@
+<svg width="100%" height="100%" viewBox="0 0 420 260" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Graph of y = x²">
+  <defs>
+    <marker id="arrow" markerWidth="8" markerHeight="8" refX="7" refY="3.5" orient="auto">
+      <path d="M0,0 L0,7 L8,3.5 z" fill="#0f172a"/>
+    </marker>
+    <marker id="arrowBlue" markerWidth="8" markerHeight="8" refX="7" refY="3.5" orient="auto">
+      <path d="M0,0 L0,7 L8,3.5 z" fill="#2563eb"/>
+    </marker>
+  </defs>
+  <rect width="420" height="260" rx="18" fill="#f8fafc"/>
+  <rect x="14" y="14" width="392" height="232" rx="14" fill="#ffffff" stroke="#cbd5e1" stroke-width="1.5"/>
+  <text x="210.0" y="38" text-anchor="middle" font-family="Arial, sans-serif" font-size="15" font-weight="700" fill="#0f172a">Graph of y = x²</text>
+  
+  <line x1="65" y1="205" x2="360" y2="205" stroke="#0f172a" stroke-width="2" marker-end="url(#arrow)"/>
+  <line x1="210" y1="222" x2="210" y2="60" stroke="#0f172a" stroke-width="2" marker-end="url(#arrow)"/>
+  <path d="M110 205 C145 90,275 90,310 205" fill="none" stroke="#2563eb" stroke-width="4"/>
+  <text x="365" y="210" font-size="12" fill="#0f172a">x</text>
+  <text x="217" y="65" font-size="12" fill="#0f172a">y</text>
+  <text x="295" y="95" font-size="13" fill="#2563eb">y = x²</text>
+
+</svg>

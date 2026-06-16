@@ -1,0 +1,3801 @@
+{
+  "level": "HSC",
+  "datasetType": "paperwise_model_test_fill_to_15",
+  "papers": [
+    {
+      "paperName": "HSC HM1",
+      "subject": "higher-math-1st-paper",
+      "currentPaperSet": 10,
+      "generatedFromSet": "11",
+      "generatedToSet": "15",
+      "generatedSetsCount": 5,
+      "sets": [
+        {
+          "id": "hsc-higher-math-1st-paper-paper-set-11",
+          "title": "HSC HM1 Paper-wise Model Test Set 11",
+          "setNo": "11",
+          "questions": [
+            {
+              "id": "hsc-higher-math-1st-paper-paper-set-11-q01",
+              "question": "$\\frac{d}{dx}x^13$ কত?",
+              "options": [
+                {
+                  "text": "$13x^12$",
+                  "label": "ক"
+                },
+                {
+                  "text": "$x^12$",
+                  "label": "খ"
+                },
+                {
+                  "text": "$12x^13$",
+                  "label": "গ"
+                },
+                {
+                  "text": "$x^13$",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "ক",
+              "shortSolution": "সঠিক উত্তর: ক। Power rule প্রয়োগ করা হয়েছে।",
+              "paper": "HSC HM1",
+              "subject": "higher-math-1st-paper",
+              "setType": "paper-wise-model-test",
+              "topic": "অন্তরীকরণ",
+              "difficulty": "Easy",
+              "probability": "Mega Hot"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-paper-set-11-q02",
+              "question": "$\\int x^14dx$ কত?",
+              "options": [
+                {
+                  "text": "$14x^13+C$",
+                  "label": "ক"
+                },
+                {
+                  "text": "$x^15+C$",
+                  "label": "খ"
+                },
+                {
+                  "text": "$\\frac{x^15}{15}+C$",
+                  "label": "গ"
+                },
+                {
+                  "text": "$\\frac{x^14}{14}+C$",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "গ",
+              "shortSolution": "সঠিক উত্তর: গ। Power integration rule।",
+              "paper": "HSC HM1",
+              "subject": "higher-math-1st-paper",
+              "setType": "paper-wise-model-test",
+              "topic": "যোগজীকরণ",
+              "difficulty": "Easy",
+              "probability": "Very Hot"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-paper-set-11-q03",
+              "question": "$15P_2$ এর মান কত?",
+              "options": [
+                {
+                  "text": "210",
+                  "label": "ক"
+                },
+                {
+                  "text": "105",
+                  "label": "খ"
+                },
+                {
+                  "text": "17",
+                  "label": "গ"
+                },
+                {
+                  "text": "75",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "ক",
+              "shortSolution": "সঠিক উত্তর: ক। $nP_2=n(n-1)$।",
+              "paper": "HSC HM1",
+              "subject": "higher-math-1st-paper",
+              "setType": "paper-wise-model-test",
+              "topic": "বিন্যাস",
+              "difficulty": "Easy",
+              "probability": "Board Favourite"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-paper-set-11-q04",
+              "question": "$16C_2$ এর মান কত?",
+              "options": [
+                {
+                  "text": "17",
+                  "label": "ক"
+                },
+                {
+                  "text": "256",
+                  "label": "খ"
+                },
+                {
+                  "text": "240",
+                  "label": "গ"
+                },
+                {
+                  "text": "120",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "ঘ",
+              "shortSolution": "সঠিক উত্তর: ঘ। $nC_2=n(n-1)/2$।",
+              "paper": "HSC HM1",
+              "subject": "higher-math-1st-paper",
+              "setType": "paper-wise-model-test",
+              "topic": "সমাবেশ",
+              "difficulty": "Easy",
+              "probability": "Conceptual Trap"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-paper-set-11-q05",
+              "question": "ঢাল 12 এবং বিন্দু $(7,12)$ দিয়ে অতিক্রান্ত রেখার সমীকরণ কোনটি?",
+              "options": [
+                {
+                  "text": "$y-12=12(x-7)$",
+                  "label": "ক"
+                },
+                {
+                  "text": "$x-12=12(y-7)$",
+                  "label": "খ"
+                },
+                {
+                  "text": "$y-12=7(x-12)$",
+                  "label": "গ"
+                },
+                {
+                  "text": "$y+12=12(x-7)$",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "ক",
+              "shortSolution": "সঠিক উত্তর: ক। Point-slope form ব্যবহৃত।",
+              "paper": "HSC HM1",
+              "subject": "higher-math-1st-paper",
+              "setType": "paper-wise-model-test",
+              "topic": "সরলরেখা",
+              "difficulty": "Easy",
+              "probability": "Mega Hot"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-paper-set-11-q06",
+              "question": "$x^2+y^2=169$ বৃত্তের ব্যাসার্ধ কত?",
+              "options": [
+                {
+                  "text": "169",
+                  "label": "ক"
+                },
+                {
+                  "text": "13",
+                  "label": "খ"
+                },
+                {
+                  "text": "26",
+                  "label": "গ"
+                },
+                {
+                  "text": "14",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "খ",
+              "shortSolution": "সঠিক উত্তর: খ। $x^2+y^2=r^2$।",
+              "paper": "HSC HM1",
+              "subject": "higher-math-1st-paper",
+              "setType": "paper-wise-model-test",
+              "topic": "বৃত্ত",
+              "difficulty": "Easy",
+              "probability": "Very Hot"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-paper-set-11-q07",
+              "question": "$\\sin^2\\theta+\\cos^2\\theta$ কত?",
+              "options": [
+                {
+                  "text": "0",
+                  "label": "ক"
+                },
+                {
+                  "text": "$\\sec^2\\theta$",
+                  "label": "খ"
+                },
+                {
+                  "text": "$\\tan\\theta$",
+                  "label": "গ"
+                },
+                {
+                  "text": "1",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "ঘ",
+              "shortSolution": "সঠিক উত্তর: ঘ। মৌলিক ত্রিকোণমিতিক identity।",
+              "paper": "HSC HM1",
+              "subject": "higher-math-1st-paper",
+              "setType": "paper-wise-model-test",
+              "topic": "ত্রিকোণমিতি",
+              "difficulty": "Easy",
+              "probability": "Board Favourite"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-paper-set-11-q08",
+              "question": "$\\sin(A+B)$ সূত্র কোনটি?",
+              "options": [
+                {
+                  "text": "$\\sin A\\cos B-\\cos A\\sin B$",
+                  "label": "ক"
+                },
+                {
+                  "text": "$\\sin A\\cos B+\\cos A\\sin B$",
+                  "label": "খ"
+                },
+                {
+                  "text": "$\\cos A\\cos B-\\sin A\\sin B$",
+                  "label": "গ"
+                },
+                {
+                  "text": "$\\tan A+\\tan B$",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "খ",
+              "shortSolution": "সঠিক উত্তর: খ। যোগকোণের sine সূত্র।",
+              "paper": "HSC HM1",
+              "subject": "higher-math-1st-paper",
+              "setType": "paper-wise-model-test",
+              "topic": "সংযুক্ত কোণ",
+              "difficulty": "Medium",
+              "probability": "Conceptual Trap"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-paper-set-11-q09",
+              "question": "$f(x)=x^2$ ফাংশনটি কেমন?",
+              "options": [
+                {
+                  "text": "Periodic",
+                  "label": "ক"
+                },
+                {
+                  "text": "Odd",
+                  "label": "খ"
+                },
+                {
+                  "text": "Constant",
+                  "label": "গ"
+                },
+                {
+                  "text": "Even",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "ঘ",
+              "shortSolution": "সঠিক উত্তর: ঘ। $f(-x)=f(x)$।",
+              "paper": "HSC HM1",
+              "subject": "higher-math-1st-paper",
+              "setType": "paper-wise-model-test",
+              "topic": "ফাংশন",
+              "difficulty": "Medium",
+              "probability": "Mega Hot"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-paper-set-11-q10",
+              "question": "$\\vec a\\cdot\\vec b=0$ হলে দুটি ভেক্টর কেমন?",
+              "options": [
+                {
+                  "text": "একক",
+                  "label": "ক"
+                },
+                {
+                  "text": "সমান",
+                  "label": "খ"
+                },
+                {
+                  "text": "লম্ব",
+                  "label": "গ"
+                },
+                {
+                  "text": "সমান্তরাল",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "গ",
+              "shortSolution": "সঠিক উত্তর: গ। Dot product zero হলে vectors perpendicular।",
+              "paper": "HSC HM1",
+              "subject": "higher-math-1st-paper",
+              "setType": "paper-wise-model-test",
+              "topic": "ভেক্টর",
+              "difficulty": "Medium",
+              "probability": "Very Hot"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-paper-set-11-q11",
+              "question": "$A^2=A$ হলে matrix কী?",
+              "options": [
+                {
+                  "text": "Idempotent",
+                  "label": "ক"
+                },
+                {
+                  "text": "Scalar",
+                  "label": "খ"
+                },
+                {
+                  "text": "Nilpotent",
+                  "label": "গ"
+                },
+                {
+                  "text": "Orthogonal",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "ক",
+              "shortSolution": "সঠিক উত্তর: ক। সংজ্ঞা অনুসারে idempotent।",
+              "paper": "HSC HM1",
+              "subject": "higher-math-1st-paper",
+              "setType": "paper-wise-model-test",
+              "topic": "ম্যাট্রিক্স",
+              "difficulty": "Medium",
+              "probability": "Board Favourite"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-paper-set-11-q12",
+              "question": "$\\int_0^1 xdx$ কত?",
+              "options": [
+                {
+                  "text": "$\\frac12$",
+                  "label": "ক"
+                },
+                {
+                  "text": "0",
+                  "label": "খ"
+                },
+                {
+                  "text": "1",
+                  "label": "গ"
+                },
+                {
+                  "text": "$\\frac13$",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "ক",
+              "shortSolution": "সঠিক উত্তর: ক। নির্দিষ্ট যোগজের মান $1/2$।",
+              "paper": "HSC HM1",
+              "subject": "higher-math-1st-paper",
+              "setType": "paper-wise-model-test",
+              "topic": "যোগজীকরণ",
+              "difficulty": "Medium",
+              "probability": "Conceptual Trap"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-paper-set-11-q13",
+              "question": "$\\frac{d}{dx}x^15$ কত?",
+              "options": [
+                {
+                  "text": "$15x^14$",
+                  "label": "ক"
+                },
+                {
+                  "text": "$x^14$",
+                  "label": "খ"
+                },
+                {
+                  "text": "$14x^15$",
+                  "label": "গ"
+                },
+                {
+                  "text": "$x^15$",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "ক",
+              "shortSolution": "সঠিক উত্তর: ক। Power rule প্রয়োগ করা হয়েছে।",
+              "paper": "HSC HM1",
+              "subject": "higher-math-1st-paper",
+              "setType": "paper-wise-model-test",
+              "topic": "অন্তরীকরণ",
+              "difficulty": "Medium",
+              "probability": "Mega Hot"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-paper-set-11-q14",
+              "question": "$\\int x^16dx$ কত?",
+              "options": [
+                {
+                  "text": "$\\frac{x^17}{17}+C$",
+                  "label": "ক"
+                },
+                {
+                  "text": "$x^17+C$",
+                  "label": "খ"
+                },
+                {
+                  "text": "$16x^15+C$",
+                  "label": "গ"
+                },
+                {
+                  "text": "$\\frac{x^16}{16}+C$",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "ক",
+              "shortSolution": "সঠিক উত্তর: ক। Power integration rule।",
+              "paper": "HSC HM1",
+              "subject": "higher-math-1st-paper",
+              "setType": "paper-wise-model-test",
+              "topic": "যোগজীকরণ",
+              "difficulty": "Medium",
+              "probability": "Very Hot"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-paper-set-11-q15",
+              "question": "$12P_2$ এর মান কত?",
+              "options": [
+                {
+                  "text": "132",
+                  "label": "ক"
+                },
+                {
+                  "text": "36",
+                  "label": "খ"
+                },
+                {
+                  "text": "14",
+                  "label": "গ"
+                },
+                {
+                  "text": "66",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "ক",
+              "shortSolution": "সঠিক উত্তর: ক। $nP_2=n(n-1)$।",
+              "paper": "HSC HM1",
+              "subject": "higher-math-1st-paper",
+              "setType": "paper-wise-model-test",
+              "topic": "বিন্যাস",
+              "difficulty": "Hard",
+              "probability": "Board Favourite"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-paper-set-11-q16",
+              "question": "$13C_2$ এর মান কত?",
+              "options": [
+                {
+                  "text": "78",
+                  "label": "ক"
+                },
+                {
+                  "text": "169",
+                  "label": "খ"
+                },
+                {
+                  "text": "156",
+                  "label": "গ"
+                },
+                {
+                  "text": "14",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "ক",
+              "shortSolution": "সঠিক উত্তর: ক। $nC_2=n(n-1)/2$।",
+              "paper": "HSC HM1",
+              "subject": "higher-math-1st-paper",
+              "setType": "paper-wise-model-test",
+              "topic": "সমাবেশ",
+              "difficulty": "Hard",
+              "probability": "Conceptual Trap"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-paper-set-11-q17",
+              "question": "ঢাল 14 এবং বিন্দু $(5,14)$ দিয়ে অতিক্রান্ত রেখার সমীকরণ কোনটি?",
+              "options": [
+                {
+                  "text": "$y-14=14(x-5)$",
+                  "label": "ক"
+                },
+                {
+                  "text": "$x-14=14(y-5)$",
+                  "label": "খ"
+                },
+                {
+                  "text": "$y-14=5(x-14)$",
+                  "label": "গ"
+                },
+                {
+                  "text": "$y+14=14(x-5)$",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "ক",
+              "shortSolution": "সঠিক উত্তর: ক। Point-slope form ব্যবহৃত।",
+              "paper": "HSC HM1",
+              "subject": "higher-math-1st-paper",
+              "setType": "paper-wise-model-test",
+              "topic": "সরলরেখা",
+              "difficulty": "Hard",
+              "probability": "Mega Hot"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-paper-set-11-q18",
+              "question": "$x^2+y^2=225$ বৃত্তের ব্যাসার্ধ কত?",
+              "options": [
+                {
+                  "text": "30",
+                  "label": "ক"
+                },
+                {
+                  "text": "16",
+                  "label": "খ"
+                },
+                {
+                  "text": "225",
+                  "label": "গ"
+                },
+                {
+                  "text": "15",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "ঘ",
+              "shortSolution": "সঠিক উত্তর: ঘ। $x^2+y^2=r^2$।",
+              "paper": "HSC HM1",
+              "subject": "higher-math-1st-paper",
+              "setType": "paper-wise-model-test",
+              "topic": "বৃত্ত",
+              "difficulty": "Hard",
+              "probability": "Very Hot"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-paper-set-11-q19",
+              "question": "$\\sin^2\\theta+\\cos^2\\theta$ কত?",
+              "options": [
+                {
+                  "text": "1",
+                  "label": "ক"
+                },
+                {
+                  "text": "$\\sec^2\\theta$",
+                  "label": "খ"
+                },
+                {
+                  "text": "$\\tan\\theta$",
+                  "label": "গ"
+                },
+                {
+                  "text": "0",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "ক",
+              "shortSolution": "সঠিক উত্তর: ক। মৌলিক ত্রিকোণমিতিক identity।",
+              "paper": "HSC HM1",
+              "subject": "higher-math-1st-paper",
+              "setType": "paper-wise-model-test",
+              "topic": "ত্রিকোণমিতি",
+              "difficulty": "Hard",
+              "probability": "Board Favourite"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-paper-set-11-q20",
+              "question": "$\\sin(A+B)$ সূত্র কোনটি?",
+              "options": [
+                {
+                  "text": "$\\tan A+\\tan B$",
+                  "label": "ক"
+                },
+                {
+                  "text": "$\\cos A\\cos B-\\sin A\\sin B$",
+                  "label": "খ"
+                },
+                {
+                  "text": "$\\sin A\\cos B-\\cos A\\sin B$",
+                  "label": "গ"
+                },
+                {
+                  "text": "$\\sin A\\cos B+\\cos A\\sin B$",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "ঘ",
+              "shortSolution": "সঠিক উত্তর: ঘ। যোগকোণের sine সূত্র।",
+              "paper": "HSC HM1",
+              "subject": "higher-math-1st-paper",
+              "setType": "paper-wise-model-test",
+              "topic": "সংযুক্ত কোণ",
+              "difficulty": "Hard",
+              "probability": "Conceptual Trap"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-paper-set-11-q21",
+              "question": "$f(x)=x^2$ ফাংশনটি কেমন?",
+              "options": [
+                {
+                  "text": "Constant",
+                  "label": "ক"
+                },
+                {
+                  "text": "Periodic",
+                  "label": "খ"
+                },
+                {
+                  "text": "Even",
+                  "label": "গ"
+                },
+                {
+                  "text": "Odd",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "গ",
+              "shortSolution": "সঠিক উত্তর: গ। $f(-x)=f(x)$।",
+              "paper": "HSC HM1",
+              "subject": "higher-math-1st-paper",
+              "setType": "paper-wise-model-test",
+              "topic": "ফাংশন",
+              "difficulty": "Hard",
+              "probability": "Mega Hot"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-paper-set-11-q22",
+              "question": "$\\vec a\\cdot\\vec b=0$ হলে দুটি ভেক্টর কেমন?",
+              "options": [
+                {
+                  "text": "সমান্তরাল",
+                  "label": "ক"
+                },
+                {
+                  "text": "একক",
+                  "label": "খ"
+                },
+                {
+                  "text": "লম্ব",
+                  "label": "গ"
+                },
+                {
+                  "text": "সমান",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "গ",
+              "shortSolution": "সঠিক উত্তর: গ। Dot product zero হলে vectors perpendicular।",
+              "paper": "HSC HM1",
+              "subject": "higher-math-1st-paper",
+              "setType": "paper-wise-model-test",
+              "topic": "ভেক্টর",
+              "difficulty": "Board Standard",
+              "probability": "Very Hot"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-paper-set-11-q23",
+              "question": "$A^2=A$ হলে matrix কী?",
+              "options": [
+                {
+                  "text": "Scalar",
+                  "label": "ক"
+                },
+                {
+                  "text": "Idempotent",
+                  "label": "খ"
+                },
+                {
+                  "text": "Orthogonal",
+                  "label": "গ"
+                },
+                {
+                  "text": "Nilpotent",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "খ",
+              "shortSolution": "সঠিক উত্তর: খ। সংজ্ঞা অনুসারে idempotent।",
+              "paper": "HSC HM1",
+              "subject": "higher-math-1st-paper",
+              "setType": "paper-wise-model-test",
+              "topic": "ম্যাট্রিক্স",
+              "difficulty": "Board Standard",
+              "probability": "Board Favourite"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-paper-set-11-q24",
+              "question": "$\\int_0^1 xdx$ কত?",
+              "options": [
+                {
+                  "text": "1",
+                  "label": "ক"
+                },
+                {
+                  "text": "$\\frac12$",
+                  "label": "খ"
+                },
+                {
+                  "text": "0",
+                  "label": "গ"
+                },
+                {
+                  "text": "$\\frac13$",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "খ",
+              "shortSolution": "সঠিক উত্তর: খ। নির্দিষ্ট যোগজের মান $1/2$।",
+              "paper": "HSC HM1",
+              "subject": "higher-math-1st-paper",
+              "setType": "paper-wise-model-test",
+              "topic": "যোগজীকরণ",
+              "difficulty": "Board Standard",
+              "probability": "Conceptual Trap"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-paper-set-11-q25",
+              "question": "$\\frac{d}{dx}x^12$ কত?",
+              "options": [
+                {
+                  "text": "$x^11$",
+                  "label": "ক"
+                },
+                {
+                  "text": "$x^12$",
+                  "label": "খ"
+                },
+                {
+                  "text": "$11x^12$",
+                  "label": "গ"
+                },
+                {
+                  "text": "$12x^11$",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "ঘ",
+              "shortSolution": "সঠিক উত্তর: ঘ। Power rule প্রয়োগ করা হয়েছে।",
+              "paper": "HSC HM1",
+              "subject": "higher-math-1st-paper",
+              "setType": "paper-wise-model-test",
+              "topic": "অন্তরীকরণ",
+              "difficulty": "Board Standard",
+              "probability": "Mega Hot"
+            }
+          ]
+        },
+        {
+          "id": "hsc-higher-math-1st-paper-paper-set-12",
+          "title": "HSC HM1 Paper-wise Model Test Set 12",
+          "setNo": "12",
+          "questions": [
+            {
+              "id": "hsc-higher-math-1st-paper-paper-set-12-q01",
+              "question": "$\\frac{d}{dx}x^14$ কত?",
+              "options": [
+                {
+                  "text": "$13x^14$",
+                  "label": "ক"
+                },
+                {
+                  "text": "$x^13$",
+                  "label": "খ"
+                },
+                {
+                  "text": "$14x^13$",
+                  "label": "গ"
+                },
+                {
+                  "text": "$x^14$",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "গ",
+              "shortSolution": "সঠিক উত্তর: গ। Power rule প্রয়োগ করা হয়েছে।",
+              "paper": "HSC HM1",
+              "subject": "higher-math-1st-paper",
+              "setType": "paper-wise-model-test",
+              "topic": "অন্তরীকরণ",
+              "difficulty": "Easy",
+              "probability": "Very Hot"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-paper-set-12-q02",
+              "question": "$\\int x^15dx$ কত?",
+              "options": [
+                {
+                  "text": "$x^16+C$",
+                  "label": "ক"
+                },
+                {
+                  "text": "$\\frac{x^15}{15}+C$",
+                  "label": "খ"
+                },
+                {
+                  "text": "$15x^14+C$",
+                  "label": "গ"
+                },
+                {
+                  "text": "$\\frac{x^16}{16}+C$",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "ঘ",
+              "shortSolution": "সঠিক উত্তর: ঘ। Power integration rule।",
+              "paper": "HSC HM1",
+              "subject": "higher-math-1st-paper",
+              "setType": "paper-wise-model-test",
+              "topic": "যোগজীকরণ",
+              "difficulty": "Easy",
+              "probability": "Board Favourite"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-paper-set-12-q03",
+              "question": "$16P_2$ এর মান কত?",
+              "options": [
+                {
+                  "text": "240",
+                  "label": "ক"
+                },
+                {
+                  "text": "80",
+                  "label": "খ"
+                },
+                {
+                  "text": "18",
+                  "label": "গ"
+                },
+                {
+                  "text": "120",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "ক",
+              "shortSolution": "সঠিক উত্তর: ক। $nP_2=n(n-1)$।",
+              "paper": "HSC HM1",
+              "subject": "higher-math-1st-paper",
+              "setType": "paper-wise-model-test",
+              "topic": "বিন্যাস",
+              "difficulty": "Easy",
+              "probability": "Conceptual Trap"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-paper-set-12-q04",
+              "question": "$17C_2$ এর মান কত?",
+              "options": [
+                {
+                  "text": "272",
+                  "label": "ক"
+                },
+                {
+                  "text": "18",
+                  "label": "খ"
+                },
+                {
+                  "text": "289",
+                  "label": "গ"
+                },
+                {
+                  "text": "136",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "ঘ",
+              "shortSolution": "সঠিক উত্তর: ঘ। $nC_2=n(n-1)/2$।",
+              "paper": "HSC HM1",
+              "subject": "higher-math-1st-paper",
+              "setType": "paper-wise-model-test",
+              "topic": "সমাবেশ",
+              "difficulty": "Easy",
+              "probability": "Mega Hot"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-paper-set-12-q05",
+              "question": "ঢাল 13 এবং বিন্দু $(7,13)$ দিয়ে অতিক্রান্ত রেখার সমীকরণ কোনটি?",
+              "options": [
+                {
+                  "text": "$y-13=7(x-13)$",
+                  "label": "ক"
+                },
+                {
+                  "text": "$y+13=13(x-7)$",
+                  "label": "খ"
+                },
+                {
+                  "text": "$x-13=13(y-7)$",
+                  "label": "গ"
+                },
+                {
+                  "text": "$y-13=13(x-7)$",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "ঘ",
+              "shortSolution": "সঠিক উত্তর: ঘ। Point-slope form ব্যবহৃত।",
+              "paper": "HSC HM1",
+              "subject": "higher-math-1st-paper",
+              "setType": "paper-wise-model-test",
+              "topic": "সরলরেখা",
+              "difficulty": "Easy",
+              "probability": "Very Hot"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-paper-set-12-q06",
+              "question": "$x^2+y^2=196$ বৃত্তের ব্যাসার্ধ কত?",
+              "options": [
+                {
+                  "text": "15",
+                  "label": "ক"
+                },
+                {
+                  "text": "14",
+                  "label": "খ"
+                },
+                {
+                  "text": "196",
+                  "label": "গ"
+                },
+                {
+                  "text": "28",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "খ",
+              "shortSolution": "সঠিক উত্তর: খ। $x^2+y^2=r^2$।",
+              "paper": "HSC HM1",
+              "subject": "higher-math-1st-paper",
+              "setType": "paper-wise-model-test",
+              "topic": "বৃত্ত",
+              "difficulty": "Easy",
+              "probability": "Board Favourite"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-paper-set-12-q07",
+              "question": "$\\sin^2\\theta+\\cos^2\\theta$ কত?",
+              "options": [
+                {
+                  "text": "0",
+                  "label": "ক"
+                },
+                {
+                  "text": "$\\tan\\theta$",
+                  "label": "খ"
+                },
+                {
+                  "text": "$\\sec^2\\theta$",
+                  "label": "গ"
+                },
+                {
+                  "text": "1",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "ঘ",
+              "shortSolution": "সঠিক উত্তর: ঘ। মৌলিক ত্রিকোণমিতিক identity।",
+              "paper": "HSC HM1",
+              "subject": "higher-math-1st-paper",
+              "setType": "paper-wise-model-test",
+              "topic": "ত্রিকোণমিতি",
+              "difficulty": "Easy",
+              "probability": "Conceptual Trap"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-paper-set-12-q08",
+              "question": "$\\sin(A+B)$ সূত্র কোনটি?",
+              "options": [
+                {
+                  "text": "$\\cos A\\cos B-\\sin A\\sin B$",
+                  "label": "ক"
+                },
+                {
+                  "text": "$\\sin A\\cos B-\\cos A\\sin B$",
+                  "label": "খ"
+                },
+                {
+                  "text": "$\\sin A\\cos B+\\cos A\\sin B$",
+                  "label": "গ"
+                },
+                {
+                  "text": "$\\tan A+\\tan B$",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "গ",
+              "shortSolution": "সঠিক উত্তর: গ। যোগকোণের sine সূত্র।",
+              "paper": "HSC HM1",
+              "subject": "higher-math-1st-paper",
+              "setType": "paper-wise-model-test",
+              "topic": "সংযুক্ত কোণ",
+              "difficulty": "Medium",
+              "probability": "Mega Hot"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-paper-set-12-q09",
+              "question": "$f(x)=x^2$ ফাংশনটি কেমন?",
+              "options": [
+                {
+                  "text": "Periodic",
+                  "label": "ক"
+                },
+                {
+                  "text": "Even",
+                  "label": "খ"
+                },
+                {
+                  "text": "Odd",
+                  "label": "গ"
+                },
+                {
+                  "text": "Constant",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "খ",
+              "shortSolution": "সঠিক উত্তর: খ। $f(-x)=f(x)$।",
+              "paper": "HSC HM1",
+              "subject": "higher-math-1st-paper",
+              "setType": "paper-wise-model-test",
+              "topic": "ফাংশন",
+              "difficulty": "Medium",
+              "probability": "Very Hot"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-paper-set-12-q10",
+              "question": "$\\vec a\\cdot\\vec b=0$ হলে দুটি ভেক্টর কেমন?",
+              "options": [
+                {
+                  "text": "সমান",
+                  "label": "ক"
+                },
+                {
+                  "text": "লম্ব",
+                  "label": "খ"
+                },
+                {
+                  "text": "একক",
+                  "label": "গ"
+                },
+                {
+                  "text": "সমান্তরাল",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "খ",
+              "shortSolution": "সঠিক উত্তর: খ। Dot product zero হলে vectors perpendicular।",
+              "paper": "HSC HM1",
+              "subject": "higher-math-1st-paper",
+              "setType": "paper-wise-model-test",
+              "topic": "ভেক্টর",
+              "difficulty": "Medium",
+              "probability": "Board Favourite"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-paper-set-12-q11",
+              "question": "$A^2=A$ হলে matrix কী?",
+              "options": [
+                {
+                  "text": "Idempotent",
+                  "label": "ক"
+                },
+                {
+                  "text": "Orthogonal",
+                  "label": "খ"
+                },
+                {
+                  "text": "Nilpotent",
+                  "label": "গ"
+                },
+                {
+                  "text": "Scalar",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "ক",
+              "shortSolution": "সঠিক উত্তর: ক। সংজ্ঞা অনুসারে idempotent।",
+              "paper": "HSC HM1",
+              "subject": "higher-math-1st-paper",
+              "setType": "paper-wise-model-test",
+              "topic": "ম্যাট্রিক্স",
+              "difficulty": "Medium",
+              "probability": "Conceptual Trap"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-paper-set-12-q12",
+              "question": "$\\int_0^1 xdx$ কত?",
+              "options": [
+                {
+                  "text": "$\\frac12$",
+                  "label": "ক"
+                },
+                {
+                  "text": "$\\frac13$",
+                  "label": "খ"
+                },
+                {
+                  "text": "0",
+                  "label": "গ"
+                },
+                {
+                  "text": "1",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "ক",
+              "shortSolution": "সঠিক উত্তর: ক। নির্দিষ্ট যোগজের মান $1/2$।",
+              "paper": "HSC HM1",
+              "subject": "higher-math-1st-paper",
+              "setType": "paper-wise-model-test",
+              "topic": "যোগজীকরণ",
+              "difficulty": "Medium",
+              "probability": "Mega Hot"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-paper-set-12-q13",
+              "question": "$\\frac{d}{dx}x^16$ কত?",
+              "options": [
+                {
+                  "text": "$16x^15$",
+                  "label": "ক"
+                },
+                {
+                  "text": "$x^16$",
+                  "label": "খ"
+                },
+                {
+                  "text": "$x^15$",
+                  "label": "গ"
+                },
+                {
+                  "text": "$15x^16$",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "ক",
+              "shortSolution": "সঠিক উত্তর: ক। Power rule প্রয়োগ করা হয়েছে।",
+              "paper": "HSC HM1",
+              "subject": "higher-math-1st-paper",
+              "setType": "paper-wise-model-test",
+              "topic": "অন্তরীকরণ",
+              "difficulty": "Medium",
+              "probability": "Very Hot"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-paper-set-12-q14",
+              "question": "$\\int x^17dx$ কত?",
+              "options": [
+                {
+                  "text": "$17x^16+C$",
+                  "label": "ক"
+                },
+                {
+                  "text": "$\\frac{x^17}{17}+C$",
+                  "label": "খ"
+                },
+                {
+                  "text": "$x^18+C$",
+                  "label": "গ"
+                },
+                {
+                  "text": "$\\frac{x^18}{18}+C$",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "ঘ",
+              "shortSolution": "সঠিক উত্তর: ঘ। Power integration rule।",
+              "paper": "HSC HM1",
+              "subject": "higher-math-1st-paper",
+              "setType": "paper-wise-model-test",
+              "topic": "যোগজীকরণ",
+              "difficulty": "Medium",
+              "probability": "Board Favourite"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-paper-set-12-q15",
+              "question": "$13P_2$ এর মান কত?",
+              "options": [
+                {
+                  "text": "78",
+                  "label": "ক"
+                },
+                {
+                  "text": "15",
+                  "label": "খ"
+                },
+                {
+                  "text": "39",
+                  "label": "গ"
+                },
+                {
+                  "text": "156",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "ঘ",
+              "shortSolution": "সঠিক উত্তর: ঘ। $nP_2=n(n-1)$।",
+              "paper": "HSC HM1",
+              "subject": "higher-math-1st-paper",
+              "setType": "paper-wise-model-test",
+              "topic": "বিন্যাস",
+              "difficulty": "Hard",
+              "probability": "Conceptual Trap"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-paper-set-12-q16",
+              "question": "$14C_2$ এর মান কত?",
+              "options": [
+                {
+                  "text": "15",
+                  "label": "ক"
+                },
+                {
+                  "text": "182",
+                  "label": "খ"
+                },
+                {
+                  "text": "196",
+                  "label": "গ"
+                },
+                {
+                  "text": "91",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "ঘ",
+              "shortSolution": "সঠিক উত্তর: ঘ। $nC_2=n(n-1)/2$।",
+              "paper": "HSC HM1",
+              "subject": "higher-math-1st-paper",
+              "setType": "paper-wise-model-test",
+              "topic": "সমাবেশ",
+              "difficulty": "Hard",
+              "probability": "Mega Hot"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-paper-set-12-q17",
+              "question": "ঢাল 15 এবং বিন্দু $(5,15)$ দিয়ে অতিক্রান্ত রেখার সমীকরণ কোনটি?",
+              "options": [
+                {
+                  "text": "$y-15=5(x-15)$",
+                  "label": "ক"
+                },
+                {
+                  "text": "$y+15=15(x-5)$",
+                  "label": "খ"
+                },
+                {
+                  "text": "$y-15=15(x-5)$",
+                  "label": "গ"
+                },
+                {
+                  "text": "$x-15=15(y-5)$",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "গ",
+              "shortSolution": "সঠিক উত্তর: গ। Point-slope form ব্যবহৃত।",
+              "paper": "HSC HM1",
+              "subject": "higher-math-1st-paper",
+              "setType": "paper-wise-model-test",
+              "topic": "সরলরেখা",
+              "difficulty": "Hard",
+              "probability": "Very Hot"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-paper-set-12-q18",
+              "question": "$x^2+y^2=256$ বৃত্তের ব্যাসার্ধ কত?",
+              "options": [
+                {
+                  "text": "256",
+                  "label": "ক"
+                },
+                {
+                  "text": "32",
+                  "label": "খ"
+                },
+                {
+                  "text": "16",
+                  "label": "গ"
+                },
+                {
+                  "text": "17",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "গ",
+              "shortSolution": "সঠিক উত্তর: গ। $x^2+y^2=r^2$।",
+              "paper": "HSC HM1",
+              "subject": "higher-math-1st-paper",
+              "setType": "paper-wise-model-test",
+              "topic": "বৃত্ত",
+              "difficulty": "Hard",
+              "probability": "Board Favourite"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-paper-set-12-q19",
+              "question": "$\\sin^2\\theta+\\cos^2\\theta$ কত?",
+              "options": [
+                {
+                  "text": "1",
+                  "label": "ক"
+                },
+                {
+                  "text": "0",
+                  "label": "খ"
+                },
+                {
+                  "text": "$\\tan\\theta$",
+                  "label": "গ"
+                },
+                {
+                  "text": "$\\sec^2\\theta$",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "ক",
+              "shortSolution": "সঠিক উত্তর: ক। মৌলিক ত্রিকোণমিতিক identity।",
+              "paper": "HSC HM1",
+              "subject": "higher-math-1st-paper",
+              "setType": "paper-wise-model-test",
+              "topic": "ত্রিকোণমিতি",
+              "difficulty": "Hard",
+              "probability": "Conceptual Trap"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-paper-set-12-q20",
+              "question": "$\\sin(A+B)$ সূত্র কোনটি?",
+              "options": [
+                {
+                  "text": "$\\tan A+\\tan B$",
+                  "label": "ক"
+                },
+                {
+                  "text": "$\\sin A\\cos B-\\cos A\\sin B$",
+                  "label": "খ"
+                },
+                {
+                  "text": "$\\cos A\\cos B-\\sin A\\sin B$",
+                  "label": "গ"
+                },
+                {
+                  "text": "$\\sin A\\cos B+\\cos A\\sin B$",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "ঘ",
+              "shortSolution": "সঠিক উত্তর: ঘ। যোগকোণের sine সূত্র।",
+              "paper": "HSC HM1",
+              "subject": "higher-math-1st-paper",
+              "setType": "paper-wise-model-test",
+              "topic": "সংযুক্ত কোণ",
+              "difficulty": "Hard",
+              "probability": "Mega Hot"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-paper-set-12-q21",
+              "question": "$f(x)=x^2$ ফাংশনটি কেমন?",
+              "options": [
+                {
+                  "text": "Odd",
+                  "label": "ক"
+                },
+                {
+                  "text": "Periodic",
+                  "label": "খ"
+                },
+                {
+                  "text": "Constant",
+                  "label": "গ"
+                },
+                {
+                  "text": "Even",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "ঘ",
+              "shortSolution": "সঠিক উত্তর: ঘ। $f(-x)=f(x)$।",
+              "paper": "HSC HM1",
+              "subject": "higher-math-1st-paper",
+              "setType": "paper-wise-model-test",
+              "topic": "ফাংশন",
+              "difficulty": "Hard",
+              "probability": "Very Hot"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-paper-set-12-q22",
+              "question": "$\\vec a\\cdot\\vec b=0$ হলে দুটি ভেক্টর কেমন?",
+              "options": [
+                {
+                  "text": "লম্ব",
+                  "label": "ক"
+                },
+                {
+                  "text": "সমান",
+                  "label": "খ"
+                },
+                {
+                  "text": "সমান্তরাল",
+                  "label": "গ"
+                },
+                {
+                  "text": "একক",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "ক",
+              "shortSolution": "সঠিক উত্তর: ক। Dot product zero হলে vectors perpendicular।",
+              "paper": "HSC HM1",
+              "subject": "higher-math-1st-paper",
+              "setType": "paper-wise-model-test",
+              "topic": "ভেক্টর",
+              "difficulty": "Board Standard",
+              "probability": "Board Favourite"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-paper-set-12-q23",
+              "question": "$A^2=A$ হলে matrix কী?",
+              "options": [
+                {
+                  "text": "Orthogonal",
+                  "label": "ক"
+                },
+                {
+                  "text": "Scalar",
+                  "label": "খ"
+                },
+                {
+                  "text": "Nilpotent",
+                  "label": "গ"
+                },
+                {
+                  "text": "Idempotent",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "ঘ",
+              "shortSolution": "সঠিক উত্তর: ঘ। সংজ্ঞা অনুসারে idempotent।",
+              "paper": "HSC HM1",
+              "subject": "higher-math-1st-paper",
+              "setType": "paper-wise-model-test",
+              "topic": "ম্যাট্রিক্স",
+              "difficulty": "Board Standard",
+              "probability": "Conceptual Trap"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-paper-set-12-q24",
+              "question": "$\\int_0^1 xdx$ কত?",
+              "options": [
+                {
+                  "text": "0",
+                  "label": "ক"
+                },
+                {
+                  "text": "1",
+                  "label": "খ"
+                },
+                {
+                  "text": "$\\frac13$",
+                  "label": "গ"
+                },
+                {
+                  "text": "$\\frac12$",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "ঘ",
+              "shortSolution": "সঠিক উত্তর: ঘ। নির্দিষ্ট যোগজের মান $1/2$।",
+              "paper": "HSC HM1",
+              "subject": "higher-math-1st-paper",
+              "setType": "paper-wise-model-test",
+              "topic": "যোগজীকরণ",
+              "difficulty": "Board Standard",
+              "probability": "Mega Hot"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-paper-set-12-q25",
+              "question": "$\\frac{d}{dx}x^13$ কত?",
+              "options": [
+                {
+                  "text": "$13x^12$",
+                  "label": "ক"
+                },
+                {
+                  "text": "$12x^13$",
+                  "label": "খ"
+                },
+                {
+                  "text": "$x^13$",
+                  "label": "গ"
+                },
+                {
+                  "text": "$x^12$",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "ক",
+              "shortSolution": "সঠিক উত্তর: ক। Power rule প্রয়োগ করা হয়েছে।",
+              "paper": "HSC HM1",
+              "subject": "higher-math-1st-paper",
+              "setType": "paper-wise-model-test",
+              "topic": "অন্তরীকরণ",
+              "difficulty": "Board Standard",
+              "probability": "Very Hot"
+            }
+          ]
+        },
+        {
+          "id": "hsc-higher-math-1st-paper-paper-set-13",
+          "title": "HSC HM1 Paper-wise Model Test Set 13",
+          "setNo": "13",
+          "questions": [
+            {
+              "id": "hsc-higher-math-1st-paper-paper-set-13-q01",
+              "question": "$\\frac{d}{dx}x^15$ কত?",
+              "options": [
+                {
+                  "text": "$15x^14$",
+                  "label": "ক"
+                },
+                {
+                  "text": "$14x^15$",
+                  "label": "খ"
+                },
+                {
+                  "text": "$x^15$",
+                  "label": "গ"
+                },
+                {
+                  "text": "$x^14$",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "ক",
+              "shortSolution": "সঠিক উত্তর: ক। Power rule প্রয়োগ করা হয়েছে।",
+              "paper": "HSC HM1",
+              "subject": "higher-math-1st-paper",
+              "setType": "paper-wise-model-test",
+              "topic": "অন্তরীকরণ",
+              "difficulty": "Easy",
+              "probability": "Board Favourite"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-paper-set-13-q02",
+              "question": "$\\int x^16dx$ কত?",
+              "options": [
+                {
+                  "text": "$\\frac{x^16}{16}+C$",
+                  "label": "ক"
+                },
+                {
+                  "text": "$16x^15+C$",
+                  "label": "খ"
+                },
+                {
+                  "text": "$x^17+C$",
+                  "label": "গ"
+                },
+                {
+                  "text": "$\\frac{x^17}{17}+C$",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "ঘ",
+              "shortSolution": "সঠিক উত্তর: ঘ। Power integration rule।",
+              "paper": "HSC HM1",
+              "subject": "higher-math-1st-paper",
+              "setType": "paper-wise-model-test",
+              "topic": "যোগজীকরণ",
+              "difficulty": "Easy",
+              "probability": "Conceptual Trap"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-paper-set-13-q03",
+              "question": "$17P_2$ এর মান কত?",
+              "options": [
+                {
+                  "text": "19",
+                  "label": "ক"
+                },
+                {
+                  "text": "272",
+                  "label": "খ"
+                },
+                {
+                  "text": "136",
+                  "label": "গ"
+                },
+                {
+                  "text": "85",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "খ",
+              "shortSolution": "সঠিক উত্তর: খ। $nP_2=n(n-1)$।",
+              "paper": "HSC HM1",
+              "subject": "higher-math-1st-paper",
+              "setType": "paper-wise-model-test",
+              "topic": "বিন্যাস",
+              "difficulty": "Easy",
+              "probability": "Mega Hot"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-paper-set-13-q04",
+              "question": "$18C_2$ এর মান কত?",
+              "options": [
+                {
+                  "text": "306",
+                  "label": "ক"
+                },
+                {
+                  "text": "19",
+                  "label": "খ"
+                },
+                {
+                  "text": "153",
+                  "label": "গ"
+                },
+                {
+                  "text": "324",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "গ",
+              "shortSolution": "সঠিক উত্তর: গ। $nC_2=n(n-1)/2$।",
+              "paper": "HSC HM1",
+              "subject": "higher-math-1st-paper",
+              "setType": "paper-wise-model-test",
+              "topic": "সমাবেশ",
+              "difficulty": "Easy",
+              "probability": "Very Hot"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-paper-set-13-q05",
+              "question": "ঢাল 14 এবং বিন্দু $(7,14)$ দিয়ে অতিক্রান্ত রেখার সমীকরণ কোনটি?",
+              "options": [
+                {
+                  "text": "$x-14=14(y-7)$",
+                  "label": "ক"
+                },
+                {
+                  "text": "$y-14=7(x-14)$",
+                  "label": "খ"
+                },
+                {
+                  "text": "$y+14=14(x-7)$",
+                  "label": "গ"
+                },
+                {
+                  "text": "$y-14=14(x-7)$",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "ঘ",
+              "shortSolution": "সঠিক উত্তর: ঘ। Point-slope form ব্যবহৃত।",
+              "paper": "HSC HM1",
+              "subject": "higher-math-1st-paper",
+              "setType": "paper-wise-model-test",
+              "topic": "সরলরেখা",
+              "difficulty": "Easy",
+              "probability": "Board Favourite"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-paper-set-13-q06",
+              "question": "$x^2+y^2=225$ বৃত্তের ব্যাসার্ধ কত?",
+              "options": [
+                {
+                  "text": "15",
+                  "label": "ক"
+                },
+                {
+                  "text": "16",
+                  "label": "খ"
+                },
+                {
+                  "text": "30",
+                  "label": "গ"
+                },
+                {
+                  "text": "225",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "ক",
+              "shortSolution": "সঠিক উত্তর: ক। $x^2+y^2=r^2$।",
+              "paper": "HSC HM1",
+              "subject": "higher-math-1st-paper",
+              "setType": "paper-wise-model-test",
+              "topic": "বৃত্ত",
+              "difficulty": "Easy",
+              "probability": "Conceptual Trap"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-paper-set-13-q07",
+              "question": "$\\sin^2\\theta+\\cos^2\\theta$ কত?",
+              "options": [
+                {
+                  "text": "1",
+                  "label": "ক"
+                },
+                {
+                  "text": "$\\sec^2\\theta$",
+                  "label": "খ"
+                },
+                {
+                  "text": "0",
+                  "label": "গ"
+                },
+                {
+                  "text": "$\\tan\\theta$",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "ক",
+              "shortSolution": "সঠিক উত্তর: ক। মৌলিক ত্রিকোণমিতিক identity।",
+              "paper": "HSC HM1",
+              "subject": "higher-math-1st-paper",
+              "setType": "paper-wise-model-test",
+              "topic": "ত্রিকোণমিতি",
+              "difficulty": "Easy",
+              "probability": "Mega Hot"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-paper-set-13-q08",
+              "question": "$\\sin(A+B)$ সূত্র কোনটি?",
+              "options": [
+                {
+                  "text": "$\\tan A+\\tan B$",
+                  "label": "ক"
+                },
+                {
+                  "text": "$\\sin A\\cos B+\\cos A\\sin B$",
+                  "label": "খ"
+                },
+                {
+                  "text": "$\\sin A\\cos B-\\cos A\\sin B$",
+                  "label": "গ"
+                },
+                {
+                  "text": "$\\cos A\\cos B-\\sin A\\sin B$",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "খ",
+              "shortSolution": "সঠিক উত্তর: খ। যোগকোণের sine সূত্র।",
+              "paper": "HSC HM1",
+              "subject": "higher-math-1st-paper",
+              "setType": "paper-wise-model-test",
+              "topic": "সংযুক্ত কোণ",
+              "difficulty": "Medium",
+              "probability": "Very Hot"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-paper-set-13-q09",
+              "question": "$f(x)=x^2$ ফাংশনটি কেমন?",
+              "options": [
+                {
+                  "text": "Even",
+                  "label": "ক"
+                },
+                {
+                  "text": "Periodic",
+                  "label": "খ"
+                },
+                {
+                  "text": "Constant",
+                  "label": "গ"
+                },
+                {
+                  "text": "Odd",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "ক",
+              "shortSolution": "সঠিক উত্তর: ক। $f(-x)=f(x)$।",
+              "paper": "HSC HM1",
+              "subject": "higher-math-1st-paper",
+              "setType": "paper-wise-model-test",
+              "topic": "ফাংশন",
+              "difficulty": "Medium",
+              "probability": "Board Favourite"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-paper-set-13-q10",
+              "question": "$\\vec a\\cdot\\vec b=0$ হলে দুটি ভেক্টর কেমন?",
+              "options": [
+                {
+                  "text": "সমান্তরাল",
+                  "label": "ক"
+                },
+                {
+                  "text": "একক",
+                  "label": "খ"
+                },
+                {
+                  "text": "লম্ব",
+                  "label": "গ"
+                },
+                {
+                  "text": "সমান",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "গ",
+              "shortSolution": "সঠিক উত্তর: গ। Dot product zero হলে vectors perpendicular।",
+              "paper": "HSC HM1",
+              "subject": "higher-math-1st-paper",
+              "setType": "paper-wise-model-test",
+              "topic": "ভেক্টর",
+              "difficulty": "Medium",
+              "probability": "Conceptual Trap"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-paper-set-13-q11",
+              "question": "$A^2=A$ হলে matrix কী?",
+              "options": [
+                {
+                  "text": "Idempotent",
+                  "label": "ক"
+                },
+                {
+                  "text": "Nilpotent",
+                  "label": "খ"
+                },
+                {
+                  "text": "Scalar",
+                  "label": "গ"
+                },
+                {
+                  "text": "Orthogonal",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "ক",
+              "shortSolution": "সঠিক উত্তর: ক। সংজ্ঞা অনুসারে idempotent।",
+              "paper": "HSC HM1",
+              "subject": "higher-math-1st-paper",
+              "setType": "paper-wise-model-test",
+              "topic": "ম্যাট্রিক্স",
+              "difficulty": "Medium",
+              "probability": "Mega Hot"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-paper-set-13-q12",
+              "question": "$\\int_0^1 xdx$ কত?",
+              "options": [
+                {
+                  "text": "1",
+                  "label": "ক"
+                },
+                {
+                  "text": "0",
+                  "label": "খ"
+                },
+                {
+                  "text": "$\\frac12$",
+                  "label": "গ"
+                },
+                {
+                  "text": "$\\frac13$",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "গ",
+              "shortSolution": "সঠিক উত্তর: গ। নির্দিষ্ট যোগজের মান $1/2$।",
+              "paper": "HSC HM1",
+              "subject": "higher-math-1st-paper",
+              "setType": "paper-wise-model-test",
+              "topic": "যোগজীকরণ",
+              "difficulty": "Medium",
+              "probability": "Very Hot"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-paper-set-13-q13",
+              "question": "$\\frac{d}{dx}x^17$ কত?",
+              "options": [
+                {
+                  "text": "$x^17$",
+                  "label": "ক"
+                },
+                {
+                  "text": "$x^16$",
+                  "label": "খ"
+                },
+                {
+                  "text": "$17x^16$",
+                  "label": "গ"
+                },
+                {
+                  "text": "$16x^17$",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "গ",
+              "shortSolution": "সঠিক উত্তর: গ। Power rule প্রয়োগ করা হয়েছে।",
+              "paper": "HSC HM1",
+              "subject": "higher-math-1st-paper",
+              "setType": "paper-wise-model-test",
+              "topic": "অন্তরীকরণ",
+              "difficulty": "Medium",
+              "probability": "Board Favourite"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-paper-set-13-q14",
+              "question": "$\\int x^18dx$ কত?",
+              "options": [
+                {
+                  "text": "$\\frac{x^18}{18}+C$",
+                  "label": "ক"
+                },
+                {
+                  "text": "$x^19+C$",
+                  "label": "খ"
+                },
+                {
+                  "text": "$\\frac{x^19}{19}+C$",
+                  "label": "গ"
+                },
+                {
+                  "text": "$18x^17+C$",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "গ",
+              "shortSolution": "সঠিক উত্তর: গ। Power integration rule।",
+              "paper": "HSC HM1",
+              "subject": "higher-math-1st-paper",
+              "setType": "paper-wise-model-test",
+              "topic": "যোগজীকরণ",
+              "difficulty": "Medium",
+              "probability": "Conceptual Trap"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-paper-set-13-q15",
+              "question": "$14P_2$ এর মান কত?",
+              "options": [
+                {
+                  "text": "91",
+                  "label": "ক"
+                },
+                {
+                  "text": "42",
+                  "label": "খ"
+                },
+                {
+                  "text": "16",
+                  "label": "গ"
+                },
+                {
+                  "text": "182",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "ঘ",
+              "shortSolution": "সঠিক উত্তর: ঘ। $nP_2=n(n-1)$।",
+              "paper": "HSC HM1",
+              "subject": "higher-math-1st-paper",
+              "setType": "paper-wise-model-test",
+              "topic": "বিন্যাস",
+              "difficulty": "Hard",
+              "probability": "Mega Hot"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-paper-set-13-q16",
+              "question": "$15C_2$ এর মান কত?",
+              "options": [
+                {
+                  "text": "16",
+                  "label": "ক"
+                },
+                {
+                  "text": "105",
+                  "label": "খ"
+                },
+                {
+                  "text": "210",
+                  "label": "গ"
+                },
+                {
+                  "text": "225",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "খ",
+              "shortSolution": "সঠিক উত্তর: খ। $nC_2=n(n-1)/2$।",
+              "paper": "HSC HM1",
+              "subject": "higher-math-1st-paper",
+              "setType": "paper-wise-model-test",
+              "topic": "সমাবেশ",
+              "difficulty": "Hard",
+              "probability": "Very Hot"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-paper-set-13-q17",
+              "question": "ঢাল 16 এবং বিন্দু $(5,16)$ দিয়ে অতিক্রান্ত রেখার সমীকরণ কোনটি?",
+              "options": [
+                {
+                  "text": "$x-16=16(y-5)$",
+                  "label": "ক"
+                },
+                {
+                  "text": "$y-16=16(x-5)$",
+                  "label": "খ"
+                },
+                {
+                  "text": "$y+16=16(x-5)$",
+                  "label": "গ"
+                },
+                {
+                  "text": "$y-16=5(x-16)$",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "খ",
+              "shortSolution": "সঠিক উত্তর: খ। Point-slope form ব্যবহৃত।",
+              "paper": "HSC HM1",
+              "subject": "higher-math-1st-paper",
+              "setType": "paper-wise-model-test",
+              "topic": "সরলরেখা",
+              "difficulty": "Hard",
+              "probability": "Board Favourite"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-paper-set-13-q18",
+              "question": "$x^2+y^2=289$ বৃত্তের ব্যাসার্ধ কত?",
+              "options": [
+                {
+                  "text": "17",
+                  "label": "ক"
+                },
+                {
+                  "text": "34",
+                  "label": "খ"
+                },
+                {
+                  "text": "289",
+                  "label": "গ"
+                },
+                {
+                  "text": "18",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "ক",
+              "shortSolution": "সঠিক উত্তর: ক। $x^2+y^2=r^2$।",
+              "paper": "HSC HM1",
+              "subject": "higher-math-1st-paper",
+              "setType": "paper-wise-model-test",
+              "topic": "বৃত্ত",
+              "difficulty": "Hard",
+              "probability": "Conceptual Trap"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-paper-set-13-q19",
+              "question": "$\\sin^2\\theta+\\cos^2\\theta$ কত?",
+              "options": [
+                {
+                  "text": "0",
+                  "label": "ক"
+                },
+                {
+                  "text": "1",
+                  "label": "খ"
+                },
+                {
+                  "text": "$\\sec^2\\theta$",
+                  "label": "গ"
+                },
+                {
+                  "text": "$\\tan\\theta$",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "খ",
+              "shortSolution": "সঠিক উত্তর: খ। মৌলিক ত্রিকোণমিতিক identity।",
+              "paper": "HSC HM1",
+              "subject": "higher-math-1st-paper",
+              "setType": "paper-wise-model-test",
+              "topic": "ত্রিকোণমিতি",
+              "difficulty": "Hard",
+              "probability": "Mega Hot"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-paper-set-13-q20",
+              "question": "$\\sin(A+B)$ সূত্র কোনটি?",
+              "options": [
+                {
+                  "text": "$\\sin A\\cos B+\\cos A\\sin B$",
+                  "label": "ক"
+                },
+                {
+                  "text": "$\\tan A+\\tan B$",
+                  "label": "খ"
+                },
+                {
+                  "text": "$\\sin A\\cos B-\\cos A\\sin B$",
+                  "label": "গ"
+                },
+                {
+                  "text": "$\\cos A\\cos B-\\sin A\\sin B$",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "ক",
+              "shortSolution": "সঠিক উত্তর: ক। যোগকোণের sine সূত্র।",
+              "paper": "HSC HM1",
+              "subject": "higher-math-1st-paper",
+              "setType": "paper-wise-model-test",
+              "topic": "সংযুক্ত কোণ",
+              "difficulty": "Hard",
+              "probability": "Very Hot"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-paper-set-13-q21",
+              "question": "$f(x)=x^2$ ফাংশনটি কেমন?",
+              "options": [
+                {
+                  "text": "Constant",
+                  "label": "ক"
+                },
+                {
+                  "text": "Periodic",
+                  "label": "খ"
+                },
+                {
+                  "text": "Even",
+                  "label": "গ"
+                },
+                {
+                  "text": "Odd",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "গ",
+              "shortSolution": "সঠিক উত্তর: গ। $f(-x)=f(x)$।",
+              "paper": "HSC HM1",
+              "subject": "higher-math-1st-paper",
+              "setType": "paper-wise-model-test",
+              "topic": "ফাংশন",
+              "difficulty": "Hard",
+              "probability": "Board Favourite"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-paper-set-13-q22",
+              "question": "$\\vec a\\cdot\\vec b=0$ হলে দুটি ভেক্টর কেমন?",
+              "options": [
+                {
+                  "text": "একক",
+                  "label": "ক"
+                },
+                {
+                  "text": "সমান",
+                  "label": "খ"
+                },
+                {
+                  "text": "সমান্তরাল",
+                  "label": "গ"
+                },
+                {
+                  "text": "লম্ব",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "ঘ",
+              "shortSolution": "সঠিক উত্তর: ঘ। Dot product zero হলে vectors perpendicular।",
+              "paper": "HSC HM1",
+              "subject": "higher-math-1st-paper",
+              "setType": "paper-wise-model-test",
+              "topic": "ভেক্টর",
+              "difficulty": "Board Standard",
+              "probability": "Conceptual Trap"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-paper-set-13-q23",
+              "question": "$A^2=A$ হলে matrix কী?",
+              "options": [
+                {
+                  "text": "Scalar",
+                  "label": "ক"
+                },
+                {
+                  "text": "Nilpotent",
+                  "label": "খ"
+                },
+                {
+                  "text": "Idempotent",
+                  "label": "গ"
+                },
+                {
+                  "text": "Orthogonal",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "গ",
+              "shortSolution": "সঠিক উত্তর: গ। সংজ্ঞা অনুসারে idempotent।",
+              "paper": "HSC HM1",
+              "subject": "higher-math-1st-paper",
+              "setType": "paper-wise-model-test",
+              "topic": "ম্যাট্রিক্স",
+              "difficulty": "Board Standard",
+              "probability": "Mega Hot"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-paper-set-13-q24",
+              "question": "$\\int_0^1 xdx$ কত?",
+              "options": [
+                {
+                  "text": "0",
+                  "label": "ক"
+                },
+                {
+                  "text": "$\\frac13$",
+                  "label": "খ"
+                },
+                {
+                  "text": "$\\frac12$",
+                  "label": "গ"
+                },
+                {
+                  "text": "1",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "গ",
+              "shortSolution": "সঠিক উত্তর: গ। নির্দিষ্ট যোগজের মান $1/2$।",
+              "paper": "HSC HM1",
+              "subject": "higher-math-1st-paper",
+              "setType": "paper-wise-model-test",
+              "topic": "যোগজীকরণ",
+              "difficulty": "Board Standard",
+              "probability": "Very Hot"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-paper-set-13-q25",
+              "question": "$\\frac{d}{dx}x^14$ কত?",
+              "options": [
+                {
+                  "text": "$x^14$",
+                  "label": "ক"
+                },
+                {
+                  "text": "$x^13$",
+                  "label": "খ"
+                },
+                {
+                  "text": "$13x^14$",
+                  "label": "গ"
+                },
+                {
+                  "text": "$14x^13$",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "ঘ",
+              "shortSolution": "সঠিক উত্তর: ঘ। Power rule প্রয়োগ করা হয়েছে।",
+              "paper": "HSC HM1",
+              "subject": "higher-math-1st-paper",
+              "setType": "paper-wise-model-test",
+              "topic": "অন্তরীকরণ",
+              "difficulty": "Board Standard",
+              "probability": "Board Favourite"
+            }
+          ]
+        },
+        {
+          "id": "hsc-higher-math-1st-paper-paper-set-14",
+          "title": "HSC HM1 Paper-wise Model Test Set 14",
+          "setNo": "14",
+          "questions": [
+            {
+              "id": "hsc-higher-math-1st-paper-paper-set-14-q01",
+              "question": "$\\frac{d}{dx}x^16$ কত?",
+              "options": [
+                {
+                  "text": "$15x^16$",
+                  "label": "ক"
+                },
+                {
+                  "text": "$x^16$",
+                  "label": "খ"
+                },
+                {
+                  "text": "$x^15$",
+                  "label": "গ"
+                },
+                {
+                  "text": "$16x^15$",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "ঘ",
+              "shortSolution": "সঠিক উত্তর: ঘ। Power rule প্রয়োগ করা হয়েছে।",
+              "paper": "HSC HM1",
+              "subject": "higher-math-1st-paper",
+              "setType": "paper-wise-model-test",
+              "topic": "অন্তরীকরণ",
+              "difficulty": "Easy",
+              "probability": "Conceptual Trap"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-paper-set-14-q02",
+              "question": "$\\int x^17dx$ কত?",
+              "options": [
+                {
+                  "text": "$\\frac{x^18}{18}+C$",
+                  "label": "ক"
+                },
+                {
+                  "text": "$17x^16+C$",
+                  "label": "খ"
+                },
+                {
+                  "text": "$\\frac{x^17}{17}+C$",
+                  "label": "গ"
+                },
+                {
+                  "text": "$x^18+C$",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "ক",
+              "shortSolution": "সঠিক উত্তর: ক। Power integration rule।",
+              "paper": "HSC HM1",
+              "subject": "higher-math-1st-paper",
+              "setType": "paper-wise-model-test",
+              "topic": "যোগজীকরণ",
+              "difficulty": "Easy",
+              "probability": "Mega Hot"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-paper-set-14-q03",
+              "question": "$18P_2$ এর মান কত?",
+              "options": [
+                {
+                  "text": "90",
+                  "label": "ক"
+                },
+                {
+                  "text": "20",
+                  "label": "খ"
+                },
+                {
+                  "text": "153",
+                  "label": "গ"
+                },
+                {
+                  "text": "306",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "ঘ",
+              "shortSolution": "সঠিক উত্তর: ঘ। $nP_2=n(n-1)$।",
+              "paper": "HSC HM1",
+              "subject": "higher-math-1st-paper",
+              "setType": "paper-wise-model-test",
+              "topic": "বিন্যাস",
+              "difficulty": "Easy",
+              "probability": "Very Hot"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-paper-set-14-q04",
+              "question": "$19C_2$ এর মান কত?",
+              "options": [
+                {
+                  "text": "20",
+                  "label": "ক"
+                },
+                {
+                  "text": "361",
+                  "label": "খ"
+                },
+                {
+                  "text": "171",
+                  "label": "গ"
+                },
+                {
+                  "text": "342",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "গ",
+              "shortSolution": "সঠিক উত্তর: গ। $nC_2=n(n-1)/2$।",
+              "paper": "HSC HM1",
+              "subject": "higher-math-1st-paper",
+              "setType": "paper-wise-model-test",
+              "topic": "সমাবেশ",
+              "difficulty": "Easy",
+              "probability": "Board Favourite"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-paper-set-14-q05",
+              "question": "ঢাল 15 এবং বিন্দু $(7,15)$ দিয়ে অতিক্রান্ত রেখার সমীকরণ কোনটি?",
+              "options": [
+                {
+                  "text": "$y+15=15(x-7)$",
+                  "label": "ক"
+                },
+                {
+                  "text": "$y-15=15(x-7)$",
+                  "label": "খ"
+                },
+                {
+                  "text": "$y-15=7(x-15)$",
+                  "label": "গ"
+                },
+                {
+                  "text": "$x-15=15(y-7)$",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "খ",
+              "shortSolution": "সঠিক উত্তর: খ। Point-slope form ব্যবহৃত।",
+              "paper": "HSC HM1",
+              "subject": "higher-math-1st-paper",
+              "setType": "paper-wise-model-test",
+              "topic": "সরলরেখা",
+              "difficulty": "Easy",
+              "probability": "Conceptual Trap"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-paper-set-14-q06",
+              "question": "$x^2+y^2=256$ বৃত্তের ব্যাসার্ধ কত?",
+              "options": [
+                {
+                  "text": "17",
+                  "label": "ক"
+                },
+                {
+                  "text": "32",
+                  "label": "খ"
+                },
+                {
+                  "text": "16",
+                  "label": "গ"
+                },
+                {
+                  "text": "256",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "গ",
+              "shortSolution": "সঠিক উত্তর: গ। $x^2+y^2=r^2$।",
+              "paper": "HSC HM1",
+              "subject": "higher-math-1st-paper",
+              "setType": "paper-wise-model-test",
+              "topic": "বৃত্ত",
+              "difficulty": "Easy",
+              "probability": "Mega Hot"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-paper-set-14-q07",
+              "question": "$\\sin^2\\theta+\\cos^2\\theta$ কত?",
+              "options": [
+                {
+                  "text": "0",
+                  "label": "ক"
+                },
+                {
+                  "text": "$\\sec^2\\theta$",
+                  "label": "খ"
+                },
+                {
+                  "text": "$\\tan\\theta$",
+                  "label": "গ"
+                },
+                {
+                  "text": "1",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "ঘ",
+              "shortSolution": "সঠিক উত্তর: ঘ। মৌলিক ত্রিকোণমিতিক identity।",
+              "paper": "HSC HM1",
+              "subject": "higher-math-1st-paper",
+              "setType": "paper-wise-model-test",
+              "topic": "ত্রিকোণমিতি",
+              "difficulty": "Easy",
+              "probability": "Very Hot"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-paper-set-14-q08",
+              "question": "$\\sin(A+B)$ সূত্র কোনটি?",
+              "options": [
+                {
+                  "text": "$\\sin A\\cos B+\\cos A\\sin B$",
+                  "label": "ক"
+                },
+                {
+                  "text": "$\\tan A+\\tan B$",
+                  "label": "খ"
+                },
+                {
+                  "text": "$\\sin A\\cos B-\\cos A\\sin B$",
+                  "label": "গ"
+                },
+                {
+                  "text": "$\\cos A\\cos B-\\sin A\\sin B$",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "ক",
+              "shortSolution": "সঠিক উত্তর: ক। যোগকোণের sine সূত্র।",
+              "paper": "HSC HM1",
+              "subject": "higher-math-1st-paper",
+              "setType": "paper-wise-model-test",
+              "topic": "সংযুক্ত কোণ",
+              "difficulty": "Medium",
+              "probability": "Board Favourite"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-paper-set-14-q09",
+              "question": "$f(x)=x^2$ ফাংশনটি কেমন?",
+              "options": [
+                {
+                  "text": "Odd",
+                  "label": "ক"
+                },
+                {
+                  "text": "Periodic",
+                  "label": "খ"
+                },
+                {
+                  "text": "Even",
+                  "label": "গ"
+                },
+                {
+                  "text": "Constant",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "গ",
+              "shortSolution": "সঠিক উত্তর: গ। $f(-x)=f(x)$।",
+              "paper": "HSC HM1",
+              "subject": "higher-math-1st-paper",
+              "setType": "paper-wise-model-test",
+              "topic": "ফাংশন",
+              "difficulty": "Medium",
+              "probability": "Conceptual Trap"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-paper-set-14-q10",
+              "question": "$\\vec a\\cdot\\vec b=0$ হলে দুটি ভেক্টর কেমন?",
+              "options": [
+                {
+                  "text": "একক",
+                  "label": "ক"
+                },
+                {
+                  "text": "সমান",
+                  "label": "খ"
+                },
+                {
+                  "text": "লম্ব",
+                  "label": "গ"
+                },
+                {
+                  "text": "সমান্তরাল",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "গ",
+              "shortSolution": "সঠিক উত্তর: গ। Dot product zero হলে vectors perpendicular।",
+              "paper": "HSC HM1",
+              "subject": "higher-math-1st-paper",
+              "setType": "paper-wise-model-test",
+              "topic": "ভেক্টর",
+              "difficulty": "Medium",
+              "probability": "Mega Hot"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-paper-set-14-q11",
+              "question": "$A^2=A$ হলে matrix কী?",
+              "options": [
+                {
+                  "text": "Idempotent",
+                  "label": "ক"
+                },
+                {
+                  "text": "Nilpotent",
+                  "label": "খ"
+                },
+                {
+                  "text": "Orthogonal",
+                  "label": "গ"
+                },
+                {
+                  "text": "Scalar",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "ক",
+              "shortSolution": "সঠিক উত্তর: ক। সংজ্ঞা অনুসারে idempotent।",
+              "paper": "HSC HM1",
+              "subject": "higher-math-1st-paper",
+              "setType": "paper-wise-model-test",
+              "topic": "ম্যাট্রিক্স",
+              "difficulty": "Medium",
+              "probability": "Very Hot"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-paper-set-14-q12",
+              "question": "$\\int_0^1 xdx$ কত?",
+              "options": [
+                {
+                  "text": "$\\frac12$",
+                  "label": "ক"
+                },
+                {
+                  "text": "1",
+                  "label": "খ"
+                },
+                {
+                  "text": "0",
+                  "label": "গ"
+                },
+                {
+                  "text": "$\\frac13$",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "ক",
+              "shortSolution": "সঠিক উত্তর: ক। নির্দিষ্ট যোগজের মান $1/2$।",
+              "paper": "HSC HM1",
+              "subject": "higher-math-1st-paper",
+              "setType": "paper-wise-model-test",
+              "topic": "যোগজীকরণ",
+              "difficulty": "Medium",
+              "probability": "Board Favourite"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-paper-set-14-q13",
+              "question": "$\\frac{d}{dx}x^18$ কত?",
+              "options": [
+                {
+                  "text": "$17x^18$",
+                  "label": "ক"
+                },
+                {
+                  "text": "$18x^17$",
+                  "label": "খ"
+                },
+                {
+                  "text": "$x^17$",
+                  "label": "গ"
+                },
+                {
+                  "text": "$x^18$",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "খ",
+              "shortSolution": "সঠিক উত্তর: খ। Power rule প্রয়োগ করা হয়েছে।",
+              "paper": "HSC HM1",
+              "subject": "higher-math-1st-paper",
+              "setType": "paper-wise-model-test",
+              "topic": "অন্তরীকরণ",
+              "difficulty": "Medium",
+              "probability": "Conceptual Trap"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-paper-set-14-q14",
+              "question": "$\\int x^19dx$ কত?",
+              "options": [
+                {
+                  "text": "$19x^18+C$",
+                  "label": "ক"
+                },
+                {
+                  "text": "$\\frac{x^19}{19}+C$",
+                  "label": "খ"
+                },
+                {
+                  "text": "$x^20+C$",
+                  "label": "গ"
+                },
+                {
+                  "text": "$\\frac{x^20}{20}+C$",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "ঘ",
+              "shortSolution": "সঠিক উত্তর: ঘ। Power integration rule।",
+              "paper": "HSC HM1",
+              "subject": "higher-math-1st-paper",
+              "setType": "paper-wise-model-test",
+              "topic": "যোগজীকরণ",
+              "difficulty": "Medium",
+              "probability": "Mega Hot"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-paper-set-14-q15",
+              "question": "$15P_2$ এর মান কত?",
+              "options": [
+                {
+                  "text": "45",
+                  "label": "ক"
+                },
+                {
+                  "text": "17",
+                  "label": "খ"
+                },
+                {
+                  "text": "210",
+                  "label": "গ"
+                },
+                {
+                  "text": "105",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "গ",
+              "shortSolution": "সঠিক উত্তর: গ। $nP_2=n(n-1)$।",
+              "paper": "HSC HM1",
+              "subject": "higher-math-1st-paper",
+              "setType": "paper-wise-model-test",
+              "topic": "বিন্যাস",
+              "difficulty": "Hard",
+              "probability": "Very Hot"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-paper-set-14-q16",
+              "question": "$16C_2$ এর মান কত?",
+              "options": [
+                {
+                  "text": "240",
+                  "label": "ক"
+                },
+                {
+                  "text": "120",
+                  "label": "খ"
+                },
+                {
+                  "text": "17",
+                  "label": "গ"
+                },
+                {
+                  "text": "256",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "খ",
+              "shortSolution": "সঠিক উত্তর: খ। $nC_2=n(n-1)/2$।",
+              "paper": "HSC HM1",
+              "subject": "higher-math-1st-paper",
+              "setType": "paper-wise-model-test",
+              "topic": "সমাবেশ",
+              "difficulty": "Hard",
+              "probability": "Board Favourite"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-paper-set-14-q17",
+              "question": "ঢাল 17 এবং বিন্দু $(5,17)$ দিয়ে অতিক্রান্ত রেখার সমীকরণ কোনটি?",
+              "options": [
+                {
+                  "text": "$x-17=17(y-5)$",
+                  "label": "ক"
+                },
+                {
+                  "text": "$y-17=5(x-17)$",
+                  "label": "খ"
+                },
+                {
+                  "text": "$y+17=17(x-5)$",
+                  "label": "গ"
+                },
+                {
+                  "text": "$y-17=17(x-5)$",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "ঘ",
+              "shortSolution": "সঠিক উত্তর: ঘ। Point-slope form ব্যবহৃত।",
+              "paper": "HSC HM1",
+              "subject": "higher-math-1st-paper",
+              "setType": "paper-wise-model-test",
+              "topic": "সরলরেখা",
+              "difficulty": "Hard",
+              "probability": "Conceptual Trap"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-paper-set-14-q18",
+              "question": "$x^2+y^2=324$ বৃত্তের ব্যাসার্ধ কত?",
+              "options": [
+                {
+                  "text": "324",
+                  "label": "ক"
+                },
+                {
+                  "text": "18",
+                  "label": "খ"
+                },
+                {
+                  "text": "36",
+                  "label": "গ"
+                },
+                {
+                  "text": "19",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "খ",
+              "shortSolution": "সঠিক উত্তর: খ। $x^2+y^2=r^2$।",
+              "paper": "HSC HM1",
+              "subject": "higher-math-1st-paper",
+              "setType": "paper-wise-model-test",
+              "topic": "বৃত্ত",
+              "difficulty": "Hard",
+              "probability": "Mega Hot"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-paper-set-14-q19",
+              "question": "$\\sin^2\\theta+\\cos^2\\theta$ কত?",
+              "options": [
+                {
+                  "text": "1",
+                  "label": "ক"
+                },
+                {
+                  "text": "0",
+                  "label": "খ"
+                },
+                {
+                  "text": "$\\sec^2\\theta$",
+                  "label": "গ"
+                },
+                {
+                  "text": "$\\tan\\theta$",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "ক",
+              "shortSolution": "সঠিক উত্তর: ক। মৌলিক ত্রিকোণমিতিক identity।",
+              "paper": "HSC HM1",
+              "subject": "higher-math-1st-paper",
+              "setType": "paper-wise-model-test",
+              "topic": "ত্রিকোণমিতি",
+              "difficulty": "Hard",
+              "probability": "Very Hot"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-paper-set-14-q20",
+              "question": "$\\sin(A+B)$ সূত্র কোনটি?",
+              "options": [
+                {
+                  "text": "$\\sin A\\cos B-\\cos A\\sin B$",
+                  "label": "ক"
+                },
+                {
+                  "text": "$\\sin A\\cos B+\\cos A\\sin B$",
+                  "label": "খ"
+                },
+                {
+                  "text": "$\\tan A+\\tan B$",
+                  "label": "গ"
+                },
+                {
+                  "text": "$\\cos A\\cos B-\\sin A\\sin B$",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "খ",
+              "shortSolution": "সঠিক উত্তর: খ। যোগকোণের sine সূত্র।",
+              "paper": "HSC HM1",
+              "subject": "higher-math-1st-paper",
+              "setType": "paper-wise-model-test",
+              "topic": "সংযুক্ত কোণ",
+              "difficulty": "Hard",
+              "probability": "Board Favourite"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-paper-set-14-q21",
+              "question": "$f(x)=x^2$ ফাংশনটি কেমন?",
+              "options": [
+                {
+                  "text": "Odd",
+                  "label": "ক"
+                },
+                {
+                  "text": "Periodic",
+                  "label": "খ"
+                },
+                {
+                  "text": "Constant",
+                  "label": "গ"
+                },
+                {
+                  "text": "Even",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "ঘ",
+              "shortSolution": "সঠিক উত্তর: ঘ। $f(-x)=f(x)$।",
+              "paper": "HSC HM1",
+              "subject": "higher-math-1st-paper",
+              "setType": "paper-wise-model-test",
+              "topic": "ফাংশন",
+              "difficulty": "Hard",
+              "probability": "Conceptual Trap"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-paper-set-14-q22",
+              "question": "$\\vec a\\cdot\\vec b=0$ হলে দুটি ভেক্টর কেমন?",
+              "options": [
+                {
+                  "text": "সমান্তরাল",
+                  "label": "ক"
+                },
+                {
+                  "text": "একক",
+                  "label": "খ"
+                },
+                {
+                  "text": "সমান",
+                  "label": "গ"
+                },
+                {
+                  "text": "লম্ব",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "ঘ",
+              "shortSolution": "সঠিক উত্তর: ঘ। Dot product zero হলে vectors perpendicular।",
+              "paper": "HSC HM1",
+              "subject": "higher-math-1st-paper",
+              "setType": "paper-wise-model-test",
+              "topic": "ভেক্টর",
+              "difficulty": "Board Standard",
+              "probability": "Mega Hot"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-paper-set-14-q23",
+              "question": "$A^2=A$ হলে matrix কী?",
+              "options": [
+                {
+                  "text": "Scalar",
+                  "label": "ক"
+                },
+                {
+                  "text": "Orthogonal",
+                  "label": "খ"
+                },
+                {
+                  "text": "Nilpotent",
+                  "label": "গ"
+                },
+                {
+                  "text": "Idempotent",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "ঘ",
+              "shortSolution": "সঠিক উত্তর: ঘ। সংজ্ঞা অনুসারে idempotent।",
+              "paper": "HSC HM1",
+              "subject": "higher-math-1st-paper",
+              "setType": "paper-wise-model-test",
+              "topic": "ম্যাট্রিক্স",
+              "difficulty": "Board Standard",
+              "probability": "Very Hot"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-paper-set-14-q24",
+              "question": "$\\int_0^1 xdx$ কত?",
+              "options": [
+                {
+                  "text": "$\\frac12$",
+                  "label": "ক"
+                },
+                {
+                  "text": "$\\frac13$",
+                  "label": "খ"
+                },
+                {
+                  "text": "0",
+                  "label": "গ"
+                },
+                {
+                  "text": "1",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "ক",
+              "shortSolution": "সঠিক উত্তর: ক। নির্দিষ্ট যোগজের মান $1/2$।",
+              "paper": "HSC HM1",
+              "subject": "higher-math-1st-paper",
+              "setType": "paper-wise-model-test",
+              "topic": "যোগজীকরণ",
+              "difficulty": "Board Standard",
+              "probability": "Board Favourite"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-paper-set-14-q25",
+              "question": "$\\frac{d}{dx}x^15$ কত?",
+              "options": [
+                {
+                  "text": "$15x^14$",
+                  "label": "ক"
+                },
+                {
+                  "text": "$x^15$",
+                  "label": "খ"
+                },
+                {
+                  "text": "$14x^15$",
+                  "label": "গ"
+                },
+                {
+                  "text": "$x^14$",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "ক",
+              "shortSolution": "সঠিক উত্তর: ক। Power rule প্রয়োগ করা হয়েছে।",
+              "paper": "HSC HM1",
+              "subject": "higher-math-1st-paper",
+              "setType": "paper-wise-model-test",
+              "topic": "অন্তরীকরণ",
+              "difficulty": "Board Standard",
+              "probability": "Conceptual Trap"
+            }
+          ]
+        },
+        {
+          "id": "hsc-higher-math-1st-paper-paper-set-15",
+          "title": "HSC HM1 Paper-wise Model Test Set 15",
+          "setNo": "15",
+          "questions": [
+            {
+              "id": "hsc-higher-math-1st-paper-paper-set-15-q01",
+              "question": "$\\frac{d}{dx}x^17$ কত?",
+              "options": [
+                {
+                  "text": "$16x^17$",
+                  "label": "ক"
+                },
+                {
+                  "text": "$x^16$",
+                  "label": "খ"
+                },
+                {
+                  "text": "$17x^16$",
+                  "label": "গ"
+                },
+                {
+                  "text": "$x^17$",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "গ",
+              "shortSolution": "সঠিক উত্তর: গ। Power rule প্রয়োগ করা হয়েছে।",
+              "paper": "HSC HM1",
+              "subject": "higher-math-1st-paper",
+              "setType": "paper-wise-model-test",
+              "topic": "অন্তরীকরণ",
+              "difficulty": "Easy",
+              "probability": "Mega Hot"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-paper-set-15-q02",
+              "question": "$\\int x^18dx$ কত?",
+              "options": [
+                {
+                  "text": "$\\frac{x^19}{19}+C$",
+                  "label": "ক"
+                },
+                {
+                  "text": "$\\frac{x^18}{18}+C$",
+                  "label": "খ"
+                },
+                {
+                  "text": "$18x^17+C$",
+                  "label": "গ"
+                },
+                {
+                  "text": "$x^19+C$",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "ক",
+              "shortSolution": "সঠিক উত্তর: ক। Power integration rule।",
+              "paper": "HSC HM1",
+              "subject": "higher-math-1st-paper",
+              "setType": "paper-wise-model-test",
+              "topic": "যোগজীকরণ",
+              "difficulty": "Easy",
+              "probability": "Very Hot"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-paper-set-15-q03",
+              "question": "$19P_2$ এর মান কত?",
+              "options": [
+                {
+                  "text": "21",
+                  "label": "ক"
+                },
+                {
+                  "text": "171",
+                  "label": "খ"
+                },
+                {
+                  "text": "342",
+                  "label": "গ"
+                },
+                {
+                  "text": "95",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "গ",
+              "shortSolution": "সঠিক উত্তর: গ। $nP_2=n(n-1)$।",
+              "paper": "HSC HM1",
+              "subject": "higher-math-1st-paper",
+              "setType": "paper-wise-model-test",
+              "topic": "বিন্যাস",
+              "difficulty": "Easy",
+              "probability": "Board Favourite"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-paper-set-15-q04",
+              "question": "$20C_2$ এর মান কত?",
+              "options": [
+                {
+                  "text": "380",
+                  "label": "ক"
+                },
+                {
+                  "text": "190",
+                  "label": "খ"
+                },
+                {
+                  "text": "21",
+                  "label": "গ"
+                },
+                {
+                  "text": "400",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "খ",
+              "shortSolution": "সঠিক উত্তর: খ। $nC_2=n(n-1)/2$।",
+              "paper": "HSC HM1",
+              "subject": "higher-math-1st-paper",
+              "setType": "paper-wise-model-test",
+              "topic": "সমাবেশ",
+              "difficulty": "Easy",
+              "probability": "Conceptual Trap"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-paper-set-15-q05",
+              "question": "ঢাল 16 এবং বিন্দু $(7,16)$ দিয়ে অতিক্রান্ত রেখার সমীকরণ কোনটি?",
+              "options": [
+                {
+                  "text": "$x-16=16(y-7)$",
+                  "label": "ক"
+                },
+                {
+                  "text": "$y-16=7(x-16)$",
+                  "label": "খ"
+                },
+                {
+                  "text": "$y-16=16(x-7)$",
+                  "label": "গ"
+                },
+                {
+                  "text": "$y+16=16(x-7)$",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "গ",
+              "shortSolution": "সঠিক উত্তর: গ। Point-slope form ব্যবহৃত।",
+              "paper": "HSC HM1",
+              "subject": "higher-math-1st-paper",
+              "setType": "paper-wise-model-test",
+              "topic": "সরলরেখা",
+              "difficulty": "Easy",
+              "probability": "Mega Hot"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-paper-set-15-q06",
+              "question": "$x^2+y^2=289$ বৃত্তের ব্যাসার্ধ কত?",
+              "options": [
+                {
+                  "text": "289",
+                  "label": "ক"
+                },
+                {
+                  "text": "34",
+                  "label": "খ"
+                },
+                {
+                  "text": "18",
+                  "label": "গ"
+                },
+                {
+                  "text": "17",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "ঘ",
+              "shortSolution": "সঠিক উত্তর: ঘ। $x^2+y^2=r^2$।",
+              "paper": "HSC HM1",
+              "subject": "higher-math-1st-paper",
+              "setType": "paper-wise-model-test",
+              "topic": "বৃত্ত",
+              "difficulty": "Easy",
+              "probability": "Very Hot"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-paper-set-15-q07",
+              "question": "$\\sin^2\\theta+\\cos^2\\theta$ কত?",
+              "options": [
+                {
+                  "text": "$\\sec^2\\theta$",
+                  "label": "ক"
+                },
+                {
+                  "text": "$\\tan\\theta$",
+                  "label": "খ"
+                },
+                {
+                  "text": "1",
+                  "label": "গ"
+                },
+                {
+                  "text": "0",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "গ",
+              "shortSolution": "সঠিক উত্তর: গ। মৌলিক ত্রিকোণমিতিক identity।",
+              "paper": "HSC HM1",
+              "subject": "higher-math-1st-paper",
+              "setType": "paper-wise-model-test",
+              "topic": "ত্রিকোণমিতি",
+              "difficulty": "Easy",
+              "probability": "Board Favourite"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-paper-set-15-q08",
+              "question": "$\\sin(A+B)$ সূত্র কোনটি?",
+              "options": [
+                {
+                  "text": "$\\sin A\\cos B+\\cos A\\sin B$",
+                  "label": "ক"
+                },
+                {
+                  "text": "$\\cos A\\cos B-\\sin A\\sin B$",
+                  "label": "খ"
+                },
+                {
+                  "text": "$\\tan A+\\tan B$",
+                  "label": "গ"
+                },
+                {
+                  "text": "$\\sin A\\cos B-\\cos A\\sin B$",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "ক",
+              "shortSolution": "সঠিক উত্তর: ক। যোগকোণের sine সূত্র।",
+              "paper": "HSC HM1",
+              "subject": "higher-math-1st-paper",
+              "setType": "paper-wise-model-test",
+              "topic": "সংযুক্ত কোণ",
+              "difficulty": "Medium",
+              "probability": "Conceptual Trap"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-paper-set-15-q09",
+              "question": "$f(x)=x^2$ ফাংশনটি কেমন?",
+              "options": [
+                {
+                  "text": "Constant",
+                  "label": "ক"
+                },
+                {
+                  "text": "Periodic",
+                  "label": "খ"
+                },
+                {
+                  "text": "Even",
+                  "label": "গ"
+                },
+                {
+                  "text": "Odd",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "গ",
+              "shortSolution": "সঠিক উত্তর: গ। $f(-x)=f(x)$।",
+              "paper": "HSC HM1",
+              "subject": "higher-math-1st-paper",
+              "setType": "paper-wise-model-test",
+              "topic": "ফাংশন",
+              "difficulty": "Medium",
+              "probability": "Mega Hot"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-paper-set-15-q10",
+              "question": "$\\vec a\\cdot\\vec b=0$ হলে দুটি ভেক্টর কেমন?",
+              "options": [
+                {
+                  "text": "একক",
+                  "label": "ক"
+                },
+                {
+                  "text": "লম্ব",
+                  "label": "খ"
+                },
+                {
+                  "text": "সমান্তরাল",
+                  "label": "গ"
+                },
+                {
+                  "text": "সমান",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "খ",
+              "shortSolution": "সঠিক উত্তর: খ। Dot product zero হলে vectors perpendicular।",
+              "paper": "HSC HM1",
+              "subject": "higher-math-1st-paper",
+              "setType": "paper-wise-model-test",
+              "topic": "ভেক্টর",
+              "difficulty": "Medium",
+              "probability": "Very Hot"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-paper-set-15-q11",
+              "question": "$A^2=A$ হলে matrix কী?",
+              "options": [
+                {
+                  "text": "Idempotent",
+                  "label": "ক"
+                },
+                {
+                  "text": "Orthogonal",
+                  "label": "খ"
+                },
+                {
+                  "text": "Nilpotent",
+                  "label": "গ"
+                },
+                {
+                  "text": "Scalar",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "ক",
+              "shortSolution": "সঠিক উত্তর: ক। সংজ্ঞা অনুসারে idempotent।",
+              "paper": "HSC HM1",
+              "subject": "higher-math-1st-paper",
+              "setType": "paper-wise-model-test",
+              "topic": "ম্যাট্রিক্স",
+              "difficulty": "Medium",
+              "probability": "Board Favourite"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-paper-set-15-q12",
+              "question": "$\\int_0^1 xdx$ কত?",
+              "options": [
+                {
+                  "text": "$\\frac12$",
+                  "label": "ক"
+                },
+                {
+                  "text": "0",
+                  "label": "খ"
+                },
+                {
+                  "text": "$\\frac13$",
+                  "label": "গ"
+                },
+                {
+                  "text": "1",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "ক",
+              "shortSolution": "সঠিক উত্তর: ক। নির্দিষ্ট যোগজের মান $1/2$।",
+              "paper": "HSC HM1",
+              "subject": "higher-math-1st-paper",
+              "setType": "paper-wise-model-test",
+              "topic": "যোগজীকরণ",
+              "difficulty": "Medium",
+              "probability": "Conceptual Trap"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-paper-set-15-q13",
+              "question": "$\\frac{d}{dx}x^19$ কত?",
+              "options": [
+                {
+                  "text": "$19x^18$",
+                  "label": "ক"
+                },
+                {
+                  "text": "$x^19$",
+                  "label": "খ"
+                },
+                {
+                  "text": "$x^18$",
+                  "label": "গ"
+                },
+                {
+                  "text": "$18x^19$",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "ক",
+              "shortSolution": "সঠিক উত্তর: ক। Power rule প্রয়োগ করা হয়েছে।",
+              "paper": "HSC HM1",
+              "subject": "higher-math-1st-paper",
+              "setType": "paper-wise-model-test",
+              "topic": "অন্তরীকরণ",
+              "difficulty": "Medium",
+              "probability": "Mega Hot"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-paper-set-15-q14",
+              "question": "$\\int x^20dx$ কত?",
+              "options": [
+                {
+                  "text": "$\\frac{x^21}{21}+C$",
+                  "label": "ক"
+                },
+                {
+                  "text": "$20x^19+C$",
+                  "label": "খ"
+                },
+                {
+                  "text": "$x^21+C$",
+                  "label": "গ"
+                },
+                {
+                  "text": "$\\frac{x^20}{20}+C$",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "ক",
+              "shortSolution": "সঠিক উত্তর: ক। Power integration rule।",
+              "paper": "HSC HM1",
+              "subject": "higher-math-1st-paper",
+              "setType": "paper-wise-model-test",
+              "topic": "যোগজীকরণ",
+              "difficulty": "Medium",
+              "probability": "Very Hot"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-paper-set-15-q15",
+              "question": "$16P_2$ এর মান কত?",
+              "options": [
+                {
+                  "text": "48",
+                  "label": "ক"
+                },
+                {
+                  "text": "120",
+                  "label": "খ"
+                },
+                {
+                  "text": "240",
+                  "label": "গ"
+                },
+                {
+                  "text": "18",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "গ",
+              "shortSolution": "সঠিক উত্তর: গ। $nP_2=n(n-1)$।",
+              "paper": "HSC HM1",
+              "subject": "higher-math-1st-paper",
+              "setType": "paper-wise-model-test",
+              "topic": "বিন্যাস",
+              "difficulty": "Hard",
+              "probability": "Board Favourite"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-paper-set-15-q16",
+              "question": "$17C_2$ এর মান কত?",
+              "options": [
+                {
+                  "text": "272",
+                  "label": "ক"
+                },
+                {
+                  "text": "289",
+                  "label": "খ"
+                },
+                {
+                  "text": "18",
+                  "label": "গ"
+                },
+                {
+                  "text": "136",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "ঘ",
+              "shortSolution": "সঠিক উত্তর: ঘ। $nC_2=n(n-1)/2$।",
+              "paper": "HSC HM1",
+              "subject": "higher-math-1st-paper",
+              "setType": "paper-wise-model-test",
+              "topic": "সমাবেশ",
+              "difficulty": "Hard",
+              "probability": "Conceptual Trap"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-paper-set-15-q17",
+              "question": "ঢাল 18 এবং বিন্দু $(5,18)$ দিয়ে অতিক্রান্ত রেখার সমীকরণ কোনটি?",
+              "options": [
+                {
+                  "text": "$y+18=18(x-5)$",
+                  "label": "ক"
+                },
+                {
+                  "text": "$x-18=18(y-5)$",
+                  "label": "খ"
+                },
+                {
+                  "text": "$y-18=5(x-18)$",
+                  "label": "গ"
+                },
+                {
+                  "text": "$y-18=18(x-5)$",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "ঘ",
+              "shortSolution": "সঠিক উত্তর: ঘ। Point-slope form ব্যবহৃত।",
+              "paper": "HSC HM1",
+              "subject": "higher-math-1st-paper",
+              "setType": "paper-wise-model-test",
+              "topic": "সরলরেখা",
+              "difficulty": "Hard",
+              "probability": "Mega Hot"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-paper-set-15-q18",
+              "question": "$x^2+y^2=361$ বৃত্তের ব্যাসার্ধ কত?",
+              "options": [
+                {
+                  "text": "20",
+                  "label": "ক"
+                },
+                {
+                  "text": "361",
+                  "label": "খ"
+                },
+                {
+                  "text": "38",
+                  "label": "গ"
+                },
+                {
+                  "text": "19",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "ঘ",
+              "shortSolution": "সঠিক উত্তর: ঘ। $x^2+y^2=r^2$।",
+              "paper": "HSC HM1",
+              "subject": "higher-math-1st-paper",
+              "setType": "paper-wise-model-test",
+              "topic": "বৃত্ত",
+              "difficulty": "Hard",
+              "probability": "Very Hot"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-paper-set-15-q19",
+              "question": "$\\sin^2\\theta+\\cos^2\\theta$ কত?",
+              "options": [
+                {
+                  "text": "0",
+                  "label": "ক"
+                },
+                {
+                  "text": "$\\sec^2\\theta$",
+                  "label": "খ"
+                },
+                {
+                  "text": "1",
+                  "label": "গ"
+                },
+                {
+                  "text": "$\\tan\\theta$",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "গ",
+              "shortSolution": "সঠিক উত্তর: গ। মৌলিক ত্রিকোণমিতিক identity।",
+              "paper": "HSC HM1",
+              "subject": "higher-math-1st-paper",
+              "setType": "paper-wise-model-test",
+              "topic": "ত্রিকোণমিতি",
+              "difficulty": "Hard",
+              "probability": "Board Favourite"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-paper-set-15-q20",
+              "question": "$\\sin(A+B)$ সূত্র কোনটি?",
+              "options": [
+                {
+                  "text": "$\\tan A+\\tan B$",
+                  "label": "ক"
+                },
+                {
+                  "text": "$\\cos A\\cos B-\\sin A\\sin B$",
+                  "label": "খ"
+                },
+                {
+                  "text": "$\\sin A\\cos B-\\cos A\\sin B$",
+                  "label": "গ"
+                },
+                {
+                  "text": "$\\sin A\\cos B+\\cos A\\sin B$",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "ঘ",
+              "shortSolution": "সঠিক উত্তর: ঘ। যোগকোণের sine সূত্র।",
+              "paper": "HSC HM1",
+              "subject": "higher-math-1st-paper",
+              "setType": "paper-wise-model-test",
+              "topic": "সংযুক্ত কোণ",
+              "difficulty": "Hard",
+              "probability": "Conceptual Trap"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-paper-set-15-q21",
+              "question": "$f(x)=x^2$ ফাংশনটি কেমন?",
+              "options": [
+                {
+                  "text": "Periodic",
+                  "label": "ক"
+                },
+                {
+                  "text": "Constant",
+                  "label": "খ"
+                },
+                {
+                  "text": "Odd",
+                  "label": "গ"
+                },
+                {
+                  "text": "Even",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "ঘ",
+              "shortSolution": "সঠিক উত্তর: ঘ। $f(-x)=f(x)$।",
+              "paper": "HSC HM1",
+              "subject": "higher-math-1st-paper",
+              "setType": "paper-wise-model-test",
+              "topic": "ফাংশন",
+              "difficulty": "Hard",
+              "probability": "Mega Hot"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-paper-set-15-q22",
+              "question": "$\\vec a\\cdot\\vec b=0$ হলে দুটি ভেক্টর কেমন?",
+              "options": [
+                {
+                  "text": "সমান",
+                  "label": "ক"
+                },
+                {
+                  "text": "একক",
+                  "label": "খ"
+                },
+                {
+                  "text": "লম্ব",
+                  "label": "গ"
+                },
+                {
+                  "text": "সমান্তরাল",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "গ",
+              "shortSolution": "সঠিক উত্তর: গ। Dot product zero হলে vectors perpendicular।",
+              "paper": "HSC HM1",
+              "subject": "higher-math-1st-paper",
+              "setType": "paper-wise-model-test",
+              "topic": "ভেক্টর",
+              "difficulty": "Board Standard",
+              "probability": "Very Hot"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-paper-set-15-q23",
+              "question": "$A^2=A$ হলে matrix কী?",
+              "options": [
+                {
+                  "text": "Nilpotent",
+                  "label": "ক"
+                },
+                {
+                  "text": "Orthogonal",
+                  "label": "খ"
+                },
+                {
+                  "text": "Scalar",
+                  "label": "গ"
+                },
+                {
+                  "text": "Idempotent",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "ঘ",
+              "shortSolution": "সঠিক উত্তর: ঘ। সংজ্ঞা অনুসারে idempotent।",
+              "paper": "HSC HM1",
+              "subject": "higher-math-1st-paper",
+              "setType": "paper-wise-model-test",
+              "topic": "ম্যাট্রিক্স",
+              "difficulty": "Board Standard",
+              "probability": "Board Favourite"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-paper-set-15-q24",
+              "question": "$\\int_0^1 xdx$ কত?",
+              "options": [
+                {
+                  "text": "0",
+                  "label": "ক"
+                },
+                {
+                  "text": "$\\frac12$",
+                  "label": "খ"
+                },
+                {
+                  "text": "1",
+                  "label": "গ"
+                },
+                {
+                  "text": "$\\frac13$",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "খ",
+              "shortSolution": "সঠিক উত্তর: খ। নির্দিষ্ট যোগজের মান $1/2$।",
+              "paper": "HSC HM1",
+              "subject": "higher-math-1st-paper",
+              "setType": "paper-wise-model-test",
+              "topic": "যোগজীকরণ",
+              "difficulty": "Board Standard",
+              "probability": "Conceptual Trap"
+            },
+            {
+              "id": "hsc-higher-math-1st-paper-paper-set-15-q25",
+              "question": "$\\frac{d}{dx}x^16$ কত?",
+              "options": [
+                {
+                  "text": "$x^15$",
+                  "label": "ক"
+                },
+                {
+                  "text": "$16x^15$",
+                  "label": "খ"
+                },
+                {
+                  "text": "$x^16$",
+                  "label": "গ"
+                },
+                {
+                  "text": "$15x^16$",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "খ",
+              "shortSolution": "সঠিক উত্তর: খ। Power rule প্রয়োগ করা হয়েছে।",
+              "paper": "HSC HM1",
+              "subject": "higher-math-1st-paper",
+              "setType": "paper-wise-model-test",
+              "topic": "অন্তরীকরণ",
+              "difficulty": "Board Standard",
+              "probability": "Mega Hot"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

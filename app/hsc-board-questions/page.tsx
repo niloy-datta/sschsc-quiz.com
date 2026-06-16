@@ -3,6 +3,7 @@ import Link from "next/link";
 import { Card } from "@/components/ui/Card";
 import { Badge } from "@/components/ui/Badge";
 import { BookOpen, GraduationCap, ChevronRight } from "lucide-react";
+import { levelHubPath } from "@/lib/quiz/unified-routes";
 
 const SUBJECT_MAP: Record<string, string> = {
   physics: "পদার্থবিজ্ঞান",
@@ -65,7 +66,7 @@ export default function HSCBoardQuestionsPage() {
         </div>
 
         <div className="text-center pt-4">
-          <Link href="/hsc" className="text-sm text-slate-400 hover:text-white underline">
+          <Link href={levelHubPath("hsc")} className="text-sm text-slate-400 hover:text-white underline">
             HSC হাব-এ ফিরে যাও
           </Link>
         </div>

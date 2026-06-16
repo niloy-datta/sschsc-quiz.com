@@ -3,12 +3,15 @@ node_modules/
 coverage/
 .DS_Store
 *.log
+nul
 .env*
 !.env.example
 
 # Python virtual environments
 .venv/
 myenv/
+__pycache__/
+*.py[cod]
 
 # Build artifacts
 *.tsbuildinfo
@@ -25,3 +28,7 @@ migration-report.txt
 .commandcode/
 .cph/
 .turbo/
+nul
+backend/nul
+**/nul
+

@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="100%" height="100%" viewBox="0 0 360 220">
+  <defs>
+    <radialGradient id="bg" cx="50%" cy="45%" r="75%">
+      <stop offset="0%" stop-color="#0f766e"/>
+      <stop offset="100%" stop-color="#020617"/>
+    </radialGradient>
+    <filter id="glow">
+      <feDropShadow dx="0" dy="0" stdDeviation="4" flood-color="#22d3ee" flood-opacity=".7"/>
+    </filter>
+    <style>
+      .wave{fill:none;stroke:#22d3ee;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;filter:url(#glow)}
+      .base{stroke:#64748b;stroke-width:1.5;stroke-dasharray:5 5}
+      .t{fill:#facc15;stroke:#fff7ed;stroke-width:2}
+      .txt{font-family:Arial,sans-serif;font-size:18px;font-weight:900;fill:#fff}
+    </style>
+  </defs>
+
+  <rect width="360" height="220" rx="18" fill="url(#bg)"/>
+  <line x1="35" y1="130" x2="325" y2="130" class="base"/>
+
+  <path d="M35 130 L75 130 Q90 102 105 130 L122 130 L138 68 L158 164 L178 130 L220 130 Q248 92 276 130 T325 130" class="wave"/>
+
+  <circle cx="276" cy="130" r="8" class="t"/>
+  <text x="276" y="88" text-anchor="middle" class="txt">T</text>
+</svg>

@@ -24,6 +24,14 @@ export interface LeaderboardEntry {
   schoolName?: string;
 }
 
+export interface CollegeWarEntry {
+  name: string;
+  score: number;
+  studentCount: number;
+  topScore: number;
+  avgScore: number;
+}
+
 export function formatBnNumber(n: number): string {
   return n.toString().replace(/\d/g, (d) => "০১২৩৪৫৬৭৮৯"[parseInt(d, 10)]);
 }
@@ -53,18 +61,38 @@ export function formatAccuracy(acc?: number): string {
 
 export function aggregateColleges(
   entries: LeaderboardEntry[],
-): { name: string; score: number }[] {
-  const map = new Map<string, number>();
+): CollegeWarEntry[] {
+  const map = new Map<string, { totalScore: number; count: number; topScore: number }>();
   for (const e of entries) {
     const college = (e.collegeName || e.schoolName || "").trim();
     if (!college) continue;
-    map.set(college, (map.get(college) || 0) + (e.points || 0));
+    const existing = map.get(college) || { totalScore: 0, count: 0, topScore: 0 };
+    existing.totalScore += e.points || 0;
+    existing.count += 1;
+    existing.topScore = Math.max(existing.topScore, e.points || 0);
+    map.set(college, existing);
   }
-  if (map.size < 2) return [];
+  if (map.size < 1) return [];
   return Array.from(map.entries())
-    .map(([name, score]) => ({ name, score }))
-    .sort((a, b) => b.score - a.score)
-    .slice(0, 5);
+    .map(([name, stats]) => ({
+      name,
+      score: stats.totalScore,
+      studentCount: stats.count,
+      topScore: stats.topScore,
+      avgScore: Math.round(stats.totalScore / stats.count),
+    }))
+    .sort((a, b) => b.score - a.score);
+}
+
+export function getCollegeRanking(
+  entries: LeaderboardEntry[],
+  collegeName: string,
+): LeaderboardEntry[] {
+  const college = collegeName.trim().toLowerCase();
+  return entries
+    .filter((e) => (e.collegeName || e.schoolName || "").trim().toLowerCase() === college)
+    .sort((a, b) => b.points - a.points)
+    .map((e, i) => ({ ...e, rank: i + 1 }));
 }
 
 export const BADGE_LABELS: Record<string, string> = {

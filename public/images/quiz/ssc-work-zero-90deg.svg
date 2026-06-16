@@ -1,0 +1,22 @@
+<svg width="100%" height="100%" viewBox="0 0 420 260" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Force and Displacement at 90°">
+  <defs>
+    <marker id="arrow" markerWidth="8" markerHeight="8" refX="7" refY="3.5" orient="auto">
+      <path d="M0,0 L0,7 L8,3.5 z" fill="#0f172a"/>
+    </marker>
+    <marker id="arrowBlue" markerWidth="8" markerHeight="8" refX="7" refY="3.5" orient="auto">
+      <path d="M0,0 L0,7 L8,3.5 z" fill="#2563eb"/>
+    </marker>
+  </defs>
+  <rect width="420" height="260" rx="18" fill="#f8fafc"/>
+  <rect x="14" y="14" width="392" height="232" rx="14" fill="#ffffff" stroke="#cbd5e1" stroke-width="1.5"/>
+  <text x="210.0" y="38" text-anchor="middle" font-family="Arial, sans-serif" font-size="15" font-weight="700" fill="#0f172a">Force and Displacement at 90°</text>
+  
+  <circle cx="170" cy="165" r="8" fill="#0f172a"/>
+  <line x1="170" y1="165" x2="300" y2="165" stroke="#2563eb" stroke-width="3" marker-end="url(#arrowBlue)"/>
+  <line x1="170" y1="165" x2="170" y2="70" stroke="#dc2626" stroke-width="3" marker-end="url(#arrow)"/>
+  <path d="M170 145 H190 V165" fill="none" stroke="#0f172a" stroke-width="2"/>
+  <text x="235" y="150" font-size="13" fill="#2563eb">s</text>
+  <text x="180" y="105" font-size="13" fill="#dc2626">F</text>
+  <text x="210" y="220" text-anchor="middle" font-size="12" fill="#475569">θ = 90° → W = Fs cosθ = 0</text>
+
+</svg>

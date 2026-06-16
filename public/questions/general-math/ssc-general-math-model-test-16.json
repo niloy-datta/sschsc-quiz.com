@@ -11,6 +11,7 @@
       "৩টি"
     ],
     "image": null,
+    "optionImages": null,
     "timeLimit": 45
   },
   {
@@ -25,6 +26,7 @@
       "শূন্যকোণ"
     ],
     "image": null,
+    "optionImages": null,
     "timeLimit": 45
   },
   {
@@ -39,6 +41,7 @@
       "1/√5"
     ],
     "image": null,
+    "optionImages": null,
     "timeLimit": 45
   },
   {
@@ -53,6 +56,7 @@
       "৬ সেমি"
     ],
     "image": null,
+    "optionImages": null,
     "timeLimit": 45
   },
   {
@@ -67,6 +71,7 @@
       "9.63"
     ],
     "image": null,
+    "optionImages": null,
     "timeLimit": 45
   },
   {
@@ -81,24 +86,11 @@
       "৮"
     ],
     "image": null,
+    "optionImages": null,
     "timeLimit": 45
   },
   {
     "id": "ssc-general-math-model-test-16-q07",
-    "subject": "general-math",
-    "chapter": "ssc-general-math-model-test-16",
-    "text": "১ থেকে ১০ পর্যন্ত মৌলিক সংখ্যা কয়টি?",
-    "options": [
-      "৪টি",
-      "৬টি",
-      "৩টি",
-      "৫টি"
-    ],
-    "image": null,
-    "timeLimit": 45
-  },
-  {
-    "id": "ssc-general-math-model-test-16-q08",
     "subject": "general-math",
     "chapter": "ssc-general-math-model-test-16",
     "text": "ত্রিভুজের তিন কোণের সমষ্টি কত?",
@@ -109,10 +101,11 @@
       "৯০°"
     ],
     "image": null,
+    "optionImages": null,
     "timeLimit": 45
   },
   {
-    "id": "ssc-general-math-model-test-16-q09",
+    "id": "ssc-general-math-model-test-16-q08",
     "subject": "general-math",
     "chapter": "ssc-general-math-model-test-16",
     "text": "sin²θ + cos²θ = কত?",
@@ -123,13 +116,14 @@
       "২"
     ],
     "image": null,
+    "optionImages": null,
     "timeLimit": 45
   },
   {
-    "id": "ssc-general-math-model-test-16-q10",
+    "id": "ssc-general-math-model-test-16-q09",
     "subject": "general-math",
     "chapter": "ssc-general-math-model-test-16",
-    "text": "একটি সামান্তরিকের ক্ষেত্রফল ৪৫ বর্গসেমি এবং  ভূমি ৯ সেমি হলে উচ্চতা কত?",
+    "text": "একটি সামান্তরিকের ক্ষেত্রফল ৪৫ বর্গসেমি এবং ভূমি ৯ সেমি হলে উচ্চতা কত?",
     "options": [
       "৪ সেমি",
       "৫ সেমি",
@@ -137,10 +131,11 @@
       "৯ সেমি"
     ],
     "image": null,
+    "optionImages": null,
     "timeLimit": 45
   },
   {
-    "id": "ssc-general-math-model-test-16-q11",
+    "id": "ssc-general-math-model-test-16-q10",
     "subject": "general-math",
     "chapter": "ssc-general-math-model-test-16",
     "text": "L = 61, f₁ = 4, f₂ = 3 এবং h = 10 হলে প্রচুরক কত?",
@@ -151,10 +146,11 @@
       "65.29"
     ],
     "image": null,
+    "optionImages": null,
     "timeLimit": 45
   },
   {
-    "id": "ssc-general-math-model-test-16-q12",
+    "id": "ssc-general-math-model-test-16-q11",
     "subject": "general-math",
     "chapter": "ssc-general-math-model-test-16",
     "text": "2, 4, 6, 8... সমান্তর ধারাটির ১০ম পদ কোনটি?",
@@ -165,10 +161,11 @@
       "২২"
     ],
     "image": null,
+    "optionImages": null,
     "timeLimit": 45
   },
   {
-    "id": "ssc-general-math-model-test-16-q13",
+    "id": "ssc-general-math-model-test-16-q12",
     "subject": "general-math",
     "chapter": "ssc-general-math-model-test-16",
     "text": "x² - 5x + 6 = 0 সমীকরণটির মূলদ্বয় কত?",
@@ -179,10 +176,11 @@
       "০, ৬"
     ],
     "image": null,
+    "optionImages": null,
     "timeLimit": 45
   },
   {
-    "id": "ssc-general-math-model-test-16-q14",
+    "id": "ssc-general-math-model-test-16-q13",
     "subject": "general-math",
     "chapter": "ssc-general-math-model-test-16",
     "text": "বৃত্তের কেন্দ্রস্থ কোণ বৃত্তস্থ কোণের কত গুণ?",
@@ -193,10 +191,11 @@
       "সমান"
     ],
     "image": null,
+    "optionImages": null,
     "timeLimit": 45
   },
   {
-    "id": "ssc-general-math-model-test-16-q15",
+    "id": "ssc-general-math-model-test-16-q14",
     "subject": "general-math",
     "chapter": "ssc-general-math-model-test-16",
     "text": "cos(90° - θ) = 4/5 হলে, cosecθ = কত?",
@@ -207,10 +206,11 @@
       "4/3"
     ],
     "image": null,
+    "optionImages": null,
     "timeLimit": 45
   },
   {
-    "id": "ssc-general-math-model-test-16-q16",
+    "id": "ssc-general-math-model-test-16-q15",
     "subject": "general-math",
     "chapter": "ssc-general-math-model-test-16",
     "text": "একটি ত্রিভুজ ও একটি সামান্তরিকের ভূমি ও ক্ষেত্রফল সমান হলে সামান্তরিকের উচ্চতা ত্রিভুজের উচ্চতার কত অংশ?",
@@ -221,13 +221,14 @@
       "তিনগুণ"
     ],
     "image": null,
+    "optionImages": null,
     "timeLimit": 45
   },
   {
-    "id": "ssc-general-math-model-test-16-q17",
+    "id": "ssc-general-math-model-test-16-q16",
     "subject": "general-math",
     "chapter": "ssc-general-math-model-test-16",
-    "text": "3, 8, 6, 0, 5, 8, 3, 7 উপাত্তগুলোর— i. পরিসীমা 8  ii. মধ্যক 5.5  iii. প্রচুরক 3 ও 8 নিচের কোনটি সঠিক?",
+    "text": "3, 8, 6, 0, 5, 8, 3, 7 উপাত্তগুলোর— i. পরিসীমা 8 ii. মধ্যক 5.5 iii. প্রচুরক 3 ও 8 নিচের কোনটি সঠিক?",
     "options": [
       "i ও ii",
       "i ও iii",
@@ -235,10 +236,11 @@
       "i, ii ও iii"
     ],
     "image": null,
+    "optionImages": null,
     "timeLimit": 45
   },
   {
-    "id": "ssc-general-math-model-test-16-q18",
+    "id": "ssc-general-math-model-test-16-q17",
     "subject": "general-math",
     "chapter": "ssc-general-math-model-test-16",
     "text": "0000235 সংখ্যাটির সাধারণ লগের পূর্ণক কত?",
@@ -249,24 +251,11 @@
       "5"
     ],
     "image": null,
+    "optionImages": null,
     "timeLimit": 45
   },
   {
-    "id": "ssc-general-math-model-test-16-q19",
-    "subject": "general-math",
-    "chapter": "ssc-general-math-model-test-16",
-    "text": "১ থেকে ১০ পর্যন্ত মৌলিক সংখ্যা কয়টি?",
-    "options": [
-      "৪টি",
-      "৫টি",
-      "৩টি",
-      "৬টি"
-    ],
-    "image": null,
-    "timeLimit": 45
-  },
-  {
-    "id": "ssc-general-math-model-test-16-q20",
+    "id": "ssc-general-math-model-test-16-q18",
     "subject": "general-math",
     "chapter": "ssc-general-math-model-test-16",
     "text": "দুইটি কর্ণের দৈর্ঘ্য দেওয়া থাকলে নিচের কোনটি আঁকা সম্ভব?",
@@ -277,10 +266,11 @@
       "সামান্তরিক"
     ],
     "image": null,
+    "optionImages": null,
     "timeLimit": 45
   },
   {
-    "id": "ssc-general-math-model-test-16-q21",
+    "id": "ssc-general-math-model-test-16-q19",
     "subject": "general-math",
     "chapter": "ssc-general-math-model-test-16",
     "text": "চিত্রে sin B = কত?",
@@ -290,11 +280,12 @@
       "√13/3",
       "√13/2"
     ],
-    "image": null,
+    "image": "/images/quiz/premium/ssc-general-math-model-test-16-q19.svg",
+    "optionImages": null,
     "timeLimit": 45
   },
   {
-    "id": "ssc-general-math-model-test-16-q22",
+    "id": "ssc-general-math-model-test-16-q20",
     "subject": "general-math",
     "chapter": "ssc-general-math-model-test-16",
     "text": "চিত্রে O হলো কেন্দ্র, OR = 3 সেমি. এবং PR = 4 সেমি. হলে OP-এর দৈর্ঘ্য কত?",
@@ -304,11 +295,12 @@
       "5 সেমি.",
       "7 সেমি."
     ],
-    "image": null,
+    "image": "/images/quiz/premium/ssc-general-math-model-test-16-q20.svg",
+    "optionImages": null,
     "timeLimit": 45
   },
   {
-    "id": "ssc-general-math-model-test-16-q23",
+    "id": "ssc-general-math-model-test-16-q21",
     "subject": "general-math",
     "chapter": "ssc-general-math-model-test-16",
     "text": "চিত্রে O কেন্দ্রবিশিষ্ট বৃত্তে AB ব্যাস হলে ∠ACD = কত?",
@@ -319,10 +311,11 @@
       "70°"
     ],
     "image": null,
+    "optionImages": null,
     "timeLimit": 45
   },
   {
-    "id": "ssc-general-math-model-test-16-q24",
+    "id": "ssc-general-math-model-test-16-q22",
     "subject": "general-math",
     "chapter": "ssc-general-math-model-test-16",
     "text": "If A = {2, 3, 7, 9}, how many proper subsets does A have?",
@@ -333,10 +326,11 @@
       "16"
     ],
     "image": null,
+    "optionImages": null,
     "timeLimit": 45
   },
   {
-    "id": "ssc-general-math-model-test-16-q25",
+    "id": "ssc-general-math-model-test-16-q23",
     "subject": "general-math",
     "chapter": "ssc-general-math-model-test-16",
     "text": "If P = {2, 3, 4} and Q = {3, 4, 7}, then Q \\ P = ?",
@@ -347,6 +341,7 @@
       "{2, 7}"
     ],
     "image": null,
+    "optionImages": null,
     "timeLimit": 45
   }
 ]

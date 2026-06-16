@@ -1,5 +1,6 @@
 import type { Metadata, Viewport } from "next";
 import { Hind_Siliguri, Outfit } from "next/font/google";
+import "katex/dist/katex.min.css";
 import "./globals.css";
 import { Navbar } from "@/components/layout/Navbar";
 import { MainContent } from "@/components/layout/MainContent";

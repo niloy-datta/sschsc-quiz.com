@@ -1,0 +1,282 @@
+{
+  "setId": "chapter-2-split-03",
+  "reason": "DUPLICATE_OF_chapter-2-split-03",
+  "quarantinedAt": "2026-06-13T17:58:59.987Z",
+  "questions": [
+    {
+      "id": "chapter-2-split-03-q01",
+      "questionText": "কম্পিউটার নেটওয়ার্ক কী?",
+      "optionA": "একাধিক কম্পিউটারের সংযোগ",
+      "optionB": "শুধু এক কম্পিউটার",
+      "optionC": "শুধু মনিটর",
+      "optionD": "শুধু প্রিন্টার",
+      "correctOption": "A",
+      "explanation": "রিসোর্স বা ডেটা শেয়ার করার উদ্দেশ্যে দুই বা ততোধিক কম্পিউটার বা ডিভাইসকে কোনো মাধ্যম দিয়ে যুক্ত করাকেই নেটওয়ার্ক বলে।",
+      "questionNo": 1
+    },
+    {
+      "id": "chapter-2-split-03-q02",
+      "questionText": "নেটওয়ার্কের প্রধান সুবিধা—",
+      "optionA": "resource sharing",
+      "optionB": "ডেটা ধ্বংস",
+      "optionC": "যোগাযোগ বন্ধ",
+      "optionD": "খরচ সবসময় বেশি",
+      "correctOption": "A",
+      "explanation": "নেটওয়ার্কের সবচেয়ে বড় সুবিধা হলো হার্ডওয়্যার (যেমন প্রিন্টার) এবং সফটওয়্যার বা ডেটা সবার মাঝে শেয়ার (Resource sharing) করা।",
+      "questionNo": 2
+    },
+    {
+      "id": "chapter-2-split-03-q03",
+      "questionText": "LAN-এর পূর্ণরূপ—",
+      "optionA": "Local Area Network",
+      "optionB": "Large Area Network",
+      "optionC": "Long Access Node",
+      "optionD": "Logical Area Net",
+      "correctOption": "A",
+      "explanation": "LAN এর পূর্ণরূপ Local Area Network।",
+      "questionNo": 3
+    },
+    {
+      "id": "chapter-2-split-03-q04",
+      "questionText": "LAN ব্যবহৃত হয়—",
+      "optionA": "ছোট এলাকায়",
+      "optionB": "দেশজুড়ে",
+      "optionC": "মহাদেশজুড়ে",
+      "optionD": "মহাকাশে",
+      "correctOption": "A",
+      "explanation": "একটি বিল্ডিং, অফিস বা স্কুল ক্যাম্পাসের মতো ছোট ভৌগোলিক এলাকার মধ্যে LAN ব্যবহৃত হয়।",
+      "questionNo": 4
+    },
+    {
+      "id": "chapter-2-split-03-q05",
+      "questionText": "MAN-এর পূর্ণরূপ—",
+      "optionA": "Metropolitan Area Network",
+      "optionB": "Main Area Network",
+      "optionC": "Mobile Access Network",
+      "optionD": "Multi Area Node",
+      "correctOption": "A",
+      "explanation": "MAN এর পূর্ণরূপ Metropolitan Area Network।",
+      "questionNo": 5
+    },
+    {
+      "id": "chapter-2-split-03-q06",
+      "questionText": "MAN সাধারণত কভার করে—",
+      "optionA": "শহর এলাকা",
+      "optionB": "এক রুম",
+      "optionC": "এক কীবোর্ড",
+      "optionD": "এক ফাইল",
+      "correctOption": "A",
+      "explanation": "MAN সাধারণত একটি পুরো শহর বা মেট্রোপলিটন এলাকা জুড়ে বিস্তৃত থাকে। কেবল টিভি নেটওয়ার্ক এর ভালো উদাহরণ।",
+      "questionNo": 6
+    },
+    {
+      "id": "chapter-2-split-03-q07",
+      "questionText": "WAN-এর পূর্ণরূপ—",
+      "optionA": "Wide Area Network",
+      "optionB": "Wireless Area Node",
+      "optionC": "Web Access Network",
+      "optionD": "Wide Access Number",
+      "correctOption": "A",
+      "explanation": "WAN এর পূর্ণরূপ Wide Area Network।",
+      "questionNo": 7
+    },
+    {
+      "id": "chapter-2-split-03-q08",
+      "questionText": "WAN-এর উদাহরণ—",
+      "optionA": "Internet",
+      "optionB": "এক কক্ষের নেটওয়ার্ক",
+      "optionC": "এক প্রিন্টার",
+      "optionD": "এক ফাইল",
+      "correctOption": "A",
+      "explanation": "ইন্টারনেট হলো বিশ্বজুড়ে ছড়িয়ে থাকা সবচেয়ে বড় ওয়াইড এরিয়া নেটওয়ার্ক বা WAN এর উদাহরণ।",
+      "questionNo": 8
+    },
+    {
+      "id": "chapter-2-split-03-q09",
+      "questionText": "PAN-এর পূর্ণরূপ—",
+      "optionA": "Personal Area Network",
+      "optionB": "Public Area Network",
+      "optionC": "Private Access Node",
+      "optionD": "Personal Analog Net",
+      "correctOption": "A",
+      "explanation": "PAN এর পূর্ণরূপ Personal Area Network।",
+      "questionNo": 9
+    },
+    {
+      "id": "chapter-2-split-03-q10",
+      "questionText": "PAN-এর উদাহরণ—",
+      "optionA": "Bluetooth দিয়ে মোবাইল-হেডফোন সংযোগ",
+      "optionB": "শহরের নেটওয়ার্ক",
+      "optionC": "দেশের নেটওয়ার্ক",
+      "optionD": "স্যাটেলাইট নেটওয়ার্ক",
+      "correctOption": "A",
+      "explanation": "খুব কাছাকাছি দূরত্বে একজন ব্যক্তির নিজের ডিভাইসগুলোর মধ্যে (যেমন ল্যাপটপ থেকে ব্লুটুথ স্পিকার) সংযোগই হলো PAN।",
+      "questionNo": 10
+    },
+    {
+      "id": "chapter-2-split-03-q11",
+      "questionText": "Topology বলতে বোঝায়—",
+      "optionA": "নেটওয়ার্কের গঠন/বিন্যাস",
+      "optionB": "ডেটাবেজের রেকর্ড",
+      "optionC": "ওয়েবপেজের রং",
+      "optionD": "প্রোগ্রামের loop",
+      "correctOption": "A",
+      "explanation": "নেটওয়ার্কের কম্পিউটার বা ডিভাইসগুলোকে কীভাবে বা কোন জ্যামিতিক নকশায় একে অপরের সাথে যুক্ত করা হয়েছে, তার লে-আউটকেই টপোলজি বলে।",
+      "questionNo": 11
+    },
+    {
+      "id": "chapter-2-split-03-q12",
+      "questionText": "Bus topology-তে সব কম্পিউটার যুক্ত থাকে—",
+      "optionA": "একটি প্রধান cable-এ",
+      "optionB": "একটি ring-এ",
+      "optionC": "একটি star-এ",
+      "optionD": "কোনো cable ছাড়াই",
+      "correctOption": "A",
+      "explanation": "বাস টপোলজিতে সব কম্পিউটার একটিমাত্র লম্বা মূল ক্যাবলের সাথে যুক্ত থাকে।",
+      "questionNo": 12
+    },
+    {
+      "id": "chapter-2-split-03-q13",
+      "questionText": "Bus topology-এর প্রধান cable-কে বলা হয়—",
+      "optionA": "Backbone",
+      "optionB": "Server",
+      "optionC": "Router",
+      "optionD": "Client",
+      "correctOption": "A",
+      "explanation": "বাস টপোলজির প্রধান তারটিকে ব্যাকবোন (Backbone) ক্যাবল বলা হয়, এটি নষ্ট হলে পুরো নেটওয়ার্ক অচল হয়ে যায়।",
+      "questionNo": 13
+    },
+    {
+      "id": "chapter-2-split-03-q14",
+      "questionText": "Star topology-তে কেন্দ্রীয় ডিভাইস—",
+      "optionA": "Hub/Switch",
+      "optionB": "Keyboard",
+      "optionC": "Monitor",
+      "optionD": "Mouse",
+      "correctOption": "A",
+      "explanation": "স্টার টপোলজিতে সবগুলো কম্পিউটার একটি কেন্দ্রীয় ডিভাইসের (সাধারণত হাব বা সুইচ) সাথে যুক্ত থাকে।",
+      "questionNo": 14
+    },
+    {
+      "id": "chapter-2-split-03-q15",
+      "questionText": "Star topology-তে কেন্দ্রীয় ডিভাইস নষ্ট হলে—",
+      "optionA": "পুরো নেটওয়ার্ক প্রভাবিত হয়",
+      "optionB": "কিছুই হয় না",
+      "optionC": "গতি বাড়ে",
+      "optionD": "cable লাগে না",
+      "correctOption": "A",
+      "explanation": "স্টার টপোলজির হাব বা সুইচ নষ্ট হয়ে গেলে পুরো নেটওয়ার্কই অচল হয়ে পড়ে।",
+      "questionNo": 15
+    },
+    {
+      "id": "chapter-2-split-03-q16",
+      "questionText": "Ring topology-তে নোডগুলো যুক্ত থাকে—",
+      "optionA": "বৃত্তাকারভাবে",
+      "optionB": "সরলরেখায়",
+      "optionC": "এক কেন্দ্রের সাথে",
+      "optionD": "জোড়ায় জোড়ায় নয়",
+      "correctOption": "A",
+      "explanation": "রিং টপোলজিতে প্রতিটি কম্পিউটার তার পাশের দুটি কম্পিউটারের সাথে যুক্ত হয়ে একটি রিং বা বৃত্ত তৈরি করে।",
+      "questionNo": 16
+    },
+    {
+      "id": "chapter-2-split-03-q17",
+      "questionText": "Mesh topology-এর বৈশিষ্ট্য—",
+      "optionA": "প্রতিটি নোড অনেক নোডের সাথে যুক্ত",
+      "optionB": "শুধু একটি cable",
+      "optionC": "কোনো সংযোগ নেই",
+      "optionD": "শুধু wireless",
+      "correctOption": "A",
+      "explanation": "মেশ টপোলজিতে একটি নেটওয়ার্কের প্রতিটি কম্পিউটার অন্য সব কম্পিউটারের সাথে সরাসরি ক্যাবল দিয়ে যুক্ত থাকে।",
+      "questionNo": 17
+    },
+    {
+      "id": "chapter-2-split-03-q18",
+      "questionText": "Mesh topology-এর সুবিধা—",
+      "optionA": "fault tolerance বেশি",
+      "optionB": "খরচ কম সবসময়",
+      "optionC": "cable লাগে না",
+      "optionD": "central hub লাগে",
+      "correctOption": "A",
+      "explanation": "একটি ক্যাবল নষ্ট হলেও অন্য ক্যাবল দিয়ে ডেটা যেতে পারে, তাই এতে ত্রুটি সহনশীলতা (fault tolerance) বা নির্ভরযোগ্যতা সবচেয়ে বেশি।",
+      "questionNo": 18
+    },
+    {
+      "id": "chapter-2-split-03-q19",
+      "questionText": "Tree topology কোন topology-এর সমন্বয়?",
+      "optionA": "Bus ও Star",
+      "optionB": "Ring ও Mesh only",
+      "optionC": "PAN ও WAN",
+      "optionD": "SQL ও HTML",
+      "correctOption": "A",
+      "explanation": "ট্রি টপোলজি মূলত একাধিক স্টার টপোলজিকে একটি বাস বা ব্যাকবোনের সাথে যুক্ত করে তৈরি করা হয়।",
+      "questionNo": 19
+    },
+    {
+      "id": "chapter-2-split-03-q20",
+      "questionText": "Hybrid topology বলতে বোঝায়—",
+      "optionA": "একাধিক topology-এর মিশ্রণ",
+      "optionB": "শুধু bus",
+      "optionC": "শুধু ring",
+      "optionD": "শুধু star",
+      "correctOption": "A",
+      "explanation": "যখন দুই বা ততোধিক ভিন্ন ধরনের টপোলজি (যেমন স্টার ও রিং) মিলিয়ে একটি বড় নেটওয়ার্ক তৈরি করা হয়, তখন তাকে হাইব্রিড টপোলজি বলে।",
+      "questionNo": 20
+    },
+    {
+      "id": "chapter-2-split-03-q21",
+      "questionText": "সবচেয়ে সহজ topology হিসেবে ধরা হয়—",
+      "optionA": "Bus",
+      "optionB": "Mesh",
+      "optionC": "Hybrid",
+      "optionD": "Tree",
+      "correctOption": "A",
+      "explanation": "বাস টপোলজি তৈরি করা সবচেয়ে সহজ এবং এতে ক্যাবলও কম লাগে।",
+      "questionNo": 21
+    },
+    {
+      "id": "chapter-2-split-03-q22",
+      "questionText": "বেশি cable লাগে কোন topology-তে?",
+      "optionA": "Mesh",
+      "optionB": "Bus",
+      "optionC": "Ring",
+      "optionD": "Simplex",
+      "correctOption": "A",
+      "explanation": "যেহেতু প্রতিটি কম্পিউটারকে বাকি সব কম্পিউটারের সাথে সরাসরি যুক্ত করতে হয়, তাই মেশ টপোলজিতে সবচেয়ে বেশি ক্যাবল লাগে।",
+      "questionNo": 22
+    },
+    {
+      "id": "chapter-2-split-03-q23",
+      "questionText": "LAN-এ বেশি ব্যবহৃত topology—",
+      "optionA": "Star",
+      "optionB": "Satellite",
+      "optionC": "Simplex",
+      "optionD": "Analog",
+      "correctOption": "A",
+      "explanation": "বর্তমানে প্রায় সব অফিস বা ল্যাবে হাব বা সুইচের সাহায্যে স্টার টপোলজি ব্যবহার করেই লোকাল নেটওয়ার্ক বা LAN তৈরি করা হয়।",
+      "questionNo": 23
+    },
+    {
+      "id": "chapter-2-split-03-q24",
+      "questionText": "Ring topology-তে data সাধারণত যায়—",
+      "optionA": "এক নির্দিষ্ট পথে",
+      "optionB": "সবসময় random",
+      "optionC": "medium ছাড়া",
+      "optionD": "receiver ছাড়া",
+      "correctOption": "A",
+      "explanation": "রিং টপোলজিতে ডেটা সাধারণত ঘড়ির কাঁটার দিকে বা একমুখী একটি নির্দিষ্ট পথে ঘোরে।",
+      "questionNo": 24
+    },
+    {
+      "id": "chapter-2-split-03-q25",
+      "questionText": "Network topology MCQ-তে সবচেয়ে বড় trap—",
+      "optionA": "Star-এ central device থাকে",
+      "optionB": "Bus-এ central device থাকে",
+      "optionC": "Mesh-এ cable কম লাগে",
+      "optionD": "Ring-এ backbone থাকে",
+      "correctOption": "A",
+      "explanation": "অনেকেই কনফিউজড হয়ে যায়, স্টার টপোলজিতেই শুধু হাব বা সুইচ নামক কেন্দ্রীয় ডিভাইস থাকে। বাস বা রিং-এ থাকে না।",
+      "questionNo": 25
+    }
+  ]
+}

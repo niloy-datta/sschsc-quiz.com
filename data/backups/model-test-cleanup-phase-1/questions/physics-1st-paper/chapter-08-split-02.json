@@ -1,0 +1,377 @@
+[
+  {
+    "id": "chapter-08-split-02-q01",
+    "subject": "physics-1st-paper",
+    "chapter": "chapter-08-split-02",
+    "text": "SHM-এ সরণ x = A sin(ωt+φ) হলে, দশা ধ্রুবক φ কিসের উপর নির্ভর করে?",
+    "options": [
+      "কম্পাঙ্ক",
+      "বিস্তার",
+      "আদি অবস্থা",
+      "দোলনকাল"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "chapter-08-split-02-q02",
+    "subject": "physics-1st-paper",
+    "chapter": "chapter-08-split-02",
+    "text": "একটি সরল ছন্দিত গতির বিস্তার 5 cm, কম্পাঙ্ক 50 Hz হলে সর্বোচ্চ ত্বরণ কত?",
+    "options": [
+      "50π² m/s²",
+      "500π² m/s²",
+      "5π² m/s²",
+      "500π² cm/s²"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "chapter-08-split-02-q03",
+    "subject": "physics-1st-paper",
+    "chapter": "chapter-08-split-02",
+    "text": "একটি সরল দোলকের দোলনকাল 2 s, কার্যকর দৈর্ঘ্য কত? (g=9.8 m/s²)",
+    "options": [
+      "0.99 m",
+      "0.5 m",
+      "2 m",
+      "1.5 m"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "chapter-08-split-02-q04",
+    "subject": "physics-1st-paper",
+    "chapter": "chapter-08-split-02",
+    "text": "অবমন্দন বল (damping force) গতির বিপরীতে ক্রিয়া করে এবং বেগের –",
+    "options": [
+      "সমানুপাতিক",
+      "বর্গের সমানুপাতিক",
+      "ব্যস্তানুপাতিক",
+      "কোনো সম্পর্ক নেই"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "chapter-08-split-02-q05",
+    "subject": "physics-1st-paper",
+    "chapter": "chapter-08-split-02",
+    "text": "লঘু অবমন্দনের ক্ষেত্রে বিস্তার কিভাবে পরিবর্তিত হয়?",
+    "options": [
+      "সূচকীয়ভাবে হ্রাস পায়",
+      "হঠাৎ শূন্য হয়",
+      "ধ্রুব থাকে",
+      "বাড়তে থাকে"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "chapter-08-split-02-q06",
+    "subject": "physics-1st-paper",
+    "chapter": "chapter-08-split-02",
+    "text": "সমালোচনামূলক অবমন্দনে (critical damping) সিস্টেমটি কী করে?",
+    "options": [
+      "অসীম সময়ে সাম্যাবস্থায় ফেরে",
+      "দোলন ছাড়াই দ্রুততম সময়ে সাম্যাবস্থায় ফেরে",
+      "ক্রমাগত দুলতে থাকে",
+      "বিস্তার বাড়ে"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "chapter-08-split-02-q07",
+    "subject": "physics-1st-paper",
+    "chapter": "chapter-08-split-02",
+    "text": "প্রণোদিত স্পন্দনের ক্ষেত্রে অনুনাদ (resonance) ঘটে যখন –",
+    "options": [
+      "প্রণোদক কম্পাঙ্ক স্বাভাবিক কম্পাঙ্ক অপেক্ষা বেশি",
+      "প্রণোদক কম্পাঙ্ক স্বাভাবিক কম্পাঙ্কের সমান",
+      "প্রণোদক কম্পাঙ্ক শূন্য",
+      "দোলনকাল সর্বোচ্চ"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "chapter-08-split-02-q08",
+    "subject": "physics-1st-paper",
+    "chapter": "chapter-08-split-02",
+    "text": "অনুনাদে বিস্তার কীরূপ হয়?",
+    "options": [
+      "সর্বনিম্ন",
+      "সর্বোচ্চ",
+      "অপরিবর্তিত",
+      "শূন্য"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "chapter-08-split-02-q09",
+    "subject": "physics-1st-paper",
+    "chapter": "chapter-08-split-02",
+    "text": "সরল ছন্দিত স্পন্দনের পর্যায়কাল T এবং কম্পাঙ্ক f-এর গুণফল কত?",
+    "options": [
+      "0",
+      "1",
+      "ω",
+      "2π"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "chapter-08-split-02-q10",
+    "subject": "physics-1st-paper",
+    "chapter": "chapter-08-split-02",
+    "text": "স্পন্দনরত কণার সরণ x = A sin ωt হলে, গতিশক্তি Eₖ = ?",
+    "options": [
+      "½mω²A²sin²ωt",
+      "½mω²A²cos²ωt",
+      "½mω²A²",
+      "mω²A²sinωt"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "chapter-08-split-02-q11",
+    "subject": "physics-1st-paper",
+    "chapter": "chapter-08-split-02",
+    "text": "একটি স্প্রিং-ভর সিস্টেমকে চাঁদে নিলে দোলনকাল কীরূপ হবে?",
+    "options": [
+      "বাড়বে",
+      "কমবে",
+      "অপরিবর্তিত থাকবে",
+      "শূন্য হবে"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "chapter-08-split-02-q12",
+    "subject": "physics-1st-paper",
+    "chapter": "chapter-08-split-02",
+    "text": "সরল দোলকের ক্ষেত্রে g এর পরিবর্তন হলে T কিভাবে পরিবর্তিত হয়?",
+    "options": [
+      "T ∝ g",
+      "T ∝ 1/√g",
+      "T ∝ g²",
+      "T ∝ √g"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "chapter-08-split-02-q13",
+    "subject": "physics-1st-paper",
+    "chapter": "chapter-08-split-02",
+    "text": "কোনো কণার সরল ছন্দিত গতির সমীকরণ x = 5 cos(2πt) cm। গতির বিস্তার কত?",
+    "options": [
+      "5 cm",
+      "2π cm",
+      "10 cm",
+      "1 cm"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "chapter-08-split-02-q14",
+    "subject": "physics-1st-paper",
+    "chapter": "chapter-08-split-02",
+    "text": "উপরের প্রশ্নে কৌণিক কম্পাঙ্ক কত?",
+    "options": [
+      "2π rad/s",
+      "π rad/s",
+      "2 rad/s",
+      "5 rad/s"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "chapter-08-split-02-q15",
+    "subject": "physics-1st-paper",
+    "chapter": "chapter-08-split-02",
+    "text": "একটি সরল দোলকের দোলনকাল 3 s, এর কম্পাঙ্ক কত?",
+    "options": [
+      "0.33 Hz",
+      "3 Hz",
+      "1 Hz",
+      "9 Hz"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "chapter-08-split-02-q16",
+    "subject": "physics-1st-paper",
+    "chapter": "chapter-08-split-02",
+    "text": "একটি স্প্রিং-ভর সিস্টেমের ভর 4 গুণ করলে কম্পাঙ্ক কত গুণ হবে?",
+    "options": [
+      "অর্ধেক",
+      "দ্বিগুণ",
+      "চারগুণ",
+      "এক-চতুর্থাংশ"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "chapter-08-split-02-q17",
+    "subject": "physics-1st-paper",
+    "chapter": "chapter-08-split-02",
+    "text": "তুল্য স্প্রিং ধ্রুবক kₛ = 100 N/m, ভর 1 kg হলে কৌণিক কম্পাঙ্ক কত?",
+    "options": [
+      "10 rad/s",
+      "100 rad/s",
+      "1 rad/s",
+      "0.1 rad/s"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "chapter-08-split-02-q18",
+    "subject": "physics-1st-paper",
+    "chapter": "chapter-08-split-02",
+    "text": "একটি সরল দোলকের দৈর্ঘ্য 1 m, g = π² m/s² হলে দোলনকাল কত?",
+    "options": [
+      "1 s",
+      "2 s",
+      "0.5 s",
+      "4 s"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "chapter-08-split-02-q19",
+    "subject": "physics-1st-paper",
+    "chapter": "chapter-08-split-02",
+    "text": "একটি কণার SHM-এ বিস্তার 10 cm, দোলনকাল 2 s। সর্বোচ্চ বেগ কত?",
+    "options": [
+      "10π cm/s",
+      "20π cm/s",
+      "5π cm/s",
+      "π cm/s"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "chapter-08-split-02-q20",
+    "subject": "physics-1st-paper",
+    "chapter": "chapter-08-split-02",
+    "text": "একটি SHM-এর গতিশক্তি ও বিভবশক্তির মধ্যে সম্পর্ক?",
+    "options": [
+      "একই দশায় থাকে",
+      "একটি অন্যটির সাপেক্ষে π/2 দশা পার্থক্যে থাকে",
+      "উভয়ই একই সময় সর্বোচ্চ হয়",
+      "উভয়ের পার্থক্য ধ্রুব"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "chapter-08-split-02-q21",
+    "subject": "physics-1st-paper",
+    "chapter": "chapter-08-split-02",
+    "text": "SHM-এ একটি পূর্ণ দোলনে গড় গতিশক্তি কত?",
+    "options": [
+      "¼kA²",
+      "½kA²",
+      "kA²",
+      "শূন্য"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "chapter-08-split-02-q22",
+    "subject": "physics-1st-paper",
+    "chapter": "chapter-08-split-02",
+    "text": "একটি স্প্রিং-ভর সিস্টেমে স্প্রিং ধ্রুবক k, ভর m এর দোলনকাল T হলে k = ?",
+    "options": [
+      "4π²m/T²",
+      "2πm/T",
+      "m/T²",
+      "m/(2πT)"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "chapter-08-split-02-q23",
+    "subject": "physics-1st-paper",
+    "chapter": "chapter-08-split-02",
+    "text": "একটি স্পন্দনরত কণার সরণ x = 0.1 sin(5πt + π/3) m হলে বিস্তার কত?",
+    "options": [
+      "0.1 m",
+      "5π m",
+      "π/3 m",
+      "0.05 m"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "chapter-08-split-02-q24",
+    "subject": "physics-1st-paper",
+    "chapter": "chapter-08-split-02",
+    "text": "উপরের কণাটির কম্পাঙ্ক কত?",
+    "options": [
+      "2.5 Hz",
+      "5 Hz",
+      "5π Hz",
+      "10π Hz"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "chapter-08-split-02-q25",
+    "subject": "physics-1st-paper",
+    "chapter": "chapter-08-split-02",
+    "text": "পর্যাবৃত্ত গতি কিন্তু সরল ছন্দিত নয়, এর উদাহরণ কোনটি?",
+    "options": [
+      "স্প্রিং-ভর সিস্টেম",
+      "সরল দোলক",
+      "বৃত্তাকার পথে ধ্রুব দ্রুতিতে গতি",
+      "টিউনিং ফর্কের কম্পন"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  }
+]

@@ -1,0 +1,377 @@
+[
+  {
+    "id": "chapter-05-split-01-q01",
+    "subject": "physics-1st-paper",
+    "chapter": "chapter-05-split-01",
+    "text": "বল ও সরণের মধ্যবর্তী কোণ $\\\\theta$ হলে কাজের পরিমাণ সর্বাধিক হবে কখন?",
+    "options": [
+      "$0^\\\\circ$",
+      "$45^\\\\circ$",
+      "$90^\\\\circ$",
+      "$180^\\\\circ$"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "chapter-05-split-01-q02",
+    "subject": "physics-1st-paper",
+    "chapter": "chapter-05-split-01",
+    "text": "বলের দ্বারা কাজ (Positive Work) সম্পন্ন হলে বল ও সরণের মধ্যবর্তী কোণ ($\\\\theta$) কত হবে?",
+    "options": [
+      "$\\\\theta = 0^\\\\circ$",
+      "$0^\\\\circ \\\\le \\\\theta < 90^\\\\circ$",
+      "$\\\\theta = 90^\\\\circ$",
+      "$90^\\\\circ < \\\\theta \\\\le 180^\\\\circ$"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "chapter-05-split-01-q03",
+    "subject": "physics-1st-paper",
+    "chapter": "chapter-05-split-01",
+    "text": "বলের বিরুদ্ধে কাজ (Negative Work) সম্পন্ন হলে কোণের শর্ত কোনটি?",
+    "options": [
+      "$\\\\theta = 0^\\\\circ$",
+      "$0^\\\\circ \\\\le \\\\theta < 90^\\\\circ$",
+      "$\\\\theta = 90^\\\\circ$",
+      "$90^\\\\circ < \\\\theta \\\\le 180^\\\\circ$"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "chapter-05-split-01-q04",
+    "subject": "physics-1st-paper",
+    "chapter": "chapter-05-split-01",
+    "text": "একটি বস্তুকে বৃত্তাকার পথে ঘোরালে কেন্দ্রমুখী বল দ্বারা কৃতকাজ কত?",
+    "options": [
+      "ধনাত্মক",
+      "ঋণাত্মক",
+      "শূন্য",
+      "অসীম"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "chapter-05-split-01-q05",
+    "subject": "physics-1st-paper",
+    "chapter": "chapter-05-split-01",
+    "text": "ঘর্ষণ বল দ্বারা কৃতকাজ সর্বদা কীরূপ হয়?",
+    "options": [
+      "ধনাত্মক",
+      "ঋণাত্মক",
+      "শূন্য",
+      "অসীম"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "chapter-05-split-01-q06",
+    "subject": "physics-1st-paper",
+    "chapter": "chapter-05-split-01",
+    "text": "সংরক্ষণশীল বলের (Conservative Force) ক্রিয়ায় একটি পূর্ণচক্রে কৃতকাজ কত?",
+    "options": [
+      "অসীম",
+      "শূন্য",
+      "ধনাত্মক",
+      "ঋণাত্মক"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "chapter-05-split-01-q07",
+    "subject": "physics-1st-paper",
+    "chapter": "chapter-05-split-01",
+    "text": "নিচের কোনটি অসংরক্ষণশীল বল (Non-conservative force)?",
+    "options": [
+      "মহাকর্ষ বল",
+      "স্থির তড়িৎ বল",
+      "ঘর্ষণ বল",
+      "আদর্শ স্প্রিং বল"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "chapter-05-split-01-q08",
+    "subject": "physics-1st-paper",
+    "chapter": "chapter-05-split-01",
+    "text": "1 জুল (Joule) কাজ বলতে কী বোঝায়?",
+    "options": [
+      "1 N বল প্রয়োগে বস্তুর সরণ 1 m",
+      "10 N বল প্রয়োগে সরণ 1 m",
+      "1 N বল প্রয়োগে সরণ 1 cm",
+      "1 dyne বল প্রয়োগে সরণ 1 cm"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "chapter-05-split-01-q09",
+    "subject": "physics-1st-paper",
+    "chapter": "chapter-05-split-01",
+    "text": "1 kg ভরের একটি বস্তুকে মাটি থেকে 10 m উচ্চতায় তুললে কৃতকাজ কত? ($g = 9.8$ m/s$^2$)",
+    "options": [
+      "9.8 J",
+      "98 J",
+      "0 J",
+      "-98 J"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "chapter-05-split-01-q10",
+    "subject": "physics-1st-paper",
+    "chapter": "chapter-05-split-01",
+    "text": "কাজের অভিকর্ষীয় একক (Gravitational Unit of Work) কোনটি?",
+    "options": [
+      "জুল (J)",
+      "আর্গ (erg)",
+      "কেজি-মিটার (kg-m)",
+      "নিউটন-মিটার (N-m)"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "chapter-05-split-01-q11",
+    "subject": "physics-1st-paper",
+    "chapter": "chapter-05-split-01",
+    "text": "একটি মিনারের চুড়া থেকে $m$ ভরের একটি পাথরকে খাড়া নিচের দিকে ফেলে দিলে, অভিকর্ষ বল দ্বারা কৃতকাজ কী হবে?",
+    "options": [
+      "ধনাত্মক",
+      "ঋণাত্মক",
+      "শূন্য",
+      "ভরের উপর নির্ভর করবে"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "chapter-05-split-01-q12",
+    "subject": "physics-1st-paper",
+    "chapter": "chapter-05-split-01",
+    "text": "স্প্রিং বল বা প্রত্যয়নী বল (Restoring Force) দ্বারা কৃতকাজ নিচের কোন রাশির সমানুপাতিক?",
+    "options": [
+      "সরণের",
+      "সরণের বর্গের",
+      "সরণের ব্যস্তানুপাতিক",
+      "সরণের বর্গমূলের"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "chapter-05-split-01-q13",
+    "subject": "physics-1st-paper",
+    "chapter": "chapter-05-split-01",
+    "text": "স্প্রিং ধ্রুবকের মান কিসের উপর নির্ভর করে?",
+    "options": [
+      "স্প্রিংয়ের ভর",
+      "সরণ",
+      "স্প্রিংয়ের উপাদান ও জ্যামিতিক গঠন",
+      "প্রযুক্ত বল"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "chapter-05-split-01-q14",
+    "subject": "physics-1st-paper",
+    "chapter": "chapter-05-split-01",
+    "text": "100 N/m স্প্রিং ধ্রুবকবিশিষ্ট একটি স্প্রিংকে 2 cm প্রসারিত করলে সঞ্চিত বিভব শক্তি কত?",
+    "options": [
+      "$0.02$ J",
+      "$0.04$ J",
+      "$2$ J",
+      "$4$ J"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "chapter-05-split-01-q15",
+    "subject": "physics-1st-paper",
+    "chapter": "chapter-05-split-01",
+    "text": "একটি স্প্রিংকে সমান দুই টুকরো করা হলো। প্রতিটি টুকরোর স্প্রিং ধ্রুবক আগের তুলনায় কেমন হবে?",
+    "options": [
+      "অর্ধেক হবে",
+      "দ্বিগুণ হবে",
+      "চারগুণ হবে",
+      "একই থাকবে"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "chapter-05-split-01-q16",
+    "subject": "physics-1st-paper",
+    "chapter": "chapter-05-split-01",
+    "text": "বল-সরণ (F-x) লেখচিত্রের নিচের ক্ষেত্রফল কী নির্দেশ করে?",
+    "options": [
+      "ক্ষমতা",
+      "ত্বরণ",
+      "কৃতকাজ",
+      "বলের ঘাত"
+    ],
+    "image": "/images/quiz/premium/chapter-05-split-01-q16.svg",
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "chapter-05-split-01-q17",
+    "subject": "physics-1st-paper",
+    "chapter": "chapter-05-split-01",
+    "text": "$F = (3x^2 + 2x)$ N বল একটি বস্তুকে $x=1$ m থেকে $x=2$ m এ সরালে কৃতকাজ কত?",
+    "options": [
+      "$5$ J",
+      "$10$ J",
+      "$12$ J",
+      "$15$ J"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "chapter-05-split-01-q18",
+    "subject": "physics-1st-paper",
+    "chapter": "chapter-05-split-01",
+    "text": "স্প্রিং বল কোন ধরনের বল?",
+    "options": [
+      "ধ্রুব বল",
+      "পরিবর্তনশীল ও সংরক্ষণশীল বল",
+      "পরিবর্তনশীল ও অসংরক্ষণশীল বল",
+      "ঘাত বল"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "chapter-05-split-01-q19",
+    "subject": "physics-1st-paper",
+    "chapter": "chapter-05-split-01",
+    "text": "কোনো বস্তুর ভরবেগ 100% বৃদ্ধি পেলে তার গতিশক্তি কত শতাংশ বৃদ্ধি পাবে?",
+    "options": [
+      "100%",
+      "200%",
+      "300%",
+      "400%"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "chapter-05-split-01-q20",
+    "subject": "physics-1st-paper",
+    "chapter": "chapter-05-split-01",
+    "text": "কোনো বস্তুর গতিশক্তি 300% বৃদ্ধি পেলে তার ভরবেগ কত শতাংশ বৃদ্ধি পাবে?",
+    "options": [
+      "50%",
+      "100%",
+      "150%",
+      "300%"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "chapter-05-split-01-q21",
+    "subject": "physics-1st-paper",
+    "chapter": "chapter-05-split-01",
+    "text": "একটি হালকা এবং একটি ভারী বস্তুর ভরবেগ সমান। কার গতিশক্তি বেশি?",
+    "options": [
+      "ভারী বস্তুর",
+      "হালকা বস্তুর",
+      "উভয়ের সমান",
+      "ভরের উপর নির্ভর করে না"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "chapter-05-split-01-q22",
+    "subject": "physics-1st-paper",
+    "chapter": "chapter-05-split-01",
+    "text": "একটি হালকা এবং একটি ভারী বস্তুর গতিশক্তি সমান। কার ভরবেগ বেশি?",
+    "options": [
+      "ভারী বস্তুর",
+      "হালকা বস্তুর",
+      "উভয়ের সমান",
+      "ভরের উপর নির্ভর করে না"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "chapter-05-split-01-q23",
+    "subject": "physics-1st-paper",
+    "chapter": "chapter-05-split-01",
+    "text": "কাজ-শক্তি উপপাদ্য (Work-Energy Theorem) অনুসারে, কোনো বস্তুর উপর লব্ধি বল দ্বারা কৃতকাজ বস্তুর কোন রাশির পরিবর্তনের সমান?",
+    "options": [
+      "বিভব শক্তির",
+      "গতিশক্তির",
+      "ভরবেগের",
+      "যান্ত্রিক শক্তির"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "chapter-05-split-01-q24",
+    "subject": "physics-1st-paper",
+    "chapter": "chapter-05-split-01",
+    "text": "10 kg ভরের একটি স্থির বস্তুর উপর 20 N বল 5 s ধরে ক্রিয়া করলে এর গতিশক্তি কত হবে?",
+    "options": [
+      "100 J",
+      "200 J",
+      "500 J",
+      "1000 J"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "chapter-05-split-01-q25",
+    "subject": "physics-1st-paper",
+    "chapter": "chapter-05-split-01",
+    "text": "একটি বুলেট একটি কাঠের তক্তা ভেদ করতে পারে। বুলেটের বেগ 4 গুণ করা হলে এটি অনুরূপ কয়টি তক্তা ভেদ করতে পারবে?",
+    "options": [
+      "4টি",
+      "8টি",
+      "16টি",
+      "24টি"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  }
+]

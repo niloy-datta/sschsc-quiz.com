@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="100%" height="100%" viewBox="0 0 360 220">
+  <defs>
+    <radialGradient id="bg" cx="50%" cy="45%" r="75%">
+      <stop offset="0%" stop-color="#7c2d12"/>
+      <stop offset="100%" stop-color="#020617"/>
+    </radialGradient>
+    <marker id="arrow" markerWidth="8" markerHeight="8" refX="7" refY="3" orient="auto">
+      <path d="M0,0 L0,6 L8,3 z" fill="#e5e7eb"/>
+    </marker>
+    <style>
+      .axis{stroke:#e5e7eb;stroke-width:2.5;marker-end:url(#arrow)}
+      .curve{fill:none;stroke:#facc15;stroke-width:4;stroke-linecap:round;stroke-linejoin:round}
+      .dash{stroke:#94a3b8;stroke-width:1.7;stroke-dasharray:5 5}
+      .label{font-family:Arial,sans-serif;font-size:12px;font-weight:800;fill:#fff}
+      .point{fill:#38bdf8}
+    </style>
+  </defs>
+
+  <rect width="360" height="220" rx="18" fill="url(#bg)"/>
+
+  <line x1="55" y1="170" x2="315" y2="170" class="axis"/>
+  <line x1="55" y1="170" x2="55" y2="40" class="axis"/>
+
+  <polyline points="65,155 125,105 215,105 295,55" class="curve"/>
+
+  <line x1="55" y1="105" x2="315" y2="105" class="dash"/>
+  <circle cx="125" cy="105" r="4" class="point"/>
+  <circle cx="215" cy="105" r="4" class="point"/>
+
+  <text x="132" y="95" class="label">D</text>
+  <text x="212" y="95" class="label">E</text>
+  <text x="160" y="126" class="label">sublimation</text>
+</svg>

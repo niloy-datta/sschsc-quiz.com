@@ -1,0 +1,27 @@
+<svg viewBox="0 0 360 220" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0f172a"/>
+      <stop offset="100%" stop-color="#1e1b4b"/>
+    </linearGradient>
+    <filter id="glow" x="-30%" y="-30%" width="160%" height="160%">
+      <feDropShadow dx="0" dy="0" stdDeviation="4" flood-color="#22d3ee" flood-opacity="0.55"/>
+    </filter>
+    <marker id="arrow" viewBox="0 0 10 10" refX="5" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse">
+      <path d="M 0 0 L 10 5 L 0 10 z" fill="#cbd5e1"/>
+    </marker>
+  </defs>
+  <rect width="360" height="220" rx="14" fill="url(#bg)" stroke="#334155" stroke-width="1.5"/>
+  
+  <rect x="60" y="55" width="240" height="110" rx="14" fill="#0f172a" stroke="#475569" stroke-width="2"/>
+  <circle cx="95" cy="110" r="18" fill="#1e293b" stroke="#22d3ee" stroke-width="2" filter="url(#glow)"/>
+  <text x="89" y="114" fill="#e2e8f0" font-size="10">V</text>
+  <rect x="155" y="98" width="42" height="24" rx="5" fill="#1e293b" stroke="#f472b6" stroke-width="2"/>
+  <text x="166" y="114" fill="#fda4af" font-size="10">R₁</text>
+  <rect x="215" y="98" width="42" height="24" rx="5" fill="#1e293b" stroke="#34d399" stroke-width="2"/>
+  <text x="226" y="114" fill="#86efac" font-size="10">R₂</text>
+  <line x1="113" y1="110" x2="155" y2="110" stroke="#94a3b8" stroke-width="2"/>
+  <line x1="197" y1="110" x2="215" y2="110" stroke="#94a3b8" stroke-width="2"/>
+  <line x1="257" y1="110" x2="285" y2="110" stroke="#94a3b8" stroke-width="2"/>
+  <text x="180" y="208" fill="#94a3b8" font-family="Segoe UI, system-ui, sans-serif" font-size="11" text-anchor="middle">বৈদ্যুতিক বর্তনী</text>
+</svg>

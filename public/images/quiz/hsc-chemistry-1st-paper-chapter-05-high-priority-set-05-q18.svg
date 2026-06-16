@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 360 220" width="100%" height="100%">
+<defs><radialGradient id="b" cx="50%" cy="45%" r="75%"><stop offset="0%" stop-color="#1e293b"/><stop offset="100%" stop-color="#020617"/></radialGradient></defs>
+<rect width="360" height="220" rx="18" fill="url(#b)"/>
+<g stroke="#e5e7eb" stroke-width="2" fill="none"><rect x="70" y="55" width="220" height="116" rx="14"/><line x1="70" y1="93" x2="290" y2="93"/><line x1="70" y1="132" x2="290" y2="132"/></g>
+<g font-family="Arial" font-size="14" font-weight="900" fill="#fff">
+<text x="92" y="80">BeF₂</text><text x="170" y="80" fill="#38bdf8">small M²⁺</text>
+<text x="92" y="119">MgF₂</text><text x="170" y="119" fill="#22c55e">medium</text>
+<text x="92" y="158">CaF₂</text><text x="170" y="158" fill="#facc15">larger ionic</text>
+</g>
+<path d="M315 60 V168" stroke="#facc15" stroke-width="4"/><path d="M315 168 l-10 -16 M315 168 l10 -16" stroke="#facc15" stroke-width="4" fill="none"/>
+</svg>

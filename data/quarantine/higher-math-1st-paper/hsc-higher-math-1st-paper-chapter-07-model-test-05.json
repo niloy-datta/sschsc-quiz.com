@@ -1,0 +1,91 @@
+{
+  "setId": "hsc-higher-math-1st-paper-chapter-07-model-test-05",
+  "reason": "DUPLICATE_OF_hsc-higher-math-1st-paper-chapter-02-model-test-05",
+  "quarantinedAt": "2026-06-13T17:57:55.228Z",
+  "questions": [
+    {
+      "id": "hsc-higher-math-1st-paper-chapter-07-model-test-05-q01",
+      "questionText": "ম্যাট্রিক্সের ডিটারমিন্যান্ট শূন্য হলে তাকে কী ম্যাট্রিক্স বলে?",
+      "optionA": "অভেদক ম্যাট্রিক্স",
+      "optionB": "অ-ব্যতিক্রমী ম্যাট্রিক্স",
+      "optionC": "ব্যতিক্রমী ম্যাট্রিক্স",
+      "optionD": "প্রতিসম ম্যাট্রিক্স",
+      "correctOption": "C",
+      "explanation": "",
+      "chapter": "07",
+      "topic": "ম্যাট্রিক্স ও নির্ণায়ক",
+      "difficulty": "Board Pattern",
+      "questionNo": 1
+    },
+    {
+      "id": "hsc-higher-math-1st-paper-chapter-07-model-test-05-q02",
+      "questionText": "$f(x) = |x|$ ফাংশনটির $x = 0$ বিন্দুতে অন্তরজ (Derivative) কত?",
+      "optionA": "1",
+      "optionB": "-1",
+      "optionC": "0",
+      "optionD": "অসংজ্ঞায়িত (Undefined)",
+      "correctOption": "D",
+      "explanation": "$x=0$ বিন্দুতে $|x|$ গ্রাফটিতে একটি তীক্ষ্ণ কোণ (Sharp corner) বা V আকৃতি তৈরি হয়। তাই এই বিন্দুতে কোনো নির্দিষ্ট স্পর্শক আঁকা যায় না (Left hand derivative $\\",
+      "chapter": "07",
+      "topic": "অন্তরীকরণ",
+      "difficulty": "Medium",
+      "questionNo": 2
+    },
+    {
+      "id": "hsc-higher-math-1st-paper-chapter-07-model-test-05-q03",
+      "questionText": "(2, 3) এবং (4, 5) বিন্দুগামী সরলরেখার ঢাল কত?",
+      "optionA": "০",
+      "optionB": "১",
+      "optionC": "-১",
+      "optionD": "২",
+      "correctOption": "B",
+      "explanation": "",
+      "chapter": "07",
+      "topic": "সরলরেখা",
+      "difficulty": "Board Pattern",
+      "questionNo": 3
+    },
+    {
+      "id": "hsc-higher-math-1st-paper-chapter-07-model-test-05-q04",
+      "questionText": "A এবং B দুটি ম্যাট্রিক্স। AB গুণন সংজ্ঞায়িত হলে A এর কলাম সংখ্যা B এর কীসের সমান হবে?",
+      "optionA": "কলাম সংখ্যা",
+      "optionB": "কোনোটিই নয়",
+      "optionC": "মান",
+      "optionD": "সারি সংখ্যা",
+      "correctOption": "D",
+      "explanation": "",
+      "chapter": "07",
+      "topic": "ম্যাট্রিক্স ও নির্ণায়ক",
+      "difficulty": "Board Pattern",
+      "questionNo": 4
+    },
+    {
+      "id": "hsc-higher-math-1st-paper-chapter-07-model-test-05-q05",
+      "questionText": "d/dx (ln x) এর মান কত?",
+      "optionA": "ln x",
+      "optionB": "e^x",
+      "optionC": "1/x",
+      "optionD": "x",
+      "correctOption": "C",
+      "explanation": "",
+      "chapter": "07",
+      "topic": "অন্তরীকরণ",
+      "difficulty": "Board Pattern",
+      "questionNo": 5
+    },
+    {
+      "id": "hsc-higher-math-1st-paper-chapter-07-model-test-05-q06",
+      "questionText": "lim_{x->0} (sin x / x) এর মান কত?",
+      "optionA": "১",
+      "optionB": "বিদ্যমান নেই",
+      "optionC": "০",
+      "optionD": "অসীম",
+      "correctOption": "A",
+      "explanation": "",
+      "chapter": "07",
+      "topic": "ত্রিকোণমিতিক অনুপাত",
+      "difficulty": "Board Pattern",
+      "questionNo": 6
+    }
+  ]
+}

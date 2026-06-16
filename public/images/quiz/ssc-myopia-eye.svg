@@ -1,0 +1,23 @@
+<svg width="100%" height="100%" viewBox="0 0 420 260" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Myopia Eye Defect">
+  <defs>
+    <marker id="arrow" markerWidth="8" markerHeight="8" refX="7" refY="3.5" orient="auto">
+      <path d="M0,0 L0,7 L8,3.5 z" fill="#0f172a"/>
+    </marker>
+    <marker id="arrowBlue" markerWidth="8" markerHeight="8" refX="7" refY="3.5" orient="auto">
+      <path d="M0,0 L0,7 L8,3.5 z" fill="#2563eb"/>
+    </marker>
+  </defs>
+  <rect width="420" height="260" rx="18" fill="#f8fafc"/>
+  <rect x="14" y="14" width="392" height="232" rx="14" fill="#ffffff" stroke="#cbd5e1" stroke-width="1.5"/>
+  <text x="210.0" y="38" text-anchor="middle" font-family="Arial, sans-serif" font-size="15" font-weight="700" fill="#0f172a">Myopia Eye Defect</text>
+  
+  <ellipse cx="220" cy="140" rx="110" ry="70" fill="#fef3c7" stroke="#ca8a04" stroke-width="2"/>
+  <circle cx="130" cy="140" r="25" fill="#e0f2fe" stroke="#0284c7" stroke-width="2"/>
+  <path d="M100 105 C155 120,185 128,215 140" stroke="#2563eb" stroke-width="2" fill="none"/>
+  <path d="M100 175 C155 160,185 152,215 140" stroke="#2563eb" stroke-width="2" fill="none"/>
+  <line x1="318" y1="92" x2="318" y2="188" stroke="#dc2626" stroke-width="3"/>
+  <text x="318" y="82" text-anchor="middle" font-size="12" fill="#dc2626">Retina</text>
+  <circle cx="215" cy="140" r="5" fill="#ea580c"/>
+  <text x="215" y="165" text-anchor="middle" font-size="12" fill="#ea580c">Focus before retina</text>
+
+</svg>

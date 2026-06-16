@@ -1,0 +1,79 @@
+<svg viewBox="0 0 360 220" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0f172a"/>
+      <stop offset="100%" stop-color="#1e1b4b"/>
+    </linearGradient>
+    <filter id="glow" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="0" dy="0" stdDeviation="3" flood-color="#22d3ee" flood-opacity="0.55"/>
+    </filter>
+    <filter id="glow-green" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="0" dy="0" stdDeviation="3" flood-color="#34d399" flood-opacity="0.55"/>
+    </filter>
+  </defs>
+  <rect width="360" height="220" rx="14" fill="url(#bg)" stroke="#334155" stroke-width="1.5"/>
+
+  <!-- Title region -->
+  <text x="180" y="24" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="11" text-anchor="middle" font-weight="bold">জাইলেম ও ফ্লোয়েম — Xylem &amp; Phloem</text>
+
+  <!-- Xylem (left side) -->
+  <rect x="30" y="32" width="135" height="155" rx="6" fill="#0f172a" stroke="#22d3ee" stroke-width="1.5" filter="url(#glow)"/>
+  <text x="97" y="48" fill="#67e8f9" font-family="system-ui,sans-serif" font-size="9" text-anchor="middle" font-weight="bold">জাইলেম (Xylem)</text>
+
+  <!-- Xylem vessel (large) -->
+  <rect x="48" y="55" width="35" height="120" rx="5" fill="none" stroke="#22d3ee" stroke-width="2"/>
+  <line x1="48" y1="95" x2="83" y2="95" stroke="#22d3ee" stroke-width="1" opacity="0.5"/>
+  <line x1="48" y1="130" x2="83" y2="130" stroke="#22d3ee" stroke-width="1" opacity="0.5"/>
+  <text x="65" y="176" fill="#67e8f9" font-family="system-ui,sans-serif" font-size="6" text-anchor="middle">ভেসেল</text>
+
+  <!-- Xylem tracheid (narrow) -->
+  <rect x="92" y="60" width="22" height="110" rx="3" fill="none" stroke="#34d399" stroke-width="1.5"/>
+  <ellipse cx="103" cy="62" rx="11" ry="2" fill="none" stroke="#34d399" stroke-width="1"/>
+  <!-- Tracheid pits -->
+  <circle cx="97" cy="80" r="2" fill="none" stroke="#34d399" stroke-width="0.8"/>
+  <circle cx="109" cy="100" r="2" fill="none" stroke="#34d399" stroke-width="0.8"/>
+  <circle cx="97" cy="125" r="2" fill="none" stroke="#34d399" stroke-width="0.8"/>
+  <circle cx="109" cy="145" r="2" fill="none" stroke="#34d399" stroke-width="0.8"/>
+  <text x="103" y="178" fill="#67e8f9" font-family="system-ui,sans-serif" font-size="6" text-anchor="middle">ট্রাকিড</text>
+
+  <!-- Xylem fibre -->
+  <rect x="120" y="70" width="16" height="90" rx="2" fill="none" stroke="#67e8f9" stroke-width="1"/>
+  <text x="128" y="178" fill="#67e8f9" font-family="system-ui,sans-serif" font-size="6" text-anchor="middle">তন্তু</text>
+
+  <!-- Divider -->
+  <line x1="170" y1="35" x2="170" y2="185" stroke="#475569" stroke-width="1" stroke-dasharray="6 4"/>
+
+  <!-- Phloem (right side) -->
+  <rect x="185" y="32" width="145" height="155" rx="6" fill="#0f172a" stroke="#f472b6" stroke-width="1.5" filter="url(#glow)"/>
+  <text x="257" y="48" fill="#fda4af" font-family="system-ui,sans-serif" font-size="9" text-anchor="middle" font-weight="bold">ফ্লোয়েম (Phloem)</text>
+
+  <!-- Sieve tube -->
+  <rect x="200" y="55" width="40" height="120" rx="4" fill="none" stroke="#f472b6" stroke-width="2"/>
+  <!-- Sieve plates -->
+  <line x1="200" y1="83" x2="240" y2="83" stroke="#f472b6" stroke-width="1.5"/>
+  <line x1="200" y1="108" x2="240" y2="108" stroke="#f472b6" stroke-width="1.5"/>
+  <line x1="200" y1="133" x2="240" y2="133" stroke="#f472b6" stroke-width="1.5"/>
+  <!-- Sieve pores -->
+  <circle cx="220" cy="83" r="1.5" fill="#fda4af" opacity="0.6"/>
+  <circle cx="220" cy="108" r="1.5" fill="#fda4af" opacity="0.6"/>
+  <circle cx="220" cy="133" r="1.5" fill="#fda4af" opacity="0.6"/>
+  <text x="220" y="178" fill="#fda4af" font-family="system-ui,sans-serif" font-size="6" text-anchor="middle">ছাঁকনি নল</text>
+
+  <!-- Companion cell -->
+  <rect x="248" y="60" width="20" height="110" rx="3" fill="none" stroke="#fb923c" stroke-width="1.5"/>
+  <circle cx="258" cy="80" r="2" fill="#fdba74" opacity="0.4"/>
+  <circle cx="258" cy="105" r="2" fill="#fdba74" opacity="0.4"/>
+  <circle cx="258" cy="130" r="2" fill="#fdba74" opacity="0.4"/>
+  <text x="258" y="178" fill="#fdba74" font-family="system-ui,sans-serif" font-size="6" text-anchor="middle">সহযোগী কোষ</text>
+
+  <!-- Phloem fibre -->
+  <rect x="276" y="70" width="16" height="90" rx="2" fill="none" stroke="#a78bfa" stroke-width="1"/>
+  <text x="284" y="178" fill="#c4b5fd" font-family="system-ui,sans-serif" font-size="6" text-anchor="middle">তন্তু</text>
+
+  <!-- Flow arrows -->
+  <path d="M 80 60 L 80 170" stroke="#22d3ee" stroke-width="1.5" marker-end="url(#arrow-green)"/>
+  <path d="M 230 170 L 230 60" stroke="#f472b6" stroke-width="1.5" marker-end="url(#arrow-pink)"/>
+
+  <text x="68" y="192" fill="#86efac" font-family="system-ui,sans-serif" font-size="6">↑ জল ও খনিজ</text>
+  <text x="200" y="192" fill="#fda4af" font-family="system-ui,sans-serif" font-size="6">↓ খাদ্য পরিবহন</text>
+</svg>

@@ -1,0 +1,282 @@
+{
+  "setId": "chapter-06-split-04",
+  "reason": "DUPLICATE_OF_chapter-06-split-04",
+  "quarantinedAt": "2026-06-16T10:44:44.714Z",
+  "questions": [
+    {
+      "id": "chapter-06-split-04-q01",
+      "questionText": "নিচের কোন দুটি যৌগের স্থূল সংকেত একই? (Board Repeated)",
+      "optionA": "মিথেন ও ইথেন",
+      "optionB": "বেনজিন ও ইথাইন (অ্যাসিটিলিন)",
+      "optionC": "গ্লুকোজ ও সুক্রোজ",
+      "optionD": "পানি ও হাইড্রোজেন পারঅক্সাইড",
+      "correctOption": "B",
+      "explanation": "সঠিক উত্তর: B (বেনজিন ও ইথাইন)। ব্যাখ্যা: বেনজিন (C₆H₆) এবং ইথাইন (C₂H₂) উভয়েরই স্থূল সংকেত CH।",
+      "questionNo": 1
+    },
+    {
+      "id": "chapter-06-split-04-q02",
+      "questionText": "আণবিক সংকেত স্থূল সংকেতের কীরূপ হতে পারে?",
+      "optionA": "সমান বা সরল গুণিতক",
+      "optionB": "শুধুমাত্র অর্ধেক",
+      "optionC": "সর্বদা ভিন্ন",
+      "optionD": "শুধুমাত্র দ্বিগুণ",
+      "correctOption": "A",
+      "explanation": "সঠিক উত্তর: A (সমান বা সরল গুণিতক)। ব্যাখ্যা: আণবিক সংকেত = (স্থূল সংকেত) × n; যেখানে n = ১, ২, ৩ ইত্যাদি",
+      "questionNo": 2
+    },
+    {
+      "id": "chapter-06-split-04-q03",
+      "questionText": "একটি হাইড্রোকার্বনে ৯২.৩% কার্বন এবং ৭.৭% হাইড্রোজেন আছে। এর স্থূল সংকেত কী?",
+      "optionA": "CH₂",
+      "optionB": "CH₃",
+      "optionC": "CH",
+      "optionD": "C₂H",
+      "correctOption": "C",
+      "explanation": "সঠিক উত্তর: C (CH)। ব্যাখ্যা: C = ৯২.৩/১২ = ৭.৬৯, H = ৭.৭/১ = ৭.৭। অনুপাত C:H = ৭.৬৯:৭.৭ ≈",
+      "questionNo": 3
+    },
+    {
+      "id": "chapter-06-split-04-q04",
+      "questionText": "বিউটেনের (C₄H₁₀) স্থূল সংকেত কোনটি?",
+      "optionA": "CH₂",
+      "optionB": "C₂H₅",
+      "optionC": "C₄H₁₀",
+      "optionD": "CH₃",
+      "correctOption": "B",
+      "explanation": "সঠিক উত্তর: B (C₂H₅)। ব্যাখ্যা: অনুপাত ৪:১০ = ২:৫। তাই C₂H₅।",
+      "questionNo": 4
+    },
+    {
+      "id": "chapter-06-split-04-q05",
+      "questionText": "পানির (H₂O) আণবিক ও স্থূল সংকেতের মধ্যে সম্পর্ক কী?",
+      "optionA": "আণবিক সংকেত স্থূল সংকেতের দ্বিগুণ",
+      "optionB": "উভয়ই একই",
+      "optionC": "স্থূল সংকেত নেই",
+      "optionD": "আণবিক সংকেত অর্ধেক",
+      "correctOption": "B",
+      "explanation": "সঠিক উত্তর: B (উভয়ই একই)। ব্যাখ্যা: H₂O এ ২:১ অনুপাতকে আর সরল করা যায় না। তাই স্থূল ও আণবিক সংকেত",
+      "questionNo": 5
+    },
+    {
+      "id": "chapter-06-split-04-q06",
+      "questionText": "ইথানয়িক এসিডের (CH₃COOH বা C₂H₄O₂) স্থূল সংকেত কোনটি?",
+      "optionA": "CH₂O",
+      "optionB": "CHO₂",
+      "optionC": "C₂H₂O",
+      "optionD": "CH₃O",
+      "correctOption": "A",
+      "explanation": "সঠিক উত্তর: A (CH₂O)। ব্যাখ্যা: C:H:O = ২:৪:২ = ১:২:১। তাই CH₂O।",
+      "questionNo": 6
+    },
+    {
+      "id": "chapter-06-split-04-q07",
+      "questionText": "ইথিলিন (C₂H₄) ও প্রোপিলিন (C₃H₆) এর স্থূল সংকেত কোনটি?",
+      "optionA": "CH",
+      "optionB": "CH₂",
+      "optionC": "CH₃",
+      "optionD": "C₂H",
+      "correctOption": "B",
+      "explanation": "সঠিক উত্তর: B (CH₂)। ব্যাখ্যা: অ্যালকিন সমগোত্রীয় শ্রেণির সাধারণ স্থূল সংকেত CH₂।",
+      "questionNo": 7
+    },
+    {
+      "id": "chapter-06-split-04-q08",
+      "questionText": "10g CaCO₃ কে উত্তপ্ত করলে কত গ্রাম CaO উৎপন্ন হয়?",
+      "optionA": "৫.৬ গ্রাম",
+      "optionB": "৪.৪ গ্রাম",
+      "optionC": "২.৮ গ্রাম",
+      "optionD": "১১.২ গ্রাম",
+      "correctOption": "A",
+      "explanation": "সঠিক উত্তর: A (৫.৬ গ্রাম)। ব্যাখ্যা: CaCO₃ (১০০g) → CaO (৫৬g) + CO₂। ১০০g থেকে ৫৬g, তাহলে 10g থেকে",
+      "questionNo": 8
+    },
+    {
+      "id": "chapter-06-split-04-q09",
+      "questionText": "24g ম্যাগনেসিয়ামকে সম্পূর্ণ পোড়াতে কত গ্রাম অক্সিজেন প্রয়োজন?",
+      "optionA": "১৬ গ্রাম",
+      "optionB": "৩২ গ্রাম",
+      "optionC": "৮ গ্রাম",
+      "optionD": "২৪ গ্রাম",
+      "correctOption": "A",
+      "explanation": "সঠিক উত্তর: A (১৬ গ্রাম)। ব্যাখ্যা: 2Mg(৪৮g) + O₂(৩২g) → 2MgO। ৪৮g এর জন্য ৩২g, তাহলে 24g এর জন্য",
+      "questionNo": 9
+    },
+    {
+      "id": "chapter-06-split-04-q10",
+      "questionText": "32g সালফারকে অক্সিজেনে দহন করলে কত গ্রাম সালফার ডাইঅক্সাইড (SO₂) উৎপন্ন হয়?",
+      "optionA": "৩২ গ্রাম",
+      "optionB": "৬৪ গ্রাম",
+      "optionC": "৯৬ গ্রাম",
+      "optionD": "১৬ গ্রাম",
+      "correctOption": "B",
+      "explanation": "সঠিক উত্তর: B (৬৪ গ্রাম)। ব্যাখ্যা: S (৩২g) + O₂ → SO₂ (৬৪g)।",
+      "questionNo": 10
+    },
+    {
+      "id": "chapter-06-split-04-q11",
+      "questionText": "১ মোল নাইট্রোজেন গ্যাস (N₂) পর্যাপ্ত হাইড্রোজেনের সাথে বিক্রিয়া করে কত মোল অ্যামোনিয়া (NH₃) উৎপন্ন করে?",
+      "optionA": "১ মোল",
+      "optionB": "২ মোল",
+      "optionC": "৩ মোল",
+      "optionD": "৪ মোল",
+      "correctOption": "B",
+      "explanation": "সঠিক উত্তর: B (২ মোল)। ব্যাখ্যা: N₂ + 3H₂ → 2NH₃। ১ মোল N₂ থেকে ২ মোল NH₃ উৎপন্ন হয়।",
+      "questionNo": 11
+    },
+    {
+      "id": "chapter-06-split-04-q12",
+      "questionText": "৩৬ গ্রাম পানি তৈরি করতে কত গ্রাম হাইড্রোজেন গ্যাস প্রয়োজন?",
+      "optionA": "২ গ্রাম",
+      "optionB": "৪ গ্রাম",
+      "optionC": "৮ গ্রাম",
+      "optionD": "১৬ গ্রাম",
+      "correctOption": "B",
+      "explanation": "সঠিক উত্তর: B (৪ গ্রাম)। ব্যাখ্যা: 2H₂(৪g) + O₂ → 2H₂O(৩৬g)। ৩৬g পানির জন্য ৪g H₂ প্রয়োজন।",
+      "questionNo": 12
+    },
+    {
+      "id": "chapter-06-split-04-q13",
+      "questionText": "পটাশিয়াম ক্লোরেট (KClO₃) কে উত্তপ্ত করলে কোন গ্যাস উৎপন্ন হয়?",
+      "optionA": "ক্লোরিন",
+      "optionB": "হাইড্রোজেন",
+      "optionC": "অক্সিজেন",
+      "optionD": "কার্বন ডাইঅক্সাইড",
+      "correctOption": "C",
+      "explanation": "সঠিক উত্তর: C (অক্সিজেন)। ব্যাখ্যা: 2KClO₃ → 2KCl + 3O₂।",
+      "questionNo": 13
+    },
+    {
+      "id": "chapter-06-split-04-q14",
+      "questionText": "১৬ গ্রাম মিথেনকে (CH₄) সম্পূর্ণ দহন করলে কত গ্রাম CO₂ উৎপন্ন হয়?",
+      "optionA": "২২ গ্রাম",
+      "optionB": "৪৪ গ্রাম",
+      "optionC": "৮৮ গ্রাম",
+      "optionD": "১৬ গ্রাম",
+      "correctOption": "B",
+      "explanation": "সঠিক উত্তর: B (৪৪ গ্রাম)। ব্যাখ্যা: CH₄(১৬g) + 2O₂ → CO₂(৪৪g) + 2H₂O। ১৬g CH₄ থেকে ৪৪g CO₂ পাওয়া",
+      "questionNo": 14
+    },
+    {
+      "id": "chapter-06-split-04-q15",
+      "questionText": "৪০ গ্রাম সোডিয়াম হাইড্রোক্সাইডকে (NaOH) সম্পূর্ণ প্রশমিত করতে কত গ্রাম HCl প্রয়োজন?",
+      "optionA": "৭৩ গ্রাম",
+      "optionB": "৩৬.৫ গ্রাম",
+      "optionC": "১৮.২৫ গ্রাম",
+      "optionD": "৪০ গ্রাম",
+      "correctOption": "B",
+      "explanation": "সঠিক উত্তর: B (৩৬.৫ গ্রাম)। ব্যাখ্যা: NaOH(৪০g) + HCl(৩৬.৫g) → NaCl + H₂O। ১ মোল NaOH প্রশমনে ১ মোল",
+      "questionNo": 15
+    },
+    {
+      "id": "chapter-06-split-04-q16",
+      "questionText": "৫৬ গ্রাম আয়রন (Fe) কত গ্রাম সালফারের সাথে বিক্রিয়া করে FeS তৈরি করে?",
+      "optionA": "১৬ গ্রাম",
+      "optionB": "৩২ গ্রাম",
+      "optionC": "৬৪ গ্রাম",
+      "optionD": "৫৬ গ্রাম",
+      "correctOption": "B",
+      "explanation": "সঠিক উত্তর: B (৩২ গ্রাম)। ব্যাখ্যা: Fe(৫৬g) + S(৩২g) → FeS।",
+      "questionNo": 16
+    },
+    {
+      "id": "chapter-06-split-04-q17",
+      "questionText": "রাসায়নিক বিক্রিয়ায় কোনটি সংরক্ষিত থাকে?",
+      "optionA": "মোল সংখ্যা",
+      "optionB": "আয়তন",
+      "optionC": "মোট ভর",
+      "optionD": "অণুর সংখ্যা",
+      "correctOption": "C",
+      "explanation": "সঠিক উত্তর: C (মোট ভর)। ব্যাখ্যা: ভরের নিত্যতা সূত্র অনুযায়ী বিক্রিয়ক ও উৎপাদের মোট ভর সর্বদা",
+      "questionNo": 17
+    },
+    {
+      "id": "chapter-06-split-04-q18",
+      "questionText": "5g CaCO₃ কে উত্তপ্ত করলে STP তে কত আয়তনের CO₂ গ্যাস উৎপন্ন হবে?",
+      "optionA": "১.১২ L",
+      "optionB": "২.২৪ L",
+      "optionC": "৫.৬ L",
+      "optionD": "২২.৪ L",
+      "correctOption": "A",
+      "explanation": "সঠিক উত্তর: A (১.১২ L)। ব্যাখ্যা: ১০০g CaCO₃ থেকে ২২.৪L CO₂ পাওয়া যায়। 5g থেকে (২২.৪/১০০)×৫ =",
+      "questionNo": 18
+    },
+    {
+      "id": "chapter-06-split-04-q19",
+      "questionText": "১ মোল মিথেন (CH₄) গ্যাসে সম্পূর্ণ দহনের জন্য STP তে কত আয়তন O₂ গ্যাস প্রয়োজন?",
+      "optionA": "২২.৪ L",
+      "optionB": "৪৪.৮ L",
+      "optionC": "১১২ L",
+      "optionD": "৬৭.২ L",
+      "correctOption": "B",
+      "explanation": "সঠিক উত্তর: B (৪৪.৮ L)। ব্যাখ্যা: CH₄ + 2O₂ → CO₂ + 2H₂O। ১ মোলের জন্য ২ মোল O₂ লাগে, যার আয়তন ২",
+      "questionNo": 19
+    },
+    {
+      "id": "chapter-06-split-04-q20",
+      "questionText": "১২ গ্রাম কার্বনকে পোড়ালে প্রমাণ অবস্থায় কত আয়তন কার্বন ডাইঅক্সাইড উৎপন্ন হবে?",
+      "optionA": "১১.২ L",
+      "optionB": "২২.৪ L",
+      "optionC": "৪৪.৮ L",
+      "optionD": "৫.৬ L",
+      "correctOption": "B",
+      "explanation": "সঠিক উত্তর: B (২২.৪ L)। ব্যাখ্যা: C(১২g) + O₂ → CO₂(১ মোল বা ২২.৪L)।",
+      "questionNo": 20
+    },
+    {
+      "id": "chapter-06-split-04-q21",
+      "questionText": "৮ গ্রাম নাইট্রোজেন গ্যাসের STP তে আয়তন কত?",
+      "optionA": "২.২৪ L",
+      "optionB": "২২.৪ L",
+      "optionC": "১.১২ L",
+      "optionD": "৫.৬ L",
+      "correctOption": "A",
+      "explanation": "সঠিক উত্তর: A (২.২৪ L)। ব্যাখ্যা: N₂ এর ভর ২৮g, যার আয়তন ২২.৪L। ২.৮g এর আয়তন ২.২৪L।",
+      "questionNo": 21
+    },
+    {
+      "id": "chapter-06-split-04-q22",
+      "questionText": "১৭ গ্রাম অ্যামোনিয়া (NH₃) গ্যাসের STP তে আয়তন কত?",
+      "optionA": "১১.২ L",
+      "optionB": "২২.৪ L",
+      "optionC": "৪৪.৮ L",
+      "optionD": "৫.৬ L",
+      "correctOption": "B",
+      "explanation": "সঠিক উত্তর: B (২২.৪ L)। ব্যাখ্যা: NH₃ এর আণবিক ভর ১৭। ১৭ গ্রাম = ১ মোল = ২২.৪ লিটার।",
+      "questionNo": 22
+    },
+    {
+      "id": "chapter-06-split-04-q23",
+      "questionText": "প্রমাণ অবস্থায় ৫.৬ লিটার গ্যাসে কত মোল থাকে?",
+      "optionA": "০.২৫ মোল",
+      "optionB": "০.৫ মোল",
+      "optionC": "১ মোল",
+      "optionD": "৪ মোল",
+      "correctOption": "A",
+      "explanation": "সঠিক উত্তর: A (০.২৫ মোল)। ব্যাখ্যা: মোল = ৫.৬ / ২২.৪ = ০.২৫ মোল।",
+      "questionNo": 23
+    },
+    {
+      "id": "chapter-06-split-04-q24",
+      "questionText": "H₂ + Cl₂ → 2HCl বিক্রিয়ায় ১ লিটার H₂ গ্যাস থেকে কত লিটার HCl গ্যাস উৎপন্ন হবে? (সমচাপ ও তাপে)",
+      "optionA": "১ L",
+      "optionB": "২ L",
+      "optionC": "০.৫ L",
+      "optionD": "৪ L",
+      "correctOption": "B",
+      "explanation": "সঠিক উত্তর: B (২ L)। ব্যাখ্যা: গ্যালুসাকের সূত্রমতে, ১ আয়তন H₂ থেকে ২ আয়তন HCl পাওয়া যায়। তাই",
+      "questionNo": 24
+    },
+    {
+      "id": "chapter-06-split-04-q25",
+      "questionText": "10g CaCO₃ এর সাথে লঘু HCl এর বিক্রিয়ায় STP তে কত আয়তন CO₂ গ্যাস পাওয়া যাবে?",
+      "optionA": "১.১২ L",
+      "optionB": "২.২৪ L",
+      "optionC": "১১.২ L",
+      "optionD": "২২.৪ L",
+      "correctOption": "B",
+      "explanation": "সঠিক উত্তর: B (২.২৪ L)। ব্যাখ্যা: CaCO₃ + 2HCl → CaCl₂ + CO₂ + H₂O। ১০০g থেকে ২২.৪L। 10g থেকে",
+      "questionNo": 25
+    }
+  ]
+}

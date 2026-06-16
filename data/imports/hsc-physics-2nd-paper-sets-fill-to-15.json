@@ -1,0 +1,3801 @@
+{
+  "level": "HSC",
+  "datasetType": "paperwise_model_test_fill_to_15",
+  "papers": [
+    {
+      "paperName": "HSC Physics 2nd",
+      "subject": "physics-2nd",
+      "currentPaperSet": 10,
+      "generatedFromSet": "11",
+      "generatedToSet": "15",
+      "generatedSetsCount": 5,
+      "sets": [
+        {
+          "id": "hsc-physics-2nd-paper-set-11",
+          "title": "HSC Physics 2nd Paper-wise Model Test Set 11",
+          "setNo": "11",
+          "questions": [
+            {
+              "id": "hsc-physics-2nd-paper-set-11-q01",
+              "question": "একটি বস্তুর আদিবেগ 13 m/s এবং শেষবেগ 16 m/s। সময় 3 s হলে অতিক্রান্ত দূরত্ব কত?",
+              "options": [
+                {
+                  "text": "48 m",
+                  "label": "ক"
+                },
+                {
+                  "text": "9 m",
+                  "label": "খ"
+                },
+                {
+                  "text": "43.5 m",
+                  "label": "গ"
+                },
+                {
+                  "text": "39 m",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "গ",
+              "shortSolution": "সঠিক উত্তর: গ। $s=\\frac{u+v}{2}t$ সূত্র ব্যবহার করলে দূরত্ব পাওয়া যায়।",
+              "paper": "HSC Physics 2nd",
+              "subject": "physics-2nd",
+              "setType": "paper-wise-model-test",
+              "topic": "গতি",
+              "difficulty": "Easy",
+              "probability": "Mega Hot"
+            },
+            {
+              "id": "hsc-physics-2nd-paper-set-11-q02",
+              "question": "14 kg ভরের বস্তুর উপর 56 N বল প্রয়োগ করলে ত্বরণ কত হবে?",
+              "options": [
+                {
+                  "text": "56 m/s^2",
+                  "label": "ক"
+                },
+                {
+                  "text": "4 m/s^2",
+                  "label": "খ"
+                },
+                {
+                  "text": "18 m/s^2",
+                  "label": "গ"
+                },
+                {
+                  "text": "14 m/s^2",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "খ",
+              "shortSolution": "সঠিক উত্তর: খ। $F=ma$ তাই $a=F/m$।",
+              "paper": "HSC Physics 2nd",
+              "subject": "physics-2nd",
+              "setType": "paper-wise-model-test",
+              "topic": "নিউটনের সূত্র",
+              "difficulty": "Easy",
+              "probability": "Very Hot"
+            },
+            {
+              "id": "hsc-physics-2nd-paper-set-11-q03",
+              "question": "সমমানের দুটি রোধ 30 Ω ও 30 Ω সমান্তরালে যুক্ত হলে তুল্য রোধ কত?",
+              "options": [
+                {
+                  "text": "60 Ω",
+                  "label": "ক"
+                },
+                {
+                  "text": "15 Ω",
+                  "label": "খ"
+                },
+                {
+                  "text": "32 Ω",
+                  "label": "গ"
+                },
+                {
+                  "text": "30 Ω",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "খ",
+              "shortSolution": "সঠিক উত্তর: খ। সমান দুটি রোধ parallel হলে $R_{eq}=R/2$।",
+              "paper": "HSC Physics 2nd",
+              "subject": "physics-2nd",
+              "setType": "paper-wise-model-test",
+              "topic": "বিদ্যুৎ",
+              "difficulty": "Easy",
+              "probability": "Board Favourite"
+            },
+            {
+              "id": "hsc-physics-2nd-paper-set-11-q04",
+              "question": "কম্পাঙ্ক 16 Hz এবং তরঙ্গদৈর্ঘ্য 6 m হলে তরঙ্গবেগ কত?",
+              "options": [
+                {
+                  "text": "0.375 m/s",
+                  "label": "ক"
+                },
+                {
+                  "text": "2.66667 m/s",
+                  "label": "খ"
+                },
+                {
+                  "text": "96 m/s",
+                  "label": "গ"
+                },
+                {
+                  "text": "22 m/s",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "গ",
+              "shortSolution": "সঠিক উত্তর: গ। $v=f\\lambda$।",
+              "paper": "HSC Physics 2nd",
+              "subject": "physics-2nd",
+              "setType": "paper-wise-model-test",
+              "topic": "তরঙ্গ",
+              "difficulty": "Easy",
+              "probability": "Conceptual Trap"
+            },
+            {
+              "id": "hsc-physics-2nd-paper-set-11-q05",
+              "question": "12 C আধানকে 7 V বিভব পার্থক্যে সরালে কাজ কত?",
+              "options": [
+                {
+                  "text": "84 J",
+                  "label": "ক"
+                },
+                {
+                  "text": "0.583333 J",
+                  "label": "খ"
+                },
+                {
+                  "text": "1.71429 J",
+                  "label": "গ"
+                },
+                {
+                  "text": "19 J",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "ক",
+              "shortSolution": "সঠিক উত্তর: ক। $W=qV$।",
+              "paper": "HSC Physics 2nd",
+              "subject": "physics-2nd",
+              "setType": "paper-wise-model-test",
+              "topic": "তড়িৎ বিভব",
+              "difficulty": "Easy",
+              "probability": "Mega Hot"
+            },
+            {
+              "id": "hsc-physics-2nd-paper-set-11-q06",
+              "question": "আলোর বেগ শূন্য মাধ্যমে প্রায় কত?",
+              "options": [
+                {
+                  "text": "$3\\times10^6$ m/s",
+                  "label": "ক"
+                },
+                {
+                  "text": "$9.8$ m/s",
+                  "label": "খ"
+                },
+                {
+                  "text": "$3\\times10^5$ m/s",
+                  "label": "গ"
+                },
+                {
+                  "text": "$3\\times10^8$ m/s",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "ঘ",
+              "shortSolution": "সঠিক উত্তর: ঘ। শূন্য মাধ্যমে আলোর বেগ প্রায় $3\\times10^8$ m/s।",
+              "paper": "HSC Physics 2nd",
+              "subject": "physics-2nd",
+              "setType": "paper-wise-model-test",
+              "topic": "আলোকবিজ্ঞান",
+              "difficulty": "Easy",
+              "probability": "Very Hot"
+            },
+            {
+              "id": "hsc-physics-2nd-paper-set-11-q07",
+              "question": "লেন্সের ক্ষমতার SI একক কী?",
+              "options": [
+                {
+                  "text": "Joule",
+                  "label": "ক"
+                },
+                {
+                  "text": "Diopter",
+                  "label": "খ"
+                },
+                {
+                  "text": "Newton",
+                  "label": "গ"
+                },
+                {
+                  "text": "Tesla",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "খ",
+              "shortSolution": "সঠিক উত্তর: খ। লেন্সের ক্ষমতার একক diopter।",
+              "paper": "HSC Physics 2nd",
+              "subject": "physics-2nd",
+              "setType": "paper-wise-model-test",
+              "topic": "লেন্স",
+              "difficulty": "Easy",
+              "probability": "Board Favourite"
+            },
+            {
+              "id": "hsc-physics-2nd-paper-set-11-q08",
+              "question": "15 kg ভরের বস্তু 3 m উচ্চতায় তুললে বিভব শক্তি কত? ধরা হলো $g=10 m/s^2$।",
+              "options": [
+                {
+                  "text": "45 J",
+                  "label": "ক"
+                },
+                {
+                  "text": "30 J",
+                  "label": "খ"
+                },
+                {
+                  "text": "450 J",
+                  "label": "গ"
+                },
+                {
+                  "text": "150 J",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "গ",
+              "shortSolution": "সঠিক উত্তর: গ। $E_p=mgh$।",
+              "paper": "HSC Physics 2nd",
+              "subject": "physics-2nd",
+              "setType": "paper-wise-model-test",
+              "topic": "শক্তি",
+              "difficulty": "Medium",
+              "probability": "Conceptual Trap"
+            },
+            {
+              "id": "hsc-physics-2nd-paper-set-11-q09",
+              "question": "i, ii, iii বিবেচনা করো: (i) বল ভেক্টর রাশি (ii) কাজ স্কেলার রাশি (iii) ত্বরণ স্কেলার রাশি। কোনটি সঠিক?",
+              "options": [
+                {
+                  "text": "i, ii ও iii",
+                  "label": "ক"
+                },
+                {
+                  "text": "ii ও iii",
+                  "label": "খ"
+                },
+                {
+                  "text": "i ও iii",
+                  "label": "গ"
+                },
+                {
+                  "text": "i ও ii",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "ঘ",
+              "shortSolution": "সঠিক উত্তর: ঘ। ত্বরণ ভেক্টর রাশি, তাই iii ভুল।",
+              "paper": "HSC Physics 2nd",
+              "subject": "physics-2nd",
+              "setType": "paper-wise-model-test",
+              "topic": "ভৌত রাশি",
+              "difficulty": "Medium",
+              "probability": "Mega Hot"
+            },
+            {
+              "id": "hsc-physics-2nd-paper-set-11-q10",
+              "question": "120 W ক্ষমতার যন্ত্র 5 s চললে শক্তি ব্যয় কত?",
+              "options": [
+                {
+                  "text": "125 J",
+                  "label": "ক"
+                },
+                {
+                  "text": "24 J",
+                  "label": "খ"
+                },
+                {
+                  "text": "600 J",
+                  "label": "গ"
+                },
+                {
+                  "text": "0.0416667 J",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "গ",
+              "shortSolution": "সঠিক উত্তর: গ। $E=Pt$।",
+              "paper": "HSC Physics 2nd",
+              "subject": "physics-2nd",
+              "setType": "paper-wise-model-test",
+              "topic": "ক্ষমতা",
+              "difficulty": "Medium",
+              "probability": "Very Hot"
+            },
+            {
+              "id": "hsc-physics-2nd-paper-set-11-q11",
+              "question": "সরল ছন্দিত গতিতে পুনঃস্থাপন বল কিসের সমানুপাতিক?",
+              "options": [
+                {
+                  "text": "সরণ",
+                  "label": "ক"
+                },
+                {
+                  "text": "সময়",
+                  "label": "খ"
+                },
+                {
+                  "text": "ভর",
+                  "label": "গ"
+                },
+                {
+                  "text": "বেগ",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "ক",
+              "shortSolution": "সঠিক উত্তর: ক। SHM-এ $F\\propto -x$।",
+              "paper": "HSC Physics 2nd",
+              "subject": "physics-2nd",
+              "setType": "paper-wise-model-test",
+              "topic": "সরল ছন্দিত গতি",
+              "difficulty": "Medium",
+              "probability": "Board Favourite"
+            },
+            {
+              "id": "hsc-physics-2nd-paper-set-11-q12",
+              "question": "চৌম্বক ক্ষেত্রের SI একক কোনটি?",
+              "options": [
+                {
+                  "text": "Newton",
+                  "label": "ক"
+                },
+                {
+                  "text": "Ohm",
+                  "label": "খ"
+                },
+                {
+                  "text": "Tesla",
+                  "label": "গ"
+                },
+                {
+                  "text": "Volt",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "গ",
+              "shortSolution": "সঠিক উত্তর: গ। চৌম্বক ফ্লাক্স ঘনত্বের একক Tesla।",
+              "paper": "HSC Physics 2nd",
+              "subject": "physics-2nd",
+              "setType": "paper-wise-model-test",
+              "topic": "চৌম্বকত্ব",
+              "difficulty": "Medium",
+              "probability": "Conceptual Trap"
+            },
+            {
+              "id": "hsc-physics-2nd-paper-set-11-q13",
+              "question": "একটি বস্তুর আদিবেগ 15 m/s এবং শেষবেগ 23 m/s। সময় 8 s হলে অতিক্রান্ত দূরত্ব কত?",
+              "options": [
+                {
+                  "text": "152 m",
+                  "label": "ক"
+                },
+                {
+                  "text": "184 m",
+                  "label": "খ"
+                },
+                {
+                  "text": "64 m",
+                  "label": "গ"
+                },
+                {
+                  "text": "120 m",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "ক",
+              "shortSolution": "সঠিক উত্তর: ক। $s=\\frac{u+v}{2}t$ সূত্র ব্যবহার করলে দূরত্ব পাওয়া যায়।",
+              "paper": "HSC Physics 2nd",
+              "subject": "physics-2nd",
+              "setType": "paper-wise-model-test",
+              "topic": "গতি",
+              "difficulty": "Medium",
+              "probability": "Mega Hot"
+            },
+            {
+              "id": "hsc-physics-2nd-paper-set-11-q14",
+              "question": "16 kg ভরের বস্তুর উপর 32 N বল প্রয়োগ করলে ত্বরণ কত হবে?",
+              "options": [
+                {
+                  "text": "32 m/s^2",
+                  "label": "ক"
+                },
+                {
+                  "text": "18 m/s^2",
+                  "label": "খ"
+                },
+                {
+                  "text": "2 m/s^2",
+                  "label": "গ"
+                },
+                {
+                  "text": "16 m/s^2",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "গ",
+              "shortSolution": "সঠিক উত্তর: গ। $F=ma$ তাই $a=F/m$।",
+              "paper": "HSC Physics 2nd",
+              "subject": "physics-2nd",
+              "setType": "paper-wise-model-test",
+              "topic": "নিউটনের সূত্র",
+              "difficulty": "Medium",
+              "probability": "Very Hot"
+            },
+            {
+              "id": "hsc-physics-2nd-paper-set-11-q15",
+              "question": "সমমানের দুটি রোধ 24 Ω ও 24 Ω সমান্তরালে যুক্ত হলে তুল্য রোধ কত?",
+              "options": [
+                {
+                  "text": "12 Ω",
+                  "label": "ক"
+                },
+                {
+                  "text": "24 Ω",
+                  "label": "খ"
+                },
+                {
+                  "text": "48 Ω",
+                  "label": "গ"
+                },
+                {
+                  "text": "26 Ω",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "ক",
+              "shortSolution": "সঠিক উত্তর: ক। সমান দুটি রোধ parallel হলে $R_{eq}=R/2$।",
+              "paper": "HSC Physics 2nd",
+              "subject": "physics-2nd",
+              "setType": "paper-wise-model-test",
+              "topic": "বিদ্যুৎ",
+              "difficulty": "Hard",
+              "probability": "Board Favourite"
+            },
+            {
+              "id": "hsc-physics-2nd-paper-set-11-q16",
+              "question": "কম্পাঙ্ক 13 Hz এবং তরঙ্গদৈর্ঘ্য 4 m হলে তরঙ্গবেগ কত?",
+              "options": [
+                {
+                  "text": "52 m/s",
+                  "label": "ক"
+                },
+                {
+                  "text": "0.307692 m/s",
+                  "label": "খ"
+                },
+                {
+                  "text": "17 m/s",
+                  "label": "গ"
+                },
+                {
+                  "text": "3.25 m/s",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "ক",
+              "shortSolution": "সঠিক উত্তর: ক। $v=f\\lambda$।",
+              "paper": "HSC Physics 2nd",
+              "subject": "physics-2nd",
+              "setType": "paper-wise-model-test",
+              "topic": "তরঙ্গ",
+              "difficulty": "Hard",
+              "probability": "Conceptual Trap"
+            },
+            {
+              "id": "hsc-physics-2nd-paper-set-11-q17",
+              "question": "14 C আধানকে 5 V বিভব পার্থক্যে সরালে কাজ কত?",
+              "options": [
+                {
+                  "text": "0.357143 J",
+                  "label": "ক"
+                },
+                {
+                  "text": "70 J",
+                  "label": "খ"
+                },
+                {
+                  "text": "19 J",
+                  "label": "গ"
+                },
+                {
+                  "text": "2.8 J",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "খ",
+              "shortSolution": "সঠিক উত্তর: খ। $W=qV$।",
+              "paper": "HSC Physics 2nd",
+              "subject": "physics-2nd",
+              "setType": "paper-wise-model-test",
+              "topic": "তড়িৎ বিভব",
+              "difficulty": "Hard",
+              "probability": "Mega Hot"
+            },
+            {
+              "id": "hsc-physics-2nd-paper-set-11-q18",
+              "question": "আলোর বেগ শূন্য মাধ্যমে প্রায় কত?",
+              "options": [
+                {
+                  "text": "$3\\times10^5$ m/s",
+                  "label": "ক"
+                },
+                {
+                  "text": "$9.8$ m/s",
+                  "label": "খ"
+                },
+                {
+                  "text": "$3\\times10^6$ m/s",
+                  "label": "গ"
+                },
+                {
+                  "text": "$3\\times10^8$ m/s",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "ঘ",
+              "shortSolution": "সঠিক উত্তর: ঘ। শূন্য মাধ্যমে আলোর বেগ প্রায় $3\\times10^8$ m/s।",
+              "paper": "HSC Physics 2nd",
+              "subject": "physics-2nd",
+              "setType": "paper-wise-model-test",
+              "topic": "আলোকবিজ্ঞান",
+              "difficulty": "Hard",
+              "probability": "Very Hot"
+            },
+            {
+              "id": "hsc-physics-2nd-paper-set-11-q19",
+              "question": "লেন্সের ক্ষমতার SI একক কী?",
+              "options": [
+                {
+                  "text": "Diopter",
+                  "label": "ক"
+                },
+                {
+                  "text": "Newton",
+                  "label": "খ"
+                },
+                {
+                  "text": "Joule",
+                  "label": "গ"
+                },
+                {
+                  "text": "Tesla",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "ক",
+              "shortSolution": "সঠিক উত্তর: ক। লেন্সের ক্ষমতার একক diopter।",
+              "paper": "HSC Physics 2nd",
+              "subject": "physics-2nd",
+              "setType": "paper-wise-model-test",
+              "topic": "লেন্স",
+              "difficulty": "Hard",
+              "probability": "Board Favourite"
+            },
+            {
+              "id": "hsc-physics-2nd-paper-set-11-q20",
+              "question": "12 kg ভরের বস্তু 8 m উচ্চতায় তুললে বিভব শক্তি কত? ধরা হলো $g=10 m/s^2$।",
+              "options": [
+                {
+                  "text": "80 J",
+                  "label": "ক"
+                },
+                {
+                  "text": "120 J",
+                  "label": "খ"
+                },
+                {
+                  "text": "96 J",
+                  "label": "গ"
+                },
+                {
+                  "text": "960 J",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "ঘ",
+              "shortSolution": "সঠিক উত্তর: ঘ। $E_p=mgh$।",
+              "paper": "HSC Physics 2nd",
+              "subject": "physics-2nd",
+              "setType": "paper-wise-model-test",
+              "topic": "শক্তি",
+              "difficulty": "Hard",
+              "probability": "Conceptual Trap"
+            },
+            {
+              "id": "hsc-physics-2nd-paper-set-11-q21",
+              "question": "i, ii, iii বিবেচনা করো: (i) বল ভেক্টর রাশি (ii) কাজ স্কেলার রাশি (iii) ত্বরণ স্কেলার রাশি। কোনটি সঠিক?",
+              "options": [
+                {
+                  "text": "ii ও iii",
+                  "label": "ক"
+                },
+                {
+                  "text": "i, ii ও iii",
+                  "label": "খ"
+                },
+                {
+                  "text": "i ও ii",
+                  "label": "গ"
+                },
+                {
+                  "text": "i ও iii",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "গ",
+              "shortSolution": "সঠিক উত্তর: গ। ত্বরণ ভেক্টর রাশি, তাই iii ভুল।",
+              "paper": "HSC Physics 2nd",
+              "subject": "physics-2nd",
+              "setType": "paper-wise-model-test",
+              "topic": "ভৌত রাশি",
+              "difficulty": "Hard",
+              "probability": "Mega Hot"
+            },
+            {
+              "id": "hsc-physics-2nd-paper-set-11-q22",
+              "question": "140 W ক্ষমতার যন্ত্র 3 s চললে শক্তি ব্যয় কত?",
+              "options": [
+                {
+                  "text": "46.6667 J",
+                  "label": "ক"
+                },
+                {
+                  "text": "0.0214286 J",
+                  "label": "খ"
+                },
+                {
+                  "text": "420 J",
+                  "label": "গ"
+                },
+                {
+                  "text": "143 J",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "গ",
+              "shortSolution": "সঠিক উত্তর: গ। $E=Pt$।",
+              "paper": "HSC Physics 2nd",
+              "subject": "physics-2nd",
+              "setType": "paper-wise-model-test",
+              "topic": "ক্ষমতা",
+              "difficulty": "Board Standard",
+              "probability": "Very Hot"
+            },
+            {
+              "id": "hsc-physics-2nd-paper-set-11-q23",
+              "question": "সরল ছন্দিত গতিতে পুনঃস্থাপন বল কিসের সমানুপাতিক?",
+              "options": [
+                {
+                  "text": "সরণ",
+                  "label": "ক"
+                },
+                {
+                  "text": "ভর",
+                  "label": "খ"
+                },
+                {
+                  "text": "বেগ",
+                  "label": "গ"
+                },
+                {
+                  "text": "সময়",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "ক",
+              "shortSolution": "সঠিক উত্তর: ক। SHM-এ $F\\propto -x$।",
+              "paper": "HSC Physics 2nd",
+              "subject": "physics-2nd",
+              "setType": "paper-wise-model-test",
+              "topic": "সরল ছন্দিত গতি",
+              "difficulty": "Board Standard",
+              "probability": "Board Favourite"
+            },
+            {
+              "id": "hsc-physics-2nd-paper-set-11-q24",
+              "question": "চৌম্বক ক্ষেত্রের SI একক কোনটি?",
+              "options": [
+                {
+                  "text": "Ohm",
+                  "label": "ক"
+                },
+                {
+                  "text": "Volt",
+                  "label": "খ"
+                },
+                {
+                  "text": "Tesla",
+                  "label": "গ"
+                },
+                {
+                  "text": "Newton",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "গ",
+              "shortSolution": "সঠিক উত্তর: গ। চৌম্বক ফ্লাক্স ঘনত্বের একক Tesla।",
+              "paper": "HSC Physics 2nd",
+              "subject": "physics-2nd",
+              "setType": "paper-wise-model-test",
+              "topic": "চৌম্বকত্ব",
+              "difficulty": "Board Standard",
+              "probability": "Conceptual Trap"
+            },
+            {
+              "id": "hsc-physics-2nd-paper-set-11-q25",
+              "question": "একটি বস্তুর আদিবেগ 12 m/s এবং শেষবেগ 18 m/s। সময় 6 s হলে অতিক্রান্ত দূরত্ব কত?",
+              "options": [
+                {
+                  "text": "36 m",
+                  "label": "ক"
+                },
+                {
+                  "text": "72 m",
+                  "label": "খ"
+                },
+                {
+                  "text": "108 m",
+                  "label": "গ"
+                },
+                {
+                  "text": "90 m",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "ঘ",
+              "shortSolution": "সঠিক উত্তর: ঘ। $s=\\frac{u+v}{2}t$ সূত্র ব্যবহার করলে দূরত্ব পাওয়া যায়।",
+              "paper": "HSC Physics 2nd",
+              "subject": "physics-2nd",
+              "setType": "paper-wise-model-test",
+              "topic": "গতি",
+              "difficulty": "Board Standard",
+              "probability": "Mega Hot"
+            }
+          ]
+        },
+        {
+          "id": "hsc-physics-2nd-paper-set-12",
+          "title": "HSC Physics 2nd Paper-wise Model Test Set 12",
+          "setNo": "12",
+          "questions": [
+            {
+              "id": "hsc-physics-2nd-paper-set-12-q01",
+              "question": "একটি বস্তুর আদিবেগ 14 m/s এবং শেষবেগ 17 m/s। সময় 3 s হলে অতিক্রান্ত দূরত্ব কত?",
+              "options": [
+                {
+                  "text": "51 m",
+                  "label": "ক"
+                },
+                {
+                  "text": "42 m",
+                  "label": "খ"
+                },
+                {
+                  "text": "46.5 m",
+                  "label": "গ"
+                },
+                {
+                  "text": "9 m",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "গ",
+              "shortSolution": "সঠিক উত্তর: গ। $s=\\frac{u+v}{2}t$ সূত্র ব্যবহার করলে দূরত্ব পাওয়া যায়।",
+              "paper": "HSC Physics 2nd",
+              "subject": "physics-2nd",
+              "setType": "paper-wise-model-test",
+              "topic": "গতি",
+              "difficulty": "Easy",
+              "probability": "Very Hot"
+            },
+            {
+              "id": "hsc-physics-2nd-paper-set-12-q02",
+              "question": "15 kg ভরের বস্তুর উপর 60 N বল প্রয়োগ করলে ত্বরণ কত হবে?",
+              "options": [
+                {
+                  "text": "60 m/s^2",
+                  "label": "ক"
+                },
+                {
+                  "text": "4 m/s^2",
+                  "label": "খ"
+                },
+                {
+                  "text": "19 m/s^2",
+                  "label": "গ"
+                },
+                {
+                  "text": "15 m/s^2",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "খ",
+              "shortSolution": "সঠিক উত্তর: খ। $F=ma$ তাই $a=F/m$।",
+              "paper": "HSC Physics 2nd",
+              "subject": "physics-2nd",
+              "setType": "paper-wise-model-test",
+              "topic": "নিউটনের সূত্র",
+              "difficulty": "Easy",
+              "probability": "Board Favourite"
+            },
+            {
+              "id": "hsc-physics-2nd-paper-set-12-q03",
+              "question": "সমমানের দুটি রোধ 32 Ω ও 32 Ω সমান্তরালে যুক্ত হলে তুল্য রোধ কত?",
+              "options": [
+                {
+                  "text": "64 Ω",
+                  "label": "ক"
+                },
+                {
+                  "text": "32 Ω",
+                  "label": "খ"
+                },
+                {
+                  "text": "34 Ω",
+                  "label": "গ"
+                },
+                {
+                  "text": "16 Ω",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "ঘ",
+              "shortSolution": "সঠিক উত্তর: ঘ। সমান দুটি রোধ parallel হলে $R_{eq}=R/2$।",
+              "paper": "HSC Physics 2nd",
+              "subject": "physics-2nd",
+              "setType": "paper-wise-model-test",
+              "topic": "বিদ্যুৎ",
+              "difficulty": "Easy",
+              "probability": "Conceptual Trap"
+            },
+            {
+              "id": "hsc-physics-2nd-paper-set-12-q04",
+              "question": "কম্পাঙ্ক 17 Hz এবং তরঙ্গদৈর্ঘ্য 6 m হলে তরঙ্গবেগ কত?",
+              "options": [
+                {
+                  "text": "0.352941 m/s",
+                  "label": "ক"
+                },
+                {
+                  "text": "102 m/s",
+                  "label": "খ"
+                },
+                {
+                  "text": "23 m/s",
+                  "label": "গ"
+                },
+                {
+                  "text": "2.83333 m/s",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "খ",
+              "shortSolution": "সঠিক উত্তর: খ। $v=f\\lambda$।",
+              "paper": "HSC Physics 2nd",
+              "subject": "physics-2nd",
+              "setType": "paper-wise-model-test",
+              "topic": "তরঙ্গ",
+              "difficulty": "Easy",
+              "probability": "Mega Hot"
+            },
+            {
+              "id": "hsc-physics-2nd-paper-set-12-q05",
+              "question": "13 C আধানকে 7 V বিভব পার্থক্যে সরালে কাজ কত?",
+              "options": [
+                {
+                  "text": "91 J",
+                  "label": "ক"
+                },
+                {
+                  "text": "1.85714 J",
+                  "label": "খ"
+                },
+                {
+                  "text": "0.538462 J",
+                  "label": "গ"
+                },
+                {
+                  "text": "20 J",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "ক",
+              "shortSolution": "সঠিক উত্তর: ক। $W=qV$।",
+              "paper": "HSC Physics 2nd",
+              "subject": "physics-2nd",
+              "setType": "paper-wise-model-test",
+              "topic": "তড়িৎ বিভব",
+              "difficulty": "Easy",
+              "probability": "Very Hot"
+            },
+            {
+              "id": "hsc-physics-2nd-paper-set-12-q06",
+              "question": "আলোর বেগ শূন্য মাধ্যমে প্রায় কত?",
+              "options": [
+                {
+                  "text": "$3\\times10^6$ m/s",
+                  "label": "ক"
+                },
+                {
+                  "text": "$3\\times10^8$ m/s",
+                  "label": "খ"
+                },
+                {
+                  "text": "$9.8$ m/s",
+                  "label": "গ"
+                },
+                {
+                  "text": "$3\\times10^5$ m/s",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "খ",
+              "shortSolution": "সঠিক উত্তর: খ। শূন্য মাধ্যমে আলোর বেগ প্রায় $3\\times10^8$ m/s।",
+              "paper": "HSC Physics 2nd",
+              "subject": "physics-2nd",
+              "setType": "paper-wise-model-test",
+              "topic": "আলোকবিজ্ঞান",
+              "difficulty": "Easy",
+              "probability": "Board Favourite"
+            },
+            {
+              "id": "hsc-physics-2nd-paper-set-12-q07",
+              "question": "লেন্সের ক্ষমতার SI একক কী?",
+              "options": [
+                {
+                  "text": "Joule",
+                  "label": "ক"
+                },
+                {
+                  "text": "Tesla",
+                  "label": "খ"
+                },
+                {
+                  "text": "Diopter",
+                  "label": "গ"
+                },
+                {
+                  "text": "Newton",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "গ",
+              "shortSolution": "সঠিক উত্তর: গ। লেন্সের ক্ষমতার একক diopter।",
+              "paper": "HSC Physics 2nd",
+              "subject": "physics-2nd",
+              "setType": "paper-wise-model-test",
+              "topic": "লেন্স",
+              "difficulty": "Easy",
+              "probability": "Conceptual Trap"
+            },
+            {
+              "id": "hsc-physics-2nd-paper-set-12-q08",
+              "question": "16 kg ভরের বস্তু 3 m উচ্চতায় তুললে বিভব শক্তি কত? ধরা হলো $g=10 m/s^2$।",
+              "options": [
+                {
+                  "text": "30 J",
+                  "label": "ক"
+                },
+                {
+                  "text": "480 J",
+                  "label": "খ"
+                },
+                {
+                  "text": "48 J",
+                  "label": "গ"
+                },
+                {
+                  "text": "160 J",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "খ",
+              "shortSolution": "সঠিক উত্তর: খ। $E_p=mgh$।",
+              "paper": "HSC Physics 2nd",
+              "subject": "physics-2nd",
+              "setType": "paper-wise-model-test",
+              "topic": "শক্তি",
+              "difficulty": "Medium",
+              "probability": "Mega Hot"
+            },
+            {
+              "id": "hsc-physics-2nd-paper-set-12-q09",
+              "question": "i, ii, iii বিবেচনা করো: (i) বল ভেক্টর রাশি (ii) কাজ স্কেলার রাশি (iii) ত্বরণ স্কেলার রাশি। কোনটি সঠিক?",
+              "options": [
+                {
+                  "text": "i, ii ও iii",
+                  "label": "ক"
+                },
+                {
+                  "text": "i ও iii",
+                  "label": "খ"
+                },
+                {
+                  "text": "ii ও iii",
+                  "label": "গ"
+                },
+                {
+                  "text": "i ও ii",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "ঘ",
+              "shortSolution": "সঠিক উত্তর: ঘ। ত্বরণ ভেক্টর রাশি, তাই iii ভুল।",
+              "paper": "HSC Physics 2nd",
+              "subject": "physics-2nd",
+              "setType": "paper-wise-model-test",
+              "topic": "ভৌত রাশি",
+              "difficulty": "Medium",
+              "probability": "Very Hot"
+            },
+            {
+              "id": "hsc-physics-2nd-paper-set-12-q10",
+              "question": "130 W ক্ষমতার যন্ত্র 5 s চললে শক্তি ব্যয় কত?",
+              "options": [
+                {
+                  "text": "26 J",
+                  "label": "ক"
+                },
+                {
+                  "text": "650 J",
+                  "label": "খ"
+                },
+                {
+                  "text": "135 J",
+                  "label": "গ"
+                },
+                {
+                  "text": "0.0384615 J",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "খ",
+              "shortSolution": "সঠিক উত্তর: খ। $E=Pt$।",
+              "paper": "HSC Physics 2nd",
+              "subject": "physics-2nd",
+              "setType": "paper-wise-model-test",
+              "topic": "ক্ষমতা",
+              "difficulty": "Medium",
+              "probability": "Board Favourite"
+            },
+            {
+              "id": "hsc-physics-2nd-paper-set-12-q11",
+              "question": "সরল ছন্দিত গতিতে পুনঃস্থাপন বল কিসের সমানুপাতিক?",
+              "options": [
+                {
+                  "text": "ভর",
+                  "label": "ক"
+                },
+                {
+                  "text": "বেগ",
+                  "label": "খ"
+                },
+                {
+                  "text": "সময়",
+                  "label": "গ"
+                },
+                {
+                  "text": "সরণ",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "ঘ",
+              "shortSolution": "সঠিক উত্তর: ঘ। SHM-এ $F\\propto -x$।",
+              "paper": "HSC Physics 2nd",
+              "subject": "physics-2nd",
+              "setType": "paper-wise-model-test",
+              "topic": "সরল ছন্দিত গতি",
+              "difficulty": "Medium",
+              "probability": "Conceptual Trap"
+            },
+            {
+              "id": "hsc-physics-2nd-paper-set-12-q12",
+              "question": "চৌম্বক ক্ষেত্রের SI একক কোনটি?",
+              "options": [
+                {
+                  "text": "Volt",
+                  "label": "ক"
+                },
+                {
+                  "text": "Tesla",
+                  "label": "খ"
+                },
+                {
+                  "text": "Ohm",
+                  "label": "গ"
+                },
+                {
+                  "text": "Newton",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "খ",
+              "shortSolution": "সঠিক উত্তর: খ। চৌম্বক ফ্লাক্স ঘনত্বের একক Tesla।",
+              "paper": "HSC Physics 2nd",
+              "subject": "physics-2nd",
+              "setType": "paper-wise-model-test",
+              "topic": "চৌম্বকত্ব",
+              "difficulty": "Medium",
+              "probability": "Mega Hot"
+            },
+            {
+              "id": "hsc-physics-2nd-paper-set-12-q13",
+              "question": "একটি বস্তুর আদিবেগ 16 m/s এবং শেষবেগ 24 m/s। সময় 8 s হলে অতিক্রান্ত দূরত্ব কত?",
+              "options": [
+                {
+                  "text": "64 m",
+                  "label": "ক"
+                },
+                {
+                  "text": "160 m",
+                  "label": "খ"
+                },
+                {
+                  "text": "192 m",
+                  "label": "গ"
+                },
+                {
+                  "text": "128 m",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "খ",
+              "shortSolution": "সঠিক উত্তর: খ। $s=\\frac{u+v}{2}t$ সূত্র ব্যবহার করলে দূরত্ব পাওয়া যায়।",
+              "paper": "HSC Physics 2nd",
+              "subject": "physics-2nd",
+              "setType": "paper-wise-model-test",
+              "topic": "গতি",
+              "difficulty": "Medium",
+              "probability": "Very Hot"
+            },
+            {
+              "id": "hsc-physics-2nd-paper-set-12-q14",
+              "question": "17 kg ভরের বস্তুর উপর 34 N বল প্রয়োগ করলে ত্বরণ কত হবে?",
+              "options": [
+                {
+                  "text": "34 m/s^2",
+                  "label": "ক"
+                },
+                {
+                  "text": "2 m/s^2",
+                  "label": "খ"
+                },
+                {
+                  "text": "17 m/s^2",
+                  "label": "গ"
+                },
+                {
+                  "text": "19 m/s^2",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "খ",
+              "shortSolution": "সঠিক উত্তর: খ। $F=ma$ তাই $a=F/m$।",
+              "paper": "HSC Physics 2nd",
+              "subject": "physics-2nd",
+              "setType": "paper-wise-model-test",
+              "topic": "নিউটনের সূত্র",
+              "difficulty": "Medium",
+              "probability": "Board Favourite"
+            },
+            {
+              "id": "hsc-physics-2nd-paper-set-12-q15",
+              "question": "সমমানের দুটি রোধ 26 Ω ও 26 Ω সমান্তরালে যুক্ত হলে তুল্য রোধ কত?",
+              "options": [
+                {
+                  "text": "26 Ω",
+                  "label": "ক"
+                },
+                {
+                  "text": "52 Ω",
+                  "label": "খ"
+                },
+                {
+                  "text": "28 Ω",
+                  "label": "গ"
+                },
+                {
+                  "text": "13 Ω",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "ঘ",
+              "shortSolution": "সঠিক উত্তর: ঘ। সমান দুটি রোধ parallel হলে $R_{eq}=R/2$।",
+              "paper": "HSC Physics 2nd",
+              "subject": "physics-2nd",
+              "setType": "paper-wise-model-test",
+              "topic": "বিদ্যুৎ",
+              "difficulty": "Hard",
+              "probability": "Conceptual Trap"
+            },
+            {
+              "id": "hsc-physics-2nd-paper-set-12-q16",
+              "question": "কম্পাঙ্ক 14 Hz এবং তরঙ্গদৈর্ঘ্য 4 m হলে তরঙ্গবেগ কত?",
+              "options": [
+                {
+                  "text": "18 m/s",
+                  "label": "ক"
+                },
+                {
+                  "text": "56 m/s",
+                  "label": "খ"
+                },
+                {
+                  "text": "3.5 m/s",
+                  "label": "গ"
+                },
+                {
+                  "text": "0.285714 m/s",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "খ",
+              "shortSolution": "সঠিক উত্তর: খ। $v=f\\lambda$।",
+              "paper": "HSC Physics 2nd",
+              "subject": "physics-2nd",
+              "setType": "paper-wise-model-test",
+              "topic": "তরঙ্গ",
+              "difficulty": "Hard",
+              "probability": "Mega Hot"
+            },
+            {
+              "id": "hsc-physics-2nd-paper-set-12-q17",
+              "question": "15 C আধানকে 5 V বিভব পার্থক্যে সরালে কাজ কত?",
+              "options": [
+                {
+                  "text": "0.333333 J",
+                  "label": "ক"
+                },
+                {
+                  "text": "20 J",
+                  "label": "খ"
+                },
+                {
+                  "text": "75 J",
+                  "label": "গ"
+                },
+                {
+                  "text": "3 J",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "গ",
+              "shortSolution": "সঠিক উত্তর: গ। $W=qV$।",
+              "paper": "HSC Physics 2nd",
+              "subject": "physics-2nd",
+              "setType": "paper-wise-model-test",
+              "topic": "তড়িৎ বিভব",
+              "difficulty": "Hard",
+              "probability": "Very Hot"
+            },
+            {
+              "id": "hsc-physics-2nd-paper-set-12-q18",
+              "question": "আলোর বেগ শূন্য মাধ্যমে প্রায় কত?",
+              "options": [
+                {
+                  "text": "$3\\times10^5$ m/s",
+                  "label": "ক"
+                },
+                {
+                  "text": "$3\\times10^8$ m/s",
+                  "label": "খ"
+                },
+                {
+                  "text": "$9.8$ m/s",
+                  "label": "গ"
+                },
+                {
+                  "text": "$3\\times10^6$ m/s",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "খ",
+              "shortSolution": "সঠিক উত্তর: খ। শূন্য মাধ্যমে আলোর বেগ প্রায় $3\\times10^8$ m/s।",
+              "paper": "HSC Physics 2nd",
+              "subject": "physics-2nd",
+              "setType": "paper-wise-model-test",
+              "topic": "আলোকবিজ্ঞান",
+              "difficulty": "Hard",
+              "probability": "Board Favourite"
+            },
+            {
+              "id": "hsc-physics-2nd-paper-set-12-q19",
+              "question": "লেন্সের ক্ষমতার SI একক কী?",
+              "options": [
+                {
+                  "text": "Tesla",
+                  "label": "ক"
+                },
+                {
+                  "text": "Joule",
+                  "label": "খ"
+                },
+                {
+                  "text": "Diopter",
+                  "label": "গ"
+                },
+                {
+                  "text": "Newton",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "গ",
+              "shortSolution": "সঠিক উত্তর: গ। লেন্সের ক্ষমতার একক diopter।",
+              "paper": "HSC Physics 2nd",
+              "subject": "physics-2nd",
+              "setType": "paper-wise-model-test",
+              "topic": "লেন্স",
+              "difficulty": "Hard",
+              "probability": "Conceptual Trap"
+            },
+            {
+              "id": "hsc-physics-2nd-paper-set-12-q20",
+              "question": "13 kg ভরের বস্তু 8 m উচ্চতায় তুললে বিভব শক্তি কত? ধরা হলো $g=10 m/s^2$।",
+              "options": [
+                {
+                  "text": "130 J",
+                  "label": "ক"
+                },
+                {
+                  "text": "80 J",
+                  "label": "খ"
+                },
+                {
+                  "text": "104 J",
+                  "label": "গ"
+                },
+                {
+                  "text": "1040 J",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "ঘ",
+              "shortSolution": "সঠিক উত্তর: ঘ। $E_p=mgh$।",
+              "paper": "HSC Physics 2nd",
+              "subject": "physics-2nd",
+              "setType": "paper-wise-model-test",
+              "topic": "শক্তি",
+              "difficulty": "Hard",
+              "probability": "Mega Hot"
+            },
+            {
+              "id": "hsc-physics-2nd-paper-set-12-q21",
+              "question": "i, ii, iii বিবেচনা করো: (i) বল ভেক্টর রাশি (ii) কাজ স্কেলার রাশি (iii) ত্বরণ স্কেলার রাশি। কোনটি সঠিক?",
+              "options": [
+                {
+                  "text": "i ও ii",
+                  "label": "ক"
+                },
+                {
+                  "text": "ii ও iii",
+                  "label": "খ"
+                },
+                {
+                  "text": "i, ii ও iii",
+                  "label": "গ"
+                },
+                {
+                  "text": "i ও iii",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "ক",
+              "shortSolution": "সঠিক উত্তর: ক। ত্বরণ ভেক্টর রাশি, তাই iii ভুল।",
+              "paper": "HSC Physics 2nd",
+              "subject": "physics-2nd",
+              "setType": "paper-wise-model-test",
+              "topic": "ভৌত রাশি",
+              "difficulty": "Hard",
+              "probability": "Very Hot"
+            },
+            {
+              "id": "hsc-physics-2nd-paper-set-12-q22",
+              "question": "150 W ক্ষমতার যন্ত্র 3 s চললে শক্তি ব্যয় কত?",
+              "options": [
+                {
+                  "text": "450 J",
+                  "label": "ক"
+                },
+                {
+                  "text": "0.02 J",
+                  "label": "খ"
+                },
+                {
+                  "text": "50 J",
+                  "label": "গ"
+                },
+                {
+                  "text": "153 J",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "ক",
+              "shortSolution": "সঠিক উত্তর: ক। $E=Pt$।",
+              "paper": "HSC Physics 2nd",
+              "subject": "physics-2nd",
+              "setType": "paper-wise-model-test",
+              "topic": "ক্ষমতা",
+              "difficulty": "Board Standard",
+              "probability": "Board Favourite"
+            },
+            {
+              "id": "hsc-physics-2nd-paper-set-12-q23",
+              "question": "সরল ছন্দিত গতিতে পুনঃস্থাপন বল কিসের সমানুপাতিক?",
+              "options": [
+                {
+                  "text": "সরণ",
+                  "label": "ক"
+                },
+                {
+                  "text": "ভর",
+                  "label": "খ"
+                },
+                {
+                  "text": "সময়",
+                  "label": "গ"
+                },
+                {
+                  "text": "বেগ",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "ক",
+              "shortSolution": "সঠিক উত্তর: ক। SHM-এ $F\\propto -x$।",
+              "paper": "HSC Physics 2nd",
+              "subject": "physics-2nd",
+              "setType": "paper-wise-model-test",
+              "topic": "সরল ছন্দিত গতি",
+              "difficulty": "Board Standard",
+              "probability": "Conceptual Trap"
+            },
+            {
+              "id": "hsc-physics-2nd-paper-set-12-q24",
+              "question": "চৌম্বক ক্ষেত্রের SI একক কোনটি?",
+              "options": [
+                {
+                  "text": "Volt",
+                  "label": "ক"
+                },
+                {
+                  "text": "Newton",
+                  "label": "খ"
+                },
+                {
+                  "text": "Tesla",
+                  "label": "গ"
+                },
+                {
+                  "text": "Ohm",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "গ",
+              "shortSolution": "সঠিক উত্তর: গ। চৌম্বক ফ্লাক্স ঘনত্বের একক Tesla।",
+              "paper": "HSC Physics 2nd",
+              "subject": "physics-2nd",
+              "setType": "paper-wise-model-test",
+              "topic": "চৌম্বকত্ব",
+              "difficulty": "Board Standard",
+              "probability": "Mega Hot"
+            },
+            {
+              "id": "hsc-physics-2nd-paper-set-12-q25",
+              "question": "একটি বস্তুর আদিবেগ 13 m/s এবং শেষবেগ 19 m/s। সময় 6 s হলে অতিক্রান্ত দূরত্ব কত?",
+              "options": [
+                {
+                  "text": "96 m",
+                  "label": "ক"
+                },
+                {
+                  "text": "114 m",
+                  "label": "খ"
+                },
+                {
+                  "text": "36 m",
+                  "label": "গ"
+                },
+                {
+                  "text": "78 m",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "ক",
+              "shortSolution": "সঠিক উত্তর: ক। $s=\\frac{u+v}{2}t$ সূত্র ব্যবহার করলে দূরত্ব পাওয়া যায়।",
+              "paper": "HSC Physics 2nd",
+              "subject": "physics-2nd",
+              "setType": "paper-wise-model-test",
+              "topic": "গতি",
+              "difficulty": "Board Standard",
+              "probability": "Very Hot"
+            }
+          ]
+        },
+        {
+          "id": "hsc-physics-2nd-paper-set-13",
+          "title": "HSC Physics 2nd Paper-wise Model Test Set 13",
+          "setNo": "13",
+          "questions": [
+            {
+              "id": "hsc-physics-2nd-paper-set-13-q01",
+              "question": "একটি বস্তুর আদিবেগ 15 m/s এবং শেষবেগ 18 m/s। সময় 3 s হলে অতিক্রান্ত দূরত্ব কত?",
+              "options": [
+                {
+                  "text": "9 m",
+                  "label": "ক"
+                },
+                {
+                  "text": "45 m",
+                  "label": "খ"
+                },
+                {
+                  "text": "54 m",
+                  "label": "গ"
+                },
+                {
+                  "text": "49.5 m",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "ঘ",
+              "shortSolution": "সঠিক উত্তর: ঘ। $s=\\frac{u+v}{2}t$ সূত্র ব্যবহার করলে দূরত্ব পাওয়া যায়।",
+              "paper": "HSC Physics 2nd",
+              "subject": "physics-2nd",
+              "setType": "paper-wise-model-test",
+              "topic": "গতি",
+              "difficulty": "Easy",
+              "probability": "Board Favourite"
+            },
+            {
+              "id": "hsc-physics-2nd-paper-set-13-q02",
+              "question": "16 kg ভরের বস্তুর উপর 64 N বল প্রয়োগ করলে ত্বরণ কত হবে?",
+              "options": [
+                {
+                  "text": "4 m/s^2",
+                  "label": "ক"
+                },
+                {
+                  "text": "64 m/s^2",
+                  "label": "খ"
+                },
+                {
+                  "text": "16 m/s^2",
+                  "label": "গ"
+                },
+                {
+                  "text": "20 m/s^2",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "ক",
+              "shortSolution": "সঠিক উত্তর: ক। $F=ma$ তাই $a=F/m$।",
+              "paper": "HSC Physics 2nd",
+              "subject": "physics-2nd",
+              "setType": "paper-wise-model-test",
+              "topic": "নিউটনের সূত্র",
+              "difficulty": "Easy",
+              "probability": "Conceptual Trap"
+            },
+            {
+              "id": "hsc-physics-2nd-paper-set-13-q03",
+              "question": "সমমানের দুটি রোধ 34 Ω ও 34 Ω সমান্তরালে যুক্ত হলে তুল্য রোধ কত?",
+              "options": [
+                {
+                  "text": "68 Ω",
+                  "label": "ক"
+                },
+                {
+                  "text": "36 Ω",
+                  "label": "খ"
+                },
+                {
+                  "text": "17 Ω",
+                  "label": "গ"
+                },
+                {
+                  "text": "34 Ω",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "গ",
+              "shortSolution": "সঠিক উত্তর: গ। সমান দুটি রোধ parallel হলে $R_{eq}=R/2$।",
+              "paper": "HSC Physics 2nd",
+              "subject": "physics-2nd",
+              "setType": "paper-wise-model-test",
+              "topic": "বিদ্যুৎ",
+              "difficulty": "Easy",
+              "probability": "Mega Hot"
+            },
+            {
+              "id": "hsc-physics-2nd-paper-set-13-q04",
+              "question": "কম্পাঙ্ক 18 Hz এবং তরঙ্গদৈর্ঘ্য 6 m হলে তরঙ্গবেগ কত?",
+              "options": [
+                {
+                  "text": "24 m/s",
+                  "label": "ক"
+                },
+                {
+                  "text": "108 m/s",
+                  "label": "খ"
+                },
+                {
+                  "text": "0.333333 m/s",
+                  "label": "গ"
+                },
+                {
+                  "text": "3 m/s",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "খ",
+              "shortSolution": "সঠিক উত্তর: খ। $v=f\\lambda$।",
+              "paper": "HSC Physics 2nd",
+              "subject": "physics-2nd",
+              "setType": "paper-wise-model-test",
+              "topic": "তরঙ্গ",
+              "difficulty": "Easy",
+              "probability": "Very Hot"
+            },
+            {
+              "id": "hsc-physics-2nd-paper-set-13-q05",
+              "question": "14 C আধানকে 7 V বিভব পার্থক্যে সরালে কাজ কত?",
+              "options": [
+                {
+                  "text": "0.5 J",
+                  "label": "ক"
+                },
+                {
+                  "text": "2 J",
+                  "label": "খ"
+                },
+                {
+                  "text": "21 J",
+                  "label": "গ"
+                },
+                {
+                  "text": "98 J",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "ঘ",
+              "shortSolution": "সঠিক উত্তর: ঘ। $W=qV$।",
+              "paper": "HSC Physics 2nd",
+              "subject": "physics-2nd",
+              "setType": "paper-wise-model-test",
+              "topic": "তড়িৎ বিভব",
+              "difficulty": "Easy",
+              "probability": "Board Favourite"
+            },
+            {
+              "id": "hsc-physics-2nd-paper-set-13-q06",
+              "question": "আলোর বেগ শূন্য মাধ্যমে প্রায় কত?",
+              "options": [
+                {
+                  "text": "$3\\times10^6$ m/s",
+                  "label": "ক"
+                },
+                {
+                  "text": "$3\\times10^8$ m/s",
+                  "label": "খ"
+                },
+                {
+                  "text": "$3\\times10^5$ m/s",
+                  "label": "গ"
+                },
+                {
+                  "text": "$9.8$ m/s",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "খ",
+              "shortSolution": "সঠিক উত্তর: খ। শূন্য মাধ্যমে আলোর বেগ প্রায় $3\\times10^8$ m/s।",
+              "paper": "HSC Physics 2nd",
+              "subject": "physics-2nd",
+              "setType": "paper-wise-model-test",
+              "topic": "আলোকবিজ্ঞান",
+              "difficulty": "Easy",
+              "probability": "Conceptual Trap"
+            },
+            {
+              "id": "hsc-physics-2nd-paper-set-13-q07",
+              "question": "লেন্সের ক্ষমতার SI একক কী?",
+              "options": [
+                {
+                  "text": "Newton",
+                  "label": "ক"
+                },
+                {
+                  "text": "Tesla",
+                  "label": "খ"
+                },
+                {
+                  "text": "Diopter",
+                  "label": "গ"
+                },
+                {
+                  "text": "Joule",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "গ",
+              "shortSolution": "সঠিক উত্তর: গ। লেন্সের ক্ষমতার একক diopter।",
+              "paper": "HSC Physics 2nd",
+              "subject": "physics-2nd",
+              "setType": "paper-wise-model-test",
+              "topic": "লেন্স",
+              "difficulty": "Easy",
+              "probability": "Mega Hot"
+            },
+            {
+              "id": "hsc-physics-2nd-paper-set-13-q08",
+              "question": "17 kg ভরের বস্তু 3 m উচ্চতায় তুললে বিভব শক্তি কত? ধরা হলো $g=10 m/s^2$।",
+              "options": [
+                {
+                  "text": "30 J",
+                  "label": "ক"
+                },
+                {
+                  "text": "51 J",
+                  "label": "খ"
+                },
+                {
+                  "text": "510 J",
+                  "label": "গ"
+                },
+                {
+                  "text": "170 J",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "গ",
+              "shortSolution": "সঠিক উত্তর: গ। $E_p=mgh$।",
+              "paper": "HSC Physics 2nd",
+              "subject": "physics-2nd",
+              "setType": "paper-wise-model-test",
+              "topic": "শক্তি",
+              "difficulty": "Medium",
+              "probability": "Very Hot"
+            },
+            {
+              "id": "hsc-physics-2nd-paper-set-13-q09",
+              "question": "i, ii, iii বিবেচনা করো: (i) বল ভেক্টর রাশি (ii) কাজ স্কেলার রাশি (iii) ত্বরণ স্কেলার রাশি। কোনটি সঠিক?",
+              "options": [
+                {
+                  "text": "i ও iii",
+                  "label": "ক"
+                },
+                {
+                  "text": "ii ও iii",
+                  "label": "খ"
+                },
+                {
+                  "text": "i, ii ও iii",
+                  "label": "গ"
+                },
+                {
+                  "text": "i ও ii",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "ঘ",
+              "shortSolution": "সঠিক উত্তর: ঘ। ত্বরণ ভেক্টর রাশি, তাই iii ভুল।",
+              "paper": "HSC Physics 2nd",
+              "subject": "physics-2nd",
+              "setType": "paper-wise-model-test",
+              "topic": "ভৌত রাশি",
+              "difficulty": "Medium",
+              "probability": "Board Favourite"
+            },
+            {
+              "id": "hsc-physics-2nd-paper-set-13-q10",
+              "question": "140 W ক্ষমতার যন্ত্র 5 s চললে শক্তি ব্যয় কত?",
+              "options": [
+                {
+                  "text": "700 J",
+                  "label": "ক"
+                },
+                {
+                  "text": "28 J",
+                  "label": "খ"
+                },
+                {
+                  "text": "0.0357143 J",
+                  "label": "গ"
+                },
+                {
+                  "text": "145 J",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "ক",
+              "shortSolution": "সঠিক উত্তর: ক। $E=Pt$।",
+              "paper": "HSC Physics 2nd",
+              "subject": "physics-2nd",
+              "setType": "paper-wise-model-test",
+              "topic": "ক্ষমতা",
+              "difficulty": "Medium",
+              "probability": "Conceptual Trap"
+            },
+            {
+              "id": "hsc-physics-2nd-paper-set-13-q11",
+              "question": "সরল ছন্দিত গতিতে পুনঃস্থাপন বল কিসের সমানুপাতিক?",
+              "options": [
+                {
+                  "text": "সময়",
+                  "label": "ক"
+                },
+                {
+                  "text": "বেগ",
+                  "label": "খ"
+                },
+                {
+                  "text": "সরণ",
+                  "label": "গ"
+                },
+                {
+                  "text": "ভর",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "গ",
+              "shortSolution": "সঠিক উত্তর: গ। SHM-এ $F\\propto -x$।",
+              "paper": "HSC Physics 2nd",
+              "subject": "physics-2nd",
+              "setType": "paper-wise-model-test",
+              "topic": "সরল ছন্দিত গতি",
+              "difficulty": "Medium",
+              "probability": "Mega Hot"
+            },
+            {
+              "id": "hsc-physics-2nd-paper-set-13-q12",
+              "question": "চৌম্বক ক্ষেত্রের SI একক কোনটি?",
+              "options": [
+                {
+                  "text": "Newton",
+                  "label": "ক"
+                },
+                {
+                  "text": "Tesla",
+                  "label": "খ"
+                },
+                {
+                  "text": "Volt",
+                  "label": "গ"
+                },
+                {
+                  "text": "Ohm",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "খ",
+              "shortSolution": "সঠিক উত্তর: খ। চৌম্বক ফ্লাক্স ঘনত্বের একক Tesla।",
+              "paper": "HSC Physics 2nd",
+              "subject": "physics-2nd",
+              "setType": "paper-wise-model-test",
+              "topic": "চৌম্বকত্ব",
+              "difficulty": "Medium",
+              "probability": "Very Hot"
+            },
+            {
+              "id": "hsc-physics-2nd-paper-set-13-q13",
+              "question": "একটি বস্তুর আদিবেগ 17 m/s এবং শেষবেগ 25 m/s। সময় 8 s হলে অতিক্রান্ত দূরত্ব কত?",
+              "options": [
+                {
+                  "text": "168 m",
+                  "label": "ক"
+                },
+                {
+                  "text": "64 m",
+                  "label": "খ"
+                },
+                {
+                  "text": "200 m",
+                  "label": "গ"
+                },
+                {
+                  "text": "136 m",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "ক",
+              "shortSolution": "সঠিক উত্তর: ক। $s=\\frac{u+v}{2}t$ সূত্র ব্যবহার করলে দূরত্ব পাওয়া যায়।",
+              "paper": "HSC Physics 2nd",
+              "subject": "physics-2nd",
+              "setType": "paper-wise-model-test",
+              "topic": "গতি",
+              "difficulty": "Medium",
+              "probability": "Board Favourite"
+            },
+            {
+              "id": "hsc-physics-2nd-paper-set-13-q14",
+              "question": "18 kg ভরের বস্তুর উপর 36 N বল প্রয়োগ করলে ত্বরণ কত হবে?",
+              "options": [
+                {
+                  "text": "20 m/s^2",
+                  "label": "ক"
+                },
+                {
+                  "text": "18 m/s^2",
+                  "label": "খ"
+                },
+                {
+                  "text": "36 m/s^2",
+                  "label": "গ"
+                },
+                {
+                  "text": "2 m/s^2",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "ঘ",
+              "shortSolution": "সঠিক উত্তর: ঘ। $F=ma$ তাই $a=F/m$।",
+              "paper": "HSC Physics 2nd",
+              "subject": "physics-2nd",
+              "setType": "paper-wise-model-test",
+              "topic": "নিউটনের সূত্র",
+              "difficulty": "Medium",
+              "probability": "Conceptual Trap"
+            },
+            {
+              "id": "hsc-physics-2nd-paper-set-13-q15",
+              "question": "সমমানের দুটি রোধ 28 Ω ও 28 Ω সমান্তরালে যুক্ত হলে তুল্য রোধ কত?",
+              "options": [
+                {
+                  "text": "28 Ω",
+                  "label": "ক"
+                },
+                {
+                  "text": "14 Ω",
+                  "label": "খ"
+                },
+                {
+                  "text": "30 Ω",
+                  "label": "গ"
+                },
+                {
+                  "text": "56 Ω",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "খ",
+              "shortSolution": "সঠিক উত্তর: খ। সমান দুটি রোধ parallel হলে $R_{eq}=R/2$।",
+              "paper": "HSC Physics 2nd",
+              "subject": "physics-2nd",
+              "setType": "paper-wise-model-test",
+              "topic": "বিদ্যুৎ",
+              "difficulty": "Hard",
+              "probability": "Mega Hot"
+            },
+            {
+              "id": "hsc-physics-2nd-paper-set-13-q16",
+              "question": "কম্পাঙ্ক 15 Hz এবং তরঙ্গদৈর্ঘ্য 4 m হলে তরঙ্গবেগ কত?",
+              "options": [
+                {
+                  "text": "3.75 m/s",
+                  "label": "ক"
+                },
+                {
+                  "text": "60 m/s",
+                  "label": "খ"
+                },
+                {
+                  "text": "0.266667 m/s",
+                  "label": "গ"
+                },
+                {
+                  "text": "19 m/s",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "খ",
+              "shortSolution": "সঠিক উত্তর: খ। $v=f\\lambda$।",
+              "paper": "HSC Physics 2nd",
+              "subject": "physics-2nd",
+              "setType": "paper-wise-model-test",
+              "topic": "তরঙ্গ",
+              "difficulty": "Hard",
+              "probability": "Very Hot"
+            },
+            {
+              "id": "hsc-physics-2nd-paper-set-13-q17",
+              "question": "16 C আধানকে 5 V বিভব পার্থক্যে সরালে কাজ কত?",
+              "options": [
+                {
+                  "text": "3.2 J",
+                  "label": "ক"
+                },
+                {
+                  "text": "0.3125 J",
+                  "label": "খ"
+                },
+                {
+                  "text": "80 J",
+                  "label": "গ"
+                },
+                {
+                  "text": "21 J",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "গ",
+              "shortSolution": "সঠিক উত্তর: গ। $W=qV$।",
+              "paper": "HSC Physics 2nd",
+              "subject": "physics-2nd",
+              "setType": "paper-wise-model-test",
+              "topic": "তড়িৎ বিভব",
+              "difficulty": "Hard",
+              "probability": "Board Favourite"
+            },
+            {
+              "id": "hsc-physics-2nd-paper-set-13-q18",
+              "question": "আলোর বেগ শূন্য মাধ্যমে প্রায় কত?",
+              "options": [
+                {
+                  "text": "$3\\times10^8$ m/s",
+                  "label": "ক"
+                },
+                {
+                  "text": "$9.8$ m/s",
+                  "label": "খ"
+                },
+                {
+                  "text": "$3\\times10^5$ m/s",
+                  "label": "গ"
+                },
+                {
+                  "text": "$3\\times10^6$ m/s",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "ক",
+              "shortSolution": "সঠিক উত্তর: ক। শূন্য মাধ্যমে আলোর বেগ প্রায় $3\\times10^8$ m/s।",
+              "paper": "HSC Physics 2nd",
+              "subject": "physics-2nd",
+              "setType": "paper-wise-model-test",
+              "topic": "আলোকবিজ্ঞান",
+              "difficulty": "Hard",
+              "probability": "Conceptual Trap"
+            },
+            {
+              "id": "hsc-physics-2nd-paper-set-13-q19",
+              "question": "লেন্সের ক্ষমতার SI একক কী?",
+              "options": [
+                {
+                  "text": "Tesla",
+                  "label": "ক"
+                },
+                {
+                  "text": "Newton",
+                  "label": "খ"
+                },
+                {
+                  "text": "Joule",
+                  "label": "গ"
+                },
+                {
+                  "text": "Diopter",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "ঘ",
+              "shortSolution": "সঠিক উত্তর: ঘ। লেন্সের ক্ষমতার একক diopter।",
+              "paper": "HSC Physics 2nd",
+              "subject": "physics-2nd",
+              "setType": "paper-wise-model-test",
+              "topic": "লেন্স",
+              "difficulty": "Hard",
+              "probability": "Mega Hot"
+            },
+            {
+              "id": "hsc-physics-2nd-paper-set-13-q20",
+              "question": "14 kg ভরের বস্তু 8 m উচ্চতায় তুললে বিভব শক্তি কত? ধরা হলো $g=10 m/s^2$।",
+              "options": [
+                {
+                  "text": "112 J",
+                  "label": "ক"
+                },
+                {
+                  "text": "80 J",
+                  "label": "খ"
+                },
+                {
+                  "text": "140 J",
+                  "label": "গ"
+                },
+                {
+                  "text": "1120 J",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "ঘ",
+              "shortSolution": "সঠিক উত্তর: ঘ। $E_p=mgh$।",
+              "paper": "HSC Physics 2nd",
+              "subject": "physics-2nd",
+              "setType": "paper-wise-model-test",
+              "topic": "শক্তি",
+              "difficulty": "Hard",
+              "probability": "Very Hot"
+            },
+            {
+              "id": "hsc-physics-2nd-paper-set-13-q21",
+              "question": "i, ii, iii বিবেচনা করো: (i) বল ভেক্টর রাশি (ii) কাজ স্কেলার রাশি (iii) ত্বরণ স্কেলার রাশি। কোনটি সঠিক?",
+              "options": [
+                {
+                  "text": "i, ii ও iii",
+                  "label": "ক"
+                },
+                {
+                  "text": "i ও iii",
+                  "label": "খ"
+                },
+                {
+                  "text": "ii ও iii",
+                  "label": "গ"
+                },
+                {
+                  "text": "i ও ii",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "ঘ",
+              "shortSolution": "সঠিক উত্তর: ঘ। ত্বরণ ভেক্টর রাশি, তাই iii ভুল।",
+              "paper": "HSC Physics 2nd",
+              "subject": "physics-2nd",
+              "setType": "paper-wise-model-test",
+              "topic": "ভৌত রাশি",
+              "difficulty": "Hard",
+              "probability": "Board Favourite"
+            },
+            {
+              "id": "hsc-physics-2nd-paper-set-13-q22",
+              "question": "160 W ক্ষমতার যন্ত্র 3 s চললে শক্তি ব্যয় কত?",
+              "options": [
+                {
+                  "text": "53.3333 J",
+                  "label": "ক"
+                },
+                {
+                  "text": "163 J",
+                  "label": "খ"
+                },
+                {
+                  "text": "480 J",
+                  "label": "গ"
+                },
+                {
+                  "text": "0.01875 J",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "গ",
+              "shortSolution": "সঠিক উত্তর: গ। $E=Pt$।",
+              "paper": "HSC Physics 2nd",
+              "subject": "physics-2nd",
+              "setType": "paper-wise-model-test",
+              "topic": "ক্ষমতা",
+              "difficulty": "Board Standard",
+              "probability": "Conceptual Trap"
+            },
+            {
+              "id": "hsc-physics-2nd-paper-set-13-q23",
+              "question": "সরল ছন্দিত গতিতে পুনঃস্থাপন বল কিসের সমানুপাতিক?",
+              "options": [
+                {
+                  "text": "সরণ",
+                  "label": "ক"
+                },
+                {
+                  "text": "সময়",
+                  "label": "খ"
+                },
+                {
+                  "text": "ভর",
+                  "label": "গ"
+                },
+                {
+                  "text": "বেগ",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "ক",
+              "shortSolution": "সঠিক উত্তর: ক। SHM-এ $F\\propto -x$।",
+              "paper": "HSC Physics 2nd",
+              "subject": "physics-2nd",
+              "setType": "paper-wise-model-test",
+              "topic": "সরল ছন্দিত গতি",
+              "difficulty": "Board Standard",
+              "probability": "Mega Hot"
+            },
+            {
+              "id": "hsc-physics-2nd-paper-set-13-q24",
+              "question": "চৌম্বক ক্ষেত্রের SI একক কোনটি?",
+              "options": [
+                {
+                  "text": "Newton",
+                  "label": "ক"
+                },
+                {
+                  "text": "Volt",
+                  "label": "খ"
+                },
+                {
+                  "text": "Ohm",
+                  "label": "গ"
+                },
+                {
+                  "text": "Tesla",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "ঘ",
+              "shortSolution": "সঠিক উত্তর: ঘ। চৌম্বক ফ্লাক্স ঘনত্বের একক Tesla।",
+              "paper": "HSC Physics 2nd",
+              "subject": "physics-2nd",
+              "setType": "paper-wise-model-test",
+              "topic": "চৌম্বকত্ব",
+              "difficulty": "Board Standard",
+              "probability": "Very Hot"
+            },
+            {
+              "id": "hsc-physics-2nd-paper-set-13-q25",
+              "question": "একটি বস্তুর আদিবেগ 14 m/s এবং শেষবেগ 20 m/s। সময় 6 s হলে অতিক্রান্ত দূরত্ব কত?",
+              "options": [
+                {
+                  "text": "120 m",
+                  "label": "ক"
+                },
+                {
+                  "text": "84 m",
+                  "label": "খ"
+                },
+                {
+                  "text": "36 m",
+                  "label": "গ"
+                },
+                {
+                  "text": "102 m",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "ঘ",
+              "shortSolution": "সঠিক উত্তর: ঘ। $s=\\frac{u+v}{2}t$ সূত্র ব্যবহার করলে দূরত্ব পাওয়া যায়।",
+              "paper": "HSC Physics 2nd",
+              "subject": "physics-2nd",
+              "setType": "paper-wise-model-test",
+              "topic": "গতি",
+              "difficulty": "Board Standard",
+              "probability": "Board Favourite"
+            }
+          ]
+        },
+        {
+          "id": "hsc-physics-2nd-paper-set-14",
+          "title": "HSC Physics 2nd Paper-wise Model Test Set 14",
+          "setNo": "14",
+          "questions": [
+            {
+              "id": "hsc-physics-2nd-paper-set-14-q01",
+              "question": "একটি বস্তুর আদিবেগ 16 m/s এবং শেষবেগ 19 m/s। সময় 3 s হলে অতিক্রান্ত দূরত্ব কত?",
+              "options": [
+                {
+                  "text": "48 m",
+                  "label": "ক"
+                },
+                {
+                  "text": "57 m",
+                  "label": "খ"
+                },
+                {
+                  "text": "9 m",
+                  "label": "গ"
+                },
+                {
+                  "text": "52.5 m",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "ঘ",
+              "shortSolution": "সঠিক উত্তর: ঘ। $s=\\frac{u+v}{2}t$ সূত্র ব্যবহার করলে দূরত্ব পাওয়া যায়।",
+              "paper": "HSC Physics 2nd",
+              "subject": "physics-2nd",
+              "setType": "paper-wise-model-test",
+              "topic": "গতি",
+              "difficulty": "Easy",
+              "probability": "Conceptual Trap"
+            },
+            {
+              "id": "hsc-physics-2nd-paper-set-14-q02",
+              "question": "17 kg ভরের বস্তুর উপর 68 N বল প্রয়োগ করলে ত্বরণ কত হবে?",
+              "options": [
+                {
+                  "text": "21 m/s^2",
+                  "label": "ক"
+                },
+                {
+                  "text": "17 m/s^2",
+                  "label": "খ"
+                },
+                {
+                  "text": "4 m/s^2",
+                  "label": "গ"
+                },
+                {
+                  "text": "68 m/s^2",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "গ",
+              "shortSolution": "সঠিক উত্তর: গ। $F=ma$ তাই $a=F/m$।",
+              "paper": "HSC Physics 2nd",
+              "subject": "physics-2nd",
+              "setType": "paper-wise-model-test",
+              "topic": "নিউটনের সূত্র",
+              "difficulty": "Easy",
+              "probability": "Mega Hot"
+            },
+            {
+              "id": "hsc-physics-2nd-paper-set-14-q03",
+              "question": "সমমানের দুটি রোধ 36 Ω ও 36 Ω সমান্তরালে যুক্ত হলে তুল্য রোধ কত?",
+              "options": [
+                {
+                  "text": "18 Ω",
+                  "label": "ক"
+                },
+                {
+                  "text": "72 Ω",
+                  "label": "খ"
+                },
+                {
+                  "text": "36 Ω",
+                  "label": "গ"
+                },
+                {
+                  "text": "38 Ω",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "ক",
+              "shortSolution": "সঠিক উত্তর: ক। সমান দুটি রোধ parallel হলে $R_{eq}=R/2$।",
+              "paper": "HSC Physics 2nd",
+              "subject": "physics-2nd",
+              "setType": "paper-wise-model-test",
+              "topic": "বিদ্যুৎ",
+              "difficulty": "Easy",
+              "probability": "Very Hot"
+            },
+            {
+              "id": "hsc-physics-2nd-paper-set-14-q04",
+              "question": "কম্পাঙ্ক 19 Hz এবং তরঙ্গদৈর্ঘ্য 6 m হলে তরঙ্গবেগ কত?",
+              "options": [
+                {
+                  "text": "3.16667 m/s",
+                  "label": "ক"
+                },
+                {
+                  "text": "114 m/s",
+                  "label": "খ"
+                },
+                {
+                  "text": "25 m/s",
+                  "label": "গ"
+                },
+                {
+                  "text": "0.315789 m/s",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "খ",
+              "shortSolution": "সঠিক উত্তর: খ। $v=f\\lambda$।",
+              "paper": "HSC Physics 2nd",
+              "subject": "physics-2nd",
+              "setType": "paper-wise-model-test",
+              "topic": "তরঙ্গ",
+              "difficulty": "Easy",
+              "probability": "Board Favourite"
+            },
+            {
+              "id": "hsc-physics-2nd-paper-set-14-q05",
+              "question": "15 C আধানকে 7 V বিভব পার্থক্যে সরালে কাজ কত?",
+              "options": [
+                {
+                  "text": "105 J",
+                  "label": "ক"
+                },
+                {
+                  "text": "0.466667 J",
+                  "label": "খ"
+                },
+                {
+                  "text": "2.14286 J",
+                  "label": "গ"
+                },
+                {
+                  "text": "22 J",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "ক",
+              "shortSolution": "সঠিক উত্তর: ক। $W=qV$।",
+              "paper": "HSC Physics 2nd",
+              "subject": "physics-2nd",
+              "setType": "paper-wise-model-test",
+              "topic": "তড়িৎ বিভব",
+              "difficulty": "Easy",
+              "probability": "Conceptual Trap"
+            },
+            {
+              "id": "hsc-physics-2nd-paper-set-14-q06",
+              "question": "আলোর বেগ শূন্য মাধ্যমে প্রায় কত?",
+              "options": [
+                {
+                  "text": "$9.8$ m/s",
+                  "label": "ক"
+                },
+                {
+                  "text": "$3\\times10^8$ m/s",
+                  "label": "খ"
+                },
+                {
+                  "text": "$3\\times10^6$ m/s",
+                  "label": "গ"
+                },
+                {
+                  "text": "$3\\times10^5$ m/s",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "খ",
+              "shortSolution": "সঠিক উত্তর: খ। শূন্য মাধ্যমে আলোর বেগ প্রায় $3\\times10^8$ m/s।",
+              "paper": "HSC Physics 2nd",
+              "subject": "physics-2nd",
+              "setType": "paper-wise-model-test",
+              "topic": "আলোকবিজ্ঞান",
+              "difficulty": "Easy",
+              "probability": "Mega Hot"
+            },
+            {
+              "id": "hsc-physics-2nd-paper-set-14-q07",
+              "question": "লেন্সের ক্ষমতার SI একক কী?",
+              "options": [
+                {
+                  "text": "Joule",
+                  "label": "ক"
+                },
+                {
+                  "text": "Newton",
+                  "label": "খ"
+                },
+                {
+                  "text": "Tesla",
+                  "label": "গ"
+                },
+                {
+                  "text": "Diopter",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "ঘ",
+              "shortSolution": "সঠিক উত্তর: ঘ। লেন্সের ক্ষমতার একক diopter।",
+              "paper": "HSC Physics 2nd",
+              "subject": "physics-2nd",
+              "setType": "paper-wise-model-test",
+              "topic": "লেন্স",
+              "difficulty": "Easy",
+              "probability": "Very Hot"
+            },
+            {
+              "id": "hsc-physics-2nd-paper-set-14-q08",
+              "question": "18 kg ভরের বস্তু 3 m উচ্চতায় তুললে বিভব শক্তি কত? ধরা হলো $g=10 m/s^2$।",
+              "options": [
+                {
+                  "text": "180 J",
+                  "label": "ক"
+                },
+                {
+                  "text": "540 J",
+                  "label": "খ"
+                },
+                {
+                  "text": "54 J",
+                  "label": "গ"
+                },
+                {
+                  "text": "30 J",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "খ",
+              "shortSolution": "সঠিক উত্তর: খ। $E_p=mgh$।",
+              "paper": "HSC Physics 2nd",
+              "subject": "physics-2nd",
+              "setType": "paper-wise-model-test",
+              "topic": "শক্তি",
+              "difficulty": "Medium",
+              "probability": "Board Favourite"
+            },
+            {
+              "id": "hsc-physics-2nd-paper-set-14-q09",
+              "question": "i, ii, iii বিবেচনা করো: (i) বল ভেক্টর রাশি (ii) কাজ স্কেলার রাশি (iii) ত্বরণ স্কেলার রাশি। কোনটি সঠিক?",
+              "options": [
+                {
+                  "text": "i, ii ও iii",
+                  "label": "ক"
+                },
+                {
+                  "text": "i ও ii",
+                  "label": "খ"
+                },
+                {
+                  "text": "ii ও iii",
+                  "label": "গ"
+                },
+                {
+                  "text": "i ও iii",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "খ",
+              "shortSolution": "সঠিক উত্তর: খ। ত্বরণ ভেক্টর রাশি, তাই iii ভুল।",
+              "paper": "HSC Physics 2nd",
+              "subject": "physics-2nd",
+              "setType": "paper-wise-model-test",
+              "topic": "ভৌত রাশি",
+              "difficulty": "Medium",
+              "probability": "Conceptual Trap"
+            },
+            {
+              "id": "hsc-physics-2nd-paper-set-14-q10",
+              "question": "150 W ক্ষমতার যন্ত্র 5 s চললে শক্তি ব্যয় কত?",
+              "options": [
+                {
+                  "text": "155 J",
+                  "label": "ক"
+                },
+                {
+                  "text": "30 J",
+                  "label": "খ"
+                },
+                {
+                  "text": "750 J",
+                  "label": "গ"
+                },
+                {
+                  "text": "0.0333333 J",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "গ",
+              "shortSolution": "সঠিক উত্তর: গ। $E=Pt$।",
+              "paper": "HSC Physics 2nd",
+              "subject": "physics-2nd",
+              "setType": "paper-wise-model-test",
+              "topic": "ক্ষমতা",
+              "difficulty": "Medium",
+              "probability": "Mega Hot"
+            },
+            {
+              "id": "hsc-physics-2nd-paper-set-14-q11",
+              "question": "সরল ছন্দিত গতিতে পুনঃস্থাপন বল কিসের সমানুপাতিক?",
+              "options": [
+                {
+                  "text": "ভর",
+                  "label": "ক"
+                },
+                {
+                  "text": "সরণ",
+                  "label": "খ"
+                },
+                {
+                  "text": "বেগ",
+                  "label": "গ"
+                },
+                {
+                  "text": "সময়",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "খ",
+              "shortSolution": "সঠিক উত্তর: খ। SHM-এ $F\\propto -x$।",
+              "paper": "HSC Physics 2nd",
+              "subject": "physics-2nd",
+              "setType": "paper-wise-model-test",
+              "topic": "সরল ছন্দিত গতি",
+              "difficulty": "Medium",
+              "probability": "Very Hot"
+            },
+            {
+              "id": "hsc-physics-2nd-paper-set-14-q12",
+              "question": "চৌম্বক ক্ষেত্রের SI একক কোনটি?",
+              "options": [
+                {
+                  "text": "Ohm",
+                  "label": "ক"
+                },
+                {
+                  "text": "Tesla",
+                  "label": "খ"
+                },
+                {
+                  "text": "Newton",
+                  "label": "গ"
+                },
+                {
+                  "text": "Volt",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "খ",
+              "shortSolution": "সঠিক উত্তর: খ। চৌম্বক ফ্লাক্স ঘনত্বের একক Tesla।",
+              "paper": "HSC Physics 2nd",
+              "subject": "physics-2nd",
+              "setType": "paper-wise-model-test",
+              "topic": "চৌম্বকত্ব",
+              "difficulty": "Medium",
+              "probability": "Board Favourite"
+            },
+            {
+              "id": "hsc-physics-2nd-paper-set-14-q13",
+              "question": "একটি বস্তুর আদিবেগ 18 m/s এবং শেষবেগ 26 m/s। সময় 8 s হলে অতিক্রান্ত দূরত্ব কত?",
+              "options": [
+                {
+                  "text": "64 m",
+                  "label": "ক"
+                },
+                {
+                  "text": "176 m",
+                  "label": "খ"
+                },
+                {
+                  "text": "208 m",
+                  "label": "গ"
+                },
+                {
+                  "text": "144 m",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "খ",
+              "shortSolution": "সঠিক উত্তর: খ। $s=\\frac{u+v}{2}t$ সূত্র ব্যবহার করলে দূরত্ব পাওয়া যায়।",
+              "paper": "HSC Physics 2nd",
+              "subject": "physics-2nd",
+              "setType": "paper-wise-model-test",
+              "topic": "গতি",
+              "difficulty": "Medium",
+              "probability": "Conceptual Trap"
+            },
+            {
+              "id": "hsc-physics-2nd-paper-set-14-q14",
+              "question": "19 kg ভরের বস্তুর উপর 38 N বল প্রয়োগ করলে ত্বরণ কত হবে?",
+              "options": [
+                {
+                  "text": "19 m/s^2",
+                  "label": "ক"
+                },
+                {
+                  "text": "2 m/s^2",
+                  "label": "খ"
+                },
+                {
+                  "text": "38 m/s^2",
+                  "label": "গ"
+                },
+                {
+                  "text": "21 m/s^2",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "খ",
+              "shortSolution": "সঠিক উত্তর: খ। $F=ma$ তাই $a=F/m$।",
+              "paper": "HSC Physics 2nd",
+              "subject": "physics-2nd",
+              "setType": "paper-wise-model-test",
+              "topic": "নিউটনের সূত্র",
+              "difficulty": "Medium",
+              "probability": "Mega Hot"
+            },
+            {
+              "id": "hsc-physics-2nd-paper-set-14-q15",
+              "question": "সমমানের দুটি রোধ 30 Ω ও 30 Ω সমান্তরালে যুক্ত হলে তুল্য রোধ কত?",
+              "options": [
+                {
+                  "text": "60 Ω",
+                  "label": "ক"
+                },
+                {
+                  "text": "30 Ω",
+                  "label": "খ"
+                },
+                {
+                  "text": "32 Ω",
+                  "label": "গ"
+                },
+                {
+                  "text": "15 Ω",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "ঘ",
+              "shortSolution": "সঠিক উত্তর: ঘ। সমান দুটি রোধ parallel হলে $R_{eq}=R/2$।",
+              "paper": "HSC Physics 2nd",
+              "subject": "physics-2nd",
+              "setType": "paper-wise-model-test",
+              "topic": "বিদ্যুৎ",
+              "difficulty": "Hard",
+              "probability": "Very Hot"
+            },
+            {
+              "id": "hsc-physics-2nd-paper-set-14-q16",
+              "question": "কম্পাঙ্ক 16 Hz এবং তরঙ্গদৈর্ঘ্য 4 m হলে তরঙ্গবেগ কত?",
+              "options": [
+                {
+                  "text": "64 m/s",
+                  "label": "ক"
+                },
+                {
+                  "text": "4 m/s",
+                  "label": "খ"
+                },
+                {
+                  "text": "0.25 m/s",
+                  "label": "গ"
+                },
+                {
+                  "text": "20 m/s",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "ক",
+              "shortSolution": "সঠিক উত্তর: ক। $v=f\\lambda$।",
+              "paper": "HSC Physics 2nd",
+              "subject": "physics-2nd",
+              "setType": "paper-wise-model-test",
+              "topic": "তরঙ্গ",
+              "difficulty": "Hard",
+              "probability": "Board Favourite"
+            },
+            {
+              "id": "hsc-physics-2nd-paper-set-14-q17",
+              "question": "17 C আধানকে 5 V বিভব পার্থক্যে সরালে কাজ কত?",
+              "options": [
+                {
+                  "text": "85 J",
+                  "label": "ক"
+                },
+                {
+                  "text": "0.294118 J",
+                  "label": "খ"
+                },
+                {
+                  "text": "3.4 J",
+                  "label": "গ"
+                },
+                {
+                  "text": "22 J",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "ক",
+              "shortSolution": "সঠিক উত্তর: ক। $W=qV$।",
+              "paper": "HSC Physics 2nd",
+              "subject": "physics-2nd",
+              "setType": "paper-wise-model-test",
+              "topic": "তড়িৎ বিভব",
+              "difficulty": "Hard",
+              "probability": "Conceptual Trap"
+            },
+            {
+              "id": "hsc-physics-2nd-paper-set-14-q18",
+              "question": "আলোর বেগ শূন্য মাধ্যমে প্রায় কত?",
+              "options": [
+                {
+                  "text": "$9.8$ m/s",
+                  "label": "ক"
+                },
+                {
+                  "text": "$3\\times10^6$ m/s",
+                  "label": "খ"
+                },
+                {
+                  "text": "$3\\times10^5$ m/s",
+                  "label": "গ"
+                },
+                {
+                  "text": "$3\\times10^8$ m/s",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "ঘ",
+              "shortSolution": "সঠিক উত্তর: ঘ। শূন্য মাধ্যমে আলোর বেগ প্রায় $3\\times10^8$ m/s।",
+              "paper": "HSC Physics 2nd",
+              "subject": "physics-2nd",
+              "setType": "paper-wise-model-test",
+              "topic": "আলোকবিজ্ঞান",
+              "difficulty": "Hard",
+              "probability": "Mega Hot"
+            },
+            {
+              "id": "hsc-physics-2nd-paper-set-14-q19",
+              "question": "লেন্সের ক্ষমতার SI একক কী?",
+              "options": [
+                {
+                  "text": "Joule",
+                  "label": "ক"
+                },
+                {
+                  "text": "Diopter",
+                  "label": "খ"
+                },
+                {
+                  "text": "Tesla",
+                  "label": "গ"
+                },
+                {
+                  "text": "Newton",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "খ",
+              "shortSolution": "সঠিক উত্তর: খ। লেন্সের ক্ষমতার একক diopter।",
+              "paper": "HSC Physics 2nd",
+              "subject": "physics-2nd",
+              "setType": "paper-wise-model-test",
+              "topic": "লেন্স",
+              "difficulty": "Hard",
+              "probability": "Very Hot"
+            },
+            {
+              "id": "hsc-physics-2nd-paper-set-14-q20",
+              "question": "15 kg ভরের বস্তু 8 m উচ্চতায় তুললে বিভব শক্তি কত? ধরা হলো $g=10 m/s^2$।",
+              "options": [
+                {
+                  "text": "1200 J",
+                  "label": "ক"
+                },
+                {
+                  "text": "120 J",
+                  "label": "খ"
+                },
+                {
+                  "text": "150 J",
+                  "label": "গ"
+                },
+                {
+                  "text": "80 J",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "ক",
+              "shortSolution": "সঠিক উত্তর: ক। $E_p=mgh$।",
+              "paper": "HSC Physics 2nd",
+              "subject": "physics-2nd",
+              "setType": "paper-wise-model-test",
+              "topic": "শক্তি",
+              "difficulty": "Hard",
+              "probability": "Board Favourite"
+            },
+            {
+              "id": "hsc-physics-2nd-paper-set-14-q21",
+              "question": "i, ii, iii বিবেচনা করো: (i) বল ভেক্টর রাশি (ii) কাজ স্কেলার রাশি (iii) ত্বরণ স্কেলার রাশি। কোনটি সঠিক?",
+              "options": [
+                {
+                  "text": "i ও ii",
+                  "label": "ক"
+                },
+                {
+                  "text": "ii ও iii",
+                  "label": "খ"
+                },
+                {
+                  "text": "i ও iii",
+                  "label": "গ"
+                },
+                {
+                  "text": "i, ii ও iii",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "ক",
+              "shortSolution": "সঠিক উত্তর: ক। ত্বরণ ভেক্টর রাশি, তাই iii ভুল।",
+              "paper": "HSC Physics 2nd",
+              "subject": "physics-2nd",
+              "setType": "paper-wise-model-test",
+              "topic": "ভৌত রাশি",
+              "difficulty": "Hard",
+              "probability": "Conceptual Trap"
+            },
+            {
+              "id": "hsc-physics-2nd-paper-set-14-q22",
+              "question": "170 W ক্ষমতার যন্ত্র 3 s চললে শক্তি ব্যয় কত?",
+              "options": [
+                {
+                  "text": "0.0176471 J",
+                  "label": "ক"
+                },
+                {
+                  "text": "510 J",
+                  "label": "খ"
+                },
+                {
+                  "text": "56.6667 J",
+                  "label": "গ"
+                },
+                {
+                  "text": "173 J",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "খ",
+              "shortSolution": "সঠিক উত্তর: খ। $E=Pt$।",
+              "paper": "HSC Physics 2nd",
+              "subject": "physics-2nd",
+              "setType": "paper-wise-model-test",
+              "topic": "ক্ষমতা",
+              "difficulty": "Board Standard",
+              "probability": "Mega Hot"
+            },
+            {
+              "id": "hsc-physics-2nd-paper-set-14-q23",
+              "question": "সরল ছন্দিত গতিতে পুনঃস্থাপন বল কিসের সমানুপাতিক?",
+              "options": [
+                {
+                  "text": "সময়",
+                  "label": "ক"
+                },
+                {
+                  "text": "সরণ",
+                  "label": "খ"
+                },
+                {
+                  "text": "বেগ",
+                  "label": "গ"
+                },
+                {
+                  "text": "ভর",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "খ",
+              "shortSolution": "সঠিক উত্তর: খ। SHM-এ $F\\propto -x$।",
+              "paper": "HSC Physics 2nd",
+              "subject": "physics-2nd",
+              "setType": "paper-wise-model-test",
+              "topic": "সরল ছন্দিত গতি",
+              "difficulty": "Board Standard",
+              "probability": "Very Hot"
+            },
+            {
+              "id": "hsc-physics-2nd-paper-set-14-q24",
+              "question": "চৌম্বক ক্ষেত্রের SI একক কোনটি?",
+              "options": [
+                {
+                  "text": "Ohm",
+                  "label": "ক"
+                },
+                {
+                  "text": "Tesla",
+                  "label": "খ"
+                },
+                {
+                  "text": "Newton",
+                  "label": "গ"
+                },
+                {
+                  "text": "Volt",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "খ",
+              "shortSolution": "সঠিক উত্তর: খ। চৌম্বক ফ্লাক্স ঘনত্বের একক Tesla।",
+              "paper": "HSC Physics 2nd",
+              "subject": "physics-2nd",
+              "setType": "paper-wise-model-test",
+              "topic": "চৌম্বকত্ব",
+              "difficulty": "Board Standard",
+              "probability": "Board Favourite"
+            },
+            {
+              "id": "hsc-physics-2nd-paper-set-14-q25",
+              "question": "একটি বস্তুর আদিবেগ 15 m/s এবং শেষবেগ 21 m/s। সময় 6 s হলে অতিক্রান্ত দূরত্ব কত?",
+              "options": [
+                {
+                  "text": "36 m",
+                  "label": "ক"
+                },
+                {
+                  "text": "108 m",
+                  "label": "খ"
+                },
+                {
+                  "text": "90 m",
+                  "label": "গ"
+                },
+                {
+                  "text": "126 m",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "খ",
+              "shortSolution": "সঠিক উত্তর: খ। $s=\\frac{u+v}{2}t$ সূত্র ব্যবহার করলে দূরত্ব পাওয়া যায়।",
+              "paper": "HSC Physics 2nd",
+              "subject": "physics-2nd",
+              "setType": "paper-wise-model-test",
+              "topic": "গতি",
+              "difficulty": "Board Standard",
+              "probability": "Conceptual Trap"
+            }
+          ]
+        },
+        {
+          "id": "hsc-physics-2nd-paper-set-15",
+          "title": "HSC Physics 2nd Paper-wise Model Test Set 15",
+          "setNo": "15",
+          "questions": [
+            {
+              "id": "hsc-physics-2nd-paper-set-15-q01",
+              "question": "একটি বস্তুর আদিবেগ 17 m/s এবং শেষবেগ 20 m/s। সময় 3 s হলে অতিক্রান্ত দূরত্ব কত?",
+              "options": [
+                {
+                  "text": "51 m",
+                  "label": "ক"
+                },
+                {
+                  "text": "60 m",
+                  "label": "খ"
+                },
+                {
+                  "text": "9 m",
+                  "label": "গ"
+                },
+                {
+                  "text": "55.5 m",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "ঘ",
+              "shortSolution": "সঠিক উত্তর: ঘ। $s=\\frac{u+v}{2}t$ সূত্র ব্যবহার করলে দূরত্ব পাওয়া যায়।",
+              "paper": "HSC Physics 2nd",
+              "subject": "physics-2nd",
+              "setType": "paper-wise-model-test",
+              "topic": "গতি",
+              "difficulty": "Easy",
+              "probability": "Mega Hot"
+            },
+            {
+              "id": "hsc-physics-2nd-paper-set-15-q02",
+              "question": "18 kg ভরের বস্তুর উপর 72 N বল প্রয়োগ করলে ত্বরণ কত হবে?",
+              "options": [
+                {
+                  "text": "72 m/s^2",
+                  "label": "ক"
+                },
+                {
+                  "text": "4 m/s^2",
+                  "label": "খ"
+                },
+                {
+                  "text": "22 m/s^2",
+                  "label": "গ"
+                },
+                {
+                  "text": "18 m/s^2",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "খ",
+              "shortSolution": "সঠিক উত্তর: খ। $F=ma$ তাই $a=F/m$।",
+              "paper": "HSC Physics 2nd",
+              "subject": "physics-2nd",
+              "setType": "paper-wise-model-test",
+              "topic": "নিউটনের সূত্র",
+              "difficulty": "Easy",
+              "probability": "Very Hot"
+            },
+            {
+              "id": "hsc-physics-2nd-paper-set-15-q03",
+              "question": "সমমানের দুটি রোধ 38 Ω ও 38 Ω সমান্তরালে যুক্ত হলে তুল্য রোধ কত?",
+              "options": [
+                {
+                  "text": "76 Ω",
+                  "label": "ক"
+                },
+                {
+                  "text": "19 Ω",
+                  "label": "খ"
+                },
+                {
+                  "text": "40 Ω",
+                  "label": "গ"
+                },
+                {
+                  "text": "38 Ω",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "খ",
+              "shortSolution": "সঠিক উত্তর: খ। সমান দুটি রোধ parallel হলে $R_{eq}=R/2$।",
+              "paper": "HSC Physics 2nd",
+              "subject": "physics-2nd",
+              "setType": "paper-wise-model-test",
+              "topic": "বিদ্যুৎ",
+              "difficulty": "Easy",
+              "probability": "Board Favourite"
+            },
+            {
+              "id": "hsc-physics-2nd-paper-set-15-q04",
+              "question": "কম্পাঙ্ক 20 Hz এবং তরঙ্গদৈর্ঘ্য 6 m হলে তরঙ্গবেগ কত?",
+              "options": [
+                {
+                  "text": "26 m/s",
+                  "label": "ক"
+                },
+                {
+                  "text": "0.3 m/s",
+                  "label": "খ"
+                },
+                {
+                  "text": "120 m/s",
+                  "label": "গ"
+                },
+                {
+                  "text": "3.33333 m/s",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "গ",
+              "shortSolution": "সঠিক উত্তর: গ। $v=f\\lambda$।",
+              "paper": "HSC Physics 2nd",
+              "subject": "physics-2nd",
+              "setType": "paper-wise-model-test",
+              "topic": "তরঙ্গ",
+              "difficulty": "Easy",
+              "probability": "Conceptual Trap"
+            },
+            {
+              "id": "hsc-physics-2nd-paper-set-15-q05",
+              "question": "16 C আধানকে 7 V বিভব পার্থক্যে সরালে কাজ কত?",
+              "options": [
+                {
+                  "text": "112 J",
+                  "label": "ক"
+                },
+                {
+                  "text": "23 J",
+                  "label": "খ"
+                },
+                {
+                  "text": "0.4375 J",
+                  "label": "গ"
+                },
+                {
+                  "text": "2.28571 J",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "ক",
+              "shortSolution": "সঠিক উত্তর: ক। $W=qV$।",
+              "paper": "HSC Physics 2nd",
+              "subject": "physics-2nd",
+              "setType": "paper-wise-model-test",
+              "topic": "তড়িৎ বিভব",
+              "difficulty": "Easy",
+              "probability": "Mega Hot"
+            },
+            {
+              "id": "hsc-physics-2nd-paper-set-15-q06",
+              "question": "আলোর বেগ শূন্য মাধ্যমে প্রায় কত?",
+              "options": [
+                {
+                  "text": "$3\\times10^8$ m/s",
+                  "label": "ক"
+                },
+                {
+                  "text": "$3\\times10^6$ m/s",
+                  "label": "খ"
+                },
+                {
+                  "text": "$9.8$ m/s",
+                  "label": "গ"
+                },
+                {
+                  "text": "$3\\times10^5$ m/s",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "ক",
+              "shortSolution": "সঠিক উত্তর: ক। শূন্য মাধ্যমে আলোর বেগ প্রায় $3\\times10^8$ m/s।",
+              "paper": "HSC Physics 2nd",
+              "subject": "physics-2nd",
+              "setType": "paper-wise-model-test",
+              "topic": "আলোকবিজ্ঞান",
+              "difficulty": "Easy",
+              "probability": "Very Hot"
+            },
+            {
+              "id": "hsc-physics-2nd-paper-set-15-q07",
+              "question": "লেন্সের ক্ষমতার SI একক কী?",
+              "options": [
+                {
+                  "text": "Joule",
+                  "label": "ক"
+                },
+                {
+                  "text": "Newton",
+                  "label": "খ"
+                },
+                {
+                  "text": "Diopter",
+                  "label": "গ"
+                },
+                {
+                  "text": "Tesla",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "গ",
+              "shortSolution": "সঠিক উত্তর: গ। লেন্সের ক্ষমতার একক diopter।",
+              "paper": "HSC Physics 2nd",
+              "subject": "physics-2nd",
+              "setType": "paper-wise-model-test",
+              "topic": "লেন্স",
+              "difficulty": "Easy",
+              "probability": "Board Favourite"
+            },
+            {
+              "id": "hsc-physics-2nd-paper-set-15-q08",
+              "question": "19 kg ভরের বস্তু 3 m উচ্চতায় তুললে বিভব শক্তি কত? ধরা হলো $g=10 m/s^2$।",
+              "options": [
+                {
+                  "text": "57 J",
+                  "label": "ক"
+                },
+                {
+                  "text": "190 J",
+                  "label": "খ"
+                },
+                {
+                  "text": "30 J",
+                  "label": "গ"
+                },
+                {
+                  "text": "570 J",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "ঘ",
+              "shortSolution": "সঠিক উত্তর: ঘ। $E_p=mgh$।",
+              "paper": "HSC Physics 2nd",
+              "subject": "physics-2nd",
+              "setType": "paper-wise-model-test",
+              "topic": "শক্তি",
+              "difficulty": "Medium",
+              "probability": "Conceptual Trap"
+            },
+            {
+              "id": "hsc-physics-2nd-paper-set-15-q09",
+              "question": "i, ii, iii বিবেচনা করো: (i) বল ভেক্টর রাশি (ii) কাজ স্কেলার রাশি (iii) ত্বরণ স্কেলার রাশি। কোনটি সঠিক?",
+              "options": [
+                {
+                  "text": "i ও iii",
+                  "label": "ক"
+                },
+                {
+                  "text": "i, ii ও iii",
+                  "label": "খ"
+                },
+                {
+                  "text": "i ও ii",
+                  "label": "গ"
+                },
+                {
+                  "text": "ii ও iii",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "গ",
+              "shortSolution": "সঠিক উত্তর: গ। ত্বরণ ভেক্টর রাশি, তাই iii ভুল।",
+              "paper": "HSC Physics 2nd",
+              "subject": "physics-2nd",
+              "setType": "paper-wise-model-test",
+              "topic": "ভৌত রাশি",
+              "difficulty": "Medium",
+              "probability": "Mega Hot"
+            },
+            {
+              "id": "hsc-physics-2nd-paper-set-15-q10",
+              "question": "160 W ক্ষমতার যন্ত্র 5 s চললে শক্তি ব্যয় কত?",
+              "options": [
+                {
+                  "text": "0.03125 J",
+                  "label": "ক"
+                },
+                {
+                  "text": "165 J",
+                  "label": "খ"
+                },
+                {
+                  "text": "800 J",
+                  "label": "গ"
+                },
+                {
+                  "text": "32 J",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "গ",
+              "shortSolution": "সঠিক উত্তর: গ। $E=Pt$।",
+              "paper": "HSC Physics 2nd",
+              "subject": "physics-2nd",
+              "setType": "paper-wise-model-test",
+              "topic": "ক্ষমতা",
+              "difficulty": "Medium",
+              "probability": "Very Hot"
+            },
+            {
+              "id": "hsc-physics-2nd-paper-set-15-q11",
+              "question": "সরল ছন্দিত গতিতে পুনঃস্থাপন বল কিসের সমানুপাতিক?",
+              "options": [
+                {
+                  "text": "বেগ",
+                  "label": "ক"
+                },
+                {
+                  "text": "ভর",
+                  "label": "খ"
+                },
+                {
+                  "text": "সময়",
+                  "label": "গ"
+                },
+                {
+                  "text": "সরণ",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "ঘ",
+              "shortSolution": "সঠিক উত্তর: ঘ। SHM-এ $F\\propto -x$।",
+              "paper": "HSC Physics 2nd",
+              "subject": "physics-2nd",
+              "setType": "paper-wise-model-test",
+              "topic": "সরল ছন্দিত গতি",
+              "difficulty": "Medium",
+              "probability": "Board Favourite"
+            },
+            {
+              "id": "hsc-physics-2nd-paper-set-15-q12",
+              "question": "চৌম্বক ক্ষেত্রের SI একক কোনটি?",
+              "options": [
+                {
+                  "text": "Tesla",
+                  "label": "ক"
+                },
+                {
+                  "text": "Newton",
+                  "label": "খ"
+                },
+                {
+                  "text": "Volt",
+                  "label": "গ"
+                },
+                {
+                  "text": "Ohm",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "ক",
+              "shortSolution": "সঠিক উত্তর: ক। চৌম্বক ফ্লাক্স ঘনত্বের একক Tesla।",
+              "paper": "HSC Physics 2nd",
+              "subject": "physics-2nd",
+              "setType": "paper-wise-model-test",
+              "topic": "চৌম্বকত্ব",
+              "difficulty": "Medium",
+              "probability": "Conceptual Trap"
+            },
+            {
+              "id": "hsc-physics-2nd-paper-set-15-q13",
+              "question": "একটি বস্তুর আদিবেগ 19 m/s এবং শেষবেগ 27 m/s। সময় 8 s হলে অতিক্রান্ত দূরত্ব কত?",
+              "options": [
+                {
+                  "text": "216 m",
+                  "label": "ক"
+                },
+                {
+                  "text": "152 m",
+                  "label": "খ"
+                },
+                {
+                  "text": "184 m",
+                  "label": "গ"
+                },
+                {
+                  "text": "64 m",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "গ",
+              "shortSolution": "সঠিক উত্তর: গ। $s=\\frac{u+v}{2}t$ সূত্র ব্যবহার করলে দূরত্ব পাওয়া যায়।",
+              "paper": "HSC Physics 2nd",
+              "subject": "physics-2nd",
+              "setType": "paper-wise-model-test",
+              "topic": "গতি",
+              "difficulty": "Medium",
+              "probability": "Mega Hot"
+            },
+            {
+              "id": "hsc-physics-2nd-paper-set-15-q14",
+              "question": "20 kg ভরের বস্তুর উপর 40 N বল প্রয়োগ করলে ত্বরণ কত হবে?",
+              "options": [
+                {
+                  "text": "40 m/s^2",
+                  "label": "ক"
+                },
+                {
+                  "text": "20 m/s^2",
+                  "label": "খ"
+                },
+                {
+                  "text": "2 m/s^2",
+                  "label": "গ"
+                },
+                {
+                  "text": "22 m/s^2",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "গ",
+              "shortSolution": "সঠিক উত্তর: গ। $F=ma$ তাই $a=F/m$।",
+              "paper": "HSC Physics 2nd",
+              "subject": "physics-2nd",
+              "setType": "paper-wise-model-test",
+              "topic": "নিউটনের সূত্র",
+              "difficulty": "Medium",
+              "probability": "Very Hot"
+            },
+            {
+              "id": "hsc-physics-2nd-paper-set-15-q15",
+              "question": "সমমানের দুটি রোধ 32 Ω ও 32 Ω সমান্তরালে যুক্ত হলে তুল্য রোধ কত?",
+              "options": [
+                {
+                  "text": "34 Ω",
+                  "label": "ক"
+                },
+                {
+                  "text": "64 Ω",
+                  "label": "খ"
+                },
+                {
+                  "text": "16 Ω",
+                  "label": "গ"
+                },
+                {
+                  "text": "32 Ω",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "গ",
+              "shortSolution": "সঠিক উত্তর: গ। সমান দুটি রোধ parallel হলে $R_{eq}=R/2$।",
+              "paper": "HSC Physics 2nd",
+              "subject": "physics-2nd",
+              "setType": "paper-wise-model-test",
+              "topic": "বিদ্যুৎ",
+              "difficulty": "Hard",
+              "probability": "Board Favourite"
+            },
+            {
+              "id": "hsc-physics-2nd-paper-set-15-q16",
+              "question": "কম্পাঙ্ক 17 Hz এবং তরঙ্গদৈর্ঘ্য 4 m হলে তরঙ্গবেগ কত?",
+              "options": [
+                {
+                  "text": "0.235294 m/s",
+                  "label": "ক"
+                },
+                {
+                  "text": "68 m/s",
+                  "label": "খ"
+                },
+                {
+                  "text": "4.25 m/s",
+                  "label": "গ"
+                },
+                {
+                  "text": "21 m/s",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "খ",
+              "shortSolution": "সঠিক উত্তর: খ। $v=f\\lambda$।",
+              "paper": "HSC Physics 2nd",
+              "subject": "physics-2nd",
+              "setType": "paper-wise-model-test",
+              "topic": "তরঙ্গ",
+              "difficulty": "Hard",
+              "probability": "Conceptual Trap"
+            },
+            {
+              "id": "hsc-physics-2nd-paper-set-15-q17",
+              "question": "18 C আধানকে 5 V বিভব পার্থক্যে সরালে কাজ কত?",
+              "options": [
+                {
+                  "text": "23 J",
+                  "label": "ক"
+                },
+                {
+                  "text": "90 J",
+                  "label": "খ"
+                },
+                {
+                  "text": "3.6 J",
+                  "label": "গ"
+                },
+                {
+                  "text": "0.277778 J",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "খ",
+              "shortSolution": "সঠিক উত্তর: খ। $W=qV$।",
+              "paper": "HSC Physics 2nd",
+              "subject": "physics-2nd",
+              "setType": "paper-wise-model-test",
+              "topic": "তড়িৎ বিভব",
+              "difficulty": "Hard",
+              "probability": "Mega Hot"
+            },
+            {
+              "id": "hsc-physics-2nd-paper-set-15-q18",
+              "question": "আলোর বেগ শূন্য মাধ্যমে প্রায় কত?",
+              "options": [
+                {
+                  "text": "$3\\times10^8$ m/s",
+                  "label": "ক"
+                },
+                {
+                  "text": "$9.8$ m/s",
+                  "label": "খ"
+                },
+                {
+                  "text": "$3\\times10^6$ m/s",
+                  "label": "গ"
+                },
+                {
+                  "text": "$3\\times10^5$ m/s",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "ক",
+              "shortSolution": "সঠিক উত্তর: ক। শূন্য মাধ্যমে আলোর বেগ প্রায় $3\\times10^8$ m/s।",
+              "paper": "HSC Physics 2nd",
+              "subject": "physics-2nd",
+              "setType": "paper-wise-model-test",
+              "topic": "আলোকবিজ্ঞান",
+              "difficulty": "Hard",
+              "probability": "Very Hot"
+            },
+            {
+              "id": "hsc-physics-2nd-paper-set-15-q19",
+              "question": "লেন্সের ক্ষমতার SI একক কী?",
+              "options": [
+                {
+                  "text": "Tesla",
+                  "label": "ক"
+                },
+                {
+                  "text": "Diopter",
+                  "label": "খ"
+                },
+                {
+                  "text": "Joule",
+                  "label": "গ"
+                },
+                {
+                  "text": "Newton",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "খ",
+              "shortSolution": "সঠিক উত্তর: খ। লেন্সের ক্ষমতার একক diopter।",
+              "paper": "HSC Physics 2nd",
+              "subject": "physics-2nd",
+              "setType": "paper-wise-model-test",
+              "topic": "লেন্স",
+              "difficulty": "Hard",
+              "probability": "Board Favourite"
+            },
+            {
+              "id": "hsc-physics-2nd-paper-set-15-q20",
+              "question": "16 kg ভরের বস্তু 8 m উচ্চতায় তুললে বিভব শক্তি কত? ধরা হলো $g=10 m/s^2$।",
+              "options": [
+                {
+                  "text": "160 J",
+                  "label": "ক"
+                },
+                {
+                  "text": "128 J",
+                  "label": "খ"
+                },
+                {
+                  "text": "1280 J",
+                  "label": "গ"
+                },
+                {
+                  "text": "80 J",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "গ",
+              "shortSolution": "সঠিক উত্তর: গ। $E_p=mgh$।",
+              "paper": "HSC Physics 2nd",
+              "subject": "physics-2nd",
+              "setType": "paper-wise-model-test",
+              "topic": "শক্তি",
+              "difficulty": "Hard",
+              "probability": "Conceptual Trap"
+            },
+            {
+              "id": "hsc-physics-2nd-paper-set-15-q21",
+              "question": "i, ii, iii বিবেচনা করো: (i) বল ভেক্টর রাশি (ii) কাজ স্কেলার রাশি (iii) ত্বরণ স্কেলার রাশি। কোনটি সঠিক?",
+              "options": [
+                {
+                  "text": "i, ii ও iii",
+                  "label": "ক"
+                },
+                {
+                  "text": "i ও iii",
+                  "label": "খ"
+                },
+                {
+                  "text": "ii ও iii",
+                  "label": "গ"
+                },
+                {
+                  "text": "i ও ii",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "ঘ",
+              "shortSolution": "সঠিক উত্তর: ঘ। ত্বরণ ভেক্টর রাশি, তাই iii ভুল।",
+              "paper": "HSC Physics 2nd",
+              "subject": "physics-2nd",
+              "setType": "paper-wise-model-test",
+              "topic": "ভৌত রাশি",
+              "difficulty": "Hard",
+              "probability": "Mega Hot"
+            },
+            {
+              "id": "hsc-physics-2nd-paper-set-15-q22",
+              "question": "180 W ক্ষমতার যন্ত্র 3 s চললে শক্তি ব্যয় কত?",
+              "options": [
+                {
+                  "text": "183 J",
+                  "label": "ক"
+                },
+                {
+                  "text": "540 J",
+                  "label": "খ"
+                },
+                {
+                  "text": "0.0166667 J",
+                  "label": "গ"
+                },
+                {
+                  "text": "60 J",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "খ",
+              "shortSolution": "সঠিক উত্তর: খ। $E=Pt$।",
+              "paper": "HSC Physics 2nd",
+              "subject": "physics-2nd",
+              "setType": "paper-wise-model-test",
+              "topic": "ক্ষমতা",
+              "difficulty": "Board Standard",
+              "probability": "Very Hot"
+            },
+            {
+              "id": "hsc-physics-2nd-paper-set-15-q23",
+              "question": "সরল ছন্দিত গতিতে পুনঃস্থাপন বল কিসের সমানুপাতিক?",
+              "options": [
+                {
+                  "text": "বেগ",
+                  "label": "ক"
+                },
+                {
+                  "text": "সরণ",
+                  "label": "খ"
+                },
+                {
+                  "text": "ভর",
+                  "label": "গ"
+                },
+                {
+                  "text": "সময়",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "খ",
+              "shortSolution": "সঠিক উত্তর: খ। SHM-এ $F\\propto -x$।",
+              "paper": "HSC Physics 2nd",
+              "subject": "physics-2nd",
+              "setType": "paper-wise-model-test",
+              "topic": "সরল ছন্দিত গতি",
+              "difficulty": "Board Standard",
+              "probability": "Board Favourite"
+            },
+            {
+              "id": "hsc-physics-2nd-paper-set-15-q24",
+              "question": "চৌম্বক ক্ষেত্রের SI একক কোনটি?",
+              "options": [
+                {
+                  "text": "Volt",
+                  "label": "ক"
+                },
+                {
+                  "text": "Ohm",
+                  "label": "খ"
+                },
+                {
+                  "text": "Newton",
+                  "label": "গ"
+                },
+                {
+                  "text": "Tesla",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "ঘ",
+              "shortSolution": "সঠিক উত্তর: ঘ। চৌম্বক ফ্লাক্স ঘনত্বের একক Tesla।",
+              "paper": "HSC Physics 2nd",
+              "subject": "physics-2nd",
+              "setType": "paper-wise-model-test",
+              "topic": "চৌম্বকত্ব",
+              "difficulty": "Board Standard",
+              "probability": "Conceptual Trap"
+            },
+            {
+              "id": "hsc-physics-2nd-paper-set-15-q25",
+              "question": "একটি বস্তুর আদিবেগ 16 m/s এবং শেষবেগ 22 m/s। সময় 6 s হলে অতিক্রান্ত দূরত্ব কত?",
+              "options": [
+                {
+                  "text": "132 m",
+                  "label": "ক"
+                },
+                {
+                  "text": "114 m",
+                  "label": "খ"
+                },
+                {
+                  "text": "96 m",
+                  "label": "গ"
+                },
+                {
+                  "text": "36 m",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "খ",
+              "shortSolution": "সঠিক উত্তর: খ। $s=\\frac{u+v}{2}t$ সূত্র ব্যবহার করলে দূরত্ব পাওয়া যায়।",
+              "paper": "HSC Physics 2nd",
+              "subject": "physics-2nd",
+              "setType": "paper-wise-model-test",
+              "topic": "গতি",
+              "difficulty": "Board Standard",
+              "probability": "Mega Hot"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

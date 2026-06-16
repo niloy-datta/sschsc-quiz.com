@@ -1,0 +1,301 @@
+DEV-QUIZ-DASHBOARD WEBSITE LIVE STATUS AUDIT REPORT
+Generated: 2026-06-16T01:06:30.109Z
+
+
+========================================================================
+  A. Routes & API Live Status
+========================================================================
+
+Routes:
+------------------------------------------------------------------------
+  [LIVE                ] Home (/)
+  [LIVE                ] /[level] (SSC/HSC Hub)
+  [LIVE                ] /[level]/[subject]
+  [LIVE                ] /[level]/[subject]/chapters
+  [LIVE                ] /[level]/[subject]/chapter/[slug]
+  [LIVE                ] /[level]/[subject]/chapter/[slug]/set/[id]
+  [LIVE                ] /[level]/[subject]/set/[id]
+  [LIVE                ] /[level]/[subject]/model-tests
+  [LIVE                ] /[level]/[subject]/model-tests/[testId]
+  [LIVE                ] /[level]/model-tests (Hub)
+  [LIVE                ] /[level]/final-focus
+  [LIVE                ] /[level]/full-book-test
+  [LIVE                ] /hsc-board-questions
+  [LIVE                ] /hsc-board-questions/[subject]
+  [LIVE                ] /hsc-board-questions/[subject]/[paper]
+  [LIVE                ] /hsc-board-questions/[subject]/[paper]/[year]
+  [LIVE                ] /ssc-board-questions
+  [LIVE                ] /ssc-board-questions/[subject]
+  [LIVE                ] /ssc-board-questions/[subject]/[year]
+  [LIVE (proxy)        ] API /api/subjects
+  [DISABLED            ] API /api/questions
+  [LIVE (proxy)        ] API /api/quizzes
+  [DISABLED (returns 403 — static JSON only)] /api/questions (status check)
+
+API Details:
+  /api/subjects: LIVE (proxy to backend)
+    → Backend-dependent: yes | Static fallback: YES
+  /api/quizzes: LIVE (proxy to backend, answer-stripping)
+    → Backend-dependent: yes | Static fallback: YES
+    → Answer-stripping: yes
+
+========================================================================
+  B. HSC Chapter Names & Set Counts
+========================================================================
+
+
+Physics 1st Paper (physics-1st-paper):
+  Chapter    Name                                     Sets   Q/S   Status    
+  ---------- ---------------------------------------- ------ ----- ----------
+  01         অধ্যায় 01 ⚠                              8      23    WARNING   
+  02         অধ্যায় 02 ⚠                              10     22    OK        
+  03         অধ্যায় 03 ⚠                              10     25    OK        
+  04         অধ্যায় 04 ⚠                              16     31    OK        
+  05         অধ্যায় 05 ⚠                              13     29    OK        
+  06         অধ্যায় 06 ⚠                              13     28    OK        
+  07         অধ্যায় 07 ⚠                              10     25    OK        
+  08         অধ্যায় 08 ⚠                              15     29    OK        
+  09         অধ্যায় 09 ⚠                              10     25    OK        
+  10         অধ্যায় 10 ⚠                              14     30    OK        
+
+Physics 2nd Paper (physics-2nd-paper):
+  Chapter    Name                                     Sets   Q/S   Status    
+  ---------- ---------------------------------------- ------ ----- ----------
+  01         অধ্যায় 01 ⚠                              8      23    WARNING   
+  02         অধ্যায় 02 ⚠                              10     21    OK        
+  03         অধ্যায় 03 ⚠                              10     25    OK        
+  04         অধ্যায় 04 ⚠                              10     22    OK        
+  05         অধ্যায় 05 ⚠                              10     22    OK        
+  06         অধ্যায় 06 ⚠                              10     22    OK        
+  07         অধ্যায় 07 ⚠                              10     22    OK        
+  08         অধ্যায় 08 ⚠                              10     21    OK        
+  09         অধ্যায় 09 ⚠                              10     22    OK        
+  10         অধ্যায় 10 ⚠                              10     22    OK        
+
+Chemistry 1st Paper (chemistry-1st-paper):
+  Chapter    Name                                     Sets   Q/S   Status    
+  ---------- ---------------------------------------- ------ ----- ----------
+  01         অধ্যায় 01 ⚠                              5      25    WARNING   
+  02         অধ্যায় 02 ⚠                              5      25    WARNING   
+  03         অধ্যায় 03 ⚠                              5      25    WARNING   
+  04         অধ্যায় 04 ⚠                              5      25    WARNING   
+  05         অধ্যায় 05 ⚠                              5      25    WARNING   
+
+Chemistry 2nd Paper (chemistry-2nd-paper):
+  Chapter    Name                                     Sets   Q/S   Status    
+  ---------- ---------------------------------------- ------ ----- ----------
+  05         অধ্যায় 05 ⚠                              5      40    WARNING   
+
+Biology 1st Paper (biology-1st-paper):
+  Chapter    Name                                     Sets   Q/S   Status    
+  ---------- ---------------------------------------- ------ ----- ----------
+  01         অধ্যায় 01 ⚠                              10     25    OK        
+  02         অধ্যায় 02 ⚠                              10     25    OK        
+  03         অধ্যায় 03 ⚠                              10     25    OK        
+  04         অধ্যায় 04 ⚠                              10     25    OK        
+  05         অধ্যায় 05 ⚠                              10     25    OK        
+  06         অধ্যায় 06 ⚠                              10     25    OK        
+  07         অধ্যায় 07 ⚠                              10     25    OK        
+  08         অধ্যায় 08 ⚠                              10     25    OK        
+  09         অধ্যায় 09 ⚠                              10     25    OK        
+  10         অধ্যায় 10 ⚠                              10     25    OK        
+  11         অধ্যায় 11 ⚠                              10     25    OK        
+  12         অধ্যায় 12 ⚠                              10     25    OK        
+
+Biology 2nd Paper (biology-2nd-paper):
+  Chapter    Name                                     Sets   Q/S   Status    
+  ---------- ---------------------------------------- ------ ----- ----------
+  01         অধ্যায় 01 ⚠                              6      24    WARNING   
+  02         অধ্যায় 02 ⚠                              6      21    WARNING   
+  03         অধ্যায় 03 ⚠                              2      25    RED       
+  04         অধ্যায় 04 ⚠                              5      25    WARNING   
+  05         অধ্যায় 05 ⚠                              5      25    WARNING   
+  06         অধ্যায় 06 ⚠                              1      25    RED       
+  07         অধ্যায় 07 ⚠                              5      25    WARNING   
+  08         অধ্যায় 08 ⚠                              5      25    WARNING   
+  09         অধ্যায় 09 ⚠                              1      25    RED       
+  10         অধ্যায় 10 ⚠                              1      25    RED       
+  11         অধ্যায় 11 ⚠                              1      25    RED       
+  12         অধ্যায় 12 ⚠                              1      25    RED       
+
+Higher Math 1st Paper (higher-math-1st-paper):
+  Chapter    Name                                     Sets   Q/S   Status    
+  ---------- ---------------------------------------- ------ ----- ----------
+  01         অধ্যায় 01 ⚠                              5      25    WARNING   
+  02         অধ্যায় 02 ⚠                              5      25    WARNING   
+  03         অধ্যায় 03 ⚠                              5      25    WARNING   
+  04         অধ্যায় 04 ⚠                              5      25    WARNING   
+  05         অধ্যায় 05 ⚠                              5      25    WARNING   
+  06         অধ্যায় 06 ⚠                              5      25    WARNING   
+  07         অধ্যায় 07 ⚠                              5      25    WARNING   
+  08         অধ্যায় 08 ⚠                              5      25    WARNING   
+  09         অধ্যায় 09 ⚠                              5      25    WARNING   
+  10         অধ্যায় 10 ⚠                              5      25    WARNING   
+
+Higher Math 2nd Paper (higher-math-2nd-paper):
+  No chapters found (all data in chapter-scoped model tests)
+  Chapter    Name                                     Sets   Q/S   Status    
+  ---------- ---------------------------------------- ------ ----- ----------
+
+========================================================================
+  C. SSC Chapter Names & Set Counts
+========================================================================
+
+
+Physics (ssc/physics):
+  Chapter    Name                                Sets   Q/S   Status    
+  ---------- ----------------------------------- ------ ----- ----------
+  01         অধ্যায় 01 ⚠                         6      25    WARNING   
+  02         অধ্যায় 02 ⚠                         5      25    WARNING   
+  03         অধ্যায় 03 ⚠                         5      25    WARNING   
+  04         অধ্যায় 04 ⚠                         5      25    WARNING   
+  05         অধ্যায় 05 ⚠                         5      25    WARNING   
+  06         অধ্যায় 06 ⚠                         5      25    WARNING   
+  07         অধ্যায় 07 ⚠                         5      25    WARNING   
+  08         অধ্যায় 08 ⚠                         5      25    WARNING   
+  09         অধ্যায় 09 ⚠                         5      25    WARNING   
+  10         অধ্যায় 10 ⚠                         5      25    WARNING   
+  11         অধ্যায় 11 ⚠                         5      25    WARNING   
+  12         অধ্যায় 12 ⚠                         5      25    WARNING   
+  13         অধ্যায় 13 ⚠                         5      25    WARNING   
+  14         অধ্যায় 14 ⚠                         5      25    WARNING   
+
+Chemistry (ssc/chemistry):
+  Chapter    Name                                Sets   Q/S   Status    
+  ---------- ----------------------------------- ------ ----- ----------
+  01         অধ্যায় 01 ⚠                         5      25    WARNING   
+  02         অধ্যায় 02 ⚠                         5      25    WARNING   
+  03         অধ্যায় 03 ⚠                         5      25    WARNING   
+  04         অধ্যায় 04 ⚠                         7      26    WARNING   
+  05         অধ্যায় 05 ⚠                         9      44    WARNING   
+  06         অধ্যায় 06 ⚠                         6      43    WARNING   
+  07         অধ্যায় 07 ⚠                         5      25    WARNING   
+  08         অধ্যায় 08 ⚠                         5      25    WARNING   
+  09         অধ্যায় 09 ⚠                         7      26    WARNING   
+  10         অধ্যায় 10 ⚠                         1      25    RED       
+  11         অধ্যায় 11 ⚠                         5      25    WARNING   
+  12         অধ্যায় 12 ⚠                         5      25    WARNING   
+
+Biology (ssc/biology):
+  No chapters found (all data in chapter-scoped model tests)
+  Chapter    Name                                Sets   Q/S   Status    
+  ---------- ----------------------------------- ------ ----- ----------
+
+Higher Math (ssc/higher-math):
+  Chapter    Name                                Sets   Q/S   Status    
+  ---------- ----------------------------------- ------ ----- ----------
+  01         অধ্যায় 01 ⚠                         5      25    WARNING   
+  02         অধ্যায় 02 ⚠                         5      25    WARNING   
+  03         অধ্যায় 03 ⚠                         5      25    WARNING   
+  04         অধ্যায় 04 ⚠                         5      25    WARNING   
+  05         অধ্যায় 05 ⚠                         5      25    WARNING   
+  06         অধ্যায় 06 ⚠                         5      25    WARNING   
+  07         অধ্যায় 07 ⚠                         5      25    WARNING   
+  08         অধ্যায় 08 ⚠                         5      25    WARNING   
+  09         অধ্যায় 09 ⚠                         7      26    WARNING   
+  10         অধ্যায় 10 ⚠                         5      25    WARNING   
+  11         অধ্যায় 11 ⚠                         5      22    WARNING   
+  12         অধ্যায় 12 ⚠                         5      25    WARNING   
+  13         অধ্যায় 13 ⚠                         5      25    WARNING   
+
+General Math (ssc/general-math):
+  Chapter    Name                                Sets   Q/S   Status    
+  ---------- ----------------------------------- ------ ----- ----------
+  01         অধ্যায় 01 ⚠                         4      42    RED       
+  02         অধ্যায় 02 ⚠                         1      30    RED       
+  09         অধ্যায় 09 ⚠                         1      30    RED       
+  11         অধ্যায় 11 ⚠                         1      30    RED       
+  12         অধ্যায় 12 ⚠                         1      30    RED       
+  13         অধ্যায় 13 ⚠                         1      1     RED       
+  16         অধ্যায় 16 ⚠                         1      30    RED       
+  17         অধ্যায় 17 ⚠                         1      30    RED       
+
+========================================================================
+  D. SVG / Image Audit
+========================================================================
+
+  Total SVG files in public/images/quiz/: 420
+  Premium SVGs: 2060
+  Generated SVGs: ~2245
+
+  Missing/SVG files referenced but not found: 0
+
+========================================================================
+  E. Route Data File Audit
+========================================================================
+
+  Quiz Data (public/quiz-data/):
+    [OK] public/quiz-data/ssc/physics.json
+    [OK] public/quiz-data/ssc/chemistry.json
+    [OK] public/quiz-data/ssc/biology.json
+    [OK] public/quiz-data/ssc/higher-math.json
+    [OK] public/quiz-data/ssc/general-math.json
+    [OK] public/quiz-data/hsc/physics-1st-paper.json
+    [OK] public/quiz-data/hsc/physics-2nd-paper.json
+    [OK] public/quiz-data/hsc/chemistry-1st-paper.json
+    [OK] public/quiz-data/hsc/chemistry-2nd-paper.json
+    [OK] public/quiz-data/hsc/biology-1st-paper.json
+    [OK] public/quiz-data/hsc/biology-2nd-paper.json
+    [OK] public/quiz-data/hsc/higher-math-1st-paper.json
+    [OK] public/quiz-data/hsc/higher-math-2nd-paper.json
+
+  Model Test Index (public/quiz-data/):
+    [OK] public/quiz-data/ssc/physics.model-tests.index.json
+    [OK] public/quiz-data/ssc/chemistry.model-tests.index.json
+    [OK] public/quiz-data/ssc/biology.model-tests.index.json
+    [OK] public/quiz-data/ssc/higher-math.model-tests.index.json
+    [OK] public/quiz-data/ssc/general-math.model-tests.index.json
+    [OK] public/quiz-data/hsc/physics-1st-paper.model-tests.index.json
+    [OK] public/quiz-data/hsc/physics-2nd-paper.model-tests.index.json
+    [OK] public/quiz-data/hsc/chemistry-1st-paper.model-tests.index.json
+    [OK] public/quiz-data/hsc/chemistry-2nd-paper.model-tests.index.json
+    [OK] public/quiz-data/hsc/biology-1st-paper.model-tests.index.json
+    [OK] public/quiz-data/hsc/biology-2nd-paper.model-tests.index.json
+    [OK] public/quiz-data/hsc/higher-math-1st-paper.model-tests.index.json
+    [OK] public/quiz-data/hsc/higher-math-2nd-paper.model-tests.index.json
+
+  Manifest:
+    [OK] public/quiz-data/manifest.json
+
+  Question Files (public/questions/):
+    [OK] public/questions/physics/ — 123 JSON files, has index.json
+    [OK] public/questions/chemistry/ — 136 JSON files, has index.json
+    [OK] public/questions/biology/ — 45 JSON files, has index.json
+    [OK] public/questions/higher-math/ — 126 JSON files, has index.json
+    [OK] public/questions/general-math/ — 64 JSON files, has index.json
+    [OK] public/questions/physics-1st-paper/ — 235 JSON files, has index.json
+    [OK] public/questions/physics-2nd-paper/ — 135 JSON files, has index.json
+    [OK] public/questions/chemistry-1st-paper/ — 102 JSON files, has index.json
+    [OK] public/questions/chemistry-2nd-paper/ — 66 JSON files, has index.json
+    [OK] public/questions/biology-1st-paper/ — 184 JSON files, has index.json
+    [OK] public/questions/biology-2nd-paper/ — 99 JSON files, has index.json
+    [OK] public/questions/higher-math-1st-paper/ — 110 JSON files, has index.json
+    [OK] public/questions/higher-math-2nd-paper/ — 59 JSON files, has index.json
+    [MISSING] public/questions/ict/ — directory not found
+
+========================================================================
+  SUMMARY
+========================================================================
+
+  Total chapters detected: 107
+  RED (critical, <5 sets):   15
+  WARNING (5-9 sets):        62
+  OK (10+ sets):             30
+
+  TOP PROBLEMS:
+  ------------------------------------------------------------
+  1. WARNING: Physics 1st Paper — Chapter 01: generic name "অধ্যায় 01"
+  2. INCOMPLETE: Physics 1st Paper — Chapter 01: 4 sets have <25 questions
+  3. WARNING: Physics 1st Paper — Chapter 02: generic name "অধ্যায় 02"
+  4. INCOMPLETE: Physics 1st Paper — Chapter 02: 7 sets have <25 questions
+  5. WARNING: Physics 1st Paper — Chapter 03: generic name "অধ্যায় 03"
+  6. INCOMPLETE: Physics 1st Paper — Chapter 03: 3 sets have <25 questions
+  7. WARNING: Physics 1st Paper — Chapter 04: generic name "অধ্যায় 04"
+  8. WARNING: Physics 1st Paper — Chapter 05: generic name "অধ্যায় 05"
+  9. WARNING: Physics 1st Paper — Chapter 06: generic name "অধ্যায় 06"
+  10. WARNING: Physics 1st Paper — Chapter 07: generic name "অধ্যায় 07"
+  ... and 133 more
+
+────────────────────────────────────────────────────────────────────────
+Report saved to: data/website-audit-report.json
+This file:       data/website-audit-report.txt

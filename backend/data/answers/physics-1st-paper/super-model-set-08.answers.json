@@ -1,163 +1,94 @@
 {
-  "physics-1st-paper-hsc-science-physics-1st-paper-model-tests-super-model-set-08-ts-0": {
-    "answer": "ঘূর্ণনশীল",
-    "answerIndex": 1,
-    "difficulty": 1200,
-    "explanation": "কার্ল শূন্য না হলে (∇ ×V  =0) ভেক্টর ক্ষেত্রটি ঘূর্ণনশীল (Rotational) এবং অসংরক্ষণশীল হয়।",
-    "topic": "super-model-set-08"
+  "super-model-set-08-q01": {
+    "correctOption": "ঘূর্ণনশীল",
+    "explanation": "কার্ল শূন্য না হলে (∇ ×V  =0) ভেক্টর ক্ষেত্রটি ঘূর্ণনশীল (Rotational) এবং অসংরক্ষণশীল হয়।"
   },
-  "physics-1st-paper-hsc-science-physics-1st-paper-model-tests-super-model-set-08-ts-1": {
-    "answer": "tan−1 (4)",
-    "answerIndex": 2,
-    "difficulty": 1200,
-    "explanation": "R=H⟹g v0 2 ​sin(2θ) ​=2g v0 2 ​sin2 θ ​⟹2sinθcosθ=2 sin2 θ ​⟹tanθ=4।",
-    "topic": "super-model-set-08"
+  "super-model-set-08-q02": {
+    "correctOption": "tan−1 (4)",
+    "explanation": "R=H⟹g v0 2 ​sin(2θ) ​=2g v0 2 ​sin2 θ ​⟹2sinθcosθ=2 sin2 θ ​⟹tanθ=4।"
   },
-  "physics-1st-paper-hsc-science-physics-1st-paper-model-tests-super-model-set-08-ts-2": {
-    "answer": "12:1",
-    "answerIndex": 1,
-    "difficulty": 1200,
-    "explanation": "মিনিটের কাঁটার পর্যায়কাল 1 ঘন্টা, ঘন্টার কাঁটার পর্যায়কাল 12 ঘন্টা। ω∝1/T, তাই অনুপাত 1 12 ​=12:1।",
-    "topic": "super-model-set-08"
+  "super-model-set-08-q03": {
+    "correctOption": "12:1",
+    "explanation": "মিনিটের কাঁটার পর্যায়কাল 1 ঘন্টা, ঘন্টার কাঁটার পর্যায়কাল 12 ঘন্টা। ω∝1/T, তাই অনুপাত 1 12 ​=12:1।"
   },
-  "physics-1st-paper-hsc-science-physics-1st-paper-model-tests-super-model-set-08-ts-3": {
-    "answer": "746 W",
-    "answerIndex": 1,
-    "difficulty": 1200,
-    "explanation": "ক্ষমতার ব্রিটিশ একক হর্স পাওয়ার। 1 HP=746 Watt।",
-    "topic": "super-model-set-08"
+  "super-model-set-08-q04": {
+    "correctOption": "746 W",
+    "explanation": "ক্ষমতার ব্রিটিশ একক হর্স পাওয়ার। 1 HP=746 Watt।"
   },
-  "physics-1st-paper-hsc-science-physics-1st-paper-model-tests-super-model-set-08-ts-4": {
-    "answer": "ঘনফলের সমানুপাতিক",
-    "answerIndex": 2,
-    "difficulty": 1200,
-    "explanation": "কেপলারের পর্যায়কালের সূত্র: T2 ∝R3 ।",
-    "topic": "super-model-set-08"
+  "super-model-set-08-q05": {
+    "correctOption": "ঘনফলের সমানুপাতিক",
+    "explanation": "কেপলারের পর্যায়কালের সূত্র: T2 ∝R3 ।"
   },
-  "physics-1st-paper-hsc-science-physics-1st-paper-model-tests-super-model-set-08-ts-5": {
-    "answer": "হ্রাস পায়",
-    "answerIndex": 1,
-    "difficulty": 1200,
-    "explanation": "সাবান বা ডিটারজেন্ট জাতীয় পদার্থ পানিতে দ্রবীভূত হলে তা পানির পৃষ্ঠটান হ্রাস করে, ফলে ময়লা পরিষ্কার করা সহজ হয়।",
-    "topic": "super-model-set-08"
+  "super-model-set-08-q06": {
+    "correctOption": "হ্রাস পায়",
+    "explanation": "সাবান বা ডিটারজেন্ট জাতীয় পদার্থ পানিতে দ্রবীভূত হলে তা পানির পৃষ্ঠটান হ্রাস করে, ফলে ময়লা পরিষ্কার করা সহজ হয়।"
   },
-  "physics-1st-paper-hsc-science-physics-1st-paper-model-tests-super-model-set-08-ts-6": {
-    "answer": "মূলবিন্দুগামী সরলরেখা",
-    "answerIndex": 1,
-    "difficulty": 1200,
-    "explanation": "T2 =4π2 g L ​⟹g=(T2 4π2 ​)L। T ধ্রুবক হলে g∝L, যা একটি মূলবিন্দুগামী সরলরেখা নির্দেশ করে।",
-    "topic": "super-model-set-08"
+  "super-model-set-08-q07": {
+    "correctOption": "মূলবিন্দুগামী সরলরেখা",
+    "explanation": "T2 =4π2 g L ​⟹g=(T2 4π2 ​)L। T ধ্রুবক হলে g∝L, যা একটি মূলবিন্দুগামী সরলরেখা নির্দেশ করে।"
   },
-  "physics-1st-paper-hsc-science-physics-1st-paper-model-tests-super-model-set-08-ts-7": {
-    "answer": "তাপমাত্রা",
-    "answerIndex": 2,
-    "difficulty": 1200,
-    "explanation": "নির্দিষ্ট ভরের গ্যাসের স্থির তাপমাত্রায় আয়তন তার চাপের ব্যস্তানুপাতিক (বয়েলের সূত্র)।",
-    "topic": "super-model-set-08"
+  "super-model-set-08-q08": {
+    "correctOption": "তাপমাত্রা",
+    "explanation": "নির্দিষ্ট ভরের গ্যাসের স্থির তাপমাত্রায় আয়তন তার চাপের ব্যস্তানুপাতিক (বয়েলের সূত্র)।"
   },
-  "physics-1st-paper-hsc-science-physics-1st-paper-model-tests-super-model-set-08-ts-8": {
-    "answer": "90°",
-    "answerIndex": 2,
-    "difficulty": 1200,
-    "explanation": "R=P2 +P2 +2P2 cosθ ​=P2(1+cosθ) ​। প্রশ্নমতে, R=P2 ​। সুতরাং cosθ=0⟹θ=90∘ ।",
-    "topic": "super-model-set-08"
+  "super-model-set-08-q09": {
+    "correctOption": "90°",
+    "explanation": "R=P2 +P2 +2P2 cosθ ​=P2(1+cosθ) ​। প্রশ্নমতে, R=P2 ​। সুতরাং cosθ=0⟹θ=90∘ ।"
   },
-  "physics-1st-paper-hsc-science-physics-1st-paper-model-tests-super-model-set-08-ts-9": {
-    "answer": "গাড়ির ভর",
-    "answerIndex": 3,
-    "difficulty": 1200,
-    "explanation": "ব্যাংকিং কোণ tanθ=rg v2 ​। সমীকরণে ভরের (m) কোনো উপস্থিতি নেই, তাই এটি গাড়ির ভরের ওপর নির্ভর করে না।",
-    "topic": "super-model-set-08"
+  "super-model-set-08-q10": {
+    "correctOption": "গাড়ির ভর",
+    "explanation": "ব্যাংকিং কোণ tanθ=rg v2 ​। সমীকরণে ভরের (m) কোনো উপস্থিতি নেই, তাই এটি গাড়ির ভরের ওপর নির্ভর করে না।"
   },
-  "physics-1st-paper-hsc-science-physics-1st-paper-model-tests-super-model-set-08-ts-10": {
-    "answer": "gR/2 ​",
-    "answerIndex": 1,
-    "difficulty": 1200,
-    "explanation": "উপগ্রহের বেগ v=R+h GM ​ ​। h=R বসালে v=2R GM ​ ​। যেহেতু g=R2 GM ​, তাই GM=gR2 । মান বসালে v=2R gR2 ​ ​=2 gR ​ ​।",
-    "topic": "super-model-set-08"
+  "super-model-set-08-q11": {
+    "correctOption": "gR/2 ​",
+    "explanation": "উপগ্রহের বেগ v=R+h GM ​ ​। h=R বসালে v=2R GM ​ ​। যেহেতু g=R2 GM ​, তাই GM=gR2 । মান বসালে v=2R gR2 ​ ​=2 gR ​ ​।"
   },
-  "physics-1st-paper-hsc-science-physics-1st-paper-model-tests-super-model-set-08-ts-11": {
-    "answer": "0.6",
-    "answerIndex": 3,
-    "difficulty": 1200,
-    "explanation": "তাত্ত্বিকভাবে পয়সনের অনুপাত −1 থেকে 0.5 এর মধ্যে থাকে। তাই 0.6 হওয়া অসম্ভব।",
-    "topic": "super-model-set-08"
+  "super-model-set-08-q12": {
+    "correctOption": "0.6",
+    "explanation": "তাত্ত্বিকভাবে পয়সনের অনুপাত −1 থেকে 0.5 এর মধ্যে থাকে। তাই 0.6 হওয়া অসম্ভব।"
   },
-  "physics-1st-paper-hsc-science-physics-1st-paper-model-tests-super-model-set-08-ts-12": {
-    "answer": "দোলক কাজ করবে না",
-    "answerIndex": 3,
-    "difficulty": 1200,
-    "explanation": "ভর শূন্য হলে অভিকর্ষজ প্রত্যয়নী বল (mgsinθ) শূন্য হয়ে যাবে, ফলে এটি দোলক হিসেবে কোনো আচরণই করতে পারবে না।",
-    "topic": "super-model-set-08"
+  "super-model-set-08-q13": {
+    "correctOption": "দোলক কাজ করবে না",
+    "explanation": "ভর শূন্য হলে অভিকর্ষজ প্রত্যয়নী বল (mgsinθ) শূন্য হয়ে যাবে, ফলে এটি দোলক হিসেবে কোনো আচরণই করতে পারবে না।"
   },
-  "physics-1st-paper-hsc-science-physics-1st-paper-model-tests-super-model-set-08-ts-13": {
-    "answer": "1.25 kg/m3",
-    "answerIndex": 0,
-    "difficulty": 1200,
-    "explanation": "ρ=V M ​=22.4 L 28 g ​=1.25 g/L=1.25 kg/m3 ।",
-    "topic": "super-model-set-08"
+  "super-model-set-08-q14": {
+    "correctOption": "1.25 kg/m3",
+    "explanation": "ρ=V M ​=22.4 L 28 g ​=1.25 g/L=1.25 kg/m3 ।"
   },
-  "physics-1st-paper-hsc-science-physics-1st-paper-model-tests-super-model-set-08-ts-14": {
-    "answer": "cos−1 (−P/Q)",
-    "answerIndex": 1,
-    "difficulty": 1200,
-    "explanation": "লব্ধি স্রোতের সাথে 90° কোণ করলে, P+Qcosα=0⟹cosα=−P/Q⟹α=cos−1 (−P/Q)।",
-    "topic": "super-model-set-08"
+  "super-model-set-08-q15": {
+    "correctOption": "cos−1 (−P/Q)",
+    "explanation": "লব্ধি স্রোতের সাথে 90° কোণ করলে, P+Qcosα=0⟹cosα=−P/Q⟹α=cos−1 (−P/Q)।"
   },
-  "physics-1st-paper-hsc-science-physics-1st-paper-model-tests-super-model-set-08-ts-15": {
-    "answer": "2:π",
-    "answerIndex": 0,
-    "difficulty": 1200,
-    "explanation": "সরণ হলো আদি ও শেষ বিন্দুর সরলরৈখিক দূরত্ব (ব্যাস = 2r)। দূরত্ব হলো পরিধির অর্ধেক (πr)। অনুপাত = 2r/πr=2:π।",
-    "topic": "super-model-set-08"
+  "super-model-set-08-q16": {
+    "correctOption": "2:π",
+    "explanation": "সরণ হলো আদি ও শেষ বিন্দুর সরলরৈখিক দূরত্ব (ব্যাস = 2r)। দূরত্ব হলো পরিধির অর্ধেক (πr)। অনুপাত = 2r/πr=2:π।"
   },
-  "physics-1st-paper-hsc-science-physics-1st-paper-model-tests-super-model-set-08-ts-16": {
-    "answer": "একক নেই",
-    "answerIndex": 3,
-    "difficulty": 1200,
-    "explanation": "কর্মদক্ষতা হলো লভ্য কার্যকর শক্তি এবং মোট প্রদত্ত শক্তির অনুপাত। দুটি সমজাতীয় রাশির অনুপাত হওয়ায় এর কোনো একক নেই। (একে শতকরায় প্রকাশ করা হয়, তবে % কোনো ভৌত একক নয়)।",
-    "topic": "super-model-set-08"
+  "super-model-set-08-q17": {
+    "correctOption": "একক নেই",
+    "explanation": "কর্মদক্ষতা হলো লভ্য কার্যকর শক্তি এবং মোট প্রদত্ত শক্তির অনুপাত। দুটি সমজাতীয় রাশির অনুপাত হওয়ায় এর কোনো একক নেই। (একে শতকরায় প্রকাশ করা হয়, তবে % কোনো ভৌত একক নয়)।"
   },
-  "physics-1st-paper-hsc-science-physics-1st-paper-model-tests-super-model-set-08-ts-17": {
-    "answer": "0",
-    "answerIndex": 2,
-    "difficulty": 1200,
-    "explanation": "আপাত ওজন W′ =m(g−a)। লিফট g ত্বরণে নিচে নামলে a=g, ফলে W′ =m(g−g)=0। একে ওজনহীনতা বলে।",
-    "topic": "super-model-set-08"
+  "super-model-set-08-q18": {
+    "correctOption": "0",
+    "explanation": "আপাত ওজন W′ =m(g−a)। লিফট g ত্বরণে নিচে নামলে a=g, ফলে W′ =m(g−g)=0। একে ওজনহীনতা বলে।"
   },
-  "physics-1st-paper-hsc-science-physics-1st-paper-model-tests-super-model-set-08-ts-18": {
-    "answer": "N/kg",
-    "answerIndex": 1,
-    "difficulty": 1200,
-    "explanation": "মহাকর্ষীয় প্রাবল্য E=F/m। তাই একক হবে N/kg (যা ত্বরণের একক m/s2 এর সমতুল্য)।",
-    "topic": "super-model-set-08"
+  "super-model-set-08-q19": {
+    "correctOption": "N/kg",
+    "explanation": "মহাকর্ষীয় প্রাবল্য E=F/m। তাই একক হবে N/kg (যা ত্বরণের একক m/s2 এর সমতুল্য)।"
   },
-  "physics-1st-paper-hsc-science-physics-1st-paper-model-tests-super-model-set-08-ts-19": {
-    "answer": "1:1",
-    "answerIndex": 2,
-    "difficulty": 1200,
-    "explanation": "ইয়ং গুণাঙ্ক পদার্থের উপাদানের ওপর নির্ভর করে, তারের আকার বা আয়তনের ওপর নয়। যেহেতু দুটি তার একই পদার্থের, তাই অনুপাত 1:1 হবে।",
-    "topic": "super-model-set-08"
+  "super-model-set-08-q20": {
+    "correctOption": "1:1",
+    "explanation": "ইয়ং গুণাঙ্ক পদার্থের উপাদানের ওপর নির্ভর করে, তারের আকার বা আয়তনের ওপর নয়। যেহেতু দুটি তার একই পদার্থের, তাই অনুপাত 1:1 হবে।"
   },
-  "physics-1st-paper-hsc-science-physics-1st-paper-model-tests-super-model-set-08-ts-20": {
-    "answer": "4 m",
-    "answerIndex": 2,
-    "difficulty": 1200,
-    "explanation": "T=2πL/g ​⟹4=2πL/π2 ​⟹4=2π(L0.5 /π)⟹4=2L ​⟹L ​=2⟹L=4 m।",
-    "topic": "super-model-set-08"
+  "super-model-set-08-q21": {
+    "correctOption": "4 m",
+    "explanation": "T=2πL/g ​⟹4=2πL/π2 ​⟹4=2π(L0.5 /π)⟹4=2L ​⟹L ​=2⟹L=4 m।"
   },
-  "physics-1st-paper-hsc-science-physics-1st-paper-model-tests-super-model-set-08-ts-21": {
-    "answer": "পরম তাপমাত্রা দ্বিগুণ করলে",
-    "answerIndex": 1,
-    "difficulty": 1200,
-    "explanation": "গড় গতিশক্তি Ek ​∝T (পরম তাপমাত্রা)। তাই পরম তাপমাত্রা দ্বিগুণ করলে গতিশক্তি দ্বিগুণ হবে।",
-    "topic": "super-model-set-08"
+  "super-model-set-08-q22": {
+    "correctOption": "পরম তাপমাত্রা দ্বিগুণ করলে",
+    "explanation": "গড় গতিশক্তি Ek ​∝T (পরম তাপমাত্রা)। তাই পরম তাপমাত্রা দ্বিগুণ করলে গতিশক্তি দ্বিগুণ হবে।"
   },
-  "physics-1st-paper-hsc-science-physics-1st-paper-model-tests-super-model-set-08-ts-22": {
-    "answer": "হাইগ্রোমিটার",
-    "answerIndex": 2,
-    "difficulty": 1200,
-    "explanation": "হাইগ্রোমিটার বা আর্দ্রতামাপক যন্ত্র দিয়ে বায়ুর আপেক্ষিক আর্দ্রতা নির্ণয় করা হয়।",
-    "topic": "super-model-set-08"
+  "super-model-set-08-q23": {
+    "correctOption": "হাইগ্রোমিটার",
+    "explanation": "হাইগ্রোমিটার বা আর্দ্রতামাপক যন্ত্র দিয়ে বায়ুর আপেক্ষিক আর্দ্রতা নির্ণয় করা হয়।"
   }
 }

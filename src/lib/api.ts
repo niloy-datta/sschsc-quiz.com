@@ -19,10 +19,29 @@ export class ApiError extends Error {
     message: string,
     public status: number,
     public detail?: unknown,
+    public retryable = false,
   ) {
     super(message);
     this.name = "ApiError";
   }
+}
+
+/**
+ * Returns true when the error means the backend is simply unreachable
+ * (network down, CORS, or 5xx without a body).
+ */
+export function isBackendUnavailable(err: unknown): boolean {
+  if (!(err instanceof ApiError)) return false;
+  if (err.status >= 500 && err.retryable) return true;
+  return false;
+}
+
+/**
+ * Returns true when a Response object signals the backend is unreachable
+ * (5xx with no JSON body, which typically means the server is down).
+ */
+function isUnreachableResponse(res: Response): boolean {
+  return res.status >= 500 && !res.headers.get("content-type")?.includes("json");
 }
 
 function parseErrorMessage(data: unknown, fallback: string): string {
@@ -60,21 +79,47 @@ export async function apiRequest<T = unknown>(
     headers.set("Content-Type", "application/json");
   }
 
-  const res = await fetch(buildUrl(path), {
-    ...options,
-    credentials: "include",
-    headers,
-  });
+  // Retry transparently on network failures and 5xx so transient
+  // backend restarts don't immediately surface as errors to the user.
+  const maxAttempts = 3; // 1 initial + 2 retries
+  const UNAVAILABLE_MSG =
+    "Backend API unavailable — start FastAPI on port 8000 (`pnpm dev:backend`)";
+  let res!: Response;
 
-  if (!res.ok) {
-    const errorData = await res.json().catch(() => null);
-    let fallback = `API request failed (${res.status})`;
-    if (res.status >= 500 && !errorData) {
-      fallback =
-        "Backend API unavailable — start FastAPI on port 8000 (`pnpm dev:backend`)";
+  for (let attempt = 0; attempt < maxAttempts; attempt++) {
+    try {
+      res = await fetch(buildUrl(path), {
+        ...options,
+        credentials: "include",
+        headers,
+      });
+    } catch (networkErr) {
+      // fetch() throws on DNS failure, connection refused, CORS, etc.
+      // This is the most common case when the backend hasn't started yet.
+      if (attempt < maxAttempts - 1) {
+        await new Promise((r) => setTimeout(r, 1500 * (attempt + 1)));
+        continue;
+      }
+      throw new ApiError(UNAVAILABLE_MSG, 0, null, true);
     }
-    const message = parseErrorMessage(errorData, fallback);
-    throw new ApiError(message, res.status, errorData);
+
+    // Server responded but with 5xx and no JSON body — likely still starting.
+    if (isUnreachableResponse(res)) {
+      if (attempt < maxAttempts - 1) {
+        await new Promise((r) => setTimeout(r, 1500 * (attempt + 1)));
+        continue;
+      }
+      throw new ApiError(UNAVAILABLE_MSG, res.status, null, true);
+    }
+
+    if (!res.ok) {
+      const errorData = await res.json().catch(() => null);
+      const fallback = `API request failed (${res.status})`;
+      const message = parseErrorMessage(errorData, fallback);
+      throw new ApiError(message, res.status, errorData);
+    }
+
+    break; // success
   }
 
   const text = await res.text();
@@ -83,6 +128,19 @@ export async function apiRequest<T = unknown>(
 }
 
 export const api = {
+  /**
+   * Check whether the FastAPI backend is reachable.
+   * Useful for showing a retry banner on login / dashboard pages.
+   */
+  async checkBackend(): Promise<boolean> {
+    try {
+      await apiRequest<unknown>('/api/auth/me');
+      return true;
+    } catch {
+      return false;
+    }
+  },
+
   get: <T>(path: string, init?: RequestInit) =>
     apiRequest<T>(path, { ...init, method: "GET" }),
 

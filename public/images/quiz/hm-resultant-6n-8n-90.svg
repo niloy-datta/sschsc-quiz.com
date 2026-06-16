@@ -1,0 +1,24 @@
+<svg width="100%" height="100%" viewBox="0 0 420 260" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Resultant of 6 N and 8 N at 90°">
+  <defs>
+    <marker id="arrow" markerWidth="8" markerHeight="8" refX="7" refY="3.5" orient="auto">
+      <path d="M0,0 L0,7 L8,3.5 z" fill="#0f172a"/>
+    </marker>
+    <marker id="arrowBlue" markerWidth="8" markerHeight="8" refX="7" refY="3.5" orient="auto">
+      <path d="M0,0 L0,7 L8,3.5 z" fill="#2563eb"/>
+    </marker>
+  </defs>
+  <rect width="420" height="260" rx="18" fill="#f8fafc"/>
+  <rect x="14" y="14" width="392" height="232" rx="14" fill="#ffffff" stroke="#cbd5e1" stroke-width="1.5"/>
+  <text x="210.0" y="38" text-anchor="middle" font-family="Arial, sans-serif" font-size="15" font-weight="700" fill="#0f172a">Resultant of 6 N and 8 N at 90°</text>
+  
+  <line x1="130" y1="190" x2="280" y2="190" stroke="#2563eb" stroke-width="3" marker-end="url(#arrowBlue)"/>
+  <line x1="130" y1="190" x2="130" y2="70" stroke="#16a34a" stroke-width="3" marker-end="url(#arrow)"/>
+  <line x1="280" y1="190" x2="280" y2="70" stroke="#94a3b8" stroke-width="2" stroke-dasharray="5 5"/>
+  <line x1="130" y1="70" x2="280" y2="70" stroke="#94a3b8" stroke-width="2" stroke-dasharray="5 5"/>
+  <line x1="130" y1="190" x2="280" y2="70" stroke="#ea580c" stroke-width="3" marker-end="url(#arrow)"/>
+  <path d="M130 168 H152 V190" fill="none" stroke="#0f172a" stroke-width="2"/>
+  <text x="205" y="208" text-anchor="middle" font-size="12" fill="#2563eb">6 N</text>
+  <text x="112" y="130" text-anchor="middle" font-size="12" fill="#16a34a">8 N</text>
+  <text x="210" y="120" font-size="12" fill="#ea580c">Resultant / equilibrant</text>
+
+</svg>

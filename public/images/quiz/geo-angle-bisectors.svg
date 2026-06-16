@@ -1,0 +1,24 @@
+<svg width="100%" height="100%" viewBox="0 0 420 260" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Angle Bisectors in PQRS">
+  <defs>
+    <marker id="arrow" markerWidth="8" markerHeight="8" refX="7" refY="3.5" orient="auto">
+      <path d="M0,0 L0,7 L8,3.5 z" fill="#0f172a"/>
+    </marker>
+    <marker id="arrowBlue" markerWidth="8" markerHeight="8" refX="7" refY="3.5" orient="auto">
+      <path d="M0,0 L0,7 L8,3.5 z" fill="#2563eb"/>
+    </marker>
+  </defs>
+  <rect width="420" height="260" rx="18" fill="#f8fafc"/>
+  <rect x="14" y="14" width="392" height="232" rx="14" fill="#ffffff" stroke="#cbd5e1" stroke-width="1.5"/>
+  <text x="210.0" y="38" text-anchor="middle" font-family="Arial, sans-serif" font-size="15" font-weight="700" fill="#0f172a">Angle Bisectors in PQRS</text>
+  
+  <polygon points="88,178 160,66 305,170 205,205" fill="none" stroke="#2563eb" stroke-width="2.6"/>
+  <text x="78" y="192" font-size="12" fill="#0f172a">P</text><text x="160" y="57" text-anchor="middle" font-size="12" fill="#0f172a">Q</text>
+  <text x="313" y="174" font-size="12" fill="#0f172a">R</text><text x="208" y="224" font-size="12" fill="#0f172a">S</text>
+  <line x1="160" y1="66" x2="185" y2="144" stroke="#ea580c" stroke-width="2.2"/>
+  <line x1="88" y1="178" x2="185" y2="144" stroke="#ea580c" stroke-width="2.2"/>
+  <circle cx="185" cy="144" r="5" fill="#ea580c"/><text x="194" y="142" font-size="12" fill="#ea580c">M</text>
+  <line x1="160" y1="66" x2="218" y2="154" stroke="#16a34a" stroke-width="2.2"/>
+  <line x1="88" y1="178" x2="218" y2="154" stroke="#16a34a" stroke-width="2.2"/>
+  <circle cx="218" cy="154" r="5" fill="#16a34a"/><text x="227" y="154" font-size="12" fill="#16a34a">N</text>
+
+</svg>

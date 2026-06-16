@@ -56,6 +56,7 @@ async function loadBoardQuestionsFromStatic(
           options: string[];
           image?: string | null;
           timeLimit?: number;
+          optionImages?: string[] | null;
         }>;
 
         if (Array.isArray(questionsList)) {
@@ -70,6 +71,8 @@ async function loadBoardQuestionsFromStatic(
             subject: pq.subject,
             chapter: pq.chapter,
             explanation: "", // Never exposed to frontend
+            image: pq.image || null,
+            optionImages: pq.optionImages || null,
           }));
         }
       } catch (err) {

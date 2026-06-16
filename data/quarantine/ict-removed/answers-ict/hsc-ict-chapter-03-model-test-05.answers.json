@@ -1,0 +1,102 @@
+{
+  "hsc-ict-chapter-03-model-test-05-q01": {
+    "correctOption": "কীবোর্ড স্ট্রোক ডাইনামিক্স",
+    "explanation": "শারীরিক গঠন নয়; টাইপ করার ধরন (আচরণ) বিশ্লেষণ করে শনাক্ত করা হয়।"
+  },
+  "hsc-ict-chapter-03-model-test-05-q02": {
+    "correctOption": "192.168.1.1",
+    "explanation": "192.168.1.1 হলো একটি সাধারণ লোকাল আইপি অ্যাড্রেস, যেখানে ৪টি অংশ আছে। বাকিগুলো ডোমেইন, ইমেইল বা প্রোটোকল।"
+  },
+  "hsc-ict-chapter-03-model-test-05-q03": {
+    "correctOption": "১২৮ bit",
+    "explanation": "ভবিষ্যতের চাহিদা মেটাতে তৈরি করা IPv6 অ্যাড্রেস ১২৮ বিটের হয়ে থাকে।"
+  },
+  "hsc-ict-chapter-03-model-test-05-q04": {
+    "correctOption": "অবলোহিত রশ্মি",
+    "explanation": "ইনফ্রারেড (Infrared) যোগাযোগ ব্যবস্থায় ডেটা পাঠাতে অবলোহিত রশ্মি ব্যবহার করা হয় (যেমন রিমোট কন্ট্রোল)।"
+  },
+  "hsc-ict-chapter-03-model-test-05-q05": {
+    "correctOption": "network of networks",
+    "explanation": "ইন্টারনেট হলো বিশ্বজুড়ে ছড়িয়ে থাকা অসংখ্য নেটওয়ার্কের একটি বিশাল আন্তঃসংযোগ বা Network of networks।"
+  },
+  "hsc-ict-chapter-03-model-test-05-q06": {
+    "correctOption": "প্রতিষ্ঠানের অভ্যন্তরীণ network",
+    "explanation": "ইন্ট্রানেট হলো কোনো নির্দিষ্ট অফিস বা কোম্পানির নিজস্ব প্রাইভেট নেটওয়ার্ক, যা শুধু ওই কোম্পানির কর্মীরাই ব্যবহার করতে পারে।"
+  },
+  "hsc-ict-chapter-03-model-test-05-q07": {
+    "correctOption": "ছোট এলাকায়",
+    "explanation": "একটি বিল্ডিং, অফিস বা স্কুল ক্যাম্পাসের মতো ছোট ভৌগোলিক এলাকার মধ্যে LAN ব্যবহৃত হয়।"
+  },
+  "hsc-ict-chapter-03-model-test-05-q08": {
+    "correctOption": "Star",
+    "explanation": "বর্তমানে প্রায় সব অফিস বা ল্যাবে হাব বা সুইচের সাহায্যে স্টার টপোলজি ব্যবহার করেই লোকাল নেটওয়ার্ক বা LAN তৈরি করা হয়।"
+  },
+  "hsc-ict-chapter-03-model-test-05-q09": {
+    "correctOption": "Twisted pair",
+    "explanation": "বাসা বা অফিসের লোকাল নেটওয়ার্কে রাউটারের সাথে পিসি কানেক্ট করতে টুইস্টেড পেয়ার ক্যাবল (RJ45 কানেক্টরসহ) সবচেয়ে বেশি ব্যবহৃত হয়।"
+  },
+  "hsc-ict-chapter-03-model-test-05-q10": {
+    "correctOption": "Local Area Network",
+    "explanation": "LAN এর পূর্ণরূপ Local Area Network।"
+  },
+  "hsc-ict-chapter-03-model-test-05-q11": {
+    "correctOption": "hardware address",
+    "explanation": "MAC (Media Access Control) অ্যাড্রেস হলো নেটওয়ার্ক ইন্টারফেস কার্ডের (NIC) পারমানেন্ট ফিজিক্যাল বা হার্ডওয়্যার অ্যাড্রেস।"
+  },
+  "hsc-ict-chapter-03-model-test-05-q12": {
+    "correctOption": "NIC",
+    "explanation": "ম্যানুফ্যাকচারার বা কোম্পানি প্রতিটি নেটওয়ার্ক ইন্টারফেস কার্ড (NIC) বানানোর সময় তাতে একটি ইউনিক ম্যাক অ্যাড্রেস সেট করে দেয়।"
+  },
+  "hsc-ict-chapter-03-model-test-05-q13": {
+    "correctOption": "শহর এলাকা",
+    "explanation": "MAN সাধারণত একটি পুরো শহর বা মেট্রোপলিটন এলাকা জুড়ে বিস্তৃত থাকে। কেবল টিভি নেটওয়ার্ক এর ভালো উদাহরণ।"
+  },
+  "hsc-ict-chapter-03-model-test-05-q14": {
+    "correctOption": "Metropolitan Area Network",
+    "explanation": "MAN এর পূর্ণরূপ Metropolitan Area Network।"
+  },
+  "hsc-ict-chapter-03-model-test-05-q15": {
+    "correctOption": "প্রতিটি নোড অনেক নোডের সাথে যুক্ত",
+    "explanation": "মেশ টপোলজিতে একটি নেটওয়ার্কের প্রতিটি কম্পিউটার অন্য সব কম্পিউটারের সাথে সরাসরি ক্যাবল দিয়ে যুক্ত থাকে।"
+  },
+  "hsc-ict-chapter-03-model-test-05-q16": {
+    "correctOption": "fault tolerance বেশি",
+    "explanation": "একটি ক্যাবল নষ্ট হলেও অন্য ক্যাবল দিয়ে ডেটা যেতে পারে, তাই এতে ত্রুটি সহনশীলতা (fault tolerance) বা নির্ভরযোগ্যতা সবচেয়ে বেশি।"
+  },
+  "hsc-ict-chapter-03-model-test-05-q17": {
+    "correctOption": "Line of sight",
+    "explanation": "মাইক্রোওয়েভ বাঁকা পথে চলতে পারে না, তাই ট্রান্সমিটার এবং রিসিভারের মাঝে কোনো বাধা থাকা যাবে না বা সরাসরি দৃষ্টিসীমায় (Line of Sight) থাকতে হবে।"
+  },
+  "hsc-ict-chapter-03-model-test-05-q18": {
+    "correctOption": "area ভাগ করে communication সহজ করতে",
+    "explanation": "একটি বড় ভৌগোলিক এলাকাকে ছোট ছোট হেক্সাগোনাল অংশে ভাগ করে (যাকে সেল বলে) প্রতিটিতে টাওয়ার বসিয়ে মোবাইল নেটওয়ার্ক পরিচালনা করা হয়।"
+  },
+  "hsc-ict-chapter-03-model-test-05-q19": {
+    "correctOption": "Modulator + Demodulator",
+    "explanation": "Modulator এর Mo এবং Demodulator এর Dem নিয়ে Modem শব্দটি গঠিত হয়েছে।"
+  },
+  "hsc-ict-chapter-03-model-test-05-q20": {
+    "correctOption": "Modulation-demodulation",
+    "explanation": "মডেম প্রেরক প্রান্তে ডিজিটাল সিগন্যালকে অ্যানালগ (Modulation) এবং প্রাপক প্রান্তে অ্যানালগকে ডিজিটালে (Demodulation) রূপান্তর করে।"
+  },
+  "hsc-ict-chapter-03-model-test-05-q21": {
+    "correctOption": "কম্পিউটারকে নেটওয়ার্কে যুক্ত করা",
+    "explanation": "NIC এর প্রধান কাজ হলো কম্পিউটার এবং নেটওয়ার্ক মাধ্যমের মধ্যে ডেটা আদান-প্রদানের সংযোগ তৈরি করা।"
+  },
+  "hsc-ict-chapter-03-model-test-05-q22": {
+    "correctOption": "NIC",
+    "explanation": "Network Interface Card বা NIC কম্পিউটারের মাদারবোর্ডে লাগানো থাকে, যার মাধ্যমে ল্যান ক্যাবল যুক্ত করা হয়।"
+  },
+  "hsc-ict-chapter-03-model-test-05-q23": {
+    "correctOption": "firewall, password, encryption",
+    "explanation": "নেটওয়ার্ককে হ্যাকার বা ম্যালওয়্যার থেকে সুরক্ষিত রাখতে ফায়ারওয়াল, শক্তিশালী পাসওয়ার্ড এবং ডেটা এনক্রিপশনের মতো পদ্ধতি ব্যবহার করা হয়।"
+  },
+  "hsc-ict-chapter-03-model-test-05-q24": {
+    "correctOption": "Star-এ central device থাকে",
+    "explanation": "অনেকেই কনফিউজড হয়ে যায়, স্টার টপোলজিতেই শুধু হাব বা সুইচ নামক কেন্দ্রীয় ডিভাইস থাকে। বাস বা রিং-এ থাকে না।"
+  },
+  "hsc-ict-chapter-03-model-test-05-q25": {
+    "correctOption": "অনাকাঙ্ক্ষিত সিগন্যাল",
+    "explanation": "কমিউনিকেশন চ্যানেলে মূল সিগন্যালের সাথে যে অবাঞ্ছিত বা অনাকাঙ্ক্ষিত সিগন্যাল যুক্ত হয়, তাকে Noise বলে।"
+  }
+}

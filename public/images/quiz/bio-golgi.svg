@@ -1,0 +1,25 @@
+<svg width="100%" height="100%" viewBox="0 0 420 260" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Golgi Body">
+  <defs>
+    <marker id="arrow" markerWidth="8" markerHeight="8" refX="7" refY="3.5" orient="auto">
+      <path d="M0,0 L0,7 L8,3.5 z" fill="#0f172a"/>
+    </marker>
+    <marker id="arrowBlue" markerWidth="8" markerHeight="8" refX="7" refY="3.5" orient="auto">
+      <path d="M0,0 L0,7 L8,3.5 z" fill="#2563eb"/>
+    </marker>
+  </defs>
+  <rect width="420" height="260" rx="18" fill="#f8fafc"/>
+  <rect x="14" y="14" width="392" height="232" rx="14" fill="#ffffff" stroke="#cbd5e1" stroke-width="1.5"/>
+  <text x="210.0" y="38" text-anchor="middle" font-family="Arial, sans-serif" font-size="15" font-weight="700" fill="#0f172a">Golgi Body</text>
+  
+  <g fill="none" stroke="#2563eb" stroke-width="5" stroke-linecap="round">
+    <path d="M135 88 C175 66,240 66,285 88"/>
+    <path d="M120 112 C170 88,250 88,300 112"/>
+    <path d="M135 136 C178 118,238 118,285 136"/>
+    <path d="M150 160 C182 150,230 150,270 160"/>
+  </g>
+  <g fill="#ea580c">
+    <circle cx="105" cy="105" r="8"/><circle cx="318" cy="116" r="8"/><circle cx="286" cy="178" r="7"/>
+  </g>
+  <text x="210" y="208" text-anchor="middle" font-size="12" fill="#475569">Vesicles, cell plate, acrosome formation</text>
+
+</svg>

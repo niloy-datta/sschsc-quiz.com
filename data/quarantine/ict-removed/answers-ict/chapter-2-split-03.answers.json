@@ -1,0 +1,102 @@
+{
+  "chapter-2-split-03-q01": {
+    "correctOption": "একাধিক কম্পিউটারের সংযোগ",
+    "explanation": "রিসোর্স বা ডেটা শেয়ার করার উদ্দেশ্যে দুই বা ততোধিক কম্পিউটার বা ডিভাইসকে কোনো মাধ্যম দিয়ে যুক্ত করাকেই নেটওয়ার্ক বলে।"
+  },
+  "chapter-2-split-03-q02": {
+    "correctOption": "resource sharing",
+    "explanation": "নেটওয়ার্কের সবচেয়ে বড় সুবিধা হলো হার্ডওয়্যার (যেমন প্রিন্টার) এবং সফটওয়্যার বা ডেটা সবার মাঝে শেয়ার (Resource sharing) করা।"
+  },
+  "chapter-2-split-03-q03": {
+    "correctOption": "Local Area Network",
+    "explanation": "LAN এর পূর্ণরূপ Local Area Network।"
+  },
+  "chapter-2-split-03-q04": {
+    "correctOption": "ছোট এলাকায়",
+    "explanation": "একটি বিল্ডিং, অফিস বা স্কুল ক্যাম্পাসের মতো ছোট ভৌগোলিক এলাকার মধ্যে LAN ব্যবহৃত হয়।"
+  },
+  "chapter-2-split-03-q05": {
+    "correctOption": "Metropolitan Area Network",
+    "explanation": "MAN এর পূর্ণরূপ Metropolitan Area Network।"
+  },
+  "chapter-2-split-03-q06": {
+    "correctOption": "শহর এলাকা",
+    "explanation": "MAN সাধারণত একটি পুরো শহর বা মেট্রোপলিটন এলাকা জুড়ে বিস্তৃত থাকে। কেবল টিভি নেটওয়ার্ক এর ভালো উদাহরণ।"
+  },
+  "chapter-2-split-03-q07": {
+    "correctOption": "Wide Area Network",
+    "explanation": "WAN এর পূর্ণরূপ Wide Area Network।"
+  },
+  "chapter-2-split-03-q08": {
+    "correctOption": "Internet",
+    "explanation": "ইন্টারনেট হলো বিশ্বজুড়ে ছড়িয়ে থাকা সবচেয়ে বড় ওয়াইড এরিয়া নেটওয়ার্ক বা WAN এর উদাহরণ।"
+  },
+  "chapter-2-split-03-q09": {
+    "correctOption": "Personal Area Network",
+    "explanation": "PAN এর পূর্ণরূপ Personal Area Network।"
+  },
+  "chapter-2-split-03-q10": {
+    "correctOption": "Bluetooth দিয়ে মোবাইল-হেডফোন সংযোগ",
+    "explanation": "খুব কাছাকাছি দূরত্বে একজন ব্যক্তির নিজের ডিভাইসগুলোর মধ্যে (যেমন ল্যাপটপ থেকে ব্লুটুথ স্পিকার) সংযোগই হলো PAN।"
+  },
+  "chapter-2-split-03-q11": {
+    "correctOption": "নেটওয়ার্কের গঠন/বিন্যাস",
+    "explanation": "নেটওয়ার্কের কম্পিউটার বা ডিভাইসগুলোকে কীভাবে বা কোন জ্যামিতিক নকশায় একে অপরের সাথে যুক্ত করা হয়েছে, তার লে-আউটকেই টপোলজি বলে।"
+  },
+  "chapter-2-split-03-q12": {
+    "correctOption": "একটি প্রধান cable-এ",
+    "explanation": "বাস টপোলজিতে সব কম্পিউটার একটিমাত্র লম্বা মূল ক্যাবলের সাথে যুক্ত থাকে।"
+  },
+  "chapter-2-split-03-q13": {
+    "correctOption": "Backbone",
+    "explanation": "বাস টপোলজির প্রধান তারটিকে ব্যাকবোন (Backbone) ক্যাবল বলা হয়, এটি নষ্ট হলে পুরো নেটওয়ার্ক অচল হয়ে যায়।"
+  },
+  "chapter-2-split-03-q14": {
+    "correctOption": "Hub/Switch",
+    "explanation": "স্টার টপোলজিতে সবগুলো কম্পিউটার একটি কেন্দ্রীয় ডিভাইসের (সাধারণত হাব বা সুইচ) সাথে যুক্ত থাকে।"
+  },
+  "chapter-2-split-03-q15": {
+    "correctOption": "পুরো নেটওয়ার্ক প্রভাবিত হয়",
+    "explanation": "স্টার টপোলজির হাব বা সুইচ নষ্ট হয়ে গেলে পুরো নেটওয়ার্কই অচল হয়ে পড়ে।"
+  },
+  "chapter-2-split-03-q16": {
+    "correctOption": "বৃত্তাকারভাবে",
+    "explanation": "রিং টপোলজিতে প্রতিটি কম্পিউটার তার পাশের দুটি কম্পিউটারের সাথে যুক্ত হয়ে একটি রিং বা বৃত্ত তৈরি করে।"
+  },
+  "chapter-2-split-03-q17": {
+    "correctOption": "প্রতিটি নোড অনেক নোডের সাথে যুক্ত",
+    "explanation": "মেশ টপোলজিতে একটি নেটওয়ার্কের প্রতিটি কম্পিউটার অন্য সব কম্পিউটারের সাথে সরাসরি ক্যাবল দিয়ে যুক্ত থাকে।"
+  },
+  "chapter-2-split-03-q18": {
+    "correctOption": "fault tolerance বেশি",
+    "explanation": "একটি ক্যাবল নষ্ট হলেও অন্য ক্যাবল দিয়ে ডেটা যেতে পারে, তাই এতে ত্রুটি সহনশীলতা (fault tolerance) বা নির্ভরযোগ্যতা সবচেয়ে বেশি।"
+  },
+  "chapter-2-split-03-q19": {
+    "correctOption": "Bus ও Star",
+    "explanation": "ট্রি টপোলজি মূলত একাধিক স্টার টপোলজিকে একটি বাস বা ব্যাকবোনের সাথে যুক্ত করে তৈরি করা হয়।"
+  },
+  "chapter-2-split-03-q20": {
+    "correctOption": "একাধিক topology-এর মিশ্রণ",
+    "explanation": "যখন দুই বা ততোধিক ভিন্ন ধরনের টপোলজি (যেমন স্টার ও রিং) মিলিয়ে একটি বড় নেটওয়ার্ক তৈরি করা হয়, তখন তাকে হাইব্রিড টপোলজি বলে।"
+  },
+  "chapter-2-split-03-q21": {
+    "correctOption": "Bus",
+    "explanation": "বাস টপোলজি তৈরি করা সবচেয়ে সহজ এবং এতে ক্যাবলও কম লাগে।"
+  },
+  "chapter-2-split-03-q22": {
+    "correctOption": "Mesh",
+    "explanation": "যেহেতু প্রতিটি কম্পিউটারকে বাকি সব কম্পিউটারের সাথে সরাসরি যুক্ত করতে হয়, তাই মেশ টপোলজিতে সবচেয়ে বেশি ক্যাবল লাগে।"
+  },
+  "chapter-2-split-03-q23": {
+    "correctOption": "Star",
+    "explanation": "বর্তমানে প্রায় সব অফিস বা ল্যাবে হাব বা সুইচের সাহায্যে স্টার টপোলজি ব্যবহার করেই লোকাল নেটওয়ার্ক বা LAN তৈরি করা হয়।"
+  },
+  "chapter-2-split-03-q24": {
+    "correctOption": "এক নির্দিষ্ট পথে",
+    "explanation": "রিং টপোলজিতে ডেটা সাধারণত ঘড়ির কাঁটার দিকে বা একমুখী একটি নির্দিষ্ট পথে ঘোরে।"
+  },
+  "chapter-2-split-03-q25": {
+    "correctOption": "Star-এ central device থাকে",
+    "explanation": "অনেকেই কনফিউজড হয়ে যায়, স্টার টপোলজিতেই শুধু হাব বা সুইচ নামক কেন্দ্রীয় ডিভাইস থাকে। বাস বা রিং-এ থাকে না।"
+  }
+}

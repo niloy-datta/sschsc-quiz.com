@@ -1,0 +1,102 @@
+{
+  "hsc-higher-math-1st-paper-chapter-01-set-05-q01": {
+    "correctOption": "$7\\times 8$",
+    "explanation": "সঠিক উত্তর: ঘ। Matrix multiplication-এ ভিতরের order সমান হলে result order হয় বাইরের দুই order।"
+  },
+  "hsc-higher-math-1st-paper-chapter-01-set-05-q02": {
+    "correctOption": "4",
+    "explanation": "সঠিক উত্তর: ক। $|A|=ad-bc=8\\times5-4\\times9=4$।"
+  },
+  "hsc-higher-math-1st-paper-chapter-01-set-05-q03": {
+    "correctOption": "$\\frac{25}{3}$",
+    "explanation": "সঠিক উত্তর: খ। Singular হলে determinant 0, তাই $6k-50=0$।"
+  },
+  "hsc-higher-math-1st-paper-chapter-01-set-05-q04": {
+    "correctOption": "7",
+    "explanation": "সঠিক উত্তর: গ। Trace হলো principal diagonal-এর যোগফল।"
+  },
+  "hsc-higher-math-1st-paper-chapter-01-set-05-q05": {
+    "correctOption": "শূন্য ম্যাট্রিক্স",
+    "explanation": "সঠিক উত্তর: গ। $A^T=A$ এবং $A^T=-A$ হলে $A=0$।"
+  },
+  "hsc-higher-math-1st-paper-chapter-01-set-05-q06": {
+    "correctOption": "-51",
+    "explanation": "সঠিক উত্তর: গ। $|A^T|=|A|$।"
+  },
+  "hsc-higher-math-1st-paper-chapter-01-set-05-q07": {
+    "correctOption": "$|A|^{n-1}$",
+    "explanation": "সঠিক উত্তর: ক। Adjoint-এর determinant সূত্র $|Adj(A)|=|A|^{n-1}$।"
+  },
+  "hsc-higher-math-1st-paper-chapter-01-set-05-q08": {
+    "correctOption": "সবগুলো 0",
+    "explanation": "সঠিক উত্তর: ঘ। $a_{ii}=-a_{ii}\\Rightarrow a_{ii}=0$।"
+  },
+  "hsc-higher-math-1st-paper-chapter-01-set-05-q09": {
+    "correctOption": "$D\\ne0$",
+    "explanation": "সঠিক উত্তর: ক। Unique solution-এর জন্য $D\\ne0$ দরকার।"
+  },
+  "hsc-higher-math-1st-paper-chapter-01-set-05-q10": {
+    "correctOption": "Idempotent",
+    "explanation": "সঠিক উত্তর: ঘ। সংজ্ঞা অনুসারে $A^2=A$ হলে matrix idempotent।"
+  },
+  "hsc-higher-math-1st-paper-chapter-01-set-05-q11": {
+    "correctOption": "$7\\times 10$",
+    "explanation": "সঠিক উত্তর: খ। Matrix multiplication-এ ভিতরের order সমান হলে result order হয় বাইরের দুই order।"
+  },
+  "hsc-higher-math-1st-paper-chapter-01-set-05-q12": {
+    "correctOption": "-25",
+    "explanation": "সঠিক উত্তর: খ। $|A|=ad-bc=8\\times3-7\\times7=-25$।"
+  },
+  "hsc-higher-math-1st-paper-chapter-01-set-05-q13": {
+    "correctOption": "16",
+    "explanation": "সঠিক উত্তর: ক। Singular হলে determinant 0, তাই $4k-64=0$।"
+  },
+  "hsc-higher-math-1st-paper-chapter-01-set-05-q14": {
+    "correctOption": "9",
+    "explanation": "সঠিক উত্তর: গ। Trace হলো principal diagonal-এর যোগফল।"
+  },
+  "hsc-higher-math-1st-paper-chapter-01-set-05-q15": {
+    "correctOption": "শূন্য ম্যাট্রিক্স",
+    "explanation": "সঠিক উত্তর: ক। $A^T=A$ এবং $A^T=-A$ হলে $A=0$।"
+  },
+  "hsc-higher-math-1st-paper-chapter-01-set-05-q16": {
+    "correctOption": "21",
+    "explanation": "সঠিক উত্তর: ক। $|A^T|=|A|$।"
+  },
+  "hsc-higher-math-1st-paper-chapter-01-set-05-q17": {
+    "correctOption": "$|A|^{n-1}$",
+    "explanation": "সঠিক উত্তর: ক। Adjoint-এর determinant সূত্র $|Adj(A)|=|A|^{n-1}$।"
+  },
+  "hsc-higher-math-1st-paper-chapter-01-set-05-q18": {
+    "correctOption": "সবগুলো 0",
+    "explanation": "সঠিক উত্তর: ক। $a_{ii}=-a_{ii}\\Rightarrow a_{ii}=0$।"
+  },
+  "hsc-higher-math-1st-paper-chapter-01-set-05-q19": {
+    "correctOption": "$D\\ne0$",
+    "explanation": "সঠিক উত্তর: খ। Unique solution-এর জন্য $D\\ne0$ দরকার।"
+  },
+  "hsc-higher-math-1st-paper-chapter-01-set-05-q20": {
+    "correctOption": "Idempotent",
+    "explanation": "সঠিক উত্তর: ক। সংজ্ঞা অনুসারে $A^2=A$ হলে matrix idempotent।"
+  },
+  "hsc-higher-math-1st-paper-chapter-01-set-05-q21": {
+    "correctOption": "$7\\times 8$",
+    "explanation": "সঠিক উত্তর: গ। Matrix multiplication-এ ভিতরের order সমান হলে result order হয় বাইরের দুই order।"
+  },
+  "hsc-higher-math-1st-paper-chapter-01-set-05-q22": {
+    "correctOption": "29",
+    "explanation": "সঠিক উত্তর: খ। $|A|=ad-bc=8\\times7-3\\times9=29$।"
+  },
+  "hsc-higher-math-1st-paper-chapter-01-set-05-q23": {
+    "correctOption": "5",
+    "explanation": "সঠিক উত্তর: গ। Singular হলে determinant 0, তাই $8k-40=0$।"
+  },
+  "hsc-higher-math-1st-paper-chapter-01-set-05-q24": {
+    "correctOption": "7",
+    "explanation": "সঠিক উত্তর: গ। Trace হলো principal diagonal-এর যোগফল।"
+  },
+  "hsc-higher-math-1st-paper-chapter-01-set-05-q25": {
+    "correctOption": "শূন্য ম্যাট্রিক্স",
+    "explanation": "সঠিক উত্তর: ঘ। $A^T=A$ এবং $A^T=-A$ হলে $A=0$।"
+  }
+}

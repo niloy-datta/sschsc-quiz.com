@@ -1,0 +1,282 @@
+{
+  "setId": "chapter-06-split-03",
+  "reason": "DUPLICATE_OF_chapter-06-split-03",
+  "quarantinedAt": "2026-06-16T10:44:44.713Z",
+  "questions": [
+    {
+      "id": "chapter-06-split-03-q01",
+      "questionText": "STP তে ০.১ মোল CO₂ গ্যাসের আয়তন কত লিটার?",
+      "optionA": "২.২৪ L",
+      "optionB": "২২.৪ L",
+      "optionC": "১.১২ L",
+      "optionD": "০.২২৪ L",
+      "correctOption": "A",
+      "explanation": "সঠিক উত্তর: A (২.২৪ L)। ব্যাখ্যা: ০.১ × ২২.৪ = ২.২৪ লিটার।",
+      "questionNo": 1
+    },
+    {
+      "id": "chapter-06-split-03-q02",
+      "questionText": "প্রমাণ অবস্থায় ১ লিটার হাইড্রোজেন (H₂) গ্যাসের ভর কত?",
+      "optionA": "০.০৮৯ গ্রাম",
+      "optionB": "১ গ্রাম",
+      "optionC": "২ গ্রাম",
+      "optionD": "২২.৪ গ্রাম",
+      "correctOption": "A",
+      "explanation": "সঠিক উত্তর: A (০.০৮৯ গ্রাম)। ব্যাখ্যা: ২২.৪ লিটারের ভর ২ গ্রাম। ১ লিটারের ভর = ২ / ২২.৪ = ০.০৮৯ গ্রাম।",
+      "questionNo": 2
+    },
+    {
+      "id": "chapter-06-split-03-q03",
+      "questionText": "সালফিউরিক এসিডের (H₂SO₄) আণবিক ভর কত?",
+      "optionA": "৬৩",
+      "optionB": "৯৮",
+      "optionC": "১০৬",
+      "optionD": "৪০",
+      "correctOption": "B",
+      "explanation": "সঠিক উত্তর: B (৯৮)। ব্যাখ্যা: H₂SO₄ = (১×২) + ৩২ + (১৬×৪) = ২ + ৩২ + ৬৪ = ৯৮।",
+      "questionNo": 3
+    },
+    {
+      "id": "chapter-06-split-03-q04",
+      "questionText": "সোডিয়াম কার্বনেটের (Na₂CO₃) আণবিক ভর কত?",
+      "optionA": "৮৪",
+      "optionB": "১০৬",
+      "optionC": "১০০",
+      "optionD": "১১০",
+      "correctOption": "B",
+      "explanation": "সঠিক উত্তর: B (১০৬)। ব্যাখ্যা: (২৩×২) + ১২ + (১৬×৩) = ৪৬ + ১২ + ৪৮ = ১০৬।",
+      "questionNo": 4
+    },
+    {
+      "id": "chapter-06-split-03-q05",
+      "questionText": "তুঁতের (CuSO₄.5H₂O) আণবিক ভর কত?",
+      "optionA": "১৫৯.৫",
+      "optionB": "২৪৯.৫",
+      "optionC": "২৮৬",
+      "optionD": "১৬০",
+      "correctOption": "B",
+      "explanation": "সঠিক উত্তর: B (২৪৯.৫)। ব্যাখ্যা: Cu(৬৩.৫) + S(৩২) + ৪O(৬৪) + ৫×H₂O(৫×১৮=৯০) = ২৪৯.৫।",
+      "questionNo": 5
+    },
+    {
+      "id": "chapter-06-split-03-q06",
+      "questionText": "নাইট্রিক এসিডের (HNO₃) মোলার ভর কত g/mol?",
+      "optionA": "৬৩",
+      "optionB": "৯৮",
+      "optionC": "৩৪",
+      "optionD": "৭৩",
+      "correctOption": "A",
+      "explanation": "সঠিক উত্তর: A (৬৩)। ব্যাখ্যা: ১ + ১৪ + (১৬×৩) = ৬৩।",
+      "questionNo": 6
+    },
+    {
+      "id": "chapter-06-split-03-q07",
+      "questionText": "অ্যালুমিনিয়াম সালফেটের [Al₂(SO₄)₃] আণবিক ভর কত?",
+      "optionA": "১৫০",
+      "optionB": "৩৪২",
+      "optionC": "৩১২",
+      "optionD": "৪৫০",
+      "correctOption": "B",
+      "explanation": "সঠিক উত্তর: B (৩৪২)। ব্যাখ্যা: Al₂(২৭×২=৫৪) + ৩×SO₄ [৩×(৩২+৬৪) = ৩×৯৬ = ২৮৮]। ৫৪ + ২৮৮ = ৩৪২।",
+      "questionNo": 7
+    },
+    {
+      "id": "chapter-06-split-03-q08",
+      "questionText": "নিচের কোন গ্যাসটির মোলার ভর সবচেয়ে বেশি?",
+      "optionA": "CO₂",
+      "optionB": "NH₃",
+      "optionC": "SO₂",
+      "optionD": "H₂S",
+      "correctOption": "C",
+      "explanation": "সঠিক উত্তর: C (SO₂)। ব্যাখ্যা: CO₂=৪৪, NH₃=১৭, SO₂=৬৪, H₂S=৩৪। তাই SO₂ এর ভর সবচেয়ে বেশি।",
+      "questionNo": 8
+    },
+    {
+      "id": "chapter-06-split-03-q09",
+      "questionText": "৫ মোল হাইড্রোক্লোরিক এসিডের (HCl) ভর কত?",
+      "optionA": "৩৬.৫ গ্রাম",
+      "optionB": "১৮.২৫ গ্রাম",
+      "optionC": "৭৩ গ্রাম",
+      "optionD": "৯.১২ গ্রাম",
+      "correctOption": "B",
+      "explanation": "সঠিক উত্তর: B (১৮.২৫ গ্রাম)। ব্যাখ্যা: HCl এর আণবিক ভর ৩৬.৫। ০.৫ মোল = ০.৫ × ৩৬.৫ = ১৮.২৫ গ্রাম।",
+      "questionNo": 9
+    },
+    {
+      "id": "chapter-06-split-03-q10",
+      "questionText": "ক্যালসিয়াম ফসফেটের [Ca₃(PO₄)₂] আণবিক ভর কত?",
+      "optionA": "৩১০",
+      "optionB": "১৪৯",
+      "optionC": "১৫০",
+      "optionD": "৩০০",
+      "correctOption": "A",
+      "explanation": "সঠিক উত্তর: A (৩১০)। ব্যাখ্যা: (৪০×৩) + ২×[৩১ + (১৬×৪)] = ১২০ + ২×৯৫ = ১২০ + ১৯০ = ৩১০।",
+      "questionNo": 10
+    },
+    {
+      "id": "chapter-06-split-03-q11",
+      "questionText": "কোনো গ্যাসের বাষ্প ঘনত্ব ২২ হলে, এর আণবিক ভর কত?",
+      "optionA": "১১",
+      "optionB": "২২",
+      "optionC": "৪৪",
+      "optionD": "৮৮",
+      "correctOption": "C",
+      "explanation": "সঠিক উত্তর: C (৪৪)। ব্যাখ্যা: আণবিক ভর = ২ × বাষ্প ঘনত্ব। সুতরাং ২ × ২২ = ৪৪।",
+      "questionNo": 11
+    },
+    {
+      "id": "chapter-06-split-03-q12",
+      "questionText": "ভারী পানির (D₂O) আণবিক ভর কত?",
+      "optionA": "১৮",
+      "optionB": "২০",
+      "optionC": "২২",
+      "optionD": "১৬",
+      "correctOption": "B",
+      "explanation": "সঠিক উত্তর: B (২০)। ব্যাখ্যা: ডিউটেরিয়াম (D) এর পারমাণবিক ভর ২। তাই D₂O = (২×২) + ১৬ = ২০।",
+      "questionNo": 12
+    },
+    {
+      "id": "chapter-06-split-03-q13",
+      "questionText": "পানিতে (H₂O) হাইড্রোজেনের শতকরা সংযুতি কত?",
+      "optionA": "১১.১১%",
+      "optionB": "৮৮.৮৯%",
+      "optionC": "২০%",
+      "optionD": "৩৩.৩৩%",
+      "correctOption": "A",
+      "explanation": "সঠিক উত্তর: A (১১.১১%)। ব্যাখ্যা: H₂O এর ভর ১৮, এতে H আছে ২ গ্রাম। %H = (২/১৮) × ১০০ = ১১.১১%।",
+      "questionNo": 13
+    },
+    {
+      "id": "chapter-06-split-03-q14",
+      "questionText": "কার্বন ডাইঅক্সাইড (CO₂) গ্যাসে অক্সিজেনের শতকরা সংযুতি কত?",
+      "optionA": "২৭.৩%",
+      "optionB": "৭২.৭%",
+      "optionC": "৩২%",
+      "optionD": "৬৮%",
+      "correctOption": "B",
+      "explanation": "সঠিক উত্তর: B (৭২.৭%)। ব্যাখ্যা: CO₂ এর ভর ৪৪। O আছে ৩২। %O = (৩২/৪৪) × ১০০ = ৭২.৭২%।",
+      "questionNo": 14
+    },
+    {
+      "id": "chapter-06-split-03-q15",
+      "questionText": "ইউরিয়া [CO(NH₂)₂] সারে নাইট্রোজেনের (N) শতকরা পরিমাণ কত? (Board Repeated)",
+      "optionA": "২১%",
+      "optionB": "৪৬.৬৭%",
+      "optionC": "২৮%",
+      "optionD": "৩২.৫%",
+      "correctOption": "B",
+      "explanation": "সঠিক উত্তর: B (৪৬.৬৭%)। ব্যাখ্যা: ইউরিয়ার আণবিক ভর ৬০। এতে ২টি নাইট্রোজেন (২৮ গ্রাম) থাকে। %N =",
+      "questionNo": 15
+    },
+    {
+      "id": "chapter-06-split-03-q16",
+      "questionText": "চুনাপাথরে (CaCO₃) ক্যালসিয়ামের শতকরা পরিমাণ কত?",
+      "optionA": "৪০%",
+      "optionB": "১২%",
+      "optionC": "৪৮%",
+      "optionD": "৫০%",
+      "correctOption": "A",
+      "explanation": "সঠিক উত্তর: A (৪০%)। ব্যাখ্যা: CaCO₃ এর ভর ১০০। Ca এর ভর ৪০। তাই %Ca = (৪০/১০০) × ১০০ = ৪০%।",
+      "questionNo": 16
+    },
+    {
+      "id": "chapter-06-split-03-q17",
+      "questionText": "কোনো যৌগের মৌলসমূহের শতকরা সংযুতির যোগফল সবসময় কত হয়?",
+      "optionA": "১",
+      "optionB": "৫০",
+      "optionC": "১০০",
+      "optionD": "যৌগ ভেদে ভিন্ন হয়",
+      "correctOption": "C",
+      "explanation": "সঠিক উত্তর: C (১০০)",
+      "questionNo": 17
+    },
+    {
+      "id": "chapter-06-split-03-q18",
+      "questionText": "তুঁতে (CuSO₄.5H₂O) যৌগে কেলাস পানির শতকরা সংযুতি কত?",
+      "optionA": "৩৬%",
+      "optionB": "৬৪%",
+      "optionC": "৪৫%",
+      "optionD": "১৮%",
+      "correctOption": "A",
+      "explanation": "সঠিক উত্তর: A (৩৬%)। ব্যাখ্যা: তুঁতের আণবিক ভর ২৪৯.৫। ৫ অণু পানির ভর ৯০। %পানি = (৯০/২৪৯.৫) ×",
+      "questionNo": 18
+    },
+    {
+      "id": "chapter-06-split-03-q19",
+      "questionText": "সালফিউরিক এসিডে (H₂SO₄) সালফারের শতকরা পরিমাণ কত?",
+      "optionA": "৩২.৬৫%",
+      "optionB": "৬৫.৩০%",
+      "optionC": "২.০৪%",
+      "optionD": "৪৮.৫%",
+      "correctOption": "A",
+      "explanation": "সঠিক উত্তর: A (৩২.৬৫%)। ব্যাখ্যা: %S = (৩২/৯৮) × ১০০ = ৩২.৬৫%।",
+      "questionNo": 19
+    },
+    {
+      "id": "chapter-06-split-03-q20",
+      "questionText": "মিথেন (CH₄) গ্যাসে কার্বনের শতকরা পরিমাণ কত?",
+      "optionA": "২৫%",
+      "optionB": "৭৫%",
+      "optionC": "৫০%",
+      "optionD": "৮০%",
+      "correctOption": "B",
+      "explanation": "সঠিক উত্তর: B (৭৫%)। ব্যাখ্যা: CH₄ এর ভর ১৬। C এর ভর ১২। %C = (১২/১৬) × ১০০ = ৭৫%।",
+      "questionNo": 20
+    },
+    {
+      "id": "chapter-06-split-03-q21",
+      "questionText": "পটাশিয়াম ডাইক্রোমেট (K₂Cr₂O₇) যৌগে পটাশিয়ামের শতকরা সংযুতি কত?",
+      "optionA": "২৬.৫%",
+      "optionB": "৩৫.৪%",
+      "optionC": "৩৮.১%",
+      "optionD": "২১.৫%",
+      "correctOption": "A",
+      "explanation": "সঠিক উত্তর: A (২৬.৫%)। ব্যাখ্যা: K₂Cr₂O₇ এর ভর ২৯৪। K₂ এর ভর ৩৯×২ = ৭৮। %K = (৭৮/২৯৪) × ১০০ ≈",
+      "questionNo": 21
+    },
+    {
+      "id": "chapter-06-split-03-q22",
+      "questionText": "নিচের কোন সারে নাইট্রোজেনের শতকরা পরিমাণ সবচেয়ে বেশি?",
+      "optionA": "অ্যামোনিয়াম সালফেট",
+      "optionB": "ইউরিয়া",
+      "optionC": "অ্যামোনিয়াম নাইট্রেট",
+      "optionD": "অ্যামোনিয়াম ফসফেট",
+      "correctOption": "B",
+      "explanation": "সঠিক উত্তর: B (ইউরিয়া)। ব্যাখ্যা: ইউরিয়াতে N থাকে ৪৬.৬৭%, যা অন্যগুলোর চেয়ে বেশি।",
+      "questionNo": 22
+    },
+    {
+      "id": "chapter-06-split-03-q23",
+      "questionText": "বেনজিনের (C₆H₆) স্থূল সংকেত কোনটি?",
+      "optionA": "C₂H₂",
+      "optionB": "CH",
+      "optionC": "CH₂",
+      "optionD": "C₃H₃",
+      "correctOption": "B",
+      "explanation": "সঠিক উত্তর: B (CH)। ব্যাখ্যা: পরমাণু সংখ্যার অনুপাত C:H = ৬:৬ = ১:১। তাই স্থূল সংকেত CH।",
+      "questionNo": 23
+    },
+    {
+      "id": "chapter-06-split-03-q24",
+      "questionText": "গ্লুকোজের (C₆H₁₂O₆) স্থূল সংকেত কোনটি? (Board Repeated)",
+      "optionA": "CHO",
+      "optionB": "C₂H₂O",
+      "optionC": "CH₂O",
+      "optionD": "CH₃O",
+      "correctOption": "C",
+      "explanation": "সঠিক উত্তর: C (CH₂O)। ব্যাখ্যা: C:H:O = ৬:১২:৬ = ১:২:১। তাই স্থূল সংকেত CH₂O।",
+      "questionNo": 24
+    },
+    {
+      "id": "chapter-06-split-03-q25",
+      "questionText": "একটি যৌগের স্থূল সংকেত CH₂O এবং আণবিক ভর ১৮০ হলে, যৌগটির আণবিক সংকেত কী?",
+      "optionA": "C₃H₆O₃",
+      "optionB": "C৪H₈O৪",
+      "optionC": "C₆H₁₂O₆",
+      "optionD": "C₁₂H₂₂O₁₁",
+      "correctOption": "C",
+      "explanation": "সঠিক উত্তর: C (C₆H₁₂O₆)। ব্যাখ্যা: CH₂O এর ভর = ১২+২+১৬ = ৩০। n = ১৮০ / ৩০ = ৬। আণবিক সংকেত =",
+      "questionNo": 25
+    }
+  ]
+}

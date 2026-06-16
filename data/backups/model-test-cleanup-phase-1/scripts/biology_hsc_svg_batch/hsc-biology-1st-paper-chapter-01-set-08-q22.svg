@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="100%" height="100%" viewBox="0 0 360 220">
+  <defs>
+    <radialGradient id="bg" cx="50%" cy="45%" r="75%"><stop offset="0%" stop-color="#0e7490"/><stop offset="100%" stop-color="#020617"/></radialGradient>
+    <filter id="g"><feDropShadow dx="0" dy="0" stdDeviation="4" flood-color="#22d3ee" flood-opacity=".6"/></filter>
+    <style>.cell{fill:#0f172a;stroke:#22d3ee;stroke-width:3;filter:url(#g)}.sp{stroke:#94a3b8;stroke-width:1.6;fill:none}.ch{stroke:#facc15;stroke-width:5;stroke-linecap:round}.t{font-family:Arial,sans-serif;font-size:21px;font-weight:900;fill:#fff}</style>
+  </defs>
+  <rect width="360" height="220" rx="18" fill="url(#bg)"/>
+  <ellipse cx="180" cy="110" rx="112" ry="76" class="cell"/>
+  <circle cx="104" cy="110" r="5" fill="#22d3ee"/><circle cx="256" cy="110" r="5" fill="#22d3ee"/>
+  <path d="M104 110 C136 82 160 76 180 104 M104 110 C136 138 160 144 180 116 M256 110 C224 82 200 76 180 104 M256 110 C224 138 200 144 180 116" class="sp"/>
+  <path d="M164 90 L196 130 M196 90 L164 130" class="ch"/>
+  <text x="180" y="78" text-anchor="middle" class="t">A</text>
+</svg>
+

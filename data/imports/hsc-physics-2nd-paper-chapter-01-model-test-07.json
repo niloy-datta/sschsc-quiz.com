@@ -1,0 +1,718 @@
+{
+  "level": "HSC",
+  "subject": "physics-2nd-paper",
+  "chapterWise": [
+    {
+      "chapter": "01",
+      "chapterName": "তাপগতিবিদ্যা",
+      "sets": [
+        {
+          "id": "hsc-physics-2nd-paper-chapter-01-model-test-07",
+          "title": "Chapter 01 Model Test 07",
+          "questions": [
+            {
+              "id": "hsc-physics-2nd-paper-chapter-01-set-07-q01",
+              "questionNo": 1,
+              "question": "নির্দেশক চিত্রে (P-V diagram) একটি চক্রাকার প্রক্রিয়া (Cyclic process) ঘড়ির কাঁটার বিপরীত দিকে (Anti-clockwise) আবর্তিত হলে, উক্ত চক্রে সিস্টেম দ্বারা নিট কৃত কাজের মান কেমন হবে?",
+              "options": [
+                {
+                  "key": "ক",
+                  "text": "ধনাত্মক"
+                },
+                {
+                  "key": "খ",
+                  "text": "ঋণাত্মক"
+                },
+                {
+                  "key": "গ",
+                  "text": "শূন্য"
+                },
+                {
+                  "key": "ঘ",
+                  "text": "অসীম"
+                }
+              ],
+              "correctOption": "খ",
+              "shortSolution": "P-V চিত্রে চক্রটি ঘড়ির কাঁটার দিকে (Clockwise) ঘুরলে প্রসারণের কাজ সংকোচনের কাজের চেয়ে বেশি হয়, তাই নিট কাজ ধনাত্মক হয়। কিন্তু ঘড়ির কাঁটার বিপরীত দিকে ঘুরলে সংকোচনের কাজ বেশি হয়, ফলে নিট কাজ ঋণাত্মক হয়।",
+              "chapter": "01",
+              "topic": "নির্দেশক চিত্র ও চক্রাকার প্রক্রিয়া",
+              "difficulty": "Comprehension"
+            },
+            {
+              "id": "hsc-physics-2nd-paper-chapter-01-set-07-q02",
+              "questionNo": 2,
+              "question": "একটি প্রত্যাগামী তাপ ইঞ্জিনের কর্মদক্ষতা \\eta। ইঞ্জিনটিকে বিপরীতক্রমে চালিয়ে রেফ্রিজারেটর হিসেবে ব্যবহার করলে তার কার্যসম্পাদন সহগ (COP) K হয়। K এবং \\eta এর মধ্যকার সঠিক সম্পর্ক কোনটি?",
+              "options": [
+                {
+                  "key": "ক",
+                  "text": "K = \\frac{\\eta}{1-\\eta}"
+                },
+                {
+                  "key": "খ",
+                  "text": "K = \\frac{1-\\eta}{\\eta}"
+                },
+                {
+                  "key": "গ",
+                  "text": "K = \\frac{1+\\eta}{\\eta}"
+                },
+                {
+                  "key": "ঘ",
+                  "text": "K = \\eta - 1"
+                }
+              ],
+              "correctOption": "খ",
+              "shortSolution": "আমরা জানি, \\eta = \\frac{W}{Q_1} \\implies Q_1 = \\frac{W}{\\eta}। রেফ্রিজারেটরের ক্ষেত্রে, K = \\frac{Q_2}{W}। আবার Q_2 = Q_1 - W = \\frac{W}{\\eta} - W = W\\left(\\frac{1-\\eta}{\\eta}\\right)। সুতরাং K = \\frac{W(1-\\eta)/\\eta}{W} = \\frac{1-\\eta}{\\eta}।",
+              "chapter": "01",
+              "topic": "COP এবং কর্মদক্ষতার সম্পর্ক",
+              "difficulty": "Higher Order"
+            },
+            {
+              "id": "hsc-physics-2nd-paper-chapter-01-set-07-q03",
+              "questionNo": 3,
+              "question": "কোনো আদর্শ গ্যাসের রুদ্ধতাপীয় আয়তন গুণাঙ্ক (E_s) এবং সমউষ্ণ আয়তন গুণাঙ্ক (E_T) এর অনুপাত \\frac{E_s}{E_T} নিচের কোনটির সমান?",
+              "options": [
+                {
+                  "key": "ক",
+                  "text": "\\gamma"
+                },
+                {
+                  "key": "খ",
+                  "text": "\\gamma - 1"
+                },
+                {
+                  "key": "গ",
+                  "text": "\\frac{1}{\\gamma}"
+                },
+                {
+                  "key": "ঘ",
+                  "text": "R"
+                }
+              ],
+              "correctOption": "ক",
+              "shortSolution": "গ্যাসের রুদ্ধতাপীয় আয়তন গুণাঙ্ক E_s = \\gamma P এবং সমউষ্ণ আয়তন গুণাঙ্ক E_T = P। সুতরাং এদের অনুপাত \\frac{E_s}{E_T} = \\frac{\\gamma P}{P} = \\gamma।",
+              "chapter": "01",
+              "topic": "আয়তন গুণাঙ্ক",
+              "difficulty": "Knowledge"
+            },
+            {
+              "id": "hsc-physics-2nd-paper-chapter-01-set-07-q04",
+              "questionNo": 4,
+              "question": "'শক্তির অবক্ষয়' (Degradation of energy) বা ব্যবহারযোগ্য শক্তির ক্রমহ্রাসমানতা— এই ধারণাটি তাপগতিবিদ্যার কোন সূত্রের সরাসরি পরিণতি?",
+              "options": [
+                {
+                  "key": "ক",
+                  "text": "শূন্যতম সূত্র"
+                },
+                {
+                  "key": "খ",
+                  "text": "প্রথম সূত্র"
+                },
+                {
+                  "key": "গ",
+                  "text": "দ্বিতীয় সূত্র"
+                },
+                {
+                  "key": "ঘ",
+                  "text": "তৃতীয় সূত্র"
+                }
+              ],
+              "correctOption": "গ",
+              "shortSolution": "তাপগতিবিদ্যার দ্বিতীয় সূত্র অনুযায়ী মহাবিশ্বের এনট্রপি বা বিশৃঙ্খলা সর্বদা বৃদ্ধি পাচ্ছে। এনট্রপি বৃদ্ধির অর্থ হলো, তাপশক্তি এমন অবস্থায় পৌঁছাচ্ছে যেখান থেকে তাকে আর কোনো দরকারী যান্ত্রিক কাজে রূপান্তর করা সম্ভব নয়। এটিই শক্তির অবক্ষয়।",
+              "chapter": "01",
+              "topic": "শক্তির অবক্ষয়",
+              "difficulty": "Comprehension"
+            },
+            {
+              "id": "hsc-physics-2nd-paper-chapter-01-set-07-q05",
+              "questionNo": 5,
+              "question": "27^\\circ\\text{C} তাপমাত্রায় 16 \\text{ g} অক্সিজেন (O_2) গ্যাসের মোট অভ্যন্তরীণ শক্তি কত? [R = 8.31 \\text{ J mol}^{-1}\\text{K}^{-1}]",
+              "options": [
+                {
+                  "key": "ক",
+                  "text": "1870 \\text{ J}"
+                },
+                {
+                  "key": "খ",
+                  "text": "3116.25 \\text{ J}"
+                },
+                {
+                  "key": "গ",
+                  "text": "6232.5 \\text{ J}"
+                },
+                {
+                  "key": "ঘ",
+                  "text": "1246.5 \\text{ J}"
+                }
+              ],
+              "correctOption": "খ",
+              "shortSolution": "অক্সিজেন দ্বি-পরমাণুক গ্যাস হওয়ায় এর স্বাধীনতার মাত্রা f=5। অভ্যন্তরীণ শক্তি U = \\frac{5}{2} nRT। এখানে মোল সংখ্যা n = \\frac{16}{32} = 0.5 মোল এবং T = 300 \\text{ K}। ফলে U = 2.5 \\times 0.5 \\times 8.31 \\times 300 = 1.25 \\times 2493 = 3116.25 \\text{ J}।",
+              "chapter": "01",
+              "topic": "অভ্যন্তরীণ শক্তির গাণিতিক প্রয়োগ",
+              "difficulty": "Higher Order"
+            },
+            {
+              "id": "hsc-physics-2nd-paper-chapter-01-set-07-q06",
+              "questionNo": 6,
+              "question": "0^\\circ\\text{C} তাপমাত্রার 50 \\text{ g} বরফকে গলিয়ে সম্পূর্ণভাবে 0^\\circ\\text{C} তাপমাত্রার পানিতে পরিণত করা হলো। এনট্রপির পরিবর্তন কত হবে? [বরফ গলনের সুপ্ততাপ, L_f = 336000 \\text{ J kg}^{-1}]",
+              "options": [
+                {
+                  "key": "ক",
+                  "text": "61.54 \\text{ J K}^{-1}"
+                },
+                {
+                  "key": "খ",
+                  "text": "16800 \\text{ J K}^{-1}"
+                },
+                {
+                  "key": "গ",
+                  "text": "80 \\text{ J K}^{-1}"
+                },
+                {
+                  "key": "ঘ",
+                  "text": "123.08 \\text{ J K}^{-1}"
+                }
+              ],
+              "correctOption": "ক",
+              "shortSolution": "এনট্রপির পরিবর্তন \\Delta S = \\frac{mL_f}{T}। এখানে ভর m = 50 \\text{ g} = 0.05 \\text{ kg} এবং তাপমাত্রা T = 273 \\text{ K}। অতএব, \\Delta S = \\frac{0.05 \\times 336000}{273} = \\frac{16800}{273} \\approx 61.538 \\text{ J K}^{-1}।",
+              "chapter": "01",
+              "topic": "অবস্থা পরিবর্তনে এনট্রপি",
+              "difficulty": "Higher Order"
+            },
+            {
+              "id": "hsc-physics-2nd-paper-chapter-01-set-07-q07",
+              "questionNo": 7,
+              "question": "একটি তাপ ইঞ্জিন তাপ উৎস থেকে প্রতি চক্রে 800 \\text{ J} তাপ গ্রহণ করে এবং পরিবেশের নিকট 600 \\text{ J} তাপ বর্জন করে। ইঞ্জিনটির কর্মদক্ষতা কত?",
+              "options": [
+                {
+                  "key": "ক",
+                  "text": "20\\%"
+                },
+                {
+                  "key": "খ",
+                  "text": "25\\%"
+                },
+                {
+                  "key": "গ",
+                  "text": "33.3\\%"
+                },
+                {
+                  "key": "ঘ",
+                  "text": "75\\%"
+                }
+              ],
+              "correctOption": "খ",
+              "shortSolution": "কর্মদক্ষতা \\eta = \\left(1 - \\frac{Q_2}{Q_1}\\right) \\times 100\\%। এখানে গৃহীত তাপ Q_1 = 800 \\text{ J} এবং বর্জিত তাপ Q_2 = 600 \\text{ J}। ফলে \\eta = \\left(1 - \\frac{600}{800}\\right) \\times 100\\% = (1 - 0.75) \\times 100\\% = 25\\%।",
+              "chapter": "01",
+              "topic": "তাপ ইঞ্জিন ও কর্মদক্ষতা",
+              "difficulty": "Medium"
+            },
+            {
+              "id": "hsc-physics-2nd-paper-chapter-01-set-07-q08",
+              "questionNo": 8,
+              "question": "শূন্যস্থানে বা রুদ্ধতাপীয় পরিবেশে আদর্শ গ্যাসের মুক্ত প্রসারণের (Free expansion) সময় তাপমাত্রার কীরূপ পরিবর্তন হয়?",
+              "options": [
+                {
+                  "key": "ক",
+                  "text": "বৃদ্ধি পায়"
+                },
+                {
+                  "key": "খ",
+                  "text": "হ্রাস পায়"
+                },
+                {
+                  "key": "গ",
+                  "text": "অপরিবর্তিত থাকে"
+                },
+                {
+                  "key": "ঘ",
+                  "text": "শূন্য হয়ে যায়"
+                }
+              ],
+              "correctOption": "গ",
+              "shortSolution": "শূন্যস্থানে প্রসারিত হওয়ায় গ্যাসকে কোনো বাহ্যিক বলের বিরুদ্ধে কাজ করতে হয় না, তাই dW=0। রুদ্ধতাপীয় পরিবেশ হওয়ায় dQ=0। প্রথম সূত্রমতে dU=0 হয়। আদর্শ গ্যাসের অভ্যন্তরীণ শক্তি কেবল তাপমাত্রার ওপর নির্ভর করে বলে তাপমাত্রাও অপরিবর্তিত থাকে।",
+              "chapter": "01",
+              "topic": "মুক্ত প্রসারণ",
+              "difficulty": "Comprehension"
+            },
+            {
+              "id": "hsc-physics-2nd-paper-chapter-01-set-07-q09",
+              "questionNo": 9,
+              "question": "একটি কার্নো ইঞ্জিন T_1 তাপমাত্রার উৎস এবং T_2 তাপমাত্রার গ্রাহকের মধ্যে কাজ করে। ইঞ্জিনটির কর্মদক্ষতা তাত্ত্বিকভাবে 100\\% হবে যদি এবং কেবল যদি—",
+              "options": [
+                {
+                  "key": "ক",
+                  "text": "T_1 = 0 \\text{ K} হয়"
+                },
+                {
+                  "key": "খ",
+                  "text": "T_2 = 0 \\text{ K} হয়"
+                },
+                {
+                  "key": "গ",
+                  "text": "T_1 = T_2 হয়"
+                },
+                {
+                  "key": "ঘ",
+                  "text": "T_2 = 273 \\text{ K} হয়"
+                }
+              ],
+              "correctOption": "খ",
+              "shortSolution": "কার্নো ইঞ্জিনের কর্মদক্ষতা \\eta = \\left(1 - \\frac{T_2}{T_1}\\right)। এর মান 1 বা 100\\% হতে হলে \\frac{T_2}{T_1} এর মান শূন্য হতে হবে, যা কেবলমাত্র তাপ-গ্রাহকের তাপমাত্রা T_2 = 0 \\text{ K} হলেই সম্ভব।",
+              "chapter": "01",
+              "topic": "কার্নো ইঞ্জিন",
+              "difficulty": "Knowledge"
+            },
+            {
+              "id": "hsc-physics-2nd-paper-chapter-01-set-07-q10",
+              "questionNo": 10,
+              "question": "\"কোনো বস্তুকে এর পারিপার্শ্বিকের শীতলতম অংশ হতে অধিকতর শীতল করে অবিরাম যান্ত্রিক শক্তি লাভ করা সম্ভব নয়।\" — এটি তাপগতিবিদ্যার দ্বিতীয় সূত্রের কোন বিজ্ঞানীর বিবৃতি?",
+              "options": [
+                {
+                  "key": "ক",
+                  "text": "লর্ড কেলভিন (Lord Kelvin)"
+                },
+                {
+                  "key": "খ",
+                  "text": "রুডলফ ক্লসিয়াস (Rudolf Clausius)"
+                },
+                {
+                  "key": "গ",
+                  "text": "সাদী কার্নো (Sadi Carnot)"
+                },
+                {
+                  "key": "ঘ",
+                  "text": "ম্যাক্স প্ল্যাঙ্ক (Max Planck)"
+                }
+              ],
+              "correctOption": "ক",
+              "shortSolution": "লর্ড কেলভিন তাপগতিবিদ্যার দ্বিতীয় সূত্রটি এভাবে বিবৃত করেন। এটি দ্বারা বোঝানো হয় যে পরিবেশের তাপমাত্রার চেয়ে শীতল করে কোনো উৎস থেকে অবিরাম কাজ পাওয়া যায় না।",
+              "chapter": "01",
+              "topic": "তাপগতিবিদ্যার দ্বিতীয় সূত্র",
+              "difficulty": "Knowledge"
+            },
+            {
+              "id": "hsc-physics-2nd-paper-chapter-01-set-07-q11",
+              "questionNo": 11,
+              "question": "n মোল আদর্শ গ্যাসকে রুদ্ধতাপীয় প্রক্রিয়ায় প্রসারিত করা হলো। গ্যাসটির প্রাথমিক তাপমাত্রা T_1 এবং চূড়ান্ত তাপমাত্রা T_2 হলে, গ্যাস দ্বারা কৃত কাজ (W) এর সঠিক সমীকরণ কোনটি?",
+              "options": [
+                {
+                  "key": "ক",
+                  "text": "W = \\frac{nR}{\\gamma - 1}(T_2 - T_1)"
+                },
+                {
+                  "key": "খ",
+                  "text": "W = \\frac{nR}{\\gamma - 1}(T_1 - T_2)"
+                },
+                {
+                  "key": "গ",
+                  "text": "W = nRT \\ln\\left(\\frac{V_2}{V_1}\\right)"
+                },
+                {
+                  "key": "ঘ",
+                  "text": "W = \\frac{1}{\\gamma}(T_1 - T_2)"
+                }
+              ],
+              "correctOption": "খ",
+              "shortSolution": "রুদ্ধতাপীয় প্রক্রিয়ায় কৃত কাজের সমীকরণ হলো W = \\frac{nR}{\\gamma - 1}(T_1 - T_2)। গ্যাস প্রসারিত হলে T_1 > T_2 হয়, ফলে কৃত কাজ ধনাত্মক হয়।",
+              "chapter": "01",
+              "topic": "রুদ্ধতাপীয় প্রক্রিয়ায় কাজ",
+              "difficulty": "Knowledge"
+            },
+            {
+              "id": "hsc-physics-2nd-paper-chapter-01-set-07-q12",
+              "questionNo": 12,
+              "question": "আদর্শ গ্যাসের মোলার আপেক্ষিক তাপদ্বয় C_p ও C_v এর ক্ষেত্রে মেয়ারের সম্পর্ক (Mayer's relation) নিচের কোনটি?",
+              "options": [
+                {
+                  "key": "ক",
+                  "text": "C_v - C_p = R"
+                },
+                {
+                  "key": "খ",
+                  "text": "C_p + C_v = R"
+                },
+                {
+                  "key": "গ",
+                  "text": "C_p - C_v = R"
+                },
+                {
+                  "key": "ঘ",
+                  "text": "\\frac{C_p}{C_v} = R"
+                }
+              ],
+              "correctOption": "গ",
+              "shortSolution": "স্থির চাপে গ্যাসের মোলার আপেক্ষিক তাপ (C_p) সর্বদা স্থির আয়তনে মোলার আপেক্ষিক তাপ (C_v) অপেক্ষা বেশি হয়। এদের পার্থক্য সর্বজনীন গ্যাস ধ্রুবক (R) এর সমান, অর্থাৎ C_p - C_v = R।",
+              "chapter": "01",
+              "topic": "মেয়ারের সম্পর্ক",
+              "difficulty": "Knowledge"
+            },
+            {
+              "id": "hsc-physics-2nd-paper-chapter-01-set-07-q13",
+              "questionNo": 13,
+              "question": "তাপগতীয় সিস্টেমে নিচের কোনটি একটি এক্সটেনসিভ (Extensive) চলক, যা সিস্টেমের ভরের ওপর নির্ভর করে?",
+              "options": [
+                {
+                  "key": "ক",
+                  "text": "তাপমাত্রা"
+                },
+                {
+                  "key": "খ",
+                  "text": "চাপ"
+                },
+                {
+                  "key": "গ",
+                  "text": "ঘনত্ব"
+                },
+                {
+                  "key": "ঘ",
+                  "text": "এনট্রপি"
+                }
+              ],
+              "correctOption": "ঘ",
+              "shortSolution": "যে সকল চলক বস্তুর পরিমাণের বা ভরের ওপর নির্ভর করে তাদের এক্সটেনসিভ চলক বলে। ভর, আয়তন, অভ্যন্তরীণ শক্তি এবং এনট্রপি হলো এক্সটেনসিভ চলক। অন্যদিকে তাপমাত্রা, চাপ ও ঘনত্ব ইনটেনসিভ চলক।",
+              "chapter": "01",
+              "topic": "তাপগতীয় চলক",
+              "difficulty": "Comprehension"
+            },
+            {
+              "id": "hsc-physics-2nd-paper-chapter-01-set-07-q14",
+              "questionNo": 14,
+              "question": "P-V নির্দেশক চিত্রে সমউষ্ণ রেখা ও রুদ্ধতাপীয় রেখা পরস্পরকে ছেদ করলে, ছেদবিন্দুতে রুদ্ধতাপীয় রেখার নতি (Slope) এবং সমউষ্ণ রেখার নতির অনুপাত কত হবে?",
+              "options": [
+                {
+                  "key": "ক",
+                  "text": "\\gamma"
+                },
+                {
+                  "key": "খ",
+                  "text": "\\frac{1}{\\gamma}"
+                },
+                {
+                  "key": "গ",
+                  "text": "\\gamma - 1"
+                },
+                {
+                  "key": "ঘ",
+                  "text": "\\gamma^2"
+                }
+              ],
+              "correctOption": "ক",
+              "shortSolution": "রুদ্ধতাপীয় রেখার ঢাল \\frac{dP}{dV} = -\\gamma \\frac{P}{V} এবং সমউষ্ণ রেখার ঢাল \\frac{dP}{dV} = -\\frac{P}{V}। সুতরাং এদের অনুপাত \\gamma এর সমান হয়।",
+              "chapter": "01",
+              "topic": "নির্দেশক চিত্র ও ঢাল",
+              "difficulty": "Knowledge"
+            },
+            {
+              "id": "hsc-physics-2nd-paper-chapter-01-set-07-q15",
+              "questionNo": 15,
+              "question": "সমআয়তন প্রক্রিয়ায় (Isochoric process) কোনো গ্যাসীয় সিস্টেমে 400 \\text{ J} তাপশক্তি সরবরাহ করা হলে, গ্যাস কর্তৃক পরিবেশের ওপর কৃত কাজ কত হবে?",
+              "options": [
+                {
+                  "key": "ক",
+                  "text": "400 \\text{ J}"
+                },
+                {
+                  "key": "খ",
+                  "text": "-400 \\text{ J}"
+                },
+                {
+                  "key": "গ",
+                  "text": "0 \\text{ J}"
+                },
+                {
+                  "key": "ঘ",
+                  "text": "800 \\text{ J}"
+                }
+              ],
+              "correctOption": "গ",
+              "shortSolution": "সমআয়তন প্রক্রিয়ায় আয়তনের কোনো পরিবর্তন ঘটে না, অর্থাৎ dV = 0। ফলে সিস্টেম দ্বারা বা সিস্টেমের ওপর কৃত কাজ W = P \\cdot dV = 0 হয়। সরবরাহকৃত সম্পূর্ণ তাপ অভ্যন্তরীণ শক্তি বৃদ্ধিতে ব্যয় হয়।",
+              "chapter": "01",
+              "topic": "সমআয়তন প্রক্রিয়া",
+              "difficulty": "Easy"
+            },
+            {
+              "id": "hsc-physics-2nd-paper-chapter-01-set-07-q16",
+              "questionNo": 16,
+              "question": "কার্নো চক্রের (Carnot cycle) চারটি ধাপের মধ্যে তৃতীয় ধাপটি হলো—",
+              "options": [
+                {
+                  "key": "ক",
+                  "text": "সমউষ্ণ প্রসারণ"
+                },
+                {
+                  "key": "খ",
+                  "text": "রুদ্ধতাপীয় প্রসারণ"
+                },
+                {
+                  "key": "গ",
+                  "text": "সমউষ্ণ সংকোচন"
+                },
+                {
+                  "key": "ঘ",
+                  "text": "রুদ্ধতাপীয় সংকোচন"
+                }
+              ],
+              "correctOption": "গ",
+              "shortSolution": "কার্নো চক্রের চারটি ধাপ ক্রমান্বয়ে সম্পন্ন হয়: ১. সমউষ্ণ প্রসারণ, ২. রুদ্ধতাপীয় প্রসারণ, ৩. সমউষ্ণ সংকোচন, ৪. রুদ্ধতাপীয় সংকোচন। তাই তৃতীয় ধাপটি সমউষ্ণ সংকোচন।",
+              "chapter": "01",
+              "topic": "কার্নো চক্র",
+              "difficulty": "Knowledge"
+            },
+            {
+              "id": "hsc-physics-2nd-paper-chapter-01-set-07-q17",
+              "questionNo": 17,
+              "question": "ত্রি-পরমাণুক বা বহু-পরমাণুক অ-রৈখিক (Non-linear polyatomic) গ্যাসের (যেমন: NH_3) অণুর স্বাধীনতার মাত্রা (Degrees of freedom) সাধারণত কত ধরা হয়?",
+              "options": [
+                {
+                  "key": "ক",
+                  "text": "3"
+                },
+                {
+                  "key": "খ",
+                  "text": "5"
+                },
+                {
+                  "key": "গ",
+                  "text": "6"
+                },
+                {
+                  "key": "ঘ",
+                  "text": "7"
+                }
+              ],
+              "correctOption": "গ",
+              "shortSolution": "অ-রৈখিক বহু-পরমাণুক গ্যাসের অণুগুলো ত্রিমাত্রিক স্থানে ৩ দিকে রৈখিক গতি এবং ৩ অক্ষের সাপেক্ষে ঘূর্ণন গতি লাভ করতে পারে। ফলে মোট স্বাধীনতার মাত্রা 3 + 3 = 6 হয়।",
+              "chapter": "01",
+              "topic": "স্বাধীনতার মাত্রা",
+              "difficulty": "Knowledge"
+            },
+            {
+              "id": "hsc-physics-2nd-paper-chapter-01-set-07-q18",
+              "questionNo": 18,
+              "question": "রুদ্ধতাপীয় পরিবর্তনে চাপ (P) এবং পরম তাপমাত্রা (T) এর মধ্যকার সম্পর্ক নির্দেশক সমীকরণ কোনটি?",
+              "options": [
+                {
+                  "key": "ক",
+                  "text": "T^{\\gamma} P^{1-\\gamma} = \\text{ধ্রুবক}"
+                },
+                {
+                  "key": "খ",
+                  "text": "T^{\\gamma-1} P^{\\gamma} = \\text{ধ্রুবক}"
+                },
+                {
+                  "key": "গ",
+                  "text": "T P^{\\gamma-1} = \\text{ধ্রুবক}"
+                },
+                {
+                  "key": "ঘ",
+                  "text": "T^{1-\\gamma} P^{\\gamma} = \\text{ধ্রুবক}"
+                }
+              ],
+              "correctOption": "ক",
+              "shortSolution": "রুদ্ধতাপীয় প্রক্রিয়ার মূল সমীকরণ PV^\\gamma = \\text{ধ্রুবক} এ V = \\frac{RT}{P} প্রতিস্থাপন করলে সমীকরণটি দাঁড়ায় T^\\gamma P^{1-\\gamma} = \\text{ধ্রুবক}।",
+              "chapter": "01",
+              "topic": "রুদ্ধতাপীয় প্রক্রিয়ার সমীকরণ",
+              "difficulty": "Knowledge"
+            },
+            {
+              "id": "hsc-physics-2nd-paper-chapter-01-set-07-q19",
+              "questionNo": 19,
+              "question": "কোনো গ্যাসীয় সিস্টেম একটি পূর্ণ চক্র (Cyclic process) শেষে প্রাথমিক অবস্থায় ফিরে এলে, তাপগতিবিদ্যার প্রথম সূত্রানুসারে নিচের কোনটি সঠিক?",
+              "options": [
+                {
+                  "key": "ক",
+                  "text": "\\Delta U = \\Delta Q"
+                },
+                {
+                  "key": "খ",
+                  "text": "\\Delta Q = \\Delta W"
+                },
+                {
+                  "key": "গ",
+                  "text": "\\Delta U = \\Delta W"
+                },
+                {
+                  "key": "ঘ",
+                  "text": "\\Delta W = 0"
+                }
+              ],
+              "correctOption": "খ",
+              "shortSolution": "একটি চক্রাকার প্রক্রিয়ায় সিস্টেম তার আদি অবস্থায় ফিরে আসে, তাই অভ্যন্তরীণ শক্তির নিট পরিবর্তন শূন্য হয় (\\Delta U = 0)। প্রথম সূত্র \\Delta Q = \\Delta U + \\Delta W অনুসারে, \\Delta Q = \\Delta W হয়।",
+              "chapter": "01",
+              "topic": "চক্রাকার প্রক্রিয়া ও প্রথম সূত্র",
+              "difficulty": "Comprehension"
+            },
+            {
+              "id": "hsc-physics-2nd-paper-chapter-01-set-07-q20",
+              "questionNo": 20,
+              "question": "একটি রেফ্রিজারেটরের ভেতরের প্রকোষ্ঠের তাপমাত্রা 250 \\text{ K} এবং বাইরের পরিবেশের তাপমাত্রা 300 \\text{ K}। এর আদর্শ কার্যসম্পাদন সহগ (COP) কত?",
+              "options": [
+                {
+                  "key": "ক",
+                  "text": "5"
+                },
+                {
+                  "key": "খ",
+                  "text": "6"
+                },
+                {
+                  "key": "গ",
+                  "text": "1.2"
+                },
+                {
+                  "key": "ঘ",
+                  "text": "0.83"
+                }
+              ],
+              "correctOption": "ক",
+              "shortSolution": "রেফ্রিজারেটরের কার্যসম্পাদন সহগ, K = \\frac{T_2}{T_1 - T_2}। এখানে T_1 = 300 \\text{ K} এবং T_2 = 250 \\text{ K}। ফলে K = \\frac{250}{300 - 250} = \\frac{250}{50} = 5।",
+              "chapter": "01",
+              "topic": "রেফ্রিজারেটরের কার্যসম্পাদন সহগ",
+              "difficulty": "Medium"
+            },
+            {
+              "id": "hsc-physics-2nd-paper-chapter-01-set-07-q21",
+              "questionNo": 21,
+              "question": "কোনো সিস্টেমের বিশৃঙ্খলা (Disorder) বা শক্তির রূপান্তরের অক্ষমতা পরিমাপের ভৌত রাশিকে কী বলা হয়?",
+              "options": [
+                {
+                  "key": "ক",
+                  "text": "এনথালপি"
+                },
+                {
+                  "key": "খ",
+                  "text": "অভ্যন্তরীণ শক্তি"
+                },
+                {
+                  "key": "গ",
+                  "text": "এনট্রপি"
+                },
+                {
+                  "key": "ঘ",
+                  "text": "মুক্ত শক্তি"
+                }
+              ],
+              "correctOption": "গ",
+              "shortSolution": "এনট্রপি হলো তাপগতীয় সিস্টেমের একটি অবস্থাগত চলক যা ঐ সিস্টেমের আণবিক বিশৃঙ্খলা বা অব্যবস্থার মাত্রা নির্দেশ করে। এনট্রপি যত বাড়ে, সিস্টেমে কাজ করার মতো লভ্য শক্তি তত কমে যায়।",
+              "chapter": "01",
+              "topic": "এনট্রপি",
+              "difficulty": "Knowledge"
+            },
+            {
+              "id": "hsc-physics-2nd-paper-chapter-01-set-07-q22",
+              "questionNo": 22,
+              "question": "27^\\circ\\text{C} তাপমাত্রায় 2 মোল হিলিয়াম গ্যাস সমউষ্ণ প্রক্রিয়ায় প্রসারিত হয়ে এর আয়তন তিনগুণ হলো। গ্যাস দ্বারা কৃত কাজ কত? [R = 8.314 \\text{ J mol}^{-1}\\text{K}^{-1}]",
+              "options": [
+                {
+                  "key": "ক",
+                  "text": "2740 \\text{ J}"
+                },
+                {
+                  "key": "খ",
+                  "text": "5480 \\text{ J}"
+                },
+                {
+                  "key": "গ",
+                  "text": "1825 \\text{ J}"
+                },
+                {
+                  "key": "ঘ",
+                  "text": "8314 \\text{ J}"
+                }
+              ],
+              "correctOption": "খ",
+              "shortSolution": "সমউষ্ণ প্রক্রিয়ায় কাজ, W = nRT \\ln\\left(\\frac{V_2}{V_1}\\right)। এখানে n=2, T=300 \\text{ K} এবং V_2/V_1 = 3। W = 2 \\times 8.314 \\times 300 \\times \\ln(3) = 4988.4 \\times 1.0986 \\approx 5480.3 \\text{ J}।",
+              "chapter": "01",
+              "topic": "সমউষ্ণ প্রক্রিয়ায় কাজের গাণিতিক প্রয়োগ",
+              "difficulty": "Higher Order"
+            },
+            {
+              "id": "hsc-physics-2nd-paper-chapter-01-set-07-q23",
+              "questionNo": 23,
+              "question": "P-V নির্দেশক চিত্রে রুদ্ধতাপীয় বক্ররেখা এবং আয়তন অক্ষ দ্বারা আবদ্ধ ক্ষেত্রের ক্ষেত্রফল কী নির্দেশ করে?",
+              "options": [
+                {
+                  "key": "ক",
+                  "text": "এনট্রপির পরিবর্তন"
+                },
+                {
+                  "key": "খ",
+                  "text": "শোষিত তাপ"
+                },
+                {
+                  "key": "গ",
+                  "text": "রুদ্ধতাপীয় প্রক্রিয়ায় কৃত কাজ"
+                },
+                {
+                  "key": "ঘ",
+                  "text": "অভ্যন্তরীণ শক্তির পরিবর্তন"
+                }
+              ],
+              "correctOption": "গ",
+              "shortSolution": "P-V লেখচিত্রে যেকোনো বক্ররেখার নিচে আবদ্ধ ক্ষেত্রের ক্ষেত্রফল \\int P \\, dV নির্দেশ করে, যা মূলত উক্ত প্রক্রিয়ায় সিস্টেম দ্বারা সম্পাদিত বা সিস্টেমের ওপর সম্পাদিত কাজকে বোঝায়।",
+              "chapter": "01",
+              "topic": "নির্দেশক চিত্র ও ক্ষেত্রফল",
+              "difficulty": "Comprehension"
+            },
+            {
+              "id": "hsc-physics-2nd-paper-chapter-01-set-07-q24",
+              "questionNo": 24,
+              "question": "পানির ত্রৈধ বিন্দুর (Triple point) তাপমাত্রায় বরফ, পানি ও জলীয় বাষ্প একত্রে সাম্যাবস্থায় থাকে। এই বিন্দুর প্রমাণ চাপ কত?",
+              "options": [
+                {
+                  "key": "ক",
+                  "text": "1 \\text{ atm}"
+                },
+                {
+                  "key": "খ",
+                  "text": "101325 \\text{ Pa}"
+                },
+                {
+                  "key": "গ",
+                  "text": "4.58 \\text{ mm Hg}"
+                },
+                {
+                  "key": "ঘ",
+                  "text": "760 \\text{ mm Hg}"
+                }
+              ],
+              "correctOption": "গ",
+              "shortSolution": "পানির ত্রৈধ বিন্দু একটি নির্দিষ্ট অবস্থা যেখানে তাপমাত্রা 273.16 \\text{ K} (0.01^\\circ\\text{C}) এবং চাপ 4.58 \\text{ mm Hg} (বা 611.73 \\text{ Pa}) থাকে।",
+              "chapter": "01",
+              "topic": "পানির ত্রৈধ বিন্দু",
+              "difficulty": "Knowledge"
+            },
+            {
+              "id": "hsc-physics-2nd-paper-chapter-01-set-07-q25",
+              "questionNo": 25,
+              "question": "প্রত্যাগামী প্রক্রিয়ায় (Reversible process) মহাবিশ্বের এনট্রপির পরিবর্তনের (\\Delta S) ক্ষেত্রে নিচের কোনটি সঠিক?",
+              "options": [
+                {
+                  "key": "ক",
+                  "text": "\\Delta S > 0"
+                },
+                {
+                  "key": "খ",
+                  "text": "\\Delta S < 0"
+                },
+                {
+                  "key": "গ",
+                  "text": "\\Delta S = 0"
+                },
+                {
+                  "key": "ঘ",
+                  "text": "\\Delta S = \\infty"
+                }
+              ],
+              "correctOption": "গ",
+              "shortSolution": "একটি প্রত্যাগামী প্রক্রিয়ায় সিস্টেম ও পরিবেশের এনট্রপির মোট পরিবর্তন শূন্য হয়। অর্থাৎ এই ধরনের আদর্শ প্রক্রিয়ায় মহাবিশ্বের এনট্রপি স্থির থাকে।",
+              "chapter": "01",
+              "topic": "প্রত্যাগামী প্রক্রিয়ায় এনট্রপি",
+              "difficulty": "Knowledge"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

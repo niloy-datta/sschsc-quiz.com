@@ -1,352 +1,317 @@
 [
   {
-    "id": "ssc-higher-math-ch12-set02-q01",
+    "id": "ssc-higher-math-chapter-12-model-test-02-q01",
     "subject": "higher-math",
     "chapter": "ssc-higher-math-chapter-12-model-test-02",
-    "text": "$(x^2 + 6x + 9)^{3n}$ এর বিস্তৃতিতে পদসংখ্যা 13 হলে $n$ এর মান কত?",
+    "text": "P(ঘটনা) = 8/11 হলে সম্পূরক = ?",
     "options": [
-      "3",
-      "2",
-      "1",
-      "-2"
+      "5",
+      "24",
+      "11",
+      "-5"
     ],
     "image": null,
+    "optionImages": null,
     "timeLimit": 45
   },
   {
-    "id": "ssc-higher-math-ch12-set02-q02",
+    "id": "ssc-higher-math-chapter-12-model-test-02-q02",
     "subject": "higher-math",
     "chapter": "ssc-higher-math-chapter-12-model-test-02",
-    "text": "$F(a) = 2a^3 + 6a^2 - 6a + b$ বহুপদীটি $a-1$ দ্বারা বিভাজ্য হলে $b$ এর মান কত হবে?",
+    "text": "6x + 11 = 149 হলে x = ?",
+    "options": [
+      "22",
+      "23",
+      "24",
+      "25"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-higher-math-chapter-12-model-test-02-q03",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-12-model-test-02",
+    "text": "P(ঘটনা) = 5/6 হলে সম্পূরক = ?",
+    "options": [
+      "-4",
+      "6",
+      "5",
+      "4"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-higher-math-chapter-12-model-test-02-q04",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-12-model-test-02",
+    "text": "4x + 3 = 59 হলে x = ?",
+    "options": [
+      "14",
+      "16",
+      "13",
+      "15"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-higher-math-chapter-12-model-test-02-q05",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-12-model-test-02",
+    "text": "P(ঘটনা) = 3/8 হলে সম্পূরক = ?",
+    "options": [
+      "2",
+      "15",
+      "-2",
+      "8"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-higher-math-chapter-12-model-test-02-q06",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-12-model-test-02",
+    "text": "9x + 19 = 55 হলে x = ?",
+    "options": [
+      "5",
+      "3",
+      "6",
+      "4"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-higher-math-chapter-12-model-test-02-q07",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-12-model-test-02",
+    "text": "8, 9, ... 10 পদের যোগফল = ?",
+    "options": [
+      "125",
+      "133",
+      "80",
+      "18"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-higher-math-chapter-12-model-test-02-q08",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-12-model-test-02",
+    "text": "বৃত্তের ব্যাসার্ধ 9 হলে ক্ষেত্রফল ≈ ?",
+    "options": [
+      "18",
+      "81",
+      "254.46",
+      "9"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-higher-math-chapter-12-model-test-02-q09",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-12-model-test-02",
+    "text": "(6 + 10) × 1 = ?",
+    "options": [
+      "16",
+      "4",
+      "60",
+      "-4"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-higher-math-chapter-12-model-test-02-q10",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-12-model-test-02",
+    "text": "5, 6, ... 7 পদের যোগফল = ?",
+    "options": [
+      "61",
+      "56",
+      "12",
+      "35"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-higher-math-chapter-12-model-test-02-q11",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-12-model-test-02",
+    "text": "বৃত্তের ব্যাসার্ধ 6 হলে ক্ষেত্রফল ≈ ?",
+    "options": [
+      "113.09",
+      "36",
+      "6",
+      "12"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-higher-math-chapter-12-model-test-02-q12",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-12-model-test-02",
+    "text": "(3 + 1) × 1 = ?",
     "options": [
       "-2",
-      "1",
+      "4",
       "2",
       "3"
     ],
     "image": null,
+    "optionImages": null,
     "timeLimit": 45
   },
   {
-    "id": "ssc-higher-math-ch12-set02-q03",
+    "id": "ssc-higher-math-chapter-12-model-test-02-q13",
     "subject": "higher-math",
     "chapter": "ssc-higher-math-chapter-12-model-test-02",
-    "text": "$A(1, -1), B(2, 2)$ এবং $C(4, x)$ বিন্দু তিনটি সমরেখ হলে $x$ এর মান কত?",
+    "text": "2, 3, ... 4 পদের যোগফল = ?",
     "options": [
-      "3",
-      "5",
-      "7",
-      "8"
-    ],
-    "image": null,
-    "timeLimit": 45
-  },
-  {
-    "id": "ssc-higher-math-ch12-set02-q04",
-    "subject": "higher-math",
-    "chapter": "ssc-higher-math-chapter-12-model-test-02",
-    "text": "$F(x) = x^3 + 3$ হলে $F^{-1}(3)$ এর মান কত?",
-    "options": [
-      "27",
-      "10",
-      "4",
-      "0"
-    ],
-    "image": null,
-    "timeLimit": 45
-  },
-  {
-    "id": "ssc-higher-math-ch12-set02-q05",
-    "subject": "higher-math",
-    "chapter": "ssc-higher-math-chapter-12-model-test-02",
-    "text": "চিত্রে $\\triangle ABC$ এ $AB=12$, $AC=5$, $AD=3$, $DC=4$ এবং $\\angle ADC=90^\\circ$। চিত্রে $BD$ এর মান কত?",
-    "options": [
-      "$\\sqrt{149}$",
-      "$\\sqrt{135}$",
-      "$\\sqrt{131}$",
-      "$\\sqrt{125}$"
-    ],
-    "image": null,
-    "timeLimit": 45
-  },
-  {
-    "id": "ssc-higher-math-ch12-set02-q06",
-    "subject": "higher-math",
-    "chapter": "ssc-higher-math-chapter-12-model-test-02",
-    "text": "যদি $\\frac{x+5}{(x-1)(x-3)} = \\frac{P}{x-1} + \\frac{Q}{x-3}$ হয়, তবে $P$ ও $Q$ এর মান যথাক্রমে নিচের কোনটি?",
-    "options": [
-      "3 এবং 4",
-      "-3 এবং 4",
-      "3 এবং -4",
-      "-3 এবং -4"
-    ],
-    "image": null,
-    "timeLimit": 45
-  },
-  {
-    "id": "ssc-higher-math-ch12-set02-q07",
-    "subject": "higher-math",
-    "chapter": "ssc-higher-math-chapter-12-model-test-02",
-    "text": "যদি $(a\\sqrt{a})^{4a} = (a^3)^{a\\sqrt{a}}$ হয়, তবে $a$ এর মান কত?",
-    "options": [
-      "$\\frac{3}{2}$",
-      "2",
-      "$\\frac{9}{4}$",
-      "4"
-    ],
-    "image": null,
-    "timeLimit": 45
-  },
-  {
-    "id": "ssc-higher-math-ch12-set02-q08",
-    "subject": "higher-math",
-    "chapter": "ssc-higher-math-chapter-12-model-test-02",
-    "text": "$\\sqrt[m]{a} = \\sqrt[n]{b}$ এবং $ab = 1$ হলে, $(m+n)$ এর মান কত?",
-    "options": [
-      "0",
-      "1",
-      "2",
-      "4"
-    ],
-    "image": null,
-    "timeLimit": 45
-  },
-  {
-    "id": "ssc-higher-math-ch12-set02-q09",
-    "subject": "higher-math",
-    "chapter": "ssc-higher-math-chapter-12-model-test-02",
-    "text": "$\\frac{-2x}{(5-x)(3-x)} \\equiv \\frac{5}{5-x} + \\frac{A}{3-x}$ হলে, $A$ এর মান কত?",
-    "options": [
-      "-5",
-      "-3",
-      "3",
-      "5"
-    ],
-    "image": null,
-    "timeLimit": 45
-  },
-  {
-    "id": "ssc-higher-math-ch12-set02-q10",
-    "subject": "higher-math",
-    "chapter": "ssc-higher-math-chapter-12-model-test-02",
-    "text": "$4^x = \\frac{4}{8^y}$ হলে, $\\frac{x}{y}$ এর মান কত?",
-    "options": [
-      "$\\frac{2}{3}$",
-      "$\\frac{3}{4}$",
-      "$\\frac{4}{3}$",
-      "$\\frac{3}{2}$"
-    ],
-    "image": null,
-    "timeLimit": 45
-  },
-  {
-    "id": "ssc-higher-math-ch12-set02-q11",
-    "subject": "higher-math",
-    "chapter": "ssc-higher-math-chapter-12-model-test-02",
-    "text": "$(1 - 4x + 4x^2)^n$ এর বিস্তৃতিতে পদসংখ্যা 7 হলে, $n$ এর মান কত?",
-    "options": [
-      "3",
-      "4",
+      "8",
+      "16",
       "6",
-      "8"
+      "14"
     ],
     "image": null,
+    "optionImages": null,
     "timeLimit": 45
   },
   {
-    "id": "ssc-higher-math-ch12-set02-q12",
+    "id": "ssc-higher-math-chapter-12-model-test-02-q14",
     "subject": "higher-math",
     "chapter": "ssc-higher-math-chapter-12-model-test-02",
-    "text": "দুইটি বহুপদী $F(x)$ ও $G(x)$ সকল $x$ এর জন্য সমান হলে— i. এদের সমতাকে অভেদ বলা হয় ii. বহুপদীদ্বয়কে $F(x) \\equiv G(x)$ আকারে লেখা যায় iii. উভয়ের মাত্রা অসমান হয় নিচের কোনটি সঠিক?",
+    "text": "বৃত্তের ব্যাসার্ধ 3 হলে ক্ষেত্রফল ≈ ?",
     "options": [
-      "i ও ii",
-      "i ও iii",
-      "ii ও iii",
-      "i, ii ও iii"
-    ],
-    "image": null,
-    "timeLimit": 45
-  },
-  {
-    "id": "ssc-higher-math-ch12-set02-q13",
-    "subject": "higher-math",
-    "chapter": "ssc-higher-math-chapter-12-model-test-02",
-    "text": "$(9 - 6x + x^2)^{3n}$ এর বিস্তৃতিতে পদসংখ্যা **7** হলে, $n$ এর মান কত?",
-    "options": [
-      "1",
-      "2",
-      "4",
-      "6"
-    ],
-    "image": null,
-    "timeLimit": 45
-  },
-  {
-    "id": "ssc-higher-math-ch12-set02-q14",
-    "subject": "higher-math",
-    "chapter": "ssc-higher-math-chapter-12-model-test-02",
-    "text": "$3 \\cdot 27^n = 9^{n+3}$ হলে, $n$ এর মান কত?",
-    "options": [
-      "$\\frac{3}{2}$",
-      "$\\frac{9}{3}$",
-      "5",
-      "7"
-    ],
-    "image": null,
-    "timeLimit": 45
-  },
-  {
-    "id": "ssc-higher-math-ch12-set02-q15",
-    "subject": "higher-math",
-    "chapter": "ssc-higher-math-chapter-12-model-test-02",
-    "text": "$\\frac{1 - x}{(x + 3)(x + 5)} \\equiv \\frac{2}{x + 3} + \\frac{B}{x + 5}$ হলে, $B$ এর মান কত হবে?",
-    "options": [
-      "-3",
-      "-2",
-      "2",
-      "4"
-    ],
-    "image": null,
-    "timeLimit": 45
-  },
-  {
-    "id": "ssc-higher-math-ch12-set02-q16",
-    "subject": "higher-math",
-    "chapter": "ssc-higher-math-chapter-12-model-test-02",
-    "text": "^5C₃ এর মান কত?",
-    "options": [
-      "20",
-      "10",
-      "40",
-      "60"
-    ],
-    "image": null,
-    "timeLimit": 45
-  },
-  {
-    "id": "ssc-higher-math-ch12-set02-q17",
-    "subject": "higher-math",
-    "chapter": "ssc-higher-math-chapter-12-model-test-02",
-    "text": "^5C₃ এর মান কত?",
-    "options": [
-      "40",
-      "20",
-      "10",
-      "60"
-    ],
-    "image": null,
-    "timeLimit": 45
-  },
-  {
-    "id": "ssc-higher-math-ch12-set02-q18",
-    "subject": "higher-math",
-    "chapter": "ssc-higher-math-chapter-12-model-test-02",
-    "text": "^5C₃ এর মান কত?",
-    "options": [
-      "60",
-      "40",
-      "20",
-      "10"
-    ],
-    "image": null,
-    "timeLimit": 45
-  },
-  {
-    "id": "ssc-higher-math-ch12-set02-q19",
-    "subject": "higher-math",
-    "chapter": "ssc-higher-math-chapter-12-model-test-02",
-    "text": "^5C₃ এর মান কত?",
-    "options": [
-      "40",
-      "10",
-      "60",
-      "20"
-    ],
-    "image": null,
-    "timeLimit": 45
-  },
-  {
-    "id": "ssc-higher-math-ch12-set02-q20",
-    "subject": "higher-math",
-    "chapter": "ssc-higher-math-chapter-12-model-test-02",
-    "text": "^5C₃ এর মান কত?",
-    "options": [
-      "20",
-      "60",
-      "40",
-      "10"
-    ],
-    "image": null,
-    "timeLimit": 45
-  },
-  {
-    "id": "ssc-higher-math-ch12-set02-q21",
-    "subject": "higher-math",
-    "chapter": "ssc-higher-math-chapter-12-model-test-02",
-    "text": "^5C₃ এর মান কত?",
-    "options": [
-      "60",
-      "20",
-      "40",
-      "10"
-    ],
-    "image": null,
-    "timeLimit": 45
-  },
-  {
-    "id": "ssc-higher-math-ch12-set02-q22",
-    "subject": "higher-math",
-    "chapter": "ssc-higher-math-chapter-12-model-test-02",
-    "text": "\\\\((1-x)^6\\\\) এর বিস্তৃতিতে \\\\(x^2\\\\) বর্জিত পদের মান কত?",
-    "options": [
-      "\\\\(-\\\\frac{1}{3}\\\\)",
-      "\\\\(\\\\frac{1}{3}\\\\)",
-      "1",
-      "6"
-    ],
-    "image": null,
-    "timeLimit": 45
-  },
-  {
-    "id": "ssc-higher-math-ch12-set02-q23",
-    "subject": "higher-math",
-    "chapter": "ssc-higher-math-chapter-12-model-test-02",
-    "text": "\\\\(p\\\\)-এর মান কত?",
-    "options": [
-      "-7",
-      "-12",
       "9",
-      "12"
-    ],
-    "image": null,
-    "timeLimit": 45
-  },
-  {
-    "id": "ssc-higher-math-ch12-set02-q24",
-    "subject": "higher-math",
-    "chapter": "ssc-higher-math-chapter-12-model-test-02",
-    "text": "$A, B, C$ এর অবস্থান ভেক্টর যথাক্রমে $\\vec{a}, \\vec{b}, \\vec{c}$ এবং $AB$ রেখাংশকে $C$ বিন্দুটি 2:3 ভাগে অন্তর্বিভক্ত করলে $\\vec{c} =$ কত?",
-    "options": [
-      "$\\frac{3\\vec{b} + 2\\vec{a}}{5}$",
-      "$\\frac{2\\vec{b} + 3\\vec{a}}{5}$",
-      "$3\\vec{b} - 2\\vec{a}$",
-      "$2\\vec{b} - 3\\vec{a}$"
-    ],
-    "image": null,
-    "timeLimit": 45
-  },
-  {
-    "id": "ssc-higher-math-ch12-set02-q25",
-    "subject": "higher-math",
-    "chapter": "ssc-higher-math-chapter-12-model-test-02",
-    "text": "$(m^3 + \\frac{1}{m^3})^4$ এর বিস্তৃতিতে $m$ মুক্ত পদের মান কত?",
-    "options": [
-      "0",
-      "4",
+      "3",
       "6",
-      "8"
+      "28.274"
     ],
     "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-higher-math-chapter-12-model-test-02-q15",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-12-model-test-02",
+    "text": "(8 + 18) × 1 = ?",
+    "options": [
+      "-10",
+      "144",
+      "10",
+      "26"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-higher-math-chapter-12-model-test-02-q16",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-12-model-test-02",
+    "text": "7, 8, ... 10 পদের যোগফল = ?",
+    "options": [
+      "70",
+      "115",
+      "122",
+      "17"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-higher-math-chapter-12-model-test-02-q17",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-12-model-test-02",
+    "text": "3x + 3 = 42 হলে x = ?",
+    "options": [
+      "12",
+      "13",
+      "15",
+      "14"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-higher-math-chapter-12-model-test-02-q18",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-12-model-test-02",
+    "text": "P(ঘটনা) = 7/10 হলে সম্পূরক = ?",
+    "options": [
+      "10",
+      "4",
+      "21",
+      "-4"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-higher-math-chapter-12-model-test-02-q19",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-12-model-test-02",
+    "text": "(6 + 9) × 1 = ?",
+    "options": [
+      "3",
+      "54",
+      "15",
+      "-3"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-higher-math-chapter-12-model-test-02-q20",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-12-model-test-02",
+    "text": "3x + 2 = 41 হলে x = ?",
+    "options": [
+      "12",
+      "15",
+      "13",
+      "14"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-higher-math-chapter-12-model-test-02-q21",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-12-model-test-02",
+    "text": "9x + 19 = 46 হলে x = ?",
+    "options": [
+      "2",
+      "5",
+      "4",
+      "3"
+    ],
+    "image": null,
+    "optionImages": null,
     "timeLimit": 45
   }
 ]

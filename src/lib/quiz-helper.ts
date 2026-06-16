@@ -237,7 +237,7 @@ export function buildSyllabusChapterGroupsFromModelTests(
   }));
 }
 
-/** Subject hub "অধ্যায়ভিত্তিক কুইজ" tab — syllabus chapter cards only, never model tests. */
+/** Subject hub "অধ্যায়ভিত্তিক কুইজ" tab — syllabus chapter cards with real set links. */
 export function buildSubjectChapterTabGroups(
   chapterSets: NormalizedQuizSet[],
   syllabusChapterSlugs: string[],
@@ -246,40 +246,38 @@ export function buildSubjectChapterTabGroups(
   const indexGroups = groupChapterQuizSets(
     chapterSets.filter((s) => s.type === "chapter-wise" && s.questionCount > 0),
   );
-  const indexBySlug = new Map(
-    indexGroups.map((g) => [
-      g.chapterSlug,
-      { name: formatChapterDisplayName(g.chapterSlug, g.chapterName), total: g.questionCount },
-    ]),
-  );
+  const setsBySlug = new Map(indexGroups.map((g) => [g.chapterSlug, g.sets]));
 
-  const slugList =
-    syllabusChapterSlugs.length > 0
-      ? Array.from(new Set(syllabusChapterSlugs)).sort()
-      : indexGroups.map((g) => g.chapterSlug);
+  const slugList = Array.from(
+    new Set([
+      ...syllabusChapterSlugs,
+      ...indexGroups.map((g) => g.chapterSlug),
+    ]),
+  ).sort();
 
   return slugList.map((chapterSlug) => {
-    const fromIndex = indexBySlug.get(chapterSlug);
+    const sets = setsBySlug.get(chapterSlug) ?? [];
+    const fromIndex = indexGroups.find((g) => g.chapterSlug === chapterSlug);
     const chapterName =
-      fromIndex?.name ?? formatChapterDisplayName(chapterSlug, chapterSlug);
-    const mcqTotal = fromIndex?.total ?? 0;
+      fromIndex?.chapterName ??
+      formatChapterDisplayName(chapterSlug, chapterSlug);
+
+    if (sets.length > 0) {
+      return buildChapterGroupDisplay(
+        chapterSlug,
+        chapterName,
+        sets,
+        chapterPathPrefix,
+      );
+    }
+
     return {
       chapterSlug,
       chapterName,
-      totalQuestions: mcqTotal,
-      physicalSetCount: fromIndex ? 1 : 0,
+      totalQuestions: 0,
+      physicalSetCount: 0,
       practiceMode: false,
-      displaySets: [
-        {
-          id: chapterSlug,
-          setId: chapterSlug,
-          title: `${chapterName} — MCQ প্র্যাকটিস`,
-          slug: chapterSlug,
-          href: `${chapterPathPrefix}/${chapterSlug}`,
-          questionCount: mcqTotal,
-          mode: "practice" as const,
-        },
-      ],
+      displaySets: [],
     };
   });
 }

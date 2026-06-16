@@ -13,11 +13,11 @@ const SUBJECT_MAP: Record<string, string> = {
 };
 
 const AVAILABLE_YEARS: Record<string, string[]> = {
-  physics: ["2022", "2023", "2024", "2025", "2026"],
-  chemistry: ["2022", "2023", "2024", "2025", "2026"],
-  biology: ["2022", "2023", "2024", "2025", "2026"],
-  "higher-math": ["2022", "2023", "2024", "2025", "2026"],
-  math: ["2022", "2023", "2024", "2025", "2026"],
+  physics: ["2022", "2023", "2024", "2025"],
+  chemistry: ["2022", "2023", "2024", "2025"],
+  biology: ["2022", "2023", "2024", "2025"],
+  "higher-math": ["2022", "2023", "2024", "2025"],
+  math: ["2022", "2023", "2024", "2025"],
 };
 
 const TARGET_YEARS = [
@@ -33,7 +33,6 @@ const HISTORICAL_YEARS = [
   { value: "2023", label: "২০২৩" },
   { value: "2024", label: "২০২৪" },
   { value: "2025", label: "২০২৫" },
-  { value: "2026", label: "২০২৬" },
 ];
 
 type Props = {

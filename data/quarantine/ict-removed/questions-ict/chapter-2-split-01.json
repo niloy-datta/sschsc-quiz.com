@@ -1,0 +1,352 @@
+[
+  {
+    "id": "chapter-2-split-01-q01",
+    "subject": "ict",
+    "chapter": "chapter-2-split-01",
+    "text": "ডেটা কমিউনিকেশন বলতে কী বোঝায়?",
+    "options": [
+      "ডেটা সংরক্ষণ",
+      "এক স্থান থেকে অন্য স্থানে ডেটা আদান-প্রদান",
+      "ডেটা মুছে ফেলা",
+      "ডেটা প্রিন্ট করা"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "chapter-2-split-01-q02",
+    "subject": "ict",
+    "chapter": "chapter-2-split-01",
+    "text": "ডেটা কমিউনিকেশনের মূল উপাদান কয়টি?",
+    "options": [
+      "৩টি",
+      "৪টি",
+      "৫টি",
+      "৬টি"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "chapter-2-split-01-q03",
+    "subject": "ict",
+    "chapter": "chapter-2-split-01",
+    "text": "ডেটা কমিউনিকেশনের উপাদান নয় কোনটি?",
+    "options": [
+      "Sender",
+      "Receiver",
+      "Medium",
+      "Compiler"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "chapter-2-split-01-q04",
+    "subject": "ict",
+    "chapter": "chapter-2-split-01",
+    "text": "যে ডিভাইস ডেটা পাঠায় তাকে বলা হয়—",
+    "options": [
+      "Sender",
+      "Receiver",
+      "Protocol",
+      "Medium"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "chapter-2-split-01-q05",
+    "subject": "ict",
+    "chapter": "chapter-2-split-01",
+    "text": "যে ডিভাইস ডেটা গ্রহণ করে তাকে বলা হয়—",
+    "options": [
+      "Sender",
+      "Receiver",
+      "Message",
+      "Modem"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "chapter-2-split-01-q06",
+    "subject": "ict",
+    "chapter": "chapter-2-split-01",
+    "text": "ডেটা চলাচলের পথকে বলা হয়—",
+    "options": [
+      "Protocol",
+      "Medium",
+      "Message",
+      "Signal"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "chapter-2-split-01-q07",
+    "subject": "ict",
+    "chapter": "chapter-2-split-01",
+    "text": "ডেটা আদান-প্রদানের নিয়মকে বলা হয়—",
+    "options": [
+      "Protocol",
+      "Cable",
+      "Router",
+      "Hub"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "chapter-2-split-01-q08",
+    "subject": "ict",
+    "chapter": "chapter-2-split-01",
+    "text": "কমিউনিকেশনে প্রেরিত তথ্যকে বলা হয়—",
+    "options": [
+      "Medium",
+      "Message",
+      "Network",
+      "Topology"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "chapter-2-split-01-q09",
+    "subject": "ict",
+    "chapter": "chapter-2-split-01",
+    "text": "Simplex mode-এ ডেটা যায়—",
+    "options": [
+      "দুই দিকে একসাথে",
+      "দুই দিকে পালাক্রমে",
+      "একদিকে মাত্র",
+      "কোনো দিকেই নয়"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "chapter-2-split-01-q10",
+    "subject": "ict",
+    "chapter": "chapter-2-split-01",
+    "text": "Simplex mode-এর উদাহরণ কোনটি?",
+    "options": [
+      "রেডিও সম্প্রচার",
+      "মোবাইল কল",
+      "ওয়াকি-টকি",
+      "ভিডিও কল"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "chapter-2-split-01-q11",
+    "subject": "ict",
+    "chapter": "chapter-2-split-01",
+    "text": "Half-duplex mode-এ ডেটা যায়—",
+    "options": [
+      "একদিকে মাত্র",
+      "দুই দিকে, কিন্তু একসাথে নয়",
+      "দুই দিকে একসাথে",
+      "কোনো দিকেই নয়"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "chapter-2-split-01-q12",
+    "subject": "ict",
+    "chapter": "chapter-2-split-01",
+    "text": "Half-duplex mode-এর উদাহরণ—",
+    "options": [
+      "ওয়াকি-টকি",
+      "টিভি সম্প্রচার",
+      "কীবোর্ড",
+      "মনিটর"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "chapter-2-split-01-q13",
+    "subject": "ict",
+    "chapter": "chapter-2-split-01",
+    "text": "Full-duplex mode-এ ডেটা যায়—",
+    "options": [
+      "একদিকে",
+      "দুই দিকে একসাথে",
+      "দুই দিকে কিন্তু আলাদা সময়ে",
+      "শুধু রিসিভারে"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "chapter-2-split-01-q14",
+    "subject": "ict",
+    "chapter": "chapter-2-split-01",
+    "text": "Full-duplex mode-এর উদাহরণ—",
+    "options": [
+      "মোবাইল ফোনে কথা বলা",
+      "রেডিও",
+      "টিভি",
+      "কীবোর্ড"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "chapter-2-split-01-q15",
+    "subject": "ict",
+    "chapter": "chapter-2-split-01",
+    "text": "Analog signal কেমন হয়?",
+    "options": [
+      "ধারাবাহিক",
+      "বিচ্ছিন্ন",
+      "শুধু ০ ও ১",
+      "শুধু টেক্সট"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "chapter-2-split-01-q16",
+    "subject": "ict",
+    "chapter": "chapter-2-split-01",
+    "text": "Digital signal কেমন হয়?",
+    "options": [
+      "ধারাবাহিক",
+      "বিচ্ছিন্ন",
+      "শুধু শব্দ",
+      "শুধু আলো"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "chapter-2-split-01-q17",
+    "subject": "ict",
+    "chapter": "chapter-2-split-01",
+    "text": "কম্পিউটার সাধারণত কোন সিগন্যাল ব্যবহার করে?",
+    "options": [
+      "Analog",
+      "Digital",
+      "Mechanical",
+      "Chemical"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "chapter-2-split-01-q18",
+    "subject": "ict",
+    "chapter": "chapter-2-split-01",
+    "text": "Bit-এর পূর্ণরূপ কী?",
+    "options": [
+      "Binary digit",
+      "Basic internet tool",
+      "Binary table",
+      "Byte item"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "chapter-2-split-01-q19",
+    "subject": "ict",
+    "chapter": "chapter-2-split-01",
+    "text": "১ Byte সমান কত bit?",
+    "options": [
+      "৪ bit",
+      "৮ bit",
+      "১৬ bit",
+      "৩২ bit"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "chapter-2-split-01-q20",
+    "subject": "ict",
+    "chapter": "chapter-2-split-01",
+    "text": "Bandwidth বলতে বোঝায়—",
+    "options": [
+      "ডেটা পরিবহনের ক্ষমতা",
+      "কেবল দৈর্ঘ্য",
+      "কম্পিউটারের ওজন",
+      "ফাইলের নাম"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "chapter-2-split-01-q21",
+    "subject": "ict",
+    "chapter": "chapter-2-split-01",
+    "text": "Bandwidth বেশি হলে সাধারণত—",
+    "options": [
+      "ডেটা ধীরে যায়",
+      "ডেটা দ্রুত যায়",
+      "নেটওয়ার্ক বন্ধ হয়",
+      "ডেটা মুছে যায়"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "chapter-2-split-01-q22",
+    "subject": "ict",
+    "chapter": "chapter-2-split-01",
+    "text": "Baud rate কোনটির সাথে সম্পর্কিত?",
+    "options": [
+      "সিগন্যাল পরিবর্তনের হার",
+      "টেবিল ডিজাইন",
+      "SQL query",
+      "CSS color"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "chapter-2-split-01-q23",
+    "subject": "ict",
+    "chapter": "chapter-2-split-01",
+    "text": "Noise কী?",
+    "options": [
+      "অনাকাঙ্ক্ষিত সিগন্যাল",
+      "আসল message",
+      "sender",
+      "receiver"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "chapter-2-split-01-q24",
+    "subject": "ict",
+    "chapter": "chapter-2-split-01",
+    "text": "Noise বেশি হলে কী হয়?",
+    "options": [
+      "ডেটা বিকৃত হতে পারে",
+      "ডেটা সবসময় ভালো হয়",
+      "গতি অসীম হয়",
+      "প্রোটোকল লাগে না"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "chapter-2-split-01-q25",
+    "subject": "ict",
+    "chapter": "chapter-2-split-01",
+    "text": "Error detection দরকার কেন?",
+    "options": [
+      "ডেটা ভুল হয়েছে কি না বুঝতে",
+      "কেবল সাজাতে",
+      "HTML লিখতে",
+      "ডেটাবেজ মুছতে"
+    ],
+    "image": null,
+    "timeLimit": 45
+  }
+]

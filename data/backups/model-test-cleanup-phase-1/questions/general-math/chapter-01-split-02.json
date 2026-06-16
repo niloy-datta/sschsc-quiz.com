@@ -1,0 +1,452 @@
+[
+  {
+    "id": "chapter-01-split-02-q01",
+    "subject": "general-math",
+    "chapter": "chapter-01-split-02",
+    "text": "2a:3a অনুপাতটি সরল করলে কত?",
+    "options": [
+      "২:৩",
+      "৩:২",
+      "২a:৩",
+      "a:৩a"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "chapter-01-split-02-q02",
+    "subject": "general-math",
+    "chapter": "chapter-01-split-02",
+    "text": "6x:9x অনুপাতটি সরল করলে কত?",
+    "options": [
+      "৬:৯",
+      "২:৩",
+      "৩:২",
+      "x:৩"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "chapter-01-split-02-q03",
+    "subject": "general-math",
+    "chapter": "chapter-01-split-02",
+    "text": "a:b = 3:4 হলে (a+b):b কত?",
+    "options": [
+      "৩:৪",
+      "৭:৪",
+      "৪:৭",
+      "৭:৩"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "chapter-01-split-02-q04",
+    "subject": "general-math",
+    "chapter": "chapter-01-split-02",
+    "text": "a:b = 2:3 হলে (a+b):(a−b) কত?",
+    "options": [
+      "৫:১",
+      "৫:−১",
+      "১:৫",
+      "−১:৫"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "chapter-01-split-02-q05",
+    "subject": "general-math",
+    "chapter": "chapter-01-split-02",
+    "text": "x:y = 5:2 হলে (x−y):y কত?",
+    "options": [
+      "৩:২",
+      "৫:২",
+      "২:৩",
+      "৭:২"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "chapter-01-split-02-q06",
+    "subject": "general-math",
+    "chapter": "chapter-01-split-02",
+    "text": "a:b = 4:9 হলে √a:√b কত?",
+    "options": [
+      "৪:৯",
+      "২:৩",
+      "১৬:৮১",
+      "৩:২"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "chapter-01-split-02-q07",
+    "subject": "general-math",
+    "chapter": "chapter-01-split-02",
+    "text": "a:b = 2:3 হলে a²:b² কত?",
+    "options": [
+      "২:৩",
+      "৪:৯",
+      "৮:২৭",
+      "৩:২"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "chapter-01-split-02-q08",
+    "subject": "general-math",
+    "chapter": "chapter-01-split-02",
+    "text": "a:b = 2:3 হলে a³:b³ কত?",
+    "options": [
+      "২:৩",
+      "৪:৯",
+      "৮:২৭",
+      "৬:৯"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "chapter-01-split-02-q09",
+    "subject": "general-math",
+    "chapter": "chapter-01-split-02",
+    "text": "যদি a:b = c:d হয়, তবে (a+c):(b+d) কোনটির সমান?",
+    "options": [
+      "a:b",
+      "a:c",
+      "b:d",
+      "c:b"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "chapter-01-split-02-q10",
+    "subject": "general-math",
+    "chapter": "chapter-01-split-02",
+    "text": "a:b = 3:5 এবং c:d = 3:5 হলে (a+c):(b+d) কত?",
+    "options": [
+      "৩:৫",
+      "৬:১০",
+      "৫:৩",
+      "৮:১৫"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "chapter-01-split-02-q11",
+    "subject": "general-math",
+    "chapter": "chapter-01-split-02",
+    "text": "যদি a:b = 7:4 হয়, তবে (a−b):(a+b) কত?",
+    "options": [
+      "৩:১১",
+      "১১:৩",
+      "৭:৪",
+      "৪:৭"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "chapter-01-split-02-q12",
+    "subject": "general-math",
+    "chapter": "chapter-01-split-02",
+    "text": "x:12 = 5:6 হলে x কত?",
+    "options": [
+      "৮",
+      "১০",
+      "১২",
+      "১৫"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "chapter-01-split-02-q13",
+    "subject": "general-math",
+    "chapter": "chapter-01-split-02",
+    "text": "9:x = x:16 হলে x-এর ধনাত্মক মান কত?",
+    "options": [
+      "৯",
+      "১০",
+      "১২",
+      "১৬"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "chapter-01-split-02-q14",
+    "subject": "general-math",
+    "chapter": "chapter-01-split-02",
+    "text": "4, x, x, 25 সমানুপাতী হলে x-এর ধনাত্মক মান কত?",
+    "options": [
+      "৫",
+      "১০",
+      "১৫",
+      "২০"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "chapter-01-split-02-q15",
+    "subject": "general-math",
+    "chapter": "chapter-01-split-02",
+    "text": "a:b = 1:2 হলে (2a+b):(a+2b) কত?",
+    "options": [
+      "১:২",
+      "২:৩",
+      "৪:৫",
+      "৩:৫"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "chapter-01-split-02-q16",
+    "subject": "general-math",
+    "chapter": "chapter-01-split-02",
+    "text": "a:b = 3:2 হলে (a²−b²):(a²+b²) কত?",
+    "options": [
+      "৫:১৩",
+      "১৩:৫",
+      "১:৫",
+      "৩:২"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "chapter-01-split-02-q17",
+    "subject": "general-math",
+    "chapter": "chapter-01-split-02",
+    "text": "একই ভূমি ও একই সমান্তরাল রেখার মধ্যে অবস্থিত দুইটি ত্রিভুজের ক্ষেত্রফল কেমন?",
+    "options": [
+      "সমান",
+      "অসমান",
+      "দ্বিগুণ",
+      "অর্ধেক"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "chapter-01-split-02-q18",
+    "subject": "general-math",
+    "chapter": "chapter-01-split-02",
+    "text": "একই ভূমি ও একই সমান্তরাল রেখার মধ্যে অবস্থিত দুইটি সামান্তরিকের ক্ষেত্রফল কেমন?",
+    "options": [
+      "অসমান",
+      "সমান",
+      "অর্ধেক",
+      "দ্বিগুণ"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "chapter-01-split-02-q19",
+    "subject": "general-math",
+    "chapter": "chapter-01-split-02",
+    "text": "একই ভূমি ও একই উচ্চতাবিশিষ্ট দুইটি ত্রিভুজের ক্ষেত্রফল কেমন?",
+    "options": [
+      "সমান",
+      "অসমান",
+      "দ্বিগুণ",
+      "চারগুণ"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "chapter-01-split-02-q20",
+    "subject": "general-math",
+    "chapter": "chapter-01-split-02",
+    "text": "একই ভূমি ও একই উচ্চতাবিশিষ্ট সামান্তরিক ও ত্রিভুজের ক্ষেত্রফলের সম্পর্ক কী?",
+    "options": [
+      "সামান্তরিকের ক্ষেত্রফল ত্রিভুজের সমান",
+      "সামান্তরিকের ক্ষেত্রফল ত্রিভুজের দ্বিগুণ",
+      "ত্রিভুজের ক্ষেত্রফল সামান্তরিকের দ্বিগুণ",
+      "কোনো সম্পর্ক নেই"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "chapter-01-split-02-q21",
+    "subject": "general-math",
+    "chapter": "chapter-01-split-02",
+    "text": "ত্রিভুজের ক্ষেত্রফলের সূত্র কোনটি?",
+    "options": [
+      "ভূমি × উচ্চতা",
+      "১/২ × ভূমি × উচ্চতা",
+      "২ × ভূমি × উচ্চতা",
+      "ভূমি + উচ্চতা"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "chapter-01-split-02-q22",
+    "subject": "general-math",
+    "chapter": "chapter-01-split-02",
+    "text": "সামান্তরিকের ক্ষেত্রফলের সূত্র কোনটি?",
+    "options": [
+      "১/২ × ভূমি × উচ্চতা",
+      "ভূমি × উচ্চতা",
+      "২ × ভূমি × উচ্চতা",
+      "ভূমি + উচ্চতা"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "chapter-01-split-02-q23",
+    "subject": "general-math",
+    "chapter": "chapter-01-split-02",
+    "text": "একই ভূমির উপর অবস্থিত দুইটি ত্রিভুজের ক্ষেত্রফলের অনুপাত তাদের কোনটির অনুপাতের সমান?",
+    "options": [
+      "উচ্চতা",
+      "পরিসীমা",
+      "কোণ",
+      "মধ্যমা"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "chapter-01-split-02-q24",
+    "subject": "general-math",
+    "chapter": "chapter-01-split-02",
+    "text": "একই উচ্চতাবিশিষ্ট দুইটি ত্রিভুজের ক্ষেত্রফলের অনুপাত তাদের কোনটির অনুপাতের সমান?",
+    "options": [
+      "ভূমি",
+      "কোণ",
+      "পরিসীমা",
+      "মধ্যমা"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "chapter-01-split-02-q25",
+    "subject": "general-math",
+    "chapter": "chapter-01-split-02",
+    "text": "দুইটি ত্রিভুজের ভূমির অনুপাত ৩:৫ এবং উচ্চতা সমান হলে ক্ষেত্রফলের অনুপাত কত?",
+    "options": [
+      "৩:৫",
+      "৫:৩",
+      "৯:২৫",
+      "২৫:৯"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "chapter-01-split-02-q26",
+    "subject": "general-math",
+    "chapter": "chapter-01-split-02",
+    "text": "দুইটি ত্রিভুজের উচ্চতার অনুপাত ৪:৭ এবং ভূমি সমান হলে ক্ষেত্রফলের অনুপাত কত?",
+    "options": [
+      "৭:৪",
+      "৪:৭",
+      "১৬:৪৯",
+      "৪৯:১৬"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "chapter-01-split-02-q27",
+    "subject": "general-math",
+    "chapter": "chapter-01-split-02",
+    "text": "একই ভূমি ও একই সমান্তরাল রেখার মধ্যে ত্রিভুজ ABC ও ত্রিভুজ DBC অবস্থিত হলে তাদের ক্ষেত্রফল কেমন?",
+    "options": [
+      "সমান",
+      "অসমান",
+      "ABC দ্বিগুণ",
+      "DBC দ্বিগুণ"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "chapter-01-split-02-q28",
+    "subject": "general-math",
+    "chapter": "chapter-01-split-02",
+    "text": "একই ভূমি ও একই সমান্তরাল রেখার মধ্যে সামান্তরিক ABCD ও EBCF অবস্থিত হলে ক্ষেত্রফল কেমন?",
+    "options": [
+      "সমান",
+      "অসমান",
+      "প্রথমটি দ্বিগুণ",
+      "দ্বিতীয়টি দ্বিগুণ"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "chapter-01-split-02-q29",
+    "subject": "general-math",
+    "chapter": "chapter-01-split-02",
+    "text": "একটি সামান্তরিক ও একটি ত্রিভুজ একই ভূমি ও একই সমান্তরাল রেখার মধ্যে থাকলে সামান্তরিকের ক্ষেত্রফল ত্রিভুজের কত গুণ?",
+    "options": [
+      "অর্ধেক",
+      "সমান",
+      "দ্বিগুণ",
+      "তিনগুণ"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "chapter-01-split-02-q30",
+    "subject": "general-math",
+    "chapter": "chapter-01-split-02",
+    "text": "একটি ত্রিভুজের ভূমি ১০ সেমি এবং উচ্চতা ৬ সেমি হলে ক্ষেত্রফল কত?",
+    "options": [
+      "৩০ বর্গসেমি",
+      "৬০ বর্গসেমি",
+      "১৬ বর্গসেমি",
+      "৪০ বর্গসেমি"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  }
+]

@@ -1,0 +1,109 @@
+<svg viewBox="0 0 400 260" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0a0e27"/>
+      <stop offset="50%" stop-color="#0f172a"/>
+      <stop offset="100%" stop-color="#1a0a2e"/>
+    </linearGradient>
+    <linearGradient id="brain-grad" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#c084fc"/>
+      <stop offset="50%" stop-color="#a78bfa"/>
+      <stop offset="100%" stop-color="#818cf8"/>
+    </linearGradient>
+    <linearGradient id="cortex" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#a78bfa"/>
+      <stop offset="100%" stop-color="#7c3aed"/>
+    </linearGradient>
+    <linearGradient id="cerebellum-grad" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#f472b6"/>
+      <stop offset="100%" stop-color="#e11d48"/>
+    </linearGradient>
+    <filter id="glow" x="-40%" y="-40%" width="180%" height="180%">
+      <feGaussianBlur stdDeviation="4" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <filter id="glow-strong" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="6" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <style>
+      @keyframes brain-pulse { 0%,100% { opacity:0.7; filter:url(#glow); } 50% { opacity:1; filter:url(#glow-strong); } }
+      @keyframes neural-flash { 0%,100% { opacity:0.3; } 50% { opacity:0.9; } }
+      @keyframes synapse { 0% { r:1.5; opacity:0; } 50% { r:3; opacity:1; } 100% { r:1.5; opacity:0; } }
+      .brain-glow { animation:brain-pulse 4s ease-in-out infinite; }
+      .neuron1 { animation:neural-flash 2s ease-in-out infinite; }
+      .neuron2 { animation:neural-flash 2.5s ease-in-out infinite; animation-delay:0.5s; }
+      .neuron3 { animation:neural-flash 3s ease-in-out infinite; animation-delay:1s; }
+      .synapse { animation:synapse 2s ease-in-out infinite; }
+    </style>
+  </defs>
+
+  <rect width="400" height="260" rx="16" fill="url(#bg)" stroke="#1e293b" stroke-width="1.5"/>
+
+  <!-- Decorative particles (neural signals) -->
+  <circle cx="55" cy="40" r="2" fill="#c084fc" opacity="0.4" class="neuron1"/>
+  <circle cx="340" cy="35" r="2" fill="#a78bfa" opacity="0.3" class="neuron2"/>
+  <circle cx="30" cy="210" r="2" fill="#c084fc" opacity="0.3" class="neuron3"/>
+  <circle cx="370" cy="210" r="1.5" fill="#a78bfa" opacity="0.4" class="neuron1"/>
+
+  <text x="200" y="22" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="13" text-anchor="middle" font-weight="bold" filter="url(#glow)">মানব মস্তিষ্ক — Human Brain</text>
+
+  <!-- Brain outline (side view / sagittal) -->
+  <g class="brain-glow">
+    <path d="M 200 40 C 250 35, 310 55, 310 100 C 310 130, 290 145, 270 150 C 280 165, 285 180, 275 195 C 265 210, 240 220, 200 225 C 160 220, 135 210, 125 195 C 115 180, 120 165, 130 150 C 110 145, 90 130, 90 100 C 90 55, 150 35, 200 40 Z" fill="#0f172a" stroke="url(#brain-grad)" stroke-width="3" filter="url(#glow-strong)"/>
+
+    <!-- Cerebral cortex (convolutions - sulci/gyri) -->
+    <path d="M 130 65 C 145 55, 155 70, 165 60" fill="none" stroke="url(#cortex)" stroke-width="2.5" opacity="0.7"/>
+    <path d="M 170 50 C 180 45, 190 55, 200 48" fill="none" stroke="url(#cortex)" stroke-width="2.5" opacity="0.7"/>
+    <path d="M 220 50 C 230 58, 240 48, 255 55" fill="none" stroke="url(#cortex)" stroke-width="2.5" opacity="0.7"/>
+    <path d="M 260 65 C 270 58, 280 68, 290 65" fill="none" stroke="url(#cortex)" stroke-width="2.5" opacity="0.7"/>
+    <path d="M 105 95 C 115 85, 125 95, 130 90" fill="none" stroke="url(#cortex)" stroke-width="2" opacity="0.6"/>
+    <path d="M 285 85 C 290 80, 295 90, 300 85" fill="none" stroke="url(#cortex)" stroke-width="2" opacity="0.6"/>
+    <path d="M 115 120 C 125 110, 135 120, 145 115" fill="none" stroke="url(#cortex)" stroke-width="2" opacity="0.5"/>
+    <path d="M 265 115 C 275 108, 280 118, 290 115" fill="none" stroke="url(#cortex)" stroke-width="2" opacity="0.5"/>
+
+    <!-- Central sulcus -->
+    <path d="M 175 55 C 170 75, 165 90, 160 110" fill="none" stroke="#fde68a" stroke-width="1.5" stroke-dasharray="4 3" opacity="0.6"/>
+
+    <!-- Corpus callosum -->
+    <path d="M 165 110 C 175 100, 190 95, 210 95 C 230 95, 245 100, 250 110" fill="none" stroke="#fde68a" stroke-width="3" filter="url(#glow)"/>
+
+    <!-- Thalamus -->
+    <ellipse cx="210" cy="130" rx="20" ry="12" fill="none" stroke="#34d399" stroke-width="2" filter="url(#glow)"/>
+    <text x="210" y="134" fill="#86efac" font-family="system-ui,sans-serif" font-size="6" text-anchor="middle">থ্যালামাস</text>
+
+    <!-- Hypothalamus -->
+    <circle cx="175" cy="135" r="8" fill="none" stroke="#fb923c" stroke-width="2"/>
+    <text x="162" y="152" fill="#fdba74" font-family="system-ui,sans-serif" font-size="6">হাইপো</text>
+    <text x="162" y="158" fill="#fdba74" font-family="system-ui,sans-serif" font-size="6">থ্যালামাস</text>
+
+    <!-- Pituitary gland -->
+    <ellipse cx="175" cy="165" rx="5" ry="8" fill="none" stroke="#fde68a" stroke-width="1.5"/>
+    <text x="155" y="175" fill="#fde68a" font-family="system-ui,sans-serif" font-size="5">পিটুইটারি</text>
+
+    <!-- Midbrain / Pons -->
+    <path d="M 185 145 L 215 145 L 210 160 L 190 160 Z" fill="none" stroke="#a78bfa" stroke-width="1.5" opacity="0.6"/>
+
+    <!-- Cerebellum (bottom back) -->
+    <path d="M 255 145 C 270 145, 285 155, 280 170 C 275 185, 260 195, 240 195 C 255 185, 260 170, 255 155 Z" fill="none" stroke="url(#cerebellum-grad)" stroke-width="2.5" filter="url(#glow)"/>
+    <text x="255" y="205" fill="#fda4af" font-family="system-ui,sans-serif" font-size="6" text-anchor="middle">সেরিবেলাম</text>
+
+    <!-- Medulla oblongata -->
+    <path d="M 190 160 L 210 160 L 208 185 L 192 185 Z" fill="none" stroke="#a78bfa" stroke-width="2"/>
+    <text x="235" y="218" fill="#c4b5fd" font-family="system-ui,sans-serif" font-size="6">মেডুলা</text>
+
+    <!-- Brainstem -->
+    <rect x="190" y="185" width="20" height="25" rx="5" fill="none" stroke="#a78bfa" stroke-width="2"/>
+    <text x="165" y="213" fill="#c4b5fd" font-family="system-ui,sans-serif" font-size="6">ব্রেনস্টেম</text>
+
+    <!-- Neural signals (sparkle dots) -->
+    <circle cx="155" cy="78" r="3" fill="#fde68a" class="synapse"/>
+    <circle cx="240" cy="72" r="3" fill="#fde68a" class="synapse" style="animation-delay:0.5s"/>
+    <circle cx="130" cy="105" r="3" fill="#fde68a" class="synapse" style="animation-delay:1.2s"/>
+    <circle cx="270" cy="100" r="3" fill="#fde68a" class="synapse" style="animation-delay:0.8s"/>
+  </g>
+
+  <!-- Labels -->
+  <rect x="15" y="232" width="370" height="22" rx="6" fill="#131a36" stroke="#1e293b" stroke-width="1"/>
+  <text x="200" y="247" fill="#94a3b8" font-family="system-ui,sans-serif" font-size="8" text-anchor="middle">মস্তিষ্কের বিভিন্ন অংশ — সেরিব্রাম, সেরিবেলাম, ব্রেনস্টেম ও অন্যান্য</text>
+</svg>

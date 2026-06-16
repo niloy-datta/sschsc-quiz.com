@@ -37,6 +37,7 @@ export default function ProfilePage() {
     favoriteSubject: "",
     weakSubjects: "",
     picture: "",
+    collegeName: "",
   });
 
   const selectedLevel = useMemo(
@@ -60,6 +61,7 @@ export default function ProfilePage() {
         favoriteSubject: user.favoriteSubject || "",
         weakSubjects: user.weakSubjects || "",
         picture: user.picture || "",
+        collegeName: user.collegeName || user.schoolName || "",
       });
     }
   }, [user]);
@@ -105,6 +107,8 @@ export default function ProfilePage() {
         favoriteSubject: form.favoriteSubject || undefined,
         weakSubjects: form.weakSubjects || undefined,
         picture: form.picture || undefined,
+        collegeName: form.collegeName || undefined,
+        schoolName: form.collegeName || undefined,
       });
       setMessage({ type: "ok", text: "প্রোফাইল আপডেট হয়েছে।" });
     } catch {
@@ -245,6 +249,19 @@ export default function ProfilePage() {
                 <option key={o.value} value={o.value}>{o.label}</option>
               ))}
             </select>
+          </label>
+
+          <label className="block">
+            <span className="text-sm text-slate-400 mb-1 block">কলেজ/স্কুলের নাম (ঐচ্ছিক)</span>
+            <input
+              className="auth-input"
+              value={form.collegeName}
+              onChange={(e) => setForm({ ...form, collegeName: e.target.value })}
+              placeholder="যেমন: ঢাকা কলেজ, মতিঝিল মডেল স্কুল..."
+            />
+            <p className="mt-1 text-[10px] text-slate-500">
+              কলেজের নাম যোগ করলে College Wars লিডারবোর্ডে অংশ নিতে পারবে
+            </p>
           </label>
 
           <label className="block">

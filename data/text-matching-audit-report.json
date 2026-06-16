@@ -1,0 +1,204 @@
+{
+  "totalFiles": 1538,
+  "totalQuestions": 33151,
+  "totalWithImage": 2015,
+  "totalTextMatches": 266,
+  "totalBenefiting": 189,
+  "bySubject": {
+    "biology": 74,
+    "chemistry": 1,
+    "physics": 114
+  },
+  "bySlug": {
+    "bio-nephron": 6,
+    "ssc-myopia-eye": 1,
+    "cell-division": 6,
+    "bio-crossing-over": 1,
+    "cell-wall": 5,
+    "sporangium": 3,
+    "fern-prothallus": 6,
+    "dna-rna": 6,
+    "bio-mitochondria-chloroplast": 3,
+    "plasmid": 16,
+    "bio-cytokinesis": 3,
+    "bio-golgi": 2,
+    "bio-transcription-translation": 8,
+    "bio-poaceae-root": 1,
+    "vascular-bundle": 5,
+    "ssc-buoyancy": 2,
+    "ssc-convex-lens": 27,
+    "ssc-wave-standing": 6,
+    "ssc-electrostatic-induction": 2,
+    "ssc-concave-mirror": 11,
+    "ssc-force-time-graph": 4,
+    "ssc-charge-spheres": 6,
+    "ssc-concave-mirror-principal": 6,
+    "ssc-st-graph": 4,
+    "ssc-resistor-network": 47,
+    "cell-terminal-pd": 1,
+    "ssc-transformer": 1
+  },
+  "samples": [
+    {
+      "id": "ssc-biology-board-standard-model-test-01-q06",
+      "subject": "biology",
+      "textSnippet": "চিত্রে যদি মানব নেফ্রনের গঠন দেখানো থাকে, তবে রক্ত ছাঁকনির কাজ (Ultrafiltration)",
+      "image": "/images/quiz/premium/ssc-biology-board-standard-model-test-01-q06.svg",
+      "matchedSlug": "bio-nephron",
+      "matchedSrc": "/images/quiz/bio-nephron.svg"
+    },
+    {
+      "id": "ssc-biology-board-standard-model-test-01-q22",
+      "subject": "biology",
+      "textSnippet": "উদ্দীপকের চিত্রে যদি মানব চক্ষুর লম্বচ্ছেদ দেখানো হয়, তবে কোন অংশে আলোর সাহায্যে",
+      "image": "/images/quiz/premium/ssc-biology-board-standard-model-test-01-q22.svg",
+      "matchedSlug": "ssc-myopia-eye",
+      "matchedSrc": "/images/quiz/ssc-myopia-eye.svg"
+    },
+    {
+      "id": "ssc-biology-board-standard-model-test-02-q01",
+      "subject": "biology",
+      "textSnippet": "উদ্দীপক: শিক্ষক বললেন, আমাদের দেহে দুই ধরনের কোষ বিভাজন ঘটে। 'P' বিভাজনের মাধ্যম",
+      "image": "/images/quiz/premium/ssc-biology-board-standard-model-test-02-q01.svg",
+      "matchedSlug": "cell-division",
+      "matchedSrc": "/images/quiz/cell-division.svg"
+    },
+    {
+      "id": "ssc-biology-board-standard-model-test-02-q02",
+      "subject": "biology",
+      "textSnippet": "উদ্দীপক: শিক্ষক বললেন, আমাদের দেহে দুই ধরনের কোষ বিভাজন ঘটে। 'P' বিভাজনের মাধ্যম",
+      "image": "/images/quiz/premium/ssc-biology-board-standard-model-test-02-q02.svg",
+      "matchedSlug": "bio-crossing-over",
+      "matchedSrc": "/images/quiz/bio-crossing-over.svg"
+    },
+    {
+      "id": "biology-1st-paper-hsc-science-biology-1st-paper-board-questions-year-wise-2023-chattogram-ts-1",
+      "subject": "biology",
+      "textSnippet": "উদ্দীপকের 'A' চিহ্নিত অংশটি হলো— (চিত্র: কোষ বিভাজন)",
+      "image": "/images/quiz/premium/biology-1st-paper-hsc-science-biology-1st-paper-board-questions-year-wise-2023-chattogram-ts-1.svg",
+      "matchedSlug": "cell-division",
+      "matchedSrc": "/images/quiz/cell-division.svg"
+    },
+    {
+      "id": "biology-1st-paper-hsc-science-biology-1st-paper-board-questions-year-wise-2023-chattogram-ts-2",
+      "subject": "biology",
+      "textSnippet": "উদ্দীপকের 'B' দ্বারা নির্দেশিত অংশের প্রধান গঠন উপাদান কোনটি? (চিত্র: কোষপ্রাচীর",
+      "image": "/images/quiz/premium/biology-1st-paper-hsc-science-biology-1st-paper-board-questions-year-wise-2023-chattogram-ts-2.svg",
+      "matchedSlug": "cell-wall",
+      "matchedSrc": "/images/quiz/cell-wall.svg"
+    },
+    {
+      "id": "biology-1st-paper-hsc-science-biology-1st-paper-board-questions-year-wise-2023-chattogram-ts-16",
+      "subject": "biology",
+      "textSnippet": "উদ্দীপকে 'P' চিহ্নিত অংশের নাম কী? (চিত্র: স্পোরাঞ্জিয়াম)",
+      "image": "/images/quiz/premium/biology-1st-paper-hsc-science-biology-1st-paper-board-questions-year-wise-2023-chattogram-ts-16.svg",
+      "matchedSlug": "sporangium",
+      "matchedSrc": "/images/quiz/sporangium.svg"
+    },
+    {
+      "id": "biology-1st-paper-hsc-science-biology-1st-paper-board-questions-year-wise-2023-chattogram-ts-17",
+      "subject": "biology",
+      "textSnippet": "উদ্দীপকের চিত্র 'Q' যে উদ্ভিদকে প্রতিনিধিত্ব করে, তার— (চিত্র: ফার্ন প্র্রোথ্যাল",
+      "image": "/images/quiz/premium/biology-1st-paper-hsc-science-biology-1st-paper-board-questions-year-wise-2023-chattogram-ts-17.svg",
+      "matchedSlug": "fern-prothallus",
+      "matchedSrc": "/images/quiz/fern-prothallus.svg"
+    },
+    {
+      "id": "biology-1st-paper-hsc-science-biology-1st-paper-board-questions-year-wise-2023-dhaka-ts-0",
+      "subject": "biology",
+      "textSnippet": "চিত্র-'A' ও 'B' উভয়ের ক্ষেত্রে প্রযোজ্য— (উদ্দীপক: DNA ও RNA)",
+      "image": "/images/quiz/premium/biology-1st-paper-hsc-science-biology-1st-paper-board-questions-year-wise-2023-dhaka-ts-0.svg",
+      "matchedSlug": "dna-rna",
+      "matchedSrc": "/images/quiz/dna-rna.svg"
+    },
+    {
+      "id": "biology-1st-paper-hsc-science-biology-1st-paper-board-questions-year-wise-2023-dhaka-ts-23",
+      "subject": "biology",
+      "textSnippet": "উদ্দীপকের 'N' গ্রুপের ক্ষেত্রে প্রযোজ্য— (N=Malvaceae)\ni. পুংকেশরীয় নালিকা বিদ্য",
+      "image": "/images/quiz/premium/biology-1st-paper-hsc-science-biology-1st-paper-board-questions-year-wise-2023-dhaka-ts-23.svg",
+      "matchedSlug": "bio-nephron",
+      "matchedSrc": "/images/quiz/bio-nephron.svg"
+    },
+    {
+      "id": "hsc-biology-1st-paper-chapter-01-set-01-q23",
+      "subject": "biology",
+      "textSnippet": "চিত্র-'A' ও 'B' উভয়ের ক্ষেত্রে প্রযোজ্য— (উদ্দীপক: DNA ও RNA)",
+      "image": "/images/quiz/premium/hsc-biology-1st-paper-chapter-01-set-01-q23.svg",
+      "matchedSlug": "dna-rna",
+      "matchedSrc": "/images/quiz/dna-rna.svg"
+    },
+    {
+      "id": "hsc-biology-1st-paper-chapter-01-set-02-q11",
+      "subject": "biology",
+      "textSnippet": "উদ্দীপকের অঙ্গাণু দুটি— (মাইটোকন্ড্রিয়া ও ক্লোরোপ্লাস্ট) i. দ্বি-স্তরী ঝিল্লি দ্",
+      "image": "/images/quiz/premium/hsc-biology-1st-paper-chapter-01-set-02-q11.svg",
+      "matchedSlug": "bio-mitochondria-chloroplast",
+      "matchedSrc": "/images/quiz/bio-mitochondria-chloroplast.svg"
+    },
+    {
+      "id": "hsc-biology-1st-paper-chapter-01-set-02-q12",
+      "subject": "biology",
+      "textSnippet": "উদ্দীপকের 'M'— (প্লাজমিড) i. দ্বি-সূত্রক, ক্রোমোজোম বহির্ভূত DNA ii. ব্যাকটেরিয়া",
+      "image": "/images/quiz/premium/hsc-biology-1st-paper-chapter-01-set-02-q12.svg",
+      "matchedSlug": "plasmid",
+      "matchedSrc": "/images/quiz/plasmid.svg"
+    },
+    {
+      "id": "hsc-biology-1st-paper-chapter-01-set-02-q16",
+      "subject": "biology",
+      "textSnippet": "উদ্দীপকের চিত্র 'X' দ্বারা প্রদর্শিত ধাপটি না ঘটলে— (সাইটোকাইনেসিস ঘটে না) i. সি",
+      "image": "/images/quiz/premium/hsc-biology-1st-paper-chapter-01-set-02-q16.svg",
+      "matchedSlug": "bio-cytokinesis",
+      "matchedSrc": "/images/quiz/bio-cytokinesis.svg"
+    },
+    {
+      "id": "hsc-biology-1st-paper-chapter-01-set-02-q22",
+      "subject": "biology",
+      "textSnippet": "উদ্দীপকের 'A' চিহ্নিত অংশটি হলো— (চিত্র: কোষ বিভাজন)",
+      "image": "/images/quiz/premium/hsc-biology-1st-paper-chapter-01-set-02-q22.svg",
+      "matchedSlug": "cell-division",
+      "matchedSrc": "/images/quiz/cell-division.svg"
+    },
+    {
+      "id": "hsc-biology-1st-paper-chapter-01-set-03-q01",
+      "subject": "biology",
+      "textSnippet": "উদ্দীপকের 'B' দ্বারা নির্দেশিত অংশের প্রধান গঠন উপাদান কোনটি? (চিত্র: কোষপ্রাচীর",
+      "image": "/images/quiz/premium/hsc-biology-1st-paper-chapter-01-set-03-q01.svg",
+      "matchedSlug": "cell-wall",
+      "matchedSrc": "/images/quiz/cell-wall.svg"
+    },
+    {
+      "id": "hsc-biology-1st-paper-chapter-01-set-03-q03",
+      "subject": "biology",
+      "textSnippet": "উদ্দীপকের চিত্রটি কোন অঙ্গাণু? (গলজি বডি)",
+      "image": "/images/quiz/premium/hsc-biology-1st-paper-chapter-01-set-03-q03.svg",
+      "matchedSlug": "bio-golgi",
+      "matchedSrc": "/images/quiz/bio-golgi.svg"
+    },
+    {
+      "id": "hsc-biology-1st-paper-chapter-01-set-04-q04",
+      "subject": "biology",
+      "textSnippet": "উদ্দীপকে সংঘটিত প্রক্রিয়া 'X' ও 'Y' এর ক্ষেত্রে নিচের কোনটি সঠিক? (X=ট্রান্সক্রি",
+      "image": "/images/quiz/premium/hsc-biology-1st-paper-chapter-01-set-04-q04.svg",
+      "matchedSlug": "bio-transcription-translation",
+      "matchedSrc": "/images/quiz/bio-transcription-translation.svg"
+    },
+    {
+      "id": "hsc-biology-1st-paper-chapter-01-set-04-q05",
+      "subject": "biology",
+      "textSnippet": "উদ্দীপকে 'P' চিহ্নিত অংশের নাম কী? (চিত্র: স্পোরাঞ্জিয়াম)",
+      "image": "/images/quiz/premium/hsc-biology-1st-paper-chapter-01-set-04-q05.svg",
+      "matchedSlug": "sporangium",
+      "matchedSrc": "/images/quiz/sporangium.svg"
+    },
+    {
+      "id": "hsc-biology-1st-paper-chapter-01-set-04-q09",
+      "subject": "biology",
+      "textSnippet": "উদ্দীপক 'B' এবং D এর ক্ষেত্রে প্রযোজ্য— (B=প্লাজমিড)",
+      "image": "/images/quiz/premium/hsc-biology-1st-paper-chapter-01-set-04-q09.svg",
+      "matchedSlug": "plasmid",
+      "matchedSrc": "/images/quiz/plasmid.svg"
+    }
+  ],
+  "noTextMatchButHasImage": 1749
+}

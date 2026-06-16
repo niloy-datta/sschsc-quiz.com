@@ -127,7 +127,7 @@ export function shortSourceKeyLabel(sourceKey: string): string {
   const s = sourceKey
     .replace(/^ssc[-_]?/i, "")
     .replace(/^hsc[-_]?/i, "")
-    .replace(/physics|chemistry|biology|ict/gi, "")
+    .replace(/physics|chemistry|biology/gi, "")
     .replace(/[_-]+/g, " ")
     .trim();
   return s.length > 3 ? s.slice(0, 20) : sourceKey.slice(0, 20);
@@ -541,7 +541,7 @@ function stripSubjectNoise(text: string): string {
     .replace(/[_-]+/g, " ")
     .replace(/\b(ssc|hsc)\b/gi, " ")
     .replace(
-      /\b(physics|chemistry|biology|ict|higher[\s-]?math|general[\s-]?math)\b/gi,
+      /\b(physics|chemistry|biology|higher[\s-]?math|general[\s-]?math)\b/gi,
       " ",
     )
     .replace(/\b(1st|2nd|3rd|\d+(?:st|nd|rd|th))\s*paper\b/gi, " ")

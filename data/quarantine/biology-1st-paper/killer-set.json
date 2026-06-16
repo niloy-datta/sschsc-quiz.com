@@ -1,0 +1,37 @@
+{
+  "setId": "killer-set",
+  "reason": "HIDDEN_LEGACY_KEY",
+  "quarantinedAt": "2026-06-13T17:57:55.052Z",
+  "questions": [
+    {
+      "id": "biology-1st-paper-hsc-science-biology-1st-paper-suggestions-killer-set-ts-0",
+      "questionText": "একটি আদর্শ কোষ চক্রের (Cell cycle) কোন দশায় সবচেয়ে বেশি সময় ব্যয় হয়?",
+      "optionA": "G1 দশা (Gap 1)",
+      "optionB": "S দশা (Synthesis phase)",
+      "optionC": "G2 দশা (Gap 2)",
+      "optionD": "M দশা (Mitotic phase)",
+      "correctOption": "B",
+      "explanation": "কোষ চক্রের ইন্টারফেজ দশার S (সংশ্লেষণ) দশায় সবচেয়ে বেশি সময় (৩০-৫০%) লাগে। অনেকেই ভুল করে G1 দশা (৩০-৪০%) দাগিয়ে ফেলে।"
+    },
+    {
+      "id": "biology-1st-paper-hsc-science-biology-1st-paper-suggestions-killer-set-ts-1",
+      "questionText": "মিয়োসিস-১ এর প্রফেজ-১ এর কোন উপদশায় (Sub-stage) 'ক্রসিং ওভার' (Crossing over) সংঘটিত হয়?",
+      "optionA": "লেপ্টোটিন (Leptotene)",
+      "optionB": "জাইগোটিন (Zygotene)",
+      "optionC": "প্যাকাইটিন (Pachytene)",
+      "optionD": "ডিপ্লোটিন (Diplotene)",
+      "correctOption": "C",
+      "explanation": "প্যাকাইটিন উপদশায় নন-সিস্টার ক্রোমাটিডগুলোর মধ্যে অংশের বিনিময় বা ক্রসিং ওভার ঘটে। এই দশায় ক্রোমোজোমগুলো টেট্রাড (Tetrad) অবস্থায় থাকে।"
+    },
+    {
+      "id": "biology-1st-paper-hsc-science-biology-1st-paper-suggestions-killer-set-ts-2",
+      "questionText": "ক্রসিং ওভারের ফলে সৃষ্ট 'কায়াজমা' (Chiasma) বা 'X' আকৃতির জোড় প্রথম স্পষ্টভাবে দৃশ্যমান হয় কোন উপদশায়?",
+      "optionA": "জাইগোটিন (Zygotene)",
+      "optionB": "প্যাকাইটিন (Pachytene)",
+      "optionC": "ডিপ্লোটিন (Diplotene)",
+      "optionD": "ডায়াকাইনেসিস (Diakinesis)",
+      "correctOption": "C",
+      "explanation": "ক্রসিং ওভার প্যাকাইটিনে ঘটে কিন্তু ডিপ্লোটিনে কায়াজমা স্পষ্ট দেখা যায়।"
+    }
+  ]
+}

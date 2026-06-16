@@ -1,0 +1,91 @@
+{
+  "setId": "hsc-higher-math-1st-paper-chapter-09-model-test-02",
+  "reason": "DUPLICATE_OF_hsc-higher-math-1st-paper-chapter-09-model-test-06",
+  "quarantinedAt": "2026-06-13T17:57:55.240Z",
+  "questions": [
+    {
+      "id": "hsc-higher-math-1st-paper-chapter-09-model-test-02-q01",
+      "questionText": "d/dx (ln x) এর মান কত?",
+      "optionA": "ln x",
+      "optionB": "e^x",
+      "optionC": "1/x",
+      "optionD": "x",
+      "correctOption": "C",
+      "explanation": "",
+      "chapter": "09",
+      "topic": "অন্তরীকরণ",
+      "difficulty": "Board Pattern",
+      "questionNo": 1
+    },
+    {
+      "id": "hsc-higher-math-1st-paper-chapter-09-model-test-02-q02",
+      "questionText": "$f(x) = |x|$ ফাংশনটির $x = 0$ বিন্দুতে অন্তরজ (Derivative) কত?",
+      "optionA": "1",
+      "optionB": "-1",
+      "optionC": "0",
+      "optionD": "অসংজ্ঞায়িত (Undefined)",
+      "correctOption": "D",
+      "explanation": "$x=0$ বিন্দুতে $|x|$ গ্রাফটিতে একটি তীক্ষ্ণ কোণ (Sharp corner) বা V আকৃতি তৈরি হয়। তাই এই বিন্দুতে কোনো নির্দিষ্ট স্পর্শক আঁকা যায় না (Left hand derivative $\\",
+      "chapter": "09",
+      "topic": "অন্তরীকরণ",
+      "difficulty": "Medium",
+      "questionNo": 2
+    },
+    {
+      "id": "hsc-higher-math-1st-paper-chapter-09-model-test-02-q03",
+      "questionText": "A এবং B দুটি ম্যাট্রিক্স। AB গুণন সংজ্ঞায়িত হলে A এর কলাম সংখ্যা B এর কীসের সমান হবে?",
+      "optionA": "সারি সংখ্যা",
+      "optionB": "কলাম সংখ্যা",
+      "optionC": "কোনোটিই নয়",
+      "optionD": "মান",
+      "correctOption": "A",
+      "explanation": "",
+      "chapter": "09",
+      "topic": "ম্যাট্রিক্স ও নির্ণায়ক",
+      "difficulty": "Board Pattern",
+      "questionNo": 3
+    },
+    {
+      "id": "hsc-higher-math-1st-paper-chapter-09-model-test-02-q04",
+      "questionText": "lim_{x->0} (sin x / x) এর মান কত?",
+      "optionA": "১",
+      "optionB": "বিদ্যমান নেই",
+      "optionC": "০",
+      "optionD": "অসীম",
+      "correctOption": "A",
+      "explanation": "",
+      "chapter": "09",
+      "topic": "ত্রিকোণমিতিক অনুপাত",
+      "difficulty": "Board Pattern",
+      "questionNo": 4
+    },
+    {
+      "id": "hsc-higher-math-1st-paper-chapter-09-model-test-02-q05",
+      "questionText": "sin(A+B) এর সমতুল্য সূত্র কোনটি?",
+      "optionA": "cos A cos B - sin A sin B",
+      "optionB": "sin A cos B - cos A sin B",
+      "optionC": "কোনোটিই নয়",
+      "optionD": "sin A cos B + cos A sin B",
+      "correctOption": "D",
+      "explanation": "",
+      "chapter": "09",
+      "topic": "ত্রিকোণমিতিক অনুপাত",
+      "difficulty": "Board Pattern",
+      "questionNo": 5
+    },
+    {
+      "id": "hsc-higher-math-1st-paper-chapter-09-model-test-02-q06",
+      "questionText": "মূলবিন্দু থেকে 3x - 4y + 5 = 0 রেখার লম্ব দূরত্ব কত?",
+      "optionA": "২",
+      "optionB": "৫",
+      "optionC": "০",
+      "optionD": "১",
+      "correctOption": "D",
+      "explanation": "",
+      "chapter": "09",
+      "topic": "সরলরেখা",
+      "difficulty": "Board Pattern",
+      "questionNo": 6
+    }
+  ]
+}

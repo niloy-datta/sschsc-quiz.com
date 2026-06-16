@@ -1,0 +1,332 @@
+[
+  {
+    "id": "super-model-set-09-q01",
+    "subject": "physics-1st-paper",
+    "chapter": "super-model-set-09",
+    "text": "কোন ভেক্টর ক্ষেত্রে ∇ V (গ্রেডিয়েন্ট) কী নির্দেশ করে?",
+    "options": [
+      "স্কেলার ক্ষেত্রকে ভেক্টর ক্ষেত্রে রূপান্তর করে",
+      "ভেক্টর ক্ষেত্রকে স্কেলার ক্ষেত্রে রূপান্তর করে",
+      "ভেক্টর ক্ষেত্রের ঘূর্ণন নির্দেশ করে",
+      "ভেক্টরের উৎস বা নিমজ্জন নির্দেশ করে"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "super-model-set-09-q02",
+    "subject": "physics-1st-paper",
+    "chapter": "super-model-set-09",
+    "text": "একটি রাইফেলের গুলি একটি তক্তা ঠিক ভেদ করতে পারে। গুলির বেগ ৪ গুণ করা হলে অনুরূপ কয়টি তক্তা ভেদ করতে পারবে?",
+    "options": [
+      "4",
+      "8",
+      "16",
+      "64"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "super-model-set-09-q03",
+    "subject": "physics-1st-paper",
+    "chapter": "super-model-set-09",
+    "text": "কৌণিক ত্বরণের (Angular acceleration) একক কোনটি?",
+    "options": [
+      "rad/s",
+      "rad/s2",
+      "m/s2",
+      "rev/s"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "super-model-set-09-q04",
+    "subject": "physics-1st-paper",
+    "chapter": "super-model-set-09",
+    "text": "ভূ-পৃষ্ঠ থেকে কত উচ্চতায় অভিকর্ষজ ত্বরণের মান শূন্য হবে?",
+    "options": [
+      "পৃথিবীর কেন্দ্রে",
+      "পৃথিবীর পৃষ্ঠে",
+      "অসীমে",
+      "চাঁদের পৃষ্ঠে"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "super-model-set-09-q05",
+    "subject": "physics-1st-paper",
+    "chapter": "super-model-set-09",
+    "text": "সান্দ্র বল (Viscous force) কোনটির ওপর নির্ভর করে না?",
+    "options": [
+      "তরলের প্রকৃতি",
+      "স্তরগুলোর ক্ষেত্রফল",
+      "বেগ অবক্রম (Velocity gradient)",
+      "চাপ"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "super-model-set-09-q06",
+    "subject": "physics-1st-paper",
+    "chapter": "super-model-set-09",
+    "text": "সরল ছন্দিত গতির (SHM) সরণ x=A/2 হলে, গতিশক্তি ও বিভবশক্তির অনুপাত কত?",
+    "options": [
+      "1 : 1",
+      "1 : 3",
+      "3 : 1",
+      "1 : 4"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "super-model-set-09-q07",
+    "subject": "physics-1st-paper",
+    "chapter": "super-model-set-09",
+    "text": "স্থির তাপমাত্রায় গ্যাসের চাপ বনাম আয়তন (P-V) লেখচিত্রকে কী বলা হয়?",
+    "options": [
+      "আইসোবার (Isobar)",
+      "আইসোকোর (Isochore)",
+      "আইসোথার্ম (Isotherm)",
+      "অ্যাডিয়াবেট (Adiabat)"
+    ],
+    "image": "/images/quiz/premium/super-model-set-09-q07.svg",
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "super-model-set-09-q08",
+    "subject": "physics-1st-paper",
+    "chapter": "super-model-set-09",
+    "text": "কোনো প্রক্ষিপ্ত বস্তুর সর্বোচ্চ পাল্লা 100 m হলে, সর্বাধিক উচ্চতা কত?",
+    "options": [
+      "25 m",
+      "50 m",
+      "100 m",
+      "400 m"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "super-model-set-09-q09",
+    "subject": "physics-1st-paper",
+    "chapter": "super-model-set-09",
+    "text": "একটি বস্তুকে পৃথিবী থেকে চাঁদে নিয়ে গেলে তার—",
+    "options": [
+      "ভর ও ওজন উভয়ই পরিবর্তন হবে",
+      "ভর পরিবর্তন হবে কিন্তু ওজন একই থাকবে",
+      "ভর একই থাকবে কিন্তু ওজন পরিবর্তন হবে",
+      "ভর ও ওজন উভয়ই একই থাকবে"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "super-model-set-09-q10",
+    "subject": "physics-1st-paper",
+    "chapter": "super-model-set-09",
+    "text": "স্থিতিস্থাপক সীমার মধ্যে কোনো বস্তুর ওপর প্রযুক্ত পীড়ন এর বিকৃতির—",
+    "options": [
+      "সমান",
+      "সমানুপাতিক",
+      "ব্যস্তানুপাতিক",
+      "বর্গের সমানুপাতিক"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "super-model-set-09-q11",
+    "subject": "physics-1st-paper",
+    "chapter": "super-model-set-09",
+    "text": "সেকেন্ড দোলকের কার্যকরী দৈর্ঘ্য কত? (ধরে নাও g=π2 m/s2 )",
+    "options": [
+      "0.5 m",
+      "1 m",
+      "2 m",
+      "9.8 m"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "super-model-set-09-q12",
+    "subject": "physics-1st-paper",
+    "chapter": "super-model-set-09",
+    "text": "বয়েলের সূত্র ও চার্লসের সূত্রের সমন্বিত রূপ কোনটি?",
+    "options": [
+      "P1 ​V1 ​=P2 ​V2 ​",
+      "V1 ​/T1 ​=V2 ​/T2 ​",
+      "T1 ​ P1 ​V1 ​ ​=T2 ​ P2 ​V2 ​ ​",
+      "PV=nRT"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "super-model-set-09-q13",
+    "subject": "physics-1st-paper",
+    "chapter": "super-model-set-09",
+    "text": "দুটি ভেক্টরের লব্ধির সর্বোচ্চ মান তাদের অন্তরের কত গুণ? (ধরি P ও Q ​ সমানের ভেক্টর)",
+    "options": [
+      "0",
+      "অসীম",
+      "1",
+      "বলা সম্ভব নয়"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "super-model-set-09-q14",
+    "subject": "physics-1st-paper",
+    "chapter": "super-model-set-09",
+    "text": "সমবেগে চলমান বস্তুর ত্বরণ-সময় (a-t) লেখচিত্র কীরূপ হবে?",
+    "options": [
+      "মূলবিন্দুগামী সরলরেখা",
+      "X-অক্ষের সমান্তরাল সরলরেখা",
+      "X-অক্ষ বরাবর সরলরেখা",
+      "Y-অক্ষের সমান্তরাল সরলরেখা"
+    ],
+    "image": "/images/quiz/premium/super-model-set-09-q14.svg",
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "super-model-set-09-q15",
+    "subject": "physics-1st-paper",
+    "chapter": "super-model-set-09",
+    "text": "কেন্দ্রমুখী বল দ্বারা কৃতকাজ কত?",
+    "options": [
+      "ধনাত্মক",
+      "ঋণাত্মক",
+      "শূন্য",
+      "অসীম"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "super-model-set-09-q16",
+    "subject": "physics-1st-paper",
+    "chapter": "super-model-set-09",
+    "text": "কৌণিক ভরবেগ (L), জড়তার ভ্রামক (I) এবং কৌণিক বেগ (ω) এর সম্পর্ক কোনটি?",
+    "options": [
+      "L=I/ω",
+      "L=Iω",
+      "L=Iω2",
+      "ω=IL"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "super-model-set-09-q17",
+    "subject": "physics-1st-paper",
+    "chapter": "super-model-set-09",
+    "text": "পৃথিবীর মহাকর্ষীয় প্রাবল্য সবচেয়ে বেশি কোথায়?",
+    "options": [
+      "বিষুব অঞ্চলে",
+      "মেরু অঞ্চলে",
+      "কেন্দ্রে",
+      "অসীমে"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "super-model-set-09-q18",
+    "subject": "physics-1st-paper",
+    "chapter": "super-model-set-09",
+    "text": "কোনো পদার্থের পয়েন্ট বিকৃতি 0.1 এবং পার্শ্ব বিকৃতি 0.02 হলে পয়েন্টের অনুপাত (পয়সনের অনুপাত) কত?",
+    "options": [
+      "0.1",
+      "0.2",
+      "0.5",
+      "5.0"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "super-model-set-09-q19",
+    "subject": "physics-1st-paper",
+    "chapter": "super-model-set-09",
+    "text": "সরল ছন্দিত গতির দোলনকাল T। কত সময় পর গতিশক্তি ও বিভবশক্তি সমান হবে? (সাম্যাবস্থা থেকে যাত্রা শুরু করলে)",
+    "options": [
+      "T/2",
+      "T/4",
+      "T/8",
+      "T/6"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "super-model-set-09-q20",
+    "subject": "physics-1st-paper",
+    "chapter": "super-model-set-09",
+    "text": "কোন্ তাপমাত্রায় সেলসিয়াস ও ফারেনহাইট স্কেলে পাঠ সমান হয়?",
+    "options": [
+      "40∘",
+      "−40∘",
+      "0∘",
+      "−273∘"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "super-model-set-09-q21",
+    "subject": "physics-1st-paper",
+    "chapter": "super-model-set-09",
+    "text": "হিলিয়াম (He) গ্যাসের অণুর স্বাধীনতার মাত্রা (Degree of Freedom) কত?",
+    "options": [
+      "1",
+      "3",
+      "5",
+      "6"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "super-model-set-09-q22",
+    "subject": "physics-1st-paper",
+    "chapter": "super-model-set-09",
+    "text": "লব্ধি ভেক্টরের মান সর্বনিম্ন হবে যখন ভেক্টরদ্বয়ের মধ্যবর্তী কোণ—",
+    "options": [
+      "0°",
+      "90°",
+      "180°",
+      "360°"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  }
+]

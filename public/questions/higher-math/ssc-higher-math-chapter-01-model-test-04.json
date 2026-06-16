@@ -1,352 +1,377 @@
 [
   {
-    "id": "ssc-higher-math-ch01-set04-q01",
+    "id": "ssc-higher-math-chapter-01-model-test-04-q01",
     "subject": "higher-math",
     "chapter": "ssc-higher-math-chapter-01-model-test-04",
-    "text": "সার্বিক সেট $U = \\{3, 4, 5, 6\\}$ হলে, $S = \\{x : x+2 \\le 7\\}$ এর প্রকৃত উপসেট কোনটি?",
+    "text": "A = {3, 4, 2} এবং B = {2, 3} হলে A ∪ B এর উপাদান সংখ্যা কত?",
     "options": [
-      "$\\{3, 6\\}$",
-      "$\\{3, 5\\}$",
-      "$\\{3, 4, 5\\}$",
-      "$\\{3, 5, 6\\}$"
+      "5",
+      "4",
+      "5",
+      "6"
     ],
     "image": null,
+    "optionImages": null,
     "timeLimit": 45
   },
   {
-    "id": "ssc-higher-math-ch01-set04-q02",
+    "id": "ssc-higher-math-chapter-01-model-test-04-q02",
     "subject": "higher-math",
     "chapter": "ssc-higher-math-chapter-01-model-test-04",
-    "text": "$f(x) = \\ln(x - 2)$ ফাংশনটি— i. একটি লগারিদমিক ফাংশন ii. $x > 2$ এর জন্য সংজ্ঞায়িত iii. রেঞ্জ $R_f = (0, \\infty)$ নিচের কোনটি সঠিক?",
+    "text": "n(A)=4, n(B)=8, n(A∩B)=3 হলে n(A∪B)=?",
     "options": [
-      "i ও ii",
-      "i ও iii",
-      "ii ও iii",
-      "i, ii ও iii"
-    ],
-    "image": null,
-    "timeLimit": 45
-  },
-  {
-    "id": "ssc-higher-math-ch01-set04-q03",
-    "subject": "higher-math",
-    "chapter": "ssc-higher-math-chapter-01-model-test-04",
-    "text": "$f(x) = 3^x$ এর বিপরীত ফাংশন কোনটি?",
-    "options": [
-      "$\\log_3 x$",
-      "$\\log_3 y$",
-      "$\\log_y 3$",
-      "$\\log_x 3$"
-    ],
-    "image": null,
-    "timeLimit": 45
-  },
-  {
-    "id": "ssc-higher-math-ch01-set04-q04",
-    "subject": "higher-math",
-    "chapter": "ssc-higher-math-chapter-01-model-test-04",
-    "text": "$f(x) = \\frac{2}{\\sqrt{2-x}}$ ফাংশনের ডোমেন কত?",
-    "options": [
-      "$\\{x \\in \\mathbb{R} : x < -2\\}$",
-      "$\\{x \\in \\mathbb{R} : x \\le -2\\}$",
-      "$\\{x \\in \\mathbb{R} : x < 2\\}$",
-      "$\\{x \\in \\mathbb{R} : x \\le 2\\}$"
-    ],
-    "image": null,
-    "timeLimit": 45
-  },
-  {
-    "id": "ssc-higher-math-ch01-set04-q05",
-    "subject": "higher-math",
-    "chapter": "ssc-higher-math-chapter-01-model-test-04",
-    "text": "$f(x) = 5^x$ ফাংশনের রেঞ্জ কত?",
-    "options": [
-      "$(0, -\\infty)$",
-      "$(0, \\infty)$",
-      "$(-\\infty, 0)$",
-      "$(\\infty, 0)$"
-    ],
-    "image": null,
-    "timeLimit": 45
-  },
-  {
-    "id": "ssc-higher-math-ch01-set04-q06",
-    "subject": "higher-math",
-    "chapter": "ssc-higher-math-chapter-01-model-test-04",
-    "text": "\\\\(f(x)=\\\\ln\\\\frac{8+x}{8-x}\\\\) ফাংশনের রেঞ্জ কত?",
-    "options": [
-      "\\\\((-8,\\\\infty)\\\\)",
-      "\\\\((8,\\\\infty)\\\\)",
-      "\\\\((-8,8)\\\\)",
-      "\\\\(R\\\\)"
-    ],
-    "image": null,
-    "timeLimit": 45
-  },
-  {
-    "id": "ssc-higher-math-ch01-set04-q07",
-    "subject": "higher-math",
-    "chapter": "ssc-higher-math-chapter-01-model-test-04",
-    "text": "\\\\(F(x)=\\\\frac{3}{2x-1}\\\\) ফাংশনটির ডোমেইন কত?",
-    "options": [
-      "\\\\(\\\\{x\\\\in R:x\\\\ne-\\\\frac12\\\\}\\\\)",
-      "\\\\(\\\\{x\\\\in R:x\\\\ne\\\\frac12\\\\}\\\\)",
-      "\\\\(\\\\{x\\\\in R:x<\\\\frac12\\\\}\\\\)",
-      "\\\\(\\\\{x\\\\in R:x>\\\\frac12\\\\}\\\\)"
-    ],
-    "image": null,
-    "timeLimit": 45
-  },
-  {
-    "id": "ssc-higher-math-ch01-set04-q08",
-    "subject": "higher-math",
-    "chapter": "ssc-higher-math-chapter-01-model-test-04",
-    "text": "$f(x) = \\ln(x - 2)$ এর ডোমেন কোনটি?",
-    "options": [
-      "$\\mathbb{R} - \\{2\\}$",
-      "$\\{x \\in \\mathbb{R} : x \\le -2\\}$",
-      "$\\{x \\in \\mathbb{R} : x \\le 2\\}$",
-      "$\\{x \\in \\mathbb{R} : x > 2\\}$"
-    ],
-    "image": null,
-    "timeLimit": 45
-  },
-  {
-    "id": "ssc-higher-math-ch01-set04-q09",
-    "subject": "higher-math",
-    "chapter": "ssc-higher-math-chapter-01-model-test-04",
-    "text": "$f(x) = \\frac{x - 3}{2x - 3}$ এর বিপরীত ফাংশন নিচের কোনটি?",
-    "options": [
-      "$\\frac{3x - 1}{2x - 1}$",
-      "$\\frac{3x - 1}{x - 2}$",
-      "$\\frac{3(x - 1)}{x - 2}$",
-      "$\\frac{3(x - 1)}{2x - 1}$"
-    ],
-    "image": null,
-    "timeLimit": 45
-  },
-  {
-    "id": "ssc-higher-math-ch01-set04-q10",
-    "subject": "higher-math",
-    "chapter": "ssc-higher-math-chapter-01-model-test-04",
-    "text": "$F(x) = e^{\\frac{|x|}{2}}$ ফাংশনটির ডোমেন কত?",
-    "options": [
-      "$(-\\infty, 0)$",
-      "$[0, \\infty)$",
-      "$\\mathbb{R}-\\{2\\}$",
-      "$\\mathbb{R}$"
-    ],
-    "image": null,
-    "timeLimit": 45
-  },
-  {
-    "id": "ssc-higher-math-ch01-set04-q11",
-    "subject": "higher-math",
-    "chapter": "ssc-higher-math-chapter-01-model-test-04",
-    "text": "$F(x) = \\sqrt{1 - 2x}$ এর ডোমেন কোনটি?",
-    "options": [
-      "$\\{x \\in \\mathbb{R} : x \\ge \\frac{1}{2}\\}$",
-      "$\\{x \\in \\mathbb{R} : x > \\frac{1}{2}\\}$",
-      "$\\{x \\in \\mathbb{R} : x < \\frac{1}{2}\\}$",
-      "$\\{x \\in \\mathbb{R} : x \\le \\frac{1}{2}\\}$"
-    ],
-    "image": null,
-    "timeLimit": 45
-  },
-  {
-    "id": "ssc-higher-math-ch01-set04-q12",
-    "subject": "higher-math",
-    "chapter": "ssc-higher-math-chapter-01-model-test-04",
-    "text": "$f(x) = \\frac{3x}{3-x}$ ফাংশনটির ডোমেন নিচের কোনটি?",
-    "options": [
-      "$\\{x \\in \\mathbb{R} : x > 3\\}$",
-      "$\\{x \\in \\mathbb{R} : x < 3\\}$",
-      "$\\{x \\in \\mathbb{R} : x \\neq 3\\}$",
-      "$\\{x \\in \\mathbb{R} : x \\neq 0\\}$"
-    ],
-    "image": null,
-    "timeLimit": 45
-  },
-  {
-    "id": "ssc-higher-math-ch01-set04-q13",
-    "subject": "higher-math",
-    "chapter": "ssc-higher-math-chapter-01-model-test-04",
-    "text": "f(x)=1− 3 1 x এর বিপরীত ফাংশন কোনটি?",
-    "options": [
-      "log",
-      "log",
-      "log",
-      "log"
-    ],
-    "image": null,
-    "timeLimit": 45
-  },
-  {
-    "id": "ssc-higher-math-ch01-set04-q14",
-    "subject": "higher-math",
-    "chapter": "ssc-higher-math-chapter-01-model-test-04",
-    "text": "$f(x) = 1 - 4^{-x}$ এর বিপরীত ফাংশন নিচের কোনটি?",
-    "options": [
-      "$\\log_4 (x - 1)$",
-      "$\\log_4 (1 - x)$",
-      "$\\log_4 (\\frac{1}{1 - x})$",
-      "$\\log_4 (\\frac{1}{x - 1})$"
-    ],
-    "image": null,
-    "timeLimit": 45
-  },
-  {
-    "id": "ssc-higher-math-ch01-set04-q15",
-    "subject": "higher-math",
-    "chapter": "ssc-higher-math-chapter-01-model-test-04",
-    "text": "$4x + 3 > 19$ অসমতাটির সমাধান সেট কোনটি?",
-    "options": [
-      "$S = \\{x \\in \\mathbb{R} : x > 4\\}$",
-      "$S = \\{x \\in \\mathbb{R} : x < 4\\}$",
-      "$S = \\{x \\in \\mathbb{R} : x \\le 4\\}$",
-      "$S = \\{x \\in \\mathbb{R} : x \\ge 4\\}$"
-    ],
-    "image": null,
-    "timeLimit": 45
-  },
-  {
-    "id": "ssc-higher-math-ch01-set04-q16",
-    "subject": "higher-math",
-    "chapter": "ssc-higher-math-chapter-01-model-test-04",
-    "text": "নিচের কোনটি $\\{x \\in \\mathbb{R} : -3 \\le x < 3\\}$ সেটটিকে নির্দেশ করে?",
-    "options": [
-      "$\\{-3, 3\\}$",
-      "$(-3, 3)$",
-      "$(-3, 3]$",
-      "$[-3, 3)$"
-    ],
-    "image": null,
-    "timeLimit": 45
-  },
-  {
-    "id": "ssc-higher-math-ch01-set04-q17",
-    "subject": "higher-math",
-    "chapter": "ssc-higher-math-chapter-01-model-test-04",
-    "text": "নিচের কোনটি এক-এক ফাংশন?",
-    "options": [
-      "$F(x) = (x+4)^2$",
-      "$F(x) = |x-3|$",
-      "$F(x) = e^x$",
-      "$F(x) = \\frac{5}{|x|}$"
-    ],
-    "image": null,
-    "timeLimit": 45
-  },
-  {
-    "id": "ssc-higher-math-ch01-set04-q18",
-    "subject": "higher-math",
-    "chapter": "ssc-higher-math-chapter-01-model-test-04",
-    "text": "সম্ভাবনা রেঞ্জ কোনটি?",
-    "options": [
-      "0<P<1",
-      "0≤P≤1",
-      "0<P≤1",
-      "0≤P<1"
-    ],
-    "image": null,
-    "timeLimit": 45
-  },
-  {
-    "id": "ssc-higher-math-ch01-set04-q19",
-    "subject": "higher-math",
-    "chapter": "ssc-higher-math-chapter-01-model-test-04",
-    "text": "6টি উপাদানবিশিষ্ট সেটের power set-এ কয়টি উপাদান থাকে?",
-    "options": [
-      "64",
       "12",
-      "36",
+      "10",
+      "8",
+      "9"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-higher-math-chapter-01-model-test-04-q03",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-01-model-test-04",
+    "text": "f(x)=2x+1 হলে f(8)=?",
+    "options": [
+      "18",
+      "17",
+      "16",
+      "16"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-higher-math-chapter-01-model-test-04-q04",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-01-model-test-04",
+    "text": "A = {7, 8, 6} এবং B = {6, 7} হলে A ∪ B এর উপাদান সংখ্যা কত?",
+    "options": [
+      "9",
+      "8",
+      "13",
+      "14"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-higher-math-chapter-01-model-test-04-q05",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-01-model-test-04",
+    "text": "n(A)=9, n(B)=4, n(A∩B)=1 হলে n(A∪B)=?",
+    "options": [
+      "12",
+      "13",
+      "13",
+      "11"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-higher-math-chapter-01-model-test-04-q06",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-01-model-test-04",
+    "text": "f(x)=2x+1 হলে f(4)=?",
+    "options": [
+      "8",
+      "8",
+      "9",
+      "10"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-higher-math-chapter-01-model-test-04-q07",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-01-model-test-04",
+    "text": "n(A)=4, n(B)=9, n(A∩B)=3 হলে n(A∪B)=?",
+    "options": [
+      "11",
+      "13",
+      "9",
+      "10"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-higher-math-chapter-01-model-test-04-q08",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-01-model-test-04",
+    "text": "A = {8, 9, 6} এবং B = {6, 7} হলে A ∪ B এর উপাদান সংখ্যা কত?",
+    "options": [
+      "8",
+      "6",
+      "9",
       "7"
     ],
     "image": null,
+    "optionImages": null,
     "timeLimit": 45
   },
   {
-    "id": "ssc-higher-math-ch01-set04-q20",
+    "id": "ssc-higher-math-chapter-01-model-test-04-q09",
     "subject": "higher-math",
     "chapter": "ssc-higher-math-chapter-01-model-test-04",
-    "text": "6টি উপাদানবিশিষ্ট সেটের power set-এ কয়টি উপাদান থাকে?",
+    "text": "n(A)=9, n(B)=5, n(A∩B)=1 হলে n(A∪B)=?",
     "options": [
-      "36",
-      "64",
-      "12",
-      "7"
+      "14",
+      "14",
+      "13",
+      "12"
     ],
     "image": null,
+    "optionImages": null,
     "timeLimit": 45
   },
   {
-    "id": "ssc-higher-math-ch01-set04-q21",
+    "id": "ssc-higher-math-chapter-01-model-test-04-q10",
     "subject": "higher-math",
     "chapter": "ssc-higher-math-chapter-01-model-test-04",
-    "text": "6টি উপাদানবিশিষ্ট সেটের power set-এ কয়টি উপাদান থাকে?",
+    "text": "A = {4, 5, 2} এবং B = {2, 3} হলে A ∪ B এর উপাদান সংখ্যা কত?",
     "options": [
-      "12",
+      "3",
+      "4",
+      "2",
+      "5"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-higher-math-chapter-01-model-test-04-q11",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-01-model-test-04",
+    "text": "f(x)=2x+1 হলে f(5)=?",
+    "options": [
+      "10",
+      "11",
+      "10",
+      "12"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-higher-math-chapter-01-model-test-04-q12",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-01-model-test-04",
+    "text": "n(A)=5, n(B)=9, n(A∩B)=4 হলে n(A∪B)=?",
+    "options": [
+      "9",
+      "11",
+      "14",
+      "10"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-higher-math-chapter-01-model-test-04-q13",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-01-model-test-04",
+    "text": "A = {4, 5, 3} এবং B = {3, 4} হলে A ∪ B এর উপাদান সংখ্যা কত?",
+    "options": [
+      "6",
+      "5",
       "7",
-      "64",
-      "36"
+      "8"
     ],
     "image": null,
+    "optionImages": null,
     "timeLimit": 45
   },
   {
-    "id": "ssc-higher-math-ch01-set04-q22",
+    "id": "ssc-higher-math-chapter-01-model-test-04-q14",
     "subject": "higher-math",
     "chapter": "ssc-higher-math-chapter-01-model-test-04",
-    "text": "6টি উপাদানবিশিষ্ট সেটের power set-এ কয়টি উপাদান থাকে?",
+    "text": "A = {5, 6, 4} এবং B = {4, 5} হলে A ∪ B এর উপাদান সংখ্যা কত?",
     "options": [
-      "36",
-      "12",
       "7",
-      "64"
+      "6",
+      "9",
+      "10"
     ],
     "image": null,
+    "optionImages": null,
     "timeLimit": 45
   },
   {
-    "id": "ssc-higher-math-ch01-set04-q23",
+    "id": "ssc-higher-math-chapter-01-model-test-04-q15",
     "subject": "higher-math",
     "chapter": "ssc-higher-math-chapter-01-model-test-04",
-    "text": "6টি উপাদানবিশিষ্ট সেটের power set-এ কয়টি উপাদান থাকে?",
+    "text": "f(x)=2x+1 হলে f(2)=?",
+    "options": [
+      "6",
+      "4",
+      "4",
+      "5"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-higher-math-chapter-01-model-test-04-q16",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-01-model-test-04",
+    "text": "A = {9, 10, 8} এবং B = {8, 9} হলে A ∪ B এর উপাদান সংখ্যা কত?",
+    "options": [
+      "11",
+      "10",
+      "17",
+      "18"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-higher-math-chapter-01-model-test-04-q17",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-01-model-test-04",
+    "text": "f(x)=2x+1 হলে f(7)=?",
+    "options": [
+      "14",
+      "16",
+      "15",
+      "14"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-higher-math-chapter-01-model-test-04-q18",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-01-model-test-04",
+    "text": "n(A)=10, n(B)=5, n(A∩B)=1 হলে n(A∪B)=?",
+    "options": [
+      "15",
+      "14",
+      "15",
+      "13"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-higher-math-chapter-01-model-test-04-q19",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-01-model-test-04",
+    "text": "A = {6, 7, 5} এবং B = {5, 6} হলে A ∪ B এর উপাদান সংখ্যা কত?",
+    "options": [
+      "8",
+      "7",
+      "11",
+      "12"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-higher-math-chapter-01-model-test-04-q20",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-01-model-test-04",
+    "text": "A = {5, 6, 3} এবং B = {3, 4} হলে A ∪ B এর উপাদান সংখ্যা কত?",
+    "options": [
+      "5",
+      "3",
+      "4",
+      "6"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-higher-math-chapter-01-model-test-04-q21",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-01-model-test-04",
+    "text": "A = {2, 3, 9} এবং B = {9, 10} হলে A ∪ B এর উপাদান সংখ্যা কত?",
+    "options": [
+      "3",
+      "10",
+      "9",
+      "2"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-higher-math-chapter-01-model-test-04-q22",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-01-model-test-04",
+    "text": "A = {9, 10, 7} এবং B = {7, 8} হলে A ∪ B এর উপাদান সংখ্যা কত?",
+    "options": [
+      "9",
+      "7",
+      "10",
+      "8"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-higher-math-chapter-01-model-test-04-q23",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-01-model-test-04",
+    "text": "f(x)=2x+1 হলে f(6)=?",
     "options": [
       "12",
-      "64",
-      "36",
-      "7"
+      "13",
+      "14",
+      "12"
     ],
     "image": null,
+    "optionImages": null,
     "timeLimit": 45
   },
   {
-    "id": "ssc-higher-math-ch01-set04-q24",
+    "id": "ssc-higher-math-chapter-01-model-test-04-q24",
     "subject": "higher-math",
     "chapter": "ssc-higher-math-chapter-01-model-test-04",
-    "text": "নিচের কোনটি ফাংশন? *(অপশনগুলোতে চিত্র/গ্রাফ ছিল যা এখানে অনুপস্থিত)*",
+    "text": "n(A)=8, n(B)=4, n(A∩B)=1 হলে n(A∪B)=?",
     "options": [
-      "(অস্পষ্ট)",
-      "(অস্পষ্ট)",
-      "(অস্পষ্ট)",
-      "(অস্পষ্ট)"
+      "11",
+      "12",
+      "12",
+      "10"
     ],
     "image": null,
+    "optionImages": null,
     "timeLimit": 45
   },
   {
-    "id": "ssc-higher-math-ch01-set04-q25",
+    "id": "ssc-higher-math-chapter-01-model-test-04-q25",
     "subject": "higher-math",
     "chapter": "ssc-higher-math-chapter-01-model-test-04",
-    "text": "সার্বিক সেট $U$ এর উপসেট $A, B$ এবং $C$ হলে— i. $(A \\cup B)' = A' \\cap B'$ ii. $(A \\cap B)' = A' \\cap B'$ iii. $A \\cup (B \\cap C) = (A \\cup B) \\cap (A \\cup C)$ নিচের কোনটি সঠিক?",
+    "text": "n(A)=7, n(B)=3, n(A∩B)=3 হলে n(A∪B)=?",
     "options": [
-      "i ও ii",
-      "i ও iii",
-      "ii ও iii",
-      "i, ii ও iii"
+      "6",
+      "7",
+      "10",
+      "8"
     ],
     "image": null,
+    "optionImages": null,
     "timeLimit": 45
   }
 ]

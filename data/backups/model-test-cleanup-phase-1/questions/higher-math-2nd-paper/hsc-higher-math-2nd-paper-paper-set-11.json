@@ -1,0 +1,352 @@
+[
+  {
+    "id": "hsc-higher-math-2nd-paper-paper-set-11-q01",
+    "subject": "higher-math-2nd-paper",
+    "chapter": "hsc-higher-math-2nd-paper-paper-set-11",
+    "text": "$\\frac{d}{dx}x^13$ কত?",
+    "options": [
+      "$x^13$",
+      "$x^12$",
+      "$12x^13$",
+      "$13x^12$"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-higher-math-2nd-paper-paper-set-11-q02",
+    "subject": "higher-math-2nd-paper",
+    "chapter": "hsc-higher-math-2nd-paper-paper-set-11",
+    "text": "$\\int x^14dx$ কত?",
+    "options": [
+      "$\\frac{x^14}{14}+C$",
+      "$x^15+C$",
+      "$14x^13+C$",
+      "$\\frac{x^15}{15}+C$"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-higher-math-2nd-paper-paper-set-11-q03",
+    "subject": "higher-math-2nd-paper",
+    "chapter": "hsc-higher-math-2nd-paper-paper-set-11",
+    "text": "$15P_2$ এর মান কত?",
+    "options": [
+      "17",
+      "210",
+      "105",
+      "75"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-higher-math-2nd-paper-paper-set-11-q04",
+    "subject": "higher-math-2nd-paper",
+    "chapter": "hsc-higher-math-2nd-paper-paper-set-11",
+    "text": "$16C_2$ এর মান কত?",
+    "options": [
+      "17",
+      "240",
+      "256",
+      "120"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-higher-math-2nd-paper-paper-set-11-q05",
+    "subject": "higher-math-2nd-paper",
+    "chapter": "hsc-higher-math-2nd-paper-paper-set-11",
+    "text": "ঢাল 12 এবং বিন্দু $(7,12)$ দিয়ে অতিক্রান্ত রেখার সমীকরণ কোনটি?",
+    "options": [
+      "$x-12=12(y-7)$",
+      "$y-12=12(x-7)$",
+      "$y+12=12(x-7)$",
+      "$y-12=7(x-12)$"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-higher-math-2nd-paper-paper-set-11-q06",
+    "subject": "higher-math-2nd-paper",
+    "chapter": "hsc-higher-math-2nd-paper-paper-set-11",
+    "text": "$x^2+y^2=169$ বৃত্তের ব্যাসার্ধ কত?",
+    "options": [
+      "26",
+      "14",
+      "169",
+      "13"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-higher-math-2nd-paper-paper-set-11-q07",
+    "subject": "higher-math-2nd-paper",
+    "chapter": "hsc-higher-math-2nd-paper-paper-set-11",
+    "text": "$\\sin^2\\theta+\\cos^2\\theta$ কত?",
+    "options": [
+      "1",
+      "$\\tan\\theta$",
+      "$\\sec^2\\theta$",
+      "0"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-higher-math-2nd-paper-paper-set-11-q08",
+    "subject": "higher-math-2nd-paper",
+    "chapter": "hsc-higher-math-2nd-paper-paper-set-11",
+    "text": "$\\sin(A+B)$ সূত্র কোনটি?",
+    "options": [
+      "$\\tan A+\\tan B$",
+      "$\\sin A\\cos B-\\cos A\\sin B$",
+      "$\\sin A\\cos B+\\cos A\\sin B$",
+      "$\\cos A\\cos B-\\sin A\\sin B$"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-higher-math-2nd-paper-paper-set-11-q09",
+    "subject": "higher-math-2nd-paper",
+    "chapter": "hsc-higher-math-2nd-paper-paper-set-11",
+    "text": "$f(x)=x^2$ ফাংশনটি কেমন?",
+    "options": [
+      "Constant",
+      "Even",
+      "Periodic",
+      "Odd"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-higher-math-2nd-paper-paper-set-11-q10",
+    "subject": "higher-math-2nd-paper",
+    "chapter": "hsc-higher-math-2nd-paper-paper-set-11",
+    "text": "$\\vec a\\cdot\\vec b=0$ হলে দুটি ভেক্টর কেমন?",
+    "options": [
+      "একক",
+      "সমান",
+      "সমান্তরাল",
+      "লম্ব"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-higher-math-2nd-paper-paper-set-11-q11",
+    "subject": "higher-math-2nd-paper",
+    "chapter": "hsc-higher-math-2nd-paper-paper-set-11",
+    "text": "$A^2=A$ হলে matrix কী?",
+    "options": [
+      "Nilpotent",
+      "Idempotent",
+      "Scalar",
+      "Orthogonal"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-higher-math-2nd-paper-paper-set-11-q12",
+    "subject": "higher-math-2nd-paper",
+    "chapter": "hsc-higher-math-2nd-paper-paper-set-11",
+    "text": "$\\int_0^1 xdx$ কত?",
+    "options": [
+      "$\\frac12$",
+      "$\\frac13$",
+      "0",
+      "1"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-higher-math-2nd-paper-paper-set-11-q13",
+    "subject": "higher-math-2nd-paper",
+    "chapter": "hsc-higher-math-2nd-paper-paper-set-11",
+    "text": "$\\frac{d}{dx}x^15$ কত?",
+    "options": [
+      "$x^15$",
+      "$14x^15$",
+      "$15x^14$",
+      "$x^14$"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-higher-math-2nd-paper-paper-set-11-q14",
+    "subject": "higher-math-2nd-paper",
+    "chapter": "hsc-higher-math-2nd-paper-paper-set-11",
+    "text": "$\\int x^16dx$ কত?",
+    "options": [
+      "$\\frac{x^16}{16}+C$",
+      "$\\frac{x^17}{17}+C$",
+      "$x^17+C$",
+      "$16x^15+C$"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-higher-math-2nd-paper-paper-set-11-q15",
+    "subject": "higher-math-2nd-paper",
+    "chapter": "hsc-higher-math-2nd-paper-paper-set-11",
+    "text": "$12P_2$ এর মান কত?",
+    "options": [
+      "14",
+      "66",
+      "132",
+      "36"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-higher-math-2nd-paper-paper-set-11-q16",
+    "subject": "higher-math-2nd-paper",
+    "chapter": "hsc-higher-math-2nd-paper-paper-set-11",
+    "text": "$13C_2$ এর মান কত?",
+    "options": [
+      "169",
+      "14",
+      "156",
+      "78"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-higher-math-2nd-paper-paper-set-11-q17",
+    "subject": "higher-math-2nd-paper",
+    "chapter": "hsc-higher-math-2nd-paper-paper-set-11",
+    "text": "ঢাল 14 এবং বিন্দু $(5,14)$ দিয়ে অতিক্রান্ত রেখার সমীকরণ কোনটি?",
+    "options": [
+      "$y-14=5(x-14)$",
+      "$y+14=14(x-5)$",
+      "$x-14=14(y-5)$",
+      "$y-14=14(x-5)$"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-higher-math-2nd-paper-paper-set-11-q18",
+    "subject": "higher-math-2nd-paper",
+    "chapter": "hsc-higher-math-2nd-paper-paper-set-11",
+    "text": "$x^2+y^2=225$ বৃত্তের ব্যাসার্ধ কত?",
+    "options": [
+      "15",
+      "30",
+      "16",
+      "225"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-higher-math-2nd-paper-paper-set-11-q19",
+    "subject": "higher-math-2nd-paper",
+    "chapter": "hsc-higher-math-2nd-paper-paper-set-11",
+    "text": "$\\sin^2\\theta+\\cos^2\\theta$ কত?",
+    "options": [
+      "0",
+      "$\\tan\\theta$",
+      "$\\sec^2\\theta$",
+      "1"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-higher-math-2nd-paper-paper-set-11-q20",
+    "subject": "higher-math-2nd-paper",
+    "chapter": "hsc-higher-math-2nd-paper-paper-set-11",
+    "text": "$\\sin(A+B)$ সূত্র কোনটি?",
+    "options": [
+      "$\\tan A+\\tan B$",
+      "$\\sin A\\cos B-\\cos A\\sin B$",
+      "$\\cos A\\cos B-\\sin A\\sin B$",
+      "$\\sin A\\cos B+\\cos A\\sin B$"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-higher-math-2nd-paper-paper-set-11-q21",
+    "subject": "higher-math-2nd-paper",
+    "chapter": "hsc-higher-math-2nd-paper-paper-set-11",
+    "text": "$f(x)=x^2$ ফাংশনটি কেমন?",
+    "options": [
+      "Constant",
+      "Periodic",
+      "Even",
+      "Odd"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-higher-math-2nd-paper-paper-set-11-q22",
+    "subject": "higher-math-2nd-paper",
+    "chapter": "hsc-higher-math-2nd-paper-paper-set-11",
+    "text": "$\\vec a\\cdot\\vec b=0$ হলে দুটি ভেক্টর কেমন?",
+    "options": [
+      "সমান্তরাল",
+      "লম্ব",
+      "একক",
+      "সমান"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-higher-math-2nd-paper-paper-set-11-q23",
+    "subject": "higher-math-2nd-paper",
+    "chapter": "hsc-higher-math-2nd-paper-paper-set-11",
+    "text": "$A^2=A$ হলে matrix কী?",
+    "options": [
+      "Nilpotent",
+      "Idempotent",
+      "Orthogonal",
+      "Scalar"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-higher-math-2nd-paper-paper-set-11-q24",
+    "subject": "higher-math-2nd-paper",
+    "chapter": "hsc-higher-math-2nd-paper-paper-set-11",
+    "text": "$\\int_0^1 xdx$ কত?",
+    "options": [
+      "0",
+      "1",
+      "$\\frac13$",
+      "$\\frac12$"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-higher-math-2nd-paper-paper-set-11-q25",
+    "subject": "higher-math-2nd-paper",
+    "chapter": "hsc-higher-math-2nd-paper-paper-set-11",
+    "text": "$\\frac{d}{dx}x^12$ কত?",
+    "options": [
+      "$x^12$",
+      "$11x^12$",
+      "$x^11$",
+      "$12x^11$"
+    ],
+    "image": null,
+    "timeLimit": 45
+  }
+]

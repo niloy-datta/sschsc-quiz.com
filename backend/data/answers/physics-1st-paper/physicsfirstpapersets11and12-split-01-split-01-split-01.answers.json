@@ -1,0 +1,102 @@
+{
+  "physicsfirstpapersets11and12-split-01-split-01-split-01-q01": {
+    "correctOption": "(A×B)/(|A×B|)",
+    "explanation": "ক্রস গুণফল সর্বদা উভয় ভেক্টরের সমতলের ওপর লম্ব হয়। তাই একে এর মান দিয়ে ভাগ করলে লম্ব একক ভেক্টর পাওয়া যায়।"
+  },
+  "physicsfirstpapersets11and12-split-01-split-01-split-01-q02": {
+    "correctOption": "এক-চতুর্থাংশ",
+    "explanation": "ভেদ করার ক্ষমতা বা সরণ x ∝ v²। বেগ অর্ধেক (1/2) হলে, ভেদ করার ক্ষমতা (1/2)² = 1/4 গুণ হবে।"
+  },
+  "physicsfirstpapersets11and12-split-01-split-01-split-01-q03": {
+    "correctOption": "λ = θ",
+    "explanation": "সীমান্তিক ঘর্ষণের ক্ষেত্রে ঘর্ষণ কোণ সর্বদা স্থিতিকোণের সমান হয়।"
+  },
+  "physicsfirstpapersets11and12-split-01-split-01-split-01-q04": {
+    "correctOption": "ML²/3",
+    "explanation": "মধ্যবিন্দু দিয়ে গেলে ML²/12, কিন্তু এক প্রান্ত দিয়ে গেলে সমান্তরাল অক্ষ উপপাদ্য অনুযায়ী ML²/3 হয়।"
+  },
+  "physicsfirstpapersets11and12-split-01-split-01-split-01-q05": {
+    "correctOption": "1000 W",
+    "explanation": "P = mgh/t = (600 × 10 × 10) / 60 = 1000 W. (এখানে সময়কে অবশ্যই সেকেন্ডে নিতে হবে, যা একটি কমন মিস্টেক)।"
+  },
+  "physicsfirstpapersets11and12-split-01-split-01-split-01-q06": {
+    "correctOption": "২১%",
+    "explanation": "Ek ∝ p²। ভরবেগ ১.১ গুণ হলে গতিশক্তি (1.1)² = 1.21 গুণ হবে। অর্থাৎ বৃদ্ধি ২১%।"
+  },
+  "physicsfirstpapersets11and12-split-01-split-01-split-01-q07": {
+    "correctOption": "v_e = R√(8/3 πGρ)",
+    "explanation": "v_e = √(2GM/R)। M = 4/3 πR³ρ বসালে ক নম্বর অপশনটি পাওয়া যায়।"
+  },
+  "physicsfirstpapersets11and12-split-01-split-01-split-01-q08": {
+    "correctOption": "শূন্য",
+    "explanation": "অসীমে মহাকর্ষীয় বিভবকে প্রমাণ মান বা শূন্য ধরা হয়। মহাকর্ষীয় ক্ষেত্রের যেকোনো বিন্দুতে বিভব ঋণাত্মক।"
+  },
+  "physicsfirstpapersets11and12-split-01-split-01-split-01-q09": {
+    "correctOption": "১২৫%",
+    "explanation": "T ∝ √L। T2 = 1.5 T1 ⟹ L2 = (1.5)² L1 = 2.25 L1। বৃদ্ধি = (2.25 - 1) × 100% = 125%."
+  },
+  "physicsfirstpapersets11and12-split-01-split-01-split-01-q10": {
+    "correctOption": "বাড়বে",
+    "explanation": "পানিতে প্লবতার কারণে ববের কার্যকর ওজন ও কার্যকর g কমে যায়। T ∝ 1/√g, তাই g কমলে দোলনকাল বাড়ে।"
+  },
+  "physicsfirstpapersets11and12-split-01-split-01-split-01-q11": {
+    "correctOption": "সংনম্যতা",
+    "explanation": "সংনম্যতা বা Compressibility হলো আয়তন গুণাঙ্কের (K) ঠিক উল্টো (1/K)।"
+  },
+  "physicsfirstpapersets11and12-split-01-split-01-split-01-q12": {
+    "correctOption": "বাড়বে",
+    "explanation": "বড় ফোঁটা ভেঙে ছোট ফোঁটা হলে মোট পৃষ্ঠতলের ক্ষেত্রফল বৃদ্ধি পায়। ক্ষেত্রফল বাড়লে পৃষ্ঠশক্তি বাড়ে (এই প্রক্রিয়ায় পরিবেশ থেকে তাপ শোষিত হয়)।"
+  },
+  "physicsfirstpapersets11and12-split-01-split-01-split-01-q13": {
+    "correctOption": "৪:১",
+    "explanation": "C_rms ∝ 1/√M। v_H / v_O = √(M_O / M_H) = √(32/2) = √16 = 4:1."
+  },
+  "physicsfirstpapersets11and12-split-01-split-01-split-01-q14": {
+    "correctOption": "X-অক্ষের সমান্তরাল সরলরেখা",
+    "explanation": "বয়েলের সূত্র অনুযায়ী PV = constant। তাই P পরিবর্তন হলেও PV এর মান ধ্রুবক থাকে।"
+  },
+  "physicsfirstpapersets11and12-split-01-split-01-split-01-q15": {
+    "correctOption": "২%",
+    "explanation": "ক্ষেত্রফল A = πr²। ত্রুটি = 2 × (ব্যাসার্ধের ত্রুটি) = 2 × 1% = 2%."
+  },
+  "physicsfirstpapersets11and12-split-01-split-01-split-01-q16": {
+    "correctOption": "7N",
+    "explanation": "সর্বনিম্ন লব্ধি R_min = P - Q = 12 - 5 = 7N (যখন কোণ 180°)।"
+  },
+  "physicsfirstpapersets11and12-split-01-split-01-split-01-q17": {
+    "correctOption": "বলের ঘাত বা ভরবেগের পরিবর্তন",
+    "explanation": "∫F dt = J = Δp."
+  },
+  "physicsfirstpapersets11and12-split-01-split-01-split-01-q18": {
+    "correctOption": "ভরবেগ ও গতিশক্তি উভয়ই",
+    "explanation": "স্থিতিস্থাপক সংঘর্ষের প্রধান শর্তই হলো সিস্টেমের মোট ভরবেগ এবং মোট গতিশক্তি সংঘর্ষের আগে ও পরে অপরিবর্তিত থাকে।"
+  },
+  "physicsfirstpapersets11and12-split-01-split-01-split-01-q19": {
+    "correctOption": "অর্ধেক (1/2 গুণ)",
+    "explanation": "আবর্তন বেগ v = √(GM/r) ⟹ v ∝ 1/√r। ব্যাসার্ধ ৪ গুণ হলে বেগ 1/√4 = 1/2 গুণ হবে।"
+  },
+  "physicsfirstpapersets11and12-split-01-split-01-split-01-q20": {
+    "correctOption": "d²x/dt² + ω²x = 0",
+    "explanation": "a = -ω²x ⟹ d²x/dt² + ω²x = 0. এটি SHM এর স্ট্যান্ডার্ড ইকুয়েশন।"
+  },
+  "physicsfirstpapersets11and12-split-01-split-01-split-01-q21": {
+    "correctOption": "YA/L",
+    "explanation": "F = (YA/L) · l। একে স্প্রিং এর বল F = kl এর সাথে তুলনা করলে k = YA/L পাওয়া যায়।"
+  },
+  "physicsfirstpapersets11and12-split-01-split-01-split-01-q22": {
+    "correctOption": "অপরিবর্তিত থাকবে",
+    "explanation": "(P₁V₁)/T₁ = (P₂V₂)/T₂ ⟹ (P₁V₁)/T₁ = (2P₁V₂)/2T₁ ⟹ V₁ = V₂."
+  },
+  "physicsfirstpapersets11and12-split-01-split-01-split-01-q23": {
+    "correctOption": "(8.0 ± 0.3) cm",
+    "explanation": "যোগ বা বিয়োগের সময় পরম ত্রুটিগুলো সর্বদা যোগ হয়। তাই 0.1 + 0.2 = 0.3."
+  },
+  "physicsfirstpapersets11and12-split-01-split-01-split-01-q24": {
+    "correctOption": "0",
+    "explanation": "ভেক্টরটি শুধুমাত্র X-Y সমতলে থাকায় এর কোনো Z-অক্ষ বরাবর উপাংশ থাকে না।"
+  },
+  "physicsfirstpapersets11and12-split-01-split-01-split-01-q25": {
+    "correctOption": "ঋণাত্মক",
+    "explanation": "ঘর্ষণ বল অসংরক্ষণশীল বল। যাওয়ার সময় এবং ফেরার সময় উভয় ক্ষেত্রেই সরণ ও ঘর্ষণ বল বিপরীতমুখী থাকে, তাই মোট কাজ ঋণাত্মক হয় (শূন্য নয়)।"
+  }
+}

@@ -1,0 +1,377 @@
+[
+  {
+    "id": "hsc-higher-math-1st-paper-chapter-05-set-03-q01",
+    "subject": "higher-math-1st-paper",
+    "chapter": "hsc-higher-math-1st-paper-chapter-05-set-03",
+    "text": "$5P_2$ এর মান কত? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 03-01 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+    "options": [
+      "20",
+      "7",
+      "10",
+      "25"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-higher-math-1st-paper-chapter-05-set-03-q02",
+    "subject": "higher-math-1st-paper",
+    "chapter": "hsc-higher-math-1st-paper-chapter-05-set-03",
+    "text": "$6C_2$ এর মান কত?",
+    "options": [
+      "15",
+      "16",
+      "36",
+      "30"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-higher-math-1st-paper-chapter-05-set-03-q03",
+    "subject": "higher-math-1st-paper",
+    "chapter": "hsc-higher-math-1st-paper-chapter-05-set-03",
+    "text": "$7C_0$ এর মান কত?",
+    "options": [
+      "7",
+      "0",
+      "1",
+      "7!"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-higher-math-1st-paper-chapter-05-set-03-q04",
+    "subject": "higher-math-1st-paper",
+    "chapter": "hsc-higher-math-1st-paper-chapter-05-set-03",
+    "text": "8টি ভিন্ন বস্তু এক সারিতে সাজানো যায় কতভাবে?",
+    "options": [
+      "28",
+      "40320",
+      "64",
+      "8"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-higher-math-1st-paper-chapter-05-set-03-q05",
+    "subject": "higher-math-1st-paper",
+    "chapter": "hsc-higher-math-1st-paper-chapter-05-set-03",
+    "text": "5 জন থেকে 3 জনের কমিটি কতভাবে গঠন করা যায়? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 03-05 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+    "options": [
+      "15",
+      "60",
+      "10",
+      "11"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-higher-math-1st-paper-chapter-05-set-03-q06",
+    "subject": "higher-math-1st-paper",
+    "chapter": "hsc-higher-math-1st-paper-chapter-05-set-03",
+    "text": "$nP_r$ ও $nC_r$ এর সম্পর্ক কোনটি? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 03-06 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+    "options": [
+      "$nP_r=r!\\,nC_r$",
+      "$nP_r+nC_r=1$",
+      "$nC_r=r!\\,nP_r$",
+      "$nP_r=nC_r$"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-higher-math-1st-paper-chapter-05-set-03-q07",
+    "subject": "higher-math-1st-paper",
+    "chapter": "hsc-higher-math-1st-paper-chapter-05-set-03",
+    "text": "$nC_r$ এর symmetry property কোনটি? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 03-07 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+    "options": [
+      "$nC_r=0$",
+      "$nC_r=nP_r$",
+      "$nC_r=nC_{n-r}$",
+      "$nC_r=rC_n$"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-higher-math-1st-paper-chapter-05-set-03-q08",
+    "subject": "higher-math-1st-paper",
+    "chapter": "hsc-higher-math-1st-paper-chapter-05-set-03",
+    "text": "7টি উপাদানবিশিষ্ট সেটের subset সংখ্যা কত?",
+    "options": [
+      "14",
+      "5040",
+      "128",
+      "49"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-higher-math-1st-paper-chapter-05-set-03-q09",
+    "subject": "higher-math-1st-paper",
+    "chapter": "hsc-higher-math-1st-paper-chapter-05-set-03",
+    "text": "8টি ভিন্ন অঙ্ক দিয়ে repetition ছাড়া 2 অঙ্কের সংখ্যা কতটি?",
+    "options": [
+      "28",
+      "64",
+      "9",
+      "56"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-higher-math-1st-paper-chapter-05-set-03-q10",
+    "subject": "higher-math-1st-paper",
+    "chapter": "hsc-higher-math-1st-paper-chapter-05-set-03",
+    "text": "Combination-এ order কি গুরুত্বপূর্ণ? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 03-10 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+    "options": [
+      "হ্যাঁ",
+      "সবসময়",
+      "না",
+      "শুধু 2টি বস্তু হলে"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-higher-math-1st-paper-chapter-05-set-03-q11",
+    "subject": "higher-math-1st-paper",
+    "chapter": "hsc-higher-math-1st-paper-chapter-05-set-03",
+    "text": "$5P_2$ এর মান কত? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 03-11 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+    "options": [
+      "10",
+      "25",
+      "7",
+      "20"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-higher-math-1st-paper-chapter-05-set-03-q12",
+    "subject": "higher-math-1st-paper",
+    "chapter": "hsc-higher-math-1st-paper-chapter-05-set-03",
+    "text": "$6C_2$ এর মান কত? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 03-12 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+    "options": [
+      "15",
+      "30",
+      "36",
+      "16"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-higher-math-1st-paper-chapter-05-set-03-q13",
+    "subject": "higher-math-1st-paper",
+    "chapter": "hsc-higher-math-1st-paper-chapter-05-set-03",
+    "text": "$7C_0$ এর মান কত? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 03-13 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+    "options": [
+      "0",
+      "7",
+      "1",
+      "7!"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-higher-math-1st-paper-chapter-05-set-03-q14",
+    "subject": "higher-math-1st-paper",
+    "chapter": "hsc-higher-math-1st-paper-chapter-05-set-03",
+    "text": "8টি ভিন্ন বস্তু এক সারিতে সাজানো যায় কতভাবে? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 03-14 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+    "options": [
+      "28",
+      "40320",
+      "8",
+      "64"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-higher-math-1st-paper-chapter-05-set-03-q15",
+    "subject": "higher-math-1st-paper",
+    "chapter": "hsc-higher-math-1st-paper-chapter-05-set-03",
+    "text": "5 জন থেকে 3 জনের কমিটি কতভাবে গঠন করা যায়? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 03-15 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+    "options": [
+      "11",
+      "10",
+      "60",
+      "15"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-higher-math-1st-paper-chapter-05-set-03-q16",
+    "subject": "higher-math-1st-paper",
+    "chapter": "hsc-higher-math-1st-paper-chapter-05-set-03",
+    "text": "$nP_r$ ও $nC_r$ এর সম্পর্ক কোনটি? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 03-16 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+    "options": [
+      "$nP_r=nC_r$",
+      "$nC_r=r!\\,nP_r$",
+      "$nP_r=r!\\,nC_r$",
+      "$nP_r+nC_r=1$"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-higher-math-1st-paper-chapter-05-set-03-q17",
+    "subject": "higher-math-1st-paper",
+    "chapter": "hsc-higher-math-1st-paper-chapter-05-set-03",
+    "text": "$nC_r$ এর symmetry property কোনটি? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 03-17 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+    "options": [
+      "$nC_r=nC_{n-r}$",
+      "$nC_r=rC_n$",
+      "$nC_r=nP_r$",
+      "$nC_r=0$"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-higher-math-1st-paper-chapter-05-set-03-q18",
+    "subject": "higher-math-1st-paper",
+    "chapter": "hsc-higher-math-1st-paper-chapter-05-set-03",
+    "text": "7টি উপাদানবিশিষ্ট সেটের subset সংখ্যা কত? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 03-18 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+    "options": [
+      "14",
+      "5040",
+      "128",
+      "49"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-higher-math-1st-paper-chapter-05-set-03-q19",
+    "subject": "higher-math-1st-paper",
+    "chapter": "hsc-higher-math-1st-paper-chapter-05-set-03",
+    "text": "8টি ভিন্ন অঙ্ক দিয়ে repetition ছাড়া 2 অঙ্কের সংখ্যা কতটি? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 03-19 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+    "options": [
+      "9",
+      "28",
+      "56",
+      "64"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-higher-math-1st-paper-chapter-05-set-03-q20",
+    "subject": "higher-math-1st-paper",
+    "chapter": "hsc-higher-math-1st-paper-chapter-05-set-03",
+    "text": "Combination-এ order কি গুরুত্বপূর্ণ? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 03-20 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+    "options": [
+      "হ্যাঁ",
+      "না",
+      "শুধু 2টি বস্তু হলে",
+      "সবসময়"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-higher-math-1st-paper-chapter-05-set-03-q21",
+    "subject": "higher-math-1st-paper",
+    "chapter": "hsc-higher-math-1st-paper-chapter-05-set-03",
+    "text": "$5P_2$ এর মান কত? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 03-21 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+    "options": [
+      "7",
+      "20",
+      "10",
+      "25"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-higher-math-1st-paper-chapter-05-set-03-q22",
+    "subject": "higher-math-1st-paper",
+    "chapter": "hsc-higher-math-1st-paper-chapter-05-set-03",
+    "text": "$6C_2$ এর মান কত? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 03-22 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+    "options": [
+      "36",
+      "16",
+      "30",
+      "15"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-higher-math-1st-paper-chapter-05-set-03-q23",
+    "subject": "higher-math-1st-paper",
+    "chapter": "hsc-higher-math-1st-paper-chapter-05-set-03",
+    "text": "$7C_0$ এর মান কত? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 03-23 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+    "options": [
+      "1",
+      "7!",
+      "0",
+      "7"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-higher-math-1st-paper-chapter-05-set-03-q24",
+    "subject": "higher-math-1st-paper",
+    "chapter": "hsc-higher-math-1st-paper-chapter-05-set-03",
+    "text": "8টি ভিন্ন বস্তু এক সারিতে সাজানো যায় কতভাবে? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 03-24 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+    "options": [
+      "64",
+      "28",
+      "8",
+      "40320"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-higher-math-1st-paper-chapter-05-set-03-q25",
+    "subject": "higher-math-1st-paper",
+    "chapter": "hsc-higher-math-1st-paper-chapter-05-set-03",
+    "text": "5 জন থেকে 3 জনের কমিটি কতভাবে গঠন করা যায়? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 03-25 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+    "options": [
+      "60",
+      "11",
+      "15",
+      "10"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  }
+]

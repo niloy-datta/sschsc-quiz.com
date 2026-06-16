@@ -24,11 +24,9 @@ def _normalize_url(url: str) -> str:
 
 
 def _default_environment() -> str:
-    if os.getenv("ENVIRONMENT"):
-        return os.getenv("ENVIRONMENT", "development")
     if os.getenv("VERCEL") == "1" or os.getenv("NODE_ENV") == "production":
         return "production"
-    return "development"
+    return os.getenv("ENVIRONMENT", "development")
 
 
 class Settings:

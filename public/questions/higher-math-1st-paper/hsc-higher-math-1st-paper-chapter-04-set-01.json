@@ -1,0 +1,377 @@
+[
+  {
+    "id": "hsc-higher-math-1st-paper-chapter-04-set-01-q01",
+    "subject": "higher-math-1st-paper",
+    "chapter": "hsc-higher-math-1st-paper-chapter-04-set-01",
+    "text": "$(x-3)^2+(y-3)^2=16$ বৃত্তের কেন্দ্র ও ব্যাসার্ধ কত?",
+    "options": [
+      "$(3,3), 16$",
+      "$(-3,-3), 4$",
+      "$(0,0),1$",
+      "$(3,3), 4$"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-higher-math-1st-paper-chapter-04-set-01-q02",
+    "subject": "higher-math-1st-paper",
+    "chapter": "hsc-higher-math-1st-paper-chapter-04-set-01",
+    "text": "$x^2+y^2=16$ বৃত্তের ব্যাসার্ধ কত?",
+    "options": [
+      "1",
+      "4",
+      "16",
+      "8"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-higher-math-1st-paper-chapter-04-set-01-q03",
+    "subject": "higher-math-1st-paper",
+    "chapter": "hsc-higher-math-1st-paper-chapter-04-set-01",
+    "text": "বৃত্তের স্পর্শক স্পর্শবিন্দুতে ব্যাসার্ধের সাথে কত কোণ করে?",
+    "options": [
+      "$90^\\circ$",
+      "$45^\\circ$",
+      "$180^\\circ$",
+      "$0^\\circ$"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-higher-math-1st-paper-chapter-04-set-01-q04",
+    "subject": "higher-math-1st-paper",
+    "chapter": "hsc-higher-math-1st-paper-chapter-04-set-01",
+    "text": "ব্যাসের প্রান্তবিন্দু $(6,6)$ ও $(3,7)$ হলে কেন্দ্র কোনটি?",
+    "options": [
+      "$(3,-1)$",
+      "$(9,13)$",
+      "$(0,0)$",
+      "$($\\frac{9}{2}$,$\\frac{13}{2}$)$"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-higher-math-1st-paper-chapter-04-set-01-q05",
+    "subject": "higher-math-1st-paper",
+    "chapter": "hsc-higher-math-1st-paper-chapter-04-set-01",
+    "text": "বৃত্তের সাধারণ সমীকরণে $x^2$ ও $y^2$ এর সহগ কেমন?",
+    "options": [
+      "দুটিই 0",
+      "সমান",
+      "বিপরীত চিহ্নের",
+      "যেকোনো"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-higher-math-1st-paper-chapter-04-set-01-q06",
+    "subject": "higher-math-1st-paper",
+    "chapter": "hsc-higher-math-1st-paper-chapter-04-set-01",
+    "text": "$x^2+y^2=9$ বৃত্তের $x$-অক্ষের ছেদবিন্দু কোনগুলো?",
+    "options": [
+      "$(0,0)",
+      "$(3,3)$",
+      "$(3,0),(-3,0)$",
+      "$(0,3),(0,-3)$"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-higher-math-1st-paper-chapter-04-set-01-q07",
+    "subject": "higher-math-1st-paper",
+    "chapter": "hsc-higher-math-1st-paper-chapter-04-set-01",
+    "text": "কেন্দ্র $(4,2)$ এবং ব্যাসার্ধ 6 হলে বৃত্তের সমীকরণ কোনটি?",
+    "options": [
+      "$(x-4)+(y-2)=6$",
+      "$(x-4)^2+(y-2)^2=36$",
+      "$(x+4)^2+(y+2)^2=36$",
+      "$x^2+y^2=36$"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-higher-math-1st-paper-chapter-04-set-01-q08",
+    "subject": "higher-math-1st-paper",
+    "chapter": "hsc-higher-math-1st-paper-chapter-04-set-01",
+    "text": "বৃত্তের সকল বিন্দু কেন্দ্র থেকে কেমন দূরত্বে থাকে?",
+    "options": [
+      "সমান",
+      "শূন্য",
+      "অসমান",
+      "অসীম"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-higher-math-1st-paper-chapter-04-set-01-q09",
+    "subject": "higher-math-1st-paper",
+    "chapter": "hsc-higher-math-1st-paper-chapter-04-set-01",
+    "text": "ব্যাসার্ধ 6 হলে ব্যাস কত?",
+    "options": [
+      "36",
+      "12",
+      "6",
+      "8"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-higher-math-1st-paper-chapter-04-set-01-q10",
+    "subject": "higher-math-1st-paper",
+    "chapter": "hsc-higher-math-1st-paper-chapter-04-set-01",
+    "text": "$x^2+y^2+2=0$ বাস্তব বৃত্ত নির্দেশ করে কি?",
+    "options": [
+      "হ্যাঁ",
+      "শুধু এক বিন্দু",
+      "তথ্য অপর্যাপ্ত",
+      "না"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-higher-math-1st-paper-chapter-04-set-01-q11",
+    "subject": "higher-math-1st-paper",
+    "chapter": "hsc-higher-math-1st-paper-chapter-04-set-01",
+    "text": "$(x-3)^2+(y-6)^2=36$ বৃত্তের কেন্দ্র ও ব্যাসার্ধ কত?",
+    "options": [
+      "$(0,0),1$",
+      "$(3,6), 6$",
+      "$(-3,-6), 6$",
+      "$(3,6), 36$"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-higher-math-1st-paper-chapter-04-set-01-q12",
+    "subject": "higher-math-1st-paper",
+    "chapter": "hsc-higher-math-1st-paper-chapter-04-set-01",
+    "text": "$x^2+y^2=16$ বৃত্তের ব্যাসার্ধ কত? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 01-12 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+    "options": [
+      "4",
+      "8",
+      "1",
+      "16"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-higher-math-1st-paper-chapter-04-set-01-q13",
+    "subject": "higher-math-1st-paper",
+    "chapter": "hsc-higher-math-1st-paper-chapter-04-set-01",
+    "text": "বৃত্তের স্পর্শক স্পর্শবিন্দুতে ব্যাসার্ধের সাথে কত কোণ করে? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 01-13 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+    "options": [
+      "$180^\\circ$",
+      "$45^\\circ$",
+      "$0^\\circ$",
+      "$90^\\circ$"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-higher-math-1st-paper-chapter-04-set-01-q14",
+    "subject": "higher-math-1st-paper",
+    "chapter": "hsc-higher-math-1st-paper-chapter-04-set-01",
+    "text": "ব্যাসের প্রান্তবিন্দু $(6,2)$ ও $(5,5)$ হলে কেন্দ্র কোনটি?",
+    "options": [
+      "$(0,0)$",
+      "$(1,-3)$",
+      "$($\\frac{11}{2}$,$\\frac{7}{2}$)$",
+      "$(11,7)$"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-higher-math-1st-paper-chapter-04-set-01-q15",
+    "subject": "higher-math-1st-paper",
+    "chapter": "hsc-higher-math-1st-paper-chapter-04-set-01",
+    "text": "বৃত্তের সাধারণ সমীকরণে $x^2$ ও $y^2$ এর সহগ কেমন? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 01-15 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+    "options": [
+      "বিপরীত চিহ্নের",
+      "সমান",
+      "দুটিই 0",
+      "যেকোনো"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-higher-math-1st-paper-chapter-04-set-01-q16",
+    "subject": "higher-math-1st-paper",
+    "chapter": "hsc-higher-math-1st-paper-chapter-04-set-01",
+    "text": "$x^2+y^2=9$ বৃত্তের $x$-অক্ষের ছেদবিন্দু কোনগুলো? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 01-16 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+    "options": [
+      "$(3,3)$",
+      "$(0,0)",
+      "$(3,0),(-3,0)$",
+      "$(0,3),(0,-3)$"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-higher-math-1st-paper-chapter-04-set-01-q17",
+    "subject": "higher-math-1st-paper",
+    "chapter": "hsc-higher-math-1st-paper-chapter-04-set-01",
+    "text": "কেন্দ্র $(4,5)$ এবং ব্যাসার্ধ 4 হলে বৃত্তের সমীকরণ কোনটি?",
+    "options": [
+      "$(x-4)+(y-5)=4$",
+      "$x^2+y^2=16$",
+      "$(x-4)^2+(y-5)^2=16$",
+      "$(x+4)^2+(y+5)^2=16$"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-higher-math-1st-paper-chapter-04-set-01-q18",
+    "subject": "higher-math-1st-paper",
+    "chapter": "hsc-higher-math-1st-paper-chapter-04-set-01",
+    "text": "বৃত্তের সকল বিন্দু কেন্দ্র থেকে কেমন দূরত্বে থাকে? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 01-18 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+    "options": [
+      "অসীম",
+      "শূন্য",
+      "সমান",
+      "অসমান"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-higher-math-1st-paper-chapter-04-set-01-q19",
+    "subject": "higher-math-1st-paper",
+    "chapter": "hsc-higher-math-1st-paper-chapter-04-set-01",
+    "text": "ব্যাসার্ধ 6 হলে ব্যাস কত? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 01-19 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+    "options": [
+      "6",
+      "12",
+      "8",
+      "36"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-higher-math-1st-paper-chapter-04-set-01-q20",
+    "subject": "higher-math-1st-paper",
+    "chapter": "hsc-higher-math-1st-paper-chapter-04-set-01",
+    "text": "$x^2+y^2+2=0$ বাস্তব বৃত্ত নির্দেশ করে কি? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 01-20 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+    "options": [
+      "হ্যাঁ",
+      "তথ্য অপর্যাপ্ত",
+      "শুধু এক বিন্দু",
+      "না"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-higher-math-1st-paper-chapter-04-set-01-q21",
+    "subject": "higher-math-1st-paper",
+    "chapter": "hsc-higher-math-1st-paper-chapter-04-set-01",
+    "text": "$(x-3)^2+(y-2)^2=16$ বৃত্তের কেন্দ্র ও ব্যাসার্ধ কত?",
+    "options": [
+      "$(3,2), 16$",
+      "$(0,0),1$",
+      "$(3,2), 4$",
+      "$(-3,-2), 4$"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-higher-math-1st-paper-chapter-04-set-01-q22",
+    "subject": "higher-math-1st-paper",
+    "chapter": "hsc-higher-math-1st-paper-chapter-04-set-01",
+    "text": "$x^2+y^2=16$ বৃত্তের ব্যাসার্ধ কত? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 01-22 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+    "options": [
+      "1",
+      "8",
+      "4",
+      "16"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-higher-math-1st-paper-chapter-04-set-01-q23",
+    "subject": "higher-math-1st-paper",
+    "chapter": "hsc-higher-math-1st-paper-chapter-04-set-01",
+    "text": "বৃত্তের স্পর্শক স্পর্শবিন্দুতে ব্যাসার্ধের সাথে কত কোণ করে? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 01-23 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+    "options": [
+      "$45^\\circ$",
+      "$180^\\circ$",
+      "$90^\\circ$",
+      "$0^\\circ$"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-higher-math-1st-paper-chapter-04-set-01-q24",
+    "subject": "higher-math-1st-paper",
+    "chapter": "hsc-higher-math-1st-paper-chapter-04-set-01",
+    "text": "ব্যাসের প্রান্তবিন্দু $(6,5)$ ও $(3,3)$ হলে কেন্দ্র কোনটি?",
+    "options": [
+      "$(3,2)$",
+      "$(9,8)$",
+      "$(0,0)$",
+      "$($\\frac{9}{2}$,4)$"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-higher-math-1st-paper-chapter-04-set-01-q25",
+    "subject": "higher-math-1st-paper",
+    "chapter": "hsc-higher-math-1st-paper-chapter-04-set-01",
+    "text": "বৃত্তের সাধারণ সমীকরণে $x^2$ ও $y^2$ এর সহগ কেমন? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 01-25 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+    "options": [
+      "বিপরীত চিহ্নের",
+      "যেকোনো",
+      "সমান",
+      "দুটিই 0"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  }
+]

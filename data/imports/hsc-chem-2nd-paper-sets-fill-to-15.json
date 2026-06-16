@@ -1,0 +1,3801 @@
+{
+  "level": "HSC",
+  "datasetType": "paperwise_model_test_fill_to_15",
+  "papers": [
+    {
+      "paperName": "HSC Chem 2nd",
+      "subject": "chem-2nd",
+      "currentPaperSet": 10,
+      "generatedFromSet": "11",
+      "generatedToSet": "15",
+      "generatedSetsCount": 5,
+      "sets": [
+        {
+          "id": "hsc-chem-2nd-paper-set-11",
+          "title": "HSC Chem 2nd Paper-wise Model Test Set 11",
+          "setNo": "11",
+          "questions": [
+            {
+              "id": "hsc-chem-2nd-paper-set-11-q01",
+              "question": "pH = 7 হলে দ্রবণটি কেমন?",
+              "options": [
+                {
+                  "text": "অম্লীয়",
+                  "label": "ক"
+                },
+                {
+                  "text": "ক্ষারীয়",
+                  "label": "খ"
+                },
+                {
+                  "text": "নিরপেক্ষ",
+                  "label": "গ"
+                },
+                {
+                  "text": "জারক",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "গ",
+              "shortSolution": "সঠিক উত্তর: গ। pH 7 neutral দ্রবণ নির্দেশ করে।",
+              "paper": "HSC Chem 2nd",
+              "subject": "chem-2nd",
+              "setType": "paper-wise-model-test",
+              "topic": "অম্ল-ক্ষার",
+              "difficulty": "Easy",
+              "probability": "Mega Hot"
+            },
+            {
+              "id": "hsc-chem-2nd-paper-set-11-q02",
+              "question": "অক্সিডেশন বলতে কী বোঝায়?",
+              "options": [
+                {
+                  "text": "প্রোটন গ্রহণ",
+                  "label": "ক"
+                },
+                {
+                  "text": "ইলেকট্রন ত্যাগ",
+                  "label": "খ"
+                },
+                {
+                  "text": "ইলেকট্রন গ্রহণ",
+                  "label": "গ"
+                },
+                {
+                  "text": "নিউট্রন ত্যাগ",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "খ",
+              "shortSolution": "সঠিক উত্তর: খ। অক্সিডেশন হলো electron loss।",
+              "paper": "HSC Chem 2nd",
+              "subject": "chem-2nd",
+              "setType": "paper-wise-model-test",
+              "topic": "জারণ-বিজারণ",
+              "difficulty": "Easy",
+              "probability": "Very Hot"
+            },
+            {
+              "id": "hsc-chem-2nd-paper-set-11-q03",
+              "question": "ইলেকট্রন গ্রহণ প্রক্রিয়াকে কী বলে?",
+              "options": [
+                {
+                  "text": "আয়নন",
+                  "label": "ক"
+                },
+                {
+                  "text": "বিজারণ",
+                  "label": "খ"
+                },
+                {
+                  "text": "উদ্বায়ীভবন",
+                  "label": "গ"
+                },
+                {
+                  "text": "জারণ",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "খ",
+              "shortSolution": "সঠিক উত্তর: খ। Reduction হলো electron gain।",
+              "paper": "HSC Chem 2nd",
+              "subject": "chem-2nd",
+              "setType": "paper-wise-model-test",
+              "topic": "জারণ-বিজারণ",
+              "difficulty": "Easy",
+              "probability": "Board Favourite"
+            },
+            {
+              "id": "hsc-chem-2nd-paper-set-11-q04",
+              "question": "16 mole $O_2$ গ্যাসে অণুর সংখ্যা কত?",
+              "options": [
+                {
+                  "text": "$32N_A$",
+                  "label": "ক"
+                },
+                {
+                  "text": "$16+N_A$",
+                  "label": "খ"
+                },
+                {
+                  "text": "$N_A/16$",
+                  "label": "গ"
+                },
+                {
+                  "text": "$16N_A$",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "ঘ",
+              "shortSolution": "সঠিক উত্তর: ঘ। 1 mole-এ Avogadro সংখ্যক কণা থাকে।",
+              "paper": "HSC Chem 2nd",
+              "subject": "chem-2nd",
+              "setType": "paper-wise-model-test",
+              "topic": "মোল ধারণা",
+              "difficulty": "Easy",
+              "probability": "Conceptual Trap"
+            },
+            {
+              "id": "hsc-chem-2nd-paper-set-11-q05",
+              "question": "আদর্শ গ্যাস সমীকরণ কোনটি?",
+              "options": [
+                {
+                  "text": "$PV=nRT$",
+                  "label": "ক"
+                },
+                {
+                  "text": "$V=nRTP$",
+                  "label": "খ"
+                },
+                {
+                  "text": "$PT=nRV$",
+                  "label": "গ"
+                },
+                {
+                  "text": "$P=nVRT$",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "ক",
+              "shortSolution": "সঠিক উত্তর: ক। Ideal gas equation হলো $PV=nRT$।",
+              "paper": "HSC Chem 2nd",
+              "subject": "chem-2nd",
+              "setType": "paper-wise-model-test",
+              "topic": "গ্যাস সূত্র",
+              "difficulty": "Easy",
+              "probability": "Mega Hot"
+            },
+            {
+              "id": "hsc-chem-2nd-paper-set-11-q06",
+              "question": "পর্যায় সারণির একই group-এর মৌলগুলোর কোন বৈশিষ্ট্য সাধারণত মিল থাকে?",
+              "options": [
+                {
+                  "text": "ভৌত অবস্থা",
+                  "label": "ক"
+                },
+                {
+                  "text": "পারমাণবিক ভর",
+                  "label": "খ"
+                },
+                {
+                  "text": "নিউট্রন সংখ্যা",
+                  "label": "গ"
+                },
+                {
+                  "text": "যোজনী ইলেকট্রন সংখ্যা",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "ঘ",
+              "shortSolution": "সঠিক উত্তর: ঘ। একই group-এ valence electron সংখ্যা সাধারণত একই।",
+              "paper": "HSC Chem 2nd",
+              "subject": "chem-2nd",
+              "setType": "paper-wise-model-test",
+              "topic": "পর্যায় সারণি",
+              "difficulty": "Easy",
+              "probability": "Very Hot"
+            },
+            {
+              "id": "hsc-chem-2nd-paper-set-11-q07",
+              "question": "ইলেকট্রন বিন্যাসে s-orbital সর্বোচ্চ কয়টি ইলেকট্রন ধারণ করে?",
+              "options": [
+                {
+                  "text": "2",
+                  "label": "ক"
+                },
+                {
+                  "text": "10",
+                  "label": "খ"
+                },
+                {
+                  "text": "6",
+                  "label": "গ"
+                },
+                {
+                  "text": "14",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "ক",
+              "shortSolution": "সঠিক উত্তর: ক। s orbital-এ সর্বোচ্চ 2 electron থাকে।",
+              "paper": "HSC Chem 2nd",
+              "subject": "chem-2nd",
+              "setType": "paper-wise-model-test",
+              "topic": "পরমাণু গঠন",
+              "difficulty": "Easy",
+              "probability": "Board Favourite"
+            },
+            {
+              "id": "hsc-chem-2nd-paper-set-11-q08",
+              "question": "সমযোজী বন্ধন গঠিত হয় কীভাবে?",
+              "options": [
+                {
+                  "text": "ইলেকট্রন যুগল ভাগাভাগি করে",
+                  "label": "ক"
+                },
+                {
+                  "text": "ইলেকট্রন দান করে",
+                  "label": "খ"
+                },
+                {
+                  "text": "নিউট্রন ভাগ করে",
+                  "label": "গ"
+                },
+                {
+                  "text": "প্রোটন আদানপ্রদান করে",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "ক",
+              "shortSolution": "সঠিক উত্তর: ক। Covalent bond electron sharing দ্বারা গঠিত।",
+              "paper": "HSC Chem 2nd",
+              "subject": "chem-2nd",
+              "setType": "paper-wise-model-test",
+              "topic": "রাসায়নিক বন্ধন",
+              "difficulty": "Medium",
+              "probability": "Conceptual Trap"
+            },
+            {
+              "id": "hsc-chem-2nd-paper-set-11-q09",
+              "question": "i, ii, iii বিবেচনা করো: (i) pH<7 অম্লীয় (ii) pH>7 ক্ষারীয় (iii) pH=7 ক্ষারীয়। কোনটি সঠিক?",
+              "options": [
+                {
+                  "text": "i ও ii",
+                  "label": "ক"
+                },
+                {
+                  "text": "ii ও iii",
+                  "label": "খ"
+                },
+                {
+                  "text": "i ও iii",
+                  "label": "গ"
+                },
+                {
+                  "text": "i, ii ও iii",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "ক",
+              "shortSolution": "সঠিক উত্তর: ক। pH=7 neutral, তাই iii ভুল।",
+              "paper": "HSC Chem 2nd",
+              "subject": "chem-2nd",
+              "setType": "paper-wise-model-test",
+              "topic": "pH",
+              "difficulty": "Medium",
+              "probability": "Mega Hot"
+            },
+            {
+              "id": "hsc-chem-2nd-paper-set-11-q10",
+              "question": "ক্যাটালিস্ট কী করে?",
+              "options": [
+                {
+                  "text": "বিক্রিয়ায় সম্পূর্ণ শেষ হয়ে যায়",
+                  "label": "ক"
+                },
+                {
+                  "text": "শুধু তাপ দেয়",
+                  "label": "খ"
+                },
+                {
+                  "text": "শুধু রং বদলায়",
+                  "label": "গ"
+                },
+                {
+                  "text": "বিক্রিয়ার গতি পরিবর্তন করে",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "ঘ",
+              "shortSolution": "সঠিক উত্তর: ঘ। Catalyst নিজে স্থায়ীভাবে ব্যয় না হয়ে rate পরিবর্তন করে।",
+              "paper": "HSC Chem 2nd",
+              "subject": "chem-2nd",
+              "setType": "paper-wise-model-test",
+              "topic": "রাসায়নিক গতিবিদ্যা",
+              "difficulty": "Medium",
+              "probability": "Very Hot"
+            },
+            {
+              "id": "hsc-chem-2nd-paper-set-11-q11",
+              "question": "অ্যালকেনের সাধারণ সংকেত কোনটি?",
+              "options": [
+                {
+                  "text": "$C_nH_{2n+2}$",
+                  "label": "ক"
+                },
+                {
+                  "text": "$C_nH_n$",
+                  "label": "খ"
+                },
+                {
+                  "text": "$C_nH_{2n-2}$",
+                  "label": "গ"
+                },
+                {
+                  "text": "$C_nH_{2n}$",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "ক",
+              "shortSolution": "সঠিক উত্তর: ক। Alkane saturated hydrocarbon।",
+              "paper": "HSC Chem 2nd",
+              "subject": "chem-2nd",
+              "setType": "paper-wise-model-test",
+              "topic": "জৈব রসায়ন",
+              "difficulty": "Medium",
+              "probability": "Board Favourite"
+            },
+            {
+              "id": "hsc-chem-2nd-paper-set-11-q12",
+              "question": "অ্যালকিনের বৈশিষ্ট্যসূচক বন্ধন কোনটি?",
+              "options": [
+                {
+                  "text": "আয়নীয় বন্ধন",
+                  "label": "ক"
+                },
+                {
+                  "text": "ত্রিবন্ধন",
+                  "label": "খ"
+                },
+                {
+                  "text": "একক বন্ধন",
+                  "label": "গ"
+                },
+                {
+                  "text": "দ্বিবন্ধন",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "ঘ",
+              "shortSolution": "সঠিক উত্তর: ঘ। Alkene-এ C=C double bond থাকে।",
+              "paper": "HSC Chem 2nd",
+              "subject": "chem-2nd",
+              "setType": "paper-wise-model-test",
+              "topic": "জৈব রসায়ন",
+              "difficulty": "Medium",
+              "probability": "Conceptual Trap"
+            },
+            {
+              "id": "hsc-chem-2nd-paper-set-11-q13",
+              "question": "pH = 7 হলে দ্রবণটি কেমন?",
+              "options": [
+                {
+                  "text": "ক্ষারীয়",
+                  "label": "ক"
+                },
+                {
+                  "text": "অম্লীয়",
+                  "label": "খ"
+                },
+                {
+                  "text": "জারক",
+                  "label": "গ"
+                },
+                {
+                  "text": "নিরপেক্ষ",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "ঘ",
+              "shortSolution": "সঠিক উত্তর: ঘ। pH 7 neutral দ্রবণ নির্দেশ করে।",
+              "paper": "HSC Chem 2nd",
+              "subject": "chem-2nd",
+              "setType": "paper-wise-model-test",
+              "topic": "অম্ল-ক্ষার",
+              "difficulty": "Medium",
+              "probability": "Mega Hot"
+            },
+            {
+              "id": "hsc-chem-2nd-paper-set-11-q14",
+              "question": "অক্সিডেশন বলতে কী বোঝায়?",
+              "options": [
+                {
+                  "text": "নিউট্রন ত্যাগ",
+                  "label": "ক"
+                },
+                {
+                  "text": "ইলেকট্রন গ্রহণ",
+                  "label": "খ"
+                },
+                {
+                  "text": "ইলেকট্রন ত্যাগ",
+                  "label": "গ"
+                },
+                {
+                  "text": "প্রোটন গ্রহণ",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "গ",
+              "shortSolution": "সঠিক উত্তর: গ। অক্সিডেশন হলো electron loss।",
+              "paper": "HSC Chem 2nd",
+              "subject": "chem-2nd",
+              "setType": "paper-wise-model-test",
+              "topic": "জারণ-বিজারণ",
+              "difficulty": "Medium",
+              "probability": "Very Hot"
+            },
+            {
+              "id": "hsc-chem-2nd-paper-set-11-q15",
+              "question": "ইলেকট্রন গ্রহণ প্রক্রিয়াকে কী বলে?",
+              "options": [
+                {
+                  "text": "আয়নন",
+                  "label": "ক"
+                },
+                {
+                  "text": "বিজারণ",
+                  "label": "খ"
+                },
+                {
+                  "text": "উদ্বায়ীভবন",
+                  "label": "গ"
+                },
+                {
+                  "text": "জারণ",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "খ",
+              "shortSolution": "সঠিক উত্তর: খ। Reduction হলো electron gain।",
+              "paper": "HSC Chem 2nd",
+              "subject": "chem-2nd",
+              "setType": "paper-wise-model-test",
+              "topic": "জারণ-বিজারণ",
+              "difficulty": "Hard",
+              "probability": "Board Favourite"
+            },
+            {
+              "id": "hsc-chem-2nd-paper-set-11-q16",
+              "question": "13 mole $O_2$ গ্যাসে অণুর সংখ্যা কত?",
+              "options": [
+                {
+                  "text": "$13N_A$",
+                  "label": "ক"
+                },
+                {
+                  "text": "$13+N_A$",
+                  "label": "খ"
+                },
+                {
+                  "text": "$26N_A$",
+                  "label": "গ"
+                },
+                {
+                  "text": "$N_A/13$",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "ক",
+              "shortSolution": "সঠিক উত্তর: ক। 1 mole-এ Avogadro সংখ্যক কণা থাকে।",
+              "paper": "HSC Chem 2nd",
+              "subject": "chem-2nd",
+              "setType": "paper-wise-model-test",
+              "topic": "মোল ধারণা",
+              "difficulty": "Hard",
+              "probability": "Conceptual Trap"
+            },
+            {
+              "id": "hsc-chem-2nd-paper-set-11-q17",
+              "question": "আদর্শ গ্যাস সমীকরণ কোনটি?",
+              "options": [
+                {
+                  "text": "$P=nVRT$",
+                  "label": "ক"
+                },
+                {
+                  "text": "$PT=nRV$",
+                  "label": "খ"
+                },
+                {
+                  "text": "$V=nRTP$",
+                  "label": "গ"
+                },
+                {
+                  "text": "$PV=nRT$",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "ঘ",
+              "shortSolution": "সঠিক উত্তর: ঘ। Ideal gas equation হলো $PV=nRT$।",
+              "paper": "HSC Chem 2nd",
+              "subject": "chem-2nd",
+              "setType": "paper-wise-model-test",
+              "topic": "গ্যাস সূত্র",
+              "difficulty": "Hard",
+              "probability": "Mega Hot"
+            },
+            {
+              "id": "hsc-chem-2nd-paper-set-11-q18",
+              "question": "পর্যায় সারণির একই group-এর মৌলগুলোর কোন বৈশিষ্ট্য সাধারণত মিল থাকে?",
+              "options": [
+                {
+                  "text": "পারমাণবিক ভর",
+                  "label": "ক"
+                },
+                {
+                  "text": "নিউট্রন সংখ্যা",
+                  "label": "খ"
+                },
+                {
+                  "text": "যোজনী ইলেকট্রন সংখ্যা",
+                  "label": "গ"
+                },
+                {
+                  "text": "ভৌত অবস্থা",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "গ",
+              "shortSolution": "সঠিক উত্তর: গ। একই group-এ valence electron সংখ্যা সাধারণত একই।",
+              "paper": "HSC Chem 2nd",
+              "subject": "chem-2nd",
+              "setType": "paper-wise-model-test",
+              "topic": "পর্যায় সারণি",
+              "difficulty": "Hard",
+              "probability": "Very Hot"
+            },
+            {
+              "id": "hsc-chem-2nd-paper-set-11-q19",
+              "question": "ইলেকট্রন বিন্যাসে s-orbital সর্বোচ্চ কয়টি ইলেকট্রন ধারণ করে?",
+              "options": [
+                {
+                  "text": "14",
+                  "label": "ক"
+                },
+                {
+                  "text": "6",
+                  "label": "খ"
+                },
+                {
+                  "text": "10",
+                  "label": "গ"
+                },
+                {
+                  "text": "2",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "ঘ",
+              "shortSolution": "সঠিক উত্তর: ঘ। s orbital-এ সর্বোচ্চ 2 electron থাকে।",
+              "paper": "HSC Chem 2nd",
+              "subject": "chem-2nd",
+              "setType": "paper-wise-model-test",
+              "topic": "পরমাণু গঠন",
+              "difficulty": "Hard",
+              "probability": "Board Favourite"
+            },
+            {
+              "id": "hsc-chem-2nd-paper-set-11-q20",
+              "question": "সমযোজী বন্ধন গঠিত হয় কীভাবে?",
+              "options": [
+                {
+                  "text": "প্রোটন আদানপ্রদান করে",
+                  "label": "ক"
+                },
+                {
+                  "text": "নিউট্রন ভাগ করে",
+                  "label": "খ"
+                },
+                {
+                  "text": "ইলেকট্রন যুগল ভাগাভাগি করে",
+                  "label": "গ"
+                },
+                {
+                  "text": "ইলেকট্রন দান করে",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "গ",
+              "shortSolution": "সঠিক উত্তর: গ। Covalent bond electron sharing দ্বারা গঠিত।",
+              "paper": "HSC Chem 2nd",
+              "subject": "chem-2nd",
+              "setType": "paper-wise-model-test",
+              "topic": "রাসায়নিক বন্ধন",
+              "difficulty": "Hard",
+              "probability": "Conceptual Trap"
+            },
+            {
+              "id": "hsc-chem-2nd-paper-set-11-q21",
+              "question": "i, ii, iii বিবেচনা করো: (i) pH<7 অম্লীয় (ii) pH>7 ক্ষারীয় (iii) pH=7 ক্ষারীয়। কোনটি সঠিক?",
+              "options": [
+                {
+                  "text": "i, ii ও iii",
+                  "label": "ক"
+                },
+                {
+                  "text": "ii ও iii",
+                  "label": "খ"
+                },
+                {
+                  "text": "i ও ii",
+                  "label": "গ"
+                },
+                {
+                  "text": "i ও iii",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "গ",
+              "shortSolution": "সঠিক উত্তর: গ। pH=7 neutral, তাই iii ভুল।",
+              "paper": "HSC Chem 2nd",
+              "subject": "chem-2nd",
+              "setType": "paper-wise-model-test",
+              "topic": "pH",
+              "difficulty": "Hard",
+              "probability": "Mega Hot"
+            },
+            {
+              "id": "hsc-chem-2nd-paper-set-11-q22",
+              "question": "ক্যাটালিস্ট কী করে?",
+              "options": [
+                {
+                  "text": "বিক্রিয়ার গতি পরিবর্তন করে",
+                  "label": "ক"
+                },
+                {
+                  "text": "বিক্রিয়ায় সম্পূর্ণ শেষ হয়ে যায়",
+                  "label": "খ"
+                },
+                {
+                  "text": "শুধু তাপ দেয়",
+                  "label": "গ"
+                },
+                {
+                  "text": "শুধু রং বদলায়",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "ক",
+              "shortSolution": "সঠিক উত্তর: ক। Catalyst নিজে স্থায়ীভাবে ব্যয় না হয়ে rate পরিবর্তন করে।",
+              "paper": "HSC Chem 2nd",
+              "subject": "chem-2nd",
+              "setType": "paper-wise-model-test",
+              "topic": "রাসায়নিক গতিবিদ্যা",
+              "difficulty": "Board Standard",
+              "probability": "Very Hot"
+            },
+            {
+              "id": "hsc-chem-2nd-paper-set-11-q23",
+              "question": "অ্যালকেনের সাধারণ সংকেত কোনটি?",
+              "options": [
+                {
+                  "text": "$C_nH_n$",
+                  "label": "ক"
+                },
+                {
+                  "text": "$C_nH_{2n+2}$",
+                  "label": "খ"
+                },
+                {
+                  "text": "$C_nH_{2n}$",
+                  "label": "গ"
+                },
+                {
+                  "text": "$C_nH_{2n-2}$",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "খ",
+              "shortSolution": "সঠিক উত্তর: খ। Alkane saturated hydrocarbon।",
+              "paper": "HSC Chem 2nd",
+              "subject": "chem-2nd",
+              "setType": "paper-wise-model-test",
+              "topic": "জৈব রসায়ন",
+              "difficulty": "Board Standard",
+              "probability": "Board Favourite"
+            },
+            {
+              "id": "hsc-chem-2nd-paper-set-11-q24",
+              "question": "অ্যালকিনের বৈশিষ্ট্যসূচক বন্ধন কোনটি?",
+              "options": [
+                {
+                  "text": "দ্বিবন্ধন",
+                  "label": "ক"
+                },
+                {
+                  "text": "ত্রিবন্ধন",
+                  "label": "খ"
+                },
+                {
+                  "text": "আয়নীয় বন্ধন",
+                  "label": "গ"
+                },
+                {
+                  "text": "একক বন্ধন",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "ক",
+              "shortSolution": "সঠিক উত্তর: ক। Alkene-এ C=C double bond থাকে।",
+              "paper": "HSC Chem 2nd",
+              "subject": "chem-2nd",
+              "setType": "paper-wise-model-test",
+              "topic": "জৈব রসায়ন",
+              "difficulty": "Board Standard",
+              "probability": "Conceptual Trap"
+            },
+            {
+              "id": "hsc-chem-2nd-paper-set-11-q25",
+              "question": "pH = 7 হলে দ্রবণটি কেমন?",
+              "options": [
+                {
+                  "text": "জারক",
+                  "label": "ক"
+                },
+                {
+                  "text": "অম্লীয়",
+                  "label": "খ"
+                },
+                {
+                  "text": "ক্ষারীয়",
+                  "label": "গ"
+                },
+                {
+                  "text": "নিরপেক্ষ",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "ঘ",
+              "shortSolution": "সঠিক উত্তর: ঘ। pH 7 neutral দ্রবণ নির্দেশ করে।",
+              "paper": "HSC Chem 2nd",
+              "subject": "chem-2nd",
+              "setType": "paper-wise-model-test",
+              "topic": "অম্ল-ক্ষার",
+              "difficulty": "Board Standard",
+              "probability": "Mega Hot"
+            }
+          ]
+        },
+        {
+          "id": "hsc-chem-2nd-paper-set-12",
+          "title": "HSC Chem 2nd Paper-wise Model Test Set 12",
+          "setNo": "12",
+          "questions": [
+            {
+              "id": "hsc-chem-2nd-paper-set-12-q01",
+              "question": "pH = 7 হলে দ্রবণটি কেমন?",
+              "options": [
+                {
+                  "text": "অম্লীয়",
+                  "label": "ক"
+                },
+                {
+                  "text": "ক্ষারীয়",
+                  "label": "খ"
+                },
+                {
+                  "text": "নিরপেক্ষ",
+                  "label": "গ"
+                },
+                {
+                  "text": "জারক",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "গ",
+              "shortSolution": "সঠিক উত্তর: গ। pH 7 neutral দ্রবণ নির্দেশ করে।",
+              "paper": "HSC Chem 2nd",
+              "subject": "chem-2nd",
+              "setType": "paper-wise-model-test",
+              "topic": "অম্ল-ক্ষার",
+              "difficulty": "Easy",
+              "probability": "Very Hot"
+            },
+            {
+              "id": "hsc-chem-2nd-paper-set-12-q02",
+              "question": "অক্সিডেশন বলতে কী বোঝায়?",
+              "options": [
+                {
+                  "text": "নিউট্রন ত্যাগ",
+                  "label": "ক"
+                },
+                {
+                  "text": "প্রোটন গ্রহণ",
+                  "label": "খ"
+                },
+                {
+                  "text": "ইলেকট্রন ত্যাগ",
+                  "label": "গ"
+                },
+                {
+                  "text": "ইলেকট্রন গ্রহণ",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "গ",
+              "shortSolution": "সঠিক উত্তর: গ। অক্সিডেশন হলো electron loss।",
+              "paper": "HSC Chem 2nd",
+              "subject": "chem-2nd",
+              "setType": "paper-wise-model-test",
+              "topic": "জারণ-বিজারণ",
+              "difficulty": "Easy",
+              "probability": "Board Favourite"
+            },
+            {
+              "id": "hsc-chem-2nd-paper-set-12-q03",
+              "question": "ইলেকট্রন গ্রহণ প্রক্রিয়াকে কী বলে?",
+              "options": [
+                {
+                  "text": "জারণ",
+                  "label": "ক"
+                },
+                {
+                  "text": "উদ্বায়ীভবন",
+                  "label": "খ"
+                },
+                {
+                  "text": "আয়নন",
+                  "label": "গ"
+                },
+                {
+                  "text": "বিজারণ",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "ঘ",
+              "shortSolution": "সঠিক উত্তর: ঘ। Reduction হলো electron gain।",
+              "paper": "HSC Chem 2nd",
+              "subject": "chem-2nd",
+              "setType": "paper-wise-model-test",
+              "topic": "জারণ-বিজারণ",
+              "difficulty": "Easy",
+              "probability": "Conceptual Trap"
+            },
+            {
+              "id": "hsc-chem-2nd-paper-set-12-q04",
+              "question": "17 mole $O_2$ গ্যাসে অণুর সংখ্যা কত?",
+              "options": [
+                {
+                  "text": "$N_A/17$",
+                  "label": "ক"
+                },
+                {
+                  "text": "$17+N_A$",
+                  "label": "খ"
+                },
+                {
+                  "text": "$17N_A$",
+                  "label": "গ"
+                },
+                {
+                  "text": "$34N_A$",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "গ",
+              "shortSolution": "সঠিক উত্তর: গ। 1 mole-এ Avogadro সংখ্যক কণা থাকে।",
+              "paper": "HSC Chem 2nd",
+              "subject": "chem-2nd",
+              "setType": "paper-wise-model-test",
+              "topic": "মোল ধারণা",
+              "difficulty": "Easy",
+              "probability": "Mega Hot"
+            },
+            {
+              "id": "hsc-chem-2nd-paper-set-12-q05",
+              "question": "আদর্শ গ্যাস সমীকরণ কোনটি?",
+              "options": [
+                {
+                  "text": "$V=nRTP$",
+                  "label": "ক"
+                },
+                {
+                  "text": "$P=nVRT$",
+                  "label": "খ"
+                },
+                {
+                  "text": "$PV=nRT$",
+                  "label": "গ"
+                },
+                {
+                  "text": "$PT=nRV$",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "গ",
+              "shortSolution": "সঠিক উত্তর: গ। Ideal gas equation হলো $PV=nRT$।",
+              "paper": "HSC Chem 2nd",
+              "subject": "chem-2nd",
+              "setType": "paper-wise-model-test",
+              "topic": "গ্যাস সূত্র",
+              "difficulty": "Easy",
+              "probability": "Very Hot"
+            },
+            {
+              "id": "hsc-chem-2nd-paper-set-12-q06",
+              "question": "পর্যায় সারণির একই group-এর মৌলগুলোর কোন বৈশিষ্ট্য সাধারণত মিল থাকে?",
+              "options": [
+                {
+                  "text": "পারমাণবিক ভর",
+                  "label": "ক"
+                },
+                {
+                  "text": "ভৌত অবস্থা",
+                  "label": "খ"
+                },
+                {
+                  "text": "নিউট্রন সংখ্যা",
+                  "label": "গ"
+                },
+                {
+                  "text": "যোজনী ইলেকট্রন সংখ্যা",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "ঘ",
+              "shortSolution": "সঠিক উত্তর: ঘ। একই group-এ valence electron সংখ্যা সাধারণত একই।",
+              "paper": "HSC Chem 2nd",
+              "subject": "chem-2nd",
+              "setType": "paper-wise-model-test",
+              "topic": "পর্যায় সারণি",
+              "difficulty": "Easy",
+              "probability": "Board Favourite"
+            },
+            {
+              "id": "hsc-chem-2nd-paper-set-12-q07",
+              "question": "ইলেকট্রন বিন্যাসে s-orbital সর্বোচ্চ কয়টি ইলেকট্রন ধারণ করে?",
+              "options": [
+                {
+                  "text": "10",
+                  "label": "ক"
+                },
+                {
+                  "text": "6",
+                  "label": "খ"
+                },
+                {
+                  "text": "14",
+                  "label": "গ"
+                },
+                {
+                  "text": "2",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "ঘ",
+              "shortSolution": "সঠিক উত্তর: ঘ। s orbital-এ সর্বোচ্চ 2 electron থাকে।",
+              "paper": "HSC Chem 2nd",
+              "subject": "chem-2nd",
+              "setType": "paper-wise-model-test",
+              "topic": "পরমাণু গঠন",
+              "difficulty": "Easy",
+              "probability": "Conceptual Trap"
+            },
+            {
+              "id": "hsc-chem-2nd-paper-set-12-q08",
+              "question": "সমযোজী বন্ধন গঠিত হয় কীভাবে?",
+              "options": [
+                {
+                  "text": "ইলেকট্রন যুগল ভাগাভাগি করে",
+                  "label": "ক"
+                },
+                {
+                  "text": "প্রোটন আদানপ্রদান করে",
+                  "label": "খ"
+                },
+                {
+                  "text": "ইলেকট্রন দান করে",
+                  "label": "গ"
+                },
+                {
+                  "text": "নিউট্রন ভাগ করে",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "ক",
+              "shortSolution": "সঠিক উত্তর: ক। Covalent bond electron sharing দ্বারা গঠিত।",
+              "paper": "HSC Chem 2nd",
+              "subject": "chem-2nd",
+              "setType": "paper-wise-model-test",
+              "topic": "রাসায়নিক বন্ধন",
+              "difficulty": "Medium",
+              "probability": "Mega Hot"
+            },
+            {
+              "id": "hsc-chem-2nd-paper-set-12-q09",
+              "question": "i, ii, iii বিবেচনা করো: (i) pH<7 অম্লীয় (ii) pH>7 ক্ষারীয় (iii) pH=7 ক্ষারীয়। কোনটি সঠিক?",
+              "options": [
+                {
+                  "text": "ii ও iii",
+                  "label": "ক"
+                },
+                {
+                  "text": "i ও iii",
+                  "label": "খ"
+                },
+                {
+                  "text": "i ও ii",
+                  "label": "গ"
+                },
+                {
+                  "text": "i, ii ও iii",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "গ",
+              "shortSolution": "সঠিক উত্তর: গ। pH=7 neutral, তাই iii ভুল।",
+              "paper": "HSC Chem 2nd",
+              "subject": "chem-2nd",
+              "setType": "paper-wise-model-test",
+              "topic": "pH",
+              "difficulty": "Medium",
+              "probability": "Very Hot"
+            },
+            {
+              "id": "hsc-chem-2nd-paper-set-12-q10",
+              "question": "ক্যাটালিস্ট কী করে?",
+              "options": [
+                {
+                  "text": "শুধু রং বদলায়",
+                  "label": "ক"
+                },
+                {
+                  "text": "শুধু তাপ দেয়",
+                  "label": "খ"
+                },
+                {
+                  "text": "বিক্রিয়ার গতি পরিবর্তন করে",
+                  "label": "গ"
+                },
+                {
+                  "text": "বিক্রিয়ায় সম্পূর্ণ শেষ হয়ে যায়",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "গ",
+              "shortSolution": "সঠিক উত্তর: গ। Catalyst নিজে স্থায়ীভাবে ব্যয় না হয়ে rate পরিবর্তন করে।",
+              "paper": "HSC Chem 2nd",
+              "subject": "chem-2nd",
+              "setType": "paper-wise-model-test",
+              "topic": "রাসায়নিক গতিবিদ্যা",
+              "difficulty": "Medium",
+              "probability": "Board Favourite"
+            },
+            {
+              "id": "hsc-chem-2nd-paper-set-12-q11",
+              "question": "অ্যালকেনের সাধারণ সংকেত কোনটি?",
+              "options": [
+                {
+                  "text": "$C_nH_{2n+2}$",
+                  "label": "ক"
+                },
+                {
+                  "text": "$C_nH_{2n}$",
+                  "label": "খ"
+                },
+                {
+                  "text": "$C_nH_{2n-2}$",
+                  "label": "গ"
+                },
+                {
+                  "text": "$C_nH_n$",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "ক",
+              "shortSolution": "সঠিক উত্তর: ক। Alkane saturated hydrocarbon।",
+              "paper": "HSC Chem 2nd",
+              "subject": "chem-2nd",
+              "setType": "paper-wise-model-test",
+              "topic": "জৈব রসায়ন",
+              "difficulty": "Medium",
+              "probability": "Conceptual Trap"
+            },
+            {
+              "id": "hsc-chem-2nd-paper-set-12-q12",
+              "question": "অ্যালকিনের বৈশিষ্ট্যসূচক বন্ধন কোনটি?",
+              "options": [
+                {
+                  "text": "আয়নীয় বন্ধন",
+                  "label": "ক"
+                },
+                {
+                  "text": "ত্রিবন্ধন",
+                  "label": "খ"
+                },
+                {
+                  "text": "দ্বিবন্ধন",
+                  "label": "গ"
+                },
+                {
+                  "text": "একক বন্ধন",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "গ",
+              "shortSolution": "সঠিক উত্তর: গ। Alkene-এ C=C double bond থাকে।",
+              "paper": "HSC Chem 2nd",
+              "subject": "chem-2nd",
+              "setType": "paper-wise-model-test",
+              "topic": "জৈব রসায়ন",
+              "difficulty": "Medium",
+              "probability": "Mega Hot"
+            },
+            {
+              "id": "hsc-chem-2nd-paper-set-12-q13",
+              "question": "pH = 7 হলে দ্রবণটি কেমন?",
+              "options": [
+                {
+                  "text": "অম্লীয়",
+                  "label": "ক"
+                },
+                {
+                  "text": "নিরপেক্ষ",
+                  "label": "খ"
+                },
+                {
+                  "text": "ক্ষারীয়",
+                  "label": "গ"
+                },
+                {
+                  "text": "জারক",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "খ",
+              "shortSolution": "সঠিক উত্তর: খ। pH 7 neutral দ্রবণ নির্দেশ করে।",
+              "paper": "HSC Chem 2nd",
+              "subject": "chem-2nd",
+              "setType": "paper-wise-model-test",
+              "topic": "অম্ল-ক্ষার",
+              "difficulty": "Medium",
+              "probability": "Very Hot"
+            },
+            {
+              "id": "hsc-chem-2nd-paper-set-12-q14",
+              "question": "অক্সিডেশন বলতে কী বোঝায়?",
+              "options": [
+                {
+                  "text": "ইলেকট্রন ত্যাগ",
+                  "label": "ক"
+                },
+                {
+                  "text": "প্রোটন গ্রহণ",
+                  "label": "খ"
+                },
+                {
+                  "text": "নিউট্রন ত্যাগ",
+                  "label": "গ"
+                },
+                {
+                  "text": "ইলেকট্রন গ্রহণ",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "ক",
+              "shortSolution": "সঠিক উত্তর: ক। অক্সিডেশন হলো electron loss।",
+              "paper": "HSC Chem 2nd",
+              "subject": "chem-2nd",
+              "setType": "paper-wise-model-test",
+              "topic": "জারণ-বিজারণ",
+              "difficulty": "Medium",
+              "probability": "Board Favourite"
+            },
+            {
+              "id": "hsc-chem-2nd-paper-set-12-q15",
+              "question": "ইলেকট্রন গ্রহণ প্রক্রিয়াকে কী বলে?",
+              "options": [
+                {
+                  "text": "উদ্বায়ীভবন",
+                  "label": "ক"
+                },
+                {
+                  "text": "বিজারণ",
+                  "label": "খ"
+                },
+                {
+                  "text": "আয়নন",
+                  "label": "গ"
+                },
+                {
+                  "text": "জারণ",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "খ",
+              "shortSolution": "সঠিক উত্তর: খ। Reduction হলো electron gain।",
+              "paper": "HSC Chem 2nd",
+              "subject": "chem-2nd",
+              "setType": "paper-wise-model-test",
+              "topic": "জারণ-বিজারণ",
+              "difficulty": "Hard",
+              "probability": "Conceptual Trap"
+            },
+            {
+              "id": "hsc-chem-2nd-paper-set-12-q16",
+              "question": "14 mole $O_2$ গ্যাসে অণুর সংখ্যা কত?",
+              "options": [
+                {
+                  "text": "$14N_A$",
+                  "label": "ক"
+                },
+                {
+                  "text": "$N_A/14$",
+                  "label": "খ"
+                },
+                {
+                  "text": "$14+N_A$",
+                  "label": "গ"
+                },
+                {
+                  "text": "$28N_A$",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "ক",
+              "shortSolution": "সঠিক উত্তর: ক। 1 mole-এ Avogadro সংখ্যক কণা থাকে।",
+              "paper": "HSC Chem 2nd",
+              "subject": "chem-2nd",
+              "setType": "paper-wise-model-test",
+              "topic": "মোল ধারণা",
+              "difficulty": "Hard",
+              "probability": "Mega Hot"
+            },
+            {
+              "id": "hsc-chem-2nd-paper-set-12-q17",
+              "question": "আদর্শ গ্যাস সমীকরণ কোনটি?",
+              "options": [
+                {
+                  "text": "$V=nRTP$",
+                  "label": "ক"
+                },
+                {
+                  "text": "$PT=nRV$",
+                  "label": "খ"
+                },
+                {
+                  "text": "$PV=nRT$",
+                  "label": "গ"
+                },
+                {
+                  "text": "$P=nVRT$",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "গ",
+              "shortSolution": "সঠিক উত্তর: গ। Ideal gas equation হলো $PV=nRT$।",
+              "paper": "HSC Chem 2nd",
+              "subject": "chem-2nd",
+              "setType": "paper-wise-model-test",
+              "topic": "গ্যাস সূত্র",
+              "difficulty": "Hard",
+              "probability": "Very Hot"
+            },
+            {
+              "id": "hsc-chem-2nd-paper-set-12-q18",
+              "question": "পর্যায় সারণির একই group-এর মৌলগুলোর কোন বৈশিষ্ট্য সাধারণত মিল থাকে?",
+              "options": [
+                {
+                  "text": "পারমাণবিক ভর",
+                  "label": "ক"
+                },
+                {
+                  "text": "ভৌত অবস্থা",
+                  "label": "খ"
+                },
+                {
+                  "text": "নিউট্রন সংখ্যা",
+                  "label": "গ"
+                },
+                {
+                  "text": "যোজনী ইলেকট্রন সংখ্যা",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "ঘ",
+              "shortSolution": "সঠিক উত্তর: ঘ। একই group-এ valence electron সংখ্যা সাধারণত একই।",
+              "paper": "HSC Chem 2nd",
+              "subject": "chem-2nd",
+              "setType": "paper-wise-model-test",
+              "topic": "পর্যায় সারণি",
+              "difficulty": "Hard",
+              "probability": "Board Favourite"
+            },
+            {
+              "id": "hsc-chem-2nd-paper-set-12-q19",
+              "question": "ইলেকট্রন বিন্যাসে s-orbital সর্বোচ্চ কয়টি ইলেকট্রন ধারণ করে?",
+              "options": [
+                {
+                  "text": "10",
+                  "label": "ক"
+                },
+                {
+                  "text": "6",
+                  "label": "খ"
+                },
+                {
+                  "text": "14",
+                  "label": "গ"
+                },
+                {
+                  "text": "2",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "ঘ",
+              "shortSolution": "সঠিক উত্তর: ঘ। s orbital-এ সর্বোচ্চ 2 electron থাকে।",
+              "paper": "HSC Chem 2nd",
+              "subject": "chem-2nd",
+              "setType": "paper-wise-model-test",
+              "topic": "পরমাণু গঠন",
+              "difficulty": "Hard",
+              "probability": "Conceptual Trap"
+            },
+            {
+              "id": "hsc-chem-2nd-paper-set-12-q20",
+              "question": "সমযোজী বন্ধন গঠিত হয় কীভাবে?",
+              "options": [
+                {
+                  "text": "ইলেকট্রন দান করে",
+                  "label": "ক"
+                },
+                {
+                  "text": "প্রোটন আদানপ্রদান করে",
+                  "label": "খ"
+                },
+                {
+                  "text": "নিউট্রন ভাগ করে",
+                  "label": "গ"
+                },
+                {
+                  "text": "ইলেকট্রন যুগল ভাগাভাগি করে",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "ঘ",
+              "shortSolution": "সঠিক উত্তর: ঘ। Covalent bond electron sharing দ্বারা গঠিত।",
+              "paper": "HSC Chem 2nd",
+              "subject": "chem-2nd",
+              "setType": "paper-wise-model-test",
+              "topic": "রাসায়নিক বন্ধন",
+              "difficulty": "Hard",
+              "probability": "Mega Hot"
+            },
+            {
+              "id": "hsc-chem-2nd-paper-set-12-q21",
+              "question": "i, ii, iii বিবেচনা করো: (i) pH<7 অম্লীয় (ii) pH>7 ক্ষারীয় (iii) pH=7 ক্ষারীয়। কোনটি সঠিক?",
+              "options": [
+                {
+                  "text": "i ও iii",
+                  "label": "ক"
+                },
+                {
+                  "text": "i ও ii",
+                  "label": "খ"
+                },
+                {
+                  "text": "ii ও iii",
+                  "label": "গ"
+                },
+                {
+                  "text": "i, ii ও iii",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "খ",
+              "shortSolution": "সঠিক উত্তর: খ। pH=7 neutral, তাই iii ভুল।",
+              "paper": "HSC Chem 2nd",
+              "subject": "chem-2nd",
+              "setType": "paper-wise-model-test",
+              "topic": "pH",
+              "difficulty": "Hard",
+              "probability": "Very Hot"
+            },
+            {
+              "id": "hsc-chem-2nd-paper-set-12-q22",
+              "question": "ক্যাটালিস্ট কী করে?",
+              "options": [
+                {
+                  "text": "শুধু রং বদলায়",
+                  "label": "ক"
+                },
+                {
+                  "text": "বিক্রিয়ার গতি পরিবর্তন করে",
+                  "label": "খ"
+                },
+                {
+                  "text": "বিক্রিয়ায় সম্পূর্ণ শেষ হয়ে যায়",
+                  "label": "গ"
+                },
+                {
+                  "text": "শুধু তাপ দেয়",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "খ",
+              "shortSolution": "সঠিক উত্তর: খ। Catalyst নিজে স্থায়ীভাবে ব্যয় না হয়ে rate পরিবর্তন করে।",
+              "paper": "HSC Chem 2nd",
+              "subject": "chem-2nd",
+              "setType": "paper-wise-model-test",
+              "topic": "রাসায়নিক গতিবিদ্যা",
+              "difficulty": "Board Standard",
+              "probability": "Board Favourite"
+            },
+            {
+              "id": "hsc-chem-2nd-paper-set-12-q23",
+              "question": "অ্যালকেনের সাধারণ সংকেত কোনটি?",
+              "options": [
+                {
+                  "text": "$C_nH_n$",
+                  "label": "ক"
+                },
+                {
+                  "text": "$C_nH_{2n-2}$",
+                  "label": "খ"
+                },
+                {
+                  "text": "$C_nH_{2n+2}$",
+                  "label": "গ"
+                },
+                {
+                  "text": "$C_nH_{2n}$",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "গ",
+              "shortSolution": "সঠিক উত্তর: গ। Alkane saturated hydrocarbon।",
+              "paper": "HSC Chem 2nd",
+              "subject": "chem-2nd",
+              "setType": "paper-wise-model-test",
+              "topic": "জৈব রসায়ন",
+              "difficulty": "Board Standard",
+              "probability": "Conceptual Trap"
+            },
+            {
+              "id": "hsc-chem-2nd-paper-set-12-q24",
+              "question": "অ্যালকিনের বৈশিষ্ট্যসূচক বন্ধন কোনটি?",
+              "options": [
+                {
+                  "text": "আয়নীয় বন্ধন",
+                  "label": "ক"
+                },
+                {
+                  "text": "ত্রিবন্ধন",
+                  "label": "খ"
+                },
+                {
+                  "text": "একক বন্ধন",
+                  "label": "গ"
+                },
+                {
+                  "text": "দ্বিবন্ধন",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "ঘ",
+              "shortSolution": "সঠিক উত্তর: ঘ। Alkene-এ C=C double bond থাকে।",
+              "paper": "HSC Chem 2nd",
+              "subject": "chem-2nd",
+              "setType": "paper-wise-model-test",
+              "topic": "জৈব রসায়ন",
+              "difficulty": "Board Standard",
+              "probability": "Mega Hot"
+            },
+            {
+              "id": "hsc-chem-2nd-paper-set-12-q25",
+              "question": "pH = 7 হলে দ্রবণটি কেমন?",
+              "options": [
+                {
+                  "text": "জারক",
+                  "label": "ক"
+                },
+                {
+                  "text": "নিরপেক্ষ",
+                  "label": "খ"
+                },
+                {
+                  "text": "ক্ষারীয়",
+                  "label": "গ"
+                },
+                {
+                  "text": "অম্লীয়",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "খ",
+              "shortSolution": "সঠিক উত্তর: খ। pH 7 neutral দ্রবণ নির্দেশ করে।",
+              "paper": "HSC Chem 2nd",
+              "subject": "chem-2nd",
+              "setType": "paper-wise-model-test",
+              "topic": "অম্ল-ক্ষার",
+              "difficulty": "Board Standard",
+              "probability": "Very Hot"
+            }
+          ]
+        },
+        {
+          "id": "hsc-chem-2nd-paper-set-13",
+          "title": "HSC Chem 2nd Paper-wise Model Test Set 13",
+          "setNo": "13",
+          "questions": [
+            {
+              "id": "hsc-chem-2nd-paper-set-13-q01",
+              "question": "pH = 7 হলে দ্রবণটি কেমন?",
+              "options": [
+                {
+                  "text": "অম্লীয়",
+                  "label": "ক"
+                },
+                {
+                  "text": "ক্ষারীয়",
+                  "label": "খ"
+                },
+                {
+                  "text": "নিরপেক্ষ",
+                  "label": "গ"
+                },
+                {
+                  "text": "জারক",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "গ",
+              "shortSolution": "সঠিক উত্তর: গ। pH 7 neutral দ্রবণ নির্দেশ করে।",
+              "paper": "HSC Chem 2nd",
+              "subject": "chem-2nd",
+              "setType": "paper-wise-model-test",
+              "topic": "অম্ল-ক্ষার",
+              "difficulty": "Easy",
+              "probability": "Board Favourite"
+            },
+            {
+              "id": "hsc-chem-2nd-paper-set-13-q02",
+              "question": "অক্সিডেশন বলতে কী বোঝায়?",
+              "options": [
+                {
+                  "text": "প্রোটন গ্রহণ",
+                  "label": "ক"
+                },
+                {
+                  "text": "নিউট্রন ত্যাগ",
+                  "label": "খ"
+                },
+                {
+                  "text": "ইলেকট্রন গ্রহণ",
+                  "label": "গ"
+                },
+                {
+                  "text": "ইলেকট্রন ত্যাগ",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "ঘ",
+              "shortSolution": "সঠিক উত্তর: ঘ। অক্সিডেশন হলো electron loss।",
+              "paper": "HSC Chem 2nd",
+              "subject": "chem-2nd",
+              "setType": "paper-wise-model-test",
+              "topic": "জারণ-বিজারণ",
+              "difficulty": "Easy",
+              "probability": "Conceptual Trap"
+            },
+            {
+              "id": "hsc-chem-2nd-paper-set-13-q03",
+              "question": "ইলেকট্রন গ্রহণ প্রক্রিয়াকে কী বলে?",
+              "options": [
+                {
+                  "text": "বিজারণ",
+                  "label": "ক"
+                },
+                {
+                  "text": "জারণ",
+                  "label": "খ"
+                },
+                {
+                  "text": "উদ্বায়ীভবন",
+                  "label": "গ"
+                },
+                {
+                  "text": "আয়নন",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "ক",
+              "shortSolution": "সঠিক উত্তর: ক। Reduction হলো electron gain।",
+              "paper": "HSC Chem 2nd",
+              "subject": "chem-2nd",
+              "setType": "paper-wise-model-test",
+              "topic": "জারণ-বিজারণ",
+              "difficulty": "Easy",
+              "probability": "Mega Hot"
+            },
+            {
+              "id": "hsc-chem-2nd-paper-set-13-q04",
+              "question": "18 mole $O_2$ গ্যাসে অণুর সংখ্যা কত?",
+              "options": [
+                {
+                  "text": "$18N_A$",
+                  "label": "ক"
+                },
+                {
+                  "text": "$36N_A$",
+                  "label": "খ"
+                },
+                {
+                  "text": "$N_A/18$",
+                  "label": "গ"
+                },
+                {
+                  "text": "$18+N_A$",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "ক",
+              "shortSolution": "সঠিক উত্তর: ক। 1 mole-এ Avogadro সংখ্যক কণা থাকে।",
+              "paper": "HSC Chem 2nd",
+              "subject": "chem-2nd",
+              "setType": "paper-wise-model-test",
+              "topic": "মোল ধারণা",
+              "difficulty": "Easy",
+              "probability": "Very Hot"
+            },
+            {
+              "id": "hsc-chem-2nd-paper-set-13-q05",
+              "question": "আদর্শ গ্যাস সমীকরণ কোনটি?",
+              "options": [
+                {
+                  "text": "$PV=nRT$",
+                  "label": "ক"
+                },
+                {
+                  "text": "$P=nVRT$",
+                  "label": "খ"
+                },
+                {
+                  "text": "$V=nRTP$",
+                  "label": "গ"
+                },
+                {
+                  "text": "$PT=nRV$",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "ক",
+              "shortSolution": "সঠিক উত্তর: ক। Ideal gas equation হলো $PV=nRT$।",
+              "paper": "HSC Chem 2nd",
+              "subject": "chem-2nd",
+              "setType": "paper-wise-model-test",
+              "topic": "গ্যাস সূত্র",
+              "difficulty": "Easy",
+              "probability": "Board Favourite"
+            },
+            {
+              "id": "hsc-chem-2nd-paper-set-13-q06",
+              "question": "পর্যায় সারণির একই group-এর মৌলগুলোর কোন বৈশিষ্ট্য সাধারণত মিল থাকে?",
+              "options": [
+                {
+                  "text": "ভৌত অবস্থা",
+                  "label": "ক"
+                },
+                {
+                  "text": "নিউট্রন সংখ্যা",
+                  "label": "খ"
+                },
+                {
+                  "text": "পারমাণবিক ভর",
+                  "label": "গ"
+                },
+                {
+                  "text": "যোজনী ইলেকট্রন সংখ্যা",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "ঘ",
+              "shortSolution": "সঠিক উত্তর: ঘ। একই group-এ valence electron সংখ্যা সাধারণত একই।",
+              "paper": "HSC Chem 2nd",
+              "subject": "chem-2nd",
+              "setType": "paper-wise-model-test",
+              "topic": "পর্যায় সারণি",
+              "difficulty": "Easy",
+              "probability": "Conceptual Trap"
+            },
+            {
+              "id": "hsc-chem-2nd-paper-set-13-q07",
+              "question": "ইলেকট্রন বিন্যাসে s-orbital সর্বোচ্চ কয়টি ইলেকট্রন ধারণ করে?",
+              "options": [
+                {
+                  "text": "14",
+                  "label": "ক"
+                },
+                {
+                  "text": "10",
+                  "label": "খ"
+                },
+                {
+                  "text": "2",
+                  "label": "গ"
+                },
+                {
+                  "text": "6",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "গ",
+              "shortSolution": "সঠিক উত্তর: গ। s orbital-এ সর্বোচ্চ 2 electron থাকে।",
+              "paper": "HSC Chem 2nd",
+              "subject": "chem-2nd",
+              "setType": "paper-wise-model-test",
+              "topic": "পরমাণু গঠন",
+              "difficulty": "Easy",
+              "probability": "Mega Hot"
+            },
+            {
+              "id": "hsc-chem-2nd-paper-set-13-q08",
+              "question": "সমযোজী বন্ধন গঠিত হয় কীভাবে?",
+              "options": [
+                {
+                  "text": "ইলেকট্রন দান করে",
+                  "label": "ক"
+                },
+                {
+                  "text": "ইলেকট্রন যুগল ভাগাভাগি করে",
+                  "label": "খ"
+                },
+                {
+                  "text": "নিউট্রন ভাগ করে",
+                  "label": "গ"
+                },
+                {
+                  "text": "প্রোটন আদানপ্রদান করে",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "খ",
+              "shortSolution": "সঠিক উত্তর: খ। Covalent bond electron sharing দ্বারা গঠিত।",
+              "paper": "HSC Chem 2nd",
+              "subject": "chem-2nd",
+              "setType": "paper-wise-model-test",
+              "topic": "রাসায়নিক বন্ধন",
+              "difficulty": "Medium",
+              "probability": "Very Hot"
+            },
+            {
+              "id": "hsc-chem-2nd-paper-set-13-q09",
+              "question": "i, ii, iii বিবেচনা করো: (i) pH<7 অম্লীয় (ii) pH>7 ক্ষারীয় (iii) pH=7 ক্ষারীয়। কোনটি সঠিক?",
+              "options": [
+                {
+                  "text": "ii ও iii",
+                  "label": "ক"
+                },
+                {
+                  "text": "i, ii ও iii",
+                  "label": "খ"
+                },
+                {
+                  "text": "i ও ii",
+                  "label": "গ"
+                },
+                {
+                  "text": "i ও iii",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "গ",
+              "shortSolution": "সঠিক উত্তর: গ। pH=7 neutral, তাই iii ভুল।",
+              "paper": "HSC Chem 2nd",
+              "subject": "chem-2nd",
+              "setType": "paper-wise-model-test",
+              "topic": "pH",
+              "difficulty": "Medium",
+              "probability": "Board Favourite"
+            },
+            {
+              "id": "hsc-chem-2nd-paper-set-13-q10",
+              "question": "ক্যাটালিস্ট কী করে?",
+              "options": [
+                {
+                  "text": "বিক্রিয়ায় সম্পূর্ণ শেষ হয়ে যায়",
+                  "label": "ক"
+                },
+                {
+                  "text": "শুধু তাপ দেয়",
+                  "label": "খ"
+                },
+                {
+                  "text": "বিক্রিয়ার গতি পরিবর্তন করে",
+                  "label": "গ"
+                },
+                {
+                  "text": "শুধু রং বদলায়",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "গ",
+              "shortSolution": "সঠিক উত্তর: গ। Catalyst নিজে স্থায়ীভাবে ব্যয় না হয়ে rate পরিবর্তন করে।",
+              "paper": "HSC Chem 2nd",
+              "subject": "chem-2nd",
+              "setType": "paper-wise-model-test",
+              "topic": "রাসায়নিক গতিবিদ্যা",
+              "difficulty": "Medium",
+              "probability": "Conceptual Trap"
+            },
+            {
+              "id": "hsc-chem-2nd-paper-set-13-q11",
+              "question": "অ্যালকেনের সাধারণ সংকেত কোনটি?",
+              "options": [
+                {
+                  "text": "$C_nH_{2n}$",
+                  "label": "ক"
+                },
+                {
+                  "text": "$C_nH_n$",
+                  "label": "খ"
+                },
+                {
+                  "text": "$C_nH_{2n+2}$",
+                  "label": "গ"
+                },
+                {
+                  "text": "$C_nH_{2n-2}$",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "গ",
+              "shortSolution": "সঠিক উত্তর: গ। Alkane saturated hydrocarbon।",
+              "paper": "HSC Chem 2nd",
+              "subject": "chem-2nd",
+              "setType": "paper-wise-model-test",
+              "topic": "জৈব রসায়ন",
+              "difficulty": "Medium",
+              "probability": "Mega Hot"
+            },
+            {
+              "id": "hsc-chem-2nd-paper-set-13-q12",
+              "question": "অ্যালকিনের বৈশিষ্ট্যসূচক বন্ধন কোনটি?",
+              "options": [
+                {
+                  "text": "দ্বিবন্ধন",
+                  "label": "ক"
+                },
+                {
+                  "text": "ত্রিবন্ধন",
+                  "label": "খ"
+                },
+                {
+                  "text": "আয়নীয় বন্ধন",
+                  "label": "গ"
+                },
+                {
+                  "text": "একক বন্ধন",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "ক",
+              "shortSolution": "সঠিক উত্তর: ক। Alkene-এ C=C double bond থাকে।",
+              "paper": "HSC Chem 2nd",
+              "subject": "chem-2nd",
+              "setType": "paper-wise-model-test",
+              "topic": "জৈব রসায়ন",
+              "difficulty": "Medium",
+              "probability": "Very Hot"
+            },
+            {
+              "id": "hsc-chem-2nd-paper-set-13-q13",
+              "question": "pH = 7 হলে দ্রবণটি কেমন?",
+              "options": [
+                {
+                  "text": "অম্লীয়",
+                  "label": "ক"
+                },
+                {
+                  "text": "নিরপেক্ষ",
+                  "label": "খ"
+                },
+                {
+                  "text": "জারক",
+                  "label": "গ"
+                },
+                {
+                  "text": "ক্ষারীয়",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "খ",
+              "shortSolution": "সঠিক উত্তর: খ। pH 7 neutral দ্রবণ নির্দেশ করে।",
+              "paper": "HSC Chem 2nd",
+              "subject": "chem-2nd",
+              "setType": "paper-wise-model-test",
+              "topic": "অম্ল-ক্ষার",
+              "difficulty": "Medium",
+              "probability": "Board Favourite"
+            },
+            {
+              "id": "hsc-chem-2nd-paper-set-13-q14",
+              "question": "অক্সিডেশন বলতে কী বোঝায়?",
+              "options": [
+                {
+                  "text": "নিউট্রন ত্যাগ",
+                  "label": "ক"
+                },
+                {
+                  "text": "ইলেকট্রন গ্রহণ",
+                  "label": "খ"
+                },
+                {
+                  "text": "প্রোটন গ্রহণ",
+                  "label": "গ"
+                },
+                {
+                  "text": "ইলেকট্রন ত্যাগ",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "ঘ",
+              "shortSolution": "সঠিক উত্তর: ঘ। অক্সিডেশন হলো electron loss।",
+              "paper": "HSC Chem 2nd",
+              "subject": "chem-2nd",
+              "setType": "paper-wise-model-test",
+              "topic": "জারণ-বিজারণ",
+              "difficulty": "Medium",
+              "probability": "Conceptual Trap"
+            },
+            {
+              "id": "hsc-chem-2nd-paper-set-13-q15",
+              "question": "ইলেকট্রন গ্রহণ প্রক্রিয়াকে কী বলে?",
+              "options": [
+                {
+                  "text": "জারণ",
+                  "label": "ক"
+                },
+                {
+                  "text": "উদ্বায়ীভবন",
+                  "label": "খ"
+                },
+                {
+                  "text": "বিজারণ",
+                  "label": "গ"
+                },
+                {
+                  "text": "আয়নন",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "গ",
+              "shortSolution": "সঠিক উত্তর: গ। Reduction হলো electron gain।",
+              "paper": "HSC Chem 2nd",
+              "subject": "chem-2nd",
+              "setType": "paper-wise-model-test",
+              "topic": "জারণ-বিজারণ",
+              "difficulty": "Hard",
+              "probability": "Mega Hot"
+            },
+            {
+              "id": "hsc-chem-2nd-paper-set-13-q16",
+              "question": "15 mole $O_2$ গ্যাসে অণুর সংখ্যা কত?",
+              "options": [
+                {
+                  "text": "$N_A/15$",
+                  "label": "ক"
+                },
+                {
+                  "text": "$15+N_A$",
+                  "label": "খ"
+                },
+                {
+                  "text": "$30N_A$",
+                  "label": "গ"
+                },
+                {
+                  "text": "$15N_A$",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "ঘ",
+              "shortSolution": "সঠিক উত্তর: ঘ। 1 mole-এ Avogadro সংখ্যক কণা থাকে।",
+              "paper": "HSC Chem 2nd",
+              "subject": "chem-2nd",
+              "setType": "paper-wise-model-test",
+              "topic": "মোল ধারণা",
+              "difficulty": "Hard",
+              "probability": "Very Hot"
+            },
+            {
+              "id": "hsc-chem-2nd-paper-set-13-q17",
+              "question": "আদর্শ গ্যাস সমীকরণ কোনটি?",
+              "options": [
+                {
+                  "text": "$V=nRTP$",
+                  "label": "ক"
+                },
+                {
+                  "text": "$PT=nRV$",
+                  "label": "খ"
+                },
+                {
+                  "text": "$PV=nRT$",
+                  "label": "গ"
+                },
+                {
+                  "text": "$P=nVRT$",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "গ",
+              "shortSolution": "সঠিক উত্তর: গ। Ideal gas equation হলো $PV=nRT$।",
+              "paper": "HSC Chem 2nd",
+              "subject": "chem-2nd",
+              "setType": "paper-wise-model-test",
+              "topic": "গ্যাস সূত্র",
+              "difficulty": "Hard",
+              "probability": "Board Favourite"
+            },
+            {
+              "id": "hsc-chem-2nd-paper-set-13-q18",
+              "question": "পর্যায় সারণির একই group-এর মৌলগুলোর কোন বৈশিষ্ট্য সাধারণত মিল থাকে?",
+              "options": [
+                {
+                  "text": "যোজনী ইলেকট্রন সংখ্যা",
+                  "label": "ক"
+                },
+                {
+                  "text": "ভৌত অবস্থা",
+                  "label": "খ"
+                },
+                {
+                  "text": "পারমাণবিক ভর",
+                  "label": "গ"
+                },
+                {
+                  "text": "নিউট্রন সংখ্যা",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "ক",
+              "shortSolution": "সঠিক উত্তর: ক। একই group-এ valence electron সংখ্যা সাধারণত একই।",
+              "paper": "HSC Chem 2nd",
+              "subject": "chem-2nd",
+              "setType": "paper-wise-model-test",
+              "topic": "পর্যায় সারণি",
+              "difficulty": "Hard",
+              "probability": "Conceptual Trap"
+            },
+            {
+              "id": "hsc-chem-2nd-paper-set-13-q19",
+              "question": "ইলেকট্রন বিন্যাসে s-orbital সর্বোচ্চ কয়টি ইলেকট্রন ধারণ করে?",
+              "options": [
+                {
+                  "text": "6",
+                  "label": "ক"
+                },
+                {
+                  "text": "10",
+                  "label": "খ"
+                },
+                {
+                  "text": "2",
+                  "label": "গ"
+                },
+                {
+                  "text": "14",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "গ",
+              "shortSolution": "সঠিক উত্তর: গ। s orbital-এ সর্বোচ্চ 2 electron থাকে।",
+              "paper": "HSC Chem 2nd",
+              "subject": "chem-2nd",
+              "setType": "paper-wise-model-test",
+              "topic": "পরমাণু গঠন",
+              "difficulty": "Hard",
+              "probability": "Mega Hot"
+            },
+            {
+              "id": "hsc-chem-2nd-paper-set-13-q20",
+              "question": "সমযোজী বন্ধন গঠিত হয় কীভাবে?",
+              "options": [
+                {
+                  "text": "ইলেকট্রন যুগল ভাগাভাগি করে",
+                  "label": "ক"
+                },
+                {
+                  "text": "প্রোটন আদানপ্রদান করে",
+                  "label": "খ"
+                },
+                {
+                  "text": "নিউট্রন ভাগ করে",
+                  "label": "গ"
+                },
+                {
+                  "text": "ইলেকট্রন দান করে",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "ক",
+              "shortSolution": "সঠিক উত্তর: ক। Covalent bond electron sharing দ্বারা গঠিত।",
+              "paper": "HSC Chem 2nd",
+              "subject": "chem-2nd",
+              "setType": "paper-wise-model-test",
+              "topic": "রাসায়নিক বন্ধন",
+              "difficulty": "Hard",
+              "probability": "Very Hot"
+            },
+            {
+              "id": "hsc-chem-2nd-paper-set-13-q21",
+              "question": "i, ii, iii বিবেচনা করো: (i) pH<7 অম্লীয় (ii) pH>7 ক্ষারীয় (iii) pH=7 ক্ষারীয়। কোনটি সঠিক?",
+              "options": [
+                {
+                  "text": "i ও ii",
+                  "label": "ক"
+                },
+                {
+                  "text": "i, ii ও iii",
+                  "label": "খ"
+                },
+                {
+                  "text": "ii ও iii",
+                  "label": "গ"
+                },
+                {
+                  "text": "i ও iii",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "ক",
+              "shortSolution": "সঠিক উত্তর: ক। pH=7 neutral, তাই iii ভুল।",
+              "paper": "HSC Chem 2nd",
+              "subject": "chem-2nd",
+              "setType": "paper-wise-model-test",
+              "topic": "pH",
+              "difficulty": "Hard",
+              "probability": "Board Favourite"
+            },
+            {
+              "id": "hsc-chem-2nd-paper-set-13-q22",
+              "question": "ক্যাটালিস্ট কী করে?",
+              "options": [
+                {
+                  "text": "বিক্রিয়ার গতি পরিবর্তন করে",
+                  "label": "ক"
+                },
+                {
+                  "text": "শুধু রং বদলায়",
+                  "label": "খ"
+                },
+                {
+                  "text": "শুধু তাপ দেয়",
+                  "label": "গ"
+                },
+                {
+                  "text": "বিক্রিয়ায় সম্পূর্ণ শেষ হয়ে যায়",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "ক",
+              "shortSolution": "সঠিক উত্তর: ক। Catalyst নিজে স্থায়ীভাবে ব্যয় না হয়ে rate পরিবর্তন করে।",
+              "paper": "HSC Chem 2nd",
+              "subject": "chem-2nd",
+              "setType": "paper-wise-model-test",
+              "topic": "রাসায়নিক গতিবিদ্যা",
+              "difficulty": "Board Standard",
+              "probability": "Conceptual Trap"
+            },
+            {
+              "id": "hsc-chem-2nd-paper-set-13-q23",
+              "question": "অ্যালকেনের সাধারণ সংকেত কোনটি?",
+              "options": [
+                {
+                  "text": "$C_nH_{2n-2}$",
+                  "label": "ক"
+                },
+                {
+                  "text": "$C_nH_n$",
+                  "label": "খ"
+                },
+                {
+                  "text": "$C_nH_{2n+2}$",
+                  "label": "গ"
+                },
+                {
+                  "text": "$C_nH_{2n}$",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "গ",
+              "shortSolution": "সঠিক উত্তর: গ। Alkane saturated hydrocarbon।",
+              "paper": "HSC Chem 2nd",
+              "subject": "chem-2nd",
+              "setType": "paper-wise-model-test",
+              "topic": "জৈব রসায়ন",
+              "difficulty": "Board Standard",
+              "probability": "Mega Hot"
+            },
+            {
+              "id": "hsc-chem-2nd-paper-set-13-q24",
+              "question": "অ্যালকিনের বৈশিষ্ট্যসূচক বন্ধন কোনটি?",
+              "options": [
+                {
+                  "text": "আয়নীয় বন্ধন",
+                  "label": "ক"
+                },
+                {
+                  "text": "দ্বিবন্ধন",
+                  "label": "খ"
+                },
+                {
+                  "text": "একক বন্ধন",
+                  "label": "গ"
+                },
+                {
+                  "text": "ত্রিবন্ধন",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "খ",
+              "shortSolution": "সঠিক উত্তর: খ। Alkene-এ C=C double bond থাকে।",
+              "paper": "HSC Chem 2nd",
+              "subject": "chem-2nd",
+              "setType": "paper-wise-model-test",
+              "topic": "জৈব রসায়ন",
+              "difficulty": "Board Standard",
+              "probability": "Very Hot"
+            },
+            {
+              "id": "hsc-chem-2nd-paper-set-13-q25",
+              "question": "pH = 7 হলে দ্রবণটি কেমন?",
+              "options": [
+                {
+                  "text": "অম্লীয়",
+                  "label": "ক"
+                },
+                {
+                  "text": "জারক",
+                  "label": "খ"
+                },
+                {
+                  "text": "ক্ষারীয়",
+                  "label": "গ"
+                },
+                {
+                  "text": "নিরপেক্ষ",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "ঘ",
+              "shortSolution": "সঠিক উত্তর: ঘ। pH 7 neutral দ্রবণ নির্দেশ করে।",
+              "paper": "HSC Chem 2nd",
+              "subject": "chem-2nd",
+              "setType": "paper-wise-model-test",
+              "topic": "অম্ল-ক্ষার",
+              "difficulty": "Board Standard",
+              "probability": "Board Favourite"
+            }
+          ]
+        },
+        {
+          "id": "hsc-chem-2nd-paper-set-14",
+          "title": "HSC Chem 2nd Paper-wise Model Test Set 14",
+          "setNo": "14",
+          "questions": [
+            {
+              "id": "hsc-chem-2nd-paper-set-14-q01",
+              "question": "pH = 7 হলে দ্রবণটি কেমন?",
+              "options": [
+                {
+                  "text": "নিরপেক্ষ",
+                  "label": "ক"
+                },
+                {
+                  "text": "অম্লীয়",
+                  "label": "খ"
+                },
+                {
+                  "text": "জারক",
+                  "label": "গ"
+                },
+                {
+                  "text": "ক্ষারীয়",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "ক",
+              "shortSolution": "সঠিক উত্তর: ক। pH 7 neutral দ্রবণ নির্দেশ করে।",
+              "paper": "HSC Chem 2nd",
+              "subject": "chem-2nd",
+              "setType": "paper-wise-model-test",
+              "topic": "অম্ল-ক্ষার",
+              "difficulty": "Easy",
+              "probability": "Conceptual Trap"
+            },
+            {
+              "id": "hsc-chem-2nd-paper-set-14-q02",
+              "question": "অক্সিডেশন বলতে কী বোঝায়?",
+              "options": [
+                {
+                  "text": "প্রোটন গ্রহণ",
+                  "label": "ক"
+                },
+                {
+                  "text": "ইলেকট্রন ত্যাগ",
+                  "label": "খ"
+                },
+                {
+                  "text": "ইলেকট্রন গ্রহণ",
+                  "label": "গ"
+                },
+                {
+                  "text": "নিউট্রন ত্যাগ",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "খ",
+              "shortSolution": "সঠিক উত্তর: খ। অক্সিডেশন হলো electron loss।",
+              "paper": "HSC Chem 2nd",
+              "subject": "chem-2nd",
+              "setType": "paper-wise-model-test",
+              "topic": "জারণ-বিজারণ",
+              "difficulty": "Easy",
+              "probability": "Mega Hot"
+            },
+            {
+              "id": "hsc-chem-2nd-paper-set-14-q03",
+              "question": "ইলেকট্রন গ্রহণ প্রক্রিয়াকে কী বলে?",
+              "options": [
+                {
+                  "text": "আয়নন",
+                  "label": "ক"
+                },
+                {
+                  "text": "জারণ",
+                  "label": "খ"
+                },
+                {
+                  "text": "উদ্বায়ীভবন",
+                  "label": "গ"
+                },
+                {
+                  "text": "বিজারণ",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "ঘ",
+              "shortSolution": "সঠিক উত্তর: ঘ। Reduction হলো electron gain।",
+              "paper": "HSC Chem 2nd",
+              "subject": "chem-2nd",
+              "setType": "paper-wise-model-test",
+              "topic": "জারণ-বিজারণ",
+              "difficulty": "Easy",
+              "probability": "Very Hot"
+            },
+            {
+              "id": "hsc-chem-2nd-paper-set-14-q04",
+              "question": "19 mole $O_2$ গ্যাসে অণুর সংখ্যা কত?",
+              "options": [
+                {
+                  "text": "$19N_A$",
+                  "label": "ক"
+                },
+                {
+                  "text": "$N_A/19$",
+                  "label": "খ"
+                },
+                {
+                  "text": "$19+N_A$",
+                  "label": "গ"
+                },
+                {
+                  "text": "$38N_A$",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "ক",
+              "shortSolution": "সঠিক উত্তর: ক। 1 mole-এ Avogadro সংখ্যক কণা থাকে।",
+              "paper": "HSC Chem 2nd",
+              "subject": "chem-2nd",
+              "setType": "paper-wise-model-test",
+              "topic": "মোল ধারণা",
+              "difficulty": "Easy",
+              "probability": "Board Favourite"
+            },
+            {
+              "id": "hsc-chem-2nd-paper-set-14-q05",
+              "question": "আদর্শ গ্যাস সমীকরণ কোনটি?",
+              "options": [
+                {
+                  "text": "$V=nRTP$",
+                  "label": "ক"
+                },
+                {
+                  "text": "$PV=nRT$",
+                  "label": "খ"
+                },
+                {
+                  "text": "$PT=nRV$",
+                  "label": "গ"
+                },
+                {
+                  "text": "$P=nVRT$",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "খ",
+              "shortSolution": "সঠিক উত্তর: খ। Ideal gas equation হলো $PV=nRT$।",
+              "paper": "HSC Chem 2nd",
+              "subject": "chem-2nd",
+              "setType": "paper-wise-model-test",
+              "topic": "গ্যাস সূত্র",
+              "difficulty": "Easy",
+              "probability": "Conceptual Trap"
+            },
+            {
+              "id": "hsc-chem-2nd-paper-set-14-q06",
+              "question": "পর্যায় সারণির একই group-এর মৌলগুলোর কোন বৈশিষ্ট্য সাধারণত মিল থাকে?",
+              "options": [
+                {
+                  "text": "যোজনী ইলেকট্রন সংখ্যা",
+                  "label": "ক"
+                },
+                {
+                  "text": "ভৌত অবস্থা",
+                  "label": "খ"
+                },
+                {
+                  "text": "নিউট্রন সংখ্যা",
+                  "label": "গ"
+                },
+                {
+                  "text": "পারমাণবিক ভর",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "ক",
+              "shortSolution": "সঠিক উত্তর: ক। একই group-এ valence electron সংখ্যা সাধারণত একই।",
+              "paper": "HSC Chem 2nd",
+              "subject": "chem-2nd",
+              "setType": "paper-wise-model-test",
+              "topic": "পর্যায় সারণি",
+              "difficulty": "Easy",
+              "probability": "Mega Hot"
+            },
+            {
+              "id": "hsc-chem-2nd-paper-set-14-q07",
+              "question": "ইলেকট্রন বিন্যাসে s-orbital সর্বোচ্চ কয়টি ইলেকট্রন ধারণ করে?",
+              "options": [
+                {
+                  "text": "10",
+                  "label": "ক"
+                },
+                {
+                  "text": "6",
+                  "label": "খ"
+                },
+                {
+                  "text": "14",
+                  "label": "গ"
+                },
+                {
+                  "text": "2",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "ঘ",
+              "shortSolution": "সঠিক উত্তর: ঘ। s orbital-এ সর্বোচ্চ 2 electron থাকে।",
+              "paper": "HSC Chem 2nd",
+              "subject": "chem-2nd",
+              "setType": "paper-wise-model-test",
+              "topic": "পরমাণু গঠন",
+              "difficulty": "Easy",
+              "probability": "Very Hot"
+            },
+            {
+              "id": "hsc-chem-2nd-paper-set-14-q08",
+              "question": "সমযোজী বন্ধন গঠিত হয় কীভাবে?",
+              "options": [
+                {
+                  "text": "প্রোটন আদানপ্রদান করে",
+                  "label": "ক"
+                },
+                {
+                  "text": "ইলেকট্রন দান করে",
+                  "label": "খ"
+                },
+                {
+                  "text": "নিউট্রন ভাগ করে",
+                  "label": "গ"
+                },
+                {
+                  "text": "ইলেকট্রন যুগল ভাগাভাগি করে",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "ঘ",
+              "shortSolution": "সঠিক উত্তর: ঘ। Covalent bond electron sharing দ্বারা গঠিত।",
+              "paper": "HSC Chem 2nd",
+              "subject": "chem-2nd",
+              "setType": "paper-wise-model-test",
+              "topic": "রাসায়নিক বন্ধন",
+              "difficulty": "Medium",
+              "probability": "Board Favourite"
+            },
+            {
+              "id": "hsc-chem-2nd-paper-set-14-q09",
+              "question": "i, ii, iii বিবেচনা করো: (i) pH<7 অম্লীয় (ii) pH>7 ক্ষারীয় (iii) pH=7 ক্ষারীয়। কোনটি সঠিক?",
+              "options": [
+                {
+                  "text": "ii ও iii",
+                  "label": "ক"
+                },
+                {
+                  "text": "i, ii ও iii",
+                  "label": "খ"
+                },
+                {
+                  "text": "i ও iii",
+                  "label": "গ"
+                },
+                {
+                  "text": "i ও ii",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "ঘ",
+              "shortSolution": "সঠিক উত্তর: ঘ। pH=7 neutral, তাই iii ভুল।",
+              "paper": "HSC Chem 2nd",
+              "subject": "chem-2nd",
+              "setType": "paper-wise-model-test",
+              "topic": "pH",
+              "difficulty": "Medium",
+              "probability": "Conceptual Trap"
+            },
+            {
+              "id": "hsc-chem-2nd-paper-set-14-q10",
+              "question": "ক্যাটালিস্ট কী করে?",
+              "options": [
+                {
+                  "text": "শুধু তাপ দেয়",
+                  "label": "ক"
+                },
+                {
+                  "text": "শুধু রং বদলায়",
+                  "label": "খ"
+                },
+                {
+                  "text": "বিক্রিয়ায় সম্পূর্ণ শেষ হয়ে যায়",
+                  "label": "গ"
+                },
+                {
+                  "text": "বিক্রিয়ার গতি পরিবর্তন করে",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "ঘ",
+              "shortSolution": "সঠিক উত্তর: ঘ। Catalyst নিজে স্থায়ীভাবে ব্যয় না হয়ে rate পরিবর্তন করে।",
+              "paper": "HSC Chem 2nd",
+              "subject": "chem-2nd",
+              "setType": "paper-wise-model-test",
+              "topic": "রাসায়নিক গতিবিদ্যা",
+              "difficulty": "Medium",
+              "probability": "Mega Hot"
+            },
+            {
+              "id": "hsc-chem-2nd-paper-set-14-q11",
+              "question": "অ্যালকেনের সাধারণ সংকেত কোনটি?",
+              "options": [
+                {
+                  "text": "$C_nH_{2n+2}$",
+                  "label": "ক"
+                },
+                {
+                  "text": "$C_nH_{2n}$",
+                  "label": "খ"
+                },
+                {
+                  "text": "$C_nH_n$",
+                  "label": "গ"
+                },
+                {
+                  "text": "$C_nH_{2n-2}$",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "ক",
+              "shortSolution": "সঠিক উত্তর: ক। Alkane saturated hydrocarbon।",
+              "paper": "HSC Chem 2nd",
+              "subject": "chem-2nd",
+              "setType": "paper-wise-model-test",
+              "topic": "জৈব রসায়ন",
+              "difficulty": "Medium",
+              "probability": "Very Hot"
+            },
+            {
+              "id": "hsc-chem-2nd-paper-set-14-q12",
+              "question": "অ্যালকিনের বৈশিষ্ট্যসূচক বন্ধন কোনটি?",
+              "options": [
+                {
+                  "text": "আয়নীয় বন্ধন",
+                  "label": "ক"
+                },
+                {
+                  "text": "ত্রিবন্ধন",
+                  "label": "খ"
+                },
+                {
+                  "text": "দ্বিবন্ধন",
+                  "label": "গ"
+                },
+                {
+                  "text": "একক বন্ধন",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "গ",
+              "shortSolution": "সঠিক উত্তর: গ। Alkene-এ C=C double bond থাকে।",
+              "paper": "HSC Chem 2nd",
+              "subject": "chem-2nd",
+              "setType": "paper-wise-model-test",
+              "topic": "জৈব রসায়ন",
+              "difficulty": "Medium",
+              "probability": "Board Favourite"
+            },
+            {
+              "id": "hsc-chem-2nd-paper-set-14-q13",
+              "question": "pH = 7 হলে দ্রবণটি কেমন?",
+              "options": [
+                {
+                  "text": "নিরপেক্ষ",
+                  "label": "ক"
+                },
+                {
+                  "text": "ক্ষারীয়",
+                  "label": "খ"
+                },
+                {
+                  "text": "অম্লীয়",
+                  "label": "গ"
+                },
+                {
+                  "text": "জারক",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "ক",
+              "shortSolution": "সঠিক উত্তর: ক। pH 7 neutral দ্রবণ নির্দেশ করে।",
+              "paper": "HSC Chem 2nd",
+              "subject": "chem-2nd",
+              "setType": "paper-wise-model-test",
+              "topic": "অম্ল-ক্ষার",
+              "difficulty": "Medium",
+              "probability": "Conceptual Trap"
+            },
+            {
+              "id": "hsc-chem-2nd-paper-set-14-q14",
+              "question": "অক্সিডেশন বলতে কী বোঝায়?",
+              "options": [
+                {
+                  "text": "প্রোটন গ্রহণ",
+                  "label": "ক"
+                },
+                {
+                  "text": "নিউট্রন ত্যাগ",
+                  "label": "খ"
+                },
+                {
+                  "text": "ইলেকট্রন গ্রহণ",
+                  "label": "গ"
+                },
+                {
+                  "text": "ইলেকট্রন ত্যাগ",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "ঘ",
+              "shortSolution": "সঠিক উত্তর: ঘ। অক্সিডেশন হলো electron loss।",
+              "paper": "HSC Chem 2nd",
+              "subject": "chem-2nd",
+              "setType": "paper-wise-model-test",
+              "topic": "জারণ-বিজারণ",
+              "difficulty": "Medium",
+              "probability": "Mega Hot"
+            },
+            {
+              "id": "hsc-chem-2nd-paper-set-14-q15",
+              "question": "ইলেকট্রন গ্রহণ প্রক্রিয়াকে কী বলে?",
+              "options": [
+                {
+                  "text": "উদ্বায়ীভবন",
+                  "label": "ক"
+                },
+                {
+                  "text": "জারণ",
+                  "label": "খ"
+                },
+                {
+                  "text": "আয়নন",
+                  "label": "গ"
+                },
+                {
+                  "text": "বিজারণ",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "ঘ",
+              "shortSolution": "সঠিক উত্তর: ঘ। Reduction হলো electron gain।",
+              "paper": "HSC Chem 2nd",
+              "subject": "chem-2nd",
+              "setType": "paper-wise-model-test",
+              "topic": "জারণ-বিজারণ",
+              "difficulty": "Hard",
+              "probability": "Very Hot"
+            },
+            {
+              "id": "hsc-chem-2nd-paper-set-14-q16",
+              "question": "16 mole $O_2$ গ্যাসে অণুর সংখ্যা কত?",
+              "options": [
+                {
+                  "text": "$N_A/16$",
+                  "label": "ক"
+                },
+                {
+                  "text": "$16N_A$",
+                  "label": "খ"
+                },
+                {
+                  "text": "$16+N_A$",
+                  "label": "গ"
+                },
+                {
+                  "text": "$32N_A$",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "খ",
+              "shortSolution": "সঠিক উত্তর: খ। 1 mole-এ Avogadro সংখ্যক কণা থাকে।",
+              "paper": "HSC Chem 2nd",
+              "subject": "chem-2nd",
+              "setType": "paper-wise-model-test",
+              "topic": "মোল ধারণা",
+              "difficulty": "Hard",
+              "probability": "Board Favourite"
+            },
+            {
+              "id": "hsc-chem-2nd-paper-set-14-q17",
+              "question": "আদর্শ গ্যাস সমীকরণ কোনটি?",
+              "options": [
+                {
+                  "text": "$PT=nRV$",
+                  "label": "ক"
+                },
+                {
+                  "text": "$PV=nRT$",
+                  "label": "খ"
+                },
+                {
+                  "text": "$V=nRTP$",
+                  "label": "গ"
+                },
+                {
+                  "text": "$P=nVRT$",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "খ",
+              "shortSolution": "সঠিক উত্তর: খ। Ideal gas equation হলো $PV=nRT$।",
+              "paper": "HSC Chem 2nd",
+              "subject": "chem-2nd",
+              "setType": "paper-wise-model-test",
+              "topic": "গ্যাস সূত্র",
+              "difficulty": "Hard",
+              "probability": "Conceptual Trap"
+            },
+            {
+              "id": "hsc-chem-2nd-paper-set-14-q18",
+              "question": "পর্যায় সারণির একই group-এর মৌলগুলোর কোন বৈশিষ্ট্য সাধারণত মিল থাকে?",
+              "options": [
+                {
+                  "text": "পারমাণবিক ভর",
+                  "label": "ক"
+                },
+                {
+                  "text": "নিউট্রন সংখ্যা",
+                  "label": "খ"
+                },
+                {
+                  "text": "যোজনী ইলেকট্রন সংখ্যা",
+                  "label": "গ"
+                },
+                {
+                  "text": "ভৌত অবস্থা",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "গ",
+              "shortSolution": "সঠিক উত্তর: গ। একই group-এ valence electron সংখ্যা সাধারণত একই।",
+              "paper": "HSC Chem 2nd",
+              "subject": "chem-2nd",
+              "setType": "paper-wise-model-test",
+              "topic": "পর্যায় সারণি",
+              "difficulty": "Hard",
+              "probability": "Mega Hot"
+            },
+            {
+              "id": "hsc-chem-2nd-paper-set-14-q19",
+              "question": "ইলেকট্রন বিন্যাসে s-orbital সর্বোচ্চ কয়টি ইলেকট্রন ধারণ করে?",
+              "options": [
+                {
+                  "text": "6",
+                  "label": "ক"
+                },
+                {
+                  "text": "14",
+                  "label": "খ"
+                },
+                {
+                  "text": "2",
+                  "label": "গ"
+                },
+                {
+                  "text": "10",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "গ",
+              "shortSolution": "সঠিক উত্তর: গ। s orbital-এ সর্বোচ্চ 2 electron থাকে।",
+              "paper": "HSC Chem 2nd",
+              "subject": "chem-2nd",
+              "setType": "paper-wise-model-test",
+              "topic": "পরমাণু গঠন",
+              "difficulty": "Hard",
+              "probability": "Very Hot"
+            },
+            {
+              "id": "hsc-chem-2nd-paper-set-14-q20",
+              "question": "সমযোজী বন্ধন গঠিত হয় কীভাবে?",
+              "options": [
+                {
+                  "text": "নিউট্রন ভাগ করে",
+                  "label": "ক"
+                },
+                {
+                  "text": "ইলেকট্রন যুগল ভাগাভাগি করে",
+                  "label": "খ"
+                },
+                {
+                  "text": "ইলেকট্রন দান করে",
+                  "label": "গ"
+                },
+                {
+                  "text": "প্রোটন আদানপ্রদান করে",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "খ",
+              "shortSolution": "সঠিক উত্তর: খ। Covalent bond electron sharing দ্বারা গঠিত।",
+              "paper": "HSC Chem 2nd",
+              "subject": "chem-2nd",
+              "setType": "paper-wise-model-test",
+              "topic": "রাসায়নিক বন্ধন",
+              "difficulty": "Hard",
+              "probability": "Board Favourite"
+            },
+            {
+              "id": "hsc-chem-2nd-paper-set-14-q21",
+              "question": "i, ii, iii বিবেচনা করো: (i) pH<7 অম্লীয় (ii) pH>7 ক্ষারীয় (iii) pH=7 ক্ষারীয়। কোনটি সঠিক?",
+              "options": [
+                {
+                  "text": "i, ii ও iii",
+                  "label": "ক"
+                },
+                {
+                  "text": "ii ও iii",
+                  "label": "খ"
+                },
+                {
+                  "text": "i ও iii",
+                  "label": "গ"
+                },
+                {
+                  "text": "i ও ii",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "ঘ",
+              "shortSolution": "সঠিক উত্তর: ঘ। pH=7 neutral, তাই iii ভুল।",
+              "paper": "HSC Chem 2nd",
+              "subject": "chem-2nd",
+              "setType": "paper-wise-model-test",
+              "topic": "pH",
+              "difficulty": "Hard",
+              "probability": "Conceptual Trap"
+            },
+            {
+              "id": "hsc-chem-2nd-paper-set-14-q22",
+              "question": "ক্যাটালিস্ট কী করে?",
+              "options": [
+                {
+                  "text": "বিক্রিয়ায় সম্পূর্ণ শেষ হয়ে যায়",
+                  "label": "ক"
+                },
+                {
+                  "text": "বিক্রিয়ার গতি পরিবর্তন করে",
+                  "label": "খ"
+                },
+                {
+                  "text": "শুধু রং বদলায়",
+                  "label": "গ"
+                },
+                {
+                  "text": "শুধু তাপ দেয়",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "খ",
+              "shortSolution": "সঠিক উত্তর: খ। Catalyst নিজে স্থায়ীভাবে ব্যয় না হয়ে rate পরিবর্তন করে।",
+              "paper": "HSC Chem 2nd",
+              "subject": "chem-2nd",
+              "setType": "paper-wise-model-test",
+              "topic": "রাসায়নিক গতিবিদ্যা",
+              "difficulty": "Board Standard",
+              "probability": "Mega Hot"
+            },
+            {
+              "id": "hsc-chem-2nd-paper-set-14-q23",
+              "question": "অ্যালকেনের সাধারণ সংকেত কোনটি?",
+              "options": [
+                {
+                  "text": "$C_nH_{2n-2}$",
+                  "label": "ক"
+                },
+                {
+                  "text": "$C_nH_{2n+2}$",
+                  "label": "খ"
+                },
+                {
+                  "text": "$C_nH_n$",
+                  "label": "গ"
+                },
+                {
+                  "text": "$C_nH_{2n}$",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "খ",
+              "shortSolution": "সঠিক উত্তর: খ। Alkane saturated hydrocarbon।",
+              "paper": "HSC Chem 2nd",
+              "subject": "chem-2nd",
+              "setType": "paper-wise-model-test",
+              "topic": "জৈব রসায়ন",
+              "difficulty": "Board Standard",
+              "probability": "Very Hot"
+            },
+            {
+              "id": "hsc-chem-2nd-paper-set-14-q24",
+              "question": "অ্যালকিনের বৈশিষ্ট্যসূচক বন্ধন কোনটি?",
+              "options": [
+                {
+                  "text": "একক বন্ধন",
+                  "label": "ক"
+                },
+                {
+                  "text": "আয়নীয় বন্ধন",
+                  "label": "খ"
+                },
+                {
+                  "text": "ত্রিবন্ধন",
+                  "label": "গ"
+                },
+                {
+                  "text": "দ্বিবন্ধন",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "ঘ",
+              "shortSolution": "সঠিক উত্তর: ঘ। Alkene-এ C=C double bond থাকে।",
+              "paper": "HSC Chem 2nd",
+              "subject": "chem-2nd",
+              "setType": "paper-wise-model-test",
+              "topic": "জৈব রসায়ন",
+              "difficulty": "Board Standard",
+              "probability": "Board Favourite"
+            },
+            {
+              "id": "hsc-chem-2nd-paper-set-14-q25",
+              "question": "pH = 7 হলে দ্রবণটি কেমন?",
+              "options": [
+                {
+                  "text": "অম্লীয়",
+                  "label": "ক"
+                },
+                {
+                  "text": "নিরপেক্ষ",
+                  "label": "খ"
+                },
+                {
+                  "text": "জারক",
+                  "label": "গ"
+                },
+                {
+                  "text": "ক্ষারীয়",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "খ",
+              "shortSolution": "সঠিক উত্তর: খ। pH 7 neutral দ্রবণ নির্দেশ করে।",
+              "paper": "HSC Chem 2nd",
+              "subject": "chem-2nd",
+              "setType": "paper-wise-model-test",
+              "topic": "অম্ল-ক্ষার",
+              "difficulty": "Board Standard",
+              "probability": "Conceptual Trap"
+            }
+          ]
+        },
+        {
+          "id": "hsc-chem-2nd-paper-set-15",
+          "title": "HSC Chem 2nd Paper-wise Model Test Set 15",
+          "setNo": "15",
+          "questions": [
+            {
+              "id": "hsc-chem-2nd-paper-set-15-q01",
+              "question": "pH = 7 হলে দ্রবণটি কেমন?",
+              "options": [
+                {
+                  "text": "অম্লীয়",
+                  "label": "ক"
+                },
+                {
+                  "text": "ক্ষারীয়",
+                  "label": "খ"
+                },
+                {
+                  "text": "জারক",
+                  "label": "গ"
+                },
+                {
+                  "text": "নিরপেক্ষ",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "ঘ",
+              "shortSolution": "সঠিক উত্তর: ঘ। pH 7 neutral দ্রবণ নির্দেশ করে।",
+              "paper": "HSC Chem 2nd",
+              "subject": "chem-2nd",
+              "setType": "paper-wise-model-test",
+              "topic": "অম্ল-ক্ষার",
+              "difficulty": "Easy",
+              "probability": "Mega Hot"
+            },
+            {
+              "id": "hsc-chem-2nd-paper-set-15-q02",
+              "question": "অক্সিডেশন বলতে কী বোঝায়?",
+              "options": [
+                {
+                  "text": "প্রোটন গ্রহণ",
+                  "label": "ক"
+                },
+                {
+                  "text": "ইলেকট্রন ত্যাগ",
+                  "label": "খ"
+                },
+                {
+                  "text": "ইলেকট্রন গ্রহণ",
+                  "label": "গ"
+                },
+                {
+                  "text": "নিউট্রন ত্যাগ",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "খ",
+              "shortSolution": "সঠিক উত্তর: খ। অক্সিডেশন হলো electron loss।",
+              "paper": "HSC Chem 2nd",
+              "subject": "chem-2nd",
+              "setType": "paper-wise-model-test",
+              "topic": "জারণ-বিজারণ",
+              "difficulty": "Easy",
+              "probability": "Very Hot"
+            },
+            {
+              "id": "hsc-chem-2nd-paper-set-15-q03",
+              "question": "ইলেকট্রন গ্রহণ প্রক্রিয়াকে কী বলে?",
+              "options": [
+                {
+                  "text": "জারণ",
+                  "label": "ক"
+                },
+                {
+                  "text": "বিজারণ",
+                  "label": "খ"
+                },
+                {
+                  "text": "উদ্বায়ীভবন",
+                  "label": "গ"
+                },
+                {
+                  "text": "আয়নন",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "খ",
+              "shortSolution": "সঠিক উত্তর: খ। Reduction হলো electron gain।",
+              "paper": "HSC Chem 2nd",
+              "subject": "chem-2nd",
+              "setType": "paper-wise-model-test",
+              "topic": "জারণ-বিজারণ",
+              "difficulty": "Easy",
+              "probability": "Board Favourite"
+            },
+            {
+              "id": "hsc-chem-2nd-paper-set-15-q04",
+              "question": "20 mole $O_2$ গ্যাসে অণুর সংখ্যা কত?",
+              "options": [
+                {
+                  "text": "$N_A/20$",
+                  "label": "ক"
+                },
+                {
+                  "text": "$40N_A$",
+                  "label": "খ"
+                },
+                {
+                  "text": "$20N_A$",
+                  "label": "গ"
+                },
+                {
+                  "text": "$20+N_A$",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "গ",
+              "shortSolution": "সঠিক উত্তর: গ। 1 mole-এ Avogadro সংখ্যক কণা থাকে।",
+              "paper": "HSC Chem 2nd",
+              "subject": "chem-2nd",
+              "setType": "paper-wise-model-test",
+              "topic": "মোল ধারণা",
+              "difficulty": "Easy",
+              "probability": "Conceptual Trap"
+            },
+            {
+              "id": "hsc-chem-2nd-paper-set-15-q05",
+              "question": "আদর্শ গ্যাস সমীকরণ কোনটি?",
+              "options": [
+                {
+                  "text": "$P=nVRT$",
+                  "label": "ক"
+                },
+                {
+                  "text": "$PV=nRT$",
+                  "label": "খ"
+                },
+                {
+                  "text": "$V=nRTP$",
+                  "label": "গ"
+                },
+                {
+                  "text": "$PT=nRV$",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "খ",
+              "shortSolution": "সঠিক উত্তর: খ। Ideal gas equation হলো $PV=nRT$।",
+              "paper": "HSC Chem 2nd",
+              "subject": "chem-2nd",
+              "setType": "paper-wise-model-test",
+              "topic": "গ্যাস সূত্র",
+              "difficulty": "Easy",
+              "probability": "Mega Hot"
+            },
+            {
+              "id": "hsc-chem-2nd-paper-set-15-q06",
+              "question": "পর্যায় সারণির একই group-এর মৌলগুলোর কোন বৈশিষ্ট্য সাধারণত মিল থাকে?",
+              "options": [
+                {
+                  "text": "ভৌত অবস্থা",
+                  "label": "ক"
+                },
+                {
+                  "text": "নিউট্রন সংখ্যা",
+                  "label": "খ"
+                },
+                {
+                  "text": "পারমাণবিক ভর",
+                  "label": "গ"
+                },
+                {
+                  "text": "যোজনী ইলেকট্রন সংখ্যা",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "ঘ",
+              "shortSolution": "সঠিক উত্তর: ঘ। একই group-এ valence electron সংখ্যা সাধারণত একই।",
+              "paper": "HSC Chem 2nd",
+              "subject": "chem-2nd",
+              "setType": "paper-wise-model-test",
+              "topic": "পর্যায় সারণি",
+              "difficulty": "Easy",
+              "probability": "Very Hot"
+            },
+            {
+              "id": "hsc-chem-2nd-paper-set-15-q07",
+              "question": "ইলেকট্রন বিন্যাসে s-orbital সর্বোচ্চ কয়টি ইলেকট্রন ধারণ করে?",
+              "options": [
+                {
+                  "text": "6",
+                  "label": "ক"
+                },
+                {
+                  "text": "10",
+                  "label": "খ"
+                },
+                {
+                  "text": "2",
+                  "label": "গ"
+                },
+                {
+                  "text": "14",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "গ",
+              "shortSolution": "সঠিক উত্তর: গ। s orbital-এ সর্বোচ্চ 2 electron থাকে।",
+              "paper": "HSC Chem 2nd",
+              "subject": "chem-2nd",
+              "setType": "paper-wise-model-test",
+              "topic": "পরমাণু গঠন",
+              "difficulty": "Easy",
+              "probability": "Board Favourite"
+            },
+            {
+              "id": "hsc-chem-2nd-paper-set-15-q08",
+              "question": "সমযোজী বন্ধন গঠিত হয় কীভাবে?",
+              "options": [
+                {
+                  "text": "নিউট্রন ভাগ করে",
+                  "label": "ক"
+                },
+                {
+                  "text": "ইলেকট্রন যুগল ভাগাভাগি করে",
+                  "label": "খ"
+                },
+                {
+                  "text": "ইলেকট্রন দান করে",
+                  "label": "গ"
+                },
+                {
+                  "text": "প্রোটন আদানপ্রদান করে",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "খ",
+              "shortSolution": "সঠিক উত্তর: খ। Covalent bond electron sharing দ্বারা গঠিত।",
+              "paper": "HSC Chem 2nd",
+              "subject": "chem-2nd",
+              "setType": "paper-wise-model-test",
+              "topic": "রাসায়নিক বন্ধন",
+              "difficulty": "Medium",
+              "probability": "Conceptual Trap"
+            },
+            {
+              "id": "hsc-chem-2nd-paper-set-15-q09",
+              "question": "i, ii, iii বিবেচনা করো: (i) pH<7 অম্লীয় (ii) pH>7 ক্ষারীয় (iii) pH=7 ক্ষারীয়। কোনটি সঠিক?",
+              "options": [
+                {
+                  "text": "i ও ii",
+                  "label": "ক"
+                },
+                {
+                  "text": "i, ii ও iii",
+                  "label": "খ"
+                },
+                {
+                  "text": "i ও iii",
+                  "label": "গ"
+                },
+                {
+                  "text": "ii ও iii",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "ক",
+              "shortSolution": "সঠিক উত্তর: ক। pH=7 neutral, তাই iii ভুল।",
+              "paper": "HSC Chem 2nd",
+              "subject": "chem-2nd",
+              "setType": "paper-wise-model-test",
+              "topic": "pH",
+              "difficulty": "Medium",
+              "probability": "Mega Hot"
+            },
+            {
+              "id": "hsc-chem-2nd-paper-set-15-q10",
+              "question": "ক্যাটালিস্ট কী করে?",
+              "options": [
+                {
+                  "text": "বিক্রিয়ার গতি পরিবর্তন করে",
+                  "label": "ক"
+                },
+                {
+                  "text": "শুধু তাপ দেয়",
+                  "label": "খ"
+                },
+                {
+                  "text": "বিক্রিয়ায় সম্পূর্ণ শেষ হয়ে যায়",
+                  "label": "গ"
+                },
+                {
+                  "text": "শুধু রং বদলায়",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "ক",
+              "shortSolution": "সঠিক উত্তর: ক। Catalyst নিজে স্থায়ীভাবে ব্যয় না হয়ে rate পরিবর্তন করে।",
+              "paper": "HSC Chem 2nd",
+              "subject": "chem-2nd",
+              "setType": "paper-wise-model-test",
+              "topic": "রাসায়নিক গতিবিদ্যা",
+              "difficulty": "Medium",
+              "probability": "Very Hot"
+            },
+            {
+              "id": "hsc-chem-2nd-paper-set-15-q11",
+              "question": "অ্যালকেনের সাধারণ সংকেত কোনটি?",
+              "options": [
+                {
+                  "text": "$C_nH_n$",
+                  "label": "ক"
+                },
+                {
+                  "text": "$C_nH_{2n}$",
+                  "label": "খ"
+                },
+                {
+                  "text": "$C_nH_{2n-2}$",
+                  "label": "গ"
+                },
+                {
+                  "text": "$C_nH_{2n+2}$",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "ঘ",
+              "shortSolution": "সঠিক উত্তর: ঘ। Alkane saturated hydrocarbon।",
+              "paper": "HSC Chem 2nd",
+              "subject": "chem-2nd",
+              "setType": "paper-wise-model-test",
+              "topic": "জৈব রসায়ন",
+              "difficulty": "Medium",
+              "probability": "Board Favourite"
+            },
+            {
+              "id": "hsc-chem-2nd-paper-set-15-q12",
+              "question": "অ্যালকিনের বৈশিষ্ট্যসূচক বন্ধন কোনটি?",
+              "options": [
+                {
+                  "text": "আয়নীয় বন্ধন",
+                  "label": "ক"
+                },
+                {
+                  "text": "ত্রিবন্ধন",
+                  "label": "খ"
+                },
+                {
+                  "text": "দ্বিবন্ধন",
+                  "label": "গ"
+                },
+                {
+                  "text": "একক বন্ধন",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "গ",
+              "shortSolution": "সঠিক উত্তর: গ। Alkene-এ C=C double bond থাকে।",
+              "paper": "HSC Chem 2nd",
+              "subject": "chem-2nd",
+              "setType": "paper-wise-model-test",
+              "topic": "জৈব রসায়ন",
+              "difficulty": "Medium",
+              "probability": "Conceptual Trap"
+            },
+            {
+              "id": "hsc-chem-2nd-paper-set-15-q13",
+              "question": "pH = 7 হলে দ্রবণটি কেমন?",
+              "options": [
+                {
+                  "text": "জারক",
+                  "label": "ক"
+                },
+                {
+                  "text": "নিরপেক্ষ",
+                  "label": "খ"
+                },
+                {
+                  "text": "ক্ষারীয়",
+                  "label": "গ"
+                },
+                {
+                  "text": "অম্লীয়",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "খ",
+              "shortSolution": "সঠিক উত্তর: খ। pH 7 neutral দ্রবণ নির্দেশ করে।",
+              "paper": "HSC Chem 2nd",
+              "subject": "chem-2nd",
+              "setType": "paper-wise-model-test",
+              "topic": "অম্ল-ক্ষার",
+              "difficulty": "Medium",
+              "probability": "Mega Hot"
+            },
+            {
+              "id": "hsc-chem-2nd-paper-set-15-q14",
+              "question": "অক্সিডেশন বলতে কী বোঝায়?",
+              "options": [
+                {
+                  "text": "ইলেকট্রন গ্রহণ",
+                  "label": "ক"
+                },
+                {
+                  "text": "প্রোটন গ্রহণ",
+                  "label": "খ"
+                },
+                {
+                  "text": "ইলেকট্রন ত্যাগ",
+                  "label": "গ"
+                },
+                {
+                  "text": "নিউট্রন ত্যাগ",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "গ",
+              "shortSolution": "সঠিক উত্তর: গ। অক্সিডেশন হলো electron loss।",
+              "paper": "HSC Chem 2nd",
+              "subject": "chem-2nd",
+              "setType": "paper-wise-model-test",
+              "topic": "জারণ-বিজারণ",
+              "difficulty": "Medium",
+              "probability": "Very Hot"
+            },
+            {
+              "id": "hsc-chem-2nd-paper-set-15-q15",
+              "question": "ইলেকট্রন গ্রহণ প্রক্রিয়াকে কী বলে?",
+              "options": [
+                {
+                  "text": "উদ্বায়ীভবন",
+                  "label": "ক"
+                },
+                {
+                  "text": "আয়নন",
+                  "label": "খ"
+                },
+                {
+                  "text": "জারণ",
+                  "label": "গ"
+                },
+                {
+                  "text": "বিজারণ",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "ঘ",
+              "shortSolution": "সঠিক উত্তর: ঘ। Reduction হলো electron gain।",
+              "paper": "HSC Chem 2nd",
+              "subject": "chem-2nd",
+              "setType": "paper-wise-model-test",
+              "topic": "জারণ-বিজারণ",
+              "difficulty": "Hard",
+              "probability": "Board Favourite"
+            },
+            {
+              "id": "hsc-chem-2nd-paper-set-15-q16",
+              "question": "17 mole $O_2$ গ্যাসে অণুর সংখ্যা কত?",
+              "options": [
+                {
+                  "text": "$N_A/17$",
+                  "label": "ক"
+                },
+                {
+                  "text": "$34N_A$",
+                  "label": "খ"
+                },
+                {
+                  "text": "$17N_A$",
+                  "label": "গ"
+                },
+                {
+                  "text": "$17+N_A$",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "গ",
+              "shortSolution": "সঠিক উত্তর: গ। 1 mole-এ Avogadro সংখ্যক কণা থাকে।",
+              "paper": "HSC Chem 2nd",
+              "subject": "chem-2nd",
+              "setType": "paper-wise-model-test",
+              "topic": "মোল ধারণা",
+              "difficulty": "Hard",
+              "probability": "Conceptual Trap"
+            },
+            {
+              "id": "hsc-chem-2nd-paper-set-15-q17",
+              "question": "আদর্শ গ্যাস সমীকরণ কোনটি?",
+              "options": [
+                {
+                  "text": "$PT=nRV$",
+                  "label": "ক"
+                },
+                {
+                  "text": "$PV=nRT$",
+                  "label": "খ"
+                },
+                {
+                  "text": "$V=nRTP$",
+                  "label": "গ"
+                },
+                {
+                  "text": "$P=nVRT$",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "খ",
+              "shortSolution": "সঠিক উত্তর: খ। Ideal gas equation হলো $PV=nRT$।",
+              "paper": "HSC Chem 2nd",
+              "subject": "chem-2nd",
+              "setType": "paper-wise-model-test",
+              "topic": "গ্যাস সূত্র",
+              "difficulty": "Hard",
+              "probability": "Mega Hot"
+            },
+            {
+              "id": "hsc-chem-2nd-paper-set-15-q18",
+              "question": "পর্যায় সারণির একই group-এর মৌলগুলোর কোন বৈশিষ্ট্য সাধারণত মিল থাকে?",
+              "options": [
+                {
+                  "text": "পারমাণবিক ভর",
+                  "label": "ক"
+                },
+                {
+                  "text": "যোজনী ইলেকট্রন সংখ্যা",
+                  "label": "খ"
+                },
+                {
+                  "text": "ভৌত অবস্থা",
+                  "label": "গ"
+                },
+                {
+                  "text": "নিউট্রন সংখ্যা",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "খ",
+              "shortSolution": "সঠিক উত্তর: খ। একই group-এ valence electron সংখ্যা সাধারণত একই।",
+              "paper": "HSC Chem 2nd",
+              "subject": "chem-2nd",
+              "setType": "paper-wise-model-test",
+              "topic": "পর্যায় সারণি",
+              "difficulty": "Hard",
+              "probability": "Very Hot"
+            },
+            {
+              "id": "hsc-chem-2nd-paper-set-15-q19",
+              "question": "ইলেকট্রন বিন্যাসে s-orbital সর্বোচ্চ কয়টি ইলেকট্রন ধারণ করে?",
+              "options": [
+                {
+                  "text": "6",
+                  "label": "ক"
+                },
+                {
+                  "text": "2",
+                  "label": "খ"
+                },
+                {
+                  "text": "10",
+                  "label": "গ"
+                },
+                {
+                  "text": "14",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "খ",
+              "shortSolution": "সঠিক উত্তর: খ। s orbital-এ সর্বোচ্চ 2 electron থাকে।",
+              "paper": "HSC Chem 2nd",
+              "subject": "chem-2nd",
+              "setType": "paper-wise-model-test",
+              "topic": "পরমাণু গঠন",
+              "difficulty": "Hard",
+              "probability": "Board Favourite"
+            },
+            {
+              "id": "hsc-chem-2nd-paper-set-15-q20",
+              "question": "সমযোজী বন্ধন গঠিত হয় কীভাবে?",
+              "options": [
+                {
+                  "text": "ইলেকট্রন যুগল ভাগাভাগি করে",
+                  "label": "ক"
+                },
+                {
+                  "text": "নিউট্রন ভাগ করে",
+                  "label": "খ"
+                },
+                {
+                  "text": "ইলেকট্রন দান করে",
+                  "label": "গ"
+                },
+                {
+                  "text": "প্রোটন আদানপ্রদান করে",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "ক",
+              "shortSolution": "সঠিক উত্তর: ক। Covalent bond electron sharing দ্বারা গঠিত।",
+              "paper": "HSC Chem 2nd",
+              "subject": "chem-2nd",
+              "setType": "paper-wise-model-test",
+              "topic": "রাসায়নিক বন্ধন",
+              "difficulty": "Hard",
+              "probability": "Conceptual Trap"
+            },
+            {
+              "id": "hsc-chem-2nd-paper-set-15-q21",
+              "question": "i, ii, iii বিবেচনা করো: (i) pH<7 অম্লীয় (ii) pH>7 ক্ষারীয় (iii) pH=7 ক্ষারীয়। কোনটি সঠিক?",
+              "options": [
+                {
+                  "text": "i ও iii",
+                  "label": "ক"
+                },
+                {
+                  "text": "ii ও iii",
+                  "label": "খ"
+                },
+                {
+                  "text": "i, ii ও iii",
+                  "label": "গ"
+                },
+                {
+                  "text": "i ও ii",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "ঘ",
+              "shortSolution": "সঠিক উত্তর: ঘ। pH=7 neutral, তাই iii ভুল।",
+              "paper": "HSC Chem 2nd",
+              "subject": "chem-2nd",
+              "setType": "paper-wise-model-test",
+              "topic": "pH",
+              "difficulty": "Hard",
+              "probability": "Mega Hot"
+            },
+            {
+              "id": "hsc-chem-2nd-paper-set-15-q22",
+              "question": "ক্যাটালিস্ট কী করে?",
+              "options": [
+                {
+                  "text": "শুধু তাপ দেয়",
+                  "label": "ক"
+                },
+                {
+                  "text": "বিক্রিয়ার গতি পরিবর্তন করে",
+                  "label": "খ"
+                },
+                {
+                  "text": "শুধু রং বদলায়",
+                  "label": "গ"
+                },
+                {
+                  "text": "বিক্রিয়ায় সম্পূর্ণ শেষ হয়ে যায়",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "খ",
+              "shortSolution": "সঠিক উত্তর: খ। Catalyst নিজে স্থায়ীভাবে ব্যয় না হয়ে rate পরিবর্তন করে।",
+              "paper": "HSC Chem 2nd",
+              "subject": "chem-2nd",
+              "setType": "paper-wise-model-test",
+              "topic": "রাসায়নিক গতিবিদ্যা",
+              "difficulty": "Board Standard",
+              "probability": "Very Hot"
+            },
+            {
+              "id": "hsc-chem-2nd-paper-set-15-q23",
+              "question": "অ্যালকেনের সাধারণ সংকেত কোনটি?",
+              "options": [
+                {
+                  "text": "$C_nH_{2n+2}$",
+                  "label": "ক"
+                },
+                {
+                  "text": "$C_nH_n$",
+                  "label": "খ"
+                },
+                {
+                  "text": "$C_nH_{2n}$",
+                  "label": "গ"
+                },
+                {
+                  "text": "$C_nH_{2n-2}$",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "ক",
+              "shortSolution": "সঠিক উত্তর: ক। Alkane saturated hydrocarbon।",
+              "paper": "HSC Chem 2nd",
+              "subject": "chem-2nd",
+              "setType": "paper-wise-model-test",
+              "topic": "জৈব রসায়ন",
+              "difficulty": "Board Standard",
+              "probability": "Board Favourite"
+            },
+            {
+              "id": "hsc-chem-2nd-paper-set-15-q24",
+              "question": "অ্যালকিনের বৈশিষ্ট্যসূচক বন্ধন কোনটি?",
+              "options": [
+                {
+                  "text": "একক বন্ধন",
+                  "label": "ক"
+                },
+                {
+                  "text": "দ্বিবন্ধন",
+                  "label": "খ"
+                },
+                {
+                  "text": "আয়নীয় বন্ধন",
+                  "label": "গ"
+                },
+                {
+                  "text": "ত্রিবন্ধন",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "খ",
+              "shortSolution": "সঠিক উত্তর: খ। Alkene-এ C=C double bond থাকে।",
+              "paper": "HSC Chem 2nd",
+              "subject": "chem-2nd",
+              "setType": "paper-wise-model-test",
+              "topic": "জৈব রসায়ন",
+              "difficulty": "Board Standard",
+              "probability": "Conceptual Trap"
+            },
+            {
+              "id": "hsc-chem-2nd-paper-set-15-q25",
+              "question": "pH = 7 হলে দ্রবণটি কেমন?",
+              "options": [
+                {
+                  "text": "নিরপেক্ষ",
+                  "label": "ক"
+                },
+                {
+                  "text": "অম্লীয়",
+                  "label": "খ"
+                },
+                {
+                  "text": "জারক",
+                  "label": "গ"
+                },
+                {
+                  "text": "ক্ষারীয়",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "ক",
+              "shortSolution": "সঠিক উত্তর: ক। pH 7 neutral দ্রবণ নির্দেশ করে।",
+              "paper": "HSC Chem 2nd",
+              "subject": "chem-2nd",
+              "setType": "paper-wise-model-test",
+              "topic": "অম্ল-ক্ষার",
+              "difficulty": "Board Standard",
+              "probability": "Mega Hot"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

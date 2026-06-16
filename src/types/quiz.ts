@@ -34,5 +34,7 @@ export interface ApiQuestion {
   chapter?: string;
   category?: string;
   explanation?: string;
+  image?: string | null;
+  optionImages?: string[] | null;
   is_live?: boolean;
 }

@@ -3,12 +3,38 @@ import {
   resolveFileSubjectSlug,
   type RegistryLevel,
 } from "@/lib/quiz/registry";
-import { extractChapterFromSourceKey } from "@/lib/quiz/normalize-quiz-data";
+import {
+  extractChapterFromSourceKey,
+  isImportedChapterModelKey,
+} from "@/lib/quiz/normalize-quiz-data";
 import type { NormalizedQuizSet, ParsedSubjectQuizData } from "@/lib/quiz/types";
 import type { ApiQuestion } from "@/types/quiz";
 
+type IndexBoardEntry = {
+  id: string;
+  title: string;
+  questionCount: number;
+};
+
+type IndexModelTestEntry = {
+  id: string;
+  title: string;
+  questionCount: number;
+  scope?: string;
+  tags?: string[];
+  chaptersCovered?: Array<{ chapter?: string; chapterName?: string } | string>;
+};
+
+function chapterNameFromIndexEntry(m: IndexModelTestEntry): string | null {
+  const covered = m.chaptersCovered;
+  if (!Array.isArray(covered) || !covered.length) return null;
+  const first = covered[0];
+  if (typeof first === "string") return first.trim() || null;
+  return String(first.chapterName ?? "").trim() || null;
+}
+
 function mapIndexModelTest(
-  m: { id: string; title: string; questionCount: number; scope?: string; tags?: string[] },
+  m: IndexModelTestEntry,
   level: RegistryLevel,
   fileSlug: string,
   paper?: string,
@@ -19,7 +45,7 @@ function mapIndexModelTest(
   });
   const fromKey = extractChapterFromSourceKey(m.id);
   const chapter = fromKey.chapter;
-  const chapterName = fromKey.chapterName;
+  const chapterName = chapterNameFromIndexEntry(m) ?? fromKey.chapterName;
 
   return {
     id: m.id,
@@ -41,7 +67,7 @@ function mapIndexModelTest(
 const clientCache = new Map<string, ParsedSubjectQuizData>();
 
 /** Bump when chapter/model/board split logic changes — busts stale in-memory cache. */
-const QUIZ_DATA_CACHE_VERSION = 12;
+const QUIZ_DATA_CACHE_VERSION = 59;
 
 export async function loadSubjectQuizData(
   level: RegistryLevel,
@@ -65,13 +91,18 @@ export async function loadSubjectQuizData(
     const indexData = await res.json();
     
     // Map index.json to ParsedSubjectQuizData structure
-    const mappedModelTests = (indexData.modelTests || []).map((m: {
-      id: string;
-      title: string;
-      questionCount: number;
-      scope?: string;
-      tags?: string[];
-    }) => mapIndexModelTest(m, level, fileSlug, paper));
+    const mappedModelTests = (indexData.modelTests || []).map((m: IndexModelTestEntry) =>
+      mapIndexModelTest(m, level, fileSlug, paper),
+    );
+
+    const chapterSetsFromModelTests = mappedModelTests
+      .filter(
+        (s: NormalizedQuizSet) =>
+          s.scope === "chapter" &&
+          s.questionCount > 0 &&
+          isImportedChapterModelKey(s.sourceKey ?? s.id),
+      )
+      .sort((a: NormalizedQuizSet, b: NormalizedQuizSet) => a.id.localeCompare(b.id));
 
     let chapterSets: NormalizedQuizSet[] = (indexData.chapters || []).map(
       (c: { id: string; title: string; questionCount: number }) => ({
@@ -91,6 +122,15 @@ export async function loadSubjectQuizData(
       }),
     );
 
+    // Prefer imported chapter-wise model tests over stale legacy chapter buckets.
+    if (chapterSetsFromModelTests.length > 0) {
+      chapterSets = chapterSetsFromModelTests;
+    } else if (chapterSets.length === 0) {
+      chapterSets = mappedModelTests
+        .filter((s: NormalizedQuizSet) => s.scope === "chapter" && s.questionCount > 0)
+        .sort((a: NormalizedQuizSet, b: NormalizedQuizSet) => a.id.localeCompare(b.id));
+    }
+
     let modelTestSets = mappedModelTests.filter(
       (s: NormalizedQuizSet) => s.scope !== "chapter",
     );
@@ -101,7 +141,7 @@ export async function loadSubjectQuizData(
       paper: paper ?? null,
       chapterSets,
       modelTestSets,
-      boardSets: (indexData.boards || []).map((b: any) => ({
+      boardSets: ((indexData.boards as IndexBoardEntry[]) || []).map((b) => ({
         id: b.id,
         title: b.title,
         displayTitle: b.title,
@@ -193,6 +233,15 @@ export function mapRawQuestionToApi(
     subject: typeof raw.subject === "string" ? raw.subject : undefined,
     chapter: typeof raw.chapter === "string" ? raw.chapter : undefined,
     explanation: "",
+    image:
+      typeof raw.image === "string"
+        ? raw.image
+        : typeof raw.svg === "string"
+          ? raw.svg
+          : null,
+    optionImages: Array.isArray(raw.optionImages)
+      ? raw.optionImages.filter((v): v is string => typeof v === "string").slice(0, 4)
+      : null,
   };
 }
 
@@ -300,22 +349,34 @@ export async function fetchNormalizedQuestionsWithMeta(
   for (const path of attemptedPaths) {
     const mapped = await tryFetchQuestionPath(path);
     if (mapped) {
-      console.log("Fetched Quiz Data:", {
-        path,
-        count: mapped.length,
-        sample: mapped[0],
-        setId,
-        fileSlug,
-      });
       return { questions: mapped, path, attemptedPaths };
     }
   }
 
-  console.error("Failed to fetch quiz JSON — all paths returned 404 or empty:", {
-    setId,
-    fileSlug,
-    attemptedPaths,
-  });
+  const megaUrl = `/quiz-data/${level}/${fileSlug}.json`;
+  attemptedPaths.push(`${megaUrl}#${setId}`);
+  try {
+    const res = await fetch(megaUrl, { cache: "no-store" });
+    if (res.ok) {
+      const data = (await res.json()) as { modelTests?: Record<string, unknown[]> };
+      for (const filename of buildQuestionFilenameCandidates(setId, fileSlug, level)) {
+        const list = data.modelTests?.[filename];
+        if (Array.isArray(list) && list.length > 0) {
+          const mapped = mapJsonPayloadToQuestions(list);
+          if (mapped.length > 0) {
+            return {
+              questions: mapped,
+              path: `${megaUrl}#${filename}`,
+              attemptedPaths,
+            };
+          }
+        }
+      }
+    }
+  } catch {
+    /* mega fallback failed */
+  }
+
   return { questions: [], path: null, attemptedPaths };
 }
 

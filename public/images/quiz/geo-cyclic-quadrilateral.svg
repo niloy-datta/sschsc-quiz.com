@@ -1,0 +1,22 @@
+<svg width="100%" height="100%" viewBox="0 0 420 260" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Cyclic Quadrilateral Angles">
+  <defs>
+    <marker id="arrow" markerWidth="8" markerHeight="8" refX="7" refY="3.5" orient="auto">
+      <path d="M0,0 L0,7 L8,3.5 z" fill="#0f172a"/>
+    </marker>
+    <marker id="arrowBlue" markerWidth="8" markerHeight="8" refX="7" refY="3.5" orient="auto">
+      <path d="M0,0 L0,7 L8,3.5 z" fill="#2563eb"/>
+    </marker>
+  </defs>
+  <rect width="420" height="260" rx="18" fill="#f8fafc"/>
+  <rect x="14" y="14" width="392" height="232" rx="14" fill="#ffffff" stroke="#cbd5e1" stroke-width="1.5"/>
+  <text x="210.0" y="38" text-anchor="middle" font-family="Arial, sans-serif" font-size="15" font-weight="700" fill="#0f172a">Cyclic Quadrilateral Angles</text>
+  
+  <circle cx="210" cy="132" r="82" fill="none" stroke="#2563eb" stroke-width="3"/>
+  <polygon points="145,82 288,92 276,190 122,174" fill="none" stroke="#0f172a" stroke-width="2.4"/>
+  <text x="136" y="75" font-size="12" fill="#0f172a">A</text><text x="296" y="88" font-size="12" fill="#0f172a">B</text>
+  <text x="282" y="205" font-size="12" fill="#0f172a">C</text><text x="110" y="184" font-size="12" fill="#0f172a">D</text>
+  <path d="M160 87 A22 22 0 0 1 149 108" fill="none" stroke="#ea580c" stroke-width="2"/>
+  <path d="M260 184 A25 25 0 0 1 245 166" fill="none" stroke="#16a34a" stroke-width="2"/>
+  <text x="210" y="224" text-anchor="middle" font-size="12" fill="#475569">Opposite angles of cyclic quadrilateral</text>
+
+</svg>

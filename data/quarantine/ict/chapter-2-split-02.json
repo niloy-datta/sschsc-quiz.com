@@ -1,0 +1,282 @@
+{
+  "setId": "chapter-2-split-02",
+  "reason": "DUPLICATE_OF_chapter-2-split-02",
+  "quarantinedAt": "2026-06-13T17:58:59.987Z",
+  "questions": [
+    {
+      "id": "chapter-2-split-02-q01",
+      "questionText": "Transmission medium কয় ধরনের?",
+      "optionA": "১",
+      "optionB": "২",
+      "optionC": "৩",
+      "optionD": "৪",
+      "correctOption": "B",
+      "explanation": "ট্রান্সমিশন মাধ্যম মূলত ২ প্রকার: তারযুক্ত (Guided) এবং তারবিহীন (Unguided) মাধ্যম।",
+      "questionNo": 1
+    },
+    {
+      "id": "chapter-2-split-02-q02",
+      "questionText": "Guided medium বলতে কী বোঝায়?",
+      "optionA": "তারবিহীন মাধ্যম",
+      "optionB": "তারযুক্ত মাধ্যম",
+      "optionC": "শুধু রেডিও",
+      "optionD": "শুধু স্যাটেলাইট",
+      "correctOption": "B",
+      "explanation": "Guided বা পরিচালিত মাধ্যম হলো এমন মাধ্যম যেখানে ডেটা যাওয়ার জন্য একটি নির্দিষ্ট ভৌত পথ বা তার (Cable) থাকে।",
+      "questionNo": 2
+    },
+    {
+      "id": "chapter-2-split-02-q03",
+      "questionText": "Unguided medium বলতে কী বোঝায়?",
+      "optionA": "তারযুক্ত মাধ্যম",
+      "optionB": "তারবিহীন মাধ্যম",
+      "optionC": "শুধু কোঅক্সিয়াল",
+      "optionD": "শুধু ফাইবার",
+      "correctOption": "B",
+      "explanation": "Unguided বা অ-পরিচালিত মাধ্যম হলো তারবিহীন মাধ্যম, যেখানে ডেটা বাতাস বা স্পেসের মধ্য দিয়ে যায়।",
+      "questionNo": 3
+    },
+    {
+      "id": "chapter-2-split-02-q04",
+      "questionText": "Guided medium-এর উদাহরণ কোনটি?",
+      "optionA": "Twisted pair cable",
+      "optionB": "Radio wave",
+      "optionC": "Microwave",
+      "optionD": "Satellite",
+      "correctOption": "A",
+      "explanation": "টুইস্টেড পেয়ার, কো-অক্সিয়াল এবং অপটিক্যাল ফাইবার হলো গাইডেড বা তারযুক্ত মাধ্যমের উদাহরণ।",
+      "questionNo": 4
+    },
+    {
+      "id": "chapter-2-split-02-q05",
+      "questionText": "Unguided medium-এর উদাহরণ কোনটি?",
+      "optionA": "Optical fiber",
+      "optionB": "Coaxial cable",
+      "optionC": "Microwave",
+      "optionD": "Twisted pair",
+      "correctOption": "C",
+      "explanation": "রেডিও ওয়েভ, মাইক্রোওয়েভ, স্যাটেলাইট, ইনফ্রারেড ইত্যাদি হলো আনগাইডেড বা ওয়্যারলেস মাধ্যমের উদাহরণ।",
+      "questionNo": 5
+    },
+    {
+      "id": "chapter-2-split-02-q06",
+      "questionText": "Twisted pair cable সাধারণত কোথায় ব্যবহৃত হয়?",
+      "optionA": "LAN",
+      "optionB": "মহাকাশ",
+      "optionC": "জেনেটিক ল্যাব",
+      "optionD": "ক্রায়োসার্জারি",
+      "correctOption": "A",
+      "explanation": "বাসা-বাড়ি, অফিস বা ছোট এলাকার লোকাল এরিয়া নেটওয়ার্কে (LAN) সবচেয়ে বেশি ব্যবহৃত হয় টুইস্টেড পেয়ার ক্যাবল।",
+      "questionNo": 6
+    },
+    {
+      "id": "chapter-2-split-02-q07",
+      "questionText": "UTP-এর পূর্ণরূপ কী?",
+      "optionA": "Unshielded Twisted Pair",
+      "optionB": "Universal Transmission Protocol",
+      "optionC": "Unique Transfer Port",
+      "optionD": "User Table Pair",
+      "correctOption": "A",
+      "explanation": "UTP এর পূর্ণরূপ হলো Unshielded Twisted Pair, যেটিতে কোনো প্রতিরক্ষামূলক জ্যাকেট বা শিল্ড থাকে না।",
+      "questionNo": 7
+    },
+    {
+      "id": "chapter-2-split-02-q08",
+      "questionText": "STP-এর পূর্ণরূপ কী?",
+      "optionA": "Shielded Twisted Pair",
+      "optionB": "Simple Transfer Protocol",
+      "optionC": "Standard Table Pair",
+      "optionD": "Signal Transfer Port",
+      "correctOption": "A",
+      "explanation": "STP এর পূর্ণরূপ হলো Shielded Twisted Pair, যেখানে বাইরের নয়েজ থেকে বাঁচার জন্য একটি ফয়েল শিল্ড থাকে।",
+      "questionNo": 8
+    },
+    {
+      "id": "chapter-2-split-02-q09",
+      "questionText": "UTP cable-এ shielding থাকে কি?",
+      "optionA": "থাকে",
+      "optionB": "থাকে না",
+      "optionC": "সবসময় fiber থাকে",
+      "optionD": "satellite থাকে",
+      "correctOption": "B",
+      "explanation": "UTP (Unshielded Twisted Pair) তে কোনো এক্সট্রা শিল্ডিং বা মেটাল ফয়েল থাকে না, তাই নয়েজের প্রভাব বেশি পড়ে।",
+      "questionNo": 9
+    },
+    {
+      "id": "chapter-2-split-02-q10",
+      "questionText": "Coaxial cable-এ সাধারণত থাকে—",
+      "optionA": "কেন্দ্রীয় conductor",
+      "optionB": "শুধু বাতাস",
+      "optionC": "শুধু আলো",
+      "optionD": "শুধু সফটওয়্যার",
+      "correctOption": "A",
+      "explanation": "কো-অক্সিয়াল ক্যাবলের ঠিক মাঝে একটি সলিড কপার তার বা কেন্দ্রীয় পরিবাহী (Center Conductor) থাকে, যা দিয়ে ডেটা পরিবাহিত হয়।",
+      "questionNo": 10
+    },
+    {
+      "id": "chapter-2-split-02-q11",
+      "questionText": "Optical fiber-এ ডেটা পরিবাহিত হয়—",
+      "optionA": "আলো দিয়ে",
+      "optionB": "বিদ্যুৎ দিয়ে",
+      "optionC": "শব্দ দিয়ে",
+      "optionD": "পানি দিয়ে",
+      "correctOption": "A",
+      "explanation": "অপটিক্যাল ফাইবার ক্যাবলে ডেটা ইলেকট্রিক্যাল সিগন্যালের পরিবর্তে আলোক সংকেত বা Light signal হিসেবে পরিবাহিত হয়।",
+      "questionNo": 11
+    },
+    {
+      "id": "chapter-2-split-02-q12",
+      "questionText": "Optical fiber-এর প্রধান সুবিধা—",
+      "optionA": "উচ্চ গতি ও বেশি bandwidth",
+      "optionB": "গতি কম",
+      "optionC": "noise বেশি",
+      "optionD": "শুধু ছোট দূরত্বে কাজ করে",
+      "correctOption": "A",
+      "explanation": "আলোর বেগে ডেটা ট্রান্সফার হওয়ায় এটি সবচেয়ে দ্রুতগামী, এর ব্যান্ডউইথ অনেক বেশি এবং এতে কোনো ইলেকট্রোম্যাগনেটিক নয়েজ হয় না।",
+      "questionNo": 12
+    },
+    {
+      "id": "chapter-2-split-02-q13",
+      "questionText": "Optical fiber কোন ধরনের medium?",
+      "optionA": "Guided",
+      "optionB": "Unguided",
+      "optionC": "Wireless",
+      "optionD": "Protocol",
+      "correctOption": "A",
+      "explanation": "যেহেতু এটি একটি ফিজিক্যাল ক্যাবল বা কাঁচের তন্তু, তাই এটি Guided মাধ্যম।",
+      "questionNo": 13
+    },
+    {
+      "id": "chapter-2-split-02-q14",
+      "questionText": "Radio wave কোন ধরনের medium?",
+      "optionA": "Guided",
+      "optionB": "Unguided",
+      "optionC": "Cable",
+      "optionD": "Fiber",
+      "correctOption": "B",
+      "explanation": "রেডিও ওয়েভ তারবিহীন (Wireless) যোগাযোগে ব্যবহৃত হয়, তাই এটি Unguided মাধ্যম।",
+      "questionNo": 14
+    },
+    {
+      "id": "chapter-2-split-02-q15",
+      "questionText": "Microwave communication-এ সাধারণত দরকার—",
+      "optionA": "Line of sight",
+      "optionB": "শুধু SQL",
+      "optionC": "শুধু HTML",
+      "optionD": "Keyboard",
+      "correctOption": "A",
+      "explanation": "মাইক্রোওয়েভ বাঁকা পথে চলতে পারে না, তাই ট্রান্সমিটার এবং রিসিভারের মাঝে কোনো বাধা থাকা যাবে না বা সরাসরি দৃষ্টিসীমায় (Line of Sight) থাকতে হবে।",
+      "questionNo": 15
+    },
+    {
+      "id": "chapter-2-split-02-q16",
+      "questionText": "Satellite communication কোন medium ব্যবহার করে?",
+      "optionA": "Unguided",
+      "optionB": "Twisted pair",
+      "optionC": "Coaxial",
+      "optionD": "UTP",
+      "correctOption": "A",
+      "explanation": "স্যাটেলাইট পৃথিবীর বাইরের কক্ষপথে থেকে তারবিহীন রেডিও বা মাইক্রোওয়েভের মাধ্যমে যোগাযোগ করে, তাই এটি Unguided মাধ্যম।",
+      "questionNo": 16
+    },
+    {
+      "id": "chapter-2-split-02-q17",
+      "questionText": "Bluetooth কোন ধরনের যোগাযোগ?",
+      "optionA": "Wireless",
+      "optionB": "Wired",
+      "optionC": "Fiber",
+      "optionD": "Coaxial",
+      "correctOption": "A",
+      "explanation": "ব্লুটুথ হলো একটি শর্ট-রেঞ্জ ওয়্যারলেস বা তারবিহীন যোগাযোগ প্রযুক্তি।",
+      "questionNo": 17
+    },
+    {
+      "id": "chapter-2-split-02-q18",
+      "questionText": "Wi-Fi কোন ধরনের communication?",
+      "optionA": "Wireless",
+      "optionB": "Wired",
+      "optionC": "Optical cable",
+      "optionD": "Serial cable",
+      "correctOption": "A",
+      "explanation": "ওয়াই-ফাই লোকাল এরিয়া নেটওয়ার্কে ওয়্যারলেস বা তারবিহীন যোগাযোগের জন্য ব্যবহৃত হয়।",
+      "questionNo": 18
+    },
+    {
+      "id": "chapter-2-split-02-q19",
+      "questionText": "Infrared communication-এ ব্যবহৃত হয়—",
+      "optionA": "অবলোহিত রশ্মি",
+      "optionB": "কপার তার",
+      "optionC": "ফাইবার কেবল",
+      "optionD": "SQL",
+      "correctOption": "A",
+      "explanation": "ইনফ্রারেড (Infrared) যোগাযোগ ব্যবস্থায় ডেটা পাঠাতে অবলোহিত রশ্মি ব্যবহার করা হয় (যেমন রিমোট কন্ট্রোল)।",
+      "questionNo": 19
+    },
+    {
+      "id": "chapter-2-split-02-q20",
+      "questionText": "কোন medium-এ electromagnetic interference কম?",
+      "optionA": "Optical fiber",
+      "optionB": "UTP",
+      "optionC": "Coaxial",
+      "optionD": "Copper wire",
+      "correctOption": "A",
+      "explanation": "অপটিক্যাল ফাইবারে বিদ্যুৎ ব্যবহার না করে আলো ব্যবহার করা হয়, তাই এতে চৌম্বকীয় ক্ষেত্র বা EMI এর কোনো প্রভাব পড়ে না।",
+      "questionNo": 20
+    },
+    {
+      "id": "chapter-2-split-02-q21",
+      "questionText": "বেশি দূরত্বে বেশি গতির জন্য ভালো medium—",
+      "optionA": "Optical fiber",
+      "optionB": "সাধারণ UTP",
+      "optionC": "keyboard cable",
+      "optionD": "mouse cable",
+      "correctOption": "A",
+      "explanation": "লং ডিসটেন্স কমিউনিকেশন বা সাবমেরিন ক্যাবলে অতি উচ্চ গতির জন্য সবসময় অপটিক্যাল ফাইবার ব্যবহৃত হয়।",
+      "questionNo": 21
+    },
+    {
+      "id": "chapter-2-split-02-q22",
+      "questionText": "Cable ছাড়া মোবাইল যোগাযোগ হয় কোন মাধ্যমে?",
+      "optionA": "Radio wave",
+      "optionB": "Coaxial cable",
+      "optionC": "Optical fiber",
+      "optionD": "Twisted pair",
+      "correctOption": "A",
+      "explanation": "মোবাইল ফোন নেটওয়ার্কে টাওয়ারের সাথে যোগাযোগের জন্য রেডিও ফ্রিকোয়েন্সি বা রেডিও ওয়েভ ব্যবহৃত হয়।",
+      "questionNo": 22
+    },
+    {
+      "id": "chapter-2-split-02-q23",
+      "questionText": "LAN-এ সবচেয়ে বেশি ব্যবহৃত cable—",
+      "optionA": "Twisted pair",
+      "optionB": "Satellite",
+      "optionC": "Microwave",
+      "optionD": "Infrared",
+      "correctOption": "A",
+      "explanation": "বাসা বা অফিসের লোকাল নেটওয়ার্কে রাউটারের সাথে পিসি কানেক্ট করতে টুইস্টেড পেয়ার ক্যাবল (RJ45 কানেক্টরসহ) সবচেয়ে বেশি ব্যবহৃত হয়।",
+      "questionNo": 23
+    },
+    {
+      "id": "chapter-2-split-02-q24",
+      "questionText": "TV cable network-এ ঐতিহাসিকভাবে ব্যবহৃত cable—",
+      "optionA": "Coaxial cable",
+      "optionB": "Optical mouse",
+      "optionC": "Keyboard cable",
+      "optionD": "HDMI only",
+      "correctOption": "A",
+      "explanation": "টেলিভিশনের ডিশ লাইন বা কেবল টিভি নেটওয়ার্কে সাধারণত কো-অক্সিয়াল ক্যাবল ব্যবহার করা হয়ে থাকে।",
+      "questionNo": 24
+    },
+    {
+      "id": "chapter-2-split-02-q25",
+      "questionText": "Transmission media নির্বাচনের সময় গুরুত্বপূর্ণ নয় কোনটি?",
+      "optionA": "Cost",
+      "optionB": "Bandwidth",
+      "optionC": "Distance",
+      "optionD": "Font color",
+      "correctOption": "D",
+      "explanation": "মাধ্যম নির্বাচনের সময় খরচ, ব্যান্ডউইথ বা স্পিড এবং দূরত্ব বিবেচনা করতে হয়। ফন্ট কালারের সাথে এর কোনো সম্পর্ক নেই।",
+      "questionNo": 25
+    }
+  ]
+}

@@ -1,0 +1,282 @@
+{
+  "setId": "chapter-04-split-01",
+  "reason": "DUPLICATE_OF_chapter-04-split-01",
+  "quarantinedAt": "2026-06-16T10:44:44.708Z",
+  "questions": [
+    {
+      "id": "chapter-04-split-01-q01",
+      "questionText": "Q1. পরমাণু সংখ্যা (atomic number) কী নির্দেশ করে? English: What does atomic number indicate?",
+      "optionA": "Number of protons",
+      "optionB": "Number of neutrons",
+      "optionC": "Mass number",
+      "optionD": "Number of isotopes",
+      "correctOption": "A",
+      "explanation": "Atomic number = number of protons in nucleus.",
+      "questionNo": 1
+    },
+    {
+      "id": "chapter-04-split-01-q02",
+      "questionText": "Q2. ভর সংখ্যা (mass number) = ? English: Mass number equals?",
+      "optionA": "Protons + Neutrons",
+      "optionB": "Protons only",
+      "optionC": "Electrons + Protons",
+      "optionD": "Neutrons only",
+      "correctOption": "A",
+      "explanation": "Mass number A = Z + N (protons + neutrons).",
+      "questionNo": 2
+    },
+    {
+      "id": "chapter-04-split-01-q03",
+      "questionText": "Q3. আইসোটপ কি? English: Isotope are atoms with?",
+      "optionA": "Same Z, different A",
+      "optionB": "Same A, different Z",
+      "optionC": "Different electrons only",
+      "optionD": "Different valency only",
+      "correctOption": "A",
+      "explanation": "Isotopes have same atomic number but different mass numbers.",
+      "questionNo": 3
+    },
+    {
+      "id": "chapter-04-split-01-q04",
+      "questionText": "Q4. Na (Z=11) এর ইলেকট্রনিক কনফিগারেশন কী? English: Electronic configuration of Na (Z=11)?",
+      "optionA": "2,8,1",
+      "optionB": "2,9",
+      "optionC": "2,8,2",
+      "optionD": "2,7,2",
+      "correctOption": "A",
+      "explanation": "11 electrons → 2,8,1.",
+      "questionNo": 4
+    },
+    {
+      "id": "chapter-04-split-01-q05",
+      "questionText": "Q5. কোন অনুপাতিকতা (trend) যখন period অনুযায়ী ডানে যাওয়া হয়? English: Across a period left→right, atomic radius generally?",
+      "optionA": "Decreases",
+      "optionB": "Increases",
+      "optionC": "No change",
+      "optionD": "First increase then decrease",
+      "correctOption": "A",
+      "explanation": "Increasing nuclear charge pulls electrons closer → radius decreases.",
+      "questionNo": 5
+    },
+    {
+      "id": "chapter-04-split-01-q06",
+      "questionText": "Q6. Ionization energy across a period left→right সাধারণত কীভাবে থাকে? English: Ionization energy across a period left→right?",
+      "optionA": "Increases",
+      "optionB": "Decreases",
+      "optionC": "No change",
+      "optionD": "Varies randomly",
+      "correctOption": "A",
+      "explanation": "Higher nuclear charge → more tightly held electrons → IE increases.",
+      "questionNo": 6
+    },
+    {
+      "id": "chapter-04-split-01-q07",
+      "questionText": "Q7. Electronegativity কোনদিকে বেশি হয়? English: Electronegativity increases in which direction on periodic table?",
+      "optionA": "Across period to right and up the group",
+      "optionB": "Left and down",
+      "optionC": "Right and down",
+      "optionD": "Left and up",
+      "correctOption": "A",
+      "explanation": "Most EN at top-right (excluding noble gases); increases right & up.",
+      "questionNo": 7
+    },
+    {
+      "id": "chapter-04-split-01-q08",
+      "questionText": "Q8. কোনটি একটি অ্যালকালাইন মেটাল? (Choose alkali metal)",
+      "optionA": "K",
+      "optionB": "Ca",
+      "optionC": "Al",
+      "optionD": "Pb",
+      "correctOption": "A",
+      "explanation": "Potassium (K) is Group 1 alkali metal.",
+      "questionNo": 8
+    },
+    {
+      "id": "chapter-04-split-01-q09",
+      "questionText": "Q9. কোনটি হ্যালোজেন? English: Which is a halogen?",
+      "optionA": "Cl",
+      "optionB": "Na",
+      "optionC": "Mg",
+      "optionD": "Si",
+      "correctOption": "A",
+      "explanation": "Chlorine (Cl) is a halogen (Group 17).",
+      "questionNo": 9
+    },
+    {
+      "id": "chapter-04-split-01-q10",
+      "questionText": "Q10. Noble gases-এর প্রধান বৈশিষ্ট্য? English: Main property of noble gases?",
+      "optionA": "Inertness due to full valence shell",
+      "optionB": "Highly reactive",
+      "optionC": "Good conductors",
+      "optionD": "Strong oxidizers",
+      "correctOption": "A",
+      "explanation": "Noble gases have full valence shells → low reactivity.",
+      "questionNo": 10
+    },
+    {
+      "id": "chapter-04-split-01-q11",
+      "questionText": "Q11. Which species is isoelectronic with Ne (10 electrons)? English: Isoelectronic with Ne?",
+      "optionA": "F-",
+      "optionB": "O2-",
+      "optionC": "Na+",
+      "optionD": "All of the above",
+      "correctOption": "D",
+      "explanation": "F- (9+1), O2- (8+2), Na+ (11-1) all have 10 electrons → isoelectronic.",
+      "questionNo": 11
+    },
+    {
+      "id": "chapter-04-split-01-q12",
+      "questionText": "Q12. If atomic number Z=16, element is? English: Element with Z=16 is?",
+      "optionA": "S (Sulfur)",
+      "optionB": "P",
+      "optionC": "Cl",
+      "optionD": "Si",
+      "correctOption": "A",
+      "explanation": "Atomic number 16 corresponds to sulfur.",
+      "questionNo": 12
+    },
+    {
+      "id": "chapter-04-split-01-q13",
+      "questionText": "Q13. Valency of oxygen normally is? English: Typical valency of oxygen?",
+      "optionA": "2",
+      "optionB": "1",
+      "optionC": "3",
+      "optionD": "4",
+      "correctOption": "A",
+      "explanation": "Oxygen usually forms 2 bonds (valency 2).",
+      "questionNo": 13
+    },
+    {
+      "id": "chapter-04-split-01-q14",
+      "questionText": "Q14. Which has greater metallic character: K or Cl? English: Greater metallic character between K and Cl?",
+      "optionA": "K",
+      "optionB": "Cl",
+      "optionC": "Same",
+      "optionD": "Cannot say",
+      "correctOption": "A",
+      "explanation": "Metals are on left; K is metal whereas Cl is nonmetal.",
+      "questionNo": 14
+    },
+    {
+      "id": "chapter-04-split-01-q15",
+      "questionText": "Q15. Electron affinity definition: it is?",
+      "optionA": "Energy change when an atom gains an electron",
+      "optionB": "Energy to remove an electron",
+      "optionC": "Bond energy",
+      "optionD": "Ionization energy",
+      "correctOption": "A",
+      "explanation": "Electron affinity = energy change on gaining an electron (often negative).",
+      "questionNo": 15
+    },
+    {
+      "id": "chapter-04-split-01-q16",
+      "questionText": "Q16. Which element has highest electronegativity? (among H, Li, F)",
+      "optionA": "F",
+      "optionB": "H",
+      "optionC": "Li",
+      "optionD": "All equal",
+      "correctOption": "A",
+      "explanation": "Fluorine is most electronegative element.",
+      "questionNo": 16
+    },
+    {
+      "id": "chapter-04-split-01-q17",
+      "questionText": "Q17. Which ion forms when chlorine atom gains one electron? English: Ion formed by Cl gaining electron?",
+      "optionA": "Cl-",
+      "optionB": "Cl+",
+      "optionC": "Cl2-",
+      "optionD": "ClO-",
+      "correctOption": "A",
+      "explanation": "Chlorine gains one electron to form Cl- (chloride).",
+      "questionNo": 17
+    },
+    {
+      "id": "chapter-04-split-01-q18",
+      "questionText": "Q18. Electronic configuration 2,8,7 corresponds to which element? English: Element with config 2,8,7?",
+      "optionA": "Cl",
+      "optionB": "S",
+      "optionC": "Ar",
+      "optionD": "Si",
+      "correctOption": "A",
+      "explanation": "2+8+7=17 → atomic number 17 → Chlorine.",
+      "questionNo": 18
+    },
+    {
+      "id": "chapter-04-split-01-q19",
+      "questionText": "Q19. Which of the following has smallest atomic radius? (Na, Mg, Al)",
+      "optionA": "Al",
+      "optionB": "Na",
+      "optionC": "Mg",
+      "optionD": "All same",
+      "correctOption": "A",
+      "explanation": "Across period, radius decreases → Al (to the right) smallest among listed.",
+      "questionNo": 19
+    },
+    {
+      "id": "chapter-04-split-01-q20",
+      "questionText": "Q20. Which element shows variable oxidation states commonly? (Fe, Na, Ne)",
+      "optionA": "Fe",
+      "optionB": "Na",
+      "optionC": "Ne",
+      "optionD": "All",
+      "correctOption": "A",
+      "explanation": "Transition metal iron shows multiple oxidation states.",
+      "questionNo": 20
+    },
+    {
+      "id": "chapter-04-split-01-q21",
+      "questionText": "Q21. What is the charge on Mg ion in MgO? English: Charge on Mg in MgO?",
+      "optionA": "+2",
+      "optionB": "+1",
+      "optionC": "-2",
+      "optionD": "0",
+      "correctOption": "A",
+      "explanation": "Mg loses two electrons → Mg2+; O2- balances charge.",
+      "questionNo": 21
+    },
+    {
+      "id": "chapter-04-split-01-q22",
+      "questionText": "Q22. Which element is a metalloid? (B, C, Na, Ar)",
+      "optionA": "Boron (B)",
+      "optionB": "Carbon",
+      "optionC": "Sodium",
+      "optionD": "Argon",
+      "correctOption": "A",
+      "explanation": "Boron shows properties between metals and nonmetals → metalloid.",
+      "questionNo": 22
+    },
+    {
+      "id": "chapter-04-split-01-q23",
+      "questionText": "Q23. Successive ionization energies: which atom has much higher 3rd IE indicating removal from core? (Mg: 1st~738kJ/mol, 2nd~1450kJ/mol, 3rd~7730kJ/mol) — What does a big jump indicate?",
+      "optionA": "Core electron removal / stable shell",
+      "optionB": "No physical meaning",
+      "optionC": "Electron affinity",
+      "optionD": "Isotope change",
+      "correctOption": "A",
+      "explanation": "A large jump indicates removal of core electron after valence removed.",
+      "questionNo": 23
+    },
+    {
+      "id": "chapter-04-split-01-q24",
+      "questionText": "Q24. Which of following elements will form +1 ion most readily? (K, Ca, Al)",
+      "optionA": "K",
+      "optionB": "Ca",
+      "optionC": "Al",
+      "optionD": "None",
+      "correctOption": "A",
+      "explanation": "Alkali metal K loses one electron → K+.",
+      "questionNo": 24
+    },
+    {
+      "id": "chapter-04-split-01-q25",
+      "questionText": "Q25. Flame test: sodium gives what color? English: Sodium flame test color?",
+      "optionA": "Yellow",
+      "optionB": "Red",
+      "optionC": "Green",
+      "optionD": "Blue",
+      "correctOption": "A",
+      "explanation": "Sodium ions produce intense yellow flame.",
+      "questionNo": 25
+    }
+  ]
+}

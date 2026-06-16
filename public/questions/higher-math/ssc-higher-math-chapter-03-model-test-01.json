@@ -1,352 +1,317 @@
 [
   {
-    "id": "ssc-higher-math-ch03-set01-q01",
+    "id": "ssc-higher-math-chapter-03-model-test-01-q01",
     "subject": "higher-math",
     "chapter": "ssc-higher-math-chapter-03-model-test-01",
-    "text": "কোনো ত্রিভুজের নববিন্দু বৃত্তের ব্যাসার্ধ 4 সে.মি. হলে, এর পরিবৃত্তের ব্যাসার্ধ কত?",
+    "text": "P(ঘটনা) = 4/9 হলে সম্পূরক = ?",
     "options": [
-      "2 সে.মি.",
-      "4 সে.মি.",
-      "16 সে.মি.",
-      "8 সে.মি."
+      "-1",
+      "9",
+      "1",
+      "20"
     ],
     "image": null,
+    "optionImages": null,
     "timeLimit": 45
   },
   {
-    "id": "ssc-higher-math-ch03-set01-q02",
+    "id": "ssc-higher-math-chapter-03-model-test-01-q02",
     "subject": "higher-math",
     "chapter": "ssc-higher-math-chapter-03-model-test-01",
-    "text": "কোনো ত্রিভুজের নববিন্দু বৃত্তের ব্যাসার্ধ 4 সে.মি. হলে, এর পরিবৃত্তের ব্যাসার্ধ কত?",
+    "text": "2x + 22 = 36 হলে x = ?",
     "options": [
-      "2 সে.মি.",
-      "16 সে.মি.",
-      "4 সে.মি.",
-      "8 সে.মি."
-    ],
-    "image": null,
-    "timeLimit": 45
-  },
-  {
-    "id": "ssc-higher-math-ch03-set01-q03",
-    "subject": "higher-math",
-    "chapter": "ssc-higher-math-chapter-03-model-test-01",
-    "text": "কোনো ত্রিভুজের নববিন্দু বৃত্তের ব্যাসার্ধ 4 সে.মি. হলে, এর পরিবৃত্তের ব্যাসার্ধ কত?",
-    "options": [
-      "4 সে.মি.",
-      "8 সে.মি.",
-      "2 সে.মি.",
-      "16 সে.মি."
-    ],
-    "image": null,
-    "timeLimit": 45
-  },
-  {
-    "id": "ssc-higher-math-ch03-set01-q04",
-    "subject": "higher-math",
-    "chapter": "ssc-higher-math-chapter-03-model-test-01",
-    "text": "কোনো ত্রিভুজের নববিন্দু বৃত্তের ব্যাসার্ধ 4 সে.মি. হলে, এর পরিবৃত্তের ব্যাসার্ধ কত?",
-    "options": [
-      "8 সে.মি.",
-      "4 সে.মি.",
-      "16 সে.মি.",
-      "2 সে.মি."
-    ],
-    "image": null,
-    "timeLimit": 45
-  },
-  {
-    "id": "ssc-higher-math-ch03-set01-q05",
-    "subject": "higher-math",
-    "chapter": "ssc-higher-math-chapter-03-model-test-01",
-    "text": "চিত্রে, $ABCD$ বৃত্তের কেন্দ্র $O$, $BM \\perp AC$, $ME \\perp BC$ এবং $AB = BC$। i. $AC \\cdot BD = AB(CD + AD)$ ii. $AF \\ge FD$ iii. $AB^2 = BD \\cdot BM$ নিচের কোনটি সঠিক?",
-    "options": [
-      "i ও ii",
-      "i ও iii",
-      "ii ও iii",
-      "i, ii ও iii"
-    ],
-    "image": null,
-    "timeLimit": 45
-  },
-  {
-    "id": "ssc-higher-math-ch03-set01-q06",
-    "subject": "higher-math",
-    "chapter": "ssc-higher-math-chapter-03-model-test-01",
-    "text": "একটি ত্রিভুজ গঠন করা যায় যখন— i. ভূমি, ভূমি সংলগ্ন একটি কোণ এবং উচ্চতা দেওয়া থাকলে ii. ভূমি, শিরঃকোণ এবং অপর দুই বাহুর সমষ্টি দেওয়া থাকলে iii. ভূমি সংলগ্ন একটি কোণ, উচ্চতা এবং অপর দুই বাহুর সমষ্টি দেওয়া থাকলে নিচের কোনটি সঠিক?",
-    "options": [
-      "i ও ii",
-      "i ও iii",
-      "ii ও iii",
-      "i, ii ও iii"
-    ],
-    "image": null,
-    "timeLimit": 45
-  },
-  {
-    "id": "ssc-higher-math-ch03-set01-q07",
-    "subject": "higher-math",
-    "chapter": "ssc-higher-math-chapter-03-model-test-01",
-    "text": "$\\triangle ABC$ এ $BC = p, CA = q, AB = r$ এবং $p^2 > q^2 + r^2$ হলে—",
-    "options": [
-      "$\\angle A$ সূক্ষ্মকোণ",
-      "$\\angle A$ স্থূলকোণ",
-      "$\\angle C$ স্থূলকোণ",
-      "$\\angle B$ স্থূলকোণ"
-    ],
-    "image": null,
-    "timeLimit": 45
-  },
-  {
-    "id": "ssc-higher-math-ch03-set01-q08",
-    "subject": "higher-math",
-    "chapter": "ssc-higher-math-chapter-03-model-test-01",
-    "text": "কোনো ত্রিভুজের কোণগুলোর অনুপাত 2:5:11 হলে ক্ষুদ্রতম কোণের বৃত্তীয় মান কত?",
-    "options": [
-      "$\\frac{\\pi}{18}$",
-      "$\\frac{\\pi}{9}$",
-      "$\\frac{5\\pi}{18}$",
-      "$\\frac{11\\pi}{9}$"
-    ],
-    "image": null,
-    "timeLimit": 45
-  },
-  {
-    "id": "ssc-higher-math-ch03-set01-q09",
-    "subject": "higher-math",
-    "chapter": "ssc-higher-math-chapter-03-model-test-01",
-    "text": "\\\\(P(-3,2)\\\\) এবং \\\\(Q(3,-2)\\\\) দুটি বিন্দু হলে— i. \\\\(PQ\\\\)-এর দৈর্ঘ্য \\\\(2\\\\sqrt{13}\\\\) একক ii. \\\\(PQ\\\\), \\\\(x\\\\)-অক্ষের ধনাত্মক দিকের সাথে স্থূলকোণ উৎপন্ন করে iii. \\\\(PQ\\\\)-এর ঢাল \\\\(\\\\frac{2}{3}\\\\) কোনটি সঠিক?",
-    "options": [
-      "i ও ii",
-      "i ও iii",
-      "ii ও iii",
-      "i, ii ও iii"
-    ],
-    "image": null,
-    "timeLimit": 45
-  },
-  {
-    "id": "ssc-higher-math-ch03-set01-q10",
-    "subject": "higher-math",
-    "chapter": "ssc-higher-math-chapter-03-model-test-01",
-    "text": "সমান উচ্চতাবিশিষ্ট একটি সিলিন্ডার ও একটি সমবৃত্তভূমিক কোণের ভূমি সমান হলে তাদের আয়তনের অনুপাত কোনটি?",
-    "options": [
-      "1:2",
-      "1:3",
-      "2:1",
-      "3:1"
-    ],
-    "image": null,
-    "timeLimit": 45
-  },
-  {
-    "id": "ssc-higher-math-ch03-set01-q11",
-    "subject": "higher-math",
-    "chapter": "ssc-higher-math-chapter-03-model-test-01",
-    "text": "একটি সমবাহু ত্রিভুজের প্রতিটি মধ্যমার দৈর্ঘ্য 6 cm হলে, ঐ ত্রিভুজের প্রতিটি বাহুর দৈর্ঘ্য কত cm?",
-    "options": [
-      "\\\\(6\\\\sqrt2\\\\)",
       "6",
-      "\\\\(4\\\\sqrt3\\\\)",
-      "\\\\(3\\\\sqrt3\\\\)"
+      "8",
+      "9",
+      "7"
     ],
     "image": null,
+    "optionImages": null,
     "timeLimit": 45
   },
   {
-    "id": "ssc-higher-math-ch03-set01-q12",
+    "id": "ssc-higher-math-chapter-03-model-test-01-q03",
     "subject": "higher-math",
     "chapter": "ssc-higher-math-chapter-03-model-test-01",
-    "text": "নব বিন্দু বৃত্তের ব্যাসার্ধ 7 cm হলে পরিবৃত্তের ক্ষেত্রফল কত বর্গ cm?",
+    "text": "P(ঘটনা) = 8/11 হলে সম্পূরক = ?",
     "options": [
-      "\\\\(7\\\\pi\\\\)",
-      "\\\\(14\\\\pi\\\\)",
-      "\\\\(49\\\\pi\\\\)",
-      "\\\\(196\\\\pi\\\\)"
+      "11",
+      "24",
+      "5",
+      "-5"
     ],
     "image": null,
+    "optionImages": null,
     "timeLimit": 45
   },
   {
-    "id": "ssc-higher-math-ch03-set01-q13",
+    "id": "ssc-higher-math-chapter-03-model-test-01-q04",
     "subject": "higher-math",
     "chapter": "ssc-higher-math-chapter-03-model-test-01",
-    "text": "কোনো ত্রিভুজের পরিবৃত্তের ব্যাস **6 সে.মি.** হলে, নববিন্দু বৃত্তের ব্যাসার্ধ কত?",
+    "text": "7x + 13 = 195 হলে x = ?",
     "options": [
-      "6 সে.মি.",
-      "3 সে.মি.",
-      "1.5 সে.মি.",
-      "0.75 সে.মি."
+      "27",
+      "25",
+      "26",
+      "28"
     ],
     "image": null,
+    "optionImages": null,
     "timeLimit": 45
   },
   {
-    "id": "ssc-higher-math-ch03-set01-q14",
+    "id": "ssc-higher-math-chapter-03-model-test-01-q05",
     "subject": "higher-math",
     "chapter": "ssc-higher-math-chapter-03-model-test-01",
-    "text": "সমদ্বিবাহু ত্রিভুজের সমান সমান বাহুর দৈর্ঘ্য **6 সে.মি.** এবং এদের অন্তর্ভুক্ত কোণটি **90°** হলে— i. এর অতিভুজের দৈর্ঘ্য $= 6\\sqrt{2}$ সে.মি. ii. সূক্ষ্মকোণদ্বয়ের প্রত্যেকের মান = 45° iii. সমকৌণিক শীর্ষবিন্দু থেকে অতিভুজের উপর অঙ্কিত লম্বের দৈর্ঘ্য $= 3\\sqrt{2}$ সে.মি. নিচের কোনটি সঠিক?",
+    "text": "P(ঘটনা) = 6/7 হলে সম্পূরক = ?",
     "options": [
-      "i ও ii",
-      "i ও iii",
-      "ii ও iii",
-      "i, ii ও iii"
+      "6",
+      "-5",
+      "7",
+      "5"
     ],
     "image": null,
+    "optionImages": null,
     "timeLimit": 45
   },
   {
-    "id": "ssc-higher-math-ch03-set01-q15",
+    "id": "ssc-higher-math-chapter-03-model-test-01-q06",
     "subject": "higher-math",
     "chapter": "ssc-higher-math-chapter-03-model-test-01",
-    "text": "কোনো বৃত্তের ব্যাসার্ধ **2 সে.মি.** হলে, বৃত্তের **11 সে.মি.** দীর্ঘ চাপের কেন্দ্রস্থ কোণ কত?",
+    "text": "4x + 5 = 69 হলে x = ?",
     "options": [
-      "$\\frac{11}{2}$ রেডিয়ান",
-      "$\\frac{2}{11}$ রেডিয়ান",
-      "99°",
-      "60°"
+      "16",
+      "18",
+      "17",
+      "15"
     ],
     "image": null,
+    "optionImages": null,
     "timeLimit": 45
   },
   {
-    "id": "ssc-higher-math-ch03-set01-q16",
+    "id": "ssc-higher-math-chapter-03-model-test-01-q07",
     "subject": "higher-math",
     "chapter": "ssc-higher-math-chapter-03-model-test-01",
-    "text": "$PQR$ একটি ত্রিভুজ হলে, নিচের কোনটি ভেক্টর বিয়োগের ত্রিভুজ বিধি নির্দেশ করে?",
+    "text": "3, 4, ... 5 পদের যোগফল = ?",
     "options": [
-      "$\\vec{RQ} = \\vec{RP} - \\vec{PQ}$",
-      "$\\vec{PQ} = \\vec{RQ} - \\vec{RP}$",
-      "$\\vec{PQ} = \\vec{QR} - \\vec{RP}$",
-      "$\\vec{RQ} = \\vec{QP} - \\vec{RP}$"
+      "8",
+      "15",
+      "25",
+      "28"
     ],
     "image": null,
+    "optionImages": null,
     "timeLimit": 45
   },
   {
-    "id": "ssc-higher-math-ch03-set01-q17",
+    "id": "ssc-higher-math-chapter-03-model-test-01-q08",
     "subject": "higher-math",
     "chapter": "ssc-higher-math-chapter-03-model-test-01",
-    "text": "$\\triangle ABC$ ত্রিভুজের মধ্যমাগুলোর বর্গের সমষ্টি কত বর্গ সে.মি.? *(চিত্রটি অনুপস্থিত)*",
+    "text": "বৃত্তের ব্যাসার্ধ 4 হলে ক্ষেত্রফল ≈ ?",
     "options": [
-      "507",
-      "253.5",
-      "216",
-      "112.67"
+      "4",
+      "16",
+      "8",
+      "50.265"
     ],
     "image": null,
+    "optionImages": null,
     "timeLimit": 45
   },
   {
-    "id": "ssc-higher-math-ch03-set01-q18",
+    "id": "ssc-higher-math-chapter-03-model-test-01-q09",
     "subject": "higher-math",
     "chapter": "ssc-higher-math-chapter-03-model-test-01",
-    "text": "একটি ত্রিভুজের পরিবৃত্তের ব্যাস **8 সে.মি.** হলে, ইহার নববিন্দু বৃত্তের ব্যাসার্ধ কত সে.মি.?",
+    "text": "(9 + 20) × 1 = ?",
+    "options": [
+      "180",
+      "11",
+      "-11",
+      "29"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-higher-math-chapter-03-model-test-01-q10",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-03-model-test-01",
+    "text": "8, 9, ... 3 পদের যোগফল = ?",
+    "options": [
+      "11",
+      "24",
+      "35",
+      "27"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-higher-math-chapter-03-model-test-01-q11",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-03-model-test-01",
+    "text": "বৃত্তের ব্যাসার্ধ 10 হলে ক্ষেত্রফল ≈ ?",
+    "options": [
+      "20",
+      "314.15",
+      "100",
+      "10"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-higher-math-chapter-03-model-test-01-q12",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-03-model-test-01",
+    "text": "(6 + 12) × 1 = ?",
+    "options": [
+      "-6",
+      "72",
+      "18",
+      "6"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-higher-math-chapter-03-model-test-01-q13",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-03-model-test-01",
+    "text": "6, 7, ... 8 পদের যোগফল = ?",
+    "options": [
+      "14",
+      "76",
+      "82",
+      "48"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-higher-math-chapter-03-model-test-01-q14",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-03-model-test-01",
+    "text": "বৃত্তের ব্যাসার্ধ 6 হলে ক্ষেত্রফল ≈ ?",
+    "options": [
+      "6",
+      "12",
+      "113.09",
+      "36"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-higher-math-chapter-03-model-test-01-q15",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-03-model-test-01",
+    "text": "(4 + 3) × 1 = ?",
+    "options": [
+      "1",
+      "7",
+      "-1",
+      "12"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-higher-math-chapter-03-model-test-01-q16",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-03-model-test-01",
+    "text": "P(ঘটনা) = 3/8 হলে সম্পূরক = ?",
     "options": [
       "2",
-      "4",
+      "-2",
       "8",
-      "16"
+      "15"
     ],
     "image": null,
+    "optionImages": null,
     "timeLimit": 45
   },
   {
-    "id": "ssc-higher-math-ch03-set01-q19",
+    "id": "ssc-higher-math-chapter-03-model-test-01-q17",
     "subject": "higher-math",
     "chapter": "ssc-higher-math-chapter-03-model-test-01",
-    "text": "3 সে.মি. উচ্চতা ও 4 সে.মি. ভূমির ব্যাসবিশিষ্ট সমবৃত্তভূমিক কোণকের— i. বক্রতলের ক্ষেত্রফল $= 2\\sqrt{13}\\pi$ বর্গ সে.মি. ii. ভূমির ক্ষেত্রফল $= 4\\pi$ বর্গ সে.মি. iii. আয়তন $= 4\\pi$ ঘন সে.মি. নিচের কোনটি সঠিক?",
+    "text": "9x + 21 = 75 হলে x = ?",
     "options": [
-      "i ও ii",
-      "ii ও iii",
-      "i ও iii",
-      "i, ii ও iii"
+      "8",
+      "5",
+      "7",
+      "6"
     ],
     "image": null,
+    "optionImages": null,
     "timeLimit": 45
   },
   {
-    "id": "ssc-higher-math-ch03-set01-q20",
+    "id": "ssc-higher-math-chapter-03-model-test-01-q18",
     "subject": "higher-math",
     "chapter": "ssc-higher-math-chapter-03-model-test-01",
-    "text": "সমবাহু ত্রিভুজের পরিবৃত্তের ব্যাসার্ধ 5 সে.মি. হলে, ত্রিভুজটির বাহুর দৈর্ঘ্য কত?",
+    "text": "8, 9, ... 10 পদের যোগফল = ?",
     "options": [
-      "$5\\sqrt{3}$ সে.মি.",
-      "$3\\sqrt{5}$ সে.মি.",
-      "5 সে.মি.",
-      "$\\sqrt{3}$ সে.মি."
+      "133",
+      "80",
+      "125",
+      "18"
     ],
     "image": null,
+    "optionImages": null,
     "timeLimit": 45
   },
   {
-    "id": "ssc-higher-math-ch03-set01-q21",
+    "id": "ssc-higher-math-chapter-03-model-test-01-q19",
     "subject": "higher-math",
     "chapter": "ssc-higher-math-chapter-03-model-test-01",
-    "text": "চিত্রে $\\tan \\theta = \\frac{1}{\\sqrt{3}}$ এবং $O$ বৃত্তের কেন্দ্র হলে— i. বৃত্তের পরিধি $2\\pi$ ii. বৃত্তের ক্ষেত্রফল $\\pi$ iii. $\\triangle ABC$ এর তিনকোণের সমষ্টি $\\pi$ রেডিয়ান নিচের কোনটি সঠিক?",
+    "text": "বৃত্তের ব্যাসার্ধ 9 হলে ক্ষেত্রফল ≈ ?",
     "options": [
-      "i ও ii",
-      "i ও iii",
-      "ii ও iii",
-      "i, ii ও iii"
+      "254.46",
+      "81",
+      "18",
+      "9"
     ],
     "image": null,
+    "optionImages": null,
     "timeLimit": 45
   },
   {
-    "id": "ssc-higher-math-ch03-set01-q22",
+    "id": "ssc-higher-math-chapter-03-model-test-01-q20",
     "subject": "higher-math",
     "chapter": "ssc-higher-math-chapter-03-model-test-01",
-    "text": "$\\triangle DEF$ এ, $EF^2 > DE^2 + DF^2$ হলে— i. $\\angle D$ স্থূলকোণ ii. $\\angle E$ সমকোণ iii. $\\angle F$ সূক্ষ্মকোণ নিচের কোনটি সঠিক?",
+    "text": "বৃত্তের ব্যাসার্ধ 3 হলে ক্ষেত্রফল ≈ ?",
     "options": [
-      "i ও ii",
-      "i ও iii",
-      "ii ও iii",
-      "i, ii ও iii"
+      "9",
+      "6",
+      "3",
+      "28.274"
     ],
     "image": null,
+    "optionImages": null,
     "timeLimit": 45
   },
   {
-    "id": "ssc-higher-math-ch03-set01-q23",
+    "id": "ssc-higher-math-chapter-03-model-test-01-q21",
     "subject": "higher-math",
     "chapter": "ssc-higher-math-chapter-03-model-test-01",
-    "text": "কোনো ত্রিভুজের উচ্চতা $h$, ভূমির উপর মধ্যমা $d$ এবং ভূমি সংলগ্ন একটি কোণ $\\angle x$ দেওয়া আছে। ত্রিভুজটি অঙ্কন করতে হলে— i. ভূমির উপর লম্ব অঙ্কন করতে হবে ii. $\\angle x$ কে সমদ্বিখণ্ডিত করতে হবে iii. ভূমি থেকে $d$ এর সমান অংশ কাটতে হবে নিচের কোনটি সঠিক?",
+    "text": "7x + 13 = 188 হলে x = ?",
     "options": [
-      "i",
-      "ii",
-      "i ও ii",
-      "i, ii ও iii"
+      "24",
+      "25",
+      "26",
+      "27"
     ],
     "image": null,
-    "timeLimit": 45
-  },
-  {
-    "id": "ssc-higher-math-ch03-set01-q24",
-    "subject": "higher-math",
-    "chapter": "ssc-higher-math-chapter-03-model-test-01",
-    "text": "কোনো ত্রিভুজের নববিন্দু বৃত্তের ব্যাসার্ধ 4 সে.মি. হলে, এর পরিবৃত্তের ব্যাসার্ধ কত?",
-    "options": [
-      "2 সে.মি.",
-      "4 সে.মি.",
-      "8 সে.মি.",
-      "16 সে.মি."
-    ],
-    "image": null,
-    "timeLimit": 45
-  },
-  {
-    "id": "ssc-higher-math-ch03-set01-q25",
-    "subject": "higher-math",
-    "chapter": "ssc-higher-math-chapter-03-model-test-01",
-    "text": "$\\triangle ABC$ এর $\\angle ACB$ স্থূলকোণ হলে, নিচের কোনটি সঠিক?",
-    "options": [
-      "$AB^2 = AC^2 + BC^2$",
-      "$AC^2 = AB^2 + BC^2$",
-      "$AB^2 > AC^2 + BC^2$",
-      "$AB^2 < AC^2 + BC^2$"
-    ],
-    "image": null,
+    "optionImages": null,
     "timeLimit": 45
   }
 ]

@@ -1,0 +1,90 @@
+# MASTER HYPER PROMPT — HSC Higher Math 1st Paper (Chapter-wise)
+# Copy this block + ONE chapter file (ch01…ch10) into AI.
+# Output: ONLY valid JSON — no markdown, no explanation.
+
+---
+## ROLE
+You are an **HSC Higher Mathematics 1st Paper (উচ্চতর গণিত ১ম পত্র, subject code 265) board-question analyst, Mega Hot pattern cache expert, and MCQ setter**.
+
+## HYPER CACHE PHILOSOPHY (99.99% Pattern Cache)
+Analyze:
+- HSC / Dhaka / Rajshahi / Cumilla / Jessore board repeated MCQ patterns
+- Chapter weight, formula frequency, CQ→MCQ conversion traps
+- Previous 10-year common stems (NOT exact copy — **pattern cache**)
+- Recent HSC / model test style
+
+Label internally as **Mega Hot / Very Hot / Board Favourite / Conceptual Trap**.
+Do NOT claim literal "100% guaranteed common in exam" — use **Highest Probability Board-Standard Cache**.
+
+## OUTPUT RULE (STRICT)
+Return **ONLY** one valid JSON object. No prose before/after. No ``` fences.
+
+## TOP-LEVEL JSON SCHEMA
+{
+  "level": "HSC",
+  "subject": "higher-math-1st-paper",
+  "datasetType": "chapterwise_hyper_mega_hot_board_standard",
+  "confidenceLabel": "Hyper Mega Hot — 99.99% Board Pattern Cache",
+  "chapterWise": [
+    {
+      "chapter": "NN",
+      "chapterName": "বাংলা chapter name",
+      "sets": [
+        {
+          "id": "hsc-higher-math-1st-paper-chapter-NN-set-SS",
+          "title": "Chapter NN Hyper Mega Hot Set SS",
+          "questions": [ /* exactly 25 */ ]
+        }
+      ]
+    }
+  ]
+}
+
+## PER-QUESTION SCHEMA (strict)
+{
+  "id": "hsc-higher-math-1st-paper-chapter-NN-set-SS-qQQ",
+  "question": "Full Bangla question with LaTeX $...$ where needed",
+  "options": [
+    { "text": "...", "label": "ক" },
+    { "text": "...", "label": "খ" },
+    { "text": "...", "label": "গ" },
+    { "text": "...", "label": "ঘ" }
+  ],
+  "correctOption": "ক",
+  "shortSolution": "সঠিক উত্তর: ক। ১–২ লাইন formula + logic",
+  "chapter": "NN",
+  "topic": "Sub-topic in Bangla",
+  "difficulty": "Easy | Medium | Hard | Board Standard",
+  "probability": "Mega Hot | Very Hot | Board Favourite | Conceptual Trap"
+}
+
+## 25-QUESTION DISTRIBUTION (every set)
+Q1–Q4:   2 stimuli (উদ্দীপক) × 2 MCQ each — use stem prefix in question if needed
+Q5–Q14:  Mixed conceptual + numerical (chapter syllabus only)
+Q15–Q20: i, ii, iii analytical (কোনটি সঠিক / কয়টি সঠিক)
+Q21–Q25: Final trap / board repeat pattern / shortcut MCQ
+
+Difficulty mix per set: 30% Easy, 40% Medium, 20% Hard, 10% Board Standard/Trap
+
+## QUALITY RULES (mandatory)
+✅ 25 completely UNIQUE stems per set — zero duplicate within set
+✅ Across Set 01–05 same chapter: stem similarity < 70%; vary numbers & angle
+✅ correctOption ONLY ক/খ/গ/ঘ — never A/B/C/D in JSON
+✅ shortSolution factual only — NO meta ("Uploaded JSON", "I'll fix", etc.)
+✅ Full MCQ text — no fragments like "det A=?" without context
+✅ LaTeX: $...$ inline; matrices $\\begin{pmatrix}a&b\\\\c&d\\end{pmatrix}$
+✅ Syllabus-only — no out-of-chapter topics
+
+## ANTI-PATTERNS (never)
+❌ Same 25 questions copied to Set 02–05 with only ID changed
+❌ i² value repeated 10 times in one set
+❌ English-only options without Bangla context
+❌ Wrong chapter topics (e.g. matrices in sets chapter)
+
+## LaTeX CHEAT SHEET
+|A| = \\sqrt{a^2+b^2+c^2}, \\vec a \\cdot \\vec b, \\det\\begin{pmatrix}a&b\\\\c&d\\end{pmatrix}=ad-bc
+y-y_1=m(x-x_1), x^2+y^2=r^2, {}^nC_r, \\sin^2\\theta+\\cos^2\\theta=1
+\\frac{d}{dx}(x^n)=nx^{n-1}, \\int x^n dx = \\frac{x^{n+1}}{n+1}+C
+
+---
+# NOW PASTE ONE CHAPTER FILE BELOW (ch01 … ch10)

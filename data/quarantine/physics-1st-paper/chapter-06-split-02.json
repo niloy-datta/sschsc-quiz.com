@@ -1,0 +1,282 @@
+{
+  "setId": "chapter-06-split-02",
+  "reason": "DUPLICATE_OF_chapter-06-split-02",
+  "quarantinedAt": "2026-06-16T10:44:44.888Z",
+  "questions": [
+    {
+      "id": "chapter-06-split-02-q01",
+      "questionText": "পার্কিং কক্ষপথ (Parking Orbit) বলতে কোন উপগ্রহের কক্ষপথকে বোঝায়?",
+      "optionA": "পোলার উপগ্রহ",
+      "optionB": "ভূ-স্থির উপগ্রহ",
+      "optionC": "গুপ্তচর উপগ্রহ",
+      "optionD": "আবহাওয়া উপগ্রহ",
+      "correctOption": "B",
+      "explanation": "",
+      "questionNo": 1
+    },
+    {
+      "id": "chapter-06-split-02-q02",
+      "questionText": "একটি উপগ্রহের মোট যান্ত্রিক শক্তি ($E$) কত?",
+      "optionA": "$E = E_k$",
+      "optionB": "$E = -E_k$",
+      "optionC": "$E = E_p$",
+      "optionD": "$E = 2E_k$",
+      "correctOption": "B",
+      "explanation": "",
+      "questionNo": 2
+    },
+    {
+      "id": "chapter-06-split-02-q03",
+      "questionText": "কৃত্রিম উপগ্রহে নভোচারী ওজনহীনতা অনুভব করেন কেন?",
+      "optionA": "সেখানে অভিকর্ষ নেই বলে",
+      "optionB": "উপগ্রহের কেন্দ্রমুখী ত্বরণ অভিকর্ষজ ত্বরণের সমান বলে",
+      "optionC": "নভোচারীর ভর শূন্য হয়ে যায় বলে",
+      "optionD": "সেখানে বায়ুমণ্ডল নেই বলে",
+      "correctOption": "B",
+      "explanation": "",
+      "questionNo": 3
+    },
+    {
+      "id": "chapter-06-split-02-q04",
+      "questionText": "কোনো উপগ্রহের পর্যায়কাল $T$ এবং পৃথিবীর ঘনত্ব $\\\\rho$ হলে $T^2\\\\rho$ এর মান একটি—",
+      "optionA": "চলক",
+      "optionB": "ধ্রুবক",
+      "optionC": "সময়",
+      "optionD": "ঘনত্ব",
+      "correctOption": "B",
+      "explanation": "",
+      "questionNo": 4
+    },
+    {
+      "id": "chapter-06-split-02-q05",
+      "questionText": "একটি বস্তুকে মুক্তিবেগে নিক্ষেপ করা হলে তার মোট যান্ত্রিক শক্তি কত হবে?",
+      "optionA": "ধনাত্মক",
+      "optionB": "ঋণাত্মক",
+      "optionC": "শূন্য",
+      "optionD": "অসীম",
+      "correctOption": "C",
+      "explanation": "",
+      "questionNo": 5
+    },
+    {
+      "id": "chapter-06-split-02-q06",
+      "questionText": "মুক্তিবেগে নিক্ষিপ্ত বস্তুর গতিপথ কীরূপ?",
+      "optionA": "পরাবৃত্ত (Parabola)",
+      "optionB": "অধিবৃত্ত (Hyperbola)",
+      "optionC": "বৃত্তাকার",
+      "optionD": "সরলরেখা",
+      "correctOption": "A",
+      "explanation": "",
+      "questionNo": 6
+    },
+    {
+      "id": "chapter-06-split-02-q07",
+      "questionText": "কৃত্রিম উপগ্রহের প্রদক্ষিণ বেগ বস্তুর—",
+      "optionA": "ভরের উপর নির্ভর করে",
+      "optionB": "ভরের উপর নির্ভর করে না",
+      "optionC": "ব্যাসার্ধের উপর নির্ভর করে না",
+      "optionD": "দূরত্বের উপর নির্ভর করে না",
+      "correctOption": "B",
+      "explanation": "",
+      "questionNo": 7
+    },
+    {
+      "id": "chapter-06-split-02-q08",
+      "questionText": "পৃথিবীর আহ্নিক গতি বন্ধ হলে মুক্তিবেগের মানের কী পরিবর্তন হবে?",
+      "optionA": "বৃদ্ধি পাবে",
+      "optionB": "হ্রাস পাবে",
+      "optionC": "অপরিবর্তিত থাকবে",
+      "optionD": "শূন্য হবে",
+      "correctOption": "C",
+      "explanation": "",
+      "questionNo": 8
+    },
+    {
+      "id": "chapter-06-split-02-q09",
+      "questionText": "একটি প্রজেক্টাইলকে $v$ বেগে নিক্ষেপ করা হলো যেখানে $v < v_o$ ($v_o=$ প্রদক্ষিণ বেগ)। বস্তুটি কী হবে?",
+      "optionA": "বৃত্তাকার পথে ঘুরবে",
+      "optionB": "পৃথিবীতে ফিরে আসবে",
+      "optionC": "মহাশূন্যে হারিয়ে যাবে",
+      "optionD": "উপবৃত্তাকার পথে ঘুরবে",
+      "correctOption": "B",
+      "explanation": "",
+      "questionNo": 9
+    },
+    {
+      "id": "chapter-06-split-02-q10",
+      "questionText": "অসীম দূরত্বে মহাকর্ষীয় বিভবের মান কত?",
+      "optionA": "অসীম",
+      "optionB": "শূন্য",
+      "optionC": "ধনাত্মক সর্বোচ্চ",
+      "optionD": "ঋণাত্মক সর্বনিম্ন",
+      "correctOption": "B",
+      "explanation": "",
+      "questionNo": 10
+    },
+    {
+      "id": "chapter-06-split-02-q11",
+      "questionText": "একটি ফাঁপা গোলকের ভেতরে মহাকর্ষীয় বিভব ($V$) কীরূপ?",
+      "optionA": "শূন্য",
+      "optionB": "পৃষ্ঠের বিভবের সমান এবং ধ্রুবক",
+      "optionC": "কেন্দ্রের দিকে বৃদ্ধি পায়",
+      "optionD": "পরিবর্তনশীল",
+      "correctOption": "B",
+      "explanation": "",
+      "questionNo": 11
+    },
+    {
+      "id": "chapter-06-split-02-q12",
+      "questionText": "পৃথিবীর কেন্দ্র থেকে পৃষ্ঠ পর্যন্ত মহাকর্ষীয় বিভব—",
+      "optionA": "বৃদ্ধি পায়",
+      "optionB": "হ্রাস পায়",
+      "optionC": "ধ্রুব থাকে",
+      "optionD": "প্রথমে বাড়ে পরে কমে",
+      "correctOption": "A",
+      "explanation": "",
+      "questionNo": 12
+    },
+    {
+      "id": "chapter-06-split-02-q13",
+      "questionText": "দুটি ভরের ($m_1$ ও $m_2$) মধ্যবর্তী কোনো বিন্দুতে লব্ধি প্রাবল্য শূন্য হলে ঐ বিন্দুকে কী বলে?",
+      "optionA": "ভারকেন্দ্র",
+      "optionB": "নিরপেক্ষ বিন্দু (Null Point)",
+      "optionC": "পরম বিন্দু",
+      "optionD": "ফোকাস",
+      "correctOption": "B",
+      "explanation": "",
+      "questionNo": 13
+    },
+    {
+      "id": "chapter-06-split-02-q14",
+      "questionText": "পৃথিবী ও চাঁদের মাঝখানে নিরপেক্ষ বিন্দুটি কার কাছাকাছি অবস্থিত?",
+      "optionA": "পৃথিবীর",
+      "optionB": "চাঁদের",
+      "optionC": "একদম মাঝখানে",
+      "optionD": "বলা অসম্ভব",
+      "correctOption": "B",
+      "explanation": "",
+      "questionNo": 14
+    },
+    {
+      "id": "chapter-06-split-02-q15",
+      "questionText": "একটি সেকেন্ড দোলককে খনির গভীরে নিলে এর দোলনকালের কী পরিবর্তন হবে?",
+      "optionA": "কমবে",
+      "optionB": "বাড়বে",
+      "optionC": "একই থাকবে",
+      "optionD": "শূন্য হবে",
+      "correctOption": "B",
+      "explanation": "",
+      "questionNo": 15
+    },
+    {
+      "id": "chapter-06-split-02-q16",
+      "questionText": "কোনো দোলক ঘড়িকে পাহাড়ের চূড়ায় নিলে এটি—",
+      "optionA": "দ্রুত চলবে",
+      "optionB": "ধীরে চলবে (সময় হারাবে)",
+      "optionC": "সঠিক সময় দেবে",
+      "optionD": "থেমে যাবে",
+      "correctOption": "B",
+      "explanation": "",
+      "questionNo": 16
+    },
+    {
+      "id": "chapter-06-split-02-q17",
+      "questionText": "মহাকাশযানে রাখা একটি সরল দোলকের দোলনকাল কত?",
+      "optionA": "২ সেকেন্ড",
+      "optionB": "১ সেকেন্ড",
+      "optionC": "শূন্য",
+      "optionD": "অসীম",
+      "correctOption": "D",
+      "explanation": "",
+      "questionNo": 17
+    },
+    {
+      "id": "chapter-06-split-02-q18",
+      "questionText": "একটি গ্রহের ভর ও ব্যাসার্ধ উভয়েই পৃথিবীর অর্ধেক। ঐ গ্রহে $g$ এর মান পৃথিবীর $g$ এর কতগুণ?",
+      "optionA": "অর্ধেক",
+      "optionB": "দ্বিগুণ",
+      "optionC": "চারগুণ",
+      "optionD": "সমান",
+      "correctOption": "B",
+      "explanation": "",
+      "questionNo": 18
+    },
+    {
+      "id": "chapter-06-split-02-q19",
+      "questionText": "সূর্যকে কেন্দ্র করে ঘূর্ণায়মান পৃথিবীর কৌণিক ভরবেগ সংরক্ষিত থাকে, কারণ—",
+      "optionA": "মহাকর্ষ বল একটি কেন্দ্রীয় বল",
+      "optionB": "সূর্যের ভর অনেক বেশি",
+      "optionC": "কক্ষপথ উপবৃত্তাকার",
+      "optionD": "পৃথিবী নিজের অক্ষে ঘোরে",
+      "correctOption": "A",
+      "explanation": "",
+      "questionNo": 19
+    },
+    {
+      "id": "chapter-06-split-02-q20",
+      "questionText": "পৃথিবীর ব্যাসার্ধ ১% সঙ্কুচিত হলে (ভর অপরিবর্তিত) ভূ-পৃষ্ঠে অভিকর্ষজ ত্বরণ কত শতাংশ বৃদ্ধি পাবে?",
+      "optionA": "১%",
+      "optionB": "২%",
+      "optionC": "০.৫%",
+      "optionD": "৪%",
+      "correctOption": "B",
+      "explanation": "",
+      "questionNo": 20
+    },
+    {
+      "id": "chapter-06-split-02-q21",
+      "questionText": "পৃথিবী থেকে সূর্যের দূরত্ব বর্তমান দূরত্বের অর্ধেক হলে, ১ বছর সমান কত দিন হতো?",
+      "optionA": "৭৩ দিন",
+      "optionB": "১২৯ দিন",
+      "optionC": "১৮২ দিন",
+      "optionD": "২৫০ দিন",
+      "correctOption": "B",
+      "explanation": "",
+      "questionNo": 21
+    },
+    {
+      "id": "chapter-06-split-02-q22",
+      "questionText": "একটি উপগ্রহ পৃথিবীর খুব কাছ দিয়ে ঘুরছে। তার গতিশক্তি দ্বিগুণ করা হলে কী ঘটবে?",
+      "optionA": "উপগ্রহটি দ্বিগুণ বেগে ঘুরবে",
+      "optionB": "উপগ্রহটি পৃথিবীতে পড়ে যাবে",
+      "optionC": "উপগ্রহটি মুক্তিবেগ লাভ করে মহাকাশে হারিয়ে যাবে",
+      "optionD": "কক্ষপথের ব্যাসার্ধ অর্ধেক হবে",
+      "correctOption": "C",
+      "explanation": "",
+      "questionNo": 22
+    },
+    {
+      "id": "chapter-06-split-02-q23",
+      "questionText": "একটি উপগ্রহকে পৃথিবী থেকে চাঁদে নিয়ে গেলে এর আবর্তনকালের কী পরিবর্তন হবে? (কক্ষপথের ব্যাসার্ধ একই ধরে)",
+      "optionA": "বাড়বে",
+      "optionB": "কমবে",
+      "optionC": "একই থাকবে",
+      "optionD": "শূন্য হবে",
+      "correctOption": "A",
+      "explanation": "",
+      "questionNo": 23
+    },
+    {
+      "id": "chapter-06-split-02-q24",
+      "questionText": "মহাকর্ষীয় প্রাবল্য ও মহাকর্ষীয় বিভবের গ্রাফ কীরূপ? ($r > R$)",
+      "optionA": "উভয়ই $1/r$ এর সমানুপাতিক",
+      "optionB": "প্রাবল্য $1/r^2$ এবং বিভব $1/r$ এর সমানুপাতিক",
+      "optionC": "প্রাবল্য $1/r$ এবং বিভব $1/r^2$ এর সমানুপাতিক",
+      "optionD": "উভয়ই $1/r^2$ এর সমানুপাতিক",
+      "correctOption": "B",
+      "explanation": "",
+      "questionNo": 24
+    },
+    {
+      "id": "chapter-06-split-02-q25",
+      "questionText": "একটি বস্তুর ওজন পৃথিবী পৃষ্ঠে $W$। একে পৃথিবীর ব্যাসার্ধের সমান গভীরতায় ($d=R$) নিয়ে গেলে ওজন কত হবে?",
+      "optionA": "$W$",
+      "optionB": "$W/2$",
+      "optionC": "শূন্য",
+      "optionD": "$2W$",
+      "correctOption": "C",
+      "explanation": "",
+      "questionNo": 25
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+<svg width="100%" height="100%" viewBox="0 0 420 260" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Current Junction Circuit">
+  <defs>
+    <marker id="arrow" markerWidth="8" markerHeight="8" refX="7" refY="3.5" orient="auto">
+      <path d="M0,0 L0,7 L8,3.5 z" fill="#0f172a"/>
+    </marker>
+    <marker id="arrowBlue" markerWidth="8" markerHeight="8" refX="7" refY="3.5" orient="auto">
+      <path d="M0,0 L0,7 L8,3.5 z" fill="#2563eb"/>
+    </marker>
+  </defs>
+  <rect width="420" height="260" rx="18" fill="#f8fafc"/>
+  <rect x="14" y="14" width="392" height="232" rx="14" fill="#ffffff" stroke="#cbd5e1" stroke-width="1.5"/>
+  <text x="210.0" y="38" text-anchor="middle" font-family="Arial, sans-serif" font-size="15" font-weight="700" fill="#0f172a">Current Junction Circuit</text>
+  
+  <g stroke="#0f172a" stroke-width="2.4" fill="none">
+    <line x1="70" y1="130" x2="170" y2="130" marker-end="url(#arrow)"/>
+    <line x1="170" y1="130" x2="300" y2="80" marker-end="url(#arrow)"/>
+    <line x1="170" y1="130" x2="300" y2="180" marker-end="url(#arrow)"/>
+    <line x1="300" y1="80" x2="350" y2="80"/>
+    <line x1="300" y1="180" x2="350" y2="180"/>
+  </g>
+  <circle cx="170" cy="130" r="5" fill="#ea580c"/>
+  <text x="105" y="118" font-size="13" fill="#2563eb">I₁</text>
+  <text x="232" y="86" font-size="13" fill="#16a34a">I₂</text>
+  <text x="232" y="180" font-size="13" fill="#16a34a">I₃</text>
+  <text x="210" y="220" text-anchor="middle" font-size="12" fill="#475569">Kirchhoff current law: I₁ = I₂ + I₃</text>
+
+</svg>

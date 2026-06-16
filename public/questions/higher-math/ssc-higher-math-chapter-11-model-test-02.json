@@ -1,352 +1,347 @@
 [
   {
-    "id": "ssc-higher-math-ch11-set02-q01",
+    "id": "ssc-higher-math-chapter-11-model-test-02-q01",
     "subject": "higher-math",
     "chapter": "ssc-higher-math-chapter-11-model-test-02",
-    "text": "(2, 0) and (0, 1) বিন্দুগামী রেখার ঢাল কত?",
-    "options": [
-      "-1/2",
-      "2",
-      "1/2",
-      "-2"
-    ],
-    "image": null,
-    "timeLimit": 45
-  },
-  {
-    "id": "ssc-higher-math-ch11-set02-q02",
-    "subject": "higher-math",
-    "chapter": "ssc-higher-math-chapter-11-model-test-02",
-    "text": "(0, -1) এবং (2, -3) বিন্দু দুটির মধ্যবর্তী দূরত্ব কত?",
-    "options": [
-      "2",
-      "26",
-      "2√2",
-      "2√5"
-    ],
-    "image": null,
-    "timeLimit": 45
-  },
-  {
-    "id": "ssc-higher-math-ch11-set02-q03",
-    "subject": "higher-math",
-    "chapter": "ssc-higher-math-chapter-11-model-test-02",
-    "text": "(2, 0) and (0, 1) বিন্দুগামী রেখার ঢাল কত?",
-    "options": [
-      "-1/2",
-      "2",
-      "-2",
-      "1/2"
-    ],
-    "image": null,
-    "timeLimit": 45
-  },
-  {
-    "id": "ssc-higher-math-ch11-set02-q04",
-    "subject": "higher-math",
-    "chapter": "ssc-higher-math-chapter-11-model-test-02",
-    "text": "(0, -1) এবং (2, -3) বিন্দু দুটির মধ্যবর্তী দূরত্ব কত?",
-    "options": [
-      "2√2",
-      "2",
-      "2√5",
-      "26"
-    ],
-    "image": null,
-    "timeLimit": 45
-  },
-  {
-    "id": "ssc-higher-math-ch11-set02-q05",
-    "subject": "higher-math",
-    "chapter": "ssc-higher-math-chapter-11-model-test-02",
-    "text": "(0, -1) এবং (2, -3) বিন্দু দুটির মধ্যবর্তী দূরত্ব কত?",
-    "options": [
-      "2√5",
-      "2",
-      "2√2",
-      "26"
-    ],
-    "image": null,
-    "timeLimit": 45
-  },
-  {
-    "id": "ssc-higher-math-ch11-set02-q06",
-    "subject": "higher-math",
-    "chapter": "ssc-higher-math-chapter-11-model-test-02",
-    "text": "(2, 0) and (0, 1) বিন্দুগামী রেখার ঢাল কত?",
-    "options": [
-      "-1/2",
-      "1/2",
-      "-2",
-      "2"
-    ],
-    "image": null,
-    "timeLimit": 45
-  },
-  {
-    "id": "ssc-higher-math-ch11-set02-q07",
-    "subject": "higher-math",
-    "chapter": "ssc-higher-math-chapter-11-model-test-02",
-    "text": "$(-1, -1)$ ও $(-5, -5)$ বিন্দুদ্বয়ের সংযোগ সরলরেখার ঢাল কত?",
-    "options": [
-      "$-\\frac{2}{3}$",
-      "-1",
-      "$\\frac{2}{3}$",
-      "1"
-    ],
-    "image": null,
-    "timeLimit": 45
-  },
-  {
-    "id": "ssc-higher-math-ch11-set02-q08",
-    "subject": "higher-math",
-    "chapter": "ssc-higher-math-chapter-11-model-test-02",
-    "text": "$5x - 3y = 9$ সরলরেখার ঢাল কত?",
-    "options": [
-      "$-\\frac{5}{3}$",
-      "$-\\frac{3}{5}$",
-      "$\\frac{5}{3}$",
-      "$\\frac{27}{5}$"
-    ],
-    "image": null,
-    "timeLimit": 45
-  },
-  {
-    "id": "ssc-higher-math-ch11-set02-q09",
-    "subject": "higher-math",
-    "chapter": "ssc-higher-math-chapter-11-model-test-02",
-    "text": "**নিচের তথ্যের আলোকে ২০ ও ২১নং প্রশ্নের উত্তর দাও:** চারটি বিন্দুর স্থানাঙ্ক $A(6, -6)$, $B(4, -8)$, $C(-6, 6)$ এবং $D(-4, 8)$ $A$ এবং $C$ বিন্দুর মধ্যবর্তী দূরত্ব কোনটি?",
-    "options": [
-      "$12\\sqrt{2}$ একক",
-      "12 একক",
-      "$6\\sqrt{2}$ একক",
-      "4 একক"
-    ],
-    "image": null,
-    "timeLimit": 45
-  },
-  {
-    "id": "ssc-higher-math-ch11-set02-q10",
-    "subject": "higher-math",
-    "chapter": "ssc-higher-math-chapter-11-model-test-02",
-    "text": "$P$ বিন্দুর স্থানাঙ্ক কত হবে?",
-    "options": [
-      "$(3, 0)$",
-      "$(0, 3)$",
-      "$(-3, 0)$",
-      "$(0, -3)$"
-    ],
-    "image": null,
-    "timeLimit": 45
-  },
-  {
-    "id": "ssc-higher-math-ch11-set02-q11",
-    "subject": "higher-math",
-    "chapter": "ssc-higher-math-chapter-11-model-test-02",
-    "text": "$4x - 3y + 5 = 0$ সরলরেখাটির ঢাল কত?",
-    "options": [
-      "$-\\frac{4}{3}$",
-      "$-\\frac{3}{4}$",
-      "$\\frac{3}{4}$",
-      "$\\frac{4}{3}$"
-    ],
-    "image": null,
-    "timeLimit": 45
-  },
-  {
-    "id": "ssc-higher-math-ch11-set02-q12",
-    "subject": "higher-math",
-    "chapter": "ssc-higher-math-chapter-11-model-test-02",
-    "text": "**নিচের তথ্যের আলোকে 17 ও 18 নং প্রশ্নের উত্তর দাও:** একটি সরলরেখার ঢাল $-1/\\sqrt{3}$ এবং রেখাটি $(-2, 0)$ বিন্দুগামী। রেখাটি $x$ অক্ষের ধনাত্মক দিকের সাথে কত কোণ উৎপন্ন করে?",
-    "options": [
-      "$30^\\circ$",
-      "$60^\\circ$",
-      "$120^\\circ$",
-      "$150^\\circ$"
-    ],
-    "image": null,
-    "timeLimit": 45
-  },
-  {
-    "id": "ssc-higher-math-ch11-set02-q13",
-    "subject": "higher-math",
-    "chapter": "ssc-higher-math-chapter-11-model-test-02",
-    "text": "$(0, -1)$ এবং $(2, -3)$ বিন্দু দুটির মধ্যবর্তী দূরত্ব কত?",
-    "options": [
-      "2",
-      "$2\\sqrt{2}$",
-      "$2\\sqrt{5}$",
-      "26"
-    ],
-    "image": null,
-    "timeLimit": 45
-  },
-  {
-    "id": "ssc-higher-math-ch11-set02-q14",
-    "subject": "higher-math",
-    "chapter": "ssc-higher-math-chapter-11-model-test-02",
-    "text": "$(2, 0)$ এবং $(0, 1)$ বিন্দুগামী রেখার ঢাল কত?",
-    "options": [
-      "-2",
-      "$-\\frac{1}{2}$",
-      "$\\frac{1}{2}$",
-      "2"
-    ],
-    "image": null,
-    "timeLimit": 45
-  },
-  {
-    "id": "ssc-higher-math-ch11-set02-q15",
-    "subject": "higher-math",
-    "chapter": "ssc-higher-math-chapter-11-model-test-02",
-    "text": "-3 ঢাল বিশিষ্ট সরলরেখাটি x-অক্ষের ধনাত্মক দিকের সাথে কত ডিগ্রি কোণ উৎপন্ন করে?",
-    "options": [
-      "30°",
-      "60°",
-      "120°",
-      "150°"
-    ],
-    "image": null,
-    "timeLimit": 45
-  },
-  {
-    "id": "ssc-higher-math-ch11-set02-q16",
-    "subject": "higher-math",
-    "chapter": "ssc-higher-math-chapter-11-model-test-02",
-    "text": "y-অক্ষ হতে A(−2,−3) বিন্দুর দূরত্ব কত?",
-    "options": [
-      "-3 একক",
-      "-2 একক",
-      "2 একক",
-      "3 একক"
-    ],
-    "image": null,
-    "timeLimit": 45
-  },
-  {
-    "id": "ssc-higher-math-ch11-set02-q17",
-    "subject": "higher-math",
-    "chapter": "ssc-higher-math-chapter-11-model-test-02",
-    "text": "বাড়ি থেকে বিদ্যালয় পর্যন্ত পৌঁছাতে মিনিটের কাঁটাটির অগ্রভাগ কত দূরত্ব অতিক্রম করে?",
-    "options": [
-      "$\\pi$ মি.মি.",
-      "$\\frac{3\\pi}{2}$ মি.মি.",
-      "$2\\pi$ মি.মি.",
-      "$\\frac{5\\pi}{2}$ মি.মি."
-    ],
-    "image": null,
-    "timeLimit": 45
-  },
-  {
-    "id": "ssc-higher-math-ch11-set02-q18",
-    "subject": "higher-math",
-    "chapter": "ssc-higher-math-chapter-11-model-test-02",
-    "text": "$A$ বিন্দুর স্থানাঙ্ক কত?",
-    "options": [
-      "$(0, 3)$",
-      "$(0, -3)$",
-      "$(-3, 0)$",
-      "$(3, 0)$"
-    ],
-    "image": null,
-    "timeLimit": 45
-  },
-  {
-    "id": "ssc-higher-math-ch11-set02-q19",
-    "subject": "higher-math",
-    "chapter": "ssc-higher-math-chapter-11-model-test-02",
-    "text": "$A$ এবং $D$ বিন্দুগামী রেখার ঢাল কোনটি?",
-    "options": [
-      "$-\\frac{7}{5}$",
-      "$-\\frac{1}{5}$",
-      "1",
-      "7"
-    ],
-    "image": null,
-    "timeLimit": 45
-  },
-  {
-    "id": "ssc-higher-math-ch11-set02-q20",
-    "subject": "higher-math",
-    "chapter": "ssc-higher-math-chapter-11-model-test-02",
-    "text": "$x$-অক্ষের সমান্তরাল এবং ঋণাত্মক দিকে **9 একক** দূরত্বে অবস্থিত সরলরেখাটির সমীকরণ নিচের কোনটি?",
-    "options": [
-      "$x + 9 = 0$",
-      "$x - 9 = 0$",
-      "$y - 9 = 0$",
-      "$y + 9 = 0$"
-    ],
-    "image": null,
-    "timeLimit": 45
-  },
-  {
-    "id": "ssc-higher-math-ch11-set02-q21",
-    "subject": "higher-math",
-    "chapter": "ssc-higher-math-chapter-11-model-test-02",
-    "text": "উদ্দীপক ২: নিচের তথ্যের ভিত্তিতে ৩ ও ৪ নং প্রশ্নের উত্তর দাও: স্থানাঙ্ক জ্যামিতির দূরত্ব, মধ্যবিন্দু বা ঢাল সূত্র ব্যবহার করো। (3, -1) এবং (9, 7) বিন্দু দুটির মধ্যবর্তী দূরত্ব কত?",
-    "options": [
-      "10",
-      "100",
-      "2√7",
-      "14"
-    ],
-    "image": null,
-    "timeLimit": 45
-  },
-  {
-    "id": "ssc-higher-math-ch11-set02-q22",
-    "subject": "higher-math",
-    "chapter": "ssc-higher-math-chapter-11-model-test-02",
-    "text": "উদ্দীপক ২: নিচের তথ্যের ভিত্তিতে ৩ ও ৪ নং প্রশ্নের উত্তর দাও: স্থানাঙ্ক জ্যামিতির দূরত্ব, মধ্যবিন্দু বা ঢাল সূত্র ব্যবহার করো। (0, 0) ও (2, 1) বিন্দুগামী সরলরেখার ঢাল কত?",
-    "options": [
-      "2",
-      "3",
-      "-1",
-      "1/2"
-    ],
-    "image": null,
-    "timeLimit": 45
-  },
-  {
-    "id": "ssc-higher-math-ch11-set02-q23",
-    "subject": "higher-math",
-    "chapter": "ssc-higher-math-chapter-11-model-test-02",
-    "text": "(1, 2) এবং (7, 4) বিন্দুদ্বয়ের মধ্যবিন্দু কোনটি?",
-    "options": [
-      "(6, 2)",
-      "(8, 6)",
-      "(4, 6)",
-      "(4, 3)"
-    ],
-    "image": null,
-    "timeLimit": 45
-  },
-  {
-    "id": "ssc-higher-math-ch11-set02-q24",
-    "subject": "higher-math",
-    "chapter": "ssc-higher-math-chapter-11-model-test-02",
-    "text": "উদ্দীপক ২: নিচের তথ্যের ভিত্তিতে ৩ ও ৪ নং প্রশ্নের উত্তর দাও: স্থানাঙ্ক জ্যামিতির দূরত্ব, মধ্যবিন্দু বা ঢাল সূত্র ব্যবহার করো। (0, 0) এবং (3, 4) বিন্দু দুটির মধ্যবর্তী দূরত্ব কত?",
+    "text": "(a+b)^7 এর মধ্যবর্তী পদের সংখ্যা কত?",
     "options": [
       "7",
-      "√7",
-      "5",
+      "4",
+      "6",
+      "8"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-higher-math-chapter-11-model-test-02-q02",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-11-model-test-02",
+    "text": "(a+b)^6 এর বিস্তৃতিতে x^3 এর সহগ কোনটি?",
+    "options": [
+      "n",
+      "3",
+      "6",
+      "5"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-higher-math-chapter-11-model-test-02-q03",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-11-model-test-02",
+    "text": "(1+1)^5=?",
+    "options": [
+      "10",
+      "10",
+      "32",
       "25"
     ],
     "image": null,
+    "optionImages": null,
     "timeLimit": 45
   },
   {
-    "id": "ssc-higher-math-ch11-set02-q25",
+    "id": "ssc-higher-math-chapter-11-model-test-02-q04",
     "subject": "higher-math",
     "chapter": "ssc-higher-math-chapter-11-model-test-02",
-    "text": "উদ্দীপক ২: নিচের তথ্যের ভিত্তিতে ৩ ও ৪ নং প্রশ্নের উত্তর দাও: স্থানাঙ্ক জ্যামিতির দূরত্ব, মধ্যবিন্দু বা ঢাল সূত্র ব্যবহার করো। (1, 2) ও (4, 0) বিন্দুগামী সরলরেখার ঢাল কত?",
+    "text": "(a+b)^4 এর মধ্যবর্তী পদের সংখ্যা কত?",
     "options": [
-      "-2/3",
-      "-5",
-      "-3/2",
-      "1"
+      "2",
+      "1",
+      "4",
+      "3"
     ],
     "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-higher-math-chapter-11-model-test-02-q05",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-11-model-test-02",
+    "text": "(a+b)^3 এর বিস্তৃতিতে x^2 এর সহগ কোনটি?",
+    "options": [
+      "2",
+      "3",
+      "2",
+      "n"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-higher-math-chapter-11-model-test-02-q06",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-11-model-test-02",
+    "text": "(1+1)^8=?",
+    "options": [
+      "256",
+      "16",
+      "64",
+      "16"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-higher-math-chapter-11-model-test-02-q07",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-11-model-test-02",
+    "text": "(a+b)^8 এর মধ্যবর্তী পদের সংখ্যা কত?",
+    "options": [
+      "8",
+      "7",
+      "5",
+      "4"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-higher-math-chapter-11-model-test-02-q08",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-11-model-test-02",
+    "text": "(a+b)^7 এর বিস্তৃতিতে x^4 এর সহগ কোনটি?",
+    "options": [
+      "n",
+      "7",
+      "4",
+      "6"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-higher-math-chapter-11-model-test-02-q09",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-11-model-test-02",
+    "text": "(1+1)^6=?",
+    "options": [
+      "64",
+      "12",
+      "36",
+      "12"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-higher-math-chapter-11-model-test-02-q10",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-11-model-test-02",
+    "text": "(a+b)^5 এর মধ্যবর্তী পদের সংখ্যা কত?",
+    "options": [
+      "1",
+      "5",
+      "6",
+      "4"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-higher-math-chapter-11-model-test-02-q11",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-11-model-test-02",
+    "text": "(a+b)^4 এর বিস্তৃতিতে x^1 এর সহগ কোনটি?",
+    "options": [
+      "4",
+      "3",
+      "1",
+      "n"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-higher-math-chapter-11-model-test-02-q12",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-11-model-test-02",
+    "text": "(1+1)^3=?",
+    "options": [
+      "6",
+      "9",
+      "6",
+      "8"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-higher-math-chapter-11-model-test-02-q13",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-11-model-test-02",
+    "text": "(a+b)^3 এর বিস্তৃতিতে x^1 এর সহগ কোনটি?",
+    "options": [
+      "2",
+      "1",
+      "3",
+      "n"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-higher-math-chapter-11-model-test-02-q14",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-11-model-test-02",
+    "text": "(1+1)^4=?",
+    "options": [
+      "16",
+      "8",
+      "8",
+      "16"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-higher-math-chapter-11-model-test-02-q15",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-11-model-test-02",
+    "text": "(a+b)^3 এর মধ্যবর্তী পদের সংখ্যা কত?",
+    "options": [
+      "4",
+      "2",
+      "2",
+      "3"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-higher-math-chapter-11-model-test-02-q16",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-11-model-test-02",
+    "text": "(a+b)^8 এর বিস্তৃতিতে x^5 এর সহগ কোনটি?",
+    "options": [
+      "7",
+      "8",
+      "n",
+      "5"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-higher-math-chapter-11-model-test-02-q17",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-11-model-test-02",
+    "text": "(a+b)^6 এর মধ্যবর্তী পদের সংখ্যা কত?",
+    "options": [
+      "5",
+      "3",
+      "6",
+      "2"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-higher-math-chapter-11-model-test-02-q18",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-11-model-test-02",
+    "text": "(a+b)^5 এর বিস্তৃতিতে x^1 এর সহগ কোনটি?",
+    "options": [
+      "1",
+      "4",
+      "n",
+      "5"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-higher-math-chapter-11-model-test-02-q19",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-11-model-test-02",
+    "text": "(1+1)^7=?",
+    "options": [
+      "49",
+      "14",
+      "128",
+      "14"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-higher-math-chapter-11-model-test-02-q20",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-11-model-test-02",
+    "text": "(a+b)^6 এর বিস্তৃতিতে x^2 এর সহগ কোনটি?",
+    "options": [
+      "2",
+      "6",
+      "n",
+      "5"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-higher-math-chapter-11-model-test-02-q21",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-11-model-test-02",
+    "text": "(a+b)^8 এর বিস্তৃতিতে x^6 এর সহগ কোনটি?",
+    "options": [
+      "7",
+      "8",
+      "n",
+      "6"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-higher-math-chapter-11-model-test-02-q22",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-11-model-test-02",
+    "text": "(a+b)^7 এর বিস্তৃতিতে x^5 এর সহগ কোনটি?",
+    "options": [
+      "n",
+      "7",
+      "6",
+      "5"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-higher-math-chapter-11-model-test-02-q23",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-11-model-test-02",
+    "text": "(a+b)^5 এর বিস্তৃতিতে x^2 এর সহগ কোনটি?",
+    "options": [
+      "2",
+      "n",
+      "4",
+      "5"
+    ],
+    "image": null,
+    "optionImages": null,
     "timeLimit": 45
   }
 ]

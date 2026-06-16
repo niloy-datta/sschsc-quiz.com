@@ -1,0 +1,102 @@
+{
+  "chapter-2-split-05-q01": {
+    "correctOption": "নেটওয়ার্কে ডিভাইসের যৌক্তিক ঠিকানা",
+    "explanation": "ইন্টারনেটে সংযুক্ত প্রতিটি ডিভাইসের একটি লজিক্যাল আইডেন্টিটি বা যৌক্তিক ঠিকানাই হলো আইপি অ্যাড্রেস।"
+  },
+  "chapter-2-split-05-q02": {
+    "correctOption": "৩২ bit",
+    "explanation": "IPv4 অ্যাড্রেস ৩২ বিটের হয়ে থাকে, যা ৮ বিটের ৪টি ভাগে (অকটেট) বিভক্ত থাকে।"
+  },
+  "chapter-2-split-05-q03": {
+    "correctOption": "১২৮ bit",
+    "explanation": "ভবিষ্যতের চাহিদা মেটাতে তৈরি করা IPv6 অ্যাড্রেস ১২৮ বিটের হয়ে থাকে।"
+  },
+  "chapter-2-split-05-q04": {
+    "correctOption": "192.168.1.1",
+    "explanation": "192.168.1.1 হলো একটি সাধারণ লোকাল আইপি অ্যাড্রেস, যেখানে ৪টি অংশ আছে। বাকিগুলো ডোমেইন, ইমেইল বা প্রোটোকল।"
+  },
+  "chapter-2-split-05-q05": {
+    "correctOption": "ওয়েবসাইটের মানুষের পড়ার উপযোগী নাম",
+    "explanation": "ডোমেইন নেম হলো ইন্টারনেটে কোনো ওয়েবসাইটের ইউনিক টেক্সট-ভিত্তিক নাম, যা মানুষের মনে রাখা সহজ।"
+  },
+  "chapter-2-split-05-q06": {
+    "correctOption": "domain name",
+    "explanation": "google.com হলো ডোমেইন নেম। এটি কোনো আইপি অ্যাড্রেস বা ম্যাক অ্যাড্রেস নয়।"
+  },
+  "chapter-2-split-05-q07": {
+    "correctOption": "IP address",
+    "explanation": "DNS না থাকলে প্রতিটি ওয়েবসাইটের জন্য জটিল সংখ্যার IP অ্যাড্রেস মুখস্থ করে রাখতে হতো।"
+  },
+  "chapter-2-split-05-q08": {
+    "correctOption": "hardware address",
+    "explanation": "MAC (Media Access Control) অ্যাড্রেস হলো নেটওয়ার্ক ইন্টারফেস কার্ডের (NIC) পারমানেন্ট ফিজিক্যাল বা হার্ডওয়্যার অ্যাড্রেস।"
+  },
+  "chapter-2-split-05-q09": {
+    "correctOption": "NIC",
+    "explanation": "ম্যানুফ্যাকচারার বা কোম্পানি প্রতিটি নেটওয়ার্ক ইন্টারফেস কার্ড (NIC) বানানোর সময় তাতে একটি ইউনিক ম্যাক অ্যাড্রেস সেট করে দেয়।"
+  },
+  "chapter-2-split-05-q10": {
+    "correctOption": "internet-based computing service",
+    "explanation": "ইন্টারনেটের মাধ্যমে দূরবর্তী কোনো সার্ভার থেকে স্টোরেজ, ডাটাবেস, সফটওয়্যার বা কম্পিউটিং পাওয়ার ভাড়া নেওয়াই হলো ক্লাউড কম্পিউটিং।"
+  },
+  "chapter-2-split-05-q11": {
+    "correctOption": "Google Drive",
+    "explanation": "Google Drive, Dropbox, OneDrive ইত্যাদি হলো ক্লাউড স্টোরেজের উদাহরণ।"
+  },
+  "chapter-2-split-05-q12": {
+    "correctOption": "যেকোনো স্থান থেকে access",
+    "explanation": "ইন্টারনেট থাকলে বিশ্বের যেকোনো জায়গা থেকে, যেকোনো ডিভাইসে ক্লাউডে রাখা ডেটা অ্যাক্সেস করা যায়।"
+  },
+  "chapter-2-split-05-q13": {
+    "correctOption": "privacy/security risk",
+    "explanation": "যেহেতু ডেটা অন্য কারো সার্ভারে থাকে, তাই ক্লাউড কম্পিউটিংয়ে তথ্য ফাঁস বা প্রাইভেসি এবং হ্যাকিংয়ের ঝুঁকি থাকে।"
+  },
+  "chapter-2-split-05-q14": {
+    "correctOption": "area ভাগ করে communication সহজ করতে",
+    "explanation": "একটি বড় ভৌগোলিক এলাকাকে ছোট ছোট হেক্সাগোনাল অংশে ভাগ করে (যাকে সেল বলে) প্রতিটিতে টাওয়ার বসিয়ে মোবাইল নেটওয়ার্ক পরিচালনা করা হয়।"
+  },
+  "chapter-2-split-05-q15": {
+    "correctOption": "mobile communication",
+    "explanation": "GSM (Global System for Mobile Communications) হলো মোবাইল নেটওয়ার্কে বহুল ব্যবহৃত একটি জনপ্রিয় প্রযুক্তি বা স্ট্যান্ডার্ড।"
+  },
+  "chapter-2-split-05-q16": {
+    "correctOption": "wireless LAN connection",
+    "explanation": "লোকাল এরিয়া নেটওয়ার্কে (LAN) তার ছাড়াই ডিভাইসগুলোকে ইন্টারনেটের সাথে যুক্ত করতে ওয়াই-ফাই ব্যবহৃত হয়।"
+  },
+  "chapter-2-split-05-q17": {
+    "correctOption": "কম দূরত্ব",
+    "explanation": "ব্লুটুথ সাধারণত ১০ থেকে ১০০ মিটারের মতো খুব শর্ট-রেঞ্জ বা কম দূরত্বের মধ্যে (PAN) কাজ করে।"
+  },
+  "chapter-2-split-05-q18": {
+    "correctOption": "wireless internet sharing point",
+    "explanation": "হটস্পট হলো এমন একটি শারীরিক স্থান যেখান থেকে রাউটার বা মোবাইলের মাধ্যমে ওয়াই-ফাই সিগন্যাল তৈরি করে ইন্টারনেট শেয়ার করা হয়।"
+  },
+  "chapter-2-split-05-q19": {
+    "correctOption": "অননুমোদিত access প্রতিরোধ",
+    "explanation": "ফায়ারওয়াল একটি নিরাপত্তা সিস্টেম যা কোনো নেটওয়ার্কে বাইরে থেকে অননুমোদিত প্রবেশ বা অ্যাটাক প্রতিরোধ করে।"
+  },
+  "chapter-2-split-05-q20": {
+    "correctOption": "client ও internet-এর মাঝে intermediary হিসেবে কাজ",
+    "explanation": "প্রক্সি সার্ভার ব্যবহারকারী (ক্লায়েন্ট) এবং মূল ইন্টারনেটের মাঝখানে থেকে একটি গেটওয়ে বা মাধ্যম হিসেবে কাজ করে প্রাইভেসি নিশ্চিত করে।"
+  },
+  "chapter-2-split-05-q21": {
+    "correctOption": "প্রতিষ্ঠানের অভ্যন্তরীণ network",
+    "explanation": "ইন্ট্রানেট হলো কোনো নির্দিষ্ট অফিস বা কোম্পানির নিজস্ব প্রাইভেট নেটওয়ার্ক, যা শুধু ওই কোম্পানির কর্মীরাই ব্যবহার করতে পারে।"
+  },
+  "chapter-2-split-05-q22": {
+    "correctOption": "সীমিত external user access সহ private network",
+    "explanation": "যখন একটি ইন্ট্রানেটকে ইন্টারনেটের মাধ্যমে কিছু নির্দিষ্ট বাইরের ব্যবহারকারী (যেমন ভেন্ডর বা পার্টনার) অ্যাক্সেস করার অনুমতি দেওয়া হয়, তখন তাকে এক্সট্রানেট বলে।"
+  },
+  "chapter-2-split-05-q23": {
+    "correctOption": "firewall, password, encryption",
+    "explanation": "নেটওয়ার্ককে হ্যাকার বা ম্যালওয়্যার থেকে সুরক্ষিত রাখতে ফায়ারওয়াল, শক্তিশালী পাসওয়ার্ড এবং ডেটা এনক্রিপশনের মতো পদ্ধতি ব্যবহার করা হয়।"
+  },
+  "chapter-2-split-05-q24": {
+    "correctOption": "Hub সব port-এ পাঠায়, Switch নির্দিষ্ট port-এ পাঠায়",
+    "explanation": "হাব ডেটা পেলে না বুঝেই সব পোর্টে পাঠিয়ে দেয় (ব্রডকাস্ট), কিন্তু সুইচ ডেটা প্যাকেটের ম্যাক অ্যাড্রেস পড়ে শুধু গন্তব্য পোর্টে পাঠায় (ইউনিকাস্ট)।"
+  },
+  "chapter-2-split-05-q25": {
+    "correctOption": "Domain মানুষের জন্য সহজ নাম, IP ডিভাইসের network address",
+    "explanation": "কম্পিউটার বা নেটওয়ার্ক চেনে সংখ্যার IP অ্যাড্রেস, আর মানুষের মনে রাখার সুবিধার জন্য ওই অ্যাড্রেসের একটি টেক্সট নাম দেওয়া হয় যাকে Domain Name বলে।"
+  }
+}

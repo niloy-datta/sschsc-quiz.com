@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="100%" height="100%" viewBox="0 0 360 220">
+  <defs>
+    <radialGradient id="bg" cx="50%" cy="45%" r="75%">
+      <stop offset="0%" stop-color="#1e3a8a"/>
+      <stop offset="100%" stop-color="#020617"/>
+    </radialGradient>
+    <filter id="g">
+      <feDropShadow dx="0" dy="0" stdDeviation="4" flood-color="#38bdf8" flood-opacity=".75"/>
+    </filter>
+    <style>
+      .line{fill:none;stroke:#38bdf8;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;filter:url(#g)}
+      .grid{stroke:#334155;stroke-width:1}
+      .dot{fill:#facc15;stroke:#fff7ed;stroke-width:2}
+      .txt{font-family:Arial,sans-serif;font-size:18px;font-weight:900;fill:#fff}
+    </style>
+  </defs>
+
+  <rect width="360" height="220" rx="18" fill="url(#bg)"/>
+
+  <g opacity=".65">
+    <line x1="40" y1="70" x2="320" y2="70" class="grid"/>
+    <line x1="40" y1="110" x2="320" y2="110" class="grid"/>
+    <line x1="40" y1="150" x2="320" y2="150" class="grid"/>
+  </g>
+
+  <path d="M40 130 L80 130 Q92 104 105 130 L124 130 L140 68 L158 163 L176 130 L220 130 Q248 95 275 130 T320 130" class="line"/>
+  <circle cx="275" cy="130" r="8" class="dot"/>
+  <text x="275" y="88" text-anchor="middle" class="txt">T</text>
+</svg>

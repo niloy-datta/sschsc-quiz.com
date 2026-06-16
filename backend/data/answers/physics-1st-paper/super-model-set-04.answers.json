@@ -1,142 +1,82 @@
 {
-  "physics-1st-paper-hsc-science-physics-1st-paper-model-tests-super-model-set-04-ts-0": {
-    "answer": "সলিনয়ডাল (Solenoidal)",
-    "answerIndex": 0,
-    "difficulty": 1200,
-    "explanation": "ডাইভারজেন্স শূন্য (∇ ⋅A =0) হওয়ার অর্থ ভেক্টরটির কোনো উৎস বা নিমজ্জন বিন্দু নেই, যাকে সলিনয়ডাল বলা হয়।",
-    "topic": "super-model-set-04"
+  "super-model-set-04-q01": {
+    "correctOption": "সলিনয়ডাল (Solenoidal)",
+    "explanation": "ডাইভারজেন্স শূন্য (∇ ⋅A =0) হওয়ার অর্থ ভেক্টরটির কোনো উৎস বা নিমজ্জন বিন্দু নেই, যাকে সলিনয়ডাল বলা হয়।"
   },
-  "physics-1st-paper-hsc-science-physics-1st-paper-model-tests-super-model-set-04-ts-1": {
-    "answer": "কেন্দ্রের দিকে (ব্যাসার্ধ বরাবর)",
-    "answerIndex": 2,
-    "difficulty": 1200,
-    "explanation": "সমদ্রুতিতে বৃত্তাকার পথে ঘূর্ণনরত বস্তুর বেগের দিক সবসময় পরিবর্তন হয়, যার ফলে একটি কেন্দ্রমুখী ত্বরণ সৃষ্টি হয় যা সর্বদা কেন্দ্রের দিকে কাজ করে।",
-    "topic": "super-model-set-04"
+  "super-model-set-04-q02": {
+    "correctOption": "কেন্দ্রের দিকে (ব্যাসার্ধ বরাবর)",
+    "explanation": "সমদ্রুতিতে বৃত্তাকার পথে ঘূর্ণনরত বস্তুর বেগের দিক সবসময় পরিবর্তন হয়, যার ফলে একটি কেন্দ্রমুখী ত্বরণ সৃষ্টি হয় যা সর্বদা কেন্দ্রের দিকে কাজ করে।"
   },
-  "physics-1st-paper-hsc-science-physics-1st-paper-model-tests-super-model-set-04-ts-2": {
-    "answer": "রৈখিক ভরবেগের সংরক্ষণ",
-    "answerIndex": 2,
-    "difficulty": 1200,
-    "explanation": "রকেট থেকে প্রবল বেগে গ্যাস পেছনের দিকে নির্গত হয়, ফলে ভরবেগের সংরক্ষণ সূত্র অনুযায়ী রকেট সমপরিমাণ ভরবেগ নিয়ে সামনের দিকে এগিয়ে যায়।",
-    "topic": "super-model-set-04"
+  "super-model-set-04-q03": {
+    "correctOption": "রৈখিক ভরবেগের সংরক্ষণ",
+    "explanation": "রকেট থেকে প্রবল বেগে গ্যাস পেছনের দিকে নির্গত হয়, ফলে ভরবেগের সংরক্ষণ সূত্র অনুযায়ী রকেট সমপরিমাণ ভরবেগ নিয়ে সামনের দিকে এগিয়ে যায়।"
   },
-  "physics-1st-paper-hsc-science-physics-1st-paper-model-tests-super-model-set-04-ts-3": {
-    "answer": "3R/4",
-    "answerIndex": 2,
-    "difficulty": 1200,
-    "explanation": "g′ =g(1−R h ​)। g′ =4 g ​ বসালে 4 1 ​=1−R h ​⟹R h ​=4 3 ​⟹h=4 3R ​।",
-    "topic": "super-model-set-04"
+  "super-model-set-04-q04": {
+    "correctOption": "3R/4",
+    "explanation": "g′ =g(1−R h ​)। g′ =4 g ​ বসালে 4 1 ​=1−R h ​⟹R h ​=4 3 ​⟹h=4 3R ​।"
   },
-  "physics-1st-paper-hsc-science-physics-1st-paper-model-tests-super-model-set-04-ts-4": {
-    "answer": "273.16 K",
-    "answerIndex": 0,
-    "difficulty": 1200,
-    "explanation": "যে নির্দিষ্ট তাপমাত্রা ও চাপে পানির তিন অবস্থা (বরফ, পানি ও বাষ্প) সাম্যাবস্থায় থাকে তাকে ত্রৈধ বিন্দু বলে। এর তাপমাত্রা 273.16 K।",
-    "topic": "super-model-set-04"
+  "super-model-set-04-q05": {
+    "correctOption": "273.16 K",
+    "explanation": "যে নির্দিষ্ট তাপমাত্রা ও চাপে পানির তিন অবস্থা (বরফ, পানি ও বাষ্প) সাম্যাবস্থায় থাকে তাকে ত্রৈধ বিন্দু বলে। এর তাপমাত্রা 273.16 K।"
   },
-  "physics-1st-paper-hsc-science-physics-1st-paper-model-tests-super-model-set-04-ts-5": {
-    "answer": "dt2 d2 x ​+ω2 x=0",
-    "answerIndex": 1,
-    "difficulty": 1200,
-    "explanation": "হুকের সূত্রানুসারে F=−kx⟹ma=−kx⟹mdt2 d2 x ​+kx=0⟹dt2 d2 x ​+(m k ​)x=0। এখানে ω2 =m k ​।",
-    "topic": "super-model-set-04"
+  "super-model-set-04-q06": {
+    "correctOption": "dt2 d2 x ​+ω2 x=0",
+    "explanation": "হুকের সূত্রানুসারে F=−kx⟹ma=−kx⟹mdt2 d2 x ​+kx=0⟹dt2 d2 x ​+(m k ​)x=0। এখানে ω2 =m k ​।"
   },
-  "physics-1st-paper-hsc-science-physics-1st-paper-model-tests-super-model-set-04-ts-6": {
-    "answer": "TA",
-    "answerIndex": 1,
-    "difficulty": 1200,
-    "explanation": "পৃষ্ঠটানের সংজ্ঞানুসারে, প্রতি একক ক্ষেত্রফল বৃদ্ধিতে কৃতকাজই পৃষ্ঠটান (T=W/A)। তাই কৃতকাজ W=T×A।",
-    "topic": "super-model-set-04"
+  "super-model-set-04-q07": {
+    "correctOption": "TA",
+    "explanation": "পৃষ্ঠটানের সংজ্ঞানুসারে, প্রতি একক ক্ষেত্রফল বৃদ্ধিতে কৃতকাজই পৃষ্ঠটান (T=W/A)। তাই কৃতকাজ W=T×A।"
   },
-  "physics-1st-paper-hsc-science-physics-1st-paper-model-tests-super-model-set-04-ts-7": {
-    "answer": "0",
-    "answerIndex": 1,
-    "difficulty": 1200,
-    "explanation": "সমান্তরাল ভেক্টরদ্বয়ের মধ্যবর্তী কোণ θ=0∘ । ∣A ×B ∣=ABsin(0∘ )=0।",
-    "topic": "super-model-set-04"
+  "super-model-set-04-q08": {
+    "correctOption": "0",
+    "explanation": "সমান্তরাল ভেক্টরদ্বয়ের মধ্যবর্তী কোণ θ=0∘ । ∣A ×B ∣=ABsin(0∘ )=0।"
   },
-  "physics-1st-paper-hsc-science-physics-1st-paper-model-tests-super-model-set-04-ts-8": {
-    "answer": "T=r mv2 ​−mg",
-    "answerIndex": 1,
-    "difficulty": 1200,
-    "explanation": "সর্বোচ্চ বিন্দুতে সুতার টান ও ওজন উভয়েই নিচের দিকে কাজ করে কেন্দ্রমুখী বলের যোগান দেয়: T+mg=r mv2 ​⟹T=r mv2 ​−mg।",
-    "topic": "super-model-set-04"
+  "super-model-set-04-q09": {
+    "correctOption": "T=r mv2 ​−mg",
+    "explanation": "সর্বোচ্চ বিন্দুতে সুতার টান ও ওজন উভয়েই নিচের দিকে কাজ করে কেন্দ্রমুখী বলের যোগান দেয়: T+mg=r mv2 ​⟹T=r mv2 ​−mg।"
   },
-  "physics-1st-paper-hsc-science-physics-1st-paper-model-tests-super-model-set-04-ts-9": {
-    "answer": "পরাবৃত্ত (Parabola)",
-    "answerIndex": 1,
-    "difficulty": 1200,
-    "explanation": "Ek ​=2m p2 ​। এটি y=ax2 আকারের একটি সমীকরণ, যা একটি পরাবৃত্ত নির্দেশ করে।",
-    "topic": "super-model-set-04"
+  "super-model-set-04-q10": {
+    "correctOption": "পরাবৃত্ত (Parabola)",
+    "explanation": "Ek ​=2m p2 ​। এটি y=ax2 আকারের একটি সমীকরণ, যা একটি পরাবৃত্ত নির্দেশ করে।"
   },
-  "physics-1st-paper-hsc-science-physics-1st-paper-model-tests-super-model-set-04-ts-10": {
-    "answer": "W/4",
-    "answerIndex": 1,
-    "difficulty": 1200,
-    "explanation": "g′ =g(R+h R ​)2 । যদি h=R হয়, তবে g′ =g(2R R ​)2 =g/4। ফলে ওজনও আদি ওজনের ১/৪ হবে।",
-    "topic": "super-model-set-04"
+  "super-model-set-04-q11": {
+    "correctOption": "W/4",
+    "explanation": "g′ =g(R+h R ​)2 । যদি h=R হয়, তবে g′ =g(2R R ​)2 =g/4। ফলে ওজনও আদি ওজনের ১/৪ হবে।"
   },
-  "physics-1st-paper-hsc-science-physics-1st-paper-model-tests-super-model-set-04-ts-11": {
-    "answer": "সমানুপাতিক ও বিপরীতমুখী",
-    "answerIndex": 0,
-    "difficulty": 1200,
-    "explanation": "SHM এর মূল শর্তই হলো ত্বরণ সরণের সমানুপাতিক ও বিপরীতমুখী (a=−ω2 x)। দশা যাই হোক না কেন, এটি সত্য।",
-    "topic": "super-model-set-04"
+  "super-model-set-04-q12": {
+    "correctOption": "সমানুপাতিক ও বিপরীতমুখী",
+    "explanation": "SHM এর মূল শর্তই হলো ত্বরণ সরণের সমানুপাতিক ও বিপরীতমুখী (a=−ω2 x)। দশা যাই হোক না কেন, এটি সত্য।"
   },
-  "physics-1st-paper-hsc-science-physics-1st-paper-model-tests-super-model-set-04-ts-12": {
-    "answer": "λ∝d2 1 ​",
-    "answerIndex": 3,
-    "difficulty": 1200,
-    "explanation": "গড় মুক্ত পথের সমীকরণ λ=2 ​πnd2 1 ​ (ম্যাক্সওয়েল) বা λ=4πnd2 3 ​ (ক্লসিয়াস)। উভয় ক্ষেত্রেই λ∝d2 1 ​।",
-    "topic": "super-model-set-04"
+  "super-model-set-04-q13": {
+    "correctOption": "λ∝d2 1 ​",
+    "explanation": "গড় মুক্ত পথের সমীকরণ λ=2 ​πnd2 1 ​ (ম্যাক্সওয়েল) বা λ=4πnd2 3 ​ (ক্লসিয়াস)। উভয় ক্ষেত্রেই λ∝d2 1 ​।"
   },
-  "physics-1st-paper-hsc-science-physics-1st-paper-model-tests-super-model-set-04-ts-13": {
-    "answer": "শূন্য",
-    "answerIndex": 2,
-    "difficulty": 1200,
-    "explanation": "বৃত্তাকার পথে কেন্দ্রমুখী বল সবসময় ব্যাসার্ধ বরাবর এবং সরণ স্পর্শক বরাবর হয় (মধ্যবর্তী কোণ 90°)। W=Fscos(90∘ )=0।",
-    "topic": "super-model-set-04"
+  "super-model-set-04-q14": {
+    "correctOption": "শূন্য",
+    "explanation": "বৃত্তাকার পথে কেন্দ্রমুখী বল সবসময় ব্যাসার্ধ বরাবর এবং সরণ স্পর্শক বরাবর হয় (মধ্যবর্তী কোণ 90°)। W=Fscos(90∘ )=0।"
   },
-  "physics-1st-paper-hsc-science-physics-1st-paper-model-tests-super-model-set-04-ts-14": {
-    "answer": "ve ​=2 ​v",
-    "answerIndex": 0,
-    "difficulty": 1200,
-    "explanation": "উপগ্রহের বেগ v=gR ​ এবং মুক্তিবেগ ve ​=2gR ​। সুতরাং ve ​=2 ​v।",
-    "topic": "super-model-set-04"
+  "super-model-set-04-q15": {
+    "correctOption": "ve ​=2 ​v",
+    "explanation": "উপগ্রহের বেগ v=gR ​ এবং মুক্তিবেগ ve ​=2gR ​। সুতরাং ve ​=2 ​v।"
   },
-  "physics-1st-paper-hsc-science-physics-1st-paper-model-tests-super-model-set-04-ts-15": {
-    "answer": "0 থেকে 0.5",
-    "answerIndex": 1,
-    "difficulty": 1200,
-    "explanation": "তাত্ত্বিক মান −1 থেকে 0.5 হলেও, বাস্তবে কোনো পদার্থকে টানলে তার ব্যাস বাড়ে না (অর্থাৎ ঋণাত্মক বিকৃতি হয় না), তাই বাস্তব মান 0 থেকে 0.5 এর মধ্যে থাকে।",
-    "topic": "super-model-set-04"
+  "super-model-set-04-q16": {
+    "correctOption": "0 থেকে 0.5",
+    "explanation": "তাত্ত্বিক মান −1 থেকে 0.5 হলেও, বাস্তবে কোনো পদার্থকে টানলে তার ব্যাস বাড়ে না (অর্থাৎ ঋণাত্মক বিকৃতি হয় না), তাই বাস্তব মান 0 থেকে 0.5 এর মধ্যে থাকে।"
   },
-  "physics-1st-paper-hsc-science-physics-1st-paper-model-tests-super-model-set-04-ts-16": {
-    "answer": "৪ গুণ",
-    "answerIndex": 1,
-    "difficulty": 1200,
-    "explanation": "দোলনকাল 100% বৃদ্ধি মানে আদি দোলনকালের দ্বিগুণ (2T) হওয়া। T∝L ​। T দ্বিগুণ করতে হলে L কে 22 =4 গুণ করতে হবে।",
-    "topic": "super-model-set-04"
+  "super-model-set-04-q17": {
+    "correctOption": "৪ গুণ",
+    "explanation": "দোলনকাল 100% বৃদ্ধি মানে আদি দোলনকালের দ্বিগুণ (2T) হওয়া। T∝L ​। T দ্বিগুণ করতে হলে L কে 22 =4 গুণ করতে হবে।"
   },
-  "physics-1st-paper-hsc-science-physics-1st-paper-model-tests-super-model-set-04-ts-17": {
-    "answer": "পরম তাপমাত্রা",
-    "answerIndex": 2,
-    "difficulty": 1200,
-    "explanation": "গ্যাসের গতিতত্ত্ব অনুযায়ী, অণুগুলোর গড় গতিশক্তি কেবল গ্যাসের পরম তাপমাত্রার সমানুপাতিক (Ek ​∝T)।",
-    "topic": "super-model-set-04"
+  "super-model-set-04-q18": {
+    "correctOption": "পরম তাপমাত্রা",
+    "explanation": "গ্যাসের গতিতত্ত্ব অনুযায়ী, অণুগুলোর গড় গতিশক্তি কেবল গ্যাসের পরম তাপমাত্রার সমানুপাতিক (Ek ​∝T)।"
   },
-  "physics-1st-paper-hsc-science-physics-1st-paper-model-tests-super-model-set-04-ts-18": {
-    "answer": "লম্ব",
-    "answerIndex": 1,
-    "difficulty": 1200,
-    "explanation": "ডট বা স্কেলার গুণফল ABcosθ=0। যেহেতু ভেক্টরদ্বয় শূন্য নয়, তাই cosθ=0⟹θ=90∘ (লম্ব)।",
-    "topic": "super-model-set-04"
+  "super-model-set-04-q19": {
+    "correctOption": "লম্ব",
+    "explanation": "ডট বা স্কেলার গুণফল ABcosθ=0। যেহেতু ভেক্টরদ্বয় শূন্য নয়, তাই cosθ=0⟹θ=90∘ (লম্ব)।"
   },
-  "physics-1st-paper-hsc-science-physics-1st-paper-model-tests-super-model-set-04-ts-19": {
-    "answer": "N m",
-    "answerIndex": 0,
-    "difficulty": 1200,
-    "explanation": "টর্ক τ=r×F। দূরত্বের একক m এবং বলের একক N। তাই টর্কের একক N m।",
-    "topic": "super-model-set-04"
+  "super-model-set-04-q20": {
+    "correctOption": "N m",
+    "explanation": "টর্ক τ=r×F। দূরত্বের একক m এবং বলের একক N। তাই টর্কের একক N m।"
   }
 }

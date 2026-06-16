@@ -1,177 +1,102 @@
 {
-  "hsc-physics_2ndpaper-chapter-01-set-05-q01": {
-    "answer": "-0.2857",
-    "answerIndex": 0,
-    "difficulty": 1200,
-    "explanation": "বোর্ড/মডেল/অধ্যায়ভিত্তিক সোর্স প্যাটার্ন থেকে নেওয়া high-priority MCQ।",
-    "topic": "তাপগতিবিদ্যা"
+  "hsc-physics-2nd-paper-chapter-01-model-test-05-q01": {
+    "correctOption": "কেলভিন স্কেল",
+    "explanation": "সঠিক উত্তর: গ। কেলভিন বা পরম স্কেলের শূন্য বিন্দু (0 K) হলো\nপরম শূন্য তাপমাত্রা, যা মহাবিশ্বের সম্ভাব্য সর্বনিম্ন তাপমাত্রা। তাই\nকেলভিন স্কেলে কোনো তাপমাত্রাই ঋণাত্মক হতে পারে না।"
   },
-  "hsc-physics_2ndpaper-chapter-01-set-05-q02": {
-    "answer": "ii ও iii",
-    "answerIndex": 2,
-    "difficulty": 1200,
-    "explanation": "বোর্ড/মডেল/অধ্যায়ভিত্তিক সোর্স প্যাটার্ন থেকে নেওয়া high-priority MCQ।",
-    "topic": "তাপগতিবিদ্যা"
+  "hsc-physics-2nd-paper-chapter-01-model-test-05-q02": {
+    "correctOption": "40\\%",
+    "explanation": "সঠিক উত্তর: খ। কর্মদক্ষতা,\n\\eta = \\left(1 - \\frac{T_2}{T_1}\\right) \\times 100\\%। এখানে\nT_1 = 500 \\text{ K} এবং T_2 = 300 \\text{ K}। ফলে\n\\eta = \\left(1 - \\frac{300}{500}\\right) \\times 100\\% = \\left(1 - 0.6\\right) \\times 100\\% = 40\\%।"
   },
-  "hsc-physics_2ndpaper-chapter-01-set-05-q03": {
-    "answer": "ii ও iii",
-    "answerIndex": 2,
-    "difficulty": 1200,
-    "explanation": "বোর্ড/মডেল/অধ্যায়ভিত্তিক সোর্স প্যাটার্ন থেকে নেওয়া high-priority MCQ।",
-    "topic": "তাপগতিবিদ্যা"
+  "hsc-physics-2nd-paper-chapter-01-model-test-05-q03": {
+    "correctOption": "শূন্য",
+    "explanation": "সঠিক উত্তর: ক। আদর্শ গ্যাসের অভ্যন্তরীণ শক্তি কেবল এর পরম তাপমাত্রার ওপর\nনির্ভর করে। সমউষ্ণ প্রক্রিয়ায় তাপমাত্রা স্থির থাকে (\\Delta T = 0), তাই\nঅভ্যন্তরীণ শক্তির কোনো পরিবর্তন হয় না (\\Delta U = 0)।"
   },
-  "hsc-physics_2ndpaper-chapter-01-set-05-q04": {
-    "answer": "3",
-    "answerIndex": 0,
-    "difficulty": 1200,
-    "explanation": "বোর্ড/মডেল/অধ্যায়ভিত্তিক সোর্স প্যাটার্ন থেকে নেওয়া high-priority MCQ।",
-    "topic": "তাপগতিবিদ্যা"
+  "hsc-physics-2nd-paper-chapter-01-model-test-05-q04": {
+    "correctOption": "রুদ্ধতাপীয় প্রত্যাগামী\nপ্রক্রিয়া",
+    "explanation": "সঠিক উত্তর: গ।\nরুদ্ধতাপীয় প্রক্রিয়ায় সিস্টেমে তাপের আদান-প্রদান হয় না\n(\\Delta Q = 0)। প্রক্রিয়াটি প্রত্যাগামী হলে এনট্রপির পরিবর্তন\n\\Delta S = \\frac{\\Delta Q}{T} = 0 হয়। একে আইসেনট্রপিক (Isentropic)\nপ্রক্রিয়াও বলে।"
   },
-  "hsc-physics_2ndpaper-chapter-01-set-05-q05": {
-    "answer": "উৎস ও গ্রাহকের তাপমাত্রার পার্থক্য বাড়াতে হবে",
-    "answerIndex": 1,
-    "difficulty": 1200,
-    "explanation": "বোর্ড/মডেল/অধ্যায়ভিত্তিক সোর্স প্যাটার্ন থেকে নেওয়া high-priority MCQ।",
-    "topic": "তাপগতিবিদ্যা"
+  "hsc-physics-2nd-paper-chapter-01-model-test-05-q05": {
+    "correctOption": "927^\\circ\\text{C}",
+    "explanation": "সঠিক উত্তর: খ।\nরুদ্ধতাপীয় প্রক্রিয়ায়,\nT_1 V_1^{\\gamma - 1} = T_2 V_2^{\\gamma - 1}। T_1 = 300 \\text{ K},\nV_2 = V_1/8। ফলে\nT_2 = 300 \\times (8)^{\\frac{5}{3} - 1} = 300 \\times 8^{\\frac{2}{3}} = 300 \\times 4 = 1200 \\text{ K}।\nসেলসিয়াসে: 1200 - 273 = 927^\\circ\\text{C}।"
   },
-  "hsc-physics_2ndpaper-chapter-01-set-05-q06": {
-    "answer": "উৎস ও গ্রাহকের তাপমাত্রার পার্থক্য বাড়াতে হবে",
-    "answerIndex": 0,
-    "difficulty": 1200,
-    "explanation": "বোর্ড/মডেল/অধ্যায়ভিত্তিক সোর্স প্যাটার্ন থেকে নেওয়া high-priority MCQ।",
-    "topic": "তাপগতিবিদ্যা"
+  "hsc-physics-2nd-paper-chapter-01-model-test-05-q06": {
+    "correctOption": "i ও ii",
+    "explanation": "সঠিক উত্তর: ক।\nপ্রত্যাগামী প্রক্রিয়া একটি আদর্শ প্রক্রিয়া যেখানে কোনো শক্তির অপচয় হয়\nনা, ফলে এনট্রপির পরিবর্তন শূন্য থাকে (\\Delta S = 0)। তাই iii নং উক্তিটি\nভুল।"
   },
-  "hsc-physics_2ndpaper-chapter-01-set-05-q07": {
-    "answer": "উৎস ও গ্রাহকের তাপমাত্রার পার্থক্য বাড়াতে হবে",
-    "answerIndex": 2,
-    "difficulty": 1200,
-    "explanation": "বোর্ড/মডেল/অধ্যায়ভিত্তিক সোর্স প্যাটার্ন থেকে নেওয়া high-priority MCQ।",
-    "topic": "তাপগতিবিদ্যা"
+  "hsc-physics-2nd-paper-chapter-01-model-test-05-q07": {
+    "correctOption": "স্থির আয়তনে মোলার আপেক্ষিক তাপ",
+    "explanation": "সঠিক উত্তর: খ। সংজ্ঞানুসারে, স্থির আয়তনে ১ মোল গ্যাসের\nতাপমাত্রা ১ কেলভিন বাড়াতে যে তাপ লাগে তাকে স্থির আয়তনে মোলার\nআপেক্ষিক তাপ (C_v) বলে।"
   },
-  "hsc-physics_2ndpaper-chapter-01-set-05-q08": {
-    "answer": "উৎস ও গ্রাহকের তাপমাত্রার পার্থক্য বাড়াতে হবে",
-    "answerIndex": 3,
-    "difficulty": 1200,
-    "explanation": "বোর্ড/মডেল/অধ্যায়ভিত্তিক সোর্স প্যাটার্ন থেকে নেওয়া high-priority MCQ।",
-    "topic": "তাপগতিবিদ্যা"
+  "hsc-physics-2nd-paper-chapter-01-model-test-05-q08": {
+    "correctOption": "127^\\circ\\text{C}",
+    "explanation": "সঠিক উত্তর: খ। কর্মদক্ষতা\n\\eta = 0.25, T_2 = 27 + 273 = 300 \\text{ K}। সূত্র:\n1 - \\frac{T_2}{T_1} = 0.25 \\implies \\frac{300}{T_1} = 0.75 \\implies T_1 = \\frac{300}{0.75} = 400 \\text{ K}।\nসেলসিয়াসে: 400 - 273 = 127^\\circ\\text{C}।"
   },
-  "hsc-physics_2ndpaper-chapter-01-set-05-q09": {
-    "answer": "এনট্রপি",
-    "answerIndex": 3,
-    "difficulty": 1200,
-    "explanation": "বোর্ড/মডেল/অধ্যায়ভিত্তিক সোর্স প্যাটার্ন থেকে নেওয়া high-priority MCQ।",
-    "topic": "তাপগতিবিদ্যা"
+  "hsc-physics-2nd-paper-chapter-01-model-test-05-q09": {
+    "correctOption": "বহু-পরমাণুক",
+    "explanation": "সঠিক উত্তর: গ। এক-পরমাণুক গ্যাসের \\gamma = 1.67, দ্বি-পরমাণুক\nগ্যাসের \\gamma = 1.40 এবং বহু-পরমাণুক গ্যাসের (যেমন CO_2, NH_3) ক্ষেত্রে\n\\gamma = 1.33 হয়।"
   },
-  "hsc-physics_2ndpaper-chapter-01-set-05-q10": {
-    "answer": "জুল",
-    "answerIndex": 3,
-    "difficulty": 1200,
-    "explanation": "বোর্ড/মডেল/অধ্যায়ভিত্তিক সোর্স প্যাটার্ন থেকে নেওয়া high-priority MCQ।",
-    "topic": "তাপগতিবিদ্যা"
+  "hsc-physics-2nd-paper-chapter-01-model-test-05-q10": {
+    "correctOption": "সোলার\nপ্যানেল (Solar Panel)",
+    "explanation": "সঠিক উত্তর: ঘ। সোলার প্যানেল ফোটোভোলটাইক ক্রিয়ার মাধ্যমে আলোক\nশক্তিকে সরাসরি বিদ্যুৎ শক্তিতে রূপান্তর করে, এটি তাপগতিবিদ্যার দ্বিতীয় সূত্র বা\nতাপীয় চক্রের নীতিতে কাজ করে না।"
   },
-  "hsc-physics_2ndpaper-chapter-01-set-05-q11": {
-    "answer": "জুল",
-    "answerIndex": 2,
-    "difficulty": 1200,
-    "explanation": "বোর্ড/মডেল/অধ্যায়ভিত্তিক সোর্স প্যাটার্ন থেকে নেওয়া high-priority MCQ।",
-    "topic": "তাপগতিবিদ্যা"
+  "hsc-physics-2nd-paper-chapter-01-model-test-05-q11": {
+    "correctOption": "600 \\text{ J}",
+    "explanation": "সঠিক\nউত্তর: খ। শক্তির সংরক্ষণশীলতা নীতি অনুযায়ী, গৃহীত তাপ (Q_1) = বর্জিত তাপ (Q_2)\n\\+ কৃত কাজ (W)। অর্থাৎ,\n1000 = Q_2 + 400 \\implies Q_2 = 1000 - 400 = 600 \\text{ J}।"
   },
-  "hsc-physics_2ndpaper-chapter-01-set-05-q12": {
-    "answer": "জুল",
-    "answerIndex": 0,
-    "difficulty": 1200,
-    "explanation": "বোর্ড/মডেল/অধ্যায়ভিত্তিক সোর্স প্যাটার্ন থেকে নেওয়া high-priority MCQ।",
-    "topic": "তাপগতিবিদ্যা"
+  "hsc-physics-2nd-paper-chapter-01-model-test-05-q12": {
+    "correctOption": "1.51 \\text{ J K}^{-1}",
+    "explanation": "সঠিক উত্তর: ক। তাপমাত্রা পরিবর্তনে এনট্রপি \\Delta S = ms \\ln(T_2/T_1)। ভর\nm = 10 \\text{ g} = 0.01 \\text{ kg}।\nT_1 = 273 \\text{ K}, T_2 = 283 \\text{ K}।\n\\Delta S = 0.01 \\times 4200 \\times \\ln(283/273) = 42 \\times \\ln(1.0366) = 42 \\times 0.03597 \\approx 1.51 \\text{ J K}^{-1}।"
   },
-  "hsc-physics_2ndpaper-chapter-01-set-05-q13": {
-    "answer": "জুল",
-    "answerIndex": 2,
-    "difficulty": 1200,
-    "explanation": "বোর্ড/মডেল/অধ্যায়ভিত্তিক সোর্স প্যাটার্ন থেকে নেওয়া high-priority MCQ।",
-    "topic": "তাপগতিবিদ্যা"
+  "hsc-physics-2nd-paper-chapter-01-model-test-05-q13": {
+    "correctOption": "-\\frac{P}{V}",
+    "explanation": "সঠিক উত্তর: খ। সমউষ্ণ\nপ্রক্রিয়ায় PV = \\text{ধ্রুবক}। ব্যবকলন করে পাই,\nP \\, dV + V \\, dP = 0 \\implies V \\, dP = -P \\, dV \\implies \\frac{dP}{dV} = -\\frac{P}{V}।\nসুতরাং ঢাল -\\frac{P}{V}।"
   },
-  "hsc-physics_2ndpaper-chapter-01-set-05-q14": {
-    "answer": "থার্মোমিটার",
-    "answerIndex": 2,
-    "difficulty": 1200,
-    "explanation": "বোর্ড/মডেল/অধ্যায়ভিত্তিক সোর্স প্যাটার্ন থেকে নেওয়া high-priority MCQ।",
-    "topic": "তাপগতিবিদ্যা"
+  "hsc-physics-2nd-paper-chapter-01-model-test-05-q14": {
+    "correctOption": "প্রথম সূত্র",
+    "explanation": "সঠিক উত্তর: খ।\nতাপগতিবিদ্যার প্রথম সূত্র (dQ = dU + dW) সরবরাহকৃত তাপ,\nসিস্টেমের অভ্যন্তরীণ শক্তির পরিবর্তন এবং সিস্টেম কর্তৃক কৃত\nকাজের মধ্যে গাণিতিক সম্পর্ক প্রদান করে।"
   },
-  "hsc-physics_2ndpaper-chapter-01-set-05-q15": {
-    "answer": "রুদ্ধতাপীয় পরিবর্তন বয়েলের সূত্র মেনে চলে",
-    "answerIndex": 1,
-    "difficulty": 1200,
-    "explanation": "বোর্ড/মডেল/অধ্যায়ভিত্তিক সোর্স প্যাটার্ন থেকে নেওয়া high-priority MCQ।",
-    "topic": "তাপগতিবিদ্যা"
+  "hsc-physics-2nd-paper-chapter-01-model-test-05-q15": {
+    "correctOption": "400 \\text{ J}",
+    "explanation": "সঠিক উত্তর: খ। স্থির চাপে কৃত\nকাজের সমীকরণ W = P \\Delta V। এখানে\n\\Delta V = (3 - 1) \\times 10^{-3} = 2 \\times 10^{-3} \\text{ m}^3। অতএব,\nW = 2 \\times 10^5 \\times 2 \\times 10^{-3} = 400 \\text{ J}।"
   },
-  "hsc-physics_2ndpaper-chapter-01-set-05-q16": {
-    "answer": "তাপমাত্রা",
-    "answerIndex": 2,
-    "difficulty": 1200,
-    "explanation": "বোর্ড/মডেল/অধ্যায়ভিত্তিক সোর্স প্যাটার্ন থেকে নেওয়া high-priority MCQ।",
-    "topic": "তাপগতিবিদ্যা"
+  "hsc-physics-2nd-paper-chapter-01-model-test-05-q16": {
+    "correctOption": "তাপমাত্রা হ্রাস\nপায়",
+    "explanation": "সঠিক উত্তর: খ। রুদ্ধতাপীয় প্রক্রিয়ায়\nবাইরে থেকে তাপ আসে না। গ্যাস প্রসারিত হওয়ার সময় সিস্টেম নিজে কাজ করে বলে তার\nনিজস্ব অভ্যন্তরীণ শক্তি ব্যয়িত হয়, ফলে তাপমাত্রা হ্রাস পায় (শীতলীকরণ ঘটে)।"
   },
-  "hsc-physics_2ndpaper-chapter-01-set-05-q17": {
-    "answer": "100%",
-    "answerIndex": 3,
-    "difficulty": 1200,
-    "explanation": "বোর্ড/মডেল/অধ্যায়ভিত্তিক সোর্স প্যাটার্ন থেকে নেওয়া high-priority MCQ।",
-    "topic": "তাপগতিবিদ্যা"
+  "hsc-physics-2nd-paper-chapter-01-model-test-05-q17": {
+    "correctOption": "এটি পরিবেশের সাথে কেবল শক্তি বিনিময় করতে\nপারে",
+    "explanation": "সঠিক উত্তর: খ।\nতাপগতিবিদ্যায় বদ্ধ সিস্টেম হলো এমন ব্যবস্থা যা তার পরিবেশের\nসাথে শক্তি (তাপ বা কাজ হিসেবে) আদান-প্রদান করতে পারে, কিন্তু ভরের কোনো\nআদান-প্রদান করে না।"
   },
-  "hsc-physics_2ndpaper-chapter-01-set-05-q18": {
-    "answer": "i, ii ও iii",
-    "answerIndex": 3,
-    "difficulty": 1200,
-    "explanation": "বোর্ড/মডেল/অধ্যায়ভিত্তিক সোর্স প্যাটার্ন থেকে নেওয়া high-priority MCQ।",
-    "topic": "তাপগতিবিদ্যা"
+  "hsc-physics-2nd-paper-chapter-01-model-test-05-q18": {
+    "correctOption": "i\nও ii",
+    "explanation": "সঠিক উত্তর: ক। স্থির আয়তনে আয়তনের\nপরিবর্তন শূন্য হয় বলে বাহ্যিক কাজ শূন্য (dW=0)। এ অবস্থায় সরবরাহকৃত\nতাপ কেবল অভ্যন্তরীণ শক্তি বৃদ্ধি করে। তাই iii নং বিবৃতি ভুল।"
   },
-  "hsc-physics_2ndpaper-chapter-01-set-05-q19": {
-    "answer": "(\\frac{dp}{dv})_{রুদ্ধতাপীয়} = \\gamma \\times (\\frac{dp}{dv})_{সমোষ্ণ}",
-    "answerIndex": 0,
-    "difficulty": 1200,
-    "explanation": "বোর্ড/মডেল/অধ্যায়ভিত্তিক সোর্স প্যাটার্ন থেকে নেওয়া high-priority MCQ।",
-    "topic": "তাপগতিবিদ্যা"
+  "hsc-physics-2nd-paper-chapter-01-model-test-05-q19": {
+    "correctOption": "605.9 \\text{ J K}^{-1}",
+    "explanation": "সঠিক উত্তর: ক। এনট্রপির পরিবর্তন \\Delta S = \\frac{m L_v}{T}। ভর\nm = 100 \\text{ g} = 0.1 \\text{ kg}, L_v = 2.26 \\times 10^6 \\text{ J/kg} এবং\nT = 373 \\text{ K}।\n\\Delta S = \\frac{0.1 \\times 2.26 \\times 10^6}{373} = \\frac{226000}{373} \\approx 605.89 \\text{ J K}^{-1}।"
   },
-  "hsc-physics_2ndpaper-chapter-01-set-05-q20": {
-    "answer": "এই প্রশ্নের জন্য কোনোটিই নয়",
-    "answerIndex": 3,
-    "difficulty": 1200,
-    "explanation": "প্রশ্নে দেওয়া সীমাবদ্ধ তথ্য অনুযায়ী উপযুক্ত বিকল্পটি উপরের মধ্যে নয়। — বোর্ড/মডেল/অধ্যায়ভিত্তিক সোর্স প্যাটার্ন থেকে নেওয়া high-priority MCQ।",
-    "topic": "তাপগতিবিদ্যা"
+  "hsc-physics-2nd-paper-chapter-01-model-test-05-q20": {
+    "correctOption": "600 \\text{ K}",
+    "explanation": "সঠিক\nউত্তর: ঘ। স্থির আয়তনে গ্যাসের চাপ এর পরম তাপমাত্রার সমানুপাতিক (P \\propto T),\nঅর্থাৎ \\frac{P_1}{T_1} = \\frac{P_2}{T_2}। চাপ দ্বিগুণ হলে (P_2 = 2P_1),\nতাপমাত্রা দ্বিগুণ হবে। সুতরাং, T_2 = 2 \\times 300 = 600 \\text{ K}।"
   },
-  "hsc-physics_2ndpaper-chapter-01-set-05-q21": {
-    "answer": "400 J",
-    "answerIndex": 1,
-    "difficulty": 1200,
-    "explanation": "K = Q₂/W ⇒ W = Q₂/K = 1000/2.5 = 400 J — বোর্ড/মডেল/অধ্যায়ভিত্তিক সোর্স প্যাটার্ন থেকে নেওয়া high-priority MCQ।",
-    "topic": "তাপগতিবিদ্যা"
+  "hsc-physics-2nd-paper-chapter-01-model-test-05-q21": {
+    "correctOption": "0 \\text{ J}",
+    "explanation": "সঠিক উত্তর: ক। যেহেতু প্রক্রিয়াটি স্থির আয়তনে সংঘটিত হয়েছে,\nসেহেতু গ্যাসের আয়তনের কোনো পরিবর্তন হয়নি (\\Delta V = 0)। কৃত কাজ\nW = P \\Delta V হওয়ায়, সিস্টেম দ্বারা কৃত কাজ শূন্য।"
   },
-  "hsc-physics_2ndpaper-chapter-01-set-05-q22": {
-    "answer": "আয়তন",
-    "answerIndex": 0,
-    "difficulty": 1200,
-    "explanation": "গোলকের পরিধি এবং কেন্দ্রের তথ্য আয়তন নির্ধারণের সাথে সম্পর্কিত। — বোর্ড/মডেল/অধ্যায়ভিত্তিক সোর্স প্যাটার্ন থেকে নেওয়া high-priority MCQ।",
-    "topic": "তাপগতিবিদ্যা"
+  "hsc-physics-2nd-paper-chapter-01-model-test-05-q22": {
+    "correctOption": "300 \\text{ J}",
+    "explanation": "সঠিক উত্তর: ক। কার্যসম্পাদন\nসহগ, K = \\frac{Q_2}{W}। এখানে K = 4 এবং শোষিত তাপ Q_2 = 1200 \\text{ J}।\nতাহলে, W = \\frac{1200}{4} = 300 \\text{ J}।"
   },
-  "hsc-physics_2ndpaper-chapter-01-set-05-q23": {
-    "answer": "তাপীয় প্রক্রিয়া",
-    "answerIndex": 1,
-    "difficulty": 1200,
-    "explanation": "প্রদত্ত বিবরণ অনুযায়ী এটি একটি তাপীয় প্রক্রিয়া হিসেবে ধরা হয়েছে। — বোর্ড/মডেল/অধ্যায়ভিত্তিক সোর্স প্যাটার্ন থেকে নেওয়া high-priority MCQ।",
-    "topic": "তাপগতিবিদ্যা"
+  "hsc-physics-2nd-paper-chapter-01-model-test-05-q23": {
+    "correctOption": "1500 \\text{ J}",
+    "explanation": "সঠিক উত্তর: গ। শক্তির\nসংরক্ষণশীলতা নীতি অনুযায়ী, পরিবেশে বর্জিত তাপ (Q_1) =\nপ্রকোষ্ঠ থেকে গৃহীত তাপ (Q_2) + কম্প্রেসরের কাজ (W)। সুতরাং,\nQ_1 = 1200 + 300 = 1500 \\text{ J}।"
   },
-  "hsc-physics_2ndpaper-chapter-01-set-05-q24": {
-    "answer": "সমচতুর্ভুজ",
-    "answerIndex": 1,
-    "difficulty": 1200,
-    "explanation": "টেন ও প্রক্ষেপণের সম্মিলিত প্রয়োগ সমচতুর্ভুজ আকৃতি তৈরি করতে পারে। — বোর্ড/মডেল/অধ্যায়ভিত্তিক সোর্স প্যাটার্ন থেকে নেওয়া high-priority MCQ।",
-    "topic": "তাপগতিবিদ্যা"
+  "hsc-physics-2nd-paper-chapter-01-model-test-05-q24": {
+    "correctOption": "\\frac{1}{2} kT",
+    "explanation": "সঠিক উত্তর: ক। ম্যাক্সওয়েল-বোল্টজম্যানের শক্তির সমবণ্টন নীতি অনুসারে,\nতাপীয় সাম্যাবস্থায় থাকা কোনো গতিশীল সিস্টেমের মোট শক্তি এর প্রতিটি\nস্বাধীনতার মাত্রায় সমানভাবে বণ্টিত হয় এবং প্রতি মাত্রার\nজন্য গড় শক্তির পরিমাণ \\frac{1}{2} kT।"
   },
-  "hsc-physics_2ndpaper-chapter-01-set-05-q25": {
-    "answer": "L2TI",
-    "answerIndex": 2,
-    "difficulty": 1200,
-    "explanation": "তাপীয় শক্তি/শক্তির মাত্রা L^2 M T^-2 হলেও দেওয়া বিকল্পের মধ্যে সবচেয়ে কাছেরটি L2TI। — বোর্ড/মডেল/অধ্যায়ভিত্তিক সোর্স প্যাটার্ন থেকে নেওয়া high-priority MCQ।",
-    "topic": "তাপগতিবিদ্যা"
+  "hsc-physics-2nd-paper-chapter-01-model-test-05-q25": {
+    "correctOption": "ক্রমাগত বৃদ্ধি পাচ্ছে",
+    "explanation": "সঠিক উত্তর: খ।\nমহাবিশ্বের প্রায় সকল প্রাকৃতিক প্রক্রিয়াই অপ্রত্যাগামী।\nঅপ্রত্যাগামী প্রক্রিয়ায় এনট্রপি বা বিশৃঙ্খলা সর্বদা বৃদ্ধি পায়,\nতাই মহাবিশ্বের সার্বিক এনট্রপি ক্রমশ বৃদ্ধি পাচ্ছে।"
   }
 }

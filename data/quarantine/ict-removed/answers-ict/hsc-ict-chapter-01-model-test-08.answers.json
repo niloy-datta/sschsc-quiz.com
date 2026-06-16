@@ -1,0 +1,102 @@
+{
+  "hsc-ict-chapter-01-model-test-08-q01": {
+    "correctOption": "client ও internet-এর মাঝে intermediary হিসেবে কাজ",
+    "explanation": "প্রক্সি সার্ভার ব্যবহারকারী (ক্লায়েন্ট) এবং মূল ইন্টারনেটের মাঝখানে থেকে একটি গেটওয়ে বা মাধ্যম হিসেবে কাজ করে প্রাইভেসি নিশ্চিত করে।"
+  },
+  "hsc-ict-chapter-01-model-test-08-q02": {
+    "correctOption": "Unguided",
+    "explanation": "রেডিও ওয়েভ তারবিহীন (Wireless) যোগাযোগে ব্যবহৃত হয়, তাই এটি Unguided মাধ্যম।"
+  },
+  "hsc-ict-chapter-01-model-test-08-q03": {
+    "correctOption": "দুর্বল signal শক্তিশালী করে পাঠানো",
+    "explanation": "ক্যাবল দিয়ে যাওয়ার সময় ডেটা সিগন্যাল দুর্বল হয়ে পড়ে। রিপিটার সেই দুর্বল সিগন্যাল রিসিভ করে তাকে আবার শক্তিশালী করে বা পুনরায় তৈরি করে সামনের দিকে পাঠায়।"
+  },
+  "hsc-ict-chapter-01-model-test-08-q04": {
+    "correctOption": "এক নির্দিষ্ট পথে",
+    "explanation": "রিং টপোলজিতে ডেটা সাধারণত ঘড়ির কাঁটার দিকে বা একমুখী একটি নির্দিষ্ট পথে ঘোরে।"
+  },
+  "hsc-ict-chapter-01-model-test-08-q05": {
+    "correctOption": "বৃত্তাকারভাবে",
+    "explanation": "রিং টপোলজিতে প্রতিটি কম্পিউটার তার পাশের দুটি কম্পিউটারের সাথে যুক্ত হয়ে একটি রিং বা বৃত্ত তৈরি করে।"
+  },
+  "hsc-ict-chapter-01-model-test-08-q06": {
+    "correctOption": "এক নেটওয়ার্ক থেকে অন্য নেটওয়ার্কে ডেটা পাঠানো",
+    "explanation": "রাউটার হলো একটি বুদ্ধিমান ডিভাইস যা বিভিন্ন নেটওয়ার্ক যুক্ত করে এবং ডেটা প্যাকেটকে সবচেয়ে ভালো বা শর্টকাট পথ দিয়ে গন্তব্যে পাঠায় (Routing)।"
+  },
+  "hsc-ict-chapter-01-model-test-08-q07": {
+    "correctOption": "Shielded Twisted Pair",
+    "explanation": "STP এর পূর্ণরূপ হলো Shielded Twisted Pair, যেখানে বাইরের নয়েজ থেকে বাঁচার জন্য একটি ফয়েল শিল্ড থাকে।"
+  },
+  "hsc-ict-chapter-01-model-test-08-q08": {
+    "correctOption": "Unguided",
+    "explanation": "স্যাটেলাইট পৃথিবীর বাইরের কক্ষপথে থেকে তারবিহীন রেডিও বা মাইক্রোওয়েভের মাধ্যমে যোগাযোগ করে, তাই এটি Unguided মাধ্যম।"
+  },
+  "hsc-ict-chapter-01-model-test-08-q09": {
+    "correctOption": "সেবা প্রদানকারী কম্পিউটার",
+    "explanation": "সার্ভার হলো একটি শক্তিশালী কম্পিউটার, যা নেটওয়ার্কের অন্য কম্পিউটারগুলোকে ডেটা, ফাইল বা সার্ভিস প্রদান করে।"
+  },
+  "hsc-ict-chapter-01-model-test-08-q10": {
+    "correctOption": "একদিকে মাত্র",
+    "explanation": "সিমপ্লেক্স (Simplex) মোডে ডেটা শুধু একদিকে প্রবাহিত হতে পারে, অর্থাৎ প্রাপক কখনো ডেটা পাঠাতে পারে না।"
+  },
+  "hsc-ict-chapter-01-model-test-08-q11": {
+    "correctOption": "রেডিও সম্প্রচার",
+    "explanation": "রেডিও, টিভি সম্প্রচার, কীবোর্ড থেকে কম্পিউটারে ডেটা পাঠানো ইত্যাদি সিমপ্লেক্স মোডের উদাহরণ।"
+  },
+  "hsc-ict-chapter-01-model-test-08-q12": {
+    "correctOption": "পুরো নেটওয়ার্ক প্রভাবিত হয়",
+    "explanation": "স্টার টপোলজির হাব বা সুইচ নষ্ট হয়ে গেলে পুরো নেটওয়ার্কই অচল হয়ে পড়ে।"
+  },
+  "hsc-ict-chapter-01-model-test-08-q13": {
+    "correctOption": "Hub/Switch",
+    "explanation": "স্টার টপোলজিতে সবগুলো কম্পিউটার একটি কেন্দ্রীয় ডিভাইসের (সাধারণত হাব বা সুইচ) সাথে যুক্ত থাকে।"
+  },
+  "hsc-ict-chapter-01-model-test-08-q14": {
+    "correctOption": "নির্দিষ্ট destination port-এ",
+    "explanation": "সুইচ একটি বুদ্ধিমান ডিভাইস, এটি MAC অ্যাড্রেস রিড করে ডেটা শুধুমাত্র যে কম্পিউটারের জন্য পাঠানো হয়েছে, নির্দিষ্ট করে তার কাছেই পাঠায়।"
+  },
+  "hsc-ict-chapter-01-model-test-08-q15": {
+    "correctOption": "internet communication protocol suite",
+    "explanation": "TCP/IP (Transmission Control Protocol/Internet Protocol) হলো ইন্টারনেটের সবচেয়ে মৌলিক প্রোটোকল স্যুট বা নিয়মাবলি, যার উপর ভিত্তি করে ইন্টারনেট চলে।"
+  },
+  "hsc-ict-chapter-01-model-test-08-q16": {
+    "correctOption": "Coaxial cable",
+    "explanation": "টেলিভিশনের ডিশ লাইন বা কেবল টিভি নেটওয়ার্কে সাধারণত কো-অক্সিয়াল ক্যাবল ব্যবহার করা হয়ে থাকে।"
+  },
+  "hsc-ict-chapter-01-model-test-08-q17": {
+    "correctOption": "নেটওয়ার্কের গঠন/বিন্যাস",
+    "explanation": "নেটওয়ার্কের কম্পিউটার বা ডিভাইসগুলোকে কীভাবে বা কোন জ্যামিতিক নকশায় একে অপরের সাথে যুক্ত করা হয়েছে, তার লে-আউটকেই টপোলজি বলে।"
+  },
+  "hsc-ict-chapter-01-model-test-08-q18": {
+    "correctOption": "Font color",
+    "explanation": "মাধ্যম নির্বাচনের সময় খরচ, ব্যান্ডউইথ বা স্পিড এবং দূরত্ব বিবেচনা করতে হয়। ফন্ট কালারের সাথে এর কোনো সম্পর্ক নেই।"
+  },
+  "hsc-ict-chapter-01-model-test-08-q19": {
+    "correctOption": "২",
+    "explanation": "ট্রান্সমিশন মাধ্যম মূলত ২ প্রকার: তারযুক্ত (Guided) এবং তারবিহীন (Unguided) মাধ্যম।"
+  },
+  "hsc-ict-chapter-01-model-test-08-q20": {
+    "correctOption": "Bus ও Star",
+    "explanation": "ট্রি টপোলজি মূলত একাধিক স্টার টপোলজিকে একটি বাস বা ব্যাকবোনের সাথে যুক্ত করে তৈরি করা হয়।"
+  },
+  "hsc-ict-chapter-01-model-test-08-q21": {
+    "correctOption": "LAN",
+    "explanation": "বাসা-বাড়ি, অফিস বা ছোট এলাকার লোকাল এরিয়া নেটওয়ার্কে (LAN) সবচেয়ে বেশি ব্যবহৃত হয় টুইস্টেড পেয়ার ক্যাবল।"
+  },
+  "hsc-ict-chapter-01-model-test-08-q22": {
+    "correctOption": "Uniform Resource Locator",
+    "explanation": "URL এর পূর্ণরূপ Uniform Resource Locator, যা ইন্টারনেটে থাকা কোনো ওয়েবপেজ বা ফাইলের নির্দিষ্ট ঠিকানা।"
+  },
+  "hsc-ict-chapter-01-model-test-08-q23": {
+    "correctOption": "থাকে না",
+    "explanation": "UTP (Unshielded Twisted Pair) তে কোনো এক্সট্রা শিল্ডিং বা মেটাল ফয়েল থাকে না, তাই নয়েজের প্রভাব বেশি পড়ে।"
+  },
+  "hsc-ict-chapter-01-model-test-08-q24": {
+    "correctOption": "Unshielded Twisted Pair",
+    "explanation": "UTP এর পূর্ণরূপ হলো Unshielded Twisted Pair, যেটিতে কোনো প্রতিরক্ষামূলক জ্যাকেট বা শিল্ড থাকে না।"
+  },
+  "hsc-ict-chapter-01-model-test-08-q25": {
+    "correctOption": "তারবিহীন মাধ্যম",
+    "explanation": "Unguided বা অ-পরিচালিত মাধ্যম হলো তারবিহীন মাধ্যম, যেখানে ডেটা বাতাস বা স্পেসের মধ্য দিয়ে যায়।"
+  }
+}

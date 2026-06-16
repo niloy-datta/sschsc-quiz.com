@@ -16,7 +16,7 @@ import {
 } from "firebase/auth";
 import { auth, googleProvider, isFirebaseConfigured } from "@/lib/firebase";
 import { FirebaseError } from "firebase/app";
-import { api, ApiError } from "@/lib/api";
+import { api, ApiError, isBackendUnavailable } from "@/lib/api";
 import { flushPendingExamAttempt } from "@/lib/pending-exam";
 
 export interface UserProfile {
@@ -52,6 +52,8 @@ interface AuthContextType {
   firebaseUser: FirebaseUser | null;
   loading: boolean;
   error: string | null;
+  backendStatus: "checking" | "up" | "down";
+  retryBackend: () => Promise<void>;
   loginWithGoogle: () => Promise<UserProfile | null>;
   loginWithEmail: (email: string, pass: string) => Promise<UserProfile | null>;
   registerWithEmail: (
@@ -110,10 +112,28 @@ export function AuthProvider({ children }: { children: React.ReactNode }) {
   const [user, setUser] = useState<UserProfile | null>(null);
   const [loading, setLoading] = useState(true);
   const [error, setError] = useState<string | null>(null);
+  const [backendStatus, setBackendStatus] = useState<"checking" | "up" | "down">("checking");
+
+  const checkBackend = async () => {
+    setBackendStatus("checking");
+    try {
+      await api.get<{ user: UserProfile | null }>("/api/auth/me");
+      setBackendStatus("up");
+    } catch {
+      setBackendStatus("down");
+    }
+  };
+
+  const retryBackend = async () => {
+    setBackendStatus("checking");
+    setError(null);
+    await checkBackend();
+  };
 
   const fetchFullProfile = async (): Promise<UserProfile | null> => {
     try {
       const me = await api.get<{ user: UserProfile | null }>("/api/auth/me");
+      setBackendStatus("up");
       if (me.user) {
         setUser(me.user);
         return me.user;
@@ -121,6 +141,7 @@ export function AuthProvider({ children }: { children: React.ReactNode }) {
       return null;
     } catch (err) {
       console.error("Profile hydrate failed:", err);
+      if (isBackendUnavailable(err)) setBackendStatus("down");
       return null;
     }
   };
@@ -151,11 +172,13 @@ export function AuthProvider({ children }: { children: React.ReactNode }) {
     const checkSession = async () => {
       try {
         const data = await api.get<{ user: UserProfile | null }>("/api/auth/me");
+        setBackendStatus("up");
         if (data.user) {
           setUser(data.user);
         }
       } catch (err) {
         console.error("Session check failed:", err);
+        if (isBackendUnavailable(err)) setBackendStatus("down");
       } finally {
         setLoading(false);
       }
@@ -328,8 +351,10 @@ export function AuthProvider({ children }: { children: React.ReactNode }) {
         user,
         firebaseUser,
         loading,
-        error,
-        loginWithGoogle,
+      error,
+      backendStatus,
+      retryBackend,
+      loginWithGoogle,
         loginWithEmail,
         registerWithEmail,
         sendPhoneOtp,

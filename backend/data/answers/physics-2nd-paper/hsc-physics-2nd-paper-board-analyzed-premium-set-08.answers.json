@@ -1,0 +1,102 @@
+{
+  "hsc-physics-2nd-paper-board-analyzed-premium-set-08-q01": {
+    "correctOption": "900 \\text{ J}",
+    "explanation": "সঠিক উত্তর: খ। তাপ ইঞ্জিনের ক্ষেত্রে, গৃহীত তাপ Q_1 = W + Q_2। এখানে Q_1 = 1500 \\text{ J} এবং কৃত কাজ W = 600 \\text{ J}। সুতরাং বর্জিত তাপ Q_2 = 1500 - 600 = 900 \\text{ J}।"
+  },
+  "hsc-physics-2nd-paper-board-analyzed-premium-set-08-q02": {
+    "correctOption": "627^\\circ\\text{C}",
+    "explanation": "সঠিক উত্তর: গ। স্থির আয়তনে চাপের সূত্র অনুযায়ী \\frac{P_1}{T_1} = \\frac{P_2}{T_2}। এখানে T_1 = 300 \\text{ K}, P_2 = 3P_1। সুতরাং T_2 = \\frac{3P_1 \\times 300}{P_1} = 900 \\text{ K}। সেলসিয়াস স্কেলে 900 - 273 = 627^\\circ\\text{C}।"
+  },
+  "hsc-physics-2nd-paper-board-analyzed-premium-set-08-q03": {
+    "correctOption": "K = \\frac{1-\\eta}{\\eta}",
+    "explanation": "আমরা জানি, \\eta = \\frac{W}{Q_1} \\implies Q_1 = \\frac{W}{\\eta}। রেফ্রিজারেটরের ক্ষেত্রে, K = \\frac{Q_2}{W}। আবার Q_2 = Q_1 - W = \\frac{W}{\\eta} - W = W\\left(\\frac{1-\\eta}{\\eta}\\right)। সুতরাং K = \\frac{W(1-\\eta)/\\eta}{W} = \\frac{1-\\eta}{\\eta}।"
+  },
+  "hsc-physics-2nd-paper-board-analyzed-premium-set-08-q04": {
+    "correctOption": "এটি পরিবেশের সাথে কেবল শক্তি বিনিময় করতে পারে",
+    "explanation": "সঠিক উত্তর: খ। তাপগতিবিদ্যায় বদ্ধ সিস্টেম হলো এমন ব্যবস্থা যা তার পরিবেশের সাথে শক্তি (তাপ বা কাজ হিসেবে) আদান-প্রদান করতে পারে, কিন্তু ভরের কোনো আদান-প্রদান করে না।"
+  },
+  "hsc-physics-2nd-paper-board-analyzed-premium-set-08-q05": {
+    "correctOption": "i ও iii",
+    "explanation": "সঠিক উত্তর: খ। বদ্ধ সিস্টেম পরিবেশের সাথে শক্তি (তাপ বা কাজ) আদান-প্রদান করতে পারে কিন্তু ভরের কোনো আদান-প্রদান করে না। তাই ii নম্বর বিবৃতিটি ভুল।"
+  },
+  "hsc-physics-2nd-paper-board-analyzed-premium-set-08-q06": {
+    "correctOption": "$1000\\,J$ এবং $4$",
+    "explanation": "সঠিক উত্তর: খ। রেফ্রিজারেটরে উচ্চ তাপাধারে ত্যাগকৃত তাপ $Q_H=Q_L+W=800+200=1000\\,J$। কর্মদক্ষতার সহগ $COP= rac{Q_L}{W}= rac{800}{200}=4$। ক-তে তাপ বিয়োগ করা হয়েছে, গ-তে COP ভুল এবং ঘ-তে কাজ ও তাপের অনুপাত উল্টো নেওয়া হয়েছে; তাই এগুলো ভুল।"
+  },
+  "hsc-physics-2nd-paper-board-analyzed-premium-set-08-q07": {
+    "correctOption": "$600 \\text{ J}$",
+    "explanation": "সঠিক উত্তর: গ। শক্তির সংরক্ষণশীলতা অনুযায়ী, রেফ্রিজারেটরের ক্ষেত্রে পরিবেশে বর্জিত তাপ ($Q_1$) = শীতল প্রকোষ্ঠ থেকে অপসারিত তাপ ($Q_2$) + কৃত কাজ ($W$)। সুতরাং, $Q_1 = 500 + 100 = 600 \\text{ J}$।"
+  },
+  "hsc-physics-2nd-paper-board-analyzed-premium-set-08-q08": {
+    "correctOption": "5",
+    "explanation": "রেফ্রিজারেটরের কার্যসম্পাদন সহগ, K = \\frac{T_2}{T_1 - T_2}। এখানে T_1 = 300 \\text{ K} এবং T_2 = 250 \\text{ K}। ফলে K = \\frac{250}{300 - 250} = \\frac{250}{50} = 5।"
+  },
+  "hsc-physics-2nd-paper-board-analyzed-premium-set-08-q09": {
+    "correctOption": "\\frac{Q_1}{T_1} = \\frac{Q_2}{T_2}",
+    "explanation": "সঠিক উত্তর: খ। প্রত্যাগামী বা কার্নো ইঞ্জিনের ক্ষেত্রে কর্মদক্ষতা \\eta = 1 - \\frac{Q_2}{Q_1} = 1 - \\frac{T_2}{T_1}। এখান থেকে লেখা যায় \\frac{Q_2}{Q_1} = \\frac{T_2}{T_1} বা \\frac{Q_1}{T_1} = \\frac{Q_2}{T_2}।"
+  },
+  "hsc-physics-2nd-paper-board-analyzed-premium-set-08-q10": {
+    "correctOption": "$J\\,K^{-1}$",
+    "explanation": "সঠিক উত্তর: খ। এনট্রপি পরিবর্তন $\\Delta S= rac{Q_{rev}}{T}$, তাই এর একক জুল প্রতি কেলভিন বা $J\\,K^{-1}$। $J\\,K$ গুণফল নির্দেশ করে, $N\\,K^{-1}$ বল-সম্পর্কিত নয় এবং $J\\,kg^{-1}$ নির্দিষ্ট শক্তির একক; তাই ক, গ ও ঘ ভুল।"
+  },
+  "hsc-physics-2nd-paper-board-analyzed-premium-set-08-q11": {
+    "correctOption": "আদর্শ গ্যাস",
+    "explanation": "সঠিক উত্তর: গ। বিজ্ঞানী সাদী কার্নো তাঁর তাত্ত্বিক আদর্শ তাপ ইঞ্জিনে কার্যকরী পদার্থ হিসেবে সম্পূর্ণ আদর্শ গ্যাস বিবেচনা করেছিলেন, কারণ এটি তাপগতিবিদ্যার সূত্রগুলো নিখুঁতভাবে মেনে চলে।"
+  },
+  "hsc-physics-2nd-paper-board-analyzed-premium-set-08-q12": {
+    "correctOption": "সমউষ্ণ সংকোচন",
+    "explanation": "কার্নো চক্রের চারটি ধাপ ক্রমান্বয়ে সম্পন্ন হয়: ১. সমউষ্ণ প্রসারণ, ২. রুদ্ধতাপীয় প্রসারণ, ৩. সমউষ্ণ সংকোচন, ৪. রুদ্ধতাপীয় সংকোচন। তাই তৃতীয় ধাপটি সমউষ্ণ সংকোচন।"
+  },
+  "hsc-physics-2nd-paper-board-analyzed-premium-set-08-q13": {
+    "correctOption": "বহু-পরমাণুক",
+    "explanation": "সঠিক উত্তর: গ। এক-পরমাণুক গ্যাসের \\gamma = 1.67, দ্বি-পরমাণুক গ্যাসের \\gamma = 1.40 এবং বহু-পরমাণুক গ্যাসের (যেমন CO_2, NH_3) ক্ষেত্রে \\gamma = 1.33 হয়।"
+  },
+  "hsc-physics-2nd-paper-board-analyzed-premium-set-08-q14": {
+    "correctOption": "\\gamma",
+    "explanation": "গ্যাসের রুদ্ধতাপীয় আয়তন গুণাঙ্ক E_s = \\gamma P এবং সমউষ্ণ আয়তন গুণাঙ্ক E_T = P। সুতরাং এদের অনুপাত \\frac{E_s}{E_T} = \\frac{\\gamma P}{P} = \\gamma।"
+  },
+  "hsc-physics-2nd-paper-board-analyzed-premium-set-08-q15": {
+    "correctOption": "$8.3 \\text{ J mol}^{-1}\\text{K}^{-1}$",
+    "explanation": "সঠিক উত্তর: খ। মেয়ারের সূত্র অনুযায়ী, $C_p - C_v = R$। এখানে $R = 20.8 - 12.5 = 8.3 \\text{ J mol}^{-1}\\text{K}^{-1}$।"
+  },
+  "hsc-physics-2nd-paper-board-analyzed-premium-set-08-q16": {
+    "correctOption": "$\\Delta Q = \\Delta W$",
+    "explanation": "সঠিক উত্তর: গ। একটি পূর্ণ চক্র শেষে সিস্টেম আদি অবস্থায় ফিরে আসায় অভ্যন্তরীণ শক্তির কোনো পরিবর্তন হয় না ($\\Delta U = 0$)। তাপগতিবিদ্যার প্রথম সূত্র $\\Delta Q = \\Delta U + \\Delta W$ তে মানটি বসালে $\\Delta Q = \\Delta W$ পাওয়া যায়।"
+  },
+  "hsc-physics-2nd-paper-board-analyzed-premium-set-08-q17": {
+    "correctOption": "কারণ অন্তঃস্থ শক্তি অবস্থার ফাংশন এবং প্রাথমিক অবস্থায় ফিরে আসে",
+    "explanation": "সঠিক উত্তর: খ। অন্তঃস্থ শক্তি অবস্থার ফাংশন; পূর্ণ চক্র শেষে সিস্টেম প্রাথমিক অবস্থায় ফিরে আসে, তাই $\\Delta U=0$। চক্রে তাপ ও কাজ উভয়ই হতে পারে, তাই ক ও ঘ ভুল। চাপও চক্রের প্রতিটি ধাপে ধ্রুব থাকার বাধ্যবাধকতা নেই, তাই গ ভুল।"
+  },
+  "hsc-physics-2nd-paper-board-analyzed-premium-set-08-q18": {
+    "correctOption": "গ্যাসের অণুগুলোর গড় গতিশক্তি কমেছে",
+    "explanation": "সঠিক উত্তর: ক। আদর্শ গ্যাসে অন্তঃস্থ শক্তি অণুর গড় গতিশক্তি তথা তাপমাত্রার সঙ্গে সম্পর্কিত; $\\Delta U<0$ হলে গড় গতিশক্তি ও তাপমাত্রা কমে। ভর পরিবর্তন এর সরাসরি অর্থ নয়, তাই খ ভুল। গ ভুল, কারণ তাপ শোষণ করলেও বেশি কাজ করলে $\\Delta U$ কমতে পারে। ঘ-এর সঙ্গে অন্তঃস্থ শক্তি হ্রাসের বাধ্যতামূলক সম্পর্ক নেই।"
+  },
+  "hsc-physics-2nd-paper-board-analyzed-premium-set-08-q19": {
+    "correctOption": "তাপগতিবিদ্যার দ্বিতীয় সূত্র",
+    "explanation": "সঠিক উত্তর: গ। তাপকে সম্পূর্ণভাবে কাজে রূপান্তরকারী কোনো চক্রাকার ইঞ্জিন অসম্ভব—এটি দ্বিতীয় সূত্রের Kelvin-Planck বক্তব্যের সারমর্ম। শূন্যতম সূত্র তাপীয় সাম্যাবস্থা, প্রথম সূত্র শক্তি সংরক্ষণ এবং বয়েলের সূত্র গ্যাসের চাপ-আয়তন সম্পর্ক নিয়ে; তাই ক, খ ও ঘ ভুল।"
+  },
+  "hsc-physics-2nd-paper-board-analyzed-premium-set-08-q20": {
+    "correctOption": "127^\\circ\\text{C}",
+    "explanation": "সঠিক উত্তর: খ। কর্মদক্ষতা \\eta = 0.25, T_2 = 27 + 273 = 300 \\text{ K}। সূত্র: 1 - \\frac{T_2}{T_1} = 0.25 \\implies \\frac{300}{T_1} = 0.75 \\implies T_1 = \\frac{300}{0.75} = 400 \\text{ K}। সেলসিয়াসে: 400 - 273 = 127^\\circ\\text{C}।"
+  },
+  "hsc-physics-2nd-paper-board-analyzed-premium-set-08-q21": {
+    "correctOption": "এনট্রপি",
+    "explanation": "এনট্রপি হলো তাপগতীয় সিস্টেমের একটি অবস্থাগত চলক যা ঐ সিস্টেমের আণবিক বিশৃঙ্খলা বা অব্যবস্থার মাত্রা নির্দেশ করে। এনট্রপি যত বাড়ে, সিস্টেমে কাজ করার মতো লভ্য শক্তি তত কমে যায়।"
+  },
+  "hsc-physics-2nd-paper-board-analyzed-premium-set-08-q22": {
+    "correctOption": "পদার্থের অবস্থার পরিবর্তনে চাপ ও তাপমাত্রার সম্পর্ক",
+    "explanation": "সঠিক উত্তর: গ। পদার্থের অবস্থার পরিবর্তনের সময় (যেমন- কঠিন থেকে তরল, তরল থেকে বাষ্প) চাপ ও তাপমাত্রার মধ্যে যে সম্পর্ক বিদ্যমান, তা ক্লসিয়াস-ক্লেপেরন সমীকরণ $\\frac{dP}{dT} = \\frac{L}{T(V_2 - V_1)}$ দ্বারা ব্যাখ্যা করা হয়।"
+  },
+  "hsc-physics-2nd-paper-board-analyzed-premium-set-08-q23": {
+    "correctOption": "স্থির চাপে গ্যাসকে প্রসারণজনিত বাহ্যিক কাজ সম্পাদন করতে হয়",
+    "explanation": "সঠিক উত্তর: গ। স্থির আয়তনে সরবরাহকৃত তাপ কেবল অভ্যন্তরীণ শক্তি বাড়ায়। কিন্তু স্থির চাপে আয়তন প্রসারণের কারণে গ্যাসকে বাহ্যিক কাজ করতে হয়, তাই একই পরিমাণ তাপমাত্রা বৃদ্ধির জন্য অতিরিক্ত তাপ সরবরাহ করতে হয়।"
+  },
+  "hsc-physics-2nd-paper-board-analyzed-premium-set-08-q24": {
+    "correctOption": "\\gamma = 1 + \\frac{2}{f}",
+    "explanation": "সঠিক উত্তর: খ। শক্তির সমবণ্টন নীতি থেকে প্রাপ্ত অভ্যন্তরীণ শক্তির সমীকরণ ব্যবহার করে প্রমাণ করা যায় যে, যেকোনো আদর্শ গ্যাসের ক্ষেত্রে \\gamma = 1 + \\frac{2}{f} হয়।"
+  },
+  "hsc-physics-2nd-paper-board-analyzed-premium-set-08-q25": {
+    "correctOption": "তাপ শক্তিকে যান্ত্রিক শক্তিতে",
+    "explanation": "সঠিক উত্তর: গ। তাপ ইঞ্জিন এমন একটি যন্ত্র যা কোনো উৎস থেকে তাপ শক্তি গ্রহণ করে তার একটি অংশকে যান্ত্রিক শক্তিতে (কৃত কাজ) রূপান্তরিত করে এবং অবশিষ্টাংশ তাপ গ্রাহকে বর্জন করে।"
+  }
+}

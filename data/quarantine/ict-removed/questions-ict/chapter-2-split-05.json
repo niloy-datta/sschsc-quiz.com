@@ -1,0 +1,352 @@
+[
+  {
+    "id": "chapter-2-split-05-q01",
+    "subject": "ict",
+    "chapter": "chapter-2-split-05",
+    "text": "IP address কী?",
+    "options": [
+      "নেটওয়ার্কে ডিভাইসের যৌক্তিক ঠিকানা",
+      "ওয়েবপেজের রং",
+      "ডেটাবেজের field",
+      "CSS selector"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "chapter-2-split-05-q02",
+    "subject": "ict",
+    "chapter": "chapter-2-split-05",
+    "text": "IPv4 address সাধারণত কয় bit?",
+    "options": [
+      "১৬ bit",
+      "৩২ bit",
+      "৬৪ bit",
+      "১২৮ bit"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "chapter-2-split-05-q03",
+    "subject": "ict",
+    "chapter": "chapter-2-split-05",
+    "text": "IPv6 address কয় bit?",
+    "options": [
+      "৩২ bit",
+      "৬৪ bit",
+      "১২৮ bit",
+      "২৫৬ bit"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "chapter-2-split-05-q04",
+    "subject": "ict",
+    "chapter": "chapter-2-split-05",
+    "text": "IPv4 address-এর উদাহরণ কোনটি?",
+    "options": [
+      "192.168.1.1",
+      "www.example.com",
+      "user@gmail.com",
+      "https"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "chapter-2-split-05-q05",
+    "subject": "ict",
+    "chapter": "chapter-2-split-05",
+    "text": "Domain name কী?",
+    "options": [
+      "ওয়েবসাইটের মানুষের পড়ার উপযোগী নাম",
+      "computer RAM",
+      "database row",
+      "cable type"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "chapter-2-split-05-q06",
+    "subject": "ict",
+    "chapter": "chapter-2-split-05",
+    "text": "`www.google.com` হলো—",
+    "options": [
+      "domain name",
+      "IP address",
+      "MAC address",
+      "SQL command"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "chapter-2-split-05-q07",
+    "subject": "ict",
+    "chapter": "chapter-2-split-05",
+    "text": "DNS না থাকলে ব্যবহারকারীকে কী মনে রাখতে হতো?",
+    "options": [
+      "IP address",
+      "CSS color",
+      "table name",
+      "keyboard key"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "chapter-2-split-05-q08",
+    "subject": "ict",
+    "chapter": "chapter-2-split-05",
+    "text": "MAC address কী?",
+    "options": [
+      "hardware address",
+      "domain name",
+      "SQL command",
+      "HTML attribute"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "chapter-2-split-05-q09",
+    "subject": "ict",
+    "chapter": "chapter-2-split-05",
+    "text": "MAC address সাধারণত কোন ডিভাইসের সাথে যুক্ত?",
+    "options": [
+      "NIC",
+      "Monitor",
+      "Printer paper",
+      "Keyboard button"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "chapter-2-split-05-q10",
+    "subject": "ict",
+    "chapter": "chapter-2-split-05",
+    "text": "Cloud computing বলতে বোঝায়—",
+    "options": [
+      "internet-based computing service",
+      "শুধু local hard disk",
+      "শুধু keyboard",
+      "শুধু offline calculator"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "chapter-2-split-05-q11",
+    "subject": "ict",
+    "chapter": "chapter-2-split-05",
+    "text": "Cloud storage-এর উদাহরণ—",
+    "options": [
+      "Google Drive",
+      "MS Paint",
+      "Calculator",
+      "Notepad offline"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "chapter-2-split-05-q12",
+    "subject": "ict",
+    "chapter": "chapter-2-split-05",
+    "text": "Cloud computing-এর সুবিধা—",
+    "options": [
+      "যেকোনো স্থান থেকে access",
+      "internet ছাড়া সবসময় access",
+      "ডেটা সবসময় হারায়",
+      "কোনো security লাগে না"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "chapter-2-split-05-q13",
+    "subject": "ict",
+    "chapter": "chapter-2-split-05",
+    "text": "Cloud computing-এর ঝুঁকি—",
+    "options": [
+      "privacy/security risk",
+      "speed সবসময় infinite",
+      "কোনো cost নেই",
+      "network লাগে না"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "chapter-2-split-05-q14",
+    "subject": "ict",
+    "chapter": "chapter-2-split-05",
+    "text": "Mobile network-এ cell ধারণা ব্যবহৃত হয় কেন?",
+    "options": [
+      "area ভাগ করে communication সহজ করতে",
+      "HTML লিখতে",
+      "SQL চালাতে",
+      "virus বানাতে"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "chapter-2-split-05-q15",
+    "subject": "ict",
+    "chapter": "chapter-2-split-05",
+    "text": "GSM সম্পর্কিত কোন ক্ষেত্রে?",
+    "options": [
+      "mobile communication",
+      "database",
+      "web design",
+      "flowchart"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "chapter-2-split-05-q16",
+    "subject": "ict",
+    "chapter": "chapter-2-split-05",
+    "text": "Wi-Fi সাধারণত ব্যবহৃত হয়—",
+    "options": [
+      "wireless LAN connection",
+      "wired SQL",
+      "optical only",
+      "simplex TV only"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "chapter-2-split-05-q17",
+    "subject": "ict",
+    "chapter": "chapter-2-split-05",
+    "text": "Bluetooth-এর range সাধারণত—",
+    "options": [
+      "কম দূরত্ব",
+      "মহাদেশজুড়ে",
+      "স্যাটেলাইট দূরত্ব",
+      "WAN level"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "chapter-2-split-05-q18",
+    "subject": "ict",
+    "chapter": "chapter-2-split-05",
+    "text": "Hotspot কী?",
+    "options": [
+      "wireless internet sharing point",
+      "database table",
+      "HTML tag",
+      "logic gate"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "chapter-2-split-05-q19",
+    "subject": "ict",
+    "chapter": "chapter-2-split-05",
+    "text": "Firewall-এর কাজ—",
+    "options": [
+      "অননুমোদিত access প্রতিরোধ",
+      "file print",
+      "CSS style",
+      "table row"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "chapter-2-split-05-q20",
+    "subject": "ict",
+    "chapter": "chapter-2-split-05",
+    "text": "Proxy server কী করতে পারে?",
+    "options": [
+      "client ও internet-এর মাঝে intermediary হিসেবে কাজ",
+      "keyboard repair",
+      "image draw",
+      "cable cut"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "chapter-2-split-05-q21",
+    "subject": "ict",
+    "chapter": "chapter-2-split-05",
+    "text": "Intranet কী?",
+    "options": [
+      "প্রতিষ্ঠানের অভ্যন্তরীণ network",
+      "পুরো internet",
+      "শুধু public website",
+      "শুধু email address"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "chapter-2-split-05-q22",
+    "subject": "ict",
+    "chapter": "chapter-2-split-05",
+    "text": "Extranet কী?",
+    "options": [
+      "সীমিত external user access সহ private network",
+      "সম্পূর্ণ offline file",
+      "keyboard layout",
+      "monitor size"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "chapter-2-split-05-q23",
+    "subject": "ict",
+    "chapter": "chapter-2-split-05",
+    "text": "Network security-এর জন্য দরকার—",
+    "options": [
+      "firewall, password, encryption",
+      "password share",
+      "open access",
+      "virus install"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "chapter-2-split-05-q24",
+    "subject": "ict",
+    "chapter": "chapter-2-split-05",
+    "text": "Practical trap: Hub ও Switch-এর পার্থক্য কোনটি সঠিক?",
+    "options": [
+      "Hub সব port-এ পাঠায়, Switch নির্দিষ্ট port-এ পাঠায়",
+      "Switch সবসময় সব port-এ পাঠায়",
+      "Hub শুধু IP তৈরি করে",
+      "Switch keyboard হিসেবে কাজ করে"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "chapter-2-split-05-q25",
+    "subject": "ict",
+    "chapter": "chapter-2-split-05",
+    "text": "Practical trap: Domain ও IP-এর পার্থক্য কোনটি সঠিক?",
+    "options": [
+      "Domain মানুষের জন্য সহজ নাম, IP ডিভাইসের network address",
+      "দুটোই CSS property",
+      "IP হলো HTML tag",
+      "Domain হলো SQL command"
+    ],
+    "image": null,
+    "timeLimit": 45
+  }
+]

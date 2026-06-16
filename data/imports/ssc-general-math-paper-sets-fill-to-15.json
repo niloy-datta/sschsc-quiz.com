@@ -1,0 +1,773 @@
+{
+  "level": "SSC",
+  "datasetType": "paperwise_model_test_fill_to_15",
+  "papers": [
+    {
+      "paperName": "SSC General Math",
+      "subject": "general-math",
+      "currentPaperSet": 14,
+      "generatedFromSet": "15",
+      "generatedToSet": "15",
+      "generatedSetsCount": 1,
+      "sets": [
+        {
+          "id": "ssc-general-math-paper-set-15",
+          "title": "SSC General Math Paper-wise Model Test Set 15",
+          "setNo": "15",
+          "questions": [
+            {
+              "id": "ssc-general-math-paper-set-15-q01",
+              "question": "$\\frac{d}{dx}x^17$ কত?",
+              "options": [
+                {
+                  "text": "$16x^17$",
+                  "label": "ক"
+                },
+                {
+                  "text": "$x^16$",
+                  "label": "খ"
+                },
+                {
+                  "text": "$17x^16$",
+                  "label": "গ"
+                },
+                {
+                  "text": "$x^17$",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "গ",
+              "shortSolution": "সঠিক উত্তর: গ। Power rule প্রয়োগ করা হয়েছে।",
+              "paper": "SSC General Math",
+              "subject": "general-math",
+              "setType": "paper-wise-model-test",
+              "topic": "অন্তরীকরণ",
+              "difficulty": "Easy",
+              "probability": "Mega Hot"
+            },
+            {
+              "id": "ssc-general-math-paper-set-15-q02",
+              "question": "$\\int x^18dx$ কত?",
+              "options": [
+                {
+                  "text": "$18x^17+C$",
+                  "label": "ক"
+                },
+                {
+                  "text": "$x^19+C$",
+                  "label": "খ"
+                },
+                {
+                  "text": "$\\frac{x^18}{18}+C$",
+                  "label": "গ"
+                },
+                {
+                  "text": "$\\frac{x^19}{19}+C$",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "ঘ",
+              "shortSolution": "সঠিক উত্তর: ঘ। Power integration rule।",
+              "paper": "SSC General Math",
+              "subject": "general-math",
+              "setType": "paper-wise-model-test",
+              "topic": "যোগজীকরণ",
+              "difficulty": "Easy",
+              "probability": "Very Hot"
+            },
+            {
+              "id": "ssc-general-math-paper-set-15-q03",
+              "question": "$19P_2$ এর মান কত?",
+              "options": [
+                {
+                  "text": "171",
+                  "label": "ক"
+                },
+                {
+                  "text": "342",
+                  "label": "খ"
+                },
+                {
+                  "text": "21",
+                  "label": "গ"
+                },
+                {
+                  "text": "95",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "খ",
+              "shortSolution": "সঠিক উত্তর: খ। $nP_2=n(n-1)$।",
+              "paper": "SSC General Math",
+              "subject": "general-math",
+              "setType": "paper-wise-model-test",
+              "topic": "বিন্যাস",
+              "difficulty": "Easy",
+              "probability": "Board Favourite"
+            },
+            {
+              "id": "ssc-general-math-paper-set-15-q04",
+              "question": "$20C_2$ এর মান কত?",
+              "options": [
+                {
+                  "text": "190",
+                  "label": "ক"
+                },
+                {
+                  "text": "21",
+                  "label": "খ"
+                },
+                {
+                  "text": "400",
+                  "label": "গ"
+                },
+                {
+                  "text": "380",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "ক",
+              "shortSolution": "সঠিক উত্তর: ক। $nC_2=n(n-1)/2$।",
+              "paper": "SSC General Math",
+              "subject": "general-math",
+              "setType": "paper-wise-model-test",
+              "topic": "সমাবেশ",
+              "difficulty": "Easy",
+              "probability": "Conceptual Trap"
+            },
+            {
+              "id": "ssc-general-math-paper-set-15-q05",
+              "question": "ঢাল 16 এবং বিন্দু $(7,16)$ দিয়ে অতিক্রান্ত রেখার সমীকরণ কোনটি?",
+              "options": [
+                {
+                  "text": "$y-16=16(x-7)$",
+                  "label": "ক"
+                },
+                {
+                  "text": "$y+16=16(x-7)$",
+                  "label": "খ"
+                },
+                {
+                  "text": "$y-16=7(x-16)$",
+                  "label": "গ"
+                },
+                {
+                  "text": "$x-16=16(y-7)$",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "ক",
+              "shortSolution": "সঠিক উত্তর: ক। Point-slope form ব্যবহৃত।",
+              "paper": "SSC General Math",
+              "subject": "general-math",
+              "setType": "paper-wise-model-test",
+              "topic": "সরলরেখা",
+              "difficulty": "Easy",
+              "probability": "Mega Hot"
+            },
+            {
+              "id": "ssc-general-math-paper-set-15-q06",
+              "question": "$x^2+y^2=289$ বৃত্তের ব্যাসার্ধ কত?",
+              "options": [
+                {
+                  "text": "34",
+                  "label": "ক"
+                },
+                {
+                  "text": "17",
+                  "label": "খ"
+                },
+                {
+                  "text": "289",
+                  "label": "গ"
+                },
+                {
+                  "text": "18",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "খ",
+              "shortSolution": "সঠিক উত্তর: খ। $x^2+y^2=r^2$।",
+              "paper": "SSC General Math",
+              "subject": "general-math",
+              "setType": "paper-wise-model-test",
+              "topic": "বৃত্ত",
+              "difficulty": "Easy",
+              "probability": "Very Hot"
+            },
+            {
+              "id": "ssc-general-math-paper-set-15-q07",
+              "question": "$\\sin^2\\theta+\\cos^2\\theta$ কত?",
+              "options": [
+                {
+                  "text": "$\\sec^2\\theta$",
+                  "label": "ক"
+                },
+                {
+                  "text": "0",
+                  "label": "খ"
+                },
+                {
+                  "text": "1",
+                  "label": "গ"
+                },
+                {
+                  "text": "$\\tan\\theta$",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "গ",
+              "shortSolution": "সঠিক উত্তর: গ। মৌলিক ত্রিকোণমিতিক identity।",
+              "paper": "SSC General Math",
+              "subject": "general-math",
+              "setType": "paper-wise-model-test",
+              "topic": "ত্রিকোণমিতি",
+              "difficulty": "Easy",
+              "probability": "Board Favourite"
+            },
+            {
+              "id": "ssc-general-math-paper-set-15-q08",
+              "question": "$\\sin(A+B)$ সূত্র কোনটি?",
+              "options": [
+                {
+                  "text": "$\\cos A\\cos B-\\sin A\\sin B$",
+                  "label": "ক"
+                },
+                {
+                  "text": "$\\tan A+\\tan B$",
+                  "label": "খ"
+                },
+                {
+                  "text": "$\\sin A\\cos B+\\cos A\\sin B$",
+                  "label": "গ"
+                },
+                {
+                  "text": "$\\sin A\\cos B-\\cos A\\sin B$",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "গ",
+              "shortSolution": "সঠিক উত্তর: গ। যোগকোণের sine সূত্র।",
+              "paper": "SSC General Math",
+              "subject": "general-math",
+              "setType": "paper-wise-model-test",
+              "topic": "সংযুক্ত কোণ",
+              "difficulty": "Medium",
+              "probability": "Conceptual Trap"
+            },
+            {
+              "id": "ssc-general-math-paper-set-15-q09",
+              "question": "$f(x)=x^2$ ফাংশনটি কেমন?",
+              "options": [
+                {
+                  "text": "Constant",
+                  "label": "ক"
+                },
+                {
+                  "text": "Odd",
+                  "label": "খ"
+                },
+                {
+                  "text": "Periodic",
+                  "label": "গ"
+                },
+                {
+                  "text": "Even",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "ঘ",
+              "shortSolution": "সঠিক উত্তর: ঘ। $f(-x)=f(x)$।",
+              "paper": "SSC General Math",
+              "subject": "general-math",
+              "setType": "paper-wise-model-test",
+              "topic": "ফাংশন",
+              "difficulty": "Medium",
+              "probability": "Mega Hot"
+            },
+            {
+              "id": "ssc-general-math-paper-set-15-q10",
+              "question": "$\\vec a\\cdot\\vec b=0$ হলে দুটি ভেক্টর কেমন?",
+              "options": [
+                {
+                  "text": "সমান",
+                  "label": "ক"
+                },
+                {
+                  "text": "সমান্তরাল",
+                  "label": "খ"
+                },
+                {
+                  "text": "লম্ব",
+                  "label": "গ"
+                },
+                {
+                  "text": "একক",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "গ",
+              "shortSolution": "সঠিক উত্তর: গ। Dot product zero হলে vectors perpendicular।",
+              "paper": "SSC General Math",
+              "subject": "general-math",
+              "setType": "paper-wise-model-test",
+              "topic": "ভেক্টর",
+              "difficulty": "Medium",
+              "probability": "Very Hot"
+            },
+            {
+              "id": "ssc-general-math-paper-set-15-q11",
+              "question": "$A^2=A$ হলে matrix কী?",
+              "options": [
+                {
+                  "text": "Orthogonal",
+                  "label": "ক"
+                },
+                {
+                  "text": "Nilpotent",
+                  "label": "খ"
+                },
+                {
+                  "text": "Scalar",
+                  "label": "গ"
+                },
+                {
+                  "text": "Idempotent",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "ঘ",
+              "shortSolution": "সঠিক উত্তর: ঘ। সংজ্ঞা অনুসারে idempotent।",
+              "paper": "SSC General Math",
+              "subject": "general-math",
+              "setType": "paper-wise-model-test",
+              "topic": "ম্যাট্রিক্স",
+              "difficulty": "Medium",
+              "probability": "Board Favourite"
+            },
+            {
+              "id": "ssc-general-math-paper-set-15-q12",
+              "question": "$\\int_0^1 xdx$ কত?",
+              "options": [
+                {
+                  "text": "$\\frac12$",
+                  "label": "ক"
+                },
+                {
+                  "text": "$\\frac13$",
+                  "label": "খ"
+                },
+                {
+                  "text": "0",
+                  "label": "গ"
+                },
+                {
+                  "text": "1",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "ক",
+              "shortSolution": "সঠিক উত্তর: ক। নির্দিষ্ট যোগজের মান $1/2$।",
+              "paper": "SSC General Math",
+              "subject": "general-math",
+              "setType": "paper-wise-model-test",
+              "topic": "যোগজীকরণ",
+              "difficulty": "Medium",
+              "probability": "Conceptual Trap"
+            },
+            {
+              "id": "ssc-general-math-paper-set-15-q13",
+              "question": "$\\frac{d}{dx}x^19$ কত?",
+              "options": [
+                {
+                  "text": "$x^18$",
+                  "label": "ক"
+                },
+                {
+                  "text": "$19x^18$",
+                  "label": "খ"
+                },
+                {
+                  "text": "$18x^19$",
+                  "label": "গ"
+                },
+                {
+                  "text": "$x^19$",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "খ",
+              "shortSolution": "সঠিক উত্তর: খ। Power rule প্রয়োগ করা হয়েছে।",
+              "paper": "SSC General Math",
+              "subject": "general-math",
+              "setType": "paper-wise-model-test",
+              "topic": "অন্তরীকরণ",
+              "difficulty": "Medium",
+              "probability": "Mega Hot"
+            },
+            {
+              "id": "ssc-general-math-paper-set-15-q14",
+              "question": "$\\int x^20dx$ কত?",
+              "options": [
+                {
+                  "text": "$20x^19+C$",
+                  "label": "ক"
+                },
+                {
+                  "text": "$x^21+C$",
+                  "label": "খ"
+                },
+                {
+                  "text": "$\\frac{x^21}{21}+C$",
+                  "label": "গ"
+                },
+                {
+                  "text": "$\\frac{x^20}{20}+C$",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "গ",
+              "shortSolution": "সঠিক উত্তর: গ। Power integration rule।",
+              "paper": "SSC General Math",
+              "subject": "general-math",
+              "setType": "paper-wise-model-test",
+              "topic": "যোগজীকরণ",
+              "difficulty": "Medium",
+              "probability": "Very Hot"
+            },
+            {
+              "id": "ssc-general-math-paper-set-15-q15",
+              "question": "$16P_2$ এর মান কত?",
+              "options": [
+                {
+                  "text": "120",
+                  "label": "ক"
+                },
+                {
+                  "text": "240",
+                  "label": "খ"
+                },
+                {
+                  "text": "18",
+                  "label": "গ"
+                },
+                {
+                  "text": "48",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "খ",
+              "shortSolution": "সঠিক উত্তর: খ। $nP_2=n(n-1)$।",
+              "paper": "SSC General Math",
+              "subject": "general-math",
+              "setType": "paper-wise-model-test",
+              "topic": "বিন্যাস",
+              "difficulty": "Hard",
+              "probability": "Board Favourite"
+            },
+            {
+              "id": "ssc-general-math-paper-set-15-q16",
+              "question": "$17C_2$ এর মান কত?",
+              "options": [
+                {
+                  "text": "272",
+                  "label": "ক"
+                },
+                {
+                  "text": "18",
+                  "label": "খ"
+                },
+                {
+                  "text": "136",
+                  "label": "গ"
+                },
+                {
+                  "text": "289",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "গ",
+              "shortSolution": "সঠিক উত্তর: গ। $nC_2=n(n-1)/2$।",
+              "paper": "SSC General Math",
+              "subject": "general-math",
+              "setType": "paper-wise-model-test",
+              "topic": "সমাবেশ",
+              "difficulty": "Hard",
+              "probability": "Conceptual Trap"
+            },
+            {
+              "id": "ssc-general-math-paper-set-15-q17",
+              "question": "ঢাল 18 এবং বিন্দু $(5,18)$ দিয়ে অতিক্রান্ত রেখার সমীকরণ কোনটি?",
+              "options": [
+                {
+                  "text": "$x-18=18(y-5)$",
+                  "label": "ক"
+                },
+                {
+                  "text": "$y-18=18(x-5)$",
+                  "label": "খ"
+                },
+                {
+                  "text": "$y+18=18(x-5)$",
+                  "label": "গ"
+                },
+                {
+                  "text": "$y-18=5(x-18)$",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "খ",
+              "shortSolution": "সঠিক উত্তর: খ। Point-slope form ব্যবহৃত।",
+              "paper": "SSC General Math",
+              "subject": "general-math",
+              "setType": "paper-wise-model-test",
+              "topic": "সরলরেখা",
+              "difficulty": "Hard",
+              "probability": "Mega Hot"
+            },
+            {
+              "id": "ssc-general-math-paper-set-15-q18",
+              "question": "$x^2+y^2=361$ বৃত্তের ব্যাসার্ধ কত?",
+              "options": [
+                {
+                  "text": "361",
+                  "label": "ক"
+                },
+                {
+                  "text": "38",
+                  "label": "খ"
+                },
+                {
+                  "text": "19",
+                  "label": "গ"
+                },
+                {
+                  "text": "20",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "গ",
+              "shortSolution": "সঠিক উত্তর: গ। $x^2+y^2=r^2$।",
+              "paper": "SSC General Math",
+              "subject": "general-math",
+              "setType": "paper-wise-model-test",
+              "topic": "বৃত্ত",
+              "difficulty": "Hard",
+              "probability": "Very Hot"
+            },
+            {
+              "id": "ssc-general-math-paper-set-15-q19",
+              "question": "$\\sin^2\\theta+\\cos^2\\theta$ কত?",
+              "options": [
+                {
+                  "text": "1",
+                  "label": "ক"
+                },
+                {
+                  "text": "$\\sec^2\\theta$",
+                  "label": "খ"
+                },
+                {
+                  "text": "$\\tan\\theta$",
+                  "label": "গ"
+                },
+                {
+                  "text": "0",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "ক",
+              "shortSolution": "সঠিক উত্তর: ক। মৌলিক ত্রিকোণমিতিক identity।",
+              "paper": "SSC General Math",
+              "subject": "general-math",
+              "setType": "paper-wise-model-test",
+              "topic": "ত্রিকোণমিতি",
+              "difficulty": "Hard",
+              "probability": "Board Favourite"
+            },
+            {
+              "id": "ssc-general-math-paper-set-15-q20",
+              "question": "$\\sin(A+B)$ সূত্র কোনটি?",
+              "options": [
+                {
+                  "text": "$\\tan A+\\tan B$",
+                  "label": "ক"
+                },
+                {
+                  "text": "$\\sin A\\cos B-\\cos A\\sin B$",
+                  "label": "খ"
+                },
+                {
+                  "text": "$\\sin A\\cos B+\\cos A\\sin B$",
+                  "label": "গ"
+                },
+                {
+                  "text": "$\\cos A\\cos B-\\sin A\\sin B$",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "গ",
+              "shortSolution": "সঠিক উত্তর: গ। যোগকোণের sine সূত্র।",
+              "paper": "SSC General Math",
+              "subject": "general-math",
+              "setType": "paper-wise-model-test",
+              "topic": "সংযুক্ত কোণ",
+              "difficulty": "Hard",
+              "probability": "Conceptual Trap"
+            },
+            {
+              "id": "ssc-general-math-paper-set-15-q21",
+              "question": "$f(x)=x^2$ ফাংশনটি কেমন?",
+              "options": [
+                {
+                  "text": "Constant",
+                  "label": "ক"
+                },
+                {
+                  "text": "Odd",
+                  "label": "খ"
+                },
+                {
+                  "text": "Periodic",
+                  "label": "গ"
+                },
+                {
+                  "text": "Even",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "ঘ",
+              "shortSolution": "সঠিক উত্তর: ঘ। $f(-x)=f(x)$।",
+              "paper": "SSC General Math",
+              "subject": "general-math",
+              "setType": "paper-wise-model-test",
+              "topic": "ফাংশন",
+              "difficulty": "Hard",
+              "probability": "Mega Hot"
+            },
+            {
+              "id": "ssc-general-math-paper-set-15-q22",
+              "question": "$\\vec a\\cdot\\vec b=0$ হলে দুটি ভেক্টর কেমন?",
+              "options": [
+                {
+                  "text": "সমান্তরাল",
+                  "label": "ক"
+                },
+                {
+                  "text": "সমান",
+                  "label": "খ"
+                },
+                {
+                  "text": "লম্ব",
+                  "label": "গ"
+                },
+                {
+                  "text": "একক",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "গ",
+              "shortSolution": "সঠিক উত্তর: গ। Dot product zero হলে vectors perpendicular।",
+              "paper": "SSC General Math",
+              "subject": "general-math",
+              "setType": "paper-wise-model-test",
+              "topic": "ভেক্টর",
+              "difficulty": "Board Standard",
+              "probability": "Very Hot"
+            },
+            {
+              "id": "ssc-general-math-paper-set-15-q23",
+              "question": "$A^2=A$ হলে matrix কী?",
+              "options": [
+                {
+                  "text": "Scalar",
+                  "label": "ক"
+                },
+                {
+                  "text": "Orthogonal",
+                  "label": "খ"
+                },
+                {
+                  "text": "Idempotent",
+                  "label": "গ"
+                },
+                {
+                  "text": "Nilpotent",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "গ",
+              "shortSolution": "সঠিক উত্তর: গ। সংজ্ঞা অনুসারে idempotent।",
+              "paper": "SSC General Math",
+              "subject": "general-math",
+              "setType": "paper-wise-model-test",
+              "topic": "ম্যাট্রিক্স",
+              "difficulty": "Board Standard",
+              "probability": "Board Favourite"
+            },
+            {
+              "id": "ssc-general-math-paper-set-15-q24",
+              "question": "$\\int_0^1 xdx$ কত?",
+              "options": [
+                {
+                  "text": "$\\frac12$",
+                  "label": "ক"
+                },
+                {
+                  "text": "$\\frac13$",
+                  "label": "খ"
+                },
+                {
+                  "text": "0",
+                  "label": "গ"
+                },
+                {
+                  "text": "1",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "ক",
+              "shortSolution": "সঠিক উত্তর: ক। নির্দিষ্ট যোগজের মান $1/2$।",
+              "paper": "SSC General Math",
+              "subject": "general-math",
+              "setType": "paper-wise-model-test",
+              "topic": "যোগজীকরণ",
+              "difficulty": "Board Standard",
+              "probability": "Conceptual Trap"
+            },
+            {
+              "id": "ssc-general-math-paper-set-15-q25",
+              "question": "$\\frac{d}{dx}x^16$ কত?",
+              "options": [
+                {
+                  "text": "$15x^16$",
+                  "label": "ক"
+                },
+                {
+                  "text": "$x^15$",
+                  "label": "খ"
+                },
+                {
+                  "text": "$16x^15$",
+                  "label": "গ"
+                },
+                {
+                  "text": "$x^16$",
+                  "label": "ঘ"
+                }
+              ],
+              "correctOption": "গ",
+              "shortSolution": "সঠিক উত্তর: গ। Power rule প্রয়োগ করা হয়েছে।",
+              "paper": "SSC General Math",
+              "subject": "general-math",
+              "setType": "paper-wise-model-test",
+              "topic": "অন্তরীকরণ",
+              "difficulty": "Board Standard",
+              "probability": "Mega Hot"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

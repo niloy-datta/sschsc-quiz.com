@@ -1,0 +1,352 @@
+[
+  {
+    "id": "physicsfirstpaperfinalsets-split-01-split-01-q01",
+    "subject": "physics-1st-paper",
+    "chapter": "physicsfirstpaperfinalsets-split-01-split-01",
+    "text": "প্রক্ষেপকের সর্বাধিক পাল্লা (Range) পেতে নিক্ষেপণ কোণ কত হতে হবে?",
+    "options": [
+      "30°",
+      "45°",
+      "60°",
+      "90°"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "physicsfirstpaperfinalsets-split-01-split-01-q02",
+    "subject": "physics-1st-paper",
+    "chapter": "physicsfirstpaperfinalsets-split-01-split-01",
+    "text": "প্রক্ষেপকের গতিপথের (Trajectory) আকার কেমন?",
+    "options": [
+      "সরলরেখা",
+      "বৃত্ত",
+      "পরাবৃত্ত (Parabola)",
+      "উপবৃত্ত"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "physicsfirstpaperfinalsets-split-01-split-01-q03",
+    "subject": "physics-1st-paper",
+    "chapter": "physicsfirstpaperfinalsets-split-01-split-01",
+    "text": "কোন দুটি নিক্ষেপণ কোণের জন্য পাল্লা (R) সমান হয়?",
+    "options": [
+      "30°, 45°",
+      "30°, 60°",
+      "45°, 90°",
+      "0°, 90°"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "physicsfirstpaperfinalsets-split-01-split-01-q04",
+    "subject": "physics-1st-paper",
+    "chapter": "physicsfirstpaperfinalsets-split-01-split-01",
+    "text": "প্রক্ষেপকের সর্বোচ্চ উচ্চতায় বেগ কত?",
+    "options": [
+      "শূন্য",
+      "v0 sinθ",
+      "v0 cosθ",
+      "v0"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "physicsfirstpaperfinalsets-split-01-split-01-q05",
+    "subject": "physics-1st-paper",
+    "chapter": "physicsfirstpaperfinalsets-split-01-split-01",
+    "text": "v-t গ্রাফের ঢাল (Slope) কী নির্দেশ করে?",
+    "options": [
+      "সরণ",
+      "বেগ",
+      "ত্বরণ",
+      "কাজ"
+    ],
+    "image": "/images/quiz/hm-straight-line-slope.svg",
+    "timeLimit": 45
+  },
+  {
+    "id": "physicsfirstpaperfinalsets-split-01-split-01-q06",
+    "subject": "physics-1st-paper",
+    "chapter": "physicsfirstpaperfinalsets-split-01-split-01",
+    "text": "সর্বাধিক পাল্লা R_max এবং সর্বোচ্চ উচ্চতার (H) সম্পর্ক কী? (θ=45°)",
+    "options": [
+      "R_max = H",
+      "R_max = 2H",
+      "R_max = 4H",
+      "R_max = 8H"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "physicsfirstpaperfinalsets-split-01-split-01-q07",
+    "subject": "physics-1st-paper",
+    "chapter": "physicsfirstpaperfinalsets-split-01-split-01",
+    "text": "মুক্তভাবে পড়ন্ত বস্তুর ১ম, ২য় ও ৩য় সেকেন্ডে অতিক্রান্ত দূরত্বের অনুপাত কত?",
+    "options": [
+      "১:২:৩",
+      "১:৪:৯",
+      "১:৩:৫",
+      "১:৮:২৭"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "physicsfirstpaperfinalsets-split-01-split-01-q08",
+    "subject": "physics-1st-paper",
+    "chapter": "physicsfirstpaperfinalsets-split-01-split-01",
+    "text": "সমবেগে চলন্ত ট্রেনের ছাদ থেকে একটি বল ফেলে দিলে, বাইরের স্থির পর্যবেক্ষকের কাছে এর গতিপথ কেমন মনে হবে?",
+    "options": [
+      "সরলরেখা",
+      "বৃত্ত",
+      "পরাবৃত্ত",
+      "বলা সম্ভব নয়"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "physicsfirstpaperfinalsets-split-01-split-01-q09",
+    "subject": "physics-1st-paper",
+    "chapter": "physicsfirstpaperfinalsets-split-01-split-01",
+    "text": "প্রক্ষেপকের ত্বরণ সর্বোচ্চ উচ্চতায় কত?",
+    "options": [
+      "শূন্য",
+      "g (নিচের দিকে)",
+      "g (অনুভূমিক)",
+      "অসীম"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "physicsfirstpaperfinalsets-split-01-split-01-q10",
+    "subject": "physics-1st-paper",
+    "chapter": "physicsfirstpaperfinalsets-split-01-split-01",
+    "text": "অনুভূমিকভাবে নিক্ষিপ্ত বস্তুর গতিপথের সমীকরণ কোনটি?",
+    "options": [
+      "y ∝ x",
+      "y ∝ x²",
+      "y² ∝ x",
+      "x ∝ y"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "physicsfirstpaperfinalsets-split-01-split-01-q11",
+    "subject": "physics-1st-paper",
+    "chapter": "physicsfirstpaperfinalsets-split-01-split-01",
+    "text": "সরণ সমীকরণ y=Asin(ωt-kx) তে k কী নির্দেশ করে?",
+    "options": [
+      "তরঙ্গ বেগ",
+      "তরঙ্গ সংখ্যা",
+      "দশা",
+      "কম্পাঙ্ক"
+    ],
+    "image": "/images/quiz/generated/physicsfirstpaperfinalsets-split-01-split-01-q11.svg",
+    "timeLimit": 45
+  },
+  {
+    "id": "physicsfirstpaperfinalsets-split-01-split-01-q12",
+    "subject": "physics-1st-paper",
+    "chapter": "physicsfirstpaperfinalsets-split-01-split-01",
+    "text": "দশা পার্থক্য (Δφ) ও পথ পার্থক্যের (Δx) সম্পর্ক কোনটি?",
+    "options": [
+      "Δφ = (2π/λ)Δx",
+      "Δx = (2π/λ)Δφ",
+      "Δφ = (λ/2π)Δx",
+      "Δφ = 2πλΔx"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "physicsfirstpaperfinalsets-split-01-split-01-q13",
+    "subject": "physics-1st-paper",
+    "chapter": "physicsfirstpaperfinalsets-split-01-split-01",
+    "text": "পরপর দুটি সুস্পন্দ (Antinode) বিন্দুর মধ্যবর্তী দূরত্ব কত?",
+    "options": [
+      "λ",
+      "λ/2",
+      "λ/4",
+      "2λ"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "physicsfirstpaperfinalsets-split-01-split-01-q14",
+    "subject": "physics-1st-paper",
+    "chapter": "physicsfirstpaperfinalsets-split-01-split-01",
+    "text": "তরঙ্গের তীব্রতা (Intensity) বিস্তারের (A) সাথে কীভাবে পরিবর্তিত হয়?",
+    "options": [
+      "I ∝ A",
+      "I ∝ A²",
+      "I ∝ √A",
+      "I ∝ 1/A²"
+    ],
+    "image": "/images/quiz/wave-transverse.svg",
+    "timeLimit": 45
+  },
+  {
+    "id": "physicsfirstpaperfinalsets-split-01-split-01-q15",
+    "subject": "physics-1st-paper",
+    "chapter": "physicsfirstpaperfinalsets-split-01-split-01",
+    "text": "বিট (Beats) সৃষ্টির মূল কারণ কী?",
+    "options": [
+      "ব্যতিচার",
+      "অপবর্তন",
+      "প্রতিফলন",
+      "প্রতিসরণ"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "physicsfirstpaperfinalsets-split-01-split-01-q16",
+    "subject": "physics-1st-paper",
+    "chapter": "physicsfirstpaperfinalsets-split-01-split-01",
+    "text": "শব্দের বেগ কোন মাধ্যমে সবচেয়ে বেশি?",
+    "options": [
+      "গ্যাসে",
+      "তরলে",
+      "কঠিনে",
+      "শূন্য মাধ্যমে"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "physicsfirstpaperfinalsets-split-01-split-01-q17",
+    "subject": "physics-1st-paper",
+    "chapter": "physicsfirstpaperfinalsets-split-01-split-01",
+    "text": "v = fλ সমীকরণে মাধ্যম পরিবর্তন হলে কোনটি অপরিবর্তিত থাকে?",
+    "options": [
+      "বেগ (v)",
+      "তরঙ্গদৈর্ঘ্য (λ)",
+      "কম্পাঙ্ক (f)",
+      "সবগুলো"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "physicsfirstpaperfinalsets-split-01-split-01-q18",
+    "subject": "physics-1st-paper",
+    "chapter": "physicsfirstpaperfinalsets-split-01-split-01",
+    "text": "টানটান তারে আড় তরঙ্গের বেগ v। তারের টান ৪ গুণ করলে বেগ কত হবে?",
+    "options": [
+      "৪ গুণ",
+      "২ গুণ",
+      "অর্ধেক",
+      "অপরিবর্তিত"
+    ],
+    "image": "/images/quiz/wave-transverse.svg",
+    "timeLimit": 45
+  },
+  {
+    "id": "physicsfirstpaperfinalsets-split-01-split-01-q19",
+    "subject": "physics-1st-paper",
+    "chapter": "physicsfirstpaperfinalsets-split-01-split-01",
+    "text": "শব্দোত্তর তরঙ্গের (Ultrasonic) কম্পাঙ্ক কত?",
+    "options": [
+      "20Hz এর কম",
+      "20 - 20000Hz",
+      "20000Hz এর বেশি",
+      "0Hz"
+    ],
+    "image": "/images/quiz/wave-transverse.svg",
+    "timeLimit": 45
+  },
+  {
+    "id": "physicsfirstpaperfinalsets-split-01-split-01-q20",
+    "subject": "physics-1st-paper",
+    "chapter": "physicsfirstpaperfinalsets-split-01-split-01",
+    "text": "বদ্ধ নলের (Closed pipe) মূল সুরের তরঙ্গদৈর্ঘ্য নলের দৈর্ঘ্যের (L) কত গুণ?",
+    "options": [
+      "L",
+      "2L",
+      "4L",
+      "L/2"
+    ],
+    "image": "/images/quiz/wave-transverse.svg",
+    "timeLimit": 45
+  },
+  {
+    "id": "physicsfirstpaperfinalsets-split-01-split-01-q21",
+    "subject": "physics-1st-paper",
+    "chapter": "physicsfirstpaperfinalsets-split-01-split-01",
+    "text": "রাস্তার ব্যাংকিং কোণ গাড়ির ভরের ওপর কীভাবে নির্ভর করে?",
+    "options": [
+      "সমানুপাতিক",
+      "ব্যস্তানুপাতিক",
+      "নির্ভর করে না",
+      "বর্গের সমানুপাতিক"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "physicsfirstpaperfinalsets-split-01-split-01-q22",
+    "subject": "physics-1st-paper",
+    "chapter": "physicsfirstpaperfinalsets-split-01-split-01",
+    "text": "সেকেন্ড দোলকের দৈর্ঘ্য কত গুণ করলে দোলনকাল ৪ সেকেন্ড হবে?",
+    "options": [
+      "২ গুণ",
+      "৪ গুণ",
+      "৮ গুণ",
+      "১৬ গুণ"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "physicsfirstpaperfinalsets-split-01-split-01-q23",
+    "subject": "physics-1st-paper",
+    "chapter": "physicsfirstpaperfinalsets-split-01-split-01",
+    "text": "কৈশিক নলে পারদের অবরোহণ (নিচে নেমে যাওয়া) হয় কেন?",
+    "options": [
+      "আসঞ্জন বল > সংশক্তি বল",
+      "সংশক্তি বল > আসঞ্জন বল",
+      "ঘনত্ব বেশি",
+      "পৃষ্ঠটান কম"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "physicsfirstpaperfinalsets-split-01-split-01-q24",
+    "subject": "physics-1st-paper",
+    "chapter": "physicsfirstpaperfinalsets-split-01-split-01",
+    "text": "(A × B) ভেক্টরটি B ভেক্টরের সাথে কত কোণ তৈরি করে?",
+    "options": [
+      "0°",
+      "45°",
+      "90°",
+      "180°"
+    ],
+    "image": "/images/quiz/generated/physicsfirstpaperfinalsets-split-01-split-01-q24.svg",
+    "timeLimit": 45
+  },
+  {
+    "id": "physicsfirstpaperfinalsets-split-01-split-01-q25",
+    "subject": "physics-1st-paper",
+    "chapter": "physicsfirstpaperfinalsets-split-01-split-01",
+    "text": "ঘর্ষণ যুক্ত তলে গতিশীল বস্তুর ক্ষেত্রে কাজ-শক্তি উপপাদ্য কোনটি?",
+    "options": [
+      "Wc = ΔEk",
+      "Wc + Wf = ΔEk",
+      "Wf = ΔEk",
+      "Wc - Wf = ΔEk"
+    ],
+    "image": null,
+    "timeLimit": 45
+  }
+]

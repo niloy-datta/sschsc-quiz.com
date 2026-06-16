@@ -1,0 +1,20 @@
+<svg width="100%" height="100%" viewBox="0 0 420 260" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Voltage across 2 Ω Resistor">
+  <defs>
+    <marker id="arrow" markerWidth="8" markerHeight="8" refX="7" refY="3.5" orient="auto"><path d="M0,0 L0,7 L8,3.5 z" fill="#0f172a"/></marker>
+    <marker id="arrowBlue" markerWidth="8" markerHeight="8" refX="7" refY="3.5" orient="auto"><path d="M0,0 L0,7 L8,3.5 z" fill="#2563eb"/></marker>
+  </defs>
+  <rect width="420" height="260" rx="18" fill="#f8fafc"/>
+  <rect x="14" y="14" width="392" height="232" rx="14" fill="#ffffff" stroke="#cbd5e1" stroke-width="1.5"/>
+  <text x="210" y="38" text-anchor="middle" font-family="Arial, sans-serif" font-size="15" font-weight="700" fill="#0f172a">Voltage across 2 Ω Resistor</text>
+  
+  <g stroke="#0f172a" stroke-width="2.4" fill="none">
+    <line x1="70" y1="130" x2="145" y2="130"/>
+    <path d="M145 130 h12 l8 -14 l8 28 l8 -28 l8 28 l8 -28 l8 14 h12"/>
+    <line x1="217" y1="130" x2="340" y2="130"/>
+    <path d="M145 168 H217" stroke="#2563eb" marker-end="url(#arrowBlue)"/>
+  </g>
+  <text x="181" y="105" text-anchor="middle" font-size="14" fill="#2563eb">2 Ω</text>
+  <text x="181" y="190" text-anchor="middle" font-size="13" fill="#2563eb">V₂Ω</text>
+  <text x="210" y="222" text-anchor="middle" font-size="12" fill="#475569">2 Ω রোধের প্রান্তীয় বিভব পার্থক্য</text>
+
+</svg>

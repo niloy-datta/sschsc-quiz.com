@@ -40,6 +40,8 @@ def _normalize_entry(entry: Dict[str, Any], rank: int) -> Dict[str, Any]:
         "streak": int(entry.get("streak") or 0),
         "badge": entry.get("badge") or "",
         "rank": rank,
+        "collegeName": entry.get("collegeName") or entry.get("schoolName") or "",
+        "schoolName": entry.get("schoolName") or entry.get("collegeName") or "",
     }
 
 
@@ -76,6 +78,8 @@ def _build_entry(
         "accuracy": new_accuracy,
         "streak": new_streak,
         "badge": user_doc.get("badge") or "",
+        "collegeName": user_doc.get("collegeName") or user_doc.get("schoolName") or "",
+        "schoolName": user_doc.get("schoolName") or user_doc.get("collegeName") or "",
     }
 
 
