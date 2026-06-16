@@ -1,6 +1,5 @@
 /**
  * Detect MCQ questions missing SVG/image support.
- * Spec: detect_missing_svg.txt
  *
  * Usage:
  *   node scripts/detect-missing-svg.js
@@ -14,7 +13,7 @@ const QUESTIONS_DIR = path.join(ROOT, "public", "questions");
 const OUT = path.join(ROOT, "data", "detect-missing-svg.json");
 const STDOUT = process.argv.includes("--stdout");
 
-const LEKHOCHITRA_OPT = /^\[?\s*লেখচিত্র\s*[১২৩৪1-4]|ঘ\s*\]?$/i;
+const LEKHOCHITRA_OPT = /^\[?\s*লেখচিত্র\s*([১২৩৪1-4]|ঘ)\s*\]?$/i;
 
 const VISUAL_STEM =
   /\[চিত্র\s*[:：]|\(চিত্র\s*[:：]|চিত্রে|চিত্রভিত্তিক|লেখচিত্র|গ্রাফ|diagram|circuit|বল\s*চিত্র|V-I|I-V|E-ν|স্থানাঙ্ক|coordinate|parabola|বর্তনীতে\s*তড়িৎ|বর্তনীতে\s*রোধ|resistor\s*network|লেন্স|দর্পণ|mirror|lens|নিচের\s*চিত্র|চিত্রটি\s*লক্ষ্য|উদ্দীপকের\s*চিত্র/i;
