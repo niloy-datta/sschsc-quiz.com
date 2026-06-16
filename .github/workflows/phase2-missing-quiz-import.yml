@@ -1,0 +1,142 @@
+name: Phase 2 Missing Quiz Import
+
+on:
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+    paths:
+      - '.github/workflows/phase2-missing-quiz-import.yml'
+
+permissions:
+  contents: write
+
+jobs:
+  phase2_missing_quiz_import:
+    name: Import verified missing quizzes only
+    runs-on: ubuntu-latest
+    timeout-minutes: 45
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          persist-credentials: true
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Setup pnpm
+        uses: pnpm/action-setup@v4
+        with:
+          version: 9
+
+      - name: Install dependencies
+        run: pnpm install --frozen-lockfile=false
+
+      - name: Prepare folders
+        run: |
+          mkdir -p data/reports
+          mkdir -p data/backups/phase2-before-import
+          cp -r public/quiz-data data/backups/phase2-before-import/quiz-data
+          cp -r public/questions data/backups/phase2-before-import/questions
+
+      - name: Source discovery report
+        run: |
+          {
+            echo '# Phase 2 Source Discovery Report'
+            echo
+            echo '| Target | Source file | Exists? | Non-empty? | Action |'
+            echo '| --- | --- | --- | --- | --- |'
+            check_file() {
+              target="$1"
+              file="$2"
+              action="$3"
+              if [ -f "$file" ]; then
+                if [ -s "$file" ]; then
+                  echo "| $target | $file | yes | yes | $action |"
+                else
+                  echo "| $target | $file | yes | no | skipped: empty source |"
+                fi
+              else
+                echo "| $target | $file | no | no | source_needed |"
+              fi
+            }
+            check_file 'HSC Chemistry 1st chapter-wise' 'data/imports/hsc-chemistry-1st-paper-chapterwise-5-high-priority-sets.json' 'import if schema valid'
+            check_file 'HSC Higher Math 2nd hot sets' 'data/imports/hsc-higher-math-2nd-hyper-mega-hot-5sets.json' 'import if schema valid'
+            check_file 'HSC Physics 2nd hot sets' 'data/imports/hsc-physics-2nd-hyper-mega-hot-10sets.json' 'import if schema valid'
+            check_file 'HSC Higher Math 1st hot sets' 'data/imports/hsc-higher-math-1st-paper-10-model-tests.json' 'import if schema valid'
+            check_file 'HSC Chemistry 1st hot sets 03-12' 'data/imports/hsc-chemistry-1st-paper-hot-sets-03-12.json' 'import if schema valid'
+          } > data/reports/phase2_source_discovery_report.md
+
+      - name: Import verified existing sources
+        shell: bash
+        run: |
+          set -e
+          echo 'command,status,notes' > data/reports/phase2_import_log.csv
+
+          run_if_nonempty() {
+            cmd="$1"
+            file="$2"
+            label="$3"
+            if [ -f "$file" ] && [ -s "$file" ]; then
+              echo "Running: $cmd"
+              if eval "$cmd"; then
+                echo "\"$cmd\",passed,\"$label imported\"" >> data/reports/phase2_import_log.csv
+              else
+                echo "\"$cmd\",failed,\"$label failed\"" >> data/reports/phase2_import_log.csv
+                exit 1
+              fi
+            else
+              echo "\"$cmd\",skipped,\"source_needed_or_empty: $file\"" >> data/reports/phase2_import_log.csv
+            fi
+          }
+
+          run_if_nonempty 'npm run data:import-hsc-chemistry-1st-chapterwise' 'data/imports/hsc-chemistry-1st-paper-chapterwise-5-high-priority-sets.json' 'HSC Chemistry 1st chapter-wise'
+          run_if_nonempty 'npm run data:import-hyper-mega-higher-math-2nd-5sets' 'data/imports/hsc-higher-math-2nd-hyper-mega-hot-5sets.json' 'HSC Higher Math 2nd hot sets'
+          run_if_nonempty 'npm run data:import-hyper-mega' 'data/imports/hsc-physics-2nd-hyper-mega-hot-10sets.json' 'HSC Physics 2nd hot sets'
+          run_if_nonempty 'npm run data:import-hyper-mega-higher-math-1st' 'data/imports/hsc-higher-math-1st-paper-10-model-tests.json' 'HSC Higher Math 1st hot sets'
+
+      - name: ICT live scan after import
+        run: |
+          {
+            echo '# Phase 2 ICT Status Report'
+            echo
+            echo 'ICT must not be added as a live subject.'
+            echo
+            echo '## Path hits'
+            find public data src app scripts -iname '*ict*' 2>/dev/null || true
+            echo
+            echo '## Text hits'
+            grep -RIn --exclude-dir=node_modules --exclude-dir=.git -E 'ICT|ict|আইসিটি' public data src app scripts 2>/dev/null || true
+          } > data/reports/phase2_ict_status_report.md
+
+      - name: Validate after import
+        run: |
+          npm run data:validate-mcq
+          npm run data:audit
+          npm run typecheck
+
+      - name: Commit generated quiz imports and reports
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add public/quiz-data public/questions backend/data/answers data/reports data/backups || true
+          if git diff --cached --quiet; then
+            echo 'No changes to commit.'
+          else
+            git commit -m 'data: import verified missing quiz sources and reports'
+            git push
+          fi
+
+      - name: Upload phase 2 reports
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: phase2-missing-quiz-import-reports
+          path: |
+            data/reports/**
+            data/backups/phase2-before-import/**
+          if-no-files-found: ignore
