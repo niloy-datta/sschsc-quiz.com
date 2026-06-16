@@ -17,6 +17,9 @@ STATIC_SPA_DIR = PROJECT_ROOT / "app" / "static"
 RAW_QUESTIONS_DIR = PROJECT_ROOT / "docs" / "raw-questions"
 PARSED_QUIZZES_PATH = SCRATCH_DIR / "parsed_quizzes.json"
 
+DEV_JWT_SECRET = "dev-only-change-jwt-secret-in-env"
+DEV_ADMIN_PASSWORD = "admin123"
+
 
 def _normalize_url(url: str) -> str:
     return url[:-1] if url.endswith("/") else url
@@ -33,7 +36,7 @@ def _default_environment() -> str:
 class Settings:
     ENVIRONMENT: str = _default_environment()
 
-    JWT_SECRET: str = os.getenv("JWT_SECRET", "dev-only-change-jwt-secret-in-env")
+    JWT_SECRET: str = os.getenv("JWT_SECRET", DEV_JWT_SECRET)
     ALGORITHM: str = "HS256"
     ACCESS_TOKEN_EXPIRE_DAYS: int = 7
 
@@ -53,7 +56,7 @@ class Settings:
     _app_url: str = os.getenv("APP_URL", "http://localhost:3000").strip()
     APP_URL: str = _normalize_url(_app_url)
 
-    ADMIN_PASSWORD: str = os.getenv("ADMIN_PASSWORD", "admin123")
+    ADMIN_PASSWORD: str = os.getenv("ADMIN_PASSWORD", DEV_ADMIN_PASSWORD)
     ADMIN_EMAIL: str = os.getenv("ADMIN_EMAIL", "niloy.datta.dev@gmail.com")
 
     # Legacy / unused — Prisma/MySQL package only, not active in Firestore app
@@ -61,6 +64,27 @@ class Settings:
 
 
 settings = Settings()
+
+
+def validate_production_settings() -> None:
+    """Stop unsafe production startup when required secrets are missing."""
+    if settings.ENVIRONMENT != "production":
+        return
+
+    missing = []
+    if not os.getenv("JWT_SECRET") or settings.JWT_SECRET == DEV_JWT_SECRET:
+        missing.append("JWT_SECRET")
+    if not os.getenv("ADMIN_PASSWORD") or settings.ADMIN_PASSWORD == DEV_ADMIN_PASSWORD:
+        missing.append("ADMIN_PASSWORD")
+
+    if missing:
+        joined = ", ".join(missing)
+        raise RuntimeError(
+            f"Production config error: set strong environment value(s) for {joined}."
+        )
+
+
+validate_production_settings()
 
 
 def cookie_kwargs() -> dict:
