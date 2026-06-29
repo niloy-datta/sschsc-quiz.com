@@ -28,6 +28,8 @@ Be respectful. Focus on academic quality and correctness. Do not add or edit que
 git clone https://github.com/niloy-datta/sschsc-quiz.com.git
 cd sschsc-quiz.com
 npm install
+git fetch origin
+git checkout -b fix/your-branch-name origin/main
 ```
 
 ### Option B — Fork-based workflow (external contributor)
@@ -75,8 +77,14 @@ Use descriptive, slash-prefixed branch names:
 
 ```bash
 # 1. Start from latest main
-git fetch upstream   # or: git fetch origin (if team member)
-git checkout -b fix/your-branch-name upstream/main
+
+# If team member (write access):
+git fetch origin
+git checkout -b fix/your-branch-name origin/main
+
+# If external contributor (fork-based):
+# git fetch upstream
+# git checkout -b fix/your-branch-name upstream/main
 
 # 2. Make your changes
 # ... edit files ...
