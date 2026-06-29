@@ -1,177 +1,177 @@
 {
   "ssc-chemistry-chapter-08-model-test-01-q01": {
-    "answer": "স্থিতিশীল",
-    "answerIndex": 2,
-    "explanation": "",
-    "topic": "bond",
+    "answer": "বিক্রিয়াটি তাপমুখী এবং ΔH ঋণাত্মক",
+    "answerIndex": 1,
+    "explanation": "বিক্রিয়কের শক্তি উৎপাদের শক্তির চেয়ে বেশি হলে অতিরিক্ত শক্তি তাপ হিসেবে নির্গত হয়। তাই বিক্রিয়াটি তাপমুখী এবং ΔH ঋণাত্মক।",
+    "topic": "thermochemistry",
     "difficulty": 1200
   },
   "ssc-chemistry-chapter-08-model-test-01-q02": {
-    "answer": "তাপমুখ",
-    "answerIndex": 1,
-    "explanation": "",
-    "topic": "condensation",
+    "answer": "বরফ গলে জলে পরিণত হওয়া",
+    "answerIndex": 2,
+    "explanation": "বরফ গলতে পরিবেশ থেকে তাপ শোষণ করে, তাই এটি তাপগ্রাহী প্রক্রিয়া।",
+    "topic": "thermochemistry",
     "difficulty": 1200
   },
   "ssc-chemistry-chapter-08-model-test-01-q03": {
-    "answer": "এনথালপি পরিবর্তন",
-    "answerIndex": 3,
-    "explanation": "",
-    "topic": "reaction_heat",
+    "answer": "প্রতি মোল বিক্রিয়ায় 285 kJ তাপ নির্গত হয়",
+    "answerIndex": 1,
+    "explanation": "ΔH ঋণাত্মক হলে বিক্রিয়াটি তাপমুখী, অর্থাৎ তাপ নির্গত হয়।",
+    "topic": "thermochemistry",
     "difficulty": 1200
   },
   "ssc-chemistry-chapter-08-model-test-01-q04": {
-    "answer": "জুল",
-    "answerIndex": 3,
-    "explanation": "",
-    "topic": "unit",
+    "answer": "4.2 J g⁻¹ °C⁻¹",
+    "answerIndex": 1,
+    "explanation": "Q = mcΔT; c = Q/(mΔT) = 2100/(50×10) = 4.2 J g⁻¹ °C⁻¹।",
+    "topic": "thermochemistry",
     "difficulty": 1200
   },
   "ssc-chemistry-chapter-08-model-test-01-q05": {
-    "answer": "তাপগ্রাহী",
+    "answer": "কারণ বন্ধন ভাঙতে বেশি শক্তি প্রয়োজন",
     "answerIndex": 1,
-    "explanation": "",
-    "topic": "melting",
+    "explanation": "বন্ড শক্তি বেশি মানে বন্ধন ভাঙতে বেশি শক্তি লাগে, তাই অণুটি তুলনামূলকভাবে বেশি স্থিতিশীল।",
+    "topic": "thermochemistry",
     "difficulty": 1200
   },
   "ssc-chemistry-chapter-08-model-test-01-q06": {
-    "answer": "ΔH",
-    "answerIndex": 0,
-    "explanation": "",
-    "topic": "enthalpy",
+    "answer": "যখন বিক্রিয়া মান অবস্থায় ঘটে",
+    "answerIndex": 1,
+    "explanation": "ΔH°-এর ° চিহ্ন মান অবস্থা বা standard condition নির্দেশ করে।",
+    "topic": "thermochemistry",
     "difficulty": 1200
   },
   "ssc-chemistry-chapter-08-model-test-01-q07": {
-    "answer": "তাপমুখ",
+    "answer": "দ্রবণ প্রক্রিয়ায় পরিবেশ থেকে তাপ শোষিত হয়",
     "answerIndex": 1,
-    "explanation": "",
-    "topic": "enthalpy",
+    "explanation": "NH₄Cl দ্রবীভবন তাপগ্রাহী; এটি পরিবেশ থেকে তাপ শোষণ করে বলে দ্রবণ ঠান্ডা লাগে।",
+    "topic": "thermochemistry",
     "difficulty": 1200
   },
   "ssc-chemistry-chapter-08-model-test-01-q08": {
-    "answer": "থার্মোমিটার",
-    "answerIndex": 0,
-    "explanation": "",
-    "topic": "instrument",
+    "answer": "তাপমুখী দ্রবণ প্রক্রিয়া",
+    "answerIndex": 1,
+    "explanation": "NaOH জলে দ্রবীভূত হলে তাপ নির্গত হয়, তাই এটি তাপমুখী প্রক্রিয়া।",
+    "topic": "thermochemistry",
     "difficulty": 1200
   },
   "ssc-chemistry-chapter-08-model-test-01-q09": {
-    "answer": "ধাতুতে ভালো",
+    "answer": "জলের বাষ্পীভবন",
     "answerIndex": 2,
-    "explanation": "",
-    "topic": "conduction",
+    "explanation": "বাষ্পীভবনে তাপ শোষিত হয়, তাই ΔH ধনাত্মক।",
+    "topic": "thermochemistry",
     "difficulty": 1200
   },
   "ssc-chemistry-chapter-08-model-test-01-q10": {
-    "answer": "তাপ পরিবর্তন",
-    "answerIndex": 3,
-    "explanation": "",
+    "answer": "বিক্রিয়ার তাপ পরিবর্তন পরিমাপ করা",
+    "answerIndex": 1,
+    "explanation": "ক্যালরিমিটার দিয়ে রাসায়নিক বা ভৌত পরিবর্তনের তাপ পরিবর্তন পরিমাপ করা হয়।",
     "topic": "thermochemistry",
     "difficulty": 1200
   },
   "ssc-chemistry-chapter-08-model-test-01-q11": {
-    "answer": "তাপমুখ",
-    "answerIndex": 2,
-    "explanation": "",
-    "topic": "combustion",
+    "answer": "বিক্রিয়ার হার বৃদ্ধি পায়",
+    "answerIndex": 0,
+    "explanation": "Activation energy কম হলে বেশি সংখ্যক কণা সফল সংঘর্ষে অংশ নিতে পারে, ফলে বিক্রিয়ার হার বাড়ে।",
+    "topic": "thermochemistry",
     "difficulty": 1200
   },
   "ssc-chemistry-chapter-08-model-test-01-q12": {
-    "answer": "c",
-    "answerIndex": 2,
-    "explanation": "",
-    "topic": "specific_heat",
+    "answer": "কম",
+    "answerIndex": 1,
+    "explanation": "তাপমুখী বিক্রিয়ায় শক্তি নির্গত হয়, তাই উৎপাদের শক্তি বিক্রিয়কের তুলনায় কম।",
+    "topic": "thermochemistry",
     "difficulty": 1200
   },
   "ssc-chemistry-chapter-08-model-test-01-q13": {
-    "answer": "তাপমুখ",
+    "answer": "বিক্রিয়ার তাপ পরিবর্তন শুধু প্রাথমিক ও চূড়ান্ত অবস্থার উপর নির্ভর করে",
     "answerIndex": 1,
-    "explanation": "",
-    "topic": "dissolution",
+    "explanation": "Hess-এর সূত্র অনুযায়ী মোট এনথালপি পরিবর্তন পথনিরপেক্ষ; এটি শুধু প্রাথমিক ও চূড়ান্ত অবস্থার উপর নির্ভর করে।",
+    "topic": "thermochemistry",
     "difficulty": 1200
   },
   "ssc-chemistry-chapter-08-model-test-01-q14": {
-    "answer": "ধনাত্মক",
-    "answerIndex": 0,
-    "explanation": "",
-    "topic": "endothermic",
+    "answer": "-40 kJ",
+    "answerIndex": 1,
+    "explanation": "বিপরীত বিক্রিয়ায় ΔH-এর চিহ্ন বিপরীত হয়। তাই B → A এর ΔH = -40 kJ।",
+    "topic": "thermochemistry",
     "difficulty": 1200
   },
   "ssc-chemistry-chapter-08-model-test-01-q15": {
-    "answer": "তাপমুখ",
-    "answerIndex": 1,
-    "explanation": "",
-    "topic": "combustion",
+    "answer": "আয়নের আধান বেশি এবং আয়নের আকার ছোট",
+    "answerIndex": 0,
+    "explanation": "আয়নের আধান বেশি ও আকার ছোট হলে আকর্ষণ বল বেশি হয়, ফলে lattice energy বেশি হয়।",
+    "topic": "thermochemistry",
     "difficulty": 1200
   },
   "ssc-chemistry-chapter-08-model-test-01-q16": {
-    "answer": "তাপগ্রাহী",
-    "answerIndex": 3,
-    "explanation": "",
-    "topic": "thermo",
+    "answer": "অবস্থা পরিবর্তনের সময়",
+    "answerIndex": 0,
+    "explanation": "অবস্থা পরিবর্তনের সময় গৃহীত তাপ সুপ্ত তাপ হিসেবে ব্যবহৃত হয়; তাই তাপমাত্রা অপরিবর্তিত থাকতে পারে।",
+    "topic": "thermochemistry",
     "difficulty": 1200
   },
   "ssc-chemistry-chapter-08-model-test-01-q17": {
-    "answer": "বাড়ে",
-    "answerIndex": 3,
-    "explanation": "",
-    "topic": "rate",
+    "answer": "বিক্রিয়ক থেকে transition state-এ পৌঁছাতে প্রয়োজনীয় শক্তি",
+    "answerIndex": 1,
+    "explanation": "Activation energy হলো বিক্রিয়ক থেকে transition state-এ পৌঁছানোর জন্য প্রয়োজনীয় ন্যূনতম শক্তি।",
+    "topic": "thermochemistry",
     "difficulty": 1200
   },
   "ssc-chemistry-chapter-08-model-test-01-q18": {
-    "answer": "স্ট্যান্ডার্ড",
+    "answer": "তাপ হলো শক্তি, তাপমাত্রা হলো উষ্ণতার মাত্রা",
     "answerIndex": 1,
-    "explanation": "",
-    "topic": "standard",
+    "explanation": "তাপ হলো শক্তির এক রূপ, আর তাপমাত্রা কোনো বস্তুর উষ্ণতা বা অণুগুলোর গড় গতিশক্তির সূচক।",
+    "topic": "thermochemistry",
     "difficulty": 1200
   },
   "ssc-chemistry-chapter-08-model-test-01-q19": {
-    "answer": "তাপগ্রাহী",
+    "answer": "H⁺ ও OH⁻ মিলে জল তৈরি করার সময় শক্তি নির্গত হয়",
     "answerIndex": 0,
-    "explanation": "",
-    "topic": "vaporization",
+    "explanation": "অম্লের H⁺ এবং ক্ষারের OH⁻ মিলে জল তৈরি করে এবং এই প্রক্রিয়ায় তাপ নির্গত হয়।",
+    "topic": "thermochemistry",
     "difficulty": 1200
   },
   "ssc-chemistry-chapter-08-model-test-01-q20": {
-    "answer": "তাপ",
+    "answer": "4200 J",
     "answerIndex": 2,
-    "explanation": "",
-    "topic": "heat_formula",
+    "explanation": "Q = mcΔT = 100 × 4.2 × 10 = 4200 J।",
+    "topic": "thermochemistry",
     "difficulty": 1200
   },
   "ssc-chemistry-chapter-08-model-test-01-q21": {
-    "answer": "তাপগ্রাহী",
-    "answerIndex": 2,
-    "explanation": "",
-    "topic": "dissolution",
+    "answer": "বেশি থাকে",
+    "answerIndex": 1,
+    "explanation": "তাপগ্রাহী বিক্রিয়ায় তাপ শোষিত হয়, তাই উৎপাদের শক্তি বিক্রিয়কের তুলনায় বেশি থাকে।",
+    "topic": "thermochemistry",
     "difficulty": 1200
   },
   "ssc-chemistry-chapter-08-model-test-01-q22": {
-    "answer": "ঋণাত্মক",
-    "answerIndex": 3,
-    "explanation": "",
-    "topic": "exothermic",
+    "answer": "এক মোল পদার্থ সম্পূর্ণ দহনে যে তাপ নির্গত হয়",
+    "answerIndex": 0,
+    "explanation": "দহন তাপ হলো এক মোল পদার্থের সম্পূর্ণ দহনে নির্গত তাপ।",
+    "topic": "thermochemistry",
     "difficulty": 1200
   },
   "ssc-chemistry-chapter-08-model-test-01-q23": {
-    "answer": "তাপ",
-    "answerIndex": 3,
-    "explanation": "",
-    "topic": "calorimetry",
+    "answer": "কারণ ΔG = ΔH - TΔS; উচ্চ T-তে TΔS term বেশি গুরুত্বপূর্ণ হয়",
+    "answerIndex": 0,
+    "explanation": "ΔG = ΔH - TΔS। ΔS ধনাত্মক হলে উচ্চ তাপমাত্রায় TΔS বড় হয়, ফলে ΔG ঋণাত্মক হতে পারে।",
+    "topic": "thermochemistry",
     "difficulty": 1200
   },
   "ssc-chemistry-chapter-08-model-test-01-q24": {
-    "answer": "তাপমুখ",
+    "answer": "তাপ বিনিময় কমিয়ে বেশি নির্ভুল ফল পেতে",
     "answerIndex": 0,
-    "explanation": "",
-    "topic": "thermo",
+    "explanation": "ক্যালরিমিটারের ঢাকনা পরিবেশের সাথে তাপ বিনিময় কমায়, ফলে ফলাফল বেশি নির্ভুল হয়।",
+    "topic": "thermochemistry",
     "difficulty": 1200
   },
   "ssc-chemistry-chapter-08-model-test-01-q25": {
-    "answer": "অবস্থা পরিবর্তনে তাপ",
-    "answerIndex": 0,
-    "explanation": "",
-    "topic": "latent",
+    "answer": "বাষ্পীভবন — তাপগ্রাহী",
+    "answerIndex": 2,
+    "explanation": "বাষ্পীভবনে তরল থেকে গ্যাস হতে তাপ শোষিত হয়, তাই এটি তাপগ্রাহী প্রক্রিয়া।",
+    "topic": "thermochemistry",
     "difficulty": 1200
   }
 }
