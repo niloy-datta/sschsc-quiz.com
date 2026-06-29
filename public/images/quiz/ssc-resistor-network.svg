@@ -19,9 +19,9 @@
     <path d="M115 165 H155 l7 -12 l7 24 l7 -24 l7 24 l7 -12 H260"/>
     <path d="M260 130 H300 l7 -12 l7 24 l7 -24 l7 24 l7 -12 H360"/>
   </g>
-  <text x="188" y="75" text-anchor="middle" font-size="12" fill="#2563eb">6 Ω</text>
-  <text x="188" y="208" text-anchor="middle" font-size="12" fill="#2563eb">12 Ω</text>
-  <text x="323" y="105" text-anchor="middle" font-size="12" fill="#ea580c">6 Ω</text>
-  <text x="70" y="112" font-size="12" fill="#0f172a">20 V</text>
+  <text x="188" y="75" text-anchor="middle" font-size="12" fill="#2563eb" font-family="Noto Sans Bengali, Arial, sans-serif">6 Ω</text>
+  <text x="188" y="208" text-anchor="middle" font-size="12" fill="#2563eb" font-family="Noto Sans Bengali, Arial, sans-serif">12 Ω</text>
+  <text x="323" y="105" text-anchor="middle" font-size="12" fill="#ea580c" font-family="Noto Sans Bengali, Arial, sans-serif">6 Ω</text>
+  <text x="70" y="112" font-size="12" fill="#0f172a" font-family="Noto Sans Bengali, Arial, sans-serif">20 V</text>
 
 </svg>

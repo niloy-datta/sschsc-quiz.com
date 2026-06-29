@@ -1,0 +1,377 @@
+[
+  {
+    "id": "hsc-physics-2nd-paper-chapter-01-model-test-04-q01",
+    "subject": "physics-2nd-paper",
+    "chapter": "hsc-physics-2nd-paper-chapter-01-model-test-04",
+    "text": "আন্তর্জাতিক পরিমাপ পদ্ধতি (SI) অনুযায়ী $1 \\text{ Kelvin}$ তাপমাত্রা নিচের কোনটির সমান?",
+    "options": [
+      "পানির ত্রৈধ বিন্দুর তাপমাত্রার $\\frac{1}{100}$ অংশ",
+      "পানির ত্রৈধ বিন্দুর তাপমাত্রার $\\frac{1}{273.16}$ অংশ",
+      "পানির স্ফুটনাঙ্কের $\\frac{1}{373.15}$ অংশ",
+      "পানির ত্রৈধ বিন্দুর তাপমাত্রার ২৭৩.১৬ গুণ"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-physics-2nd-paper-chapter-01-model-test-04-q02",
+    "subject": "physics-2nd-paper",
+    "chapter": "hsc-physics-2nd-paper-chapter-01-model-test-04",
+    "text": "\"তাপমাত্রার পরম শূন্য মান ($0 \\text{ K}$) কখনোই পুরোপুরি অর্জন করা সম্ভব নয়\"— এটি তাপগতিবিদ্যার কোন সূত্র নামে পরিচিত?",
+    "options": [
+      "শূন্যতম সূত্র",
+      "প্রথম সূত্র",
+      "দ্বিতীয় সূত্র",
+      "তৃতীয় সূত্র"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-physics-2nd-paper-chapter-01-model-test-04-q03",
+    "subject": "physics-2nd-paper",
+    "chapter": "hsc-physics-2nd-paper-chapter-01-model-test-04",
+    "text": "নিচের কোন তাপগতীয় চলকটি (Thermodynamic variable) অবস্থার অপেক্ষক (State function) নয়, বরং একটি পথের অপেক্ষক (Path function)?",
+    "options": [
+      "অভ্যন্তরীণ শক্তি",
+      "তাপমাত্রা",
+      "কৃত কাজ",
+      "এনট্রপি"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-physics-2nd-paper-chapter-01-model-test-04-q04",
+    "subject": "physics-2nd-paper",
+    "chapter": "hsc-physics-2nd-paper-chapter-01-model-test-04",
+    "text": "স্থির আয়তন গ্যাস থার্মোমিটারের (Constant volume gas thermometer) ক্ষেত্রে উষ্ণতামিতিক ধর্ম (Thermometric property) কোনটি?",
+    "options": [
+      "গ্যাসের আয়তন",
+      "গ্যাসের চাপ",
+      "গ্যাসের রোধ",
+      "গ্যাসের ভর"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-physics-2nd-paper-chapter-01-model-test-04-q05",
+    "subject": "physics-2nd-paper",
+    "chapter": "hsc-physics-2nd-paper-chapter-01-model-test-04",
+    "text": "হঠাৎ সাইকেলের টায়ার ফেটে গেলে ভেতরের বাতাস দ্রুত বেরিয়ে আসে এবং ঠান্ডা অনুভূত হয়। এটি কোন তাপগতীয় প্রক্রিয়ার উদাহরণ?",
+    "options": [
+      "সমচাপ প্রসারণ",
+      "সমউষ্ণ প্রসারণ",
+      "রুদ্ধতাপীয় প্রসারণ",
+      "সমআয়তন প্রসারণ"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-physics-2nd-paper-chapter-01-model-test-04-q06",
+    "subject": "physics-2nd-paper",
+    "chapter": "hsc-physics-2nd-paper-chapter-01-model-test-04",
+    "text": "একটি নির্দিষ্ট পরিমাণ আদর্শ গ্যাসকে একই আদি অবস্থা থেকে নির্দিষ্ট পরিমাণ প্রসারিত করা হলো। কোন প্রক্রিয়ায় সিস্টেম দ্বারা কৃত কাজ সবচেয়ে বেশি হবে?",
+    "options": [
+      "সমউষ্ণ প্রক্রিয়ায়",
+      "রুদ্ধতাপীয় প্রক্রিয়ায়",
+      "সমচাপ প্রক্রিয়ায়",
+      "সমআয়তন প্রক্রিয়ায়"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-physics-2nd-paper-chapter-01-model-test-04-q07",
+    "subject": "physics-2nd-paper",
+    "chapter": "hsc-physics-2nd-paper-chapter-01-model-test-04",
+    "text": "তাপমাত্রা-এনট্রপি (T-S) নির্দেশক চিত্রে কোনো প্রত্যাগামী চক্র (Reversible cycle) দ্বারা আবদ্ধ ক্ষেত্রের ক্ষেত্রফল কী নির্দেশ করে?",
+    "options": [
+      "প্রতি চক্রে মোট কৃত কাজ",
+      "প্রতি চক্রে অভ্যন্তরীণ শক্তির পরিবর্তন",
+      "প্রতি চক্রে এনট্রপির মোট পরিবর্তন",
+      "প্রতি চক্রে নিট গৃহীত বা বর্জিত তাপ"
+    ],
+    "image": "/images/quiz/premium/hsc-physics-2nd-paper-chapter-01-model-test-04-q07.svg",
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-physics-2nd-paper-chapter-01-model-test-04-q08",
+    "subject": "physics-2nd-paper",
+    "chapter": "hsc-physics-2nd-paper-chapter-01-model-test-04",
+    "text": "একটি বদ্ধ সিস্টেমের (Closed system) বৈশিষ্ট্য হলো— i. এটি পরিবেশের সাথে শক্তির আদান-প্রদান করতে পারে ii. এটি পরিবেশের সাথে ভরের আদান-প্রদান করতে পারে iii. সিলিন্ডারে পিস্টন দ্বারা আবদ্ধ গ্যাস একটি বদ্ধ সিস্টেমের উদাহরণ নিচের কোনটি সঠিক?",
+    "options": [
+      "i ও ii",
+      "i ও iii",
+      "ii ও iii",
+      "i, ii ও iii"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-physics-2nd-paper-chapter-01-model-test-04-q09",
+    "subject": "physics-2nd-paper",
+    "chapter": "hsc-physics-2nd-paper-chapter-01-model-test-04",
+    "text": "তাপ ইঞ্জিন (Heat Engine) মূলত কোন শক্তিতে রূপান্তর ঘটায়?",
+    "options": [
+      "যান্ত্রিক শক্তিকে তাপ শক্তিতে",
+      "তাপ শক্তিকে বৈদ্যুতিক শক্তিতে",
+      "তাপ শক্তিকে যান্ত্রিক শক্তিতে",
+      "রাসায়নিক শক্তিকে যান্ত্রিক শক্তিতে"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-physics-2nd-paper-chapter-01-model-test-04-q10",
+    "subject": "physics-2nd-paper",
+    "chapter": "hsc-physics-2nd-paper-chapter-01-model-test-04",
+    "text": "কোনো একটি আদর্শ গ্যাসের ক্ষেত্রে স্থির চাপে মোলার আপেক্ষিক তাপ $C_p = 20.8 \\text{ J mol}^{-1}\\text{K}^{-1}$ এবং স্থির আয়তনে মোলার আপেক্ষিক তাপ $C_v = 12.5 \\text{ J mol}^{-1}\\text{K}^{-1}$। সর্বজনীন গ্যাস ধ্রুবক $R$ এর মান কত?",
+    "options": [
+      "$33.3 \\text{ J mol}^{-1}\\text{K}^{-1}$",
+      "$8.3 \\text{ J mol}^{-1}\\text{K}^{-1}$",
+      "$1.66 \\text{ J mol}^{-1}\\text{K}^{-1}$",
+      "$4.15 \\text{ J mol}^{-1}\\text{K}^{-1}$"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-physics-2nd-paper-chapter-01-model-test-04-q11",
+    "subject": "physics-2nd-paper",
+    "chapter": "hsc-physics-2nd-paper-chapter-01-model-test-04",
+    "text": "এনট্রপির (Entropy) ভৌত তাৎপর্য সম্পর্কিত নিচের কোন তথ্যটি সঠিক নয়?",
+    "options": [
+      "এটি সিস্টেমের বিশৃঙ্খলার (Disorder) একটি পরিমাপ",
+      "এটি শক্তির রূপান্তরের অক্ষমতাকে নির্দেশ করে",
+      "রূদ্ধতাপীয় প্রত্যাগামী প্রক্রিয়ায় এনট্রপি সর্বদা বৃদ্ধি পায়",
+      "প্রাকৃতিক অপ্রত্যাগামী প্রক্রিয়ায় মহাবিশ্বের এনট্রপি বৃদ্ধি পায়"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-physics-2nd-paper-chapter-01-model-test-04-q12",
+    "subject": "physics-2nd-paper",
+    "chapter": "hsc-physics-2nd-paper-chapter-01-model-test-04",
+    "text": "কোনো একটি তাপগতীয় সিস্টেম একটি পূর্ণ চক্র (Cyclic process) শেষে তার আদি অবস্থায় ফিরে এলে তাপগতিবিদ্যার প্রথম সূত্র অনুযায়ী নিচের কোনটি সঠিক?",
+    "options": [
+      "$\\Delta Q = 0$",
+      "$\\Delta U = \\Delta Q$",
+      "$\\Delta Q = \\Delta W$",
+      "$\\Delta W = 0$"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-physics-2nd-paper-chapter-01-model-test-04-q13",
+    "subject": "physics-2nd-paper",
+    "chapter": "hsc-physics-2nd-paper-chapter-01-model-test-04",
+    "text": "ক্লসিয়াস-ক্লেপেরন (Clausius-Clapeyron) সমীকরণটি মূলত কোন ভৌত প্রক্রিয়া ব্যাখ্যা করতে ব্যবহৃত হয়?",
+    "options": [
+      "আদর্শ গ্যাসের রুদ্ধতাপীয় প্রসারণ",
+      "কার্নো ইঞ্জিনের কর্মদক্ষতা নির্ণয়",
+      "পদার্থের অবস্থার পরিবর্তনে চাপ ও তাপমাত্রার সম্পর্ক",
+      "গ্যাসের স্বাধীনতার মাত্রা নির্ধারণ"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-physics-2nd-paper-chapter-01-model-test-04-q14",
+    "subject": "physics-2nd-paper",
+    "chapter": "hsc-physics-2nd-paper-chapter-01-model-test-04",
+    "text": "প্রত্যাগামী প্রক্রিয়ার (Reversible process) শর্তাবলি হলো— i. প্রক্রিয়াটি অতি মন্থরভাবে সংঘটিত হতে হবে ii. ঘর্ষণ বা সান্দ্রতার মতো কোনো অপচয়ী বল থাকা যাবে না iii. এটি একটি স্বতঃস্ফূর্ত প্রাকৃতিক প্রক্রিয়া নিচের কোনটি সঠিক?",
+    "options": [
+      "i ও ii",
+      "i ও iii",
+      "ii ও iii",
+      "i, ii ও iii"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-physics-2nd-paper-chapter-01-model-test-04-q15",
+    "subject": "physics-2nd-paper",
+    "chapter": "hsc-physics-2nd-paper-chapter-01-model-test-04",
+    "text": "একটি রেফ্রিজারেটর শীতল প্রকোষ্ঠ থেকে প্রতি চক্রে $500 \\text{ J}$ তাপ অপসারণ করে এবং এর কম্প্রেসর দ্বারা সরবরাহকৃত কাজের পরিমাণ $100 \\text{ J}$। রেফ্রিজারেটরটি পরিবেশে কী পরিমাণ তাপ বর্জন করে?",
+    "options": [
+      "$400 \\text{ J}$",
+      "$500 \\text{ J}$",
+      "$600 \\text{ J}$",
+      "$5 \\text{ J}$"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-physics-2nd-paper-chapter-01-model-test-04-q16",
+    "subject": "physics-2nd-paper",
+    "chapter": "hsc-physics-2nd-paper-chapter-01-model-test-04",
+    "text": "$100^\\circ\\text{C}$ তাপমাত্রার জলীয় বাষ্প ঘনীভূত হয়ে একই তাপমাত্রার পানিতে পরিণত হলে এনট্রপির ক্ষেত্রে কী ঘটবে?",
+    "options": [
+      "এনট্রপি বৃদ্ধি পাবে",
+      "এনট্রপি হ্রাস পাবে",
+      "এনট্রপি স্থির থাকবে",
+      "এনট্রপি শূন্য হবে"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-physics-2nd-paper-chapter-01-model-test-04-q17",
+    "subject": "physics-2nd-paper",
+    "chapter": "hsc-physics-2nd-paper-chapter-01-model-test-04",
+    "text": "সমউষ্ণ প্রক্রিয়ার (Isothermal process) ক্ষেত্রে নিচের কোন সম্পর্কটি সঠিক নয়?",
+    "options": [
+      "$T = \\text{ধ্রুবক}$",
+      "$PV = \\text{ধ্রুবক}$",
+      "$\\Delta U = 0$",
+      "$\\Delta Q = 0$"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-physics-2nd-paper-chapter-01-model-test-04-q18",
+    "subject": "physics-2nd-paper",
+    "chapter": "hsc-physics-2nd-paper-chapter-01-model-test-04",
+    "text": "আদর্শ গ্যাসের ক্ষেত্রে মোলার আপেক্ষিক তাপদ্বয়ের অনুপাত $\\gamma = 1.67$ হলে, গ্যাসটি সাধারণত কোন প্রকৃতির হয়ে থাকে?",
+    "options": [
+      "এক-পরমাণুক (Monoatomic)",
+      "দ্বি-পরমাণুক (Diatomic)",
+      "বহু-পরমাণুক রৈখিক (Polyatomic linear)",
+      "বহু-পরমাণুক অ-রৈখিক (Polyatomic non-linear)"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-physics-2nd-paper-chapter-01-model-test-04-q19",
+    "subject": "physics-2nd-paper",
+    "chapter": "hsc-physics-2nd-paper-chapter-01-model-test-04",
+    "text": "\"বাইরের কোনো শক্তির সাহায্য ছাড়া কোনো স্বয়ংক্রিয় যন্ত্রের পক্ষে নিম্ন তাপমাত্রার বস্তু থেকে উচ্চ তাপমাত্রার বস্তুতে তাপ স্থানান্তর করা অসম্ভব।\" — এটি কোন বিজ্ঞানীর বিবৃতি?",
+    "options": [
+      "কেলভিন",
+      "ক্লসিয়াস",
+      "প্ল্যাঙ্ক",
+      "কার্নো"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-physics-2nd-paper-chapter-01-model-test-04-q20",
+    "subject": "physics-2nd-paper",
+    "chapter": "hsc-physics-2nd-paper-chapter-01-model-test-04",
+    "text": "নিচের অনুচ্ছেদটি পড়ে ২০ ও ২১ নম্বর প্রশ্নের উত্তর দাও: একটি গ্যাসীয় সিস্টেমে $10^5 \\text{ Pa}$ স্থির চাপে $600 \\text{ J}$ তাপশক্তি সরবরাহ করা হলো। এর ফলে গ্যাসটি প্রসারিত হয়ে এর আয়তন $2 \\times 10^{-3} \\text{ m}^3$ থেকে বেড়ে $5 \\times 10^{-3} \\text{ m}^3$ হলো। সিস্টেম কর্তৃক পরিবেশের ওপর সম্পাদিত কাজের পরিমাণ কত?",
+    "options": [
+      "$200 \\text{ J}$",
+      "$300 \\text{ J}$",
+      "$500 \\text{ J}$",
+      "$700 \\text{ J}$"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-physics-2nd-paper-chapter-01-model-test-04-q21",
+    "subject": "physics-2nd-paper",
+    "chapter": "hsc-physics-2nd-paper-chapter-01-model-test-04",
+    "text": "উক্ত প্রক্রিয়ায় সিস্টেমের অভ্যন্তরীণ শক্তির কী পরিবর্তন ঘটবে?",
+    "options": [
+      "$300 \\text{ J}$ বৃদ্ধি পাবে",
+      "$300 \\text{ J}$ হ্রাস পাবে",
+      "$900 \\text{ J}$ বৃদ্ধি পাবে",
+      "$600 \\text{ J}$ বৃদ্ধি পাবে"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-physics-2nd-paper-chapter-01-model-test-04-q22",
+    "subject": "physics-2nd-paper",
+    "chapter": "hsc-physics-2nd-paper-chapter-01-model-test-04",
+    "text": "নিচের অনুচ্ছেদটি পড়ে ২২ ও ২৩ নম্বর প্রশ্নের উত্তর দাও: একটি কার্নো ইঞ্জিন $400 \\text{ K}$ তাপমাত্রার তাপ-উৎস এবং $300 \\text{ K}$ তাপমাত্রার তাপ-গ্রাহকের মধ্যে কাজ করে। ইঞ্জিনটি তাপ-উৎস থেকে প্রতি চক্রে $1200 \\text{ J}$ তাপ গ্রহণ করে। ইঞ্জিনটির কর্মদক্ষতা (Efficiency) কত?",
+    "options": [
+      "$20\\%$",
+      "$25\\%$",
+      "$75\\%$",
+      "$100\\%$"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-physics-2nd-paper-chapter-01-model-test-04-q23",
+    "subject": "physics-2nd-paper",
+    "chapter": "hsc-physics-2nd-paper-chapter-01-model-test-04",
+    "text": "উক্ত ইঞ্জিনটি প্রতি চক্রে তাপ-গ্রাহকে কী পরিমাণ তাপ বর্জন করে?",
+    "options": [
+      "$300 \\text{ J}$",
+      "$400 \\text{ J}$",
+      "$800 \\text{ J}$",
+      "$900 \\text{ J}$"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-physics-2nd-paper-chapter-01-model-test-04-q24",
+    "subject": "physics-2nd-paper",
+    "chapter": "hsc-physics-2nd-paper-chapter-01-model-test-04",
+    "text": "তাপগতিবিদ্যার প্রথম সূত্রকে রুদ্ধতাপীয় প্রক্রিয়ার ক্ষেত্রে কীভাবে লেখা যায়?",
+    "options": [
+      "$dU = dQ$",
+      "$dU = -dW$",
+      "$dQ = dW$",
+      "$dW = 0$"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-physics-2nd-paper-chapter-01-model-test-04-q25",
+    "subject": "physics-2nd-paper",
+    "chapter": "hsc-physics-2nd-paper-chapter-01-model-test-04",
+    "text": "$0^\\circ\\text{C}$ তাপমাত্রার $2 \\text{ kg}$ বরফকে সম্পূর্ণ গলিয়ে $0^\\circ\\text{C}$ তাপমাত্রার পানিতে পরিণত করতে এনট্রপির পরিবর্তন কত? [বরফ গলনের আপেক্ষিক সুপ্ততাপ, $L_f = 3.36 \\times 10^5 \\text{ J kg}^{-1}$]",
+    "options": [
+      "$1230.77 \\text{ J K}^{-1}$",
+      "$2461.54 \\text{ J K}^{-1}$",
+      "$67200 \\text{ J K}^{-1}$",
+      "$0 \\text{ J K}^{-1}$"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  }
+]

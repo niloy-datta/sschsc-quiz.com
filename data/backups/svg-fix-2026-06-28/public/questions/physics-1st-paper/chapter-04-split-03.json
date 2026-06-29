@@ -1,0 +1,377 @@
+[
+  {
+    "id": "chapter-04-split-03-q01",
+    "subject": "physics-1st-paper",
+    "chapter": "chapter-04-split-03",
+    "text": "একটি গোলক সান্দ্র মাধ্যমে পড়লে তার প্রান্তিক বেগ গোলক ও মাধ্যমের ঘনত্বের পার্থক্যের ($\\\\rho - \\\\sigma$) সাথে কীভাবে সম্পর্কিত?",
+    "options": [
+      "সমানুপাতিক",
+      "ব্যস্তানুপাতিক",
+      "বর্গের সমানুপাতিক",
+      "বর্গের ব্যস্তানুপাতিক"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "chapter-04-split-03-q02",
+    "subject": "physics-1st-paper",
+    "chapter": "chapter-04-split-03",
+    "text": "গোলকের ঘনত্ব মাধ্যমের ঘনত্বের চেয়ে কম হলে (যেমন পানিতে বুদবুদ) প্রান্তিক বেগের দিক কোন দিকে হবে?",
+    "options": [
+      "খাড়া নিচের দিকে",
+      "খাড়া উপরের দিকে",
+      "অনুভূমিক দিকে",
+      "স্থির থাকবে"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "chapter-04-split-03-q03",
+    "subject": "physics-1st-paper",
+    "chapter": "chapter-04-split-03",
+    "text": "প্যারাসুট ব্যবহার করে নিরাপদে নিচে নামার বৈজ্ঞানিক ভিত্তি কী?",
+    "options": [
+      "পৃষ্ঠটান",
+      "প্লবতা",
+      "প্রান্তিক বেগ বা বাতাসের সান্দ্র বাধা",
+      "কৈশিকতা"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "chapter-04-split-03-q04",
+    "subject": "physics-1st-paper",
+    "chapter": "chapter-04-split-03",
+    "text": "ধারা-রেখা প্রবাহ (Streamline Flow) বা শান্ত প্রবাহের ক্ষেত্রে রেনল্ডস নম্বর ($R_e$) কত হওয়া উচিত?",
+    "options": [
+      "২০০০ এর কম",
+      "২০০০ থেকে ৩০০০ এর মধ্যে",
+      "৩০০০ এর বেশি",
+      "৫০০০ এর বেশি"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "chapter-04-split-03-q05",
+    "subject": "physics-1st-paper",
+    "chapter": "chapter-04-split-03",
+    "text": "রেনল্ডস নম্বর ৩০০০ এর বেশি হলে প্রবাহ কীরূপ হয়?",
+    "options": [
+      "শান্ত",
+      "বিক্ষিপ্ত বা টারবুলেন্ট (Turbulent flow)",
+      "স্থির",
+      "স্তরীয়"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "chapter-04-split-03-q06",
+    "subject": "physics-1st-paper",
+    "chapter": "chapter-04-split-03",
+    "text": "একটি পাইপের ব্যাস অর্ধেক হয়ে গেলে সেখানে তরলের বেগ কতগুণ হবে?",
+    "options": [
+      "অর্ধেক",
+      "দ্বিগুণ",
+      "চারগুণ",
+      "অপরিবর্তিত"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "chapter-04-split-03-q07",
+    "subject": "physics-1st-paper",
+    "chapter": "chapter-04-split-03",
+    "text": "বার্নুলির উপপাদ্য (Bernoulli's Theorem) প্রবাহীর কোন সংরক্ষণ নীতির উপর প্রতিষ্ঠিত?",
+    "options": [
+      "ভর",
+      "ভরবেগ",
+      "শক্তি (Energy)",
+      "চার্জ"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "chapter-04-split-03-q08",
+    "subject": "physics-1st-paper",
+    "chapter": "chapter-04-split-03",
+    "text": "বার্নুলির সমীকরণ অনুযায়ী, অনুভূমিক পাইপে তরলের বেগ বৃদ্ধি পেলে চাপের কী পরিবর্তন ঘটে?",
+    "options": [
+      "চাপ বাড়ে",
+      "চাপ কমে",
+      "চাপ ধ্রুব থাকে",
+      "চাপ শূন্য হয়"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "chapter-04-split-03-q09",
+    "subject": "physics-1st-paper",
+    "chapter": "chapter-04-split-03",
+    "text": "ঝড় বা টর্নেডোর সময় ঘরের টিনের চাল উড়ে যাওয়ার কারণ কোন নীতি দিয়ে ব্যাখ্যা করা যায়?",
+    "options": [
+      "আর্কিমিডিসের নীতি",
+      "স্টোকসের সূত্র",
+      "বার্নুলির নীতি",
+      "হুকের সূত্র"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "chapter-04-split-03-q10",
+    "subject": "physics-1st-paper",
+    "chapter": "chapter-04-split-03",
+    "text": "উড়োজাহাজের ডানা বা অ্যারোফয়েল (Aerofoil) ডিজাইনে কোন নীতি ব্যবহৃত হয়?",
+    "options": [
+      "পাস্কেলের সূত্র",
+      "নিউটনের মহাকর্ষ সূত্র",
+      "বার্নুলির নীতি",
+      "স্টোকসের সূত্র"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "chapter-04-split-03-q11",
+    "subject": "physics-1st-paper",
+    "chapter": "chapter-04-split-03",
+    "text": "স্পিন বোলাররা ক্রিকেটে বলকে কীভাবে বাঁকান (Swing)? এটি ফিজিক্সের কোন প্রভাব?",
+    "options": [
+      "ডপলার ক্রিয়া",
+      "ম্যাগনাস ক্রিয়া (Magnus Effect)",
+      "রমন ক্রিয়া",
+      "জিম্যান ক্রিয়া"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "chapter-04-split-03-q12",
+    "subject": "physics-1st-paper",
+    "chapter": "chapter-04-split-03",
+    "text": "ভেঞ্চুরিমিটার (Venturimeter) যন্ত্রটি কী পরিমাপ করতে ব্যবহৃত হয়?",
+    "options": [
+      "তরলের চাপ",
+      "তরলের প্রবাহের হার বা বেগ",
+      "তরলের ঘনত্ব",
+      "তরলের সান্দ্রতা"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "chapter-04-split-03-q13",
+    "subject": "physics-1st-paper",
+    "chapter": "chapter-04-split-03",
+    "text": "পিটট নল (Pitot Tube) কী কাজে ব্যবহৃত হয়?",
+    "options": [
+      "বিমানের বেগ নির্ণয়ে",
+      "তরলের পৃষ্ঠটান নির্ণয়ে",
+      "তাপমাত্রা নির্ণয়ে",
+      "গ্যাসের আয়তন নির্ণয়ে"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "chapter-04-split-03-q14",
+    "subject": "physics-1st-paper",
+    "chapter": "chapter-04-split-03",
+    "text": "ইস্পাত ও রাবারের মধ্যে কোনটি বেশি স্থিতিস্থাপক এবং কেন?",
+    "options": [
+      "রাবার, কারণ এটি বেশি প্রসারিত হয়",
+      "ইস্পাত, কারণ একই বিকৃতি ঘটাতে ইস্পাতে বেশি বল বা পীড়ন লাগে",
+      "রাবার, কারণ এর ইয়ং গুণাঙ্ক বেশি",
+      "ইস্পাত, কারণ এটি ভাঙে না"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "chapter-04-split-03-q15",
+    "subject": "physics-1st-paper",
+    "chapter": "chapter-04-split-03",
+    "text": "পৃষ্ঠটান তরলের কোন ধর্মের কারণে কাজ করে?",
+    "options": [
+      "এটি তরলের মুক্ত তলের ক্ষেত্রফল বাড়াতে চায়",
+      "এটি তরলের মুক্ত তলের ক্ষেত্রফল সর্বনিম্ন করতে চায়",
+      "এটি তরলকে গ্যাসে রূপান্তর করে",
+      "এটি সান্দ্রতা বৃদ্ধি করে"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "chapter-04-split-03-q16",
+    "subject": "physics-1st-paper",
+    "chapter": "chapter-04-split-03",
+    "text": "কোনো তরলের কৈশিক উত্থান (Capillary Rise) এর ক্ষেত্রে মেনিসকাস (Meniscus) বা তরলপৃষ্ঠের আকৃতি কেমন হয়? (যেমন- পানি)",
+    "options": [
+      "উত্তল (Convex)",
+      "অবতল (Concave)",
+      "সমতল",
+      "তরঙ্গাকার"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "chapter-04-split-03-q17",
+    "subject": "physics-1st-paper",
+    "chapter": "chapter-04-split-03",
+    "text": "পারদের ক্ষেত্রে কৈশিক নলে মেনিসকাসের আকৃতি কেমন হয়?",
+    "options": [
+      "উত্তল (Convex)",
+      "অবতল (Concave)",
+      "সমতল",
+      "তরঙ্গাকার"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "chapter-04-split-03-q18",
+    "subject": "physics-1st-paper",
+    "chapter": "chapter-04-split-03",
+    "text": "৮টি একই ব্যাসার্ধের পানির ফোঁটা মিলে একটি বড় ফোঁটা তৈরি করলে পৃষ্ঠশক্তি কীরূপ পরিবর্তিত হবে?",
+    "options": [
+      "অর্ধেক হবে",
+      "দ্বিগুণ হবে",
+      "চারগুণ হবে",
+      "অপরিবর্তিত থাকবে"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "chapter-04-split-03-q19",
+    "subject": "physics-1st-paper",
+    "chapter": "chapter-04-split-03",
+    "text": "একই উপাদানের দুটি তারের দৈর্ঘ্যের অনুপাত $1:2$ এবং ব্যাসের অনুপাত $2:1$। তাদের টেনে একই পরিমাণ প্রসারিত করতে প্রযুক্ত বলের অনুপাত কত হবে?",
+    "options": [
+      "$1:8$",
+      "$8:1$",
+      "$4:1$",
+      "$1:4$"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "chapter-04-split-03-q20",
+    "subject": "physics-1st-paper",
+    "chapter": "chapter-04-split-03",
+    "text": "স্প্রে মেশিন (Atomizer) বা কার্বুরেটর কোন নীতির উপর কাজ করে?",
+    "options": [
+      "আর্কিমিডিসের সূত্র",
+      "বার্নুলির উপপাদ্য",
+      "স্টোকসের সূত্র",
+      "প্যাসকেলের সূত্র"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "chapter-04-split-03-q21",
+    "subject": "physics-1st-paper",
+    "chapter": "chapter-04-split-03",
+    "text": "রক্তচাপ মাপার যন্ত্রের (Sphygmomanometer) কাজ প্রবাহীর কোন নীতির সাথে সম্পর্কিত?",
+    "options": [
+      "রেনল্ডস নম্বর (বিক্ষিপ্ত প্রবাহের শব্দ শুনে)",
+      "পৃষ্ঠটান",
+      "কৈশিকতা",
+      "সান্দ্রতা শূন্য হওয়া"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "chapter-04-split-03-q22",
+    "subject": "physics-1st-paper",
+    "chapter": "chapter-04-split-03",
+    "text": "তরলের পৃষ্ঠটান পরিমাপে ল্যাবরেটরিতে কোন পদ্ধতি বেশি ব্যবহৃত হয়?",
+    "options": [
+      "কৈশিক নল পদ্ধতি",
+      "স্টোকস পদ্ধতি",
+      "পিটট নল পদ্ধতি",
+      "ভেঞ্চুরিমিটার"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "chapter-04-split-03-q23",
+    "subject": "physics-1st-paper",
+    "chapter": "chapter-04-split-03",
+    "text": "প্লবতা (Buoyancy) কোন বিন্দু দিয়ে কাজ করে?",
+    "options": [
+      "বস্তুর ভারকেন্দ্র",
+      "অপসারিত তরলের ভারকেন্দ্র (Center of Buoyancy)",
+      "বস্তুর পৃষ্ঠ",
+      "পাত্রের তলদেশ"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "chapter-04-split-03-q24",
+    "subject": "physics-1st-paper",
+    "chapter": "chapter-04-split-03",
+    "text": "একটি নিরেট গোলক ও একটি ফাঁপা গোলকের ব্যাসার্ধ ও ভর সমান। পানিতে ফেললে—",
+    "options": [
+      "উভয়েই একই প্লবতা অনুভব করবে",
+      "নিরেট গোলক বেশি প্লবতা অনুভব করবে",
+      "ফাঁপা গোলক বেশি প্লবতা অনুভব করবে",
+      "প্লবতা শূন্য হবে"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "chapter-04-split-03-q25",
+    "subject": "physics-1st-paper",
+    "chapter": "chapter-04-split-03",
+    "text": "স্টোকসের সূত্র অনুযায়ী, প্রান্তিক বেগে পৌঁছার পর সান্দ্র বল, প্লবতা এবং ওজনের মধ্যে সম্পর্ক কী?",
+    "options": [
+      "ওজন = সান্দ্র বল + প্লবতা",
+      "প্লবতা = ওজন + সান্দ্র বল",
+      "সান্দ্র বল = ওজন + প্লবতা",
+      "ওজন = সান্দ্র বল"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  }
+]

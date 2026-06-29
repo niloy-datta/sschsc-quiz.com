@@ -21,7 +21,7 @@ const CORRUPT_REPLACEMENTS: Array<[RegExp, string]> = [
 ];
 
 function isMathChar(ch: string): boolean {
-  return /[A-Za-z0-9=.,+\-*/^()_\s\\{}[\]|;]/.test(ch);
+  return /[A-Za-z0-9=.,+\-*/^()_ \t\\{}[\]|;]/.test(ch);
 }
 
 function skipBraced(text: string, start: number): number | null {
@@ -158,9 +158,9 @@ export function normalizeBrokenLatex(text: string): string {
   // Broken fraction (\frac corrupted to \f or rac)
   out = out.replace(/\\f\{/g, "\\frac{");
   out = out.replace(/\\?rac\{/g, "\\frac{");
-  // Double text wrapper
+  // Double text wrapper or extra closing brace
   out = out.replace(/\\text\{\\text\{/g, "\\text{");
-  out = out.replace(/\\text\{kg\}\}/g, "\\text{kg}");
+  out = out.replace(/\\text\{([a-zA-Z0-9\s\^\{\}-]+)\}\}/g, "\\text{$1}");
   // OCR/export breaks \text{unit} into \t unit inside math
   out = out.replace(
     /\\t\s+(cm|m|s|Hz|ms\^\{-1\}|ms\^{-1\})/g,
@@ -420,13 +420,13 @@ export function normalizeStatementList(text: string): string {
 /** Remove worked solutions accidentally pasted into MCQ stems. */
 function stripLeakedWorkedSolution(text: string): string {
   let out = text;
-  out = out.replace(/^([\s\S]+?[?।])\s+শেষবেগ[\s\S]+$/i, "$1");
+  out = out.replace(/^([\s\S]*?[?।])\s+শেষবেগ[\s\S]+$/i, "$1");
   out = out.replace(
-    /^([\s\S]+?কত হার্জ\?)\s+(?:A\s*থেকে|তাহলে|২টি|2\s*টি)[\s\S]+$/i,
+    /^([\s\S]*?কত হার্জ\?)\s+(?:A\s*থেকে|তাহলে|২টি|2\s*টি)[\s\S]+$/i,
     "$1",
   );
   out = out.replace(
-    /^([\s\S]+?নিচের\s+কোনটি\s+সঠিক\?)\s+(?:ii\.|iii\.|i\.|তাই|অতএব)[\s\S]+$/i,
+    /^([\s\S]*?নিচের\s+কোনটি\s+সঠিক\?)\s+(?:তাই|অতএব)[\s\S]+$/i,
     "$1",
   );
   return out;

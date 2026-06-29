@@ -15,8 +15,8 @@
     <line x1="185" y1="125" x2="230" y2="125"/>
     <line x1="210" y1="180" x2="295" y2="180" marker-end="url(#arrow)"/>
   </g>
-  <text x="265" y="130" text-anchor="middle" font-size="15" fill="#0f172a">m</text>
-  <text x="145" y="95" text-anchor="middle" font-size="13" fill="#2563eb">k</text>
-  <text x="253" y="202" text-anchor="middle" font-size="12" fill="#475569">SHM: ω = √(k/m)</text>
+  <text x="265" y="130" text-anchor="middle" font-size="15" fill="#0f172a" font-family="Noto Sans Bengali, Arial, sans-serif">m</text>
+  <text x="145" y="95" text-anchor="middle" font-size="13" fill="#2563eb" font-family="Noto Sans Bengali, Arial, sans-serif">k</text>
+  <text x="253" y="202" text-anchor="middle" font-size="12" fill="#475569" font-family="Noto Sans Bengali, Arial, sans-serif">SHM: ω = √(k/m)</text>
 
 </svg>

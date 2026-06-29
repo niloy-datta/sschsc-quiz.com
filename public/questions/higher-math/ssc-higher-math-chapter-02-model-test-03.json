@@ -11,7 +11,6 @@
       "24"
     ],
     "image": null,
-    "optionImages": null,
     "timeLimit": 45
   },
   {
@@ -26,11 +25,24 @@
       "1"
     ],
     "image": null,
-    "optionImages": null,
     "timeLimit": 45
   },
   {
     "id": "ssc-higher-math-chapter-02-model-test-03-q03",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-02-model-test-03",
+    "text": "2³+6³=?",
+    "options": [
+      "512",
+      "8",
+      "216",
+      "224"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-higher-math-chapter-02-model-test-03-q04",
     "subject": "higher-math",
     "chapter": "ssc-higher-math-chapter-02-model-test-03",
     "text": "(2+11)² = ?",
@@ -41,11 +53,10 @@
       "169"
     ],
     "image": null,
-    "optionImages": null,
     "timeLimit": 45
   },
   {
-    "id": "ssc-higher-math-chapter-02-model-test-03-q04",
+    "id": "ssc-higher-math-chapter-02-model-test-03-q05",
     "subject": "higher-math",
     "chapter": "ssc-higher-math-chapter-02-model-test-03",
     "text": "(11+9)(11-9)=?",
@@ -56,11 +67,24 @@
       "99"
     ],
     "image": null,
-    "optionImages": null,
     "timeLimit": 45
   },
   {
-    "id": "ssc-higher-math-chapter-02-model-test-03-q05",
+    "id": "ssc-higher-math-chapter-02-model-test-03-q06",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-02-model-test-03",
+    "text": "5³+3³=?",
+    "options": [
+      "27",
+      "152",
+      "512",
+      "125"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-higher-math-chapter-02-model-test-03-q07",
     "subject": "higher-math",
     "chapter": "ssc-higher-math-chapter-02-model-test-03",
     "text": "(7+6)² = ?",
@@ -71,11 +95,10 @@
       "26"
     ],
     "image": null,
-    "optionImages": null,
     "timeLimit": 45
   },
   {
-    "id": "ssc-higher-math-chapter-02-model-test-03-q06",
+    "id": "ssc-higher-math-chapter-02-model-test-03-q08",
     "subject": "higher-math",
     "chapter": "ssc-higher-math-chapter-02-model-test-03",
     "text": "(6+4)(6-4)=?",
@@ -86,11 +109,24 @@
       "4"
     ],
     "image": null,
-    "optionImages": null,
     "timeLimit": 45
   },
   {
-    "id": "ssc-higher-math-chapter-02-model-test-03-q07",
+    "id": "ssc-higher-math-chapter-02-model-test-03-q09",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-02-model-test-03",
+    "text": "3³+6³=?",
+    "options": [
+      "216",
+      "729",
+      "27",
+      "243"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-higher-math-chapter-02-model-test-03-q10",
     "subject": "higher-math",
     "chapter": "ssc-higher-math-chapter-02-model-test-03",
     "text": "(8+6)² = ?",
@@ -101,11 +137,10 @@
       "28"
     ],
     "image": null,
-    "optionImages": null,
     "timeLimit": 45
   },
   {
-    "id": "ssc-higher-math-chapter-02-model-test-03-q08",
+    "id": "ssc-higher-math-chapter-02-model-test-03-q11",
     "subject": "higher-math",
     "chapter": "ssc-higher-math-chapter-02-model-test-03",
     "text": "(11+10)(11-10)=?",
@@ -116,11 +151,24 @@
       "110"
     ],
     "image": null,
-    "optionImages": null,
     "timeLimit": 45
   },
   {
-    "id": "ssc-higher-math-chapter-02-model-test-03-q09",
+    "id": "ssc-higher-math-chapter-02-model-test-03-q12",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-02-model-test-03",
+    "text": "5³+4³=?",
+    "options": [
+      "189",
+      "729",
+      "64",
+      "125"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-higher-math-chapter-02-model-test-03-q13",
     "subject": "higher-math",
     "chapter": "ssc-higher-math-chapter-02-model-test-03",
     "text": "(8+6)(8-6)=?",
@@ -131,11 +179,10 @@
       "14"
     ],
     "image": null,
-    "optionImages": null,
     "timeLimit": 45
   },
   {
-    "id": "ssc-higher-math-chapter-02-model-test-03-q10",
+    "id": "ssc-higher-math-chapter-02-model-test-03-q14",
     "subject": "higher-math",
     "chapter": "ssc-higher-math-chapter-02-model-test-03",
     "text": "বীজগণিত: 3³+2³=?",
@@ -146,11 +193,10 @@
       "125"
     ],
     "image": null,
-    "optionImages": null,
     "timeLimit": 45
   },
   {
-    "id": "ssc-higher-math-chapter-02-model-test-03-q11",
+    "id": "ssc-higher-math-chapter-02-model-test-03-q15",
     "subject": "higher-math",
     "chapter": "ssc-higher-math-chapter-02-model-test-03",
     "text": "(4+2)(4-2)=?",
@@ -161,11 +207,10 @@
       "12"
     ],
     "image": null,
-    "optionImages": null,
     "timeLimit": 45
   },
   {
-    "id": "ssc-higher-math-chapter-02-model-test-03-q12",
+    "id": "ssc-higher-math-chapter-02-model-test-03-q16",
     "subject": "higher-math",
     "chapter": "ssc-higher-math-chapter-02-model-test-03",
     "text": "(3+12)² = ?",
@@ -176,11 +221,10 @@
       "225"
     ],
     "image": null,
-    "optionImages": null,
     "timeLimit": 45
   },
   {
-    "id": "ssc-higher-math-chapter-02-model-test-03-q13",
+    "id": "ssc-higher-math-chapter-02-model-test-03-q17",
     "subject": "higher-math",
     "chapter": "ssc-higher-math-chapter-02-model-test-03",
     "text": "বীজগণিত: 2³+5³=?",
@@ -191,11 +235,10 @@
       "133"
     ],
     "image": null,
-    "optionImages": null,
     "timeLimit": 45
   },
   {
-    "id": "ssc-higher-math-chapter-02-model-test-03-q14",
+    "id": "ssc-higher-math-chapter-02-model-test-03-q18",
     "subject": "higher-math",
     "chapter": "ssc-higher-math-chapter-02-model-test-03",
     "text": "(12+10)(12-10)=?",
@@ -206,11 +249,10 @@
       "120"
     ],
     "image": null,
-    "optionImages": null,
     "timeLimit": 45
   },
   {
-    "id": "ssc-higher-math-chapter-02-model-test-03-q15",
+    "id": "ssc-higher-math-chapter-02-model-test-03-q19",
     "subject": "higher-math",
     "chapter": "ssc-higher-math-chapter-02-model-test-03",
     "text": "(10+9)² = ?",
@@ -221,11 +263,10 @@
       "90"
     ],
     "image": null,
-    "optionImages": null,
     "timeLimit": 45
   },
   {
-    "id": "ssc-higher-math-chapter-02-model-test-03-q16",
+    "id": "ssc-higher-math-chapter-02-model-test-03-q20",
     "subject": "higher-math",
     "chapter": "ssc-higher-math-chapter-02-model-test-03",
     "text": "বীজগণিত: 5³+3³=?",
@@ -236,11 +277,10 @@
       "125"
     ],
     "image": null,
-    "optionImages": null,
     "timeLimit": 45
   },
   {
-    "id": "ssc-higher-math-chapter-02-model-test-03-q17",
+    "id": "ssc-higher-math-chapter-02-model-test-03-q21",
     "subject": "higher-math",
     "chapter": "ssc-higher-math-chapter-02-model-test-03",
     "text": "বীজগণিত: 4³+2³=?",
@@ -251,11 +291,10 @@
       "64"
     ],
     "image": null,
-    "optionImages": null,
     "timeLimit": 45
   },
   {
-    "id": "ssc-higher-math-chapter-02-model-test-03-q18",
+    "id": "ssc-higher-math-chapter-02-model-test-03-q22",
     "subject": "higher-math",
     "chapter": "ssc-higher-math-chapter-02-model-test-03",
     "text": "(5+3)² = ?",
@@ -266,11 +305,10 @@
       "34"
     ],
     "image": null,
-    "optionImages": null,
     "timeLimit": 45
   },
   {
-    "id": "ssc-higher-math-chapter-02-model-test-03-q19",
+    "id": "ssc-higher-math-chapter-02-model-test-03-q23",
     "subject": "higher-math",
     "chapter": "ssc-higher-math-chapter-02-model-test-03",
     "text": "বীজগণিত: 2³+6³=?",
@@ -281,11 +319,10 @@
       "224"
     ],
     "image": null,
-    "optionImages": null,
     "timeLimit": 45
   },
   {
-    "id": "ssc-higher-math-chapter-02-model-test-03-q20",
+    "id": "ssc-higher-math-chapter-02-model-test-03-q24",
     "subject": "higher-math",
     "chapter": "ssc-higher-math-chapter-02-model-test-03",
     "text": "(2+12)(2-12)=?",
@@ -296,11 +333,10 @@
       "-140"
     ],
     "image": null,
-    "optionImages": null,
     "timeLimit": 45
   },
   {
-    "id": "ssc-higher-math-chapter-02-model-test-03-q21",
+    "id": "ssc-higher-math-chapter-02-model-test-03-q25",
     "subject": "higher-math",
     "chapter": "ssc-higher-math-chapter-02-model-test-03",
     "text": "(12+10)² = ?",
@@ -311,7 +347,6 @@
       "120"
     ],
     "image": null,
-    "optionImages": null,
     "timeLimit": 45
   }
 ]

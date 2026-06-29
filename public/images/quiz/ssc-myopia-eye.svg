@@ -16,8 +16,8 @@
   <path d="M100 105 C155 120,185 128,215 140" stroke="#2563eb" stroke-width="2" fill="none"/>
   <path d="M100 175 C155 160,185 152,215 140" stroke="#2563eb" stroke-width="2" fill="none"/>
   <line x1="318" y1="92" x2="318" y2="188" stroke="#dc2626" stroke-width="3"/>
-  <text x="318" y="82" text-anchor="middle" font-size="12" fill="#dc2626">Retina</text>
+  <text x="318" y="82" text-anchor="middle" font-size="12" fill="#dc2626" font-family="Noto Sans Bengali, Arial, sans-serif">Retina</text>
   <circle cx="215" cy="140" r="5" fill="#ea580c"/>
-  <text x="215" y="165" text-anchor="middle" font-size="12" fill="#ea580c">Focus before retina</text>
+  <text x="215" y="165" text-anchor="middle" font-size="12" fill="#ea580c" font-family="Noto Sans Bengali, Arial, sans-serif">Focus before retina</text>
 
 </svg>

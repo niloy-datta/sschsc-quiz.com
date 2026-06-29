@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 360 220" width="100%" height="100%">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 360 220" width="100%" height="100%" role="img" aria-label="hsc higher math 1st paper chapter 04 set 01 q13">
   <rect width="360" height="220" rx="18" fill="#020617"/>
   <path d="M80 155 A100 100 0 0 1 280 155" fill="#111827" stroke="#38bdf8" stroke-width="4"/>
   <line x1="80" y1="155" x2="280" y2="155" stroke="#facc15" stroke-width="5"/>
@@ -6,7 +6,7 @@
   <circle cx="280" cy="155" r="6" fill="#fff"/>
   <circle cx="180" cy="70" r="6" fill="#fff"/>
   <path d="M80 155 L180 70 L280 155" stroke="#22c55e" stroke-width="4" fill="none"/>
-  <text x="70" y="175" fill="#fff" font-size="15" font-weight="900">A</text>
-  <text x="286" y="175" fill="#fff" font-size="15" font-weight="900">B</text>
-  <text x="180" y="60" text-anchor="middle" fill="#fff" font-size="15" font-weight="900">C</text>
+  <text x="70" y="175" fill="#fff" font-size="15" font-weight="900" font-family="Noto Sans Bengali, Arial, sans-serif">A</text>
+  <text x="286" y="175" fill="#fff" font-size="15" font-weight="900" font-family="Noto Sans Bengali, Arial, sans-serif">B</text>
+  <text x="180" y="60" text-anchor="middle" fill="#fff" font-size="15" font-weight="900" font-family="Noto Sans Bengali, Arial, sans-serif">C</text>
 </svg>

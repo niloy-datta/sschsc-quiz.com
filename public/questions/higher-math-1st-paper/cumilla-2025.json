@@ -3,12 +3,12 @@
     "id": "higher-math-1st-paper-hsc-science-higher-math-1st-paper-board-questions-year-wise-2025-cumilla-ts-0",
     "subject": "higher-math-1st-paper",
     "chapter": "Cumilla Board 2025",
-    "text": "$7C_2$ এর মান কত?",
+    "text": "ম্যাট্রিক্সের ডিটারমিন্যান্ট শূন্য হলে তাকে কী ম্যাট্রিক্স বলে?",
     "options": [
-      "42",
-      "22",
-      "21",
-      "49"
+      "অভেদক ম্যাট্রিক্স",
+      "অ-ব্যতিক্রমী ম্যাট্রিক্স",
+      "প্রতিসম ম্যাট্রিক্স",
+      "ব্যতিক্রমী ম্যাট্রিক্স"
     ],
     "image": null,
     "optionImages": null,
@@ -18,12 +18,12 @@
     "id": "higher-math-1st-paper-hsc-science-higher-math-1st-paper-board-questions-year-wise-2025-cumilla-ts-1",
     "subject": "higher-math-1st-paper",
     "chapter": "Cumilla Board 2025",
-    "text": "$7C_2$ এর মান কত? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 04-12 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+    "text": "A এবং B দুটি ম্যাট্রিক্স। AB গুণন সংজ্ঞায়িত হলে A এর কলাম সংখ্যা B এর কীসের সমান হবে?",
     "options": [
-      "22",
-      "42",
-      "49",
-      "21"
+      "মান",
+      "সারি সংখ্যা",
+      "কলাম সংখ্যা",
+      "কোনোটিই নয়"
     ],
     "image": null,
     "optionImages": null,
@@ -33,12 +33,12 @@
     "id": "higher-math-1st-paper-hsc-science-higher-math-1st-paper-board-questions-year-wise-2025-cumilla-ts-2",
     "subject": "higher-math-1st-paper",
     "chapter": "Cumilla Board 2025",
-    "text": "$7C_2$ এর মান কত? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 04-22 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+    "text": "(2, 3) এবং (4, 5) বিন্দুগামী সরলরেখার ঢাল কত?",
     "options": [
-      "21",
-      "42",
-      "49",
-      "22"
+      "-১",
+      "১",
+      "২",
+      "০"
     ],
     "image": null,
     "optionImages": null,
@@ -48,12 +48,12 @@
     "id": "higher-math-1st-paper-hsc-science-higher-math-1st-paper-board-questions-year-wise-2025-cumilla-ts-3",
     "subject": "higher-math-1st-paper",
     "chapter": "Cumilla Board 2025",
-    "text": "$7P_2$ এর মান কত?",
+    "text": "মূলবিন্দু থেকে 3x - 4y + 5 = 0 রেখার লম্ব দূরত্ব কত?",
     "options": [
-      "21",
-      "9",
-      "42",
-      "49"
+      "২",
+      "০",
+      "৫",
+      "১"
     ],
     "image": null,
     "optionImages": null,
@@ -63,12 +63,12 @@
     "id": "higher-math-1st-paper-hsc-science-higher-math-1st-paper-board-questions-year-wise-2025-cumilla-ts-4",
     "subject": "higher-math-1st-paper",
     "chapter": "Cumilla Board 2025",
-    "text": "$7P_2$ এর মান কত? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 05-11 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+    "text": "sin(A+B) এর সমতুল্য সূত্র কোনটি?",
     "options": [
-      "49",
-      "42",
-      "21",
-      "9"
+      "কোনোটিই নয়",
+      "cos A cos B - sin A sin B",
+      "sin A cos B - cos A sin B",
+      "sin A cos B + cos A sin B"
     ],
     "image": null,
     "optionImages": null,
@@ -78,12 +78,12 @@
     "id": "higher-math-1st-paper-hsc-science-higher-math-1st-paper-board-questions-year-wise-2025-cumilla-ts-5",
     "subject": "higher-math-1st-paper",
     "chapter": "Cumilla Board 2025",
-    "text": "$7P_2$ এর মান কত? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 05-21 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+    "text": "lim_{x->0} (sin x / x) এর মান কত?",
     "options": [
-      "9",
-      "49",
-      "21",
-      "42"
+      "১",
+      "বিদ্যমান নেই",
+      "০",
+      "অসীম"
     ],
     "image": null,
     "optionImages": null,
@@ -93,282 +93,12 @@
     "id": "higher-math-1st-paper-hsc-science-higher-math-1st-paper-board-questions-year-wise-2025-cumilla-ts-6",
     "subject": "higher-math-1st-paper",
     "chapter": "Cumilla Board 2025",
-    "text": "$7x+2y+9=0$ রেখার ঢাল কত?",
+    "text": "d/dx (ln x) এর মান কত?",
     "options": [
-      "7",
-      "$\\frac{-7}{2}$",
-      "2",
-      "$\\frac{7}{2}$"
-    ],
-    "image": null,
-    "optionImages": null,
-    "timeLimit": 45
-  },
-  {
-    "id": "higher-math-1st-paper-hsc-science-higher-math-1st-paper-board-questions-year-wise-2025-cumilla-ts-7",
-    "subject": "higher-math-1st-paper",
-    "chapter": "Cumilla Board 2025",
-    "text": "$7x+5y+7=0$ রেখার ঢাল কত?",
-    "options": [
-      "$\\frac{-7}{5}$",
-      "5",
-      "7",
-      "$\\frac{7}{5}$"
-    ],
-    "image": null,
-    "optionImages": null,
-    "timeLimit": 45
-  },
-  {
-    "id": "higher-math-1st-paper-hsc-science-higher-math-1st-paper-board-questions-year-wise-2025-cumilla-ts-8",
-    "subject": "higher-math-1st-paper",
-    "chapter": "Cumilla Board 2025",
-    "text": "$8C_0$ এর মান কত?",
-    "options": [
-      "1",
-      "0",
-      "8!",
-      "8"
-    ],
-    "image": null,
-    "optionImages": null,
-    "timeLimit": 45
-  },
-  {
-    "id": "higher-math-1st-paper-hsc-science-higher-math-1st-paper-board-questions-year-wise-2025-cumilla-ts-9",
-    "subject": "higher-math-1st-paper",
-    "chapter": "Cumilla Board 2025",
-    "text": "$8C_0$ এর মান কত? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 04-13 হিসেবে সঠিক উত্তর নির্ণয় করো।",
-    "options": [
-      "8!",
-      "0",
-      "8",
-      "1"
-    ],
-    "image": null,
-    "optionImages": null,
-    "timeLimit": 45
-  },
-  {
-    "id": "higher-math-1st-paper-hsc-science-higher-math-1st-paper-board-questions-year-wise-2025-cumilla-ts-10",
-    "subject": "higher-math-1st-paper",
-    "chapter": "Cumilla Board 2025",
-    "text": "$8C_0$ এর মান কত? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 04-23 হিসেবে সঠিক উত্তর নির্ণয় করো।",
-    "options": [
-      "0",
-      "8!",
-      "8",
-      "1"
-    ],
-    "image": null,
-    "optionImages": null,
-    "timeLimit": 45
-  },
-  {
-    "id": "higher-math-1st-paper-hsc-science-higher-math-1st-paper-board-questions-year-wise-2025-cumilla-ts-11",
-    "subject": "higher-math-1st-paper",
-    "chapter": "Cumilla Board 2025",
-    "text": "$8C_2$ এর মান কত?",
-    "options": [
-      "56",
-      "28",
-      "29",
-      "64"
-    ],
-    "image": null,
-    "optionImages": null,
-    "timeLimit": 45
-  },
-  {
-    "id": "higher-math-1st-paper-hsc-science-higher-math-1st-paper-board-questions-year-wise-2025-cumilla-ts-12",
-    "subject": "higher-math-1st-paper",
-    "chapter": "Cumilla Board 2025",
-    "text": "$8C_2$ এর মান কত? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 05-12 হিসেবে সঠিক উত্তর নির্ণয় করো।",
-    "options": [
-      "29",
-      "56",
-      "28",
-      "64"
-    ],
-    "image": null,
-    "optionImages": null,
-    "timeLimit": 45
-  },
-  {
-    "id": "higher-math-1st-paper-hsc-science-higher-math-1st-paper-board-questions-year-wise-2025-cumilla-ts-13",
-    "subject": "higher-math-1st-paper",
-    "chapter": "Cumilla Board 2025",
-    "text": "$8C_2$ এর মান কত? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 05-22 হিসেবে সঠিক উত্তর নির্ণয় করো।",
-    "options": [
-      "28",
-      "29",
-      "56",
-      "64"
-    ],
-    "image": null,
-    "optionImages": null,
-    "timeLimit": 45
-  },
-  {
-    "id": "higher-math-1st-paper-hsc-science-higher-math-1st-paper-board-questions-year-wise-2025-cumilla-ts-14",
-    "subject": "higher-math-1st-paper",
-    "chapter": "Cumilla Board 2025",
-    "text": "$8x+2y+10=0$ রেখার ঢাল কত?",
-    "options": [
-      "-4",
-      "4",
-      "2",
-      "8"
-    ],
-    "image": null,
-    "optionImages": null,
-    "timeLimit": 45
-  },
-  {
-    "id": "higher-math-1st-paper-hsc-science-higher-math-1st-paper-board-questions-year-wise-2025-cumilla-ts-15",
-    "subject": "higher-math-1st-paper",
-    "chapter": "Cumilla Board 2025",
-    "text": "$8x+5y+8=0$ রেখার ঢাল কত?",
-    "options": [
-      "$\\frac{-8}{5}$",
-      "5",
-      "8",
-      "$\\frac{8}{5}$"
-    ],
-    "image": null,
-    "optionImages": null,
-    "timeLimit": 45
-  },
-  {
-    "id": "higher-math-1st-paper-hsc-science-higher-math-1st-paper-board-questions-year-wise-2025-cumilla-ts-16",
-    "subject": "higher-math-1st-paper",
-    "chapter": "Cumilla Board 2025",
-    "text": "$9C_0$ এর মান কত?",
-    "options": [
-      "9!",
-      "9",
-      "0",
-      "1"
-    ],
-    "image": null,
-    "optionImages": null,
-    "timeLimit": 45
-  },
-  {
-    "id": "higher-math-1st-paper-hsc-science-higher-math-1st-paper-board-questions-year-wise-2025-cumilla-ts-17",
-    "subject": "higher-math-1st-paper",
-    "chapter": "Cumilla Board 2025",
-    "text": "$9C_0$ এর মান কত? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 05-13 হিসেবে সঠিক উত্তর নির্ণয় করো।",
-    "options": [
-      "0",
-      "1",
-      "9",
-      "9!"
-    ],
-    "image": null,
-    "optionImages": null,
-    "timeLimit": 45
-  },
-  {
-    "id": "higher-math-1st-paper-hsc-science-higher-math-1st-paper-board-questions-year-wise-2025-cumilla-ts-18",
-    "subject": "higher-math-1st-paper",
-    "chapter": "Cumilla Board 2025",
-    "text": "$9C_0$ এর মান কত? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 05-23 হিসেবে সঠিক উত্তর নির্ণয় করো।",
-    "options": [
-      "0",
-      "1",
-      "9!",
-      "9"
-    ],
-    "image": null,
-    "optionImages": null,
-    "timeLimit": 45
-  },
-  {
-    "id": "higher-math-1st-paper-hsc-science-higher-math-1st-paper-board-questions-year-wise-2025-cumilla-ts-19",
-    "subject": "higher-math-1st-paper",
-    "chapter": "Cumilla Board 2025",
-    "text": "$A$ এর order $3\\times 2$ এবং $B$ এর order $2\\times 4$ হলে $AB$ এর order কত?",
-    "options": [
-      "$2\\times 4$",
-      "$3\\times 4$",
-      "$3\\times 2$",
-      "গুণ করা সম্ভব নয়"
-    ],
-    "image": null,
-    "optionImages": null,
-    "timeLimit": 45
-  },
-  {
-    "id": "higher-math-1st-paper-hsc-science-higher-math-1st-paper-board-questions-year-wise-2025-cumilla-ts-20",
-    "subject": "higher-math-1st-paper",
-    "chapter": "Cumilla Board 2025",
-    "text": "$A$ এর order $3\\times 3$ এবং $B$ এর order $3\\times 4$ হলে $AB$ এর order কত?",
-    "options": [
-      "$3\\times 4$ + 3",
-      "$3\\times 4$",
-      "$3\\times 3$",
-      "গুণ করা সম্ভব নয়"
-    ],
-    "image": null,
-    "optionImages": null,
-    "timeLimit": 45
-  },
-  {
-    "id": "higher-math-1st-paper-hsc-science-higher-math-1st-paper-board-questions-year-wise-2025-cumilla-ts-21",
-    "subject": "higher-math-1st-paper",
-    "chapter": "Cumilla Board 2025",
-    "text": "$A$ এর order $3\\times 6$ এবং $B$ এর order $6\\times 6$ হলে $AB$ এর order কত?",
-    "options": [
-      "$6\\times 6$",
-      "$3\\times 6$ + 3",
-      "$3\\times 6$",
-      "গুণ করা সম্ভব নয়"
-    ],
-    "image": null,
-    "optionImages": null,
-    "timeLimit": 45
-  },
-  {
-    "id": "higher-math-1st-paper-hsc-science-higher-math-1st-paper-board-questions-year-wise-2025-cumilla-ts-22",
-    "subject": "higher-math-1st-paper",
-    "chapter": "Cumilla Board 2025",
-    "text": "$A$ এর order $4\\times 2$ এবং $B$ এর order $2\\times 5$ হলে $AB$ এর order কত?",
-    "options": [
-      "$4\\times 2$",
-      "$2\\times 5$",
-      "গুণ করা সম্ভব নয়",
-      "$4\\times 5$"
-    ],
-    "image": null,
-    "optionImages": null,
-    "timeLimit": 45
-  },
-  {
-    "id": "higher-math-1st-paper-hsc-science-higher-math-1st-paper-board-questions-year-wise-2025-cumilla-ts-23",
-    "subject": "higher-math-1st-paper",
-    "chapter": "Cumilla Board 2025",
-    "text": "$A$ এর order $4\\times 3$ এবং $B$ এর order $3\\times 5$ হলে $AB$ এর order কত?",
-    "options": [
-      "$4\\times 5$",
-      "$4\\times 3$",
-      "$3\\times 5$",
-      "গুণ করা সম্ভব নয়"
-    ],
-    "image": null,
-    "optionImages": null,
-    "timeLimit": 45
-  },
-  {
-    "id": "higher-math-1st-paper-hsc-science-higher-math-1st-paper-board-questions-year-wise-2025-cumilla-ts-24",
-    "subject": "higher-math-1st-paper",
-    "chapter": "Cumilla Board 2025",
-    "text": "$A$ এর order $4\\times 6$ এবং $B$ এর order $6\\times 7$ হলে $AB$ এর order কত?",
-    "options": [
-      "$6\\times 7$",
-      "$4\\times 6$",
-      "গুণ করা সম্ভব নয়",
-      "$4\\times 7$"
+      "x",
+      "ln x",
+      "e^x",
+      "1/x"
     ],
     "image": null,
     "optionImages": null,

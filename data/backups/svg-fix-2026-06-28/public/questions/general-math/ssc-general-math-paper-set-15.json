@@ -1,0 +1,287 @@
+[
+  {
+    "id": "ssc-general-math-paper-set-15-q01",
+    "subject": "general-math",
+    "chapter": "ssc-general-math-paper-set-15",
+    "text": "$\\frac{d}{dx}x^17$ কত?",
+    "options": [
+      "$16x^17$",
+      "$x^16$",
+      "$17x^16$",
+      "$x^17$"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-general-math-paper-set-15-q02",
+    "subject": "general-math",
+    "chapter": "ssc-general-math-paper-set-15",
+    "text": "$\\int x^18dx$ কত?",
+    "options": [
+      "$18x^17+C$",
+      "$x^19+C$",
+      "$\\frac{x^18}{18}+C$",
+      "$\\frac{x^19}{19}+C$"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-general-math-paper-set-15-q03",
+    "subject": "general-math",
+    "chapter": "ssc-general-math-paper-set-15",
+    "text": "$19P_2$ এর মান কত?",
+    "options": [
+      "171",
+      "342",
+      "21",
+      "95"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-general-math-paper-set-15-q04",
+    "subject": "general-math",
+    "chapter": "ssc-general-math-paper-set-15",
+    "text": "$20C_2$ এর মান কত?",
+    "options": [
+      "190",
+      "21",
+      "400",
+      "380"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-general-math-paper-set-15-q05",
+    "subject": "general-math",
+    "chapter": "ssc-general-math-paper-set-15",
+    "text": "ঢাল 16 এবং বিন্দু $(7,16)$ দিয়ে অতিক্রান্ত রেখার সমীকরণ কোনটি?",
+    "options": [
+      "$y-16=16(x-7)$",
+      "$y+16=16(x-7)$",
+      "$y-16=7(x-16)$",
+      "$x-16=16(y-7)$"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-general-math-paper-set-15-q06",
+    "subject": "general-math",
+    "chapter": "ssc-general-math-paper-set-15",
+    "text": "$x^2+y^2=289$ বৃত্তের ব্যাসার্ধ কত?",
+    "options": [
+      "34",
+      "17",
+      "289",
+      "18"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-general-math-paper-set-15-q07",
+    "subject": "general-math",
+    "chapter": "ssc-general-math-paper-set-15",
+    "text": "$\\sin^2\\theta+\\cos^2\\theta$ কত?",
+    "options": [
+      "$\\sec^2\\theta$",
+      "0",
+      "1",
+      "$\\tan\\theta$"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-general-math-paper-set-15-q08",
+    "subject": "general-math",
+    "chapter": "ssc-general-math-paper-set-15",
+    "text": "$\\sin(A+B)$ সূত্র কোনটি?",
+    "options": [
+      "$\\cos A\\cos B-\\sin A\\sin B$",
+      "$\\tan A+\\tan B$",
+      "$\\sin A\\cos B+\\cos A\\sin B$",
+      "$\\sin A\\cos B-\\cos A\\sin B$"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-general-math-paper-set-15-q09",
+    "subject": "general-math",
+    "chapter": "ssc-general-math-paper-set-15",
+    "text": "$f(x)=x^2$ ফাংশনটি কেমন?",
+    "options": [
+      "Constant",
+      "Odd",
+      "Periodic",
+      "Even"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-general-math-paper-set-15-q10",
+    "subject": "general-math",
+    "chapter": "ssc-general-math-paper-set-15",
+    "text": "$\\vec a\\cdot\\vec b=0$ হলে দুটি ভেক্টর কেমন?",
+    "options": [
+      "সমান",
+      "সমান্তরাল",
+      "লম্ব",
+      "একক"
+    ],
+    "image": "/images/quiz/premium/ssc-general-math-paper-set-15-q10.svg",
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-general-math-paper-set-15-q11",
+    "subject": "general-math",
+    "chapter": "ssc-general-math-paper-set-15",
+    "text": "$A^2=A$ হলে matrix কী?",
+    "options": [
+      "Orthogonal",
+      "Nilpotent",
+      "Scalar",
+      "Idempotent"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-general-math-paper-set-15-q12",
+    "subject": "general-math",
+    "chapter": "ssc-general-math-paper-set-15",
+    "text": "$\\int_0^1 xdx$ কত?",
+    "options": [
+      "$\\frac12$",
+      "$\\frac13$",
+      "0",
+      "1"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-general-math-paper-set-15-q13",
+    "subject": "general-math",
+    "chapter": "ssc-general-math-paper-set-15",
+    "text": "$\\frac{d}{dx}x^19$ কত?",
+    "options": [
+      "$x^18$",
+      "$19x^18$",
+      "$18x^19$",
+      "$x^19$"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-general-math-paper-set-15-q14",
+    "subject": "general-math",
+    "chapter": "ssc-general-math-paper-set-15",
+    "text": "$\\int x^20dx$ কত?",
+    "options": [
+      "$20x^19+C$",
+      "$x^21+C$",
+      "$\\frac{x^21}{21}+C$",
+      "$\\frac{x^20}{20}+C$"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-general-math-paper-set-15-q15",
+    "subject": "general-math",
+    "chapter": "ssc-general-math-paper-set-15",
+    "text": "$16P_2$ এর মান কত?",
+    "options": [
+      "120",
+      "240",
+      "18",
+      "48"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-general-math-paper-set-15-q16",
+    "subject": "general-math",
+    "chapter": "ssc-general-math-paper-set-15",
+    "text": "$17C_2$ এর মান কত?",
+    "options": [
+      "272",
+      "18",
+      "136",
+      "289"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-general-math-paper-set-15-q17",
+    "subject": "general-math",
+    "chapter": "ssc-general-math-paper-set-15",
+    "text": "ঢাল 18 এবং বিন্দু $(5,18)$ দিয়ে অতিক্রান্ত রেখার সমীকরণ কোনটি?",
+    "options": [
+      "$x-18=18(y-5)$",
+      "$y-18=18(x-5)$",
+      "$y+18=18(x-5)$",
+      "$y-18=5(x-18)$"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-general-math-paper-set-15-q18",
+    "subject": "general-math",
+    "chapter": "ssc-general-math-paper-set-15",
+    "text": "$x^2+y^2=361$ বৃত্তের ব্যাসার্ধ কত?",
+    "options": [
+      "361",
+      "38",
+      "19",
+      "20"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-general-math-paper-set-15-q19",
+    "subject": "general-math",
+    "chapter": "ssc-general-math-paper-set-15",
+    "text": "$\\frac{d}{dx}x^16$ কত?",
+    "options": [
+      "$15x^16$",
+      "$x^15$",
+      "$16x^15$",
+      "$x^16$"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  }
+]

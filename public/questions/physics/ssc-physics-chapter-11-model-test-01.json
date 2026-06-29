@@ -11,7 +11,6 @@
       "4.8 A"
     ],
     "image": null,
-    "optionImages": null,
     "timeLimit": 45
   },
   {
@@ -26,7 +25,6 @@
       "19 A"
     ],
     "image": null,
-    "optionImages": null,
     "timeLimit": 45
   },
   {
@@ -41,7 +39,6 @@
       "1.2 A"
     ],
     "image": null,
-    "optionImages": null,
     "timeLimit": 45
   },
   {
@@ -56,7 +53,6 @@
       "28 A"
     ],
     "image": null,
-    "optionImages": null,
     "timeLimit": 45
   },
   {
@@ -71,7 +67,6 @@
       "7.5 A"
     ],
     "image": null,
-    "optionImages": null,
     "timeLimit": 45
   },
   {
@@ -86,7 +81,6 @@
       "0.62 A"
     ],
     "image": null,
-    "optionImages": null,
     "timeLimit": 45
   },
   {
@@ -101,7 +95,6 @@
       "0.20 A"
     ],
     "image": null,
-    "optionImages": null,
     "timeLimit": 45
   },
   {
@@ -116,7 +109,6 @@
       "15.0 A"
     ],
     "image": null,
-    "optionImages": null,
     "timeLimit": 45
   },
   {
@@ -131,7 +123,6 @@
       "30 A"
     ],
     "image": null,
-    "optionImages": null,
     "timeLimit": 45
   },
   {
@@ -146,7 +137,6 @@
       "2.3 A"
     ],
     "image": null,
-    "optionImages": null,
     "timeLimit": 45
   },
   {
@@ -161,7 +151,6 @@
       "2.0 A"
     ],
     "image": null,
-    "optionImages": null,
     "timeLimit": 45
   },
   {
@@ -176,7 +165,6 @@
       "0.17 A"
     ],
     "image": null,
-    "optionImages": null,
     "timeLimit": 45
   },
   {
@@ -191,7 +179,6 @@
       "42 A"
     ],
     "image": null,
-    "optionImages": null,
     "timeLimit": 45
   },
   {
@@ -206,7 +193,6 @@
       "0.25 A"
     ],
     "image": null,
-    "optionImages": null,
     "timeLimit": 45
   },
   {
@@ -220,8 +206,7 @@
       "$7.5\\ \\Omega$",
       "$14\\ \\Omega$"
     ],
-    "image": "/images/quiz/premium/ssc-physics-chapter-11-model-test-01-q15.svg",
-    "optionImages": null,
+    "image": "/images/quiz/circuit-parallel.svg",
     "timeLimit": 45
   },
   {
@@ -235,8 +220,7 @@
       "ii ও iii",
       "i, ii ও iii"
     ],
-    "image": "/images/quiz/premium/ssc-physics-chapter-11-model-test-01-q16.svg",
-    "optionImages": null,
+    "image": "/images/quiz/circuit-series.svg",
     "timeLimit": 45
   },
   {
@@ -251,7 +235,6 @@
       "$10,000\\text{ V}$"
     ],
     "image": null,
-    "optionImages": null,
     "timeLimit": 45
   },
   {
@@ -265,8 +248,7 @@
       "31.11Ω",
       "11.11Ω"
     ],
-    "image": "/images/quiz/premium/ssc-physics-chapter-11-model-test-01-q18.svg",
-    "optionImages": null,
+    "image": "/images/quiz/ssc-resistor-network.svg",
     "timeLimit": 45
   },
   {
@@ -280,8 +262,7 @@
       "16 Ω",
       "20 Ω"
     ],
-    "image": "/images/quiz/premium/ssc-physics-chapter-11-model-test-01-q19.svg",
-    "optionImages": null,
+    "image": "/images/quiz/ssc-resistor-network.svg",
     "timeLimit": 45
   },
   {
@@ -295,8 +276,7 @@
       "i ও iii",
       "i, ii ও iii"
     ],
-    "image": "/images/quiz/premium/ssc-physics-chapter-11-model-test-01-q20.svg",
-    "optionImages": null,
+    "image": "/images/quiz/circuit-series.svg",
     "timeLimit": 45
   },
   {
@@ -311,7 +291,6 @@
       "36 V"
     ],
     "image": null,
-    "optionImages": null,
     "timeLimit": 45
   },
   {
@@ -326,7 +305,6 @@
       "চারগুণ"
     ],
     "image": null,
-    "optionImages": null,
     "timeLimit": 45
   },
   {
@@ -341,7 +319,6 @@
       "i, ii ও iii"
     ],
     "image": "/images/quiz/premium/ssc-physics-chapter-11-model-test-01-q23.svg",
-    "optionImages": null,
     "timeLimit": 45
   },
   {
@@ -355,8 +332,21 @@
       "চিত্র (গ): ক্ষেত্রফল পরিবর্তনে অপরিবর্তিত রোধ",
       "চিত্র (ঘ): ক্ষেত্রফলের সাথে ব্যস্তানুপাতিক হারে হ্রাসমান রোধ (অধিবৃত্তাকার)"
     ],
-    "image": "/images/quiz/premium/ssc-physics-chapter-11-model-test-01-q24.svg",
-    "optionImages": null,
+    "image": "/images/quiz/function-test-1.svg",
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-chapter-11-model-test-01-q25",
+    "subject": "physics",
+    "chapter": "ssc-physics-chapter-11-model-test-01",
+    "text": "একটি পরিবাহীর রোধ 10 Ω এবং দুই প্রান্তের বিভব পার্থক্য 12 V হলে এর তড়িৎ প্রবাহ কত?",
+    "options": [
+      "120 A",
+      "0.83 A",
+      "22 A",
+      "1.2 A"
+    ],
+    "image": null,
     "timeLimit": 45
   }
 ]

@@ -1,0 +1,59 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 320" width="480" height="320" font-family="serif" role="img" aria-label="physics 1st paper hsc science physics 1st paper board questions year wise 2025 rajshahi ts 11">
+  <!-- Background -->
+  <rect width="480" height="320" fill="#fff"/>
+
+  <!-- Axes -->
+  <!-- Y-axis -->
+  <line x1="70" y1="20" x2="70" y2="265" stroke="#333" stroke-width="2"/>
+  <polygon points="65,20 75,20 70,8" fill="#333"/>
+  <!-- X-axis -->
+  <line x1="70" y1="265" x2="440" y2="265" stroke="#333" stroke-width="2"/>
+  <polygon points="440,260 440,270 452,265" fill="#333"/>
+
+  <!-- Axis labels -->
+  <text x="52" y="150" font-size="13" fill="#333" text-anchor="middle" transform="rotate(-90, 52, 150)" font-family="Noto Sans Bengali, Arial, sans-serif">পীড়ন (Stress)</text>
+  <text x="260" y="292" font-size="13" fill="#333" text-anchor="middle" font-family="Noto Sans Bengali, Arial, sans-serif">বিকৃতি (Strain)</text>
+
+  <!-- Curve: O → A (linear, Hooke's law region) -->
+  <polyline points="70,265 140,195" stroke="#1565C0" stroke-width="2.5" fill="none"/>
+  <!-- A → B (slightly curved, approaching elastic limit) -->
+  <path d="M140,195 Q175,170 200,162" stroke="#1565C0" stroke-width="2.5" fill="none"/>
+  <!-- B → C (yield point) -->
+  <path d="M200,162 Q215,155 230,153" stroke="#1565C0" stroke-width="2.5" fill="none"/>
+  <!-- C → D (strain hardening up to D = ultimate stress) -->
+  <path d="M230,153 Q280,125 320,108" stroke="#1565C0" stroke-width="2.5" fill="none"/>
+  <!-- D → E (necking and fracture) -->
+  <path d="M320,108 Q355,115 385,150" stroke="#1565C0" stroke-width="2.5" fill="none"/>
+
+  <!-- Key points -->
+  <!-- O origin label -->
+  <text x="60" y="278" font-size="12" fill="#333" font-family="Noto Sans Bengali, Arial, sans-serif">O</text>
+
+  <!-- Point A (Proportional Limit) -->
+  <circle cx="140" cy="195" r="5" fill="#2e7d32"/>
+  <text x="145" y="190" font-size="12" fill="#2e7d32" font-family="Noto Sans Bengali, Arial, sans-serif">A</text>
+  <line x1="140" y1="195" x2="140" y2="265" stroke="#2e7d32" stroke-width="1" stroke-dasharray="4,3"/>
+
+  <!-- Point B (Elastic Limit) -->
+  <circle cx="200" cy="162" r="5" fill="#f57f17"/>
+  <text x="205" y="158" font-size="12" fill="#f57f17" font-family="Noto Sans Bengali, Arial, sans-serif">B</text>
+  <line x1="200" y1="162" x2="200" y2="265" stroke="#f57f17" stroke-width="1" stroke-dasharray="4,3"/>
+
+  <!-- Point C (Yield Point) -->
+  <circle cx="230" cy="153" r="5" fill="#6a1b9a"/>
+  <text x="235" y="149" font-size="12" fill="#6a1b9a" font-family="Noto Sans Bengali, Arial, sans-serif">C</text>
+  <line x1="230" y1="153" x2="230" y2="265" stroke="#6a1b9a" stroke-width="1" stroke-dasharray="4,3"/>
+
+  <!-- Point D (Ultimate Stress — সর্বোচ্চ পীড়ন বিন্দু) -->
+  <circle cx="320" cy="108" r="6" fill="#e53935"/>
+  <text x="326" y="104" font-size="13" font-weight="bold" fill="#e53935" font-family="Noto Sans Bengali, Arial, sans-serif">D</text>
+  <line x1="320" y1="108" x2="320" y2="265" stroke="#e53935" stroke-width="1" stroke-dasharray="4,3"/>
+  <line x1="70" y1="108" x2="320" y2="108" stroke="#e53935" stroke-width="1" stroke-dasharray="4,3"/>
+
+  <!-- Point E (Fracture) -->
+  <circle cx="385" cy="150" r="5" fill="#333"/>
+  <text x="390" y="147" font-size="12" fill="#333" font-family="Noto Sans Bengali, Arial, sans-serif">E</text>
+
+  <!-- Caption: D = সর্বোচ্চ পীড়ন বিন্দু (Ultimate Stress / অসহ পীড়ন) -->
+  <text x="240" y="32" font-size="11" fill="#e53935" font-style="italic" font-family="Noto Sans Bengali, Arial, sans-serif">D = সর্বোচ্চ পীড়ন বিন্দু (Ultimate Stress)</text>
+</svg>

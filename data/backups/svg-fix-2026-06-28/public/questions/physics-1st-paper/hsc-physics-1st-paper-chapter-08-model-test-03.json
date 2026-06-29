@@ -1,0 +1,287 @@
+[
+  {
+    "id": "hsc-physics-1st-paper-chapter-08-model-test-03-q01",
+    "subject": "physics-1st-paper",
+    "chapter": "hsc-physics-1st-paper-chapter-08-model-test-03",
+    "text": "2s দোলনের ক্ষেত্রে কোণিক কম্পাঙ্ক কত?",
+    "options": [
+      "3.14 rad/s",
+      "1 rad/s",
+      "6.28 rad/s",
+      "0.5 rad/s"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-physics-1st-paper-chapter-08-model-test-03-q02",
+    "subject": "physics-1st-paper",
+    "chapter": "hsc-physics-1st-paper-chapter-08-model-test-03",
+    "text": "SHM with amplitude 0.01 m and frequency 12 Hz, at x=0.005 m speed is?",
+    "options": [
+      "0.653 m/s",
+      "1.0 m/s",
+      "0.5 m/s",
+      "0.25 m/s"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-physics-1st-paper-chapter-08-model-test-03-q03",
+    "subject": "physics-1st-paper",
+    "chapter": "hsc-physics-1st-paper-chapter-08-model-test-03",
+    "text": "এক সেকেন্ড দোলকের কার্যকরী দৈর্ঘ্য 25.6% বৃদ্ধি করলে দোলনকাল কত বৃদ্ধি পায়?",
+    "options": [
+      "12%",
+      "25%",
+      "5%",
+      "50%"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-physics-1st-paper-chapter-08-model-test-03-q04",
+    "subject": "physics-1st-paper",
+    "chapter": "hsc-physics-1st-paper-chapter-08-model-test-03",
+    "text": "একটি সরলদোলকের কার্যকরী দৈর্ঘ্য তিনগুণ করে পৃথিবীর কেন্দ্রে নিয়ে গেলে এর দোলনকাল-",
+    "options": [
+      "শূন্য হবে",
+      "একই থাকবে",
+      "sqrt(3) গুণ হবে",
+      "অসীম হবে"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-physics-1st-paper-chapter-08-model-test-03-q05",
+    "subject": "physics-1st-paper",
+    "chapter": "hsc-physics-1st-paper-chapter-08-model-test-03",
+    "text": "সরল দোলকের ভর চারগুণ করা হলে দোলনকাল পূর্বের কত গুণ হবে?",
+    "options": [
+      "1 গুণ",
+      "2 গুণ",
+      "4 গুণ",
+      "8 গুণ"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-physics-1st-paper-chapter-08-model-test-03-q06",
+    "subject": "physics-1st-paper",
+    "chapter": "hsc-physics-1st-paper-chapter-08-model-test-03",
+    "text": "সরল দোলকের কৌণিক বিস্তার কত কোণের মধ্যে হতে হবে?",
+    "options": [
+      "১০° এর বেশি",
+      "৪৫°",
+      "৯০°",
+      "৪° এর কম"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-physics-1st-paper-chapter-08-model-test-03-q07",
+    "subject": "physics-1st-paper",
+    "chapter": "hsc-physics-1st-paper-chapter-08-model-test-03",
+    "text": "SHM-এ একটি পূর্ণ দোলনে গড় গতিশক্তি কত?",
+    "options": [
+      "¼kA²",
+      "½kA²",
+      "kA²",
+      "শূন্য"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-physics-1st-paper-chapter-08-model-test-03-q08",
+    "subject": "physics-1st-paper",
+    "chapter": "hsc-physics-1st-paper-chapter-08-model-test-03",
+    "text": "SHM-এ কণার গতিপথে যে কোনো বিন্দুতে গতিশক্তি Eₖ ও বিভবশক্তি Eₚ এর যোগফল কত?",
+    "options": [
+      "Eₖ + Eₚ = ½kA²",
+      "Eₖ + Eₚ = 0",
+      "Eₖ + Eₚ = kA²",
+      "পরিবর্তনশীল"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-physics-1st-paper-chapter-08-model-test-03-q09",
+    "subject": "physics-1st-paper",
+    "chapter": "hsc-physics-1st-paper-chapter-08-model-test-03",
+    "text": "SHM-এ গতিশক্তি ও বিভবশক্তির গড় মান কী?",
+    "options": [
+      "Eₖ_avg = Eₚ_avg = ¼kA²",
+      "Eₖ_avg = Eₚ_avg = ½kA²",
+      "Eₖ_avg = ½kA², Eₚ_avg = 0",
+      "ভিন্ন"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-physics-1st-paper-chapter-08-model-test-03-q10",
+    "subject": "physics-1st-paper",
+    "chapter": "hsc-physics-1st-paper-chapter-08-model-test-03",
+    "text": "SHM-এ দশা (phase) φ = ?",
+    "options": [
+      "ωt + φ₀",
+      "ωt",
+      "φ₀",
+      "2π/T"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-physics-1st-paper-chapter-08-model-test-03-q11",
+    "subject": "physics-1st-paper",
+    "chapter": "hsc-physics-1st-paper-chapter-08-model-test-03",
+    "text": "SHM-এ মোট যান্ত্রিক শক্তি E = ?",
+    "options": [
+      "½kA²",
+      "kA²",
+      "½mv²_max",
+      "ক ও গ উভয়ই"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-physics-1st-paper-chapter-08-model-test-03-q12",
+    "subject": "physics-1st-paper",
+    "chapter": "hsc-physics-1st-paper-chapter-08-model-test-03",
+    "text": "SHM-এ সরণ x = A sin ωt রেখে ত্বরণ a = ?",
+    "options": [
+      "−ω²A sin ωt",
+      "ω²A sin ωt",
+      "−ωA cos ωt",
+      "ω²A cos ωt"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-physics-1st-paper-chapter-08-model-test-03-q13",
+    "subject": "physics-1st-paper",
+    "chapter": "hsc-physics-1st-paper-chapter-08-model-test-03",
+    "text": "SHM-এ সরণ x = A sin(ωt+φ) হলে, দশা ধ্রুবক φ কিসের উপর নির্ভর করে?",
+    "options": [
+      "কম্পাঙ্ক",
+      "বিস্তার",
+      "আদি অবস্থা",
+      "দোলনকাল"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-physics-1st-paper-chapter-08-model-test-03-q14",
+    "subject": "physics-1st-paper",
+    "chapter": "hsc-physics-1st-paper-chapter-08-model-test-03",
+    "text": "SHM-এ সরণ, বেগ ও ত্বরণের মধ্যে দশা সম্পর্ক কীরূপ?",
+    "options": [
+      "তিনটি একই দশায়",
+      "বেগ ত্বরণের 90° পিছিয়ে",
+      "ত্বরণ সরণের 180° সামনে",
+      "বেগ ত্বরণের সমদশায়"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-physics-1st-paper-chapter-08-model-test-03-q15",
+    "subject": "physics-1st-paper",
+    "chapter": "hsc-physics-1st-paper-chapter-08-model-test-03",
+    "text": "অনুনাদ একটি উদাহরণ কোনটি?",
+    "options": [
+      "সেতু ভেঙে পড়া যখন সৈন্যরা সমতালে পা ফেলে",
+      "টেবিলে রাখা রেডিও বাজা",
+      "ব্যাটে বলের আঘাত",
+      "সাইকেল চালানো"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-physics-1st-paper-chapter-08-model-test-03-q16",
+    "subject": "physics-1st-paper",
+    "chapter": "hsc-physics-1st-paper-chapter-08-model-test-03",
+    "text": "অনুনাদে বিস্তার কীরূপ হয়?",
+    "options": [
+      "সর্বনিম্ন",
+      "সর্বোচ্চ",
+      "অপরিবর্তিত",
+      "শূন্য"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-physics-1st-paper-chapter-08-model-test-03-q17",
+    "subject": "physics-1st-paper",
+    "chapter": "hsc-physics-1st-paper-chapter-08-model-test-03",
+    "text": "অনুনাদে শক্তি শোষণ সর্বোচ্চ হয় কেন?",
+    "options": [
+      "প্রণোদক কম্পাঙ্ক স্বাভাবিক কম্পাঙ্কের সমান বলে",
+      "দোলক স্থির থাকে",
+      "ঘর্ষণ সবচেয়ে বেশি",
+      "বিস্তার শূন্য"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-physics-1st-paper-chapter-08-model-test-03-q18",
+    "subject": "physics-1st-paper",
+    "chapter": "hsc-physics-1st-paper-chapter-08-model-test-03",
+    "text": "অবমন্দন বল (damping force) গতির বিপরীতে ক্রিয়া করে এবং বেগের –",
+    "options": [
+      "সমানুপাতিক",
+      "বর্গের সমানুপাতিক",
+      "ব্যস্তানুপাতিক",
+      "কোনো সম্পর্ক নেই"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-physics-1st-paper-chapter-08-model-test-03-q19",
+    "subject": "physics-1st-paper",
+    "chapter": "hsc-physics-1st-paper-chapter-08-model-test-03",
+    "text": "অবমন্দন বল F_d = ?",
+    "options": [
+      "−bv",
+      "−kx",
+      "−b v²",
+      "−k x²"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  }
+]

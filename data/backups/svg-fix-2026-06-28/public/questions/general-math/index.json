@@ -1,0 +1,737 @@
+{
+  "subject": "general-math",
+  "chapters": [],
+  "modelTests": [
+    {
+      "id": "chapter-01-split-01",
+      "title": "chapter-01 - Part 1",
+      "questionCount": 30,
+      "scope": "chapter",
+      "importance": "high",
+      "tags": [
+        "paper-wise"
+      ]
+    },
+    {
+      "id": "chapter-01-split-02",
+      "title": "chapter-01 - Part 2",
+      "questionCount": 30,
+      "scope": "chapter",
+      "importance": "high",
+      "tags": [
+        "paper-wise"
+      ]
+    },
+    {
+      "id": "ssc-general-math-board-standard-model-test-06",
+      "title": "Model Test 06",
+      "questionCount": 25,
+      "scope": "paper",
+      "importance": "high",
+      "tags": [
+        "ssc-2026",
+        "general-math",
+        "board-standard",
+        "high-priority"
+      ],
+      "chaptersCovered": [
+        "অনুপাত-সমানুপাত / সসীম ধারা / সূচক-লগারিদম",
+        "জ্যামিতি / বৃত্ত / ক্ষেত্রফল উপপাদ্য",
+        "ত্রিকোণমিতি / দূরত্ব ও উচ্চতা",
+        "পরিমিতি",
+        "পরিসংখ্যান ও সম্ভাবনা",
+        "বাস্তব সংখ্যা / সাধারণ গণিত",
+        "সেট-ফাংশন / বীজগণিত / সমীকরণ"
+      ]
+    },
+    {
+      "id": "ssc-general-math-board-standard-model-test-07",
+      "title": "Model Test 07",
+      "questionCount": 25,
+      "scope": "paper",
+      "importance": "high",
+      "tags": [
+        "ssc-2026",
+        "general-math",
+        "board-standard",
+        "high-priority"
+      ],
+      "chaptersCovered": [
+        "অনুপাত-সমানুপাত / সসীম ধারা / সূচক-লগারিদম",
+        "জ্যামিতি / বৃত্ত / ক্ষেত্রফল উপপাদ্য",
+        "ত্রিকোণমিতি / দূরত্ব ও উচ্চতা",
+        "পরিমিতি",
+        "পরিসংখ্যান ও সম্ভাবনা",
+        "বাস্তব সংখ্যা / সাধারণ গণিত",
+        "সেট-ফাংশন / বীজগণিত / সমীকরণ"
+      ]
+    },
+    {
+      "id": "ssc-general-math-board-standard-model-test-08",
+      "title": "Model Test 08",
+      "questionCount": 25,
+      "scope": "paper",
+      "importance": "high",
+      "tags": [
+        "ssc-2026",
+        "general-math",
+        "board-standard",
+        "high-priority"
+      ],
+      "chaptersCovered": [
+        "অনুপাত-সমানুপাত / সসীম ধারা / সূচক-লগারিদম",
+        "জ্যামিতি / বৃত্ত / ক্ষেত্রফল উপপাদ্য",
+        "ত্রিকোণমিতি / দূরত্ব ও উচ্চতা",
+        "পরিমিতি",
+        "পরিসংখ্যান ও সম্ভাবনা",
+        "বাস্তব সংখ্যা / সাধারণ গণিত",
+        "সেট-ফাংশন / বীজগণিত / সমীকরণ"
+      ]
+    },
+    {
+      "id": "ssc-general-math-board-standard-model-test-09",
+      "title": "Model Test 09",
+      "questionCount": 25,
+      "scope": "paper",
+      "importance": "high",
+      "tags": [
+        "ssc-2026",
+        "general-math",
+        "board-standard",
+        "high-priority"
+      ],
+      "chaptersCovered": [
+        "অনুপাত-সমানুপাত / সসীম ধারা / সূচক-লগারিদম",
+        "জ্যামিতি / বৃত্ত / ক্ষেত্রফল উপপাদ্য",
+        "ত্রিকোণমিতি / দূরত্ব ও উচ্চতা",
+        "পরিমিতি",
+        "পরিসংখ্যান ও সম্ভাবনা",
+        "বাস্তব সংখ্যা / সাধারণ গণিত",
+        "সেট-ফাংশন / বীজগণিত / সমীকরণ"
+      ]
+    },
+    {
+      "id": "ssc-general-math-board-standard-model-test-10",
+      "title": "Model Test 10",
+      "questionCount": 25,
+      "scope": "paper",
+      "importance": "high",
+      "tags": [
+        "ssc-2026",
+        "general-math",
+        "board-standard",
+        "high-priority"
+      ],
+      "chaptersCovered": [
+        "অনুপাত-সমানুপাত / সসীম ধারা / সূচক-লগারিদম",
+        "জ্যামিতি / বৃত্ত / ক্ষেত্রফল উপপাদ্য",
+        "ত্রিকোণমিতি / দূরত্ব ও উচ্চতা",
+        "পরিমিতি",
+        "পরিসংখ্যান ও সম্ভাবনা",
+        "বাস্তব সংখ্যা / সাধারণ গণিত",
+        "সেট-ফাংশন / বীজগণিত / সমীকরণ"
+      ]
+    },
+    {
+      "id": "ssc-general-math-chapter-01-model-test-06",
+      "title": "Chapter 01 Model Test 06",
+      "questionCount": 30,
+      "scope": "chapter",
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "premium",
+        "model-test"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "01",
+          "chapterName": "বাস্তব সংখ্যা"
+        }
+      ]
+    },
+    {
+      "id": "ssc-general-math-chapter-02-model-test-06",
+      "title": "Chapter 02 Model Test 06",
+      "questionCount": 30,
+      "scope": "chapter",
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "premium",
+        "model-test"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "02",
+          "chapterName": "বীজগণিত"
+        }
+      ]
+    },
+    {
+      "id": "ssc-general-math-chapter-09-model-test-06",
+      "title": "Chapter 09 Model Test 06",
+      "questionCount": 30,
+      "scope": "chapter",
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "premium",
+        "model-test"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "09",
+          "chapterName": "পরিমাপ"
+        }
+      ]
+    },
+    {
+      "id": "ssc-general-math-chapter-11-model-test-06",
+      "title": "Chapter 11 Model Test 06",
+      "questionCount": 30,
+      "scope": "chapter",
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "premium",
+        "model-test"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "11",
+          "chapterName": "অনুপাত ও সমানুপাত"
+        }
+      ]
+    },
+    {
+      "id": "ssc-general-math-chapter-12-model-test-06",
+      "title": "Chapter 12 Model Test 06",
+      "questionCount": 30,
+      "scope": "chapter",
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "premium",
+        "model-test"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "12",
+          "chapterName": "সেট"
+        }
+      ]
+    },
+    {
+      "id": "ssc-general-math-chapter-16-model-test-06",
+      "title": "Chapter 16 Model Test 06",
+      "questionCount": 30,
+      "scope": "chapter",
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "premium",
+        "model-test"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "16",
+          "chapterName": "বীজগাণিতিক অভিব্যক্তি"
+        }
+      ]
+    },
+    {
+      "id": "ssc-general-math-model-test-11",
+      "title": "Model Test 11",
+      "questionCount": 22,
+      "scope": "paper",
+      "importance": "high",
+      "tags": [
+        "ssc",
+        "general-math",
+        "board-standard",
+        "high-priority",
+        "model-test"
+      ],
+      "chaptersCovered": [
+        "সেট ও ফাংশন",
+        "বীজগণিত",
+        "সমীকরণ",
+        "অনুপাত",
+        "সসীম ধারা",
+        "জ্যামিতি",
+        "ত্রিকোণমিতি",
+        "পরিমিতি",
+        "পরিসংখ্যান",
+        "সম্ভাবনা"
+      ]
+    },
+    {
+      "id": "ssc-general-math-model-test-12",
+      "title": "Model Test 12",
+      "questionCount": 24,
+      "scope": "paper",
+      "importance": "high",
+      "tags": [
+        "ssc",
+        "general-math",
+        "board-standard",
+        "high-priority",
+        "model-test"
+      ],
+      "chaptersCovered": [
+        "সেট ও ফাংশন",
+        "বীজগণিত",
+        "সমীকরণ",
+        "অনুপাত",
+        "সসীম ধারা",
+        "জ্যামিতি",
+        "ত্রিকোণমিতি",
+        "পরিমিতি",
+        "পরিসংখ্যান",
+        "সম্ভাবনা"
+      ]
+    },
+    {
+      "id": "ssc-general-math-model-test-14",
+      "title": "Model Test 14",
+      "questionCount": 25,
+      "scope": "paper",
+      "importance": "high",
+      "tags": [
+        "ssc",
+        "general-math",
+        "board-standard",
+        "high-priority",
+        "model-test"
+      ],
+      "chaptersCovered": [
+        "সেট ও ফাংশন",
+        "বীজগণিত",
+        "সমীকরণ",
+        "অনুপাত",
+        "সসীম ধারা",
+        "জ্যামিতি",
+        "ত্রিকোণমিতি",
+        "পরিমিতি",
+        "পরিসংখ্যান",
+        "সম্ভাবনা"
+      ]
+    },
+    {
+      "id": "ssc-general-math-model-test-15",
+      "title": "Model Test 15",
+      "questionCount": 22,
+      "scope": "paper",
+      "importance": "high",
+      "tags": [
+        "ssc",
+        "general-math",
+        "board-standard",
+        "high-priority",
+        "model-test"
+      ],
+      "chaptersCovered": [
+        "সেট ও ফাংশন",
+        "বীজগণিত",
+        "সমীকরণ",
+        "অনুপাত",
+        "সসীম ধারা",
+        "জ্যামিতি",
+        "ত্রিকোণমিতি",
+        "পরিমিতি",
+        "পরিসংখ্যান",
+        "সম্ভাবনা"
+      ]
+    },
+    {
+      "id": "ssc-general-math-model-test-16",
+      "title": "Model Test 16",
+      "questionCount": 23,
+      "scope": "paper",
+      "importance": "high",
+      "tags": [
+        "ssc",
+        "general-math",
+        "board-standard",
+        "high-priority",
+        "model-test"
+      ],
+      "chaptersCovered": [
+        "সেট ও ফাংশন",
+        "বীজগণিত",
+        "সমীকরণ",
+        "অনুপাত",
+        "সসীম ধারা",
+        "জ্যামিতি",
+        "ত্রিকোণমিতি",
+        "পরিমিতি",
+        "পরিসংখ্যান",
+        "সম্ভাবনা"
+      ]
+    },
+    {
+      "id": "ssc-general-math-model-test-17",
+      "title": "Model Test 17",
+      "questionCount": 25,
+      "scope": "paper",
+      "importance": "high",
+      "tags": [
+        "ssc",
+        "general-math",
+        "board-standard",
+        "high-priority",
+        "model-test"
+      ],
+      "chaptersCovered": [
+        "সেট ও ফাংশন",
+        "বীজগণিত",
+        "সমীকরণ",
+        "অনুপাত",
+        "সসীম ধারা",
+        "জ্যামিতি",
+        "ত্রিকোণমিতি",
+        "পরিমিতি",
+        "পরিসংখ্যান",
+        "সম্ভাবনা"
+      ]
+    },
+    {
+      "id": "ssc-general-math-model-test-18",
+      "title": "Model Test 18",
+      "questionCount": 25,
+      "scope": "paper",
+      "importance": "high",
+      "tags": [
+        "ssc",
+        "general-math",
+        "board-standard",
+        "high-priority",
+        "model-test"
+      ],
+      "chaptersCovered": [
+        "সেট ও ফাংশন",
+        "বীজগণিত",
+        "সমীকরণ",
+        "অনুপাত",
+        "সসীম ধারা",
+        "জ্যামিতি",
+        "ত্রিকোণমিতি",
+        "পরিমিতি",
+        "পরিসংখ্যান",
+        "সম্ভাবনা"
+      ]
+    },
+    {
+      "id": "ssc-general-math-model-test-19",
+      "title": "Model Test 19",
+      "questionCount": 25,
+      "scope": "paper",
+      "importance": "high",
+      "tags": [
+        "ssc",
+        "general-math",
+        "board-standard",
+        "high-priority",
+        "model-test"
+      ],
+      "chaptersCovered": [
+        "সেট ও ফাংশন",
+        "বীজগণিত",
+        "সমীকরণ",
+        "অনুপাত",
+        "সসীম ধারা",
+        "জ্যামিতি",
+        "ত্রিকোণমিতি",
+        "পরিমিতি",
+        "পরিসংখ্যান",
+        "সম্ভাবনা"
+      ]
+    },
+    {
+      "id": "ssc-general-math-model-test-20",
+      "title": "Model Test 20",
+      "questionCount": 25,
+      "scope": "paper",
+      "importance": "high",
+      "tags": [
+        "ssc",
+        "general-math",
+        "board-standard",
+        "high-priority",
+        "model-test"
+      ],
+      "chaptersCovered": [
+        "সেট ও ফাংশন",
+        "বীজগণিত",
+        "সমীকরণ",
+        "অনুপাত",
+        "সসীম ধারা",
+        "জ্যামিতি",
+        "ত্রিকোণমিতি",
+        "পরিমিতি",
+        "পরিসংখ্যান",
+        "সম্ভাবনা"
+      ]
+    },
+    {
+      "id": "ssc-general-math-paper-set-15",
+      "title": "SSC General Math Paper-wise Model Test Set 15",
+      "questionCount": 25,
+      "scope": "paper",
+      "importance": "high",
+      "tags": [
+        "paper-wise",
+        "model-test",
+        "fill-to-15"
+      ]
+    }
+  ],
+  "boards": [
+    {
+      "id": "barishal-2022",
+      "title": "Barishal Board 2022",
+      "questionCount": 25
+    },
+    {
+      "id": "chattogram-2022",
+      "title": "Chattogram Board 2022",
+      "questionCount": 25
+    },
+    {
+      "id": "cumilla-2022",
+      "title": "Cumilla Board 2022",
+      "questionCount": 25
+    },
+    {
+      "id": "dhaka-2022",
+      "title": "Dhaka Board 2022",
+      "questionCount": 25
+    },
+    {
+      "id": "dinajpur-2022",
+      "title": "Dinajpur Board 2022",
+      "questionCount": 25
+    },
+    {
+      "id": "jashore-2022",
+      "title": "Jashore Board 2022",
+      "questionCount": 25
+    },
+    {
+      "id": "mymensingh-2022",
+      "title": "Mymensingh Board 2022",
+      "questionCount": 25
+    },
+    {
+      "id": "rajshahi-2022",
+      "title": "Rajshahi Board 2022",
+      "questionCount": 25
+    },
+    {
+      "id": "sylhet-2022",
+      "title": "Sylhet Board 2022",
+      "questionCount": 25
+    },
+    {
+      "id": "khulna-2022",
+      "title": "খুলনা বোর্ড 2022",
+      "questionCount": 25
+    },
+    {
+      "id": "barishal-2023",
+      "title": "Barishal Board 2023",
+      "questionCount": 25
+    },
+    {
+      "id": "chattogram-2023",
+      "title": "Chattogram Board 2023",
+      "questionCount": 28
+    },
+    {
+      "id": "cumilla-2023",
+      "title": "Cumilla Board 2023",
+      "questionCount": 25
+    },
+    {
+      "id": "dhaka-2023",
+      "title": "Dhaka Board 2023",
+      "questionCount": 60
+    },
+    {
+      "id": "dinajpur-2023",
+      "title": "Dinajpur Board 2023",
+      "questionCount": 25
+    },
+    {
+      "id": "jashore-2023",
+      "title": "Jashore Board 2023",
+      "questionCount": 30
+    },
+    {
+      "id": "mymensingh-2023",
+      "title": "Mymensingh Board 2023",
+      "questionCount": 29
+    },
+    {
+      "id": "rajshahi-2023",
+      "title": "Rajshahi Board 2023",
+      "questionCount": 32
+    },
+    {
+      "id": "sylhet-2023",
+      "title": "Sylhet Board 2023",
+      "questionCount": 25
+    },
+    {
+      "id": "khulna-2023",
+      "title": "খুলনা বোর্ড 2023",
+      "questionCount": 60
+    },
+    {
+      "id": "barishal-2024",
+      "title": "Barishal Board 2024",
+      "questionCount": 25
+    },
+    {
+      "id": "chattogram-2024",
+      "title": "Chattogram Board 2024",
+      "questionCount": 25
+    },
+    {
+      "id": "cumilla-2024",
+      "title": "Cumilla Board 2024",
+      "questionCount": 25
+    },
+    {
+      "id": "dhaka-2024",
+      "title": "Dhaka Board 2024",
+      "questionCount": 25
+    },
+    {
+      "id": "dinajpur-2024",
+      "title": "Dinajpur Board 2024",
+      "questionCount": 25
+    },
+    {
+      "id": "jashore-2024",
+      "title": "Jashore Board 2024",
+      "questionCount": 25
+    },
+    {
+      "id": "mymensingh-2024",
+      "title": "Mymensingh Board 2024",
+      "questionCount": 25
+    },
+    {
+      "id": "rajshahi-2024",
+      "title": "Rajshahi Board 2024",
+      "questionCount": 25
+    },
+    {
+      "id": "sylhet-2024",
+      "title": "Sylhet Board 2024",
+      "questionCount": 25
+    },
+    {
+      "id": "khulna-2024",
+      "title": "খুলনা বোর্ড 2024",
+      "questionCount": 25
+    },
+    {
+      "id": "barishal-2025",
+      "title": "Barishal Board 2025",
+      "questionCount": 30
+    },
+    {
+      "id": "chattogram-2025",
+      "title": "Chattogram Board 2025",
+      "questionCount": 30
+    },
+    {
+      "id": "cumilla-2025",
+      "title": "Cumilla Board 2025",
+      "questionCount": 25
+    },
+    {
+      "id": "dhaka-2025",
+      "title": "Dhaka Board 2025",
+      "questionCount": 30
+    },
+    {
+      "id": "dinajpur-2025",
+      "title": "Dinajpur Board 2025",
+      "questionCount": 30
+    },
+    {
+      "id": "jashore-2025",
+      "title": "Jashore Board 2025",
+      "questionCount": 25
+    },
+    {
+      "id": "mymensingh-2025",
+      "title": "Mymensingh Board 2025",
+      "questionCount": 25
+    },
+    {
+      "id": "rajshahi-2025",
+      "title": "Rajshahi Board 2025",
+      "questionCount": 25
+    },
+    {
+      "id": "sylhet-2025",
+      "title": "Sylhet Board 2025",
+      "questionCount": 29
+    },
+    {
+      "id": "khulna-2025",
+      "title": "খুলনা বোর্ড 2025",
+      "questionCount": 30
+    },
+    {
+      "id": "barishal-2026",
+      "title": "Barishal Board 2026",
+      "questionCount": 16
+    },
+    {
+      "id": "chattogram-2026",
+      "title": "Chattogram Board 2026",
+      "questionCount": 16
+    },
+    {
+      "id": "cumilla-2026",
+      "title": "Cumilla Board 2026",
+      "questionCount": 16
+    },
+    {
+      "id": "dhaka-2026",
+      "title": "Dhaka Board 2026",
+      "questionCount": 15
+    },
+    {
+      "id": "dinajpur-2026",
+      "title": "Dinajpur Board 2026",
+      "questionCount": 15
+    },
+    {
+      "id": "jashore-2026",
+      "title": "Jashore Board 2026",
+      "questionCount": 16
+    },
+    {
+      "id": "mymensingh-2026",
+      "title": "Mymensingh Board 2026",
+      "questionCount": 16
+    },
+    {
+      "id": "rajshahi-2026",
+      "title": "Rajshahi Board 2026",
+      "questionCount": 16
+    },
+    {
+      "id": "sylhet-2026",
+      "title": "Sylhet Board 2026",
+      "questionCount": 17
+    }
+  ]
+}

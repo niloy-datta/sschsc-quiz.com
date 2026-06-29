@@ -11,7 +11,6 @@
       "$x^9$"
     ],
     "image": null,
-    "optionImages": null,
     "timeLimit": 45
   },
   {
@@ -26,7 +25,6 @@
       "$\\frac{x^12}{12}+C$"
     ],
     "image": null,
-    "optionImages": null,
     "timeLimit": 45
   },
   {
@@ -41,7 +39,6 @@
       "14"
     ],
     "image": null,
-    "optionImages": null,
     "timeLimit": 45
   },
   {
@@ -56,7 +53,6 @@
       "78"
     ],
     "image": null,
-    "optionImages": null,
     "timeLimit": 45
   },
   {
@@ -71,7 +67,6 @@
       "$y+9=9(x-7)$"
     ],
     "image": null,
-    "optionImages": null,
     "timeLimit": 45
   },
   {
@@ -86,7 +81,6 @@
       "10"
     ],
     "image": null,
-    "optionImages": null,
     "timeLimit": 45
   },
   {
@@ -101,7 +95,6 @@
       "$\\sec^2\\theta$"
     ],
     "image": null,
-    "optionImages": null,
     "timeLimit": 45
   },
   {
@@ -116,7 +109,6 @@
       "$\\sin A\\cos B+\\cos A\\sin B$"
     ],
     "image": null,
-    "optionImages": null,
     "timeLimit": 45
   },
   {
@@ -131,7 +123,6 @@
       "Constant"
     ],
     "image": null,
-    "optionImages": null,
     "timeLimit": 45
   },
   {
@@ -145,8 +136,7 @@
       "সমান",
       "সমান্তরাল"
     ],
-    "image": "/images/quiz/premium/hsc-higher-math-2nd-paper-paper-set-08-q10.svg",
-    "optionImages": null,
+    "image": null,
     "timeLimit": 45
   },
   {
@@ -161,7 +151,6 @@
       "Orthogonal"
     ],
     "image": null,
-    "optionImages": null,
     "timeLimit": 45
   },
   {
@@ -176,7 +165,6 @@
       "$\\frac13$"
     ],
     "image": null,
-    "optionImages": null,
     "timeLimit": 45
   },
   {
@@ -191,7 +179,6 @@
       "$x^11$"
     ],
     "image": null,
-    "optionImages": null,
     "timeLimit": 45
   },
   {
@@ -206,7 +193,6 @@
       "$x^14+C$"
     ],
     "image": null,
-    "optionImages": null,
     "timeLimit": 45
   },
   {
@@ -221,7 +207,6 @@
       "36"
     ],
     "image": null,
-    "optionImages": null,
     "timeLimit": 45
   },
   {
@@ -236,7 +221,6 @@
       "11"
     ],
     "image": null,
-    "optionImages": null,
     "timeLimit": 45
   },
   {
@@ -251,7 +235,6 @@
       "$y-11=5(x-11)$"
     ],
     "image": null,
-    "optionImages": null,
     "timeLimit": 45
   },
   {
@@ -266,11 +249,94 @@
       "144"
     ],
     "image": null,
-    "optionImages": null,
     "timeLimit": 45
   },
   {
     "id": "hsc-higher-math-2nd-paper-paper-set-08-q19",
+    "subject": "higher-math-2nd-paper",
+    "chapter": "hsc-higher-math-2nd-paper-paper-set-08",
+    "text": "$\\sin^2\\theta+\\cos^2\\theta$ কত?",
+    "options": [
+      "$\\sec^2\\theta$",
+      "0",
+      "1",
+      "$\\tan\\theta$"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-higher-math-2nd-paper-paper-set-08-q20",
+    "subject": "higher-math-2nd-paper",
+    "chapter": "hsc-higher-math-2nd-paper-paper-set-08",
+    "text": "$\\sin(A+B)$ সূত্র কোনটি?",
+    "options": [
+      "$\\sin A\\cos B-\\cos A\\sin B$",
+      "$\\sin A\\cos B+\\cos A\\sin B$",
+      "$\\tan A+\\tan B$",
+      "$\\cos A\\cos B-\\sin A\\sin B$"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-higher-math-2nd-paper-paper-set-08-q21",
+    "subject": "higher-math-2nd-paper",
+    "chapter": "hsc-higher-math-2nd-paper-paper-set-08",
+    "text": "$f(x)=x^2$ ফাংশনটি কেমন?",
+    "options": [
+      "Periodic",
+      "Odd",
+      "Constant",
+      "Even"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-higher-math-2nd-paper-paper-set-08-q22",
+    "subject": "higher-math-2nd-paper",
+    "chapter": "hsc-higher-math-2nd-paper-paper-set-08",
+    "text": "$\\vec a\\cdot\\vec b=0$ হলে দুটি ভেক্টর কেমন?",
+    "options": [
+      "সমান",
+      "একক",
+      "সমান্তরাল",
+      "লম্ব"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-higher-math-2nd-paper-paper-set-08-q23",
+    "subject": "higher-math-2nd-paper",
+    "chapter": "hsc-higher-math-2nd-paper-paper-set-08",
+    "text": "$A^2=A$ হলে matrix কী?",
+    "options": [
+      "Nilpotent",
+      "Scalar",
+      "Orthogonal",
+      "Idempotent"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-higher-math-2nd-paper-paper-set-08-q24",
+    "subject": "higher-math-2nd-paper",
+    "chapter": "hsc-higher-math-2nd-paper-paper-set-08",
+    "text": "$\\int_0^1 xdx$ কত?",
+    "options": [
+      "0",
+      "1",
+      "$\\frac13$",
+      "$\\frac12$"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-higher-math-2nd-paper-paper-set-08-q25",
     "subject": "higher-math-2nd-paper",
     "chapter": "hsc-higher-math-2nd-paper-paper-set-08",
     "text": "$\\frac{d}{dx}x^9$ কত?",
@@ -281,7 +347,6 @@
       "$x^9$"
     ],
     "image": null,
-    "optionImages": null,
     "timeLimit": 45
   }
 ]

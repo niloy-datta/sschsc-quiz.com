@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="900" height="520" viewBox="0 0 900 520">
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="520" viewBox="0 0 900 520" role="img" aria-label="ssc force time graph">
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
       <stop offset="0%" stop-color="#fef3c7"/>
@@ -33,6 +33,6 @@
   <line x1="145" y1="390" x2="710" y2="125" class="line"/>
   <circle cx="145" cy="390" r="8" class="dot"/>
   <circle cx="710" cy="125" r="8" class="dot"/>
-  <text x="775" y="455" class="label">t (s)</text>
-  <text x="66" y="95" class="label">F (N)</text>
+  <text x="775" y="455" class="label" font-family="Noto Sans Bengali, Arial, sans-serif">t (s)</text>
+  <text x="66" y="95" class="label" font-family="Noto Sans Bengali, Arial, sans-serif">F (N)</text>
 </svg>

@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 520" width="900" height="520" role="img" aria-label="ssc-biology-board-standard-model-test-02-q16">
+  <defs>
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0f172a"/>
+      <stop offset="100%" stop-color="#1e1b4b"/>
+    </linearGradient>
+    <filter id="glowCyan" x="-30%" y="-30%" width="160%" height="160%">
+      <feDropShadow dx="0" dy="0" stdDeviation="4" flood-color="#22d3ee" flood-opacity="0.55"/>
+    </filter>
+  </defs>
+  <rect width="900" height="520" rx="16" fill="url(#bgGrad)"/>
+  <rect x="40" y="40" width="820" height="400" rx="12" fill="#1e293b" stroke="#334155" stroke-width="1.5"/>
+  <text x="450" y="200" fill="#e2e8f0" font-family="Noto Sans Bengali, Arial, sans-serif" font-size="16" text-anchor="middle">উদ্দীপক: রহিম সাহেবের বয়স ৫০ বছর। ইদানীং তিনি খুব দুর্বল বোধ করছেন, ঘন ঘন প্রস্র</text>
+  <line x1="120" y1="280" x2="780" y2="280" stroke="#22d3ee" stroke-width="2.5" filter="url(#glowCyan)"/>
+  <circle cx="450" cy="280" r="6" fill="#f472b6"/>
+  <text x="450" y="480" fill="#94a3b8" font-family="Noto Sans Bengali, Arial, sans-serif" font-size="12" text-anchor="middle">ssc-biology-board-standard-model-test-02-q16</text>
+</svg>

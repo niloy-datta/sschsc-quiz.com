@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 520" width="900" height="520">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 520" width="900" height="520" role="img" aria-label="hsc biology 1st paper chapter 03 set 01 q12">
   <style>
   @keyframes pulse { 0%,100% { opacity: 0.6; } 50% { opacity: 1; } }
   @keyframes flow { 0% { stroke-dashoffset: 20; } 100% { stroke-dashoffset: 0; } }
@@ -35,21 +35,21 @@
       <!-- Nucleus -->
       <ellipse cx="330" cy="200" rx="45" ry="35" 
                fill="#1e293b" stroke="#f472b6" stroke-width="2" class="anim-pulse"/>
-      <text x="330" y="205" fill="#f472b6" font-size="12" text-anchor="middle">নিউক্লিয়াস</text>
+      <text x="330" y="205" fill="#f472b6" font-size="12" text-anchor="middle" font-family="Noto Sans Bengali, Arial, sans-serif">নিউক্লিয়াস</text>
       <!-- Mitochondria -->
       <ellipse cx="240" cy="170" rx="35" ry="18" 
                fill="none" stroke="#fbbf24" stroke-width="1.5" stroke-dasharray="4,2" class="anim-flow"/>
-      <text x="240" y="155" fill="#fbbf24" font-size="10" text-anchor="middle">মাইটোকন্ড্রিয়া</text>
+      <text x="240" y="155" fill="#fbbf24" font-size="10" text-anchor="middle" font-family="Noto Sans Bengali, Arial, sans-serif">মাইটোকন্ড্রিয়া</text>
       <!-- Nucleolus -->
       <circle cx="335" cy="195" r="12" fill="#f472b6" opacity="0.3" class="anim-pulse delay-2"/>
       <!-- Labels -->
-      <text x="180" y="270" fill="#94a3b8" font-size="11" class="anim-fade delay-1">কোষপর্দা</text>
-      <text x="360" y="270" fill="#94a3b8" font-size="11" class="anim-fade delay-2">সাইটোপ্লাজম</text>
+      <text x="180" y="270" fill="#94a3b8" font-size="11" class="anim-fade delay-1" font-family="Noto Sans Bengali, Arial, sans-serif">কোষপর্দা</text>
+      <text x="360" y="270" fill="#94a3b8" font-size="11" class="anim-fade delay-2" font-family="Noto Sans Bengali, Arial, sans-serif">সাইটোপ্লাজম</text>
       <!-- Golgi -->
       <g transform="translate(380,160)">
         <path d="M0,0 Q15,-10 30,0 Q45,10 60,0" fill="none" stroke="#34d399" stroke-width="2" class="anim-breathe"/>
         <path d="M5,6 Q20,-4 35,6 Q50,16 65,6" fill="none" stroke="#34d399" stroke-width="1.5" class="anim-breathe delay-1"/>
-        <text x="20" y="24" fill="#34d399" font-size="9">গলজি</text>
+        <text x="20" y="24" fill="#34d399" font-size="9" font-family="Noto Sans Bengali, Arial, sans-serif">গলজি</text>
       </g>
     </g>
   

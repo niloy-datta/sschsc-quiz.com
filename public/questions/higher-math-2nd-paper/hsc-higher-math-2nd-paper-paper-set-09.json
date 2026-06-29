@@ -11,7 +11,6 @@
       "$x^10$"
     ],
     "image": null,
-    "optionImages": null,
     "timeLimit": 45
   },
   {
@@ -26,7 +25,6 @@
       "$x^13+C$"
     ],
     "image": null,
-    "optionImages": null,
     "timeLimit": 45
   },
   {
@@ -41,7 +39,6 @@
       "78"
     ],
     "image": null,
-    "optionImages": null,
     "timeLimit": 45
   },
   {
@@ -56,7 +53,6 @@
       "15"
     ],
     "image": null,
-    "optionImages": null,
     "timeLimit": 45
   },
   {
@@ -71,7 +67,6 @@
       "$x-10=10(y-7)$"
     ],
     "image": null,
-    "optionImages": null,
     "timeLimit": 45
   },
   {
@@ -86,7 +81,6 @@
       "12"
     ],
     "image": null,
-    "optionImages": null,
     "timeLimit": 45
   },
   {
@@ -101,7 +95,6 @@
       "0"
     ],
     "image": null,
-    "optionImages": null,
     "timeLimit": 45
   },
   {
@@ -116,7 +109,6 @@
       "$\\tan A+\\tan B$"
     ],
     "image": null,
-    "optionImages": null,
     "timeLimit": 45
   },
   {
@@ -131,7 +123,6 @@
       "Periodic"
     ],
     "image": null,
-    "optionImages": null,
     "timeLimit": 45
   },
   {
@@ -145,8 +136,7 @@
       "লম্ব",
       "একক"
     ],
-    "image": "/images/quiz/premium/hsc-higher-math-2nd-paper-paper-set-09-q10.svg",
-    "optionImages": null,
+    "image": null,
     "timeLimit": 45
   },
   {
@@ -161,7 +151,6 @@
       "Scalar"
     ],
     "image": null,
-    "optionImages": null,
     "timeLimit": 45
   },
   {
@@ -176,7 +165,6 @@
       "$\\frac12$"
     ],
     "image": null,
-    "optionImages": null,
     "timeLimit": 45
   },
   {
@@ -191,7 +179,6 @@
       "$x^13$"
     ],
     "image": null,
-    "optionImages": null,
     "timeLimit": 45
   },
   {
@@ -206,7 +193,6 @@
       "$\\frac{x^14}{14}+C$"
     ],
     "image": null,
-    "optionImages": null,
     "timeLimit": 45
   },
   {
@@ -221,7 +207,6 @@
       "30"
     ],
     "image": null,
-    "optionImages": null,
     "timeLimit": 45
   },
   {
@@ -236,7 +221,6 @@
       "110"
     ],
     "image": null,
-    "optionImages": null,
     "timeLimit": 45
   },
   {
@@ -251,7 +235,6 @@
       "$y-12=5(x-12)$"
     ],
     "image": null,
-    "optionImages": null,
     "timeLimit": 45
   },
   {
@@ -266,11 +249,94 @@
       "26"
     ],
     "image": null,
-    "optionImages": null,
     "timeLimit": 45
   },
   {
     "id": "hsc-higher-math-2nd-paper-paper-set-09-q19",
+    "subject": "higher-math-2nd-paper",
+    "chapter": "hsc-higher-math-2nd-paper-paper-set-09",
+    "text": "$\\sin^2\\theta+\\cos^2\\theta$ কত?",
+    "options": [
+      "$\\sec^2\\theta$",
+      "$\\tan\\theta$",
+      "1",
+      "0"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-higher-math-2nd-paper-paper-set-09-q20",
+    "subject": "higher-math-2nd-paper",
+    "chapter": "hsc-higher-math-2nd-paper-paper-set-09",
+    "text": "$\\sin(A+B)$ সূত্র কোনটি?",
+    "options": [
+      "$\\tan A+\\tan B$",
+      "$\\sin A\\cos B-\\cos A\\sin B$",
+      "$\\cos A\\cos B-\\sin A\\sin B$",
+      "$\\sin A\\cos B+\\cos A\\sin B$"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-higher-math-2nd-paper-paper-set-09-q21",
+    "subject": "higher-math-2nd-paper",
+    "chapter": "hsc-higher-math-2nd-paper-paper-set-09",
+    "text": "$f(x)=x^2$ ফাংশনটি কেমন?",
+    "options": [
+      "Odd",
+      "Constant",
+      "Periodic",
+      "Even"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-higher-math-2nd-paper-paper-set-09-q22",
+    "subject": "higher-math-2nd-paper",
+    "chapter": "hsc-higher-math-2nd-paper-paper-set-09",
+    "text": "$\\vec a\\cdot\\vec b=0$ হলে দুটি ভেক্টর কেমন?",
+    "options": [
+      "একক",
+      "সমান্তরাল",
+      "লম্ব",
+      "সমান"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-higher-math-2nd-paper-paper-set-09-q23",
+    "subject": "higher-math-2nd-paper",
+    "chapter": "hsc-higher-math-2nd-paper-paper-set-09",
+    "text": "$A^2=A$ হলে matrix কী?",
+    "options": [
+      "Idempotent",
+      "Nilpotent",
+      "Scalar",
+      "Orthogonal"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-higher-math-2nd-paper-paper-set-09-q24",
+    "subject": "higher-math-2nd-paper",
+    "chapter": "hsc-higher-math-2nd-paper-paper-set-09",
+    "text": "$\\int_0^1 xdx$ কত?",
+    "options": [
+      "$\\frac12$",
+      "0",
+      "1",
+      "$\\frac13$"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-higher-math-2nd-paper-paper-set-09-q25",
     "subject": "higher-math-2nd-paper",
     "chapter": "hsc-higher-math-2nd-paper-paper-set-09",
     "text": "$\\frac{d}{dx}x^10$ কত?",
@@ -281,7 +347,6 @@
       "$9x^10$"
     ],
     "image": null,
-    "optionImages": null,
     "timeLimit": 45
   }
 ]

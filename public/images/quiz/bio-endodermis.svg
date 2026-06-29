@@ -21,7 +21,7 @@
     <line x1="257" y1="95" x2="257" y2="155"/><line x1="305" y1="95" x2="305" y2="155"/>
   </g>
   <rect x="209" y="95" width="48" height="60" fill="#dcfce7" stroke="#16a34a" stroke-width="2"/>
-  <text x="233" y="129" text-anchor="middle" font-size="10" fill="#166534">Passage cell</text>
-  <text x="210" y="75" text-anchor="middle" font-size="12" fill="#ea580c">Casparian strip</text>
+  <text x="233" y="129" text-anchor="middle" font-size="10" fill="#166534" font-family="Noto Sans Bengali, Arial, sans-serif">Passage cell</text>
+  <text x="210" y="75" text-anchor="middle" font-size="12" fill="#ea580c" font-family="Noto Sans Bengali, Arial, sans-serif">Casparian strip</text>
 
 </svg>

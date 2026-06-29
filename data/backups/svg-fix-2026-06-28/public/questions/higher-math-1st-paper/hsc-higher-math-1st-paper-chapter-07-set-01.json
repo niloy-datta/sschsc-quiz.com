@@ -1,0 +1,377 @@
+[
+  {
+    "id": "hsc-higher-math-1st-paper-chapter-07-set-01-q01",
+    "subject": "higher-math-1st-paper",
+    "chapter": "hsc-higher-math-1st-paper-chapter-07-set-01",
+    "text": "$\\sin(A+B)$ এর সঠিক সূত্র কোনটি?",
+    "options": [
+      "$\\sin A\\cos B+\\cos A\\sin B$",
+      "$\\tan A+\\tan B$",
+      "$\\sin A\\cos B-\\cos A\\sin B$",
+      "$\\cos A\\cos B-\\sin A\\sin B$"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-higher-math-1st-paper-chapter-07-set-01-q02",
+    "subject": "higher-math-1st-paper",
+    "chapter": "hsc-higher-math-1st-paper-chapter-07-set-01",
+    "text": "$\\cos(A+B)$ এর সঠিক সূত্র কোনটি?",
+    "options": [
+      "$\\sin A\\cos B+\\cos A\\sin B$",
+      "$\\cos A\\cos B-\\sin A\\sin B$",
+      "$\\cos A\\cos B+\\sin A\\sin B$",
+      "$\\tan A+\\tan B$"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-higher-math-1st-paper-chapter-07-set-01-q03",
+    "subject": "higher-math-1st-paper",
+    "chapter": "hsc-higher-math-1st-paper-chapter-07-set-01",
+    "text": "$\\tan(A+B)$ এর সঠিক সূত্র কোনটি?",
+    "options": [
+      "$\\frac{\\tan A-\\tan B}{1+\\tan A\\tan B}$",
+      "$1-\\tan A\\tan B$",
+      "$\\frac{\\tan A+\\tan B}{1-\\tan A\\tan B}$",
+      "$\\tan A+\\tan B$"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-higher-math-1st-paper-chapter-07-set-01-q04",
+    "subject": "higher-math-1st-paper",
+    "chapter": "hsc-higher-math-1st-paper-chapter-07-set-01",
+    "text": "$\\sin2A$ এর সঠিক সূত্র কোনটি?",
+    "options": [
+      "$\\cos^2A-\\sin^2A$",
+      "$2\\tan A$",
+      "$2\\sin A\\cos A$",
+      "$1-2\\sin^2A$"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-higher-math-1st-paper-chapter-07-set-01-q05",
+    "subject": "higher-math-1st-paper",
+    "chapter": "hsc-higher-math-1st-paper-chapter-07-set-01",
+    "text": "$\\cos2A$ এর সঠিক সূত্র কোনটি?",
+    "options": [
+      "$\\sin^2A+\\cos^2A$",
+      "$2\\sin A\\cos A$",
+      "$\\cos^2A-\\sin^2A$",
+      "$2\\tan A$"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-higher-math-1st-paper-chapter-07-set-01-q06",
+    "subject": "higher-math-1st-paper",
+    "chapter": "hsc-higher-math-1st-paper-chapter-07-set-01",
+    "text": "$\\tan2A$ এর সূত্র কোনটি?",
+    "options": [
+      "$2\\sin A\\cos A$",
+      "$\\frac{\\tan A}{1+\\tan^2A}$",
+      "$\\frac{2\\tan A}{1-\\tan^2A}$",
+      "$1-\\tan^2A$"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-higher-math-1st-paper-chapter-07-set-01-q07",
+    "subject": "higher-math-1st-paper",
+    "chapter": "hsc-higher-math-1st-paper-chapter-07-set-01",
+    "text": "$\\sin75^\\circ$ কোনভাবে লেখা যায়?",
+    "options": [
+      "$\\sin(45^\\circ+30^\\circ)$",
+      "$\\sin(45^\\circ-30^\\circ)$",
+      "$\\tan(45^\\circ+30^\\circ)$",
+      "$\\cos(45^\\circ+30^\\circ)$"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-higher-math-1st-paper-chapter-07-set-01-q08",
+    "subject": "higher-math-1st-paper",
+    "chapter": "hsc-higher-math-1st-paper-chapter-07-set-01",
+    "text": "$\\cos15^\\circ$ কোনভাবে লেখা যায়?",
+    "options": [
+      "$\\sin(45^\\circ-30^\\circ)$",
+      "$\\tan(45^\\circ-30^\\circ)$",
+      "$\\cos(45^\\circ+30^\\circ)$",
+      "$\\cos(45^\\circ-30^\\circ)$"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-higher-math-1st-paper-chapter-07-set-01-q09",
+    "subject": "higher-math-1st-paper",
+    "chapter": "hsc-higher-math-1st-paper-chapter-07-set-01",
+    "text": "$\\sin A\\cos B+\\cos A\\sin B$ কোনটির সমান?",
+    "options": [
+      "$\\tan(A+B)$",
+      "$\\cos(A+B)$",
+      "$\\sin(A-B)$",
+      "$\\sin(A+B)$"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-higher-math-1st-paper-chapter-07-set-01-q10",
+    "subject": "higher-math-1st-paper",
+    "chapter": "hsc-higher-math-1st-paper-chapter-07-set-01",
+    "text": "$\\cos A\\cos B+\\sin A\\sin B$ কোনটির সমান?",
+    "options": [
+      "$\\tan(A-B)$",
+      "$\\cos(A-B)$",
+      "$\\cos(A+B)$",
+      "$\\sin(A+B)$"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-higher-math-1st-paper-chapter-07-set-01-q11",
+    "subject": "higher-math-1st-paper",
+    "chapter": "hsc-higher-math-1st-paper-chapter-07-set-01",
+    "text": "$\\sin(A+B)$ এর সঠিক সূত্র কোনটি? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 01-11 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+    "options": [
+      "$\\cos A\\cos B-\\sin A\\sin B$",
+      "$\\sin A\\cos B-\\cos A\\sin B$",
+      "$\\tan A+\\tan B$",
+      "$\\sin A\\cos B+\\cos A\\sin B$"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-higher-math-1st-paper-chapter-07-set-01-q12",
+    "subject": "higher-math-1st-paper",
+    "chapter": "hsc-higher-math-1st-paper-chapter-07-set-01",
+    "text": "$\\cos(A+B)$ এর সঠিক সূত্র কোনটি? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 01-12 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+    "options": [
+      "$\\cos A\\cos B+\\sin A\\sin B$",
+      "$\\cos A\\cos B-\\sin A\\sin B$",
+      "$\\sin A\\cos B+\\cos A\\sin B$",
+      "$\\tan A+\\tan B$"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-higher-math-1st-paper-chapter-07-set-01-q13",
+    "subject": "higher-math-1st-paper",
+    "chapter": "hsc-higher-math-1st-paper-chapter-07-set-01",
+    "text": "$\\tan(A+B)$ এর সঠিক সূত্র কোনটি? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 01-13 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+    "options": [
+      "$\\tan A+\\tan B$",
+      "$\\frac{\\tan A+\\tan B}{1-\\tan A\\tan B}$",
+      "$\\frac{\\tan A-\\tan B}{1+\\tan A\\tan B}$",
+      "$1-\\tan A\\tan B$"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-higher-math-1st-paper-chapter-07-set-01-q14",
+    "subject": "higher-math-1st-paper",
+    "chapter": "hsc-higher-math-1st-paper-chapter-07-set-01",
+    "text": "$\\sin2A$ এর সঠিক সূত্র কোনটি? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 01-14 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+    "options": [
+      "$2\\sin A\\cos A$",
+      "$2\\tan A$",
+      "$\\cos^2A-\\sin^2A$",
+      "$1-2\\sin^2A$"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-higher-math-1st-paper-chapter-07-set-01-q15",
+    "subject": "higher-math-1st-paper",
+    "chapter": "hsc-higher-math-1st-paper-chapter-07-set-01",
+    "text": "$\\cos2A$ এর সঠিক সূত্র কোনটি? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 01-15 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+    "options": [
+      "$\\sin^2A+\\cos^2A$",
+      "$2\\sin A\\cos A$",
+      "$\\cos^2A-\\sin^2A$",
+      "$2\\tan A$"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-higher-math-1st-paper-chapter-07-set-01-q16",
+    "subject": "higher-math-1st-paper",
+    "chapter": "hsc-higher-math-1st-paper-chapter-07-set-01",
+    "text": "$\\tan2A$ এর সূত্র কোনটি? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 01-16 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+    "options": [
+      "$1-\\tan^2A$",
+      "$\\frac{\\tan A}{1+\\tan^2A}$",
+      "$\\frac{2\\tan A}{1-\\tan^2A}$",
+      "$2\\sin A\\cos A$"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-higher-math-1st-paper-chapter-07-set-01-q17",
+    "subject": "higher-math-1st-paper",
+    "chapter": "hsc-higher-math-1st-paper-chapter-07-set-01",
+    "text": "$\\sin75^\\circ$ কোনভাবে লেখা যায়? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 01-17 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+    "options": [
+      "$\\sin(45^\\circ-30^\\circ)$",
+      "$\\sin(45^\\circ+30^\\circ)$",
+      "$\\cos(45^\\circ+30^\\circ)$",
+      "$\\tan(45^\\circ+30^\\circ)$"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-higher-math-1st-paper-chapter-07-set-01-q18",
+    "subject": "higher-math-1st-paper",
+    "chapter": "hsc-higher-math-1st-paper-chapter-07-set-01",
+    "text": "$\\cos15^\\circ$ কোনভাবে লেখা যায়? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 01-18 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+    "options": [
+      "$\\cos(45^\\circ+30^\\circ)$",
+      "$\\tan(45^\\circ-30^\\circ)$",
+      "$\\cos(45^\\circ-30^\\circ)$",
+      "$\\sin(45^\\circ-30^\\circ)$"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-higher-math-1st-paper-chapter-07-set-01-q19",
+    "subject": "higher-math-1st-paper",
+    "chapter": "hsc-higher-math-1st-paper-chapter-07-set-01",
+    "text": "$\\sin A\\cos B+\\cos A\\sin B$ কোনটির সমান? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 01-19 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+    "options": [
+      "$\\cos(A+B)$",
+      "$\\sin(A+B)$",
+      "$\\sin(A-B)$",
+      "$\\tan(A+B)$"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-higher-math-1st-paper-chapter-07-set-01-q20",
+    "subject": "higher-math-1st-paper",
+    "chapter": "hsc-higher-math-1st-paper-chapter-07-set-01",
+    "text": "$\\cos A\\cos B+\\sin A\\sin B$ কোনটির সমান? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 01-20 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+    "options": [
+      "$\\cos(A+B)$",
+      "$\\tan(A-B)$",
+      "$\\sin(A+B)$",
+      "$\\cos(A-B)$"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-higher-math-1st-paper-chapter-07-set-01-q21",
+    "subject": "higher-math-1st-paper",
+    "chapter": "hsc-higher-math-1st-paper-chapter-07-set-01",
+    "text": "$\\sin(A+B)$ এর সঠিক সূত্র কোনটি? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 01-21 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+    "options": [
+      "$\\sin A\\cos B+\\cos A\\sin B$",
+      "$\\cos A\\cos B-\\sin A\\sin B$",
+      "$\\tan A+\\tan B$",
+      "$\\sin A\\cos B-\\cos A\\sin B$"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-higher-math-1st-paper-chapter-07-set-01-q22",
+    "subject": "higher-math-1st-paper",
+    "chapter": "hsc-higher-math-1st-paper-chapter-07-set-01",
+    "text": "$\\cos(A+B)$ এর সঠিক সূত্র কোনটি? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 01-22 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+    "options": [
+      "$\\cos A\\cos B+\\sin A\\sin B$",
+      "$\\cos A\\cos B-\\sin A\\sin B$",
+      "$\\sin A\\cos B+\\cos A\\sin B$",
+      "$\\tan A+\\tan B$"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-higher-math-1st-paper-chapter-07-set-01-q23",
+    "subject": "higher-math-1st-paper",
+    "chapter": "hsc-higher-math-1st-paper-chapter-07-set-01",
+    "text": "$\\tan(A+B)$ এর সঠিক সূত্র কোনটি? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 01-23 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+    "options": [
+      "$\\tan A+\\tan B$",
+      "$\\frac{\\tan A-\\tan B}{1+\\tan A\\tan B}$",
+      "$1-\\tan A\\tan B$",
+      "$\\frac{\\tan A+\\tan B}{1-\\tan A\\tan B}$"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-higher-math-1st-paper-chapter-07-set-01-q24",
+    "subject": "higher-math-1st-paper",
+    "chapter": "hsc-higher-math-1st-paper-chapter-07-set-01",
+    "text": "$\\sin2A$ এর সঠিক সূত্র কোনটি? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 01-24 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+    "options": [
+      "$2\\tan A$",
+      "$2\\sin A\\cos A$",
+      "$\\cos^2A-\\sin^2A$",
+      "$1-2\\sin^2A$"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-higher-math-1st-paper-chapter-07-set-01-q25",
+    "subject": "higher-math-1st-paper",
+    "chapter": "hsc-higher-math-1st-paper-chapter-07-set-01",
+    "text": "$\\cos2A$ এর সঠিক সূত্র কোনটি? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 01-25 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+    "options": [
+      "$2\\sin A\\cos A$",
+      "$2\\tan A$",
+      "$\\cos^2A-\\sin^2A$",
+      "$\\sin^2A+\\cos^2A$"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  }
+]

@@ -11,12 +11,12 @@
   <rect x="14" y="14" width="392" height="232" rx="14" fill="#ffffff" stroke="#cbd5e1" stroke-width="1.5"/>
   <text x="210.0" y="38" text-anchor="middle" font-family="Arial, sans-serif" font-size="15" font-weight="700" fill="#0f172a">Bromine Test for Unsaturation</text>
   
-  <text x="110" y="112" text-anchor="middle" font-size="15" fill="#0f172a">Alkene / Alkyne</text>
+  <text x="110" y="112" text-anchor="middle" font-size="15" fill="#0f172a" font-family="Noto Sans Bengali, Arial, sans-serif">Alkene / Alkyne</text>
   <line x1="170" y1="110" x2="250" y2="110" stroke="#2563eb" stroke-width="2.5" marker-end="url(#arrowBlue)"/>
-  <text x="210" y="92" text-anchor="middle" font-size="12" fill="#b45309">Br₂ water</text>
+  <text x="210" y="92" text-anchor="middle" font-size="12" fill="#b45309" font-family="Noto Sans Bengali, Arial, sans-serif">Br₂ water</text>
   <rect x="270" y="78" width="92" height="65" rx="12" fill="#fff7ed" stroke="#ea580c" stroke-width="2"/>
-  <text x="316" y="105" text-anchor="middle" font-size="12" fill="#ea580c">Red/brown</text>
-  <text x="316" y="125" text-anchor="middle" font-size="12" fill="#16a34a">decolourised</text>
-  <text x="210" y="202" text-anchor="middle" font-size="12" fill="#475569">Unsaturation removes Br₂ colour</text>
+  <text x="316" y="105" text-anchor="middle" font-size="12" fill="#ea580c" font-family="Noto Sans Bengali, Arial, sans-serif">Red/brown</text>
+  <text x="316" y="125" text-anchor="middle" font-size="12" fill="#16a34a" font-family="Noto Sans Bengali, Arial, sans-serif">decolourised</text>
+  <text x="210" y="202" text-anchor="middle" font-size="12" fill="#475569" font-family="Noto Sans Bengali, Arial, sans-serif">Unsaturation removes Br₂ colour</text>
 
 </svg>

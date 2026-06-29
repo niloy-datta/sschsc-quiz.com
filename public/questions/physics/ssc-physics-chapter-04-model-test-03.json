@@ -11,7 +11,6 @@
       "জুল"
     ],
     "image": "/images/quiz/premium/ssc-physics-chapter-04-model-test-03-q01.svg",
-    "optionImages": null,
     "timeLimit": 45
   },
   {
@@ -26,7 +25,6 @@
       "ওয়াট"
     ],
     "image": null,
-    "optionImages": null,
     "timeLimit": 45
   },
   {
@@ -41,7 +39,6 @@
       "ট্রানজিস্টর"
     ],
     "image": null,
-    "optionImages": null,
     "timeLimit": 45
   },
   {
@@ -56,7 +53,6 @@
       "গ্যাস"
     ],
     "image": null,
-    "optionImages": null,
     "timeLimit": 45
   },
   {
@@ -71,7 +67,6 @@
       "কোপার্নিকাস"
     ],
     "image": null,
-    "optionImages": null,
     "timeLimit": 45
   },
   {
@@ -86,7 +81,6 @@
       "ফটোগ্রাফিক ফিল্ম"
     ],
     "image": null,
-    "optionImages": null,
     "timeLimit": 45
   },
   {
@@ -101,7 +95,6 @@
       "ভূতাপীয় শক্তি"
     ],
     "image": null,
-    "optionImages": null,
     "timeLimit": 45
   },
   {
@@ -116,7 +109,6 @@
       "বিভব শক্তি"
     ],
     "image": null,
-    "optionImages": null,
     "timeLimit": 45
   },
   {
@@ -131,7 +123,6 @@
       "চৌম্বক শক্তি → বিদ্যুৎ শক্তি"
     ],
     "image": null,
-    "optionImages": null,
     "timeLimit": 45
   },
   {
@@ -146,7 +137,6 @@
       "জিওথার্মাল"
     ],
     "image": null,
-    "optionImages": null,
     "timeLimit": 45
   },
   {
@@ -161,7 +151,6 @@
       "ত্বরণ ও দ্রুতি"
     ],
     "image": null,
-    "optionImages": null,
     "timeLimit": 45
   },
   {
@@ -176,7 +165,6 @@
       "ext{\\(MLT}^{-2}\\)"
     ],
     "image": null,
-    "optionImages": null,
     "timeLimit": 45
   },
   {
@@ -191,7 +179,6 @@
       "ক্ষমতা ও শক্তি"
     ],
     "image": null,
-    "optionImages": null,
     "timeLimit": 45
   },
   {
@@ -206,7 +193,6 @@
       "এম.আর.আই"
     ],
     "image": null,
-    "optionImages": null,
     "timeLimit": 45
   },
   {
@@ -221,7 +207,6 @@
       "তড়িৎশক্তির বিবর্ধন"
     ],
     "image": null,
-    "optionImages": null,
     "timeLimit": 45
   },
   {
@@ -236,7 +221,6 @@
       "ভোল্টেজ ও তড়িৎ প্রবাহের"
     ],
     "image": null,
-    "optionImages": null,
     "timeLimit": 45
   },
   {
@@ -251,7 +235,6 @@
       "মাইক্রোফোন"
     ],
     "image": null,
-    "optionImages": null,
     "timeLimit": 45
   },
   {
@@ -266,7 +249,6 @@
       "আলোক শক্তি"
     ],
     "image": null,
-    "optionImages": null,
     "timeLimit": 45
   },
   {
@@ -281,7 +263,6 @@
       "অ্যামপÐিফায়ার"
     ],
     "image": null,
-    "optionImages": null,
     "timeLimit": 45
   },
   {
@@ -296,11 +277,52 @@
       "যান্ত্রিক শক্তি"
     ],
     "image": null,
-    "optionImages": null,
     "timeLimit": 45
   },
   {
     "id": "ssc-physics-chapter-04-model-test-03-q21",
+    "subject": "physics",
+    "chapter": "ssc-physics-chapter-04-model-test-03",
+    "text": "সংকুচিত স্প্রিংয়ের ভেতর কোন শক্তি লুকিয়ে থাকে?",
+    "options": [
+      "গতিশক্তি",
+      "স্প্রিং শক্তি",
+      "যান্ত্রিক শক্তি",
+      "বিভব শক্তি"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-chapter-04-model-test-03-q22",
+    "subject": "physics",
+    "chapter": "ssc-physics-chapter-04-model-test-03",
+    "text": "তাড়িতচৌম্বক আবেশ প্রক্রিয়ায় শক্তি রূপান্তর কোনটি?",
+    "options": [
+      "যান্ত্রিক শক্তি → বিদ্যুৎ শক্তি",
+      "বিদ্যুৎ শক্তি → চৌম্বক শক্তি",
+      "বিদ্যুৎ শক্তি → যান্ত্রিক শক্তি",
+      "চৌম্বক শক্তি → বিদ্যুৎ শক্তি"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-chapter-04-model-test-03-q23",
+    "subject": "physics",
+    "chapter": "ssc-physics-chapter-04-model-test-03",
+    "text": "১৩. নিচের কোনটি অনবায়নযোগ্য শক্তি?",
+    "options": [
+      "নিউক্লিয়ার",
+      "বায়োমাস",
+      "বায়ু শক্তি",
+      "জিওথার্মাল"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-chapter-04-model-test-03-q24",
     "subject": "physics",
     "chapter": "ssc-physics-chapter-04-model-test-03",
     "text": "উদ্দীপকের বর্তনির— (চিত্রভিত্তিক) i. তড়িৎ ক্ষমতা 36W ii. R₁ ও R₂ এর তড়িৎপ্রবাহ সমান iii. R₃ এর মান বৃদ্ধি করলে তড়িৎপ্রবাহ হ্রাস পায়",
@@ -310,12 +332,11 @@
       "ii ও iii",
       "i, ii ও iii"
     ],
-    "image": "/images/quiz/premium/ssc-physics-chapter-04-model-test-01-q01.svg",
-    "optionImages": null,
+    "image": "/images/quiz/premium/ssc-physics-chapter-04-model-test-03-q24.svg",
     "timeLimit": 45
   },
   {
-    "id": "ssc-physics-chapter-04-model-test-03-q22",
+    "id": "ssc-physics-chapter-04-model-test-03-q25",
     "subject": "physics",
     "chapter": "ssc-physics-chapter-04-model-test-03",
     "text": "উপর থেকে একটি পাথর নিচে ফেলা হলে ভূ-পৃষ্ঠে— i. স্থিতিশক্তি শূন্য হয় ii. গতিশক্তি শব্দ শক্তিতে রূপান্তরিত হয় iii. গতিশক্তি বিভব শক্তিতে রূপান্তরিত হয়",
@@ -326,7 +347,6 @@
       "i, ii ও iii"
     ],
     "image": null,
-    "optionImages": null,
     "timeLimit": 45
   }
 ]

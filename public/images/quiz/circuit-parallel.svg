@@ -1,11 +1,11 @@
-<svg viewBox="0 0 320 220" xmlns="http://www.w3.org/2000/svg">
+<svg viewBox="0 0 320 220" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="circuit parallel">
   <rect width="320" height="220" fill="transparent"/>
   <filter id="glow"><feDropShadow dx="0" dy="0" stdDeviation="4" flood-color="#22d3ee" flood-opacity="0.55"/></filter>
   
   <rect x="50" y="50" width="220" height="110" rx="12" fill="#0f172a" stroke="#334155" stroke-width="2"/>
-  <circle cx="75" cy="105" r="14" fill="#1e293b" stroke="#22d3ee" stroke-width="2"/><text x="70" y="109" fill="#e2e8f0" font-size="9">V</text>
-  <rect x="140" y="70" width="34" height="20" rx="3" fill="#1e293b" stroke="#f472b6"/><text x="149" y="84" fill="#fda4af" font-size="9">R₁</text>
-  <rect x="140" y="120" width="34" height="20" rx="3" fill="#1e293b" stroke="#34d399"/><text x="149" y="134" fill="#86efac" font-size="9">R₂</text>
+  <circle cx="75" cy="105" r="14" fill="#1e293b" stroke="#22d3ee" stroke-width="2"/><text x="70" y="109" fill="#e2e8f0" font-size="9" font-family="Noto Sans Bengali, Arial, sans-serif">V</text>
+  <rect x="140" y="70" width="34" height="20" rx="3" fill="#1e293b" stroke="#f472b6"/><text x="149" y="84" fill="#fda4af" font-size="9" font-family="Noto Sans Bengali, Arial, sans-serif">R₁</text>
+  <rect x="140" y="120" width="34" height="20" rx="3" fill="#1e293b" stroke="#34d399"/><text x="149" y="134" fill="#86efac" font-size="9" font-family="Noto Sans Bengali, Arial, sans-serif">R₂</text>
   <line x1="89" y1="105" x2="140" y2="80" stroke="#94a3b8" stroke-width="2"/>
   <line x1="89" y1="105" x2="140" y2="130" stroke="#94a3b8" stroke-width="2"/>
   <line x1="174" y1="80" x2="230" y2="80" stroke="#94a3b8" stroke-width="2"/>

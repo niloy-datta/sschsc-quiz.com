@@ -15,7 +15,7 @@
   <line x1="120" y1="124" x2="312" y2="124" stroke="#ea580c" stroke-width="3.2"/>
   <line x1="120" y1="106" x2="312" y2="106" stroke="#2563eb" stroke-width="2.4"/>
   <path d="M78 138 L43 108 L50 138 L43 168 Z" fill="#e0f2fe" stroke="#0284c7" stroke-width="2.3"/>
-  <text x="220" y="97" text-anchor="middle" font-size="11" fill="#2563eb">Dorsal nerve cord</text>
-  <text x="220" y="144" text-anchor="middle" font-size="11" fill="#ea580c">Notochord</text>
+  <text x="220" y="97" text-anchor="middle" font-size="11" fill="#2563eb" font-family="Noto Sans Bengali, Arial, sans-serif">Dorsal nerve cord</text>
+  <text x="220" y="144" text-anchor="middle" font-size="11" fill="#ea580c" font-family="Noto Sans Bengali, Arial, sans-serif">Notochord</text>
 
 </svg>

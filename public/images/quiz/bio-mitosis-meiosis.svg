@@ -16,7 +16,7 @@
   <line x1="115" y1="130" x2="140" y2="175" stroke="#2563eb" stroke-width="2" marker-end="url(#arrowBlue)"/>
   <ellipse cx="88" cy="195" rx="28" ry="20" fill="#dbeafe" stroke="#2563eb"/>
   <ellipse cx="142" cy="195" rx="28" ry="20" fill="#dbeafe" stroke="#2563eb"/>
-  <text x="115" y="72" text-anchor="middle" font-size="12" fill="#0f172a">P: Mitosis</text>
+  <text x="115" y="72" text-anchor="middle" font-size="12" fill="#0f172a" font-family="Noto Sans Bengali, Arial, sans-serif">P: Mitosis</text>
 
   <ellipse cx="305" cy="90" rx="42" ry="28" fill="#fef3c7" stroke="#ea580c" stroke-width="2"/>
   <g stroke="#ea580c" stroke-width="2" marker-end="url(#arrow)">
@@ -24,6 +24,6 @@
     <line x1="270" y1="175" x2="250" y2="210"/><line x1="270" y1="175" x2="290" y2="210"/>
     <line x1="340" y1="175" x2="320" y2="210"/><line x1="340" y1="175" x2="360" y2="210"/>
   </g>
-  <text x="305" y="62" text-anchor="middle" font-size="12" fill="#0f172a">Q: Meiosis</text>
+  <text x="305" y="62" text-anchor="middle" font-size="12" fill="#0f172a" font-family="Noto Sans Bengali, Arial, sans-serif">Q: Meiosis</text>
 
 </svg>

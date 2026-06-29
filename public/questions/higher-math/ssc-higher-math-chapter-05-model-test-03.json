@@ -3,6 +3,20 @@
     "id": "ssc-higher-math-chapter-05-model-test-03-q01",
     "subject": "higher-math",
     "chapter": "ssc-higher-math-chapter-05-model-test-03",
+    "text": "6² = ?",
+    "options": [
+      "7",
+      "12",
+      "12",
+      "36"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-higher-math-chapter-05-model-test-03-q02",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-05-model-test-03",
     "text": "P(ঘটনা) = 2/6 হলে সম্পূরক = ?",
     "options": [
       "-2",
@@ -11,11 +25,10 @@
       "6"
     ],
     "image": null,
-    "optionImages": null,
     "timeLimit": 45
   },
   {
-    "id": "ssc-higher-math-chapter-05-model-test-03-q02",
+    "id": "ssc-higher-math-chapter-05-model-test-03-q03",
     "subject": "higher-math",
     "chapter": "ssc-higher-math-chapter-05-model-test-03",
     "text": "8x + 15 = 239 হলে x = ?",
@@ -26,11 +39,24 @@
       "30"
     ],
     "image": null,
-    "optionImages": null,
     "timeLimit": 45
   },
   {
-    "id": "ssc-higher-math-chapter-05-model-test-03-q03",
+    "id": "ssc-higher-math-chapter-05-model-test-03-q04",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-05-model-test-03",
+    "text": "25² = ?",
+    "options": [
+      "50",
+      "26",
+      "625",
+      "50"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-higher-math-chapter-05-model-test-03-q05",
     "subject": "higher-math",
     "chapter": "ssc-higher-math-chapter-05-model-test-03",
     "text": "P(ঘটনা) = 6/8 হলে সম্পূরক = ?",
@@ -41,11 +67,10 @@
       "4"
     ],
     "image": null,
-    "optionImages": null,
     "timeLimit": 45
   },
   {
-    "id": "ssc-higher-math-chapter-05-model-test-03-q04",
+    "id": "ssc-higher-math-chapter-05-model-test-03-q06",
     "subject": "higher-math",
     "chapter": "ssc-higher-math-chapter-05-model-test-03",
     "text": "5x + 7 = 97 হলে x = ?",
@@ -56,11 +81,24 @@
       "17"
     ],
     "image": null,
-    "optionImages": null,
     "timeLimit": 45
   },
   {
-    "id": "ssc-higher-math-chapter-05-model-test-03-q05",
+    "id": "ssc-higher-math-chapter-05-model-test-03-q07",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-05-model-test-03",
+    "text": "15² = ?",
+    "options": [
+      "225",
+      "16",
+      "30",
+      "30"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-higher-math-chapter-05-model-test-03-q08",
     "subject": "higher-math",
     "chapter": "ssc-higher-math-chapter-05-model-test-03",
     "text": "P(ঘটনা) = 4/10 হলে সম্পূরক = ?",
@@ -71,11 +109,10 @@
       "24"
     ],
     "image": null,
-    "optionImages": null,
     "timeLimit": 45
   },
   {
-    "id": "ssc-higher-math-chapter-05-model-test-03-q06",
+    "id": "ssc-higher-math-chapter-05-model-test-03-q09",
     "subject": "higher-math",
     "chapter": "ssc-higher-math-chapter-05-model-test-03",
     "text": "2x + 24 = 42 হলে x = ?",
@@ -86,11 +123,10 @@
       "10"
     ],
     "image": null,
-    "optionImages": null,
     "timeLimit": 45
   },
   {
-    "id": "ssc-higher-math-chapter-05-model-test-03-q07",
+    "id": "ssc-higher-math-chapter-05-model-test-03-q10",
     "subject": "higher-math",
     "chapter": "ssc-higher-math-chapter-05-model-test-03",
     "text": "9, 10, ... 3 পদের যোগফল = ?",
@@ -101,11 +137,10 @@
       "30"
     ],
     "image": null,
-    "optionImages": null,
     "timeLimit": 45
   },
   {
-    "id": "ssc-higher-math-chapter-05-model-test-03-q08",
+    "id": "ssc-higher-math-chapter-05-model-test-03-q11",
     "subject": "higher-math",
     "chapter": "ssc-higher-math-chapter-05-model-test-03",
     "text": "বৃত্তের ব্যাসার্ধ 10 হলে ক্ষেত্রফল ≈ ?",
@@ -116,11 +151,10 @@
       "10"
     ],
     "image": null,
-    "optionImages": null,
     "timeLimit": 45
   },
   {
-    "id": "ssc-higher-math-chapter-05-model-test-03-q09",
+    "id": "ssc-higher-math-chapter-05-model-test-03-q12",
     "subject": "higher-math",
     "chapter": "ssc-higher-math-chapter-05-model-test-03",
     "text": "(7 + 14) × 1 = ?",
@@ -131,11 +165,10 @@
       "7"
     ],
     "image": null,
-    "optionImages": null,
     "timeLimit": 45
   },
   {
-    "id": "ssc-higher-math-chapter-05-model-test-03-q10",
+    "id": "ssc-higher-math-chapter-05-model-test-03-q13",
     "subject": "higher-math",
     "chapter": "ssc-higher-math-chapter-05-model-test-03",
     "text": "6, 7, ... 8 পদের যোগফল = ?",
@@ -146,11 +179,10 @@
       "48"
     ],
     "image": null,
-    "optionImages": null,
     "timeLimit": 45
   },
   {
-    "id": "ssc-higher-math-chapter-05-model-test-03-q11",
+    "id": "ssc-higher-math-chapter-05-model-test-03-q14",
     "subject": "higher-math",
     "chapter": "ssc-higher-math-chapter-05-model-test-03",
     "text": "বৃত্তের ব্যাসার্ধ 7 হলে ক্ষেত্রফল ≈ ?",
@@ -161,11 +193,10 @@
       "49"
     ],
     "image": null,
-    "optionImages": null,
     "timeLimit": 45
   },
   {
-    "id": "ssc-higher-math-chapter-05-model-test-03-q12",
+    "id": "ssc-higher-math-chapter-05-model-test-03-q15",
     "subject": "higher-math",
     "chapter": "ssc-higher-math-chapter-05-model-test-03",
     "text": "(4 + 5) × 1 = ?",
@@ -176,11 +207,10 @@
       "-1"
     ],
     "image": null,
-    "optionImages": null,
     "timeLimit": 45
   },
   {
-    "id": "ssc-higher-math-chapter-05-model-test-03-q13",
+    "id": "ssc-higher-math-chapter-05-model-test-03-q16",
     "subject": "higher-math",
     "chapter": "ssc-higher-math-chapter-05-model-test-03",
     "text": "3, 4, ... 6 পদের যোগফল = ?",
@@ -191,11 +221,10 @@
       "36"
     ],
     "image": null,
-    "optionImages": null,
     "timeLimit": 45
   },
   {
-    "id": "ssc-higher-math-chapter-05-model-test-03-q14",
+    "id": "ssc-higher-math-chapter-05-model-test-03-q17",
     "subject": "higher-math",
     "chapter": "ssc-higher-math-chapter-05-model-test-03",
     "text": "বৃত্তের ব্যাসার্ধ 4 হলে ক্ষেত্রফল ≈ ?",
@@ -206,11 +235,10 @@
       "8"
     ],
     "image": null,
-    "optionImages": null,
     "timeLimit": 45
   },
   {
-    "id": "ssc-higher-math-chapter-05-model-test-03-q15",
+    "id": "ssc-higher-math-chapter-05-model-test-03-q18",
     "subject": "higher-math",
     "chapter": "ssc-higher-math-chapter-05-model-test-03",
     "text": "(2 + 22) × 1 = ?",
@@ -221,11 +249,10 @@
       "24"
     ],
     "image": null,
-    "optionImages": null,
     "timeLimit": 45
   },
   {
-    "id": "ssc-higher-math-chapter-05-model-test-03-q16",
+    "id": "ssc-higher-math-chapter-05-model-test-03-q19",
     "subject": "higher-math",
     "chapter": "ssc-higher-math-chapter-05-model-test-03",
     "text": "7x + 15 = 211 হলে x = ?",
@@ -236,11 +263,10 @@
       "30"
     ],
     "image": null,
-    "optionImages": null,
     "timeLimit": 45
   },
   {
-    "id": "ssc-higher-math-chapter-05-model-test-03-q17",
+    "id": "ssc-higher-math-chapter-05-model-test-03-q20",
     "subject": "higher-math",
     "chapter": "ssc-higher-math-chapter-05-model-test-03",
     "text": "2x + 23 = 39 হলে x = ?",
@@ -251,11 +277,24 @@
       "8"
     ],
     "image": null,
-    "optionImages": null,
     "timeLimit": 45
   },
   {
-    "id": "ssc-higher-math-chapter-05-model-test-03-q18",
+    "id": "ssc-higher-math-chapter-05-model-test-03-q21",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-05-model-test-03",
+    "text": "5² = ?",
+    "options": [
+      "10",
+      "6",
+      "10",
+      "25"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-higher-math-chapter-05-model-test-03-q22",
     "subject": "higher-math",
     "chapter": "ssc-higher-math-chapter-05-model-test-03",
     "text": "(7 + 13) × 1 = ?",
@@ -266,11 +305,10 @@
       "6"
     ],
     "image": null,
-    "optionImages": null,
     "timeLimit": 45
   },
   {
-    "id": "ssc-higher-math-chapter-05-model-test-03-q19",
+    "id": "ssc-higher-math-chapter-05-model-test-03-q23",
     "subject": "higher-math",
     "chapter": "ssc-higher-math-chapter-05-model-test-03",
     "text": "5x + 6 = 96 হলে x = ?",
@@ -281,11 +319,24 @@
       "17"
     ],
     "image": null,
-    "optionImages": null,
     "timeLimit": 45
   },
   {
-    "id": "ssc-higher-math-chapter-05-model-test-03-q20",
+    "id": "ssc-higher-math-chapter-05-model-test-03-q24",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-chapter-05-model-test-03",
+    "text": "24² = ?",
+    "options": [
+      "25",
+      "48",
+      "576",
+      "48"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-higher-math-chapter-05-model-test-03-q25",
     "subject": "higher-math",
     "chapter": "ssc-higher-math-chapter-05-model-test-03",
     "text": "7x + 15 = 204 হলে x = ?",
@@ -296,7 +347,6 @@
       "29"
     ],
     "image": null,
-    "optionImages": null,
     "timeLimit": 45
   }
 ]

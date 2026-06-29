@@ -19,9 +19,9 @@
     <line x1="300" y1="180" x2="350" y2="180"/>
   </g>
   <circle cx="170" cy="130" r="5" fill="#ea580c"/>
-  <text x="105" y="118" font-size="13" fill="#2563eb">I₁</text>
-  <text x="232" y="86" font-size="13" fill="#16a34a">I₂</text>
-  <text x="232" y="180" font-size="13" fill="#16a34a">I₃</text>
-  <text x="210" y="220" text-anchor="middle" font-size="12" fill="#475569">Kirchhoff current law: I₁ = I₂ + I₃</text>
+  <text x="105" y="118" font-size="13" fill="#2563eb" font-family="Noto Sans Bengali, Arial, sans-serif">I₁</text>
+  <text x="232" y="86" font-size="13" fill="#16a34a" font-family="Noto Sans Bengali, Arial, sans-serif">I₂</text>
+  <text x="232" y="180" font-size="13" fill="#16a34a" font-family="Noto Sans Bengali, Arial, sans-serif">I₃</text>
+  <text x="210" y="220" text-anchor="middle" font-size="12" fill="#475569" font-family="Noto Sans Bengali, Arial, sans-serif">Kirchhoff current law: I₁ = I₂ + I₃</text>
 
 </svg>

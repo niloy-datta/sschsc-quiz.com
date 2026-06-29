@@ -25,9 +25,9 @@
     <line x1="320" y1="140" x2="340" y2="140"/>
     <line x1="320" y1="165" x2="340" y2="165"/>
   </g>
-  <text x="80" y="212" text-anchor="middle" font-size="11" fill="#475569">source</text>
-  <text x="185" y="222" text-anchor="middle" font-size="11" fill="#475569">double slit</text>
-  <text x="330" y="228" text-anchor="middle" font-size="11" fill="#475569">screen fringes</text>
-  <text x="210" y="78" text-anchor="middle" font-size="12" fill="#2563eb">β = λD/d</text>
+  <text x="80" y="212" text-anchor="middle" font-size="11" fill="#475569" font-family="Noto Sans Bengali, Arial, sans-serif">source</text>
+  <text x="185" y="222" text-anchor="middle" font-size="11" fill="#475569" font-family="Noto Sans Bengali, Arial, sans-serif">double slit</text>
+  <text x="330" y="228" text-anchor="middle" font-size="11" fill="#475569" font-family="Noto Sans Bengali, Arial, sans-serif">screen fringes</text>
+  <text x="210" y="78" text-anchor="middle" font-size="12" fill="#2563eb" font-family="Noto Sans Bengali, Arial, sans-serif">β = λD/d</text>
 
 </svg>

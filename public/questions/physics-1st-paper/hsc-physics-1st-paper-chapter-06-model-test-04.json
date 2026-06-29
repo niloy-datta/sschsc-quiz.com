@@ -40,7 +40,7 @@
       "Graph 3",
       "Graph 4"
     ],
-    "image": "/images/quiz/premium/hsc-physics-1st-paper-chapter-06-model-test-04-q03.svg",
+    "image": "/images/quiz/function-test-1.svg",
     "optionImages": null,
     "timeLimit": 45
   },
@@ -115,8 +115,13 @@
       "গ",
       "ঘ"
     ],
-    "image": "/images/quiz/premium/hsc-physics-1st-paper-chapter-06-model-test-04-q08.svg",
-    "optionImages": null,
+    "image": "/images/quiz/function-test-1.svg",
+    "optionImages": [
+      "/images/quiz/premium/hsc-physics-1st-paper-chapter-06-model-test-04-q08-option-1.svg",
+      "/images/quiz/premium/hsc-physics-1st-paper-chapter-06-model-test-04-q08-option-2.svg",
+      "/images/quiz/premium/hsc-physics-1st-paper-chapter-06-model-test-04-q08-option-3.svg",
+      "/images/quiz/premium/hsc-physics-1st-paper-chapter-06-model-test-04-q08-option-4.svg"
+    ],
     "timeLimit": 45
   },
   {

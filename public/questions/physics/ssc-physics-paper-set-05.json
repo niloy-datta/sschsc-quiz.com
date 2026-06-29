@@ -11,7 +11,6 @@
       "9 m"
     ],
     "image": null,
-    "optionImages": null,
     "timeLimit": 45
   },
   {
@@ -26,7 +25,6 @@
       "32 m/s^2"
     ],
     "image": null,
-    "optionImages": null,
     "timeLimit": 45
   },
   {
@@ -41,7 +39,6 @@
       "36 Ω"
     ],
     "image": null,
-    "optionImages": null,
     "timeLimit": 45
   },
   {
@@ -56,7 +53,6 @@
       "0.6 m/s"
     ],
     "image": null,
-    "optionImages": null,
     "timeLimit": 45
   },
   {
@@ -71,7 +67,6 @@
       "42 J"
     ],
     "image": null,
-    "optionImages": null,
     "timeLimit": 45
   },
   {
@@ -86,7 +81,6 @@
       "$3\\times10^6$ m/s"
     ],
     "image": null,
-    "optionImages": null,
     "timeLimit": 45
   },
   {
@@ -101,7 +95,6 @@
       "Newton"
     ],
     "image": "/images/quiz/premium/ssc-physics-paper-set-05-q07.svg",
-    "optionImages": null,
     "timeLimit": 45
   },
   {
@@ -116,7 +109,6 @@
       "27 J"
     ],
     "image": null,
-    "optionImages": null,
     "timeLimit": 45
   },
   {
@@ -130,8 +122,7 @@
       "i, ii ও iii",
       "i ও iii"
     ],
-    "image": "/images/quiz/premium/ssc-physics-paper-set-05-q09.svg",
-    "optionImages": null,
+    "image": null,
     "timeLimit": 45
   },
   {
@@ -146,7 +137,6 @@
       "300 J"
     ],
     "image": null,
-    "optionImages": null,
     "timeLimit": 45
   },
   {
@@ -161,7 +151,6 @@
       "সরণ"
     ],
     "image": null,
-    "optionImages": null,
     "timeLimit": 45
   },
   {
@@ -176,7 +165,6 @@
       "Tesla"
     ],
     "image": null,
-    "optionImages": null,
     "timeLimit": 45
   },
   {
@@ -191,7 +179,6 @@
       "104 m"
     ],
     "image": null,
-    "optionImages": null,
     "timeLimit": 45
   },
   {
@@ -206,7 +193,6 @@
       "12 m/s^2"
     ],
     "image": null,
-    "optionImages": null,
     "timeLimit": 45
   },
   {
@@ -221,7 +207,6 @@
       "6 Ω"
     ],
     "image": null,
-    "optionImages": null,
     "timeLimit": 45
   },
   {
@@ -236,7 +221,6 @@
       "1.75 m/s"
     ],
     "image": null,
-    "optionImages": null,
     "timeLimit": 45
   },
   {
@@ -251,11 +235,38 @@
       "40 J"
     ],
     "image": null,
-    "optionImages": null,
     "timeLimit": 45
   },
   {
     "id": "ssc-physics-paper-set-05-q18",
+    "subject": "physics",
+    "chapter": "ssc-physics-paper-set-05",
+    "text": "আলোর বেগ শূন্য মাধ্যমে প্রায় কত?",
+    "options": [
+      "$3\\times10^6$ m/s",
+      "$9.8$ m/s",
+      "$3\\times10^8$ m/s",
+      "$3\\times10^5$ m/s"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-paper-set-05-q19",
+    "subject": "physics",
+    "chapter": "ssc-physics-paper-set-05",
+    "text": "লেন্সের ক্ষমতার SI একক কী?",
+    "options": [
+      "Tesla",
+      "Diopter",
+      "Newton",
+      "Joule"
+    ],
+    "image": "/images/quiz/premium/ssc-physics-paper-set-05-q19.svg",
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-paper-set-05-q20",
     "subject": "physics",
     "chapter": "ssc-physics-paper-set-05",
     "text": "6 kg ভরের বস্তু 8 m উচ্চতায় তুললে বিভব শক্তি কত? ধরা হলো $g=10 m/s^2$।",
@@ -266,11 +277,24 @@
       "480 J"
     ],
     "image": null,
-    "optionImages": null,
     "timeLimit": 45
   },
   {
-    "id": "ssc-physics-paper-set-05-q19",
+    "id": "ssc-physics-paper-set-05-q21",
+    "subject": "physics",
+    "chapter": "ssc-physics-paper-set-05",
+    "text": "i, ii, iii বিবেচনা করো: (i) বল ভেক্টর রাশি (ii) কাজ স্কেলার রাশি (iii) ত্বরণ স্কেলার রাশি। কোনটি সঠিক?",
+    "options": [
+      "i ও ii",
+      "i, ii ও iii",
+      "ii ও iii",
+      "i ও iii"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-paper-set-05-q22",
     "subject": "physics",
     "chapter": "ssc-physics-paper-set-05",
     "text": "80 W ক্ষমতার যন্ত্র 3 s চললে শক্তি ব্যয় কত?",
@@ -280,12 +304,39 @@
       "26.6667 J",
       "0.0375 J"
     ],
-    "image": "/images/quiz/premium/ssc-physics-paper-set-05-q19.svg",
-    "optionImages": null,
+    "image": null,
     "timeLimit": 45
   },
   {
-    "id": "ssc-physics-paper-set-05-q20",
+    "id": "ssc-physics-paper-set-05-q23",
+    "subject": "physics",
+    "chapter": "ssc-physics-paper-set-05",
+    "text": "সরল ছন্দিত গতিতে পুনঃস্থাপন বল কিসের সমানুপাতিক?",
+    "options": [
+      "বেগ",
+      "সরণ",
+      "সময়",
+      "ভর"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-paper-set-05-q24",
+    "subject": "physics",
+    "chapter": "ssc-physics-paper-set-05",
+    "text": "চৌম্বক ক্ষেত্রের SI একক কোনটি?",
+    "options": [
+      "Tesla",
+      "Ohm",
+      "Newton",
+      "Volt"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-paper-set-05-q25",
     "subject": "physics",
     "chapter": "ssc-physics-paper-set-05",
     "text": "একটি বস্তুর আদিবেগ 6 m/s এবং শেষবেগ 12 m/s। সময় 6 s হলে অতিক্রান্ত দূরত্ব কত?",
@@ -296,7 +347,6 @@
       "54 m"
     ],
     "image": null,
-    "optionImages": null,
     "timeLimit": 45
   }
 ]

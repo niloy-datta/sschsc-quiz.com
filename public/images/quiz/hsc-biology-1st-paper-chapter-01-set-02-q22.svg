@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="100%" height="100%" viewBox="0 0 360 220">
+<svg xmlns="http://www.w3.org/2000/svg" width="100%" height="100%" viewBox="0 0 360 220" role="img" aria-label="hsc biology 1st paper chapter 01 set 02 q22">
   <defs>
     <radialGradient id="bg" cx="50%" cy="45%" r="75%"><stop offset="0%" stop-color="#0f766e"/><stop offset="100%" stop-color="#020617"/></radialGradient>
     <filter id="g"><feDropShadow dx="0" dy="0" stdDeviation="4" flood-color="#38bdf8" flood-opacity=".55"/></filter>
@@ -9,6 +9,6 @@
   <circle cx="104" cy="110" r="5" fill="#38bdf8"/><circle cx="256" cy="110" r="5" fill="#38bdf8"/>
   <path d="M104 110 C135 80 160 75 180 104 M104 110 C135 140 160 145 180 116 M256 110 C225 80 200 75 180 104 M256 110 C225 140 200 145 180 116" class="sp"/>
   <path d="M165 88 L195 132 M195 88 L165 132" class="ch"/>
-  <text x="180" y="78" text-anchor="middle" class="t">A</text>
+  <text x="180" y="78" text-anchor="middle" class="t" font-family="Noto Sans Bengali, Arial, sans-serif">A</text>
 </svg>
 

@@ -302,6 +302,23 @@
       ]
     },
     {
+      "id": "ssc-higher-math-chapter-04-model-test-03",
+      "title": "অধ্যায় 4 · অসমতা · মডেল টেস্ট 03",
+      "questionCount": 25,
+      "scope": "chapter",
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "model-test"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "04",
+          "chapterName": "অসমতা"
+        }
+      ]
+    },
+    {
       "id": "ssc-higher-math-chapter-04-model-test-04",
       "title": "অধ্যায় 4 · অসমতা · মডেল টেস্ট 04",
       "questionCount": 25,
@@ -829,6 +846,23 @@
       ]
     },
     {
+      "id": "ssc-higher-math-chapter-10-model-test-05",
+      "title": "অধ্যায় 10 · ক্রম ও ধারা · মডেল টেস্ট 05",
+      "questionCount": 25,
+      "scope": "chapter",
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "model-test"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "10",
+          "chapterName": "ক্রম ও ধারা"
+        }
+      ]
+    },
+    {
       "id": "ssc-higher-math-chapter-11-model-test-01",
       "title": "অধ্যায় 11 · দ্বিপদী উপপাদ্য · মডেল টেস্ট 01",
       "questionCount": 22,
@@ -849,6 +883,57 @@
       "id": "ssc-higher-math-chapter-11-model-test-02",
       "title": "অধ্যায় 11 · দ্বিপদী উপপাদ্য · মডেল টেস্ট 02",
       "questionCount": 23,
+      "scope": "chapter",
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "model-test"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "11",
+          "chapterName": "দ্বিপদী উপপাদ্য"
+        }
+      ]
+    },
+    {
+      "id": "ssc-higher-math-chapter-11-model-test-03",
+      "title": "অধ্যায় 11 · দ্বিপদী উপপাদ্য · মডেল টেস্ট 03",
+      "questionCount": 22,
+      "scope": "chapter",
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "model-test"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "11",
+          "chapterName": "দ্বিপদী উপপাদ্য"
+        }
+      ]
+    },
+    {
+      "id": "ssc-higher-math-chapter-11-model-test-04",
+      "title": "অধ্যায় 11 · দ্বিপদী উপপাদ্য · মডেল টেস্ট 04",
+      "questionCount": 22,
+      "scope": "chapter",
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "model-test"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "11",
+          "chapterName": "দ্বিপদী উপপাদ্য"
+        }
+      ]
+    },
+    {
+      "id": "ssc-higher-math-chapter-11-model-test-05",
+      "title": "অধ্যায় 11 · দ্বিপদী উপপাদ্য · মডেল টেস্ট 05",
+      "questionCount": 22,
       "scope": "chapter",
       "importance": "high",
       "tags": [
@@ -1217,52 +1302,47 @@
     {
       "id": "barishal-2022",
       "title": "Barishal Board 2022",
-      "questionCount": 25
+      "questionCount": 15
     },
     {
       "id": "chattogram-2022",
       "title": "Chattogram Board 2022",
-      "questionCount": 25
+      "questionCount": 15
     },
     {
       "id": "cumilla-2022",
       "title": "Cumilla Board 2022",
-      "questionCount": 25
+      "questionCount": 15
     },
     {
       "id": "dhaka-2022",
       "title": "Dhaka Board 2022",
-      "questionCount": 25
+      "questionCount": 15
     },
     {
       "id": "dinajpur-2022",
       "title": "Dinajpur Board 2022",
-      "questionCount": 25
+      "questionCount": 15
     },
     {
       "id": "jashore-2022",
       "title": "Jashore Board 2022",
-      "questionCount": 25
+      "questionCount": 15
     },
     {
       "id": "mymensingh-2022",
       "title": "Mymensingh Board 2022",
-      "questionCount": 25
+      "questionCount": 15
     },
     {
       "id": "rajshahi-2022",
       "title": "Rajshahi Board 2022",
-      "questionCount": 25
+      "questionCount": 15
     },
     {
       "id": "sylhet-2022",
       "title": "Sylhet Board 2022",
-      "questionCount": 25
-    },
-    {
-      "id": "khulna-2022",
-      "title": "খুলনা বোর্ড 2022",
-      "questionCount": 25
+      "questionCount": 16
     },
     {
       "id": "barishal-2023",
@@ -1272,7 +1352,7 @@
     {
       "id": "chattogram-2023",
       "title": "Chattogram Board 2023",
-      "questionCount": 25
+      "questionCount": 15
     },
     {
       "id": "cumilla-2023",
@@ -1282,17 +1362,17 @@
     {
       "id": "dhaka-2023",
       "title": "Dhaka Board 2023",
-      "questionCount": 25
+      "questionCount": 15
     },
     {
       "id": "dinajpur-2023",
       "title": "Dinajpur Board 2023",
-      "questionCount": 25
+      "questionCount": 15
     },
     {
       "id": "jashore-2023",
       "title": "Jashore Board 2023",
-      "questionCount": 25
+      "questionCount": 15
     },
     {
       "id": "mymensingh-2023",
@@ -1302,17 +1382,12 @@
     {
       "id": "rajshahi-2023",
       "title": "Rajshahi Board 2023",
-      "questionCount": 25
+      "questionCount": 15
     },
     {
       "id": "sylhet-2023",
       "title": "Sylhet Board 2023",
-      "questionCount": 25
-    },
-    {
-      "id": "khulna-2023",
-      "title": "খুলনা বোর্ড 2023",
-      "questionCount": 25
+      "questionCount": 16
     },
     {
       "id": "barishal-2024",
@@ -1360,29 +1435,19 @@
       "questionCount": 25
     },
     {
-      "id": "khulna-2024",
-      "title": "খুলনা বোর্ড 2024",
-      "questionCount": 25
-    },
-    {
-      "id": "barishal-2025",
-      "title": "Barishal Board 2025",
-      "questionCount": 25
-    },
-    {
       "id": "chattogram-2025",
       "title": "Chattogram Board 2025",
-      "questionCount": 25
+      "questionCount": 15
     },
     {
       "id": "cumilla-2025",
       "title": "Cumilla Board 2025",
-      "questionCount": 25
+      "questionCount": 15
     },
     {
       "id": "dhaka-2025",
       "title": "Dhaka Board 2025",
-      "questionCount": 25
+      "questionCount": 15
     },
     {
       "id": "dinajpur-2025",
@@ -1392,7 +1457,7 @@
     {
       "id": "jashore-2025",
       "title": "Jashore Board 2025",
-      "questionCount": 25
+      "questionCount": 15
     },
     {
       "id": "mymensingh-2025",
@@ -1402,21 +1467,16 @@
     {
       "id": "rajshahi-2025",
       "title": "Rajshahi Board 2025",
-      "questionCount": 25
+      "questionCount": 15
     },
     {
       "id": "sylhet-2025",
       "title": "Sylhet Board 2025",
-      "questionCount": 25
-    },
-    {
-      "id": "khulna-2025",
-      "title": "খুলনা বোর্ড 2025",
-      "questionCount": 25
+      "questionCount": 16
     },
     {
       "id": "barishal-2026",
-      "title": "Barishal Board 2026",
+      "title": "বরিশাল বোর্ড ২০২৬",
       "questionCount": 15
     },
     {

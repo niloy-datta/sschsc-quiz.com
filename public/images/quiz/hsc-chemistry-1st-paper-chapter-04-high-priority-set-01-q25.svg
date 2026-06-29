@@ -1,11 +1,11 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 360 220" width="100%" height="100%">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 360 220" width="100%" height="100%" role="img" aria-label="hsc chemistry 1st paper chapter 04 high priority set 01 q25">
 <defs><radialGradient id="b" cx="50%" cy="45%" r="75%"><stop offset="0%" stop-color="#1e293b"/><stop offset="100%" stop-color="#020617"/></radialGradient></defs>
 <rect width="360" height="220" rx="18" fill="url(#b)"/>
 <path d="M92 55 H268 L248 185 H112Z" fill="#0f172a" stroke="#e5e7eb" stroke-width="3"/>
 <path d="M108 118 C145 105 215 105 252 118 L242 178 H118Z" fill="#0e7490" opacity=".75"/>
 <g font-size="15" font-weight="900" font-family="Arial" text-anchor="middle">
-<text x="142" y="140" fill="#facc15">A²⁺</text><text x="205" y="150" fill="#38bdf8">B⁻</text><text x="226" y="122" fill="#38bdf8">B⁻</text>
+<text x="142" y="140" fill="#facc15" font-family="Noto Sans Bengali, Arial, sans-serif">A²⁺</text><text x="205" y="150" fill="#38bdf8" font-family="Noto Sans Bengali, Arial, sans-serif">B⁻</text><text x="226" y="122" fill="#38bdf8" font-family="Noto Sans Bengali, Arial, sans-serif">B⁻</text>
 </g>
 <rect x="132" y="169" width="95" height="14" rx="5" fill="#facc15" opacity=".75"/>
-<text x="180" y="205" text-anchor="middle" font-size="13" font-weight="800" fill="#fff">saturated AB₂ solution</text>
+<text x="180" y="205" text-anchor="middle" font-size="13" font-weight="800" fill="#fff" font-family="Noto Sans Bengali, Arial, sans-serif">saturated AB₂ solution</text>
 </svg>

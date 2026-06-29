@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="100%" height="100%" viewBox="0 0 360 220">
+<svg xmlns="http://www.w3.org/2000/svg" width="100%" height="100%" viewBox="0 0 360 220" role="img" aria-label="biology ssc science biology extra ssc biology high common sets 2 6 ts 83">
   <defs>
     <marker id="arrow" markerWidth="8" markerHeight="8" refX="7" refY="3" orient="auto">
       <path d="M0,0 L0,6 L8,3 z" fill="#facc15"/>
@@ -22,7 +22,7 @@
   <path d="M150 80 C162 105 174 120 198 136" class="flow"/>
   <path d="M214 140 C235 145 252 143 275 153" class="flow"/>
 
-  <text x="145" y="203" text-anchor="middle" class="label">পাকস্থলী</text>
-  <text x="263" y="203" text-anchor="middle" class="label">ক্ষুদ্রান্ত্র</text>
-  <text x="232" y="119" text-anchor="middle" class="small">পরবর্তী অংশ</text>
+  <text x="145" y="203" text-anchor="middle" class="label" font-family="Noto Sans Bengali, Arial, sans-serif">পাকস্থলী</text>
+  <text x="263" y="203" text-anchor="middle" class="label" font-family="Noto Sans Bengali, Arial, sans-serif">ক্ষুদ্রান্ত্র</text>
+  <text x="232" y="119" text-anchor="middle" class="small" font-family="Noto Sans Bengali, Arial, sans-serif">পরবর্তী অংশ</text>
 </svg>

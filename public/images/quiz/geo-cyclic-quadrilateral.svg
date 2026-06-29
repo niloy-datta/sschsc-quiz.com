@@ -13,10 +13,10 @@
   
   <circle cx="210" cy="132" r="82" fill="none" stroke="#2563eb" stroke-width="3"/>
   <polygon points="145,82 288,92 276,190 122,174" fill="none" stroke="#0f172a" stroke-width="2.4"/>
-  <text x="136" y="75" font-size="12" fill="#0f172a">A</text><text x="296" y="88" font-size="12" fill="#0f172a">B</text>
-  <text x="282" y="205" font-size="12" fill="#0f172a">C</text><text x="110" y="184" font-size="12" fill="#0f172a">D</text>
+  <text x="136" y="75" font-size="12" fill="#0f172a" font-family="Noto Sans Bengali, Arial, sans-serif">A</text><text x="296" y="88" font-size="12" fill="#0f172a" font-family="Noto Sans Bengali, Arial, sans-serif">B</text>
+  <text x="282" y="205" font-size="12" fill="#0f172a" font-family="Noto Sans Bengali, Arial, sans-serif">C</text><text x="110" y="184" font-size="12" fill="#0f172a" font-family="Noto Sans Bengali, Arial, sans-serif">D</text>
   <path d="M160 87 A22 22 0 0 1 149 108" fill="none" stroke="#ea580c" stroke-width="2"/>
   <path d="M260 184 A25 25 0 0 1 245 166" fill="none" stroke="#16a34a" stroke-width="2"/>
-  <text x="210" y="224" text-anchor="middle" font-size="12" fill="#475569">Opposite angles of cyclic quadrilateral</text>
+  <text x="210" y="224" text-anchor="middle" font-size="12" fill="#475569" font-family="Noto Sans Bengali, Arial, sans-serif">Opposite angles of cyclic quadrilateral</text>
 
 </svg>

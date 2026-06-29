@@ -17,9 +17,9 @@
   <line x1="200" y1="70" x2="350" y2="70" stroke="#2563eb" stroke-width="2" stroke-dasharray="5 5"/>
   <line x1="115" y1="180" x2="350" y2="70" stroke="#ea580c" stroke-width="3" marker-end="url(#arrow)"/>
   <path d="M148 180 A35 35 0 0 0 138 150" fill="none" stroke="#ea580c" stroke-width="2"/>
-  <text x="185" y="197" font-size="12" fill="#2563eb">5 N</text>
-  <text x="165" y="112" font-size="12" fill="#16a34a">7 N</text>
-  <text x="145" y="149" font-size="12" fill="#ea580c">60°</text>
-  <text x="260" y="110" font-size="12" fill="#ea580c">R</text>
+  <text x="185" y="197" font-size="12" fill="#2563eb" font-family="Noto Sans Bengali, Arial, sans-serif">5 N</text>
+  <text x="165" y="112" font-size="12" fill="#16a34a" font-family="Noto Sans Bengali, Arial, sans-serif">7 N</text>
+  <text x="145" y="149" font-size="12" fill="#ea580c" font-family="Noto Sans Bengali, Arial, sans-serif">60°</text>
+  <text x="260" y="110" font-size="12" fill="#ea580c" font-family="Noto Sans Bengali, Arial, sans-serif">R</text>
 
 </svg>

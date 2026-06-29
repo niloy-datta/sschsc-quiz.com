@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="100%" height="100%" viewBox="0 0 360 220">
+<svg xmlns="http://www.w3.org/2000/svg" width="100%" height="100%" viewBox="0 0 360 220" role="img" aria-label="biology ssc science biology board questions year wise 2023 sylhet ts 1">
   <defs>
     <linearGradient id="spectrum" x1="0" y1="0" x2="1" y2="0">
       <stop offset="0%" stop-color="#7c3aed"/>
@@ -25,9 +25,9 @@
   <path d="M48 135 C72 88 105 88 130 135 S188 182 213 135 S270 88 312 135" class="wave"/>
 
   <line x1="48" y1="170" x2="312" y2="170" class="axis"/>
-  <text x="50" y="190" class="small">400 nm</text>
-  <text x="260" y="190" class="small">700 nm</text>
+  <text x="50" y="190" class="small" font-family="Noto Sans Bengali, Arial, sans-serif">400 nm</text>
+  <text x="260" y="190" class="small" font-family="Noto Sans Bengali, Arial, sans-serif">700 nm</text>
 
   <circle cx="278" cy="55" r="8" fill="#ef4444"/>
-  <text x="278" y="33" text-anchor="middle" class="label">লাল আলো</text>
+  <text x="278" y="33" text-anchor="middle" class="label" font-family="Noto Sans Bengali, Arial, sans-serif">লাল আলো</text>
 </svg>

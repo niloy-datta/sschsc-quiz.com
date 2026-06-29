@@ -10,9 +10,9 @@
   <line x1="70" y1="170" x2="70" y2="50" stroke="#cbd5e1" stroke-width="2" marker-end="url(#arrow)"/>
   <path d="M75 165 L285 62" stroke="#38bdf8" stroke-width="4" fill="none"/>
   <circle cx="75" cy="165" r="4" fill="#facc15"/>
-  <text x="52" y="174" font-size="10" fill="#e5f4ff">O</text>
-  <text x="300" y="188" font-size="10" fill="#e5f4ff">x</text>
-  <text x="48" y="56" font-size="10" fill="#e5f4ff">y</text>
-  <text x="180" y="198" text-anchor="middle" font-size="10" fill="#cbd5e1">সঠিক সম্পর্ক অনুযায়ী সরলরেখা</text>
+  <text x="52" y="174" font-size="10" fill="#e5f4ff" font-family="Noto Sans Bengali, Arial, sans-serif">O</text>
+  <text x="300" y="188" font-size="10" fill="#e5f4ff" font-family="Noto Sans Bengali, Arial, sans-serif">x</text>
+  <text x="48" y="56" font-size="10" fill="#e5f4ff" font-family="Noto Sans Bengali, Arial, sans-serif">y</text>
+  <text x="180" y="198" text-anchor="middle" font-size="10" fill="#cbd5e1" font-family="Noto Sans Bengali, Arial, sans-serif">সঠিক সম্পর্ক অনুযায়ী সরলরেখা</text>
 
 </svg>

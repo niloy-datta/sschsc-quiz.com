@@ -42,6 +42,13 @@ describe("Quiz Sanitization Pipeline", () => {
       const out = sanitizeQuestionText("তাপমাত্রা 40°C");
       expect(out).toContain("$40^{\\circ}\\text{C}$");
     });
+
+    it("fixes double closing brace on various text units", () => {
+      expect(normalizeBrokenLatex("\\text{cm}}")).toBe("\\text{cm}");
+      expect(normalizeBrokenLatex("\\text{ms^{-1}}}")).toBe("\\text{ms^{-1}}");
+      // The original fix should still work
+      expect(normalizeBrokenLatex("\\text{kg}}")).toBe("\\text{kg}");
+    });
   });
 
   describe("Double Backslash replacement", () => {
@@ -185,6 +192,22 @@ describe("Quiz Sanitization Pipeline", () => {
       const pass1 = sanitizeQuestionText(text);
       const pass2 = sanitizeQuestionText(pass1);
       expect(pass2).toBe(pass1);
+    });
+  });
+
+  describe("Leaked solution stripping", () => {
+    it("should not strip valid question statements that follow the prompt", () => {
+      const question = "উদ্দীপকের আলোকে নিচের কোনটি সঠিক?\ni. Statement 1\nii. Statement 2";
+      const sanitized = sanitizeQuestionText(question);
+      expect(sanitized).toContain("Statement 1");
+      expect(sanitized).toContain("Statement 2");
+      expect(sanitized).toContain("নিচের কোনটি সঠিক?");
+    });
+
+    it("should strip a leaked solution starting with 'therefore' (তাই)", () => {
+      const question = "নিচের কোনটি সঠিক? তাই উত্তরটি হলো...";
+      const sanitized = sanitizeQuestionText(question);
+      expect(sanitized).toBe("নিচের কোনটি সঠিক?");
     });
   });
 });

@@ -15,8 +15,8 @@
   <line x1="90" y1="220" x2="90" y2="60" stroke="#0f172a" stroke-width="2" marker-end="url(#arrow)"/>
   <line x1="90" y1="185" x2="335" y2="70" stroke="#2563eb" stroke-width="3.5"/>
   <path d="M135 185 A45 45 0 0 0 126 166" fill="none" stroke="#ea580c" stroke-width="2"/>
-  <text x="132" y="162" font-size="13" fill="#ea580c">θ</text>
-  <text x="250" y="105" font-size="13" fill="#2563eb">y = mx + c</text>
-  <text x="210" y="230" text-anchor="middle" font-size="12" fill="#475569">m = tanθ</text>
+  <text x="132" y="162" font-size="13" fill="#ea580c" font-family="Noto Sans Bengali, Arial, sans-serif">θ</text>
+  <text x="250" y="105" font-size="13" fill="#2563eb" font-family="Noto Sans Bengali, Arial, sans-serif">y = mx + c</text>
+  <text x="210" y="230" text-anchor="middle" font-size="12" fill="#475569" font-family="Noto Sans Bengali, Arial, sans-serif">m = tanθ</text>
 
 </svg>

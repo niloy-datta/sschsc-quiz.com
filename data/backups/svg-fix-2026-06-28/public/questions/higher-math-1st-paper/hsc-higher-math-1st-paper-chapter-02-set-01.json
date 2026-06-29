@@ -1,0 +1,377 @@
+[
+  {
+    "id": "hsc-higher-math-1st-paper-chapter-02-set-01-q01",
+    "subject": "higher-math-1st-paper",
+    "chapter": "hsc-higher-math-1st-paper-chapter-02-set-01",
+    "text": "$\\vec a=(3,3,4)$ হলে $|\\vec a|^2$ কত?",
+    "options": [
+      "36",
+      "35",
+      "34",
+      "10"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-higher-math-1st-paper-chapter-02-set-01-q02",
+    "subject": "higher-math-1st-paper",
+    "chapter": "hsc-higher-math-1st-paper-chapter-02-set-01",
+    "text": "$\\vec a=(4,4,5)$ ও $\\vec b=(4,5,4)$ হলে $\\vec a\\cdot\\vec b$ কত?",
+    "options": [
+      "57",
+      "0",
+      "-56",
+      "56"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-higher-math-1st-paper-chapter-02-set-01-q03",
+    "subject": "higher-math-1st-paper",
+    "chapter": "hsc-higher-math-1st-paper-chapter-02-set-01",
+    "text": "দুটি non-zero vector perpendicular হলে dot product কত?",
+    "options": [
+      "0",
+      "উভয়ের মানের গুণফল",
+      "-1",
+      "1"
+    ],
+    "image": "/images/quiz/premium/hsc-higher-math-1st-paper-chapter-02-set-01-q03.svg",
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-higher-math-1st-paper-chapter-02-set-01-q04",
+    "subject": "higher-math-1st-paper",
+    "chapter": "hsc-higher-math-1st-paper-chapter-02-set-01",
+    "text": "$\\vec b=6\\vec a$ হলে $\\vec a$ ও $\\vec b$ কেমন?",
+    "options": [
+      "সমান্তরাল",
+      "অসংজ্ঞায়িত",
+      "লম্ব",
+      "বিপরীত নয়"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-higher-math-1st-paper-chapter-02-set-01-q05",
+    "subject": "higher-math-1st-paper",
+    "chapter": "hsc-higher-math-1st-paper-chapter-02-set-01",
+    "text": "$\\hat i\\times\\hat j$ কত?",
+    "options": [
+      "$-\\hat k$",
+      "0",
+      "$\\hat i$",
+      "$\\hat k$"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-higher-math-1st-paper-chapter-02-set-01-q06",
+    "subject": "higher-math-1st-paper",
+    "chapter": "hsc-higher-math-1st-paper-chapter-02-set-01",
+    "text": "$|\\vec a\\times\\vec b|$ এর সূত্র কোনটি?",
+    "options": [
+      "$|a||b|\\sin\\theta$",
+      "$|a|+|b|$",
+      "$a\\cdot b$",
+      "$|a||b|\\cos\\theta$"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-higher-math-1st-paper-chapter-02-set-01-q07",
+    "subject": "higher-math-1st-paper",
+    "chapter": "hsc-higher-math-1st-paper-chapter-02-set-01",
+    "text": "$\\vec a\\cdot\\vec b=|a||b|$ হলে মধ্যবর্তী কোণ কত?",
+    "options": [
+      "$45^\\circ$",
+      "$180^\\circ$",
+      "$90^\\circ$",
+      "$0^\\circ$"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-higher-math-1st-paper-chapter-02-set-01-q08",
+    "subject": "higher-math-1st-paper",
+    "chapter": "hsc-higher-math-1st-paper-chapter-02-set-01",
+    "text": "Vector product-এর দিক কেমন?",
+    "options": [
+      "প্রথমটির সমান্তরাল",
+      "উভয় ভেক্টরের উপর লম্ব",
+      "সবসময় $x$-অক্ষ বরাবর",
+      "দ্বিতীয়টির সমান্তরাল"
+    ],
+    "image": "/images/quiz/premium/hsc-higher-math-1st-paper-chapter-02-set-01-q08.svg",
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-higher-math-1st-paper-chapter-02-set-01-q09",
+    "subject": "higher-math-1st-paper",
+    "chapter": "hsc-higher-math-1st-paper-chapter-02-set-01",
+    "text": "$\\vec a\\cdot\\vec a$ কোনটির সমান?",
+    "options": [
+      "$|\\vec a|^2$",
+      "0",
+      "$2|\\vec a|$",
+      "$|\\vec a|$"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-higher-math-1st-paper-chapter-02-set-01-q10",
+    "subject": "higher-math-1st-paper",
+    "chapter": "hsc-higher-math-1st-paper-chapter-02-set-01",
+    "text": "Unit vector-এর magnitude কত?",
+    "options": [
+      "যেকোনো",
+      "-1",
+      "1",
+      "0"
+    ],
+    "image": "/images/quiz/premium/hsc-higher-math-1st-paper-chapter-02-set-01-q10.svg",
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-higher-math-1st-paper-chapter-02-set-01-q11",
+    "subject": "higher-math-1st-paper",
+    "chapter": "hsc-higher-math-1st-paper-chapter-02-set-01",
+    "text": "$\\vec a=(3,6,6)$ হলে $|\\vec a|^2$ কত?",
+    "options": [
+      "81",
+      "15",
+      "108",
+      "82"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-higher-math-1st-paper-chapter-02-set-01-q12",
+    "subject": "higher-math-1st-paper",
+    "chapter": "hsc-higher-math-1st-paper-chapter-02-set-01",
+    "text": "$\\vec a=(4,7,3)$ ও $\\vec b=(7,3,4)$ হলে $\\vec a\\cdot\\vec b$ কত?",
+    "options": [
+      "-61",
+      "61",
+      "62",
+      "0"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-higher-math-1st-paper-chapter-02-set-01-q13",
+    "subject": "higher-math-1st-paper",
+    "chapter": "hsc-higher-math-1st-paper-chapter-02-set-01",
+    "text": "দুটি non-zero vector perpendicular হলে dot product কত? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 01-13 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+    "options": [
+      "1",
+      "উভয়ের মানের গুণফল",
+      "-1",
+      "0"
+    ],
+    "image": "/images/quiz/premium/hsc-higher-math-1st-paper-chapter-02-set-01-q13.svg",
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-higher-math-1st-paper-chapter-02-set-01-q14",
+    "subject": "higher-math-1st-paper",
+    "chapter": "hsc-higher-math-1st-paper-chapter-02-set-01",
+    "text": "$\\vec b=6\\vec a$ হলে $\\vec a$ ও $\\vec b$ কেমন? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 01-14 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+    "options": [
+      "লম্ব",
+      "অসংজ্ঞায়িত",
+      "সমান্তরাল",
+      "বিপরীত নয়"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-higher-math-1st-paper-chapter-02-set-01-q15",
+    "subject": "higher-math-1st-paper",
+    "chapter": "hsc-higher-math-1st-paper-chapter-02-set-01",
+    "text": "$\\hat i\\times\\hat j$ কত? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 01-15 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+    "options": [
+      "0",
+      "$-\\hat k$",
+      "$\\hat i$",
+      "$\\hat k$"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-higher-math-1st-paper-chapter-02-set-01-q16",
+    "subject": "higher-math-1st-paper",
+    "chapter": "hsc-higher-math-1st-paper-chapter-02-set-01",
+    "text": "$|\\vec a\\times\\vec b|$ এর সূত্র কোনটি? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 01-16 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+    "options": [
+      "$a\\cdot b$",
+      "$|a||b|\\cos\\theta$",
+      "$|a||b|\\sin\\theta$",
+      "$|a|+|b|$"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-higher-math-1st-paper-chapter-02-set-01-q17",
+    "subject": "higher-math-1st-paper",
+    "chapter": "hsc-higher-math-1st-paper-chapter-02-set-01",
+    "text": "$\\vec a\\cdot\\vec b=|a||b|$ হলে মধ্যবর্তী কোণ কত? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 01-17 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+    "options": [
+      "$0^\\circ$",
+      "$180^\\circ$",
+      "$45^\\circ$",
+      "$90^\\circ$"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-higher-math-1st-paper-chapter-02-set-01-q18",
+    "subject": "higher-math-1st-paper",
+    "chapter": "hsc-higher-math-1st-paper-chapter-02-set-01",
+    "text": "Vector product-এর দিক কেমন? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 01-18 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+    "options": [
+      "প্রথমটির সমান্তরাল",
+      "সবসময় $x$-অক্ষ বরাবর",
+      "উভয় ভেক্টরের উপর লম্ব",
+      "দ্বিতীয়টির সমান্তরাল"
+    ],
+    "image": "/images/quiz/premium/hsc-higher-math-1st-paper-chapter-02-set-01-q18.svg",
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-higher-math-1st-paper-chapter-02-set-01-q19",
+    "subject": "higher-math-1st-paper",
+    "chapter": "hsc-higher-math-1st-paper-chapter-02-set-01",
+    "text": "$\\vec a\\cdot\\vec a$ কোনটির সমান? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 01-19 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+    "options": [
+      "$|\\vec a|^2$",
+      "$2|\\vec a|$",
+      "0",
+      "$|\\vec a|$"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-higher-math-1st-paper-chapter-02-set-01-q20",
+    "subject": "higher-math-1st-paper",
+    "chapter": "hsc-higher-math-1st-paper-chapter-02-set-01",
+    "text": "Unit vector-এর magnitude কত? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 01-20 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+    "options": [
+      "0",
+      "1",
+      "যেকোনো",
+      "-1"
+    ],
+    "image": "/images/quiz/premium/hsc-higher-math-1st-paper-chapter-02-set-01-q20.svg",
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-higher-math-1st-paper-chapter-02-set-01-q21",
+    "subject": "higher-math-1st-paper",
+    "chapter": "hsc-higher-math-1st-paper-chapter-02-set-01",
+    "text": "$\\vec a=(3,2,4)$ হলে $|\\vec a|^2$ কত?",
+    "options": [
+      "29",
+      "24",
+      "30",
+      "9"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-higher-math-1st-paper-chapter-02-set-01-q22",
+    "subject": "higher-math-1st-paper",
+    "chapter": "hsc-higher-math-1st-paper-chapter-02-set-01",
+    "text": "$\\vec a=(4,3,5)$ ও $\\vec b=(3,5,4)$ হলে $\\vec a\\cdot\\vec b$ কত?",
+    "options": [
+      "47",
+      "48",
+      "0",
+      "-47"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-higher-math-1st-paper-chapter-02-set-01-q23",
+    "subject": "higher-math-1st-paper",
+    "chapter": "hsc-higher-math-1st-paper-chapter-02-set-01",
+    "text": "দুটি non-zero vector perpendicular হলে dot product কত? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 01-23 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+    "options": [
+      "উভয়ের মানের গুণফল",
+      "-1",
+      "1",
+      "0"
+    ],
+    "image": "/images/quiz/premium/hsc-higher-math-1st-paper-chapter-02-set-01-q23.svg",
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-higher-math-1st-paper-chapter-02-set-01-q24",
+    "subject": "higher-math-1st-paper",
+    "chapter": "hsc-higher-math-1st-paper-chapter-02-set-01",
+    "text": "$\\vec b=6\\vec a$ হলে $\\vec a$ ও $\\vec b$ কেমন? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 01-24 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+    "options": [
+      "বিপরীত নয়",
+      "অসংজ্ঞায়িত",
+      "লম্ব",
+      "সমান্তরাল"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-higher-math-1st-paper-chapter-02-set-01-q25",
+    "subject": "higher-math-1st-paper",
+    "chapter": "hsc-higher-math-1st-paper-chapter-02-set-01",
+    "text": "$\\hat i\\times\\hat j$ কত? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 01-25 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+    "options": [
+      "$\\hat i$",
+      "$\\hat k$",
+      "$-\\hat k$",
+      "0"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  }
+]

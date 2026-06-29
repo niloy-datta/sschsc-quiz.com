@@ -1,0 +1,377 @@
+[
+  {
+    "id": "hsc-higher-math-1st-paper-chapter-01-set-02-q01",
+    "subject": "higher-math-1st-paper",
+    "chapter": "hsc-higher-math-1st-paper-chapter-01-set-02",
+    "text": "$A$ এর order $4\\times 3$ এবং $B$ এর order $3\\times 5$ হলে $AB$ এর order কত?",
+    "options": [
+      "$4\\times 5$",
+      "$4\\times 3$",
+      "$3\\times 5$",
+      "গুণ করা সম্ভব নয়"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-higher-math-1st-paper-chapter-01-set-02-q02",
+    "subject": "higher-math-1st-paper",
+    "chapter": "hsc-higher-math-1st-paper-chapter-01-set-02",
+    "text": "$A=$\\begin{pmatrix}5&4\\\\6&5\\end{pmatrix}$$ হলে $|A|$ কত?",
+    "options": [
+      "49",
+      "-1",
+      "2",
+      "1"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-higher-math-1st-paper-chapter-01-set-02-q03",
+    "subject": "higher-math-1st-paper",
+    "chapter": "hsc-higher-math-1st-paper-chapter-01-set-02",
+    "text": "$M=\\begin{pmatrix}k&5\\\\7&6\\end{pmatrix}$ singular হলে $k$ কত?",
+    "options": [
+      "35",
+      "6",
+      "$\\frac{35}{6}$",
+      "0"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-higher-math-1st-paper-chapter-01-set-02-q04",
+    "subject": "higher-math-1st-paper",
+    "chapter": "hsc-higher-math-1st-paper-chapter-01-set-02",
+    "text": "$\\begin{pmatrix}7&1&2\\\\0&7&3\\\\4&2&x\\end{pmatrix}$ এর trace 18 হলে $x$ কত?",
+    "options": [
+      "5",
+      "3",
+      "18",
+      "4"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-higher-math-1st-paper-chapter-01-set-02-q05",
+    "subject": "higher-math-1st-paper",
+    "chapter": "hsc-higher-math-1st-paper-chapter-01-set-02",
+    "text": "একটি ম্যাট্রিক্স একই সাথে symmetric ও skew-symmetric হলে সেটি কী? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 02-05 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+    "options": [
+      "কর্ণ ম্যাট্রিক্স",
+      "স্কেলার ম্যাট্রিক্স",
+      "শূন্য ম্যাট্রিক্স",
+      "অভেদক ম্যাট্রিক্স"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-higher-math-1st-paper-chapter-01-set-02-q06",
+    "subject": "higher-math-1st-paper",
+    "chapter": "hsc-higher-math-1st-paper-chapter-01-set-02",
+    "text": "$A=$\\begin{pmatrix}4&8\\\\6&3\\end{pmatrix}$$ হলে $|A^T|$ কত?",
+    "options": [
+      "-34",
+      "0",
+      "-36",
+      "36"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-higher-math-1st-paper-chapter-01-set-02-q07",
+    "subject": "higher-math-1st-paper",
+    "chapter": "hsc-higher-math-1st-paper-chapter-01-set-02",
+    "text": "$n\\times n$ non-singular matrix $A$ এর জন্য $|Adj(A)|$ কোনটি? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 02-07 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+    "options": [
+      "$1/|A|$",
+      "$|A|^{n-1}$",
+      "$|A|^{n+1}$",
+      "$|A|^n$"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-higher-math-1st-paper-chapter-01-set-02-q08",
+    "subject": "higher-math-1st-paper",
+    "chapter": "hsc-higher-math-1st-paper-chapter-01-set-02",
+    "text": "Skew-symmetric matrix-এর principal diagonal-এর ভুক্তিগুলো কেমন? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 02-08 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+    "options": [
+      "সবগুলো -1",
+      "যেকোনো মান",
+      "সবগুলো 0",
+      "সবগুলো 1"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-higher-math-1st-paper-chapter-01-set-02-q09",
+    "subject": "higher-math-1st-paper",
+    "chapter": "hsc-higher-math-1st-paper-chapter-01-set-02",
+    "text": "Cramer's rule প্রয়োগের জন্য প্রধান determinant $D$ কেমন হতে হবে? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 02-09 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+    "options": [
+      "$D\\ne0$",
+      "$D<0$",
+      "$D=0$",
+      "$D=1$ অবশ্যই"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-higher-math-1st-paper-chapter-01-set-02-q10",
+    "subject": "higher-math-1st-paper",
+    "chapter": "hsc-higher-math-1st-paper-chapter-01-set-02",
+    "text": "$A^2=A$ হলে $A$ কী ধরনের matrix? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 02-10 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+    "options": [
+      "Involutory",
+      "Idempotent",
+      "Orthogonal",
+      "Nilpotent"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-higher-math-1st-paper-chapter-01-set-02-q11",
+    "subject": "higher-math-1st-paper",
+    "chapter": "hsc-higher-math-1st-paper-chapter-01-set-02",
+    "text": "$A$ এর order $4\\times 6$ এবং $B$ এর order $6\\times 7$ হলে $AB$ এর order কত?",
+    "options": [
+      "$6\\times 7$",
+      "$4\\times 6$",
+      "গুণ করা সম্ভব নয়",
+      "$4\\times 7$"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-higher-math-1st-paper-chapter-01-set-02-q12",
+    "subject": "higher-math-1st-paper",
+    "chapter": "hsc-higher-math-1st-paper-chapter-01-set-02",
+    "text": "$A=$\\begin{pmatrix}5&7\\\\4&3\\end{pmatrix}$$ হলে $|A|$ কত?",
+    "options": [
+      "-12",
+      "43",
+      "-13",
+      "13"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-higher-math-1st-paper-chapter-01-set-02-q13",
+    "subject": "higher-math-1st-paper",
+    "chapter": "hsc-higher-math-1st-paper-chapter-01-set-02",
+    "text": "$M=\\begin{pmatrix}k&8\\\\5&4\\end{pmatrix}$ singular হলে $k$ কত?",
+    "options": [
+      "10",
+      "$\\frac{41}{4}$",
+      "40",
+      "0"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-higher-math-1st-paper-chapter-01-set-02-q14",
+    "subject": "higher-math-1st-paper",
+    "chapter": "hsc-higher-math-1st-paper-chapter-01-set-02",
+    "text": "$\\begin{pmatrix}7&1&2\\\\0&5&3\\\\4&2&x\\end{pmatrix}$ এর trace 18 হলে $x$ কত?",
+    "options": [
+      "5",
+      "18",
+      "6",
+      "7"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-higher-math-1st-paper-chapter-01-set-02-q15",
+    "subject": "higher-math-1st-paper",
+    "chapter": "hsc-higher-math-1st-paper-chapter-01-set-02",
+    "text": "একটি ম্যাট্রিক্স একই সাথে symmetric ও skew-symmetric হলে সেটি কী? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 02-15 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+    "options": [
+      "স্কেলার ম্যাট্রিক্স",
+      "কর্ণ ম্যাট্রিক্স",
+      "শূন্য ম্যাট্রিক্স",
+      "অভেদক ম্যাট্রিক্স"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-higher-math-1st-paper-chapter-01-set-02-q16",
+    "subject": "higher-math-1st-paper",
+    "chapter": "hsc-higher-math-1st-paper-chapter-01-set-02",
+    "text": "$A=$\\begin{pmatrix}4&4\\\\4&7\\end{pmatrix}$$ হলে $|A^T|$ কত?",
+    "options": [
+      "0",
+      "-12",
+      "12",
+      "14"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-higher-math-1st-paper-chapter-01-set-02-q17",
+    "subject": "higher-math-1st-paper",
+    "chapter": "hsc-higher-math-1st-paper-chapter-01-set-02",
+    "text": "$n\\times n$ non-singular matrix $A$ এর জন্য $|Adj(A)|$ কোনটি? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 02-17 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+    "options": [
+      "$|A|^{n+1}$",
+      "$1/|A|$",
+      "$|A|^{n-1}$",
+      "$|A|^n$"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-higher-math-1st-paper-chapter-01-set-02-q18",
+    "subject": "higher-math-1st-paper",
+    "chapter": "hsc-higher-math-1st-paper-chapter-01-set-02",
+    "text": "Skew-symmetric matrix-এর principal diagonal-এর ভুক্তিগুলো কেমন? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 02-18 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+    "options": [
+      "সবগুলো 1",
+      "যেকোনো মান",
+      "সবগুলো -1",
+      "সবগুলো 0"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-higher-math-1st-paper-chapter-01-set-02-q19",
+    "subject": "higher-math-1st-paper",
+    "chapter": "hsc-higher-math-1st-paper-chapter-01-set-02",
+    "text": "Cramer's rule প্রয়োগের জন্য প্রধান determinant $D$ কেমন হতে হবে? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 02-19 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+    "options": [
+      "$D=1$ অবশ্যই",
+      "$D=0$",
+      "$D<0$",
+      "$D\\ne0$"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-higher-math-1st-paper-chapter-01-set-02-q20",
+    "subject": "higher-math-1st-paper",
+    "chapter": "hsc-higher-math-1st-paper-chapter-01-set-02",
+    "text": "$A^2=A$ হলে $A$ কী ধরনের matrix? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 02-20 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+    "options": [
+      "Orthogonal",
+      "Idempotent",
+      "Involutory",
+      "Nilpotent"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-higher-math-1st-paper-chapter-01-set-02-q21",
+    "subject": "higher-math-1st-paper",
+    "chapter": "hsc-higher-math-1st-paper-chapter-01-set-02",
+    "text": "$A$ এর order $4\\times 2$ এবং $B$ এর order $2\\times 5$ হলে $AB$ এর order কত?",
+    "options": [
+      "$4\\times 2$",
+      "$2\\times 5$",
+      "গুণ করা সম্ভব নয়",
+      "$4\\times 5$"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-higher-math-1st-paper-chapter-01-set-02-q22",
+    "subject": "higher-math-1st-paper",
+    "chapter": "hsc-higher-math-1st-paper-chapter-01-set-02",
+    "text": "$A=$\\begin{pmatrix}5&3\\\\6&7\\end{pmatrix}$$ হলে $|A|$ কত?",
+    "options": [
+      "-17",
+      "17",
+      "53",
+      "18"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-higher-math-1st-paper-chapter-01-set-02-q23",
+    "subject": "higher-math-1st-paper",
+    "chapter": "hsc-higher-math-1st-paper-chapter-01-set-02",
+    "text": "$M=\\begin{pmatrix}k&4\\\\7&8\\end{pmatrix}$ singular হলে $k$ কত?",
+    "options": [
+      "$\\frac{29}{8}$",
+      "28",
+      "$\\frac{7}{2}$",
+      "0"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-higher-math-1st-paper-chapter-01-set-02-q24",
+    "subject": "higher-math-1st-paper",
+    "chapter": "hsc-higher-math-1st-paper-chapter-01-set-02",
+    "text": "$\\begin{pmatrix}7&1&2\\\\0&3&3\\\\4&2&x\\end{pmatrix}$ এর trace 14 হলে $x$ কত?",
+    "options": [
+      "4",
+      "14",
+      "5",
+      "3"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-higher-math-1st-paper-chapter-01-set-02-q25",
+    "subject": "higher-math-1st-paper",
+    "chapter": "hsc-higher-math-1st-paper-chapter-01-set-02",
+    "text": "একটি ম্যাট্রিক্স একই সাথে symmetric ও skew-symmetric হলে সেটি কী? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 02-25 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+    "options": [
+      "শূন্য ম্যাট্রিক্স",
+      "স্কেলার ম্যাট্রিক্স",
+      "কর্ণ ম্যাট্রিক্স",
+      "অভেদক ম্যাট্রিক্স"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  }
+]

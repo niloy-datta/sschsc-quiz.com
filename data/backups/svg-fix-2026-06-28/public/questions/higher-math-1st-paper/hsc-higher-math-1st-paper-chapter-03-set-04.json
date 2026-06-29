@@ -1,0 +1,377 @@
+[
+  {
+    "id": "hsc-higher-math-1st-paper-chapter-03-set-04-q01",
+    "subject": "higher-math-1st-paper",
+    "chapter": "hsc-higher-math-1st-paper-chapter-03-set-04",
+    "text": "বিন্দু $(6,3)$ ও $(7,4)$ যোগকারী রেখার ঢাল কত?",
+    "options": [
+      "1 + 1",
+      "1 + 2",
+      "1",
+      "1 + 3"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-higher-math-1st-paper-chapter-03-set-04-q02",
+    "subject": "higher-math-1st-paper",
+    "chapter": "hsc-higher-math-1st-paper-chapter-03-set-04",
+    "text": "ঢাল 7 এবং বিন্দু $(4,8)$ দিয়ে অতিক্রান্ত রেখার সমীকরণ কোনটি?",
+    "options": [
+      "$y=-7x-20$",
+      "$x=7y-20$",
+      "$y=7x-20$",
+      "$y=7x-19$"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-higher-math-1st-paper-chapter-03-set-04-q03",
+    "subject": "higher-math-1st-paper",
+    "chapter": "hsc-higher-math-1st-paper-chapter-03-set-04",
+    "text": "$\\frac{x}{8}+\\frac{y}{5}=1$ রেখার ছেদাংশ কত?",
+    "options": [
+      "$x$-অক্ষে 5, $y$-অক্ষে 8",
+      "$x$-অক্ষে 8, $y$-অক্ষে 5",
+      "13",
+      "উভয় 0"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-higher-math-1st-paper-chapter-03-set-04-q04",
+    "subject": "higher-math-1st-paper",
+    "chapter": "hsc-higher-math-1st-paper-chapter-03-set-04",
+    "text": "বিন্দু $(6,6)$ থেকে রেখা $9x+6y-7=0$ এর দূরত্ব কত?",
+    "options": [
+      "$\\sqrt{117}$",
+      "$\\frac{83}{\\sqrt{117}}$",
+      "$\\frac{84}{\\sqrt{117}}$",
+      "$\\frac{83}{117}$"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-higher-math-1st-paper-chapter-03-set-04-q05",
+    "subject": "higher-math-1st-paper",
+    "chapter": "hsc-higher-math-1st-paper-chapter-03-set-04",
+    "text": "দুটি রেখা parallel হলে তাদের ঢাল কেমন? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 04-05 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+    "options": [
+      "অসংজ্ঞায়িত",
+      "গুণফল -1",
+      "যোগফল 0",
+      "সমান"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-higher-math-1st-paper-chapter-03-set-04-q06",
+    "subject": "higher-math-1st-paper",
+    "chapter": "hsc-higher-math-1st-paper-chapter-03-set-04",
+    "text": "একটি রেখার ঢাল 6 হলে তার উপর লম্ব রেখার ঢাল কত?",
+    "options": [
+      "-6",
+      "6",
+      "$\\frac{-1}{6}$",
+      "$\\frac{1}{6}$"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-higher-math-1st-paper-chapter-03-set-04-q07",
+    "subject": "higher-math-1st-paper",
+    "chapter": "hsc-higher-math-1st-paper-chapter-03-set-04",
+    "text": "$7x+2y+9=0$ রেখার ঢাল কত?",
+    "options": [
+      "7",
+      "$\\frac{-7}{2}$",
+      "2",
+      "$\\frac{7}{2}$"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-higher-math-1st-paper-chapter-03-set-04-q08",
+    "subject": "higher-math-1st-paper",
+    "chapter": "hsc-higher-math-1st-paper-chapter-03-set-04",
+    "text": "$y=k$ রেখাটি কোন অক্ষের সমান্তরাল? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 04-08 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+    "options": [
+      "কোনোটিই নয়",
+      "$x$-অক্ষ",
+      "$y$-অক্ষ",
+      "উভয় অক্ষ"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-higher-math-1st-paper-chapter-03-set-04-q09",
+    "subject": "higher-math-1st-paper",
+    "chapter": "hsc-higher-math-1st-paper-chapter-03-set-04",
+    "text": "দুটি রেখার ঢালের গুণফল -1 হলে তারা কেমন? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 04-09 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+    "options": [
+      "সমান্তরাল",
+      "কোনোটিই নয়",
+      "লম্ব",
+      "অভিন্ন"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-higher-math-1st-paper-chapter-03-set-04-q10",
+    "subject": "higher-math-1st-paper",
+    "chapter": "hsc-higher-math-1st-paper-chapter-03-set-04",
+    "text": "রেখা $ax+by+c=0$ ও $a'x+b'y+c'=0$ parallel হওয়ার শর্ত কোনটি? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 04-10 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+    "options": [
+      "$a+b=0$",
+      "$c=c'$",
+      "$ab'-a'b=0$",
+      "$aa'+bb'=0$"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-higher-math-1st-paper-chapter-03-set-04-q11",
+    "subject": "higher-math-1st-paper",
+    "chapter": "hsc-higher-math-1st-paper-chapter-03-set-04",
+    "text": "বিন্দু $(6,6)$ ও $(9,8)$ যোগকারী রেখার ঢাল কত?",
+    "options": [
+      "3",
+      "2",
+      "$\\frac{3}{2}$",
+      "$\\frac{2}{3}$"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-higher-math-1st-paper-chapter-03-set-04-q12",
+    "subject": "higher-math-1st-paper",
+    "chapter": "hsc-higher-math-1st-paper-chapter-03-set-04",
+    "text": "ঢাল 7 এবং বিন্দু $(7,6)$ দিয়ে অতিক্রান্ত রেখার সমীকরণ কোনটি?",
+    "options": [
+      "$y=-7x-43$",
+      "$y=7x-42$",
+      "$y=7x-43$",
+      "$x=7y-43$"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-higher-math-1st-paper-chapter-03-set-04-q13",
+    "subject": "higher-math-1st-paper",
+    "chapter": "hsc-higher-math-1st-paper-chapter-03-set-04",
+    "text": "$\\frac{x}{8}+\\frac{y}{8}=1$ রেখার ছেদাংশ কত?",
+    "options": [
+      "উভয় 0",
+      "16",
+      "$x$-অক্ষে 8, $y$-অক্ষে 8 + 3",
+      "$x$-অক্ষে 8, $y$-অক্ষে 8"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-higher-math-1st-paper-chapter-03-set-04-q14",
+    "subject": "higher-math-1st-paper",
+    "chapter": "hsc-higher-math-1st-paper-chapter-03-set-04",
+    "text": "বিন্দু $(2,8)$ থেকে রেখা $9x+2y-5=0$ এর দূরত্ব কত?",
+    "options": [
+      "$\\sqrt{85}$",
+      "$\\frac{29}{\\sqrt{85}}$",
+      "$\\frac{30}{\\sqrt{85}}$",
+      "$\\frac{29}{85}$"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-higher-math-1st-paper-chapter-03-set-04-q15",
+    "subject": "higher-math-1st-paper",
+    "chapter": "hsc-higher-math-1st-paper-chapter-03-set-04",
+    "text": "দুটি রেখা parallel হলে তাদের ঢাল কেমন? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 04-15 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+    "options": [
+      "সমান",
+      "যোগফল 0",
+      "অসংজ্ঞায়িত",
+      "গুণফল -1"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-higher-math-1st-paper-chapter-03-set-04-q16",
+    "subject": "higher-math-1st-paper",
+    "chapter": "hsc-higher-math-1st-paper-chapter-03-set-04",
+    "text": "একটি রেখার ঢাল 6 হলে তার উপর লম্ব রেখার ঢাল কত? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 04-16 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+    "options": [
+      "-6",
+      "$\\frac{1}{6}$",
+      "$\\frac{-1}{6}$",
+      "6"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-higher-math-1st-paper-chapter-03-set-04-q17",
+    "subject": "higher-math-1st-paper",
+    "chapter": "hsc-higher-math-1st-paper-chapter-03-set-04",
+    "text": "$7x+5y+7=0$ রেখার ঢাল কত?",
+    "options": [
+      "$\\frac{-7}{5}$",
+      "5",
+      "7",
+      "$\\frac{7}{5}$"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-higher-math-1st-paper-chapter-03-set-04-q18",
+    "subject": "higher-math-1st-paper",
+    "chapter": "hsc-higher-math-1st-paper-chapter-03-set-04",
+    "text": "$y=k$ রেখাটি কোন অক্ষের সমান্তরাল? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 04-18 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+    "options": [
+      "উভয় অক্ষ",
+      "$y$-অক্ষ",
+      "$x$-অক্ষ",
+      "কোনোটিই নয়"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-higher-math-1st-paper-chapter-03-set-04-q19",
+    "subject": "higher-math-1st-paper",
+    "chapter": "hsc-higher-math-1st-paper-chapter-03-set-04",
+    "text": "দুটি রেখার ঢালের গুণফল -1 হলে তারা কেমন? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 04-19 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+    "options": [
+      "কোনোটিই নয়",
+      "সমান্তরাল",
+      "অভিন্ন",
+      "লম্ব"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-higher-math-1st-paper-chapter-03-set-04-q20",
+    "subject": "higher-math-1st-paper",
+    "chapter": "hsc-higher-math-1st-paper-chapter-03-set-04",
+    "text": "রেখা $ax+by+c=0$ ও $a'x+b'y+c'=0$ parallel হওয়ার শর্ত কোনটি? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 04-20 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+    "options": [
+      "$c=c'$",
+      "$a+b=0$",
+      "$aa'+bb'=0$",
+      "$ab'-a'b=0$"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-higher-math-1st-paper-chapter-03-set-04-q21",
+    "subject": "higher-math-1st-paper",
+    "chapter": "hsc-higher-math-1st-paper-chapter-03-set-04",
+    "text": "বিন্দু $(6,2)$ ও $(7,6)$ যোগকারী রেখার ঢাল কত?",
+    "options": [
+      "4 + 3",
+      "1",
+      "$\\frac{1}{4}$",
+      "4"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-higher-math-1st-paper-chapter-03-set-04-q22",
+    "subject": "higher-math-1st-paper",
+    "chapter": "hsc-higher-math-1st-paper-chapter-03-set-04",
+    "text": "ঢাল 7 এবং বিন্দু $(3,8)$ দিয়ে অতিক্রান্ত রেখার সমীকরণ কোনটি?",
+    "options": [
+      "$y=-7x-13$",
+      "$x=7y-13$",
+      "$y=7x-12$",
+      "$y=7x-13$"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-higher-math-1st-paper-chapter-03-set-04-q23",
+    "subject": "higher-math-1st-paper",
+    "chapter": "hsc-higher-math-1st-paper-chapter-03-set-04",
+    "text": "$\\frac{x}{8}+\\frac{y}{4}=1$ রেখার ছেদাংশ কত?",
+    "options": [
+      "$x$-অক্ষে 4, $y$-অক্ষে 8",
+      "$x$-অক্ষে 8, $y$-অক্ষে 4",
+      "উভয় 0",
+      "12"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-higher-math-1st-paper-chapter-03-set-04-q24",
+    "subject": "higher-math-1st-paper",
+    "chapter": "hsc-higher-math-1st-paper-chapter-03-set-04",
+    "text": "বিন্দু $(5,6)$ থেকে রেখা $9x+5y-3=0$ এর দূরত্ব কত?",
+    "options": [
+      "$\\sqrt{106}$",
+      "$\\frac{72}{106}$",
+      "$\\frac{72}{\\sqrt{106}}$",
+      "$\\frac{73}{\\sqrt{106}}$"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-higher-math-1st-paper-chapter-03-set-04-q25",
+    "subject": "higher-math-1st-paper",
+    "chapter": "hsc-higher-math-1st-paper-chapter-03-set-04",
+    "text": "দুটি রেখা parallel হলে তাদের ঢাল কেমন? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 04-25 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+    "options": [
+      "যোগফল 0",
+      "সমান",
+      "অসংজ্ঞায়িত",
+      "গুণফল -1"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  }
+]

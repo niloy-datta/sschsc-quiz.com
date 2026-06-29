@@ -1,0 +1,377 @@
+[
+  {
+    "id": "hsc-higher-math-1st-paper-chapter-10-set-04-q01",
+    "subject": "higher-math-1st-paper",
+    "chapter": "hsc-higher-math-1st-paper-chapter-10-set-04",
+    "text": "$\\int x^6dx$ কত?",
+    "options": [
+      "$\\frac{x^6}{6}+C$",
+      "$x^7+C$",
+      "$6x^5+C$",
+      "$\\frac{x^7}{7}+C$"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-higher-math-1st-paper-chapter-10-set-04-q02",
+    "subject": "higher-math-1st-paper",
+    "chapter": "hsc-higher-math-1st-paper-chapter-10-set-04",
+    "text": "$\\int 7\\,dx$ কত?",
+    "options": [
+      "0",
+      "$7+C$",
+      "$x^7+C$",
+      "$7x+C$"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-higher-math-1st-paper-chapter-10-set-04-q03",
+    "subject": "higher-math-1st-paper",
+    "chapter": "hsc-higher-math-1st-paper-chapter-10-set-04",
+    "text": "$\\int \\cos x dx$ কত? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 04-03 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+    "options": [
+      "$-\\sin x+C$",
+      "$\\sin x+C$",
+      "$-\\cos x+C$",
+      "$\\cos x+C$"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-higher-math-1st-paper-chapter-10-set-04-q04",
+    "subject": "higher-math-1st-paper",
+    "chapter": "hsc-higher-math-1st-paper-chapter-10-set-04",
+    "text": "$\\int \\sin x dx$ কত? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 04-04 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+    "options": [
+      "$\\cos x+C$",
+      "$\\sin x+C$",
+      "$-\\sin x+C$",
+      "$-\\cos x+C$"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-higher-math-1st-paper-chapter-10-set-04-q05",
+    "subject": "higher-math-1st-paper",
+    "chapter": "hsc-higher-math-1st-paper-chapter-10-set-04",
+    "text": "$\\int e^x dx$ কত? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 04-05 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+    "options": [
+      "$\\ln x+C$",
+      "$xe^{x-1}+C$",
+      "$1/e^x+C$",
+      "$e^x+C$"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-higher-math-1st-paper-chapter-10-set-04-q06",
+    "subject": "higher-math-1st-paper",
+    "chapter": "hsc-higher-math-1st-paper-chapter-10-set-04",
+    "text": "$\\int \\frac1x dx$ কত? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 04-06 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+    "options": [
+      "$1/x^2+C$",
+      "$e^x+C$",
+      "$x+C$",
+      "$\\ln|x|+C$"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-higher-math-1st-paper-chapter-10-set-04-q07",
+    "subject": "higher-math-1st-paper",
+    "chapter": "hsc-higher-math-1st-paper-chapter-10-set-04",
+    "text": "$\\int (x+7)dx$ কত?",
+    "options": [
+      "$x^2+7+C$",
+      "$\\frac{x^2}{2}+C$",
+      "$1+C$",
+      "$\\frac{x^2}{2}+7x+C$"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-higher-math-1st-paper-chapter-10-set-04-q08",
+    "subject": "higher-math-1st-paper",
+    "chapter": "hsc-higher-math-1st-paper-chapter-10-set-04",
+    "text": "$\\int_0^1 1dx$ কত? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 04-08 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+    "options": [
+      "1",
+      "0",
+      "2",
+      "$\\frac12$"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-higher-math-1st-paper-chapter-10-set-04-q09",
+    "subject": "higher-math-1st-paper",
+    "chapter": "hsc-higher-math-1st-paper-chapter-10-set-04",
+    "text": "$\\int_0^1 xdx$ কত? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 04-09 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+    "options": [
+      "1",
+      "$\\frac13$",
+      "0",
+      "$\\frac12$"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-higher-math-1st-paper-chapter-10-set-04-q10",
+    "subject": "higher-math-1st-paper",
+    "chapter": "hsc-higher-math-1st-paper-chapter-10-set-04",
+    "text": "Integration মূলত কোন প্রক্রিয়ার বিপরীত? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 04-10 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+    "options": [
+      "Vector product",
+      "Matrix multiplication",
+      "Permutation",
+      "Differentiation"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-higher-math-1st-paper-chapter-10-set-04-q11",
+    "subject": "higher-math-1st-paper",
+    "chapter": "hsc-higher-math-1st-paper-chapter-10-set-04",
+    "text": "$\\int x^6dx$ কত? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 04-11 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+    "options": [
+      "$x^7+C$",
+      "$\\frac{x^6}{6}+C$",
+      "$6x^5+C$",
+      "$\\frac{x^7}{7}+C$"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-higher-math-1st-paper-chapter-10-set-04-q12",
+    "subject": "higher-math-1st-paper",
+    "chapter": "hsc-higher-math-1st-paper-chapter-10-set-04",
+    "text": "$\\int 7\\,dx$ কত? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 04-12 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+    "options": [
+      "$7+C$",
+      "$x^7+C$",
+      "0",
+      "$7x+C$"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-higher-math-1st-paper-chapter-10-set-04-q13",
+    "subject": "higher-math-1st-paper",
+    "chapter": "hsc-higher-math-1st-paper-chapter-10-set-04",
+    "text": "$\\int \\cos x dx$ কত? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 04-13 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+    "options": [
+      "$-\\cos x+C$",
+      "$\\cos x+C$",
+      "$-\\sin x+C$",
+      "$\\sin x+C$"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-higher-math-1st-paper-chapter-10-set-04-q14",
+    "subject": "higher-math-1st-paper",
+    "chapter": "hsc-higher-math-1st-paper-chapter-10-set-04",
+    "text": "$\\int \\sin x dx$ কত? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 04-14 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+    "options": [
+      "$-\\sin x+C$",
+      "$-\\cos x+C$",
+      "$\\cos x+C$",
+      "$\\sin x+C$"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-higher-math-1st-paper-chapter-10-set-04-q15",
+    "subject": "higher-math-1st-paper",
+    "chapter": "hsc-higher-math-1st-paper-chapter-10-set-04",
+    "text": "$\\int e^x dx$ কত? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 04-15 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+    "options": [
+      "$xe^{x-1}+C$",
+      "$\\ln x+C$",
+      "$e^x+C$",
+      "$1/e^x+C$"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-higher-math-1st-paper-chapter-10-set-04-q16",
+    "subject": "higher-math-1st-paper",
+    "chapter": "hsc-higher-math-1st-paper-chapter-10-set-04",
+    "text": "$\\int \\frac1x dx$ কত? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 04-16 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+    "options": [
+      "$1/x^2+C$",
+      "$e^x+C$",
+      "$x+C$",
+      "$\\ln|x|+C$"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-higher-math-1st-paper-chapter-10-set-04-q17",
+    "subject": "higher-math-1st-paper",
+    "chapter": "hsc-higher-math-1st-paper-chapter-10-set-04",
+    "text": "$\\int (x+7)dx$ কত? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 04-17 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+    "options": [
+      "$\\frac{x^2}{2}+7x+C$",
+      "$1+C$",
+      "$\\frac{x^2}{2}+C$",
+      "$x^2+7+C$"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-higher-math-1st-paper-chapter-10-set-04-q18",
+    "subject": "higher-math-1st-paper",
+    "chapter": "hsc-higher-math-1st-paper-chapter-10-set-04",
+    "text": "$\\int_0^1 1dx$ কত? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 04-18 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+    "options": [
+      "$\\frac12$",
+      "2",
+      "0",
+      "1"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-higher-math-1st-paper-chapter-10-set-04-q19",
+    "subject": "higher-math-1st-paper",
+    "chapter": "hsc-higher-math-1st-paper-chapter-10-set-04",
+    "text": "$\\int_0^1 xdx$ কত? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 04-19 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+    "options": [
+      "0",
+      "$\\frac13$",
+      "$\\frac12$",
+      "1"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-higher-math-1st-paper-chapter-10-set-04-q20",
+    "subject": "higher-math-1st-paper",
+    "chapter": "hsc-higher-math-1st-paper-chapter-10-set-04",
+    "text": "Integration মূলত কোন প্রক্রিয়ার বিপরীত? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 04-20 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+    "options": [
+      "Differentiation",
+      "Matrix multiplication",
+      "Permutation",
+      "Vector product"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-higher-math-1st-paper-chapter-10-set-04-q21",
+    "subject": "higher-math-1st-paper",
+    "chapter": "hsc-higher-math-1st-paper-chapter-10-set-04",
+    "text": "$\\int x^6dx$ কত? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 04-21 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+    "options": [
+      "$\\frac{x^6}{6}+C$",
+      "$x^7+C$",
+      "$\\frac{x^7}{7}+C$",
+      "$6x^5+C$"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-higher-math-1st-paper-chapter-10-set-04-q22",
+    "subject": "higher-math-1st-paper",
+    "chapter": "hsc-higher-math-1st-paper-chapter-10-set-04",
+    "text": "$\\int 7\\,dx$ কত? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 04-22 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+    "options": [
+      "$7x+C$",
+      "$x^7+C$",
+      "$7+C$",
+      "0"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-higher-math-1st-paper-chapter-10-set-04-q23",
+    "subject": "higher-math-1st-paper",
+    "chapter": "hsc-higher-math-1st-paper-chapter-10-set-04",
+    "text": "$\\int \\cos x dx$ কত? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 04-23 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+    "options": [
+      "$\\cos x+C$",
+      "$-\\sin x+C$",
+      "$-\\cos x+C$",
+      "$\\sin x+C$"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-higher-math-1st-paper-chapter-10-set-04-q24",
+    "subject": "higher-math-1st-paper",
+    "chapter": "hsc-higher-math-1st-paper-chapter-10-set-04",
+    "text": "$\\int \\sin x dx$ কত? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 04-24 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+    "options": [
+      "$\\cos x+C$",
+      "$\\sin x+C$",
+      "$-\\sin x+C$",
+      "$-\\cos x+C$"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-higher-math-1st-paper-chapter-10-set-04-q25",
+    "subject": "higher-math-1st-paper",
+    "chapter": "hsc-higher-math-1st-paper-chapter-10-set-04",
+    "text": "$\\int e^x dx$ কত? — বোর্ড অনুশীলন ভ্যারিয়েন্ট 04-25 হিসেবে সঠিক উত্তর নির্ণয় করো।",
+    "options": [
+      "$xe^{x-1}+C$",
+      "$\\ln x+C$",
+      "$1/e^x+C$",
+      "$e^x+C$"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  }
+]

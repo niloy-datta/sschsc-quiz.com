@@ -19,7 +19,7 @@
     <circle cx="210" cy="92" r="6"/><circle cx="250" cy="123" r="6"/><circle cx="235" cy="172" r="6"/>
     <circle cx="185" cy="172" r="6"/><circle cx="170" cy="123" r="6"/>
   </g>
-  <text x="210" y="137" text-anchor="middle" font-size="10" fill="#92400e">Large pith</text>
-  <text x="210" y="229" text-anchor="middle" font-size="12" fill="#475569">Monocot / Poaceae root cross-section</text>
+  <text x="210" y="137" text-anchor="middle" font-size="10" fill="#92400e" font-family="Noto Sans Bengali, Arial, sans-serif">Large pith</text>
+  <text x="210" y="229" text-anchor="middle" font-size="12" fill="#475569" font-family="Noto Sans Bengali, Arial, sans-serif">Monocot / Poaceae root cross-section</text>
 
 </svg>

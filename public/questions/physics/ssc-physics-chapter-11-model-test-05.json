@@ -11,7 +11,6 @@
       "অ্যাম্পিয়ার"
     ],
     "image": null,
-    "optionImages": null,
     "timeLimit": 45
   },
   {
@@ -26,7 +25,6 @@
       "ওয়াট"
     ],
     "image": null,
-    "optionImages": null,
     "timeLimit": 45
   },
   {
@@ -41,7 +39,6 @@
       "বর্গের সমানুপাতিক"
     ],
     "image": null,
-    "optionImages": null,
     "timeLimit": 45
   },
   {
@@ -56,7 +53,6 @@
       "2.50 × 10⁻⁶ Ωm"
     ],
     "image": null,
-    "optionImages": null,
     "timeLimit": 45
   },
   {
@@ -71,7 +67,6 @@
       "তড়িৎ তীব্রতা"
     ],
     "image": null,
-    "optionImages": null,
     "timeLimit": 45
   },
   {
@@ -86,7 +81,6 @@
       "200 W"
     ],
     "image": null,
-    "optionImages": null,
     "timeLimit": 45
   },
   {
@@ -101,7 +95,6 @@
       "16Ω"
     ],
     "image": null,
-    "optionImages": null,
     "timeLimit": 45
   },
   {
@@ -116,7 +109,6 @@
       "64 W"
     ],
     "image": null,
-    "optionImages": null,
     "timeLimit": 45
   },
   {
@@ -131,7 +123,6 @@
       "15Ω"
     ],
     "image": null,
-    "optionImages": null,
     "timeLimit": 45
   },
   {
@@ -146,7 +137,6 @@
       "30Ω"
     ],
     "image": null,
-    "optionImages": null,
     "timeLimit": 45
   },
   {
@@ -161,7 +151,6 @@
       "9Ω"
     ],
     "image": null,
-    "optionImages": null,
     "timeLimit": 45
   },
   {
@@ -176,7 +165,6 @@
       "১০০ ভোল্ট"
     ],
     "image": null,
-    "optionImages": null,
     "timeLimit": 45
   },
   {
@@ -190,8 +178,7 @@
       "3Ω",
       "9Ω"
     ],
-    "image": "/images/quiz/premium/ssc-physics-chapter-11-model-test-05-q13.svg",
-    "optionImages": null,
+    "image": "/images/quiz/circuit-series.svg",
     "timeLimit": 45
   },
   {
@@ -206,7 +193,6 @@
       "8A"
     ],
     "image": null,
-    "optionImages": null,
     "timeLimit": 45
   },
   {
@@ -221,7 +207,6 @@
       "20Ω"
     ],
     "image": null,
-    "optionImages": null,
     "timeLimit": 45
   },
   {
@@ -236,7 +221,6 @@
       "15Ω"
     ],
     "image": null,
-    "optionImages": null,
     "timeLimit": 45
   },
   {
@@ -251,7 +235,6 @@
       "16Ω"
     ],
     "image": null,
-    "optionImages": null,
     "timeLimit": 45
   },
   {
@@ -265,8 +248,7 @@
       "3A",
       "6A"
     ],
-    "image": "/images/quiz/premium/ssc-physics-chapter-11-model-test-05-q18.svg",
-    "optionImages": null,
+    "image": "/images/quiz/circuit-series.svg",
     "timeLimit": 45
   },
   {
@@ -281,7 +263,6 @@
       "4840Ω"
     ],
     "image": null,
-    "optionImages": null,
     "timeLimit": 45
   },
   {
@@ -296,7 +277,76 @@
       "1100Ω"
     ],
     "image": null,
-    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-chapter-11-model-test-05-q21",
+    "subject": "physics",
+    "chapter": "ssc-physics-chapter-11-model-test-05",
+    "text": "5Ω ও 10Ω রোধ শ্রেণিতে যুক্ত হলে তুল্য রোধ কত?",
+    "options": [
+      "2Ω",
+      "5Ω",
+      "10Ω",
+      "15Ω"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-chapter-11-model-test-05-q22",
+    "subject": "physics",
+    "chapter": "ssc-physics-chapter-11-model-test-05",
+    "text": "2Ω, 3Ω ও 5Ω রোধ শ্রেণিতে যুক্ত হলে তুল্য রোধ কত?",
+    "options": [
+      "5Ω",
+      "6Ω",
+      "10Ω",
+      "30Ω"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-chapter-11-model-test-05-q23",
+    "subject": "physics",
+    "chapter": "ssc-physics-chapter-11-model-test-05",
+    "text": "3Ω ও 6Ω রোধ সমান্তরালে যুক্ত হলে তুল্য রোধ কত?",
+    "options": [
+      "1Ω",
+      "2Ω",
+      "3Ω",
+      "9Ω"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-chapter-11-model-test-05-q24",
+    "subject": "physics",
+    "chapter": "ssc-physics-chapter-11-model-test-05",
+    "text": "ট্রান্সফরমারের মুখ্য ও গৌণ কুণ্ডলীর পাকসংখ্যার অনুপাত ১:১০। মুখ্য ভোল্টেজ ১০ ভোল্ট হলে গৌণ ভোল্টেজ কত? (English: The ratio of primary to secondary turns of a transformer is 1:10. If the primary voltage is 10V, what is the secondary voltage?)",
+    "options": [
+      "১ ভোল্ট",
+      "১০ ভোল্ট",
+      "৫০ ভোল্ট",
+      "১০০ ভোল্ট"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-chapter-11-model-test-05-q25",
+    "subject": "physics",
+    "chapter": "ssc-physics-chapter-11-model-test-05",
+    "text": "নিচের বর্তনীতে 6Ω ও 3Ω রোধ সমান্তরালে যুক্ত। তাদের তুল্য রোধ কত?",
+    "options": [
+      "1Ω",
+      "2Ω",
+      "3Ω",
+      "9Ω"
+    ],
+    "image": "/images/quiz/circuit-series.svg",
     "timeLimit": 45
   }
 ]

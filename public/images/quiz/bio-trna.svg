@@ -20,7 +20,7 @@
            C284 72,240 50,210 68
            M210 68 L210 170" fill="none" stroke="#2563eb" stroke-width="3.2" stroke-linecap="round"/>
   <circle cx="210" cy="68" r="7" fill="#ea580c"/>
-  <text x="210" y="57" text-anchor="middle" font-size="12" fill="#ea580c">Amino acid site</text>
-  <text x="210" y="163" text-anchor="middle" font-size="11" fill="#16a34a">Anticodon loop</text>
+  <text x="210" y="57" text-anchor="middle" font-size="12" fill="#ea580c" font-family="Noto Sans Bengali, Arial, sans-serif">Amino acid site</text>
+  <text x="210" y="163" text-anchor="middle" font-size="11" fill="#16a34a" font-family="Noto Sans Bengali, Arial, sans-serif">Anticodon loop</text>
 
 </svg>

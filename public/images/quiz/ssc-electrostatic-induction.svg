@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="900" height="520" viewBox="0 0 900 520">
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="520" viewBox="0 0 900 520" role="img" aria-label="ssc electrostatic induction">
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
       <stop offset="0%" stop-color="#eef2ff"/>
@@ -20,20 +20,20 @@
   <rect width="900" height="520" rx="26" fill="url(#bg)"/>
   <rect x="38" y="38" width="824" height="444" rx="24" fill="#ffffff" filter="url(#shadow)"/>
   <rect x="145" y="165" width="130" height="185" rx="24" fill="#fee2e2" stroke="#ef4444" stroke-width="4"/>
-  <text x="115" y="270" class="label">A</text>
-  <text x="295" y="270" class="label">B</text>
-  <text x="178" y="215" class="plus">+</text>
-  <text x="222" y="245" class="plus">+</text>
-  <text x="178" y="290" class="plus">+</text>
-  <text x="222" y="320" class="plus">+</text>
+  <text x="115" y="270" class="label" font-family="Noto Sans Bengali, Arial, sans-serif">A</text>
+  <text x="295" y="270" class="label" font-family="Noto Sans Bengali, Arial, sans-serif">B</text>
+  <text x="178" y="215" class="plus" font-family="Noto Sans Bengali, Arial, sans-serif">+</text>
+  <text x="222" y="245" class="plus" font-family="Noto Sans Bengali, Arial, sans-serif">+</text>
+  <text x="178" y="290" class="plus" font-family="Noto Sans Bengali, Arial, sans-serif">+</text>
+  <text x="222" y="320" class="plus" font-family="Noto Sans Bengali, Arial, sans-serif">+</text>
   <rect x="540" y="165" width="130" height="185" rx="24" fill="#dbeafe" stroke="#2563eb" stroke-width="4"/>
-  <text x="505" y="270" class="label">E</text>
-  <text x="690" y="270" class="label">F</text>
-  <text x="555" y="225" class="minus"></text>
-  <text x="555" y="300" class="minus"></text>
-  <text x="630" y="225" class="plus">+</text>
-  <text x="630" y="300" class="plus">+</text>
+  <text x="505" y="270" class="label" font-family="Noto Sans Bengali, Arial, sans-serif">E</text>
+  <text x="690" y="270" class="label" font-family="Noto Sans Bengali, Arial, sans-serif">F</text>
+  <text x="555" y="225" class="minus" font-family="Noto Sans Bengali, Arial, sans-serif"></text>
+  <text x="555" y="300" class="minus" font-family="Noto Sans Bengali, Arial, sans-serif"></text>
+  <text x="630" y="225" class="plus" font-family="Noto Sans Bengali, Arial, sans-serif">+</text>
+  <text x="630" y="300" class="plus" font-family="Noto Sans Bengali, Arial, sans-serif">+</text>
   <path d="M305 260 C385 210,455 210,525 260" fill="none" stroke="#334155" stroke-width="4" marker-end="url(#arrow)" stroke-linecap="round"/>
-  <text x="158" y="405" class="small">����ͮ� �������</text>
-  <text x="548" y="405" class="small">������ �������</text>
+  <text x="158" y="405" class="small" font-family="Noto Sans Bengali, Arial, sans-serif">����ͮ� �������</text>
+  <text x="548" y="405" class="small" font-family="Noto Sans Bengali, Arial, sans-serif">������ �������</text>
 </svg>

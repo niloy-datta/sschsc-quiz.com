@@ -14,8 +14,8 @@
   <line x1="65" y1="205" x2="360" y2="205" stroke="#0f172a" stroke-width="2" marker-end="url(#arrow)"/>
   <line x1="210" y1="222" x2="210" y2="60" stroke="#0f172a" stroke-width="2" marker-end="url(#arrow)"/>
   <path d="M110 205 C145 90,275 90,310 205" fill="none" stroke="#2563eb" stroke-width="4"/>
-  <text x="365" y="210" font-size="12" fill="#0f172a">x</text>
-  <text x="217" y="65" font-size="12" fill="#0f172a">y</text>
-  <text x="295" y="95" font-size="13" fill="#2563eb">y = x²</text>
+  <text x="365" y="210" font-size="12" fill="#0f172a" font-family="Noto Sans Bengali, Arial, sans-serif">x</text>
+  <text x="217" y="65" font-size="12" fill="#0f172a" font-family="Noto Sans Bengali, Arial, sans-serif">y</text>
+  <text x="295" y="95" font-size="13" fill="#2563eb" font-family="Noto Sans Bengali, Arial, sans-serif">y = x²</text>
 
 </svg>

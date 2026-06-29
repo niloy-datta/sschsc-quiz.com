@@ -1,377 +1,352 @@
 [
   {
-    "id": "hsc-physics-2nd-paper-chapter-01-model-test-07-q01",
+    "id": "hsc-physics_2ndpaper-chapter-01-set-07-q01",
     "subject": "physics-2nd-paper",
     "chapter": "hsc-physics-2nd-paper-chapter-01-model-test-07",
-    "text": "নির্দেশক চিত্রে (P-V diagram) একটি চক্রাকার প্রক্রিয়া (Cyclic process) ঘড়ির কাঁটার বিপরীত দিকে (Anti-clockwise) আবর্তিত হলে, উক্ত চক্রে সিস্টেম দ্বারা নিট কৃত কাজের মান কেমন হবে?",
+    "text": "নিচের কোনটি সঠিক নয়?",
     "options": [
-      "ধনাত্মক",
-      "ঋণাত্মক",
-      "শূন্য",
-      "অসীম"
-    ],
-    "image": "/images/quiz/premium/hsc-physics-2nd-paper-chapter-01-model-test-07-q01.svg",
-    "optionImages": null,
-    "timeLimit": 45
-  },
-  {
-    "id": "hsc-physics-2nd-paper-chapter-01-model-test-07-q02",
-    "subject": "physics-2nd-paper",
-    "chapter": "hsc-physics-2nd-paper-chapter-01-model-test-07",
-    "text": "একটি প্রত্যাগামী তাপ ইঞ্জিনের কর্মদক্ষতা \\eta। ইঞ্জিনটিকে বিপরীতক্রমে চালিয়ে রেফ্রিজারেটর হিসেবে ব্যবহার করলে তার কার্যসম্পাদন সহগ (COP) K হয়। K এবং \\eta এর মধ্যকার সঠিক সম্পর্ক কোনটি?",
-    "options": [
-      "K = \\frac{\\eta}{1-\\eta}",
-      "K = \\frac{1-\\eta}{\\eta}",
-      "K = \\frac{1+\\eta}{\\eta}",
-      "K = \\eta - 1"
+      "সম আয়তন প্রক্রিয়ায় কৃতকাজ শূন্য",
+      "রুদ্ধতাপীয় পরিবর্তন বয়েলের সূত্র মেনে চলে",
+      "সমোষ্ণ প্রক্রিয়ায় এনট্রপির পরিবর্তন হয়",
+      "রুদ্ধতাপীয় লেখ সমোষ্ণ লেখ অপেক্ষা বেশি খাড়া"
     ],
     "image": null,
-    "optionImages": null,
     "timeLimit": 45
   },
   {
-    "id": "hsc-physics-2nd-paper-chapter-01-model-test-07-q03",
+    "id": "hsc-physics_2ndpaper-chapter-01-set-07-q02",
     "subject": "physics-2nd-paper",
     "chapter": "hsc-physics-2nd-paper-chapter-01-model-test-07",
-    "text": "কোনো আদর্শ গ্যাসের রুদ্ধতাপীয় আয়তন গুণাঙ্ক (E_s) এবং সমউষ্ণ আয়তন গুণাঙ্ক (E_T) এর অনুপাত \\frac{E_s}{E_T} নিচের কোনটির সমান?",
+    "text": "নির্দিষ্ট পরিমাণ গ্যাসের অভ্যন্তরীণ শক্তি নির্ভর করে কিসের উপর?",
     "options": [
+      "চাপ",
+      "আয়তন",
+      "তাপমাত্রা",
+      "গ্যামা"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-physics_2ndpaper-chapter-01-set-07-q03",
+    "subject": "physics-2nd-paper",
+    "chapter": "hsc-physics-2nd-paper-chapter-01-model-test-07",
+    "text": "যদি কোন তাপ-ইঞ্জিন থেকে তাপ বর্জিত না হয়, তবে ইঞ্জিনের দক্ষতা কত হবে?",
+    "options": [
+      "0%",
+      "1%",
+      "50%",
+      "100%"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-physics_2ndpaper-chapter-01-set-07-q04",
+    "subject": "physics-2nd-paper",
+    "chapter": "hsc-physics-2nd-paper-chapter-01-model-test-07",
+    "text": "রুদ্ধতাপীয় পরিবর্তনের ক্ষেত্রে— i. P₁V₁^γ = P₂V₂^γ ii. P₁^(1-γ)T₁^γ = P₂^(1-γ)T₂^γ iii. T₁V₁^(γ-1) = T₂V₂^(γ-1) নিচের কোনটি সঠিক?",
+    "options": [
+      "i ও ii",
+      "i ও iii",
+      "ii ও iii",
+      "i, ii ও iii"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-physics_2ndpaper-chapter-01-set-07-q05",
+    "subject": "physics-2nd-paper",
+    "chapter": "hsc-physics-2nd-paper-chapter-01-model-test-07",
+    "text": "রুদ্ধতাপীয় রেখা সমোষ্ণ রেখার সম্পর্কের ক্ষেত্রে নিচের কোনটি সঠিক?",
+    "options": [
+      "(\\frac{dp}{dv})_{রুদ্ধতাপীয়} = \\gamma \\times (\\frac{dp}{dv})_{সমোষ্ণ}",
+      "(\\frac{dp}{dv})_{রুদ্ধতাপীয়} = (\\frac{dp}{dv})_{সমোষ্ণ}",
+      "(\\frac{dp}{dv})_{সমোষ্ণ} = \\frac{1}{\\gamma} (\\frac{dp}{dv})_{রুদ্ধতাপীয়}",
+      "(\\frac{dp}{dv})_{রুদ্ধতাপীয়} = \\gamma (\\frac{dp}{dv})_{সমোষ্ণ}"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-physics_2ndpaper-chapter-01-set-07-q06",
+    "subject": "physics-2nd-paper",
+    "chapter": "hsc-physics-2nd-paper-chapter-01-model-test-07",
+    "text": "ΔS = nR ln(V2/V1) যেখানে W < 0. এই সমীকরণ কোন প্রক্রিয়ার জন্য প্রযোজ্য?",
+    "options": [
+      "আইসোথার্মাল প্রসার",
+      "আদিয়াব্যাটিক প্রসার",
+      "আইসোবারিক প্রসার",
+      "এই প্রশ্নের জন্য কোনোটিই নয়"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-physics_2ndpaper-chapter-01-set-07-q07",
+    "subject": "physics-2nd-paper",
+    "chapter": "hsc-physics-2nd-paper-chapter-01-model-test-07",
+    "text": "একটি হিমায়কের (Refrigerator) কর্মসম্পাদন সহগ (K) 2.5। যদি এটি শীতল প্রকোষ্ঠ থেকে 1000 J তাপ অপসারণ করে, তবে কম্প্রেসর দ্বারা কত কাজ করা হয়?",
+    "options": [
+      "2500 J",
+      "400 J",
+      "1000 J",
+      "1250 J"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-physics_2ndpaper-chapter-01-set-07-q08",
+    "subject": "physics-2nd-paper",
+    "chapter": "hsc-physics-2nd-paper-chapter-01-model-test-07",
+    "text": "কোনো গোলকের পরিধির আবরণ ও কেন্দ্রের চতুর্মুখ করা হলে তার আয়তনিক মাপক হবে —",
+    "options": [
+      "আয়তন",
+      "চাপমাত্রা",
+      "তাপমাত্রা",
+      "অভ্যন্তরীণ শক্তি"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-physics_2ndpaper-chapter-01-set-07-q09",
+    "subject": "physics-2nd-paper",
+    "chapter": "hsc-physics-2nd-paper-chapter-01-model-test-07",
+    "text": "কোনো তাপীয় প্রক্রিয়ায় যদি 6T সময়ে তাপমাত্রা দ্বিগুণ হয়ে প্রাথমিক তাপমাত্রা সংরক্ষিত থাকে, তবে প্রক্রিয়াটি কোন ধরনের?",
+    "options": [
+      "মিশ্রণীয় প্রক্রিয়া",
+      "তাপীয় প্রক্রিয়া",
+      "তাপমাত্রা অপরিবর্তিত থাকে না",
+      "তাপীয় প্রক্রিয়া"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-physics_2ndpaper-chapter-01-set-07-q10",
+    "subject": "physics-2nd-paper",
+    "chapter": "hsc-physics-2nd-paper-chapter-01-model-test-07",
+    "text": "কোনো সিলিন্ডার উৎপাদনের জন্য টেনের বিকল্প ও প্রক্ষেপণ একত্রে প্রয়োগ করা হলে, চার্টের আকার হবে —",
+    "options": [
+      "ত্রিভুজ",
+      "সমচতুর্ভুজ",
+      "অভ্যন্তরীণ শক্তি থাকবে",
+      "এক ত্রিভুজাকৃতি"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-physics_2ndpaper-chapter-01-set-07-q11",
+    "subject": "physics-2nd-paper",
+    "chapter": "hsc-physics-2nd-paper-chapter-01-model-test-07",
+    "text": "তাপীয় শক্তির মাত্রা কোনটি?",
+    "options": [
+      "LT−1",
+      "LTI",
+      "L2TI",
+      "LT2"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-physics_2ndpaper-chapter-01-set-07-q12",
+    "subject": "physics-2nd-paper",
+    "chapter": "hsc-physics-2nd-paper-chapter-01-model-test-07",
+    "text": "নিচের কোন তাপগতীয় রাশি‑টিকে অপূর্ব হিসেবে বিবেচনা করা হয়",
+    "options": [
+      "চাপ",
+      "তাপমাত্রা",
+      "আয়তন",
+      "অভ্যন্তরীণ শক্তি"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-physics_2ndpaper-chapter-01-set-07-q13",
+    "subject": "physics-2nd-paper",
+    "chapter": "hsc-physics-2nd-paper-chapter-01-model-test-07",
+    "text": "(P-V) লেখচিত্রে সমোষ্ণ রেখা ও রুদ্ধতাপীয় রেখার ঢালদ্বয়ের অনুপাত কোনটি? (\\gamma = ধ্রুবক)",
+    "options": [
+      "\\frac{1}{\\gamma}",
       "\\gamma",
       "\\gamma - 1",
-      "\\frac{1}{\\gamma}",
-      "R"
+      "\\gamma + 1"
     ],
-    "image": null,
-    "optionImages": null,
+    "image": "/images/quiz/pv-cycle-1.svg",
     "timeLimit": 45
   },
   {
-    "id": "hsc-physics-2nd-paper-chapter-01-model-test-07-q04",
+    "id": "hsc-physics_2ndpaper-chapter-01-set-07-q14",
     "subject": "physics-2nd-paper",
     "chapter": "hsc-physics-2nd-paper-chapter-01-model-test-07",
-    "text": "'শক্তির অবক্ষয়' (Degradation of energy) বা ব্যবহারযোগ্য শক্তির ক্রমহ্রাসমানতা— এই ধারণাটি তাপগতিবিদ্যার কোন সূত্রের সরাসরি পরিণতি?",
+    "text": "A বিন্দুতে রুদ্ধতাপীয় রেখার ঢাল—",
     "options": [
-      "শূন্যতম সূত্র",
-      "প্রথম সূত্র",
-      "দ্বিতীয় সূত্র",
-      "তৃতীয় সূত্র"
+      "-0.2857",
+      "-0.4",
+      "-3.5",
+      "-4.9"
     ],
     "image": null,
-    "optionImages": null,
     "timeLimit": 45
   },
   {
-    "id": "hsc-physics-2nd-paper-chapter-01-model-test-07-q05",
+    "id": "hsc-physics_2ndpaper-chapter-01-set-07-q15",
     "subject": "physics-2nd-paper",
     "chapter": "hsc-physics-2nd-paper-chapter-01-model-test-07",
-    "text": "27^\\circ\\text{C} তাপমাত্রায় 16 \\text{ g} অক্সিজেন (O_2) গ্যাসের মোট অভ্যন্তরীণ শক্তি কত? [R = 8.31 \\text{ J mol}^{-1}\\text{K}^{-1}]",
+    "text": "একটি তাপ ইঞ্জিন সম্পর্কে ধারণা— i. এর দক্ষতা শুধু উৎসের তাপমাত্রার উপর নির্ভর করে ii. তাপ উৎস থেকে নিম্নতাপমাত্রার গ্রাহকে তাপের স্থানান্তর করে iii. এর দক্ষতা 100% এর কম হবে নিচের কোনটি সঠিক?",
     "options": [
-      "1870 \\text{ J}",
-      "3116.25 \\text{ J}",
-      "6232.5 \\text{ J}",
-      "1246.5 \\text{ J}"
+      "i ও ii",
+      "i ও iii",
+      "ii ও iii",
+      "i, ii ও iii"
     ],
     "image": null,
-    "optionImages": null,
     "timeLimit": 45
   },
   {
-    "id": "hsc-physics-2nd-paper-chapter-01-model-test-07-q06",
+    "id": "hsc-physics_2ndpaper-chapter-01-set-07-q16",
     "subject": "physics-2nd-paper",
     "chapter": "hsc-physics-2nd-paper-chapter-01-model-test-07",
-    "text": "0^\\circ\\text{C} তাপমাত্রার 50 \\text{ g} বরফকে গলিয়ে সম্পূর্ণভাবে 0^\\circ\\text{C} তাপমাত্রার পানিতে পরিণত করা হলো। এনট্রপির পরিবর্তন কত হবে? [বরফ গলনের সুপ্ততাপ, L_f = 336000 \\text{ J kg}^{-1}]",
+    "text": "একটি থার্মিস্টর ঠান্ডা স্থানে ফেলে রাখলে এর পরিবর্তনে— i. কাজ সম্পন্ন হয়েছে ii. অভ্যন্তরীণ শক্তি ও তাপমাত্রা কমে গেছে iii. এনট্রপির পরিবর্তন হয়েছে নিচের কোনটি সঠিক?",
     "options": [
-      "61.54 \\text{ J K}^{-1}",
-      "16800 \\text{ J K}^{-1}",
-      "80 \\text{ J K}^{-1}",
-      "123.08 \\text{ J K}^{-1}"
+      "i ও ii",
+      "i ও iii",
+      "ii ও iii",
+      "i, ii ও iii"
     ],
     "image": null,
-    "optionImages": null,
     "timeLimit": 45
   },
   {
-    "id": "hsc-physics-2nd-paper-chapter-01-model-test-07-q07",
+    "id": "hsc-physics_2ndpaper-chapter-01-set-07-q17",
     "subject": "physics-2nd-paper",
     "chapter": "hsc-physics-2nd-paper-chapter-01-model-test-07",
-    "text": "একটি তাপ ইঞ্জিন তাপ উৎস থেকে প্রতি চক্রে 800 \\text{ J} তাপ গ্রহণ করে এবং পরিবেশের নিকট 600 \\text{ J} তাপ বর্জন করে। ইঞ্জিনটির কর্মদক্ষতা কত?",
+    "text": "একটি রেফ্রিজারেটর শীতল তাপাধার থেকে 450 J তাপ গ্রহণ করে উষ্ণ তাপাধারে 600 J তাপশক্তি বর্জন করে। রেফ্রিজারেটরটির কার্যসম্পাদন সহগ কত?",
     "options": [
-      "20\\%",
-      "25\\%",
-      "33.3\\%",
-      "75\\%"
+      "3",
+      "4",
+      "1.83",
+      "2.33"
     ],
     "image": null,
-    "optionImages": null,
     "timeLimit": 45
   },
   {
-    "id": "hsc-physics-2nd-paper-chapter-01-model-test-07-q08",
+    "id": "hsc-physics_2ndpaper-chapter-01-set-07-q18",
     "subject": "physics-2nd-paper",
     "chapter": "hsc-physics-2nd-paper-chapter-01-model-test-07",
-    "text": "শূন্যস্থানে বা রুদ্ধতাপীয় পরিবেশে আদর্শ গ্যাসের মুক্ত প্রসারণের (Free expansion) সময় তাপমাত্রার কীরূপ পরিবর্তন হয়?",
+    "text": "কার্নো ইঞ্জিনের দক্ষতা বাড়ানোর জন্য কোনটি করতে হবে?",
     "options": [
-      "বৃদ্ধি পায়",
-      "হ্রাস পায়",
-      "অপরিবর্তিত থাকে",
-      "শূন্য হয়ে যায়"
+      "উৎসের তাপমাত্রা কমাতে হবে",
+      "উৎস ও গ্রাহকের তাপমাত্রার পার্থক্য বাড়াতে হবে",
+      "গ্রাহকের তাপমাত্রা বাড়াতে হবে",
+      "কোনোটিই নয়"
     ],
     "image": null,
-    "optionImages": null,
     "timeLimit": 45
   },
   {
-    "id": "hsc-physics-2nd-paper-chapter-01-model-test-07-q09",
+    "id": "hsc-physics_2ndpaper-chapter-01-set-07-q19",
     "subject": "physics-2nd-paper",
     "chapter": "hsc-physics-2nd-paper-chapter-01-model-test-07",
-    "text": "একটি কার্নো ইঞ্জিন T_1 তাপমাত্রার উৎস এবং T_2 তাপমাত্রার গ্রাহকের মধ্যে কাজ করে। ইঞ্জিনটির কর্মদক্ষতা তাত্ত্বিকভাবে 100\\% হবে যদি এবং কেবল যদি—",
+    "text": "কার্নো ইঞ্জিনের দক্ষতা বাড়ানোর জন্য কোনটি করতে হবে?",
     "options": [
-      "T_1 = 0 \\text{ K} হয়",
-      "T_2 = 0 \\text{ K} হয়",
-      "T_1 = T_2 হয়",
-      "T_2 = 273 \\text{ K} হয়"
+      "উৎস ও গ্রাহকের তাপমাত্রার পার্থক্য বাড়াতে হবে",
+      "উৎসের তাপমাত্রা কমাতে হবে",
+      "কোনোটিই নয়",
+      "গ্রাহকের তাপমাত্রা বাড়াতে হবে"
     ],
     "image": null,
-    "optionImages": null,
     "timeLimit": 45
   },
   {
-    "id": "hsc-physics-2nd-paper-chapter-01-model-test-07-q10",
+    "id": "hsc-physics_2ndpaper-chapter-01-set-07-q20",
     "subject": "physics-2nd-paper",
     "chapter": "hsc-physics-2nd-paper-chapter-01-model-test-07",
-    "text": "\"কোনো বস্তুকে এর পারিপার্শ্বিকের শীতলতম অংশ হতে অধিকতর শীতল করে অবিরাম যান্ত্রিক শক্তি লাভ করা সম্ভব নয়।\" — এটি তাপগতিবিদ্যার দ্বিতীয় সূত্রের কোন বিজ্ঞানীর বিবৃতি?",
+    "text": "কার্নো ইঞ্জিনের দক্ষতা বাড়ানোর জন্য কোনটি করতে হবে?",
     "options": [
-      "লর্ড কেলভিন (Lord Kelvin)",
-      "রুডলফ ক্লসিয়াস (Rudolf Clausius)",
-      "সাদী কার্নো (Sadi Carnot)",
-      "ম্যাক্স প্ল্যাঙ্ক (Max Planck)"
+      "গ্রাহকের তাপমাত্রা বাড়াতে হবে",
+      "কোনোটিই নয়",
+      "উৎস ও গ্রাহকের তাপমাত্রার পার্থক্য বাড়াতে হবে",
+      "উৎসের তাপমাত্রা কমাতে হবে"
     ],
     "image": null,
-    "optionImages": null,
     "timeLimit": 45
   },
   {
-    "id": "hsc-physics-2nd-paper-chapter-01-model-test-07-q11",
+    "id": "hsc-physics_2ndpaper-chapter-01-set-07-q21",
     "subject": "physics-2nd-paper",
     "chapter": "hsc-physics-2nd-paper-chapter-01-model-test-07",
-    "text": "n মোল আদর্শ গ্যাসকে রুদ্ধতাপীয় প্রক্রিয়ায় প্রসারিত করা হলো। গ্যাসটির প্রাথমিক তাপমাত্রা T_1 এবং চূড়ান্ত তাপমাত্রা T_2 হলে, গ্যাস দ্বারা কৃত কাজ (W) এর সঠিক সমীকরণ কোনটি?",
+    "text": "কার্নো ইঞ্জিনের দক্ষতা বাড়ানোর জন্য কোনটি করতে হবে?",
     "options": [
-      "W = \\frac{nR}{\\gamma - 1}(T_2 - T_1)",
-      "W = \\frac{nR}{\\gamma - 1}(T_1 - T_2)",
-      "W = nRT \\ln\\left(\\frac{V_2}{V_1}\\right)",
-      "W = \\frac{1}{\\gamma}(T_1 - T_2)"
+      "উৎসের তাপমাত্রা কমাতে হবে",
+      "কোনোটিই নয়",
+      "গ্রাহকের তাপমাত্রা বাড়াতে হবে",
+      "উৎস ও গ্রাহকের তাপমাত্রার পার্থক্য বাড়াতে হবে"
     ],
     "image": null,
-    "optionImages": null,
     "timeLimit": 45
   },
   {
-    "id": "hsc-physics-2nd-paper-chapter-01-model-test-07-q12",
+    "id": "hsc-physics_2ndpaper-chapter-01-set-07-q22",
     "subject": "physics-2nd-paper",
     "chapter": "hsc-physics-2nd-paper-chapter-01-model-test-07",
-    "text": "আদর্শ গ্যাসের মোলার আপেক্ষিক তাপদ্বয় C_p ও C_v এর ক্ষেত্রে মেয়ারের সম্পর্ক (Mayer's relation) নিচের কোনটি?",
+    "text": "কার্নোচক্রের চতুর্থ ধাপে নিচের কোনটি স্থির থাকে?",
     "options": [
-      "C_v - C_p = R",
-      "C_p + C_v = R",
-      "C_p - C_v = R",
-      "\\frac{C_p}{C_v} = R"
-    ],
-    "image": null,
-    "optionImages": null,
-    "timeLimit": 45
-  },
-  {
-    "id": "hsc-physics-2nd-paper-chapter-01-model-test-07-q13",
-    "subject": "physics-2nd-paper",
-    "chapter": "hsc-physics-2nd-paper-chapter-01-model-test-07",
-    "text": "তাপগতীয় সিস্টেমে নিচের কোনটি একটি এক্সটেনসিভ (Extensive) চলক, যা সিস্টেমের ভরের ওপর নির্ভর করে?",
-    "options": [
-      "তাপমাত্রা",
       "চাপ",
-      "ঘনত্ব",
+      "আয়তন",
+      "তাপমাত্রা",
       "এনট্রপি"
     ],
     "image": null,
-    "optionImages": null,
     "timeLimit": 45
   },
   {
-    "id": "hsc-physics-2nd-paper-chapter-01-model-test-07-q14",
+    "id": "hsc-physics_2ndpaper-chapter-01-set-07-q23",
     "subject": "physics-2nd-paper",
     "chapter": "hsc-physics-2nd-paper-chapter-01-model-test-07",
-    "text": "P-V নির্দেশক চিত্রে সমউষ্ণ রেখা ও রুদ্ধতাপীয় রেখা পরস্পরকে ছেদ করলে, ছেদবিন্দুতে রুদ্ধতাপীয় রেখার নতি (Slope) এবং সমউষ্ণ রেখার নতির অনুপাত কত হবে?",
+    "text": "তাপগতিবিদ্যার প্রথম সূত্র কার কাজের উপর ভিত্তি করে প্রতিষ্ঠিত?",
     "options": [
-      "\\gamma",
-      "\\frac{1}{\\gamma}",
-      "\\gamma - 1",
-      "\\gamma^2"
-    ],
-    "image": "/images/quiz/premium/hsc-physics-2nd-paper-chapter-01-model-test-07-q14.svg",
-    "optionImages": null,
-    "timeLimit": 45
-  },
-  {
-    "id": "hsc-physics-2nd-paper-chapter-01-model-test-07-q15",
-    "subject": "physics-2nd-paper",
-    "chapter": "hsc-physics-2nd-paper-chapter-01-model-test-07",
-    "text": "সমআয়তন প্রক্রিয়ায় (Isochoric process) কোনো গ্যাসীয় সিস্টেমে 400 \\text{ J} তাপশক্তি সরবরাহ করা হলে, গ্যাস কর্তৃক পরিবেশের ওপর কৃত কাজ কত হবে?",
-    "options": [
-      "400 \\text{ J}",
-      "-400 \\text{ J}",
-      "0 \\text{ J}",
-      "800 \\text{ J}"
+      "ক্লসিয়াস",
+      "কেলভিন",
+      "কার্নো",
+      "জুল"
     ],
     "image": null,
-    "optionImages": null,
     "timeLimit": 45
   },
   {
-    "id": "hsc-physics-2nd-paper-chapter-01-model-test-07-q16",
+    "id": "hsc-physics_2ndpaper-chapter-01-set-07-q24",
     "subject": "physics-2nd-paper",
     "chapter": "hsc-physics-2nd-paper-chapter-01-model-test-07",
-    "text": "কার্নো চক্রের (Carnot cycle) চারটি ধাপের মধ্যে তৃতীয় ধাপটি হলো—",
+    "text": "তাপগতিবিদ্যার প্রথম সূত্র কার কাজের উপর ভিত্তি করে প্রতিষ্ঠিত?",
     "options": [
-      "সমউষ্ণ প্রসারণ",
-      "রুদ্ধতাপীয় প্রসারণ",
-      "সমউষ্ণ সংকোচন",
-      "রুদ্ধতাপীয় সংকোচন"
+      "কার্নো",
+      "ক্লসিয়াস",
+      "জুল",
+      "কেলভিন"
     ],
     "image": null,
-    "optionImages": null,
     "timeLimit": 45
   },
   {
-    "id": "hsc-physics-2nd-paper-chapter-01-model-test-07-q17",
+    "id": "hsc-physics_2ndpaper-chapter-01-set-07-q25",
     "subject": "physics-2nd-paper",
     "chapter": "hsc-physics-2nd-paper-chapter-01-model-test-07",
-    "text": "ত্রি-পরমাণুক বা বহু-পরমাণুক অ-রৈখিক (Non-linear polyatomic) গ্যাসের (যেমন: NH_3) অণুর স্বাধীনতার মাত্রা (Degrees of freedom) সাধারণত কত ধরা হয়?",
+    "text": "তাপগতিবিদ্যার প্রথম সূত্র কার কাজের উপর ভিত্তি করে প্রতিষ্ঠিত?",
     "options": [
-      "3",
-      "5",
-      "6",
-      "7"
+      "জুল",
+      "কেলভিন",
+      "ক্লসিয়াস",
+      "কার্নো"
     ],
     "image": null,
-    "optionImages": null,
-    "timeLimit": 45
-  },
-  {
-    "id": "hsc-physics-2nd-paper-chapter-01-model-test-07-q18",
-    "subject": "physics-2nd-paper",
-    "chapter": "hsc-physics-2nd-paper-chapter-01-model-test-07",
-    "text": "রুদ্ধতাপীয় পরিবর্তনে চাপ (P) এবং পরম তাপমাত্রা (T) এর মধ্যকার সম্পর্ক নির্দেশক সমীকরণ কোনটি?",
-    "options": [
-      "T^{\\gamma} P^{1-\\gamma} = \\text{ধ্রুবক}",
-      "T^{\\gamma-1} P^{\\gamma} = \\text{ধ্রুবক}",
-      "T P^{\\gamma-1} = \\text{ধ্রুবক}",
-      "T^{1-\\gamma} P^{\\gamma} = \\text{ধ্রুবক}"
-    ],
-    "image": null,
-    "optionImages": null,
-    "timeLimit": 45
-  },
-  {
-    "id": "hsc-physics-2nd-paper-chapter-01-model-test-07-q19",
-    "subject": "physics-2nd-paper",
-    "chapter": "hsc-physics-2nd-paper-chapter-01-model-test-07",
-    "text": "কোনো গ্যাসীয় সিস্টেম একটি পূর্ণ চক্র (Cyclic process) শেষে প্রাথমিক অবস্থায় ফিরে এলে, তাপগতিবিদ্যার প্রথম সূত্রানুসারে নিচের কোনটি সঠিক?",
-    "options": [
-      "\\Delta U = \\Delta Q",
-      "\\Delta Q = \\Delta W",
-      "\\Delta U = \\Delta W",
-      "\\Delta W = 0"
-    ],
-    "image": null,
-    "optionImages": null,
-    "timeLimit": 45
-  },
-  {
-    "id": "hsc-physics-2nd-paper-chapter-01-model-test-07-q20",
-    "subject": "physics-2nd-paper",
-    "chapter": "hsc-physics-2nd-paper-chapter-01-model-test-07",
-    "text": "একটি রেফ্রিজারেটরের ভেতরের প্রকোষ্ঠের তাপমাত্রা 250 \\text{ K} এবং বাইরের পরিবেশের তাপমাত্রা 300 \\text{ K}। এর আদর্শ কার্যসম্পাদন সহগ (COP) কত?",
-    "options": [
-      "5",
-      "6",
-      "1.2",
-      "0.83"
-    ],
-    "image": null,
-    "optionImages": null,
-    "timeLimit": 45
-  },
-  {
-    "id": "hsc-physics-2nd-paper-chapter-01-model-test-07-q21",
-    "subject": "physics-2nd-paper",
-    "chapter": "hsc-physics-2nd-paper-chapter-01-model-test-07",
-    "text": "কোনো সিস্টেমের বিশৃঙ্খলা (Disorder) বা শক্তির রূপান্তরের অক্ষমতা পরিমাপের ভৌত রাশিকে কী বলা হয়?",
-    "options": [
-      "এনথালপি",
-      "অভ্যন্তরীণ শক্তি",
-      "এনট্রপি",
-      "মুক্ত শক্তি"
-    ],
-    "image": null,
-    "optionImages": null,
-    "timeLimit": 45
-  },
-  {
-    "id": "hsc-physics-2nd-paper-chapter-01-model-test-07-q22",
-    "subject": "physics-2nd-paper",
-    "chapter": "hsc-physics-2nd-paper-chapter-01-model-test-07",
-    "text": "27^\\circ\\text{C} তাপমাত্রায় 2 মোল হিলিয়াম গ্যাস সমউষ্ণ প্রক্রিয়ায় প্রসারিত হয়ে এর আয়তন তিনগুণ হলো। গ্যাস দ্বারা কৃত কাজ কত? [R = 8.314 \\text{ J mol}^{-1}\\text{K}^{-1}]",
-    "options": [
-      "2740 \\text{ J}",
-      "5480 \\text{ J}",
-      "1825 \\text{ J}",
-      "8314 \\text{ J}"
-    ],
-    "image": null,
-    "optionImages": null,
-    "timeLimit": 45
-  },
-  {
-    "id": "hsc-physics-2nd-paper-chapter-01-model-test-07-q23",
-    "subject": "physics-2nd-paper",
-    "chapter": "hsc-physics-2nd-paper-chapter-01-model-test-07",
-    "text": "P-V নির্দেশক চিত্রে রুদ্ধতাপীয় বক্ররেখা এবং আয়তন অক্ষ দ্বারা আবদ্ধ ক্ষেত্রের ক্ষেত্রফল কী নির্দেশ করে?",
-    "options": [
-      "এনট্রপির পরিবর্তন",
-      "শোষিত তাপ",
-      "রুদ্ধতাপীয় প্রক্রিয়ায় কৃত কাজ",
-      "অভ্যন্তরীণ শক্তির পরিবর্তন"
-    ],
-    "image": "/images/quiz/premium/hsc-physics-2nd-paper-chapter-01-model-test-07-q23.svg",
-    "optionImages": null,
-    "timeLimit": 45
-  },
-  {
-    "id": "hsc-physics-2nd-paper-chapter-01-model-test-07-q24",
-    "subject": "physics-2nd-paper",
-    "chapter": "hsc-physics-2nd-paper-chapter-01-model-test-07",
-    "text": "পানির ত্রৈধ বিন্দুর (Triple point) তাপমাত্রায় বরফ, পানি ও জলীয় বাষ্প একত্রে সাম্যাবস্থায় থাকে। এই বিন্দুর প্রমাণ চাপ কত?",
-    "options": [
-      "1 \\text{ atm}",
-      "101325 \\text{ Pa}",
-      "4.58 \\text{ mm Hg}",
-      "760 \\text{ mm Hg}"
-    ],
-    "image": null,
-    "optionImages": null,
-    "timeLimit": 45
-  },
-  {
-    "id": "hsc-physics-2nd-paper-chapter-01-model-test-07-q25",
-    "subject": "physics-2nd-paper",
-    "chapter": "hsc-physics-2nd-paper-chapter-01-model-test-07",
-    "text": "প্রত্যাগামী প্রক্রিয়ায় (Reversible process) মহাবিশ্বের এনট্রপির পরিবর্তনের (\\Delta S) ক্ষেত্রে নিচের কোনটি সঠিক?",
-    "options": [
-      "\\Delta S > 0",
-      "\\Delta S < 0",
-      "\\Delta S = 0",
-      "\\Delta S = \\infty"
-    ],
-    "image": null,
-    "optionImages": null,
     "timeLimit": 45
   }
 ]

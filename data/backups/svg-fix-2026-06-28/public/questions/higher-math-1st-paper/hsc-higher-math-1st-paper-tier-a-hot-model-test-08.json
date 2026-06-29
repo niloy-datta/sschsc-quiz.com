@@ -1,0 +1,377 @@
+[
+  {
+    "id": "hsc-higher-math-1st-paper-tier-a-hot-model-test-08-q01",
+    "subject": "higher-math-1st-paper",
+    "chapter": "hsc-higher-math-1st-paper-tier-a-hot-model-test-08",
+    "text": "[উদ্দীপক ১] উদ্দীপক: দুটি বৃত্তের সমীকরণ যথাক্রমে $x^2 + y^2 = 9$ এবং $x^2 + y^2 - 8x - 6y + 16 = 0$। প্রথম বৃত্তের ব্যাসার্ধ কত?",
+    "options": [
+      "$9$",
+      "$3$",
+      "$81$",
+      "$\\sqrt{3}$"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-higher-math-1st-paper-tier-a-hot-model-test-08-q02",
+    "subject": "higher-math-1st-paper",
+    "chapter": "hsc-higher-math-1st-paper-tier-a-hot-model-test-08",
+    "text": "[উদ্দীপক ১] উদ্দীপক: দুটি বৃত্তের সমীকরণ যথাক্রমে $x^2 + y^2 = 9$ এবং $x^2 + y^2 - 8x - 6y + 16 = 0$। দ্বিতীয় বৃত্তের কেন্দ্র থেকে প্রথম বৃত্তের কেন্দ্রের দূরত্ব কত?",
+    "options": [
+      "$5$",
+      "$4$",
+      "$3$",
+      "$25$"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-higher-math-1st-paper-tier-a-hot-model-test-08-q03",
+    "subject": "higher-math-1st-paper",
+    "chapter": "hsc-higher-math-1st-paper-tier-a-hot-model-test-08",
+    "text": "[উদ্দীপক ২] উদ্দীপক: একটি সমান্তর ধারার নির্ণায়ক $D = \\begin{vmatrix} x & y & z \\\\ 1 & 2 & 3 \\\\ 2 & 4 & 6 \\end{vmatrix}$। $D$ এর মান কত?",
+    "options": [
+      "$xyz$",
+      "$1$",
+      "$0$",
+      "$x+y+z$"
+    ],
+    "image": "/images/quiz/premium/hsc-higher-math-1st-paper-tier-a-hot-model-test-08-q03.svg",
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-higher-math-1st-paper-tier-a-hot-model-test-08-q04",
+    "subject": "higher-math-1st-paper",
+    "chapter": "hsc-higher-math-1st-paper-tier-a-hot-model-test-08",
+    "text": "[উদ্দীপক ২] উদ্দীপক: একটি সমান্তর ধারার নির্ণায়ক $D = \\begin{vmatrix} x & y & z \\\\ 1 & 2 & 3 \\\\ 2 & 4 & 6 \\end{vmatrix}$। যদি ২য় সারির প্রতিটি উপাদানকে ৩ দ্বারা গুণ করা হয়, তবে নতুন নির্ণায়কের মান কত হবে?",
+    "options": [
+      "$3$",
+      "$0$",
+      "$3xyz$",
+      "$6$"
+    ],
+    "image": "/images/quiz/premium/hsc-higher-math-1st-paper-tier-a-hot-model-test-08-q04.svg",
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-higher-math-1st-paper-tier-a-hot-model-test-08-q05",
+    "subject": "higher-math-1st-paper",
+    "chapter": "hsc-higher-math-1st-paper-tier-a-hot-model-test-08",
+    "text": "$\\int_{1}^{e} \\frac{\\ln x}{x} \\, dx$ এর মান কত?",
+    "options": [
+      "$1$",
+      "$1/2$",
+      "$e$",
+      "$0$"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-higher-math-1st-paper-tier-a-hot-model-test-08-q06",
+    "subject": "higher-math-1st-paper",
+    "chapter": "hsc-higher-math-1st-paper-tier-a-hot-model-test-08",
+    "text": "$|\\vec{a}| = 2, |\\vec{b}| = 5$ এবং $\\vec{a} \\cdot \\vec{b} = 6$ হলে $|\\vec{a} \\times \\vec{b}|$ এর মান কত?",
+    "options": [
+      "$8$",
+      "$64$",
+      "$10$",
+      "$16$"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-higher-math-1st-paper-tier-a-hot-model-test-08-q07",
+    "subject": "higher-math-1st-paper",
+    "chapter": "hsc-higher-math-1st-paper-tier-a-hot-model-test-08",
+    "text": "$\\lim_{x \\to \\infty} x \\sin(\\frac{1}{x})$ এর মান কত?",
+    "options": [
+      "$0$",
+      "$1$",
+      "$\\infty$",
+      "অসংজ্ঞায়িত"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-higher-math-1st-paper-tier-a-hot-model-test-08-q08",
+    "subject": "higher-math-1st-paper",
+    "chapter": "hsc-higher-math-1st-paper-tier-a-hot-model-test-08",
+    "text": "${}^{10}C_r = {}^{10}C_{r+2}$ হলে $r$ এর মান কত?",
+    "options": [
+      "$2$",
+      "$4$",
+      "$6$",
+      "$8$"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-higher-math-1st-paper-tier-a-hot-model-test-08-q09",
+    "subject": "higher-math-1st-paper",
+    "chapter": "hsc-higher-math-1st-paper-tier-a-hot-model-test-08",
+    "text": "$y = e^{x^2}$ হলে $y'$ এর মান কোনটি?",
+    "options": [
+      "$e^{x^2}$",
+      "$2x e^{x^2}$",
+      "$x^2 e^{x^2}$",
+      "$2 e^{x^2}$"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-higher-math-1st-paper-tier-a-hot-model-test-08-q10",
+    "subject": "higher-math-1st-paper",
+    "chapter": "hsc-higher-math-1st-paper-tier-a-hot-model-test-08",
+    "text": "$y = 2x+3$ এবং $y = 2x-5$ সমান্তরাল রেখাদ্বয়ের মধ্যবর্তী লম্ব দূরত্ব কত?",
+    "options": [
+      "$\\frac{8}{\\sqrt{5}}$",
+      "$\\frac{2}{\\sqrt{5}}$",
+      "$8$",
+      "$\\frac{8}{\\sqrt{2}}$"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-higher-math-1st-paper-tier-a-hot-model-test-08-q11",
+    "subject": "higher-math-1st-paper",
+    "chapter": "hsc-higher-math-1st-paper-tier-a-hot-model-test-08",
+    "text": "$\\int \\frac{1}{\\sqrt{1-x^2}} \\, dx$ এর মান কোনটি?",
+    "options": [
+      "$\\sin^{-1} x + c$",
+      "$\\cos^{-1} x + c$",
+      "$-\\sin^{-1} x + c$",
+      "$\\tan^{-1} x + c$"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-higher-math-1st-paper-tier-a-hot-model-test-08-q12",
+    "subject": "higher-math-1st-paper",
+    "chapter": "hsc-higher-math-1st-paper-tier-a-hot-model-test-08",
+    "text": "$\\tan 75^\\circ$ এর মান কত?",
+    "options": [
+      "$2 + \\sqrt{3}$",
+      "$2 - \\sqrt{3}$",
+      "$\\frac{\\sqrt{3}+1}{2\\sqrt{2}}$",
+      "$\\frac{\\sqrt{3}-1}{2\\sqrt{2}}$"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-higher-math-1st-paper-tier-a-hot-model-test-08-q13",
+    "subject": "higher-math-1st-paper",
+    "chapter": "hsc-higher-math-1st-paper-tier-a-hot-model-test-08",
+    "text": "১টি বহুভুজের বাহুর সংখ্যা $n$ হলে, তার কর্ণের সংখ্যা হবে—",
+    "options": [
+      "$\\frac{n(n-3)}{2}$",
+      "$\\frac{n(n-1)}{2}$",
+      "${}^nC_2$",
+      "$n^2 - n$"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-higher-math-1st-paper-tier-a-hot-model-test-08-q14",
+    "subject": "higher-math-1st-paper",
+    "chapter": "hsc-higher-math-1st-paper-tier-a-hot-model-test-08",
+    "text": "$a_{11}A_{11} + a_{12}A_{12} + a_{13}A_{13}$ রাশিটি একটি $3 \\times 3$ নির্ণায়কের কী নির্দেশ করে?",
+    "options": [
+      "নির্ণায়কের মান",
+      "ট্রেস",
+      "কোফ্যাক্টর ম্যাট্রিক্স",
+      "শূন্য"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-higher-math-1st-paper-tier-a-hot-model-test-08-q15",
+    "subject": "higher-math-1st-paper",
+    "chapter": "hsc-higher-math-1st-paper-tier-a-hot-model-test-08",
+    "text": "[i,ii,iii] ক্যালকুলাসে বক্ররেখার স্পর্শকের ক্ষেত্রে— i. স্পর্শক $x$-অক্ষের ধনাত্মক দিকের সাথে সূক্ষ্মকোণ তৈরি করলে ঢাল ধনাত্মক ii. স্পর্শক $x$-অক্ষের সমান্তরাল হলে $\\frac{dy}{dx} = 0$ iii. স্পর্শক $y$-অক্ষের সমান্তরাল হলে $\\frac{dy}{dx} = 0$ নিচের কোনটি সঠিক?",
+    "options": [
+      "i ও ii",
+      "i ও iii",
+      "ii ও iii",
+      "i, ii ও iii"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-higher-math-1st-paper-tier-a-hot-model-test-08-q16",
+    "subject": "higher-math-1st-paper",
+    "chapter": "hsc-higher-math-1st-paper-tier-a-hot-model-test-08",
+    "text": "[i,ii,iii] ভেক্টরের ক্ষেত্রে— i. $\\vec{A} = a_x\\hat{i} + a_y\\hat{j} + a_z\\hat{k}$ হলে এর মান $\\sqrt{a_x^2 + a_y^2 + a_z^2}$ ii. দুটি ভেক্টরের স্কেলার গুণফল শূন্য হলে তারা পরস্পর লম্ব iii. $\\hat{j} \\times \\hat{i} = \\hat{k}$ নিচের কোনটি সঠিক?",
+    "options": [
+      "i ও ii",
+      "i ও iii",
+      "ii ও iii",
+      "i, ii ও iii"
+    ],
+    "image": "/images/quiz/geo-triangle-altitudes.svg",
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-higher-math-1st-paper-tier-a-hot-model-test-08-q17",
+    "subject": "higher-math-1st-paper",
+    "chapter": "hsc-higher-math-1st-paper-tier-a-hot-model-test-08",
+    "text": "[i,ii,iii] বৃত্তের সমীকরণের ক্ষেত্রে— i. সমীকরণের ঘাত সর্বদা ২ ii. $xy$ সম্বলিত কোনো পদ থাকে না iii. $g^2+f^2-c < 0$ হলে বৃত্তটি কাল্পনিক নিচের কোনটি সঠিক?",
+    "options": [
+      "i ও ii",
+      "i ও iii",
+      "ii ও iii",
+      "i, ii ও iii"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-higher-math-1st-paper-tier-a-hot-model-test-08-q18",
+    "subject": "higher-math-1st-paper",
+    "chapter": "hsc-higher-math-1st-paper-tier-a-hot-model-test-08",
+    "text": "[i,ii,iii] সমাকলনের ক্ষেত্রে— i. $\\int_a^b f(x) dx = \\int_a^c f(x) dx + \\int_c^b f(x) dx$ (যেখানে $a<c<b$) ii. $\\int e^x dx = e^x + C$ iii. অযুগ্ম ফাংশনের ক্ষেত্রে $\\int_{-a}^a f(x) dx = 0$ নিচের কোনটি সঠিক?",
+    "options": [
+      "i ও ii",
+      "i ও iii",
+      "ii ও iii",
+      "i, ii ও iii"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-higher-math-1st-paper-tier-a-hot-model-test-08-q19",
+    "subject": "higher-math-1st-paper",
+    "chapter": "hsc-higher-math-1st-paper-tier-a-hot-model-test-08",
+    "text": "[i,ii,iii] ত্রিকোণমিতিতে— i. $\\sin 2A = \\frac{2\\tan A}{1+\\tan^2 A}$ ii. $\\cos 2A = \\frac{1-\\tan^2 A}{1+\\tan^2 A}$ iii. $\\tan 2A = \\frac{2\\tan A}{1-\\tan^2 A}$ নিচের কোনটি সঠিক?",
+    "options": [
+      "i ও ii",
+      "i ও iii",
+      "ii ও iii",
+      "i, ii ও iii"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-higher-math-1st-paper-tier-a-hot-model-test-08-q20",
+    "subject": "higher-math-1st-paper",
+    "chapter": "hsc-higher-math-1st-paper-tier-a-hot-model-test-08",
+    "text": "[i,ii,iii] সরলরেখার ক্ষেত্রে— i. $y = mx+c$ এবং $y = mx+d$ সমান্তরাল ii. দুটি রেখার ঢাল $m_1$ ও $m_2$ হলে মধ্যবর্তী কোণ $\\theta = \\tan^{-1}\\left(\\frac{m_1 - m_2}{1 + m_1 m_2}\\right)$ iii. $x/a + y/b = 1$ রেখাটি অক্ষদ্বয়ের সাথে সমকোণী ত্রিভুজ গঠন করে নিচের কোনটি সঠিক?",
+    "options": [
+      "i ও ii",
+      "i ও iii",
+      "ii ও iii",
+      "i, ii ও iii"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-higher-math-1st-paper-tier-a-hot-model-test-08-q21",
+    "subject": "higher-math-1st-paper",
+    "chapter": "hsc-higher-math-1st-paper-tier-a-hot-model-test-08",
+    "text": "$\\frac{d}{dx}(\\int x^2 \\, dx)$ এর মান কত?",
+    "options": [
+      "$2x$",
+      "$x^2$",
+      "$\\frac{x^3}{3}$",
+      "$x^2 + c$"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-higher-math-1st-paper-tier-a-hot-model-test-08-q22",
+    "subject": "higher-math-1st-paper",
+    "chapter": "hsc-higher-math-1st-paper-tier-a-hot-model-test-08",
+    "text": "$\\lim_{x \\to \\infty} \\left(1 + \\frac{1}{x}\\right)^x$ এর মান কত?",
+    "options": [
+      "$1$",
+      "$0$",
+      "$e$",
+      "$\\infty$"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-higher-math-1st-paper-tier-a-hot-model-test-08-q23",
+    "subject": "higher-math-1st-paper",
+    "chapter": "hsc-higher-math-1st-paper-tier-a-hot-model-test-08",
+    "text": "একটি ঘড়ির কাঁটাগুলোতে রাত ৯টায় ঘণ্টার কাঁটা ও মিনিটের কাঁটার মধ্যবর্তী কোণ কত?",
+    "options": [
+      "$0^\\circ$",
+      "$90^\\circ$",
+      "$180^\\circ$",
+      "$270^\\circ$"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-higher-math-1st-paper-tier-a-hot-model-test-08-q24",
+    "subject": "higher-math-1st-paper",
+    "chapter": "hsc-higher-math-1st-paper-tier-a-hot-model-test-08",
+    "text": "$y = x^2 - 4x + 3$ পরাবৃত্তটির নূন্যতম (Minimum) মান কত?",
+    "options": [
+      "$0$",
+      "$-1$",
+      "$1$",
+      "$-4$"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "hsc-higher-math-1st-paper-tier-a-hot-model-test-08-q25",
+    "subject": "higher-math-1st-paper",
+    "chapter": "hsc-higher-math-1st-paper-tier-a-hot-model-test-08",
+    "text": "$\\int_{0}^{2} |x-1| \\, dx$ এর মান কত?",
+    "options": [
+      "$0$",
+      "$1$",
+      "$2$",
+      "$1/2$"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  }
+]

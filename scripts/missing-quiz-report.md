@@ -1,6 +1,6 @@
 # Missing Quiz Data Audit Report
 
-Generated: 2026-06-16
+Generated: 2026-06-28
 
 ## Source Summary
 
@@ -8,7 +8,7 @@ Generated: 2026-06-16
 | ------ | ----- |
 | public/quiz-data JSON subjects | 13 |
 | src/data files | 0 |
-| data/ files | 3791 |
+| data/ files | 3802 |
 | docs/raw-questions files | 13 |
 
 ## Subject Audit Table

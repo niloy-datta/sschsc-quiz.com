@@ -16,9 +16,9 @@
   <circle cx="215" cy="185" r="72" fill="none" stroke="#2563eb" stroke-width="3"/>
   <circle cx="215" cy="185" r="5" fill="#ea580c"/>
   <line x1="215" y1="185" x2="287" y2="185" stroke="#ea580c" stroke-width="2.5"/>
-  <text x="215" y="205" text-anchor="middle" font-size="12" fill="#ea580c">(1,0)</text>
-  <text x="250" y="176" font-size="12" fill="#ea580c">r = 2</text>
-  <text x="362" y="202" font-size="12" fill="#0f172a">Re</text>
-  <text x="158" y="60" font-size="12" fill="#0f172a">Im</text>
+  <text x="215" y="205" text-anchor="middle" font-size="12" fill="#ea580c" font-family="Noto Sans Bengali, Arial, sans-serif">(1,0)</text>
+  <text x="250" y="176" font-size="12" fill="#ea580c" font-family="Noto Sans Bengali, Arial, sans-serif">r = 2</text>
+  <text x="362" y="202" font-size="12" fill="#0f172a" font-family="Noto Sans Bengali, Arial, sans-serif">Re</text>
+  <text x="158" y="60" font-size="12" fill="#0f172a" font-family="Noto Sans Bengali, Arial, sans-serif">Im</text>
 
 </svg>

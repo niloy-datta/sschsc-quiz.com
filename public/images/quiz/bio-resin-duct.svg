@@ -17,7 +17,7 @@
     <circle cx="210" cy="70" r="14"/><circle cx="260" cy="95" r="14"/><circle cx="276" cy="150" r="14"/>
     <circle cx="210" cy="190" r="14"/><circle cx="160" cy="165" r="14"/><circle cx="144" cy="105" r="14"/>
   </g>
-  <text x="210" y="135" text-anchor="middle" font-size="11" fill="#ea580c">Secretory cavity</text>
-  <text x="210" y="220" text-anchor="middle" font-size="12" fill="#475569">Oil gland / resin duct schematic</text>
+  <text x="210" y="135" text-anchor="middle" font-size="11" fill="#ea580c" font-family="Noto Sans Bengali, Arial, sans-serif">Secretory cavity</text>
+  <text x="210" y="220" text-anchor="middle" font-size="12" fill="#475569" font-family="Noto Sans Bengali, Arial, sans-serif">Oil gland / resin duct schematic</text>
 
 </svg>

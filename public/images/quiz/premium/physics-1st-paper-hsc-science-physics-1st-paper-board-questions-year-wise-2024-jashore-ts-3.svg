@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 460 300" width="460" height="300" font-family="serif" role="img" aria-label="physics 1st paper hsc science physics 1st paper board questions year wise 2024 jashore ts 3">
+  <!-- Background -->
+  <rect width="460" height="300" fill="#fff"/>
+
+  <!-- Rod (horizontal, thick) -->
+  <rect x="80" y="135" width="300" height="30" rx="6" fill="#b0bec5" stroke="#546e7a" stroke-width="2"/>
+
+  <!-- Centre of mass marker -->
+  <circle cx="230" cy="150" r="5" fill="#e53935"/>
+
+  <!-- Axis AB — along the rod (longitudinal) -->
+  <line x1="40" y1="150" x2="420" y2="150" stroke="#1565C0" stroke-width="2" stroke-dasharray="8,5"/>
+  <text x="26" y="155" font-size="14" font-weight="bold" fill="#1565C0" font-family="Noto Sans Bengali, Arial, sans-serif">A</text>
+  <text x="422" y="155" font-size="14" font-weight="bold" fill="#1565C0" font-family="Noto Sans Bengali, Arial, sans-serif">B</text>
+
+  <!-- Axis CD — perpendicular at centre, vertical -->
+  <line x1="230" y1="40" x2="230" y2="260" stroke="#2e7d32" stroke-width="2" stroke-dasharray="8,5"/>
+  <text x="223" y="30" font-size="14" font-weight="bold" fill="#2e7d32" font-family="Noto Sans Bengali, Arial, sans-serif">C</text>
+  <text x="223" y="275" font-size="14" font-weight="bold" fill="#2e7d32" font-family="Noto Sans Bengali, Arial, sans-serif">D</text>
+
+  <!-- Axis EF — perpendicular at one end, vertical -->
+  <line x1="80" y1="40" x2="80" y2="260" stroke="#e65100" stroke-width="2" stroke-dasharray="8,5"/>
+  <text x="73" y="30" font-size="14" font-weight="bold" fill="#e65100" font-family="Noto Sans Bengali, Arial, sans-serif">E</text>
+  <text x="73" y="275" font-size="14" font-weight="bold" fill="#e65100" font-family="Noto Sans Bengali, Arial, sans-serif">F</text>
+
+  <!-- Axis GH — perpendicular at other end, vertical -->
+  <line x1="380" y1="40" x2="380" y2="260" stroke="#6a1b9a" stroke-width="2" stroke-dasharray="8,5"/>
+  <text x="373" y="30" font-size="14" font-weight="bold" fill="#6a1b9a" font-family="Noto Sans Bengali, Arial, sans-serif">G</text>
+  <text x="373" y="275" font-size="14" font-weight="bold" fill="#6a1b9a" font-family="Noto Sans Bengali, Arial, sans-serif">H</text>
+
+  <!-- Legend -->
+  <text x="140" y="20" font-size="11" fill="#555" font-family="Noto Sans Bengali, Arial, sans-serif">কেন্দ্রমুখী বিন্দু (লাল বিন্দু)</text>
+</svg>

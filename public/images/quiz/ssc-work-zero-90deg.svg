@@ -15,8 +15,8 @@
   <line x1="170" y1="165" x2="300" y2="165" stroke="#2563eb" stroke-width="3" marker-end="url(#arrowBlue)"/>
   <line x1="170" y1="165" x2="170" y2="70" stroke="#dc2626" stroke-width="3" marker-end="url(#arrow)"/>
   <path d="M170 145 H190 V165" fill="none" stroke="#0f172a" stroke-width="2"/>
-  <text x="235" y="150" font-size="13" fill="#2563eb">s</text>
-  <text x="180" y="105" font-size="13" fill="#dc2626">F</text>
-  <text x="210" y="220" text-anchor="middle" font-size="12" fill="#475569">θ = 90° → W = Fs cosθ = 0</text>
+  <text x="235" y="150" font-size="13" fill="#2563eb" font-family="Noto Sans Bengali, Arial, sans-serif">s</text>
+  <text x="180" y="105" font-size="13" fill="#dc2626" font-family="Noto Sans Bengali, Arial, sans-serif">F</text>
+  <text x="210" y="220" text-anchor="middle" font-size="12" fill="#475569" font-family="Noto Sans Bengali, Arial, sans-serif">θ = 90° → W = Fs cosθ = 0</text>
 
 </svg>

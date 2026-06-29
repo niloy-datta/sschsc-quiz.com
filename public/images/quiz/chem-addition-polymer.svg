@@ -11,10 +11,10 @@
   <rect x="14" y="14" width="392" height="232" rx="14" fill="#ffffff" stroke="#cbd5e1" stroke-width="1.5"/>
   <text x="210.0" y="38" text-anchor="middle" font-family="Arial, sans-serif" font-size="15" font-weight="700" fill="#0f172a">Addition Polymerization</text>
   
-  <text x="95" y="115" text-anchor="middle" font-size="14" fill="#0f172a">n CH₂=CH₂</text>
+  <text x="95" y="115" text-anchor="middle" font-size="14" fill="#0f172a" font-family="Noto Sans Bengali, Arial, sans-serif">n CH₂=CH₂</text>
   <line x1="145" y1="112" x2="225" y2="112" stroke="#2563eb" stroke-width="2.5" marker-end="url(#arrowBlue)"/>
-  <text x="185" y="94" text-anchor="middle" font-size="11" fill="#2563eb">heat / pressure</text>
-  <text x="292" y="115" text-anchor="middle" font-size="14" fill="#0f172a">[-CH₂-CH₂-]ₙ</text>
-  <text x="292" y="145" text-anchor="middle" font-size="12" fill="#16a34a">polymer</text>
+  <text x="185" y="94" text-anchor="middle" font-size="11" fill="#2563eb" font-family="Noto Sans Bengali, Arial, sans-serif">heat / pressure</text>
+  <text x="292" y="115" text-anchor="middle" font-size="14" fill="#0f172a" font-family="Noto Sans Bengali, Arial, sans-serif">[-CH₂-CH₂-]ₙ</text>
+  <text x="292" y="145" text-anchor="middle" font-size="12" fill="#16a34a" font-family="Noto Sans Bengali, Arial, sans-serif">polymer</text>
 
 </svg>

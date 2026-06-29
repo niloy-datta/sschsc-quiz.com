@@ -17,8 +17,8 @@
   <line x1="130" y1="70" x2="280" y2="70" stroke="#94a3b8" stroke-width="2" stroke-dasharray="5 5"/>
   <line x1="130" y1="190" x2="280" y2="70" stroke="#ea580c" stroke-width="3" marker-end="url(#arrow)"/>
   <path d="M130 168 H152 V190" fill="none" stroke="#0f172a" stroke-width="2"/>
-  <text x="205" y="208" text-anchor="middle" font-size="12" fill="#2563eb">6 N</text>
-  <text x="112" y="130" text-anchor="middle" font-size="12" fill="#16a34a">8 N</text>
-  <text x="210" y="120" font-size="12" fill="#ea580c">Resultant / equilibrant</text>
+  <text x="205" y="208" text-anchor="middle" font-size="12" fill="#2563eb" font-family="Noto Sans Bengali, Arial, sans-serif">6 N</text>
+  <text x="112" y="130" text-anchor="middle" font-size="12" fill="#16a34a" font-family="Noto Sans Bengali, Arial, sans-serif">8 N</text>
+  <text x="210" y="120" font-size="12" fill="#ea580c" font-family="Noto Sans Bengali, Arial, sans-serif">Resultant / equilibrant</text>
 
 </svg>

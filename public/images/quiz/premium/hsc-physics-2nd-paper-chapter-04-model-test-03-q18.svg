@@ -14,12 +14,12 @@
   <line x1="182" y1="82" x2="190" y2="58" stroke="#38bdf8" stroke-width="2"/>
   <line x1="190" y1="58" x2="198" y2="82" stroke="#38bdf8" stroke-width="2"/>
   <line x1="198" y1="82" x2="210" y2="70" stroke="#38bdf8" stroke-width="2"/>
-  <text x="180" y="48" text-anchor="middle" font-size="10" fill="#facc15">R₁</text>
+  <text x="180" y="48" text-anchor="middle" font-size="10" fill="#facc15" font-family="Noto Sans Bengali, Arial, sans-serif">R₁</text>
   <line x1="65" y1="105" x2="95" y2="105" stroke="#facc15" stroke-width="2"/>
   <line x1="75" y1="118" x2="85" y2="118" stroke="#facc15" stroke-width="2"/>
-  <text x="55" y="118" font-size="10" fill="#facc15">Cell</text>
+  <text x="55" y="118" font-size="10" fill="#facc15" font-family="Noto Sans Bengali, Arial, sans-serif">Cell</text>
   <circle cx="235" cy="160" r="18" fill="#111c33" stroke="#e5f4ff" stroke-width="2"/>
-  <text x="235" y="165" text-anchor="middle" font-size="12" fill="#e5f4ff">A</text>
-  <text x="180" y="197" text-anchor="middle" font-size="10" fill="#cbd5e1">তড়িৎ বর্তনী schematic</text>
+  <text x="235" y="165" text-anchor="middle" font-size="12" fill="#e5f4ff" font-family="Noto Sans Bengali, Arial, sans-serif">A</text>
+  <text x="180" y="197" text-anchor="middle" font-size="10" fill="#cbd5e1" font-family="Noto Sans Bengali, Arial, sans-serif">তড়িৎ বর্তনী schematic</text>
 
 </svg>

@@ -11,7 +11,6 @@
       "$5x^4$"
     ],
     "image": null,
-    "optionImages": null,
     "timeLimit": 45
   },
   {
@@ -26,7 +25,6 @@
       "$\\frac{x^7}{7}+C$"
     ],
     "image": null,
-    "optionImages": null,
     "timeLimit": 45
   },
   {
@@ -41,7 +39,6 @@
       "35"
     ],
     "image": null,
-    "optionImages": null,
     "timeLimit": 45
   },
   {
@@ -56,7 +53,6 @@
       "56"
     ],
     "image": null,
-    "optionImages": null,
     "timeLimit": 45
   },
   {
@@ -71,7 +67,6 @@
       "$y-4=7(x-4)$"
     ],
     "image": null,
-    "optionImages": null,
     "timeLimit": 45
   },
   {
@@ -86,7 +81,6 @@
       "25"
     ],
     "image": null,
-    "optionImages": null,
     "timeLimit": 45
   },
   {
@@ -101,7 +95,6 @@
       "0"
     ],
     "image": null,
-    "optionImages": null,
     "timeLimit": 45
   },
   {
@@ -116,7 +109,6 @@
       "$\\sin A\\cos B+\\cos A\\sin B$"
     ],
     "image": null,
-    "optionImages": null,
     "timeLimit": 45
   },
   {
@@ -131,7 +123,6 @@
       "Even"
     ],
     "image": null,
-    "optionImages": null,
     "timeLimit": 45
   },
   {
@@ -145,8 +136,7 @@
       "সমান্তরাল",
       "একক"
     ],
-    "image": "/images/quiz/premium/ssc-higher-math-paper-set-03-q10.svg",
-    "optionImages": null,
+    "image": null,
     "timeLimit": 45
   },
   {
@@ -161,7 +151,6 @@
       "Scalar"
     ],
     "image": null,
-    "optionImages": null,
     "timeLimit": 45
   },
   {
@@ -176,7 +165,6 @@
       "0"
     ],
     "image": null,
-    "optionImages": null,
     "timeLimit": 45
   },
   {
@@ -191,7 +179,6 @@
       "$x^7$"
     ],
     "image": null,
-    "optionImages": null,
     "timeLimit": 45
   },
   {
@@ -206,7 +193,6 @@
       "$\\frac{x^9}{9}+C$"
     ],
     "image": null,
-    "optionImages": null,
     "timeLimit": 45
   },
   {
@@ -221,7 +207,6 @@
       "6"
     ],
     "image": null,
-    "optionImages": null,
     "timeLimit": 45
   },
   {
@@ -236,7 +221,6 @@
       "6"
     ],
     "image": null,
-    "optionImages": null,
     "timeLimit": 45
   },
   {
@@ -251,7 +235,6 @@
       "$y+6=6(x-5)$"
     ],
     "image": null,
-    "optionImages": null,
     "timeLimit": 45
   },
   {
@@ -266,11 +249,94 @@
       "14"
     ],
     "image": null,
-    "optionImages": null,
     "timeLimit": 45
   },
   {
     "id": "ssc-higher-math-paper-set-03-q19",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-paper-set-03",
+    "text": "$\\sin^2\\theta+\\cos^2\\theta$ কত?",
+    "options": [
+      "$\\sec^2\\theta$",
+      "1",
+      "$\\tan\\theta$",
+      "0"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-higher-math-paper-set-03-q20",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-paper-set-03",
+    "text": "$\\sin(A+B)$ সূত্র কোনটি?",
+    "options": [
+      "$\\cos A\\cos B-\\sin A\\sin B$",
+      "$\\sin A\\cos B-\\cos A\\sin B$",
+      "$\\tan A+\\tan B$",
+      "$\\sin A\\cos B+\\cos A\\sin B$"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-higher-math-paper-set-03-q21",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-paper-set-03",
+    "text": "$f(x)=x^2$ ফাংশনটি কেমন?",
+    "options": [
+      "Even",
+      "Odd",
+      "Periodic",
+      "Constant"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-higher-math-paper-set-03-q22",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-paper-set-03",
+    "text": "$\\vec a\\cdot\\vec b=0$ হলে দুটি ভেক্টর কেমন?",
+    "options": [
+      "সমান",
+      "লম্ব",
+      "সমান্তরাল",
+      "একক"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-higher-math-paper-set-03-q23",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-paper-set-03",
+    "text": "$A^2=A$ হলে matrix কী?",
+    "options": [
+      "Scalar",
+      "Idempotent",
+      "Nilpotent",
+      "Orthogonal"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-higher-math-paper-set-03-q24",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-paper-set-03",
+    "text": "$\\int_0^1 xdx$ কত?",
+    "options": [
+      "1",
+      "$\\frac13$",
+      "0",
+      "$\\frac12$"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-higher-math-paper-set-03-q25",
     "subject": "higher-math",
     "chapter": "ssc-higher-math-paper-set-03",
     "text": "$\\frac{d}{dx}x^4$ কত?",
@@ -281,7 +347,6 @@
       "$x^3$"
     ],
     "image": null,
-    "optionImages": null,
     "timeLimit": 45
   }
 ]

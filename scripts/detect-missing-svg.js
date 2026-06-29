@@ -7,52 +7,22 @@
  */
 const fs = require("fs");
 const path = require("path");
+const {
+  ROOT,
+  QUESTIONS_DIR,
+  collectQuestions,
+  questionText,
+  needsDiagram,
+  optionsNeedGraph,
+  imagePath,
+  analyzeImageState,
+  analyzeOptionImages,
+  isPlaceholderPath,
+} = require("./lib/svg-audit-shared");
+const { resolveDiagramTopic, imagePathForSlug, LIBRARY_SLUGS } = require("./lib/diagram-topic-resolver");
 
-const ROOT = path.resolve(__dirname, "..");
-const QUESTIONS_DIR = path.join(ROOT, "public", "questions");
 const OUT = path.join(ROOT, "data", "detect-missing-svg.json");
 const STDOUT = process.argv.includes("--stdout");
-
-const LEKHOCHITRA_OPT = /^\[?\s*লেখচিত্র\s*([১২৩৪1-4]|ঘ)\s*\]?$/i;
-
-const VISUAL_STEM =
-  /\[চিত্র\s*[:：]|\(চিত্র\s*[:：]|চিত্রে|চিত্রভিত্তিক|লেখচিত্র|গ্রাফ|diagram|circuit|বল\s*চিত্র|V-I|I-V|E-ν|স্থানাঙ্ক|coordinate|parabola|বর্তনীতে\s*তড়িৎ|বর্তনীতে\s*রোধ|resistor\s*network|লেন্স|দর্পণ|mirror|lens|নিচের\s*চিত্র|চিত্রটি\s*লক্ষ্য|উদ্দীপকের\s*চিত্র/i;
-
-function collectQuestions(data) {
-  if (Array.isArray(data)) return data;
-  if (Array.isArray(data.questions)) return data.questions;
-  const out = [];
-  for (const v of Object.values(data)) {
-    if (!Array.isArray(v)) continue;
-    for (const item of v) {
-      if (item?.questions) out.push(...item.questions);
-      else out.push(item);
-    }
-  }
-  return out;
-}
-
-function questionText(q) {
-  return String(q.text ?? q.questionText ?? q.question ?? "");
-}
-
-function hasSvgSupport(q) {
-  const img = q.image ?? q.svg;
-  if (typeof img !== "string" || !img.trim()) return false;
-  return /\.svg$/i.test(img) || img.includes("/images/quiz/");
-}
-
-function optionsNeedGraph(q) {
-  const opts = Array.isArray(q.options)
-    ? q.options.map((o) => (typeof o === "string" ? o : o?.text ?? ""))
-    : [q.optionA, q.optionB, q.optionC, q.optionD].map(String);
-  return opts.some((o) => LEKHOCHITRA_OPT.test(String(o).trim()));
-}
-
-function needsVisualSupport(q) {
-  const text = questionText(q);
-  return VISUAL_STEM.test(text) || optionsNeedGraph(q);
-}
 
 /** @returns {{ type: string, priority: 'high'|'medium'|'low' }} */
 function detectType(text, q) {
@@ -85,28 +55,68 @@ function detectType(text, q) {
   return { type: "general_theory", priority: "low" };
 }
 
+function hasWorkingSvg(q) {
+  const state = analyzeImageState(q);
+  return state.status === "ok" || (state.status === "placeholder_path" && state.file_exists);
+}
+
 function walkDir(dir, results, stats) {
   for (const ent of fs.readdirSync(dir, { withFileTypes: true })) {
     const p = path.join(dir, ent.name);
     if (ent.isDirectory()) walkDir(p, results, stats);
     else if (ent.name.endsWith(".json") && ent.name !== "index.json") {
+      if (/ict/i.test(p)) continue;
       const questions = collectQuestions(JSON.parse(fs.readFileSync(p, "utf8")));
       for (const q of questions) {
         stats.scanned++;
-        if (!needsVisualSupport(q)) continue;
+        if (!needsDiagram(q)) continue;
         stats.needsVisual++;
-        if (hasSvgSupport(q)) {
-          stats.hasSvg++;
-          continue;
-        }
+
         const text = questionText(q);
         const id = String(q.id ?? `${path.basename(p)}-${stats.scanned}`);
+        const imgState = analyzeImageState(q);
+        const optState = analyzeOptionImages(q);
         const { type, priority } = detectType(text, q);
+
+        const resolved = resolveDiagramTopic(text, id);
+        const resolvedPath =
+          resolved.kind === "library" && LIBRARY_SLUGS.has(resolved.slug)
+            ? imagePathForSlug(resolved.slug)
+            : null;
+        const current = imagePath(q);
+        const suspiciousMapping =
+          resolvedPath && current && current !== resolvedPath && isPlaceholderPath(current);
+
+        if (hasWorkingSvg(q) && optState.status !== "missing_or_invalid" && optState.status !== "broken_paths") {
+          stats.hasSvg++;
+          if (suspiciousMapping) {
+            results.push({
+              question_id: id,
+              status: "suspicious_mapping",
+              detected_type: type,
+              priority: "high",
+              current_image: current,
+              recommended_image: resolvedPath,
+            });
+            stats.suspicious++;
+          }
+          continue;
+        }
+
+        let status = "svg_missing";
+        if (imgState.status === "broken_path") status = "broken_path";
+        else if (imgState.status === "placeholder_path") status = "placeholder_image";
+        else if (optState.status === "missing_or_invalid") status = "missing_option_images";
+        else if (optState.status === "broken_paths") status = "broken_option_images";
+
         results.push({
           question_id: id,
-          status: "svg_missing",
+          status,
           detected_type: type,
           priority,
+          current_image: current,
+          recommended_image: resolvedPath,
+          option_images_status: optState.status,
         });
         stats.missing++;
       }
@@ -116,16 +126,23 @@ function walkDir(dir, results, stats) {
 
 function main() {
   const results = [];
-  const stats = { scanned: 0, needsVisual: 0, hasSvg: 0, missing: 0 };
+  const stats = {
+    scanned: 0,
+    needsVisual: 0,
+    hasSvg: 0,
+    missing: 0,
+    suspicious: 0,
+  };
 
   for (const subject of fs.readdirSync(QUESTIONS_DIR)) {
+    if (/^ict$/i.test(subject)) continue;
     const dir = path.join(QUESTIONS_DIR, subject);
     if (fs.statSync(dir).isDirectory()) walkDir(dir, results, stats);
   }
 
   results.sort((a, b) => {
     const pr = { high: 0, medium: 1, low: 2 };
-    return pr[a.priority] - pr[b.priority] || a.question_id.localeCompare(b.question_id);
+    return pr[a.priority] - pr[a.priority] || a.question_id.localeCompare(b.question_id);
   });
 
   fs.mkdirSync(path.dirname(OUT), { recursive: true });
@@ -135,12 +152,13 @@ function main() {
     console.log(JSON.stringify(results, null, 2));
   } else {
     console.log(
-      `SVG audit: ${stats.missing} missing / ${stats.needsVisual} need visual / ${stats.scanned} scanned`,
+      `SVG audit: ${stats.missing} issues / ${stats.needsVisual} need visual / ${stats.scanned} scanned`,
     );
+    console.log(`Working SVGs: ${stats.hasSvg}, suspicious mappings: ${stats.suspicious}`);
     console.log(`Report: ${path.relative(ROOT, OUT)}`);
-    const byType = {};
-    for (const r of results) byType[r.detected_type] = (byType[r.detected_type] || 0) + 1;
-    console.log("By type:", byType);
+    const byStatus = {};
+    for (const r of results) byStatus[r.status] = (byStatus[r.status] || 0) + 1;
+    console.log("By status:", byStatus);
   }
 }
 

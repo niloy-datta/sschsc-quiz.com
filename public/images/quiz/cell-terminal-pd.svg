@@ -14,11 +14,11 @@
     <path d="M164 130 H200 l8 -14 l8 28 l8 -28 l8 28 l8 -28 l8 14 H290"/>
     <line x1="290" y1="130" x2="330" y2="130"/>
   </g>
-  <text x="157" y="92" text-anchor="middle" font-size="13" fill="#2563eb">E</text>
-  <text x="225" y="108" text-anchor="middle" font-size="13" fill="#2563eb">r</text>
+  <text x="157" y="92" text-anchor="middle" font-size="13" fill="#2563eb" font-family="Noto Sans Bengali, Arial, sans-serif">E</text>
+  <text x="225" y="108" text-anchor="middle" font-size="13" fill="#2563eb" font-family="Noto Sans Bengali, Arial, sans-serif">r</text>
   <circle cx="90" cy="130" r="5" fill="#0f172a"/><circle cx="330" cy="130" r="5" fill="#0f172a"/>
   <path d="M95 170 H325" stroke="#2563eb" stroke-width="2" marker-end="url(#arrowBlue)"/>
-  <text x="210" y="193" text-anchor="middle" font-size="12" fill="#2563eb">Terminal P.D. = V</text>
-  <text x="210" y="222" text-anchor="middle" font-size="12" fill="#475569">কোষ/ব্যাটারির প্রান্তীয় বিভব পার্থক্য</text>
+  <text x="210" y="193" text-anchor="middle" font-size="12" fill="#2563eb" font-family="Noto Sans Bengali, Arial, sans-serif">Terminal P.D. = V</text>
+  <text x="210" y="222" text-anchor="middle" font-size="12" fill="#475569" font-family="Noto Sans Bengali, Arial, sans-serif">কোষ/ব্যাটারির প্রান্তীয় বিভব পার্থক্য</text>
 
 </svg>

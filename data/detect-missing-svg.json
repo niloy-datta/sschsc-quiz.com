@@ -1,1 +1,722 @@
-[]
+[
+  {
+    "question_id": "hsc-physics_2ndpaper-chapter-02-set-01-q05",
+    "status": "suspicious_mapping",
+    "detected_type": "physics_graph",
+    "priority": "high",
+    "current_image": "/images/quiz/premium/hsc-physics_2ndpaper-chapter-02-set-01-q05.svg",
+    "recommended_image": "/images/quiz/photon-energy-1.svg"
+  },
+  {
+    "question_id": "hsc-physics_2ndpaper-chapter-02-set-02-q17",
+    "status": "suspicious_mapping",
+    "detected_type": "physics_graph",
+    "priority": "high",
+    "current_image": "/images/quiz/premium/hsc-physics_2ndpaper-chapter-02-set-02-q17.svg",
+    "recommended_image": "/images/quiz/photon-energy-1.svg"
+  },
+  {
+    "question_id": "hsc-physics_2ndpaper-chapter-02-set-03-q10",
+    "status": "suspicious_mapping",
+    "detected_type": "physics_graph",
+    "priority": "high",
+    "current_image": "/images/quiz/premium/hsc-physics_2ndpaper-chapter-02-set-03-q10.svg",
+    "recommended_image": "/images/quiz/photon-energy-1.svg"
+  },
+  {
+    "question_id": "hsc-physics_2ndpaper-chapter-02-set-04-q03",
+    "status": "suspicious_mapping",
+    "detected_type": "physics_graph",
+    "priority": "high",
+    "current_image": "/images/quiz/premium/hsc-physics_2ndpaper-chapter-02-set-04-q03.svg",
+    "recommended_image": "/images/quiz/photon-energy-1.svg"
+  },
+  {
+    "question_id": "hsc-physics_2ndpaper-chapter-02-set-05-q15",
+    "status": "suspicious_mapping",
+    "detected_type": "physics_graph",
+    "priority": "high",
+    "current_image": "/images/quiz/premium/hsc-physics_2ndpaper-chapter-02-set-05-q15.svg",
+    "recommended_image": "/images/quiz/photon-energy-1.svg"
+  },
+  {
+    "question_id": "hsc-physics_2ndpaper-chapter-02-set-06-q08",
+    "status": "suspicious_mapping",
+    "detected_type": "physics_graph",
+    "priority": "high",
+    "current_image": "/images/quiz/premium/hsc-physics_2ndpaper-chapter-02-set-06-q08.svg",
+    "recommended_image": "/images/quiz/photon-energy-1.svg"
+  },
+  {
+    "question_id": "hsc-physics_2ndpaper-chapter-02-set-07-q01",
+    "status": "suspicious_mapping",
+    "detected_type": "physics_graph",
+    "priority": "high",
+    "current_image": "/images/quiz/premium/hsc-physics_2ndpaper-chapter-02-set-07-q01.svg",
+    "recommended_image": "/images/quiz/photon-energy-1.svg"
+  },
+  {
+    "question_id": "hsc-physics_2ndpaper-chapter-02-set-08-q13",
+    "status": "suspicious_mapping",
+    "detected_type": "physics_graph",
+    "priority": "high",
+    "current_image": "/images/quiz/premium/hsc-physics_2ndpaper-chapter-02-set-08-q13.svg",
+    "recommended_image": "/images/quiz/photon-energy-1.svg"
+  },
+  {
+    "question_id": "hsc-physics_2ndpaper-chapter-02-set-09-q06",
+    "status": "suspicious_mapping",
+    "detected_type": "physics_graph",
+    "priority": "high",
+    "current_image": "/images/quiz/premium/hsc-physics_2ndpaper-chapter-02-set-09-q06.svg",
+    "recommended_image": "/images/quiz/photon-energy-1.svg"
+  },
+  {
+    "question_id": "hsc-physics_2ndpaper-chapter-02-set-10-q18",
+    "status": "suspicious_mapping",
+    "detected_type": "physics_graph",
+    "priority": "high",
+    "current_image": "/images/quiz/premium/hsc-physics_2ndpaper-chapter-02-set-10-q18.svg",
+    "recommended_image": "/images/quiz/photon-energy-1.svg"
+  },
+  {
+    "question_id": "hsc-physics_2ndpaper-chapter-04-set-02-q19",
+    "status": "suspicious_mapping",
+    "detected_type": "physics_graph",
+    "priority": "high",
+    "current_image": "/images/quiz/premium/hsc-physics_2ndpaper-chapter-04-set-02-q19.svg",
+    "recommended_image": "/images/quiz/photon-energy-1.svg"
+  },
+  {
+    "question_id": "hsc-physics_2ndpaper-chapter-04-set-03-q08",
+    "status": "suspicious_mapping",
+    "detected_type": "physics_graph",
+    "priority": "high",
+    "current_image": "/images/quiz/premium/hsc-physics_2ndpaper-chapter-04-set-03-q08.svg",
+    "recommended_image": "/images/quiz/photon-energy-1.svg"
+  },
+  {
+    "question_id": "hsc-physics_2ndpaper-chapter-04-set-07-q23",
+    "status": "suspicious_mapping",
+    "detected_type": "physics_graph",
+    "priority": "high",
+    "current_image": "/images/quiz/premium/hsc-physics_2ndpaper-chapter-04-set-07-q23.svg",
+    "recommended_image": "/images/quiz/half-life-1.svg"
+  },
+  {
+    "question_id": "hsc-physics_2ndpaper-chapter-04-set-08-q12",
+    "status": "suspicious_mapping",
+    "detected_type": "physics_graph",
+    "priority": "high",
+    "current_image": "/images/quiz/premium/hsc-physics_2ndpaper-chapter-04-set-08-q12.svg",
+    "recommended_image": "/images/quiz/half-life-1.svg"
+  },
+  {
+    "question_id": "hsc-physics_2ndpaper-chapter-04-set-08-q23",
+    "status": "suspicious_mapping",
+    "detected_type": "physics_graph",
+    "priority": "high",
+    "current_image": "/images/quiz/premium/hsc-physics_2ndpaper-chapter-04-set-08-q23.svg",
+    "recommended_image": "/images/quiz/electric-field-1.svg"
+  },
+  {
+    "question_id": "hsc-physics_2ndpaper-chapter-04-set-08-q24",
+    "status": "suspicious_mapping",
+    "detected_type": "physics_graph",
+    "priority": "high",
+    "current_image": "/images/quiz/premium/hsc-physics_2ndpaper-chapter-04-set-08-q24.svg",
+    "recommended_image": "/images/quiz/electric-field-1.svg"
+  },
+  {
+    "question_id": "hsc-physics_2ndpaper-chapter-04-set-09-q12",
+    "status": "suspicious_mapping",
+    "detected_type": "physics_graph",
+    "priority": "high",
+    "current_image": "/images/quiz/premium/hsc-physics_2ndpaper-chapter-04-set-09-q12.svg",
+    "recommended_image": "/images/quiz/electric-field-1.svg"
+  },
+  {
+    "question_id": "hsc-physics_2ndpaper-chapter-04-set-09-q13",
+    "status": "suspicious_mapping",
+    "detected_type": "physics_graph",
+    "priority": "high",
+    "current_image": "/images/quiz/premium/hsc-physics_2ndpaper-chapter-04-set-09-q13.svg",
+    "recommended_image": "/images/quiz/electric-field-1.svg"
+  },
+  {
+    "question_id": "hsc-physics_2ndpaper-chapter-04-set-10-q21",
+    "status": "suspicious_mapping",
+    "detected_type": "physics_graph",
+    "priority": "high",
+    "current_image": "/images/quiz/premium/hsc-physics_2ndpaper-chapter-04-set-10-q21.svg",
+    "recommended_image": "/images/quiz/photon-energy-1.svg"
+  },
+  {
+    "question_id": "hsc-physics_2ndpaper-chapter-05-set-01-q04",
+    "status": "suspicious_mapping",
+    "detected_type": "physics_graph",
+    "priority": "high",
+    "current_image": "/images/quiz/premium/hsc-physics_2ndpaper-chapter-05-set-01-q04.svg",
+    "recommended_image": "/images/quiz/half-life-1.svg"
+  },
+  {
+    "question_id": "hsc-physics_2ndpaper-chapter-05-set-02-q05",
+    "status": "suspicious_mapping",
+    "detected_type": "physics_graph",
+    "priority": "high",
+    "current_image": "/images/quiz/premium/hsc-physics_2ndpaper-chapter-05-set-02-q05.svg",
+    "recommended_image": "/images/quiz/half-life-1.svg"
+  },
+  {
+    "question_id": "hsc-physics_2ndpaper-chapter-05-set-02-q22",
+    "status": "suspicious_mapping",
+    "detected_type": "physics_graph",
+    "priority": "high",
+    "current_image": "/images/quiz/premium/hsc-physics_2ndpaper-chapter-05-set-02-q22.svg",
+    "recommended_image": "/images/quiz/photon-energy-1.svg"
+  },
+  {
+    "question_id": "hsc-physics_2ndpaper-chapter-05-set-03-q06",
+    "status": "suspicious_mapping",
+    "detected_type": "physics_graph",
+    "priority": "high",
+    "current_image": "/images/quiz/premium/hsc-physics_2ndpaper-chapter-05-set-03-q06.svg",
+    "recommended_image": "/images/quiz/half-life-1.svg"
+  },
+  {
+    "question_id": "hsc-physics_2ndpaper-chapter-05-set-03-q11",
+    "status": "suspicious_mapping",
+    "detected_type": "physics_graph",
+    "priority": "high",
+    "current_image": "/images/quiz/premium/hsc-physics_2ndpaper-chapter-05-set-03-q11.svg",
+    "recommended_image": "/images/quiz/photon-energy-1.svg"
+  },
+  {
+    "question_id": "hsc-physics_2ndpaper-chapter-05-set-04-q07",
+    "status": "suspicious_mapping",
+    "detected_type": "physics_graph",
+    "priority": "high",
+    "current_image": "/images/quiz/premium/hsc-physics_2ndpaper-chapter-05-set-04-q07.svg",
+    "recommended_image": "/images/quiz/half-life-1.svg"
+  },
+  {
+    "question_id": "hsc-physics_2ndpaper-chapter-05-set-05-q08",
+    "status": "suspicious_mapping",
+    "detected_type": "physics_graph",
+    "priority": "high",
+    "current_image": "/images/quiz/premium/hsc-physics_2ndpaper-chapter-05-set-05-q08.svg",
+    "recommended_image": "/images/quiz/half-life-1.svg"
+  },
+  {
+    "question_id": "hsc-physics_2ndpaper-chapter-05-set-06-q01",
+    "status": "suspicious_mapping",
+    "detected_type": "physics_graph",
+    "priority": "high",
+    "current_image": "/images/quiz/premium/hsc-physics_2ndpaper-chapter-05-set-06-q01.svg",
+    "recommended_image": "/images/quiz/half-life-1.svg"
+  },
+  {
+    "question_id": "hsc-physics_2ndpaper-chapter-05-set-07-q02",
+    "status": "suspicious_mapping",
+    "detected_type": "physics_graph",
+    "priority": "high",
+    "current_image": "/images/quiz/premium/hsc-physics_2ndpaper-chapter-05-set-07-q02.svg",
+    "recommended_image": "/images/quiz/half-life-1.svg"
+  },
+  {
+    "question_id": "hsc-physics_2ndpaper-chapter-05-set-08-q03",
+    "status": "suspicious_mapping",
+    "detected_type": "physics_graph",
+    "priority": "high",
+    "current_image": "/images/quiz/premium/hsc-physics_2ndpaper-chapter-05-set-08-q03.svg",
+    "recommended_image": "/images/quiz/half-life-1.svg"
+  },
+  {
+    "question_id": "hsc-physics_2ndpaper-chapter-05-set-09-q04",
+    "status": "suspicious_mapping",
+    "detected_type": "physics_graph",
+    "priority": "high",
+    "current_image": "/images/quiz/premium/hsc-physics_2ndpaper-chapter-05-set-09-q04.svg",
+    "recommended_image": "/images/quiz/half-life-1.svg"
+  },
+  {
+    "question_id": "hsc-physics_2ndpaper-chapter-05-set-09-q16",
+    "status": "suspicious_mapping",
+    "detected_type": "physics_graph",
+    "priority": "high",
+    "current_image": "/images/quiz/premium/hsc-physics_2ndpaper-chapter-05-set-09-q16.svg",
+    "recommended_image": "/images/quiz/electric-field-1.svg"
+  },
+  {
+    "question_id": "hsc-physics_2ndpaper-chapter-05-set-09-q17",
+    "status": "suspicious_mapping",
+    "detected_type": "physics_graph",
+    "priority": "high",
+    "current_image": "/images/quiz/premium/hsc-physics_2ndpaper-chapter-05-set-09-q17.svg",
+    "recommended_image": "/images/quiz/electric-field-1.svg"
+  },
+  {
+    "question_id": "hsc-physics_2ndpaper-chapter-05-set-10-q05",
+    "status": "suspicious_mapping",
+    "detected_type": "physics_graph",
+    "priority": "high",
+    "current_image": "/images/quiz/premium/hsc-physics_2ndpaper-chapter-05-set-10-q05.svg",
+    "recommended_image": "/images/quiz/half-life-1.svg"
+  },
+  {
+    "question_id": "hsc-physics_2ndpaper-chapter-05-set-10-q24",
+    "status": "suspicious_mapping",
+    "detected_type": "physics_graph",
+    "priority": "high",
+    "current_image": "/images/quiz/premium/hsc-physics_2ndpaper-chapter-05-set-10-q24.svg",
+    "recommended_image": "/images/quiz/photon-energy-1.svg"
+  },
+  {
+    "question_id": "hsc-physics_2ndpaper-chapter-06-set-02-q16",
+    "status": "suspicious_mapping",
+    "detected_type": "physics_graph",
+    "priority": "high",
+    "current_image": "/images/quiz/premium/hsc-physics_2ndpaper-chapter-06-set-02-q16.svg",
+    "recommended_image": "/images/quiz/photon-energy-1.svg"
+  },
+  {
+    "question_id": "hsc-physics_2ndpaper-chapter-06-set-03-q05",
+    "status": "suspicious_mapping",
+    "detected_type": "physics_graph",
+    "priority": "high",
+    "current_image": "/images/quiz/premium/hsc-physics_2ndpaper-chapter-06-set-03-q05.svg",
+    "recommended_image": "/images/quiz/photon-energy-1.svg"
+  },
+  {
+    "question_id": "hsc-physics_2ndpaper-chapter-06-set-07-q20",
+    "status": "suspicious_mapping",
+    "detected_type": "physics_graph",
+    "priority": "high",
+    "current_image": "/images/quiz/premium/hsc-physics_2ndpaper-chapter-06-set-07-q20.svg",
+    "recommended_image": "/images/quiz/half-life-1.svg"
+  },
+  {
+    "question_id": "hsc-physics_2ndpaper-chapter-06-set-08-q09",
+    "status": "suspicious_mapping",
+    "detected_type": "physics_graph",
+    "priority": "high",
+    "current_image": "/images/quiz/premium/hsc-physics_2ndpaper-chapter-06-set-08-q09.svg",
+    "recommended_image": "/images/quiz/half-life-1.svg"
+  },
+  {
+    "question_id": "hsc-physics_2ndpaper-chapter-06-set-08-q21",
+    "status": "suspicious_mapping",
+    "detected_type": "physics_graph",
+    "priority": "high",
+    "current_image": "/images/quiz/premium/hsc-physics_2ndpaper-chapter-06-set-08-q21.svg",
+    "recommended_image": "/images/quiz/electric-field-1.svg"
+  },
+  {
+    "question_id": "hsc-physics_2ndpaper-chapter-06-set-08-q22",
+    "status": "suspicious_mapping",
+    "detected_type": "physics_graph",
+    "priority": "high",
+    "current_image": "/images/quiz/premium/hsc-physics_2ndpaper-chapter-06-set-08-q22.svg",
+    "recommended_image": "/images/quiz/electric-field-1.svg"
+  },
+  {
+    "question_id": "hsc-physics_2ndpaper-chapter-06-set-09-q10",
+    "status": "suspicious_mapping",
+    "detected_type": "physics_graph",
+    "priority": "high",
+    "current_image": "/images/quiz/premium/hsc-physics_2ndpaper-chapter-06-set-09-q10.svg",
+    "recommended_image": "/images/quiz/electric-field-1.svg"
+  },
+  {
+    "question_id": "hsc-physics_2ndpaper-chapter-06-set-09-q11",
+    "status": "suspicious_mapping",
+    "detected_type": "physics_graph",
+    "priority": "high",
+    "current_image": "/images/quiz/premium/hsc-physics_2ndpaper-chapter-06-set-09-q11.svg",
+    "recommended_image": "/images/quiz/electric-field-1.svg"
+  },
+  {
+    "question_id": "hsc-physics_2ndpaper-chapter-06-set-10-q18",
+    "status": "suspicious_mapping",
+    "detected_type": "physics_graph",
+    "priority": "high",
+    "current_image": "/images/quiz/premium/hsc-physics_2ndpaper-chapter-06-set-10-q18.svg",
+    "recommended_image": "/images/quiz/photon-energy-1.svg"
+  },
+  {
+    "question_id": "hsc-physics_2ndpaper-chapter-07-set-02-q20",
+    "status": "suspicious_mapping",
+    "detected_type": "physics_graph",
+    "priority": "high",
+    "current_image": "/images/quiz/premium/hsc-physics_2ndpaper-chapter-07-set-02-q20.svg",
+    "recommended_image": "/images/quiz/photon-energy-1.svg"
+  },
+  {
+    "question_id": "hsc-physics_2ndpaper-chapter-07-set-03-q09",
+    "status": "suspicious_mapping",
+    "detected_type": "physics_graph",
+    "priority": "high",
+    "current_image": "/images/quiz/premium/hsc-physics_2ndpaper-chapter-07-set-03-q09.svg",
+    "recommended_image": "/images/quiz/photon-energy-1.svg"
+  },
+  {
+    "question_id": "hsc-physics_2ndpaper-chapter-07-set-07-q24",
+    "status": "suspicious_mapping",
+    "detected_type": "physics_graph",
+    "priority": "high",
+    "current_image": "/images/quiz/premium/hsc-physics_2ndpaper-chapter-07-set-07-q24.svg",
+    "recommended_image": "/images/quiz/half-life-1.svg"
+  },
+  {
+    "question_id": "hsc-physics_2ndpaper-chapter-07-set-08-q13",
+    "status": "suspicious_mapping",
+    "detected_type": "physics_graph",
+    "priority": "high",
+    "current_image": "/images/quiz/premium/hsc-physics_2ndpaper-chapter-07-set-08-q13.svg",
+    "recommended_image": "/images/quiz/half-life-1.svg"
+  },
+  {
+    "question_id": "hsc-physics_2ndpaper-chapter-07-set-08-q25",
+    "status": "suspicious_mapping",
+    "detected_type": "physics_graph",
+    "priority": "high",
+    "current_image": "/images/quiz/premium/hsc-physics_2ndpaper-chapter-07-set-08-q25.svg",
+    "recommended_image": "/images/quiz/electric-field-1.svg"
+  },
+  {
+    "question_id": "hsc-physics_2ndpaper-chapter-07-set-09-q14",
+    "status": "suspicious_mapping",
+    "detected_type": "physics_graph",
+    "priority": "high",
+    "current_image": "/images/quiz/premium/hsc-physics_2ndpaper-chapter-07-set-09-q14.svg",
+    "recommended_image": "/images/quiz/electric-field-1.svg"
+  },
+  {
+    "question_id": "hsc-physics_2ndpaper-chapter-07-set-09-q15",
+    "status": "suspicious_mapping",
+    "detected_type": "physics_graph",
+    "priority": "high",
+    "current_image": "/images/quiz/premium/hsc-physics_2ndpaper-chapter-07-set-09-q15.svg",
+    "recommended_image": "/images/quiz/electric-field-1.svg"
+  },
+  {
+    "question_id": "hsc-physics_2ndpaper-chapter-07-set-10-q22",
+    "status": "suspicious_mapping",
+    "detected_type": "physics_graph",
+    "priority": "high",
+    "current_image": "/images/quiz/premium/hsc-physics_2ndpaper-chapter-07-set-10-q22.svg",
+    "recommended_image": "/images/quiz/photon-energy-1.svg"
+  },
+  {
+    "question_id": "hsc-physics_2ndpaper-chapter-08-set-02-q15",
+    "status": "suspicious_mapping",
+    "detected_type": "physics_graph",
+    "priority": "high",
+    "current_image": "/images/quiz/premium/hsc-physics_2ndpaper-chapter-08-set-02-q15.svg",
+    "recommended_image": "/images/quiz/photon-energy-1.svg"
+  },
+  {
+    "question_id": "hsc-physics_2ndpaper-chapter-08-set-03-q04",
+    "status": "suspicious_mapping",
+    "detected_type": "physics_graph",
+    "priority": "high",
+    "current_image": "/images/quiz/premium/hsc-physics_2ndpaper-chapter-08-set-03-q04.svg",
+    "recommended_image": "/images/quiz/photon-energy-1.svg"
+  },
+  {
+    "question_id": "hsc-physics_2ndpaper-chapter-08-set-07-q19",
+    "status": "suspicious_mapping",
+    "detected_type": "physics_graph",
+    "priority": "high",
+    "current_image": "/images/quiz/premium/hsc-physics_2ndpaper-chapter-08-set-07-q19.svg",
+    "recommended_image": "/images/quiz/half-life-1.svg"
+  },
+  {
+    "question_id": "hsc-physics_2ndpaper-chapter-08-set-08-q08",
+    "status": "suspicious_mapping",
+    "detected_type": "physics_graph",
+    "priority": "high",
+    "current_image": "/images/quiz/premium/hsc-physics_2ndpaper-chapter-08-set-08-q08.svg",
+    "recommended_image": "/images/quiz/half-life-1.svg"
+  },
+  {
+    "question_id": "hsc-physics_2ndpaper-chapter-08-set-08-q20",
+    "status": "suspicious_mapping",
+    "detected_type": "physics_graph",
+    "priority": "high",
+    "current_image": "/images/quiz/premium/hsc-physics_2ndpaper-chapter-08-set-08-q20.svg",
+    "recommended_image": "/images/quiz/electric-field-1.svg"
+  },
+  {
+    "question_id": "hsc-physics_2ndpaper-chapter-08-set-08-q21",
+    "status": "suspicious_mapping",
+    "detected_type": "physics_graph",
+    "priority": "high",
+    "current_image": "/images/quiz/premium/hsc-physics_2ndpaper-chapter-08-set-08-q21.svg",
+    "recommended_image": "/images/quiz/electric-field-1.svg"
+  },
+  {
+    "question_id": "hsc-physics_2ndpaper-chapter-08-set-09-q09",
+    "status": "suspicious_mapping",
+    "detected_type": "physics_graph",
+    "priority": "high",
+    "current_image": "/images/quiz/premium/hsc-physics_2ndpaper-chapter-08-set-09-q09.svg",
+    "recommended_image": "/images/quiz/electric-field-1.svg"
+  },
+  {
+    "question_id": "hsc-physics_2ndpaper-chapter-08-set-09-q10",
+    "status": "suspicious_mapping",
+    "detected_type": "physics_graph",
+    "priority": "high",
+    "current_image": "/images/quiz/premium/hsc-physics_2ndpaper-chapter-08-set-09-q10.svg",
+    "recommended_image": "/images/quiz/electric-field-1.svg"
+  },
+  {
+    "question_id": "hsc-physics_2ndpaper-chapter-08-set-10-q16",
+    "status": "suspicious_mapping",
+    "detected_type": "physics_graph",
+    "priority": "high",
+    "current_image": "/images/quiz/premium/hsc-physics_2ndpaper-chapter-08-set-10-q16.svg",
+    "recommended_image": "/images/quiz/photon-energy-1.svg"
+  },
+  {
+    "question_id": "hsc-physics_2ndpaper-chapter-09-set-02-q17",
+    "status": "suspicious_mapping",
+    "detected_type": "physics_graph",
+    "priority": "high",
+    "current_image": "/images/quiz/premium/hsc-physics_2ndpaper-chapter-09-set-02-q17.svg",
+    "recommended_image": "/images/quiz/photon-energy-1.svg"
+  },
+  {
+    "question_id": "hsc-physics_2ndpaper-chapter-09-set-03-q06",
+    "status": "suspicious_mapping",
+    "detected_type": "physics_graph",
+    "priority": "high",
+    "current_image": "/images/quiz/premium/hsc-physics_2ndpaper-chapter-09-set-03-q06.svg",
+    "recommended_image": "/images/quiz/photon-energy-1.svg"
+  },
+  {
+    "question_id": "hsc-physics_2ndpaper-chapter-09-set-07-q21",
+    "status": "suspicious_mapping",
+    "detected_type": "physics_graph",
+    "priority": "high",
+    "current_image": "/images/quiz/premium/hsc-physics_2ndpaper-chapter-09-set-07-q21.svg",
+    "recommended_image": "/images/quiz/half-life-1.svg"
+  },
+  {
+    "question_id": "hsc-physics_2ndpaper-chapter-09-set-08-q10",
+    "status": "suspicious_mapping",
+    "detected_type": "physics_graph",
+    "priority": "high",
+    "current_image": "/images/quiz/premium/hsc-physics_2ndpaper-chapter-09-set-08-q10.svg",
+    "recommended_image": "/images/quiz/half-life-1.svg"
+  },
+  {
+    "question_id": "hsc-physics_2ndpaper-chapter-09-set-08-q22",
+    "status": "suspicious_mapping",
+    "detected_type": "physics_graph",
+    "priority": "high",
+    "current_image": "/images/quiz/premium/hsc-physics_2ndpaper-chapter-09-set-08-q22.svg",
+    "recommended_image": "/images/quiz/electric-field-1.svg"
+  },
+  {
+    "question_id": "hsc-physics_2ndpaper-chapter-09-set-08-q23",
+    "status": "suspicious_mapping",
+    "detected_type": "physics_graph",
+    "priority": "high",
+    "current_image": "/images/quiz/premium/hsc-physics_2ndpaper-chapter-09-set-08-q23.svg",
+    "recommended_image": "/images/quiz/electric-field-1.svg"
+  },
+  {
+    "question_id": "hsc-physics_2ndpaper-chapter-09-set-09-q11",
+    "status": "suspicious_mapping",
+    "detected_type": "physics_graph",
+    "priority": "high",
+    "current_image": "/images/quiz/premium/hsc-physics_2ndpaper-chapter-09-set-09-q11.svg",
+    "recommended_image": "/images/quiz/electric-field-1.svg"
+  },
+  {
+    "question_id": "hsc-physics_2ndpaper-chapter-09-set-09-q12",
+    "status": "suspicious_mapping",
+    "detected_type": "physics_graph",
+    "priority": "high",
+    "current_image": "/images/quiz/premium/hsc-physics_2ndpaper-chapter-09-set-09-q12.svg",
+    "recommended_image": "/images/quiz/electric-field-1.svg"
+  },
+  {
+    "question_id": "hsc-physics_2ndpaper-chapter-09-set-10-q18",
+    "status": "suspicious_mapping",
+    "detected_type": "physics_graph",
+    "priority": "high",
+    "current_image": "/images/quiz/premium/hsc-physics_2ndpaper-chapter-09-set-10-q18.svg",
+    "recommended_image": "/images/quiz/photon-energy-1.svg"
+  },
+  {
+    "question_id": "hsc-physics_2ndpaper-chapter-10-set-02-q20",
+    "status": "suspicious_mapping",
+    "detected_type": "physics_graph",
+    "priority": "high",
+    "current_image": "/images/quiz/premium/hsc-physics_2ndpaper-chapter-10-set-02-q20.svg",
+    "recommended_image": "/images/quiz/photon-energy-1.svg"
+  },
+  {
+    "question_id": "hsc-physics_2ndpaper-chapter-10-set-03-q09",
+    "status": "suspicious_mapping",
+    "detected_type": "physics_graph",
+    "priority": "high",
+    "current_image": "/images/quiz/premium/hsc-physics_2ndpaper-chapter-10-set-03-q09.svg",
+    "recommended_image": "/images/quiz/photon-energy-1.svg"
+  },
+  {
+    "question_id": "hsc-physics_2ndpaper-chapter-10-set-07-q24",
+    "status": "suspicious_mapping",
+    "detected_type": "physics_graph",
+    "priority": "high",
+    "current_image": "/images/quiz/premium/hsc-physics_2ndpaper-chapter-10-set-07-q24.svg",
+    "recommended_image": "/images/quiz/half-life-1.svg"
+  },
+  {
+    "question_id": "hsc-physics_2ndpaper-chapter-10-set-08-q13",
+    "status": "suspicious_mapping",
+    "detected_type": "physics_graph",
+    "priority": "high",
+    "current_image": "/images/quiz/premium/hsc-physics_2ndpaper-chapter-10-set-08-q13.svg",
+    "recommended_image": "/images/quiz/half-life-1.svg"
+  },
+  {
+    "question_id": "hsc-physics_2ndpaper-chapter-10-set-08-q25",
+    "status": "suspicious_mapping",
+    "detected_type": "physics_graph",
+    "priority": "high",
+    "current_image": "/images/quiz/premium/hsc-physics_2ndpaper-chapter-10-set-08-q25.svg",
+    "recommended_image": "/images/quiz/electric-field-1.svg"
+  },
+  {
+    "question_id": "hsc-physics_2ndpaper-chapter-10-set-09-q14",
+    "status": "suspicious_mapping",
+    "detected_type": "physics_graph",
+    "priority": "high",
+    "current_image": "/images/quiz/premium/hsc-physics_2ndpaper-chapter-10-set-09-q14.svg",
+    "recommended_image": "/images/quiz/electric-field-1.svg"
+  },
+  {
+    "question_id": "hsc-physics_2ndpaper-chapter-10-set-09-q15",
+    "status": "suspicious_mapping",
+    "detected_type": "physics_graph",
+    "priority": "high",
+    "current_image": "/images/quiz/premium/hsc-physics_2ndpaper-chapter-10-set-09-q15.svg",
+    "recommended_image": "/images/quiz/electric-field-1.svg"
+  },
+  {
+    "question_id": "hsc-physics_2ndpaper-chapter-10-set-10-q20",
+    "status": "suspicious_mapping",
+    "detected_type": "physics_graph",
+    "priority": "high",
+    "current_image": "/images/quiz/premium/hsc-physics_2ndpaper-chapter-10-set-10-q20.svg",
+    "recommended_image": "/images/quiz/photon-energy-1.svg"
+  },
+  {
+    "question_id": "hsc-physics-2nd-paper-tier-a-set-05-q01",
+    "status": "suspicious_mapping",
+    "detected_type": "general_theory",
+    "priority": "high",
+    "current_image": "/images/quiz/premium/hsc-physics-2nd-paper-tier-a-set-05-q01.svg",
+    "recommended_image": "/images/quiz/photon-energy-1.svg"
+  },
+  {
+    "question_id": "hsc-physics-2nd-paper-tier-a-set-09-q03",
+    "status": "suspicious_mapping",
+    "detected_type": "general_theory",
+    "priority": "high",
+    "current_image": "/images/quiz/premium/hsc-physics-2nd-paper-tier-a-set-09-q03.svg",
+    "recommended_image": "/images/quiz/photon-energy-1.svg"
+  },
+  {
+    "question_id": "physics-2nd-paper-hsc-science-physics-2nd-paper-board-questions-year-wise-2024-barishal-ts-18",
+    "status": "suspicious_mapping",
+    "detected_type": "physics_graph",
+    "priority": "high",
+    "current_image": "/images/quiz/premium/physics-2nd-paper-hsc-science-physics-2nd-paper-board-questions-year-wise-2024-barishal-ts-18.svg",
+    "recommended_image": "/images/quiz/electric-field-1.svg"
+  },
+  {
+    "question_id": "physics-2nd-paper-hsc-science-physics-2nd-paper-board-questions-year-wise-2024-mymensingh-ts-0",
+    "status": "suspicious_mapping",
+    "detected_type": "physics_graph",
+    "priority": "high",
+    "current_image": "/images/quiz/premium/physics-2nd-paper-hsc-science-physics-2nd-paper-board-questions-year-wise-2024-mymensingh-ts-0.svg",
+    "recommended_image": "/images/quiz/electric-field-1.svg"
+  },
+  {
+    "question_id": "physics-2nd-paper-hsc-science-physics-2nd-paper-board-questions-year-wise-2024-sylhet-ts-13",
+    "status": "suspicious_mapping",
+    "detected_type": "physics_graph",
+    "priority": "high",
+    "current_image": "/images/quiz/premium/physics-2nd-paper-hsc-science-physics-2nd-paper-board-questions-year-wise-2024-sylhet-ts-13.svg",
+    "recommended_image": "/images/quiz/photon-energy-1.svg"
+  },
+  {
+    "question_id": "physics-2nd-paper-hsc-science-physics-2nd-paper-board-questions-year-wise-2024-sylhet-ts-18",
+    "status": "suspicious_mapping",
+    "detected_type": "physics_graph",
+    "priority": "high",
+    "current_image": "/images/quiz/premium/physics-2nd-paper-hsc-science-physics-2nd-paper-board-questions-year-wise-2024-sylhet-ts-18.svg",
+    "recommended_image": "/images/quiz/photon-energy-1.svg"
+  },
+  {
+    "question_id": "physics-2nd-paper-hsc-science-physics-2nd-paper-board-questions-year-wise-2024-sylhet-ts-8",
+    "status": "suspicious_mapping",
+    "detected_type": "physics_graph",
+    "priority": "high",
+    "current_image": "/images/quiz/premium/physics-2nd-paper-hsc-science-physics-2nd-paper-board-questions-year-wise-2024-sylhet-ts-8.svg",
+    "recommended_image": "/images/quiz/half-life-1.svg"
+  },
+  {
+    "question_id": "physics-ssc-science-physics-board-questions-year-wise-2025-dinajpur-ts-19",
+    "status": "suspicious_mapping",
+    "detected_type": "general_theory",
+    "priority": "high",
+    "current_image": "/images/quiz/premium/physics-ssc-science-physics-board-questions-year-wise-2025-dinajpur-ts-19.svg",
+    "recommended_image": "/images/quiz/ssc-charge-spheres.svg"
+  },
+  {
+    "question_id": "physics-ssc-science-physics-board-questions-year-wise-2025-dinajpur-ts-20",
+    "status": "suspicious_mapping",
+    "detected_type": "general_theory",
+    "priority": "high",
+    "current_image": "/images/quiz/premium/physics-ssc-science-physics-board-questions-year-wise-2025-dinajpur-ts-20.svg",
+    "recommended_image": "/images/quiz/ssc-charge-spheres.svg"
+  },
+  {
+    "question_id": "ssc-physics-chapter-03-model-test-01-q03",
+    "status": "suspicious_mapping",
+    "detected_type": "general_theory",
+    "priority": "high",
+    "current_image": "/images/quiz/premium/ssc-physics-chapter-03-model-test-01-q03.svg",
+    "recommended_image": "/images/quiz/ssc-charge-spheres.svg"
+  },
+  {
+    "question_id": "ssc-physics-chapter-03-model-test-01-q04",
+    "status": "suspicious_mapping",
+    "detected_type": "general_theory",
+    "priority": "high",
+    "current_image": "/images/quiz/premium/ssc-physics-chapter-03-model-test-01-q04.svg",
+    "recommended_image": "/images/quiz/ssc-charge-spheres.svg"
+  },
+  {
+    "question_id": "ssc-physics-chapter-03-model-test-05-q14",
+    "status": "suspicious_mapping",
+    "detected_type": "general_theory",
+    "priority": "high",
+    "current_image": "/images/quiz/premium/ssc-physics-chapter-03-model-test-05-q14.svg",
+    "recommended_image": "/images/quiz/ssc-charge-spheres.svg"
+  },
+  {
+    "question_id": "ssc-physics-chapter-03-model-test-05-q15",
+    "status": "suspicious_mapping",
+    "detected_type": "general_theory",
+    "priority": "high",
+    "current_image": "/images/quiz/premium/ssc-physics-chapter-03-model-test-05-q15.svg",
+    "recommended_image": "/images/quiz/ssc-charge-spheres.svg"
+  }
+]

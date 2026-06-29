@@ -1,13 +1,13 @@
-<svg viewBox="0 0 320 220" xmlns="http://www.w3.org/2000/svg">
+<svg viewBox="0 0 320 220" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="geo circle center o">
   <rect width="320" height="220" fill="transparent"/>
   <filter id="glow"><feDropShadow dx="0" dy="0" stdDeviation="4" flood-color="#22d3ee" flood-opacity="0.55"/></filter>
   
   <circle cx="160" cy="100" r="70" fill="#0f172a" stroke="#22d3ee" stroke-width="2.5" filter="url(#glow)"/>
   <circle cx="160" cy="100" r="4" fill="#67e8f9"/>
-  <text x="168" y="96" fill="#f8fafc" font-size="14" font-weight="bold">O</text>
+  <text x="168" y="96" fill="#f8fafc" font-size="14" font-weight="bold" font-family="Noto Sans Bengali, Arial, sans-serif">O</text>
   <polygon points="160,30 220,130 100,130" fill="none" stroke="#f472b6" stroke-width="2"/>
-  <text x="152" y="28" fill="#fda4af" font-size="12">A</text>
-  <text x="228" y="138" fill="#fda4af" font-size="12">B</text>
-  <text x="88" y="138" fill="#fda4af" font-size="12">C</text>
+  <text x="152" y="28" fill="#fda4af" font-size="12" font-family="Noto Sans Bengali, Arial, sans-serif">A</text>
+  <text x="228" y="138" fill="#fda4af" font-size="12" font-family="Noto Sans Bengali, Arial, sans-serif">B</text>
+  <text x="88" y="138" fill="#fda4af" font-size="12" font-family="Noto Sans Bengali, Arial, sans-serif">C</text>
   <text x="160" y="210" fill="#94a3b8" font-family="system-ui,sans-serif" font-size="12" text-anchor="middle">বৃত্ত — কেন্দ্র O</text>
 </svg>

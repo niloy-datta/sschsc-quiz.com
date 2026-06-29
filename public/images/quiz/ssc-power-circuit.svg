@@ -19,9 +19,9 @@
     <line x1="85" y1="125" x2="115" y2="125"/><line x1="95" y1="140" x2="105" y2="140"/>
     <path d="M180 90 h15 l7 -12 l7 24 l7 -24 l7 24 l7 -12 h15"/>
   </g>
-  <text x="100" y="118" font-size="12" fill="#ea580c">E = 10 V</text>
-  <text x="210" y="72" text-anchor="middle" font-size="12" fill="#2563eb">R</text>
-  <text x="290" y="215" font-size="12" fill="#16a34a">I = 3 A</text>
-  <text x="210" y="230" text-anchor="middle" font-size="12" fill="#475569">P = VI</text>
+  <text x="100" y="118" font-size="12" fill="#ea580c" font-family="Noto Sans Bengali, Arial, sans-serif">E = 10 V</text>
+  <text x="210" y="72" text-anchor="middle" font-size="12" fill="#2563eb" font-family="Noto Sans Bengali, Arial, sans-serif">R</text>
+  <text x="290" y="215" font-size="12" fill="#16a34a" font-family="Noto Sans Bengali, Arial, sans-serif">I = 3 A</text>
+  <text x="210" y="230" text-anchor="middle" font-size="12" fill="#475569" font-family="Noto Sans Bengali, Arial, sans-serif">P = VI</text>
 
 </svg>

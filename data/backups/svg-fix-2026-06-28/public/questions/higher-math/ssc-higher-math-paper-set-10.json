@@ -1,0 +1,287 @@
+[
+  {
+    "id": "ssc-higher-math-paper-set-10-q01",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-paper-set-10",
+    "text": "$\\frac{d}{dx}x^12$ কত?",
+    "options": [
+      "$12x^11$",
+      "$11x^12$",
+      "$x^12$",
+      "$x^11$"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-higher-math-paper-set-10-q02",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-paper-set-10",
+    "text": "$\\int x^13dx$ কত?",
+    "options": [
+      "$\\frac{x^13}{13}+C$",
+      "$13x^12+C$",
+      "$\\frac{x^14}{14}+C$",
+      "$x^14+C$"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-higher-math-paper-set-10-q03",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-paper-set-10",
+    "text": "$14P_2$ এর মান কত?",
+    "options": [
+      "70",
+      "182",
+      "16",
+      "91"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-higher-math-paper-set-10-q04",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-paper-set-10",
+    "text": "$15C_2$ এর মান কত?",
+    "options": [
+      "225",
+      "210",
+      "16",
+      "105"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-higher-math-paper-set-10-q05",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-paper-set-10",
+    "text": "ঢাল 11 এবং বিন্দু $(7,11)$ দিয়ে অতিক্রান্ত রেখার সমীকরণ কোনটি?",
+    "options": [
+      "$y-11=7(x-11)$",
+      "$y-11=11(x-7)$",
+      "$y+11=11(x-7)$",
+      "$x-11=11(y-7)$"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-higher-math-paper-set-10-q06",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-paper-set-10",
+    "text": "$x^2+y^2=144$ বৃত্তের ব্যাসার্ধ কত?",
+    "options": [
+      "144",
+      "13",
+      "12",
+      "24"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-higher-math-paper-set-10-q07",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-paper-set-10",
+    "text": "$\\sin^2\\theta+\\cos^2\\theta$ কত?",
+    "options": [
+      "$\\sec^2\\theta$",
+      "1",
+      "$\\tan\\theta$",
+      "0"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-higher-math-paper-set-10-q08",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-paper-set-10",
+    "text": "$\\sin(A+B)$ সূত্র কোনটি?",
+    "options": [
+      "$\\cos A\\cos B-\\sin A\\sin B$",
+      "$\\tan A+\\tan B$",
+      "$\\sin A\\cos B-\\cos A\\sin B$",
+      "$\\sin A\\cos B+\\cos A\\sin B$"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-higher-math-paper-set-10-q09",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-paper-set-10",
+    "text": "$f(x)=x^2$ ফাংশনটি কেমন?",
+    "options": [
+      "Constant",
+      "Even",
+      "Odd",
+      "Periodic"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-higher-math-paper-set-10-q10",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-paper-set-10",
+    "text": "$\\vec a\\cdot\\vec b=0$ হলে দুটি ভেক্টর কেমন?",
+    "options": [
+      "একক",
+      "সমান",
+      "লম্ব",
+      "সমান্তরাল"
+    ],
+    "image": "/images/quiz/premium/ssc-higher-math-paper-set-10-q10.svg",
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-higher-math-paper-set-10-q11",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-paper-set-10",
+    "text": "$A^2=A$ হলে matrix কী?",
+    "options": [
+      "Idempotent",
+      "Scalar",
+      "Orthogonal",
+      "Nilpotent"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-higher-math-paper-set-10-q12",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-paper-set-10",
+    "text": "$\\int_0^1 xdx$ কত?",
+    "options": [
+      "$\\frac13$",
+      "$\\frac12$",
+      "0",
+      "1"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-higher-math-paper-set-10-q13",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-paper-set-10",
+    "text": "$\\frac{d}{dx}x^14$ কত?",
+    "options": [
+      "$x^13$",
+      "$13x^14$",
+      "$14x^13$",
+      "$x^14$"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-higher-math-paper-set-10-q14",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-paper-set-10",
+    "text": "$\\int x^15dx$ কত?",
+    "options": [
+      "$x^16+C$",
+      "$\\frac{x^16}{16}+C$",
+      "$15x^14+C$",
+      "$\\frac{x^15}{15}+C$"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-higher-math-paper-set-10-q15",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-paper-set-10",
+    "text": "$11P_2$ এর মান কত?",
+    "options": [
+      "110",
+      "33",
+      "55",
+      "13"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-higher-math-paper-set-10-q16",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-paper-set-10",
+    "text": "$12C_2$ এর মান কত?",
+    "options": [
+      "132",
+      "144",
+      "13",
+      "66"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-higher-math-paper-set-10-q17",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-paper-set-10",
+    "text": "ঢাল 13 এবং বিন্দু $(5,13)$ দিয়ে অতিক্রান্ত রেখার সমীকরণ কোনটি?",
+    "options": [
+      "$x-13=13(y-5)$",
+      "$y+13=13(x-5)$",
+      "$y-13=13(x-5)$",
+      "$y-13=5(x-13)$"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-higher-math-paper-set-10-q18",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-paper-set-10",
+    "text": "$x^2+y^2=196$ বৃত্তের ব্যাসার্ধ কত?",
+    "options": [
+      "14",
+      "28",
+      "15",
+      "196"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-higher-math-paper-set-10-q19",
+    "subject": "higher-math",
+    "chapter": "ssc-higher-math-paper-set-10",
+    "text": "$\\frac{d}{dx}x^11$ কত?",
+    "options": [
+      "$10x^11$",
+      "$x^10$",
+      "$11x^10$",
+      "$x^11$"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  }
+]

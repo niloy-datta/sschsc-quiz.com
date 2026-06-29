@@ -1,0 +1,82 @@
+{
+  "level": "ssc",
+  "subject": "biology",
+  "modelTests": {
+    "ssc-biology-board-standard-model-test-01": {
+      "questionCount": 25,
+      "scope": "paper",
+      "displayTitle": "Model Test 01",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "ssc-2026",
+        "biology",
+        "board-standard",
+        "high-priority"
+      ],
+      "chaptersCovered": [
+        "জীবকোষ ও টিস্যু",
+        "কোষ বিভাজন",
+        "জীবনীশক্তি",
+        "খাদ্য, পুষ্টি ও পরিপাক",
+        "জীবে পরিবহন",
+        "রেচন প্রক্রিয়া",
+        "সমন্বয়",
+        "জীবের বংশগতি ও বিবর্তন",
+        "জীবের পরিবেশ"
+      ]
+    },
+    "ssc-biology-board-standard-model-test-02": {
+      "questionCount": 25,
+      "scope": "paper",
+      "displayTitle": "Model Test 02",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "ssc-2026",
+        "biology",
+        "board-standard",
+        "high-priority"
+      ],
+      "chaptersCovered": [
+        "জীবন পাঠ",
+        "জীবকোষ ও টিস্যু",
+        "কোষ বিভাজন",
+        "খাদ্য, পুষ্টি ও পরিপাক",
+        "জীবে পরিবহন",
+        "সমন্বয়",
+        "জীবের বংশগতি ও বিবর্তন"
+      ]
+    },
+    "ssc-biology-high-common-sets-2-6-split-01": {
+      "questionCount": 25,
+      "scope": "paper",
+      "displayTitle": "Paper Model Test 06 - Part 1",
+      "durationMinutes": 25,
+      "importance": "medium",
+      "tags": [
+        "paper-wise"
+      ]
+    },
+    "ssc-biology-high-common-sets-2-6-split-02": {
+      "questionCount": 25,
+      "scope": "paper",
+      "displayTitle": "Paper Model Test 06 - Part 2",
+      "durationMinutes": 25,
+      "importance": "medium",
+      "tags": [
+        "paper-wise"
+      ]
+    },
+    "ssc-biology-high-common-sets-2-6-split-03": {
+      "questionCount": 25,
+      "scope": "paper",
+      "displayTitle": "Paper Model Test 06 - Part 3",
+      "durationMinutes": 25,
+      "importance": "medium",
+      "tags": [
+        "paper-wise"
+      ]
+    }
+  }
+}

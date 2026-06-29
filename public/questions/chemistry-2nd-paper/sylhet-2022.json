@@ -5,10 +5,10 @@
     "chapter": "Sylhet Board 2022",
     "text": "নিচের কোনটি জৈব এসিডের কার্যকরী মূলক?",
     "options": [
-      "-OH",
       "-CO-",
+      "-COOH",
       "-CHO",
-      "-COOH"
+      "-OH"
     ],
     "image": null,
     "optionImages": null,
@@ -18,12 +18,12 @@
     "id": "chemistry-2nd-paper-hsc-science-chemistry-2nd-paper-board-questions-year-wise-2022-sylhet-ts-1",
     "subject": "chemistry-2nd-paper",
     "chapter": "Sylhet Board 2022",
-    "text": "ফরমালিন হলো ফরমালডিহাইডের কত শতাংশ জলীয় দ্রবণ?",
+    "text": "মারকনিকভ নীতি কোনটির ক্ষেত্রে প্রযোজ্য?",
     "options": [
-      "৪০%",
-      "৫০%",
-      "১০%",
-      "১০০%"
+      "অ্যালকাইন-১",
+      "প্রতিসম অ্যালকিন",
+      "অপ্রতিসম অ্যালকিন",
+      "অ্যালকেন"
     ],
     "image": null,
     "optionImages": null,
@@ -33,12 +33,12 @@
     "id": "chemistry-2nd-paper-hsc-science-chemistry-2nd-paper-board-questions-year-wise-2022-sylhet-ts-2",
     "subject": "chemistry-2nd-paper",
     "chapter": "Sylhet Board 2022",
-    "text": "গ্রিন হাউস গ্যাসগুলোর মধ্যে কোনটির বিশ্ব উষ্ণায়ন প্রভাব সবচেয়ে বেশি?",
+    "text": "লুইস ক্ষার কোনটি?",
     "options": [
-      "N₂O",
-      "CH₄",
-      "CFC",
-      "CO₂"
+      "BF₃",
+      "AlCl₃",
+      "H⁺",
+      "NH₃"
     ],
     "image": null,
     "optionImages": null,
@@ -48,12 +48,12 @@
     "id": "chemistry-2nd-paper-hsc-science-chemistry-2nd-paper-board-questions-year-wise-2022-sylhet-ts-3",
     "subject": "chemistry-2nd-paper",
     "chapter": "Sylhet Board 2022",
-    "text": "ফ্যারাডের প্রথম সূত্র কোনটি?",
+    "text": "গ্রিন হাউস গ্যাসগুলোর মধ্যে কোনটির বিশ্ব উষ্ণায়ন প্রভাব সবচেয়ে বেশি?",
     "options": [
-      "E = mc²",
-      "W = Zt",
-      "V = IR",
-      "W = ZIt"
+      "CFC",
+      "CH₄",
+      "N₂O",
+      "CO₂"
     ],
     "image": null,
     "optionImages": null,
@@ -63,12 +63,12 @@
     "id": "chemistry-2nd-paper-hsc-science-chemistry-2nd-paper-board-questions-year-wise-2022-sylhet-ts-4",
     "subject": "chemistry-2nd-paper",
     "chapter": "Sylhet Board 2022",
-    "text": "মারকনিকভ নীতি কোনটির ক্ষেত্রে প্রযোজ্য?",
+    "text": "ফ্যারাডের প্রথম সূত্র কোনটি?",
     "options": [
-      "প্রতিসম অ্যালকিন",
-      "অ্যালকাইন-১",
-      "অ্যালকেন",
-      "অপ্রতিসম অ্যালকিন"
+      "W = ZIt",
+      "E = mc²",
+      "V = IR",
+      "W = Zt"
     ],
     "image": null,
     "optionImages": null,
@@ -78,282 +78,12 @@
     "id": "chemistry-2nd-paper-hsc-science-chemistry-2nd-paper-board-questions-year-wise-2022-sylhet-ts-5",
     "subject": "chemistry-2nd-paper",
     "chapter": "Sylhet Board 2022",
-    "text": "লুইস ক্ষার কোনটি?",
+    "text": "ফরমালিন হলো ফরমালডিহাইডের কত শতাংশ জলীয় দ্রবণ?",
     "options": [
-      "H⁺",
-      "NH₃",
-      "AlCl₃",
-      "BF₃"
-    ],
-    "image": null,
-    "optionImages": null,
-    "timeLimit": 45
-  },
-  {
-    "id": "chemistry-2nd-paper-hsc-science-chemistry-2nd-paper-board-questions-year-wise-2022-sylhet-ts-6",
-    "subject": "chemistry-2nd-paper",
-    "chapter": "Sylhet Board 2022",
-    "text": "ETP এর প্রাইমারি ধাপে কী করা হয়?",
-    "options": [
-      "অণুজীব দিয়ে শোধন",
-      "ভাসমান বা তলানিতে পড়া কঠিন পদার্থ আলাদা করা",
-      "ভারী ধাতু দূর করা",
-      "পানি পানযোগ্য করা"
-    ],
-    "image": null,
-    "optionImages": null,
-    "timeLimit": 45
-  },
-  {
-    "id": "chemistry-2nd-paper-hsc-science-chemistry-2nd-paper-board-questions-year-wise-2022-sylhet-ts-7",
-    "subject": "chemistry-2nd-paper",
-    "chapter": "Sylhet Board 2022",
-    "text": "ETP এর সেকেন্ডারি বা বায়োলজিক্যাল ধাপে মূলত কী দূর করা হয়?",
-    "options": [
-      "ভাসমান কঠিন পদার্থ",
-      "দ্রবীভূত জৈব দূষক (অণুজীবের সাহায্যে)",
-      "ভারী ধাতু",
-      "দুর্গন্ধ"
-    ],
-    "image": null,
-    "optionImages": null,
-    "timeLimit": 45
-  },
-  {
-    "id": "chemistry-2nd-paper-hsc-science-chemistry-2nd-paper-board-questions-year-wise-2022-sylhet-ts-8",
-    "subject": "chemistry-2nd-paper",
-    "chapter": "Sylhet Board 2022",
-    "text": "অতিরিক্ত উত্তপ্ত করলে ইউরিয়া থেকে কোনটি তৈরি হয় যা উদ্ভিদের জন্য ক্ষতিকর?",
-    "options": [
-      "অ্যামোনিয়া",
-      "কার্বন ডাইঅক্সাইড",
-      "বাইইউরেট (Biuret)",
-      "নাইট্রিক এসিড"
-    ],
-    "image": null,
-    "optionImages": null,
-    "timeLimit": 45
-  },
-  {
-    "id": "chemistry-2nd-paper-hsc-science-chemistry-2nd-paper-board-questions-year-wise-2022-sylhet-ts-9",
-    "subject": "chemistry-2nd-paper",
-    "chapter": "Sylhet Board 2022",
-    "text": "অ্যানথ্রাসাইট কয়লায় কার্বনের শতকরা পরিমাণ কত?",
-    "options": [
-      "৫০-৬০%",
-      "৬০-৭০%",
-      "৭০-৮০%",
-      "৮৫-৯৫%"
-    ],
-    "image": null,
-    "optionImages": null,
-    "timeLimit": 45
-  },
-  {
-    "id": "chemistry-2nd-paper-hsc-science-chemistry-2nd-paper-board-questions-year-wise-2022-sylhet-ts-10",
-    "subject": "chemistry-2nd-paper",
-    "chapter": "Sylhet Board 2022",
-    "text": "অ্যানিমিয়া বা রক্তশূন্যতা এবং মস্তিষ্কের ক্ষতি মূলত কোন ধাতুর দূষণে হয়?",
-    "options": [
-      "লেড (Pb)",
-      "পারদ (Hg)",
-      "জিংক (Zn)",
-      "আর্সেনিক (As)"
-    ],
-    "image": null,
-    "optionImages": null,
-    "timeLimit": 45
-  },
-  {
-    "id": "chemistry-2nd-paper-hsc-science-chemistry-2nd-paper-board-questions-year-wise-2022-sylhet-ts-11",
-    "subject": "chemistry-2nd-paper",
-    "chapter": "Sylhet Board 2022",
-    "text": "ইউরিয়া (Urea) সারের প্রধান কাঁচামাল কোনটি?",
-    "options": [
-      "কয়লা",
-      "প্রাকৃতিক গ্যাস (মিথেন)",
-      "পেট্রোলিয়াম",
-      "জিপসাম"
-    ],
-    "image": null,
-    "optionImages": null,
-    "timeLimit": 45
-  },
-  {
-    "id": "chemistry-2nd-paper-hsc-science-chemistry-2nd-paper-board-questions-year-wise-2022-sylhet-ts-12",
-    "subject": "chemistry-2nd-paper",
-    "chapter": "Sylhet Board 2022",
-    "text": "ইউরিয়া উৎপাদনে কত চাপ প্রয়োজন?",
-    "options": [
-      "50 atm",
-      "100 atm",
-      "130 - 150 atm",
-      "250 atm"
-    ],
-    "image": null,
-    "optionImages": null,
-    "timeLimit": 45
-  },
-  {
-    "id": "chemistry-2nd-paper-hsc-science-chemistry-2nd-paper-board-questions-year-wise-2022-sylhet-ts-13",
-    "subject": "chemistry-2nd-paper",
-    "chapter": "Sylhet Board 2022",
-    "text": "ইউরিয়া উৎপাদনে রিঅ্যাক্টরে কত তাপমাত্রা প্রয়োজন?",
-    "options": [
-      "100 - 120 °C",
-      "130 - 150 °C (বা 170-190 °C)",
-      "200 - 250 °C",
-      "300 °C"
-    ],
-    "image": null,
-    "optionImages": null,
-    "timeLimit": 45
-  },
-  {
-    "id": "chemistry-2nd-paper-hsc-science-chemistry-2nd-paper-board-questions-year-wise-2022-sylhet-ts-14",
-    "subject": "chemistry-2nd-paper",
-    "chapter": "Sylhet Board 2022",
-    "text": "ইউরিয়া সার কারখানার বর্জ্যে প্রধান দূষক কোনটি?",
-    "options": [
-      "ক্রোমিয়াম",
-      "অ্যামোনিয়া (NH₃)",
-      "লেড",
-      "ক্লোরিন"
-    ],
-    "image": null,
-    "optionImages": null,
-    "timeLimit": 45
-  },
-  {
-    "id": "chemistry-2nd-paper-hsc-science-chemistry-2nd-paper-board-questions-year-wise-2022-sylhet-ts-15",
-    "subject": "chemistry-2nd-paper",
-    "chapter": "Sylhet Board 2022",
-    "text": "ইউরিয়া সার জমিতে প্রয়োগ করলে আর্দ্রবিশ্লেষিত হয়ে প্রথমে কিসে পরিণত হয়?",
-    "options": [
-      "অ্যামোনিয়া গ্যাস",
-      "অ্যামোনিয়াম কার্বনেট",
-      "নাইট্রিক এসিড",
-      "অ্যামোনিয়াম নাইট্রেট"
-    ],
-    "image": null,
-    "optionImages": null,
-    "timeLimit": 45
-  },
-  {
-    "id": "chemistry-2nd-paper-hsc-science-chemistry-2nd-paper-board-questions-year-wise-2022-sylhet-ts-16",
-    "subject": "chemistry-2nd-paper",
-    "chapter": "Sylhet Board 2022",
-    "text": "ইউরিয়া সারে নাইট্রোজেনের (N₂) শতকরা পরিমাণ কত?",
-    "options": [
-      "৩০%",
       "৪০%",
-      "৪৬%",
-      "৬০%"
-    ],
-    "image": null,
-    "optionImages": null,
-    "timeLimit": 45
-  },
-  {
-    "id": "chemistry-2nd-paper-hsc-science-chemistry-2nd-paper-board-questions-year-wise-2022-sylhet-ts-17",
-    "subject": "chemistry-2nd-paper",
-    "chapter": "Sylhet Board 2022",
-    "text": "ইটিপি (ETP) এর মাধ্যমে বর্জ্য শোধনে সাধারণত কয়টি ধাপ থাকে?",
-    "options": [
-      "১টি",
-      "২টি",
-      "৩টি (প্রাইমারি, সেকেন্ডারি, টারশিয়ারি)",
-      "৫টি"
-    ],
-    "image": null,
-    "optionImages": null,
-    "timeLimit": 45
-  },
-  {
-    "id": "chemistry-2nd-paper-hsc-science-chemistry-2nd-paper-board-questions-year-wise-2022-sylhet-ts-18",
-    "subject": "chemistry-2nd-paper",
-    "chapter": "Sylhet Board 2022",
-    "text": "ইতাই-ইতাই (Itai-itai) রোগ কোন ধাতুর দূষণে হয়?",
-    "options": [
-      "লেড (Pb)",
-      "পারদ (Hg)",
-      "ক্যাডমিয়াম (Cd)",
-      "আর্সেনিক (As)"
-    ],
-    "image": null,
-    "optionImages": null,
-    "timeLimit": 45
-  },
-  {
-    "id": "chemistry-2nd-paper-hsc-science-chemistry-2nd-paper-board-questions-year-wise-2022-sylhet-ts-19",
-    "subject": "chemistry-2nd-paper",
-    "chapter": "Sylhet Board 2022",
-    "text": "এক ন্যানোমিটার (1 nm) কত মিটারের সমান?",
-    "options": [
-      "10⁻³ m",
-      "10⁻⁶ m",
-      "10⁻⁹ m",
-      "10⁻¹² m"
-    ],
-    "image": null,
-    "optionImages": null,
-    "timeLimit": 45
-  },
-  {
-    "id": "chemistry-2nd-paper-hsc-science-chemistry-2nd-paper-board-questions-year-wise-2022-sylhet-ts-20",
-    "subject": "chemistry-2nd-paper",
-    "chapter": "Sylhet Board 2022",
-    "text": "এলপিজি (LPG) এর প্রধান উপাদান কী কী?",
-    "options": [
-      "মিথেন ও ইথেন",
-      "বিউটেন ও প্রোপেন",
-      "মিথেন ও বিউটেন",
-      "প্রোপেন ও হেক্সেন"
-    ],
-    "image": null,
-    "optionImages": null,
-    "timeLimit": 45
-  },
-  {
-    "id": "chemistry-2nd-paper-hsc-science-chemistry-2nd-paper-board-questions-year-wise-2022-sylhet-ts-21",
-    "subject": "chemistry-2nd-paper",
-    "chapter": "Sylhet Board 2022",
-    "text": "কয়লার অসম্পূর্ণ দহনের ফলে পরিবেশে কোন বিষাক্ত গ্যাস ছড়ায়?",
-    "options": [
-      "CO (কার্বন মনোক্সাইড)",
-      "CO₂",
-      "NO₂",
-      "SO₂"
-    ],
-    "image": null,
-    "optionImages": null,
-    "timeLimit": 45
-  },
-  {
-    "id": "chemistry-2nd-paper-hsc-science-chemistry-2nd-paper-board-questions-year-wise-2022-sylhet-ts-22",
-    "subject": "chemistry-2nd-paper",
-    "chapter": "Sylhet Board 2022",
-    "text": "কস্টিক সোডা (NaOH) উৎপাদনে কোন সেল বা পদ্ধতি ব্যবহৃত হয়?",
-    "options": [
-      "নেলসন সেল বা ডায়াফ্রাম সেল",
-      "ড্যানিয়েল সেল",
-      "লেকল্যান্স কোষ",
-      "ফুয়েল সেল"
-    ],
-    "image": null,
-    "optionImages": null,
-    "timeLimit": 45
-  },
-  {
-    "id": "chemistry-2nd-paper-hsc-science-chemistry-2nd-paper-board-questions-year-wise-2022-sylhet-ts-23",
-    "subject": "chemistry-2nd-paper",
-    "chapter": "Sylhet Board 2022",
-    "text": "কাঁচ তৈরিতে ভাঙা কাঁচ (Cullet) মেশানোর প্রধান উদ্দেশ্য কী?",
-    "options": [
-      "কাঁচের রং সুন্দর করা",
-      "কাঁচের গলনাঙ্ক কমানো ও জ্বালানি সাশ্রয় করা",
-      "কাঁচকে শক্ত করা",
-      "কাঁচকে স্বচ্ছ করা"
+      "১০%",
+      "৫০%",
+      "১০০%"
     ],
     "image": null,
     "optionImages": null,
@@ -363,12 +93,12 @@
     "id": "chemistry-2nd-paper-hsc-science-chemistry-2nd-paper-board-questions-year-wise-2022-sylhet-ts-24",
     "subject": "chemistry-2nd-paper",
     "chapter": "Sylhet Board 2022",
-    "text": "কাঁচ তৈরিতে সোডা অ্যাশ (Na₂CO₃) মেশানোর কারণ কী?",
+    "text": "নিচের কোনটি জৈব এসিডের কার্যকরী মূলক?\n---",
     "options": [
-      "কাঁচের রঙ পরিবর্তন করা",
-      "সিলিকার গলনাঙ্ক (প্রায় 1700°C থেকে 850°C এ) কমিয়ে আনা",
-      "কাঁচকে শক্ত করা",
-      "কাঁচের স্বচ্ছতা কমানো"
+      "-OH",
+      "-CO-",
+      "-CHO",
+      "-COOH"
     ],
     "image": null,
     "optionImages": null,

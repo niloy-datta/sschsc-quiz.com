@@ -14,8 +14,8 @@
   <rect x="170" y="70" width="80" height="120" rx="8" fill="none" stroke="#475569" stroke-width="6"/>
   <path d="M115 78 C150 86,150 100,115 108 C150 116,150 130,115 138 C150 146,150 160,115 168" fill="none" stroke="#2563eb" stroke-width="2.5"/>
   <path d="M305 78 C270 86,270 100,305 108 C270 116,270 130,305 138 C270 146,270 160,305 168" fill="none" stroke="#ea580c" stroke-width="2.5"/>
-  <text x="112" y="62" text-anchor="middle" font-size="12" fill="#2563eb">Primary coil</text>
-  <text x="308" y="62" text-anchor="middle" font-size="12" fill="#ea580c">Secondary coil</text>
-  <text x="210" y="222" text-anchor="middle" font-size="12" fill="#475569">Np = 550, Ns = 125, Vp = 220 V</text>
+  <text x="112" y="62" text-anchor="middle" font-size="12" fill="#2563eb" font-family="Noto Sans Bengali, Arial, sans-serif">Primary coil</text>
+  <text x="308" y="62" text-anchor="middle" font-size="12" fill="#ea580c" font-family="Noto Sans Bengali, Arial, sans-serif">Secondary coil</text>
+  <text x="210" y="222" text-anchor="middle" font-size="12" fill="#475569" font-family="Noto Sans Bengali, Arial, sans-serif">Np = 550, Ns = 125, Vp = 220 V</text>
 
 </svg>

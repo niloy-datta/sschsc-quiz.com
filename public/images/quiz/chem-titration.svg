@@ -15,7 +15,7 @@
   <line x1="210" y1="165" x2="210" y2="205" stroke="#0284c7" stroke-width="2"/>
   <path d="M130 205 H290" stroke="#0f172a" stroke-width="2"/>
   <path d="M156 115 H264 L247 205 H173 Z" fill="#fce7f3" stroke="#db2777" stroke-width="2"/>
-  <text x="210" y="95" text-anchor="middle" font-size="11" fill="#0284c7">Burette</text>
-  <text x="210" y="223" text-anchor="middle" font-size="12" fill="#475569">Endpoint colour change</text>
+  <text x="210" y="95" text-anchor="middle" font-size="11" fill="#0284c7" font-family="Noto Sans Bengali, Arial, sans-serif">Burette</text>
+  <text x="210" y="223" text-anchor="middle" font-size="12" fill="#475569" font-family="Noto Sans Bengali, Arial, sans-serif">Endpoint colour change</text>
 
 </svg>

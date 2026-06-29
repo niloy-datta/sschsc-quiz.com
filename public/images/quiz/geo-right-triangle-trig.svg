@@ -13,9 +13,9 @@
   
   <polygon points="115,190 300,190 115,70" fill="none" stroke="#2563eb" stroke-width="3"/>
   <path d="M115 172 H133 V190" fill="none" stroke="#0f172a" stroke-width="2"/>
-  <text x="108" y="205" font-size="12" fill="#0f172a">A</text><text x="305" y="205" font-size="12" fill="#0f172a">B</text><text x="105" y="66" font-size="12" fill="#0f172a">C</text>
+  <text x="108" y="205" font-size="12" fill="#0f172a" font-family="Noto Sans Bengali, Arial, sans-serif">A</text><text x="305" y="205" font-size="12" fill="#0f172a" font-family="Noto Sans Bengali, Arial, sans-serif">B</text><text x="105" y="66" font-size="12" fill="#0f172a" font-family="Noto Sans Bengali, Arial, sans-serif">C</text>
   <path d="M265 190 A35 35 0 0 0 248 162" fill="none" stroke="#ea580c" stroke-width="2"/>
-  <text x="258" y="168" font-size="13" fill="#ea580c">θ</text>
-  <text x="210" y="224" text-anchor="middle" font-size="12" fill="#475569">sin, cos, cosec relation diagram</text>
+  <text x="258" y="168" font-size="13" fill="#ea580c" font-family="Noto Sans Bengali, Arial, sans-serif">θ</text>
+  <text x="210" y="224" text-anchor="middle" font-size="12" fill="#475569" font-family="Noto Sans Bengali, Arial, sans-serif">sin, cos, cosec relation diagram</text>
 
 </svg>

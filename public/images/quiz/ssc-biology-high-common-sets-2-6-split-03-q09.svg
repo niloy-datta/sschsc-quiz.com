@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="100%" height="100%" viewBox="0 0 360 220">
+<svg xmlns="http://www.w3.org/2000/svg" width="100%" height="100%" viewBox="0 0 360 220" role="img" aria-label="ssc biology high common sets 2 6 split 03 q09">
   <defs>
     <style>
       .bg{fill:#020617}
@@ -20,7 +20,7 @@
   <path d="M120 110 C135 70 165 58 180 96 C195 58 225 70 240 110 C225 150 195 162 180 124 C165 162 135 150 120 110Z" class="xylem"/>
   <path d="M91 110 C105 68 145 38 180 38 C215 38 255 68 269 110 C255 152 215 182 180 182 C145 182 105 152 91 110Z" class="phloem" opacity=".55"/>
 
-  <text x="180" y="116" text-anchor="middle" class="label">জাইলেম</text>
-  <text x="180" y="34" text-anchor="middle" class="small">ফ্লোয়েম</text>
-  <text x="180" y="205" text-anchor="middle" class="small">ভাস্কুলার বান্ডল</text>
+  <text x="180" y="116" text-anchor="middle" class="label" font-family="Noto Sans Bengali, Arial, sans-serif">জাইলেম</text>
+  <text x="180" y="34" text-anchor="middle" class="small" font-family="Noto Sans Bengali, Arial, sans-serif">ফ্লোয়েম</text>
+  <text x="180" y="205" text-anchor="middle" class="small" font-family="Noto Sans Bengali, Arial, sans-serif">ভাস্কুলার বান্ডল</text>
 </svg>

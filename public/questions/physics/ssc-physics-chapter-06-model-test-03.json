@@ -11,7 +11,6 @@
       "-4°C"
     ],
     "image": null,
-    "optionImages": null,
     "timeLimit": 45
   },
   {
@@ -25,8 +24,7 @@
       "ভর",
       "তাপমাত্রা"
     ],
-    "image": "/images/quiz/premium/ssc-physics-chapter-06-model-test-03-q02.svg",
-    "optionImages": null,
+    "image": null,
     "timeLimit": 45
   },
   {
@@ -41,7 +39,6 @@
       "পারদ"
     ],
     "image": null,
-    "optionImages": null,
     "timeLimit": 45
   },
   {
@@ -56,7 +53,6 @@
       "অণুগুলোর আন্তঃআণবিক শক্তি কম"
     ],
     "image": null,
-    "optionImages": null,
     "timeLimit": 45
   },
   {
@@ -71,7 +67,6 @@
       "তাড়াতাড়ি সিদ্ধ হয়"
     ],
     "image": null,
-    "optionImages": null,
     "timeLimit": 45
   },
   {
@@ -86,7 +81,6 @@
       "ঘনীভবন"
     ],
     "image": null,
-    "optionImages": null,
     "timeLimit": 45
   },
   {
@@ -101,7 +95,6 @@
       "আকারের উপর"
     ],
     "image": null,
-    "optionImages": null,
     "timeLimit": 45
   },
   {
@@ -116,7 +109,6 @@
       "স্ফুটনাঙ্কের"
     ],
     "image": null,
-    "optionImages": null,
     "timeLimit": 45
   },
   {
@@ -131,7 +123,6 @@
       "ঘনত্ব"
     ],
     "image": null,
-    "optionImages": null,
     "timeLimit": 45
   },
   {
@@ -146,7 +137,6 @@
       "স্ফুটনাঙ্কের"
     ],
     "image": null,
-    "optionImages": null,
     "timeLimit": 45
   },
   {
@@ -161,7 +151,6 @@
       "ঘ/A"
     ],
     "image": null,
-    "optionImages": null,
     "timeLimit": 45
   },
   {
@@ -176,7 +165,6 @@
       "অবস্থার"
     ],
     "image": null,
-    "optionImages": null,
     "timeLimit": 45
   },
   {
@@ -191,7 +179,6 @@
       "দীপন তীব্রতা"
     ],
     "image": null,
-    "optionImages": null,
     "timeLimit": 45
   },
   {
@@ -206,7 +193,6 @@
       "i, ii ও iii"
     ],
     "image": null,
-    "optionImages": null,
     "timeLimit": 45
   },
   {
@@ -221,7 +207,6 @@
       "4200 Jkg⁻¹K⁻¹"
     ],
     "image": null,
-    "optionImages": null,
     "timeLimit": 45
   },
   {
@@ -236,7 +221,6 @@
       "63000 J"
     ],
     "image": null,
-    "optionImages": null,
     "timeLimit": 45
   },
   {
@@ -251,7 +235,6 @@
       "780 Jkg⁻¹K⁻¹"
     ],
     "image": null,
-    "optionImages": null,
     "timeLimit": 45
   },
   {
@@ -266,7 +249,6 @@
       "শূণ্য হয়"
     ],
     "image": null,
-    "optionImages": null,
     "timeLimit": 45
   },
   {
@@ -281,7 +263,6 @@
       "ঘনত্ব"
     ],
     "image": null,
-    "optionImages": null,
     "timeLimit": 45
   },
   {
@@ -296,7 +277,6 @@
       "105000 J"
     ],
     "image": null,
-    "optionImages": null,
     "timeLimit": 45
   },
   {
@@ -311,11 +291,24 @@
       "গ্যাস ঠান্ডা করার তাপ"
     ],
     "image": null,
-    "optionImages": null,
     "timeLimit": 45
   },
   {
     "id": "ssc-physics-chapter-06-model-test-03-q22",
+    "subject": "physics",
+    "chapter": "ssc-physics-chapter-06-model-test-03",
+    "text": "নিচের কোনটি ভেক্টর রাশি?",
+    "options": [
+      "ভর",
+      "তাপমাত্রা",
+      "সরণ",
+      "সময়"
+    ],
+    "image": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-physics-chapter-06-model-test-03-q23",
     "subject": "physics",
     "chapter": "ssc-physics-chapter-06-model-test-03",
     "text": "বরফ গলনের সময় এর তাপমাত্রা—",
@@ -326,11 +319,10 @@
       "দ্বিগুণ হয়"
     ],
     "image": null,
-    "optionImages": null,
     "timeLimit": 45
   },
   {
-    "id": "ssc-physics-chapter-06-model-test-03-q23",
+    "id": "ssc-physics-chapter-06-model-test-03-q24",
     "subject": "physics",
     "chapter": "ssc-physics-chapter-06-model-test-03",
     "text": "তাপ সঞ্চালনের যে পদ্ধতিতে কোনো জড় মাধ্যমের প্রয়োজন হয় না—",
@@ -341,11 +333,10 @@
       "প্রবাহ"
     ],
     "image": null,
-    "optionImages": null,
     "timeLimit": 45
   },
   {
-    "id": "ssc-physics-chapter-06-model-test-03-q24",
+    "id": "ssc-physics-chapter-06-model-test-03-q25",
     "subject": "physics",
     "chapter": "ssc-physics-chapter-06-model-test-03",
     "text": "স্থিতি জড়তা কোন উদাহরণে পরিলক্ষিত হয়?",
@@ -356,7 +347,6 @@
       "পানিতে গভীরতা বাড়লে চাপ বৃদ্ধি"
     ],
     "image": null,
-    "optionImages": null,
     "timeLimit": 45
   }
 ]

@@ -1,0 +1,302 @@
+[
+  {
+    "id": "super-model-set-04-q01",
+    "subject": "physics-1st-paper",
+    "chapter": "super-model-set-04",
+    "text": "কোনো ভেক্টর ক্ষেত্রের ডাইভারজেন্স (Divergence) শূন্য হলে তাকে কী বলে?",
+    "options": [
+      "সলিনয়ডাল (Solenoidal)",
+      "অঘূর্ণনশীল (Irrotational)",
+      "সংরক্ষণশীল (Conservative)",
+      "অসংরক্ষণশীল (Non-conservative)"
+    ],
+    "image": "/images/quiz/premium/super-model-set-04-q01.svg",
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "super-model-set-04-q02",
+    "subject": "physics-1st-paper",
+    "chapter": "super-model-set-04",
+    "text": "একটি বস্তু বৃত্তাকার পথে সমদ্রুতিতে ঘুরছে। বস্তুটির ত্বরণ কোন দিকে কাজ করে?",
+    "options": [
+      "বেগের অভিমুখে",
+      "স্পর্শক বরাবর",
+      "কেন্দ্রের দিকে (ব্যাসার্ধ বরাবর)",
+      "বাইরের দিকে"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "super-model-set-04-q03",
+    "subject": "physics-1st-paper",
+    "chapter": "super-model-set-04",
+    "text": "রকেটের গতি নিচের কোন সংরক্ষণ সূত্রের উপর ভিত্তি করে কাজ করে?",
+    "options": [
+      "শক্তির সংরক্ষণ",
+      "ভরের সংরক্ষণ",
+      "রৈখিক ভরবেগের সংরক্ষণ",
+      "কৌণিক ভরবেগের সংরক্ষণ"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "super-model-set-04-q04",
+    "subject": "physics-1st-paper",
+    "chapter": "super-model-set-04",
+    "text": "ভূ-পৃষ্ঠ থেকে কত গভীরতায় অভিকর্ষজ ত্বরণের মান ভূ-পৃষ্ঠের মানের এক-চতুর্থাংশ (g/4) হবে? (পৃথিবীর ব্যাসার্ধ = R)",
+    "options": [
+      "R/4",
+      "R/2",
+      "3R/4",
+      "R/3"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "super-model-set-04-q05",
+    "subject": "physics-1st-paper",
+    "chapter": "super-model-set-04",
+    "text": "পানির ত্রৈধ বিন্দুর (Triple point of water) তাপমাত্রা কত?",
+    "options": [
+      "273.16 K",
+      "273.15∘ C",
+      "0 K",
+      "100∘ C"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "super-model-set-04-q06",
+    "subject": "physics-1st-paper",
+    "chapter": "super-model-set-04",
+    "text": "সরল ছন্দিত গতির (SHM) ব্যবকলনীয় সমীকরণ (Differential Equation) কোনটি?",
+    "options": [
+      "dt2 d2 x ​−ω2 x=0",
+      "dt2 d2 x ​+ω2 x=0",
+      "dt dx ​+ωx=0",
+      "dt2 d2 x ​+ωx=0"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "super-model-set-04-q07",
+    "subject": "physics-1st-paper",
+    "chapter": "super-model-set-04",
+    "text": "একটি তরলের পৃষ্ঠটান T। তরল পৃষ্ঠের ক্ষেত্রফল A পরিমাণ বৃদ্ধি করতে কী পরিমাণ কাজ করতে হবে?",
+    "options": [
+      "T/A",
+      "TA",
+      "T+A",
+      "T×ΔA (যেখানে ΔA=A)"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "super-model-set-04-q08",
+    "subject": "physics-1st-paper",
+    "chapter": "super-model-set-04",
+    "text": "দুটি সমান্তরাল ভেক্টরের ক্রস গুণফলের মান কত?",
+    "options": [
+      "1",
+      "0",
+      "-1",
+      "অসীম"
+    ],
+    "image": "/images/quiz/premium/super-model-set-04-q08.svg",
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "super-model-set-04-q09",
+    "subject": "physics-1st-paper",
+    "chapter": "super-model-set-04",
+    "text": "উল্লম্ব তলে বৃত্তাকার পথে ঘূর্ণায়মান একটি বস্তুর সর্বোচ্চ বিন্দুতে সুতার টান কত?",
+    "options": [
+      "T=r mv2 ​+mg",
+      "T=r mv2 ​−mg",
+      "T=mg",
+      "T=r mv2 ​"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "super-model-set-04-q10",
+    "subject": "physics-1st-paper",
+    "chapter": "super-model-set-04",
+    "text": "গতিশক্তি (Ek ​) এবং রৈখিক ভরবেগ (p) এর লেখচিত্র কোনটি? (ভর m ধ্রুবক)",
+    "options": [
+      "মূলবিন্দুগামী সরলরেখা",
+      "পরাবৃত্ত (Parabola)",
+      "সমপরাবৃত্ত (Hyperbola)",
+      "বৃত্ত"
+    ],
+    "image": "/images/quiz/function-test-1.svg",
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "super-model-set-04-q11",
+    "subject": "physics-1st-paper",
+    "chapter": "super-model-set-04",
+    "text": "পৃথিবীর পৃষ্ঠে কোনো বস্তুর ওজন W। বস্তুটিকে পৃথিবীর ব্যাসার্ধের সমান উচ্চতায় নিয়ে গেলে ওজন কত হবে?",
+    "options": [
+      "W/2",
+      "W/4",
+      "2W",
+      "4W"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "super-model-set-04-q12",
+    "subject": "physics-1st-paper",
+    "chapter": "super-model-set-04",
+    "text": "সরল ছন্দিত গতির (SHM) দশা পার্থক্য (Phase Difference) π/2 হলে, সরণ ও ত্বরণের সম্পর্ক কীরূপ হবে?",
+    "options": [
+      "সমানুপাতিক ও বিপরীতমুখী",
+      "বর্গের সমানুপাতিক",
+      "ব্যস্তানুপাতিক",
+      "ত্বরণ সবসময় শূন্য"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "super-model-set-04-q13",
+    "subject": "physics-1st-paper",
+    "chapter": "super-model-set-04",
+    "text": "গ্যাসের অণুগুলোর গড় মুক্ত পথ (Mean free path) λ এবং অণুর ব্যাস d হলে, ক্লসিয়াসের মতে সম্পর্কটি কী?",
+    "options": [
+      "λ∝d",
+      "λ∝d 1 ​",
+      "λ∝d2",
+      "λ∝d2 1 ​"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "super-model-set-04-q14",
+    "subject": "physics-1st-paper",
+    "chapter": "super-model-set-04",
+    "text": "কেন্দ্রমুখী বল দ্বারা কৃতকাজ কত?",
+    "options": [
+      "ধনাত্মক",
+      "ঋণাত্মক",
+      "শূন্য",
+      "অসীম"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "super-model-set-04-q15",
+    "subject": "physics-1st-paper",
+    "chapter": "super-model-set-04",
+    "text": "কৃত্রিম উপগ্রহের বেগ (Orbital velocity) v এবং মুক্তিবেগ (Escape velocity) ve ​ এর মধ্যে সম্পর্ক কী? (পৃথিবীর পৃষ্ঠের কাছাকাছি ঘুরলে)",
+    "options": [
+      "ve ​=2 ​v",
+      "ve ​=v/2 ​",
+      "ve ​=2v",
+      "ve ​=v"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "super-model-set-04-q16",
+    "subject": "physics-1st-paper",
+    "chapter": "super-model-set-04",
+    "text": "পয়সনের অনুপাতের (Poisson's ratio) বাস্তব মান নিচের কোন সীমার মধ্যে থাকে?",
+    "options": [
+      "−1 থেকে 0.5",
+      "0 থেকে 0.5",
+      "0.5 থেকে 1",
+      "1 থেকে 1.5"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "super-model-set-04-q17",
+    "subject": "physics-1st-paper",
+    "chapter": "super-model-set-04",
+    "text": "একটি সেকেন্ড দোলকের কার্যকরী দৈর্ঘ্য L। এর দোলনকাল 100% বৃদ্ধি করতে কার্যকরী দৈর্ঘ্য কত গুণ করতে হবে?",
+    "options": [
+      "২ গুণ",
+      "৪ গুণ",
+      "৮ গুণ",
+      "১৬ গুণ"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "super-model-set-04-q18",
+    "subject": "physics-1st-paper",
+    "chapter": "super-model-set-04",
+    "text": "নির্দিষ্ট তাপমাত্রায় কোনো আদর্শ গ্যাসের গড় গতিশক্তি নিচের কোনটির উপর নির্ভর করে?",
+    "options": [
+      "চাপ",
+      "আয়তন",
+      "পরম তাপমাত্রা",
+      "গ্যাসের আণবিক ভর"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "super-model-set-04-q19",
+    "subject": "physics-1st-paper",
+    "chapter": "super-model-set-04",
+    "text": "দুটি ভেক্টরের স্কেলার গুণফল শূন্য হলে ভেক্টরদ্বয়—",
+    "options": [
+      "সমান্তরাল",
+      "লম্ব",
+      "বিপরীতমুখী",
+      "সমরেখ"
+    ],
+    "image": "/images/quiz/premium/super-model-set-04-q19.svg",
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "super-model-set-04-q20",
+    "subject": "physics-1st-paper",
+    "chapter": "super-model-set-04",
+    "text": "টর্কের (Torque) একক কোনটি?",
+    "options": [
+      "N m",
+      "N/m",
+      "kg m/s",
+      "J s"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  }
+]

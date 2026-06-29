@@ -1,13 +1,13 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 360 220" width="100%" height="100%">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 360 220" width="100%" height="100%" role="img" aria-label="hsc chemistry 1st paper chapter 05 high priority set 01 q03">
 <defs><radialGradient id="b" cx="50%" cy="45%" r="75%"><stop offset="0%" stop-color="#334155"/><stop offset="100%" stop-color="#020617"/></radialGradient></defs>
 <rect width="360" height="220" rx="18" fill="url(#b)"/>
 <line x1="70" y1="50" x2="70" y2="170" stroke="#facc15" stroke-width="4"/>
 <path d="M70 170 l-10 -16 M70 170 l10 -16" stroke="#facc15" stroke-width="4" fill="none"/>
 <g font-family="Arial" font-weight="900" text-anchor="middle">
-<circle cx="135" cy="70" r="24" fill="#38bdf8"/><text x="135" y="76" font-size="15" fill="#020617">BeF₂</text>
-<circle cx="180" cy="112" r="30" fill="#22c55e"/><text x="180" y="118" font-size="15" fill="#020617">MgF₂</text>
-<circle cx="230" cy="158" r="38" fill="#facc15"/><text x="230" y="164" font-size="15" fill="#020617">CaF₂</text>
-<text x="70" y="35" font-size="13" fill="#fff">Group 2</text>
-<text x="250" y="38" font-size="13" fill="#fff">ionic character ↑</text>
+<circle cx="135" cy="70" r="24" fill="#38bdf8"/><text x="135" y="76" font-size="15" fill="#020617" font-family="Noto Sans Bengali, Arial, sans-serif">BeF₂</text>
+<circle cx="180" cy="112" r="30" fill="#22c55e"/><text x="180" y="118" font-size="15" fill="#020617" font-family="Noto Sans Bengali, Arial, sans-serif">MgF₂</text>
+<circle cx="230" cy="158" r="38" fill="#facc15"/><text x="230" y="164" font-size="15" fill="#020617" font-family="Noto Sans Bengali, Arial, sans-serif">CaF₂</text>
+<text x="70" y="35" font-size="13" fill="#fff" font-family="Noto Sans Bengali, Arial, sans-serif">Group 2</text>
+<text x="250" y="38" font-size="13" fill="#fff" font-family="Noto Sans Bengali, Arial, sans-serif">ionic character ↑</text>
 </g>
 </svg>

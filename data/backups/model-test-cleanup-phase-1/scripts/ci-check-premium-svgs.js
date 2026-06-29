@@ -86,10 +86,35 @@ function normalizeHint(hint) { return hint.replace(/\s+/g, " ").trim(); }
 
 function matchBracketChitraHint(hint) {
   const h = normalizeHint(hint);
-  if (/গোলক\s+A\s+ও\s+B/i.test(h) || (/গোলক/i.test(h) && /আধান/i.test(h) && /\bA\b/.test(h) && /\bB\b/.test(h)))
+  // Match questions about two charged spheres, A and B.
+  // The original regex was too brittle. This is more robust.
+  if (
+    (/গোলক/i.test(h) && /আধান/i.test(h) && /\bA\b/.test(h) && /\bB\b/.test(h))
+  )
     return asset("ssc-charge-spheres");
   if (/তরঙ্গ/i.test(h) && /চূ/i.test(h)) return asset("ssc-wave-crests");
   if (/অবতল দর্পণ/i.test(h) && /লক্ষ্যবস্তু/i.test(h)) return asset("ssc-concave-mirror");
+  return null;
+}
+
+function matchChemistryStimulus(text) {
+  if (!/চিত্র|diagram|উদ্দীপক|বিক্রিয়া/i.test(text)) return null;
+
+  if (/টাইট্রেশন|titration|কনিকেল\s*ফ্লাস্ক|conical\s*flask|বুরেট|burette|নির্দেশক|indicator/i.test(text)) {
+    return asset("chem-titration");
+  }
+  if (
+    /ব্রোমিন\s*পানি|bromine\s*water|Br₂.*লাল|লাল\s*বর্ণ.*বর্ণহীন/i.test(text) &&
+    /অসম্পৃক্ত|unsaturated|অ্যালকিন|alkene|অ্যালকাইন|alkyne/i.test(text)
+  ) {
+    return asset("chem-bromine-test");
+  }
+  if (/সংযোজন\s*পলিমার|addition\s*polymer|পলিমারকরণ|polymerization|nCH₂=CH₂|ইথিন.*পলিথিন/i.test(text)) {
+    return asset("chem-addition-polymer");
+  }
+  if (/অ্যালকাইন|alkyne|পানি\s*যোজন|hydration|মারকনিকভ|markovnikov|কিটোন|ketone|HgSO₄|H₂SO₄/i.test(text) && /প্রোপাইন|propyne|ইথাইন|ethyne/i.test(text)) {
+    return asset("chem-alkyne-hydration");
+  }
   return null;
 }
 

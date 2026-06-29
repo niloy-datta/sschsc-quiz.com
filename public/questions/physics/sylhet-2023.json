@@ -40,7 +40,7 @@
       "বেগ-সময়",
       "মন্দন-সময়"
     ],
-    "image": "/images/quiz/premium/physics-ssc-science-physics-board-questions-year-wise-2023-sylhet-ts-2.svg",
+    "image": "/images/quiz/function-test-1.svg",
     "optionImages": null,
     "timeLimit": 45
   },
@@ -85,7 +85,7 @@
       "$980\\text{ J}$",
       "$98000\\text{ J}$"
     ],
-    "image": null,
+    "image": "/images/quiz/premium/physics-ssc-science-physics-board-questions-year-wise-2023-sylhet-ts-5.svg",
     "optionImages": null,
     "timeLimit": 45
   },
@@ -100,7 +100,7 @@
       "ii ও iii",
       "i, ii ও iii"
     ],
-    "image": null,
+    "image": "/images/quiz/premium/physics-ssc-science-physics-board-questions-year-wise-2023-sylhet-ts-6.svg",
     "optionImages": null,
     "timeLimit": 45
   },
@@ -175,7 +175,7 @@
       "5",
       "14"
     ],
-    "image": "/images/quiz/physics-ssc-science-physics-board-questions-year-wise-2023-sylhet-ts-11.svg",
+    "image": "/images/quiz/circuit-series.svg",
     "optionImages": null,
     "timeLimit": 45
   },
@@ -220,7 +220,7 @@
       "$50\\text{ Hz}$",
       "$100\\text{ Hz}$"
     ],
-    "image": "/images/quiz/premium/physics-ssc-science-physics-board-questions-year-wise-2023-sylhet-ts-14.svg",
+    "image": "/images/quiz/wave-transverse.svg",
     "optionImages": null,
     "timeLimit": 45
   },
@@ -235,7 +235,7 @@
       "i ও iii",
       "i, ii ও iii"
     ],
-    "image": "/images/quiz/premium/physics-ssc-science-physics-board-questions-year-wise-2023-sylhet-ts-15.svg",
+    "image": "/images/quiz/wave-transverse.svg",
     "optionImages": null,
     "timeLimit": 45
   },
@@ -310,8 +310,13 @@
       "গ",
       "ঘ"
     ],
-    "image": "/images/quiz/premium/physics-ssc-science-physics-board-questions-year-wise-2023-sylhet-ts-20.svg",
-    "optionImages": null,
+    "image": "/images/quiz/function-test-1.svg",
+    "optionImages": [
+      "/images/quiz/premium/physics-ssc-science-physics-board-questions-year-wise-2023-sylhet-ts-20-option-1.svg",
+      "/images/quiz/premium/physics-ssc-science-physics-board-questions-year-wise-2023-sylhet-ts-20-option-2.svg",
+      "/images/quiz/premium/physics-ssc-science-physics-board-questions-year-wise-2023-sylhet-ts-20-option-3.svg",
+      "/images/quiz/premium/physics-ssc-science-physics-board-questions-year-wise-2023-sylhet-ts-20-option-4.svg"
+    ],
     "timeLimit": 45
   },
   {
@@ -355,7 +360,7 @@
       "$20\\text{ m/s}$",
       "$400\\text{ m/s}$"
     ],
-    "image": null,
+    "image": "/images/quiz/premium/physics-ssc-science-physics-board-questions-year-wise-2023-sylhet-ts-23.svg",
     "optionImages": null,
     "timeLimit": 45
   },
@@ -370,7 +375,7 @@
       "$14.14\\text{ m/s}$",
       "$17.32\\text{ m/s}$"
     ],
-    "image": null,
+    "image": "/images/quiz/premium/physics-ssc-science-physics-board-questions-year-wise-2023-sylhet-ts-24.svg",
     "optionImages": null,
     "timeLimit": 45
   }
