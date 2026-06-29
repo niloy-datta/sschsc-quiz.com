@@ -3,12 +3,12 @@
     "id": "ssc-physics-chapter-01-model-test-04-q01",
     "subject": "physics",
     "chapter": "ssc-physics-chapter-01-model-test-04",
-    "text": "কম্পিউটার ব্যবহারে স্ক্রিনটি চোখ হতে কত দূরে রাখা স্বাস্থ্যসম্মত?",
+    "text": "ব্যাসার্ধ $R=5.5\\pm0.2$ একক হলে আয়তনের শতকরা ত্রুটি প্রায়—",
     "options": [
-      "10 – 20 cm",
-      "20 – 30 cm",
-      "30 – 40 cm",
-      "50 – 60 cm"
+      "7.3%",
+      "12.3%",
+      "3.6%",
+      "14.5%"
     ],
     "image": null,
     "timeLimit": 45
@@ -17,12 +17,12 @@
     "id": "ssc-physics-chapter-01-model-test-04-q02",
     "subject": "physics",
     "chapter": "ssc-physics-chapter-01-model-test-04",
-    "text": "স্লাইড ক্যালিপার্সের সাহায্যে কোনো দণ্ডের দৈর্ঘ্য পরিমাপ করতে গিয়ে প্রধান স্কেল পাঠ 5 cm, ভার্নিয়ার সমপাতন 7 পাওয়া গেল। যন্ত্রটির ভার্নিয়ার ধ্রুবক 0.1 mm। দণ্ডটির দৈর্ঘ্য কত?",
+    "text": "দ্রুতির মাত্রা কোনটি?",
     "options": [
-      "5.0007 cm",
-      "5.007 cm",
-      "5.07 cm",
-      "5.7 cm"
+      "$\\text{LT}^{-1}$",
+      "$\\text{L}^2\\text{T}^{-2}$",
+      "$\\text{MLT}^{-2}$",
+      "$\\text{T}^{-1}$"
     ],
     "image": null,
     "timeLimit": 45
@@ -31,12 +31,12 @@
     "id": "ssc-physics-chapter-01-model-test-04-q03",
     "subject": "physics",
     "chapter": "ssc-physics-chapter-01-model-test-04",
-    "text": "1 টেরা মিটার = কত মিটার?",
+    "text": "পিচ 1 mm ও বৃত্তাকার স্কেল 50 ভাগের স্ক্রুগজের least count—",
     "options": [
-      "$10^{18}$ মিটার",
-      "$10^{15}$ মিটার",
-      "$10^{12}$ মিটার",
-      "$10^{-12}$ মিটার"
+      "0.002 mm",
+      "1 mm",
+      "0.20 mm",
+      "0.020 mm"
     ],
     "image": null,
     "timeLimit": 45
@@ -45,12 +45,12 @@
     "id": "ssc-physics-chapter-01-model-test-04-q04",
     "subject": "physics",
     "chapter": "ssc-physics-chapter-01-model-test-04",
-    "text": "আয়তনে আপেক্ষিক ত্রুটির মান ক্ষেত্রফলের আপেক্ষিক ত্রুটির প্রায় কত গুণ হবে?",
+    "text": "কাজের মাত্রা কোনটি?",
     "options": [
-      "৩",
-      "২",
-      "১.৫",
-      "০.৬৬"
+      "$\\text{ML}^2\\text{T}^{-2}$",
+      "$\\text{MLT}^{-2}$",
+      "$\\text{ML}^2\\text{T}^{-3}$",
+      "$\\text{MLT}^{-1}$"
     ],
     "image": null,
     "timeLimit": 45
@@ -59,12 +59,12 @@
     "id": "ssc-physics-chapter-01-model-test-04-q05",
     "subject": "physics",
     "chapter": "ssc-physics-chapter-01-model-test-04",
-    "text": "10 পিকোমিটার = কত মিটার?",
+    "text": "পদার্থবিজ্ঞানে মৌলিক রাশির সংখ্যা—",
     "options": [
-      "$10^{-18}\\text{m}$",
-      "$10^{-13}\\text{m}$",
-      "$10^{-12}\\text{m}$",
-      "$10^{-11}\\text{m}$"
+      "৭",
+      "৫",
+      "৩",
+      "৯"
     ],
     "image": null,
     "timeLimit": 45
@@ -73,12 +73,12 @@
     "id": "ssc-physics-chapter-01-model-test-04-q06",
     "subject": "physics",
     "chapter": "ssc-physics-chapter-01-model-test-04",
-    "text": "২৪. ১ মিলি সেকেন্ড ১ ন্যানো সেকেন্ড অপেক্ষা কত গুণ?",
+    "text": "SI পদ্ধতিতে বলের একক কোনটি?",
     "options": [
-      "10^{৬}",
-      "10^{৯}",
-      "10^{১২}",
-      "10^{১৫}"
+      "নিউটন",
+      "জুল",
+      "ওয়াট",
+      "প্যাসকেল"
     ],
     "image": null,
     "timeLimit": 45
@@ -87,12 +87,12 @@
     "id": "ssc-physics-chapter-01-model-test-04-q07",
     "subject": "physics",
     "chapter": "ssc-physics-chapter-01-model-test-04",
-    "text": "২৫. ১স লম্বা একটি সুতায় ৩০ g ভরের একটি ইটের টুকরো ঝুলিয়ে দিলে দোলনকাল কত হবে?",
+    "text": "সময়ের মাত্রা কোনটি?",
     "options": [
-      "১ং",
-      "২ং",
-      "২.৫ং",
-      "৩ং"
+      "$\\text{T}$",
+      "$\\text{L}$",
+      "$\\text{M}$",
+      "$\\text{A}$"
     ],
     "image": null,
     "timeLimit": 45
@@ -101,12 +101,12 @@
     "id": "ssc-physics-chapter-01-model-test-04-q08",
     "subject": "physics",
     "chapter": "ssc-physics-chapter-01-model-test-04",
-    "text": "১. আপেক্ষিক ত্র“টি = কী?",
+    "text": "নিচের কোনটি ভেক্টর রাশি?",
     "options": [
-      "পরম ত্র“টি imes ২",
-      "চ‚ড়াš@ ত্র“টি + পরিমাপকৃত মান",
-      "চ‚ড়াš@ ত্র“টি + ২",
-      "চ‚ড়াš@ ত্র“টি imes পরিমাপকৃত মান"
+      "বেগ",
+      "দ্রুতি",
+      "কাজ",
+      "তাপ"
     ],
     "image": null,
     "timeLimit": 45
@@ -115,12 +115,12 @@
     "id": "ssc-physics-chapter-01-model-test-04-q09",
     "subject": "physics",
     "chapter": "ssc-physics-chapter-01-model-test-04",
-    "text": "২. ১ ঢ়স = কত ধস?",
+    "text": "পরিমাপের ফলাফলে গুরুত্বপূর্ণ অঙ্কের সংখ্যা নির্ভর করে—",
     "options": [
-      "10^{৬}",
-      "10^{৩}",
-      "10^{-3}",
-      "10^{-৬}"
+      "অজ্ঞাত অঙ্কের সংখ্যার উপর",
+      "যন্ত্রের রঙের উপর",
+      "পরিবেশ তাপমাত্রার উপর",
+      "পরিমাপকারীর বয়সের উপর"
     ],
     "image": null,
     "timeLimit": 45
@@ -129,12 +129,12 @@
     "id": "ssc-physics-chapter-01-model-test-04-q10",
     "subject": "physics",
     "chapter": "ssc-physics-chapter-01-model-test-04",
-    "text": "৪. ১ চধ = কত ধঃস ?",
+    "text": "ক্ষমতার মাত্রা কোনটি?",
     "options": [
-      "৭৬",
-      "10^{৫}",
-      "৯.৮৭২৩ imes ১০^{-3}",
-      "৯.৮৭২৩ imes ১০^{-৬}"
+      "$\\text{ML}^2\\text{T}^{-3}$",
+      "$\\text{MLT}^{-1}$",
+      "$\\text{ML}^2\\text{T}^{-2}$",
+      "$\\text{ML}^{-1}\\text{T}^{-2}$"
     ],
     "image": null,
     "timeLimit": 45
@@ -143,12 +143,12 @@
     "id": "ssc-physics-chapter-01-model-test-04-q11",
     "subject": "physics",
     "chapter": "ssc-physics-chapter-01-model-test-04",
-    "text": "১১. n_p = 10^{০} ঊঢ় = 10^{০} V হ৩ = ৩০০ ওঝ = ৬ A উপযর্ুক্ত গৌণ কুণ্ডলীতে রোধের মান কত?",
+    "text": "তড়িৎ প্রবাহের মাত্রা কোনটি?",
     "options": [
-      "৫.৫৫৬ Omega",
-      "৫০ Omega",
-      "২০০ Omega",
-      "১৮০০ Omega"
+      "$\\text{A}$",
+      "$\\text{V}$",
+      "$\\text{Ω}$",
+      "$\\text{C}$"
     ],
     "image": null,
     "timeLimit": 45
@@ -157,12 +157,12 @@
     "id": "ssc-physics-chapter-01-model-test-04-q12",
     "subject": "physics",
     "chapter": "ssc-physics-chapter-01-model-test-04",
-    "text": "১৫. প্রধান অক্ষ ফোকাস তলের সাথে কত কোণ উৎপন্ন করে?",
+    "text": "যান্ত্রিক ত্রুটি—",
     "options": [
-      "০",
-      "৪৫",
-      "৯০",
-      "১৮০"
+      "ধনাত্মক বা ঋণাত্মক হতে পারে",
+      "সবসময় ধনাত্মক",
+      "শূন্য হতে পারে না",
+      "শতকরায় প্রকাশ করা যায় না"
     ],
     "image": null,
     "timeLimit": 45
@@ -171,12 +171,12 @@
     "id": "ssc-physics-chapter-01-model-test-04-q13",
     "subject": "physics",
     "chapter": "ssc-physics-chapter-01-model-test-04",
-    "text": "২৪. নিচের কোন স¤ক্সর্কটি সঠিক? ৩ = ২ ৬ = ৪",
+    "text": "পরিমাপে সিস্টেম্যাটিক ত্রুটি—",
     "options": [
-      "৬alpha = ৩\beta = ২",
-      "alpha = ২\beta = ৩",
-      "\beta",
-      "alpha"
+      "যন্ত্রের ক্যালিব্রেশনজনিত",
+      "এলোমেলো",
+      "এককহীন",
+      "শূন্য হতে পারে না"
     ],
     "image": null,
     "timeLimit": 45
@@ -185,12 +185,12 @@
     "id": "ssc-physics-chapter-01-model-test-04-q14",
     "subject": "physics",
     "chapter": "ssc-physics-chapter-01-model-test-04",
-    "text": "৭. ১ ন্যানো সেকেন্ড সমান কত সেকেন্ড?",
+    "text": "ব্যাসার্ধ $R=5.1\\pm0.2$ একক হলে আয়তনের শতকরা ত্রুটি প্রায়—",
     "options": [
-      "10^{-৯}",
-      "10^{-৬}",
-      "10^{৬}",
-      "10^{৯}"
+      "12.8%",
+      "7.8%",
+      "3.9%",
+      "15.7%"
     ],
     "image": null,
     "timeLimit": 45
@@ -199,12 +199,12 @@
     "id": "ssc-physics-chapter-01-model-test-04-q15",
     "subject": "physics",
     "chapter": "ssc-physics-chapter-01-model-test-04",
-    "text": "১৪. úাইড ক্যালিপার্স দ্বারা ন–্যনতম কত দ–রত্ব মাপা যায়? K ০.১ ext{ ext{mm}} গ ১ ext{ ext{mm}} খ ০.০১ ext{ ext{mm}} ঘ ভার্নিয়ার ধ্র“বক পযর্š@",
+    "text": "বিকৃতি—",
     "options": [
-      "ঘ/A",
-      "ঘ/A",
-      "ঘ/A",
-      "ঘ/A"
+      "এককহীন",
+      "নিউটনে পরিমাপিত",
+      "শতাংশে প্রকাশ করা যায় না",
+      "সবসময় ধনাত্মক"
     ],
     "image": null,
     "timeLimit": 45
@@ -213,12 +213,12 @@
     "id": "ssc-physics-chapter-01-model-test-04-q16",
     "subject": "physics",
     "chapter": "ssc-physics-chapter-01-model-test-04",
-    "text": "১৯. সার্বজনীন গ্যাস ধ্র“বক (জ) এর মান কত? K ৮.৫১৪ ext{JK}^{-1}সড়ষ-1 ঘ র, রর ও ররর খ ৮.৪১৪ ext{JK}^{-1}সড়ষ-1 গ ৮.৩১৪ ext{JK}^{-1}সড়ষ-1",
+    "text": "ত্বরণের মাত্রা কোনটি?",
     "options": [
-      "ঘ/A",
-      "ঘ/A",
-      "ঘ/A",
-      "ঘ/A"
+      "$\\text{LT}^{-2}$",
+      "$\\text{LT}^{-1}$",
+      "$\\text{L}^2\\text{T}^{-2}$",
+      "$\\text{MLT}^{-2}$"
     ],
     "image": null,
     "timeLimit": 45
@@ -227,12 +227,12 @@
     "id": "ssc-physics-chapter-01-model-test-04-q17",
     "subject": "physics",
     "chapter": "ssc-physics-chapter-01-model-test-04",
-    "text": "২৩. পাহাড়ি রা¯@ার অদৃশ্য বঁাকগুলোতে কত ডিগি্র কোণে বড় আকারের সমতল আয়না বসানো হয়? K ৩০ খ ৪০",
+    "text": "ভার্নিয়ার স্থিরাঙ্কের একক—",
     "options": [
-      "ঘ/A",
-      "ঘ/A",
-      "ঘ/A",
-      "ঘ/A"
+      "মিটার",
+      "সেন্টিমিটার",
+      "মিলিমিটার",
+      "এককহীন"
     ],
     "image": null,
     "timeLimit": 45
@@ -241,12 +241,12 @@
     "id": "ssc-physics-chapter-01-model-test-04-q18",
     "subject": "physics",
     "chapter": "ssc-physics-chapter-01-model-test-04",
-    "text": "২১. উত্তর আয়নের সর্বদা- র. অবা¯@ব প্রতিবিম্ব গঠিত হয় রর. উল্টা প্রতিবিম্ব গঠিত হয় ররর. বিবর্ধন ১ অপেক্ষা ছোট হয় নিচের কোনটি সঠিক?",
+    "text": "ঘনত্বের মাত্রা কোনটি?",
     "options": [
-      "র ও রর",
-      "র ও ররর",
-      "রর ও ররর",
-      "র, রর ও ররর"
+      "$\\text{ML}^{-3}$",
+      "$\\text{ML}^{-2}$",
+      "$\\text{M}^2\\text{L}^{-3}$",
+      "$\\text{LT}^{-3}$"
     ],
     "image": null,
     "timeLimit": 45
@@ -255,12 +255,12 @@
     "id": "ssc-physics-chapter-01-model-test-04-q19",
     "subject": "physics",
     "chapter": "ssc-physics-chapter-01-model-test-04",
-    "text": "২২. স্টেপআপ ট্রান্সফর্মারের ক্ষেত্র-ে র. V_s > V_p রর. n_s > n_p ররর. I_s > I_p নিচের কোনটি সঠিক?",
+    "text": "দৈর্ঘ্যের মাত্রা কোনটি?",
     "options": [
-      "র",
-      "ররর",
-      "র ও রর",
-      "র, রর ও ররর"
+      "$\\text{L}$",
+      "$\\text{M}$",
+      "$\\text{T}$",
+      "$\\text{I}$"
     ],
     "image": null,
     "timeLimit": 45
@@ -269,12 +269,12 @@
     "id": "ssc-physics-chapter-01-model-test-04-q20",
     "subject": "physics",
     "chapter": "ssc-physics-chapter-01-model-test-04",
-    "text": "১৯. প্রকৃতিতে ইউরেনিয়ামের পরিমাণ কত?",
+    "text": "নিচের কোনটি স্কেলার রাশি?",
     "options": [
-      "০.৩%",
-      "০.৫%",
-      "০.৭%",
-      "০.৯%"
+      "দ্রুতি",
+      "বেগ",
+      "ত্বরণ",
+      "বল"
     ],
     "image": null,
     "timeLimit": 45
@@ -283,12 +283,12 @@
     "id": "ssc-physics-chapter-01-model-test-04-q21",
     "subject": "physics",
     "chapter": "ssc-physics-chapter-01-model-test-04",
-    "text": "২৩. ৫০C এর একটি আধান থেকে ৬০ cm দ–রবর্তী কোনো বিন্দুতে ইলেকটি্রক ফিল্ড কত?",
+    "text": "1 ন্যানোমিটার = ? মিটার",
     "options": [
-      "১.২৫ imes ১০^{১০}ঘC–১",
-      "১.২৫ imes ১০^{১২}ঘC–১",
-      "২.২৫ imes ১০^{১০}ঘC–১",
-      "২.২৫ imes ১০^{১২}ঘC–১"
+      "$10^{-9}$",
+      "$10^{-3}$",
+      "$10^{-12}$",
+      "$10^{-6}$"
     ],
     "image": null,
     "timeLimit": 45
@@ -297,12 +297,12 @@
     "id": "ssc-physics-chapter-01-model-test-04-q22",
     "subject": "physics",
     "chapter": "ssc-physics-chapter-01-model-test-04",
-    "text": "২৫. একটি ট্রান্সফর্মারের তথ্য নæির–প : মুখ্য কুণ্ডলীর প্যাঁচ msখ্যা গৌণ কুণ্ডলীর প্যাঁচ msখ্যা মুখ্য কুণ্ডলীতে প্রযুক্ত ভোল্ট গৌণ কুণ্ডলীতে প্রযুক্ত ভোল্ট ৫০ ৫০০ ৬ঠ ছ ছ এর মান কত?",
+    "text": "6 km = ? m",
     "options": [
-      "৫০ঠ",
-      "৬০ঠ",
-      "10^{০}V",
-      "১২০ঠ"
+      "60000",
+      "6000",
+      "600",
+      "60"
     ],
     "image": null,
     "timeLimit": 45
@@ -311,12 +311,12 @@
     "id": "ssc-physics-chapter-01-model-test-04-q23",
     "subject": "physics",
     "chapter": "ssc-physics-chapter-01-model-test-04",
-    "text": "৫. কোনো তড়িৎ বস্তুকে ¯ক্সর্শ করলÑে র. ইলেকট্রন হারাতে পারে রর. শুধু ঋণাÍK আধান লাভ করতে পারে ররর. তড়িতাহত হতে পারে নিচের কোনটি সঠিক?",
+    "text": "SI পদ্ধতিতে তাপমাত্রার একক—",
     "options": [
-      "র ও রর",
-      "র ও ররর",
-      "রর ও ররর",
-      "র, রর ও ররর"
+      "কেলভিন",
+      "সেলসিয়াস",
+      "ফারেনহাইট",
+      "জুল"
     ],
     "image": null,
     "timeLimit": 45
@@ -325,12 +325,12 @@
     "id": "ssc-physics-chapter-01-model-test-04-q24",
     "subject": "physics",
     "chapter": "ssc-physics-chapter-01-model-test-04",
-    "text": "২৩. নিচের কোন পদার্থটির স্থিতিস্থাপকতা সর্বাধিক?",
+    "text": "চাপের মাত্রা কোনটি?",
     "options": [
-      "লোহা",
-      "তামা",
-      "কাঠ",
-      "হাড়"
+      "$\\text{ML}^{-1}\\text{T}^{-2}$",
+      "$\\text{MLT}^{-2}$",
+      "$\\text{ML}^2\\text{T}^{-3}$",
+      "$\\text{MLT}^{-1}$"
     ],
     "image": null,
     "timeLimit": 45
@@ -339,12 +339,12 @@
     "id": "ssc-physics-chapter-01-model-test-04-q25",
     "subject": "physics",
     "chapter": "ssc-physics-chapter-01-model-test-04",
-    "text": "wb‡Pi DÏxc‡Ki Av‡jv‡K 8 I 9 bs cÖ‡kœi DËi `vI : GKwU ˆe`y¨wZK †gvU‡ii mvnv‡h¨ 50N IR‡bi GKwU e¯‘‡K f‚ c„ô †_‡K 5m Dc‡i DVv‡Z 400J kw³ mieivn Ki‡Z nq| 8. jf¨ Kvh©Ki kw³ KZ n‡e?",
+    "text": "$[M][L][T]^{-2}$ ও $[L][T]^{-1}$ এর গুণফলের মাত্রা—",
     "options": [
-      "250J",
-      "400J",
-      "500J",
-      "800J"
+      "5",
+      "1",
+      "1.5",
+      "6"
     ],
     "image": null,
     "timeLimit": 45

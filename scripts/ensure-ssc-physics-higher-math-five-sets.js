@@ -19,7 +19,7 @@ const {
   saveMegaAndIndex,
 } = require("./lib/ssc-five-set-sync");
 const { generateUniqueSet, HM_CHAPTER_NAMES, PHYSICS_CHAPTER_NAMES, isPlaceholder } = require("./lib/generate-ssc-chapter-mcqs");
-const { isLowQualitySet } = require("./lib/ssc-set-quality");
+const { isLowQualitySet, isGarbledBijoyText } = require("./lib/ssc-set-quality");
 
 const ROOT = path.resolve(__dirname, "..");
 const TARGET_SETS = 5;
@@ -33,6 +33,7 @@ const LABEL_TO_LETTER = { ক: "A", খ: "B", গ: "C", ঘ: "D" };
 const LETTER_INDEX = { A: 0, B: 1, C: 2, D: 3 };
 
 const mode = (process.argv[2] ?? "all").toLowerCase();
+const chapterArg = process.argv[3] ?? null;
 
 function normalizeOptionsArray(options) {
   if (!Array.isArray(options)) return [];
@@ -147,19 +148,31 @@ function pickFromPool(pool, setNo, qIndex) {
   return pool[idx];
 }
 
+function isUsableQuestion(q, subjectSlug) {
+  const text = String(q.text ?? "").trim();
+  if (isPlaceholder(text, subjectSlug)) return false;
+  if (isGarbledBijoyText(text)) return false;
+  if (!q.options || q.options.length < 4) return false;
+  return true;
+}
+
 function buildSetQuestions(subjectSlug, chapterNo, chapterName, setNo, candidates, pool) {
+  const ch = pad2(chapterNo);
   const best = candidates.find((c) => c.setNum === setNo && c.score >= TARGET_Q - 5);
+  const useBest = best && !isLowQualitySet(best.questions, subjectSlug, ch);
+  const hasLowQuality = candidates.some((c) => isLowQualitySet(c.questions, subjectSlug, ch));
+  const usePool = pool.length > 0 && !hasLowQuality;
   const generated = generateUniqueSet(subjectSlug, chapterNo, chapterName, setNo);
   const out = [];
 
   for (let i = 0; i < TARGET_Q; i++) {
-    const fromBest = best?.questions[i];
-    if (fromBest && !isPlaceholder(fromBest.text, subjectSlug) && fromBest.options?.length >= 4) {
+    const fromBest = useBest ? best?.questions[i] : null;
+    if (fromBest && isUsableQuestion(fromBest, subjectSlug)) {
       out.push(fromBest);
       continue;
     }
-    const fromPool = pickFromPool(pool, setNo, i + 1);
-    if (fromPool && !isPlaceholder(fromPool.text, subjectSlug)) {
+    const fromPool = usePool ? pickFromPool(pool, setNo, i + 1) : null;
+    if (fromPool && isUsableQuestion(fromPool, subjectSlug)) {
       out.push(fromPool);
       continue;
     }
@@ -286,10 +299,11 @@ function ensureHigherMath() {
   }
 }
 
-function ensurePhysics() {
+function ensurePhysics(chapterFilter = null) {
   console.log("\n=== SSC Physics — 5 sets/chapter ===");
   for (let ch = 1; ch <= 14; ch++) {
     const chs = pad2(ch);
+    if (chapterFilter && chs !== pad2(chapterFilter)) continue;
     console.log(`\nCh${chs} ${PHYSICS_CHAPTER_NAMES[chs]}`);
     ensureSubjectChapter("physics", ch, PHYSICS_CHAPTER_NAMES);
   }
@@ -308,7 +322,7 @@ function audit(subjectSlug, chapterCount, chapterNames) {
         .filter((f) => f.startsWith(prefix) && f.endsWith(".json"))
         .filter((f) => {
           const qs = JSON.parse(fs.readFileSync(path.join(dir, f), "utf8"));
-          return qs.length >= TARGET_Q && !isLowQualitySet(qs, subjectSlug);
+          return qs.length >= TARGET_Q && !isLowQualitySet(qs, subjectSlug, chs);
         }).length;
     }
     console.log(`Ch${chs} ${chapterNames[chs]}: ${good}/${TARGET_SETS} ${good >= TARGET_SETS ? "OK" : "NEED"}`);
@@ -317,7 +331,7 @@ function audit(subjectSlug, chapterCount, chapterNames) {
 
 function main() {
   if (mode === "all" || mode === "higher-math") ensureHigherMath();
-  if (mode === "all" || mode === "physics") ensurePhysics();
+  if (mode === "all" || mode === "physics") ensurePhysics(chapterArg);
 
   if (mode === "all" || mode === "higher-math") audit("higher-math", 13, HM_CHAPTER_NAMES);
   if (mode === "all" || mode === "physics") audit("physics", 14, PHYSICS_CHAPTER_NAMES);

@@ -1,21 +1,21 @@
 {
-  "generatedAt": "2026-06-29T00:02:31.719Z",
+  "generatedAt": "2026-06-29T00:04:27.912Z",
   "totals": {
     "questionsScanned": 56309,
     "visualQuestions": 3398,
     "svgFiles": 3784,
-    "totalIssues": 3148,
+    "totalIssues": 3200,
     "needsManualReview": 57
   },
   "bySeverity": {
     "CRITICAL": 301,
     "HIGH": 62,
-    "MEDIUM": 2785
+    "MEDIUM": 2837
   },
   "byCategory": {
     "missing_image": 301,
     "placeholder_should_use_library": 62,
-    "unused_orphan_svg": 2567,
+    "unused_orphan_svg": 2619,
     "duplicate_svg_slug": 218
   },
   "issues": [
@@ -4055,13 +4055,6 @@
       "needs_manual_review": false
     },
     {
-      "id": "svg-orphan-bio-heart",
-      "file": "images/quiz/bio-heart.svg",
-      "severity": "MEDIUM",
-      "category": "unused_orphan_svg",
-      "needs_manual_review": false
-    },
-    {
       "id": "svg-orphan-bio-meristem",
       "file": "images/quiz/bio-meristem.svg",
       "severity": "MEDIUM",
@@ -4099,13 +4092,6 @@
     {
       "id": "svg-orphan-bio-resin-duct",
       "file": "images/quiz/bio-resin-duct.svg",
-      "severity": "MEDIUM",
-      "category": "unused_orphan_svg",
-      "needs_manual_review": false
-    },
-    {
-      "id": "svg-orphan-bio-skin",
-      "file": "images/quiz/bio-skin.svg",
       "severity": "MEDIUM",
       "category": "unused_orphan_svg",
       "needs_manual_review": false
@@ -4239,13 +4225,6 @@
     {
       "id": "svg-orphan-biology-ssc-science-biology-extra-ssc-biology-high-common-sets-2-6-ts-84",
       "file": "images/quiz/biology-ssc-science-biology-extra-ssc-biology-high-common-sets-2-6-ts-84.svg",
-      "severity": "MEDIUM",
-      "category": "unused_orphan_svg",
-      "needs_manual_review": false
-    },
-    {
-      "id": "svg-orphan-cell-terminal-pd",
-      "file": "images/quiz/cell-terminal-pd.svg",
       "severity": "MEDIUM",
       "category": "unused_orphan_svg",
       "needs_manual_review": false
@@ -7870,6 +7849,13 @@
       "needs_manual_review": false
     },
     {
+      "id": "svg-orphan-biology-1st-paper-hsc-science-biology-1st-paper-board-questions-year-wise-2023-chattogram-ts-3",
+      "file": "images/quiz/premium/biology-1st-paper-hsc-science-biology-1st-paper-board-questions-year-wise-2023-chattogram-ts-3.svg",
+      "severity": "MEDIUM",
+      "category": "unused_orphan_svg",
+      "needs_manual_review": false
+    },
+    {
       "id": "svg-orphan-biology-1st-paper-hsc-science-biology-1st-paper-board-questions-year-wise-2023-cumilla-ts-14",
       "file": "images/quiz/premium/biology-1st-paper-hsc-science-biology-1st-paper-board-questions-year-wise-2023-cumilla-ts-14.svg",
       "severity": "MEDIUM",
@@ -7879,6 +7865,13 @@
     {
       "id": "svg-orphan-biology-1st-paper-hsc-science-biology-1st-paper-board-questions-year-wise-2023-dhaka-ts-0",
       "file": "images/quiz/premium/biology-1st-paper-hsc-science-biology-1st-paper-board-questions-year-wise-2023-dhaka-ts-0.svg",
+      "severity": "MEDIUM",
+      "category": "unused_orphan_svg",
+      "needs_manual_review": false
+    },
+    {
+      "id": "svg-orphan-biology-1st-paper-hsc-science-biology-1st-paper-board-questions-year-wise-2023-rajshahi-ts-12",
+      "file": "images/quiz/premium/biology-1st-paper-hsc-science-biology-1st-paper-board-questions-year-wise-2023-rajshahi-ts-12.svg",
       "severity": "MEDIUM",
       "category": "unused_orphan_svg",
       "needs_manual_review": false
@@ -9550,6 +9543,20 @@
       "needs_manual_review": false
     },
     {
+      "id": "svg-orphan-hsc-biology-1st-paper-chapter-01-set-02-q16",
+      "file": "images/quiz/premium/hsc-biology-1st-paper-chapter-01-set-02-q16.svg",
+      "severity": "MEDIUM",
+      "category": "unused_orphan_svg",
+      "needs_manual_review": false
+    },
+    {
+      "id": "svg-orphan-hsc-biology-1st-paper-chapter-01-set-02-q19",
+      "file": "images/quiz/premium/hsc-biology-1st-paper-chapter-01-set-02-q19.svg",
+      "severity": "MEDIUM",
+      "category": "unused_orphan_svg",
+      "needs_manual_review": false
+    },
+    {
       "id": "svg-orphan-hsc-biology-1st-paper-chapter-01-set-02-q22",
       "file": "images/quiz/premium/hsc-biology-1st-paper-chapter-01-set-02-q22.svg",
       "severity": "MEDIUM",
@@ -9566,6 +9573,20 @@
     {
       "id": "svg-orphan-hsc-biology-1st-paper-chapter-01-set-04-q05",
       "file": "images/quiz/premium/hsc-biology-1st-paper-chapter-01-set-04-q05.svg",
+      "severity": "MEDIUM",
+      "category": "unused_orphan_svg",
+      "needs_manual_review": false
+    },
+    {
+      "id": "svg-orphan-hsc-biology-1st-paper-chapter-01-set-06-q14",
+      "file": "images/quiz/premium/hsc-biology-1st-paper-chapter-01-set-06-q14.svg",
+      "severity": "MEDIUM",
+      "category": "unused_orphan_svg",
+      "needs_manual_review": false
+    },
+    {
+      "id": "svg-orphan-hsc-biology-1st-paper-chapter-01-set-08-q14",
+      "file": "images/quiz/premium/hsc-biology-1st-paper-chapter-01-set-08-q14.svg",
       "severity": "MEDIUM",
       "category": "unused_orphan_svg",
       "needs_manual_review": false
@@ -9606,6 +9627,13 @@
       "needs_manual_review": false
     },
     {
+      "id": "svg-orphan-hsc-biology-1st-paper-chapter-01-set-09-q13",
+      "file": "images/quiz/premium/hsc-biology-1st-paper-chapter-01-set-09-q13.svg",
+      "severity": "MEDIUM",
+      "category": "unused_orphan_svg",
+      "needs_manual_review": false
+    },
+    {
       "id": "svg-orphan-hsc-biology-1st-paper-chapter-01-set-10-q19",
       "file": "images/quiz/premium/hsc-biology-1st-paper-chapter-01-set-10-q19.svg",
       "severity": "MEDIUM",
@@ -9620,8 +9648,29 @@
       "needs_manual_review": false
     },
     {
+      "id": "svg-orphan-hsc-biology-1st-paper-chapter-02-set-06-q03",
+      "file": "images/quiz/premium/hsc-biology-1st-paper-chapter-02-set-06-q03.svg",
+      "severity": "MEDIUM",
+      "category": "unused_orphan_svg",
+      "needs_manual_review": false
+    },
+    {
       "id": "svg-orphan-hsc-biology-1st-paper-chapter-03-set-01-q12",
       "file": "images/quiz/premium/hsc-biology-1st-paper-chapter-03-set-01-q12.svg",
+      "severity": "MEDIUM",
+      "category": "unused_orphan_svg",
+      "needs_manual_review": false
+    },
+    {
+      "id": "svg-orphan-hsc-biology-1st-paper-chapter-03-set-01-q25",
+      "file": "images/quiz/premium/hsc-biology-1st-paper-chapter-03-set-01-q25.svg",
+      "severity": "MEDIUM",
+      "category": "unused_orphan_svg",
+      "needs_manual_review": false
+    },
+    {
+      "id": "svg-orphan-hsc-biology-1st-paper-chapter-03-set-02-q01",
+      "file": "images/quiz/premium/hsc-biology-1st-paper-chapter-03-set-02-q01.svg",
       "severity": "MEDIUM",
       "category": "unused_orphan_svg",
       "needs_manual_review": false
@@ -9636,6 +9685,34 @@
     {
       "id": "svg-orphan-hsc-biology-1st-paper-chapter-03-set-07-q02",
       "file": "images/quiz/premium/hsc-biology-1st-paper-chapter-03-set-07-q02.svg",
+      "severity": "MEDIUM",
+      "category": "unused_orphan_svg",
+      "needs_manual_review": false
+    },
+    {
+      "id": "svg-orphan-hsc-biology-1st-paper-chapter-03-set-09-q19",
+      "file": "images/quiz/premium/hsc-biology-1st-paper-chapter-03-set-09-q19.svg",
+      "severity": "MEDIUM",
+      "category": "unused_orphan_svg",
+      "needs_manual_review": false
+    },
+    {
+      "id": "svg-orphan-hsc-biology-1st-paper-chapter-03-set-09-q20",
+      "file": "images/quiz/premium/hsc-biology-1st-paper-chapter-03-set-09-q20.svg",
+      "severity": "MEDIUM",
+      "category": "unused_orphan_svg",
+      "needs_manual_review": false
+    },
+    {
+      "id": "svg-orphan-hsc-biology-1st-paper-chapter-03-set-10-q02",
+      "file": "images/quiz/premium/hsc-biology-1st-paper-chapter-03-set-10-q02.svg",
+      "severity": "MEDIUM",
+      "category": "unused_orphan_svg",
+      "needs_manual_review": false
+    },
+    {
+      "id": "svg-orphan-hsc-biology-1st-paper-chapter-03-set-10-q03",
+      "file": "images/quiz/premium/hsc-biology-1st-paper-chapter-03-set-10-q03.svg",
       "severity": "MEDIUM",
       "category": "unused_orphan_svg",
       "needs_manual_review": false
@@ -9676,6 +9753,13 @@
       "needs_manual_review": false
     },
     {
+      "id": "svg-orphan-hsc-biology-1st-paper-chapter-08-set-01-q03",
+      "file": "images/quiz/premium/hsc-biology-1st-paper-chapter-08-set-01-q03.svg",
+      "severity": "MEDIUM",
+      "category": "unused_orphan_svg",
+      "needs_manual_review": false
+    },
+    {
       "id": "svg-orphan-hsc-biology-1st-paper-chapter-08-set-01-q09",
       "file": "images/quiz/premium/hsc-biology-1st-paper-chapter-08-set-01-q09.svg",
       "severity": "MEDIUM",
@@ -9697,6 +9781,13 @@
       "needs_manual_review": false
     },
     {
+      "id": "svg-orphan-hsc-biology-1st-paper-chapter-08-set-06-q12",
+      "file": "images/quiz/premium/hsc-biology-1st-paper-chapter-08-set-06-q12.svg",
+      "severity": "MEDIUM",
+      "category": "unused_orphan_svg",
+      "needs_manual_review": false
+    },
+    {
       "id": "svg-orphan-hsc-biology-1st-paper-chapter-08-set-06-q14",
       "file": "images/quiz/premium/hsc-biology-1st-paper-chapter-08-set-06-q14.svg",
       "severity": "MEDIUM",
@@ -9713,6 +9804,111 @@
     {
       "id": "svg-orphan-hsc-biology-1st-paper-chapter-08-set-07-q08",
       "file": "images/quiz/premium/hsc-biology-1st-paper-chapter-08-set-07-q08.svg",
+      "severity": "MEDIUM",
+      "category": "unused_orphan_svg",
+      "needs_manual_review": false
+    },
+    {
+      "id": "svg-orphan-hsc-biology-1st-paper-chapter-09-set-01-q01",
+      "file": "images/quiz/premium/hsc-biology-1st-paper-chapter-09-set-01-q01.svg",
+      "severity": "MEDIUM",
+      "category": "unused_orphan_svg",
+      "needs_manual_review": false
+    },
+    {
+      "id": "svg-orphan-hsc-biology-1st-paper-chapter-09-set-01-q02",
+      "file": "images/quiz/premium/hsc-biology-1st-paper-chapter-09-set-01-q02.svg",
+      "severity": "MEDIUM",
+      "category": "unused_orphan_svg",
+      "needs_manual_review": false
+    },
+    {
+      "id": "svg-orphan-hsc-biology-1st-paper-chapter-09-set-01-q07",
+      "file": "images/quiz/premium/hsc-biology-1st-paper-chapter-09-set-01-q07.svg",
+      "severity": "MEDIUM",
+      "category": "unused_orphan_svg",
+      "needs_manual_review": false
+    },
+    {
+      "id": "svg-orphan-hsc-biology-1st-paper-chapter-09-set-01-q12",
+      "file": "images/quiz/premium/hsc-biology-1st-paper-chapter-09-set-01-q12.svg",
+      "severity": "MEDIUM",
+      "category": "unused_orphan_svg",
+      "needs_manual_review": false
+    },
+    {
+      "id": "svg-orphan-hsc-biology-1st-paper-chapter-09-set-01-q13",
+      "file": "images/quiz/premium/hsc-biology-1st-paper-chapter-09-set-01-q13.svg",
+      "severity": "MEDIUM",
+      "category": "unused_orphan_svg",
+      "needs_manual_review": false
+    },
+    {
+      "id": "svg-orphan-hsc-biology-1st-paper-chapter-09-set-01-q14",
+      "file": "images/quiz/premium/hsc-biology-1st-paper-chapter-09-set-01-q14.svg",
+      "severity": "MEDIUM",
+      "category": "unused_orphan_svg",
+      "needs_manual_review": false
+    },
+    {
+      "id": "svg-orphan-hsc-biology-1st-paper-chapter-09-set-01-q19",
+      "file": "images/quiz/premium/hsc-biology-1st-paper-chapter-09-set-01-q19.svg",
+      "severity": "MEDIUM",
+      "category": "unused_orphan_svg",
+      "needs_manual_review": false
+    },
+    {
+      "id": "svg-orphan-hsc-biology-1st-paper-chapter-09-set-06-q01",
+      "file": "images/quiz/premium/hsc-biology-1st-paper-chapter-09-set-06-q01.svg",
+      "severity": "MEDIUM",
+      "category": "unused_orphan_svg",
+      "needs_manual_review": false
+    },
+    {
+      "id": "svg-orphan-hsc-biology-1st-paper-chapter-09-set-06-q05",
+      "file": "images/quiz/premium/hsc-biology-1st-paper-chapter-09-set-06-q05.svg",
+      "severity": "MEDIUM",
+      "category": "unused_orphan_svg",
+      "needs_manual_review": false
+    },
+    {
+      "id": "svg-orphan-hsc-biology-1st-paper-chapter-09-set-06-q06",
+      "file": "images/quiz/premium/hsc-biology-1st-paper-chapter-09-set-06-q06.svg",
+      "severity": "MEDIUM",
+      "category": "unused_orphan_svg",
+      "needs_manual_review": false
+    },
+    {
+      "id": "svg-orphan-hsc-biology-1st-paper-chapter-09-set-06-q08",
+      "file": "images/quiz/premium/hsc-biology-1st-paper-chapter-09-set-06-q08.svg",
+      "severity": "MEDIUM",
+      "category": "unused_orphan_svg",
+      "needs_manual_review": false
+    },
+    {
+      "id": "svg-orphan-hsc-biology-1st-paper-chapter-09-set-06-q09",
+      "file": "images/quiz/premium/hsc-biology-1st-paper-chapter-09-set-06-q09.svg",
+      "severity": "MEDIUM",
+      "category": "unused_orphan_svg",
+      "needs_manual_review": false
+    },
+    {
+      "id": "svg-orphan-hsc-biology-1st-paper-chapter-09-set-06-q10",
+      "file": "images/quiz/premium/hsc-biology-1st-paper-chapter-09-set-06-q10.svg",
+      "severity": "MEDIUM",
+      "category": "unused_orphan_svg",
+      "needs_manual_review": false
+    },
+    {
+      "id": "svg-orphan-hsc-biology-1st-paper-chapter-09-set-06-q11",
+      "file": "images/quiz/premium/hsc-biology-1st-paper-chapter-09-set-06-q11.svg",
+      "severity": "MEDIUM",
+      "category": "unused_orphan_svg",
+      "needs_manual_review": false
+    },
+    {
+      "id": "svg-orphan-hsc-biology-1st-paper-chapter-09-set-06-q12",
+      "file": "images/quiz/premium/hsc-biology-1st-paper-chapter-09-set-06-q12.svg",
       "severity": "MEDIUM",
       "category": "unused_orphan_svg",
       "needs_manual_review": false
@@ -9844,8 +10040,36 @@
       "needs_manual_review": false
     },
     {
+      "id": "svg-orphan-hsc-chemistry-1st-paper-chapter-01-high-priority-set-01-q02",
+      "file": "images/quiz/premium/hsc-chemistry-1st-paper-chapter-01-high-priority-set-01-q02.svg",
+      "severity": "MEDIUM",
+      "category": "unused_orphan_svg",
+      "needs_manual_review": false
+    },
+    {
+      "id": "svg-orphan-hsc-chemistry-1st-paper-chapter-01-high-priority-set-02-q23",
+      "file": "images/quiz/premium/hsc-chemistry-1st-paper-chapter-01-high-priority-set-02-q23.svg",
+      "severity": "MEDIUM",
+      "category": "unused_orphan_svg",
+      "needs_manual_review": false
+    },
+    {
+      "id": "svg-orphan-hsc-chemistry-1st-paper-chapter-01-high-priority-set-04-q19",
+      "file": "images/quiz/premium/hsc-chemistry-1st-paper-chapter-01-high-priority-set-04-q19.svg",
+      "severity": "MEDIUM",
+      "category": "unused_orphan_svg",
+      "needs_manual_review": false
+    },
+    {
       "id": "svg-orphan-hsc-chemistry-1st-paper-chapter-03-high-priority-set-01-q14",
       "file": "images/quiz/premium/hsc-chemistry-1st-paper-chapter-03-high-priority-set-01-q14.svg",
+      "severity": "MEDIUM",
+      "category": "unused_orphan_svg",
+      "needs_manual_review": false
+    },
+    {
+      "id": "svg-orphan-hsc-chemistry-1st-paper-chapter-04-high-priority-set-01-q16",
+      "file": "images/quiz/premium/hsc-chemistry-1st-paper-chapter-04-high-priority-set-01-q16.svg",
       "severity": "MEDIUM",
       "category": "unused_orphan_svg",
       "needs_manual_review": false
@@ -14828,6 +15052,20 @@
       "needs_manual_review": false
     },
     {
+      "id": "svg-orphan-hsc-physics-2nd-paper-tier-a-set-02-q03",
+      "file": "images/quiz/premium/hsc-physics-2nd-paper-tier-a-set-02-q03.svg",
+      "severity": "MEDIUM",
+      "category": "unused_orphan_svg",
+      "needs_manual_review": false
+    },
+    {
+      "id": "svg-orphan-hsc-physics-2nd-paper-tier-a-set-05-q04",
+      "file": "images/quiz/premium/hsc-physics-2nd-paper-tier-a-set-05-q04.svg",
+      "severity": "MEDIUM",
+      "category": "unused_orphan_svg",
+      "needs_manual_review": false
+    },
+    {
       "id": "svg-orphan-hsc-physics_2ndpaper-chapter-01-set-02-q21",
       "file": "images/quiz/premium/hsc-physics_2ndpaper-chapter-01-set-02-q21.svg",
       "severity": "MEDIUM",
@@ -18405,6 +18643,13 @@
       "needs_manual_review": false
     },
     {
+      "id": "svg-orphan-physics-ssc-science-physics-board-questions-year-wise-2024-mymensingh-ts-2",
+      "file": "images/quiz/premium/physics-ssc-science-physics-board-questions-year-wise-2024-mymensingh-ts-2.svg",
+      "severity": "MEDIUM",
+      "category": "unused_orphan_svg",
+      "needs_manual_review": false
+    },
+    {
       "id": "svg-orphan-physics-ssc-science-physics-board-questions-year-wise-2024-mymensingh-ts-4",
       "file": "images/quiz/premium/physics-ssc-science-physics-board-questions-year-wise-2024-mymensingh-ts-4.svg",
       "severity": "MEDIUM",
@@ -18463,6 +18708,13 @@
     {
       "id": "svg-orphan-physics-ssc-science-physics-board-questions-year-wise-2024-sylhet-ts-8",
       "file": "images/quiz/premium/physics-ssc-science-physics-board-questions-year-wise-2024-sylhet-ts-8.svg",
+      "severity": "MEDIUM",
+      "category": "unused_orphan_svg",
+      "needs_manual_review": false
+    },
+    {
+      "id": "svg-orphan-physics-ssc-science-physics-board-questions-year-wise-2025-barishal-ts-16",
+      "file": "images/quiz/premium/physics-ssc-science-physics-board-questions-year-wise-2025-barishal-ts-16.svg",
       "severity": "MEDIUM",
       "category": "unused_orphan_svg",
       "needs_manual_review": false
@@ -19182,8 +19434,36 @@
       "needs_manual_review": false
     },
     {
+      "id": "svg-orphan-ssc-biology-board-standard-model-test-01-q08",
+      "file": "images/quiz/premium/ssc-biology-board-standard-model-test-01-q08.svg",
+      "severity": "MEDIUM",
+      "category": "unused_orphan_svg",
+      "needs_manual_review": false
+    },
+    {
+      "id": "svg-orphan-ssc-biology-board-standard-model-test-01-q09",
+      "file": "images/quiz/premium/ssc-biology-board-standard-model-test-01-q09.svg",
+      "severity": "MEDIUM",
+      "category": "unused_orphan_svg",
+      "needs_manual_review": false
+    },
+    {
       "id": "svg-orphan-ssc-biology-board-standard-model-test-01-q22",
       "file": "images/quiz/premium/ssc-biology-board-standard-model-test-01-q22.svg",
+      "severity": "MEDIUM",
+      "category": "unused_orphan_svg",
+      "needs_manual_review": false
+    },
+    {
+      "id": "svg-orphan-ssc-biology-board-standard-model-test-02-q01",
+      "file": "images/quiz/premium/ssc-biology-board-standard-model-test-02-q01.svg",
+      "severity": "MEDIUM",
+      "category": "unused_orphan_svg",
+      "needs_manual_review": false
+    },
+    {
+      "id": "svg-orphan-ssc-biology-board-standard-model-test-02-q02",
+      "file": "images/quiz/premium/ssc-biology-board-standard-model-test-02-q02.svg",
       "severity": "MEDIUM",
       "category": "unused_orphan_svg",
       "needs_manual_review": false
@@ -19567,8 +19847,29 @@
       "needs_manual_review": false
     },
     {
+      "id": "svg-orphan-ssc-physics-chapter-01-model-test-01-q03",
+      "file": "images/quiz/premium/ssc-physics-chapter-01-model-test-01-q03.svg",
+      "severity": "MEDIUM",
+      "category": "unused_orphan_svg",
+      "needs_manual_review": false
+    },
+    {
+      "id": "svg-orphan-ssc-physics-chapter-01-model-test-01-q23",
+      "file": "images/quiz/premium/ssc-physics-chapter-01-model-test-01-q23.svg",
+      "severity": "MEDIUM",
+      "category": "unused_orphan_svg",
+      "needs_manual_review": false
+    },
+    {
       "id": "svg-orphan-ssc-physics-chapter-01-model-test-02-q07",
       "file": "images/quiz/premium/ssc-physics-chapter-01-model-test-02-q07.svg",
+      "severity": "MEDIUM",
+      "category": "unused_orphan_svg",
+      "needs_manual_review": false
+    },
+    {
+      "id": "svg-orphan-ssc-physics-chapter-01-model-test-02-q08",
+      "file": "images/quiz/premium/ssc-physics-chapter-01-model-test-02-q08.svg",
       "severity": "MEDIUM",
       "category": "unused_orphan_svg",
       "needs_manual_review": false
@@ -19875,6 +20176,13 @@
       "needs_manual_review": false
     },
     {
+      "id": "svg-orphan-ssc-physics-chapter-05-model-test-01-q07",
+      "file": "images/quiz/premium/ssc-physics-chapter-05-model-test-01-q07.svg",
+      "severity": "MEDIUM",
+      "category": "unused_orphan_svg",
+      "needs_manual_review": false
+    },
+    {
       "id": "svg-orphan-ssc-physics-chapter-05-model-test-01-q13",
       "file": "images/quiz/premium/ssc-physics-chapter-05-model-test-01-q13.svg",
       "severity": "MEDIUM",
@@ -19884,6 +20192,13 @@
     {
       "id": "svg-orphan-ssc-physics-chapter-05-model-test-04-q25",
       "file": "images/quiz/premium/ssc-physics-chapter-05-model-test-04-q25.svg",
+      "severity": "MEDIUM",
+      "category": "unused_orphan_svg",
+      "needs_manual_review": false
+    },
+    {
+      "id": "svg-orphan-ssc-physics-chapter-05-model-test-05-q25",
+      "file": "images/quiz/premium/ssc-physics-chapter-05-model-test-05-q25.svg",
       "severity": "MEDIUM",
       "category": "unused_orphan_svg",
       "needs_manual_review": false
@@ -20344,6 +20659,13 @@
       "needs_manual_review": false
     },
     {
+      "id": "svg-orphan-ssc-physics-chapter-09-model-test-01-q11",
+      "file": "images/quiz/premium/ssc-physics-chapter-09-model-test-01-q11.svg",
+      "severity": "MEDIUM",
+      "category": "unused_orphan_svg",
+      "needs_manual_review": false
+    },
+    {
       "id": "svg-orphan-ssc-physics-chapter-09-model-test-02-q16",
       "file": "images/quiz/premium/ssc-physics-chapter-09-model-test-02-q16.svg",
       "severity": "MEDIUM",
@@ -20367,6 +20689,13 @@
     {
       "id": "svg-orphan-ssc-physics-chapter-09-model-test-02-q24",
       "file": "images/quiz/premium/ssc-physics-chapter-09-model-test-02-q24.svg",
+      "severity": "MEDIUM",
+      "category": "unused_orphan_svg",
+      "needs_manual_review": false
+    },
+    {
+      "id": "svg-orphan-ssc-physics-chapter-09-model-test-02-q25",
+      "file": "images/quiz/premium/ssc-physics-chapter-09-model-test-02-q25.svg",
       "severity": "MEDIUM",
       "category": "unused_orphan_svg",
       "needs_manual_review": false
@@ -20400,6 +20729,13 @@
       "needs_manual_review": false
     },
     {
+      "id": "svg-orphan-ssc-physics-chapter-09-model-test-03-q10",
+      "file": "images/quiz/premium/ssc-physics-chapter-09-model-test-03-q10.svg",
+      "severity": "MEDIUM",
+      "category": "unused_orphan_svg",
+      "needs_manual_review": false
+    },
+    {
       "id": "svg-orphan-ssc-physics-chapter-09-model-test-04-q15",
       "file": "images/quiz/premium/ssc-physics-chapter-09-model-test-04-q15.svg",
       "severity": "MEDIUM",
@@ -20428,6 +20764,13 @@
       "needs_manual_review": false
     },
     {
+      "id": "svg-orphan-ssc-physics-chapter-09-model-test-04-q24",
+      "file": "images/quiz/premium/ssc-physics-chapter-09-model-test-04-q24.svg",
+      "severity": "MEDIUM",
+      "category": "unused_orphan_svg",
+      "needs_manual_review": false
+    },
+    {
       "id": "svg-orphan-ssc-physics-chapter-09-model-test-05-q04",
       "file": "images/quiz/premium/ssc-physics-chapter-09-model-test-05-q04.svg",
       "severity": "MEDIUM",
@@ -20444,6 +20787,13 @@
     {
       "id": "svg-orphan-ssc-physics-chapter-09-model-test-05-q08",
       "file": "images/quiz/premium/ssc-physics-chapter-09-model-test-05-q08.svg",
+      "severity": "MEDIUM",
+      "category": "unused_orphan_svg",
+      "needs_manual_review": false
+    },
+    {
+      "id": "svg-orphan-ssc-physics-chapter-09-model-test-05-q09",
+      "file": "images/quiz/premium/ssc-physics-chapter-09-model-test-05-q09.svg",
       "severity": "MEDIUM",
       "category": "unused_orphan_svg",
       "needs_manual_review": false
@@ -20722,6 +21072,20 @@
       "needs_manual_review": false
     },
     {
+      "id": "svg-orphan-ssc-physics-chapter-11-model-test-01-q18",
+      "file": "images/quiz/premium/ssc-physics-chapter-11-model-test-01-q18.svg",
+      "severity": "MEDIUM",
+      "category": "unused_orphan_svg",
+      "needs_manual_review": false
+    },
+    {
+      "id": "svg-orphan-ssc-physics-chapter-11-model-test-01-q19",
+      "file": "images/quiz/premium/ssc-physics-chapter-11-model-test-01-q19.svg",
+      "severity": "MEDIUM",
+      "category": "unused_orphan_svg",
+      "needs_manual_review": false
+    },
+    {
       "id": "svg-orphan-ssc-physics-chapter-11-model-test-01-q20",
       "file": "images/quiz/premium/ssc-physics-chapter-11-model-test-01-q20.svg",
       "severity": "MEDIUM",
@@ -20738,6 +21102,20 @@
     {
       "id": "svg-orphan-ssc-physics-chapter-11-model-test-02-q01",
       "file": "images/quiz/premium/ssc-physics-chapter-11-model-test-02-q01.svg",
+      "severity": "MEDIUM",
+      "category": "unused_orphan_svg",
+      "needs_manual_review": false
+    },
+    {
+      "id": "svg-orphan-ssc-physics-chapter-11-model-test-02-q03",
+      "file": "images/quiz/premium/ssc-physics-chapter-11-model-test-02-q03.svg",
+      "severity": "MEDIUM",
+      "category": "unused_orphan_svg",
+      "needs_manual_review": false
+    },
+    {
+      "id": "svg-orphan-ssc-physics-chapter-11-model-test-02-q04",
+      "file": "images/quiz/premium/ssc-physics-chapter-11-model-test-02-q04.svg",
       "severity": "MEDIUM",
       "category": "unused_orphan_svg",
       "needs_manual_review": false
@@ -21856,22 +22234,8 @@
       "needs_manual_review": false
     },
     {
-      "id": "svg-orphan-ssc-concave-mirror-principal",
-      "file": "images/quiz/ssc-concave-mirror-principal.svg",
-      "severity": "MEDIUM",
-      "category": "unused_orphan_svg",
-      "needs_manual_review": false
-    },
-    {
       "id": "svg-orphan-ssc-current-junction",
       "file": "images/quiz/ssc-current-junction.svg",
-      "severity": "MEDIUM",
-      "category": "unused_orphan_svg",
-      "needs_manual_review": false
-    },
-    {
-      "id": "svg-orphan-ssc-electrostatic-induction",
-      "file": "images/quiz/ssc-electrostatic-induction.svg",
       "severity": "MEDIUM",
       "category": "unused_orphan_svg",
       "needs_manual_review": false

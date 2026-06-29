@@ -3,12 +3,12 @@
     "id": "ssc-chemistry-chapter-09-model-test-01-q01",
     "subject": "chemistry",
     "chapter": "ssc-chemistry-chapter-09-model-test-01",
-    "text": "জৈব যৌগের প্রধান উপাদান কোনটি?",
+    "text": "কিটোনের কার্যকরী মূলক?",
     "options": [
-      "নাইট্রোজেন",
-      "কার্বন",
-      "হাইড্রোজেন",
-      "অক্সিজেন"
+      ">C=O",
+      "-COOH",
+      "-OH",
+      "-CHO"
     ],
     "image": null,
     "optionImages": null,
@@ -18,12 +18,12 @@
     "id": "ssc-chemistry-chapter-09-model-test-01-q02",
     "subject": "chemistry",
     "chapter": "ssc-chemistry-chapter-09-model-test-01",
-    "text": "কার্বনের সাধারণ যোজনী?",
+    "text": "বেনজিন কোন শ্রেণির যৌগ?",
     "options": [
-      "৪",
-      "১",
-      "৩",
-      "২"
+      "অ্যালকাইন",
+      "অ্যারোম্যাটিক",
+      "অ্যালকোহল",
+      "অ্যালকেন"
     ],
     "image": null,
     "optionImages": null,
@@ -33,12 +33,12 @@
     "id": "ssc-chemistry-chapter-09-model-test-01-q03",
     "subject": "chemistry",
     "chapter": "ssc-chemistry-chapter-09-model-test-01",
-    "text": "C₂H₅OH কী?",
+    "text": "অ্যালকোহলের কার্যকরী মূলক?",
     "options": [
-      "অ্যালকোহল",
-      "অ্যালডিহাইড",
-      "অম্ল",
-      "ইথার"
+      ">C=O",
+      "-OH",
+      "-COOH",
+      "-CHO"
     ],
     "image": null,
     "optionImages": null,
@@ -48,12 +48,12 @@
     "id": "ssc-chemistry-chapter-09-model-test-01-q04",
     "subject": "chemistry",
     "chapter": "ssc-chemistry-chapter-09-model-test-01",
-    "text": "হাইড্রোকার্বনে থাকে?",
+    "text": "মিথেনের সংকেত কোনটি?",
     "options": [
-      "C ও O",
-      "H ও O",
-      "Na ও Cl",
-      "C ও H"
+      "C₂H₂",
+      "C₂H₆",
+      "C₂H₄",
+      "CH₄"
     ],
     "image": null,
     "optionImages": null,
@@ -63,12 +63,12 @@
     "id": "ssc-chemistry-chapter-09-model-test-01-q05",
     "subject": "chemistry",
     "chapter": "ssc-chemistry-chapter-09-model-test-01",
-    "text": "জৈব যৌগের মূল উপাদান?",
+    "text": "HCHO কোন শ্রেণি?",
     "options": [
-      "কার্বন",
-      "সোডিয়াম",
-      "আয়রন",
-      "ক্লোরিন"
+      "অ্যালকোহল",
+      "ইথার",
+      "কিটোন",
+      "অ্যালডিহাইড"
     ],
     "image": null,
     "optionImages": null,
@@ -78,12 +78,12 @@
     "id": "ssc-chemistry-chapter-09-model-test-01-q06",
     "subject": "chemistry",
     "chapter": "ssc-chemistry-chapter-09-model-test-01",
-    "text": "C3H8 কোন শ্রেণি?",
+    "text": "C₃H₈ কোন শ্রেণি?",
     "options": [
       "অ্যালকোহল",
-      "অ্যাসিড",
       "অ্যালকাইন",
-      "অ্যালকেন"
+      "অ্যালকেন",
+      "অ্যাসিড"
     ],
     "image": null,
     "optionImages": null,
@@ -93,12 +93,12 @@
     "id": "ssc-chemistry-chapter-09-model-test-01-q07",
     "subject": "chemistry",
     "chapter": "ssc-chemistry-chapter-09-model-test-01",
-    "text": "C1H4 কোন শ্রেণি? [7]",
+    "text": "C₂H₆ কোন শ্রেণি?",
     "options": [
-      "অ্যালকোহল",
-      "অ্যাসিড",
+      "ইথার",
       "অ্যালকাইন",
-      "অ্যালকেন"
+      "অ্যালকেন",
+      "অ্যালকোহল"
     ],
     "image": null,
     "optionImages": null,
@@ -108,12 +108,12 @@
     "id": "ssc-chemistry-chapter-09-model-test-01-q08",
     "subject": "chemistry",
     "chapter": "ssc-chemistry-chapter-09-model-test-01",
-    "text": "কার্বনের সাধারণ যোজনী? [8]",
+    "text": "প্রোপিনের সংকেত কোনটি?",
     "options": [
-      "৪",
-      "৩",
-      "১",
-      "২"
+      "C₃H₆",
+      "C₃H₇OH",
+      "C₃H₈",
+      "C₃H₄"
     ],
     "image": null,
     "optionImages": null,
@@ -123,12 +123,12 @@
     "id": "ssc-chemistry-chapter-09-model-test-01-q09",
     "subject": "chemistry",
     "chapter": "ssc-chemistry-chapter-09-model-test-01",
-    "text": "C₂H₅OH কী? [9]",
+    "text": "ইথারের সাধারণ কার্যকরী মূলক?",
     "options": [
-      "ইথার",
-      "অ্যালকোহল",
-      "অ্যালডিহাইড",
-      "অম্ল"
+      "-CHO",
+      "-COOH",
+      "R-O-R",
+      "-OH"
     ],
     "image": null,
     "optionImages": null,
@@ -138,12 +138,12 @@
     "id": "ssc-chemistry-chapter-09-model-test-01-q10",
     "subject": "chemistry",
     "chapter": "ssc-chemistry-chapter-09-model-test-01",
-    "text": "হাইড্রোকার্বনে থাকে? [10]",
+    "text": "সাধারণ অ্যালকেনের সাধারণ সংকেত?",
     "options": [
-      "Na ও Cl",
-      "C ও H",
-      "H ও O",
-      "C ও O"
+      "CₙH₂ₙ₋₂",
+      "CₙH₂ₙ₊₁OH",
+      "CₙH₂ₙ",
+      "CₙH₂ₙ₊₂"
     ],
     "image": null,
     "optionImages": null,
@@ -153,12 +153,12 @@
     "id": "ssc-chemistry-chapter-09-model-test-01-q11",
     "subject": "chemistry",
     "chapter": "ssc-chemistry-chapter-09-model-test-01",
-    "text": "জৈব যৌগের মূল উপাদান? [11]",
+    "text": "অ্যালডিহাইডের কার্যকরী মূলক?",
     "options": [
-      "কার্বন",
-      "আয়রন",
-      "সোডিয়াম",
-      "ক্লোরিন"
+      "-COOH",
+      "C=C",
+      "-OH",
+      "-CHO"
     ],
     "image": null,
     "optionImages": null,
@@ -168,12 +168,12 @@
     "id": "ssc-chemistry-chapter-09-model-test-01-q12",
     "subject": "chemistry",
     "chapter": "ssc-chemistry-chapter-09-model-test-01",
-    "text": "C1H4 কোন শ্রেণি? [12]",
+    "text": "ইথেনের সংকেত কোনটি?",
     "options": [
-      "অ্যাসিড",
-      "অ্যালকোহল",
-      "অ্যালকাইন",
-      "অ্যালকেন"
+      "C₂H₄",
+      "C₂H₆",
+      "CH₄",
+      "C₂H₂"
     ],
     "image": null,
     "optionImages": null,
@@ -183,12 +183,12 @@
     "id": "ssc-chemistry-chapter-09-model-test-01-q13",
     "subject": "chemistry",
     "chapter": "ssc-chemistry-chapter-09-model-test-01",
-    "text": "কার্বনের সাধারণ যোজনী? [13]",
+    "text": "CH₃COOH কী?",
     "options": [
-      "১",
-      "৪",
-      "২",
-      "৩"
+      "অ্যালকোহল",
+      "কার্বক্সিলিক অ্যাসিড",
+      "ইথার",
+      "অ্যালডিহাইড"
     ],
     "image": null,
     "optionImages": null,
@@ -198,67 +198,7 @@
     "id": "ssc-chemistry-chapter-09-model-test-01-q14",
     "subject": "chemistry",
     "chapter": "ssc-chemistry-chapter-09-model-test-01",
-    "text": "C₂H₅OH কী? [14]",
-    "options": [
-      "অম্ল",
-      "অ্যালডিহাইড",
-      "ইথার",
-      "অ্যালকোহল"
-    ],
-    "image": null,
-    "optionImages": null,
-    "timeLimit": 45
-  },
-  {
-    "id": "ssc-chemistry-chapter-09-model-test-01-q15",
-    "subject": "chemistry",
-    "chapter": "ssc-chemistry-chapter-09-model-test-01",
-    "text": "হাইড্রোকার্বনে থাকে? [15]",
-    "options": [
-      "C ও H",
-      "H ও O",
-      "Na ও Cl",
-      "C ও O"
-    ],
-    "image": null,
-    "optionImages": null,
-    "timeLimit": 45
-  },
-  {
-    "id": "ssc-chemistry-chapter-09-model-test-01-q16",
-    "subject": "chemistry",
-    "chapter": "ssc-chemistry-chapter-09-model-test-01",
-    "text": "জৈব যৌগের মূল উপাদান? [16]",
-    "options": [
-      "সোডিয়াম",
-      "কার্বন",
-      "ক্লোরিন",
-      "আয়রন"
-    ],
-    "image": null,
-    "optionImages": null,
-    "timeLimit": 45
-  },
-  {
-    "id": "ssc-chemistry-chapter-09-model-test-01-q17",
-    "subject": "chemistry",
-    "chapter": "ssc-chemistry-chapter-09-model-test-01",
-    "text": "C1H4 কোন শ্রেণি? [17]",
-    "options": [
-      "অ্যালকেন",
-      "অ্যাসিড",
-      "অ্যালকোহল",
-      "অ্যালকাইন"
-    ],
-    "image": null,
-    "optionImages": null,
-    "timeLimit": 45
-  },
-  {
-    "id": "ssc-chemistry-chapter-09-model-test-01-q18",
-    "subject": "chemistry",
-    "chapter": "ssc-chemistry-chapter-09-model-test-01",
-    "text": "কার্বনের সাধারণ যোজনী? [18]",
+    "text": "কার্বনের সাধারণ যোজনী?",
     "options": [
       "৪",
       "২",
@@ -270,15 +210,75 @@
     "timeLimit": 45
   },
   {
+    "id": "ssc-chemistry-chapter-09-model-test-01-q15",
+    "subject": "chemistry",
+    "chapter": "ssc-chemistry-chapter-09-model-test-01",
+    "text": "C₂H₄ কোন শ্রেণি?",
+    "options": [
+      "অ্যালকিন",
+      "অ্যালকোহল",
+      "অ্যালকাইন",
+      "অ্যালকেন"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-chemistry-chapter-09-model-test-01-q16",
+    "subject": "chemistry",
+    "chapter": "ssc-chemistry-chapter-09-model-test-01",
+    "text": "জৈব যৌগের মূল উপাদান?",
+    "options": [
+      "আয়রন",
+      "কার্বন",
+      "ক্লোরিন",
+      "সোডিয়াম"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-chemistry-chapter-09-model-test-01-q17",
+    "subject": "chemistry",
+    "chapter": "ssc-chemistry-chapter-09-model-test-01",
+    "text": "কোনটি অম্লীয় কার্যকরী মূলক?",
+    "options": [
+      "C-H",
+      "-OH",
+      "C=C",
+      "-COOH"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-chemistry-chapter-09-model-test-01-q18",
+    "subject": "chemistry",
+    "chapter": "ssc-chemistry-chapter-09-model-test-01",
+    "text": "সাধারণ অ্যালকিনের সাধারণ সংকেত?",
+    "options": [
+      "CₙH₂ₙ₊₂",
+      "CₙH₂ₙ₋₂",
+      "CₙH₂ₙ",
+      "CₙH₂ₙOH"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
     "id": "ssc-chemistry-chapter-09-model-test-01-q19",
     "subject": "chemistry",
     "chapter": "ssc-chemistry-chapter-09-model-test-01",
-    "text": "C₂H₅OH কী? [19]",
+    "text": "কার্বক্সিলিক অ্যাসিডের কার্যকরী মূলক?",
     "options": [
-      "অ্যালডিহাইড",
-      "অম্ল",
-      "ইথার",
-      "অ্যালকোহল"
+      "-OH",
+      "-CHO",
+      "-COOH",
+      "C≡C"
     ],
     "image": null,
     "optionImages": null,
@@ -288,12 +288,12 @@
     "id": "ssc-chemistry-chapter-09-model-test-01-q20",
     "subject": "chemistry",
     "chapter": "ssc-chemistry-chapter-09-model-test-01",
-    "text": "হাইড্রোকার্বনে থাকে? [20]",
+    "text": "ইথাইনের সংকেত কোনটি?",
     "options": [
-      "C ও O",
-      "C ও H",
-      "H ও O",
-      "Na ও Cl"
+      "C₂H₂",
+      "C₃H₈",
+      "C₂H₄",
+      "CH₄"
     ],
     "image": null,
     "optionImages": null,
@@ -303,12 +303,12 @@
     "id": "ssc-chemistry-chapter-09-model-test-01-q21",
     "subject": "chemistry",
     "chapter": "ssc-chemistry-chapter-09-model-test-01",
-    "text": "জৈব যৌগের মূল উপাদান? [21]",
+    "text": "হাইড্রোকার্বনে থাকে?",
     "options": [
-      "ক্লোরিন",
-      "সোডিয়াম",
-      "কার্বন",
-      "আয়রন"
+      "Na ও Cl",
+      "C ও H",
+      "H ও O",
+      "C ও O"
     ],
     "image": null,
     "optionImages": null,
@@ -318,12 +318,12 @@
     "id": "ssc-chemistry-chapter-09-model-test-01-q22",
     "subject": "chemistry",
     "chapter": "ssc-chemistry-chapter-09-model-test-01",
-    "text": "C1H4 কোন শ্রেণি? [22]",
+    "text": "C₂H₅OH কী?",
     "options": [
-      "অ্যাসিড",
       "অ্যালকোহল",
-      "অ্যালকেন",
-      "অ্যালকাইন"
+      "ইথার",
+      "অম্ল",
+      "অ্যালডিহাইড"
     ],
     "image": null,
     "optionImages": null,
@@ -333,12 +333,12 @@
     "id": "ssc-chemistry-chapter-09-model-test-01-q23",
     "subject": "chemistry",
     "chapter": "ssc-chemistry-chapter-09-model-test-01",
-    "text": "কার্বনের সাধারণ যোজনী? [23]",
+    "text": "C₂H₂ কোন শ্রেণি?",
     "options": [
-      "২",
-      "৩",
-      "৪",
-      "১"
+      "অ্যাসিড",
+      "অ্যালকিন",
+      "অ্যালকেন",
+      "অ্যালকাইন"
     ],
     "image": null,
     "optionImages": null,
@@ -348,12 +348,12 @@
     "id": "ssc-chemistry-chapter-09-model-test-01-q24",
     "subject": "chemistry",
     "chapter": "ssc-chemistry-chapter-09-model-test-01",
-    "text": "C₂H₅OH কী? [24]",
+    "text": "CH₄ কোন শ্রেণির যৌগ?",
     "options": [
-      "ইথার",
-      "অ্যালডিহাইড",
-      "অম্ল",
-      "অ্যালকোহল"
+      "অ্যালকাইন",
+      "অ্যাসিড",
+      "অ্যালকোহল",
+      "অ্যালকেন"
     ],
     "image": null,
     "optionImages": null,
@@ -363,12 +363,12 @@
     "id": "ssc-chemistry-chapter-09-model-test-01-q25",
     "subject": "chemistry",
     "chapter": "ssc-chemistry-chapter-09-model-test-01",
-    "text": "হাইড্রোকার্বনে থাকে? [25]",
+    "text": "জৈব যৌগে C-C বন্ধন থাকে?",
     "options": [
-      "C ও O",
-      "H ও O",
-      "C ও H",
-      "Na ও Cl"
+      "হ্যাঁ",
+      "না",
+      "শুধু আয়নিক",
+      "শুধু ধাতব"
     ],
     "image": null,
     "optionImages": null,

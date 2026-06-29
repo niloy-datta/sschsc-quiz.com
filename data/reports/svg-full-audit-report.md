@@ -1,24 +1,24 @@
 # SVG Full Audit Report
 
-Generated: 2026-06-29T00:02:31.719Z
+Generated: 2026-06-29T00:04:27.912Z
 
 ## Summary
 
 - Questions scanned: **56309**
 - Visual questions: **3398**
 - SVG files on disk: **3784**
-- Total issues: **3148**
+- Total issues: **3200**
 - Needs manual review: **57**
 
 ### By severity
 
 - CRITICAL: 301
 - HIGH: 62
-- MEDIUM: 2785
+- MEDIUM: 2837
 
 ### By category
 
-- unused_orphan_svg: 2567
+- unused_orphan_svg: 2619
 - missing_image: 301
 - duplicate_svg_slug: 218
 - placeholder_should_use_library: 62

@@ -20,6 +20,8 @@ function isJunkQuestionText(text) {
   if (/^Balancing equation মানে/i.test(t)) return true;
   if (/^\d+ mol পদার্থে/i.test(t)) return true;
   if (/^x=\d+ হলে মান কত/i.test(t)) return true;
+  if (/ — MCQ \d+ \(সেট \d+\)\??/.test(t)) return true;
+  if (/\s\[\d+\]\s*$/.test(t)) return true;
   return false;
 }
 

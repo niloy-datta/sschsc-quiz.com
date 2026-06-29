@@ -183,7 +183,7 @@
       ]
     },
     "ssc-physics-chapter-04-model-test-03": {
-      "questionCount": 22,
+      "questionCount": 25,
       "scope": "chapter",
       "displayTitle": "অধ্যায় 4 · কাজ, ক্ষমতা ও শক্তি · মডেল টেস্ট 03",
       "durationMinutes": 25,
@@ -200,7 +200,7 @@
       ]
     },
     "ssc-physics-chapter-04-model-test-04": {
-      "questionCount": 24,
+      "questionCount": 25,
       "scope": "chapter",
       "displayTitle": "অধ্যায় 4 · কাজ, ক্ষমতা ও শক্তি · মডেল টেস্ট 04",
       "durationMinutes": 25,
@@ -217,7 +217,7 @@
       ]
     },
     "ssc-physics-chapter-04-model-test-05": {
-      "questionCount": 24,
+      "questionCount": 25,
       "scope": "chapter",
       "displayTitle": "অধ্যায় 4 · কাজ, ক্ষমতা ও শক্তি · মডেল টেস্ট 05",
       "durationMinutes": 25,
@@ -251,7 +251,7 @@
       ]
     },
     "ssc-physics-chapter-05-model-test-02": {
-      "questionCount": 21,
+      "questionCount": 25,
       "scope": "chapter",
       "displayTitle": "অধ্যায় 5 · পদার্থের অবস্থা ও চাপ · মডেল টেস্ট 02",
       "durationMinutes": 25,
@@ -387,7 +387,7 @@
       ]
     },
     "ssc-physics-chapter-08-model-test-02": {
-      "questionCount": 22,
+      "questionCount": 25,
       "scope": "chapter",
       "displayTitle": "অধ্যায় 8 · আলোর প্রতিফলন · মডেল টেস্ট 02",
       "durationMinutes": 25,
@@ -421,7 +421,7 @@
       ]
     },
     "ssc-physics-chapter-11-model-test-01": {
-      "questionCount": 24,
+      "questionCount": 25,
       "scope": "chapter",
       "displayTitle": "অধ্যায় 11 · চল বিদ্যুৎ · মডেল টেস্ট 01",
       "durationMinutes": 25,
@@ -438,7 +438,7 @@
       ]
     },
     "ssc-physics-chapter-11-model-test-05": {
-      "questionCount": 20,
+      "questionCount": 25,
       "scope": "chapter",
       "displayTitle": "অধ্যায় 11 · চল বিদ্যুৎ · মডেল টেস্ট 05",
       "durationMinutes": 25,
@@ -523,7 +523,7 @@
       ]
     },
     "ssc-physics-chapter-02-model-test-05": {
-      "questionCount": 24,
+      "questionCount": 25,
       "scope": "chapter",
       "displayTitle": "অধ্যায় 2 · গতি · মডেল টেস্ট 05",
       "durationMinutes": 25,
@@ -608,7 +608,7 @@
       ]
     },
     "ssc-physics-chapter-06-model-test-03": {
-      "questionCount": 24,
+      "questionCount": 25,
       "scope": "chapter",
       "displayTitle": "অধ্যায় 6 · বস্তুর উপর তাপের প্রভাব · মডেল টেস্ট 03",
       "durationMinutes": 25,
@@ -642,7 +642,7 @@
       ]
     },
     "ssc-physics-chapter-06-model-test-05": {
-      "questionCount": 24,
+      "questionCount": 25,
       "scope": "chapter",
       "displayTitle": "অধ্যায় 6 · বস্তুর উপর তাপের প্রভাব · মডেল টেস্ট 05",
       "durationMinutes": 25,
@@ -1224,6 +1224,142 @@
         {
           "chapter": "13",
           "chapterName": "আধুনিক পদার্থবিজ্ঞান ও ইলেকট্রনিক্স"
+        }
+      ]
+    },
+    "ssc-physics-chapter-12-model-test-02": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "অধ্যায় 12 · বিদ্যুতের চৌম্বক ক্রিয়া · মডেল টেস্ট 02",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "model-test"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "12",
+          "chapterName": "বিদ্যুতের চৌম্বক ক্রিয়া"
+        }
+      ]
+    },
+    "ssc-physics-chapter-12-model-test-03": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "অধ্যায় 12 · বিদ্যুতের চৌম্বক ক্রিয়া · মডেল টেস্ট 03",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "model-test"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "12",
+          "chapterName": "বিদ্যুতের চৌম্বক ক্রিয়া"
+        }
+      ]
+    },
+    "ssc-physics-chapter-12-model-test-04": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "অধ্যায় 12 · বিদ্যুতের চৌম্বক ক্রিয়া · মডেল টেস্ট 04",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "model-test"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "12",
+          "chapterName": "বিদ্যুতের চৌম্বক ক্রিয়া"
+        }
+      ]
+    },
+    "ssc-physics-chapter-12-model-test-05": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "অধ্যায় 12 · বিদ্যুতের চৌম্বক ক্রিয়া · মডেল টেস্ট 05",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "model-test"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "12",
+          "chapterName": "বিদ্যুতের চৌম্বক ক্রিয়া"
+        }
+      ]
+    },
+    "ssc-physics-chapter-14-model-test-02": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "অধ্যায় 14 · জীবন বাঁচাতে পদার্থবিজ্ঞান · মডেল টেস্ট 02",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "model-test"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "14",
+          "chapterName": "জীবন বাঁচাতে পদার্থবিজ্ঞান"
+        }
+      ]
+    },
+    "ssc-physics-chapter-14-model-test-03": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "অধ্যায় 14 · জীবন বাঁচাতে পদার্থবিজ্ঞান · মডেল টেস্ট 03",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "model-test"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "14",
+          "chapterName": "জীবন বাঁচাতে পদার্থবিজ্ঞান"
+        }
+      ]
+    },
+    "ssc-physics-chapter-14-model-test-04": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "অধ্যায় 14 · জীবন বাঁচাতে পদার্থবিজ্ঞান · মডেল টেস্ট 04",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "model-test"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "14",
+          "chapterName": "জীবন বাঁচাতে পদার্থবিজ্ঞান"
+        }
+      ]
+    },
+    "ssc-physics-chapter-14-model-test-05": {
+      "questionCount": 25,
+      "scope": "chapter",
+      "displayTitle": "অধ্যায় 14 · জীবন বাঁচাতে পদার্থবিজ্ঞান · মডেল টেস্ট 05",
+      "durationMinutes": 25,
+      "importance": "high",
+      "tags": [
+        "chapter-wise",
+        "model-test"
+      ],
+      "chaptersCovered": [
+        {
+          "chapter": "14",
+          "chapterName": "জীবন বাঁচাতে পদার্থবিজ্ঞান"
         }
       ]
     }

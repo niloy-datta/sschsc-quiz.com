@@ -3,12 +3,12 @@
     "id": "ssc-chemistry-chapter-07-model-test-01-q01",
     "subject": "chemistry",
     "chapter": "ssc-chemistry-chapter-07-model-test-01",
-    "text": "LiAlH₄ যৌগে হাইড্রোজেনের জারণ মান কত?",
+    "text": "Na → Na⁺ + e⁻ — Na?",
     "options": [
-      "+1",
-      "-1",
-      "+1/2",
-      "-1/2"
+      "অম্ল",
+      "জারণ",
+      "নিরপেক্ষ",
+      "বিজারণ"
     ],
     "image": null,
     "optionImages": null,
@@ -18,12 +18,12 @@
     "id": "ssc-chemistry-chapter-07-model-test-01-q02",
     "subject": "chemistry",
     "chapter": "ssc-chemistry-chapter-07-model-test-01",
-    "text": "KMnO₄ যৌগে Mn এর জারণ সংখ্যা কত? সুতরাং, (+১) + x + ৪ × (-২) = ০ ১ + x - ৮ = ০ x - ৭ = ০ → x = +৭।",
+    "text": "তামার পাতা সবুজ হওয়া?",
     "options": [
-      "0",
-      "+1",
-      "+3",
-      "+7"
+      "অম্ল-ক্ষার",
+      "ব্যাপন",
+      "জারণ-বিজারণ",
+      "প্রশম"
     ],
     "image": null,
     "optionImages": null,
@@ -33,12 +33,12 @@
     "id": "ssc-chemistry-chapter-07-model-test-01-q03",
     "subject": "chemistry",
     "chapter": "ssc-chemistry-chapter-07-model-test-01",
-    "text": "Sn⁴⁺ + Fe²⁺ → Sn²⁺ + Fe³⁺ বিক্রিয়াটিতে কোনটির বিজারণ ঘটেছে?",
+    "text": "দৈনন্দিন জীবনে রেডক্স উদাহরণ?",
     "options": [
-      "Fe²⁺",
-      "Fe³⁺",
-      "Sn²⁺",
-      "Sn⁴⁺"
+      "বরফ গলা",
+      "লবণ দ্রবীভূত",
+      "বাষ্পীভবন",
+      "মরিচা পড়া"
     ],
     "image": null,
     "optionImages": null,
@@ -48,12 +48,12 @@
     "id": "ssc-chemistry-chapter-07-model-test-01-q04",
     "subject": "chemistry",
     "chapter": "ssc-chemistry-chapter-07-model-test-01",
-    "text": "HClO₄ এ Cl এর জারণ সংখ্যা কত?",
+    "text": "ক্যাথোডে কী ঘটে?",
     "options": [
-      "+১",
-      "+৩",
-      "+৫",
-      "+৭"
+      "জারণ",
+      "নিরপেক্ষ",
+      "বিজারণ",
+      "ক্ষার"
     ],
     "image": null,
     "optionImages": null,
@@ -63,12 +63,12 @@
     "id": "ssc-chemistry-chapter-07-model-test-01-q05",
     "subject": "chemistry",
     "chapter": "ssc-chemistry-chapter-07-model-test-01",
-    "text": "NaOH এবং H₂SO₄ এর বিক্রিয়ায়- i. জারণ-বিজারণ ঘটে না ii. প্রশমন তাপের মান প্রায় -৫৭.৩৪ kJ iii. উৎপন্ন দ্রবণের pH এর মান ৭ অপেক্ষা কম নিচের কোনটি সঠিক?",
+    "text": "2Mg + O₂ → 2MgO — Mg?",
     "options": [
-      "i ও ii",
-      "i ও iii",
-      "ii ও iii",
-      "i, ii ও iii"
+      "জারণ",
+      "নিরপেক্ষ",
+      "বিজারণ",
+      "বাষ্পীভবন"
     ],
     "image": null,
     "optionImages": null,
@@ -78,159 +78,9 @@
     "id": "ssc-chemistry-chapter-07-model-test-01-q06",
     "subject": "chemistry",
     "chapter": "ssc-chemistry-chapter-07-model-test-01",
-    "text": "লঘু সালফিউরিক এসিডের- i. জারণ ধর্ম নেই ii. Cu এর সাথে বিক্রিয়া করে iii. নিরুদন ধর্ম নেই নিচের কোনটি সঠিক?",
+    "text": "জারক কী করে?",
     "options": [
-      "i ও ii",
-      "i ও iii",
-      "ii ও iii",
-      "i, ii ও iii"
-    ],
-    "image": null,
-    "optionImages": null,
-    "timeLimit": 45
-  },
-  {
-    "id": "ssc-chemistry-chapter-07-model-test-01-q07",
-    "subject": "chemistry",
-    "chapter": "ssc-chemistry-chapter-07-model-test-01",
-    "text": "K₂Cr₂O₇ এ ক্রোমিয়ামের জারণসংখ্যা কত?",
-    "options": [
-      "+৬",
-      "+৩",
-      "+৫",
-      "+২"
-    ],
-    "image": null,
-    "optionImages": null,
-    "timeLimit": 45
-  },
-  {
-    "id": "ssc-chemistry-chapter-07-model-test-01-q08",
-    "subject": "chemistry",
-    "chapter": "ssc-chemistry-chapter-07-model-test-01",
-    "text": "2NO(g) + O₂(g) ⇌ 2NO₂(g); বিক্রিয়াটির ক্ষেত্রে- i. জারণ-বিজারণ ঘটে ii. সাম্যাবস্থার উপর চাপের প্রভাব নাই iii. বিক্রিয়কের ঘনমাত্রা বৃদ্ধি করলে সাম্যাবস্থা ডানদিকে সরে যাবে নিচের কোনটি সঠিক?",
-    "options": [
-      "i ও ii",
-      "i ও iii",
-      "ii ও iii",
-      "i, ii ও iii"
-    ],
-    "image": null,
-    "optionImages": null,
-    "timeLimit": 45
-  },
-  {
-    "id": "ssc-chemistry-chapter-07-model-test-01-q09",
-    "subject": "chemistry",
-    "chapter": "ssc-chemistry-chapter-07-model-test-01",
-    "text": "উদ্দীপকের 'A' পাত্রের Na₂CO₃ দ্রবণ এবং 'B' পাত্রের এসিড দ্রবণকে একত্রে মিশ্রিত করলে- i. প্রশমন বিক্রিয়া হয় ii. জারণ-বিজারণ সম্পন্ন হয় iii. CO₂ গ্যাস উৎপন্ন হয় নিচের কোনটি সঠিক?",
-    "options": [
-      "i ও ii",
-      "i ও iii",
-      "ii ও iii",
-      "i, ii ও iii"
-    ],
-    "image": "/images/quiz/premium/ssc-chemistry-chapter-07-model-test-01-q09.svg",
-    "optionImages": null,
-    "timeLimit": 45
-  },
-  {
-    "id": "ssc-chemistry-chapter-07-model-test-01-q10",
-    "subject": "chemistry",
-    "chapter": "ssc-chemistry-chapter-07-model-test-01",
-    "text": "উল্লেখিত ২Ca + O₂ → ২CaO বিক্রিয়াটি কী ধরনের বিক্রিয়া? i. সংযোজন বিক্রিয়া ii. জারণ-বিজারণ বিক্রিয়া iii. দহন বিক্রিয়া নিচের কোনটি সঠিক?",
-    "options": [
-      "i ও ii",
-      "ii ও iii",
-      "i ও iii",
-      "i, ii ও iii"
-    ],
-    "image": null,
-    "optionImages": null,
-    "timeLimit": 45
-  },
-  {
-    "id": "ssc-chemistry-chapter-07-model-test-01-q11",
-    "subject": "chemistry",
-    "chapter": "ssc-chemistry-chapter-07-model-test-01",
-    "text": "Na₂S₂O₃ যৌগে সালফারের জারণ সংখ্যা কত?",
-    "options": [
-      "+৪",
-      "+৩",
-      "+২",
-      "+১"
-    ],
-    "image": null,
-    "optionImages": null,
-    "timeLimit": 45
-  },
-  {
-    "id": "ssc-chemistry-chapter-07-model-test-01-q12",
-    "subject": "chemistry",
-    "chapter": "ssc-chemistry-chapter-07-model-test-01",
-    "text": "FeCl₃(aq) + NaOH(aq) → X + লবণ (aq) উপরের বিক্রিয়াটিতে- i. জারণ-বিজারণ ঘটে ii. অধঃক্ষেপণ ঘটে iii. উৎপন্ন লবণটি CCl₄-এ অদ্রবণীয় নিচের কোনটি সঠিক?",
-    "options": [
-      "i ও ii",
-      "i ও iii",
-      "ii ও iii",
-      "i, ii ও iii"
-    ],
-    "image": null,
-    "optionImages": null,
-    "timeLimit": 45
-  },
-  {
-    "id": "ssc-chemistry-chapter-07-model-test-01-q13",
-    "subject": "chemistry",
-    "chapter": "ssc-chemistry-chapter-07-model-test-01",
-    "text": "নিচের কোনটি সংযোজন ও রেডক্স (জারণ-বিজারণ) উভয় বিক্রিয়াই প্রকাশ করে?",
-    "options": [
-      "2H₂ + O₂ → 2H₂O",
-      "HCl + NaOH → NaCl + H₂O",
-      "CaCO₃ → CaO + CO₂",
-      "NaCl + AgNO₃ → AgCl + NaNO₃"
-    ],
-    "image": null,
-    "optionImages": null,
-    "timeLimit": 45
-  },
-  {
-    "id": "ssc-chemistry-chapter-07-model-test-01-q14",
-    "subject": "chemistry",
-    "chapter": "ssc-chemistry-chapter-07-model-test-01",
-    "text": "Zn + CuSO₄ → ZnSO₄ + Cu — Zn? [14]",
-    "options": [
-      "জারক",
-      "উৎপ্রেরক",
-      "বিজারক",
-      "অম্ল"
-    ],
-    "image": null,
-    "optionImages": null,
-    "timeLimit": 45
-  },
-  {
-    "id": "ssc-chemistry-chapter-07-model-test-01-q15",
-    "subject": "chemistry",
-    "chapter": "ssc-chemistry-chapter-07-model-test-01",
-    "text": "লোহায় মরিচা পড়া কোন বিক্রিয়া? [15]",
-    "options": [
-      "প্রশম",
-      "অম্ল-ক্ষার",
-      "ব্যাপন",
-      "জারণ-বিজারণ"
-    ],
-    "image": null,
-    "optionImages": null,
-    "timeLimit": 45
-  },
-  {
-    "id": "ssc-chemistry-chapter-07-model-test-01-q16",
-    "subject": "chemistry",
-    "chapter": "ssc-chemistry-chapter-07-model-test-01",
-    "text": "জারণে কী ঘটে? [16]",
-    "options": [
-      "নিউট্রন গ্রহণ",
+      "তাপ শোষণ",
       "ইলেকট্রন গ্রহণ",
       "ইলেকট্রন ত্যাগ",
       "প্রোটন ত্যাগ"
@@ -240,15 +90,165 @@
     "timeLimit": 45
   },
   {
+    "id": "ssc-chemistry-chapter-07-model-test-01-q07",
+    "subject": "chemistry",
+    "chapter": "ssc-chemistry-chapter-07-model-test-01",
+    "text": "Fe²⁺ → Fe³⁺ + 3e⁻ — Fe-এর কী?",
+    "options": [
+      "অম্ল",
+      "জারণ",
+      "বিজারণ",
+      "নিরপেক্ষ"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-chemistry-chapter-07-model-test-01-q08",
+    "subject": "chemistry",
+    "chapter": "ssc-chemistry-chapter-07-model-test-01",
+    "text": "Fe³⁺ কে Fe²⁺-এ রূপান্তর করলে?",
+    "options": [
+      "বিজারণ",
+      "নিরপেক্ষ",
+      "অম্ল",
+      "জারণ"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-chemistry-chapter-07-model-test-01-q09",
+    "subject": "chemistry",
+    "chapter": "ssc-chemistry-chapter-07-model-test-01",
+    "text": "Cl₂ + 2e⁻ → 2Cl⁻ — Cl₂?",
+    "options": [
+      "জারণ",
+      "ক্ষার",
+      "নিরপেক্ষ",
+      "বিজারণ"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-chemistry-chapter-07-model-test-01-q10",
+    "subject": "chemistry",
+    "chapter": "ssc-chemistry-chapter-07-model-test-01",
+    "text": "জারণ সংখ্যা বৃদ্ধি মানে?",
+    "options": [
+      "অম্ল",
+      "বিজারণ",
+      "নিরপেক্ষ",
+      "জারণ"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-chemistry-chapter-07-model-test-01-q11",
+    "subject": "chemistry",
+    "chapter": "ssc-chemistry-chapter-07-model-test-01",
+    "text": "Fe + 2HCl → FeCl₂ + H₂ — HCl?",
+    "options": [
+      "জারক",
+      "বিজারক",
+      "নিরপেক্ষ",
+      "ক্ষার"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-chemistry-chapter-07-model-test-01-q12",
+    "subject": "chemistry",
+    "chapter": "ssc-chemistry-chapter-07-model-test-01",
+    "text": "H₂S-এ S-এর জারণ অবস্থা?",
+    "options": [
+      "+2",
+      "+4",
+      "-2",
+      "0"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-chemistry-chapter-07-model-test-01-q13",
+    "subject": "chemistry",
+    "chapter": "ssc-chemistry-chapter-07-model-test-01",
+    "text": "রেডক্স বিক্রিয়ায় ইলেকট্রন?",
+    "options": [
+      "পরিবর্তন হয় না",
+      "শুধু ত্যাগ",
+      "এক পদার্থ ত্যাগ করে অন্য গ্রহণ করে",
+      "শুধু গ্রহণ"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-chemistry-chapter-07-model-test-01-q14",
+    "subject": "chemistry",
+    "chapter": "ssc-chemistry-chapter-07-model-test-01",
+    "text": "বিজারক কী করে?",
+    "options": [
+      "তাপ নির্গত",
+      "প্রোটন গ্রহণ",
+      "ইলেকট্রন ত্যাগ",
+      "ইলেকট্রন গ্রহণ"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-chemistry-chapter-07-model-test-01-q15",
+    "subject": "chemistry",
+    "chapter": "ssc-chemistry-chapter-07-model-test-01",
+    "text": "Zn + CuSO₄ → ZnSO₄ + Cu — Zn?",
+    "options": [
+      "জারক",
+      "উৎপ্রেরক",
+      "অম্ল",
+      "বিজারক"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
+    "id": "ssc-chemistry-chapter-07-model-test-01-q16",
+    "subject": "chemistry",
+    "chapter": "ssc-chemistry-chapter-07-model-test-01",
+    "text": "জারণে কী ঘটে?",
+    "options": [
+      "নিউট্রন গ্রহণ",
+      "প্রোটন ত্যাগ",
+      "ইলেকট্রন গ্রহণ",
+      "ইলেকট্রন ত্যাগ"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
     "id": "ssc-chemistry-chapter-07-model-test-01-q17",
     "subject": "chemistry",
     "chapter": "ssc-chemistry-chapter-07-model-test-01",
-    "text": "বিজারণে কী ঘটে? [17]",
+    "text": "রেডক্স বিক্রিয়ার ভারসাম্যে?",
     "options": [
-      "ইলেকট্রন ত্যাগ",
-      "প্রোটন গ্রহণ",
-      "তাপ ত্যাগ",
-      "ইলেকট্রন গ্রহণ"
+      "শুধু বিজারণ",
+      "ইলেকট্রন ত্যাগ = গ্রহণ",
+      "শুধু জারণ",
+      "প্রোটন সমান"
     ],
     "image": null,
     "optionImages": null,
@@ -258,12 +258,12 @@
     "id": "ssc-chemistry-chapter-07-model-test-01-q18",
     "subject": "chemistry",
     "chapter": "ssc-chemistry-chapter-07-model-test-01",
-    "text": "Fe²⁺ → Fe³⁺ + 3e⁻ — Fe-এর কী? [18]",
+    "text": "জারণ সংখ্যা হ্রাস মানে?",
     "options": [
-      "অম্ল",
+      "বিজারণ",
       "নিরপেক্ষ",
       "জারণ",
-      "বিজারণ"
+      "ক্ষার"
     ],
     "image": null,
     "optionImages": null,
@@ -273,12 +273,12 @@
     "id": "ssc-chemistry-chapter-07-model-test-01-q19",
     "subject": "chemistry",
     "chapter": "ssc-chemistry-chapter-07-model-test-01",
-    "text": "Zn + CuSO₄ → ZnSO₄ + Cu — Zn? [19]",
+    "text": "ব্যাটারিতে রূপান্তর?",
     "options": [
-      "বিজারক",
-      "উৎপ্রেরক",
-      "জারক",
-      "অম্ল"
+      "রাসায়নিক → বিদ্যুৎ",
+      "বিদ্যুৎ → রাসায়নিক",
+      "আলো → তাপ",
+      "তাপ → আলো"
     ],
     "image": null,
     "optionImages": null,
@@ -288,12 +288,12 @@
     "id": "ssc-chemistry-chapter-07-model-test-01-q20",
     "subject": "chemistry",
     "chapter": "ssc-chemistry-chapter-07-model-test-01",
-    "text": "লোহায় মরিচা পড়া কোন বিক্রিয়া? [20]",
+    "text": "KMnO₄ সাধারণত?",
     "options": [
-      "জারণ-বিজারণ",
-      "অম্ল-ক্ষার",
-      "ব্যাপন",
-      "প্রশম"
+      "অম্ল",
+      "জারক",
+      "উৎপ্রেরক",
+      "বিজারক"
     ],
     "image": null,
     "optionImages": null,
@@ -303,12 +303,12 @@
     "id": "ssc-chemistry-chapter-07-model-test-01-q21",
     "subject": "chemistry",
     "chapter": "ssc-chemistry-chapter-07-model-test-01",
-    "text": "জারণে কী ঘটে? [21]",
+    "text": "অ্যানোডে কী ঘটে?",
     "options": [
-      "প্রোটন ত্যাগ",
-      "ইলেকট্রন ত্যাগ",
-      "ইলেকট্রন গ্রহণ",
-      "নিউট্রন গ্রহণ"
+      "জারণ",
+      "অম্ল",
+      "নিরপেক্ষ",
+      "বিজারণ"
     ],
     "image": null,
     "optionImages": null,
@@ -318,12 +318,12 @@
     "id": "ssc-chemistry-chapter-07-model-test-01-q22",
     "subject": "chemistry",
     "chapter": "ssc-chemistry-chapter-07-model-test-01",
-    "text": "বিজারণে কী ঘটে? [22]",
+    "text": "Cu²⁺ + 2e⁻ → Cu — Cu²⁺?",
     "options": [
-      "তাপ ত্যাগ",
-      "প্রোটন গ্রহণ",
-      "ইলেকট্রন ত্যাগ",
-      "ইলেকট্রন গ্রহণ"
+      "জারণ",
+      "অম্ল",
+      "নিরপেক্ষ",
+      "বিজারণ"
     ],
     "image": null,
     "optionImages": null,
@@ -333,12 +333,12 @@
     "id": "ssc-chemistry-chapter-07-model-test-01-q23",
     "subject": "chemistry",
     "chapter": "ssc-chemistry-chapter-07-model-test-01",
-    "text": "Fe²⁺ → Fe³⁺ + 3e⁻ — Fe-এর কী? [23]",
+    "text": "লোহায় মরিচা পড়া কোন বিক্রিয়া?",
     "options": [
-      "জারণ",
-      "অম্ল",
-      "বিজারণ",
-      "নিরপেক্ষ"
+      "প্রশম",
+      "অম্ল-ক্ষার",
+      "জারণ-বিজারণ",
+      "ব্যাপন"
     ],
     "image": null,
     "optionImages": null,
@@ -348,12 +348,12 @@
     "id": "ssc-chemistry-chapter-07-model-test-01-q24",
     "subject": "chemistry",
     "chapter": "ssc-chemistry-chapter-07-model-test-01",
-    "text": "Zn + CuSO₄ → ZnSO₄ + Cu — Zn? [24]",
+    "text": "বিজারণে কী ঘটে?",
     "options": [
-      "উৎপ্রেরক",
-      "অম্ল",
-      "জারক",
-      "বিজারক"
+      "প্রোটন গ্রহণ",
+      "ইলেকট্রন ত্যাগ",
+      "ইলেকট্রন গ্রহণ",
+      "তাপ ত্যাগ"
     ],
     "image": null,
     "optionImages": null,
@@ -363,12 +363,12 @@
     "id": "ssc-chemistry-chapter-07-model-test-01-q25",
     "subject": "chemistry",
     "chapter": "ssc-chemistry-chapter-07-model-test-01",
-    "text": "লোহায় মরিচা পড়া কোন বিক্রিয়া? [25]",
+    "text": "দহন বিক্রিয়া সাধারণত?",
     "options": [
-      "জারণ-বিজারণ",
-      "অম্ল-ক্ষার",
+      "প্রশম",
       "ব্যাপন",
-      "প্রশম"
+      "জারণ-বিজারণ",
+      "অম্ল-ক্ষার"
     ],
     "image": null,
     "optionImages": null,

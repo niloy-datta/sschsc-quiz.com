@@ -3,12 +3,12 @@
     "id": "ssc-chemistry-chapter-08-model-test-03-q01",
     "subject": "chemistry",
     "chapter": "ssc-chemistry-chapter-08-model-test-03",
-    "text": "তাপ নির্গত করে বিক্রিয়া?",
+    "text": "বাষ্পীভবন কোন প্রক্রিয়া?",
     "options": [
-      "গলন",
       "তাপমুখ",
       "তাপগ্রাহী",
-      "ব্যাপন"
+      "জারণ",
+      "বিজারণ"
     ],
     "image": null,
     "optionImages": null,
@@ -18,12 +18,12 @@
     "id": "ssc-chemistry-chapter-08-model-test-03-q02",
     "subject": "chemistry",
     "chapter": "ssc-chemistry-chapter-08-model-test-03",
-    "text": "ΔH < 0 হলে?",
+    "text": "Q = mcΔT সূত্রে Q কী?",
     "options": [
-      "জারণ",
-      "অম্ল",
-      "তাপগ্রাহী",
-      "তাপমুখ"
+      "তাপ",
+      "ভর",
+      "তাপ ধারণ ক্ষমতা",
+      "তাপমাত্রা"
     ],
     "image": null,
     "optionImages": null,
@@ -33,12 +33,12 @@
     "id": "ssc-chemistry-chapter-08-model-test-03-q03",
     "subject": "chemistry",
     "chapter": "ssc-chemistry-chapter-08-model-test-03",
-    "text": "জ্বলন সাধারণত?",
+    "text": "NH₄Cl জলে দ্রবীভূত হলে?",
     "options": [
       "তাপমুখ",
-      "বাষ্পীভবন",
-      "ঘনীভবন",
-      "তাপগ্রাহী"
+      "বিজারণ",
+      "তাপগ্রাহী",
+      "জারণ"
     ],
     "image": null,
     "optionImages": null,
@@ -48,12 +48,12 @@
     "id": "ssc-chemistry-chapter-08-model-test-03-q04",
     "subject": "chemistry",
     "chapter": "ssc-chemistry-chapter-08-model-test-03",
-    "text": "ক্যালরিমিটার দিয়ে পরিমাপ?",
+    "text": "তাপমুখ বিক্রিয়ায় ΔH?",
     "options": [
-      "pH",
-      "তাপ",
-      "চাপ",
-      "ঘনত্ব"
+      "অজ্ঞাত",
+      "ধনাত্মক",
+      "ঋণাত্মক",
+      "অসীম"
     ],
     "image": null,
     "optionImages": null,
@@ -63,12 +63,12 @@
     "id": "ssc-chemistry-chapter-08-model-test-03-q05",
     "subject": "chemistry",
     "chapter": "ssc-chemistry-chapter-08-model-test-03",
-    "text": "তাপ শোষণ করে বিক্রিয়া?",
+    "text": "ক্যালরিমিটার দিয়ে পরিমাপ?",
     "options": [
-      "বিজারণ",
-      "তাপগ্রাহী",
-      "জারণ",
-      "তাপমুখ"
+      "pH",
+      "ঘনত্ব",
+      "তাপ",
+      "চাপ"
     ],
     "image": null,
     "optionImages": null,
@@ -78,11 +78,11 @@
     "id": "ssc-chemistry-chapter-08-model-test-03-q06",
     "subject": "chemistry",
     "chapter": "ssc-chemistry-chapter-08-model-test-03",
-    "text": "ΔH < 0 হলে — MCQ 14 (সেট 3)?",
+    "text": "তাপ নির্গত করে বিক্রিয়া?",
     "options": [
-      "অম্ল",
       "তাপগ্রাহী",
-      "জারণ",
+      "ব্যাপন",
+      "গলন",
       "তাপমুখ"
     ],
     "image": null,
@@ -93,12 +93,12 @@
     "id": "ssc-chemistry-chapter-08-model-test-03-q07",
     "subject": "chemistry",
     "chapter": "ssc-chemistry-chapter-08-model-test-03",
-    "text": "জ্বলন সাধারণত — MCQ 21 (সেট 3)?",
+    "text": "লেইটেন্ট তাপ কী?",
     "options": [
-      "তাপমুখ",
-      "ঘনীভবন",
-      "তাপগ্রাহী",
-      "বাষ্পীভবন"
+      "ঘনত্ব",
+      "চাপ",
+      "তাপমাত্রা বৃদ্ধি",
+      "অবস্থা পরিবর্তনে তাপ"
     ],
     "image": null,
     "optionImages": null,
@@ -108,12 +108,12 @@
     "id": "ssc-chemistry-chapter-08-model-test-03-q08",
     "subject": "chemistry",
     "chapter": "ssc-chemistry-chapter-08-model-test-03",
-    "text": "ক্যালরিমিটার দিয়ে পরিমাপ — MCQ 28 (সেট 3)?",
+    "text": "বন্ধন শক্তি বেশি হলে?",
     "options": [
-      "চাপ",
-      "pH",
-      "ঘনত্ব",
-      "তাপ"
+      "গ্যাস",
+      "স্থিতিশীল",
+      "অস্থিতিশীল",
+      "তরল"
     ],
     "image": null,
     "optionImages": null,
@@ -123,11 +123,11 @@
     "id": "ssc-chemistry-chapter-08-model-test-03-q09",
     "subject": "chemistry",
     "chapter": "ssc-chemistry-chapter-08-model-test-03",
-    "text": "তাপ শোষণ করে বিক্রিয়া — MCQ 35 (সেট 3)?",
+    "text": "ঘনীভবন কোন প্রক্রিয়া?",
     "options": [
-      "তাপগ্রাহী",
-      "তাপমুখ",
       "বিজারণ",
+      "তাপমুখ",
+      "তাপগ্রাহী",
       "জারণ"
     ],
     "image": null,
@@ -138,12 +138,12 @@
     "id": "ssc-chemistry-chapter-08-model-test-03-q10",
     "subject": "chemistry",
     "chapter": "ssc-chemistry-chapter-08-model-test-03",
-    "text": "তাপ নির্গত করে বিক্রিয়া — MCQ 42 (সেট 3)?",
+    "text": "বিক্রিয়ার তাপ কী নির্দেশ করে?",
     "options": [
-      "ব্যাপন",
-      "গলন",
-      "তাপগ্রাহী",
-      "তাপমুখ"
+      "এনথালপি পরিবর্তন",
+      "আয়তন পরিবর্তন",
+      "ঘনত্ব",
+      "চাপ পরিবর্তন"
     ],
     "image": null,
     "optionImages": null,
@@ -153,12 +153,12 @@
     "id": "ssc-chemistry-chapter-08-model-test-03-q11",
     "subject": "chemistry",
     "chapter": "ssc-chemistry-chapter-08-model-test-03",
-    "text": "ΔH < 0 হলে — MCQ 49 (সেট 3)?",
+    "text": "তাপের একক SI-তে?",
     "options": [
-      "অম্ল",
-      "তাপগ্রাহী",
-      "তাপমুখ",
-      "জারণ"
+      "প্যাসকেল",
+      "জুল",
+      "ওয়াট",
+      "ক্যালরি"
     ],
     "image": null,
     "optionImages": null,
@@ -168,12 +168,12 @@
     "id": "ssc-chemistry-chapter-08-model-test-03-q12",
     "subject": "chemistry",
     "chapter": "ssc-chemistry-chapter-08-model-test-03",
-    "text": "জ্বলন সাধারণত — MCQ 56 (সেট 3)?",
+    "text": "বরফ গলায় কোন প্রক্রিয়া?",
     "options": [
-      "তাপমুখ",
       "তাপগ্রাহী",
-      "বাষ্পীভবন",
-      "ঘনীভবন"
+      "বিজারণ",
+      "জারণ",
+      "তাপমুখ"
     ],
     "image": null,
     "optionImages": null,
@@ -183,12 +183,12 @@
     "id": "ssc-chemistry-chapter-08-model-test-03-q13",
     "subject": "chemistry",
     "chapter": "ssc-chemistry-chapter-08-model-test-03",
-    "text": "ক্যালরিমিটার দিয়ে পরিমাপ — MCQ 63 (সেট 3)?",
+    "text": "এনথালপি পরিবর্তন প্রতীক?",
     "options": [
-      "pH",
-      "তাপ",
-      "ঘনত্ব",
-      "চাপ"
+      "ΔT",
+      "ΔS",
+      "ΔG",
+      "ΔH"
     ],
     "image": null,
     "optionImages": null,
@@ -198,12 +198,12 @@
     "id": "ssc-chemistry-chapter-08-model-test-03-q14",
     "subject": "chemistry",
     "chapter": "ssc-chemistry-chapter-08-model-test-03",
-    "text": "তাপ শোষণ করে বিক্রিয়া — MCQ 70 (সেট 3)?",
+    "text": "ΔH < 0 হলে?",
     "options": [
+      "তাপগ্রাহী",
       "জারণ",
       "তাপমুখ",
-      "তাপগ্রাহী",
-      "বিজারণ"
+      "অম্ল"
     ],
     "image": null,
     "optionImages": null,
@@ -213,12 +213,12 @@
     "id": "ssc-chemistry-chapter-08-model-test-03-q15",
     "subject": "chemistry",
     "chapter": "ssc-chemistry-chapter-08-model-test-03",
-    "text": "তাপ নির্গত করে বিক্রিয়া — MCQ 77 (সেট 3)?",
+    "text": "তাপমাত্রা পরিমাপ যন্ত্র?",
     "options": [
-      "গলন",
-      "তাপমুখ",
-      "ব্যাপন",
-      "তাপগ্রাহী"
+      "হাইগ্রোমিটার",
+      "ব্যারোমিটার",
+      "থার্মোমিটার",
+      "অ্যামিটার"
     ],
     "image": null,
     "optionImages": null,
@@ -228,12 +228,12 @@
     "id": "ssc-chemistry-chapter-08-model-test-03-q16",
     "subject": "chemistry",
     "chapter": "ssc-chemistry-chapter-08-model-test-03",
-    "text": "ΔH < 0 হলে — MCQ 84 (সেট 3)?",
+    "text": "তাপ পরিবহন কোথায় ঘটে?",
     "options": [
-      "তাপমুখ",
-      "জারণ",
-      "তাপগ্রাহী",
-      "অম্ল"
+      "গ্যাসে খারাপ",
+      "সব",
+      "ধাতুতে ভালো",
+      "শূন্যে নয়"
     ],
     "image": null,
     "optionImages": null,
@@ -243,12 +243,12 @@
     "id": "ssc-chemistry-chapter-08-model-test-03-q17",
     "subject": "chemistry",
     "chapter": "ssc-chemistry-chapter-08-model-test-03",
-    "text": "জ্বলন সাধারণত — MCQ 91 (সেট 3)?",
+    "text": "তাপ রসায়ন কী অধ্যয়ন করে?",
     "options": [
-      "ঘনীভবন",
-      "বাষ্পীভবন",
-      "তাপমুখ",
-      "তাপগ্রাহী"
+      "pH",
+      "তাপ পরিবর্তন",
+      "ঘনত্ব",
+      "চাপ"
     ],
     "image": null,
     "optionImages": null,
@@ -258,12 +258,12 @@
     "id": "ssc-chemistry-chapter-08-model-test-03-q18",
     "subject": "chemistry",
     "chapter": "ssc-chemistry-chapter-08-model-test-03",
-    "text": "ক্যালরিমিটার দিয়ে পরিমাপ — MCQ 98 (সেট 3)?",
+    "text": "দহন তাপ কী?",
     "options": [
-      "চাপ",
-      "তাপ",
-      "pH",
-      "ঘনত্ব"
+      "তাপমুখ",
+      "নিরপেক্ষ",
+      "জারণ",
+      "তাপগ্রাহী"
     ],
     "image": null,
     "optionImages": null,
@@ -273,12 +273,12 @@
     "id": "ssc-chemistry-chapter-08-model-test-03-q19",
     "subject": "chemistry",
     "chapter": "ssc-chemistry-chapter-08-model-test-03",
-    "text": "তাপ শোষণ করে বিক্রিয়া — MCQ 105 (সেট 3)?",
+    "text": "নির্দিষ্ট তাপ ধারণ ক্ষমতা প্রতীক?",
     "options": [
-      "তাপগ্রাহী",
-      "জারণ",
-      "বিজারণ",
-      "তাপমুখ"
+      "m",
+      "T",
+      "Q",
+      "c"
     ],
     "image": null,
     "optionImages": null,
@@ -288,12 +288,12 @@
     "id": "ssc-chemistry-chapter-08-model-test-03-q20",
     "subject": "chemistry",
     "chapter": "ssc-chemistry-chapter-08-model-test-03",
-    "text": "তাপ নির্গত করে বিক্রিয়া — MCQ 112 (সেট 3)?",
+    "text": "NaOH জলে দ্রবীভূত হলে?",
     "options": [
-      "তাপগ্রাহী",
-      "ব্যাপন",
       "তাপমুখ",
-      "গলন"
+      "নিরপেক্ষ",
+      "তাপগ্রাহী",
+      "জারণ"
     ],
     "image": null,
     "optionImages": null,
@@ -303,12 +303,12 @@
     "id": "ssc-chemistry-chapter-08-model-test-03-q21",
     "subject": "chemistry",
     "chapter": "ssc-chemistry-chapter-08-model-test-03",
-    "text": "ΔH < 0 হলে — MCQ 119 (সেট 3)?",
+    "text": "তাপগ্রাহী বিক্রিয়ায় ΔH?",
     "options": [
-      "তাপমুখ",
-      "অম্ল",
-      "জারণ",
-      "তাপগ্রাহী"
+      "ঋণাত্মক",
+      "ধনাত্মক",
+      "শূন্য",
+      "স্থির"
     ],
     "image": null,
     "optionImages": null,
@@ -318,11 +318,11 @@
     "id": "ssc-chemistry-chapter-08-model-test-03-q22",
     "subject": "chemistry",
     "chapter": "ssc-chemistry-chapter-08-model-test-03",
-    "text": "জ্বলন সাধারণত — MCQ 126 (সেট 3)?",
+    "text": "জ্বলন সাধারণত?",
     "options": [
-      "ঘনীভবন",
-      "তাপমুখ",
       "তাপগ্রাহী",
+      "তাপমুখ",
+      "ঘনীভবন",
       "বাষ্পীভবন"
     ],
     "image": null,
@@ -333,22 +333,7 @@
     "id": "ssc-chemistry-chapter-08-model-test-03-q23",
     "subject": "chemistry",
     "chapter": "ssc-chemistry-chapter-08-model-test-03",
-    "text": "ক্যালরিমিটার দিয়ে পরিমাপ — MCQ 133 (সেট 3)?",
-    "options": [
-      "pH",
-      "চাপ",
-      "ঘনত্ব",
-      "তাপ"
-    ],
-    "image": null,
-    "optionImages": null,
-    "timeLimit": 45
-  },
-  {
-    "id": "ssc-chemistry-chapter-08-model-test-03-q24",
-    "subject": "chemistry",
-    "chapter": "ssc-chemistry-chapter-08-model-test-03",
-    "text": "তাপ শোষণ করে বিক্রিয়া — MCQ 140 (সেট 3)?",
+    "text": "তাপ শোষণ করে বিক্রিয়া?",
     "options": [
       "তাপগ্রাহী",
       "তাপমুখ",
@@ -360,15 +345,30 @@
     "timeLimit": 45
   },
   {
+    "id": "ssc-chemistry-chapter-08-model-test-03-q24",
+    "subject": "chemistry",
+    "chapter": "ssc-chemistry-chapter-08-model-test-03",
+    "text": "তাপমাত্রা বাড়লে অনেক বিক্রিয়ার হার?",
+    "options": [
+      "শূন্য",
+      "স্থির",
+      "বাড়ে",
+      "কমে"
+    ],
+    "image": null,
+    "optionImages": null,
+    "timeLimit": 45
+  },
+  {
     "id": "ssc-chemistry-chapter-08-model-test-03-q25",
     "subject": "chemistry",
     "chapter": "ssc-chemistry-chapter-08-model-test-03",
-    "text": "তাপ নির্গত করে বিক্রিয়া — MCQ 147 (সেট 3)?",
+    "text": "স্ট্যান্ডার্ড অবস্থায় ΔH° প্রতীকে ° মানে?",
     "options": [
-      "ব্যাপন",
-      "গলন",
-      "তাপগ্রাহী",
-      "তাপমুখ"
+      "অসীম",
+      "শূন্য",
+      "স্থির",
+      "স্ট্যান্ডার্ড"
     ],
     "image": null,
     "optionImages": null,

@@ -34,6 +34,9 @@ const Q_PER_SET = 25;
 /** Never auto-replace these if quality passes. */
 const PROTECT_CHAPTERS = new Set(["01", "02", "05", "06", "10"]);
 
+/** User-removed / not ready — do not auto-rebuild. */
+const SKIP_CHAPTERS = new Set(["11", "12"]);
+
 const CHAPTER_NAMES = {
   "01": "রসায়নের ধারণা",
   "02": "পদার্থের অবস্থা",
@@ -196,6 +199,11 @@ function rebuildChapters() {
     const chs = pad2(ch);
     const chapterName = CHAPTER_NAMES[chs];
     const good = countGoodSets(ch);
+
+    if (SKIP_CHAPTERS.has(chs)) {
+      console.log(`SKIP ch${chs} ${chapterName} (disabled)`);
+      continue;
+    }
 
     if (PROTECT_CHAPTERS.has(chs) && good >= TARGET_SETS) {
       console.log(`KEEP ch${chs} ${chapterName} (${good} good sets)`);
